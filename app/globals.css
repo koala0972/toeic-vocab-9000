@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-hl: #fde047;
+}
+
+html, body {
+  scroll-behavior: smooth;
+}
+
+/* 反白單字的視覺樣式 */
+.word-token {
+  cursor: pointer;
+  padding: 1px 2px;
+  border-radius: 3px;
+  transition: background-color 120ms;
+}
+.word-token:hover {
+  background-color: #f3f4f6;
+}
+.word-token.highlighted {
+  background-color: var(--color-hl);
+}
+.word-token.selected {
+  outline: 2px solid #f97316;
+  outline-offset: 1px;
+}
+
+/* 鍵盤快捷鍵時隱藏 outline ring 太顯眼時 */
+button:focus {
+  outline: none;
+}

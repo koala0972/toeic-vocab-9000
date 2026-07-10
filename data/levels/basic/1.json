@@ -1,0 +1,314 @@
+{
+  "level": 1,
+  "tier": "basic",
+  "cefr": "A1",
+  "words": [
+    {
+      "id": "A1-001-001",
+      "level": 1,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "hello",
+      "phonetic": "həˈloʊ",
+      "pos": ["interjection"],
+      "conjugations": {},
+      "domain": "daily_greeting",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "哈囉",
+          "definition": "常用打招呼的招呼語, 表示「你好」"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Hello! My name is Lin.",
+          "highlight": ["Hello"],
+          "translations": { "zh-TW": "哈囉,我叫 Lin。" }
+        },
+        {
+          "en": "Hello, how are you today?",
+          "highlight": ["Hello", "today"],
+          "translations": { "zh-TW": "哈囉,你今天好嗎?" }
+        }
+      ],
+      "synonyms": ["hi", "hey"],
+      "antonyms": ["goodbye"],
+      "phrases": []
+    },
+    {
+      "id": "A1-001-002",
+      "level": 1,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "goodbye",
+      "phonetic": "ɡʊdˈbaɪ",
+      "pos": ["interjection", "noun"],
+      "conjugations": {},
+      "domain": "daily_greeting",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "再見",
+          "definition": "分別時的招呼語"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Say goodbye to your friends before you leave.",
+          "highlight": ["goodbye"],
+          "translations": { "zh-TW": "離開前跟朋友說再見。" }
+        }
+      ],
+      "synonyms": ["bye", "farewell"],
+      "antonyms": ["hello"],
+      "phrases": ["say goodbye"]
+    },
+    {
+      "id": "A1-001-003",
+      "level": 1,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "yes",
+      "phonetic": "jɛs",
+      "pos": ["adverb", "interjection"],
+      "conjugations": {},
+      "domain": "basic_response",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "是",
+          "definition": "肯定回答, 表示同意"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Yes, I will come with you.",
+          "highlight": ["Yes"],
+          "translations": { "zh-TW": "好,我會跟你一起去。" }
+        }
+      ],
+      "synonyms": ["yeah", "sure"],
+      "antonyms": ["no"],
+      "phrases": []
+    },
+    {
+      "id": "A1-001-004",
+      "level": 1,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "no",
+      "phonetic": "noʊ",
+      "pos": ["adverb", "interjection"],
+      "conjugations": {},
+      "domain": "basic_response",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "不",
+          "definition": "否定回答, 表示拒絕或不同意"
+        }
+      ],
+      "examples": [
+        {
+          "en": "No, I don't want coffee.",
+          "highlight": ["No", "don't"],
+          "translations": { "zh-TW": "不,我不要咖啡。" }
+        }
+      ],
+      "synonyms": ["nope"],
+      "antonyms": ["yes"],
+      "phrases": []
+    },
+    {
+      "id": "A1-001-005",
+      "level": 1,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "thank",
+      "phonetic": "θæŋk",
+      "pos": ["verb"],
+      "conjugations": {
+        "past_tense": "thanked",
+        "present_participle": "thanking",
+        "third_person": "thanks"
+      },
+      "domain": "daily_gratitude",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "感謝",
+          "definition": "對別人的好意或幫助表達謝意"
+        }
+      ],
+      "examples": [
+        {
+          "en": "I thank you for your help.",
+          "highlight": ["thank"],
+          "translations": { "zh-TW": "我感謝你的幫忙。" }
+        }
+      ],
+      "synonyms": ["appreciate"],
+      "antonyms": [],
+      "phrases": ["thank you"]
+    },
+    {
+      "id": "A1-001-006",
+      "level": 1,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "please",
+      "phonetic": "pliz",
+      "pos": ["adverb"],
+      "conjugations": {},
+      "domain": "basic_polite",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "請",
+          "definition": "用於請求, 表示禮貌"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Could you help me, please?",
+          "highlight": ["please"],
+          "translations": { "zh-TW": "請問你可以幫我嗎?" }
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "phrases": []
+    },
+    {
+      "id": "A1-001-007",
+      "level": 1,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "sorry",
+      "phonetic": "ˈsɔri",
+      "pos": ["adjective", "interjection"],
+      "conjugations": {},
+      "domain": "basic_polite",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "抱歉",
+          "definition": "對過失或冒犯表示歉意"
+        }
+      ],
+      "examples": [
+        {
+          "en": "I'm sorry I'm late.",
+          "highlight": ["sorry", "late"],
+          "translations": { "zh-TW": "抱歉我遲到了。" }
+        }
+      ],
+      "synonyms": ["apologize"],
+      "antonyms": [],
+      "phrases": ["be sorry"]
+    },
+    {
+      "id": "A1-001-008",
+      "level": 1,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "excuse",
+      "phonetic": "ɪkˈskjuz",
+      "pos": ["verb", "noun"],
+      "conjugations": {
+        "past_tense": "excused",
+        "present_participle": "excusing",
+        "third_person": "excuses",
+        "plural": "excuses"
+      },
+      "domain": "basic_polite",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "原諒 / 藉口",
+          "definition": "(動)原諒; (名)理由、解釋"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Excuse me, where is the station?",
+          "highlight": ["Excuse"],
+          "translations": { "zh-TW": "不好意思,車站在哪裡?" }
+        }
+      ],
+      "synonyms": ["forgive", "pardon"],
+      "antonyms": [],
+      "phrases": ["excuse me"]
+    },
+    {
+      "id": "A1-001-009",
+      "level": 1,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "good",
+      "phonetic": "ɡʊd",
+      "pos": ["adjective", "noun"],
+      "conjugations": {
+        "comparative": "better",
+        "superlative": "best"
+      },
+      "domain": "basic_adjective",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "好的",
+          "definition": "品質或狀態良好, 令人滿意"
+        }
+      ],
+      "examples": [
+        {
+          "en": "She is a good student.",
+          "highlight": ["good"],
+          "translations": { "zh-TW": "她是個好學生。" }
+        }
+      ],
+      "synonyms": ["fine", "nice"],
+      "antonyms": ["bad", "poor"],
+      "phrases": []
+    },
+    {
+      "id": "A1-001-010",
+      "level": 1,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "morning",
+      "phonetic": "ˈmɔrnɪŋ",
+      "pos": ["noun"],
+      "conjugations": { "plural": "mornings" },
+      "domain": "daily_greeting",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "早晨",
+          "definition": "從日出到中午的時段"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Good morning, everyone!",
+          "highlight": ["morning"],
+          "translations": { "zh-TW": "早安,大家!" }
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "phrases": ["good morning"]
+    }
+  ]
+}
