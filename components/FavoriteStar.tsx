@@ -70,7 +70,7 @@ export function FavoriteStar({ id, word, level, idx, onToggle }: Props) {
   return (
     <button
       onClick={click}
-      className="text-2xl select-none leading-none"
+      className={`text-2xl select-none leading-none ${fav ? 'text-amber-400' : 'text-slate-300'}`}
       aria-label="favorite"
       title={fav ? t(lang, 'unfavorite') : t(lang, 'favorite')}
     >

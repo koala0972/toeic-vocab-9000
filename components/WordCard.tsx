@@ -46,7 +46,6 @@ export function WordCard({ entry, lang, rate, idx, onViewed, showAnswer, onToggl
         <div>
           <div className="flex items-center gap-3 flex-wrap">
             <h2 className="text-3xl font-bold tracking-tight">{entry.word}</h2>
-            <span className="text-slate-400">{entry.phonetic}</span>
             <FavoriteStar id={entry.id} word={entry.word} level={entry.level} idx={idx} onToggle={() => false} />
           </div>
           <div className="mt-1 text-xs text-slate-500 flex flex-wrap gap-x-3">

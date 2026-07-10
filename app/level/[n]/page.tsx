@@ -232,10 +232,6 @@ export default function LevelPage() {
         </button>
       </div>
 
-      {/* 主題: 學習進度存 localStorage, 之後可改 Supabase */}
-      <p className="mt-6 text-xs text-slate-400 text-center">
-        學習進度儲存於本機瀏覽器 (之後可接 Supabase 跨裝置同步)
-      </p>
     </main>
   );
 }
