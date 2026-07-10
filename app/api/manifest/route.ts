@@ -12,11 +12,11 @@ const MAX_AGE_MS = 60 * 60 * 1000; // 1 小時
 interface Manifest {
   generated_at: number;
   total_words: number;
-  entries: Array<[number, string]>;  // [level, word]  (compact)
+  entries: Array<[number, string, number]>;  // [level, word, idxInLevel]  (compact)
 }
 
 async function build(): Promise<Manifest> {
-  const entries: Array<[number, string]> = [];
+  const entries: Array<[number, string, number]> = [];
   for (const tier of ['basic', 'intermediate', 'advanced']) {
     const dir = join(DATA_ROOT, tier);
     try {
@@ -24,8 +24,8 @@ async function build(): Promise<Manifest> {
       for (const f of files) {
         const lvl = parseInt(f.replace('.json', ''), 10);
         const data = JSON.parse(await readFile(join(dir, f), 'utf-8'));
-        for (const w of data.words ?? []) {
-          entries.push([lvl, w.word]);
+        for (let i = 0; i < (data.words ?? []).length; i++) {
+          entries.push([lvl, data.words[i].word, i]);
         }
       }
     } catch (e) {

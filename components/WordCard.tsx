@@ -55,7 +55,7 @@ export function WordCard({ entry, lang, rate, onViewed, showAnswer, onToggleAnsw
           </div>
         </div>
         <div className="flex flex-col items-end gap-1">
-          <VoiceButton lang={lang} text={entry.word} rate={rate} label />
+          <VoiceButton lang={lang} text={entry.word} rate={rate} />
         </div>
       </div>
 
@@ -171,7 +171,6 @@ export function WordCard({ entry, lang, rate, onViewed, showAnswer, onToggleAnsw
                           }
                         }}
                       />
-                      <VoiceButton lang={lang} text={trText} rate={rate} langForTTS={lang} className="ml-2" />
                     </div>
                   )}
                 </div>

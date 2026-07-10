@@ -2,7 +2,7 @@
 
 import { useEffect, useState, useCallback } from 'react';
 import Link from 'next/link';
-import { useParams } from 'next/navigation';
+import { useParams, useSearchParams } from 'next/navigation';
 import { WordCard } from '@/components/WordCard';
 import { VoiceButton } from '@/components/VoiceButton';
 import type { VocabularyEntry } from '@/lib/types';
@@ -18,10 +18,12 @@ interface LevelData {
 
 export default function LevelPage() {
   const params = useParams<{ n: string }>();
+  const searchParams = useSearchParams();
   const n = parseInt(params.n, 10);
+  const initialIdx = parseInt(searchParams.get('idx') ?? '0', 10);
   const [data, setData] = useState<LevelData | null>(null);
   const [error, setError] = useState<string>('');
-  const [idx, setIdx] = useState(0);
+  const [idx, setIdx] = useState(initialIdx || 0);
   const [lang, setLang] = useState<LevelPageLang>('zh-TW');
   const [rate, setRate] = useState<number>(1.0);
   const [showAnswer, setShowAnswer] = useState(true);
@@ -29,7 +31,10 @@ export default function LevelPage() {
   // 載入關卡資料
   useEffect(() => {
     if (!n || isNaN(n)) return;
-    setData(null); setError(''); setIdx(0);
+    setData(null); setError('');
+    // 保留 URL 帶來的 idx, 但 data 載入後才生效
+    const urlIdx = parseInt(searchParams.get('idx') ?? '0', 10);
+    setIdx(isNaN(urlIdx) ? 0 : urlIdx);
     fetch(`/api/levels/${n}`)
       .then(r => r.json().then(j => ({ ok: r.ok, j })))
       .then(({ ok, j }) => {
@@ -125,7 +130,7 @@ export default function LevelPage() {
         <Link href="/" className="text-blue-600 hover:underline">← 首頁</Link>
         <div className="flex gap-3 items-center">
           <span className="text-slate-500">語速</span>
-          {[0.7, 1.0, 1.3].map(r => (
+          {[0.5, 0.7, 1.0].map(r => (
             <button
               key={r}
               onClick={() => setRatePersist(r)}
@@ -135,15 +140,12 @@ export default function LevelPage() {
             </button>
           ))}
           <span className="ml-3 text-slate-500">語言</span>
-          {(['zh-TW','ja','ko'] as LevelPageLang[]).map(l => (
-            <button
-              key={l}
-              onClick={() => setLangPersist(l)}
-              className={`px-2 py-0.5 rounded border text-xs ${lang === l ? 'bg-blue-600 text-white border-blue-600' : 'bg-white border-slate-300'}`}
-            >
-              {l === 'zh-TW' ? '繁中' : l === 'ja' ? '日' : '韓'}
-            </button>
-          ))}
+          <button
+            onClick={() => setLangPersist('zh-TW')}
+            className={`px-2 py-0.5 rounded border text-xs flex items-center gap-1 ${lang === 'zh-TW' ? 'bg-blue-600 text-white border-blue-600' : 'bg-white border-slate-300'}`}
+          >
+            🇹🇼 繁中
+          </button>
         </div>
       </div>
 
@@ -174,7 +176,7 @@ export default function LevelPage() {
       {/* 整個關卡字的快速導覽 (十個字全部列出) */}
       <section className="mt-6">
         <h3 className="text-sm font-semibold text-slate-600 mb-2">本關全部單字</h3>
-        <div className="grid grid-cols-5 sm:grid-cols-10 gap-2">
+        <div className="grid grid-cols-5 gap-2">
           {data.words.map((w, i) => (
             <button
               key={w.id}

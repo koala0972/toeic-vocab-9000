@@ -5,9 +5,7 @@ import Link from 'next/link';
 import { useEffect, useState } from 'react';
 
 const SUPPORTED_LANGS = [
-  { code: 'zh-TW', label: '繁體中文' },
-  { code: 'ja',    label: '日本語' },
-  { code: 'ko',    label: '한국어' },
+  { code: 'zh-TW', label: '🇹🇼 繁體中文' },
 ];
 
 export default function Home() {

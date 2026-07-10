@@ -8,6 +8,7 @@ import type { LangCode } from '@/lib/lang';
 
 interface SearchableEntry extends VocabularyEntry {
   _level: number;
+  _idx: number;
 }
 
 const SUPPORTED_LANGS: LangCode[] = ['zh-TW', 'ja', 'ko'];
@@ -25,9 +26,9 @@ export default function SearchPage() {
     fetch('/api/manifest')
       .then(r => r.json())
       .then((j) => {
-        const all = j.entries as Array<[number, string]>;  // [level, word]
-        setEntries(all.map(([lvl, w]) => ({
-          id: `${lvl}-${w}`, _level: lvl, level: lvl,
+        const all = j.entries as Array<[number, string, number]>;  // [level, word, idxInLevel]
+        setEntries(all.map(([lvl, w, idx]) => ({
+          id: `${lvl}-${w}`, _level: lvl, _idx: idx, level: lvl,
           // 之後可改用 /api/levels/[n]/[i] 拿 detail
           word: w, phonetic: '', pos: [], conjugations: {}, translations: [],
           examples: [], synonyms: [], antonyms: [], phrases: [],
@@ -102,7 +103,7 @@ export default function SearchPage() {
                 <div className="flex gap-2">
                   <VoiceButton lang={lang} text={e.word} rate={1.0} langForTTS="en" />
                   <Link
-                    href={`/level/${e._level}`}
+                    href={`/level/${e._level}?idx=${e._idx}`}
                     className="text-sm px-3 py-1 rounded bg-slate-100 hover:bg-slate-200"
                   >
                     去關卡
