@@ -16,12 +16,13 @@ interface Props {
   entry: VocabularyEntry;
   lang: Exclude<LangCode, 'en'>;
   rate: number;
+  idx: number;
   onViewed?: () => void;
   showAnswer: boolean;
   onToggleAnswer: () => void;
 }
 
-export function WordCard({ entry, lang, rate, onViewed, showAnswer, onToggleAnswer }: Props) {
+export function WordCard({ entry, lang, rate, idx, onViewed, showAnswer, onToggleAnswer }: Props) {
   const tr = entry.translations.find(t => t.lang === lang)
           ?? entry.translations.find(t => t.lang === 'zh-TW')!;
   const langWordList = useMemo(() => [tr.lang_word], [tr.lang_word]);
@@ -46,7 +47,7 @@ export function WordCard({ entry, lang, rate, onViewed, showAnswer, onToggleAnsw
           <div className="flex items-center gap-3 flex-wrap">
             <h2 className="text-3xl font-bold tracking-tight">{entry.word}</h2>
             <span className="text-slate-400">{entry.phonetic}</span>
-            <FavoriteStar ids={[entry.id]} onToggle={() => false} />
+            <FavoriteStar id={entry.id} word={entry.word} level={entry.level} idx={idx} onToggle={() => false} />
           </div>
           <div className="mt-1 text-xs text-slate-500 flex flex-wrap gap-x-3">
             <span>CEFR {entry.cefr}</span>

@@ -3,43 +3,68 @@
 import { useEffect, useState } from 'react';
 import { t, type LangCode } from '@/lib/i18n';
 
-interface Props {
-  ids: string[];                       // 完整 vocabulary id, 例 ["A1-001-001", ...]
-  onToggle: (id: string) => boolean;   // 回傳新狀態 true/false
+export interface FavoriteEntry {
+  id: string;
+  word: string;
+  level: number;
+  idx: number;
 }
 
-function readFavorites(): Set<string> {
-  if (typeof window === 'undefined') return new Set();
+interface Props {
+  id: string;
+  word: string;
+  level: number;
+  idx: number;
+  onToggle?: (id: string) => boolean;
+}
+
+function readFavorites(): FavoriteEntry[] {
+  if (typeof window === 'undefined') return [];
   try {
-    return new Set(JSON.parse(localStorage.getItem('favorites') ?? '[]'));
+    const raw = JSON.parse(localStorage.getItem('favorites') ?? '[]');
+    // Migrate: if old format (array of strings), convert to objects
+    if (raw.length > 0 && typeof raw[0] === 'string') {
+      const migrated = raw.map((id: string) => {
+        const parts = id.split('-');
+        return { id, word: id, level: parseInt(parts[1] ?? '0', 10), idx: parseInt(parts[2] ?? '0', 10) - 1 };
+      });
+      localStorage.setItem('favorites', JSON.stringify(migrated));
+      return migrated;
+    }
+    return raw;
   } catch {
-    return new Set();
+    return [];
   }
 }
 
-function writeFavorites(set: Set<string>) {
-  localStorage.setItem('favorites', JSON.stringify(Array.from(set)));
+function writeFavorites(list: FavoriteEntry[]) {
+  localStorage.setItem('favorites', JSON.stringify(list));
 }
 
-export function FavoriteStar({ ids, onToggle }: Props) {
+export function FavoriteStar({ id, word, level, idx, onToggle }: Props) {
   const [fav, setFav] = useState(false);
   const [lang, setLang] = useState<LangCode>('zh-TW');
-  const id = ids[0];
 
   useEffect(() => {
-    setFav(readFavorites().has(id));
+    setFav(readFavorites().some(e => e.id === id));
     const s = localStorage.getItem('lang') as LangCode | null;
     if (s) setLang(s);
   }, [id]);
 
   const click = () => {
-    const f = readFavorites();
+    const list = readFavorites();
+    const exists = list.some(e => e.id === id);
     let nowOn = false;
-    if (f.has(id)) { f.delete(id); nowOn = false; }
-    else           { f.add(id);    nowOn = true;  }
-    writeFavorites(f);
+    if (exists) {
+      writeFavorites(list.filter(e => e.id !== id));
+      nowOn = false;
+    } else {
+      list.push({ id, word, level, idx });
+      writeFavorites(list);
+      nowOn = true;
+    }
     setFav(nowOn);
-    onToggle(id);
+    onToggle?.(id);
   };
 
   return (
@@ -55,9 +80,9 @@ export function FavoriteStar({ ids, onToggle }: Props) {
 }
 
 export function isFavorited(id: string): boolean {
-  return readFavorites().has(id);
+  return readFavorites().some(e => e.id === id);
 }
 
-export function getAllFavorites(): string[] {
-  return Array.from(readFavorites());
+export function getAllFavorites(): FavoriteEntry[] {
+  return readFavorites();
 }

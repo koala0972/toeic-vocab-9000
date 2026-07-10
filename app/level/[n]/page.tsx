@@ -77,7 +77,19 @@ export default function LevelPage() {
   const goNext = useCallback(() => {
     if (!data) return;
     setIdx((i) => (i + 1 < data.words.length ? i + 1 : i));
+    // 到最後一題不自動跳關 (由按鈕觸發)
   }, [data]);
+
+  const goNextOrLevel = useCallback(() => {
+    if (!data) return;
+    if (idx + 1 < data.words.length) {
+      setIdx(idx + 1);
+    } else {
+      // 最後一題 → 跳下一關
+      const next = n + 1;
+      if (next <= 900) window.location.href = `/level/${next}`;
+    }
+  }, [data, idx, n]);
   const goPrev = useCallback(() => {
     setIdx((i) => Math.max(0, i - 1));
   }, []);
@@ -95,13 +107,16 @@ export default function LevelPage() {
       const tag = (e.target as HTMLElement)?.tagName;
       if (tag === 'INPUT' || tag === 'TEXTAREA') return;
       if (e.code === 'Space') { e.preventDefault(); speakCurrent(); }
-      else if (e.code === 'ArrowRight') goNext();
-      else if (e.code === 'ArrowLeft')  goPrev();
+      else if (e.code === 'ArrowRight') goNextOrLevel();
+      else if (e.code === 'ArrowLeft') {
+        if (idx > 0) setIdx(idx - 1);
+        else if (n > 1) window.location.href = `/level/${n - 1}`;
+      }
       else if (e.key.toLowerCase() === 'a') toggleAnswer();
     };
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
-  }, [speakCurrent, goNext, goPrev, toggleAnswer]);
+  }, [speakCurrent, goNextOrLevel, toggleAnswer]);
 
   useEffect(() => () => stopSpeak(), []);
 
@@ -169,6 +184,7 @@ export default function LevelPage() {
         entry={data.words[idx]}
         lang={lang}
         rate={rate}
+        idx={idx}
         showAnswer={showAnswer}
         onToggleAnswer={toggleAnswer}
       />
@@ -199,14 +215,20 @@ export default function LevelPage() {
 
       {/* 上一/下一題 */}
       <div className="flex justify-between mt-6">
-        <button onClick={goPrev} className="px-4 py-2 rounded bg-slate-200 hover:bg-slate-300 disabled:opacity-50" disabled={idx === 0}>
+        <button
+          onClick={() => {
+            if (idx > 0) setIdx(idx - 1);
+            else if (n > 1) window.location.href = `/level/${n - 1}`;
+          }}
+          className="px-4 py-2 rounded bg-slate-200 hover:bg-slate-300"
+        >
           ← 上一題
         </button>
         <button onClick={() => speakCurrent()} className="px-4 py-2 rounded bg-orange-500 text-white hover:bg-orange-600">
           🔊 再聽一次
         </button>
-        <button onClick={goNext} className="px-4 py-2 rounded bg-blue-600 text-white hover:bg-blue-700 disabled:opacity-50" disabled={idx === data.words.length - 1}>
-          下一題 →
+        <button onClick={goNextOrLevel} className="px-4 py-2 rounded bg-blue-600 text-white hover:bg-blue-700">
+          {idx + 1 < data.words.length ? '下一題 →' : '下一關 →'}
         </button>
       </div>
 
