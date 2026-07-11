@@ -37,7 +37,6 @@ export interface VocabularyEntry {
   domain: string;          // 主題分類, 例: "daily_greeting", "office_business"
 
   word: string;            // 主單字 (詞形原形)
-  phonetic: string;        // KK 音標
 
   pos: PartOfSpeech[];     // 一個單字可有多詞性
   conjugations: {          // 詞性變化整合在此 (不另開題)

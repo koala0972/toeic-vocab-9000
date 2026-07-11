@@ -11,7 +11,16 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
 const COUNT = parseInt(process.argv[2] ?? '10', 10);
 
-// 找下一批要升級的骨架關
+// 找下一批要升級的骨架關 (以內容 placeholder 文字判斷)
+function isSkeletonLevel(content) {
+  const s = JSON.stringify(content);
+  return s.includes('oxford 例句尚未翻譯')
+      || s.includes('待 LLM 翻譯')
+      || s.includes('待 LLM 補中文')
+      || s.includes('(自動產例句')
+      || s.includes('(oxford 例句');
+}
+
 function findSkeletonLevels() {
   const result = [];
   for (const tier of ['basic', 'intermediate', 'advanced']) {
@@ -21,14 +30,20 @@ function findSkeletonLevels() {
       if (!/^\d+\.json$/.test(f)) continue;
       try {
         const content = JSON.parse(readFileSync(join(dir, f), 'utf-8'));
-        if (content._skeleton === true) {
+        if (content._skeleton === true || isSkeletonLevel(content)) {
           result.push({ tier, level: parseInt(f.replace('.json', ''), 10), path: join(dir, f), data: content });
         }
       } catch {}
     }
   }
   // 按關卡順序排
-  result.sort((a, b) => a.level - b.level);
+  result.sort((a, b) => {
+    if (a.tier !== b.tier) {
+      const o = { basic: 1, intermediate: 2, advanced: 3 };
+      return o[a.tier] - o[b.tier];
+    }
+    return a.level - b.level;
+  });
   return result;
 }
 

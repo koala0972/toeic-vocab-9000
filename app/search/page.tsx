@@ -30,7 +30,7 @@ export default function SearchPage() {
         setEntries(all.map(([lvl, w, idx]) => ({
           id: `${lvl}-${w}`, _level: lvl, _idx: idx, level: lvl,
           // 之後可改用 /api/levels/[n]/[i] 拿 detail
-          word: w, phonetic: '', pos: [], conjugations: {}, translations: [],
+          word: w, pos: [], conjugations: {}, translations: [],
           examples: [], synonyms: [], antonyms: [], phrases: [],
           cefr: 'A1', toeic_score_min: 0, tier: 'basic', domain: '',
         } as any)));
