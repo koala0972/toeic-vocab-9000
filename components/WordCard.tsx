@@ -77,8 +77,39 @@ export function WordCard({ entry, lang, rate, idx, onViewed, showAnswer, onToggl
     setActiveExIdx(idx);
   };
 
+  // Schema.org DefinedTerm JSON-LD
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'DefinedTerm',
+    name: entry.word,
+    inDefinedTermSet: 'TOEIC Vocabulary 9000',
+    termCode: String(entry.id),
+    description: tr.definition,
+    inLanguage: ['en', lang],
+    educationalLevel: entry.cefr,
+    teaches: `TOEIC ${entry.toeic_score_min}+ vocabulary`,
+    subjectOf: {
+      '@type': 'DefinedTermSet',
+      name: 'TOEIC Vocabulary 9000',
+    },
+    ...(entry.examples.length > 0 ? {
+      usageExample: entry.examples.map(ex => ({
+        '@type': 'CreativeWork',
+        text: ex.en,
+        inLanguage: 'en',
+        translation: ex.translations[lang] ?? ex.translations['zh-TW'] ?? '',
+      })),
+    } : {}),
+    ...(entry.synonyms.length > 0 ? { broader: entry.synonyms.map(s => ({ '@type': 'DefinedTerm', name: s })) } : {}),
+    ...(entry.antonyms.length > 0 ? { narrower: entry.antonyms.map(a => ({ '@type': 'DefinedTerm', name: a })) } : {}),
+  };
+
   return (
     <div className="rounded-2xl border bg-white shadow-sm p-5">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       {/* 標題列 */}
       <div className="flex items-start justify-between gap-3">
         <div>
