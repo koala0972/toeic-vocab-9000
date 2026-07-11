@@ -10,50 +10,31 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "i",
-      "pos": [
-        "pronoun"
-      ],
+      "pos": ["pronoun"],
       "conjugations": {},
-      "domain": "general",
+      "domain": "personal_pronoun",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "i",
-          "definition": "pron. 我, [计] 电流, 中断, 指令, 指示符"
+          "lang_word": "我",
+          "definition": "(pron.) 第一人稱單數主格,說話者指稱自己"
         }
       ],
       "examples": [
         {
           "en": "I am going to the store.",
-          "highlight": [
-            "i"
-          ],
-          "translations": {
-            "zh-TW": "oxford 例句尚未翻譯(離線)"
-          }
+          "highlight": ["I"],
+          "translations": { "zh-TW": "我要去店裡。" }
         },
         {
-          "en": "I is used in formal writing.",
-          "highlight": [
-            "i"
-          ],
-          "translations": {
-            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
-          }
+          "en": "I have been working here for five years.",
+          "highlight": ["I"],
+          "translations": { "zh-TW": "我已經在這裡工作五年了。" }
         }
       ],
-      "synonyms": [
-        "myself"
-      ],
-      "antonyms": [
-        "you"
-      ],
-      "phrases": [
-        "I",
-        "am",
-        "I",
-        "have"
-      ]
+      "synonyms": [],
+      "antonyms": ["you"],
+      "phrases": ["if I", "I think", "I feel"]
     },
     {
       "id": "A1-002-002",
@@ -62,52 +43,31 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "you",
-      "pos": [
-        "pronoun"
-      ],
+      "pos": ["pronoun"],
       "conjugations": {},
-      "domain": "general",
+      "domain": "personal_pronoun",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "you",
-          "definition": "pron. 你, 你們"
+          "lang_word": "你、您",
+          "definition": "(pron.) 第二人稱,指稱說話對象(單複數同形)"
         }
       ],
       "examples": [
         {
-          "en": "You are very kind.",
-          "highlight": [
-            "you"
-          ],
-          "translations": {
-            "zh-TW": "oxford 例句尚未翻譯(離線)"
-          }
+          "en": "How are you doing today?",
+          "highlight": ["you"],
+          "translations": { "zh-TW": "你今天怎麼樣?" }
         },
         {
-          "en": "You is used in formal writing.",
-          "highlight": [
-            "you"
-          ],
-          "translations": {
-            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
-          }
+          "en": "You and I will attend the meeting together.",
+          "highlight": ["You", "I"],
+          "translations": { "zh-TW": "你和我會一起出席會議。" }
         }
       ],
-      "synonyms": [
-        "thou",
-        "thee"
-      ],
-      "antonyms": [
-        "I",
-        "me"
-      ],
-      "phrases": [
-        "you",
-        "are",
-        "you",
-        "have"
-      ]
+      "synonyms": [],
+      "antonyms": ["I", "me"],
+      "phrases": ["thank you", "you know", "with you"]
     },
     {
       "id": "A1-002-003",
@@ -116,50 +76,31 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "we",
-      "pos": [
-        "pronoun"
-      ],
+      "pos": ["pronoun"],
       "conjugations": {},
-      "domain": "general",
+      "domain": "personal_pronoun",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "we",
-          "definition": "pron. 我們"
+          "lang_word": "我們",
+          "definition": "(pron.) 第一人稱複數主格,包含說話者與其他人"
         }
       ],
       "examples": [
         {
-          "en": "We are going to the park.",
-          "highlight": [
-            "we"
-          ],
-          "translations": {
-            "zh-TW": "oxford 例句尚未翻譯(離線)"
-          }
+          "en": "We go to school together every morning.",
+          "highlight": ["We"],
+          "translations": { "zh-TW": "我們每天早上一起去上學。" }
         },
         {
-          "en": "We is used in formal writing.",
-          "highlight": [
-            "we"
-          ],
-          "translations": {
-            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
-          }
+          "en": "We are planning a trip to Tokyo next month.",
+          "highlight": ["We"],
+          "translations": { "zh-TW": "我們正在計劃下個月去東京旅行。" }
         }
       ],
-      "synonyms": [
-        "us"
-      ],
-      "antonyms": [
-        "they"
-      ],
-      "phrases": [
-        "we",
-        "are",
-        "we",
-        "have"
-      ]
+      "synonyms": ["us", "our team"],
+      "antonyms": ["they"],
+      "phrases": ["we both", "we all"]
     },
     {
       "id": "A1-002-004",
@@ -168,49 +109,31 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "they",
-      "pos": [
-        "pronoun"
-      ],
+      "pos": ["pronoun"],
       "conjugations": {},
-      "domain": "general",
+      "domain": "personal_pronoun",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "they",
-          "definition": "pron. 他們, 它們"
+          "lang_word": "他們、她們、它們",
+          "definition": "(pron.) 第三人稱複數,指稱談論中的人物或對象"
         }
       ],
       "examples": [
         {
-          "en": "They are coming to the party.",
-          "highlight": [
-            "they"
-          ],
-          "translations": {
-            "zh-TW": "oxford 例句尚未翻譯(離線)"
-          }
+          "en": "They live next door to my grandparents.",
+          "highlight": ["They"],
+          "translations": { "zh-TW": "他們住在我祖父母家隔壁。" }
         },
         {
-          "en": "They is used in formal writing.",
-          "highlight": [
-            "they"
-          ],
-          "translations": {
-            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
-          }
+          "en": "She and they are coming to the party tonight.",
+          "highlight": ["they"],
+          "translations": { "zh-TW": "她和他們今晚會來參加派對。" }
         }
       ],
-      "synonyms": [
-        "those",
-        "people"
-      ],
-      "antonyms": [],
-      "phrases": [
-        "they",
-        "are",
-        "they",
-        "have"
-      ]
+      "synonyms": ["them", "those people"],
+      "antonyms": ["we", "us"],
+      "phrases": ["they say", "they all"]
     },
     {
       "id": "A1-002-005",
@@ -219,34 +142,34 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "am",
-      "pos": [
-        "noun"
-      ],
+      "pos": ["verb"],
       "conjugations": {
-        "plural": "ams"
+        "past_tense": "was",
+        "past_participle": "been"
       },
-      "domain": "general",
+      "domain": "be_verb",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "am",
-          "definition": "be的单数第一人称, [计] 存取管理程序, 寻址方式, 地址标記, 变址数, 调幅, 辅助存储器"
+          "lang_word": "是",
+          "definition": "(v.) be 動詞的現在式第一人稱單數形,與 I 連用"
         }
       ],
       "examples": [
         {
-          "en": "Please hand me the am.",
-          "highlight": [
-            "am"
-          ],
-          "translations": {
-            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
-          }
+          "en": "I am a student at the university.",
+          "highlight": ["am"],
+          "translations": { "zh-TW": "我是這所大學的學生。" }
+        },
+        {
+          "en": "I am happy to be here with you.",
+          "highlight": ["am"],
+          "translations": { "zh-TW": "我很高興和你一起在這裡。" }
         }
       ],
       "synonyms": [],
       "antonyms": [],
-      "phrases": []
+      "phrases": ["I am"]
     },
     {
       "id": "A1-002-006",
@@ -255,34 +178,34 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "is",
-      "pos": [
-        "noun"
-      ],
+      "pos": ["verb"],
       "conjugations": {
-        "plural": "ises"
+        "past_tense": "was",
+        "past_participle": "been"
       },
-      "domain": "general",
+      "domain": "be_verb",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "is",
-          "definition": "be的现在式第三人称, [计] 加下标次序, 信息系统, 國际标准, 中間系统"
+          "lang_word": "是",
+          "definition": "(v.) be 動詞的現在式第三人稱單數形,與 he/she/it 和單數名詞連用"
         }
       ],
       "examples": [
         {
-          "en": "The is is on the table.",
-          "highlight": [
-            "is"
-          ],
-          "translations": {
-            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
-          }
+          "en": "She is a doctor at the local hospital.",
+          "highlight": ["is"],
+          "translations": { "zh-TW": "她是本地醫院的醫生。" }
+        },
+        {
+          "en": "This book is very interesting and easy to read.",
+          "highlight": ["is"],
+          "translations": { "zh-TW": "這本書非常有趣又好讀。" }
         }
       ],
       "synonyms": [],
       "antonyms": [],
-      "phrases": []
+      "phrases": ["it is", "there is", "that is"]
     },
     {
       "id": "A1-002-007",
@@ -291,34 +214,34 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "are",
-      "pos": [
-        "noun"
-      ],
+      "pos": ["verb"],
       "conjugations": {
-        "plural": "ares"
+        "past_tense": "were",
+        "past_participle": "been"
       },
-      "domain": "general",
+      "domain": "be_verb",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "are",
-          "definition": "be的现在時复数或第二人称单数"
+          "lang_word": "是",
+          "definition": "(v.) be 動詞現在式,與 you/we/they 和複數名詞連用"
         }
       ],
       "examples": [
         {
-          "en": "This is an important are.",
-          "highlight": [
-            "are"
-          ],
-          "translations": {
-            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
-          }
+          "en": "You are my best friend since childhood.",
+          "highlight": ["are"],
+          "translations": { "zh-TW": "你是我從小到大的好朋友。" }
+        },
+        {
+          "en": "These apples are fresh from the orchard.",
+          "highlight": ["are"],
+          "translations": { "zh-TW": "這些蘋果是果園裡剛摘的。" }
         }
       ],
       "synonyms": [],
       "antonyms": [],
-      "phrases": []
+      "phrases": ["you are", "we are", "they are"]
     },
     {
       "id": "A1-002-008",
@@ -327,59 +250,37 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "have",
-      "pos": [
-        "verb",
-        "noun"
-      ],
+      "pos": ["verb", "noun"],
       "conjugations": {
-        "past_tense": "haveed",
-        "past_participle": "haveed",
+        "past_tense": "had",
+        "past_participle": "had",
         "present_participle": "having",
-        "third_person": "haves"
+        "third_person": "has",
+        "plural": "haves"
       },
-      "domain": "general",
+      "domain": "basic_verb",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "have",
-          "definition": "vt. 有, 怀有, 拿, 进行, aux. 已經"
+          "lang_word": "有",
+          "definition": "(v.) 擁有、持有; 經歷、從事;(n.) 富有者、有產階級"
         }
       ],
       "examples": [
         {
-          "en": "They have a beautiful house.",
-          "highlight": [
-            "have"
-          ],
-          "translations": {
-            "zh-TW": "oxford 例句尚未翻譯(離線)"
-          }
+          "en": "I have two sisters who both live abroad.",
+          "highlight": ["have"],
+          "translations": { "zh-TW": "我有兩個姊妹都在國外。" }
         },
         {
-          "en": "He haves the report to his manager.",
-          "highlight": [
-            "have"
-          ],
-          "translations": {
-            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
-          }
+          "en": "We had lunch together before the meeting started.",
+          "highlight": ["had"],
+          "translations": { "zh-TW": "會議開始前我們一起吃了午餐。" }
         }
       ],
-      "synonyms": [
-        "own",
-        "possess"
-      ],
-      "antonyms": [
-        "lack",
-        "need"
-      ],
-      "phrases": [
-        "have",
-        "a",
-        "car",
-        "have",
-        "to"
-      ]
+      "synonyms": ["own", "possess"],
+      "antonyms": ["lack"],
+      "phrases": ["have to", "have a look", "have breakfast"]
     },
     {
       "id": "A1-002-009",
@@ -388,58 +289,37 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "go",
-      "pos": [
-        "verb",
-        "noun"
-      ],
+      "pos": ["verb", "noun"],
       "conjugations": {
-        "past_tense": "goed",
-        "past_participle": "goed",
+        "past_tense": "went",
+        "past_participle": "gone",
         "present_participle": "going",
-        "third_person": "gos"
+        "third_person": "goes",
+        "plural": "goes"
       },
-      "domain": "general",
+      "domain": "basic_verb",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "go",
-          "definition": "vi. 去, 走, 达到, 運转, 查阅, 消失, 結束, 放弃, 花费, 流传, 趋于, 打算, 剩下, vt. 以...打赌, 對付, 忍受, 出产, 為被捕者出(保释金), n. 去, 尝试, 进行"
+          "lang_word": "去、走",
+          "definition": "(v.) 從一處移動到另一處;進行、進展;(n.) 嘗試、輪到"
         }
       ],
       "examples": [
         {
-          "en": "They decided to go on a trip.",
-          "highlight": [
-            "go"
-          ],
-          "translations": {
-            "zh-TW": "oxford 例句尚未翻譯(離線)"
-          }
+          "en": "I go to school by bus every morning.",
+          "highlight": ["go"],
+          "translations": { "zh-TW": "我每天早上搭公車去學校。" }
         },
         {
-          "en": "They are planning to go soon.",
-          "highlight": [
-            "go"
-          ],
-          "translations": {
-            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
-          }
+          "en": "They went abroad to study last summer.",
+          "highlight": ["went"],
+          "translations": { "zh-TW": "他們去年夏天出國留學。" }
         }
       ],
-      "synonyms": [
-        "travel",
-        "move"
-      ],
-      "antonyms": [
-        "stay",
-        "remain"
-      ],
-      "phrases": [
-        "go",
-        "away",
-        "go",
-        "home"
-      ]
+      "synonyms": ["move", "travel"],
+      "antonyms": ["come", "stay"],
+      "phrases": ["go to", "go away", "go on"]
     },
     {
       "id": "A1-002-010",
@@ -448,55 +328,36 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "like",
-      "pos": [
-        "preposition",
-        "noun"
-      ],
+      "pos": ["verb", "preposition", "noun"],
       "conjugations": {
-        "plural": "likes"
+        "past_tense": "liked",
+        "past_participle": "liked",
+        "present_participle": "liking",
+        "third_person": "likes"
       },
-      "domain": "general",
+      "domain": "basic_verb",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "like",
-          "definition": "a. 相似的, 同樣的, vt. 喜歡, 愿意, 想, vi. 喜歡, 希望, n. 爱好, 同樣的人(或物), prep. 象, 如同, adv. 可能"
+          "lang_word": "喜歡、如",
+          "definition": "(v.) 喜愛、偏好;(prep.) 類似、例如;(n.) 相似之處、偏好"
         }
       ],
       "examples": [
         {
-          "en": "He likes to play soccer.",
-          "highlight": [
-            "like"
-          ],
-          "translations": {
-            "zh-TW": "oxford 例句尚未翻譯(離線)"
-          }
+          "en": "I like coffee more than tea in the morning.",
+          "highlight": ["like"],
+          "translations": { "zh-TW": "我早上比較喜歡咖啡而非茶。" }
         },
         {
-          "en": "Please hand me the like.",
-          "highlight": [
-            "like"
-          ],
-          "translations": {
-            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
-          }
+          "en": "She looks like her mother very much.",
+          "highlight": ["like"],
+          "translations": { "zh-TW": "她長得非常像她的母親。" }
         }
       ],
-      "synonyms": [
-        "enjoy",
-        "prefer"
-      ],
-      "antonyms": [
-        "dislike",
-        "hate"
-      ],
-      "phrases": [
-        "like",
-        "doing",
-        "like",
-        "to"
-      ]
+      "synonyms": ["enjoy", "love"],
+      "antonyms": ["dislike", "hate"],
+      "phrases": ["would like", "look like", "feel like"]
     }
   ]
 }
