@@ -2,7 +2,6 @@
   "level": 6,
   "tier": "basic",
   "cefr": "A1",
-  "_skeleton": true,
   "words": [
     {
       "id": "A1-006-001",
@@ -11,34 +10,46 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "abandon",
-      "phonetic": "",
+      "phonetic": "əˈbændən",
       "pos": [
-        "noun"
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "abandoned",
+        "past_participle": "abandoned",
+        "present_participle": "abandoning",
+        "third_person": "abandons"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"abandon\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "放棄、遺棄",
+          "definition": "完全放棄或離開某人/某物"
         }
       ],
       "examples": [
         {
-          "en": "The abandon is very useful.",
+          "en": "They had to abandon the car in the snow.",
           "highlight": [
             "abandon"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "他們不得不在雪中棄車。"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "desert",
+        "leave"
+      ],
+      "antonyms": [
+        "keep",
+        "maintain"
+      ],
+      "phrases": [
+        "abandon hope"
+      ]
     },
     {
       "id": "A1-006-002",
@@ -47,34 +58,43 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "ability",
-      "phonetic": "",
+      "phonetic": "əˈbɪləti",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "abilities"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"ability\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "能力、才能",
+          "definition": "做某事的能力或技能"
         }
       ],
       "examples": [
         {
-          "en": "The ability is very useful.",
+          "en": "She has the ability to solve hard problems.",
           "highlight": [
             "ability"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "她有解決難題的能力。"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "skill",
+        "talent",
+        "capability"
+      ],
+      "antonyms": [
+        "inability"
+      ],
+      "phrases": [
+        "ability to"
+      ]
     },
     {
       "id": "A1-006-003",
@@ -83,7 +103,7 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "able",
-      "phonetic": "",
+      "phonetic": "ˈebəl",
       "pos": [
         "adjective"
       ],
@@ -92,25 +112,30 @@
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"able\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "能夠",
+          "definition": "有能力或方法去做某事"
         }
       ],
       "examples": [
         {
-          "en": "This is a very able thing.",
+          "en": "I'm able to speak three languages.",
           "highlight": [
             "able"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "我能說三種語言。"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "capable"
+      ],
+      "antonyms": [
+        "unable"
+      ],
+      "phrases": [
+        "be able to"
+      ]
     },
     {
       "id": "A1-006-004",
@@ -119,34 +144,40 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "about",
-      "phonetic": "",
+      "phonetic": "əˈbaʊt",
       "pos": [
-        "noun"
+        "preposition",
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"about\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "關於、大約",
+          "definition": "涉及某人/某事；大約(數量或時間)"
         }
       ],
       "examples": [
         {
-          "en": "The about is very useful.",
+          "en": "This book is about the ocean.",
           "highlight": [
             "about"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "這本書是關於海洋的。"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "concerning",
+        "regarding"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "about to",
+        "what about"
+      ]
     },
     {
       "id": "A1-006-005",
@@ -155,34 +186,41 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "above",
-      "phonetic": "",
+      "phonetic": "əˈbʌv",
       "pos": [
-        "noun"
+        "preposition",
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"above\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "在…上面、超過",
+          "definition": "位置較高；數量/程度超過"
         }
       ],
       "examples": [
         {
-          "en": "The above is very useful.",
+          "en": "The lamp is above the desk.",
           "highlight": [
             "above"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "燈在書桌上方。"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "over"
+      ],
+      "antonyms": [
+        "below",
+        "under"
+      ],
+      "phrases": [
+        "above all"
+      ]
     },
     {
       "id": "A1-006-006",
@@ -191,79 +229,7 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "abroad",
-      "phonetic": "",
-      "pos": [
-        "noun"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"abroad\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "The abroad is very useful.",
-          "highlight": [
-            "abroad"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A1-006-007",
-      "level": 6,
-      "tier": "basic",
-      "cefr": "A1",
-      "toeic_score_min": 200,
-      "word": "absolute",
-      "phonetic": "",
-      "pos": [
-        "noun"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"absolute\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "The absolute is very useful.",
-          "highlight": [
-            "absolute"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A1-006-008",
-      "level": 6,
-      "tier": "basic",
-      "cefr": "A1",
-      "toeic_score_min": 200,
-      "word": "absolutely",
-      "phonetic": "",
+      "phonetic": "əˈbrɔd",
       "pos": [
         "adverb"
       ],
@@ -272,34 +238,41 @@
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"absolutely\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "在國外",
+          "definition": "在或到外國"
         }
       ],
       "examples": [
         {
-          "en": "She speaks absolutely in the meeting.",
+          "en": "She went abroad to study.",
           "highlight": [
-            "absolutely"
+            "abroad"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "她出國留學。"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "overseas"
+      ],
+      "antonyms": [
+        "home",
+        "domestic"
+      ],
+      "phrases": [
+        "go abroad",
+        "live abroad"
+      ]
     },
     {
-      "id": "A1-006-009",
+      "id": "A1-006-007",
       "level": 6,
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "academic",
-      "phonetic": "",
+      "word": "absolute",
+      "phonetic": "ˈæbsəˌlut",
       "pos": [
         "adjective"
       ],
@@ -308,25 +281,117 @@
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"academic\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "絕對的、完全的",
+          "definition": "完全、不受限制"
         }
       ],
       "examples": [
         {
-          "en": "This is a very academic thing.",
+          "en": "There is no absolute truth.",
+          "highlight": [
+            "absolute"
+          ],
+          "translations": {
+            "zh-TW": "世上沒有絕對的真理。"
+          }
+        }
+      ],
+      "synonyms": [
+        "complete",
+        "total"
+      ],
+      "antonyms": [
+        "relative",
+        "partial"
+      ],
+      "phrases": [
+        "absolute zero"
+      ]
+    },
+    {
+      "id": "A1-006-008",
+      "level": 6,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "absolutely",
+      "phonetic": "ˈæbsəˌlutli",
+      "pos": [
+        "adverb"
+      ],
+      "conjugations": {},
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "絕對地、完全",
+          "definition": "用以強調完全同意或確定"
+        }
+      ],
+      "examples": [
+        {
+          "en": "I absolutely agree with you.",
+          "highlight": [
+            "absolutely"
+          ],
+          "translations": {
+            "zh-TW": "我完全同意你。"
+          }
+        }
+      ],
+      "synonyms": [
+        "completely",
+        "definitely"
+      ],
+      "antonyms": [
+        "partially"
+      ],
+      "phrases": []
+    },
+    {
+      "id": "A1-006-009",
+      "level": 6,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "academic",
+      "phonetic": "ˌækəˈdɛmɪk",
+      "pos": [
+        "adjective",
+        "noun"
+      ],
+      "conjugations": {
+        "plural": "academics"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "學術的",
+          "definition": "與學校或學術研究有關"
+        }
+      ],
+      "examples": [
+        {
+          "en": "His academic record is excellent.",
           "highlight": [
             "academic"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "他的學業成績很優秀。"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "scholarly",
+        "educational"
+      ],
+      "antonyms": [
+        "practical"
+      ],
+      "phrases": [
+        "academic year"
+      ]
     },
     {
       "id": "A1-006-010",
@@ -335,34 +400,46 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "accept",
-      "phonetic": "",
+      "phonetic": "əkˈsɛpt",
       "pos": [
-        "noun"
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "accepted",
+        "past_participle": "accepted",
+        "present_participle": "accepting",
+        "third_person": "accepts"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"accept\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "接受、答應",
+          "definition": "願意收到或同意"
         }
       ],
       "examples": [
         {
-          "en": "The accept is very useful.",
+          "en": "I accept your apology.",
           "highlight": [
             "accept"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "我接受你的道歉。"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "agree to",
+        "receive"
+      ],
+      "antonyms": [
+        "reject",
+        "refuse"
+      ],
+      "phrases": [
+        "accept an offer"
+      ]
     }
   ]
 }
