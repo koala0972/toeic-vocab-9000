@@ -2,7 +2,6 @@
   "level": 295,
   "tier": "basic",
   "cefr": "A2",
-  "_skeleton": true,
   "words": [
     {
       "id": "A2-295-001",
@@ -10,35 +9,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "worker",
+      "word": "touch",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "touched",
+        "past_participle": "touched",
+        "present_participle": "touching",
+        "third_person": "touchs"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"worker\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞/名詞)",
+          "definition": "Come into or be in contact with"
         }
       ],
       "examples": [
         {
-          "en": "The worker is very useful.",
+          "en": "He reached out to touch the flower.",
           "highlight": [
-            "worker"
+            "touch"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "feel",
+        "contact"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "touch",
+        "screen",
+        "touch",
+        "base"
+      ]
     },
     {
       "id": "A2-295-002",
@@ -46,35 +58,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "working",
+      "word": "tough",
       "phonetic": "",
       "pos": [
-        "verb"
+        "adjective",
+        "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "toughs"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"working\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Strong enough to withstand adverse conditions or rough handling"
         }
       ],
       "examples": [
         {
-          "en": "I need to working this morning.",
+          "en": "He is a tough competitor.",
           "highlight": [
-            "working"
+            "tough"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "strong",
+        "resilient"
+      ],
+      "antonyms": [
+        "weak",
+        "fragile"
+      ],
+      "phrases": [
+        "tough",
+        "job",
+        "tough",
+        "time"
+      ]
     },
     {
       "id": "A2-295-003",
@@ -82,35 +107,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "world",
+      "word": "tour",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "toured",
+        "past_participle": "toured",
+        "present_participle": "touring",
+        "third_person": "tours"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"world\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A journey for pleasure in which several different places are visited"
         }
       ],
       "examples": [
         {
-          "en": "The world is very useful.",
+          "en": "They went on a tour of the city.",
           "highlight": [
-            "world"
+            "tour"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "trip",
+        "journey"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "guided",
+        "tour",
+        "city",
+        "tour"
+      ]
     },
     {
       "id": "A2-295-004",
@@ -118,35 +156,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "worldwide",
+      "word": "tourist",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "tourists"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"worldwide\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/形容詞)",
+          "definition": "A person who is traveling or visiting a place for pleasure"
         }
       ],
       "examples": [
         {
-          "en": "The worldwide is very useful.",
+          "en": "The tourist took pictures of the landmarks.",
           "highlight": [
-            "worldwide"
+            "tourist"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "traveler",
+        "visitor"
+      ],
+      "antonyms": [
+        "resident",
+        "local"
+      ],
+      "phrases": [
+        "tourist",
+        "attractions",
+        "tourist",
+        "destination"
+      ]
     },
     {
       "id": "A2-295-005",
@@ -154,35 +205,49 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "worried",
+      "word": "towards",
       "phonetic": "",
       "pos": [
-        "verb"
+        "preposition",
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"worried\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(介係詞/副詞)",
+          "definition": "In the direction of"
         }
       ],
       "examples": [
         {
-          "en": "I need to worried this morning.",
+          "en": "She walked towards the door.",
           "highlight": [
-            "worried"
+            "towards"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "in",
+        "the",
+        "direction",
+        "of"
+      ],
+      "antonyms": [
+        "away",
+        "from"
+      ],
+      "phrases": [
+        "towards",
+        "the",
+        "end",
+        "move",
+        "towards"
+      ]
     },
     {
       "id": "A2-295-006",
@@ -190,35 +255,49 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "worry",
+      "word": "towel",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "toweled",
+        "past_participle": "toweled",
+        "present_participle": "toweling",
+        "third_person": "towels"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"worry\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A piece of thick absorbent cloth or paper used for drying oneself or wiping thin..."
         }
       ],
       "examples": [
         {
-          "en": "The worry is very useful.",
+          "en": "He dried his hands with a towel.",
           "highlight": [
-            "worry"
+            "towel"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "drying",
+        "cloth",
+        "wipe"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "bath",
+        "towel",
+        "beach",
+        "towel"
+      ]
     },
     {
       "id": "A2-295-007",
@@ -226,35 +305,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "worse",
+      "word": "tower",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "towered",
+        "past_participle": "towered",
+        "present_participle": "towering",
+        "third_person": "towers"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"worse\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A tall, narrow building, either free-standing or forming part of a building such..."
         }
       ],
       "examples": [
         {
-          "en": "The worse is very useful.",
+          "en": "The Eiffel Tower is in Paris.",
           "highlight": [
-            "worse"
+            "tower"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "spire",
+        "steeple"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "watch",
+        "tower",
+        "radio",
+        "tower"
+      ]
     },
     {
       "id": "A2-295-008",
@@ -262,35 +354,47 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "worst",
+      "word": "town",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "towned",
+        "past_participle": "towned",
+        "present_participle": "towning",
+        "third_person": "towns"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"worst\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A large urban area that has a name, defined boundaries, and local government"
         }
       ],
       "examples": [
         {
-          "en": "The worst is very useful.",
+          "en": "The town is small but charming.",
           "highlight": [
-            "worst"
+            "town"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "city",
+        "municipality"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "town",
+        "center",
+        "hometown"
+      ]
     },
     {
       "id": "A2-295-009",
@@ -298,35 +402,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "worth",
+      "word": "toy",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "toyed",
+        "past_participle": "toyed",
+        "present_participle": "toying",
+        "third_person": "toys"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"worth\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "An object for a child to play with, typically a model or miniature replica of so..."
         }
       ],
       "examples": [
         {
-          "en": "The worth is very useful.",
+          "en": "The child played with a toy car.",
           "highlight": [
-            "worth"
+            "toy"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "plaything",
+        "doll"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "toy",
+        "store",
+        "toy",
+        "car"
+      ]
     },
     {
       "id": "A2-295-010",
@@ -334,35 +451,52 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "would",
+      "word": "trace",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "traceed",
+        "past_participle": "traceed",
+        "present_participle": "tracing",
+        "third_person": "traces"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"would\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞/名詞)",
+          "definition": "Find or discover by investigation"
         }
       ],
       "examples": [
         {
-          "en": "The would is very useful.",
+          "en": "The detective traced the suspect's movements.",
           "highlight": [
-            "would"
+            "trace"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "follow",
+        "investigate"
+      ],
+      "antonyms": [
+        "ignore",
+        "neglect"
+      ],
+      "phrases": [
+        "trace",
+        "back",
+        "trace",
+        "the",
+        "source"
+      ]
     }
   ]
 }

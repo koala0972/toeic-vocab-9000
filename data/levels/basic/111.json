@@ -2,159 +2,14 @@
   "level": 111,
   "tier": "basic",
   "cefr": "A2",
-  "_skeleton": true,
   "words": [
     {
       "id": "A2-111-001",
       "level": 111,
       "tier": "basic",
       "cefr": "A2",
-      "toeic_score_min": 400,
-      "word": "flour",
-      "phonetic": "",
-      "pos": [
-        "noun"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"flour\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "The flour is very useful.",
-          "highlight": [
-            "flour"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-111-002",
-      "level": 111,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 400,
-      "word": "flow",
-      "phonetic": "",
-      "pos": [
-        "noun"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"flow\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "The flow is very useful.",
-          "highlight": [
-            "flow"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-111-003",
-      "level": 111,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 400,
-      "word": "flower",
-      "phonetic": "",
-      "pos": [
-        "noun"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"flower\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "The flower is very useful.",
-          "highlight": [
-            "flower"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-111-004",
-      "level": 111,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 400,
-      "word": "flu",
-      "phonetic": "",
-      "pos": [
-        "noun"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"flu\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "The flu is very useful.",
-          "highlight": [
-            "flu"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-111-005",
-      "level": 111,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 400,
-      "word": "fly",
+      "toeic_score_min": 200,
+      "word": "ever",
       "phonetic": "",
       "pos": [
         "adverb"
@@ -164,205 +19,462 @@
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"fly\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞)",
+          "definition": "At any time"
         }
       ],
       "examples": [
         {
-          "en": "She speaks fly in the meeting.",
+          "en": "Have you ever been to Paris?",
           "highlight": [
-            "fly"
+            "ever"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "at",
+        "any",
+        "time",
+        "anytime"
+      ],
+      "antonyms": [
+        "never"
+      ],
+      "phrases": [
+        "ever",
+        "since",
+        "hardly",
+        "ever"
+      ]
+    },
+    {
+      "id": "A2-111-002",
+      "level": 111,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 200,
+      "word": "every",
+      "phonetic": "",
+      "pos": [
+        "adjective",
+        "pronoun"
+      ],
+      "conjugations": {
+        "comparative": "everier",
+        "superlative": "everiest"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(形容詞/代名詞)",
+          "definition": "Used before a singular noun to refer to all the individual members of a set with..."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Every student must submit the form.",
+          "highlight": [
+            "every"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "each",
+        "all"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "every",
+        "time",
+        "every",
+        "day"
+      ]
+    },
+    {
+      "id": "A2-111-003",
+      "level": 111,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 200,
+      "word": "everybody",
+      "phonetic": "",
+      "pos": [
+        "pronoun"
+      ],
+      "conjugations": {},
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(代名詞)",
+          "definition": "Every person"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Everybody enjoyed the party.",
+          "highlight": [
+            "everybody"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "everyone",
+        "all"
+      ],
+      "antonyms": [
+        "nobody"
+      ],
+      "phrases": [
+        "everybody",
+        "else",
+        "everybody's"
+      ]
+    },
+    {
+      "id": "A2-111-004",
+      "level": 111,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 200,
+      "word": "everyone",
+      "phonetic": "",
+      "pos": [
+        "pronoun"
+      ],
+      "conjugations": {},
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(代名詞)",
+          "definition": "Every person"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Everyone agreed with the decision.",
+          "highlight": [
+            "everyone"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "everybody",
+        "all"
+      ],
+      "antonyms": [
+        "nobody"
+      ],
+      "phrases": [
+        "everyone",
+        "here",
+        "everyone",
+        "agreed"
+      ]
+    },
+    {
+      "id": "A2-111-005",
+      "level": 111,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 200,
+      "word": "everything",
+      "phonetic": "",
+      "pos": [
+        "pronoun"
+      ],
+      "conjugations": {},
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(代名詞)",
+          "definition": "All things"
+        }
+      ],
+      "examples": [
+        {
+          "en": "She lost everything in the fire.",
+          "highlight": [
+            "everything"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "all",
+        "things",
+        "all"
+      ],
+      "antonyms": [
+        "nothing"
+      ],
+      "phrases": [
+        "lose",
+        "everything",
+        "everything",
+        "possible"
+      ]
     },
     {
       "id": "A2-111-006",
       "level": 111,
       "tier": "basic",
       "cefr": "A2",
-      "toeic_score_min": 400,
-      "word": "flying",
+      "toeic_score_min": 200,
+      "word": "everywhere",
       "phonetic": "",
       "pos": [
-        "verb"
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"flying\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞)",
+          "definition": "In or to all places"
         }
       ],
       "examples": [
         {
-          "en": "I need to flying this morning.",
+          "en": "They looked everywhere for the lost key.",
           "highlight": [
-            "flying"
+            "everywhere"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "all",
+        "over",
+        "in",
+        "all",
+        "places"
+      ],
+      "antonyms": [
+        "nowhere"
+      ],
+      "phrases": [
+        "search",
+        "everywhere",
+        "travel",
+        "everywhere"
+      ]
     },
     {
       "id": "A2-111-007",
       "level": 111,
       "tier": "basic",
       "cefr": "A2",
-      "toeic_score_min": 400,
-      "word": "focus",
+      "toeic_score_min": 200,
+      "word": "evidence",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "evidenceed",
+        "past_participle": "evidenceed",
+        "present_participle": "evidencing",
+        "third_person": "evidences"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"focus\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "The available body of facts or information indicating whether a belief or propos..."
         }
       ],
       "examples": [
         {
-          "en": "The focus is very useful.",
+          "en": "The evidence was clear.",
           "highlight": [
-            "focus"
+            "evidence"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "proof",
+        "testimony"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "provide",
+        "evidence",
+        "clear",
+        "evidence"
+      ]
     },
     {
       "id": "A2-111-008",
       "level": 111,
       "tier": "basic",
       "cefr": "A2",
-      "toeic_score_min": 400,
-      "word": "fold",
+      "toeic_score_min": 200,
+      "word": "evil",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "evils"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"fold\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Profoundly immoral and wicked"
         }
       ],
       "examples": [
         {
-          "en": "The fold is very useful.",
+          "en": "He was driven by pure evil.",
           "highlight": [
-            "fold"
+            "evil"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "wickedness",
+        "malevolence"
+      ],
+      "antonyms": [
+        "good",
+        "virtuous"
+      ],
+      "phrases": [
+        "pure",
+        "evil",
+        "evil",
+        "deeds"
+      ]
     },
     {
       "id": "A2-111-009",
       "level": 111,
       "tier": "basic",
       "cefr": "A2",
-      "toeic_score_min": 400,
-      "word": "folding",
+      "toeic_score_min": 200,
+      "word": "exact",
       "phonetic": "",
       "pos": [
+        "adjective",
         "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "exacted",
+        "past_participle": "exacted",
+        "present_participle": "exacting",
+        "third_person": "exacts"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"folding\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/動詞)",
+          "definition": "Not approximated in any way; precise"
         }
       ],
       "examples": [
         {
-          "en": "I need to folding this morning.",
+          "en": "She gave an exact description of the event.",
           "highlight": [
-            "folding"
+            "exact"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "precise",
+        "accurate"
+      ],
+      "antonyms": [
+        "inexact",
+        "imprecise"
+      ],
+      "phrases": [
+        "exact",
+        "match",
+        "exact",
+        "number"
+      ]
     },
     {
       "id": "A2-111-010",
       "level": 111,
       "tier": "basic",
       "cefr": "A2",
-      "toeic_score_min": 400,
-      "word": "folk",
+      "toeic_score_min": 200,
+      "word": "exactly",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"folk\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞)",
+          "definition": "In a precise manner; used to emphasize the accuracy of a figure or description"
         }
       ],
       "examples": [
         {
-          "en": "The folk is very useful.",
+          "en": "That's exactly what I mean.",
           "highlight": [
-            "folk"
+            "exactly"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "precisely",
+        "accurately"
+      ],
+      "antonyms": [
+        "approximately",
+        "roughly"
+      ],
+      "phrases": [
+        "know",
+        "exactly",
+        "remember",
+        "exactly"
+      ]
     }
   ]
 }

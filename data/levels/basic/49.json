@@ -2,7 +2,6 @@
   "level": 49,
   "tier": "basic",
   "cefr": "A1",
-  "_skeleton": true,
   "words": [
     {
       "id": "A1-049-001",
@@ -10,35 +9,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "chemical",
+      "word": "cancer",
       "phonetic": "",
       "pos": [
-        "adjective"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "cancered",
+        "past_participle": "cancered",
+        "present_participle": "cancering",
+        "third_person": "cancers"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"chemical\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A disease caused by an uncontrolled division of abnormal cells in a part of the ..."
         }
       ],
       "examples": [
         {
-          "en": "This is a very chemical thing.",
+          "en": "She was diagnosed with cancer.",
           "highlight": [
-            "chemical"
+            "cancer"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "malignancy",
+        "tumor"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "breast",
+        "cancer",
+        "cancer",
+        "treatment"
+      ]
     },
     {
       "id": "A1-049-002",
@@ -46,35 +58,44 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "chemistry",
+      "word": "candidate",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "candidates"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"chemistry\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "A person who applies for a job or is nominated for election"
         }
       ],
       "examples": [
         {
-          "en": "The chemistry is very useful.",
+          "en": "He is a candidate for the position.",
           "highlight": [
-            "chemistry"
+            "candidate"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "applicant",
+        "nominee"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "presidential",
+        "candidate",
+        "job",
+        "candidate"
+      ]
     },
     {
       "id": "A1-049-003",
@@ -82,35 +103,45 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "chest",
+      "word": "candy",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "candies"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"chest\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "A sweet food made with sugar or syrup combined with fruit, chocolate, or nuts"
         }
       ],
       "examples": [
         {
-          "en": "The chest is very useful.",
+          "en": "She gave me a piece of candy.",
           "highlight": [
-            "chest"
+            "candy"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "sweet",
+        "confectionery"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "piece",
+        "of",
+        "candy",
+        "candy",
+        "store"
+      ]
     },
     {
       "id": "A1-049-004",
@@ -118,35 +149,50 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "chicken",
+      "word": "cannot",
       "phonetic": "",
       "pos": [
         "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "cannoted",
+        "past_participle": "cannoted",
+        "present_participle": "cannoting",
+        "third_person": "cannots"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"chicken\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞)",
+          "definition": "Be unable to"
         }
       ],
       "examples": [
         {
-          "en": "I need to chicken this morning.",
+          "en": "I cannot swim.",
           "highlight": [
-            "chicken"
+            "cannot"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "can't",
+        "unable"
+      ],
+      "antonyms": [
+        "can",
+        "able"
+      ],
+      "phrases": [
+        "cannot",
+        "do",
+        "cannot",
+        "be"
+      ]
     },
     {
       "id": "A1-049-005",
@@ -154,35 +200,49 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "chief",
+      "word": "cap",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "caped",
+        "past_participle": "caped",
+        "present_participle": "caping",
+        "third_person": "caps"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"chief\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A soft, flat hat without a brim and typically with a peak"
         }
       ],
       "examples": [
         {
-          "en": "The chief is very useful.",
+          "en": "He wore a baseball cap.",
           "highlight": [
-            "chief"
+            "cap"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "hat",
+        "headgear"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "wear",
+        "a",
+        "cap",
+        "cap",
+        "off"
+      ]
     },
     {
       "id": "A1-049-006",
@@ -190,35 +250,49 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "child",
+      "word": "capable",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "comparative": "capableer",
+        "superlative": "capableest"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"child\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞)",
+          "definition": "Having the ability, fitness, or quality necessary to do or achieve a specified t..."
         }
       ],
       "examples": [
         {
-          "en": "The child is very useful.",
+          "en": "She is capable of great things.",
           "highlight": [
-            "child"
+            "capable"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "competent",
+        "able"
+      ],
+      "antonyms": [
+        "incapable",
+        "unfit"
+      ],
+      "phrases": [
+        "capable",
+        "of",
+        "doing",
+        "capable",
+        "of"
+      ]
     },
     {
       "id": "A1-049-007",
@@ -226,35 +300,44 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "childhood",
+      "word": "capacity",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "capacities"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"childhood\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "The maximum amount that something can contain"
         }
       ],
       "examples": [
         {
-          "en": "The childhood is very useful.",
+          "en": "The hall was filled to capacity.",
           "highlight": [
-            "childhood"
+            "capacity"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "volume",
+        "capability"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "seating",
+        "capacity",
+        "storage",
+        "capacity"
+      ]
     },
     {
       "id": "A1-049-008",
@@ -262,35 +345,45 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "chip",
+      "word": "capital",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "capitals"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"chip\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/形容詞)",
+          "definition": "The city or town that functions as the seat of government and administrative cen..."
         }
       ],
       "examples": [
         {
-          "en": "The chip is very useful.",
+          "en": "Paris is the capital of France.",
           "highlight": [
-            "chip"
+            "capital"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "headquarters",
+        "metropolis"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "capital",
+        "city",
+        "capital",
+        "investment"
+      ]
     },
     {
       "id": "A1-049-009",
@@ -298,35 +391,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "chocolate",
+      "word": "captain",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "captained",
+        "past_participle": "captained",
+        "present_participle": "captaining",
+        "third_person": "captains"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"chocolate\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "The person in command of a ship"
         }
       ],
       "examples": [
         {
-          "en": "The chocolate is very useful.",
+          "en": "The captain of the ship gave orders.",
           "highlight": [
-            "chocolate"
+            "captain"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "commander",
+        "leader"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "ship",
+        "captain",
+        "team",
+        "captain"
+      ]
     },
     {
       "id": "A1-049-010",
@@ -334,35 +440,52 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "choice",
+      "word": "capture",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "captureed",
+        "past_participle": "captureed",
+        "present_participle": "capturing",
+        "third_person": "captures"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"choice\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞/名詞)",
+          "definition": "Take into one's possession or control by force"
         }
       ],
       "examples": [
         {
-          "en": "The choice is very useful.",
+          "en": "They managed to capture the thief.",
           "highlight": [
-            "choice"
+            "capture"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "seize",
+        "catch"
+      ],
+      "antonyms": [
+        "release",
+        "free"
+      ],
+      "phrases": [
+        "capture",
+        "the",
+        "moment",
+        "capture",
+        "attention"
+      ]
     }
   ]
 }

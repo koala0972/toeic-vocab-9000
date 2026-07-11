@@ -2,7 +2,6 @@
   "level": 262,
   "tier": "basic",
   "cefr": "A2",
-  "_skeleton": true,
   "words": [
     {
       "id": "A2-262-001",
@@ -10,35 +9,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "symbol",
+      "word": "size",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "sizeed",
+        "past_participle": "sizeed",
+        "present_participle": "sizing",
+        "third_person": "sizes"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"symbol\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "The relative extent of something; a thing's overall dimensions or magnitude; how..."
         }
       ],
       "examples": [
         {
-          "en": "The symbol is very useful.",
+          "en": "What size is your shirt?",
           "highlight": [
-            "symbol"
+            "size"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "dimension",
+        "magnitude"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "large",
+        "size",
+        "small",
+        "size"
+      ]
     },
     {
       "id": "A2-262-002",
@@ -46,35 +58,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "sympathy",
+      "word": "skilful",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "skilfuls"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"sympathy\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Having or showing skill"
         }
       ],
       "examples": [
         {
-          "en": "The sympathy is very useful.",
+          "en": "She is a skilful artist.",
           "highlight": [
-            "sympathy"
+            "skilful"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "adept",
+        "proficient"
+      ],
+      "antonyms": [
+        "unskilled",
+        "inept"
+      ],
+      "phrases": [
+        "skilful",
+        "performance",
+        "skilful",
+        "handling"
+      ]
     },
     {
       "id": "A2-262-003",
@@ -82,35 +107,45 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "symptom",
+      "word": "skilfully",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"symptom\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞)",
+          "definition": "In a way that shows skill"
         }
       ],
       "examples": [
         {
-          "en": "The symptom is very useful.",
+          "en": "He completed the task skilfully.",
           "highlight": [
-            "symptom"
+            "skilfully"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "expertly",
+        "proficiently"
+      ],
+      "antonyms": [
+        "clumsily",
+        "poorly"
+      ],
+      "phrases": [
+        "skilfully",
+        "executed",
+        "skilfully",
+        "done"
+      ]
     },
     {
       "id": "A2-262-004",
@@ -118,35 +153,52 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "system",
+      "word": "skill",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "skilled",
+        "past_participle": "skilled",
+        "present_participle": "skilling",
+        "third_person": "skills"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"system\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "The ability to do something well; expertise"
         }
       ],
       "examples": [
         {
-          "en": "The system is very useful.",
+          "en": "Her skill in cooking is impressive.",
           "highlight": [
-            "system"
+            "skill"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "expertise",
+        "ability"
+      ],
+      "antonyms": [
+        "incompetence",
+        "ineptitude"
+      ],
+      "phrases": [
+        "develop",
+        "a",
+        "skill",
+        "learn",
+        "a"
+      ]
     },
     {
       "id": "A2-262-005",
@@ -154,35 +206,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "t-shirt",
+      "word": "skilled",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "skilleds"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"t-shirt\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Having or showing the knowledge, ability, or training to perform a certain activ..."
         }
       ],
       "examples": [
         {
-          "en": "The t-shirt is very useful.",
+          "en": "He is skilled in carpentry.",
           "highlight": [
-            "t-shirt"
+            "skilled"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "trained",
+        "experienced"
+      ],
+      "antonyms": [
+        "unskilled",
+        "untrained"
+      ],
+      "phrases": [
+        "skilled",
+        "labor",
+        "skilled",
+        "worker"
+      ]
     },
     {
       "id": "A2-262-006",
@@ -190,35 +255,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "table",
+      "word": "skin",
       "phonetic": "",
       "pos": [
-        "adjective"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "skined",
+        "past_participle": "skined",
+        "present_participle": "skining",
+        "third_person": "skins"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"table\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "The thin layer of tissue forming the natural outer covering of the body of a per..."
         }
       ],
       "examples": [
         {
-          "en": "This is a very table thing.",
+          "en": "His skin is very sensitive.",
           "highlight": [
-            "table"
+            "skin"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "dermis",
+        "epidermis"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "dry",
+        "skin",
+        "skin",
+        "care"
+      ]
     },
     {
       "id": "A2-262-007",
@@ -226,35 +304,45 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "tablet",
+      "word": "skirt",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "skirted",
+        "past_participle": "skirted",
+        "present_participle": "skirting",
+        "third_person": "skirts"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"tablet\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A woman's outer garment fastened around the waist and hanging down around the le..."
         }
       ],
       "examples": [
         {
-          "en": "The tablet is very useful.",
+          "en": "She wore a red skirt.",
           "highlight": [
-            "tablet"
+            "skirt"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
       "synonyms": [],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "short",
+        "skirt",
+        "long",
+        "skirt"
+      ]
     },
     {
       "id": "A2-262-008",
@@ -262,35 +350,51 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "tail",
+      "word": "sky",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "skyed",
+        "past_participle": "skyed",
+        "present_participle": "skying",
+        "third_person": "skys"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"tail\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "The region of the atmosphere and outer space seen from the earth"
         }
       ],
       "examples": [
         {
-          "en": "The tail is very useful.",
+          "en": "The sky is clear today.",
           "highlight": [
-            "tail"
+            "sky"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "heavens",
+        "atmosphere"
+      ],
+      "antonyms": [
+        "ground",
+        "earth"
+      ],
+      "phrases": [
+        "clear",
+        "sky",
+        "night",
+        "sky"
+      ]
     },
     {
       "id": "A2-262-009",
@@ -298,35 +402,51 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "tale",
+      "word": "sleep",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "sleeped",
+        "past_participle": "sleeped",
+        "present_participle": "sleeping",
+        "third_person": "sleeps"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"tale\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A condition of body and mind such as that which typically recurs for several hou..."
         }
       ],
       "examples": [
         {
-          "en": "The tale is very useful.",
+          "en": "He needs eight hours of sleep.",
           "highlight": [
-            "tale"
+            "sleep"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "rest",
+        "slumber"
+      ],
+      "antonyms": [
+        "wakefulness",
+        "consciousness"
+      ],
+      "phrases": [
+        "deep",
+        "sleep",
+        "sleep",
+        "well"
+      ]
     },
     {
       "id": "A2-262-010",
@@ -334,35 +454,47 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "talent",
+      "word": "sleeve",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "sleeveed",
+        "past_participle": "sleeveed",
+        "present_participle": "sleeving",
+        "third_person": "sleeves"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"talent\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "The part of a garment that wholly or partly covers a person's arm"
         }
       ],
       "examples": [
         {
-          "en": "The talent is very useful.",
+          "en": "He rolled up his sleeves.",
           "highlight": [
-            "talent"
+            "sleeve"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "cuff"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "long",
+        "sleeve",
+        "short",
+        "sleeve"
+      ]
     }
   ]
 }

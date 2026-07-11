@@ -2,7 +2,6 @@
   "level": 36,
   "tier": "basic",
   "cefr": "A1",
-  "_skeleton": true,
   "words": [
     {
       "id": "A1-036-001",
@@ -10,35 +9,52 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "book",
+      "word": "behind",
       "phonetic": "",
       "pos": [
-        "noun"
+        "preposition",
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"book\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(介係詞/副詞)",
+          "definition": "At or to the far side of (something), typically so as to be hidden by it"
         }
       ],
       "examples": [
         {
-          "en": "The book is very useful.",
+          "en": "She hid behind the curtain.",
           "highlight": [
-            "book"
+            "behind"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "at",
+        "the",
+        "back",
+        "of",
+        "beyond"
+      ],
+      "antonyms": [
+        "in",
+        "front",
+        "of",
+        "ahead",
+        "of"
+      ],
+      "phrases": [
+        "hide",
+        "behind",
+        "stand",
+        "behind"
+      ]
     },
     {
       "id": "A1-036-002",
@@ -46,35 +62,47 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "boot",
+      "word": "belief",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "beliefs"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"boot\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "An acceptance that a statement is true or that something exists"
         }
       ],
       "examples": [
         {
-          "en": "The boot is very useful.",
+          "en": "Her belief in justice is strong.",
           "highlight": [
-            "boot"
+            "belief"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "faith",
+        "conviction"
+      ],
+      "antonyms": [
+        "disbelief",
+        "doubt"
+      ],
+      "phrases": [
+        "strong",
+        "belief",
+        "belief",
+        "system"
+      ]
     },
     {
       "id": "A1-036-003",
@@ -82,35 +110,50 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "border",
+      "word": "believe",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "believeed",
+        "past_participle": "believeed",
+        "present_participle": "believing",
+        "third_person": "believes"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"border\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞)",
+          "definition": "Accept (something) as true; feel sure of the truth of"
         }
       ],
       "examples": [
         {
-          "en": "The border is very useful.",
+          "en": "I believe in you.",
           "highlight": [
-            "border"
+            "believe"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "trust",
+        "accept"
+      ],
+      "antonyms": [
+        "doubt",
+        "disbelieve"
+      ],
+      "phrases": [
+        "believe",
+        "strongly",
+        "believe",
+        "firmly"
+      ]
     },
     {
       "id": "A1-036-004",
@@ -118,35 +161,45 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "bored",
+      "word": "bell",
       "phonetic": "",
       "pos": [
-        "verb"
+        "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "bells"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"bored\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "A device that makes a ringing sound and is used to give a signal or warning"
         }
       ],
       "examples": [
         {
-          "en": "I need to bored this morning.",
+          "en": "The school bell rang.",
           "highlight": [
-            "bored"
+            "bell"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "chime",
+        "buzzer"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "ring",
+        "the",
+        "bell",
+        "school",
+        "bell"
+      ]
     },
     {
       "id": "A1-036-005",
@@ -154,35 +207,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "boring",
+      "word": "belong",
       "phonetic": "",
       "pos": [
         "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "belonged",
+        "past_participle": "belonged",
+        "present_participle": "belonging",
+        "third_person": "belongs"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"boring\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞)",
+          "definition": "Be the property of"
         }
       ],
       "examples": [
         {
-          "en": "I need to boring this morning.",
+          "en": "The book belongs to me.",
           "highlight": [
-            "boring"
+            "belong"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "be",
+        "owned",
+        "by"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "truly",
+        "belong",
+        "really",
+        "belong"
+      ]
     },
     {
       "id": "A1-036-006",
@@ -190,35 +256,47 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "born",
+      "word": "below",
       "phonetic": "",
       "pos": [
-        "noun"
+        "preposition",
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"born\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(介係詞/副詞)",
+          "definition": "At a lower level or layer than"
         }
       ],
       "examples": [
         {
-          "en": "The born is very useful.",
+          "en": "The temperature is below freezing.",
           "highlight": [
-            "born"
+            "below"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "under",
+        "beneath"
+      ],
+      "antonyms": [
+        "above",
+        "over"
+      ],
+      "phrases": [
+        "below",
+        "average",
+        "below",
+        "the",
+        "surface"
+      ]
     },
     {
       "id": "A1-036-007",
@@ -226,35 +304,44 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "borrow",
+      "word": "belt",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "belts"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"borrow\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "A strip of leather or other material worn around the waist to support or hold in..."
         }
       ],
       "examples": [
         {
-          "en": "The borrow is very useful.",
+          "en": "He wore a leather belt.",
           "highlight": [
-            "borrow"
+            "belt"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "girdle",
+        "sash"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "leather",
+        "belt",
+        "safety",
+        "belt"
+      ]
     },
     {
       "id": "A1-036-008",
@@ -262,35 +349,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "boss",
+      "word": "bend",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "bended",
+        "past_participle": "bended",
+        "present_participle": "bending",
+        "third_person": "bends"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"boss\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞/名詞)",
+          "definition": "Shape or force (something straight) into a curve or angle"
         }
       ],
       "examples": [
         {
-          "en": "The boss is very useful.",
+          "en": "She bent the wire into a circle.",
           "highlight": [
-            "boss"
+            "bend"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "curve",
+        "flex"
+      ],
+      "antonyms": [
+        "straighten",
+        "unbend"
+      ],
+      "phrases": [
+        "bend",
+        "over",
+        "bend",
+        "down"
+      ]
     },
     {
       "id": "A1-036-009",
@@ -298,35 +401,47 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "both",
+      "word": "beneath",
       "phonetic": "",
       "pos": [
-        "noun"
+        "preposition",
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"both\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(介係詞/副詞)",
+          "definition": "Extending or directly underneath, typically with close contact"
         }
       ],
       "examples": [
         {
-          "en": "The both is very useful.",
+          "en": "The ground beneath our feet",
           "highlight": [
-            "both"
+            "beneath"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "under",
+        "underneath"
+      ],
+      "antonyms": [
+        "above",
+        "over"
+      ],
+      "phrases": [
+        "beneath",
+        "the",
+        "surface",
+        "beneath",
+        "the"
+      ]
     },
     {
       "id": "A1-036-010",
@@ -334,35 +449,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "bother",
+      "word": "benefit",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "benefited",
+        "past_participle": "benefited",
+        "present_participle": "benefiting",
+        "third_person": "benefits"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"bother\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "An advantage or profit gained from something"
         }
       ],
       "examples": [
         {
-          "en": "The bother is very useful.",
+          "en": "The new plan will benefit everyone.",
           "highlight": [
-            "bother"
+            "benefit"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "advantage",
+        "gain"
+      ],
+      "antonyms": [
+        "disadvantage",
+        "harm"
+      ],
+      "phrases": [
+        "benefit",
+        "greatly",
+        "benefit",
+        "from"
+      ]
     }
   ]
 }

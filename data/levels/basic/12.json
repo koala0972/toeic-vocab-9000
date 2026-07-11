@@ -2,7 +2,6 @@
   "level": 12,
   "tier": "basic",
   "cefr": "A1",
-  "_skeleton": true,
   "words": [
     {
       "id": "A1-012-001",
@@ -10,35 +9,49 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "age",
+      "word": "advert",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "adverted",
+        "past_participle": "adverted",
+        "present_participle": "adverting",
+        "third_person": "adverts"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"age\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A notice or announcement in a public medium promoting a product, service, or eve..."
         }
       ],
       "examples": [
         {
-          "en": "The age is very useful.",
+          "en": "She saw an advert for a new car.",
           "highlight": [
-            "age"
+            "advert"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "announcement",
+        "notice"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "place",
+        "an",
+        "advert",
+        "see",
+        "an"
+      ]
     },
     {
       "id": "A1-012-002",
@@ -46,35 +59,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "aged",
+      "word": "advertise",
       "phonetic": "",
       "pos": [
         "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "advertiseed",
+        "past_participle": "advertiseed",
+        "present_participle": "advertising",
+        "third_person": "advertises"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"aged\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞)",
+          "definition": "Describe or draw attention to (a product, service, or event) in a public medium ..."
         }
       ],
       "examples": [
         {
-          "en": "I need to aged this morning.",
+          "en": "They advertised the event on TV.",
           "highlight": [
-            "aged"
+            "advertise"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "promote",
+        "publicize"
+      ],
+      "antonyms": [
+        "hide",
+        "conceal"
+      ],
+      "phrases": [
+        "advertise",
+        "a",
+        "product",
+        "advertise",
+        "widely"
+      ]
     },
     {
       "id": "A1-012-003",
@@ -82,35 +111,44 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "agency",
+      "word": "advertisement",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "advertisements"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"agency\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "A notice or announcement in a public medium promoting a product, service, or eve..."
         }
       ],
       "examples": [
         {
-          "en": "The agency is very useful.",
+          "en": "The advertisement was very effective.",
           "highlight": [
-            "agency"
+            "advertisement"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ad",
+        "advert"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "effective",
+        "advertisement",
+        "newspaper",
+        "advertisement"
+      ]
     },
     {
       "id": "A1-012-004",
@@ -118,35 +156,44 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "agenda",
+      "word": "advertising",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "advertisings"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"agenda\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "The activity or profession of producing advertisements for commercial products o..."
         }
       ],
       "examples": [
         {
-          "en": "The agenda is very useful.",
+          "en": "She works in advertising.",
           "highlight": [
-            "agenda"
+            "advertising"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "marketing",
+        "promotion"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "digital",
+        "advertising",
+        "advertising",
+        "campaign"
+      ]
     },
     {
       "id": "A1-012-005",
@@ -154,35 +201,47 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "agent",
+      "word": "advice",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "advices"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"agent\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "Guidance or recommendations offered with regard to prudent future action"
         }
       ],
       "examples": [
         {
-          "en": "The agent is very useful.",
+          "en": "She gave good advice.",
           "highlight": [
-            "agent"
+            "advice"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "guidance",
+        "counsel"
+      ],
+      "antonyms": [
+        "misguidance",
+        "misinformation"
+      ],
+      "phrases": [
+        "seek",
+        "advice",
+        "give",
+        "advice"
+      ]
     },
     {
       "id": "A1-012-006",
@@ -190,35 +249,50 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "aggressive",
+      "word": "advise",
       "phonetic": "",
       "pos": [
-        "adjective"
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "adviseed",
+        "past_participle": "adviseed",
+        "present_participle": "advising",
+        "third_person": "advises"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"aggressive\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞)",
+          "definition": "Offer suggestions about the best course of action to someone"
         }
       ],
       "examples": [
         {
-          "en": "This is a very aggressive thing.",
+          "en": "She advised him to rest.",
           "highlight": [
-            "aggressive"
+            "advise"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "recommend",
+        "counsel"
+      ],
+      "antonyms": [
+        "misadvise",
+        "misguide"
+      ],
+      "phrases": [
+        "advise",
+        "on",
+        "advise",
+        "against"
+      ]
     },
     {
       "id": "A1-012-007",
@@ -226,35 +300,44 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "ago",
+      "word": "affair",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "affairs"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"ago\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "An event or sequence of events of a specified kind or that has previously been r..."
         }
       ],
       "examples": [
         {
-          "en": "The ago is very useful.",
+          "en": "It was a private affair.",
           "highlight": [
-            "ago"
+            "affair"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "event",
+        "incident"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "family",
+        "affair",
+        "love",
+        "affair"
+      ]
     },
     {
       "id": "A1-012-008",
@@ -262,35 +345,47 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "agree",
+      "word": "affect",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "affected",
+        "past_participle": "affected",
+        "present_participle": "affecting",
+        "third_person": "affects"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"agree\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞)",
+          "definition": "Have an effect on; make a difference to"
         }
       ],
       "examples": [
         {
-          "en": "The agree is very useful.",
+          "en": "The weather affects my mood.",
           "highlight": [
-            "agree"
+            "affect"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "influence",
+        "impact"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "affect",
+        "significantly",
+        "affect",
+        "deeply"
+      ]
     },
     {
       "id": "A1-012-009",
@@ -298,35 +393,47 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "agreement",
+      "word": "affection",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "affections"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"agreement\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "A gentle feeling of fondness or liking"
         }
       ],
       "examples": [
         {
-          "en": "The agreement is very useful.",
+          "en": "She has deep affection for her pet.",
           "highlight": [
-            "agreement"
+            "affection"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "fondness",
+        "love"
+      ],
+      "antonyms": [
+        "hatred",
+        "dislike"
+      ],
+      "phrases": [
+        "show",
+        "affection",
+        "deep",
+        "affection"
+      ]
     },
     {
       "id": "A1-012-010",
@@ -334,35 +441,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "ah",
+      "word": "afford",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "afforded",
+        "past_participle": "afforded",
+        "present_participle": "affording",
+        "third_person": "affords"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"ah\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞)",
+          "definition": "Have enough money to pay for"
         }
       ],
       "examples": [
         {
-          "en": "The ah is very useful.",
+          "en": "They can't afford a new car.",
           "highlight": [
-            "ah"
+            "afford"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "manage",
+        "bear"
+      ],
+      "antonyms": [
+        "forbid",
+        "deny"
+      ],
+      "phrases": [
+        "can't",
+        "afford",
+        "afford",
+        "the",
+        "cost"
+      ]
     }
   ]
 }

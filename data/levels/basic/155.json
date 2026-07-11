@@ -2,87 +2,416 @@
   "level": 155,
   "tier": "basic",
   "cefr": "A2",
-  "_skeleton": true,
   "words": [
     {
       "id": "A2-155-001",
       "level": 155,
       "tier": "basic",
       "cefr": "A2",
-      "toeic_score_min": 400,
-      "word": "lift",
+      "toeic_score_min": 200,
+      "word": "infection",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "infectioned",
+        "past_participle": "infectioned",
+        "present_participle": "infectioning",
+        "third_person": "infections"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"lift\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "The process of infecting or the state of being infected"
         }
       ],
       "examples": [
         {
-          "en": "The lift is very useful.",
+          "en": "He has a throat infection.",
           "highlight": [
-            "lift"
+            "infection"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "contagion",
+        "contamination"
+      ],
+      "antonyms": [
+        "health",
+        "wellness"
+      ],
+      "phrases": [
+        "bacterial",
+        "infection",
+        "serious",
+        "infection"
+      ]
     },
     {
       "id": "A2-155-002",
       "level": 155,
       "tier": "basic",
       "cefr": "A2",
-      "toeic_score_min": 400,
-      "word": "light",
+      "toeic_score_min": 200,
+      "word": "infectious",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "infectiouses"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"light\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Likely to spread or influence others in a rapid manner"
         }
       ],
       "examples": [
         {
-          "en": "The light is very useful.",
+          "en": "Flu is highly infectious.",
           "highlight": [
-            "light"
+            "infectious"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "contagious",
+        "communicable"
+      ],
+      "antonyms": [
+        "non-contagious",
+        "non-infectious"
+      ],
+      "phrases": [
+        "highly",
+        "infectious",
+        "infectious",
+        "disease"
+      ]
     },
     {
       "id": "A2-155-003",
       "level": 155,
       "tier": "basic",
       "cefr": "A2",
-      "toeic_score_min": 400,
-      "word": "likely",
+      "toeic_score_min": 200,
+      "word": "influence",
+      "phonetic": "",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "conjugations": {
+        "past_tense": "influenceed",
+        "past_participle": "influenceed",
+        "present_participle": "influencing",
+        "third_person": "influences"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(名詞/動詞)",
+          "definition": "The capacity to have an effect on the character, development, or behavior of som..."
+        }
+      ],
+      "examples": [
+        {
+          "en": "His influence made a big difference.",
+          "highlight": [
+            "influence"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "effect",
+        "impact"
+      ],
+      "antonyms": [],
+      "phrases": [
+        "strong",
+        "influence",
+        "influence",
+        "on"
+      ]
+    },
+    {
+      "id": "A2-155-004",
+      "level": 155,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 200,
+      "word": "inform",
+      "phonetic": "",
+      "pos": [
+        "verb",
+        "noun"
+      ],
+      "conjugations": {
+        "past_tense": "informed",
+        "past_participle": "informed",
+        "present_participle": "informing",
+        "third_person": "informs"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(動詞/名詞)",
+          "definition": "Give (someone) facts or information; tell"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Please inform me of any changes.",
+          "highlight": [
+            "inform"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "notify",
+        "tell"
+      ],
+      "antonyms": [
+        "misinform",
+        "mislead"
+      ],
+      "phrases": [
+        "inform",
+        "the",
+        "public",
+        "inform",
+        "of"
+      ]
+    },
+    {
+      "id": "A2-155-005",
+      "level": 155,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 200,
+      "word": "informal",
+      "phonetic": "",
+      "pos": [
+        "adjective",
+        "noun"
+      ],
+      "conjugations": {
+        "plural": "informals"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Having a relaxed, friendly, or unofficial style, manner, or nature"
+        }
+      ],
+      "examples": [
+        {
+          "en": "They had an informal meeting.",
+          "highlight": [
+            "informal"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "casual",
+        "relaxed"
+      ],
+      "antonyms": [
+        "formal",
+        "official"
+      ],
+      "phrases": [
+        "informal",
+        "meeting",
+        "informal",
+        "dress"
+      ]
+    },
+    {
+      "id": "A2-155-006",
+      "level": 155,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 200,
+      "word": "information",
+      "phonetic": "",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "conjugations": {
+        "past_tense": "informationed",
+        "past_participle": "informationed",
+        "present_participle": "informationing",
+        "third_person": "informations"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(名詞/動詞)",
+          "definition": "Facts provided or learned about something or someone"
+        }
+      ],
+      "examples": [
+        {
+          "en": "We need more information about the event.",
+          "highlight": [
+            "information"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "data",
+        "knowledge"
+      ],
+      "antonyms": [
+        "misinformation",
+        "ignorance"
+      ],
+      "phrases": [
+        "gather",
+        "information",
+        "provide",
+        "information"
+      ]
+    },
+    {
+      "id": "A2-155-007",
+      "level": 155,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 200,
+      "word": "ingredient",
+      "phonetic": "",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "conjugations": {
+        "past_tense": "ingrediented",
+        "past_participle": "ingrediented",
+        "present_participle": "ingredienting",
+        "third_person": "ingredients"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(名詞/動詞)",
+          "definition": "Any of the foods or substances that are combined to make a particular dish"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The main ingredient is flour.",
+          "highlight": [
+            "ingredient"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "component",
+        "element"
+      ],
+      "antonyms": [],
+      "phrases": [
+        "key",
+        "ingredient",
+        "main",
+        "ingredient"
+      ]
+    },
+    {
+      "id": "A2-155-008",
+      "level": 155,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 200,
+      "word": "initial",
+      "phonetic": "",
+      "pos": [
+        "adjective",
+        "noun"
+      ],
+      "conjugations": {
+        "plural": "initials"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Existing or occurring at the beginning"
+        }
+      ],
+      "examples": [
+        {
+          "en": "His initial reaction was surprise.",
+          "highlight": [
+            "initial"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "first",
+        "primary"
+      ],
+      "antonyms": [
+        "final",
+        "last"
+      ],
+      "phrases": [
+        "initial",
+        "impression",
+        "initial",
+        "reaction"
+      ]
+    },
+    {
+      "id": "A2-155-009",
+      "level": 155,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 200,
+      "word": "initially",
       "phonetic": "",
       "pos": [
         "adverb"
@@ -92,277 +421,89 @@
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"likely\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞)",
+          "definition": "At first"
         }
       ],
       "examples": [
         {
-          "en": "She speaks likely in the meeting.",
+          "en": "Initially, it was difficult to understand.",
           "highlight": [
-            "likely"
+            "initially"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-155-004",
-      "level": 155,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 400,
-      "word": "limit",
-      "phonetic": "",
-      "pos": [
-        "noun"
+      "synonyms": [
+        "at",
+        "first",
+        "originally"
       ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"limit\" 的中文釋義（待 LLM 補完）"
-        }
+      "antonyms": [
+        "finally",
+        "ultimately"
       ],
-      "examples": [
-        {
-          "en": "The limit is very useful.",
-          "highlight": [
-            "limit"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-155-005",
-      "level": 155,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 400,
-      "word": "limited",
-      "phonetic": "",
-      "pos": [
-        "verb"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"limited\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "I need to limited this morning.",
-          "highlight": [
-            "limited"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-155-006",
-      "level": 155,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 400,
-      "word": "line",
-      "phonetic": "",
-      "pos": [
-        "noun"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"line\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "The line is very useful.",
-          "highlight": [
-            "line"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-155-007",
-      "level": 155,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 400,
-      "word": "link",
-      "phonetic": "",
-      "pos": [
-        "noun"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"link\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "The link is very useful.",
-          "highlight": [
-            "link"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-155-008",
-      "level": 155,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 400,
-      "word": "lion",
-      "phonetic": "",
-      "pos": [
-        "noun"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"lion\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "The lion is very useful.",
-          "highlight": [
-            "lion"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-155-009",
-      "level": 155,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 400,
-      "word": "lip",
-      "phonetic": "",
-      "pos": [
-        "noun"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"lip\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "The lip is very useful.",
-          "highlight": [
-            "lip"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "initially",
+        "thought",
+        "initially",
+        "planned"
+      ]
     },
     {
       "id": "A2-155-010",
       "level": 155,
       "tier": "basic",
       "cefr": "A2",
-      "toeic_score_min": 400,
-      "word": "liquid",
+      "toeic_score_min": 200,
+      "word": "initiate",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "initiateed",
+        "past_participle": "initiateed",
+        "present_participle": "initiating",
+        "third_person": "initiates"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"liquid\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞/名詞)",
+          "definition": "Cause (a process or action) to begin"
         }
       ],
       "examples": [
         {
-          "en": "The liquid is very useful.",
+          "en": "They decided to initiate the project.",
           "highlight": [
-            "liquid"
+            "initiate"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "commence",
+        "launch"
+      ],
+      "antonyms": [
+        "terminate",
+        "end"
+      ],
+      "phrases": [
+        "initiate",
+        "a",
+        "process",
+        "initiate",
+        "contact"
+      ]
     }
   ]
 }

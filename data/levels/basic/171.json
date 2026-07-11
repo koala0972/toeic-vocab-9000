@@ -2,51 +2,275 @@
   "level": 171,
   "tier": "basic",
   "cefr": "A2",
-  "_skeleton": true,
   "words": [
     {
       "id": "A2-171-001",
       "level": 171,
       "tier": "basic",
       "cefr": "A2",
-      "toeic_score_min": 400,
-      "word": "multiple",
+      "toeic_score_min": 200,
+      "word": "license",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "licenseed",
+        "past_participle": "licenseed",
+        "present_participle": "licensing",
+        "third_person": "licenses"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"multiple\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A permit from an authority to own or use something, do a particular thing, or ca..."
         }
       ],
       "examples": [
         {
-          "en": "The multiple is very useful.",
+          "en": "He has a driver's license.",
           "highlight": [
-            "multiple"
+            "license"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "permit",
+        "certification"
+      ],
+      "antonyms": [
+        "restriction",
+        "prohibition"
+      ],
+      "phrases": [
+        "driver's",
+        "license",
+        "license",
+        "to"
+      ]
     },
     {
       "id": "A2-171-002",
       "level": 171,
       "tier": "basic",
       "cefr": "A2",
-      "toeic_score_min": 400,
-      "word": "multiply",
+      "toeic_score_min": 200,
+      "word": "lie",
+      "phonetic": "",
+      "pos": [
+        "verb",
+        "noun"
+      ],
+      "conjugations": {
+        "past_tense": "lieed",
+        "past_participle": "lieed",
+        "present_participle": "liing",
+        "third_person": "lies"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(動詞/名詞)",
+          "definition": "Be in or assume a horizontal or resting position on a supporting surface"
+        }
+      ],
+      "examples": [
+        {
+          "en": "He lies down to rest every afternoon.",
+          "highlight": [
+            "lie"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "recline",
+        "rest"
+      ],
+      "antonyms": [
+        "stand",
+        "sit"
+      ],
+      "phrases": [
+        "lie",
+        "down",
+        "lie",
+        "in"
+      ]
+    },
+    {
+      "id": "A2-171-003",
+      "level": 171,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 200,
+      "word": "life",
+      "phonetic": "",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "conjugations": {
+        "past_tense": "lifeed",
+        "past_participle": "lifeed",
+        "present_participle": "lifing",
+        "third_person": "lifes"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(名詞/動詞)",
+          "definition": "The existence of an individual human being or animal"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Life is beautiful.",
+          "highlight": [
+            "life"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "existence",
+        "being"
+      ],
+      "antonyms": [
+        "death",
+        "nonexistence"
+      ],
+      "phrases": [
+        "life",
+        "and",
+        "death",
+        "life",
+        "is"
+      ]
+    },
+    {
+      "id": "A2-171-004",
+      "level": 171,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 200,
+      "word": "lift",
+      "phonetic": "",
+      "pos": [
+        "verb",
+        "noun"
+      ],
+      "conjugations": {
+        "past_tense": "lifted",
+        "past_participle": "lifted",
+        "present_participle": "lifting",
+        "third_person": "lifts"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(動詞/名詞)",
+          "definition": "Raise to a higher position or level"
+        }
+      ],
+      "examples": [
+        {
+          "en": "She can lift heavy weights.",
+          "highlight": [
+            "lift"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "raise",
+        "elevate"
+      ],
+      "antonyms": [
+        "lower",
+        "drop"
+      ],
+      "phrases": [
+        "lift",
+        "weights",
+        "lift",
+        "up"
+      ]
+    },
+    {
+      "id": "A2-171-005",
+      "level": 171,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 200,
+      "word": "light",
+      "phonetic": "",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "conjugations": {
+        "past_tense": "lighted",
+        "past_participle": "lighted",
+        "present_participle": "lighting",
+        "third_person": "lights"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(名詞/動詞)",
+          "definition": "The natural agent that stimulates sight and makes things visible"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The room is filled with light.",
+          "highlight": [
+            "light"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "brightness",
+        "luminosity"
+      ],
+      "antonyms": [
+        "darkness",
+        "shadow"
+      ],
+      "phrases": [
+        "bright",
+        "light",
+        "natural",
+        "light"
+      ]
+    },
+    {
+      "id": "A2-171-006",
+      "level": 171,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 200,
+      "word": "lightly",
       "phonetic": "",
       "pos": [
         "adverb"
@@ -56,313 +280,239 @@
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"multiply\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞)",
+          "definition": "With little weight, force, intensity, etc."
         }
       ],
       "examples": [
         {
-          "en": "She speaks multiply in the meeting.",
+          "en": "She touched the fabric lightly.",
           "highlight": [
-            "multiply"
+            "lightly"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-171-003",
-      "level": 171,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 400,
-      "word": "mum",
-      "phonetic": "",
-      "pos": [
-        "noun"
+      "synonyms": [
+        "gently",
+        "softly"
       ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"mum\" 的中文釋義（待 LLM 補完）"
-        }
+      "antonyms": [
+        "heavily",
+        "strongly"
       ],
-      "examples": [
-        {
-          "en": "The mum is very useful.",
-          "highlight": [
-            "mum"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-171-004",
-      "level": 171,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 400,
-      "word": "murder",
-      "phonetic": "",
-      "pos": [
-        "noun"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"murder\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "The murder is very useful.",
-          "highlight": [
-            "murder"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-171-005",
-      "level": 171,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 400,
-      "word": "muscle",
-      "phonetic": "",
-      "pos": [
-        "noun"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"muscle\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "The muscle is very useful.",
-          "highlight": [
-            "muscle"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-171-006",
-      "level": 171,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 400,
-      "word": "museum",
-      "phonetic": "",
-      "pos": [
-        "noun"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"museum\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "The museum is very useful.",
-          "highlight": [
-            "museum"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "touch",
+        "lightly",
+        "lightly",
+        "brush"
+      ]
     },
     {
       "id": "A2-171-007",
       "level": 171,
       "tier": "basic",
       "cefr": "A2",
-      "toeic_score_min": 400,
-      "word": "music",
+      "toeic_score_min": 200,
+      "word": "like",
       "phonetic": "",
       "pos": [
-        "adjective"
+        "preposition",
+        "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "likes"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"music\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(介係詞/名詞)",
+          "definition": "Having the same characteristics or qualities as; similar to"
         }
       ],
       "examples": [
         {
-          "en": "This is a very music thing.",
+          "en": "He likes to play soccer.",
           "highlight": [
-            "music"
+            "like"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "enjoy",
+        "prefer"
+      ],
+      "antonyms": [
+        "dislike",
+        "hate"
+      ],
+      "phrases": [
+        "like",
+        "doing",
+        "like",
+        "to"
+      ]
     },
     {
       "id": "A2-171-008",
       "level": 171,
       "tier": "basic",
       "cefr": "A2",
-      "toeic_score_min": 400,
-      "word": "musical",
+      "toeic_score_min": 200,
+      "word": "likely",
       "phonetic": "",
       "pos": [
-        "adjective"
+        "adjective",
+        "adverb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "comparative": "likelier",
+        "superlative": "likeliest"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"musical\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/副詞)",
+          "definition": "Such as well might happen or be true; probable"
         }
       ],
       "examples": [
         {
-          "en": "This is a very musical thing.",
+          "en": "It is likely to rain tomorrow.",
           "highlight": [
-            "musical"
+            "likely"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "probable",
+        "possible"
+      ],
+      "antonyms": [
+        "unlikely",
+        "improbable"
+      ],
+      "phrases": [
+        "likely",
+        "to",
+        "happen",
+        "most",
+        "likely"
+      ]
     },
     {
       "id": "A2-171-009",
       "level": 171,
       "tier": "basic",
       "cefr": "A2",
-      "toeic_score_min": 400,
-      "word": "musician",
+      "toeic_score_min": 200,
+      "word": "limit",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "limited",
+        "past_participle": "limited",
+        "present_participle": "limiting",
+        "third_person": "limits"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"musician\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A point or level beyond which something does not or may not extend or pass"
         }
       ],
       "examples": [
         {
-          "en": "The musician is very useful.",
+          "en": "There is a limit to how much you can carry.",
           "highlight": [
-            "musician"
+            "limit"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "boundary",
+        "restriction"
+      ],
+      "antonyms": [
+        "freedom",
+        "infinity"
+      ],
+      "phrases": [
+        "upper",
+        "limit",
+        "limit",
+        "of"
+      ]
     },
     {
       "id": "A2-171-010",
       "level": 171,
       "tier": "basic",
       "cefr": "A2",
-      "toeic_score_min": 400,
-      "word": "must",
+      "toeic_score_min": 200,
+      "word": "limited",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "limiteded",
+        "past_participle": "limiteded",
+        "present_participle": "limiteding",
+        "third_person": "limiteds"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"must\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/動詞)",
+          "definition": "Restricted in size, amount, or extent; few, small, or short"
         }
       ],
       "examples": [
         {
-          "en": "The must is very useful.",
+          "en": "The tickets are limited in number.",
           "highlight": [
-            "must"
+            "limited"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "restricted",
+        "finite"
+      ],
+      "antonyms": [
+        "unlimited",
+        "infinite"
+      ],
+      "phrases": [
+        "limited",
+        "edition",
+        "limited",
+        "access"
+      ]
     }
   ]
 }

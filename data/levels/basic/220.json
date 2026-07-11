@@ -2,7 +2,6 @@
   "level": 220,
   "tier": "basic",
   "cefr": "A2",
-  "_skeleton": true,
   "words": [
     {
       "id": "A2-220-001",
@@ -10,35 +9,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "remark",
+      "word": "practice",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "practiceed",
+        "past_participle": "practiceed",
+        "present_participle": "practicing",
+        "third_person": "practices"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"remark\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "The actual application or use of an idea, belief, or method, as opposed to theor..."
         }
       ],
       "examples": [
         {
-          "en": "The remark is very useful.",
+          "en": "Practice makes perfect.",
           "highlight": [
-            "remark"
+            "practice"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "rehearsal",
+        "training"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "practice",
+        "regularly",
+        "practice",
+        "session"
+      ]
     },
     {
       "id": "A2-220-002",
@@ -46,35 +58,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "remember",
+      "word": "precious",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "preciouses"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"remember\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Of great value; not to be wasted or treated carelessly"
         }
       ],
       "examples": [
         {
-          "en": "The remember is very useful.",
+          "en": "The ring is very precious to her.",
           "highlight": [
-            "remember"
+            "precious"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "valuable",
+        "cherished"
+      ],
+      "antonyms": [
+        "worthless",
+        "cheap"
+      ],
+      "phrases": [
+        "precious",
+        "metals",
+        "precious",
+        "moment"
+      ]
     },
     {
       "id": "A2-220-003",
@@ -82,35 +107,51 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "remind",
+      "word": "precise",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "preciseed",
+        "past_participle": "preciseed",
+        "present_participle": "precising",
+        "third_person": "precises"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"remind\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/動詞)",
+          "definition": "Marked by exactness and accuracy of expression or detail"
         }
       ],
       "examples": [
         {
-          "en": "The remind is very useful.",
+          "en": "She gave precise instructions.",
           "highlight": [
-            "remind"
+            "precise"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "exact",
+        "accurate"
+      ],
+      "antonyms": [
+        "vague",
+        "imprecise"
+      ],
+      "phrases": [
+        "precise",
+        "measurements",
+        "precise",
+        "timing"
+      ]
     },
     {
       "id": "A2-220-004",
@@ -118,35 +159,52 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "remote",
+      "word": "prefer",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "prefered",
+        "past_participle": "prefered",
+        "present_participle": "prefering",
+        "third_person": "prefers"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"remote\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞/名詞)",
+          "definition": "Like (one thing or person) better than another or others; tend to choose"
         }
       ],
       "examples": [
         {
-          "en": "The remote is very useful.",
+          "en": "I prefer coffee over tea.",
           "highlight": [
-            "remote"
+            "prefer"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "favor",
+        "like"
+      ],
+      "antonyms": [
+        "dislike",
+        "reject"
+      ],
+      "phrases": [
+        "prefer",
+        "tea",
+        "prefer",
+        "to",
+        "do"
+      ]
     },
     {
       "id": "A2-220-005",
@@ -154,35 +212,52 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "remove",
+      "word": "preference",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "preferenceed",
+        "past_participle": "preferenceed",
+        "present_participle": "preferencing",
+        "third_person": "preferences"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"remove\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A greater liking for one alternative over another or others"
         }
       ],
       "examples": [
         {
-          "en": "The remove is very useful.",
+          "en": "He has a preference for classical music.",
           "highlight": [
-            "remove"
+            "preference"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "choice",
+        "liking"
+      ],
+      "antonyms": [
+        "dislike",
+        "aversion"
+      ],
+      "phrases": [
+        "personal",
+        "preference",
+        "show",
+        "a",
+        "preference"
+      ]
     },
     {
       "id": "A2-220-006",
@@ -190,35 +265,47 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "rent",
+      "word": "pregnant",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "pregnants"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"rent\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Having a child or young developing in the uterus"
         }
       ],
       "examples": [
         {
-          "en": "The rent is very useful.",
+          "en": "She is six months pregnant.",
           "highlight": [
-            "rent"
+            "pregnant"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "expectant",
+        "expecting"
+      ],
+      "antonyms": [
+        "non-pregnant"
+      ],
+      "phrases": [
+        "pregnant",
+        "woman",
+        "pregnant",
+        "with"
+      ]
     },
     {
       "id": "A2-220-007",
@@ -226,35 +313,51 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "repair",
+      "word": "preparation",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "preparationed",
+        "past_participle": "preparationed",
+        "present_participle": "preparationing",
+        "third_person": "preparations"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"repair\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "The action or process of making ready or being made ready for use or considerati..."
         }
       ],
       "examples": [
         {
-          "en": "The repair is very useful.",
+          "en": "The preparation for the event took weeks.",
           "highlight": [
-            "repair"
+            "preparation"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "arrangement",
+        "readiness"
+      ],
+      "antonyms": [
+        "neglect",
+        "ignorance"
+      ],
+      "phrases": [
+        "preparation",
+        "for",
+        "in",
+        "preparation"
+      ]
     },
     {
       "id": "A2-220-008",
@@ -262,35 +365,53 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "repeat",
+      "word": "prepare",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "prepareed",
+        "past_participle": "prepareed",
+        "present_participle": "preparing",
+        "third_person": "prepares"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"repeat\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞/名詞)",
+          "definition": "Make (something) ready for use or consideration"
         }
       ],
       "examples": [
         {
-          "en": "The repeat is very useful.",
+          "en": "He prepared the meal.",
           "highlight": [
-            "repeat"
+            "prepare"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "get",
+        "ready",
+        "set",
+        "up"
+      ],
+      "antonyms": [
+        "neglect",
+        "ignore"
+      ],
+      "phrases": [
+        "prepare",
+        "food",
+        "prepare",
+        "for"
+      ]
     },
     {
       "id": "A2-220-009",
@@ -298,35 +419,51 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "repeated",
+      "word": "prescription",
       "phonetic": "",
       "pos": [
+        "noun",
         "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "prescriptioned",
+        "past_participle": "prescriptioned",
+        "present_participle": "prescriptioning",
+        "third_person": "prescriptions"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"repeated\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "An instruction written by a medical practitioner that authorizes a patient to be..."
         }
       ],
       "examples": [
         {
-          "en": "I need to repeated this morning.",
+          "en": "The doctor gave him a prescription.",
           "highlight": [
-            "repeated"
+            "prescription"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "medical",
+        "instruction",
+        "doctor's",
+        "note"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "doctor's",
+        "prescription",
+        "write",
+        "a",
+        "prescription"
+      ]
     },
     {
       "id": "A2-220-010",
@@ -334,35 +471,51 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "replace",
+      "word": "presence",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "presenceed",
+        "past_participle": "presenceed",
+        "present_participle": "presencing",
+        "third_person": "presences"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"replace\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "The state or fact of existing, occurring, or being present in a place or thing"
         }
       ],
       "examples": [
         {
-          "en": "The replace is very useful.",
+          "en": "Your presence is requested at the meeting.",
           "highlight": [
-            "replace"
+            "presence"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "attendance",
+        "existence"
+      ],
+      "antonyms": [
+        "absence"
+      ],
+      "phrases": [
+        "in",
+        "the",
+        "presence",
+        "of",
+        "your"
+      ]
     }
   ]
 }

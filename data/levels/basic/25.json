@@ -2,7 +2,6 @@
   "level": 25,
   "tier": "basic",
   "cefr": "A1",
-  "_skeleton": true,
   "words": [
     {
       "id": "A1-025-001",
@@ -10,35 +9,47 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "attraction",
+      "word": "arrival",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "arrivals"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"attraction\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "The action or process of arriving"
         }
       ],
       "examples": [
         {
-          "en": "The attraction is very useful.",
+          "en": "Her arrival was delayed.",
           "highlight": [
-            "attraction"
+            "arrival"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "coming",
+        "approach"
+      ],
+      "antonyms": [
+        "departure",
+        "leaving"
+      ],
+      "phrases": [
+        "late",
+        "arrival",
+        "early",
+        "arrival"
+      ]
     },
     {
       "id": "A1-025-002",
@@ -46,35 +57,52 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "attractive",
+      "word": "arrive",
       "phonetic": "",
       "pos": [
-        "adjective"
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "arriveed",
+        "past_participle": "arriveed",
+        "present_participle": "arriving",
+        "third_person": "arrives"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"attractive\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞)",
+          "definition": "Reach a place at the end of a journey or a stage in a journey"
         }
       ],
       "examples": [
         {
-          "en": "This is a very attractive thing.",
+          "en": "We arrived at the hotel.",
           "highlight": [
-            "attractive"
+            "arrive"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "reach",
+        "get",
+        "to"
+      ],
+      "antonyms": [
+        "leave",
+        "depart"
+      ],
+      "phrases": [
+        "arrive",
+        "on",
+        "time",
+        "arrive",
+        "late"
+      ]
     },
     {
       "id": "A1-025-003",
@@ -82,35 +110,45 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "audience",
+      "word": "arrow",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "arrows"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"audience\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "A weapon consisting of a thin, straight stick with a sharp point, designed to be..."
         }
       ],
       "examples": [
         {
-          "en": "The audience is very useful.",
+          "en": "He shot an arrow.",
           "highlight": [
-            "audience"
+            "arrow"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "shaft",
+        "dart"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "shoot",
+        "an",
+        "arrow",
+        "bow",
+        "and"
+      ]
     },
     {
       "id": "A1-025-004",
@@ -118,35 +156,44 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "august",
+      "word": "art",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "arts"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"august\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "The expression or application of human creative skill and imagination, typically..."
         }
       ],
       "examples": [
         {
-          "en": "The august is very useful.",
+          "en": "She studied art in college.",
           "highlight": [
-            "august"
+            "art"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "craft",
+        "creativity"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "modern",
+        "art",
+        "art",
+        "gallery"
+      ]
     },
     {
       "id": "A1-025-005",
@@ -154,35 +201,44 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "aunt",
+      "word": "article",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "articles"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"aunt\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "A particular item or object, typically one of a specified type"
         }
       ],
       "examples": [
         {
-          "en": "The aunt is very useful.",
+          "en": "He wrote an article for the magazine.",
           "highlight": [
-            "aunt"
+            "article"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "item",
+        "object"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "news",
+        "article",
+        "research",
+        "article"
+      ]
     },
     {
       "id": "A1-025-006",
@@ -190,35 +246,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "author",
+      "word": "artificial",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "comparative": "artificialer",
+        "superlative": "artificialest"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"author\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞)",
+          "definition": "Made or produced by human beings rather than occurring naturally, typically as a..."
         }
       ],
       "examples": [
         {
-          "en": "The author is very useful.",
+          "en": "This drink contains artificial flavors.",
           "highlight": [
-            "author"
+            "artificial"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "synthetic",
+        "fake"
+      ],
+      "antonyms": [
+        "natural",
+        "real"
+      ],
+      "phrases": [
+        "artificial",
+        "intelligence",
+        "artificial",
+        "light"
+      ]
     },
     {
       "id": "A1-025-007",
@@ -226,35 +295,43 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "authority",
+      "word": "artificially",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"authority\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞)",
+          "definition": "By means of human intervention rather than naturally"
         }
       ],
       "examples": [
         {
-          "en": "The authority is very useful.",
+          "en": "The flowers are artificially grown.",
           "highlight": [
-            "authority"
+            "artificially"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "unnaturally"
+      ],
+      "antonyms": [
+        "naturally"
+      ],
+      "phrases": [
+        "artificially",
+        "colored",
+        "artificially",
+        "flavored"
+      ]
     },
     {
       "id": "A1-025-008",
@@ -262,35 +339,44 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "autumn",
+      "word": "artist",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "artists"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"autumn\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "A person who creates art"
         }
       ],
       "examples": [
         {
-          "en": "The autumn is very useful.",
+          "en": "He is a famous artist.",
           "highlight": [
-            "autumn"
+            "artist"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "creator",
+        "painter"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "professional",
+        "artist",
+        "artist",
+        "community"
+      ]
     },
     {
       "id": "A1-025-009",
@@ -298,35 +384,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "available",
+      "word": "artistic",
       "phonetic": "",
       "pos": [
         "adjective"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "comparative": "artisticer",
+        "superlative": "artisticest"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"available\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞)",
+          "definition": "Having or revealing natural creative skill"
         }
       ],
       "examples": [
         {
-          "en": "This is a very available thing.",
+          "en": "She has great artistic talent.",
           "highlight": [
-            "available"
+            "artistic"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "creative",
+        "imaginative"
+      ],
+      "antonyms": [
+        "unartistic",
+        "uncreative"
+      ],
+      "phrases": [
+        "artistic",
+        "expression",
+        "artistic",
+        "skills"
+      ]
     },
     {
       "id": "A1-025-010",
@@ -334,35 +433,44 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "average",
+      "word": "artistically",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"average\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞)",
+          "definition": "In a way that relates to art or artists"
         }
       ],
       "examples": [
         {
-          "en": "The average is very useful.",
+          "en": "The room was decorated artistically.",
           "highlight": [
-            "average"
+            "artistically"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "creatively",
+        "aesthetically"
+      ],
+      "antonyms": [
+        "unartistically"
+      ],
+      "phrases": [
+        "artistically",
+        "inclined",
+        "artistically",
+        "gifted"
+      ]
     }
   ]
 }

@@ -2,7 +2,6 @@
   "level": 8,
   "tier": "basic",
   "cefr": "A1",
-  "_skeleton": true,
   "words": [
     {
       "id": "A1-008-001",
@@ -10,35 +9,46 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "acknowledge",
+      "word": "accidentally",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"acknowledge\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞)",
+          "definition": "By chance; in a way that was not planned or intended"
         }
       ],
       "examples": [
         {
-          "en": "The acknowledge is very useful.",
+          "en": "She accidentally spilled the milk.",
           "highlight": [
-            "acknowledge"
+            "accidentally"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "unintentionally",
+        "by",
+        "chance"
+      ],
+      "antonyms": [
+        "deliberately",
+        "intentionally"
+      ],
+      "phrases": [
+        "accidentally",
+        "discovered",
+        "accidentally",
+        "spilled"
+      ]
     },
     {
       "id": "A1-008-002",
@@ -46,35 +56,46 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "acquire",
+      "word": "accommodation",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "accommodations"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"acquire\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "A room, group of rooms, or building in which someone may live or stay"
         }
       ],
       "examples": [
         {
-          "en": "The acquire is very useful.",
+          "en": "She found accommodation at a hotel.",
           "highlight": [
-            "acquire"
+            "accommodation"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "lodging",
+        "housing"
+      ],
+      "antonyms": [
+        "homelessness"
+      ],
+      "phrases": [
+        "student",
+        "accommodation",
+        "temporary",
+        "accommodation"
+      ]
     },
     {
       "id": "A1-008-003",
@@ -82,35 +103,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "across",
+      "word": "accompany",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "accompanyed",
+        "past_participle": "accompanyed",
+        "present_participle": "accompanying",
+        "third_person": "accompanys"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"across\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞)",
+          "definition": "Go somewhere with (someone) as a companion or escort"
         }
       ],
       "examples": [
         {
-          "en": "The across is very useful.",
+          "en": "She will accompany him on the trip.",
           "highlight": [
-            "across"
+            "accompany"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "escort",
+        "chaperone"
+      ],
+      "antonyms": [
+        "desert",
+        "abandon"
+      ],
+      "phrases": [
+        "accompany",
+        "on",
+        "a",
+        "trip",
+        "accompany"
+      ]
     },
     {
       "id": "A1-008-004",
@@ -118,35 +155,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "act",
+      "word": "account",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "accounted",
+        "past_participle": "accounted",
+        "present_participle": "accounting",
+        "third_person": "accounts"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"act\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A report or description of an event or experience"
         }
       ],
       "examples": [
         {
-          "en": "The act is very useful.",
+          "en": "She gave an account of the event.",
           "highlight": [
-            "act"
+            "account"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "report",
+        "description"
+      ],
+      "antonyms": [
+        "ignorance",
+        "neglect"
+      ],
+      "phrases": [
+        "bank",
+        "account",
+        "user",
+        "account"
+      ]
     },
     {
       "id": "A1-008-005",
@@ -154,35 +207,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "action",
+      "word": "accurate",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "comparative": "accurateer",
+        "superlative": "accurateest"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"action\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞)",
+          "definition": "Correct in all details; exact"
         }
       ],
       "examples": [
         {
-          "en": "The action is very useful.",
+          "en": "She provided an accurate report.",
           "highlight": [
-            "action"
+            "accurate"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "correct",
+        "precise"
+      ],
+      "antonyms": [
+        "inaccurate",
+        "incorrect"
+      ],
+      "phrases": [
+        "accurate",
+        "information",
+        "accurate",
+        "measurement"
+      ]
     },
     {
       "id": "A1-008-006",
@@ -190,35 +256,45 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "active",
+      "word": "accurately",
       "phonetic": "",
       "pos": [
-        "adjective"
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"active\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞)",
+          "definition": "In a way that is correct in all details; exactly"
         }
       ],
       "examples": [
         {
-          "en": "This is a very active thing.",
+          "en": "The data was accurately recorded.",
           "highlight": [
-            "active"
+            "accurately"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "exactly",
+        "precisely"
+      ],
+      "antonyms": [
+        "inaccurately",
+        "imprecisely"
+      ],
+      "phrases": [
+        "recorded",
+        "accurately",
+        "measured",
+        "accurately"
+      ]
     },
     {
       "id": "A1-008-007",
@@ -226,35 +302,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "activity",
+      "word": "accuse",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "accuseed",
+        "past_participle": "accuseed",
+        "present_participle": "accusing",
+        "third_person": "accuses"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"activity\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞)",
+          "definition": "Charge (someone) with an offense or crime"
         }
       ],
       "examples": [
         {
-          "en": "The activity is very useful.",
+          "en": "He was accused of theft.",
           "highlight": [
-            "activity"
+            "accuse"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "charge",
+        "indict"
+      ],
+      "antonyms": [
+        "absolve",
+        "exonerate"
+      ],
+      "phrases": [
+        "accuse",
+        "of",
+        "a",
+        "crime",
+        "accuse"
+      ]
     },
     {
       "id": "A1-008-008",
@@ -262,35 +354,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "actor",
+      "word": "achieve",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "achieveed",
+        "past_participle": "achieveed",
+        "present_participle": "achieving",
+        "third_person": "achieves"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"actor\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞)",
+          "definition": "Successfully reach (a desired objective or result) by effort, skill, or courage"
         }
       ],
       "examples": [
         {
-          "en": "The actor is very useful.",
+          "en": "She achieved her goal.",
           "highlight": [
-            "actor"
+            "achieve"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "succeed",
+        "accomplish"
+      ],
+      "antonyms": [
+        "fail",
+        "forfeit"
+      ],
+      "phrases": [
+        "achieve",
+        "success",
+        "achieve",
+        "a",
+        "goal"
+      ]
     },
     {
       "id": "A1-008-009",
@@ -298,35 +406,47 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "actress",
+      "word": "achievement",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "achievements"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"actress\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "A thing done successfully, typically by effort, courage, or skill"
         }
       ],
       "examples": [
         {
-          "en": "The actress is very useful.",
+          "en": "She celebrated her achievement.",
           "highlight": [
-            "actress"
+            "achievement"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "accomplishment",
+        "success"
+      ],
+      "antonyms": [
+        "failure",
+        "defeat"
+      ],
+      "phrases": [
+        "great",
+        "achievement",
+        "remarkable",
+        "achievement"
+      ]
     },
     {
       "id": "A1-008-010",
@@ -334,35 +454,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "actual",
+      "word": "acid",
       "phonetic": "",
       "pos": [
+        "noun",
         "adjective"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "acids"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"actual\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/形容詞)",
+          "definition": "A chemical substance that neutralizes alkalis, dissolves some metals, and turns ..."
         }
       ],
       "examples": [
         {
-          "en": "This is a very actual thing.",
+          "en": "The acid burned his skin.",
           "highlight": [
-            "actual"
+            "acid"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "chemical",
+        "corrosive"
+      ],
+      "antonyms": [
+        "alkaline",
+        "base"
+      ],
+      "phrases": [
+        "acid",
+        "rain",
+        "stomach",
+        "acid"
+      ]
     }
   ]
 }

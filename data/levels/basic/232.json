@@ -2,7 +2,6 @@
   "level": 232,
   "tier": "basic",
   "cefr": "A2",
-  "_skeleton": true,
   "words": [
     {
       "id": "A2-232-001",
@@ -10,35 +9,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "sculpture",
+      "word": "realistic",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "realistics"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"sculpture\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Having or showing a sensible and practical idea of what can be achieved or expec..."
         }
       ],
       "examples": [
         {
-          "en": "The sculpture is very useful.",
+          "en": "He has a realistic view of the situation.",
           "highlight": [
-            "sculpture"
+            "realistic"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "practical",
+        "sensible"
+      ],
+      "antonyms": [
+        "unrealistic",
+        "impractical"
+      ],
+      "phrases": [
+        "realistic",
+        "expectations",
+        "realistic",
+        "approach"
+      ]
     },
     {
       "id": "A2-232-002",
@@ -46,35 +58,51 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "sea",
+      "word": "reality",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "realityed",
+        "past_participle": "realityed",
+        "present_participle": "realitying",
+        "third_person": "realitys"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"sea\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "The state of things as they actually exist, as opposed to an idealistic or notio..."
         }
       ],
       "examples": [
         {
-          "en": "The sea is very useful.",
+          "en": "He needs to face reality.",
           "highlight": [
-            "sea"
+            "reality"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "truth",
+        "fact"
+      ],
+      "antonyms": [
+        "fantasy",
+        "illusion"
+      ],
+      "phrases": [
+        "face",
+        "reality",
+        "harsh",
+        "reality"
+      ]
     },
     {
       "id": "A2-232-003",
@@ -82,35 +110,52 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "search",
+      "word": "realize",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "realizeed",
+        "past_participle": "realizeed",
+        "present_participle": "realizing",
+        "third_person": "realizes"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"search\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞/名詞)",
+          "definition": "Become fully aware of (something) as a fact; understand clearly"
         }
       ],
       "examples": [
         {
-          "en": "The search is very useful.",
+          "en": "She realized her mistake.",
           "highlight": [
-            "search"
+            "realize"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "recognize",
+        "comprehend"
+      ],
+      "antonyms": [
+        "misunderstand",
+        "neglect"
+      ],
+      "phrases": [
+        "realize",
+        "the",
+        "truth",
+        "realize",
+        "a"
+      ]
     },
     {
       "id": "A2-232-004",
@@ -118,151 +163,7 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "season",
-      "phonetic": "",
-      "pos": [
-        "noun"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"season\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "The season is very useful.",
-          "highlight": [
-            "season"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-232-005",
-      "level": 232,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
-      "word": "seat",
-      "phonetic": "",
-      "pos": [
-        "noun"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"seat\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "The seat is very useful.",
-          "highlight": [
-            "seat"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-232-006",
-      "level": 232,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
-      "word": "second",
-      "phonetic": "",
-      "pos": [
-        "noun"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"second\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "The second is very useful.",
-          "highlight": [
-            "second"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-232-007",
-      "level": 232,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
-      "word": "secondary",
-      "phonetic": "",
-      "pos": [
-        "noun"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"secondary\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "The secondary is very useful.",
-          "highlight": [
-            "secondary"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-232-008",
-      "level": 232,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
-      "word": "secondly",
+      "word": "really",
       "phonetic": "",
       "pos": [
         "adverb"
@@ -272,25 +173,231 @@
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"secondly\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞)",
+          "definition": "In actual fact, as opposed to what is said or imagined to be true or possible"
         }
       ],
       "examples": [
         {
-          "en": "She speaks secondly in the meeting.",
+          "en": "I really enjoyed the movie.",
           "highlight": [
-            "secondly"
+            "really"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "truly",
+        "indeed"
+      ],
+      "antonyms": [
+        "barely",
+        "hardly"
+      ],
+      "phrases": [
+        "really",
+        "good",
+        "really",
+        "happy"
+      ]
+    },
+    {
+      "id": "A2-232-005",
+      "level": 232,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 500,
+      "word": "reason",
+      "phonetic": "",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "conjugations": {
+        "past_tense": "reasoned",
+        "past_participle": "reasoned",
+        "present_participle": "reasoning",
+        "third_person": "reasons"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(名詞/動詞)",
+          "definition": "A cause, explanation, or justification for an action or event"
+        }
+      ],
+      "examples": [
+        {
+          "en": "There is a good reason for his actions.",
+          "highlight": [
+            "reason"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "cause",
+        "explanation"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "good",
+        "reason",
+        "main",
+        "reason"
+      ]
+    },
+    {
+      "id": "A2-232-006",
+      "level": 232,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 500,
+      "word": "reasonable",
+      "phonetic": "",
+      "pos": [
+        "adjective",
+        "noun"
+      ],
+      "conjugations": {
+        "plural": "reasonables"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Having sound judgment; fair and sensible"
+        }
+      ],
+      "examples": [
+        {
+          "en": "She made a reasonable decision.",
+          "highlight": [
+            "reasonable"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "sensible",
+        "fair"
+      ],
+      "antonyms": [
+        "unreasonable",
+        "unfair"
+      ],
+      "phrases": [
+        "reasonable",
+        "price",
+        "reasonable",
+        "doubt"
+      ]
+    },
+    {
+      "id": "A2-232-007",
+      "level": 232,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 500,
+      "word": "reasonably",
+      "phonetic": "",
+      "pos": [
+        "adverb"
+      ],
+      "conjugations": {},
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(副詞)",
+          "definition": "In a fair and sensible way"
+        }
+      ],
+      "examples": [
+        {
+          "en": "He acted reasonably in the situation.",
+          "highlight": [
+            "reasonably"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "sensibly",
+        "fairly"
+      ],
+      "antonyms": [
+        "unreasonably"
+      ],
+      "phrases": [
+        "act",
+        "reasonably",
+        "reasonably",
+        "well"
+      ]
+    },
+    {
+      "id": "A2-232-008",
+      "level": 232,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 500,
+      "word": "recall",
+      "phonetic": "",
+      "pos": [
+        "verb",
+        "noun"
+      ],
+      "conjugations": {
+        "past_tense": "recalled",
+        "past_participle": "recalled",
+        "present_participle": "recalling",
+        "third_person": "recalls"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(動詞/名詞)",
+          "definition": "Bring (a fact, event, or situation) back into one's mind; remember"
+        }
+      ],
+      "examples": [
+        {
+          "en": "He recalls the event clearly.",
+          "highlight": [
+            "recall"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "remember",
+        "recollect"
+      ],
+      "antonyms": [
+        "forget",
+        "ignore"
+      ],
+      "phrases": [
+        "recall",
+        "an",
+        "event",
+        "recall",
+        "information"
+      ]
     },
     {
       "id": "A2-232-009",
@@ -298,35 +405,52 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "secret",
+      "word": "receive",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "receiveed",
+        "past_participle": "receiveed",
+        "present_participle": "receiving",
+        "third_person": "receives"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"secret\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞/名詞)",
+          "definition": "Be given, presented with, or paid (something)"
         }
       ],
       "examples": [
         {
-          "en": "The secret is very useful.",
+          "en": "She received a gift.",
           "highlight": [
-            "secret"
+            "receive"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "accept",
+        "get"
+      ],
+      "antonyms": [
+        "send",
+        "give"
+      ],
+      "phrases": [
+        "receive",
+        "a",
+        "gift",
+        "receive",
+        "news"
+      ]
     },
     {
       "id": "A2-232-010",
@@ -334,35 +458,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "secretary",
+      "word": "recent",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "recents"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"secretary\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Having happened, begun, or been done not long ago; belonging to a past period co..."
         }
       ],
       "examples": [
         {
-          "en": "The secretary is very useful.",
+          "en": "The recent news is shocking.",
           "highlight": [
-            "secretary"
+            "recent"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "new",
+        "current"
+      ],
+      "antonyms": [
+        "old",
+        "past"
+      ],
+      "phrases": [
+        "recent",
+        "events",
+        "recent",
+        "developments"
+      ]
     }
   ]
 }

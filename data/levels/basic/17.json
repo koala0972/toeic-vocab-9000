@@ -2,7 +2,6 @@
   "level": 17,
   "tier": "basic",
   "cefr": "A1",
-  "_skeleton": true,
   "words": [
     {
       "id": "A1-017-001",
@@ -10,35 +9,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "announce",
+      "word": "alter",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "altered",
+        "past_participle": "altered",
+        "present_participle": "altering",
+        "third_person": "alters"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"announce\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞)",
+          "definition": "Change or cause to change in character or composition"
         }
       ],
       "examples": [
         {
-          "en": "The announce is very useful.",
+          "en": "He altered his appearance.",
           "highlight": [
-            "announce"
+            "alter"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "change",
+        "modify"
+      ],
+      "antonyms": [
+        "keep",
+        "maintain"
+      ],
+      "phrases": [
+        "alter",
+        "the",
+        "plan",
+        "alter",
+        "the"
+      ]
     },
     {
       "id": "A1-017-002",
@@ -46,35 +61,45 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "announcement",
+      "word": "alternative",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "alternatives"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"announcement\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/形容詞)",
+          "definition": "Available as another possibility or choice"
         }
       ],
       "examples": [
         {
-          "en": "The announcement is very useful.",
+          "en": "There is an alternative route.",
           "highlight": [
-            "announcement"
+            "alternative"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "option",
+        "choice"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "alternative",
+        "option",
+        "alternative",
+        "solution"
+      ]
     },
     {
       "id": "A1-017-003",
@@ -82,35 +107,42 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "annoy",
+      "word": "alternatively",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"annoy\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞)",
+          "definition": "As another option or possibility"
         }
       ],
       "examples": [
         {
-          "en": "The annoy is very useful.",
+          "en": "You could alternatively use a different tool.",
           "highlight": [
-            "annoy"
+            "alternatively"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "optionally",
+        "otherwise"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "use",
+        "alternatively",
+        "consider",
+        "alternatively"
+      ]
     },
     {
       "id": "A1-017-004",
@@ -118,35 +150,43 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "annoyed",
+      "word": "although",
       "phonetic": "",
       "pos": [
-        "verb"
+        "conjunction"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"annoyed\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(連接詞)",
+          "definition": "In spite of the fact that; even though"
         }
       ],
       "examples": [
         {
-          "en": "I need to annoyed this morning.",
+          "en": "Although it was raining, we went for a walk.",
           "highlight": [
-            "annoyed"
+            "although"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "though",
+        "even",
+        "though"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "although",
+        "difficult",
+        "although",
+        "true"
+      ]
     },
     {
       "id": "A1-017-005",
@@ -154,35 +194,45 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "annoying",
+      "word": "altogether",
       "phonetic": "",
       "pos": [
-        "verb"
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"annoying\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞)",
+          "definition": "Completely; totally"
         }
       ],
       "examples": [
         {
-          "en": "I need to annoying this morning.",
+          "en": "She stopped seeing him altogether.",
           "highlight": [
-            "annoying"
+            "altogether"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "completely",
+        "entirely"
+      ],
+      "antonyms": [
+        "partially",
+        "incompletely"
+      ],
+      "phrases": [
+        "altogether",
+        "different",
+        "altogether",
+        "gone"
+      ]
     },
     {
       "id": "A1-017-006",
@@ -190,35 +240,45 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "annual",
+      "word": "always",
       "phonetic": "",
       "pos": [
-        "adjective"
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"annual\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞)",
+          "definition": "At all times; on all occasions"
         }
       ],
       "examples": [
         {
-          "en": "This is a very annual thing.",
+          "en": "She always arrives on time.",
           "highlight": [
-            "annual"
+            "always"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "constantly",
+        "forever"
+      ],
+      "antonyms": [
+        "never",
+        "sometimes"
+      ],
+      "phrases": [
+        "always",
+        "happy",
+        "always",
+        "ready"
+      ]
     },
     {
       "id": "A1-017-007",
@@ -226,35 +286,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "another",
+      "word": "amaze",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "amazeed",
+        "past_participle": "amazeed",
+        "present_participle": "amazing",
+        "third_person": "amazes"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"another\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞)",
+          "definition": "Surprise (someone) greatly; fill with astonishment"
         }
       ],
       "examples": [
         {
-          "en": "The another is very useful.",
+          "en": "The performance amazed everyone.",
           "highlight": [
-            "another"
+            "amaze"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "astonish",
+        "astound"
+      ],
+      "antonyms": [
+        "bore",
+        "disinterest"
+      ],
+      "phrases": [
+        "amaze",
+        "people",
+        "never",
+        "cease",
+        "to"
+      ]
     },
     {
       "id": "A1-017-008",
@@ -262,35 +338,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "answer",
+      "word": "amazed",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "comparative": "amazeder",
+        "superlative": "amazedest"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"answer\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞)",
+          "definition": "Greatly surprised; astonished"
         }
       ],
       "examples": [
         {
-          "en": "The answer is very useful.",
+          "en": "She was amazed by the news.",
           "highlight": [
-            "answer"
+            "amazed"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "astonished",
+        "astounded"
+      ],
+      "antonyms": [
+        "indifferent",
+        "unsurprised"
+      ],
+      "phrases": [
+        "amazed",
+        "at",
+        "amazed",
+        "by"
+      ]
     },
     {
       "id": "A1-017-009",
@@ -298,35 +387,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "anxious",
+      "word": "amazing",
       "phonetic": "",
       "pos": [
         "adjective"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "comparative": "amazinger",
+        "superlative": "amazingest"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"anxious\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞)",
+          "definition": "Causing great surprise or wonder; astonishing"
         }
       ],
       "examples": [
         {
-          "en": "This is a very anxious thing.",
+          "en": "The view is amazing.",
           "highlight": [
-            "anxious"
+            "amazing"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "astonishing",
+        "astounding"
+      ],
+      "antonyms": [
+        "ordinary",
+        "unremarkable"
+      ],
+      "phrases": [
+        "amazing",
+        "experience",
+        "amazing",
+        "talent"
+      ]
     },
     {
       "id": "A1-017-010",
@@ -334,35 +436,47 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "any",
+      "word": "ambition",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "ambitions"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"any\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "A strong desire to do or achieve something"
         }
       ],
       "examples": [
         {
-          "en": "The any is very useful.",
+          "en": "His ambition is to become a doctor.",
           "highlight": [
-            "any"
+            "ambition"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "aspiration",
+        "goal"
+      ],
+      "antonyms": [
+        "indifference",
+        "laziness"
+      ],
+      "phrases": [
+        "career",
+        "ambition",
+        "lifelong",
+        "ambition"
+      ]
     }
   ]
 }

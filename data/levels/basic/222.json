@@ -2,7 +2,6 @@
   "level": 222,
   "tier": "basic",
   "cefr": "A2",
-  "_skeleton": true,
   "words": [
     {
       "id": "A2-222-001",
@@ -10,35 +9,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "research",
+      "word": "previous",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "previouses"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"research\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Existing or occurring before in time or order"
         }
       ],
       "examples": [
         {
-          "en": "The research is very useful.",
+          "en": "She returned to her previous job.",
           "highlight": [
-            "research"
+            "previous"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "earlier",
+        "prior"
+      ],
+      "antonyms": [
+        "later",
+        "subsequent"
+      ],
+      "phrases": [
+        "previous",
+        "job",
+        "previous",
+        "experience"
+      ]
     },
     {
       "id": "A2-222-002",
@@ -46,35 +58,45 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "researcher",
+      "word": "previously",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"researcher\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞)",
+          "definition": "At a previous or earlier time; before"
         }
       ],
       "examples": [
         {
-          "en": "The researcher is very useful.",
+          "en": "He was previously married.",
           "highlight": [
-            "researcher"
+            "previously"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "before",
+        "earlier"
+      ],
+      "antonyms": [
+        "later",
+        "after"
+      ],
+      "phrases": [
+        "previously",
+        "mentioned",
+        "previously",
+        "known"
+      ]
     },
     {
       "id": "A2-222-003",
@@ -82,35 +104,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "reservation",
+      "word": "price",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "priceed",
+        "past_participle": "priceed",
+        "present_participle": "pricing",
+        "third_person": "prices"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"reservation\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "The amount of money expected, required, or given in payment for something"
         }
       ],
       "examples": [
         {
-          "en": "The reservation is very useful.",
+          "en": "The price of the book is $20.",
           "highlight": [
-            "reservation"
+            "price"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "cost",
+        "value"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "high",
+        "price",
+        "price",
+        "tag"
+      ]
     },
     {
       "id": "A2-222-004",
@@ -118,35 +153,52 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "reserve",
+      "word": "pride",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "prideed",
+        "past_participle": "prideed",
+        "present_participle": "priding",
+        "third_person": "prides"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"reserve\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A feeling or deep pleasure or satisfaction derived from one's own achievements"
         }
       ],
       "examples": [
         {
-          "en": "The reserve is very useful.",
+          "en": "She felt a great sense of pride.",
           "highlight": [
-            "reserve"
+            "pride"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "self-respect",
+        "dignity"
+      ],
+      "antonyms": [
+        "shame",
+        "disgrace"
+      ],
+      "phrases": [
+        "sense",
+        "of",
+        "pride",
+        "pride",
+        "in"
+      ]
     },
     {
       "id": "A2-222-005",
@@ -154,35 +206,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "resident",
+      "word": "primary",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "primaries"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"resident\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Of chief importance; principal"
         }
       ],
       "examples": [
         {
-          "en": "The resident is very useful.",
+          "en": "Their primary concern is safety.",
           "highlight": [
-            "resident"
+            "primary"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "main",
+        "principal"
+      ],
+      "antonyms": [
+        "secondary",
+        "minor"
+      ],
+      "phrases": [
+        "primary",
+        "concern",
+        "primary",
+        "goal"
+      ]
     },
     {
       "id": "A2-222-006",
@@ -190,35 +255,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "resist",
+      "word": "principal",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "principals"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"resist\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "First in order of importance; main"
         }
       ],
       "examples": [
         {
-          "en": "The resist is very useful.",
+          "en": "The principal reason for the change is cost.",
           "highlight": [
-            "resist"
+            "principal"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "main",
+        "primary"
+      ],
+      "antonyms": [
+        "secondary",
+        "minor"
+      ],
+      "phrases": [
+        "principal",
+        "reason",
+        "principal",
+        "office"
+      ]
     },
     {
       "id": "A2-222-007",
@@ -226,35 +304,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "resolve",
+      "word": "principle",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "principleed",
+        "past_participle": "principleed",
+        "present_participle": "principling",
+        "third_person": "principles"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"resolve\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A fundamental truth or proposition that serves as the foundation for a system of..."
         }
       ],
       "examples": [
         {
-          "en": "The resolve is very useful.",
+          "en": "He is a man of principle.",
           "highlight": [
-            "resolve"
+            "principle"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "truth",
+        "rule"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "moral",
+        "principle",
+        "basic",
+        "principle"
+      ]
     },
     {
       "id": "A2-222-008",
@@ -262,35 +353,49 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "resort",
+      "word": "print",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "printed",
+        "past_participle": "printed",
+        "present_participle": "printing",
+        "third_person": "prints"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"resort\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞/名詞)",
+          "definition": "Produce (books, newspapers, magazines, etc.), especially in large quantities, by..."
         }
       ],
       "examples": [
         {
-          "en": "The resort is very useful.",
+          "en": "They print the newspaper every morning.",
           "highlight": [
-            "resort"
+            "print"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "publish",
+        "produce"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "print",
+        "a",
+        "book",
+        "print",
+        "out"
+      ]
     },
     {
       "id": "A2-222-009",
@@ -298,35 +403,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "resource",
+      "word": "printer",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "printered",
+        "past_participle": "printered",
+        "present_participle": "printering",
+        "third_person": "printers"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"resource\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A machine for printing text or pictures onto paper, especially one linked to a c..."
         }
       ],
       "examples": [
         {
-          "en": "The resource is very useful.",
+          "en": "The printer is out of ink.",
           "highlight": [
-            "resource"
+            "printer"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "printing",
+        "machine"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "laser",
+        "printer",
+        "inkjet",
+        "printer"
+      ]
     },
     {
       "id": "A2-222-010",
@@ -334,35 +452,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "respect",
+      "word": "prior",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "priors"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"respect\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Existing or coming before in time, order, or importance"
         }
       ],
       "examples": [
         {
-          "en": "The respect is very useful.",
+          "en": "She had no prior knowledge of the event.",
           "highlight": [
-            "respect"
+            "prior"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "previous",
+        "earlier"
+      ],
+      "antonyms": [
+        "subsequent",
+        "later"
+      ],
+      "phrases": [
+        "prior",
+        "knowledge",
+        "prior",
+        "to"
+      ]
     }
   ]
 }

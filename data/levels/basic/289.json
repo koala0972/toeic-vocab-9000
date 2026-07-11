@@ -2,7 +2,6 @@
   "level": 289,
   "tier": "basic",
   "cefr": "A2",
-  "_skeleton": true,
   "words": [
     {
       "id": "A2-289-001",
@@ -10,35 +9,46 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "weapon",
+      "word": "thing",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "thinged",
+        "past_participle": "thinged",
+        "present_participle": "thinging",
+        "third_person": "things"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"weapon\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "An object that one need not, cannot, or does not wish to give a specific name to"
         }
       ],
       "examples": [
         {
-          "en": "The weapon is very useful.",
+          "en": "What is that thing on the table?",
           "highlight": [
-            "weapon"
+            "thing"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "object",
+        "item"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "something",
+        "anything"
+      ]
     },
     {
       "id": "A2-289-002",
@@ -46,35 +56,51 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "wear",
+      "word": "think",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "thinked",
+        "past_participle": "thinked",
+        "present_participle": "thinking",
+        "third_person": "thinks"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"wear\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞/名詞)",
+          "definition": "Have a particular opinion, belief, or idea about someone or something"
         }
       ],
       "examples": [
         {
-          "en": "The wear is very useful.",
+          "en": "I think you are right.",
           "highlight": [
-            "wear"
+            "think"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "believe",
+        "consider"
+      ],
+      "antonyms": [
+        "doubt",
+        "disbelieve"
+      ],
+      "phrases": [
+        "think",
+        "about",
+        "think",
+        "of"
+      ]
     },
     {
       "id": "A2-289-003",
@@ -82,35 +108,46 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "weather",
+      "word": "thinking",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "thinkings"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"weather\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/形容詞)",
+          "definition": "The process of considering or reasoning about something"
         }
       ],
       "examples": [
         {
-          "en": "The weather is very useful.",
+          "en": "Her thinking is very logical.",
           "highlight": [
-            "weather"
+            "thinking"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "reasoning",
+        "thought",
+        "process"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "positive",
+        "thinking",
+        "critical",
+        "thinking"
+      ]
     },
     {
       "id": "A2-289-004",
@@ -118,35 +155,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "web",
+      "word": "third",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "thirds"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"web\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Constituting number three in a sequence; 3rd"
         }
       ],
       "examples": [
         {
-          "en": "The web is very useful.",
+          "en": "He finished in third place.",
           "highlight": [
-            "web"
+            "third"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "3rd",
+        "tertiary"
+      ],
+      "antonyms": [
+        "first",
+        "second"
+      ],
+      "phrases": [
+        "third",
+        "place",
+        "third",
+        "time"
+      ]
     },
     {
       "id": "A2-289-005",
@@ -154,35 +204,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "website",
+      "word": "thirsty",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "thirsties"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"website\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Feeling a need to drink something"
         }
       ],
       "examples": [
         {
-          "en": "The website is very useful.",
+          "en": "He was very thirsty after the run.",
           "highlight": [
-            "website"
+            "thirsty"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "parched",
+        "dry"
+      ],
+      "antonyms": [
+        "hydrated",
+        "quenched"
+      ],
+      "phrases": [
+        "thirsty",
+        "work",
+        "feel",
+        "thirsty"
+      ]
     },
     {
       "id": "A2-289-006",
@@ -190,35 +253,46 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "wedding",
+      "word": "thirteen",
       "phonetic": "",
       "pos": [
-        "verb"
+        "noun",
+        "adjective"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "thirteens"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"wedding\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/形容詞)",
+          "definition": "The number equivalent to the sum of ten and three; one more than twelve, or seve..."
         }
       ],
       "examples": [
         {
-          "en": "I need to wedding this morning.",
+          "en": "There are thirteen apples in the basket.",
           "highlight": [
-            "wedding"
+            "thirteen"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "number",
+        "13"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "thirteen",
+        "years",
+        "old",
+        "thirteen",
+        "items"
+      ]
     },
     {
       "id": "A2-289-007",
@@ -226,35 +300,45 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "wednesday",
+      "word": "thirtieth",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "thirtieths"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"wednesday\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Constituting number thirty in a sequence; 30th"
         }
       ],
       "examples": [
         {
-          "en": "The wednesday is very useful.",
+          "en": "She is celebrating her thirtieth birthday.",
           "highlight": [
-            "wednesday"
+            "thirtieth"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "number",
+        "30"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "thirtieth",
+        "birthday",
+        "thirtieth",
+        "anniversary"
+      ]
     },
     {
       "id": "A2-289-008",
@@ -262,35 +346,46 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "week",
+      "word": "thirty",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "thirties"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"week\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/形容詞)",
+          "definition": "The number equivalent to the product of three and ten; ten less than forty"
         }
       ],
       "examples": [
         {
-          "en": "The week is very useful.",
+          "en": "There are thirty students in the class.",
           "highlight": [
-            "week"
+            "thirty"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "number",
+        "30"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "thirty",
+        "years",
+        "old",
+        "thirty",
+        "pieces"
+      ]
     },
     {
       "id": "A2-289-009",
@@ -298,35 +393,47 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "weekend",
+      "word": "this",
       "phonetic": "",
       "pos": [
-        "noun"
+        "pronoun",
+        "determiner"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"weekend\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(代名詞/限定詞)",
+          "definition": "Used to identify a specific person or thing close at hand or being indicated or ..."
         }
       ],
       "examples": [
         {
-          "en": "The weekend is very useful.",
+          "en": "This is my favorite book.",
           "highlight": [
-            "weekend"
+            "this"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "this",
+        "one",
+        "this",
+        "here"
+      ],
+      "antonyms": [
+        "that"
+      ],
+      "phrases": [
+        "this",
+        "one",
+        "this",
+        "time"
+      ]
     },
     {
       "id": "A2-289-010",
@@ -334,35 +441,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "weigh",
+      "word": "thorough",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "thoroughs"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"weigh\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Complete with regard to every detail; not superficial or partial"
         }
       ],
       "examples": [
         {
-          "en": "The weigh is very useful.",
+          "en": "The report was thorough.",
           "highlight": [
-            "weigh"
+            "thorough"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "comprehensive",
+        "detailed"
+      ],
+      "antonyms": [
+        "partial",
+        "superficial"
+      ],
+      "phrases": [
+        "thorough",
+        "investigation",
+        "thorough",
+        "understanding"
+      ]
     }
   ]
 }

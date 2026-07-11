@@ -2,7 +2,6 @@
   "level": 235,
   "tier": "basic",
   "cefr": "A2",
-  "_skeleton": true,
   "words": [
     {
       "id": "A2-235-001",
@@ -10,35 +9,45 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "series",
+      "word": "region",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "regions"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"series\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/形容詞)",
+          "definition": "An area, especially part of a country or the world having definable characterist..."
         }
       ],
       "examples": [
         {
-          "en": "The series is very useful.",
+          "en": "This region is known for its wine.",
           "highlight": [
-            "series"
+            "region"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "area",
+        "zone"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "wine",
+        "region",
+        "coastal",
+        "region"
+      ]
     },
     {
       "id": "A2-235-002",
@@ -46,35 +55,47 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "serious",
+      "word": "regional",
       "phonetic": "",
       "pos": [
-        "adjective"
+        "adjective",
+        "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "regionals"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"serious\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Relating to or characteristic of a region"
         }
       ],
       "examples": [
         {
-          "en": "This is a very serious thing.",
+          "en": "Regional differences can be significant.",
           "highlight": [
-            "serious"
+            "regional"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "local",
+        "provincial"
+      ],
+      "antonyms": [
+        "global"
+      ],
+      "phrases": [
+        "regional",
+        "differences",
+        "regional",
+        "manager"
+      ]
     },
     {
       "id": "A2-235-003",
@@ -82,7 +103,159 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "seriously",
+      "word": "register",
+      "phonetic": "",
+      "pos": [
+        "verb",
+        "noun"
+      ],
+      "conjugations": {
+        "past_tense": "registered",
+        "past_participle": "registered",
+        "present_participle": "registering",
+        "third_person": "registers"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(動詞/名詞)",
+          "definition": "Enter or record on an official list or directory"
+        }
+      ],
+      "examples": [
+        {
+          "en": "She registered for the course.",
+          "highlight": [
+            "register"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "enroll",
+        "record"
+      ],
+      "antonyms": [
+        "deregister"
+      ],
+      "phrases": [
+        "register",
+        "online",
+        "register",
+        "for"
+      ]
+    },
+    {
+      "id": "A2-235-004",
+      "level": 235,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 500,
+      "word": "regret",
+      "phonetic": "",
+      "pos": [
+        "verb",
+        "noun"
+      ],
+      "conjugations": {
+        "past_tense": "regreted",
+        "past_participle": "regreted",
+        "present_participle": "regreting",
+        "third_person": "regrets"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(動詞/名詞)",
+          "definition": "Feel sad, repentant, or disappointed over (something that one has done or failed..."
+        }
+      ],
+      "examples": [
+        {
+          "en": "He regretted his decision.",
+          "highlight": [
+            "regret"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "repent",
+        "lament"
+      ],
+      "antonyms": [
+        "satisfaction",
+        "rejoice"
+      ],
+      "phrases": [
+        "express",
+        "regret",
+        "deep",
+        "regret"
+      ]
+    },
+    {
+      "id": "A2-235-005",
+      "level": 235,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 500,
+      "word": "regular",
+      "phonetic": "",
+      "pos": [
+        "adjective",
+        "noun"
+      ],
+      "conjugations": {
+        "plural": "regulars"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Arranged in or constituting a constant or definite pattern, especially with the ..."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She has a regular schedule.",
+          "highlight": [
+            "regular"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "consistent",
+        "habitual"
+      ],
+      "antonyms": [
+        "irregular",
+        "infrequent"
+      ],
+      "phrases": [
+        "regular",
+        "schedule",
+        "regular",
+        "basis"
+      ]
+    },
+    {
+      "id": "A2-235-006",
+      "level": 235,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 500,
+      "word": "regularly",
       "phonetic": "",
       "pos": [
         "adverb"
@@ -92,133 +265,35 @@
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"seriously\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞)",
+          "definition": "With a constant or definite pattern, especially with the same space between indi..."
         }
       ],
       "examples": [
         {
-          "en": "She speaks seriously in the meeting.",
+          "en": "She exercises regularly.",
           "highlight": [
-            "seriously"
+            "regularly"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-235-004",
-      "level": 235,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
-      "word": "servant",
-      "phonetic": "",
-      "pos": [
-        "noun"
+      "synonyms": [
+        "consistently",
+        "habitually"
       ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"servant\" 的中文釋義（待 LLM 補完）"
-        }
+      "antonyms": [
+        "irregularly",
+        "infrequently"
       ],
-      "examples": [
-        {
-          "en": "The servant is very useful.",
-          "highlight": [
-            "servant"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-235-005",
-      "level": 235,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
-      "word": "serve",
-      "phonetic": "",
-      "pos": [
-        "noun"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"serve\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "The serve is very useful.",
-          "highlight": [
-            "serve"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-235-006",
-      "level": 235,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
-      "word": "service",
-      "phonetic": "",
-      "pos": [
-        "noun"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"service\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "The service is very useful.",
-          "highlight": [
-            "service"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "exercise",
+        "regularly",
+        "check",
+        "regularly"
+      ]
     },
     {
       "id": "A2-235-007",
@@ -226,35 +301,51 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "session",
+      "word": "regulation",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "regulationed",
+        "past_participle": "regulationed",
+        "present_participle": "regulationing",
+        "third_person": "regulations"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"session\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A rule or directive made and maintained by an authority"
         }
       ],
       "examples": [
         {
-          "en": "The session is very useful.",
+          "en": "There are strict regulations on this matter.",
           "highlight": [
-            "session"
+            "regulation"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "rule",
+        "directive"
+      ],
+      "antonyms": [
+        "disorder",
+        "lawlessness"
+      ],
+      "phrases": [
+        "strict",
+        "regulation",
+        "government",
+        "regulation"
+      ]
     },
     {
       "id": "A2-235-008",
@@ -262,35 +353,52 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "set",
+      "word": "reject",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "rejected",
+        "past_participle": "rejected",
+        "present_participle": "rejecting",
+        "third_person": "rejects"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"set\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞/名詞)",
+          "definition": "Dismiss as inadequate, inappropriate, or not to one's taste"
         }
       ],
       "examples": [
         {
-          "en": "The set is very useful.",
+          "en": "She rejected the offer.",
           "highlight": [
-            "set"
+            "reject"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "decline",
+        "refuse"
+      ],
+      "antonyms": [
+        "accept",
+        "approve"
+      ],
+      "phrases": [
+        "reject",
+        "an",
+        "offer",
+        "reject",
+        "a"
+      ]
     },
     {
       "id": "A2-235-009",
@@ -298,35 +406,51 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "setting",
+      "word": "relate",
       "phonetic": "",
       "pos": [
-        "verb"
+        "verb",
+        "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "relateed",
+        "past_participle": "relateed",
+        "present_participle": "relating",
+        "third_person": "relates"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"setting\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞/名詞)",
+          "definition": "Make or show a connection between"
         }
       ],
       "examples": [
         {
-          "en": "I need to setting this morning.",
+          "en": "Can you relate to this situation?",
           "highlight": [
-            "setting"
+            "relate"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "connect",
+        "associate"
+      ],
+      "antonyms": [
+        "disconnect",
+        "separate"
+      ],
+      "phrases": [
+        "relate",
+        "to",
+        "relate",
+        "with"
+      ]
     },
     {
       "id": "A2-235-010",
@@ -334,35 +458,51 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "settle",
+      "word": "related",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "relateded",
+        "past_participle": "relateded",
+        "present_participle": "relateding",
+        "third_person": "relateds"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"settle\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/動詞)",
+          "definition": "Belonging to the same group, connected"
         }
       ],
       "examples": [
         {
-          "en": "The settle is very useful.",
+          "en": "They are related by blood.",
           "highlight": [
-            "settle"
+            "related"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "connected",
+        "linked"
+      ],
+      "antonyms": [
+        "unrelated",
+        "separate"
+      ],
+      "phrases": [
+        "closely",
+        "related",
+        "directly",
+        "related"
+      ]
     }
   ]
 }

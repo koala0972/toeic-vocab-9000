@@ -2,7 +2,6 @@
   "level": 60,
   "tier": "basic",
   "cefr": "A1",
-  "_skeleton": true,
   "words": [
     {
       "id": "A1-060-001",
@@ -10,35 +9,44 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "connect",
+      "word": "closely",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"connect\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞)",
+          "definition": "With little or no space or time in between"
         }
       ],
       "examples": [
         {
-          "en": "The connect is very useful.",
+          "en": "She followed closely behind him.",
           "highlight": [
-            "connect"
+            "closely"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "nearly",
+        "almost"
+      ],
+      "antonyms": [
+        "distantly"
+      ],
+      "phrases": [
+        "closely",
+        "related",
+        "closely",
+        "monitor"
+      ]
     },
     {
       "id": "A1-060-002",
@@ -46,35 +54,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "connected",
+      "word": "closet",
       "phonetic": "",
       "pos": [
+        "noun",
         "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "closeted",
+        "past_participle": "closeted",
+        "present_participle": "closeting",
+        "third_person": "closets"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"connected\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A cupboard or wardrobe, especially one tall enough to walk into"
         }
       ],
       "examples": [
         {
-          "en": "I need to connected this morning.",
+          "en": "She hung her coat in the closet.",
           "highlight": [
-            "connected"
+            "closet"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "wardrobe",
+        "cupboard"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "walk-in",
+        "closet",
+        "clothes",
+        "closet"
+      ]
     },
     {
       "id": "A1-060-003",
@@ -82,35 +103,45 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "connection",
+      "word": "cloth",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "cloths"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"connection\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "Woven or felted fabric made from wool, cotton, or a similar fiber"
         }
       ],
       "examples": [
         {
-          "en": "The connection is very useful.",
+          "en": "The cloth was soft and smooth.",
           "highlight": [
-            "connection"
+            "cloth"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "fabric",
+        "textile"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "cotton",
+        "cloth",
+        "piece",
+        "of",
+        "cloth"
+      ]
     },
     {
       "id": "A1-060-004",
@@ -118,35 +149,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "conscious",
+      "word": "clothes",
       "phonetic": "",
       "pos": [
-        "adjective"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "clothesed",
+        "past_participle": "clothesed",
+        "present_participle": "clothesing",
+        "third_person": "clotheses"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"conscious\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "Items worn to cover the body"
         }
       ],
       "examples": [
         {
-          "en": "This is a very conscious thing.",
+          "en": "She bought new clothes.",
           "highlight": [
-            "conscious"
+            "clothes"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "apparel",
+        "attire"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "winter",
+        "clothes",
+        "new",
+        "clothes"
+      ]
     },
     {
       "id": "A1-060-005",
@@ -154,35 +198,50 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "consequence",
+      "word": "clothing",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "clothinged",
+        "past_participle": "clothinged",
+        "present_participle": "clothinging",
+        "third_person": "clothings"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"consequence\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "Items worn to cover the body"
         }
       ],
       "examples": [
         {
-          "en": "The consequence is very useful.",
+          "en": "Winter clothing is now on sale.",
           "highlight": [
-            "consequence"
+            "clothing"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "attire",
+        "garments"
+      ],
+      "antonyms": [
+        "nakedness"
+      ],
+      "phrases": [
+        "winter",
+        "clothing",
+        "clothing",
+        "store"
+      ]
     },
     {
       "id": "A1-060-006",
@@ -190,35 +249,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "conservative",
+      "word": "cloud",
       "phonetic": "",
       "pos": [
-        "adjective"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "clouded",
+        "past_participle": "clouded",
+        "present_participle": "clouding",
+        "third_person": "clouds"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"conservative\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A visible mass of condensed watery vapor floating in the atmosphere, typically h..."
         }
       ],
       "examples": [
         {
-          "en": "This is a very conservative thing.",
+          "en": "The sky was full of dark clouds.",
           "highlight": [
-            "conservative"
+            "cloud"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "vapor",
+        "mist"
+      ],
+      "antonyms": [
+        "clear",
+        "sky"
+      ],
+      "phrases": [
+        "rain",
+        "cloud",
+        "cloud",
+        "formation"
+      ]
     },
     {
       "id": "A1-060-007",
@@ -226,35 +301,49 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "consider",
+      "word": "club",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "clubed",
+        "past_participle": "clubed",
+        "present_participle": "clubing",
+        "third_person": "clubs"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"consider\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "An association dedicated to a particular interest or activity"
         }
       ],
       "examples": [
         {
-          "en": "The consider is very useful.",
+          "en": "He joined the chess club.",
           "highlight": [
-            "consider"
+            "club"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "society",
+        "group"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "sports",
+        "club",
+        "join",
+        "a",
+        "club"
+      ]
     },
     {
       "id": "A1-060-008",
@@ -262,35 +351,46 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "consideration",
+      "word": "coal",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "coals"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"consideration\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/形容詞)",
+          "definition": "A combustible black or dark brown rock consisting chiefly of carbonized plant ma..."
         }
       ],
       "examples": [
         {
-          "en": "The consideration is very useful.",
+          "en": "Coal is used as a fuel.",
           "highlight": [
-            "consideration"
+            "coal"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "charcoal",
+        "fossil",
+        "fuel"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "coal",
+        "mine",
+        "coal",
+        "industry"
+      ]
     },
     {
       "id": "A1-060-009",
@@ -298,35 +398,50 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "consist",
+      "word": "coast",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "coasted",
+        "past_participle": "coasted",
+        "present_participle": "coasting",
+        "third_person": "coasts"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"consist\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "The part of the land adjoining or near the sea"
         }
       ],
       "examples": [
         {
-          "en": "The consist is very useful.",
+          "en": "They walked along the coast.",
           "highlight": [
-            "consist"
+            "coast"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "shore",
+        "coastline"
+      ],
+      "antonyms": [
+        "inland"
+      ],
+      "phrases": [
+        "west",
+        "coast",
+        "east",
+        "coast"
+      ]
     },
     {
       "id": "A1-060-010",
@@ -334,35 +449,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "consistent",
+      "word": "coat",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "coated",
+        "past_participle": "coated",
+        "present_participle": "coating",
+        "third_person": "coats"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"consistent\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "An outer garment worn outdoors, typically having sleeves and fastening down the ..."
         }
       ],
       "examples": [
         {
-          "en": "The consistent is very useful.",
+          "en": "She wore a warm coat.",
           "highlight": [
-            "consistent"
+            "coat"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "jacket",
+        "overcoat"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "winter",
+        "coat",
+        "fur",
+        "coat"
+      ]
     }
   ]
 }

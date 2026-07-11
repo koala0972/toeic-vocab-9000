@@ -2,7 +2,6 @@
   "level": 205,
   "tier": "basic",
   "cefr": "A2",
-  "_skeleton": true,
   "words": [
     {
       "id": "A2-205-001",
@@ -10,35 +9,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "printing",
+      "word": "owner",
       "phonetic": "",
       "pos": [
+        "noun",
         "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "ownered",
+        "past_participle": "ownered",
+        "present_participle": "ownering",
+        "third_person": "owners"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"printing\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A person who owns something"
         }
       ],
       "examples": [
         {
-          "en": "I need to printing this morning.",
+          "en": "She is the owner of the shop.",
           "highlight": [
-            "printing"
+            "owner"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "proprietor",
+        "holder"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "shop",
+        "owner",
+        "property",
+        "owner"
+      ]
     },
     {
       "id": "A2-205-002",
@@ -46,35 +58,45 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "priority",
+      "word": "oxygen",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "oxygened",
+        "past_participle": "oxygened",
+        "present_participle": "oxygening",
+        "third_person": "oxygens"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"priority\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A colorless, odorless reactive gas, the chemical element of atomic number 8 and ..."
         }
       ],
       "examples": [
         {
-          "en": "The priority is very useful.",
+          "en": "Plants produce oxygen.",
           "highlight": [
-            "priority"
+            "oxygen"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
       "synonyms": [],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "oxygen",
+        "supply",
+        "oxygen",
+        "level"
+      ]
     },
     {
       "id": "A2-205-003",
@@ -82,35 +104,51 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "prison",
+      "word": "pack",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "packed",
+        "past_participle": "packed",
+        "present_participle": "packing",
+        "third_person": "packs"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"prison\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞/名詞)",
+          "definition": "Fill (a suitcase or bag), especially with clothes and other items needed when aw..."
         }
       ],
       "examples": [
         {
-          "en": "The prison is very useful.",
+          "en": "She needs to pack her suitcase.",
           "highlight": [
-            "prison"
+            "pack"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "prepare",
+        "bundle"
+      ],
+      "antonyms": [
+        "unpack"
+      ],
+      "phrases": [
+        "pack",
+        "a",
+        "bag",
+        "pack",
+        "luggage"
+      ]
     },
     {
       "id": "A2-205-004",
@@ -118,35 +156,49 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "prisoner",
+      "word": "package",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "packageed",
+        "past_participle": "packageed",
+        "present_participle": "packaging",
+        "third_person": "packages"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"prisoner\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "An object or group of objects wrapped in paper or packed in a box"
         }
       ],
       "examples": [
         {
-          "en": "The prisoner is very useful.",
+          "en": "The package arrived on time.",
           "highlight": [
-            "prisoner"
+            "package"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "parcel",
+        "box"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "mail",
+        "a",
+        "package",
+        "receive",
+        "a"
+      ]
     },
     {
       "id": "A2-205-005",
@@ -154,35 +206,49 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "privacy",
+      "word": "page",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "pageed",
+        "past_participle": "pageed",
+        "present_participle": "paging",
+        "third_person": "pages"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"privacy\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "One or both sides of a sheet of paper in a book, magazine, newspaper, or other c..."
         }
       ],
       "examples": [
         {
-          "en": "The privacy is very useful.",
+          "en": "Please turn to page 20.",
           "highlight": [
-            "privacy"
+            "page"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "sheet",
+        "leaf"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "page",
+        "number",
+        "turn",
+        "the",
+        "page"
+      ]
     },
     {
       "id": "A2-205-006",
@@ -190,35 +256,51 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "private",
+      "word": "pain",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "pained",
+        "past_participle": "pained",
+        "present_participle": "paining",
+        "third_person": "pains"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"private\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "Physical suffering or discomfort caused by illness or injury"
         }
       ],
       "examples": [
         {
-          "en": "The private is very useful.",
+          "en": "He felt a sharp pain in his leg.",
           "highlight": [
-            "private"
+            "pain"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "ache",
+        "discomfort"
+      ],
+      "antonyms": [
+        "pleasure",
+        "comfort"
+      ],
+      "phrases": [
+        "sharp",
+        "pain",
+        "feel",
+        "pain"
+      ]
     },
     {
       "id": "A2-205-007",
@@ -226,35 +308,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "prize",
+      "word": "painful",
       "phonetic": "",
       "pos": [
-        "verb"
+        "adjective",
+        "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "painfuls"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"prize\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Causing physical pain"
         }
       ],
       "examples": [
         {
-          "en": "I need to prize this morning.",
+          "en": "The injury was very painful.",
           "highlight": [
-            "prize"
+            "painful"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "aching",
+        "hurting"
+      ],
+      "antonyms": [
+        "painless",
+        "comfortable"
+      ],
+      "phrases": [
+        "very",
+        "painful",
+        "painful",
+        "experience"
+      ]
     },
     {
       "id": "A2-205-008",
@@ -262,35 +357,49 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "probably",
+      "word": "paint",
       "phonetic": "",
       "pos": [
-        "adverb"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "painted",
+        "past_participle": "painted",
+        "present_participle": "painting",
+        "third_person": "paints"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"probably\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A colored substance that is spread over a surface and dries to leave a thin deco..."
         }
       ],
       "examples": [
         {
-          "en": "She speaks probably in the meeting.",
+          "en": "She chose a bright color to paint her room.",
           "highlight": [
-            "probably"
+            "paint"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "color",
+        "coat"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "paint",
+        "a",
+        "wall",
+        "paint",
+        "a"
+      ]
     },
     {
       "id": "A2-205-009",
@@ -298,35 +407,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "problem",
+      "word": "painter",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "paintered",
+        "past_participle": "paintered",
+        "present_participle": "paintering",
+        "third_person": "painters"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"problem\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A person who paints, especially as a job or hobby"
         }
       ],
       "examples": [
         {
-          "en": "The problem is very useful.",
+          "en": "The painter worked on the mural for days.",
           "highlight": [
-            "problem"
+            "painter"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "artist",
+        "decorator"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "famous",
+        "painter",
+        "house",
+        "painter"
+      ]
     },
     {
       "id": "A2-205-010",
@@ -334,35 +456,49 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "procedure",
+      "word": "painting",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "paintinged",
+        "past_participle": "paintinged",
+        "present_participle": "paintinging",
+        "third_person": "paintings"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"procedure\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "The process or art of using paint, in a picture, as a protective coating, or as ..."
         }
       ],
       "examples": [
         {
-          "en": "The procedure is very useful.",
+          "en": "She admired the painting.",
           "highlight": [
-            "procedure"
+            "painting"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "artwork",
+        "picture"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "admire",
+        "a",
+        "painting",
+        "create",
+        "a"
+      ]
     }
   ]
 }

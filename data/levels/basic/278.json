@@ -2,7 +2,6 @@
   "level": 278,
   "tier": "basic",
   "cefr": "A2",
-  "_skeleton": true,
   "words": [
     {
       "id": "A2-278-001",
@@ -10,35 +9,52 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "two",
+      "word": "success",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "successed",
+        "past_participle": "successed",
+        "present_participle": "successing",
+        "third_person": "successes"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"two\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "The accomplishment of an aim or purpose"
         }
       ],
       "examples": [
         {
-          "en": "The two is very useful.",
+          "en": "She achieved great success in her career.",
           "highlight": [
-            "two"
+            "success"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "achievement",
+        "accomplishment"
+      ],
+      "antonyms": [
+        "failure",
+        "defeat"
+      ],
+      "phrases": [
+        "measure",
+        "of",
+        "success",
+        "success",
+        "story"
+      ]
     },
     {
       "id": "A2-278-002",
@@ -46,35 +62,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "type",
+      "word": "successful",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "successfuls"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"type\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Accomplishing an aim or purpose"
         }
       ],
       "examples": [
         {
-          "en": "The type is very useful.",
+          "en": "The project was successful.",
           "highlight": [
-            "type"
+            "successful"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "achieving",
+        "triumphant"
+      ],
+      "antonyms": [
+        "unsuccessful",
+        "failed"
+      ],
+      "phrases": [
+        "successful",
+        "businessman",
+        "successful",
+        "attempt"
+      ]
     },
     {
       "id": "A2-278-003",
@@ -82,35 +111,45 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "typical",
+      "word": "successfully",
       "phonetic": "",
       "pos": [
-        "adjective"
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"typical\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞)",
+          "definition": "In a way that accomplishes the desired aim or result"
         }
       ],
       "examples": [
         {
-          "en": "This is a very typical thing.",
+          "en": "She successfully completed the task.",
           "highlight": [
-            "typical"
+            "successfully"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "effectively",
+        "efficiently"
+      ],
+      "antonyms": [
+        "unsuccessfully",
+        "ineffectively"
+      ],
+      "phrases": [
+        "successfully",
+        "complete",
+        "successfully",
+        "implement"
+      ]
     },
     {
       "id": "A2-278-004",
@@ -118,35 +157,50 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "typically",
+      "word": "such",
       "phonetic": "",
       "pos": [
-        "adverb"
+        "determiner",
+        "adjective"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "comparative": "sucher",
+        "superlative": "suchest"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"typically\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(限定詞/形容詞)",
+          "definition": "Of the type previously mentioned"
         }
       ],
       "examples": [
         {
-          "en": "She speaks typically in the meeting.",
+          "en": "She had never seen such a beautiful sunset.",
           "highlight": [
-            "typically"
+            "such"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "so",
+        "that"
+      ],
+      "antonyms": [
+        "different",
+        "another"
+      ],
+      "phrases": [
+        "such",
+        "a",
+        "thing",
+        "such",
+        "as"
+      ]
     },
     {
       "id": "A2-278-005",
@@ -154,35 +208,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "tyre",
+      "word": "sudden",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "suddens"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"tyre\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Occurring or done quickly and unexpectedly or without warning"
         }
       ],
       "examples": [
         {
-          "en": "The tyre is very useful.",
+          "en": "The sudden change surprised everyone.",
           "highlight": [
-            "tyre"
+            "sudden"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "unexpected",
+        "abrupt"
+      ],
+      "antonyms": [
+        "gradual",
+        "expected"
+      ],
+      "phrases": [
+        "sudden",
+        "change",
+        "sudden",
+        "stop"
+      ]
     },
     {
       "id": "A2-278-006",
@@ -190,7 +257,7 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "ugly",
+      "word": "suddenly",
       "phonetic": "",
       "pos": [
         "adverb"
@@ -200,25 +267,35 @@
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"ugly\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞)",
+          "definition": "Quickly and unexpectedly"
         }
       ],
       "examples": [
         {
-          "en": "She speaks ugly in the meeting.",
+          "en": "He suddenly stopped talking.",
           "highlight": [
-            "ugly"
+            "suddenly"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "unexpectedly",
+        "abruptly"
+      ],
+      "antonyms": [
+        "gradually",
+        "expectedly"
+      ],
+      "phrases": [
+        "happen",
+        "suddenly",
+        "appear",
+        "suddenly"
+      ]
     },
     {
       "id": "A2-278-007",
@@ -226,7 +303,161 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "ultimately",
+      "word": "suffer",
+      "phonetic": "",
+      "pos": [
+        "verb",
+        "noun"
+      ],
+      "conjugations": {
+        "past_tense": "suffered",
+        "past_participle": "suffered",
+        "present_participle": "suffering",
+        "third_person": "suffers"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(動詞/名詞)",
+          "definition": "Experience or be subjected to (something bad or unpleasant)"
+        }
+      ],
+      "examples": [
+        {
+          "en": "She suffers from chronic pain.",
+          "highlight": [
+            "suffer"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "endure",
+        "undergo"
+      ],
+      "antonyms": [
+        "enjoy",
+        "relish"
+      ],
+      "phrases": [
+        "suffer",
+        "from",
+        "suffer",
+        "through"
+      ]
+    },
+    {
+      "id": "A2-278-008",
+      "level": 278,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 500,
+      "word": "suffering",
+      "phonetic": "",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "conjugations": {
+        "past_tense": "sufferinged",
+        "past_participle": "sufferinged",
+        "present_participle": "sufferinging",
+        "third_person": "sufferings"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(名詞/動詞)",
+          "definition": "The state of undergoing pain, distress, or hardship"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Her suffering was evident.",
+          "highlight": [
+            "suffering"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "pain",
+        "distress"
+      ],
+      "antonyms": [
+        "pleasure",
+        "joy"
+      ],
+      "phrases": [
+        "pain",
+        "and",
+        "suffering",
+        "end",
+        "suffering"
+      ]
+    },
+    {
+      "id": "A2-278-009",
+      "level": 278,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 500,
+      "word": "sufficient",
+      "phonetic": "",
+      "pos": [
+        "adjective",
+        "noun"
+      ],
+      "conjugations": {
+        "plural": "sufficients"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Enough; adequate"
+        }
+      ],
+      "examples": [
+        {
+          "en": "He made a sufficient effort.",
+          "highlight": [
+            "sufficient"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "adequate",
+        "enough"
+      ],
+      "antonyms": [
+        "insufficient",
+        "inadequate"
+      ],
+      "phrases": [
+        "sufficient",
+        "time",
+        "sufficient",
+        "resources"
+      ]
+    },
+    {
+      "id": "A2-278-010",
+      "level": 278,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 500,
+      "word": "sufficiently",
       "phonetic": "",
       "pos": [
         "adverb"
@@ -236,133 +467,35 @@
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"ultimately\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞)",
+          "definition": "To an adequate degree; enough"
         }
       ],
       "examples": [
         {
-          "en": "She speaks ultimately in the meeting.",
+          "en": "['The funds are sufficiently allocated.']",
           "highlight": [
-            "ultimately"
+            "sufficiently"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-278-008",
-      "level": 278,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
-      "word": "umbrella",
-      "phonetic": "",
-      "pos": [
-        "noun"
+      "synonyms": [
+        "adequately",
+        "enough"
       ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"umbrella\" 的中文釋義（待 LLM 補完）"
-        }
+      "antonyms": [
+        "insufficiently",
+        "inadequately"
       ],
-      "examples": [
-        {
-          "en": "The umbrella is very useful.",
-          "highlight": [
-            "umbrella"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-278-009",
-      "level": 278,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
-      "word": "unable",
-      "phonetic": "",
-      "pos": [
-        "adjective"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"unable\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "This is a very unable thing.",
-          "highlight": [
-            "unable"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-278-010",
-      "level": 278,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
-      "word": "uncle",
-      "phonetic": "",
-      "pos": [
-        "noun"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"uncle\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "The uncle is very useful.",
-          "highlight": [
-            "uncle"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "sufficiently",
+        "prepared",
+        "sufficiently",
+        "large"
+      ]
     }
   ]
 }

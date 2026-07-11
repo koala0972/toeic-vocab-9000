@@ -2,7 +2,6 @@
   "level": 201,
   "tier": "basic",
   "cefr": "A2",
-  "_skeleton": true,
   "words": [
     {
       "id": "A2-201-001",
@@ -10,35 +9,45 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "pound",
+      "word": "one",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "ones"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"pound\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/形容詞)",
+          "definition": "The lowest cardinal number; half of two; 1"
         }
       ],
       "examples": [
         {
-          "en": "The pound is very useful.",
+          "en": "One apple is left.",
           "highlight": [
-            "pound"
+            "one"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "single",
+        "lone"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "one",
+        "person",
+        "one",
+        "more"
+      ]
     },
     {
       "id": "A2-201-002",
@@ -46,35 +55,49 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "pour",
+      "word": "onion",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "onioned",
+        "past_participle": "onioned",
+        "present_participle": "onioning",
+        "third_person": "onions"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"pour\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A swollen edible bulb used as a vegetable, having a pungent taste and smell and ..."
         }
       ],
       "examples": [
         {
-          "en": "The pour is very useful.",
+          "en": "Chop the onion finely.",
           "highlight": [
-            "pour"
+            "onion"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "vegetable",
+        "bulb"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "chop",
+        "an",
+        "onion",
+        "onion",
+        "rings"
+      ]
     },
     {
       "id": "A2-201-003",
@@ -82,35 +105,49 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "poverty",
+      "word": "online",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "adverb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "comparative": "onlineer",
+        "superlative": "onlineest"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"poverty\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/副詞)",
+          "definition": "Controlled by or connected to a computer"
         }
       ],
       "examples": [
         {
-          "en": "The poverty is very useful.",
+          "en": "She is always online.",
           "highlight": [
-            "poverty"
+            "online"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "connected",
+        "wired"
+      ],
+      "antonyms": [
+        "offline",
+        "disconnected"
+      ],
+      "phrases": [
+        "online",
+        "shopping",
+        "online",
+        "class"
+      ]
     },
     {
       "id": "A2-201-004",
@@ -118,35 +155,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "powder",
+      "word": "only",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adverb",
+        "adjective"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "comparative": "onlier",
+        "superlative": "onliest"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"powder\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞/形容詞)",
+          "definition": "And no one or nothing more besides; solely"
         }
       ],
       "examples": [
         {
-          "en": "The powder is very useful.",
+          "en": "It's only a matter of time.",
           "highlight": [
-            "powder"
+            "only"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "solely",
+        "exclusively"
+      ],
+      "antonyms": [
+        "more"
+      ],
+      "phrases": [
+        "only",
+        "child",
+        "only",
+        "one"
+      ]
     },
     {
       "id": "A2-201-005",
@@ -154,35 +204,45 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "power",
+      "word": "onto",
       "phonetic": "",
       "pos": [
-        "noun"
+        "preposition"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"power\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(介係詞)",
+          "definition": "To a position on the surface of"
         }
       ],
       "examples": [
         {
-          "en": "The power is very useful.",
+          "en": "She climbed onto the roof.",
           "highlight": [
-            "power"
+            "onto"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "upon",
+        "over"
+      ],
+      "antonyms": [
+        "off"
+      ],
+      "phrases": [
+        "climb",
+        "onto",
+        "onto",
+        "the",
+        "roof"
+      ]
     },
     {
       "id": "A2-201-006",
@@ -190,35 +250,51 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "powerful",
+      "word": "open",
       "phonetic": "",
       "pos": [
-        "adjective"
+        "adjective",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "opened",
+        "past_participle": "opened",
+        "present_participle": "opening",
+        "third_person": "opens"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"powerful\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/動詞)",
+          "definition": "Allowing access, passage, or a view through an empty space; not closed or blocke..."
         }
       ],
       "examples": [
         {
-          "en": "This is a very powerful thing.",
+          "en": "The door is open.",
           "highlight": [
-            "powerful"
+            "open"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "unblocked",
+        "unlocked"
+      ],
+      "antonyms": [
+        "closed",
+        "shut"
+      ],
+      "phrases": [
+        "open",
+        "door",
+        "open",
+        "window"
+      ]
     },
     {
       "id": "A2-201-007",
@@ -226,35 +302,51 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "practical",
+      "word": "operate",
       "phonetic": "",
       "pos": [
-        "adjective"
+        "verb",
+        "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "operateed",
+        "past_participle": "operateed",
+        "present_participle": "operating",
+        "third_person": "operates"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"practical\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞/名詞)",
+          "definition": "(of a machine, process, or system) function in a specified manner"
         }
       ],
       "examples": [
         {
-          "en": "This is a very practical thing.",
+          "en": "The machine operates smoothly.",
           "highlight": [
-            "practical"
+            "operate"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "function",
+        "work"
+      ],
+      "antonyms": [
+        "stop",
+        "halt"
+      ],
+      "phrases": [
+        "operate",
+        "machinery",
+        "operate",
+        "efficiently"
+      ]
     },
     {
       "id": "A2-201-008",
@@ -262,35 +354,51 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "practice",
+      "word": "operation",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "operationed",
+        "past_participle": "operationed",
+        "present_participle": "operationing",
+        "third_person": "operations"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"practice\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "The fact or condition of functioning or being active"
         }
       ],
       "examples": [
         {
-          "en": "The practice is very useful.",
+          "en": "The operation was successful.",
           "highlight": [
-            "practice"
+            "operation"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "procedure",
+        "action"
+      ],
+      "antonyms": [
+        "inactivity",
+        "idleness"
+      ],
+      "phrases": [
+        "successful",
+        "operation",
+        "surgical",
+        "operation"
+      ]
     },
     {
       "id": "A2-201-009",
@@ -298,35 +406,52 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "practise",
+      "word": "opinion",
       "phonetic": "",
       "pos": [
+        "noun",
         "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "opinioned",
+        "past_participle": "opinioned",
+        "present_participle": "opinioning",
+        "third_person": "opinions"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"practise\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A view or judgment formed about something, not necessarily based on fact or know..."
         }
       ],
       "examples": [
         {
-          "en": "I need to practise this morning.",
+          "en": "In my opinion, it's too expensive.",
           "highlight": [
-            "practise"
+            "opinion"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "view",
+        "belief"
+      ],
+      "antonyms": [
+        "fact",
+        "certainty"
+      ],
+      "phrases": [
+        "in",
+        "my",
+        "opinion",
+        "public",
+        "opinion"
+      ]
     },
     {
       "id": "A2-201-010",
@@ -334,35 +459,52 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "praise",
+      "word": "opportunity",
       "phonetic": "",
       "pos": [
+        "noun",
         "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "opportunityed",
+        "past_participle": "opportunityed",
+        "present_participle": "opportunitying",
+        "third_person": "opportunitys"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"praise\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A set of circumstances that makes it possible to do something"
         }
       ],
       "examples": [
         {
-          "en": "I need to praise this morning.",
+          "en": "She seized the opportunity.",
           "highlight": [
-            "praise"
+            "opportunity"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "chance",
+        "possibility"
+      ],
+      "antonyms": [
+        "miss",
+        "loss"
+      ],
+      "phrases": [
+        "great",
+        "opportunity",
+        "seize",
+        "the",
+        "opportunity"
+      ]
     }
   ]
 }

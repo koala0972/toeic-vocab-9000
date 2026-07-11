@@ -2,7 +2,6 @@
   "level": 259,
   "tier": "basic",
   "cefr": "A2",
-  "_skeleton": true,
   "words": [
     {
       "id": "A2-259-001",
@@ -10,35 +9,49 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "sum",
+      "word": "signal",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "signaled",
+        "past_participle": "signaled",
+        "present_participle": "signaling",
+        "third_person": "signals"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"sum\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A gesture, action, or sound that is used to convey information or instructions"
         }
       ],
       "examples": [
         {
-          "en": "The sum is very useful.",
+          "en": "She gave him a signal to start.",
           "highlight": [
-            "sum"
+            "signal"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "gesture",
+        "cue"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "give",
+        "a",
+        "signal",
+        "signal",
+        "to"
+      ]
     },
     {
       "id": "A2-259-002",
@@ -46,35 +59,49 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "summarize",
+      "word": "signature",
       "phonetic": "",
       "pos": [
+        "noun",
         "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "signatureed",
+        "past_participle": "signatureed",
+        "present_participle": "signaturing",
+        "third_person": "signatures"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"summarize\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A person's name written in a distinctive way as a form of identification in auth..."
         }
       ],
       "examples": [
         {
-          "en": "I need to summarize this morning.",
+          "en": "He wrote his signature at the bottom of the page.",
           "highlight": [
-            "summarize"
+            "signature"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "autograph",
+        "name"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "write",
+        "a",
+        "signature",
+        "signature",
+        "dish"
+      ]
     },
     {
       "id": "A2-259-003",
@@ -82,35 +109,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "summary",
+      "word": "significant",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "significants"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"summary\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Sufficiently great or important to be worthy of attention; noteworthy"
         }
       ],
       "examples": [
         {
-          "en": "The summary is very useful.",
+          "en": "The project made a significant impact.",
           "highlight": [
-            "summary"
+            "significant"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "important",
+        "noteworthy"
+      ],
+      "antonyms": [
+        "insignificant",
+        "trivial"
+      ],
+      "phrases": [
+        "significant",
+        "change",
+        "significant",
+        "difference"
+      ]
     },
     {
       "id": "A2-259-004",
@@ -118,151 +158,7 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "summer",
-      "phonetic": "",
-      "pos": [
-        "noun"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"summer\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "The summer is very useful.",
-          "highlight": [
-            "summer"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-259-005",
-      "level": 259,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
-      "word": "sun",
-      "phonetic": "",
-      "pos": [
-        "noun"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"sun\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "The sun is very useful.",
-          "highlight": [
-            "sun"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-259-006",
-      "level": 259,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
-      "word": "sunday",
-      "phonetic": "",
-      "pos": [
-        "noun"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"sunday\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "The sunday is very useful.",
-          "highlight": [
-            "sunday"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-259-007",
-      "level": 259,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
-      "word": "supermarket",
-      "phonetic": "",
-      "pos": [
-        "noun"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"supermarket\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "The supermarket is very useful.",
-          "highlight": [
-            "supermarket"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-259-008",
-      "level": 259,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
-      "word": "supply",
+      "word": "significantly",
       "phonetic": "",
       "pos": [
         "adverb"
@@ -272,25 +168,230 @@
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"supply\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞)",
+          "definition": "In a sufficiently great or important way as to be worthy of attention"
         }
       ],
       "examples": [
         {
-          "en": "She speaks supply in the meeting.",
+          "en": "Her health has improved significantly.",
           "highlight": [
-            "supply"
+            "significantly"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "considerably",
+        "notably"
+      ],
+      "antonyms": [
+        "insignificantly"
+      ],
+      "phrases": [
+        "increase",
+        "significantly",
+        "significantly",
+        "better"
+      ]
+    },
+    {
+      "id": "A2-259-005",
+      "level": 259,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 500,
+      "word": "silence",
+      "phonetic": "",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "conjugations": {
+        "past_tense": "silenceed",
+        "past_participle": "silenceed",
+        "present_participle": "silencing",
+        "third_person": "silences"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(名詞/動詞)",
+          "definition": "Complete absence of sound"
+        }
+      ],
+      "examples": [
+        {
+          "en": "There was complete silence in the room.",
+          "highlight": [
+            "silence"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "quiet",
+        "stillness"
+      ],
+      "antonyms": [
+        "noise",
+        "sound"
+      ],
+      "phrases": [
+        "complete",
+        "silence",
+        "awkward",
+        "silence"
+      ]
+    },
+    {
+      "id": "A2-259-006",
+      "level": 259,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 500,
+      "word": "silent",
+      "phonetic": "",
+      "pos": [
+        "adjective",
+        "noun"
+      ],
+      "conjugations": {
+        "plural": "silents"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Not making or accompanied by any sound"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The house was silent at night.",
+          "highlight": [
+            "silent"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "mute",
+        "soundless"
+      ],
+      "antonyms": [
+        "loud",
+        "noisy"
+      ],
+      "phrases": [
+        "silent",
+        "night",
+        "silent",
+        "film"
+      ]
+    },
+    {
+      "id": "A2-259-007",
+      "level": 259,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 500,
+      "word": "silk",
+      "phonetic": "",
+      "pos": [
+        "noun",
+        "adjective"
+      ],
+      "conjugations": {
+        "plural": "silks"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(名詞/形容詞)",
+          "definition": "A fine, strong, soft, lustrous fiber produced by silkworms in making cocoons and..."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She wore a beautiful silk dress.",
+          "highlight": [
+            "silk"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "thread",
+        "fabric"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "pure",
+        "silk",
+        "silk",
+        "scarf"
+      ]
+    },
+    {
+      "id": "A2-259-008",
+      "level": 259,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 500,
+      "word": "silly",
+      "phonetic": "",
+      "pos": [
+        "adjective",
+        "noun"
+      ],
+      "conjugations": {
+        "plural": "sillies"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Having or showing a lack of common sense or judgment; absurd and foolish"
+        }
+      ],
+      "examples": [
+        {
+          "en": "He felt silly wearing the clown costume.",
+          "highlight": [
+            "silly"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "foolish",
+        "absurd"
+      ],
+      "antonyms": [
+        "wise",
+        "sensible"
+      ],
+      "phrases": [
+        "silly",
+        "mistake",
+        "feel",
+        "silly"
+      ]
     },
     {
       "id": "A2-259-009",
@@ -298,35 +399,47 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "support",
+      "word": "silver",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "silvers"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"support\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/形容詞)",
+          "definition": "A shiny gray-white color or precious metal used in jewelry and ornaments"
         }
       ],
       "examples": [
         {
-          "en": "The support is very useful.",
+          "en": "She wore a silver necklace.",
           "highlight": [
-            "support"
+            "silver"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "metal",
+        "gray"
+      ],
+      "antonyms": [
+        "gold"
+      ],
+      "phrases": [
+        "silver",
+        "coin",
+        "silver",
+        "lining"
+      ]
     },
     {
       "id": "A2-259-010",
@@ -334,35 +447,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "supporter",
+      "word": "similar",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "similars"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"supporter\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Resembling without being identical"
         }
       ],
       "examples": [
         {
-          "en": "The supporter is very useful.",
+          "en": "The two cars are similar in size.",
           "highlight": [
-            "supporter"
+            "similar"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "alike",
+        "resembling"
+      ],
+      "antonyms": [
+        "different",
+        "dissimilar"
+      ],
+      "phrases": [
+        "similar",
+        "to",
+        "look",
+        "similar"
+      ]
     }
   ]
 }

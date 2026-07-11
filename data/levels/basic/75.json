@@ -2,7 +2,6 @@
   "level": 75,
   "tier": "basic",
   "cefr": "A1",
-  "_skeleton": true,
   "words": [
     {
       "id": "A1-075-001",
@@ -10,35 +9,44 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "delivery",
+      "word": "cousin",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "cousins"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"delivery\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "A child of one's uncle or aunt"
         }
       ],
       "examples": [
         {
-          "en": "The delivery is very useful.",
+          "en": "She visited her cousin last summer.",
           "highlight": [
-            "delivery"
+            "cousin"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "relative",
+        "kin"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "first",
+        "cousin",
+        "second",
+        "cousin"
+      ]
     },
     {
       "id": "A1-075-002",
@@ -46,35 +54,52 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "demand",
+      "word": "cover",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "covered",
+        "past_participle": "covered",
+        "present_participle": "covering",
+        "third_person": "covers"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"demand\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞/名詞)",
+          "definition": "Put something such as a cloth or lid on top of or in front of (something) in ord..."
         }
       ],
       "examples": [
         {
-          "en": "The demand is very useful.",
+          "en": "He covered the pot with a lid.",
           "highlight": [
-            "demand"
+            "cover"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "hide",
+        "conceal"
+      ],
+      "antonyms": [
+        "uncover",
+        "reveal"
+      ],
+      "phrases": [
+        "cover",
+        "the",
+        "table",
+        "cover",
+        "with"
+      ]
     },
     {
       "id": "A1-075-003",
@@ -82,35 +107,52 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "demonstrate",
+      "word": "covered",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "covereded",
+        "past_participle": "covereded",
+        "present_participle": "covereding",
+        "third_person": "covereds"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"demonstrate\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/動詞)",
+          "definition": "Having a covering"
         }
       ],
       "examples": [
         {
-          "en": "The demonstrate is very useful.",
+          "en": "The car was covered in snow.",
           "highlight": [
-            "demonstrate"
+            "covered"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "sheltered",
+        "concealed"
+      ],
+      "antonyms": [
+        "bare",
+        "exposed"
+      ],
+      "phrases": [
+        "covered",
+        "bridge",
+        "covered",
+        "with",
+        "snow"
+      ]
     },
     {
       "id": "A1-075-004",
@@ -118,35 +160,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "dentist",
+      "word": "covering",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "coveringed",
+        "past_participle": "coveringed",
+        "present_participle": "coveringing",
+        "third_person": "coverings"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"dentist\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "The action or fact of covering something"
         }
       ],
       "examples": [
         {
-          "en": "The dentist is very useful.",
+          "en": "The covering on the book was torn.",
           "highlight": [
-            "dentist"
+            "covering"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "coating",
+        "layer"
+      ],
+      "antonyms": [
+        "exposure",
+        "revelation"
+      ],
+      "phrases": [
+        "plastic",
+        "covering",
+        "book",
+        "covering"
+      ]
     },
     {
       "id": "A1-075-005",
@@ -154,35 +212,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "deny",
+      "word": "cow",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "cowed",
+        "past_participle": "cowed",
+        "present_participle": "cowing",
+        "third_person": "cows"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"deny\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A fully grown female animal of a domesticated breed of ox, kept to produce milk ..."
         }
       ],
       "examples": [
         {
-          "en": "The deny is very useful.",
+          "en": "The cow grazed in the field.",
           "highlight": [
-            "deny"
+            "cow"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "bovine",
+        "heifer"
+      ],
+      "antonyms": [
+        "bull",
+        "steer"
+      ],
+      "phrases": [
+        "dairy",
+        "cow",
+        "cow",
+        "milk"
+      ]
     },
     {
       "id": "A1-075-006",
@@ -190,35 +264,49 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "department",
+      "word": "crack",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "cracked",
+        "past_participle": "cracked",
+        "present_participle": "cracking",
+        "third_person": "cracks"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"department\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A line on the surface of something along which it has split without breaking apa..."
         }
       ],
       "examples": [
         {
-          "en": "The department is very useful.",
+          "en": "There was a crack in the vase.",
           "highlight": [
-            "department"
+            "crack"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "split",
+        "fracture"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "hairline",
+        "crack",
+        "crack",
+        "in",
+        "the"
+      ]
     },
     {
       "id": "A1-075-007",
@@ -226,35 +314,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "departure",
+      "word": "cracked",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "crackeded",
+        "past_participle": "crackeded",
+        "present_participle": "crackeding",
+        "third_person": "crackeds"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"departure\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/動詞)",
+          "definition": "Damaged and showing lines on the surface from having split without coming apart"
         }
       ],
       "examples": [
         {
-          "en": "The departure is very useful.",
+          "en": "The mirror was cracked.",
           "highlight": [
-            "departure"
+            "cracked"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "fractured",
+        "broken"
+      ],
+      "antonyms": [
+        "unbroken",
+        "intact"
+      ],
+      "phrases": [
+        "cracked",
+        "mirror",
+        "cracked",
+        "window"
+      ]
     },
     {
       "id": "A1-075-008",
@@ -262,35 +366,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "depend",
+      "word": "craft",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "crafted",
+        "past_participle": "crafted",
+        "present_participle": "crafting",
+        "third_person": "crafts"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"depend\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "An activity involving skill in making things by hand"
         }
       ],
       "examples": [
         {
-          "en": "The depend is very useful.",
+          "en": "She enjoys various crafts like knitting and pottery.",
           "highlight": [
-            "depend"
+            "craft"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "skill",
+        "trade"
+      ],
+      "antonyms": [
+        "clumsiness",
+        "ineptitude"
+      ],
+      "phrases": [
+        "craft",
+        "fair",
+        "craft",
+        "skills"
+      ]
     },
     {
       "id": "A1-075-009",
@@ -298,35 +418,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "depressed",
+      "word": "crash",
       "phonetic": "",
       "pos": [
-        "verb"
+        "verb",
+        "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "crashed",
+        "past_participle": "crashed",
+        "present_participle": "crashing",
+        "third_person": "crashs"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"depressed\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞/名詞)",
+          "definition": "A violent collision, typically of one vehicle with another or an object"
         }
       ],
       "examples": [
         {
-          "en": "I need to depressed this morning.",
+          "en": "The car crashed into a tree.",
           "highlight": [
-            "depressed"
+            "crash"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "collision",
+        "accident"
+      ],
+      "antonyms": [
+        "avoid",
+        "miss"
+      ],
+      "phrases": [
+        "car",
+        "crash",
+        "plane",
+        "crash"
+      ]
     },
     {
       "id": "A1-075-010",
@@ -334,35 +470,49 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "depressing",
+      "word": "crazy",
       "phonetic": "",
       "pos": [
-        "verb"
+        "adjective",
+        "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "crazies"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"depressing\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Mentally deranged, especially as manifested in a wild or aggressive way"
         }
       ],
       "examples": [
         {
-          "en": "I need to depressing this morning.",
+          "en": "He went crazy after losing his job.",
           "highlight": [
-            "depressing"
+            "crazy"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "insane",
+        "mad"
+      ],
+      "antonyms": [
+        "sane",
+        "rational"
+      ],
+      "phrases": [
+        "go",
+        "crazy",
+        "drive",
+        "someone",
+        "crazy"
+      ]
     }
   ]
 }

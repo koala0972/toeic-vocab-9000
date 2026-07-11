@@ -2,7 +2,6 @@
   "level": 35,
   "tier": "basic",
   "cefr": "A1",
-  "_skeleton": true,
   "words": [
     {
       "id": "A1-035-001",
@@ -10,35 +9,46 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "blood",
+      "word": "bed",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "beds"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"blood\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "A piece of furniture for sleep or rest, typically a framework with a mattress"
         }
       ],
       "examples": [
         {
-          "en": "The blood is very useful.",
+          "en": "He lay down on the bed.",
           "highlight": [
-            "blood"
+            "bed"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "sleeping",
+        "place",
+        "cot"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "go",
+        "to",
+        "bed",
+        "make",
+        "the"
+      ]
     },
     {
       "id": "A1-035-002",
@@ -46,35 +56,45 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "blow",
+      "word": "bedroom",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "bedrooms"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"blow\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "A room furnished with a bed and intended primarily for sleeping"
         }
       ],
       "examples": [
         {
-          "en": "The blow is very useful.",
+          "en": "The bedroom is upstairs.",
           "highlight": [
-            "blow"
+            "bedroom"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "sleeping",
+        "room",
+        "chamber"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "master",
+        "bedroom",
+        "spare",
+        "bedroom"
+      ]
     },
     {
       "id": "A1-035-003",
@@ -82,35 +102,44 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "blue",
+      "word": "beef",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "beefs"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"blue\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "The flesh of a cow, bull, or ox, used as food"
         }
       ],
       "examples": [
         {
-          "en": "The blue is very useful.",
+          "en": "They had beef for dinner.",
           "highlight": [
-            "blue"
+            "beef"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "meat",
+        "steak"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "beef",
+        "stew",
+        "roast",
+        "beef"
+      ]
     },
     {
       "id": "A1-035-004",
@@ -118,35 +147,44 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "board",
+      "word": "beer",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "beers"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"board\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "An alcoholic drink made from yeast-fermented malt flavored with hops"
         }
       ],
       "examples": [
         {
-          "en": "The board is very useful.",
+          "en": "He drank a bottle of beer.",
           "highlight": [
-            "board"
+            "beer"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ale",
+        "brew"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "cold",
+        "beer",
+        "beer",
+        "bottle"
+      ]
     },
     {
       "id": "A1-035-005",
@@ -154,35 +192,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "boat",
+      "word": "before",
       "phonetic": "",
       "pos": [
-        "noun"
+        "preposition",
+        "conjunction",
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"boat\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(介係詞/連接詞/副詞)",
+          "definition": "During the period of time preceding (a particular event, date, or time)"
         }
       ],
       "examples": [
         {
-          "en": "The boat is very useful.",
+          "en": "She left before dawn.",
           "highlight": [
-            "boat"
+            "before"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "prior",
+        "to",
+        "in",
+        "advance",
+        "of"
+      ],
+      "antonyms": [
+        "after",
+        "following"
+      ],
+      "phrases": [
+        "before",
+        "dinner",
+        "before",
+        "you",
+        "go"
+      ]
     },
     {
       "id": "A1-035-006",
@@ -190,35 +244,50 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "body",
+      "word": "begin",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "begined",
+        "past_participle": "begined",
+        "present_participle": "begining",
+        "third_person": "begins"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"body\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞)",
+          "definition": "Start; perform or undergo the first part of (an action or activity)"
         }
       ],
       "examples": [
         {
-          "en": "The body is very useful.",
+          "en": "The show will begin shortly.",
           "highlight": [
-            "body"
+            "begin"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "start",
+        "commence"
+      ],
+      "antonyms": [
+        "end",
+        "finish"
+      ],
+      "phrases": [
+        "begin",
+        "to",
+        "begin",
+        "with"
+      ]
     },
     {
       "id": "A1-035-007",
@@ -226,35 +295,47 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "boil",
+      "word": "beginning",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "beginnings"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"boil\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "The point in time or space at which something starts"
         }
       ],
       "examples": [
         {
-          "en": "The boil is very useful.",
+          "en": "The beginning of the book is interesting.",
           "highlight": [
-            "boil"
+            "beginning"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "start",
+        "onset"
+      ],
+      "antonyms": [
+        "end",
+        "conclusion"
+      ],
+      "phrases": [
+        "new",
+        "beginning",
+        "fresh",
+        "beginning"
+      ]
     },
     {
       "id": "A1-035-008",
@@ -262,35 +343,45 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "bomb",
+      "word": "behalf",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "behalfs"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"bomb\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "In the interests of a person, group, or principle"
         }
       ],
       "examples": [
         {
-          "en": "The bomb is very useful.",
+          "en": "He spoke on behalf of the team.",
           "highlight": [
-            "bomb"
+            "behalf"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "for",
+        "representing"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "on",
+        "behalf",
+        "of",
+        "in",
+        "behalf"
+      ]
     },
     {
       "id": "A1-035-009",
@@ -298,35 +389,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "bond",
+      "word": "behave",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "behaveed",
+        "past_participle": "behaveed",
+        "present_participle": "behaving",
+        "third_person": "behaves"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"bond\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞)",
+          "definition": "Act or conduct oneself in a specified way, especially toward others"
         }
       ],
       "examples": [
         {
-          "en": "The bond is very useful.",
+          "en": "They were told to behave properly.",
           "highlight": [
-            "bond"
+            "behave"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "act",
+        "conduct",
+        "oneself"
+      ],
+      "antonyms": [
+        "misbehave",
+        "misconduct"
+      ],
+      "phrases": [
+        "behave",
+        "well",
+        "behave",
+        "badly"
+      ]
     },
     {
       "id": "A1-035-010",
@@ -334,35 +441,46 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "bone",
+      "word": "behavior",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "behaviors"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"bone\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "The way in which one acts or conducts oneself, especially toward others"
         }
       ],
       "examples": [
         {
-          "en": "The bone is very useful.",
+          "en": "His behavior is unacceptable.",
           "highlight": [
-            "bone"
+            "behavior"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "conduct",
+        "actions"
+      ],
+      "antonyms": [
+        "misconduct"
+      ],
+      "phrases": [
+        "acceptable",
+        "behavior",
+        "human",
+        "behavior"
+      ]
     }
   ]
 }

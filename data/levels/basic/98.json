@@ -2,7 +2,6 @@
   "level": 98,
   "tier": "basic",
   "cefr": "A1",
-  "_skeleton": true,
   "words": [
     {
       "id": "A1-098-001",
@@ -10,35 +9,44 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "exact",
+      "word": "drugstore",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "drugstores"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"exact\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "A pharmacy or a store where medicinal drugs are dispensed and sold"
         }
       ],
       "examples": [
         {
-          "en": "The exact is very useful.",
+          "en": "She went to the drugstore to buy some medicine.",
           "highlight": [
-            "exact"
+            "drugstore"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "pharmacy",
+        "chemist"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "local",
+        "drugstore",
+        "chain",
+        "drugstore"
+      ]
     },
     {
       "id": "A1-098-002",
@@ -46,35 +54,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "exactly",
+      "word": "drum",
       "phonetic": "",
       "pos": [
-        "adverb"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "drumed",
+        "past_participle": "drumed",
+        "present_participle": "druming",
+        "third_person": "drums"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"exactly\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A percussion instrument sounded by being struck with sticks or the hands"
         }
       ],
       "examples": [
         {
-          "en": "She speaks exactly in the meeting.",
+          "en": "He played the drum in the band.",
           "highlight": [
-            "exactly"
+            "drum"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "percussion",
+        "timpani"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "bass",
+        "drum",
+        "drum",
+        "set"
+      ]
     },
     {
       "id": "A1-098-003",
@@ -82,35 +103,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "exam",
+      "word": "drunk",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "drunks"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"exam\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Affected by alcohol to the extent of losing control of one's faculties or behavi..."
         }
       ],
       "examples": [
         {
-          "en": "The exam is very useful.",
+          "en": "He was too drunk to drive.",
           "highlight": [
-            "exam"
+            "drunk"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "intoxicated",
+        "inebriated"
+      ],
+      "antonyms": [
+        "sober",
+        "clear-headed"
+      ],
+      "phrases": [
+        "drunk",
+        "driving",
+        "get",
+        "drunk"
+      ]
     },
     {
       "id": "A1-098-004",
@@ -118,35 +152,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "examination",
+      "word": "dry",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "dryed",
+        "past_participle": "dryed",
+        "present_participle": "drying",
+        "third_person": "drys"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"examination\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/動詞)",
+          "definition": "Free from moisture or liquid; not wet or moist"
         }
       ],
       "examples": [
         {
-          "en": "The examination is very useful.",
+          "en": "The clothes are dry.",
           "highlight": [
-            "examination"
+            "dry"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "arid",
+        "dehydrated"
+      ],
+      "antonyms": [
+        "wet",
+        "moist"
+      ],
+      "phrases": [
+        "dry",
+        "clothes",
+        "dry",
+        "weather"
+      ]
     },
     {
       "id": "A1-098-005",
@@ -154,35 +204,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "examine",
+      "word": "due",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "dues"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"examine\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Expected at or planned for at a certain time"
         }
       ],
       "examples": [
         {
-          "en": "The examine is very useful.",
+          "en": "The rent is due tomorrow.",
           "highlight": [
-            "examine"
+            "due"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "expected",
+        "owed"
+      ],
+      "antonyms": [
+        "early",
+        "overdue"
+      ],
+      "phrases": [
+        "payment",
+        "due",
+        "rent",
+        "due"
+      ]
     },
     {
       "id": "A1-098-006",
@@ -190,35 +253,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "example",
+      "word": "dull",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "dulled",
+        "past_participle": "dulled",
+        "present_participle": "dulling",
+        "third_person": "dulls"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"example\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/動詞)",
+          "definition": "Lacking interest or excitement"
         }
       ],
       "examples": [
         {
-          "en": "The example is very useful.",
+          "en": "The lecture was dull.",
           "highlight": [
-            "example"
+            "dull"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "boring",
+        "monotonous"
+      ],
+      "antonyms": [
+        "exciting",
+        "interesting"
+      ],
+      "phrases": [
+        "dull",
+        "lecture",
+        "dull",
+        "color"
+      ]
     },
     {
       "id": "A1-098-007",
@@ -226,35 +305,53 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "excellent",
+      "word": "dump",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "dumped",
+        "past_participle": "dumped",
+        "present_participle": "dumping",
+        "third_person": "dumps"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"excellent\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞/名詞)",
+          "definition": "Deposit or dispose of (garbage, waste, or unwanted material), typically in a car..."
         }
       ],
       "examples": [
         {
-          "en": "The excellent is very useful.",
+          "en": "He dumped the trash in the bin.",
           "highlight": [
-            "excellent"
+            "dump"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "discard",
+        "throw",
+        "away"
+      ],
+      "antonyms": [
+        "keep",
+        "retain"
+      ],
+      "phrases": [
+        "dump",
+        "the",
+        "waste",
+        "dump",
+        "illegally"
+      ]
     },
     {
       "id": "A1-098-008",
@@ -262,35 +359,46 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "except",
+      "word": "during",
       "phonetic": "",
       "pos": [
-        "noun"
+        "preposition"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"except\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(介係詞)",
+          "definition": "Throughout the course or duration of (a period of time)"
         }
       ],
       "examples": [
         {
-          "en": "The except is very useful.",
+          "en": "He stayed at the hotel during his vacation.",
           "highlight": [
-            "except"
+            "during"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "throughout",
+        "amid"
+      ],
+      "antonyms": [
+        "before",
+        "after"
+      ],
+      "phrases": [
+        "during",
+        "the",
+        "day",
+        "during",
+        "the"
+      ]
     },
     {
       "id": "A1-098-009",
@@ -298,35 +406,50 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "exchange",
+      "word": "dust",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "dusted",
+        "past_participle": "dusted",
+        "present_participle": "dusting",
+        "third_person": "dusts"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"exchange\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "Fine, dry particles of matter"
         }
       ],
       "examples": [
         {
-          "en": "The exchange is very useful.",
+          "en": "She cleaned the dust off the shelves.",
           "highlight": [
-            "exchange"
+            "dust"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "powder",
+        "particles"
+      ],
+      "antonyms": [
+        "cleanliness"
+      ],
+      "phrases": [
+        "dust",
+        "particles",
+        "dust",
+        "storm"
+      ]
     },
     {
       "id": "A1-098-010",
@@ -334,35 +457,52 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "excited",
+      "word": "duty",
       "phonetic": "",
       "pos": [
+        "noun",
         "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "dutyed",
+        "past_participle": "dutyed",
+        "present_participle": "dutying",
+        "third_person": "dutys"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"excited\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A moral or legal obligation; a responsibility"
         }
       ],
       "examples": [
         {
-          "en": "I need to excited this morning.",
+          "en": "It is your duty to attend the meeting.",
           "highlight": [
-            "excited"
+            "duty"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "responsibility",
+        "obligation"
+      ],
+      "antonyms": [
+        "freedom",
+        "exemption"
+      ],
+      "phrases": [
+        "perform",
+        "a",
+        "duty",
+        "on",
+        "duty"
+      ]
     }
   ]
 }

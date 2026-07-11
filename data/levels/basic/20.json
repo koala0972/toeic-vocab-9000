@@ -2,7 +2,6 @@
   "level": 20,
   "tier": "basic",
   "cefr": "A1",
-  "_skeleton": true,
   "words": [
     {
       "id": "A1-020-001",
@@ -10,35 +9,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "appropriate",
+      "word": "annoying",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "comparative": "annoyinger",
+        "superlative": "annoyingest"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"appropriate\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞)",
+          "definition": "Causing irritation or annoyance"
         }
       ],
       "examples": [
         {
-          "en": "The appropriate is very useful.",
+          "en": "The loud music was annoying.",
           "highlight": [
-            "appropriate"
+            "annoying"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "irritating",
+        "vexing"
+      ],
+      "antonyms": [
+        "pleasing",
+        "delightful"
+      ],
+      "phrases": [
+        "annoying",
+        "habit",
+        "annoying",
+        "person"
+      ]
     },
     {
       "id": "A1-020-002",
@@ -46,35 +58,46 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "approval",
+      "word": "annual",
       "phonetic": "",
       "pos": [
         "adjective"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "comparative": "annualer",
+        "superlative": "annualest"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"approval\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞)",
+          "definition": "Occurring once every year"
         }
       ],
       "examples": [
         {
-          "en": "This is a very approval thing.",
+          "en": "The annual meeting is in July.",
           "highlight": [
-            "approval"
+            "annual"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "yearly",
+        "per",
+        "annum"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "annual",
+        "report",
+        "annual",
+        "income"
+      ]
     },
     {
       "id": "A1-020-003",
@@ -82,43 +105,7 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "approve",
-      "phonetic": "",
-      "pos": [
-        "noun"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"approve\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "The approve is very useful.",
-          "highlight": [
-            "approve"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A1-020-004",
-      "level": 20,
-      "tier": "basic",
-      "cefr": "A1",
-      "toeic_score_min": 200,
-      "word": "approximately",
+      "word": "annually",
       "phonetic": "",
       "pos": [
         "adverb"
@@ -128,25 +115,81 @@
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"approximately\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞)",
+          "definition": "Once a year; every year"
         }
       ],
       "examples": [
         {
-          "en": "She speaks approximately in the meeting.",
+          "en": "The event is held annually.",
           "highlight": [
-            "approximately"
+            "annually"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "yearly",
+        "each",
+        "year"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "celebrated",
+        "annually",
+        "review",
+        "annually"
+      ]
+    },
+    {
+      "id": "A1-020-004",
+      "level": 20,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "another",
+      "phonetic": "",
+      "pos": [
+        "determiner",
+        "pronoun"
+      ],
+      "conjugations": {},
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(限定詞/代名詞)",
+          "definition": "Used to refer to an additional person or thing of the same type as one already m..."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She needs another pen.",
+          "highlight": [
+            "another"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "additional",
+        "one",
+        "more"
+      ],
+      "antonyms": [
+        "same",
+        "identical"
+      ],
+      "phrases": [
+        "another",
+        "one",
+        "another",
+        "example"
+      ]
     },
     {
       "id": "A1-020-005",
@@ -154,35 +197,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "april",
+      "word": "answer",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "answered",
+        "past_participle": "answered",
+        "present_participle": "answering",
+        "third_person": "answers"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"april\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A thing said, written, or done to deal with or as a reaction to a question, stat..."
         }
       ],
       "examples": [
         {
-          "en": "The april is very useful.",
+          "en": "She gave the right answer.",
           "highlight": [
-            "april"
+            "answer"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "reply",
+        "respond"
+      ],
+      "antonyms": [
+        "question",
+        "query"
+      ],
+      "phrases": [
+        "correct",
+        "answer",
+        "answer",
+        "quickly"
+      ]
     },
     {
       "id": "A1-020-006",
@@ -190,35 +249,42 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "architect",
+      "word": "anti-",
       "phonetic": "",
       "pos": [
-        "noun"
+        "prefix"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"architect\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(prefix)",
+          "definition": "Opposed to; against"
         }
       ],
       "examples": [
         {
-          "en": "The architect is very useful.",
+          "en": "This is an anti-war protest.",
           "highlight": [
-            "architect"
+            "anti-"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "against",
+        "opposing"
+      ],
+      "antonyms": [
+        "pro-"
+      ],
+      "phrases": [
+        "anti-inflammatory",
+        "anti-aging"
+      ]
     },
     {
       "id": "A1-020-007",
@@ -226,35 +292,47 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "architecture",
+      "word": "anticipate",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "anticipateed",
+        "past_participle": "anticipateed",
+        "present_participle": "anticipating",
+        "third_person": "anticipates"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"architecture\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞)",
+          "definition": "Regard as probable; expect or predict"
         }
       ],
       "examples": [
         {
-          "en": "The architecture is very useful.",
+          "en": "They anticipate a lot of rain.",
           "highlight": [
-            "architecture"
+            "anticipate"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "expect",
+        "foresee"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "eagerly",
+        "anticipate",
+        "anticipate",
+        "problems"
+      ]
     },
     {
       "id": "A1-020-008",
@@ -262,35 +340,47 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "area",
+      "word": "anxiety",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "anxieties"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"area\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "A feeling of worry, nervousness, or unease about something with an uncertain out..."
         }
       ],
       "examples": [
         {
-          "en": "The area is very useful.",
+          "en": "He felt a surge of anxiety.",
           "highlight": [
-            "area"
+            "anxiety"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "worry",
+        "concern"
+      ],
+      "antonyms": [
+        "calm",
+        "confidence"
+      ],
+      "phrases": [
+        "general",
+        "anxiety",
+        "cause",
+        "anxiety"
+      ]
     },
     {
       "id": "A1-020-009",
@@ -298,35 +388,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "argue",
+      "word": "anxious",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "comparative": "anxiouser",
+        "superlative": "anxiousest"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"argue\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞)",
+          "definition": "Experiencing worry, unease, or nervousness"
         }
       ],
       "examples": [
         {
-          "en": "The argue is very useful.",
+          "en": "She was anxious about the test.",
           "highlight": [
-            "argue"
+            "anxious"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "worried",
+        "uneasy"
+      ],
+      "antonyms": [
+        "calm",
+        "relaxed"
+      ],
+      "phrases": [
+        "anxious",
+        "about",
+        "anxious",
+        "for"
+      ]
     },
     {
       "id": "A1-020-010",
@@ -334,35 +437,45 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "argument",
+      "word": "anxiously",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"argument\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞)",
+          "definition": "In a manner resulting from or revealing anxiety"
         }
       ],
       "examples": [
         {
-          "en": "The argument is very useful.",
+          "en": "They waited anxiously for news.",
           "highlight": [
-            "argument"
+            "anxiously"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "nervously",
+        "worriedly"
+      ],
+      "antonyms": [
+        "calmly",
+        "confidently"
+      ],
+      "phrases": [
+        "wait",
+        "anxiously",
+        "look",
+        "anxiously"
+      ]
     }
   ]
 }

@@ -2,7 +2,6 @@
   "level": 22,
   "tier": "basic",
   "cefr": "A1",
-  "_skeleton": true,
   "words": [
     {
       "id": "A1-022-001",
@@ -10,35 +9,42 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "arrive",
+      "word": "apparently",
       "phonetic": "",
       "pos": [
-        "adjective"
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"arrive\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞)",
+          "definition": "As far as one knows or can see"
         }
       ],
       "examples": [
         {
-          "en": "This is a very arrive thing.",
+          "en": "Apparently, it is going to rain today.",
           "highlight": [
-            "arrive"
+            "apparently"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "seemingly",
+        "evidently"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "apparently",
+        "true",
+        "apparently",
+        "due"
+      ]
     },
     {
       "id": "A1-022-002",
@@ -46,35 +52,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "art",
+      "word": "appeal",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "appealed",
+        "past_participle": "appealed",
+        "present_participle": "appealing",
+        "third_person": "appeals"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"art\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "Make a serious or urgent request, typically to the public"
         }
       ],
       "examples": [
         {
-          "en": "The art is very useful.",
+          "en": "They made an appeal for donations.",
           "highlight": [
-            "art"
+            "appeal"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "plea",
+        "request"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "appeal",
+        "to",
+        "appeal",
+        "for"
+      ]
     },
     {
       "id": "A1-022-003",
@@ -82,35 +101,50 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "article",
+      "word": "appear",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "appeared",
+        "past_participle": "appeared",
+        "present_participle": "appearing",
+        "third_person": "appears"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"article\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞)",
+          "definition": "Come into sight; become visible or noticeable"
         }
       ],
       "examples": [
         {
-          "en": "The article is very useful.",
+          "en": "She appeared out of nowhere.",
           "highlight": [
-            "article"
+            "appear"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "show",
+        "emerge"
+      ],
+      "antonyms": [
+        "disappear",
+        "vanish"
+      ],
+      "phrases": [
+        "appear",
+        "suddenly",
+        "appear",
+        "on"
+      ]
     },
     {
       "id": "A1-022-004",
@@ -118,35 +152,47 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "artificial",
+      "word": "appearance",
       "phonetic": "",
       "pos": [
-        "adjective"
+        "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "appearances"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"artificial\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "The way that someone or something looks"
         }
       ],
       "examples": [
         {
-          "en": "This is a very artificial thing.",
+          "en": "He takes pride in his appearance.",
           "highlight": [
-            "artificial"
+            "appearance"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "look",
+        "aspect"
+      ],
+      "antonyms": [
+        "disappearance",
+        "absence"
+      ],
+      "phrases": [
+        "physical",
+        "appearance",
+        "appearance",
+        "change"
+      ]
     },
     {
       "id": "A1-022-005",
@@ -154,35 +200,43 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "artist",
+      "word": "apple",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "apples"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"artist\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "The round fruit of a tree of the rose family, which typically has thin green or ..."
         }
       ],
       "examples": [
         {
-          "en": "The artist is very useful.",
+          "en": "She ate an apple for lunch.",
           "highlight": [
-            "artist"
+            "apple"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "fruit"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "apple",
+        "tree",
+        "apple",
+        "pie"
+      ]
     },
     {
       "id": "A1-022-006",
@@ -190,35 +244,44 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "artistic",
+      "word": "application",
       "phonetic": "",
       "pos": [
-        "adjective"
+        "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "applications"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"artistic\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "A formal request to an authority for something"
         }
       ],
       "examples": [
         {
-          "en": "This is a very artistic thing.",
+          "en": "He filled out an application for the job.",
           "highlight": [
-            "artistic"
+            "application"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "request",
+        "petition"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "job",
+        "application",
+        "application",
+        "form"
+      ]
     },
     {
       "id": "A1-022-007",
@@ -226,35 +289,47 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "as",
+      "word": "apply",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "applyed",
+        "past_participle": "applyed",
+        "present_participle": "applying",
+        "third_person": "applys"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"as\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞)",
+          "definition": "Make a formal application or request"
         }
       ],
       "examples": [
         {
-          "en": "The as is very useful.",
+          "en": "You need to apply for the position.",
           "highlight": [
-            "as"
+            "apply"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "petition",
+        "request"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "apply",
+        "for",
+        "apply",
+        "to"
+      ]
     },
     {
       "id": "A1-022-008",
@@ -262,35 +337,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "ashamed",
+      "word": "appoint",
       "phonetic": "",
       "pos": [
         "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "appointed",
+        "past_participle": "appointed",
+        "present_participle": "appointing",
+        "third_person": "appoints"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"ashamed\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞)",
+          "definition": "Assign a job or role to (someone)"
         }
       ],
       "examples": [
         {
-          "en": "I need to ashamed this morning.",
+          "en": "She was appointed as the new manager.",
           "highlight": [
-            "ashamed"
+            "appoint"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "assign",
+        "designate"
+      ],
+      "antonyms": [
+        "dismiss",
+        "remove"
+      ],
+      "phrases": [
+        "appoint",
+        "a",
+        "manager",
+        "appoint",
+        "a"
+      ]
     },
     {
       "id": "A1-022-009",
@@ -298,35 +389,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "ask",
+      "word": "appointment",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "appointments"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"ask\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "An arrangement to meet someone at a particular time and place"
         }
       ],
       "examples": [
         {
-          "en": "The ask is very useful.",
+          "en": "I have an appointment with the doctor.",
           "highlight": [
-            "ask"
+            "appointment"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "meeting",
+        "date"
+      ],
+      "antonyms": [
+        "cancellation",
+        "refusal"
+      ],
+      "phrases": [
+        "doctor's",
+        "appointment",
+        "set",
+        "an",
+        "appointment"
+      ]
     },
     {
       "id": "A1-022-010",
@@ -334,35 +438,50 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "asleep",
+      "word": "appreciate",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "appreciateed",
+        "past_participle": "appreciateed",
+        "present_participle": "appreciating",
+        "third_person": "appreciates"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"asleep\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞)",
+          "definition": "Recognize the full worth of"
         }
       ],
       "examples": [
         {
-          "en": "The asleep is very useful.",
+          "en": "I appreciate your help.",
           "highlight": [
-            "asleep"
+            "appreciate"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "value",
+        "respect"
+      ],
+      "antonyms": [
+        "disregard",
+        "ignore"
+      ],
+      "phrases": [
+        "greatly",
+        "appreciate",
+        "appreciate",
+        "fully"
+      ]
     }
   ]
 }

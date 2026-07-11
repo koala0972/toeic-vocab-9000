@@ -2,7 +2,6 @@
   "level": 280,
   "tier": "basic",
   "cefr": "A2",
-  "_skeleton": true,
   "words": [
     {
       "id": "A2-280-001",
@@ -10,35 +9,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "unfair",
+      "word": "sun",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "suned",
+        "past_participle": "suned",
+        "present_participle": "suning",
+        "third_person": "suns"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"unfair\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "The star around which the earth orbits"
         }
       ],
       "examples": [
         {
-          "en": "The unfair is very useful.",
+          "en": "The sun is shining brightly.",
           "highlight": [
-            "unfair"
+            "sun"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "star",
+        "sunlight"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "sun",
+        "rise",
+        "sun",
+        "set"
+      ]
     },
     {
       "id": "A2-280-002",
@@ -46,7 +58,360 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "unfortunately",
+      "word": "sunday",
+      "phonetic": "",
+      "pos": [
+        "noun"
+      ],
+      "conjugations": {
+        "plural": "sundaies"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(名詞)",
+          "definition": "The day of the week before Monday and following Saturday"
+        }
+      ],
+      "examples": [
+        {
+          "en": "We have a family dinner every Sunday.",
+          "highlight": [
+            "sunday"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "phrases": [
+        "next",
+        "Sunday",
+        "last",
+        "Sunday"
+      ]
+    },
+    {
+      "id": "A2-280-003",
+      "level": 280,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 500,
+      "word": "superior",
+      "phonetic": "",
+      "pos": [
+        "adjective",
+        "noun"
+      ],
+      "conjugations": {
+        "plural": "superiors"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Higher in rank, status, or quality"
+        }
+      ],
+      "examples": [
+        {
+          "en": "He has a superior position in the company.",
+          "highlight": [
+            "superior"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "better",
+        "higher"
+      ],
+      "antonyms": [
+        "inferior",
+        "lower"
+      ],
+      "phrases": [
+        "superior",
+        "quality",
+        "superior",
+        "officer"
+      ]
+    },
+    {
+      "id": "A2-280-004",
+      "level": 280,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 500,
+      "word": "supply",
+      "phonetic": "",
+      "pos": [
+        "verb",
+        "noun"
+      ],
+      "conjugations": {
+        "past_tense": "supplyed",
+        "past_participle": "supplyed",
+        "present_participle": "supplying",
+        "third_person": "supplys"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(動詞/名詞)",
+          "definition": "Make (something needed or wanted) available to someone; provide"
+        }
+      ],
+      "examples": [
+        {
+          "en": "They supply the town with water.",
+          "highlight": [
+            "supply"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "provide",
+        "furnish"
+      ],
+      "antonyms": [
+        "withdraw",
+        "take"
+      ],
+      "phrases": [
+        "supply",
+        "chain",
+        "supply",
+        "and",
+        "demand"
+      ]
+    },
+    {
+      "id": "A2-280-005",
+      "level": 280,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 500,
+      "word": "support",
+      "phonetic": "",
+      "pos": [
+        "verb",
+        "noun"
+      ],
+      "conjugations": {
+        "past_tense": "supported",
+        "past_participle": "supported",
+        "present_participle": "supporting",
+        "third_person": "supports"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(動詞/名詞)",
+          "definition": "Bear all or part of the weight of; hold up"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The bridge supports heavy traffic.",
+          "highlight": [
+            "support"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "uphold",
+        "back"
+      ],
+      "antonyms": [
+        "oppose",
+        "undermine"
+      ],
+      "phrases": [
+        "emotional",
+        "support",
+        "financial",
+        "support"
+      ]
+    },
+    {
+      "id": "A2-280-006",
+      "level": 280,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 500,
+      "word": "supporter",
+      "phonetic": "",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "conjugations": {
+        "past_tense": "supportered",
+        "past_participle": "supportered",
+        "present_participle": "supportering",
+        "third_person": "supporters"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(名詞/動詞)",
+          "definition": "A person who approves of and encourages a public figure, political party, policy..."
+        }
+      ],
+      "examples": [
+        {
+          "en": "He is a strong supporter of the team.",
+          "highlight": [
+            "supporter"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "advocate",
+        "backer"
+      ],
+      "antonyms": [
+        "opponent",
+        "detractor"
+      ],
+      "phrases": [
+        "loyal",
+        "supporter",
+        "ardent",
+        "supporter"
+      ]
+    },
+    {
+      "id": "A2-280-007",
+      "level": 280,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 500,
+      "word": "suppose",
+      "phonetic": "",
+      "pos": [
+        "verb",
+        "noun"
+      ],
+      "conjugations": {
+        "past_tense": "supposeed",
+        "past_participle": "supposeed",
+        "present_participle": "supposing",
+        "third_person": "supposes"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(動詞/名詞)",
+          "definition": "Assume that something is the case on the basis of evidence or probability but wi..."
+        }
+      ],
+      "examples": [
+        {
+          "en": "I suppose you're right.",
+          "highlight": [
+            "suppose"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "assume",
+        "presume"
+      ],
+      "antonyms": [
+        "know",
+        "prove"
+      ],
+      "phrases": [
+        "I",
+        "suppose",
+        "so",
+        "suppose",
+        "wrongly"
+      ]
+    },
+    {
+      "id": "A2-280-008",
+      "level": 280,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 500,
+      "word": "sure",
+      "phonetic": "",
+      "pos": [
+        "adjective",
+        "verb"
+      ],
+      "conjugations": {
+        "past_tense": "sureed",
+        "past_participle": "sureed",
+        "present_participle": "suring",
+        "third_person": "sures"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(形容詞/動詞)",
+          "definition": "Confident in what one thinks or knows; having no doubt that one is right"
+        }
+      ],
+      "examples": [
+        {
+          "en": "I am sure of my decision.",
+          "highlight": [
+            "sure"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "certain",
+        "confident"
+      ],
+      "antonyms": [
+        "unsure",
+        "doubtful"
+      ],
+      "phrases": [
+        "sure",
+        "thing",
+        "sure",
+        "of"
+      ]
+    },
+    {
+      "id": "A2-280-009",
+      "level": 280,
+      "tier": "basic",
+      "cefr": "A2",
+      "toeic_score_min": 500,
+      "word": "surely",
       "phonetic": "",
       "pos": [
         "adverb"
@@ -56,277 +421,35 @@
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"unfortunately\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞)",
+          "definition": "Used to emphasize the speaker's firm belief that what they are saying is true an..."
         }
       ],
       "examples": [
         {
-          "en": "She speaks unfortunately in the meeting.",
+          "en": "Surely you can't be serious?",
           "highlight": [
-            "unfortunately"
+            "surely"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-280-003",
-      "level": 280,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
-      "word": "unhappy",
-      "phonetic": "",
-      "pos": [
-        "noun"
+      "synonyms": [
+        "certainly",
+        "definitely"
       ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"unhappy\" 的中文釋義（待 LLM 補完）"
-        }
+      "antonyms": [
+        "doubtfully"
       ],
-      "examples": [
-        {
-          "en": "The unhappy is very useful.",
-          "highlight": [
-            "unhappy"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-280-004",
-      "level": 280,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
-      "word": "uniform",
-      "phonetic": "",
-      "pos": [
-        "noun"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"uniform\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "The uniform is very useful.",
-          "highlight": [
-            "uniform"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-280-005",
-      "level": 280,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
-      "word": "union",
-      "phonetic": "",
-      "pos": [
-        "noun"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"union\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "The union is very useful.",
-          "highlight": [
-            "union"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-280-006",
-      "level": 280,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
-      "word": "unique",
-      "phonetic": "",
-      "pos": [
-        "noun"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"unique\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "The unique is very useful.",
-          "highlight": [
-            "unique"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-280-007",
-      "level": 280,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
-      "word": "unit",
-      "phonetic": "",
-      "pos": [
-        "noun"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"unit\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "The unit is very useful.",
-          "highlight": [
-            "unit"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-280-008",
-      "level": 280,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
-      "word": "united",
-      "phonetic": "",
-      "pos": [
-        "verb"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"united\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "I need to united this morning.",
-          "highlight": [
-            "united"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
-    },
-    {
-      "id": "A2-280-009",
-      "level": 280,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
-      "word": "universe",
-      "phonetic": "",
-      "pos": [
-        "noun"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"universe\" 的中文釋義（待 LLM 補完）"
-        }
-      ],
-      "examples": [
-        {
-          "en": "The universe is very useful.",
-          "highlight": [
-            "universe"
-          ],
-          "translations": {
-            "zh-TW": "（待補翻譯）"
-          }
-        }
-      ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "surely",
+        "not",
+        "surely",
+        "you",
+        "jest"
+      ]
     },
     {
       "id": "A2-280-010",
@@ -334,35 +457,51 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "university",
+      "word": "surface",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "surfaceed",
+        "past_participle": "surfaceed",
+        "present_participle": "surfacing",
+        "third_person": "surfaces"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"university\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "The outside part or uppermost layer of something"
         }
       ],
       "examples": [
         {
-          "en": "The university is very useful.",
+          "en": "The surface of the table was smooth.",
           "highlight": [
-            "university"
+            "surface"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "exterior",
+        "face"
+      ],
+      "antonyms": [
+        "interior",
+        "inside"
+      ],
+      "phrases": [
+        "surface",
+        "area",
+        "smooth",
+        "surface"
+      ]
     }
   ]
 }

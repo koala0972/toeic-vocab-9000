@@ -10,32 +10,56 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "hello",
-      "phonetic": "həˈloʊ",
-      "pos": ["interjection"],
-      "conjugations": {},
-      "domain": "daily_greeting",
+      "phonetic": "",
+      "pos": [
+        "interjection",
+        "noun"
+      ],
+      "conjugations": {
+        "plural": "hellos"
+      },
+      "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "哈囉",
-          "definition": "常用打招呼的招呼語, 表示「你好」"
+          "lang_word": "(感嘆詞/名詞)",
+          "definition": "Used as a greeting or to begin a telephone conversation"
         }
       ],
       "examples": [
         {
-          "en": "Hello! My name is Lin.",
-          "highlight": ["Hello"],
-          "translations": { "zh-TW": "哈囉,我叫 Lin。" }
+          "en": "She said hello to everyone.",
+          "highlight": [
+            "hello"
+          ],
+          "translations": {
+            "zh-TW": "oxford 例句尚未翻譯(離線)"
+          }
         },
         {
-          "en": "Hello, how are you today?",
-          "highlight": ["Hello", "today"],
-          "translations": { "zh-TW": "哈囉,你今天好嗎?" }
+          "en": "The hello is on the table.",
+          "highlight": [
+            "hello"
+          ],
+          "translations": {
+            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
+          }
         }
       ],
-      "synonyms": ["hi", "hey"],
-      "antonyms": ["goodbye"],
-      "phrases": []
+      "synonyms": [
+        "hi",
+        "greetings"
+      ],
+      "antonyms": [
+        "goodbye",
+        "farewell"
+      ],
+      "phrases": [
+        "say",
+        "hello",
+        "wave",
+        "hello"
+      ]
     },
     {
       "id": "A1-001-002",
@@ -44,27 +68,59 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "goodbye",
-      "phonetic": "ɡʊdˈbaɪ",
-      "pos": ["interjection", "noun"],
-      "conjugations": {},
-      "domain": "daily_greeting",
+      "phonetic": "",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "conjugations": {
+        "past_tense": "goodbyeed",
+        "past_participle": "goodbyeed",
+        "present_participle": "goodbying",
+        "third_person": "goodbyes"
+      },
+      "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "再見",
-          "definition": "分別時的招呼語"
+          "lang_word": "(名詞/動詞)",
+          "definition": "An acknowledgment or expression of goodwill at parting"
         }
       ],
       "examples": [
         {
-          "en": "Say goodbye to your friends before you leave.",
-          "highlight": ["goodbye"],
-          "translations": { "zh-TW": "離開前跟朋友說再見。" }
+          "en": "They said goodbye before leaving.",
+          "highlight": [
+            "goodbye"
+          ],
+          "translations": {
+            "zh-TW": "oxford 例句尚未翻譯(離線)"
+          }
+        },
+        {
+          "en": "I goodbye every morning.",
+          "highlight": [
+            "goodbye"
+          ],
+          "translations": {
+            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
+          }
         }
       ],
-      "synonyms": ["bye", "farewell"],
-      "antonyms": ["hello"],
-      "phrases": ["say goodbye"]
+      "synonyms": [
+        "farewell",
+        "adieu"
+      ],
+      "antonyms": [
+        "hello",
+        "greeting"
+      ],
+      "phrases": [
+        "say",
+        "goodbye",
+        "bid",
+        "farewell"
+      ]
     },
     {
       "id": "A1-001-003",
@@ -73,27 +129,53 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "yes",
-      "phonetic": "jɛs",
-      "pos": ["adverb", "interjection"],
+      "phonetic": "",
+      "pos": [
+        "interjection",
+        "adverb"
+      ],
       "conjugations": {},
-      "domain": "basic_response",
+      "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "是",
-          "definition": "肯定回答, 表示同意"
+          "lang_word": "(感嘆詞/副詞)",
+          "definition": "Used to give an affirmative response"
         }
       ],
       "examples": [
         {
-          "en": "Yes, I will come with you.",
-          "highlight": ["Yes"],
-          "translations": { "zh-TW": "好,我會跟你一起去。" }
+          "en": "Yes, I will attend the meeting.",
+          "highlight": [
+            "yes"
+          ],
+          "translations": {
+            "zh-TW": "oxford 例句尚未翻譯(離線)"
+          }
+        },
+        {
+          "en": "The plan was yes executed.",
+          "highlight": [
+            "yes"
+          ],
+          "translations": {
+            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
+          }
         }
       ],
-      "synonyms": ["yeah", "sure"],
-      "antonyms": ["no"],
-      "phrases": []
+      "synonyms": [
+        "yeah",
+        "affirmative"
+      ],
+      "antonyms": [
+        "no"
+      ],
+      "phrases": [
+        "yes",
+        "please",
+        "yes",
+        "sir"
+      ]
     },
     {
       "id": "A1-001-004",
@@ -102,27 +184,54 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "no",
-      "phonetic": "noʊ",
-      "pos": ["adverb", "interjection"],
-      "conjugations": {},
-      "domain": "basic_response",
+      "phonetic": "",
+      "pos": [
+        "adverb",
+        "noun"
+      ],
+      "conjugations": {
+        "plural": "nos"
+      },
+      "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "不",
-          "definition": "否定回答, 表示拒絕或不同意"
+          "lang_word": "(副詞/名詞)",
+          "definition": "Not any"
         }
       ],
       "examples": [
         {
-          "en": "No, I don't want coffee.",
-          "highlight": ["No", "don't"],
-          "translations": { "zh-TW": "不,我不要咖啡。" }
+          "en": "No, I don't want any.",
+          "highlight": [
+            "no"
+          ],
+          "translations": {
+            "zh-TW": "oxford 例句尚未翻譯(離線)"
+          }
+        },
+        {
+          "en": "His job requires a strong no.",
+          "highlight": [
+            "no"
+          ],
+          "translations": {
+            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
+          }
         }
       ],
-      "synonyms": ["nope"],
-      "antonyms": ["yes"],
-      "phrases": []
+      "synonyms": [
+        "not"
+      ],
+      "antonyms": [
+        "yes"
+      ],
+      "phrases": [
+        "no",
+        "way",
+        "no",
+        "problem"
+      ]
     },
     {
       "id": "A1-001-005",
@@ -131,31 +240,56 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "thank",
-      "phonetic": "θæŋk",
-      "pos": ["verb"],
+      "phonetic": "",
+      "pos": [
+        "verb",
+        "noun"
+      ],
       "conjugations": {
         "past_tense": "thanked",
+        "past_participle": "thanked",
         "present_participle": "thanking",
         "third_person": "thanks"
       },
-      "domain": "daily_gratitude",
+      "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "感謝",
-          "definition": "對別人的好意或幫助表達謝意"
+          "lang_word": "(動詞/名詞)",
+          "definition": "Express gratitude to (someone)"
         }
       ],
       "examples": [
         {
-          "en": "I thank you for your help.",
-          "highlight": ["thank"],
-          "translations": { "zh-TW": "我感謝你的幫忙。" }
+          "en": "I want to thank you for your help.",
+          "highlight": [
+            "thank"
+          ],
+          "translations": {
+            "zh-TW": "oxford 例句尚未翻譯(離線)"
+          }
+        },
+        {
+          "en": "We should thank this carefully.",
+          "highlight": [
+            "thank"
+          ],
+          "translations": {
+            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
+          }
         }
       ],
-      "synonyms": ["appreciate"],
+      "synonyms": [
+        "acknowledge",
+        "appreciate"
+      ],
       "antonyms": [],
-      "phrases": ["thank you"]
+      "phrases": [
+        "thank",
+        "you",
+        "thank",
+        "goodness"
+      ]
     },
     {
       "id": "A1-001-006",
@@ -164,27 +298,59 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "please",
-      "phonetic": "pliz",
-      "pos": ["adverb"],
-      "conjugations": {},
-      "domain": "basic_polite",
+      "phonetic": "",
+      "pos": [
+        "verb",
+        "noun"
+      ],
+      "conjugations": {
+        "past_tense": "pleaseed",
+        "past_participle": "pleaseed",
+        "present_participle": "pleasing",
+        "third_person": "pleases"
+      },
+      "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "請",
-          "definition": "用於請求, 表示禮貌"
+          "lang_word": "(動詞/名詞)",
+          "definition": "Cause to feel happy and satisfied"
         }
       ],
       "examples": [
         {
-          "en": "Could you help me, please?",
-          "highlight": ["please"],
-          "translations": { "zh-TW": "請問你可以幫我嗎?" }
+          "en": "Her smile pleased him.",
+          "highlight": [
+            "please"
+          ],
+          "translations": {
+            "zh-TW": "oxford 例句尚未翻譯(離線)"
+          }
+        },
+        {
+          "en": "She needs to please before tomorrow.",
+          "highlight": [
+            "please"
+          ],
+          "translations": {
+            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
+          }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "synonyms": [
+        "satisfy",
+        "delight"
+      ],
+      "antonyms": [
+        "displease",
+        "annoy"
+      ],
+      "phrases": [
+        "please",
+        "someone",
+        "please",
+        "yourself"
+      ]
     },
     {
       "id": "A1-001-007",
@@ -193,27 +359,59 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "sorry",
-      "phonetic": "ˈsɔri",
-      "pos": ["adjective", "interjection"],
-      "conjugations": {},
-      "domain": "basic_polite",
+      "phonetic": "",
+      "pos": [
+        "adjective",
+        "verb"
+      ],
+      "conjugations": {
+        "past_tense": "sorryed",
+        "past_participle": "sorryed",
+        "present_participle": "sorrying",
+        "third_person": "sorrys"
+      },
+      "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "抱歉",
-          "definition": "對過失或冒犯表示歉意"
+          "lang_word": "(形容詞/動詞)",
+          "definition": "Feeling distress, especially through sympathy with someone else's misfortune"
         }
       ],
       "examples": [
         {
-          "en": "I'm sorry I'm late.",
-          "highlight": ["sorry", "late"],
-          "translations": { "zh-TW": "抱歉我遲到了。" }
+          "en": "I am sorry for your loss.",
+          "highlight": [
+            "sorry"
+          ],
+          "translations": {
+            "zh-TW": "oxford 例句尚未翻譯(離線)"
+          }
+        },
+        {
+          "en": "I sorry every morning.",
+          "highlight": [
+            "sorry"
+          ],
+          "translations": {
+            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
+          }
         }
       ],
-      "synonyms": ["apologize"],
-      "antonyms": [],
-      "phrases": ["be sorry"]
+      "synonyms": [
+        "apologetic",
+        "regretful"
+      ],
+      "antonyms": [
+        "unapologetic",
+        "indifferent"
+      ],
+      "phrases": [
+        "feel",
+        "sorry",
+        "so",
+        "sorry"
+      ]
     },
     {
       "id": "A1-001-008",
@@ -222,32 +420,60 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "excuse",
-      "phonetic": "ɪkˈskjuz",
-      "pos": ["verb", "noun"],
+      "phonetic": "",
+      "pos": [
+        "verb",
+        "noun"
+      ],
       "conjugations": {
-        "past_tense": "excused",
+        "past_tense": "excuseed",
+        "past_participle": "excuseed",
         "present_participle": "excusing",
-        "third_person": "excuses",
-        "plural": "excuses"
+        "third_person": "excuses"
       },
-      "domain": "basic_polite",
+      "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "原諒 / 藉口",
-          "definition": "(動)原諒; (名)理由、解釋"
+          "lang_word": "(動詞/名詞)",
+          "definition": "Seek to lessen the blame attaching to (a fault or offense); try to justify"
         }
       ],
       "examples": [
         {
-          "en": "Excuse me, where is the station?",
-          "highlight": ["Excuse"],
-          "translations": { "zh-TW": "不好意思,車站在哪裡?" }
+          "en": "Please excuse my lateness.",
+          "highlight": [
+            "excuse"
+          ],
+          "translations": {
+            "zh-TW": "oxford 例句尚未翻譯(離線)"
+          }
+        },
+        {
+          "en": "He excuses the report to his manager.",
+          "highlight": [
+            "excuse"
+          ],
+          "translations": {
+            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
+          }
         }
       ],
-      "synonyms": ["forgive", "pardon"],
-      "antonyms": [],
-      "phrases": ["excuse me"]
+      "synonyms": [
+        "justify",
+        "pardon"
+      ],
+      "antonyms": [
+        "blame",
+        "accuse"
+      ],
+      "phrases": [
+        "excuse",
+        "the",
+        "interruption",
+        "excuse",
+        "me"
+      ]
     },
     {
       "id": "A1-001-009",
@@ -256,30 +482,56 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "good",
-      "phonetic": "ɡʊd",
-      "pos": ["adjective", "noun"],
+      "phonetic": "",
+      "pos": [
+        "adjective",
+        "noun"
+      ],
       "conjugations": {
-        "comparative": "better",
-        "superlative": "best"
+        "plural": "goods"
       },
-      "domain": "basic_adjective",
+      "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "好的",
-          "definition": "品質或狀態良好, 令人滿意"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "To be desired or approved of"
         }
       ],
       "examples": [
         {
-          "en": "She is a good student.",
-          "highlight": ["good"],
-          "translations": { "zh-TW": "她是個好學生。" }
+          "en": "She is a good person.",
+          "highlight": [
+            "good"
+          ],
+          "translations": {
+            "zh-TW": "oxford 例句尚未翻譯(離線)"
+          }
+        },
+        {
+          "en": "His job requires a strong good.",
+          "highlight": [
+            "good"
+          ],
+          "translations": {
+            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
+          }
         }
       ],
-      "synonyms": ["fine", "nice"],
-      "antonyms": ["bad", "poor"],
-      "phrases": []
+      "synonyms": [
+        "virtuous",
+        "well"
+      ],
+      "antonyms": [
+        "bad",
+        "evil"
+      ],
+      "phrases": [
+        "good",
+        "person",
+        "good",
+        "job"
+      ]
     },
     {
       "id": "A1-001-010",
@@ -288,27 +540,56 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "morning",
-      "phonetic": "ˈmɔrnɪŋ",
-      "pos": ["noun"],
-      "conjugations": { "plural": "mornings" },
-      "domain": "daily_greeting",
+      "phonetic": "",
+      "pos": [
+        "noun",
+        "adverb"
+      ],
+      "conjugations": {
+        "plural": "mornings"
+      },
+      "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "早晨",
-          "definition": "從日出到中午的時段"
+          "lang_word": "(名詞/副詞)",
+          "definition": "The period of time between midnight and noon, especially from sunrise to noon"
         }
       ],
       "examples": [
         {
-          "en": "Good morning, everyone!",
-          "highlight": ["morning"],
-          "translations": { "zh-TW": "早安,大家!" }
+          "en": "She drinks coffee every morning.",
+          "highlight": [
+            "morning"
+          ],
+          "translations": {
+            "zh-TW": "oxford 例句尚未翻譯(離線)"
+          }
+        },
+        {
+          "en": "Please hand me the morning.",
+          "highlight": [
+            "morning"
+          ],
+          "translations": {
+            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
+          }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": ["good morning"]
+      "synonyms": [
+        "dawn",
+        "forenoon"
+      ],
+      "antonyms": [
+        "evening",
+        "night"
+      ],
+      "phrases": [
+        "every",
+        "morning",
+        "early",
+        "morning"
+      ]
     }
   ]
 }

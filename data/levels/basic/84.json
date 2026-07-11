@@ -2,7 +2,6 @@
   "level": 84,
   "tier": "basic",
   "cefr": "A1",
-  "_skeleton": true,
   "words": [
     {
       "id": "A1-084-001",
@@ -10,35 +9,50 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "down",
+      "word": "definition",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "definitioned",
+        "past_participle": "definitioned",
+        "present_participle": "definitioning",
+        "third_person": "definitions"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"down\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A statement of the exact meaning of a word, especially in a dictionary"
         }
       ],
       "examples": [
         {
-          "en": "The down is very useful.",
+          "en": "The dictionary provides definitions for words.",
           "highlight": [
-            "down"
+            "definition"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "meaning",
+        "explanation"
+      ],
+      "antonyms": [
+        "misdefinition"
+      ],
+      "phrases": [
+        "clear",
+        "definition",
+        "precise",
+        "definition"
+      ]
     },
     {
       "id": "A1-084-002",
@@ -46,35 +60,49 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "download",
+      "word": "degree",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "degreeed",
+        "past_participle": "degreeed",
+        "present_participle": "degreing",
+        "third_person": "degrees"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"download\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "The amount, level, or extent to which something happens or is present"
         }
       ],
       "examples": [
         {
-          "en": "The download is very useful.",
+          "en": "The temperature dropped by a few degrees.",
           "highlight": [
-            "download"
+            "degree"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "level",
+        "extent"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "high",
+        "degree",
+        "degree",
+        "of",
+        "difficulty"
+      ]
     },
     {
       "id": "A1-084-003",
@@ -82,35 +110,52 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "downstairs",
+      "word": "delay",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "delayed",
+        "past_participle": "delayed",
+        "present_participle": "delaying",
+        "third_person": "delays"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"downstairs\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞/名詞)",
+          "definition": "Make (someone or something) late or slow"
         }
       ],
       "examples": [
         {
-          "en": "The downstairs is very useful.",
+          "en": "The flight was delayed due to bad weather.",
           "highlight": [
-            "downstairs"
+            "delay"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "postpone",
+        "defer"
+      ],
+      "antonyms": [
+        "advance",
+        "hasten"
+      ],
+      "phrases": [
+        "flight",
+        "delay",
+        "delay",
+        "in",
+        "delivery"
+      ]
     },
     {
       "id": "A1-084-004",
@@ -118,35 +163,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "downwards",
+      "word": "deliberate",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "deliberateed",
+        "past_participle": "deliberateed",
+        "present_participle": "deliberating",
+        "third_person": "deliberates"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"downwards\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/動詞)",
+          "definition": "Done consciously and intentionally"
         }
       ],
       "examples": [
         {
-          "en": "The downwards is very useful.",
+          "en": "It was a deliberate act of vandalism.",
           "highlight": [
-            "downwards"
+            "deliberate"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "intentional",
+        "planned"
+      ],
+      "antonyms": [
+        "accidental",
+        "unplanned"
+      ],
+      "phrases": [
+        "deliberate",
+        "attempt",
+        "deliberate",
+        "action"
+      ]
     },
     {
       "id": "A1-084-005",
@@ -154,35 +215,45 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "dozen",
+      "word": "deliberately",
       "phonetic": "",
       "pos": [
-        "verb"
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"dozen\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞)",
+          "definition": "In a careful and unhurried way"
         }
       ],
       "examples": [
         {
-          "en": "I need to dozen this morning.",
+          "en": "She deliberately ignored him.",
           "highlight": [
-            "dozen"
+            "deliberately"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "intentionally",
+        "purposefully"
+      ],
+      "antonyms": [
+        "accidentally",
+        "unintentionally"
+      ],
+      "phrases": [
+        "deliberately",
+        "avoid",
+        "deliberately",
+        "ignore"
+      ]
     },
     {
       "id": "A1-084-006",
@@ -190,35 +261,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "draft",
+      "word": "delicate",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "delicates"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"draft\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Very fine in texture or structure; of intricate workmanship or quality"
         }
       ],
       "examples": [
         {
-          "en": "The draft is very useful.",
+          "en": "The fabric is delicate and should be handled carefully.",
           "highlight": [
-            "draft"
+            "delicate"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "fragile",
+        "fine"
+      ],
+      "antonyms": [
+        "coarse",
+        "sturdy"
+      ],
+      "phrases": [
+        "delicate",
+        "balance",
+        "delicate",
+        "situation"
+      ]
     },
     {
       "id": "A1-084-007",
@@ -226,35 +310,52 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "drag",
+      "word": "delight",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "delighted",
+        "past_participle": "delighted",
+        "present_participle": "delighting",
+        "third_person": "delights"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"drag\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "Great pleasure"
         }
       ],
       "examples": [
         {
-          "en": "The drag is very useful.",
+          "en": "She took great delight in her work.",
           "highlight": [
-            "drag"
+            "delight"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "joy",
+        "pleasure"
+      ],
+      "antonyms": [
+        "displeasure",
+        "sadness"
+      ],
+      "phrases": [
+        "take",
+        "delight",
+        "in",
+        "much",
+        "to"
+      ]
     },
     {
       "id": "A1-084-008",
@@ -262,35 +363,52 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "drama",
+      "word": "delighted",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "delighteded",
+        "past_participle": "delighteded",
+        "present_participle": "delighteding",
+        "third_person": "delighteds"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"drama\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/動詞)",
+          "definition": "Feeling or showing great pleasure"
         }
       ],
       "examples": [
         {
-          "en": "The drama is very useful.",
+          "en": "They were delighted with the results.",
           "highlight": [
-            "drama"
+            "delighted"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "pleased",
+        "happy"
+      ],
+      "antonyms": [
+        "displeased",
+        "unhappy"
+      ],
+      "phrases": [
+        "delighted",
+        "with",
+        "the",
+        "outcome",
+        "delighted"
+      ]
     },
     {
       "id": "A1-084-009",
@@ -298,35 +416,53 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "dramatic",
+      "word": "deliver",
       "phonetic": "",
       "pos": [
-        "adjective"
+        "verb",
+        "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "delivered",
+        "past_participle": "delivered",
+        "present_participle": "delivering",
+        "third_person": "delivers"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"dramatic\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞/名詞)",
+          "definition": "Bring and hand over (a letter, parcel, or goods) to the proper recipient or addr..."
         }
       ],
       "examples": [
         {
-          "en": "This is a very dramatic thing.",
+          "en": "The courier delivered the package.",
           "highlight": [
-            "dramatic"
+            "deliver"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "hand",
+        "over",
+        "bring"
+      ],
+      "antonyms": [
+        "retain",
+        "keep"
+      ],
+      "phrases": [
+        "deliver",
+        "a",
+        "speech",
+        "deliver",
+        "on"
+      ]
     },
     {
       "id": "A1-084-010",
@@ -334,35 +470,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "draw",
+      "word": "delivery",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "deliveryed",
+        "past_participle": "deliveryed",
+        "present_participle": "deliverying",
+        "third_person": "deliverys"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"draw\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "The action of delivering letters, parcels, or goods"
         }
       ],
       "examples": [
         {
-          "en": "The draw is very useful.",
+          "en": "The delivery was scheduled for Monday.",
           "highlight": [
-            "draw"
+            "delivery"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "distribution",
+        "dispatch"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "delivery",
+        "service",
+        "delivery",
+        "time"
+      ]
     }
   ]
 }

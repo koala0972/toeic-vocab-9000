@@ -2,7 +2,6 @@
   "level": 231,
   "tier": "basic",
   "cefr": "A2",
-  "_skeleton": true,
   "words": [
     {
       "id": "A2-231-001",
@@ -10,35 +9,42 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "schedule",
+      "word": "rather",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"schedule\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞)",
+          "definition": "Used to indicate one's preference in a particular matter"
         }
       ],
       "examples": [
         {
-          "en": "The schedule is very useful.",
+          "en": "I would rather stay home.",
           "highlight": [
-            "schedule"
+            "rather"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "preferably",
+        "instead"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "rather",
+        "than",
+        "rather",
+        "prefer"
+      ]
     },
     {
       "id": "A2-231-002",
@@ -46,35 +52,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "scheme",
+      "word": "raw",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "raws"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"scheme\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Uncooked; in its natural state; not processed"
         }
       ],
       "examples": [
         {
-          "en": "The scheme is very useful.",
+          "en": "He ate raw vegetables.",
           "highlight": [
-            "scheme"
+            "raw"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "uncooked",
+        "fresh"
+      ],
+      "antonyms": [
+        "cooked",
+        "processed"
+      ],
+      "phrases": [
+        "raw",
+        "meat",
+        "raw",
+        "data"
+      ]
     },
     {
       "id": "A2-231-003",
@@ -82,35 +101,52 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "school",
+      "word": "reach",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "reached",
+        "past_participle": "reached",
+        "present_participle": "reaching",
+        "third_person": "reachs"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"school\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞/名詞)",
+          "definition": "Arrive at; get as far as"
         }
       ],
       "examples": [
         {
-          "en": "The school is very useful.",
+          "en": "He reached the top of the mountain.",
           "highlight": [
-            "school"
+            "reach"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "arrive",
+        "attain"
+      ],
+      "antonyms": [
+        "miss",
+        "lose"
+      ],
+      "phrases": [
+        "reach",
+        "a",
+        "goal",
+        "reach",
+        "out"
+      ]
     },
     {
       "id": "A2-231-004",
@@ -118,35 +154,51 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "science",
+      "word": "react",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "reacted",
+        "past_participle": "reacted",
+        "present_participle": "reacting",
+        "third_person": "reacts"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"science\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞/名詞)",
+          "definition": "Respond or behave in a particular way in response to something"
         }
       ],
       "examples": [
         {
-          "en": "The science is very useful.",
+          "en": "He reacted angrily.",
           "highlight": [
-            "science"
+            "react"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "respond",
+        "reply"
+      ],
+      "antonyms": [
+        "ignore",
+        "neglect"
+      ],
+      "phrases": [
+        "react",
+        "quickly",
+        "react",
+        "negatively"
+      ]
     },
     {
       "id": "A2-231-005",
@@ -154,35 +206,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "scientific",
+      "word": "reaction",
       "phonetic": "",
       "pos": [
-        "adjective"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "reactioned",
+        "past_participle": "reactioned",
+        "present_participle": "reactioning",
+        "third_person": "reactions"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"scientific\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "An action performed or a feeling experienced in response to a situation or event"
         }
       ],
       "examples": [
         {
-          "en": "This is a very scientific thing.",
+          "en": "Her reaction was surprising.",
           "highlight": [
-            "scientific"
+            "reaction"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "response",
+        "reply"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "strong",
+        "reaction",
+        "immediate",
+        "reaction"
+      ]
     },
     {
       "id": "A2-231-006",
@@ -190,35 +255,52 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "scientist",
+      "word": "read",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "readed",
+        "past_participle": "readed",
+        "present_participle": "reading",
+        "third_person": "reads"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"scientist\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞/名詞)",
+          "definition": "Look at and comprehend the meaning of (written or printed matter) by mentally in..."
         }
       ],
       "examples": [
         {
-          "en": "The scientist is very useful.",
+          "en": "She likes to read books.",
           "highlight": [
-            "scientist"
+            "read"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "peruse",
+        "interpret"
+      ],
+      "antonyms": [
+        "write",
+        "ignore"
+      ],
+      "phrases": [
+        "read",
+        "a",
+        "book",
+        "read",
+        "aloud"
+      ]
     },
     {
       "id": "A2-231-007",
@@ -226,35 +308,51 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "score",
+      "word": "reader",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "readered",
+        "past_participle": "readered",
+        "present_participle": "readering",
+        "third_person": "readers"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"score\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A person who reads or who is fond of reading"
         }
       ],
       "examples": [
         {
-          "en": "The score is very useful.",
+          "en": "He is an avid reader.",
           "highlight": [
-            "score"
+            "reader"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "bookworm",
+        "bibliophile"
+      ],
+      "antonyms": [
+        "writer",
+        "author"
+      ],
+      "phrases": [
+        "avid",
+        "reader",
+        "reader's",
+        "choice"
+      ]
     },
     {
       "id": "A2-231-008",
@@ -262,35 +360,51 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "scream",
+      "word": "reading",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "readinged",
+        "past_participle": "readinged",
+        "present_participle": "readinging",
+        "third_person": "readings"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"scream\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "The action or skill of reading written or printed matter silently or aloud"
         }
       ],
       "examples": [
         {
-          "en": "The scream is very useful.",
+          "en": "Reading is a good habit.",
           "highlight": [
-            "scream"
+            "reading"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "perusal",
+        "literacy"
+      ],
+      "antonyms": [
+        "writing",
+        "illiteracy"
+      ],
+      "phrases": [
+        "enjoy",
+        "reading",
+        "reading",
+        "habit"
+      ]
     },
     {
       "id": "A2-231-009",
@@ -298,35 +412,52 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "screen",
+      "word": "ready",
       "phonetic": "",
       "pos": [
+        "adjective",
         "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "readyed",
+        "past_participle": "readyed",
+        "present_participle": "readying",
+        "third_person": "readys"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"screen\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/動詞)",
+          "definition": "In a suitable state for an activity, action, or situation; fully prepared"
         }
       ],
       "examples": [
         {
-          "en": "I need to screen this morning.",
+          "en": "She is ready to go.",
           "highlight": [
-            "screen"
+            "ready"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "prepared",
+        "set"
+      ],
+      "antonyms": [
+        "unprepared",
+        "reluctant"
+      ],
+      "phrases": [
+        "ready",
+        "to",
+        "go",
+        "get",
+        "ready"
+      ]
     },
     {
       "id": "A2-231-010",
@@ -334,35 +465,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "script",
+      "word": "real",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "reals"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"script\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Actually existing as a thing or occurring in fact; not imagined or supposed"
         }
       ],
       "examples": [
         {
-          "en": "The script is very useful.",
+          "en": "The danger is very real.",
           "highlight": [
-            "script"
+            "real"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "genuine",
+        "actual"
+      ],
+      "antonyms": [
+        "fake",
+        "unreal"
+      ],
+      "phrases": [
+        "real",
+        "problem",
+        "real",
+        "danger"
+      ]
     }
   ]
 }

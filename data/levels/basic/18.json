@@ -2,7 +2,6 @@
   "level": 18,
   "tier": "basic",
   "cefr": "A1",
-  "_skeleton": true,
   "words": [
     {
       "id": "A1-018-001",
@@ -10,35 +9,47 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "anybody",
+      "word": "ambulance",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "ambulances"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"anybody\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "A vehicle specially equipped for taking sick or injured people to and from the h..."
         }
       ],
       "examples": [
         {
-          "en": "The anybody is very useful.",
+          "en": "The ambulance arrived quickly.",
           "highlight": [
-            "anybody"
+            "ambulance"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "emergency",
+        "vehicle",
+        "medical",
+        "vehicle"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "call",
+        "an",
+        "ambulance",
+        "need",
+        "an"
+      ]
     },
     {
       "id": "A1-018-002",
@@ -46,35 +57,46 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "anyone",
+      "word": "among",
       "phonetic": "",
       "pos": [
-        "noun"
+        "preposition"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"anyone\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(介係詞)",
+          "definition": "Situated more or less centrally in relation to (several other things)"
         }
       ],
       "examples": [
         {
-          "en": "The anyone is very useful.",
+          "en": "There was a big tree among the houses.",
           "highlight": [
-            "anyone"
+            "among"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "amid",
+        "amidst"
+      ],
+      "antonyms": [
+        "outside",
+        "separate"
+      ],
+      "phrases": [
+        "among",
+        "friends",
+        "among",
+        "the",
+        "best"
+      ]
     },
     {
       "id": "A1-018-003",
@@ -82,35 +104,44 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "anything",
+      "word": "amount",
       "phonetic": "",
       "pos": [
-        "verb"
+        "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "amounts"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"anything\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "A quantity of something"
         }
       ],
       "examples": [
         {
-          "en": "I need to anything this morning.",
+          "en": "The amount of water needed is 2 liters.",
           "highlight": [
-            "anything"
+            "amount"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "quantity",
+        "sum"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "large",
+        "amount",
+        "small",
+        "amount"
+      ]
     },
     {
       "id": "A1-018-004",
@@ -118,35 +149,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "anyway",
+      "word": "amuse",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "amuseed",
+        "past_participle": "amuseed",
+        "present_participle": "amusing",
+        "third_person": "amuses"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"anyway\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞)",
+          "definition": "Cause (someone) to find something funny; entertain"
         }
       ],
       "examples": [
         {
-          "en": "The anyway is very useful.",
+          "en": "The clown amused the children.",
           "highlight": [
-            "anyway"
+            "amuse"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "entertain",
+        "delight"
+      ],
+      "antonyms": [
+        "bore",
+        "tire"
+      ],
+      "phrases": [
+        "amuse",
+        "the",
+        "crowd",
+        "amuse",
+        "greatly"
+      ]
     },
     {
       "id": "A1-018-005",
@@ -154,35 +201,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "anywhere",
+      "word": "amused",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "comparative": "amuseder",
+        "superlative": "amusedest"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"anywhere\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞)",
+          "definition": "Finding something funny or entertaining"
         }
       ],
       "examples": [
         {
-          "en": "The anywhere is very useful.",
+          "en": "She was amused by his jokes.",
           "highlight": [
-            "anywhere"
+            "amused"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "entertained",
+        "delighted"
+      ],
+      "antonyms": [
+        "bored",
+        "uninterested"
+      ],
+      "phrases": [
+        "be",
+        "amused",
+        "look",
+        "amused"
+      ]
     },
     {
       "id": "A1-018-006",
@@ -190,35 +250,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "apart",
+      "word": "amusing",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "comparative": "amusinger",
+        "superlative": "amusingest"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"apart\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞)",
+          "definition": "Causing laughter or providing entertainment"
         }
       ],
       "examples": [
         {
-          "en": "The apart is very useful.",
+          "en": "The movie was very amusing.",
           "highlight": [
-            "apart"
+            "amusing"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "funny",
+        "entertaining"
+      ],
+      "antonyms": [
+        "boring",
+        "dull"
+      ],
+      "phrases": [
+        "amusing",
+        "story",
+        "amusing",
+        "incident"
+      ]
     },
     {
       "id": "A1-018-007",
@@ -226,35 +299,50 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "apartment",
+      "word": "analyse",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "analyseed",
+        "past_participle": "analyseed",
+        "present_participle": "analysing",
+        "third_person": "analyses"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"apartment\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞)",
+          "definition": "Examine methodically and in detail the constitution or structure of (something)"
         }
       ],
       "examples": [
         {
-          "en": "The apartment is very useful.",
+          "en": "They analyzed the data.",
           "highlight": [
-            "apartment"
+            "analyse"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "examine",
+        "study"
+      ],
+      "antonyms": [
+        "ignore",
+        "overlook"
+      ],
+      "phrases": [
+        "analyse",
+        "data",
+        "analyse",
+        "thoroughly"
+      ]
     },
     {
       "id": "A1-018-008",
@@ -262,35 +350,44 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "apologize",
+      "word": "analysis",
       "phonetic": "",
       "pos": [
-        "verb"
+        "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "analysises"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"apologize\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "Detailed examination of the elements or structure of something"
         }
       ],
       "examples": [
         {
-          "en": "I need to apologize this morning.",
+          "en": "The analysis revealed some interesting facts.",
           "highlight": [
-            "apologize"
+            "analysis"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "examination",
+        "study"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "detailed",
+        "analysis",
+        "in-depth",
+        "analysis"
+      ]
     },
     {
       "id": "A1-018-009",
@@ -298,35 +395,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "app",
+      "word": "ancient",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "comparative": "ancienter",
+        "superlative": "ancientest"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"app\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞)",
+          "definition": "Belonging to the very distant past and no longer in existence"
         }
       ],
       "examples": [
         {
-          "en": "The app is very useful.",
+          "en": "They found ancient artifacts.",
           "highlight": [
-            "app"
+            "ancient"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "old",
+        "historic"
+      ],
+      "antonyms": [
+        "modern",
+        "new"
+      ],
+      "phrases": [
+        "ancient",
+        "history",
+        "ancient",
+        "ruins"
+      ]
     },
     {
       "id": "A1-018-010",
@@ -334,35 +444,44 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "apparent",
+      "word": "and",
       "phonetic": "",
       "pos": [
-        "noun"
+        "conjunction"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"apparent\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(連接詞)",
+          "definition": "Used to connect words of the same part of speech, clauses, or sentences"
         }
       ],
       "examples": [
         {
-          "en": "The apparent is very useful.",
+          "en": "She likes tea and coffee.",
           "highlight": [
-            "apparent"
+            "and"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "plus",
+        "together",
+        "with"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "and",
+        "so",
+        "on",
+        "and",
+        "then"
+      ]
     }
   ]
 }

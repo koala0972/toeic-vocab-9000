@@ -2,7 +2,6 @@
   "level": 100,
   "tier": "basic",
   "cefr": "A1",
-  "_skeleton": true,
   "words": [
     {
       "id": "A1-100-001",
@@ -10,35 +9,47 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "expected",
+      "word": "eastern",
       "phonetic": "",
       "pos": [
-        "verb"
+        "adjective"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "comparative": "easterner",
+        "superlative": "easternest"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"expected\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞)",
+          "definition": "Situated in the east, or facing east"
         }
       ],
       "examples": [
         {
-          "en": "I need to expected this morning.",
+          "en": "They live in the eastern part of the city.",
           "highlight": [
-            "expected"
+            "eastern"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "oriental",
+        "eastward"
+      ],
+      "antonyms": [
+        "western"
+      ],
+      "phrases": [
+        "eastern",
+        "culture",
+        "eastern",
+        "region"
+      ]
     },
     {
       "id": "A1-100-002",
@@ -46,35 +57,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "expedition",
+      "word": "easy",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "easies"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"expedition\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Achieved without great effort; presenting few difficulties"
         }
       ],
       "examples": [
         {
-          "en": "The expedition is very useful.",
+          "en": "The exam was easy.",
           "highlight": [
-            "expedition"
+            "easy"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "simple",
+        "effortless"
+      ],
+      "antonyms": [
+        "difficult",
+        "hard"
+      ],
+      "phrases": [
+        "easy",
+        "task",
+        "easy",
+        "access"
+      ]
     },
     {
       "id": "A1-100-003",
@@ -82,35 +106,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "expense",
+      "word": "eat",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "eated",
+        "past_participle": "eated",
+        "present_participle": "eating",
+        "third_person": "eats"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"expense\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞/名詞)",
+          "definition": "Put (food) into the mouth and chew and swallow it"
         }
       ],
       "examples": [
         {
-          "en": "The expense is very useful.",
+          "en": "They ate dinner together.",
           "highlight": [
-            "expense"
+            "eat"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "consume",
+        "ingest"
+      ],
+      "antonyms": [
+        "fast",
+        "abstain"
+      ],
+      "phrases": [
+        "eat",
+        "out",
+        "eat",
+        "in"
+      ]
     },
     {
       "id": "A1-100-004",
@@ -118,35 +158,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "expensive",
+      "word": "economic",
       "phonetic": "",
       "pos": [
-        "adjective"
+        "adjective",
+        "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "economics"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"expensive\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Relating to economics or the economy"
         }
       ],
       "examples": [
         {
-          "en": "This is a very expensive thing.",
+          "en": "The country is facing economic challenges.",
           "highlight": [
-            "expensive"
+            "economic"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "financial",
+        "fiscal"
+      ],
+      "antonyms": [
+        "uneconomic",
+        "unprofitable"
+      ],
+      "phrases": [
+        "economic",
+        "growth",
+        "economic",
+        "policy"
+      ]
     },
     {
       "id": "A1-100-005",
@@ -154,35 +207,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "experience",
+      "word": "economy",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "economyed",
+        "past_participle": "economyed",
+        "present_participle": "economying",
+        "third_person": "economys"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"experience\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "The wealth and resources of a country or region, especially in terms of the prod..."
         }
       ],
       "examples": [
         {
-          "en": "The experience is very useful.",
+          "en": "The economy is growing.",
           "highlight": [
-            "experience"
+            "economy"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "market",
+        "system"
+      ],
+      "antonyms": [
+        "depression",
+        "recession"
+      ],
+      "phrases": [
+        "global",
+        "economy",
+        "local",
+        "economy"
+      ]
     },
     {
       "id": "A1-100-006",
@@ -190,35 +259,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "experienced",
+      "word": "edge",
       "phonetic": "",
       "pos": [
+        "noun",
         "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "edgeed",
+        "past_participle": "edgeed",
+        "present_participle": "edging",
+        "third_person": "edges"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"experienced\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "The outside limit of an object, area, or surface; a place or part farthest away ..."
         }
       ],
       "examples": [
         {
-          "en": "I need to experienced this morning.",
+          "en": "She stood at the edge of the cliff.",
           "highlight": [
-            "experienced"
+            "edge"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "border",
+        "margin"
+      ],
+      "antonyms": [
+        "center",
+        "middle"
+      ],
+      "phrases": [
+        "sharp",
+        "edge",
+        "cutting",
+        "edge"
+      ]
     },
     {
       "id": "A1-100-007",
@@ -226,35 +311,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "experiment",
+      "word": "edition",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "editioned",
+        "past_participle": "editioned",
+        "present_participle": "editioning",
+        "third_person": "editions"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"experiment\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A particular version or instance of a publication"
         }
       ],
       "examples": [
         {
-          "en": "The experiment is very useful.",
+          "en": "The second edition of the book was released.",
           "highlight": [
-            "experiment"
+            "edition"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "issue",
+        "version"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "new",
+        "edition",
+        "first",
+        "edition"
+      ]
     },
     {
       "id": "A1-100-008",
@@ -262,35 +360,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "expert",
+      "word": "editor",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "editored",
+        "past_participle": "editored",
+        "present_participle": "editoring",
+        "third_person": "editors"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"expert\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A person who is in charge of and determines the final content of a text, particu..."
         }
       ],
       "examples": [
         {
-          "en": "The expert is very useful.",
+          "en": "The editor revised the article.",
           "highlight": [
-            "expert"
+            "editor"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "journalist",
+        "reviser"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "chief",
+        "editor",
+        "magazine",
+        "editor"
+      ]
     },
     {
       "id": "A1-100-009",
@@ -298,35 +409,52 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "explain",
+      "word": "educate",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "educateed",
+        "past_participle": "educateed",
+        "present_participle": "educating",
+        "third_person": "educates"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"explain\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞/名詞)",
+          "definition": "Give intellectual, moral, and social instruction to (someone), typically at a sc..."
         }
       ],
       "examples": [
         {
-          "en": "The explain is very useful.",
+          "en": "Teachers educate students.",
           "highlight": [
-            "explain"
+            "educate"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "teach",
+        "instruct"
+      ],
+      "antonyms": [
+        "ignore",
+        "neglect"
+      ],
+      "phrases": [
+        "educate",
+        "children",
+        "educate",
+        "the",
+        "public"
+      ]
     },
     {
       "id": "A1-100-010",
@@ -334,35 +462,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "explanation",
+      "word": "educated",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "educateded",
+        "past_participle": "educateded",
+        "present_participle": "educateding",
+        "third_person": "educateds"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"explanation\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/動詞)",
+          "definition": "Having been educated"
         }
       ],
       "examples": [
         {
-          "en": "The explanation is very useful.",
+          "en": "She is well educated.",
           "highlight": [
-            "explanation"
+            "educated"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "learned",
+        "literate"
+      ],
+      "antonyms": [
+        "uneducated",
+        "ignorant"
+      ],
+      "phrases": [
+        "highly",
+        "educated",
+        "poorly",
+        "educated"
+      ]
     }
   ]
 }

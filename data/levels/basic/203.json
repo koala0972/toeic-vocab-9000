@@ -2,7 +2,6 @@
   "level": 203,
   "tier": "basic",
   "cefr": "A2",
-  "_skeleton": true,
   "words": [
     {
       "id": "A2-203-001",
@@ -10,35 +9,51 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "present",
+      "word": "organized",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "organizeded",
+        "past_participle": "organizeded",
+        "present_participle": "organizeding",
+        "third_person": "organizeds"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"present\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/動詞)",
+          "definition": "Arranged or structured in a systematic way"
         }
       ],
       "examples": [
         {
-          "en": "The present is very useful.",
+          "en": "The files were well organized.",
           "highlight": [
-            "present"
+            "organized"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "systematic",
+        "methodical"
+      ],
+      "antonyms": [
+        "chaotic",
+        "unorganized"
+      ],
+      "phrases": [
+        "well",
+        "organized",
+        "organized",
+        "person"
+      ]
     },
     {
       "id": "A2-203-002",
@@ -46,35 +61,52 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "presentation",
+      "word": "origin",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "origined",
+        "past_participle": "origined",
+        "present_participle": "origining",
+        "third_person": "origins"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"presentation\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "The point or place where something begins, arises, or is derived"
         }
       ],
       "examples": [
         {
-          "en": "The presentation is very useful.",
+          "en": "The origin of the word is Latin.",
           "highlight": [
-            "presentation"
+            "origin"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "source",
+        "root"
+      ],
+      "antonyms": [
+        "end",
+        "result"
+      ],
+      "phrases": [
+        "place",
+        "of",
+        "origin",
+        "country",
+        "of"
+      ]
     },
     {
       "id": "A2-203-003",
@@ -82,35 +114,48 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "preserve",
+      "word": "original",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "originals"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"preserve\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Present or existing from the beginning; first or earliest"
         }
       ],
       "examples": [
         {
-          "en": "The preserve is very useful.",
+          "en": "This is an original painting.",
           "highlight": [
-            "preserve"
+            "original"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "first",
+        "initial"
+      ],
+      "antonyms": [
+        "fake",
+        "imitation"
+      ],
+      "phrases": [
+        "original",
+        "idea",
+        "original",
+        "painting"
+      ]
     },
     {
       "id": "A2-203-004",
@@ -118,35 +163,45 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "president",
+      "word": "originally",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"president\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞)",
+          "definition": "From or in the beginning; at first"
         }
       ],
       "examples": [
         {
-          "en": "The president is very useful.",
+          "en": "The building was originally a factory.",
           "highlight": [
-            "president"
+            "originally"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "initially",
+        "at",
+        "first"
+      ],
+      "antonyms": [
+        "secondarily"
+      ],
+      "phrases": [
+        "originally",
+        "built",
+        "originally",
+        "intended"
+      ]
     },
     {
       "id": "A2-203-005",
@@ -154,35 +209,49 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "press",
+      "word": "other",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "pronoun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "comparative": "otherer",
+        "superlative": "otherest"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"press\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/代名詞)",
+          "definition": "Used to refer to a person or thing that is different or distinct from one alread..."
         }
       ],
       "examples": [
         {
-          "en": "The press is very useful.",
+          "en": "She has other plans.",
           "highlight": [
-            "press"
+            "other"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "additional",
+        "alternative"
+      ],
+      "antonyms": [
+        "same",
+        "identical"
+      ],
+      "phrases": [
+        "other",
+        "plans",
+        "other",
+        "people"
+      ]
     },
     {
       "id": "A2-203-006",
@@ -190,35 +259,45 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "pressure",
+      "word": "otherwise",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"pressure\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞)",
+          "definition": "In circumstances different from those present or considered; or else"
         }
       ],
       "examples": [
         {
-          "en": "The pressure is very useful.",
+          "en": "We must hurry; otherwise, we'll be late.",
           "highlight": [
-            "pressure"
+            "otherwise"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "else",
+        "if",
+        "not"
+      ],
+      "antonyms": [
+        "therefore",
+        "consequently"
+      ],
+      "phrases": [
+        "hurry",
+        "up",
+        "otherwise"
+      ]
     },
     {
       "id": "A2-203-007",
@@ -226,35 +305,43 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "pretend",
+      "word": "our",
       "phonetic": "",
       "pos": [
-        "noun"
+        "pronoun"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"pretend\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(代名詞)",
+          "definition": "Belonging to or associated with the speaker and one or more other people previou..."
         }
       ],
       "examples": [
         {
-          "en": "The pretend is very useful.",
+          "en": "This is our house.",
           "highlight": [
-            "pretend"
+            "our"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "belonging",
+        "to",
+        "us"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "our",
+        "house",
+        "our",
+        "car"
+      ]
     },
     {
       "id": "A2-203-008",
@@ -262,35 +349,42 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "pretty",
+      "word": "ours",
       "phonetic": "",
       "pos": [
-        "noun"
+        "pronoun"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"pretty\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(代名詞)",
+          "definition": "Belonging to or associated with the speaker and one or more other people"
         }
       ],
       "examples": [
         {
-          "en": "The pretty is very useful.",
+          "en": "The decision is ours.",
           "highlight": [
-            "pretty"
+            "ours"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ourselves"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "decision",
+        "is",
+        "ours",
+        "it's",
+        "ours"
+      ]
     },
     {
       "id": "A2-203-009",
@@ -298,35 +392,41 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "prevent",
+      "word": "ourselves",
       "phonetic": "",
       "pos": [
-        "noun"
+        "pronoun"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"prevent\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(代名詞)",
+          "definition": "Used by a speaker to refer to himself or herself and one or more other people as..."
         }
       ],
       "examples": [
         {
-          "en": "The prevent is very useful.",
+          "en": "We did it ourselves.",
           "highlight": [
-            "prevent"
+            "ourselves"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ourselves"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "by",
+        "ourselves",
+        "for",
+        "ourselves"
+      ]
     },
     {
       "id": "A2-203-010",
@@ -334,35 +434,46 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "previous",
+      "word": "out",
       "phonetic": "",
       "pos": [
-        "adjective"
+        "adverb",
+        "preposition"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"previous\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞/介係詞)",
+          "definition": "Moving or appearing to move away from a particular place, especially one that is..."
         }
       ],
       "examples": [
         {
-          "en": "This is a very previous thing.",
+          "en": "She went out to get some fresh air.",
           "highlight": [
-            "previous"
+            "out"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "outside",
+        "away"
+      ],
+      "antonyms": [
+        "in",
+        "inside"
+      ],
+      "phrases": [
+        "go",
+        "out",
+        "out",
+        "of"
+      ]
     }
   ]
 }

@@ -4,150 +4,585 @@
   "cefr": "A1",
   "words": [
     {
-      "id": "A1-003-001", "level": 3, "tier": "basic", "cefr": "A1", "toeic_score_min": 200,
-      "word": "do", "phonetic": "du",
-      "pos": ["verb", "noun"],
-      "conjugations": { "past_tense": "did", "past_participle": "done", "present_participle": "doing", "third_person": "does", "plural": "dos" },
-      "domain": "basic_verb",
-      "translations": [{ "lang": "zh-TW", "lang_word": "做", "definition": "執行、從事某行為; (助動詞)用於問句與否定" }],
-      "examples": [
-        { "en": "I do my homework every day.", "highlight": ["do"], "translations": { "zh-TW": "我每天做作業。" } },
-        { "en": "Do you speak English?", "highlight": ["Do"], "translations": { "zh-TW": "你會說英文嗎?" } }
+      "id": "A1-003-001",
+      "level": 3,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "do",
+      "phonetic": "",
+      "pos": [
+        "verb",
+        "noun"
       ],
-      "synonyms": ["perform", "execute"],
+      "conjugations": {
+        "past_tense": "doed",
+        "past_participle": "doed",
+        "present_participle": "doing",
+        "third_person": "dos"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(動詞/名詞)",
+          "definition": "Perform (an action, the precise nature of which is often unspecified)"
+        }
+      ],
+      "examples": [
+        {
+          "en": "What do you want to do today?",
+          "highlight": [
+            "do"
+          ],
+          "translations": {
+            "zh-TW": "oxford 例句尚未翻譯(離線)"
+          }
+        },
+        {
+          "en": "She needs to do before tomorrow.",
+          "highlight": [
+            "do"
+          ],
+          "translations": {
+            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
+          }
+        }
+      ],
+      "synonyms": [
+        "perform",
+        "execute"
+      ],
+      "antonyms": [
+        "undo",
+        "cease"
+      ],
+      "phrases": [
+        "do",
+        "the",
+        "job",
+        "do",
+        "the"
+      ]
+    },
+    {
+      "id": "A1-003-002",
+      "level": 3,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "can",
+      "phonetic": "",
+      "pos": [
+        "noun"
+      ],
+      "conjugations": {
+        "plural": "cans"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(名詞, 待 LLM 補完)",
+          "definition": "該字屬於 名詞，沒有 Oxford 3000 完整定調。LLM 升級後可改成完整中文釋義。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "This is an important can.",
+          "highlight": [
+            "can"
+          ],
+          "translations": {
+            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
+          }
+        }
+      ],
+      "synonyms": [],
       "antonyms": [],
-      "phrases": ["do homework", "do the dishes"]
+      "phrases": []
     },
     {
-      "id": "A1-003-002", "level": 3, "tier": "basic", "cefr": "A1", "toeic_score_min": 200,
-      "word": "can", "phonetic": "kæn",
-      "pos": ["modal verb", "noun"],
-      "conjugations": { "past_tense": "could" },
-      "domain": "modal_verb",
-      "translations": [{ "lang": "zh-TW", "lang_word": "能、可以", "definition": "表示能力或許可的助動詞" }],
-      "examples": [
-        { "en": "I can swim very fast.", "highlight": ["can"], "translations": { "zh-TW": "我能游得很快。" } },
-        { "en": "Can I help you?", "highlight": ["Can"], "translations": { "zh-TW": "我能幫你嗎?" } }
+      "id": "A1-003-003",
+      "level": 3,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "will",
+      "phonetic": "",
+      "pos": [
+        "verb",
+        "noun"
       ],
-      "synonyms": ["be able to"],
-      "antonyms": ["cannot", "can't"],
-      "phrases": ["can not", "can't"]
+      "conjugations": {
+        "past_tense": "willed",
+        "past_participle": "willed",
+        "present_participle": "willing",
+        "third_person": "wills"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(動詞/名詞)",
+          "definition": "Expressing the future tense"
+        }
+      ],
+      "examples": [
+        {
+          "en": "She will go to the party.",
+          "highlight": [
+            "will"
+          ],
+          "translations": {
+            "zh-TW": "oxford 例句尚未翻譯(離線)"
+          }
+        },
+        {
+          "en": "He wills the report to his manager.",
+          "highlight": [
+            "will"
+          ],
+          "translations": {
+            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
+          }
+        }
+      ],
+      "synonyms": [
+        "shall",
+        "intend"
+      ],
+      "antonyms": [
+        "won't"
+      ],
+      "phrases": [
+        "will",
+        "go",
+        "will",
+        "do"
+      ]
     },
     {
-      "id": "A1-003-003", "level": 3, "tier": "basic", "cefr": "A1", "toeic_score_min": 200,
-      "word": "will", "phonetic": "wɪl",
-      "pos": ["modal verb", "noun"],
-      "conjugations": { "negative": "won't", "verb_pp": "willed" },
-      "domain": "modal_verb",
-      "translations": [{ "lang": "zh-TW", "lang_word": "將、會", "definition": "表示未來、意願或習慣" }],
-      "examples": [
-        { "en": "I will call you tomorrow.", "highlight": ["will"], "translations": { "zh-TW": "我明天會打電話給你。" } }
+      "id": "A1-003-004",
+      "level": 3,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "want",
+      "phonetic": "",
+      "pos": [
+        "verb",
+        "noun"
       ],
-      "synonyms": ["shall"],
+      "conjugations": {
+        "past_tense": "wanted",
+        "past_participle": "wanted",
+        "present_participle": "wanting",
+        "third_person": "wants"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(動詞/名詞)",
+          "definition": "Have a desire to possess or do (something); wish for"
+        }
+      ],
+      "examples": [
+        {
+          "en": "I want a new bicycle.",
+          "highlight": [
+            "want"
+          ],
+          "translations": {
+            "zh-TW": "oxford 例句尚未翻譯(離線)"
+          }
+        },
+        {
+          "en": "They are planning to want soon.",
+          "highlight": [
+            "want"
+          ],
+          "translations": {
+            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
+          }
+        }
+      ],
+      "synonyms": [
+        "desire",
+        "wish"
+      ],
+      "antonyms": [
+        "reject",
+        "refuse"
+      ],
+      "phrases": [
+        "want",
+        "to",
+        "want",
+        "more"
+      ]
+    },
+    {
+      "id": "A1-003-005",
+      "level": 3,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "need",
+      "phonetic": "",
+      "pos": [
+        "verb",
+        "noun"
+      ],
+      "conjugations": {
+        "past_tense": "needed",
+        "past_participle": "needed",
+        "present_participle": "needing",
+        "third_person": "needs"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(動詞/名詞)",
+          "definition": "Require (something) because it is essential or very important"
+        }
+      ],
+      "examples": [
+        {
+          "en": "I need some help.",
+          "highlight": [
+            "need"
+          ],
+          "translations": {
+            "zh-TW": "oxford 例句尚未翻譯(離線)"
+          }
+        },
+        {
+          "en": "We should need this carefully.",
+          "highlight": [
+            "need"
+          ],
+          "translations": {
+            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
+          }
+        }
+      ],
+      "synonyms": [
+        "require",
+        "want"
+      ],
       "antonyms": [],
-      "phrases": ["will not", "won't"]
+      "phrases": [
+        "need",
+        "help",
+        "need",
+        "to"
+      ]
     },
     {
-      "id": "A1-003-004", "level": 3, "tier": "basic", "cefr": "A1", "toeic_score_min": 200,
-      "word": "want", "phonetic": "wɑnt",
-      "pos": ["verb", "noun"],
-      "conjugations": { "past_tense": "wanted", "present_participle": "wanting", "third_person": "wants", "plural": "wants" },
-      "domain": "basic_verb",
-      "translations": [{ "lang": "zh-TW", "lang_word": "想要", "definition": "希望、需要或渴望" }],
-      "examples": [
-        { "en": "I want a cup of tea.", "highlight": ["want"], "translations": { "zh-TW": "我想要一杯茶。" } }
+      "id": "A1-003-006",
+      "level": 3,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "come",
+      "phonetic": "",
+      "pos": [
+        "verb",
+        "noun"
       ],
-      "synonyms": ["desire", "wish"],
-      "antonyms": ["dislike"],
-      "phrases": ["want to"]
+      "conjugations": {
+        "past_tense": "comeed",
+        "past_participle": "comeed",
+        "present_participle": "coming",
+        "third_person": "comes"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(動詞/名詞)",
+          "definition": "Move or travel toward or into a place thought of as near or familiar to the spea..."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She will come to the party.",
+          "highlight": [
+            "come"
+          ],
+          "translations": {
+            "zh-TW": "oxford 例句尚未翻譯(離線)"
+          }
+        },
+        {
+          "en": "She needs to come before tomorrow.",
+          "highlight": [
+            "come"
+          ],
+          "translations": {
+            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
+          }
+        }
+      ],
+      "synonyms": [
+        "arrive",
+        "approach"
+      ],
+      "antonyms": [
+        "go",
+        "leave"
+      ],
+      "phrases": [
+        "come",
+        "here",
+        "come",
+        "back"
+      ]
     },
     {
-      "id": "A1-003-005", "level": 3, "tier": "basic", "cefr": "A1", "toeic_score_min": 200,
-      "word": "need", "phonetic": "nid",
-      "pos": ["verb", "noun"],
-      "conjugations": { "past_tense": "needed", "present_participle": "needing", "third_person": "needs", "plural": "needs" },
-      "domain": "basic_verb",
-      "translations": [{ "lang": "zh-TW", "lang_word": "需要", "definition": "必須、有必要" }],
-      "examples": [
-        { "en": "I need some water.", "highlight": ["need"], "translations": { "zh-TW": "我需要一些水。" } },
-        { "en": "You need to study harder.", "highlight": ["need"], "translations": { "zh-TW": "你需要更用功。" } }
+      "id": "A1-003-007",
+      "level": 3,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "see",
+      "phonetic": "",
+      "pos": [
+        "verb",
+        "noun"
       ],
-      "synonyms": ["require"],
+      "conjugations": {
+        "past_tense": "seeed",
+        "past_participle": "seeed",
+        "present_participle": "seing",
+        "third_person": "sees"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(動詞/名詞)",
+          "definition": "Perceive with the eyes; discern visually"
+        }
+      ],
+      "examples": [
+        {
+          "en": "She can see clearly now.",
+          "highlight": [
+            "see"
+          ],
+          "translations": {
+            "zh-TW": "oxford 例句尚未翻譯(離線)"
+          }
+        },
+        {
+          "en": "I see every morning.",
+          "highlight": [
+            "see"
+          ],
+          "translations": {
+            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
+          }
+        }
+      ],
+      "synonyms": [
+        "observe",
+        "view"
+      ],
+      "antonyms": [
+        "overlook",
+        "ignore"
+      ],
+      "phrases": [
+        "see",
+        "clearly",
+        "see",
+        "through"
+      ]
+    },
+    {
+      "id": "A1-003-008",
+      "level": 3,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "eat",
+      "phonetic": "",
+      "pos": [
+        "verb",
+        "noun"
+      ],
+      "conjugations": {
+        "past_tense": "eated",
+        "past_participle": "eated",
+        "present_participle": "eating",
+        "third_person": "eats"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(動詞/名詞)",
+          "definition": "Put (food) into the mouth and chew and swallow it"
+        }
+      ],
+      "examples": [
+        {
+          "en": "They ate dinner together.",
+          "highlight": [
+            "eat"
+          ],
+          "translations": {
+            "zh-TW": "oxford 例句尚未翻譯(離線)"
+          }
+        },
+        {
+          "en": "He eats the report to his manager.",
+          "highlight": [
+            "eat"
+          ],
+          "translations": {
+            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
+          }
+        }
+      ],
+      "synonyms": [
+        "consume",
+        "ingest"
+      ],
+      "antonyms": [
+        "fast",
+        "abstain"
+      ],
+      "phrases": [
+        "eat",
+        "out",
+        "eat",
+        "in"
+      ]
+    },
+    {
+      "id": "A1-003-009",
+      "level": 3,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "drink",
+      "phonetic": "",
+      "pos": [
+        "verb",
+        "noun"
+      ],
+      "conjugations": {
+        "past_tense": "drinked",
+        "past_participle": "drinked",
+        "present_participle": "drinking",
+        "third_person": "drinks"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(動詞/名詞)",
+          "definition": "Take (a liquid) into the mouth and swallow"
+        }
+      ],
+      "examples": [
+        {
+          "en": "He drank a glass of water.",
+          "highlight": [
+            "drink"
+          ],
+          "translations": {
+            "zh-TW": "oxford 例句尚未翻譯(離線)"
+          }
+        },
+        {
+          "en": "They are planning to drink soon.",
+          "highlight": [
+            "drink"
+          ],
+          "translations": {
+            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
+          }
+        }
+      ],
+      "synonyms": [
+        "sip",
+        "swallow"
+      ],
       "antonyms": [],
-      "phrases": ["need to"]
+      "phrases": [
+        "drink",
+        "water",
+        "drink",
+        "tea"
+      ]
     },
     {
-      "id": "A1-003-006", "level": 3, "tier": "basic", "cefr": "A1", "toeic_score_min": 200,
-      "word": "come", "phonetic": "kʌm",
-      "pos": ["verb"],
-      "conjugations": { "past_tense": "came", "past_participle": "come", "present_participle": "coming", "third_person": "comes" },
-      "domain": "basic_verb",
-      "translations": [{ "lang": "zh-TW", "lang_word": "來", "definition": "向說話者方向移動" }],
-      "examples": [
-        { "en": "Please come to my house.", "highlight": ["come"], "translations": { "zh-TW": "請來我家。" } },
-        { "en": "She came here yesterday.", "highlight": ["came"], "translations": { "zh-TW": "她昨天來這裡。" } }
+      "id": "A1-003-010",
+      "level": 3,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "make",
+      "phonetic": "",
+      "pos": [
+        "verb",
+        "noun"
       ],
-      "synonyms": ["arrive"],
-      "antonyms": ["go", "leave"],
-      "phrases": ["come back", "come here"]
-    },
-    {
-      "id": "A1-003-007", "level": 3, "tier": "basic", "cefr": "A1", "toeic_score_min": 200,
-      "word": "see", "phonetic": "si",
-      "pos": ["verb", "noun"],
-      "conjugations": { "past_tense": "saw", "past_participle": "seen", "present_participle": "seeing", "third_person": "sees", "plural": "sees" },
-      "domain": "basic_verb",
-      "translations": [{ "lang": "zh-TW", "lang_word": "看、看見", "definition": "用眼睛觀察或察覺" }],
-      "examples": [
-        { "en": "I see my friend every week.", "highlight": ["see"], "translations": { "zh-TW": "我每週見到我朋友。" } },
-        { "en": "Did you see the movie?", "highlight": ["see"], "translations": { "zh-TW": "你看過那部電影了嗎?" } }
+      "conjugations": {
+        "past_tense": "makeed",
+        "past_participle": "makeed",
+        "present_participle": "making",
+        "third_person": "makes"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(動詞/名詞)",
+          "definition": "Form (something) by putting parts together or combining substances; construct; c..."
+        }
       ],
-      "synonyms": ["watch", "look at"],
-      "antonyms": [],
-      "phrases": ["see you", "see off"]
-    },
-    {
-      "id": "A1-003-008", "level": 3, "tier": "basic", "cefr": "A1", "toeic_score_min": 200,
-      "word": "eat", "phonetic": "it",
-      "pos": ["verb"],
-      "conjugations": { "past_tense": "ate", "past_participle": "eaten", "present_participle": "eating", "third_person": "eats" },
-      "domain": "basic_verb",
-      "translations": [{ "lang": "zh-TW", "lang_word": "吃", "definition": "進食" }],
       "examples": [
-        { "en": "I eat breakfast at 7.", "highlight": ["eat"], "translations": { "zh-TW": "我七點吃早餐。" } }
+        {
+          "en": "She likes to make cakes.",
+          "highlight": [
+            "make"
+          ],
+          "translations": {
+            "zh-TW": "oxford 例句尚未翻譯(離線)"
+          }
+        },
+        {
+          "en": "We should make this carefully.",
+          "highlight": [
+            "make"
+          ],
+          "translations": {
+            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
+          }
+        }
       ],
-      "synonyms": ["consume", "have"],
-      "antonyms": [],
-      "phrases": ["eat out", "eat breakfast"]
-    },
-    {
-      "id": "A1-003-009", "level": 3, "tier": "basic", "cefr": "A1", "toeic_score_min": 200,
-      "word": "drink", "phonetic": "drɪŋk",
-      "pos": ["verb", "noun"],
-      "conjugations": { "past_tense": "drank", "past_participle": "drunk", "present_participle": "drinking", "third_person": "drinks", "plural": "drinks" },
-      "domain": "basic_verb",
-      "translations": [{ "lang": "zh-TW", "lang_word": "喝 / 飲料", "definition": "(動)喝; (名)飲料" }],
-      "examples": [
-        { "en": "She drinks coffee every morning.", "highlight": ["drinks"], "translations": { "zh-TW": "她每天早上喝咖啡。" } }
+      "synonyms": [
+        "create",
+        "build"
       ],
-      "synonyms": ["beverage"],
-      "antonyms": [],
-      "phrases": ["drink water", "drink coffee"]
-    },
-    {
-      "id": "A1-003-010", "level": 3, "tier": "basic", "cefr": "A1", "toeic_score_min": 200,
-      "word": "make", "phonetic": "meɪk",
-      "pos": ["verb"],
-      "conjugations": { "past_tense": "made", "past_participle": "made", "present_participle": "making", "third_person": "makes" },
-      "domain": "basic_verb",
-      "translations": [{ "lang": "zh-TW", "lang_word": "製作、做出", "definition": "創造、建造或使發生" }],
-      "examples": [
-        { "en": "I made a cake yesterday.", "highlight": ["made"], "translations": { "zh-TW": "我昨天做了一個蛋糕。" } },
-        { "en": "She makes furniture by hand.", "highlight": ["makes"], "translations": { "zh-TW": "她手工製作家具。" } }
+      "antonyms": [
+        "destroy",
+        "break"
       ],
-      "synonyms": ["create", "produce"],
-      "antonyms": ["destroy"],
-      "phrases": ["make a difference", "make sure"]
+      "phrases": [
+        "make",
+        "a",
+        "cake",
+        "make",
+        "sure"
+      ]
     }
   ]
 }

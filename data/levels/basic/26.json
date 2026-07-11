@@ -2,7 +2,6 @@
   "level": 26,
   "tier": "basic",
   "cefr": "A1",
-  "_skeleton": true,
   "words": [
     {
       "id": "A1-026-001",
@@ -10,35 +9,44 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "avoid",
+      "word": "as",
       "phonetic": "",
       "pos": [
-        "noun"
+        "conjunction",
+        "preposition"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"avoid\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(連接詞/介係詞)",
+          "definition": "Used to indicate that something happens during the time when something else is t..."
         }
       ],
       "examples": [
         {
-          "en": "The avoid is very useful.",
+          "en": "He watched her as she left.",
           "highlight": [
-            "avoid"
+            "as"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "while",
+        "during"
+      ],
       "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "phrases": [
+        "as",
+        "she",
+        "walked",
+        "as",
+        "it"
+      ]
     },
     {
       "id": "A1-026-002",
@@ -46,35 +54,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "award",
+      "word": "ashamed",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "comparative": "ashameder",
+        "superlative": "ashamedest"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"award\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞)",
+          "definition": "Embarrassed or guilty because of one's actions, characteristics, or associations"
         }
       ],
       "examples": [
         {
-          "en": "The award is very useful.",
+          "en": "He felt ashamed of his behavior.",
           "highlight": [
-            "award"
+            "ashamed"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "embarrassed",
+        "guilty"
+      ],
+      "antonyms": [
+        "proud",
+        "unashamed"
+      ],
+      "phrases": [
+        "feel",
+        "ashamed",
+        "be",
+        "ashamed"
+      ]
     },
     {
       "id": "A1-026-003",
@@ -82,35 +103,50 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "aware",
+      "word": "aside",
       "phonetic": "",
       "pos": [
+        "adverb",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "asides"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"aware\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞/名詞)",
+          "definition": "To one side; out of the way"
         }
       ],
       "examples": [
         {
-          "en": "The aware is very useful.",
+          "en": "He stepped aside to let her pass.",
           "highlight": [
-            "aware"
+            "aside"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "away",
+        "to",
+        "the",
+        "side"
+      ],
+      "antonyms": [
+        "center",
+        "middle"
+      ],
+      "phrases": [
+        "step",
+        "aside",
+        "put",
+        "aside"
+      ]
     },
     {
       "id": "A1-026-004",
@@ -118,35 +154,50 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "away",
+      "word": "ask",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "asked",
+        "past_participle": "asked",
+        "present_participle": "asking",
+        "third_person": "asks"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"away\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞)",
+          "definition": "Say something in order to obtain an answer or some information"
         }
       ],
       "examples": [
         {
-          "en": "The away is very useful.",
+          "en": "She asked a question.",
           "highlight": [
-            "away"
+            "ask"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "inquire",
+        "question"
+      ],
+      "antonyms": [
+        "answer",
+        "reply"
+      ],
+      "phrases": [
+        "ask",
+        "for",
+        "ask",
+        "about"
+      ]
     },
     {
       "id": "A1-026-005",
@@ -154,35 +205,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "awful",
+      "word": "asleep",
       "phonetic": "",
       "pos": [
         "adjective"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "comparative": "asleeper",
+        "superlative": "asleepest"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"awful\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞)",
+          "definition": "In a state of sleep"
         }
       ],
       "examples": [
         {
-          "en": "This is a very awful thing.",
+          "en": "He was sound asleep.",
           "highlight": [
-            "awful"
+            "asleep"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "sleeping",
+        "dormant"
+      ],
+      "antonyms": [
+        "awake",
+        "alert"
+      ],
+      "phrases": [
+        "fall",
+        "asleep",
+        "be",
+        "asleep"
+      ]
     },
     {
       "id": "A1-026-006",
@@ -190,35 +254,47 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "baby",
+      "word": "aspect",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "aspects"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"baby\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "A particular part or feature of something"
         }
       ],
       "examples": [
         {
-          "en": "The baby is very useful.",
+          "en": "The financial aspect of the deal is crucial.",
           "highlight": [
-            "baby"
+            "aspect"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "feature",
+        "facet"
+      ],
+      "antonyms": [
+        "whole",
+        "entirety"
+      ],
+      "phrases": [
+        "important",
+        "aspect",
+        "different",
+        "aspect"
+      ]
     },
     {
       "id": "A1-026-007",
@@ -226,35 +302,50 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "back",
+      "word": "assist",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "assisted",
+        "past_participle": "assisted",
+        "present_participle": "assisting",
+        "third_person": "assists"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"back\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞)",
+          "definition": "Give help or support to"
         }
       ],
       "examples": [
         {
-          "en": "The back is very useful.",
+          "en": "She assisted the elderly woman.",
           "highlight": [
-            "back"
+            "assist"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "help",
+        "support"
+      ],
+      "antonyms": [
+        "hinder",
+        "obstruct"
+      ],
+      "phrases": [
+        "assist",
+        "with",
+        "assist",
+        "in"
+      ]
     },
     {
       "id": "A1-026-008",
@@ -262,35 +353,47 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "background",
+      "word": "assistance",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "assistances"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"background\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "The action of helping someone with a job or task"
         }
       ],
       "examples": [
         {
-          "en": "The background is very useful.",
+          "en": "They offered assistance to the victims.",
           "highlight": [
-            "background"
+            "assistance"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "aid",
+        "help"
+      ],
+      "antonyms": [
+        "hindrance",
+        "obstruction"
+      ],
+      "phrases": [
+        "seek",
+        "assistance",
+        "provide",
+        "assistance"
+      ]
     },
     {
       "id": "A1-026-009",
@@ -298,35 +401,47 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "backwards",
+      "word": "assistant",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "assistants"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"backwards\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞)",
+          "definition": "A person who ranks below a senior person"
         }
       ],
       "examples": [
         {
-          "en": "The backwards is very useful.",
+          "en": "She works as an assistant to the manager.",
           "highlight": [
-            "backwards"
+            "assistant"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "aide",
+        "helper"
+      ],
+      "antonyms": [
+        "boss",
+        "superior"
+      ],
+      "phrases": [
+        "personal",
+        "assistant",
+        "executive",
+        "assistant"
+      ]
     },
     {
       "id": "A1-026-010",
@@ -334,35 +449,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "bacteria",
+      "word": "associate",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "associateed",
+        "past_participle": "associateed",
+        "present_participle": "associating",
+        "third_person": "associates"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"bacteria\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞/名詞)",
+          "definition": "Connect (someone or something) with something else in one's mind"
         }
       ],
       "examples": [
         {
-          "en": "The bacteria is very useful.",
+          "en": "He associated himself with the campaign.",
           "highlight": [
-            "bacteria"
+            "associate"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "connect",
+        "link"
+      ],
+      "antonyms": [
+        "separate",
+        "dissociate"
+      ],
+      "phrases": [
+        "associate",
+        "with",
+        "closely",
+        "associate"
+      ]
     }
   ]
 }

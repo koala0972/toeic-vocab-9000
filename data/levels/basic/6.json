@@ -10,7 +10,7 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "abandon",
-      "phonetic": "əˈbændən",
+      "phonetic": "",
       "pos": [
         "verb"
       ],
@@ -24,18 +24,18 @@
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "放棄、遺棄",
-          "definition": "完全放棄或離開某人/某物"
+          "lang_word": "(動詞)",
+          "definition": "Cease to support or look after (someone); desert"
         }
       ],
       "examples": [
         {
-          "en": "They had to abandon the car in the snow.",
+          "en": "She decided to abandon her plans.",
           "highlight": [
             "abandon"
           ],
           "translations": {
-            "zh-TW": "他們不得不在雪中棄車。"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
@@ -44,11 +44,15 @@
         "leave"
       ],
       "antonyms": [
-        "keep",
-        "maintain"
+        "support",
+        "keep"
       ],
       "phrases": [
-        "abandon hope"
+        "abandon",
+        "a",
+        "plan",
+        "abandon",
+        "a"
       ]
     },
     {
@@ -57,8 +61,57 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
+      "word": "abandoned",
+      "phonetic": "",
+      "pos": [
+        "adjective"
+      ],
+      "conjugations": {
+        "comparative": "abandoneder",
+        "superlative": "abandonedest"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(形容詞)",
+          "definition": "Having been deserted or left"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The house was abandoned.",
+          "highlight": [
+            "abandoned"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "deserted",
+        "forsaken"
+      ],
+      "antonyms": [
+        "inhabited",
+        "populated"
+      ],
+      "phrases": [
+        "abandoned",
+        "house",
+        "abandoned",
+        "car"
+      ]
+    },
+    {
+      "id": "A1-006-003",
+      "level": 6,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
       "word": "ability",
-      "phonetic": "əˈbɪləti",
+      "phonetic": "",
       "pos": [
         "noun"
       ],
@@ -69,72 +122,34 @@
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "能力、才能",
-          "definition": "做某事的能力或技能"
+          "lang_word": "(名詞)",
+          "definition": "Possession of the means or skill to do something"
         }
       ],
       "examples": [
         {
-          "en": "She has the ability to solve hard problems.",
+          "en": "She has the ability to learn languages quickly.",
           "highlight": [
             "ability"
           ],
           "translations": {
-            "zh-TW": "她有解決難題的能力。"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
       "synonyms": [
-        "skill",
         "talent",
-        "capability"
+        "skill"
       ],
       "antonyms": [
-        "inability"
+        "inability",
+        "incapacity"
       ],
       "phrases": [
-        "ability to"
-      ]
-    },
-    {
-      "id": "A1-006-003",
-      "level": 6,
-      "tier": "basic",
-      "cefr": "A1",
-      "toeic_score_min": 200,
-      "word": "able",
-      "phonetic": "ˈebəl",
-      "pos": [
-        "adjective"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "能夠",
-          "definition": "有能力或方法去做某事"
-        }
-      ],
-      "examples": [
-        {
-          "en": "I'm able to speak three languages.",
-          "highlight": [
-            "able"
-          ],
-          "translations": {
-            "zh-TW": "我能說三種語言。"
-          }
-        }
-      ],
-      "synonyms": [
-        "capable"
-      ],
-      "antonyms": [
-        "unable"
-      ],
-      "phrases": [
-        "be able to"
+        "intellectual",
+        "ability",
+        "physical",
+        "ability"
       ]
     },
     {
@@ -143,40 +158,46 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "about",
-      "phonetic": "əˈbaʊt",
+      "word": "able",
+      "phonetic": "",
       "pos": [
-        "preposition",
-        "adverb"
+        "adjective"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "comparative": "ableer",
+        "superlative": "ableest"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "關於、大約",
-          "definition": "涉及某人/某事；大約(數量或時間)"
+          "lang_word": "(形容詞)",
+          "definition": "Having the power, skill, means, or opportunity to do something"
         }
       ],
       "examples": [
         {
-          "en": "This book is about the ocean.",
+          "en": "She is able to solve the problem.",
           "highlight": [
-            "about"
+            "able"
           ],
           "translations": {
-            "zh-TW": "這本書是關於海洋的。"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
       "synonyms": [
-        "concerning",
-        "regarding"
+        "capable",
+        "competent"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "unable",
+        "incapable"
+      ],
       "phrases": [
-        "about to",
-        "what about"
+        "able",
+        "to",
+        "able-bodied"
       ]
     },
     {
@@ -185,8 +206,52 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
+      "word": "about",
+      "phonetic": "",
+      "pos": [
+        "preposition"
+      ],
+      "conjugations": {},
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(介係詞)",
+          "definition": "On the subject of; concerning"
+        }
+      ],
+      "examples": [
+        {
+          "en": "They talked about the project.",
+          "highlight": [
+            "about"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "regarding",
+        "concerning"
+      ],
+      "antonyms": [],
+      "phrases": [
+        "about",
+        "a",
+        "topic",
+        "about",
+        "5"
+      ]
+    },
+    {
+      "id": "A1-006-006",
+      "level": 6,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
       "word": "above",
-      "phonetic": "əˈbʌv",
+      "phonetic": "",
       "pos": [
         "preposition",
         "adverb"
@@ -196,73 +261,35 @@
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "在…上面、超過",
-          "definition": "位置較高；數量/程度超過"
+          "lang_word": "(介係詞/副詞)",
+          "definition": "At a higher level or layer"
         }
       ],
       "examples": [
         {
-          "en": "The lamp is above the desk.",
+          "en": "The birds flew above the trees.",
           "highlight": [
             "above"
           ],
           "translations": {
-            "zh-TW": "燈在書桌上方。"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
       "synonyms": [
-        "over"
+        "over",
+        "higher",
+        "than"
       ],
       "antonyms": [
         "below",
         "under"
       ],
       "phrases": [
-        "above all"
-      ]
-    },
-    {
-      "id": "A1-006-006",
-      "level": 6,
-      "tier": "basic",
-      "cefr": "A1",
-      "toeic_score_min": 200,
-      "word": "abroad",
-      "phonetic": "əˈbrɔd",
-      "pos": [
-        "adverb"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "在國外",
-          "definition": "在或到外國"
-        }
-      ],
-      "examples": [
-        {
-          "en": "She went abroad to study.",
-          "highlight": [
-            "abroad"
-          ],
-          "translations": {
-            "zh-TW": "她出國留學。"
-          }
-        }
-      ],
-      "synonyms": [
-        "overseas"
-      ],
-      "antonyms": [
-        "home",
-        "domestic"
-      ],
-      "phrases": [
-        "go abroad",
-        "live abroad"
+        "above",
+        "average",
+        "above",
+        "all"
       ]
     },
     {
@@ -271,51 +298,8 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "absolute",
-      "phonetic": "ˈæbsəˌlut",
-      "pos": [
-        "adjective"
-      ],
-      "conjugations": {},
-      "domain": "general",
-      "translations": [
-        {
-          "lang": "zh-TW",
-          "lang_word": "絕對的、完全的",
-          "definition": "完全、不受限制"
-        }
-      ],
-      "examples": [
-        {
-          "en": "There is no absolute truth.",
-          "highlight": [
-            "absolute"
-          ],
-          "translations": {
-            "zh-TW": "世上沒有絕對的真理。"
-          }
-        }
-      ],
-      "synonyms": [
-        "complete",
-        "total"
-      ],
-      "antonyms": [
-        "relative",
-        "partial"
-      ],
-      "phrases": [
-        "absolute zero"
-      ]
-    },
-    {
-      "id": "A1-006-008",
-      "level": 6,
-      "tier": "basic",
-      "cefr": "A1",
-      "toeic_score_min": 200,
-      "word": "absolutely",
-      "phonetic": "ˈæbsəˌlutli",
+      "word": "abroad",
+      "phonetic": "",
       "pos": [
         "adverb"
       ],
@@ -324,29 +308,84 @@
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "絕對地、完全",
-          "definition": "用以強調完全同意或確定"
+          "lang_word": "(副詞)",
+          "definition": "In or to a foreign country or countries"
         }
       ],
       "examples": [
         {
-          "en": "I absolutely agree with you.",
+          "en": "She studied abroad for a year.",
           "highlight": [
-            "absolutely"
+            "abroad"
           ],
           "translations": {
-            "zh-TW": "我完全同意你。"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
       "synonyms": [
-        "completely",
-        "definitely"
+        "overseas",
+        "internationally"
       ],
       "antonyms": [
-        "partially"
+        "domestically",
+        "locally"
       ],
-      "phrases": []
+      "phrases": [
+        "study",
+        "abroad",
+        "travel",
+        "abroad"
+      ]
+    },
+    {
+      "id": "A1-006-008",
+      "level": 6,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "absence",
+      "phonetic": "",
+      "pos": [
+        "noun"
+      ],
+      "conjugations": {
+        "plural": "absences"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "(名詞)",
+          "definition": "The state of being away from a place or person"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Her absence was noticed.",
+          "highlight": [
+            "absence"
+          ],
+          "translations": {
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+          }
+        }
+      ],
+      "synonyms": [
+        "nonattendance",
+        "nonexistence"
+      ],
+      "antonyms": [
+        "presence",
+        "attendance"
+      ],
+      "phrases": [
+        "leave",
+        "of",
+        "absence",
+        "in",
+        "the"
+      ]
     },
     {
       "id": "A1-006-009",
@@ -354,43 +393,47 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "academic",
-      "phonetic": "ˌækəˈdɛmɪk",
+      "word": "absent",
+      "phonetic": "",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "academics"
+        "comparative": "absenter",
+        "superlative": "absentest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "學術的",
-          "definition": "與學校或學術研究有關"
+          "lang_word": "(形容詞)",
+          "definition": "Not present in a place, at an occasion, or as part of something"
         }
       ],
       "examples": [
         {
-          "en": "His academic record is excellent.",
+          "en": "He was absent from the meeting.",
           "highlight": [
-            "academic"
+            "absent"
           ],
           "translations": {
-            "zh-TW": "他的學業成績很優秀。"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
       "synonyms": [
-        "scholarly",
-        "educational"
+        "missing",
+        "away"
       ],
       "antonyms": [
-        "practical"
+        "present",
+        "available"
       ],
       "phrases": [
-        "academic year"
+        "absent",
+        "from",
+        "school",
+        "absent-minded"
       ]
     },
     {
@@ -399,46 +442,47 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "accept",
-      "phonetic": "əkˈsɛpt",
+      "word": "absolute",
+      "phonetic": "",
       "pos": [
-        "verb"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "accepted",
-        "past_participle": "accepted",
-        "present_participle": "accepting",
-        "third_person": "accepts"
+        "comparative": "absoluteer",
+        "superlative": "absoluteest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "接受、答應",
-          "definition": "願意收到或同意"
+          "lang_word": "(形容詞)",
+          "definition": "Not qualified or diminished in any way; total"
         }
       ],
       "examples": [
         {
-          "en": "I accept your apology.",
+          "en": "There is absolute silence in the room.",
           "highlight": [
-            "accept"
+            "absolute"
           ],
           "translations": {
-            "zh-TW": "我接受你的道歉。"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
       "synonyms": [
-        "agree to",
-        "receive"
+        "complete",
+        "total"
       ],
       "antonyms": [
-        "reject",
-        "refuse"
+        "partial",
+        "relative"
       ],
       "phrases": [
-        "accept an offer"
+        "absolute",
+        "truth",
+        "absolute",
+        "power"
       ]
     }
   ]

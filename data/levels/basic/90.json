@@ -2,7 +2,6 @@
   "level": 90,
   "tier": "basic",
   "cefr": "A1",
-  "_skeleton": true,
   "words": [
     {
       "id": "A1-090-001",
@@ -10,35 +9,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "electric",
+      "word": "direct",
       "phonetic": "",
       "pos": [
-        "adjective"
+        "adjective",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "directed",
+        "past_participle": "directed",
+        "present_participle": "directing",
+        "third_person": "directs"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"electric\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/動詞)",
+          "definition": "Extending or moving from one place to another without changing direction or stop..."
         }
       ],
       "examples": [
         {
-          "en": "This is a very electric thing.",
+          "en": "He gave me direct instructions.",
           "highlight": [
-            "electric"
+            "direct"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "straight",
+        "straightforward"
+      ],
+      "antonyms": [
+        "indirect",
+        "roundabout"
+      ],
+      "phrases": [
+        "direct",
+        "route",
+        "direct",
+        "communication"
+      ]
     },
     {
       "id": "A1-090-002",
@@ -46,35 +61,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "electrical",
+      "word": "direction",
       "phonetic": "",
       "pos": [
-        "adjective"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "directioned",
+        "past_participle": "directioned",
+        "present_participle": "directioning",
+        "third_person": "directions"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"electrical\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A course along which someone or something moves"
         }
       ],
       "examples": [
         {
-          "en": "This is a very electrical thing.",
+          "en": "They headed in the same direction.",
           "highlight": [
-            "electrical"
+            "direction"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "route",
+        "path"
+      ],
+      "antonyms": [
+        "disorientation",
+        "confusion"
+      ],
+      "phrases": [
+        "give",
+        "direction",
+        "change",
+        "direction"
+      ]
     },
     {
       "id": "A1-090-003",
@@ -82,35 +113,45 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "electricity",
+      "word": "directly",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"electricity\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(副詞)",
+          "definition": "Without changing direction or stopping"
         }
       ],
       "examples": [
         {
-          "en": "The electricity is very useful.",
+          "en": "She spoke to me directly.",
           "highlight": [
-            "electricity"
+            "directly"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "straight",
+        "immediately"
+      ],
+      "antonyms": [
+        "indirectly",
+        "circuitously"
+      ],
+      "phrases": [
+        "speak",
+        "directly",
+        "directly",
+        "address"
+      ]
     },
     {
       "id": "A1-090-004",
@@ -118,35 +159,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "electronic",
+      "word": "director",
       "phonetic": "",
       "pos": [
-        "adjective"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "directored",
+        "past_participle": "directored",
+        "present_participle": "directoring",
+        "third_person": "directors"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"electronic\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A person who is in charge of an activity, department, or organization"
         }
       ],
       "examples": [
         {
-          "en": "This is a very electronic thing.",
+          "en": "The film director was praised for his work.",
           "highlight": [
-            "electronic"
+            "director"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "manager",
+        "head"
+      ],
+      "antonyms": [
+        "subordinate",
+        "employee"
+      ],
+      "phrases": [
+        "film",
+        "director",
+        "company",
+        "director"
+      ]
     },
     {
       "id": "A1-090-005",
@@ -154,35 +211,52 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "element",
+      "word": "dirt",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "dirted",
+        "past_participle": "dirted",
+        "present_participle": "dirting",
+        "third_person": "dirts"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"element\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "A substance, such as soil, that makes something dirty"
         }
       ],
       "examples": [
         {
-          "en": "The element is very useful.",
+          "en": "His shoes were covered in dirt.",
           "highlight": [
-            "element"
+            "dirt"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "soil",
+        "grime"
+      ],
+      "antonyms": [
+        "cleanliness",
+        "purity"
+      ],
+      "phrases": [
+        "covered",
+        "in",
+        "dirt",
+        "dirt",
+        "road"
+      ]
     },
     {
       "id": "A1-090-006",
@@ -190,35 +264,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "elephant",
+      "word": "dirty",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "dirtyed",
+        "past_participle": "dirtyed",
+        "present_participle": "dirtying",
+        "third_person": "dirtys"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"elephant\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/動詞)",
+          "definition": "Covered or marked with an unclean substance"
         }
       ],
       "examples": [
         {
-          "en": "The elephant is very useful.",
+          "en": "The floor was dirty.",
           "highlight": [
-            "elephant"
+            "dirty"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "filthy",
+        "unclean"
+      ],
+      "antonyms": [
+        "clean",
+        "spotless"
+      ],
+      "phrases": [
+        "dirty",
+        "clothes",
+        "dirty",
+        "hands"
+      ]
     },
     {
       "id": "A1-090-007",
@@ -226,35 +316,48 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "eleven",
+      "word": "disabled",
       "phonetic": "",
       "pos": [
-        "verb"
+        "adjective",
+        "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "disableds"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"eleven\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(形容詞/名詞)",
+          "definition": "Having a physical or mental condition that limits movements, senses, or activiti..."
         }
       ],
       "examples": [
         {
-          "en": "I need to eleven this morning.",
+          "en": "The building is accessible for disabled people.",
           "highlight": [
-            "eleven"
+            "disabled"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "handicapped",
+        "impaired"
+      ],
+      "antonyms": [
+        "abled",
+        "capable"
+      ],
+      "phrases": [
+        "disabled",
+        "access",
+        "disabled",
+        "person"
+      ]
     },
     {
       "id": "A1-090-008",
@@ -262,35 +365,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "else",
+      "word": "disadvantage",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "disadvantageed",
+        "past_participle": "disadvantageed",
+        "present_participle": "disadvantaging",
+        "third_person": "disadvantages"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"else\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "An unfavorable circumstance or condition that reduces the chances of success or ..."
         }
       ],
       "examples": [
         {
-          "en": "The else is very useful.",
+          "en": "Being short can be a disadvantage in basketball.",
           "highlight": [
-            "else"
+            "disadvantage"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "drawback",
+        "obstacle"
+      ],
+      "antonyms": [
+        "advantage",
+        "benefit"
+      ],
+      "phrases": [
+        "major",
+        "disadvantage",
+        "obvious",
+        "disadvantage"
+      ]
     },
     {
       "id": "A1-090-009",
@@ -298,35 +417,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "elsewhere",
+      "word": "disagree",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "disagreeed",
+        "past_participle": "disagreeed",
+        "present_participle": "disagreing",
+        "third_person": "disagrees"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"elsewhere\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(動詞/名詞)",
+          "definition": "Have or express a different opinion"
         }
       ],
       "examples": [
         {
-          "en": "The elsewhere is very useful.",
+          "en": "I disagree with your opinion.",
           "highlight": [
-            "elsewhere"
+            "disagree"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "differ",
+        "oppose"
+      ],
+      "antonyms": [
+        "agree",
+        "concur"
+      ],
+      "phrases": [
+        "disagree",
+        "strongly",
+        "disagree",
+        "completely"
+      ]
     },
     {
       "id": "A1-090-010",
@@ -334,35 +469,51 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "email",
+      "word": "disagreement",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "past_tense": "disagreemented",
+        "past_participle": "disagreemented",
+        "present_participle": "disagreementing",
+        "third_person": "disagreements"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "（待補）",
-          "definition": "英文單字 \"email\" 的中文釋義（待 LLM 補完）"
+          "lang_word": "(名詞/動詞)",
+          "definition": "Lack of consensus or approval"
         }
       ],
       "examples": [
         {
-          "en": "The email is very useful.",
+          "en": "They had a disagreement about the project.",
           "highlight": [
-            "email"
+            "disagreement"
           ],
           "translations": {
-            "zh-TW": "（待補翻譯）"
+            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": [],
-      "_skeleton": true
+      "synonyms": [
+        "conflict",
+        "dispute"
+      ],
+      "antonyms": [
+        "agreement",
+        "consensus"
+      ],
+      "phrases": [
+        "serious",
+        "disagreement",
+        "minor",
+        "disagreement"
+      ]
     }
   ]
 }
