@@ -1,6 +1,7 @@
 'use client';
 
 import { useEffect, useMemo, useState } from 'react';
+import Link from 'next/link';
 import { VoiceButton } from './VoiceButton';
 import { FavoriteStar } from './FavoriteStar';
 import {
@@ -20,6 +21,43 @@ interface Props {
   onViewed?: () => void;
   showAnswer: boolean;
   onToggleAnswer: () => void;
+}
+
+// 用單字搜尋頁跳轉
+function WordLink({ word }: { word: string }) {
+  return (
+    <Link
+      href={`/search?q=${encodeURIComponent(word)}`}
+      className="px-2 py-0.5 rounded bg-emerald-100 text-emerald-800 hover:bg-emerald-200 hover:underline"
+      title={`搜尋 "${word}"`}
+    >
+      {word}
+    </Link>
+  );
+}
+
+function AntonymLink({ word }: { word: string }) {
+  return (
+    <Link
+      href={`/search?q=${encodeURIComponent(word)}`}
+      className="px-2 py-0.5 rounded bg-rose-100 text-rose-800 hover:bg-rose-200 hover:underline"
+      title={`搜尋 "${word}"`}
+    >
+      {word}
+    </Link>
+  );
+}
+
+function PhraseLink({ phrase }: { phrase: string }) {
+  return (
+    <Link
+      href={`/search?q=${encodeURIComponent(phrase)}`}
+      className="px-2 py-0.5 rounded bg-indigo-100 text-indigo-800 hover:bg-indigo-200 hover:underline"
+      title={`搜尋 "${phrase}"`}
+    >
+      {phrase}
+    </Link>
+  );
 }
 
 export function WordCard({ entry, lang, rate, idx, onViewed, showAnswer, onToggleAnswer }: Props) {
@@ -101,7 +139,7 @@ export function WordCard({ entry, lang, rate, idx, onViewed, showAnswer, onToggl
             <div>
               <div className="text-slate-500">{t(lang, 'synonyms')}</div>
               <div className="flex flex-wrap gap-1 mt-1">
-                {entry.synonyms.map(s => <span key={s} className="px-2 py-0.5 rounded bg-emerald-50 text-emerald-800">{s}</span>)}
+                {entry.synonyms.map(s => <WordLink key={s} word={s} />)}
               </div>
             </div>
           )}
@@ -109,7 +147,7 @@ export function WordCard({ entry, lang, rate, idx, onViewed, showAnswer, onToggl
             <div>
               <div className="text-slate-500">{t(lang, 'antonyms')}</div>
               <div className="flex flex-wrap gap-1 mt-1">
-                {entry.antonyms.map(a => <span key={a} className="px-2 py-0.5 rounded bg-rose-50 text-rose-800">{a}</span>)}
+                {entry.antonyms.map(a => <AntonymLink key={a} word={a} />)}
               </div>
             </div>
           )}
@@ -117,7 +155,7 @@ export function WordCard({ entry, lang, rate, idx, onViewed, showAnswer, onToggl
             <div>
               <div className="text-slate-500">{t(lang, 'phrases')}</div>
               <div className="flex flex-wrap gap-1 mt-1">
-                {entry.phrases.map(p => <span key={p} className="px-2 py-0.5 rounded bg-indigo-50 text-indigo-800">{p}</span>)}
+                {entry.phrases.map(p => <PhraseLink key={p} phrase={p} />)}
               </div>
             </div>
           )}

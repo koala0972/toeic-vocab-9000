@@ -14,6 +14,13 @@ interface SearchableEntry extends VocabularyEntry {
 const SUPPORTED_LANGS: LangCode[] = ['zh-TW', 'ja', 'ko'];
 
 export default function SearchPage() {
+  const [initialQuery, setInitialQuery] = useState('');
+  useEffect(() => {
+    const sp = new URLSearchParams(window.location.search);
+    const q = sp.get('q') ?? '';
+    setInitialQuery(q);
+    setQ(q);
+  }, []); // 僅首次
   const [entries, setEntries] = useState<SearchableEntry[]>([]);
   const [loading, setLoading] = useState(true);
   const [q, setQ] = useState('');
@@ -117,3 +124,7 @@ export default function SearchPage() {
     </main>
   );
 }
+
+// 強制 useSearchParams() 動態渲染 (避免預先靜態化錯)
+export const dynamic = 'force-dynamic';
+
