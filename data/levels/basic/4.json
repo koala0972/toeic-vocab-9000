@@ -10,59 +10,36 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "know",
-      "pos": [
-        "verb",
-        "noun"
-      ],
+      "pos": ["verb"],
       "conjugations": {
-        "past_tense": "knowed",
-        "past_participle": "knowed",
+        "past_tense": "knew",
+        "past_participle": "known",
         "present_participle": "knowing",
         "third_person": "knows"
       },
-      "domain": "general",
+      "domain": "cognition",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "know",
-          "definition": "v. 知道, 了解, 认识, 确信"
+          "lang_word": "知道、認識",
+          "definition": "(v.) 對事實有認知; 認識某人; 熟悉某事"
         }
       ],
       "examples": [
         {
-          "en": "I know the answer.",
-          "highlight": [
-            "know"
-          ],
-          "translations": {
-            "zh-TW": "oxford 例句尚未翻譯(離線)"
-          }
+          "en": "I know her name but I don't know her phone number.",
+          "highlight": ["know"],
+          "translations": { "zh-TW": "我知道她的名字,但我不知道她的電話。" }
         },
         {
-          "en": "She needs to know before tomorrow.",
-          "highlight": [
-            "know"
-          ],
-          "translations": {
-            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
-          }
+          "en": "She has known my family for more than ten years.",
+          "highlight": ["known"],
+          "translations": { "zh-TW": "她認識我的家人超過十年了。" }
         }
       ],
-      "synonyms": [
-        "understand",
-        "recognize"
-      ],
-      "antonyms": [
-        "ignore",
-        "misunderstand"
-      ],
-      "phrases": [
-        "know",
-        "the",
-        "answer",
-        "know",
-        "how"
-      ]
+      "synonyms": ["understand", "comprehend"],
+      "antonyms": ["don't know"],
+      "phrases": ["know about", "know how to", "you know"]
     },
     {
       "id": "A1-004-002",
@@ -71,58 +48,36 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "think",
-      "pos": [
-        "verb",
-        "noun"
-      ],
+      "pos": ["verb"],
       "conjugations": {
-        "past_tense": "thinked",
-        "past_participle": "thinked",
+        "past_tense": "thought",
+        "past_participle": "thought",
         "present_participle": "thinking",
         "third_person": "thinks"
       },
-      "domain": "general",
+      "domain": "cognition",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "think",
-          "definition": "vt. 想, 考虑, 想起, 想像, 打算, 认為, vi. 思考, 料想, n. 想法, a. 思想的"
+          "lang_word": "想、認為",
+          "definition": "(v.) 用腦思考; 形成意見; 認為、相信"
         }
       ],
       "examples": [
         {
-          "en": "I think you are right.",
-          "highlight": [
-            "think"
-          ],
-          "translations": {
-            "zh-TW": "oxford 例句尚未翻譯(離線)"
-          }
+          "en": "I think this is the right answer for the test.",
+          "highlight": ["think"],
+          "translations": { "zh-TW": "我認為這是測驗的正確答案。" }
         },
         {
-          "en": "I think every morning.",
-          "highlight": [
-            "think"
-          ],
-          "translations": {
-            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
-          }
+          "en": "She thought about her future before making the decision.",
+          "highlight": ["thought"],
+          "translations": { "zh-TW": "她在做決定前思考了她的未來。" }
         }
       ],
-      "synonyms": [
-        "believe",
-        "consider"
-      ],
-      "antonyms": [
-        "doubt",
-        "disbelieve"
-      ],
-      "phrases": [
-        "think",
-        "about",
-        "think",
-        "of"
-      ]
+      "synonyms": ["believe", "consider"],
+      "antonyms": [],
+      "phrases": ["think about", "think of", "I think so"]
     },
     {
       "id": "A1-004-003",
@@ -131,58 +86,37 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "say",
-      "pos": [
-        "verb",
-        "noun"
-      ],
+      "pos": ["verb", "noun"],
       "conjugations": {
-        "past_tense": "sayed",
-        "past_participle": "sayed",
+        "past_tense": "said",
+        "past_participle": "said",
         "present_participle": "saying",
-        "third_person": "says"
+        "third_person": "says",
+        "plural": "says"
       },
-      "domain": "general",
+      "domain": "communication",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "say",
-          "definition": "vt. 說, 讲, 念, 說明, 指明, vi. 說, 讲, n. 意见, 發言权"
+          "lang_word": "說、講",
+          "definition": "(v.) 用言語表達想法;陳述"
         }
       ],
       "examples": [
         {
-          "en": "She didn't know what to say.",
-          "highlight": [
-            "say"
-          ],
-          "translations": {
-            "zh-TW": "oxford 例句尚未翻譯(離線)"
-          }
+          "en": "She said hello to everyone at the party last night.",
+          "highlight": ["said"],
+          "translations": { "zh-TW": "昨晚她在派對上向每個人打招呼。" }
         },
         {
-          "en": "He says the report to his manager.",
-          "highlight": [
-            "say"
-          ],
-          "translations": {
-            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
-          }
+          "en": "I want to say thank you for all your support.",
+          "highlight": ["say"],
+          "translations": { "zh-TW": "我想說謝謝你所有的支持。" }
         }
       ],
-      "synonyms": [
-        "speak",
-        "state"
-      ],
-      "antonyms": [
-        "listen",
-        "hear"
-      ],
-      "phrases": [
-        "say",
-        "something",
-        "say",
-        "hello"
-      ]
+      "synonyms": ["tell", "express"],
+      "antonyms": [],
+      "phrases": ["say hello", "say goodbye", "say that"]
     },
     {
       "id": "A1-004-004",
@@ -191,59 +125,36 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "tell",
-      "pos": [
-        "verb",
-        "noun"
-      ],
+      "pos": ["verb"],
       "conjugations": {
-        "past_tense": "telled",
-        "past_participle": "telled",
+        "past_tense": "told",
+        "past_participle": "told",
         "present_participle": "telling",
         "third_person": "tells"
       },
-      "domain": "general",
+      "domain": "communication",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "tell",
-          "definition": "vt. 告诉, 說, 吩咐, 断定, 知道, vi. 讲述, 泄密, 告發, 表明"
+          "lang_word": "告訴、講述",
+          "definition": "(v.) 向他人傳達訊息; 吩咐;辨別"
         }
       ],
       "examples": [
         {
-          "en": "Can you tell me the time?",
-          "highlight": [
-            "tell"
-          ],
-          "translations": {
-            "zh-TW": "oxford 例句尚未翻譯(離線)"
-          }
+          "en": "Tell me about your trip to Japan last month.",
+          "highlight": ["Tell"],
+          "translations": { "zh-TW": "跟我說說你上個月的日本之旅。" }
         },
         {
-          "en": "They are planning to tell soon.",
-          "highlight": [
-            "tell"
-          ],
-          "translations": {
-            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
-          }
+          "en": "He told me the truth about what happened yesterday.",
+          "highlight": ["told"],
+          "translations": { "zh-TW": "他跟我說了昨天發生的事情真相。" }
         }
       ],
-      "synonyms": [
-        "inform",
-        "communicate"
-      ],
-      "antonyms": [
-        "listen",
-        "receive"
-      ],
-      "phrases": [
-        "tell",
-        "a",
-        "story",
-        "tell",
-        "the"
-      ]
+      "synonyms": ["inform", "narrate"],
+      "antonyms": [],
+      "phrases": ["tell a story", "tell me", "tell the truth"]
     },
     {
       "id": "A1-004-005",
@@ -252,58 +163,36 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "speak",
-      "pos": [
-        "verb",
-        "noun"
-      ],
+      "pos": ["verb"],
       "conjugations": {
-        "past_tense": "speaked",
-        "past_participle": "speaked",
+        "past_tense": "spoke",
+        "past_participle": "spoken",
         "present_participle": "speaking",
         "third_person": "speaks"
       },
-      "domain": "general",
+      "domain": "communication",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "speak",
-          "definition": "vi. 說, 說话, 演說, 發言, vt. 說, 讲, 說出"
+          "lang_word": "說、講(某種語言)",
+          "definition": "(v.) 使用某種語言; 表達; 發言"
         }
       ],
       "examples": [
         {
-          "en": "She spoke to the manager.",
-          "highlight": [
-            "speak"
-          ],
-          "translations": {
-            "zh-TW": "oxford 例句尚未翻譯(離線)"
-          }
+          "en": "Do you speak any foreign languages at work?",
+          "highlight": ["speak"],
+          "translations": { "zh-TW": "你在工作上會說任何外語嗎?" }
         },
         {
-          "en": "We should speak this carefully.",
-          "highlight": [
-            "speak"
-          ],
-          "translations": {
-            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
-          }
+          "en": "She spoke with the manager about her promotion.",
+          "highlight": ["spoke"],
+          "translations": { "zh-TW": "她和經理談了她的升遷事宜。" }
         }
       ],
-      "synonyms": [
-        "talk",
-        "converse"
-      ],
-      "antonyms": [
-        "listen",
-        "silence"
-      ],
-      "phrases": [
-        "speak",
-        "clearly",
-        "speak",
-        "loudly"
-      ]
+      "synonyms": ["talk", "converse"],
+      "antonyms": [],
+      "phrases": ["speak English", "speak up", "speak to"]
     },
     {
       "id": "A1-004-006",
@@ -312,58 +201,36 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "listen",
-      "pos": [
-        "verb",
-        "noun"
-      ],
+      "pos": ["verb"],
       "conjugations": {
         "past_tense": "listened",
         "past_participle": "listened",
         "present_participle": "listening",
         "third_person": "listens"
       },
-      "domain": "general",
+      "domain": "communication",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "listen",
-          "definition": "vi. 聽, 倾聽, 聽从, n. 聽, 倾聽"
+          "lang_word": "聽",
+          "definition": "(v.) 用耳朵接收聲音; 聽從、注意"
         }
       ],
       "examples": [
         {
-          "en": "Listen to the teacher.",
-          "highlight": [
-            "listen"
-          ],
-          "translations": {
-            "zh-TW": "oxford 例句尚未翻譯(離線)"
-          }
+          "en": "Listen to this song, it is really beautiful.",
+          "highlight": ["Listen"],
+          "translations": { "zh-TW": "聽聽這首歌,真的很美。" }
         },
         {
-          "en": "She needs to listen before tomorrow.",
-          "highlight": [
-            "listen"
-          ],
-          "translations": {
-            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
-          }
+          "en": "She listened carefully to her teacher's explanation.",
+          "highlight": ["listened"],
+          "translations": { "zh-TW": "她非常仔細地聽老師的解釋。" }
         }
       ],
-      "synonyms": [
-        "hear",
-        "attend"
-      ],
-      "antonyms": [
-        "ignore",
-        "disregard"
-      ],
-      "phrases": [
-        "listen",
-        "carefully",
-        "listen",
-        "to"
-      ]
+      "synonyms": ["hear", "pay attention"],
+      "antonyms": ["ignore"],
+      "phrases": ["listen to", "listen up"]
     },
     {
       "id": "A1-004-007",
@@ -372,58 +239,37 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "look",
-      "pos": [
-        "verb",
-        "noun"
-      ],
+      "pos": ["verb", "noun"],
       "conjugations": {
         "past_tense": "looked",
         "past_participle": "looked",
         "present_participle": "looking",
-        "third_person": "looks"
+        "third_person": "looks",
+        "plural": "looks"
       },
-      "domain": "general",
+      "domain": "perception",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "look",
-          "definition": "n. 一看, 神色, 樣子, 面容, vi. 看, 注意, 朝着, 顯得, vt. 打量, 看上去與...一樣, 以眼色(或脸色)顯示, 期待"
+          "lang_word": "看、外表",
+          "definition": "(v.) 用眼睛看; 呈現某種樣子; (n.) 外貌、表情"
         }
       ],
       "examples": [
         {
-          "en": "Look at the sky.",
-          "highlight": [
-            "look"
-          ],
-          "translations": {
-            "zh-TW": "oxford 例句尚未翻譯(離線)"
-          }
+          "en": "Look at the blackboard, there is important information.",
+          "highlight": ["Look"],
+          "translations": { "zh-TW": "看黑板,上面有重要資訊。" }
         },
         {
-          "en": "I look every morning.",
-          "highlight": [
-            "look"
-          ],
-          "translations": {
-            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
-          }
+          "en": "She looks very tired after working all day long.",
+          "highlight": ["looks"],
+          "translations": { "zh-TW": "工作一整天後她看起來很累。" }
         }
       ],
-      "synonyms": [
-        "gaze",
-        "glance"
-      ],
-      "antonyms": [
-        "ignore",
-        "overlook"
-      ],
-      "phrases": [
-        "look",
-        "at",
-        "look",
-        "for"
-      ]
+      "synonyms": ["see", "watch", "gaze"],
+      "antonyms": [],
+      "phrases": ["look at", "look for", "look like"]
     },
     {
       "id": "A1-004-008",
@@ -432,59 +278,37 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "take",
-      "pos": [
-        "verb",
-        "noun"
-      ],
+      "pos": ["verb", "noun"],
       "conjugations": {
-        "past_tense": "takeed",
-        "past_participle": "takeed",
+        "past_tense": "took",
+        "past_participle": "taken",
         "present_participle": "taking",
-        "third_person": "takes"
+        "third_person": "takes",
+        "plural": "takes"
       },
-      "domain": "general",
+      "domain": "action",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "take",
-          "definition": "vt. 拿, 取, 抓, 帶领, 获得, 就座, 接受, 吃, 吸引, 采取, 乘, 需要, 花费, vi. 吃掉對方棋子, 抓住, 起作用, 依法获得财产, n. 拿, 取, 收成, 奏效"
+          "lang_word": "拿、帶、花(時間)",
+          "definition": "(v.) 握住、帶走; 接受; 拍攝; 花費"
         }
       ],
       "examples": [
         {
-          "en": "Please take this to the kitchen.",
-          "highlight": [
-            "take"
-          ],
-          "translations": {
-            "zh-TW": "oxford 例句尚未翻譯(離線)"
-          }
+          "en": "Take this book with you when you leave the library.",
+          "highlight": ["Take"],
+          "translations": { "zh-TW": "離開圖書館時把這本書帶走。" }
         },
         {
-          "en": "He takes the report to his manager.",
-          "highlight": [
-            "take"
-          ],
-          "translations": {
-            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
-          }
+          "en": "She took the train to Taipei for the business meeting.",
+          "highlight": ["took"],
+          "translations": { "zh-TW": "她搭火車去台北參加商務會議。" }
         }
       ],
-      "synonyms": [
-        "grab",
-        "seize"
-      ],
-      "antonyms": [
-        "give",
-        "release"
-      ],
-      "phrases": [
-        "take",
-        "a",
-        "break",
-        "take",
-        "a"
-      ]
+      "synonyms": ["carry", "bring", "grab"],
+      "antonyms": ["give"],
+      "phrases": ["take a look", "take a break", "take time"]
     },
     {
       "id": "A1-004-009",
@@ -493,59 +317,36 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "give",
-      "pos": [
-        "verb",
-        "noun"
-      ],
+      "pos": ["verb", "noun"],
       "conjugations": {
-        "past_tense": "giveed",
-        "past_participle": "giveed",
+        "past_tense": "gave",
+        "past_participle": "given",
         "present_participle": "giving",
         "third_person": "gives"
       },
-      "domain": "general",
+      "domain": "action",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "give",
-          "definition": "n. 弹性, 适应性, vt. 给, 授予, 供给, 产生, 發表, 付出, 献出, 讓出, vi. 捐赠, 支持不住, 讓步"
+          "lang_word": "給、給予",
+          "definition": "(v.) 將某物交給別人; 贈送; 產生"
         }
       ],
       "examples": [
         {
-          "en": "Please give me the book.",
-          "highlight": [
-            "give"
-          ],
-          "translations": {
-            "zh-TW": "oxford 例句尚未翻譯(離線)"
-          }
+          "en": "Please give me a hand with this heavy box.",
+          "highlight": ["give"],
+          "translations": { "zh-TW": "請幫我搬這個沉重的箱子。" }
         },
         {
-          "en": "They are planning to give soon.",
-          "highlight": [
-            "give"
-          ],
-          "translations": {
-            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
-          }
+          "en": "She gave her friend a birthday gift last weekend.",
+          "highlight": ["gave"],
+          "translations": { "zh-TW": "她上週末送了朋友一份生日禮物。" }
         }
       ],
-      "synonyms": [
-        "donate",
-        "present"
-      ],
-      "antonyms": [
-        "take",
-        "receive"
-      ],
-      "phrases": [
-        "give",
-        "a",
-        "gift",
-        "give",
-        "advice"
-      ]
+      "synonyms": ["offer", "provide"],
+      "antonyms": ["take"],
+      "phrases": ["give up", "give a hand", "give away"]
     },
     {
       "id": "A1-004-010",
@@ -554,58 +355,37 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "work",
-      "pos": [
-        "verb",
-        "noun"
-      ],
+      "pos": ["verb", "noun"],
       "conjugations": {
         "past_tense": "worked",
         "past_participle": "worked",
         "present_participle": "working",
-        "third_person": "works"
+        "third_person": "works",
+        "plural": "works"
       },
-      "domain": "general",
+      "domain": "job",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "work",
-          "definition": "n. 工作, 劳動, 职业, 行為, 功, 作品, 成果, 产品, 工程, vi. 工作, 劳動, 做, 運转, 起作用, 被加工, vt. 使工作, 使转動, 开動, 使用, 經营, 使逐渐变得, 造成"
+          "lang_word": "工作、運作",
+          "definition": "(v.) 從事勞動或工作; 發揮功能; (n.) 工作、勞動"
         }
       ],
       "examples": [
         {
-          "en": "She needs to work harder.",
-          "highlight": [
-            "work"
-          ],
-          "translations": {
-            "zh-TW": "oxford 例句尚未翻譯(離線)"
-          }
+          "en": "I work at a hospital in the city center every day.",
+          "highlight": ["work"],
+          "translations": { "zh-TW": "我每天在市中心一間醫院工作。" }
         },
         {
-          "en": "We should work this carefully.",
-          "highlight": [
-            "work"
-          ],
-          "translations": {
-            "zh-TW": "(自動產例句 - 待 LLM 翻譯)"
-          }
+          "en": "She worked overtime last week to finish the project.",
+          "highlight": ["worked"],
+          "translations": { "zh-TW": "她上週加班完成那個專案。" }
         }
       ],
-      "synonyms": [
-        "labor",
-        "job"
-      ],
-      "antonyms": [
-        "rest",
-        "relax"
-      ],
-      "phrases": [
-        "work",
-        "hard",
-        "work",
-        "for"
-      ]
+      "synonyms": ["labor", "function", "job"],
+      "antonyms": ["rest"],
+      "phrases": ["work hard", "work out", "at work"]
     }
   ]
 }
