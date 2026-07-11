@@ -3,15 +3,407 @@
   "tier": "basic",
   "cefr": "A1",
   "words": [
-    {"id":"A1-005-001","level":5,"tier":"basic","cefr":"A1","toeic_score_min":200,"word":"mother","phonetic":"ˈmʌðər","pos":["noun"],"conjugations":{"plural":"mothers"},"domain":"family","translations":[{"lang":"zh-TW","lang_word":"母親","definition":"女性家長"}],"examples":[{"en":"My mother cooks dinner.","highlight":["mother"],"translations":{"zh-TW":"我媽媽煮晚餐。"}}],"synonyms":["mom"],"antonyms":["father"],"phrases":[]},
-    {"id":"A1-005-002","level":5,"tier":"basic","cefr":"A1","toeic_score_min":200,"word":"father","phonetic":"ˈfɑðər","pos":["noun"],"conjugations":{"plural":"fathers"},"domain":"family","translations":[{"lang":"zh-TW","lang_word":"父親","definition":"男性家長"}],"examples":[{"en":"My father works in an office.","highlight":["father"],"translations":{"zh-TW":"我爸在辦公室上班。"}}],"synonyms":["dad"],"antonyms":["mother"],"phrases":[]},
-    {"id":"A1-005-003","level":5,"tier":"basic","cefr":"A1","toeic_score_min":200,"word":"sister","phonetic":"ˈsɪstər","pos":["noun"],"conjugations":{"plural":"sisters"},"domain":"family","translations":[{"lang":"zh-TW","lang_word":"姊妹","definition":"有相同父母的女性手足"}],"examples":[{"en":"I have one sister.","highlight":["sister"],"translations":{"zh-TW":"我有一個姊妹。"}}],"synonyms":[],"antonyms":["brother"],"phrases":[]},
-    {"id":"A1-005-004","level":5,"tier":"basic","cefr":"A1","toeic_score_min":200,"word":"brother","phonetic":"ˈbrʌðər","pos":["noun"],"conjugations":{"plural":"brothers"},"domain":"family","translations":[{"lang":"zh-TW","lang_word":"兄弟","definition":"有相同父母的男性手足"}],"examples":[{"en":"My brother is older than me.","highlight":["brother"],"translations":{"zh-TW":"我哥哥比我大。"}}],"synonyms":[],"antonyms":["sister"],"phrases":[]},
-    {"id":"A1-005-005","level":5,"tier":"basic","cefr":"A1","toeic_score_min":200,"word":"family","phonetic":"ˈfæmɪli","pos":["noun"],"conjugations":{"plural":"families"},"domain":"family","translations":[{"lang":"zh-TW","lang_word":"家庭","definition":"由血緣或婚姻組成的關係群"}],"examples":[{"en":"I love my family.","highlight":["family"],"translations":{"zh-TW":"我愛我的家人。"}}],"synonyms":["household"],"antonyms":[],"phrases":["family member"]},
-    {"id":"A1-005-006","level":5,"tier":"basic","cefr":"A1","toeic_score_min":200,"word":"friend","phonetic":"frɛnd","pos":["noun"],"conjugations":{"plural":"friends"},"domain":"relationship","translations":[{"lang":"zh-TW","lang_word":"朋友","definition":"互相親近、信賴的人"}],"examples":[{"en":"She is my best friend.","highlight":["friend"],"translations":{"zh-TW":"她是我最好的朋友。"}}],"synonyms":["pal"],"antonyms":["enemy"],"phrases":[]},
-    {"id":"A1-005-007","level":5,"tier":"basic","cefr":"A1","toeic_score_min":200,"word":"man","phonetic":"mæn","pos":["noun"],"conjugations":{"plural":"men"},"domain":"people","translations":[{"lang":"zh-TW","lang_word":"男人","definition":"成年男性"}],"examples":[{"en":"The man wears a hat.","highlight":["man"],"translations":{"zh-TW":"那個男人戴帽子。"}}],"synonyms":["guy"],"antonyms":["woman"],"phrases":[]},
-    {"id":"A1-005-008","level":5,"tier":"basic","cefr":"A1","toeic_score_min":200,"word":"woman","phonetic":"ˈwʊmən","pos":["noun"],"conjugations":{"plural":"women"},"domain":"people","translations":[{"lang":"zh-TW","lang_word":"女人","definition":"成年女性"}],"examples":[{"en":"The woman is reading.","highlight":["woman"],"translations":{"zh-TW":"那個女人在看書。"}}],"synonyms":["lady"],"antonyms":["man"],"phrases":[]},
-    {"id":"A1-005-009","level":5,"tier":"basic","cefr":"A1","toeic_score_min":200,"word":"boy","phonetic":"bɔɪ","pos":["noun"],"conjugations":{"plural":"boys"},"domain":"people","translations":[{"lang":"zh-TW","lang_word":"男孩","definition":"年幼男性"}],"examples":[{"en":"The boy plays outside.","highlight":["boy"],"translations":{"zh-TW":"男孩在外面玩。"}}],"synonyms":[],"antonyms":["girl"],"phrases":[]},
-    {"id":"A1-005-010","level":5,"tier":"basic","cefr":"A1","toeic_score_min":200,"word":"girl","phonetic":"ɡɝl","pos":["noun"],"conjugations":{"plural":"girls"},"domain":"people","translations":[{"lang":"zh-TW","lang_word":"女孩","definition":"年幼女性"}],"examples":[{"en":"The girl sings a song.","highlight":["girl"],"translations":{"zh-TW":"女孩唱一首歌。"}}],"synonyms":[],"antonyms":["boy"],"phrases":[]}
+    {
+      "id": "A1-005-001",
+      "level": 5,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "mother",
+      "phonetic": "ˈmʌðər",
+      "pos": [
+        "noun"
+      ],
+      "conjugations": {
+        "plural": "mothers"
+      },
+      "domain": "family",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "mother",
+          "definition": "n. 母亲, 修女院长, vt. 产生, 照看, 收养"
+        }
+      ],
+      "examples": [
+        {
+          "en": "My mother cooks dinner.",
+          "highlight": [
+            "mother"
+          ],
+          "translations": {
+            "zh-TW": "我媽媽煮晚餐。"
+          }
+        }
+      ],
+      "synonyms": [
+        "mom"
+      ],
+      "antonyms": [
+        "father"
+      ],
+      "phrases": []
+    },
+    {
+      "id": "A1-005-002",
+      "level": 5,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "father",
+      "phonetic": "ˈfɑðər",
+      "pos": [
+        "noun"
+      ],
+      "conjugations": {
+        "plural": "fathers"
+      },
+      "domain": "family",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "father",
+          "definition": "n. 父亲, 祖先, 长辈, 神父, 创始者, vt. 当...的父亲, 保护, 创作, 发明, 培养"
+        }
+      ],
+      "examples": [
+        {
+          "en": "My father works in an office.",
+          "highlight": [
+            "father"
+          ],
+          "translations": {
+            "zh-TW": "我爸在辦公室上班。"
+          }
+        }
+      ],
+      "synonyms": [
+        "dad"
+      ],
+      "antonyms": [
+        "mother"
+      ],
+      "phrases": []
+    },
+    {
+      "id": "A1-005-003",
+      "level": 5,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "sister",
+      "phonetic": "ˈsɪstər",
+      "pos": [
+        "noun"
+      ],
+      "conjugations": {
+        "plural": "sisters"
+      },
+      "domain": "family",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "sister",
+          "definition": "n. 姐妹, 姐, 妹, 护士, 修女, vt. 姐妹般对待"
+        }
+      ],
+      "examples": [
+        {
+          "en": "I have one sister.",
+          "highlight": [
+            "sister"
+          ],
+          "translations": {
+            "zh-TW": "我有一個姊妹。"
+          }
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "brother"
+      ],
+      "phrases": []
+    },
+    {
+      "id": "A1-005-004",
+      "level": 5,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "brother",
+      "phonetic": "ˈbrʌðər",
+      "pos": [
+        "noun"
+      ],
+      "conjugations": {
+        "plural": "brothers"
+      },
+      "domain": "family",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "brother",
+          "definition": "n. 兄弟"
+        }
+      ],
+      "examples": [
+        {
+          "en": "My brother is older than me.",
+          "highlight": [
+            "brother"
+          ],
+          "translations": {
+            "zh-TW": "我哥哥比我大。"
+          }
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "sister"
+      ],
+      "phrases": []
+    },
+    {
+      "id": "A1-005-005",
+      "level": 5,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "family",
+      "phonetic": "ˈfæmɪli",
+      "pos": [
+        "noun"
+      ],
+      "conjugations": {
+        "plural": "families"
+      },
+      "domain": "family",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "family",
+          "definition": "n. 家庭, 家人, 族, a. 家庭的"
+        }
+      ],
+      "examples": [
+        {
+          "en": "I love my family.",
+          "highlight": [
+            "family"
+          ],
+          "translations": {
+            "zh-TW": "我愛我的家人。"
+          }
+        }
+      ],
+      "synonyms": [
+        "household"
+      ],
+      "antonyms": [],
+      "phrases": [
+        "family member"
+      ]
+    },
+    {
+      "id": "A1-005-006",
+      "level": 5,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "friend",
+      "phonetic": "frɛnd",
+      "pos": [
+        "noun"
+      ],
+      "conjugations": {
+        "plural": "friends"
+      },
+      "domain": "relationship",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "friend",
+          "definition": "n. 朋友, 支持者, 赞助者, [法] 朋友, 友人, 赞助者"
+        }
+      ],
+      "examples": [
+        {
+          "en": "She is my best friend.",
+          "highlight": [
+            "friend"
+          ],
+          "translations": {
+            "zh-TW": "她是我最好的朋友。"
+          }
+        }
+      ],
+      "synonyms": [
+        "pal"
+      ],
+      "antonyms": [
+        "enemy"
+      ],
+      "phrases": []
+    },
+    {
+      "id": "A1-005-007",
+      "level": 5,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "man",
+      "phonetic": "mæn",
+      "pos": [
+        "noun"
+      ],
+      "conjugations": {
+        "plural": "men"
+      },
+      "domain": "people",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "man",
+          "definition": "n. 男人, 人类, 人, vt. 为...配备人手, 操纵, 使振奋, [计] 城域网, 手册"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The man wears a hat.",
+          "highlight": [
+            "man"
+          ],
+          "translations": {
+            "zh-TW": "那個男人戴帽子。"
+          }
+        }
+      ],
+      "synonyms": [
+        "guy"
+      ],
+      "antonyms": [
+        "woman"
+      ],
+      "phrases": []
+    },
+    {
+      "id": "A1-005-008",
+      "level": 5,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "woman",
+      "phonetic": "ˈwʊmən",
+      "pos": [
+        "noun"
+      ],
+      "conjugations": {
+        "plural": "women"
+      },
+      "domain": "people",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "woman",
+          "definition": "n. 女人, 妇女, 女仆, a. 女用的, 女性的, 妇女的, vt. 贬称...为女人, 使成女人腔"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The woman is reading.",
+          "highlight": [
+            "woman"
+          ],
+          "translations": {
+            "zh-TW": "那個女人在看書。"
+          }
+        }
+      ],
+      "synonyms": [
+        "lady"
+      ],
+      "antonyms": [
+        "man"
+      ],
+      "phrases": []
+    },
+    {
+      "id": "A1-005-009",
+      "level": 5,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "boy",
+      "phonetic": "bɔɪ",
+      "pos": [
+        "noun"
+      ],
+      "conjugations": {
+        "plural": "boys"
+      },
+      "domain": "people",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "boy",
+          "definition": "n. 男孩, [法] 男孩, 少年, 儿子"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The boy plays outside.",
+          "highlight": [
+            "boy"
+          ],
+          "translations": {
+            "zh-TW": "男孩在外面玩。"
+          }
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "girl"
+      ],
+      "phrases": []
+    },
+    {
+      "id": "A1-005-010",
+      "level": 5,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "girl",
+      "phonetic": "ɡɝl",
+      "pos": [
+        "noun"
+      ],
+      "conjugations": {
+        "plural": "girls"
+      },
+      "domain": "people",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "girl",
+          "definition": "n. 女孩, 少女, 女佣"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The girl sings a song.",
+          "highlight": [
+            "girl"
+          ],
+          "translations": {
+            "zh-TW": "女孩唱一首歌。"
+          }
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "boy"
+      ],
+      "phrases": []
+    }
   ]
 }
