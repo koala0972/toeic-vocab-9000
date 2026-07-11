@@ -87,7 +87,7 @@ export default function Home() {
           return (
             <Link
               key={t.name}
-              href={`/level/${t.levels[0]}`}
+              href={`/browse/${t.name}`}
               className="block p-5 bg-white border rounded-xl hover:shadow-md hover:border-blue-300 transition"
             >
               <div className="flex justify-between items-start">
