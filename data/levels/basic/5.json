@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 5,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-005-001",
@@ -11,37 +11,57 @@
       "toeic_score_min": 200,
       "word": "mother",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "mothers"
+        "plural": "mothers",
+        "present_3rd": "mothers",
+        "past": "mothered",
+        "past_participle": "mothered",
+        "ing": "mothering"
       },
       "domain": "family",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mother",
-          "definition": "n. 母亲, 修女院長, vt. 产生, 照看, 收养"
+          "definition": "n. 母親、媽媽  v. 像母親般照顧、呵護"
         }
       ],
       "examples": [
         {
-          "en": "My mother cooks dinner.",
+          "en": "My mother always tells me to wear a seatbelt.",
           "highlight": [
             "mother"
           ],
           "translations": {
-            "zh-TW": "我媽媽煮晚餐。"
+            "zh-TW": "我媽媽總是叫我繫好安全帶。"
+          }
+        },
+        {
+          "en": "She mothered the orphaned boy as if he were her own child.",
+          "highlight": [
+            "mothered"
+          ],
+          "translations": {
+            "zh-TW": "她像母親一樣照顧那個孤兒，彷彿他是自己的孩子。"
           }
         }
       ],
       "synonyms": [
-        "mom"
+        "mom",
+        "mum",
+        "parent"
       ],
       "antonyms": [
         "father"
       ],
-      "phrases": []
+      "phrases": [
+        "mother tongue",
+        "single mother",
+        "mother figure"
+      ]
     },
     {
       "id": "A1-005-002",
@@ -51,37 +71,56 @@
       "toeic_score_min": 200,
       "word": "father",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "fathers"
+        "plural": "fathers",
+        "present_3rd": "fathers",
+        "past": "fathered",
+        "past_participle": "fathered",
+        "ing": "fathering"
       },
       "domain": "family",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "father",
-          "definition": "n. 父亲, 祖先, 長辈, 神父, 创始者, vt. 当...的父亲, 保护, 创作, 發明, 培养"
+          "definition": "n. 父親、爸爸  v. 成為...的父親、創立"
         }
       ],
       "examples": [
         {
-          "en": "My father works in an office.",
+          "en": "Her father drives her to school every morning.",
           "highlight": [
             "father"
           ],
           "translations": {
-            "zh-TW": "我爸在辦公室上班。"
+            "zh-TW": "她爸爸每天早上開車送她上學。"
+          }
+        },
+        {
+          "en": "He fathered the idea of remote work long before the pandemic.",
+          "highlight": [
+            "fathered"
+          ],
+          "translations": {
+            "zh-TW": "早在疫情之前，他就提出了遠距工作的構想。"
           }
         }
       ],
       "synonyms": [
-        "dad"
+        "dad",
+        "parent"
       ],
       "antonyms": [
         "mother"
       ],
-      "phrases": []
+      "phrases": [
+        "father figure",
+        "founding father",
+        "father-in-law"
+      ]
     },
     {
       "id": "A1-005-003",
@@ -101,17 +140,26 @@
         {
           "lang": "zh-TW",
           "lang_word": "sister",
-          "definition": "n. 姐妹, 姐, 妹, 护士, 修女, vt. 姐妹般對待"
+          "definition": "n. 姐妹、姐姐、妹妹"
         }
       ],
       "examples": [
         {
-          "en": "I have one sister.",
+          "en": "My older sister is a nurse at the city hospital.",
           "highlight": [
             "sister"
           ],
           "translations": {
-            "zh-TW": "我有一個姊妹。"
+            "zh-TW": "我姐姐是市立醫院的護理師。"
+          }
+        },
+        {
+          "en": "The two sisters look so alike that people often mistake them for twins.",
+          "highlight": [
+            "sisters"
+          ],
+          "translations": {
+            "zh-TW": "這對姐妹長得太像，常常被誤認為雙胞胎。"
           }
         }
       ],
@@ -119,7 +167,11 @@
       "antonyms": [
         "brother"
       ],
-      "phrases": []
+      "phrases": [
+        "sister company",
+        "sister-in-law",
+        "big sister"
+      ]
     },
     {
       "id": "A1-005-004",
@@ -139,17 +191,26 @@
         {
           "lang": "zh-TW",
           "lang_word": "brother",
-          "definition": "n. 兄弟"
+          "definition": "n. 兄弟、哥哥、弟弟"
         }
       ],
       "examples": [
         {
-          "en": "My brother is older than me.",
+          "en": "His younger brother just started college this fall.",
           "highlight": [
             "brother"
           ],
           "translations": {
-            "zh-TW": "我哥哥比我大。"
+            "zh-TW": "他弟弟今年秋天剛上大學。"
+          }
+        },
+        {
+          "en": "The two brothers run the family business together.",
+          "highlight": [
+            "brothers"
+          ],
+          "translations": {
+            "zh-TW": "兩兄弟一起經營家族事業。"
           }
         }
       ],
@@ -157,7 +218,11 @@
       "antonyms": [
         "sister"
       ],
-      "phrases": []
+      "phrases": [
+        "brother-in-law",
+        "big brother",
+        "brotherhood"
+      ]
     },
     {
       "id": "A1-005-005",
@@ -167,7 +232,8 @@
       "toeic_score_min": 200,
       "word": "family",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "families"
@@ -177,26 +243,39 @@
         {
           "lang": "zh-TW",
           "lang_word": "family",
-          "definition": "n. 家庭, 家人, 族, a. 家庭的"
+          "definition": "n. 家庭、家人、家族  adj. 家庭的、適合全家使用的"
         }
       ],
       "examples": [
         {
-          "en": "I love my family.",
+          "en": "We have a family tradition of having dinner together on Sundays.",
           "highlight": [
             "family"
           ],
           "translations": {
-            "zh-TW": "我愛我的家人。"
+            "zh-TW": "我們家的傳統是週日一起吃晚餐。"
+          }
+        },
+        {
+          "en": "This restaurant has a family-friendly menu with lots of options for kids.",
+          "highlight": [
+            "family"
+          ],
+          "translations": {
+            "zh-TW": "這家餐廳有適合家庭用的菜單，給小孩的選擇很多。"
           }
         }
       ],
       "synonyms": [
-        "household"
+        "household",
+        "relatives"
       ],
       "antonyms": [],
       "phrases": [
-        "family member"
+        "family member",
+        "family business",
+        "nuclear family",
+        "family tree"
       ]
     },
     {
@@ -207,37 +286,59 @@
       "toeic_score_min": 200,
       "word": "friend",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "friends"
+        "plural": "friends",
+        "present_3rd": "friends",
+        "past": "friended",
+        "past_participle": "friended",
+        "ing": "friending"
       },
       "domain": "relationship",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "friend",
-          "definition": "n. 朋友, 支持者, 赞助者, [法] 朋友, 友人, 赞助者"
+          "definition": "n. 朋友、友人  v. 在社群平台上加為好友"
         }
       ],
       "examples": [
         {
-          "en": "She is my best friend.",
+          "en": "A close friend of mine just got a promotion at work.",
           "highlight": [
             "friend"
           ],
           "translations": {
-            "zh-TW": "她是我最好的朋友。"
+            "zh-TW": "我的一個好朋友剛升職了。"
+          }
+        },
+        {
+          "en": "I friended her on social media after we met at the conference.",
+          "highlight": [
+            "friended"
+          ],
+          "translations": {
+            "zh-TW": "在研討會上認識之後，我在社群平台上加了她好友。"
           }
         }
       ],
       "synonyms": [
-        "pal"
+        "pal",
+        "buddy",
+        "companion"
       ],
       "antonyms": [
-        "enemy"
+        "enemy",
+        "stranger"
       ],
-      "phrases": []
+      "phrases": [
+        "best friend",
+        "close friend",
+        "make friends",
+        "friend request"
+      ]
     },
     {
       "id": "A1-005-007",
@@ -247,37 +348,57 @@
       "toeic_score_min": 200,
       "word": "man",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "men"
+        "plural": "men",
+        "present_3rd": "mans",
+        "past": "manned",
+        "past_participle": "manned",
+        "ing": "manning"
       },
       "domain": "people",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "man",
-          "definition": "n. 男人, 人类, 人, vt. 為...配备人手, 操纵, 使振奋, [计] 城域网, 手册"
+          "definition": "n. 男人、成年男性、人類  v. 配備人手、操作"
         }
       ],
       "examples": [
         {
-          "en": "The man wears a hat.",
+          "en": "The man at the front desk will help you check in.",
           "highlight": [
             "man"
           ],
           "translations": {
-            "zh-TW": "那個男人戴帽子。"
+            "zh-TW": "櫃台那個男人會幫你辦理入住。"
+          }
+        },
+        {
+          "en": "We need three more volunteers to man the information booth.",
+          "highlight": [
+            "man"
+          ],
+          "translations": {
+            "zh-TW": "我們還需要三名志工來值班服務台。"
           }
         }
       ],
       "synonyms": [
-        "guy"
+        "guy",
+        "gentleman",
+        "male"
       ],
       "antonyms": [
         "woman"
       ],
-      "phrases": []
+      "phrases": [
+        "family man",
+        "man power",
+        "right-hand man"
+      ]
     },
     {
       "id": "A1-005-008",
@@ -297,27 +418,41 @@
         {
           "lang": "zh-TW",
           "lang_word": "woman",
-          "definition": "n. 女人, 妇女, 女仆, a. 女用的, 女性的, 妇女的, vt. 贬称...為女人, 使成女人腔"
+          "definition": "n. 女人、成年女性"
         }
       ],
       "examples": [
         {
-          "en": "The woman is reading.",
+          "en": "The woman who just walked in is our new manager.",
           "highlight": [
             "woman"
           ],
           "translations": {
-            "zh-TW": "那個女人在看書。"
+            "zh-TW": "剛走進來的那位女士是我們的新經理。"
+          }
+        },
+        {
+          "en": "More than half of the employees in our company are women.",
+          "highlight": [
+            "women"
+          ],
+          "translations": {
+            "zh-TW": "我們公司超過一半的員工是女性。"
           }
         }
       ],
       "synonyms": [
-        "lady"
+        "lady",
+        "female"
       ],
       "antonyms": [
         "man"
       ],
-      "phrases": []
+      "phrases": [
+        "businesswoman",
+        "career woman",
+        "woman power"
+      ]
     },
     {
       "id": "A1-005-009",
@@ -337,25 +472,41 @@
         {
           "lang": "zh-TW",
           "lang_word": "boy",
-          "definition": "n. 男孩, [法] 男孩, 少年, 兒子"
+          "definition": "n. 男孩、少年、兒子"
         }
       ],
       "examples": [
         {
-          "en": "The boy plays outside.",
+          "en": "The little boy waved goodbye as the bus pulled away.",
           "highlight": [
             "boy"
           ],
           "translations": {
-            "zh-TW": "男孩在外面玩。"
+            "zh-TW": "公車開走時，小男孩揮手說再見。"
+          }
+        },
+        {
+          "en": "When I was a boy, I wanted to be an astronaut.",
+          "highlight": [
+            "boy"
+          ],
+          "translations": {
+            "zh-TW": "小時候我夢想成為太空人。"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "kid",
+        "lad"
+      ],
       "antonyms": [
         "girl"
       ],
-      "phrases": []
+      "phrases": [
+        "school boy",
+        "delivery boy",
+        "boys night out"
+      ]
     },
     {
       "id": "A1-005-010",
@@ -375,25 +526,41 @@
         {
           "lang": "zh-TW",
           "lang_word": "girl",
-          "definition": "n. 女孩, 少女, 女佣"
+          "definition": "n. 女孩、少女、女兒"
         }
       ],
       "examples": [
         {
-          "en": "The girl sings a song.",
+          "en": "The girl wearing a red dress is my cousin.",
           "highlight": [
             "girl"
           ],
           "translations": {
-            "zh-TW": "女孩唱一首歌。"
+            "zh-TW": "穿紅裙子的女孩是我表妹。"
+          }
+        },
+        {
+          "en": "The girls choir won first place at the national competition.",
+          "highlight": [
+            "girls"
+          ],
+          "translations": {
+            "zh-TW": "女子合唱團在全國比賽中種冠。"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "kid",
+        "lass"
+      ],
       "antonyms": [
         "boy"
       ],
-      "phrases": []
+      "phrases": [
+        "schoolgirl",
+        "girlfriend",
+        "cover girl"
+      ]
     }
   ]
 }
