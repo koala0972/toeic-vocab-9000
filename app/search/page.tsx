@@ -87,7 +87,7 @@ export default function SearchPage() {
             onClick={() => setActiveTab(t)}
             className={`px-3 py-1 rounded border ${activeTab === t ? 'bg-blue-600 text-white border-blue-600' : 'bg-white border-slate-300'}`}
           >
-            {t === 'all' ? '全部' : t === 'basic' ? '基礎' : t === 'intermediate' ? '中級' : '高級'}
+            {t === 'all' ? '全部' : t === 'basic' ? '初級' : t === 'intermediate' ? '中級' : '高級'}
           </button>
         ))}
       </div>

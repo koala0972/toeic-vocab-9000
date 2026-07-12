@@ -20,7 +20,7 @@ export type CEFR = 'A1' | 'A2' | 'B1' | 'B2' | 'C1' | 'C2';
 export const TIERS: TierConfig[] = [
   {
     name: 'basic',
-    zhName: '基礎',
+    zhName: '初級',
     levels: [1, 300],
     cefrRange: ['A1', 'A2'],
     toeicRange: [0, 600],

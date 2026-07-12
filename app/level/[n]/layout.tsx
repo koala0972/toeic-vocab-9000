@@ -4,7 +4,7 @@ import { levelToCEFR, levelToTier, levelToToeicScore, TIERS } from '@/lib/levels
 const SITE_URL = 'https://english-learning-three-gamma.vercel.app';
 
 const tierZh: Record<string, string> = {
-  basic: '基礎',
+  basic: '初級',
   intermediate: '中級',
   advanced: '高級',
 };

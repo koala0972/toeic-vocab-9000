@@ -5,7 +5,7 @@ const SITE_URL = 'https://english-learning-three-gamma.vercel.app';
 
 export const metadata: Metadata = {
   title: {
-    default: '多益單字 9000 | TOEIC Vocabulary 9000 — 從基礎到高級',
+    default: '多益單字 9000 | TOEIC Vocabulary 9000 — 從初級到高級',
     template: '%s | 多益單字 9000',
   },
   description: '免費多益單字學習網站，9000 個單字分 3 級 300 關，由淺入深。每字附中文翻譯、例句、語音朗讀，中英反白對照學習，點擊同義詞反義詞跨關搜尋。適合多益初學者到進階考生。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     '英文單字', '多益考試', 'TOEIC', '單字背诵', '英語背單字',
     '英文學習網站', '免費英語學習', '多益9000', 'TOEIC 9000 words',
     'English vocabulary learning', 'TOEIC preparation',
-    '多益入門', '多益基礎', '多益中級', '多益高級',
+    '多益入門', '多益初級', '多益中級', '多益高級',
   ],
   authors: [{ name: 'TOEIC Vocabulary 9000' }],
   creator: 'TOEIC Vocabulary 9000',
