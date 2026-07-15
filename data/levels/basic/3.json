@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 3,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-003-001",
@@ -10,37 +10,64 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "do",
-      "pos": ["verb", "noun"],
+      "pos": [
+        "verb",
+        "noun"
+      ],
       "conjugations": {
-        "past_tense": "did",
+        "plural": "dos",
+        "present_3rd": "does",
+        "past": "did",
         "past_participle": "done",
-        "present_participle": "doing",
-        "third_person": "does",
-        "plural": "dos"
+        "ing": "doing"
       },
       "domain": "auxiliary_verb",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "做",
-          "definition": "(v.) 執行、從事; (aux.) 用於問句與否定句的助動詞"
+          "lang_word": "do",
+          "definition": "(v.) 執行、從事；(aux.) 用於問句與否定句的助動詞"
         }
       ],
       "examples": [
         {
           "en": "I do my homework before dinner every day.",
-          "highlight": ["do"],
-          "translations": { "zh-TW": "我每天晚餐前做作業。" }
+          "highlight": [
+            "do"
+          ],
+          "translations": {
+            "zh-TW": "我每天晚餐前做作業。"
+          }
         },
         {
-          "en": "Do you speak English at work every day?",
-          "highlight": ["Do"],
-          "translations": { "zh-TW": "你每天上班都會說英文嗎?" }
+          "en": "She did an excellent job on the marketing report.",
+          "highlight": [
+            "did"
+          ],
+          "translations": {
+            "zh-TW": "她的行銷報告做得非常出色。"
+          }
+        },
+        {
+          "en": "The project has been done on time and under budget.",
+          "highlight": [
+            "done"
+          ],
+          "translations": {
+            "zh-TW": "專案已準時且在預算內完成。"
+          }
         }
       ],
-      "synonyms": ["perform", "execute"],
+      "synonyms": [
+        "perform",
+        "execute"
+      ],
       "antonyms": [],
-      "phrases": ["do homework", "do the dishes", "how do you do"]
+      "phrases": [
+        "do homework",
+        "do the dishes",
+        "how do you do"
+      ]
     },
     {
       "id": "A1-003-002",
@@ -49,33 +76,61 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "can",
-      "pos": ["modal verb", "noun"],
+      "pos": [
+        "modal verb",
+        "noun"
+      ],
       "conjugations": {
-        "past_tense": "could"
+        "past": "could"
       },
       "domain": "modal_verb",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "能、可以",
-          "definition": "(modal) 表示能力或許可; (n.) 圓罐、金屬容器"
+          "lang_word": "can",
+          "definition": "(modal) 表示能力或許可；(n.) 圓罕、金屬容器"
         }
       ],
       "examples": [
         {
           "en": "I can speak three languages fluently.",
-          "highlight": ["can"],
-          "translations": { "zh-TW": "我能流利地說三種語言。" }
+          "highlight": [
+            "can"
+          ],
+          "translations": {
+            "zh-TW": "我能流利地說三種語言。"
+          }
         },
         {
-          "en": "Can you help me carry these boxes, please?",
-          "highlight": ["Can"],
-          "translations": { "zh-TW": "請問你能幫我搬這些箱子嗎?" }
+          "en": "She could not attend the meeting because she was sick.",
+          "highlight": [
+            "could"
+          ],
+          "translations": {
+            "zh-TW": "她因為生病而無法出席會議。"
+          }
+        },
+        {
+          "en": "Can you send me the document by email, please?",
+          "highlight": [
+            "Can"
+          ],
+          "translations": {
+            "zh-TW": "請問你能用電子郵件傳給我那份文件嗎？"
+          }
         }
       ],
-      "synonyms": ["be able to"],
-      "antonyms": ["cannot", "can't"],
-      "phrases": ["can do", "as can be"]
+      "synonyms": [
+        "be able to"
+      ],
+      "antonyms": [
+        "cannot",
+        "can't"
+      ],
+      "phrases": [
+        "can do",
+        "as can be"
+      ]
     },
     {
       "id": "A1-003-003",
@@ -84,31 +139,60 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "will",
-      "pos": ["modal verb", "noun", "verb"],
+      "pos": [
+        "modal verb",
+        "noun",
+        "verb"
+      ],
       "conjugations": {},
       "domain": "modal_verb",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "會、將",
-          "definition": "(modal) 表示未來、意願、習慣; (n.) 意志、遺囑"
+          "lang_word": "will",
+          "definition": "(modal) 表示未來、意願、習慣；(n.) 意志、遺嘱"
         }
       ],
       "examples": [
         {
           "en": "I will call you back after the meeting ends.",
-          "highlight": ["will"],
-          "translations": { "zh-TW": "我會在會議結束後回撥給你。" }
+          "highlight": [
+            "will"
+          ],
+          "translations": {
+            "zh-TW": "我會在會議結束後回電給你。"
+          }
         },
         {
-          "en": "She will travel to Japan next month for work.",
-          "highlight": ["will"],
-          "translations": { "zh-TW": "她下個月會到日本出差。" }
+          "en": "She will travel to Japan next month for a business trip.",
+          "highlight": [
+            "will"
+          ],
+          "translations": {
+            "zh-TW": "她下個月會到日本出差。"
+          }
+        },
+        {
+          "en": "He left a will specifying that his fortune go to charity.",
+          "highlight": [
+            "will"
+          ],
+          "translations": {
+            "zh-TW": "他留下遺嘱，指定財產捐給慈善機構。"
+          }
         }
       ],
-      "synonyms": ["shall"],
-      "antonyms": ["won't"],
-      "phrases": ["will not", "at will", "free will"]
+      "synonyms": [
+        "shall"
+      ],
+      "antonyms": [
+        "won't"
+      ],
+      "phrases": [
+        "will not",
+        "at will",
+        "free will"
+      ]
     },
     {
       "id": "A1-003-004",
@@ -117,37 +201,65 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "want",
-      "pos": ["verb", "noun"],
+      "pos": [
+        "verb",
+        "noun"
+      ],
       "conjugations": {
-        "past_tense": "wanted",
+        "plural": "wants",
+        "present_3rd": "wants",
+        "past": "wanted",
         "past_participle": "wanted",
-        "present_participle": "wanting",
-        "third_person": "wants",
-        "plural": "wants"
+        "ing": "wanting"
       },
       "domain": "basic_verb",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "想要",
-          "definition": "(v.) 希望、需要、想要; (n.) 缺乏、需求"
+          "lang_word": "want",
+          "definition": "(v.) 希望、需要、想要；(n.) 缺乏、需求"
         }
       ],
       "examples": [
         {
           "en": "I want a cup of hot tea right now.",
-          "highlight": ["want"],
-          "translations": { "zh-TW": "我現在想要一杯熱茶。" }
+          "highlight": [
+            "want"
+          ],
+          "translations": {
+            "zh-TW": "我現在想要一杯熱茶。"
+          }
         },
         {
-          "en": "She wanted to leave the company after ten years.",
-          "highlight": ["wanted"],
-          "translations": { "zh-TW": "她十年後想離開公司。" }
+          "en": "She wanted to leave the company after ten years of service.",
+          "highlight": [
+            "wanted"
+          ],
+          "translations": {
+            "zh-TW": "她服務十年後想離開公司。"
+          }
+        },
+        {
+          "en": "He is wanting a new challenge in his career.",
+          "highlight": [
+            "wanting"
+          ],
+          "translations": {
+            "zh-TW": "他正在尋找職業上的新挑戰。"
+          }
         }
       ],
-      "synonyms": ["desire", "wish"],
-      "antonyms": ["dislike"],
-      "phrases": ["want to", "you want"]
+      "synonyms": [
+        "desire",
+        "wish"
+      ],
+      "antonyms": [
+        "dislike"
+      ],
+      "phrases": [
+        "want to",
+        "you want"
+      ]
     },
     {
       "id": "A1-003-005",
@@ -156,37 +268,64 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "need",
-      "pos": ["verb", "noun"],
+      "pos": [
+        "verb",
+        "noun"
+      ],
       "conjugations": {
-        "past_tense": "needed",
+        "plural": "needs",
+        "present_3rd": "needs",
+        "past": "needed",
         "past_participle": "needed",
-        "present_participle": "needing",
-        "third_person": "needs",
-        "plural": "needs"
+        "ing": "needing"
       },
       "domain": "basic_verb",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "需要",
-          "definition": "(v.) 必須、有必要; (n.) 需要、需求"
+          "lang_word": "need",
+          "definition": "(v.) 必須、有必要；(n.) 需要、需求"
         }
       ],
       "examples": [
         {
           "en": "I need some water because I feel thirsty.",
-          "highlight": ["need"],
-          "translations": { "zh-TW": "我需要一些水,因為我覺得渴。" }
+          "highlight": [
+            "need"
+          ],
+          "translations": {
+            "zh-TW": "我需要一些水，因為我覺得渴。"
+          }
         },
         {
-          "en": "You need to finish your report before Friday.",
-          "highlight": ["need"],
-          "translations": { "zh-TW": "你需要在星期五前完成報告。" }
+          "en": "You needed to finish your report before Friday last week.",
+          "highlight": [
+            "needed"
+          ],
+          "translations": {
+            "zh-TW": "上週你需要在星期五前完成報告。"
+          }
+        },
+        {
+          "en": "The project is needing more staff to meet the deadline.",
+          "highlight": [
+            "needing"
+          ],
+          "translations": {
+            "zh-TW": "專案需要更多人手才能趕上截止日。"
+          }
         }
       ],
-      "synonyms": ["require", "necessitate"],
+      "synonyms": [
+        "require",
+        "necessitate"
+      ],
       "antonyms": [],
-      "phrases": ["need to", "in need of", "need help"]
+      "phrases": [
+        "need to",
+        "in need of",
+        "need help"
+      ]
     },
     {
       "id": "A1-003-006",
@@ -195,36 +334,65 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "come",
-      "pos": ["verb"],
+      "pos": [
+        "verb"
+      ],
       "conjugations": {
-        "past_tense": "came",
+        "present_3rd": "comes",
+        "past": "came",
         "past_participle": "come",
-        "present_participle": "coming",
-        "third_person": "comes"
+        "ing": "coming"
       },
       "domain": "basic_verb",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "來",
-          "definition": "(v.) 向說話者方向移動;到達、來臨"
+          "lang_word": "come",
+          "definition": "(v.) 向說話者方向移動；到達、來臨"
         }
       ],
       "examples": [
         {
           "en": "Please come to the office at 9 AM tomorrow.",
-          "highlight": ["come"],
-          "translations": { "zh-TW": "請明早九點來辦公室。" }
+          "highlight": [
+            "come"
+          ],
+          "translations": {
+            "zh-TW": "請明早九點來辦公室。"
+          }
         },
         {
-          "en": "She came home late because of the heavy traffic.",
-          "highlight": ["came"],
-          "translations": { "zh-TW": "她因嚴重塞車晚回家。" }
+          "en": "She came home late because of the heavy traffic last night.",
+          "highlight": [
+            "came"
+          ],
+          "translations": {
+            "zh-TW": "昨天她因為塞車而深夜才回家。"
+          }
+        },
+        {
+          "en": "He has come a long way since he started his first job.",
+          "highlight": [
+            "come"
+          ],
+          "translations": {
+            "zh-TW": "自從他開始第一份工作以來，他已經走了很長的路。"
+          }
         }
       ],
-      "synonyms": ["arrive", "approach"],
-      "antonyms": ["go", "leave"],
-      "phrases": ["come back", "come from", "come here"]
+      "synonyms": [
+        "arrive",
+        "approach"
+      ],
+      "antonyms": [
+        "go",
+        "leave"
+      ],
+      "phrases": [
+        "come back",
+        "come from",
+        "come here"
+      ]
     },
     {
       "id": "A1-003-007",
@@ -233,37 +401,63 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "see",
-      "pos": ["verb", "noun"],
+      "pos": [
+        "verb",
+        "noun"
+      ],
       "conjugations": {
-        "past_tense": "saw",
+        "present_3rd": "sees",
+        "past": "saw",
         "past_participle": "seen",
-        "present_participle": "seeing",
-        "third_person": "sees",
-        "plural": "sees"
+        "ing": "seeing"
       },
       "domain": "basic_verb",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "看、看見",
-          "definition": "(v.) 用眼睛看到、觀看、會見; (n.) 主教之座"
+          "lang_word": "see",
+          "definition": "(v.) 用眼睛看到、觀看、會見；(n.) 主教之座"
         }
       ],
       "examples": [
         {
-          "en": "I see my friend every week at the cafe.",
-          "highlight": ["see"],
-          "translations": { "zh-TW": "我每週在咖啡廳見到我的朋友。" }
+          "en": "I see my friend every week at the cafe near my office.",
+          "highlight": [
+            "see"
+          ],
+          "translations": {
+            "zh-TW": "我每週在辦公室附近的咖啡廳見到朋友。"
+          }
         },
         {
-          "en": "Did you see the movie that was just released?",
-          "highlight": ["see"],
-          "translations": { "zh-TW": "你看過剛上映的電影了嗎?" }
+          "en": "She saw the movie that everyone was talking about last weekend.",
+          "highlight": [
+            "saw"
+          ],
+          "translations": {
+            "zh-TW": "她上週末看了大家都在說的那部電影。"
+          }
+        },
+        {
+          "en": "Have you seen the latest sales report from the marketing team?",
+          "highlight": [
+            "seen"
+          ],
+          "translations": {
+            "zh-TW": "你看過行銷團隊最新的銷售報告了嗎？"
+          }
         }
       ],
-      "synonyms": ["watch", "observe"],
+      "synonyms": [
+        "watch",
+        "observe"
+      ],
       "antonyms": [],
-      "phrases": ["see you", "I see", "see off"]
+      "phrases": [
+        "see you",
+        "I see",
+        "see off"
+      ]
     },
     {
       "id": "A1-003-008",
@@ -272,36 +466,62 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "eat",
-      "pos": ["verb", "noun"],
+      "pos": [
+        "verb"
+      ],
       "conjugations": {
-        "past_tense": "ate",
+        "present_3rd": "eats",
+        "past": "ate",
         "past_participle": "eaten",
-        "present_participle": "eating",
-        "third_person": "eats"
+        "ing": "eating"
       },
       "domain": "daily_life",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "吃",
-          "definition": "(v.) 進食、把…吃光"
+          "lang_word": "eat",
+          "definition": "(v.) 進食、吃東西"
         }
       ],
       "examples": [
         {
-          "en": "I eat breakfast at seven every morning.",
-          "highlight": ["eat"],
-          "translations": { "zh-TW": "我每天早上七點吃早餐。" }
+          "en": "I eat breakfast at seven every morning before work.",
+          "highlight": [
+            "eat"
+          ],
+          "translations": {
+            "zh-TW": "我每天早上七點吃早餐後上班。"
+          }
         },
         {
           "en": "We ate dinner together before the exam last night.",
-          "highlight": ["ate"],
-          "translations": { "zh-TW": "昨晚考試前我們一起吃了晚餐。" }
+          "highlight": [
+            "ate"
+          ],
+          "translations": {
+            "zh-TW": "昨晚考試前我們一起吃了晚餐。"
+          }
+        },
+        {
+          "en": "She has already eaten lunch, so she is not hungry now.",
+          "highlight": [
+            "eaten"
+          ],
+          "translations": {
+            "zh-TW": "她已經吃過午餐了，所以現在不餓。"
+          }
         }
       ],
-      "synonyms": ["consume", "have"],
+      "synonyms": [
+        "consume",
+        "have"
+      ],
       "antonyms": [],
-      "phrases": ["eat out", "eat breakfast", "eat lunch"]
+      "phrases": [
+        "eat out",
+        "eat breakfast",
+        "eat lunch"
+      ]
     },
     {
       "id": "A1-003-009",
@@ -310,37 +530,63 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "drink",
-      "pos": ["verb", "noun"],
+      "pos": [
+        "verb",
+        "noun"
+      ],
       "conjugations": {
-        "past_tense": "drank",
+        "plural": "drinks",
+        "present_3rd": "drinks",
+        "past": "drank",
         "past_participle": "drunk",
-        "present_participle": "drinking",
-        "third_person": "drinks",
-        "plural": "drinks"
+        "ing": "drinking"
       },
       "domain": "daily_life",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "喝、飲料",
-          "definition": "(v.) 飲用、喝酒; (n.) 飲料、酒類"
+          "lang_word": "drink",
+          "definition": "(v.) 飲用、喝酒；(n.) 飲料、酒類"
         }
       ],
       "examples": [
         {
-          "en": "She drinks coffee every morning before work.",
-          "highlight": ["drinks"],
-          "translations": { "zh-TW": "她每天上班前都喝咖啡。" }
+          "en": "She drinks coffee every morning before work to wake up.",
+          "highlight": [
+            "drinks"
+          ],
+          "translations": {
+            "zh-TW": "她每天上班前都喝咖啡提神。"
+          }
         },
         {
-          "en": "Let's drink some tea and chat for a while.",
-          "highlight": ["drink"],
-          "translations": { "zh-TW": "我們喝點茶聊一下吧。" }
+          "en": "They drank a lot of water after running the marathon.",
+          "highlight": [
+            "drank"
+          ],
+          "translations": {
+            "zh-TW": "他們跑完馬拉松後喝了很多水。"
+          }
+        },
+        {
+          "en": "He has drunk three cups of tea since he started working this morning.",
+          "highlight": [
+            "drunk"
+          ],
+          "translations": {
+            "zh-TW": "他今早開始上班以來已經喝了三杯茶。"
+          }
         }
       ],
-      "synonyms": ["beverage"],
+      "synonyms": [
+        "beverage"
+      ],
       "antonyms": [],
-      "phrases": ["drink water", "drink tea", "soft drink"]
+      "phrases": [
+        "drink water",
+        "drink tea",
+        "soft drink"
+      ]
     },
     {
       "id": "A1-003-010",
@@ -349,36 +595,65 @@
       "cefr": "A1",
       "toeic_score_min": 200,
       "word": "make",
-      "pos": ["verb", "noun"],
+      "pos": [
+        "verb",
+        "noun"
+      ],
       "conjugations": {
-        "past_tense": "made",
+        "present_3rd": "makes",
+        "past": "made",
         "past_participle": "made",
-        "present_participle": "making",
-        "third_person": "makes"
+        "ing": "making"
       },
       "domain": "basic_verb",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "製作、做",
-          "definition": "(v.) 創造、製造、使發生; (n.) 製造方法、牌子"
+          "lang_word": "make",
+          "definition": "(v.) 創造、製造、使發生；(n.) 製造方法、牌子"
         }
       ],
       "examples": [
         {
-          "en": "I made a cake for my mother's birthday yesterday.",
-          "highlight": ["made"],
-          "translations": { "zh-TW": "我昨天為我媽的生日做了一個蛋糕。" }
+          "en": "She makes furniture by hand in her small workshop.",
+          "highlight": [
+            "makes"
+          ],
+          "translations": {
+            "zh-TW": "她在她的小工作室製作手工家具。"
+          }
         },
         {
-          "en": "She makes furniture by hand in her small workshop.",
-          "highlight": ["makes"],
-          "translations": { "zh-TW": "她在她的小工作室手工製作家具。" }
+          "en": "I made a cake for my mother's birthday yesterday.",
+          "highlight": [
+            "made"
+          ],
+          "translations": {
+            "zh-TW": "我昨天為我媽的生日做了一個蛋糕。"
+          }
+        },
+        {
+          "en": "He is making great progress in his English speaking skills.",
+          "highlight": [
+            "making"
+          ],
+          "translations": {
+            "zh-TW": "他的英語口說技巧正在大幅進步。"
+          }
         }
       ],
-      "synonyms": ["create", "produce"],
-      "antonyms": ["destroy"],
-      "phrases": ["make sure", "make a difference", "make up"]
+      "synonyms": [
+        "create",
+        "produce"
+      ],
+      "antonyms": [
+        "destroy"
+      ],
+      "phrases": [
+        "make sure",
+        "make a difference",
+        "make up"
+      ]
     }
   ]
 }
