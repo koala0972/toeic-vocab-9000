@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 8,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-008-001",
@@ -19,34 +19,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "accidentally",
-          "definition": "adv. 偶然地, 意外地"
+          "definition": "adv. 意外地、偶然地、不慎地"
         }
       ],
       "examples": [
         {
-          "en": "She accidentally spilled the milk.",
+          "en": "She accidentally deleted the important email before backing it up.",
           "highlight": [
             "accidentally"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在備份之前不小心刪除了那封重要的電子郵件。"
+          }
+        },
+        {
+          "en": "He accidentally broke the company laptop while rushing to a meeting.",
+          "highlight": [
+            "accidentally"
+          ],
+          "translations": {
+            "zh-TW": "他趕著去開會時不慎摔壞了公司的筆電。"
+          }
+        },
+        {
+          "en": "The cashier accidentally overcharged the customer by two hundred dollars.",
+          "highlight": [
+            "accidentally"
+          ],
+          "translations": {
+            "zh-TW": "收銀員不小心多收了顧客兩百元。"
           }
         }
       ],
       "synonyms": [
         "unintentionally",
-        "by",
-        "chance"
+        "unwittingly",
+        "by accident"
       ],
       "antonyms": [
         "deliberately",
         "intentionally"
       ],
       "phrases": [
-        "accidentally",
-        "discovered",
-        "accidentally",
-        "spilled"
+        "accidentally deleted",
+        "accidentally discovered",
+        "accidentally spilled",
+        "accidentally pressed"
       ]
     },
     {
@@ -67,32 +85,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "accommodation",
-          "definition": "n. 膳宿, 预订铺位, 适应性调节, 调和, 贷款, [医] 调节(眼); 适应"
+          "definition": "n. 住宿、膳宿、調解"
         }
       ],
       "examples": [
         {
-          "en": "She found accommodation at a hotel.",
+          "en": "The company booked hotel accommodation for all employees attending the conference.",
           "highlight": [
             "accommodation"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司為所有參加研討會的員工預訂了飯店住宿。"
+          }
+        },
+        {
+          "en": "These accommodations include breakfast and free airport shuttle service.",
+          "highlight": [
+            "accommodations"
+          ],
+          "translations": {
+            "zh-TW": "這些住宿方案包含早餐與免費機場接駁服務。"
+          }
+        },
+        {
+          "en": "Students must arrange their own accommodation before the semester begins.",
+          "highlight": [
+            "accommodation"
+          ],
+          "translations": {
+            "zh-TW": "學生必須在學期開始前自行安排住宿。"
           }
         }
       ],
       "synonyms": [
         "lodging",
-        "housing"
+        "housing",
+        "boarding"
       ],
       "antonyms": [
         "homelessness"
       ],
       "phrases": [
-        "student",
-        "accommodation",
-        "temporary",
-        "accommodation"
+        "book accommodation",
+        "student accommodation",
+        "temporary accommodation",
+        "provide accommodation"
       ]
     },
     {
@@ -106,44 +143,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "accompanyed",
-        "past_participle": "accompanyed",
-        "present_participle": "accompanying",
-        "third_person": "accompanys"
+        "present_3rd": "accompanies",
+        "past": "accompanied",
+        "past_participle": "accompanied",
+        "ing": "accompanying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "accompany",
-          "definition": "vt. 陪伴, 伴随, 补充, 為...伴奏, vi. 伴奏, 伴唱"
+          "definition": "v. 陪伴、伴隨、陪同、為……伴奏"
         }
       ],
       "examples": [
         {
-          "en": "She will accompany him on the trip.",
+          "en": "The manager will accompany the client on a tour of the new factory.",
           "highlight": [
             "accompany"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理將陪同客戶參觀新工廠。"
+          }
+        },
+        {
+          "en": "Her assistant accompanied her to the negotiation meeting yesterday.",
+          "highlight": [
+            "accompanied"
+          ],
+          "translations": {
+            "zh-TW": "昨天她的助理陪她一起去參加談判會議。"
+          }
+        },
+        {
+          "en": "The pianist accompanying the singer has performed in major concert halls.",
+          "highlight": [
+            "accompanying"
+          ],
+          "translations": {
+            "zh-TW": "為這位歌手伴奏的鋼琴家曾在各大音樂廳演出。"
           }
         }
       ],
       "synonyms": [
         "escort",
-        "chaperone"
+        "chaperone",
+        "attend"
       ],
       "antonyms": [
-        "desert",
-        "abandon"
+        "abandon",
+        "desert"
       ],
       "phrases": [
-        "accompany",
-        "on",
-        "a",
-        "trip",
-        "accompany"
+        "accompany someone",
+        "accompany on a trip",
+        "accompany a guest",
+        "accompany on the piano"
       ]
     },
     {
@@ -158,43 +213,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "accounted",
+        "plural": "accounts",
+        "present_3rd": "accounts",
+        "past": "accounted",
         "past_participle": "accounted",
-        "present_participle": "accounting",
-        "third_person": "accounts"
+        "ing": "accounting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "account",
-          "definition": "n. 报告, 解释, 估价, 理由, 利润, 算账, 帐目, vi. 报帐, 解释, 导致, 报偿, 占, 杀死, vt. 认為, [计] 帐户, 帐號"
+          "definition": "n. 帳戶、帳目、報告、說明  v. 解釋、視為、報帳"
         }
       ],
       "examples": [
         {
-          "en": "She gave an account of the event.",
+          "en": "Please transfer the payment to the company's bank account by Friday.",
           "highlight": [
             "account"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在週五前將款項轉入公司的銀行帳戶。"
+          }
+        },
+        {
+          "en": "She opened two new accounts at the bank this morning for her business.",
+          "highlight": [
+            "accounts"
+          ],
+          "translations": {
+            "zh-TW": "她今天早上在銀行開了兩個新的企業帳戶。"
+          }
+        },
+        {
+          "en": "The accounting department is responsible for managing all financial records.",
+          "highlight": [
+            "accounting"
+          ],
+          "translations": {
+            "zh-TW": "會計部門負責管理所有的財務紀錄。"
           }
         }
       ],
       "synonyms": [
         "report",
-        "description"
+        "record",
+        "statement"
       ],
       "antonyms": [
         "ignorance",
         "neglect"
       ],
       "phrases": [
-        "bank",
-        "account",
-        "user",
-        "account"
+        "bank account",
+        "account for",
+        "open an account",
+        "account information"
       ]
     },
     {
@@ -207,42 +282,58 @@
       "pos": [
         "adjective"
       ],
-      "conjugations": {
-        "comparative": "accurateer",
-        "superlative": "accurateest"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "accurate",
-          "definition": "a. 正确的, 精确的, [經] 准确的, 精确的"
+          "definition": "adj. 準確的、精確的、正確的"
         }
       ],
       "examples": [
         {
-          "en": "She provided an accurate report.",
+          "en": "Please make sure the sales report contains accurate figures before submitting it.",
           "highlight": [
             "accurate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "提交前請確認銷售報告中的數字準確無誤。"
+          }
+        },
+        {
+          "en": "The weather forecast is most accurate when it predicts conditions within twenty-four hours.",
+          "highlight": [
+            "accurate"
+          ],
+          "translations": {
+            "zh-TW": "天氣預報在預測未來二十四小時內的天氣時最為準確。"
+          }
+        },
+        {
+          "en": "The scientist kept accurate notes of every experiment she conducted.",
+          "highlight": [
+            "accurate"
+          ],
+          "translations": {
+            "zh-TW": "那位科學家對她所做的每個實驗都保留了準確的筆記。"
           }
         }
       ],
       "synonyms": [
         "correct",
-        "precise"
+        "precise",
+        "exact"
       ],
       "antonyms": [
         "inaccurate",
         "incorrect"
       ],
       "phrases": [
-        "accurate",
-        "information",
-        "accurate",
-        "measurement"
+        "accurate information",
+        "accurate measurement",
+        "accurate records",
+        "accurate report"
       ]
     },
     {
@@ -261,33 +352,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "accurately",
-          "definition": "adv. 正确地, 精确地"
+          "definition": "adv. 準確地、精確地、正確地"
         }
       ],
       "examples": [
         {
-          "en": "The data was accurately recorded.",
+          "en": "The survey results must be recorded accurately to reflect customer opinions.",
           "highlight": [
             "accurately"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "調查結果必須準確地記錄，才能真實反映顧客的意見。"
+          }
+        },
+        {
+          "en": "She can accurately translate technical documents from English to Chinese.",
+          "highlight": [
+            "accurately"
+          ],
+          "translations": {
+            "zh-TW": "她能準確地將技術文件從英文翻譯成中文。"
+          }
+        },
+        {
+          "en": "The machine measures temperature accurately to within one tenth of a degree.",
+          "highlight": [
+            "accurately"
+          ],
+          "translations": {
+            "zh-TW": "這台機器測量溫度的誤差不超過零點一度，非常精準。"
           }
         }
       ],
       "synonyms": [
         "exactly",
-        "precisely"
+        "precisely",
+        "correctly"
       ],
       "antonyms": [
         "inaccurately",
         "imprecisely"
       ],
       "phrases": [
-        "recorded",
-        "accurately",
-        "measured",
-        "accurately"
+        "recorded accurately",
+        "measured accurately",
+        "accurately describe",
+        "accurately predict"
       ]
     },
     {
@@ -301,44 +411,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "accuseed",
-        "past_participle": "accuseed",
-        "present_participle": "accusing",
-        "third_person": "accuses"
+        "present_3rd": "accuses",
+        "past": "accused",
+        "past_participle": "accused",
+        "ing": "accusing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "accuse",
-          "definition": "vt. 指责, 控告, 归咎于, vi. 指责, 控告"
+          "definition": "v. 指責、指控、控告、歸咎"
         }
       ],
       "examples": [
         {
-          "en": "He was accused of theft.",
+          "en": "Several employees accused the manager of unfair treatment.",
           "highlight": [
-            "accuse"
+            "accused"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "幾名員工指控經理對待員工不公平。"
+          }
+        },
+        {
+          "en": "She accused her colleague of stealing confidential files from the office.",
+          "highlight": [
+            "accused"
+          ],
+          "translations": {
+            "zh-TW": "她指控同事從辦公室竊取機密檔案。"
+          }
+        },
+        {
+          "en": "The accusing tone of his email upset everyone in the department.",
+          "highlight": [
+            "accusing"
+          ],
+          "translations": {
+            "zh-TW": "他電子郵件中充滿指責的語氣讓部門裡的每個人都不高興。"
           }
         }
       ],
       "synonyms": [
         "charge",
-        "indict"
+        "indict",
+        "blame"
       ],
       "antonyms": [
         "absolve",
         "exonerate"
       ],
       "phrases": [
-        "accuse",
-        "of",
-        "a",
-        "crime",
-        "accuse"
+        "accuse of",
+        "accuse someone of",
+        "falsely accused",
+        "accuse of a crime"
       ]
     },
     {
@@ -352,44 +480,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "achieveed",
-        "past_participle": "achieveed",
-        "present_participle": "achieving",
-        "third_person": "achieves"
+        "present_3rd": "achieves",
+        "past": "achieved",
+        "past_participle": "achieved",
+        "ing": "achieving"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "achieve",
-          "definition": "vt. 完成, 达到, vi. 如愿以偿"
+          "definition": "v. 達成、完成、實現、獲得"
         }
       ],
       "examples": [
         {
-          "en": "She achieved her goal.",
+          "en": "The team worked overtime to achieve the quarterly sales target.",
           "highlight": [
             "achieve"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "團隊加班工作以達成季度銷售目標。"
+          }
+        },
+        {
+          "en": "She achieved her goal of becoming the youngest manager in company history.",
+          "highlight": [
+            "achieved"
+          ],
+          "translations": {
+            "zh-TW": "她實現了成為公司史上最年輕經理的目標。"
+          }
+        },
+        {
+          "en": "By achieving a balance between quality and cost, the firm gained a competitive edge.",
+          "highlight": [
+            "achieving"
+          ],
+          "translations": {
+            "zh-TW": "藉由在品質與成本之間取得平衡，這家公司獲得了競爭優勢。"
           }
         }
       ],
       "synonyms": [
+        "accomplish",
         "succeed",
-        "accomplish"
+        "attain"
       ],
       "antonyms": [
         "fail",
         "forfeit"
       ],
       "phrases": [
-        "achieve",
-        "success",
-        "achieve",
-        "a",
-        "goal"
+        "achieve a goal",
+        "achieve success",
+        "achieve a target",
+        "achieve a balance"
       ]
     },
     {
@@ -410,33 +556,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "achievement",
-          "definition": "n. 完成, 成就, 功业"
+          "definition": "n. 成就、達成、功績"
         }
       ],
       "examples": [
         {
-          "en": "She celebrated her achievement.",
+          "en": "Winning the industry award was her greatest professional achievement.",
           "highlight": [
             "achievement"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "獲得產業大獎是她最大的職業成就。"
+          }
+        },
+        {
+          "en": "The company listed its major achievements in the annual report to shareholders.",
+          "highlight": [
+            "achievements"
+          ],
+          "translations": {
+            "zh-TW": "公司在年度股東報告中列出了主要的成就。"
+          }
+        },
+        {
+          "en": "Reaching one million users in a single year is a remarkable achievement for a startup.",
+          "highlight": [
+            "achievement"
+          ],
+          "translations": {
+            "zh-TW": "在短短一年內達到一百萬用戶，對新創公司而言是一項了不起的成就。"
           }
         }
       ],
       "synonyms": [
         "accomplishment",
-        "success"
+        "success",
+        "attainment"
       ],
       "antonyms": [
         "failure",
         "defeat"
       ],
       "phrases": [
-        "great",
-        "achievement",
-        "remarkable",
-        "achievement"
+        "great achievement",
+        "remarkable achievement",
+        "professional achievement",
+        "sense of achievement"
       ]
     },
     {
@@ -458,21 +623,40 @@
         {
           "lang": "zh-TW",
           "lang_word": "acid",
-          "definition": "n. 酸, 酸类物质, 尖刻, 迷幻药, a. 酸的, 酸性的, 尖刻的, 敏锐的, [计] 自動文档互参與索引生成程序"
+          "definition": "n. 酸、酸性物質  adj. 酸的、酸性的、尖刻的"
         }
       ],
       "examples": [
         {
-          "en": "The acid burned his skin.",
+          "en": "The factory must safely dispose of the acid used in its manufacturing process.",
           "highlight": [
             "acid"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "工廠必須安全地處理製程中所使用的酸。"
+          }
+        },
+        {
+          "en": "Citrus fruits contain natural acids that can affect the flavour of processed foods.",
+          "highlight": [
+            "acids"
+          ],
+          "translations": {
+            "zh-TW": "柑橘類水果含有天然酸性物質，會影響加工食品的風味。"
+          }
+        },
+        {
+          "en": "Industrial regions often suffer from acid rain that damages forests and lakes.",
+          "highlight": [
+            "acid"
+          ],
+          "translations": {
+            "zh-TW": "工業區常遭受酸雨危害，破壞了森林與湖泊。"
           }
         }
       ],
       "synonyms": [
+        "sour",
         "chemical",
         "corrosive"
       ],
@@ -481,10 +665,10 @@
         "base"
       ],
       "phrases": [
-        "acid",
-        "rain",
-        "stomach",
-        "acid"
+        "acid rain",
+        "stomach acid",
+        "acid solution",
+        "amino acid"
       ]
     }
   ]
