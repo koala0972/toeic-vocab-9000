@@ -137,25 +137,15 @@ export function WordCard({ entry, lang, rate, idx, onViewed, showAnswer, onToggl
         ))}
       </div>
 
-      {/* 中英文意義切換 */}
+      {/* 中英文意義 */}
       <div className="mt-4 border-t pt-3">
         <div className="flex items-center justify-between">
           <div className="text-sm text-slate-500">{t(lang, 'definition')}</div>
-          <button
-            onClick={onToggleAnswer}
-            className="text-xs px-2 py-1 rounded bg-slate-100 hover:bg-slate-200"
-          >
-            {showAnswer ? t(lang, 'hideAnswer') : t(lang, 'showAnswer')}
-          </button>
         </div>
-        {showAnswer ? (
-          <div className="mt-2 text-lg">
-            <span className="font-semibold text-slate-900">{tr.lang_word}</span>
-            <span className="text-slate-600"> — {tr.definition}</span>
-          </div>
-        ) : (
-          <div className="mt-2 text-slate-400 italic">— — — — — (點右上顯示)</div>
-        )}
+        <div className="mt-2 text-lg">
+          <span className="font-semibold text-slate-900">{tr.lang_word}</span>
+          <span className="text-slate-600"> — {tr.definition}</span>
+        </div>
       </div>
 
       {/* 同反義詞與片語 */}
@@ -221,13 +211,11 @@ export function WordCard({ entry, lang, rate, idx, onViewed, showAnswer, onToggl
                     </p>
                     <VoiceButton lang={lang} text={ex.en} rate={rate} langForTTS="en" />
                   </div>
-                  {showAnswer && (
-                    <div className="mt-2 text-slate-700 leading-relaxed border-t pt-2">
-                      <span
-                        dangerouslySetInnerHTML={{ __html: zhHTML }}
-                      />
-                    </div>
-                  )}
+                  <div className="mt-2 text-slate-700 leading-relaxed border-t pt-2">
+                    <span
+                      dangerouslySetInnerHTML={{ __html: zhHTML }}
+                    />
+                  </div>
                 </div>
               );
             })}
