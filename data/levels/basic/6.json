@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 6,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-006-001",
@@ -14,44 +14,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "abandoned",
+        "present_3rd": "abandons",
+        "past": "abandoned",
         "past_participle": "abandoned",
-        "present_participle": "abandoning",
-        "third_person": "abandons"
+        "ing": "abandoning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "abandon",
-          "definition": "vt. 放弃, 抛弃, 遗弃, 使屈从, 沉溺, 放纵, n. 放任, 无拘束, 狂热"
+          "definition": "v. 放棄、拋棄、遺棄"
         }
       ],
       "examples": [
         {
-          "en": "She decided to abandon her plans.",
+          "en": "The company decided to abandon the project due to budget cuts.",
           "highlight": [
             "abandon"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "由於預算削減，公司決定放棄這個專案。"
+          }
+        },
+        {
+          "en": "She abandoned her car on the highway when the engine broke down.",
+          "highlight": [
+            "abandoned"
+          ],
+          "translations": {
+            "zh-TW": "引擎故障時，她把車棄置在高速公路上。"
+          }
+        },
+        {
+          "en": "They are abandoning the old system and switching to cloud-based software.",
+          "highlight": [
+            "abandoning"
+          ],
+          "translations": {
+            "zh-TW": "他們正在淘汰舊系統，改用雲端軟體。"
           }
         }
       ],
       "synonyms": [
         "desert",
-        "leave"
+        "leave",
+        "give up"
       ],
       "antonyms": [
-        "support",
-        "keep"
+        "keep",
+        "maintain",
+        "support"
       ],
       "phrases": [
-        "abandon",
-        "a",
-        "plan",
-        "abandon",
-        "a"
+        "abandon a project",
+        "abandon a plan",
+        "abandon ship",
+        "abandon hope"
       ]
     },
     {
@@ -64,42 +83,58 @@
       "pos": [
         "adjective"
       ],
-      "conjugations": {
-        "comparative": "abandoneder",
-        "superlative": "abandonedest"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "abandoned",
-          "definition": "a. 被抛弃的, 无约束的, 恣意放荡的"
+          "definition": "adj. 被遺棄的、廢棄的、無人居住的"
         }
       ],
       "examples": [
         {
-          "en": "The house was abandoned.",
+          "en": "The abandoned factory became a gathering place for local artists.",
           "highlight": [
             "abandoned"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "那間廢棄的工廠成了當地藝術家聚集的地方。"
+          }
+        },
+        {
+          "en": "Police found an abandoned vehicle near the riverbank yesterday.",
+          "highlight": [
+            "abandoned"
+          ],
+          "translations": {
+            "zh-TW": "警方昨天在河堤附近發現一輛棄置的車輛。"
+          }
+        },
+        {
+          "en": "She grew up in an abandoned building before being adopted by a kind family.",
+          "highlight": [
+            "abandoned"
+          ],
+          "translations": {
+            "zh-TW": "在被一個好心家庭收養之前，她在廢棄的大樓裡長大。"
           }
         }
       ],
       "synonyms": [
         "deserted",
-        "forsaken"
+        "forsaken",
+        "vacant"
       ],
       "antonyms": [
         "inhabited",
+        "occupied",
         "populated"
       ],
       "phrases": [
-        "abandoned",
-        "house",
-        "abandoned",
-        "car"
+        "abandoned building",
+        "abandoned car",
+        "abandoned property"
       ]
     },
     {
@@ -120,33 +155,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "ability",
-          "definition": "n. 能力, 才干, [經] 能力, 才能"
+          "definition": "n. 能力、才能、本領"
         }
       ],
       "examples": [
         {
-          "en": "She has the ability to learn languages quickly.",
+          "en": "Her ability to speak three languages impressed the interviewers.",
           "highlight": [
             "ability"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她能說三種語言的能力令面試官印象深刻。"
+          }
+        },
+        {
+          "en": "The candidates were tested on their leadership abilities during the group exercise.",
+          "highlight": [
+            "abilities"
+          ],
+          "translations": {
+            "zh-TW": "候選人在小組演練中接受領導能力的測試。"
+          }
+        },
+        {
+          "en": "He has the ability to remain calm even under enormous pressure.",
+          "highlight": [
+            "ability"
+          ],
+          "translations": {
+            "zh-TW": "即使在巨大的壓力下，他也有保持冷靜的能力。"
           }
         }
       ],
       "synonyms": [
+        "skill",
         "talent",
-        "skill"
+        "capability"
       ],
       "antonyms": [
         "inability",
         "incapacity"
       ],
       "phrases": [
-        "intellectual",
-        "ability",
-        "physical",
-        "ability"
+        "ability to learn",
+        "leadership ability",
+        "cognitive ability",
+        "demonstrate ability"
       ]
     },
     {
@@ -160,40 +214,61 @@
         "adjective"
       ],
       "conjugations": {
-        "comparative": "ableer",
-        "superlative": "ableest"
+        "comparative": "abler",
+        "superlative": "ablest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "able",
-          "definition": "a. 能干的, 能够的"
+          "definition": "adj. 有能力的、能幹的、能夠的"
         }
       ],
       "examples": [
         {
-          "en": "She is able to solve the problem.",
+          "en": "She is able to handle complex negotiations with international clients.",
           "highlight": [
             "able"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她能夠處理與國際客戶的複雜談判。"
+          }
+        },
+        {
+          "en": "The abler candidates were promoted to senior management positions.",
+          "highlight": [
+            "abler"
+          ],
+          "translations": {
+            "zh-TW": "能力較強的候選人被晉升為高階管理職位。"
+          }
+        },
+        {
+          "en": "He is the ablest lawyer in the firm and often wins difficult cases.",
+          "highlight": [
+            "ablest"
+          ],
+          "translations": {
+            "zh-TW": "他是事務所裡最能幹的律師，經常勝訴棘手的案件。"
           }
         }
       ],
       "synonyms": [
         "capable",
-        "competent"
+        "competent",
+        "skilled"
       ],
       "antonyms": [
         "unable",
-        "incapable"
+        "incapable",
+        "unfit"
       ],
       "phrases": [
-        "able",
-        "to",
-        "able-bodied"
+        "able to do",
+        "able-bodied",
+        "able manager",
+        "able student"
       ]
     },
     {
@@ -204,7 +279,8 @@
       "toeic_score_min": 200,
       "word": "about",
       "pos": [
-        "preposition"
+        "preposition",
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
@@ -212,31 +288,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "about",
-          "definition": "prep. 在...周围, 大约, 有關, 關于, adv. 大约, 四處, 在附近, 周围"
+          "definition": "prep. 關於、大約  adv. 大約、四處、附近"
         }
       ],
       "examples": [
         {
-          "en": "They talked about the project.",
+          "en": "The manager gave a presentation about the new marketing strategy.",
           "highlight": [
             "about"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理做了一場關於新行銷策略的簡報。"
+          }
+        },
+        {
+          "en": "There are about fifty employees working in this branch office.",
+          "highlight": [
+            "about"
+          ],
+          "translations": {
+            "zh-TW": "這家分公司大約有五十名員工在工作。"
+          }
+        },
+        {
+          "en": "She walked about the exhibition hall, examining each display carefully.",
+          "highlight": [
+            "about"
+          ],
+          "translations": {
+            "zh-TW": "她在展覽廳裡四處走動，仔細觀看每個展品。"
           }
         }
       ],
       "synonyms": [
         "regarding",
-        "concerning"
+        "concerning",
+        "approximately"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "exactly",
+        "precisely"
+      ],
       "phrases": [
-        "about",
-        "a",
-        "topic",
-        "about",
-        "5"
+        "talk about",
+        "think about",
+        "about time",
+        "how about"
       ]
     },
     {
@@ -256,34 +353,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "above",
-          "definition": "prep. 在上方, 超出, adv. 在上面, a. 上述的, 上面的"
+          "definition": "prep. 在……上方、超過  adv. 在上方、上述"
         }
       ],
       "examples": [
         {
-          "en": "The birds flew above the trees.",
+          "en": "The airplane flew above the clouds during the entire flight.",
           "highlight": [
             "above"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "飛機在整趟航程中都飛在雲層之上。"
+          }
+        },
+        {
+          "en": "The temperature remained above thirty degrees all week long.",
+          "highlight": [
+            "above"
+          ],
+          "translations": {
+            "zh-TW": "整週氣溫都維持在三十度以上。"
+          }
+        },
+        {
+          "en": "Please refer to the instructions above before assembling the product.",
+          "highlight": [
+            "above"
+          ],
+          "translations": {
+            "zh-TW": "組裝產品前請先參閱上述說明。"
           }
         }
       ],
       "synonyms": [
         "over",
-        "higher",
-        "than"
+        "higher than",
+        "beyond"
       ],
       "antonyms": [
         "below",
-        "under"
+        "under",
+        "beneath"
       ],
       "phrases": [
-        "above",
-        "average",
-        "above",
-        "all"
+        "above all",
+        "above average",
+        "above the law",
+        "above suspicion"
       ]
     },
     {
@@ -302,33 +418,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "abroad",
-          "definition": "adv. 往國外, 到室外, 到處, a. 往國外的, 在室外的, 广泛四散的"
+          "definition": "adv. 在國外、到國外、海外"
         }
       ],
       "examples": [
         {
-          "en": "She studied abroad for a year.",
+          "en": "She decided to study abroad to improve her English skills.",
           "highlight": [
             "abroad"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她決定出國留學以提升自己的英文能力。"
+          }
+        },
+        {
+          "en": "The company sends managers abroad to oversee international branches.",
+          "highlight": [
+            "abroad"
+          ],
+          "translations": {
+            "zh-TW": "公司派經理到海外督導國際分公司。"
+          }
+        },
+        {
+          "en": "He has been working abroad for three years and plans to return next month.",
+          "highlight": [
+            "abroad"
+          ],
+          "translations": {
+            "zh-TW": "他在國外工作了三年，計畫下個月回國。"
           }
         }
       ],
       "synonyms": [
         "overseas",
-        "internationally"
+        "internationally",
+        "overseas"
       ],
       "antonyms": [
         "domestically",
         "locally"
       ],
       "phrases": [
-        "study",
-        "abroad",
-        "travel",
-        "abroad"
+        "study abroad",
+        "work abroad",
+        "travel abroad",
+        "go abroad"
       ]
     },
     {
@@ -349,34 +484,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "absence",
-          "definition": "n. 缺席, 缺乏, 没有, [医] 失神"
+          "definition": "n. 缺席、不在、缺乏"
         }
       ],
       "examples": [
         {
-          "en": "Her absence was noticed.",
+          "en": "His absence from the meeting was noted by the department head.",
           "highlight": [
             "absence"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他缺席會議一事被部門主管注意到了。"
+          }
+        },
+        {
+          "en": "Repeated absences may affect your final grade in this course.",
+          "highlight": [
+            "absences"
+          ],
+          "translations": {
+            "zh-TW": "屢次缺席可能會影響你這門課的最終成績。"
+          }
+        },
+        {
+          "en": "In the absence of clear instructions, the team made their own decisions.",
+          "highlight": [
+            "absence"
+          ],
+          "translations": {
+            "zh-TW": "在沒有明確指示的情況下，團隊自行做出了決定。"
           }
         }
       ],
       "synonyms": [
         "nonattendance",
-        "nonexistence"
+        "lack",
+        "deficiency"
       ],
       "antonyms": [
         "presence",
         "attendance"
       ],
       "phrases": [
-        "leave",
-        "of",
-        "absence",
-        "in",
-        "the"
+        "absence of",
+        "leave of absence",
+        "in the absence of",
+        "absence from work"
       ]
     },
     {
@@ -389,42 +542,58 @@
       "pos": [
         "adjective"
       ],
-      "conjugations": {
-        "comparative": "absenter",
-        "superlative": "absentest"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "absent",
-          "definition": "a. 缺席的, 不在的, 缺乏的, 漫不經心的, vt. 使缺席"
+          "definition": "adj. 缺席的、不在的、缺乏的"
         }
       ],
       "examples": [
         {
-          "en": "He was absent from the meeting.",
+          "en": "Three students were absent from class due to illness today.",
           "highlight": [
             "absent"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "今天有三名學生因病缺席。"
+          }
+        },
+        {
+          "en": "The manager has been absent from the office for a week without explanation.",
+          "highlight": [
+            "absent"
+          ],
+          "translations": {
+            "zh-TW": "經理已一週未到辦公室，也沒有任何說明。"
+          }
+        },
+        {
+          "en": "She looked absent during the conference, as if her mind was elsewhere.",
+          "highlight": [
+            "absent"
+          ],
+          "translations": {
+            "zh-TW": "她在會議中顯得心不在焉，好像心思在別處。"
           }
         }
       ],
       "synonyms": [
         "missing",
-        "away"
+        "away",
+        "not present"
       ],
       "antonyms": [
         "present",
-        "available"
+        "available",
+        "attending"
       ],
       "phrases": [
-        "absent",
-        "from",
-        "school",
-        "absent-minded"
+        "absent from",
+        "absent-minded",
+        "absent without leave"
       ]
     },
     {
@@ -437,42 +606,59 @@
       "pos": [
         "adjective"
       ],
-      "conjugations": {
-        "comparative": "absoluteer",
-        "superlative": "absoluteest"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "absolute",
-          "definition": "a. 绝對的, 专制的, 完全的, 独立的, n. 绝對事物"
+          "definition": "adj. 絕對的、完全的、純粹的"
         }
       ],
       "examples": [
         {
-          "en": "There is absolute silence in the room.",
+          "en": "The CEO has absolute authority over all hiring decisions in the company.",
           "highlight": [
             "absolute"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "執行長對公司所有人事任用擁有絕對的權力。"
+          }
+        },
+        {
+          "en": "There was absolute silence in the courtroom when the verdict was read.",
+          "highlight": [
+            "absolute"
+          ],
+          "translations": {
+            "zh-TW": "宣讀判決時，法庭內一片絕對的寂靜。"
+          }
+        },
+        {
+          "en": "The new policy received absolute support from the board of directors.",
+          "highlight": [
+            "absolute"
+          ],
+          "translations": {
+            "zh-TW": "新政策獲得董事會的完全支持。"
           }
         }
       ],
       "synonyms": [
         "complete",
-        "total"
+        "total",
+        "utter"
       ],
       "antonyms": [
         "partial",
-        "relative"
+        "relative",
+        "limited"
       ],
       "phrases": [
-        "absolute",
-        "truth",
-        "absolute",
-        "power"
+        "absolute truth",
+        "absolute power",
+        "absolute silence",
+        "absolute majority"
       ]
     }
   ]
