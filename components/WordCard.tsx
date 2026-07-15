@@ -135,11 +135,6 @@ export function WordCard({ entry, lang, rate, idx, onViewed, showAnswer, onToggl
             {p}
           </span>
         ))}
-        {Object.entries(entry.conjugations).map(([k, v]) => (
-          <span key={k} className="px-2 py-0.5 rounded bg-amber-50 text-amber-800 text-xs">
-            {k.replace(/_/g, ' ')}: <b>{v}</b>
-          </span>
-        ))}
       </div>
 
       {/* 中英文意義切換 */}

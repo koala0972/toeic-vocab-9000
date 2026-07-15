@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 1,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-001-001",
@@ -21,8 +21,8 @@
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "哈囉",
-          "definition": "(interj.) 用於打招呼或引起注意;(n.) 一聲招呼、一句問候"
+          "lang_word": "hello",
+          "definition": "(interj.) 用於打招呼或引起注意；(n.) 一聲招呼、一句問候"
         }
       ],
       "examples": [
@@ -32,7 +32,7 @@
             "Hello"
           ],
           "translations": {
-            "zh-TW": "哈囉,我叫 Lin,很高興認識你。"
+            "zh-TW": "哈嘍，我叫 Lin，很高興認識你。"
           }
         },
         {
@@ -42,6 +42,15 @@
           ],
           "translations": {
             "zh-TW": "她揮手向鄰居們打招呼。"
+          }
+        },
+        {
+          "en": "He exchanged a few hellos before the meeting started.",
+          "highlight": [
+            "hellos"
+          ],
+          "translations": {
+            "zh-TW": "開會前他跟大家寡暙了幾句。"
           }
         }
       ],
@@ -76,8 +85,8 @@
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "再見",
-          "definition": "(interj.) 臨別時的問候;(n.) 告別、辭別"
+          "lang_word": "goodbye",
+          "definition": "(interj.) 臨別時的問候；(n.) 告別、辭別"
         }
       ],
       "examples": [
@@ -97,6 +106,15 @@
           ],
           "translations": {
             "zh-TW": "和老朋友說再見很難。"
+          }
+        },
+        {
+          "en": "She hates goodbyes, so she left without telling anyone.",
+          "highlight": [
+            "goodbyes"
+          ],
+          "translations": {
+            "zh-TW": "她討厭離別，所以沒告訴任何人就走了。"
           }
         }
       ],
@@ -132,18 +150,18 @@
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "是、好的",
-          "definition": "(adv.) 用於肯定回答;(n.) 同意、贊成"
+          "lang_word": "yes",
+          "definition": "(adv.) 用於肯定回答；(n.) 同意、贊成"
         }
       ],
       "examples": [
         {
-          "en": "Yes, I will attend the meeting.",
+          "en": "Yes, I will attend the meeting tomorrow.",
           "highlight": [
             "Yes"
           ],
           "translations": {
-            "zh-TW": "好的,我會出席會議。"
+            "zh-TW": "好的，我明天會出席會議。"
           }
         },
         {
@@ -153,6 +171,15 @@
           ],
           "translations": {
             "zh-TW": "她點頭對提案表示同意。"
+          }
+        },
+        {
+          "en": "The manager counted three yeses and two noes on the ballot.",
+          "highlight": [
+            "yeses"
+          ],
+          "translations": {
+            "zh-TW": "經理數了選票，三票贊成、兩票反對。"
           }
         }
       ],
@@ -188,27 +215,36 @@
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "不、沒有",
-          "definition": "(adv.) 用於否定回答;(n.) 否定、拒絕"
+          "lang_word": "no",
+          "definition": "(adv.) 用於否定回答；(n.) 否定、拒絕"
         }
       ],
       "examples": [
         {
-          "en": "No, I don't want any coffee.",
+          "en": "No, I don't want any coffee, thank you.",
           "highlight": [
             "No"
           ],
           "translations": {
-            "zh-TW": "不用,我不需要咖啡。"
+            "zh-TW": "不用，我不需要咖啡，謝謝。"
           }
         },
         {
-          "en": "She gave a firm no to the offer.",
+          "en": "She gave a firm no to the unreasonable offer.",
           "highlight": [
             "no"
           ],
           "translations": {
-            "zh-TW": "她對那個提議斷然拒絕。"
+            "zh-TW": "她對那個不合理的提議斷然拒絕。"
+          }
+        },
+        {
+          "en": "The proposal was rejected with five noes and zero yeses.",
+          "highlight": [
+            "noes"
+          ],
+          "translations": {
+            "zh-TW": "提案以五票反對、零票贊成被否決。"
           }
         }
       ],
@@ -237,27 +273,28 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "thanked",
+        "plural": "thanks",
+        "present_3rd": "thanks",
+        "past": "thanked",
         "past_participle": "thanked",
-        "present_participle": "thanking",
-        "third_person": "thanks"
+        "ing": "thanking"
       },
       "domain": "gratitude",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "感謝",
-          "definition": "(v.) 對…表達謝意;(n.) 感謝、謝意"
+          "lang_word": "thank",
+          "definition": "(v.) 對…表達謝意；(n.) 感謝、謝意"
         }
       ],
       "examples": [
         {
-          "en": "I want to thank you for all your help.",
+          "en": "I want to thank you for all your help with the project.",
           "highlight": [
             "thank"
           ],
           "translations": {
-            "zh-TW": "我想謝謝你所有的幫忙。"
+            "zh-TW": "我想感謝你對這個專案的所有幫忙。"
           }
         },
         {
@@ -267,6 +304,15 @@
           ],
           "translations": {
             "zh-TW": "她因為優秀的服務向服務生致謝。"
+          }
+        },
+        {
+          "en": "He is always thanking his team members for their hard work.",
+          "highlight": [
+            "thanking"
+          ],
+          "translations": {
+            "zh-TW": "他總是感謝團隊成員的努力付出。"
           }
         }
       ],
@@ -292,36 +338,45 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "pleased",
+        "present_3rd": "pleases",
+        "past": "pleased",
         "past_participle": "pleased",
-        "present_participle": "pleasing",
-        "third_person": "pleases"
+        "ing": "pleasing"
       },
       "domain": "polite_form",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "請",
-          "definition": "(adv.) 用於禮貌請求;(v.) 使高興、合…心意"
+          "lang_word": "please",
+          "definition": "(adv.) 用於禮貌請求；(v.) 使高興、合…心意"
         }
       ],
       "examples": [
         {
-          "en": "Could you help me, please?",
+          "en": "Could you help me with this report, please?",
           "highlight": [
             "please"
           ],
           "translations": {
-            "zh-TW": "請問你能幫我嗎?"
+            "zh-TW": "請問你能幫我處理這份報告嗎？"
           }
         },
         {
-          "en": "The gift pleased her very much.",
+          "en": "The new policy pleased most of the employees.",
           "highlight": [
             "pleased"
           ],
           "translations": {
-            "zh-TW": "那份禮物讓她非常高興。"
+            "zh-TW": "新政策讓大多數員工感到滿意。"
+          }
+        },
+        {
+          "en": "The results of the survey were very pleasing to the management.",
+          "highlight": [
+            "pleasing"
+          ],
+          "translations": {
+            "zh-TW": "問卷結果讓管理階層非常滿意。"
           }
         }
       ],
@@ -352,8 +407,8 @@
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "抱歉的、難過的",
-          "definition": "(adj.) 感到抱歉或難過(常用 I'm sorry 表達歉意)"
+          "lang_word": "sorry",
+          "definition": "(adj.) 感到抱歉或難過（常用 I'm sorry 表達歉意）"
         }
       ],
       "examples": [
@@ -363,16 +418,25 @@
             "sorry"
           ],
           "translations": {
-            "zh-TW": "抱歉,會議我遲到了。"
+            "zh-TW": "抱歉，會議我遲到了。"
           }
         },
         {
-          "en": "She felt sorry for the injured puppy.",
+          "en": "She felt sorry for the injured puppy on the street.",
           "highlight": [
             "sorry"
           ],
           "translations": {
-            "zh-TW": "她對受傷的小狗感到心疼。"
+            "zh-TW": "她對街上受傷的小狗感到心疼。"
+          }
+        },
+        {
+          "en": "He was sorrier than anyone about the cancellation of the event.",
+          "highlight": [
+            "sorrier"
+          ],
+          "translations": {
+            "zh-TW": "活動取消一事，他比任何人都更感到遺憾。"
           }
         }
       ],
@@ -401,18 +465,18 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "excused",
+        "plural": "excuses",
+        "present_3rd": "excuses",
+        "past": "excused",
         "past_participle": "excused",
-        "present_participle": "excusing",
-        "third_person": "excuses",
-        "plural": "excuses"
+        "ing": "excusing"
       },
       "domain": "polite_form",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "原諒、藉口",
-          "definition": "(v.) 為…辯解、請求原諒;(n.) 借口、理由"
+          "lang_word": "excuse",
+          "definition": "(v.) 為…辯解、請求原諒；(n.) 借口、理由"
         }
       ],
       "examples": [
@@ -426,12 +490,21 @@
           }
         },
         {
-          "en": "She made an excuse for missing class.",
+          "en": "She made an excuse for missing the training session.",
           "highlight": [
             "excuse"
           ],
           "translations": {
-            "zh-TW": "她為缺課找了一個理由。"
+            "zh-TW": "她為缺席培訓找了一個理由。"
+          }
+        },
+        {
+          "en": "He was always excusing himself for being late, so the boss fired him.",
+          "highlight": [
+            "excusing"
+          ],
+          "translations": {
+            "zh-TW": "他總是為遲到找藉口，於是被老闆開除了。"
           }
         }
       ],
@@ -467,13 +540,13 @@
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "好的",
-          "definition": "(adj.) 良好、令人滿意的;(n.) 善行、好事"
+          "lang_word": "good",
+          "definition": "(adj.) 良好、令人滿意的；(n.) 善行、好事、商品"
         }
       ],
       "examples": [
         {
-          "en": "She is a good student who studies hard.",
+          "en": "She is a good student who always studies hard.",
           "highlight": [
             "good"
           ],
@@ -482,12 +555,21 @@
           }
         },
         {
-          "en": "Exercise is good for your health.",
+          "en": "The new model is better than the old one in every way.",
           "highlight": [
-            "good"
+            "better"
           ],
           "translations": {
-            "zh-TW": "運動對健康有益。"
+            "zh-TW": "新款比舊款在各個方面都更好。"
+          }
+        },
+        {
+          "en": "This is the best presentation I have seen all year.",
+          "highlight": [
+            "best"
+          ],
+          "translations": {
+            "zh-TW": "這是我今年看過最好的簡報。"
           }
         }
       ],
@@ -502,7 +584,8 @@
       ],
       "phrases": [
         "good morning",
-        "good night"
+        "good job",
+        "for good"
       ]
     },
     {
@@ -511,52 +594,63 @@
       "tier": "basic",
       "cefr": "A1",
       "toeic_score_min": 200,
-      "word": "morning",
+      "word": "ok",
       "pos": [
+        "adjective",
+        "adverb",
         "noun"
       ],
       "conjugations": {
-        "plural": "mornings"
+        "plural": "oks"
       },
-      "domain": "daily_greeting",
+      "domain": "basic_response",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "早晨、上午",
-          "definition": "(n.) 從日出到中午的時段"
+          "lang_word": "ok",
+          "definition": "(adj./adv.) 可以的、沒問題；(n.) 同意、批准"
         }
       ],
       "examples": [
         {
-          "en": "Good morning, everyone! Let's start the day.",
+          "en": "Is it ok if I leave work early today?",
           "highlight": [
-            "morning"
+            "ok"
           ],
           "translations": {
-            "zh-TW": "早安,大家!讓我們開始新的一天。"
+            "zh-TW": "我今天提早下班可以嗎？"
           }
         },
         {
-          "en": "She wakes up early every morning.",
+          "en": "The boss gave the ok for the new marketing plan.",
           "highlight": [
-            "morning"
+            "ok"
           ],
           "translations": {
-            "zh-TW": "她每天清早起來。"
+            "zh-TW": "老闆批准了新的行銷計畫。"
+          }
+        },
+        {
+          "en": "Everything is ok with the new system, so we can launch tomorrow.",
+          "highlight": [
+            "ok"
+          ],
+          "translations": {
+            "zh-TW": "新系統一切正常，我們明天可以上線。"
           }
         }
       ],
       "synonyms": [
-        "dawn",
-        "daybreak"
+        "fine",
+        "alright",
+        "acceptable"
       ],
       "antonyms": [
-        "evening",
-        "night"
+        "unacceptable"
       ],
       "phrases": [
-        "good morning",
-        "early morning"
+        "ok then",
+        "ok to go"
       ]
     }
   ]
