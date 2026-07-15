@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 18,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-018-001",
@@ -21,33 +21,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "ambulance",
-          "definition": "n. 救护車, [医] 救护車"
+          "definition": "(n.) 救護車、急救車（用於運送傷病患的專用車輛）"
         }
       ],
       "examples": [
         {
-          "en": "The ambulance arrived quickly.",
+          "en": "The ambulance arrived at the scene within ten minutes of the emergency call.",
           "highlight": [
             "ambulance"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "救護車在報案後十分鐘內抵達了事故現場。"
+          }
+        },
+        {
+          "en": "Several ambulances were lined up outside the hospital during the accident.",
+          "highlight": [
+            "ambulances"
+          ],
+          "translations": {
+            "zh-TW": "那場事故發生時，好幾輛救護車在醫院外面排成一列。"
+          }
+        },
+        {
+          "en": "When someone collapsed in the office, the receptionist immediately called an ambulance.",
+          "highlight": [
+            "ambulance"
+          ],
+          "translations": {
+            "zh-TW": "當有人在辦公室暈倒時，櫃台人員立刻叫了救護車。"
           }
         }
       ],
       "synonyms": [
-        "emergency",
-        "vehicle",
-        "medical",
-        "vehicle"
+        "emergency vehicle",
+        "rescue vehicle"
       ],
       "antonyms": [],
       "phrases": [
-        "call",
-        "an",
-        "ambulance",
-        "need",
-        "an"
+        "call an ambulance",
+        "ambulance service",
+        "by ambulance",
+        "ambulance driver"
       ]
     },
     {
@@ -66,34 +81,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "among",
-          "definition": "prep. 在...之中"
+          "definition": "(prep.) 在…之中、在…之間（表示處於一群人或事物之中）"
         }
       ],
       "examples": [
         {
-          "en": "There was a big tree among the houses.",
+          "en": "She distributed the documents among the members of the committee.",
           "highlight": [
             "among"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她把文件分發給委員會的成員們。"
+          }
+        },
+        {
+          "en": "The new policy was very popular among employees across all departments.",
+          "highlight": [
+            "among"
+          ],
+          "translations": {
+            "zh-TW": "這項新政策在所有部門的員工之中非常受歡迎。"
+          }
+        },
+        {
+          "en": "Among the candidates interviewed today, three were selected for the final round.",
+          "highlight": [
+            "Among"
+          ],
+          "translations": {
+            "zh-TW": "今天面試的候選人之中，有三位被選入了決選。"
           }
         }
       ],
       "synonyms": [
         "amid",
-        "amidst"
+        "amidst",
+        "between"
       ],
       "antonyms": [
         "outside",
-        "separate"
+        "beyond"
       ],
       "phrases": [
-        "among",
-        "friends",
-        "among",
-        "the",
-        "best"
+        "among others",
+        "among the best",
+        "among friends",
+        "among themselves"
       ]
     },
     {
@@ -104,40 +137,64 @@
       "toeic_score_min": 200,
       "word": "amount",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "amounts"
+        "plural": "amounts",
+        "present_3rd": "amounts",
+        "past": "amounted",
+        "past_participle": "amounted",
+        "ing": "amounting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "amount",
-          "definition": "n. 总数, 总额, vi. 总计, 等同"
+          "definition": "(n.) 數量、總額；(v.) 總計、等同於"
         }
       ],
       "examples": [
         {
-          "en": "The amount of water needed is 2 liters.",
+          "en": "The amount of the invoice is higher than what we expected.",
           "highlight": [
             "amount"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這張發票的金額比我們預期的還要高。"
+          }
+        },
+        {
+          "en": "Large amounts of data were collected during the market research campaign.",
+          "highlight": [
+            "amounts"
+          ],
+          "translations": {
+            "zh-TW": "在這次市場調查活動中收集到了大量的資料。"
+          }
+        },
+        {
+          "en": "His monthly expenses amounted to more than half of his salary.",
+          "highlight": [
+            "amounted"
+          ],
+          "translations": {
+            "zh-TW": "他每個月的開銷總計超過了薪水的一半。"
           }
         }
       ],
       "synonyms": [
         "quantity",
-        "sum"
+        "sum",
+        "total"
       ],
       "antonyms": [],
       "phrases": [
-        "large",
-        "amount",
-        "small",
-        "amount"
+        "a large amount of",
+        "a small amount of",
+        "amount to",
+        "total amount"
       ]
     },
     {
@@ -151,44 +208,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "amuseed",
-        "past_participle": "amuseed",
-        "present_participle": "amusing",
-        "third_person": "amuses"
+        "present_3rd": "amuses",
+        "past": "amused",
+        "past_participle": "amused",
+        "ing": "amusing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "amuse",
-          "definition": "vt. 消遣, 娱乐, 使發笑"
+          "definition": "(v.) 娛樂、逗樂、使…覺得有趣"
         }
       ],
       "examples": [
         {
-          "en": "The clown amused the children.",
+          "en": "Her funny stories always amuse the children at the daycare center.",
           "highlight": [
             "amuse"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她有趣的故事總是能把托兒所的孩子們逗得哈哈大笑。"
+          }
+        },
+        {
+          "en": "The street performer amused the crowd with his magic tricks.",
+          "highlight": [
+            "amused"
+          ],
+          "translations": {
+            "zh-TW": "街頭藝人用魔術戲法把圍觀的人群逗得樂不可支。"
+          }
+        },
+        {
+          "en": "He spent the long flight amusing himself by reading comic books.",
+          "highlight": [
+            "amusing"
+          ],
+          "translations": {
+            "zh-TW": "他在長途飛行中靠看漫畫書來打發時間。"
           }
         }
       ],
       "synonyms": [
         "entertain",
-        "delight"
+        "delight",
+        "divert"
       ],
       "antonyms": [
         "bore",
         "tire"
       ],
       "phrases": [
-        "amuse",
-        "the",
-        "crowd",
-        "amuse",
-        "greatly"
+        "amuse oneself",
+        "amuse the audience",
+        "amuse the children",
+        "highly amused"
       ]
     },
     {
@@ -202,41 +277,60 @@
         "adjective"
       ],
       "conjugations": {
-        "comparative": "amuseder",
-        "superlative": "amusedest"
+        "comparative": "more amused",
+        "superlative": "most amused"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "amused",
-          "definition": "a. 愉快的, 被逗乐的"
+          "definition": "(adj.) 覺得有趣的、被逗樂的、感到好笑的"
         }
       ],
       "examples": [
         {
-          "en": "She was amused by his jokes.",
+          "en": "The manager looked amused when the intern made a joke during the meeting.",
           "highlight": [
             "amused"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "當實習生在會議上開了個玩笑時，經理看起來覺得很有趣。"
+          }
+        },
+        {
+          "en": "She was more amused than offended by his playful comments.",
+          "highlight": [
+            "more amused"
+          ],
+          "translations": {
+            "zh-TW": "對他開玩笑的言辭她不僅沒生氣，反而覺得更好笑。"
+          }
+        },
+        {
+          "en": "The audience seemed most amused by the magician's surprising finale.",
+          "highlight": [
+            "most amused"
+          ],
+          "translations": {
+            "zh-TW": "觀眾對魔術師令人驚喜的壓軸表演似乎最感有趣。"
           }
         }
       ],
       "synonyms": [
         "entertained",
-        "delighted"
+        "delighted",
+        "tickled"
       ],
       "antonyms": [
         "bored",
         "uninterested"
       ],
       "phrases": [
-        "be",
-        "amused",
-        "look",
-        "amused"
+        "be amused by",
+        "look amused",
+        "highly amused",
+        "quietly amused"
       ]
     },
     {
@@ -250,41 +344,61 @@
         "adjective"
       ],
       "conjugations": {
-        "comparative": "amusinger",
-        "superlative": "amusingest"
+        "comparative": "more amusing",
+        "superlative": "most amusing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "amusing",
-          "definition": "a. 有趣的, 引人發笑的"
+          "definition": "(adj.) 有趣的、引人發笑的、好笑的"
         }
       ],
       "examples": [
         {
-          "en": "The movie was very amusing.",
+          "en": "The speaker shared an amusing story about his first day at work.",
           "highlight": [
             "amusing"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "演講者分享了他上班第一天一個有趣的故事。"
+          }
+        },
+        {
+          "en": "I found the second half of the play more amusing than the opening scene.",
+          "highlight": [
+            "more amusing"
+          ],
+          "translations": {
+            "zh-TW": "我覺得這齣戲的下半場比開頭那一幕更有趣。"
+          }
+        },
+        {
+          "en": "That was the most amusing presentation I have ever seen at a conference.",
+          "highlight": [
+            "most amusing"
+          ],
+          "translations": {
+            "zh-TW": "那是我在研討會上看過最有趣的一場報告。"
           }
         }
       ],
       "synonyms": [
         "funny",
-        "entertaining"
+        "entertaining",
+        "comical"
       ],
       "antonyms": [
         "boring",
-        "dull"
+        "dull",
+        "tedious"
       ],
       "phrases": [
-        "amusing",
-        "story",
-        "amusing",
-        "incident"
+        "amusing story",
+        "amusing anecdote",
+        "highly amusing",
+        "amusing incident"
       ]
     },
     {
@@ -298,43 +412,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "analyseed",
-        "past_participle": "analyseed",
-        "present_participle": "analysing",
-        "third_person": "analyses"
+        "present_3rd": "analyses",
+        "past": "analysed",
+        "past_participle": "analysed",
+        "ing": "analysing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "analyse",
-          "definition": "vt. 分析, 细察, 分解, [經] 分析"
+          "definition": "(v.) 分析、細察、分解（英式拼法，美式為 analyze）"
         }
       ],
       "examples": [
         {
-          "en": "They analyzed the data.",
+          "en": "The research team will analyse the survey results next week.",
           "highlight": [
             "analyse"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "研究團隊下週將分析問卷調查的結果。"
+          }
+        },
+        {
+          "en": "She analysed the financial reports carefully before presenting them to the board.",
+          "highlight": [
+            "analysed"
+          ],
+          "translations": {
+            "zh-TW": "她在向董事會報告前，仔細地分析了財務報表。"
+          }
+        },
+        {
+          "en": "The scientists are analysing samples from the river to check for pollution.",
+          "highlight": [
+            "analysing"
+          ],
+          "translations": {
+            "zh-TW": "科學家們正在分析河水的樣本，以檢測是否受到污染。"
           }
         }
       ],
       "synonyms": [
         "examine",
-        "study"
+        "study",
+        "investigate"
       ],
       "antonyms": [
         "ignore",
         "overlook"
       ],
       "phrases": [
-        "analyse",
-        "data",
-        "analyse",
-        "thoroughly"
+        "analyse data",
+        "analyse thoroughly",
+        "analyse the results",
+        "carefully analyse"
       ]
     },
     {
@@ -348,37 +481,56 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "analysises"
+        "plural": "analyses"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "analysis",
-          "definition": "n. 分析, [计] 分析机; 分析員; 分析; 分析程序"
+          "definition": "(n.) 分析、解析（複數為 analyses）"
         }
       ],
       "examples": [
         {
-          "en": "The analysis revealed some interesting facts.",
+          "en": "The analysis revealed a sharp decline in sales during the third quarter.",
           "highlight": [
             "analysis"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這份分析顯示第三季的銷售額大幅下滑。"
+          }
+        },
+        {
+          "en": "Several analyses were conducted to determine the cause of the system failure.",
+          "highlight": [
+            "analyses"
+          ],
+          "translations": {
+            "zh-TW": "為了找出系統故障的原因，先後進行了幾次分析。"
+          }
+        },
+        {
+          "en": "After careful analysis, the committee decided to postpone the product launch.",
+          "highlight": [
+            "analysis"
+          ],
+          "translations": {
+            "zh-TW": "經過仔細分析後，委員會決定延後產品發表的時間。"
           }
         }
       ],
       "synonyms": [
         "examination",
-        "study"
+        "study",
+        "investigation"
       ],
       "antonyms": [],
       "phrases": [
-        "detailed",
-        "analysis",
-        "in-depth",
-        "analysis"
+        "detailed analysis",
+        "in-depth analysis",
+        "cost analysis",
+        "data analysis"
       ]
     },
     {
@@ -392,41 +544,61 @@
         "adjective"
       ],
       "conjugations": {
-        "comparative": "ancienter",
-        "superlative": "ancientest"
+        "comparative": "more ancient",
+        "superlative": "most ancient"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "ancient",
-          "definition": "a. 古代的, 古老的, 年老的, 旧的"
+          "definition": "(adj.) 古代的、古老的、歷史悠久的"
         }
       ],
       "examples": [
         {
-          "en": "They found ancient artifacts.",
+          "en": "The museum displays ancient artifacts from Egypt and Greece.",
           "highlight": [
             "ancient"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這座博物館展出來自埃及和希臘的古代文物。"
+          }
+        },
+        {
+          "en": "Some scholars consider this temple more ancient than the nearby ruins.",
+          "highlight": [
+            "more ancient"
+          ],
+          "translations": {
+            "zh-TW": "有些學者認為這座寺廟比附近的遺跡更為古老。"
+          }
+        },
+        {
+          "en": "The Great Wall is among the most ancient landmarks still standing today.",
+          "highlight": [
+            "most ancient"
+          ],
+          "translations": {
+            "zh-TW": "萬里長城是目前仍然屹立的最古老地標之一。"
           }
         }
       ],
       "synonyms": [
         "old",
-        "historic"
+        "historic",
+        "antique"
       ],
       "antonyms": [
         "modern",
-        "new"
+        "new",
+        "recent"
       ],
       "phrases": [
-        "ancient",
-        "history",
-        "ancient",
-        "ruins"
+        "ancient history",
+        "ancient ruins",
+        "ancient civilization",
+        "ancient times"
       ]
     },
     {
@@ -445,32 +617,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "and",
-          "definition": "conj. 和, 與, [计] 與"
+          "definition": "(conj.) 和、與、以及（用於連接詞語或句子）"
         }
       ],
       "examples": [
         {
-          "en": "She likes tea and coffee.",
+          "en": "Please send the report and the invoice to the accounting department.",
           "highlight": [
             "and"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請把報告和發票寄到會計部門。"
+          }
+        },
+        {
+          "en": "She speaks English and French fluently, which helps her in international business.",
+          "highlight": [
+            "and"
+          ],
+          "translations": {
+            "zh-TW": "她流利地說英語和法語，這在國際商務上對她很有幫助。"
+          }
+        },
+        {
+          "en": "The store is open from nine to five, and delivery is available on weekends.",
+          "highlight": [
+            "and"
+          ],
+          "translations": {
+            "zh-TW": "這家店從九點營業到五點，週末也提供外送服務。"
           }
         }
       ],
       "synonyms": [
         "plus",
-        "together",
-        "with"
+        "along with",
+        "as well as"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "or",
+        "but"
+      ],
       "phrases": [
-        "and",
-        "so",
-        "on",
-        "and",
-        "then"
+        "and so on",
+        "and so forth",
+        "back and forth",
+        "up and down"
       ]
     }
   ]
