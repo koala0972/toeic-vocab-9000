@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 19,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-019-001",
@@ -11,43 +11,67 @@
       "toeic_score_min": 200,
       "word": "anger",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "angers"
+        "plural": "angers",
+        "present_3rd": "angers",
+        "past": "angered",
+        "past_participle": "angered",
+        "ing": "angering"
       },
-      "domain": "general",
+      "domain": "emotion",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "anger",
-          "definition": "n. 忿怒, vt. 激怒, 使發怒, vi. 發怒"
+          "definition": "n. 憤怒、怒氣  v. 激怒、使發怒"
         }
       ],
       "examples": [
         {
-          "en": "He couldn't control his anger.",
+          "en": "The customer expressed his anger over the billing error to the manager.",
           "highlight": [
             "anger"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "顧客向經理表達了對帳單錯誤的憤怒。"
+          }
+        },
+        {
+          "en": "The sudden increase in fees angered many loyal subscribers.",
+          "highlight": [
+            "angered"
+          ],
+          "translations": {
+            "zh-TW": "費用的突然上漲激怒了許多忠實訂戶。"
+          }
+        },
+        {
+          "en": "His angering remarks during the meeting upset the entire team.",
+          "highlight": [
+            "angering"
+          ],
+          "translations": {
+            "zh-TW": "他在會議中激怒人的言論讓整個團隊都感到不悅。"
           }
         }
       ],
       "synonyms": [
         "rage",
-        "fury"
+        "fury",
+        "wrath"
       ],
       "antonyms": [
         "calm",
-        "peace"
+        "patience"
       ],
       "phrases": [
-        "feel",
-        "anger",
-        "express",
-        "anger"
+        "express anger",
+        "control anger",
+        "anger management",
+        "in anger"
       ]
     },
     {
@@ -58,40 +82,64 @@
       "toeic_score_min": 200,
       "word": "angle",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "angles"
+        "plural": "angles",
+        "present_3rd": "angles",
+        "past": "angled",
+        "past_participle": "angled",
+        "ing": "angling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "angle",
-          "definition": "n. 角, 角度, 角落, vi. 钓鱼, 谋取, 博取, 斜向移動, 转变角度, vt. 使转動角度, 在...钓鱼, 获取"
+          "definition": "n. 角度、觀點  v. 釣魚、謀取"
         }
       ],
       "examples": [
         {
-          "en": "The angles of the triangle add up to 180 degrees.",
+          "en": "The photographer adjusted the camera to capture the building from a new angle.",
           "highlight": [
             "angle"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "攝影師調整相機，從新的角度拍攝這棟建築。"
+          }
+        },
+        {
+          "en": "The two lines meet at right angles to form a perfect square corner.",
+          "highlight": [
+            "angles"
+          ],
+          "translations": {
+            "zh-TW": "兩條線以直角相交，形成一個完美的方形角落。"
+          }
+        },
+        {
+          "en": "She angled for an invitation to the conference by mentioning her recent project.",
+          "highlight": [
+            "angled"
+          ],
+          "translations": {
+            "zh-TW": "她藉由提及最近的專案來設法謀取那場研討會的邀請。"
           }
         }
       ],
       "synonyms": [
-        "inclination",
+        "perspective",
+        "viewpoint",
         "slant"
       ],
       "antonyms": [],
       "phrases": [
-        "acute",
-        "angle",
-        "right",
-        "angle"
+        "right angle",
+        "acute angle",
+        "from a new angle",
+        "angle for"
       ]
     },
     {
@@ -105,38 +153,56 @@
         "adverb"
       ],
       "conjugations": {},
-      "domain": "general",
+      "domain": "emotion",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "angrily",
-          "definition": "adv. 愤怒地"
+          "definition": "adv. 憤怒地、生氣地"
         }
       ],
       "examples": [
         {
-          "en": "She shouted angrily.",
+          "en": "The client angrily demanded a refund for the damaged product.",
           "highlight": [
             "angrily"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "客戶憤怒地要求退還損壞商品的款項。"
+          }
+        },
+        {
+          "en": "She stormed out of the office, slamming the door angrily behind her.",
+          "highlight": [
+            "angrily"
+          ],
+          "translations": {
+            "zh-TW": "她衝出辦公室，在身後憤怒地甩上門。"
+          }
+        },
+        {
+          "en": "The manager responded angrily to the customer's complaint about slow service.",
+          "highlight": [
+            "angrily"
+          ],
+          "translations": {
+            "zh-TW": "經理對顧客抱怨服務太慢做出了憤怒的回應。"
           }
         }
       ],
       "synonyms": [
         "furiously",
-        "irritably"
+        "madly",
+        "irately"
       ],
       "antonyms": [
         "calmly",
         "gently"
       ],
       "phrases": [
-        "speak",
-        "angrily",
-        "react",
-        "angrily"
+        "speak angrily",
+        "react angrily",
+        "leave angrily"
       ]
     },
     {
@@ -153,38 +219,58 @@
         "comparative": "angrier",
         "superlative": "angriest"
       },
-      "domain": "general",
+      "domain": "emotion",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "angry",
-          "definition": "a. 生气的, 愤怒的"
+          "definition": "adj. 生氣的、憤怒的"
         }
       ],
       "examples": [
         {
-          "en": "He was angry about the delay.",
+          "en": "The manager was angry about the missed deadline and called an urgent meeting.",
           "highlight": [
             "angry"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理對錯過截止日期感到生氣，並召開了緊急會議。"
+          }
+        },
+        {
+          "en": "She grew angrier with each passing minute as the delivery failed to arrive.",
+          "highlight": [
+            "angrier"
+          ],
+          "translations": {
+            "zh-TW": "隨著時間一分一秒過去而貨物仍未送達，她越來越生氣。"
+          }
+        },
+        {
+          "en": "It was the angriest crowd the stadium staff had ever seen during a match.",
+          "highlight": [
+            "angriest"
+          ],
+          "translations": {
+            "zh-TW": "那是球場工作人員在比賽中見過最憤怒的群眾。"
           }
         }
       ],
       "synonyms": [
         "mad",
-        "furious"
+        "furious",
+        "irritated"
       ],
       "antonyms": [
         "calm",
-        "happy"
+        "happy",
+        "pleased"
       ],
       "phrases": [
-        "angry",
-        "with",
-        "angry",
-        "about"
+        "angry with",
+        "angry about",
+        "get angry",
+        "angry customer"
       ]
     },
     {
@@ -195,7 +281,8 @@
       "toeic_score_min": 200,
       "word": "animal",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "animals"
@@ -205,30 +292,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "animal",
-          "definition": "n. 動物, [医] 動物"
+          "definition": "n. 動物  adj. 動物的"
         }
       ],
       "examples": [
         {
-          "en": "The zoo has many animals.",
+          "en": "The zoo prohibits visitors from feeding any animal along the paths.",
           "highlight": [
             "animal"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "動物園禁止遊客沿路餵食任何動物。"
+          }
+        },
+        {
+          "en": "Strict regulations govern the transport of farm animals across borders.",
+          "highlight": [
+            "animals"
+          ],
+          "translations": {
+            "zh-TW": "嚴格的法規規範了農場動物跨境運輸的流程。"
+          }
+        },
+        {
+          "en": "These animal instincts help guide the birds through their seasonal migration.",
+          "highlight": [
+            "animal"
+          ],
+          "translations": {
+            "zh-TW": "這些動物本能幫助鳥類完成季節性遷徙。"
           }
         }
       ],
       "synonyms": [
         "creature",
-        "beast"
+        "beast",
+        "organism"
       ],
       "antonyms": [],
       "phrases": [
-        "wild",
-        "animal",
-        "domestic",
-        "animal"
+        "wild animal",
+        "domestic animal",
+        "animal welfare",
+        "animal instinct"
       ]
     },
     {
@@ -244,22 +350,40 @@
       "conjugations": {
         "plural": "ankles"
       },
-      "domain": "general",
+      "domain": "health",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "ankle",
-          "definition": "n. 踝, [医] 踝, 踝關节"
+          "definition": "n. 踝、腳踝"
         }
       ],
       "examples": [
         {
-          "en": "She twisted her ankle.",
+          "en": "The doctor examined her swollen ankle and ordered an MRI scan.",
           "highlight": [
             "ankle"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "醫生檢查了她腫脹的腳踝並安排了磁振造影掃描。"
+          }
+        },
+        {
+          "en": "He injured both ankles during the intense football match on Sunday.",
+          "highlight": [
+            "ankles"
+          ],
+          "translations": {
+            "zh-TW": "他在週日激烈的足球比賽中傷到了兩邊腳踝。"
+          }
+        },
+        {
+          "en": "Strong ankle support is essential for players on this court surface.",
+          "highlight": [
+            "ankle"
+          ],
+          "translations": {
+            "zh-TW": "在這種場地上，強健的腳踝支撐對球員來說是不可或缺的。"
           }
         }
       ],
@@ -269,11 +393,10 @@
       ],
       "antonyms": [],
       "phrases": [
-        "sprain",
-        "an",
-        "ankle",
-        "ankle",
-        "injury"
+        "sprained ankle",
+        "ankle injury",
+        "break an ankle",
+        "ankle support"
       ]
     },
     {
@@ -289,35 +412,54 @@
       "conjugations": {
         "plural": "anniversaries"
       },
-      "domain": "general",
+      "domain": "event",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "anniversary",
-          "definition": "n. 周年纪念"
+          "definition": "n. 週年紀念、週年紀念日"
         }
       ],
       "examples": [
         {
-          "en": "Today is their wedding anniversary.",
+          "en": "The company sent flowers to celebrate its founder's anniversary dinner.",
           "highlight": [
             "anniversary"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司送花慶祝創辦人的週年晚宴。"
+          }
+        },
+        {
+          "en": "Several anniversaries were observed with ceremonial plaques at the museum.",
+          "highlight": [
+            "anniversaries"
+          ],
+          "translations": {
+            "zh-TW": "博物館以紀念牌的方式紀念了幾個週年紀念日。"
+          }
+        },
+        {
+          "en": "Special corporate discounts mark every anniversary of the store's founding.",
+          "highlight": [
+            "anniversary"
+          ],
+          "translations": {
+            "zh-TW": "特別的企業優惠標誌著這家店成立的每一個週年紀念。"
           }
         }
       ],
       "synonyms": [
         "celebration",
-        "commemoration"
+        "commemoration",
+        "milestone"
       ],
       "antonyms": [],
       "phrases": [
-        "celebrate",
-        "anniversary",
-        "anniversary",
-        "gift"
+        "wedding anniversary",
+        "anniversary gift",
+        "celebrate an anniversary",
+        "anniversary dinner"
       ]
     },
     {
@@ -331,43 +473,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "announceed",
-        "past_participle": "announceed",
-        "present_participle": "announcing",
-        "third_person": "announces"
+        "present_3rd": "announces",
+        "past": "announced",
+        "past_participle": "announced",
+        "ing": "announcing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "announce",
-          "definition": "vt. 宣布, 声称, 顯示, 预告, vi. 当报幕員, 宣布参加竞选"
+          "definition": "v. 宣布、宣告、公布"
         }
       ],
       "examples": [
         {
-          "en": "They announced their engagement.",
+          "en": "Every morning the pilot announces the expected arrival time over the speaker.",
           "highlight": [
-            "announce"
+            "announces"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "每天早上機長都會透過廣播宣布預計抵達時間。"
+          }
+        },
+        {
+          "en": "The board announced new safety measures following last month's incident.",
+          "highlight": [
+            "announced"
+          ],
+          "translations": {
+            "zh-TW": "在上個月的事件之後，董事會宣布了新的安全措施。"
+          }
+        },
+        {
+          "en": "Announcing the merger too early caused unnecessary market speculation.",
+          "highlight": [
+            "announcing"
+          ],
+          "translations": {
+            "zh-TW": "太早宣布合併案引發了不必要的市場猜測。"
           }
         }
       ],
       "synonyms": [
         "declare",
-        "proclaim"
+        "proclaim",
+        "publish"
       ],
       "antonyms": [
         "conceal",
-        "hide"
+        "hide",
+        "suppress"
       ],
       "phrases": [
-        "announce",
-        "officially",
-        "announce",
-        "plans"
+        "announce officially",
+        "announce plans",
+        "announce results",
+        "announce a decision"
       ]
     },
     {
@@ -381,43 +543,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "annoyed",
+        "present_3rd": "annoys",
+        "past": "annoyed",
         "past_participle": "annoyed",
-        "present_participle": "annoying",
-        "third_person": "annoys"
+        "ing": "annoying"
       },
-      "domain": "general",
+      "domain": "emotion",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "annoy",
-          "definition": "vt. 使恼怒, 骚扰"
+          "definition": "v. 惱怒、打擾、使煩躁"
         }
       ],
       "examples": [
         {
-          "en": "His comments annoyed her.",
+          "en": "The loud construction noise nearby repeatedly annoys the office staff.",
           "highlight": [
-            "annoy"
+            "annoys"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "附近大聲的施工噪音不斷地打擾辦公室員工。"
+          }
+        },
+        {
+          "en": "Constant pop-up ads annoyed many users and led to the new ad-blocking feature.",
+          "highlight": [
+            "annoyed"
+          ],
+          "translations": {
+            "zh-TW": "持續不斷的彈出廣告惱怒了許多使用者，並催生了新的廣告封鎖功能。"
+          }
+        },
+        {
+          "en": "Annoying the customer with repeated emails will only damage your brand.",
+          "highlight": [
+            "annoying"
+          ],
+          "translations": {
+            "zh-TW": "用重複的電子郵件打擾顧客只會損害你的品牌。"
           }
         }
       ],
       "synonyms": [
         "irritate",
-        "vex"
+        "vex",
+        "bother"
       ],
       "antonyms": [
         "delight",
-        "please"
+        "please",
+        "soothe"
       ],
       "phrases": [
-        "annoy",
-        "greatly",
-        "annoy",
-        "slightly"
+        "annoy greatly",
+        "annoy slightly",
+        "get annoyed",
+        "annoying habit"
       ]
     },
     {
@@ -431,41 +613,61 @@
         "adjective"
       ],
       "conjugations": {
-        "comparative": "annoyeder",
-        "superlative": "annoyedest"
+        "comparative": "more annoyed",
+        "superlative": "most annoyed"
       },
-      "domain": "general",
+      "domain": "emotion",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "annoyed",
-          "definition": "a. 恼怒的；烦闷的"
+          "definition": "adj. 惱怒的、煩躁的"
         }
       ],
       "examples": [
         {
-          "en": "She was annoyed by the noise.",
+          "en": "She felt annoyed when the waiter ignored her request for extra napkins.",
           "highlight": [
             "annoyed"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "當服務生無視她多要餐巾紙的要求時，她感到惱怒。"
+          }
+        },
+        {
+          "en": "He became more annoyed after waiting over an hour for the delayed train.",
+          "highlight": [
+            "more annoyed"
+          ],
+          "translations": {
+            "zh-TW": "在等候誤點的火車超過一小時後，他變得更煩躁了。"
+          }
+        },
+        {
+          "en": "The manager was the most annoyed she had ever seen during the dispute.",
+          "highlight": [
+            "most annoyed"
+          ],
+          "translations": {
+            "zh-TW": "在這場爭執中，她見過經理最惱怒的一次。"
           }
         }
       ],
       "synonyms": [
         "irritated",
-        "vexed"
+        "vexed",
+        "bothered"
       ],
       "antonyms": [
         "pleased",
-        "content"
+        "content",
+        "delighted"
       ],
       "phrases": [
-        "feel",
-        "annoyed",
-        "look",
-        "annoyed"
+        "feel annoyed",
+        "look annoyed",
+        "get annoyed",
+        "annoyed with"
       ]
     }
   ]
