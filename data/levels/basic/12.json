@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 12,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-012-001",
@@ -15,41 +15,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "adverted",
+        "plural": "adverts",
+        "present_3rd": "adverts",
+        "past": "adverted",
         "past_participle": "adverted",
-        "present_participle": "adverting",
-        "third_person": "adverts"
+        "ing": "advertising"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "advert",
-          "definition": "vi. 提出看法, 引起注意, 留意, n. 广告"
+          "definition": "n. 廣告（英式用法）  v. 注意、提及、談及"
         }
       ],
       "examples": [
         {
-          "en": "She saw an advert for a new car.",
+          "en": "The company placed an advert in the Sunday newspaper to recruit new staff.",
           "highlight": [
             "advert"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司在週日報紙上刊登了一則廣告來招募新員工。"
+          }
+        },
+        {
+          "en": "Online job adverts now attract far more applicants than printed ones.",
+          "highlight": [
+            "adverts"
+          ],
+          "translations": {
+            "zh-TW": "線上求職廣告現在吸引的應徵者遠多於印刷版廣告。"
+          }
+        },
+        {
+          "en": "In his closing remarks the director adverted briefly to the new compliance policy.",
+          "highlight": [
+            "adverted"
+          ],
+          "translations": {
+            "zh-TW": "主任在結語中簡短地提及了新的合規政策。"
           }
         }
       ],
       "synonyms": [
-        "announcement",
-        "notice"
+        "advertisement",
+        "notice",
+        "announcement"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "concealment",
+        "suppression"
+      ],
       "phrases": [
-        "place",
-        "an",
-        "advert",
-        "see",
-        "an"
+        "place an advert",
+        "job advert",
+        "advert for",
+        "classified advert"
       ]
     },
     {
@@ -63,44 +85,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "advertiseed",
-        "past_participle": "advertiseed",
-        "present_participle": "advertising",
-        "third_person": "advertises"
+        "present_3rd": "advertises",
+        "past": "advertised",
+        "past_participle": "advertised",
+        "ing": "advertising"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "advertise",
-          "definition": "vt. 做广告, 通知, 公布, vi. 做广告"
+          "definition": "v. 為…做廣告、宣傳、公告"
         }
       ],
       "examples": [
         {
-          "en": "They advertised the event on TV.",
+          "en": "The company advertises its services across social media and TV.",
           "highlight": [
-            "advertise"
+            "advertises"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司在社群媒體和電視上宣傳它的服務。"
+          }
+        },
+        {
+          "en": "They advertised the management vacancy on three different job boards.",
+          "highlight": [
+            "advertised"
+          ],
+          "translations": {
+            "zh-TW": "他們在三個不同的求職平台上刊登了管理職位的空缺。"
+          }
+        },
+        {
+          "en": "By advertising consistently online, the brand doubled its customer base in a year.",
+          "highlight": [
+            "advertising"
+          ],
+          "translations": {
+            "zh-TW": "透過持續在線上做廣告宣傳，該品牌在一年內讓顧客人數翻倍。"
           }
         }
       ],
       "synonyms": [
         "promote",
-        "publicize"
+        "publicize",
+        "market"
       ],
       "antonyms": [
-        "hide",
-        "conceal"
+        "conceal",
+        "hide"
       ],
       "phrases": [
-        "advertise",
-        "a",
-        "product",
-        "advertise",
-        "widely"
+        "advertise a job",
+        "advertise a product",
+        "advertise widely",
+        "advertise online"
       ]
     },
     {
@@ -121,30 +161,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "advertisement",
-          "definition": "n. 广告, 启事, 广告宣传, [法] 广告, 公告, 告示"
+          "definition": "n. 廣告、公告、啟事"
         }
       ],
       "examples": [
         {
-          "en": "The advertisement was very effective.",
+          "en": "The newspaper published a full-page advertisement for the new energy drink.",
           "highlight": [
             "advertisement"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "報紙刊登了一整頁的新機能飲料廣告。"
+          }
+        },
+        {
+          "en": "Online advertisements now account for more than half of the company's marketing budget.",
+          "highlight": [
+            "advertisements"
+          ],
+          "translations": {
+            "zh-TW": "線上廣告現已佔公司行銷預算的一半以上。"
+          }
+        },
+        {
+          "en": "Many recruitment advertisements require applicants to attach a cover letter with their résumé.",
+          "highlight": [
+            "advertisements"
+          ],
+          "translations": {
+            "zh-TW": "許多徵才廣告要求應徵者在履歷之外附上求職信。"
           }
         }
       ],
       "synonyms": [
         "ad",
-        "advert"
+        "notice",
+        "commercial"
       ],
       "antonyms": [],
       "phrases": [
-        "effective",
-        "advertisement",
-        "newspaper",
-        "advertisement"
+        "place an advertisement",
+        "newspaper advertisement",
+        "job advertisement",
+        "advertisements for"
       ]
     },
     {
@@ -165,30 +224,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "advertising",
-          "definition": "n. 广告业, 广告, a. 广告的, [计] 發广告"
+          "definition": "n. 廣告業、廣告宣傳  adj. 廣告的"
         }
       ],
       "examples": [
         {
-          "en": "She works in advertising.",
+          "en": "She works in advertising and manages campaigns for several luxury brands.",
           "highlight": [
             "advertising"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在廣告業工作，為幾個奢侈品牌管理宣傳活動。"
+          }
+        },
+        {
+          "en": "The company's advertising budget was cut by twenty percent this quarter.",
+          "highlight": [
+            "advertising"
+          ],
+          "translations": {
+            "zh-TW": "公司本季的廣告預算被削減了百分之二十。"
+          }
+        },
+        {
+          "en": "Effective advertising strategies helped the startup reach a global audience within months.",
+          "highlight": [
+            "advertising"
+          ],
+          "translations": {
+            "zh-TW": "有效的廣告策略幫助這家新創公司在幾個月內觸及全球觀眾。"
           }
         }
       ],
       "synonyms": [
         "marketing",
-        "promotion"
+        "promotion",
+        "publicity"
       ],
       "antonyms": [],
       "phrases": [
-        "digital",
-        "advertising",
-        "advertising",
-        "campaign"
+        "digital advertising",
+        "advertising campaign",
+        "advertising agency",
+        "advertising budget"
       ]
     },
     {
@@ -209,33 +287,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "advice",
-          "definition": "n. 忠告, 劝告, 意见, 报道, 通知, [經] 通知書, 通知, 建議"
+          "definition": "n. 建議、忠告、意見、勸告"
         }
       ],
       "examples": [
         {
-          "en": "She gave good advice.",
+          "en": "The manager gave the trainee helpful advice on writing business emails.",
           "highlight": [
             "advice"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理給實習生關於撰寫商業電子郵件的有用建議。"
+          }
+        },
+        {
+          "en": "She took legal advice before signing the contract with the supplier.",
+          "highlight": [
+            "advice"
+          ],
+          "translations": {
+            "zh-TW": "她在與供應商簽約前徵詢了法律意見。"
+          }
+        },
+        {
+          "en": "Should you wish to invest wisely, seek independent financial advice from a certified planner.",
+          "highlight": [
+            "advice"
+          ],
+          "translations": {
+            "zh-TW": "若想明智地投資，應向認證理財師尋求獨立的財務建議。"
           }
         }
       ],
       "synonyms": [
         "guidance",
-        "counsel"
+        "counsel",
+        "recommendation"
       ],
       "antonyms": [
         "misguidance",
         "misinformation"
       ],
       "phrases": [
-        "seek",
-        "advice",
-        "give",
-        "advice"
+        "seek advice",
+        "give advice",
+        "take advice",
+        "professional advice"
       ]
     },
     {
@@ -249,43 +346,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "adviseed",
-        "past_participle": "adviseed",
-        "present_participle": "advising",
-        "third_person": "advises"
+        "present_3rd": "advises",
+        "past": "advised",
+        "past_participle": "advised",
+        "ing": "advising"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "advise",
-          "definition": "vt. 劝告, 给...出主意, 通知, 建議, vi. 提意见, 商量"
+          "definition": "v. 建議、勸告、忠告、通知"
         }
       ],
       "examples": [
         {
-          "en": "She advised him to rest.",
+          "en": "The financial advisor advises clients to diversify their investment portfolios.",
           "highlight": [
-            "advise"
+            "advises"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "理財顧問建議客戶將投資組合多元化。"
+          }
+        },
+        {
+          "en": "The consultant advised the board to delay the product launch until testing was complete.",
+          "highlight": [
+            "advised"
+          ],
+          "translations": {
+            "zh-TW": "顧問建議董事會將產品上市推遲到測試完成為止。"
+          }
+        },
+        {
+          "en": "She is advising a multinational corporation on its expansion into Southeast Asian markets.",
+          "highlight": [
+            "advising"
+          ],
+          "translations": {
+            "zh-TW": "她正在為一家跨國公司提供東南亞市場擴展的顧問服務。"
           }
         }
       ],
       "synonyms": [
         "recommend",
-        "counsel"
+        "counsel",
+        "suggest"
       ],
       "antonyms": [
-        "misadvise",
-        "misguide"
+        "misguide",
+        "misadvise"
       ],
       "phrases": [
-        "advise",
-        "on",
-        "advise",
-        "against"
+        "advise on",
+        "advise against",
+        "advise someone to",
+        "advise caution"
       ]
     },
     {
@@ -306,30 +422,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "affair",
-          "definition": "n. 事件, 事务, 恋爱事件"
+          "definition": "n. 事務、事件、事情、私事"
         }
       ],
       "examples": [
         {
-          "en": "It was a private affair.",
+          "en": "The annual gala was organized as a formal affair with a strict dress code.",
           "highlight": [
             "affair"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "年度晚宴被籌辦為正式活動，有嚴格的穿著規定。"
+          }
+        },
+        {
+          "en": "The minister handles foreign affairs and frequently travels abroad for negotiations.",
+          "highlight": [
+            "affairs"
+          ],
+          "translations": {
+            "zh-TW": "部長負責外交事務，經常出國談判。"
+          }
+        },
+        {
+          "en": "Managing daily business affairs requires strong organizational skills and attention to detail.",
+          "highlight": [
+            "affairs"
+          ],
+          "translations": {
+            "zh-TW": "管理日常商務事務需要良好的組織能力和對細節的關注。"
           }
         }
       ],
       "synonyms": [
-        "event",
-        "incident"
+        "matter",
+        "business",
+        "event"
       ],
       "antonyms": [],
       "phrases": [
-        "family",
-        "affair",
-        "love",
-        "affair"
+        "current affairs",
+        "foreign affairs",
+        "family affair",
+        "state of affairs"
       ]
     },
     {
@@ -343,40 +478,59 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "affected",
+        "present_3rd": "affects",
+        "past": "affected",
         "past_participle": "affected",
-        "present_participle": "affecting",
-        "third_person": "affects"
+        "ing": "affecting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "affect",
-          "definition": "vt. 影響, 感動, 假装, 模仿, 爱好, 倾向于, n. 自觉感情"
+          "definition": "v. 影響、感動、對…產生作用"
         }
       ],
       "examples": [
         {
-          "en": "The weather affects my mood.",
+          "en": "A sudden increase in fuel prices affects transportation costs across the entire supply chain.",
           "highlight": [
-            "affect"
+            "affects"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "燃油價格的突然上漲影響了整個供應鏈的運輸成本。"
+          }
+        },
+        {
+          "en": "The hurricane severely affected operations at three coastal manufacturing plants.",
+          "highlight": [
+            "affected"
+          ],
+          "translations": {
+            "zh-TW": "颶風嚴重影響了三座沿海製造廠的營運。"
+          }
+        },
+        {
+          "en": "Rising interest rates are affecting consumer spending habits in major cities.",
+          "highlight": [
+            "affecting"
+          ],
+          "translations": {
+            "zh-TW": "利率上升正在影響主要城市的消費者支出習慣。"
           }
         }
       ],
       "synonyms": [
         "influence",
-        "impact"
+        "impact",
+        "alter"
       ],
       "antonyms": [],
       "phrases": [
-        "affect",
-        "significantly",
-        "affect",
-        "deeply"
+        "affect significantly",
+        "affect deeply",
+        "affect the outcome",
+        "adversely affect"
       ]
     },
     {
@@ -397,33 +551,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "affection",
-          "definition": "n. 影響, 病, 喜爱, 情感, 倾向, [医] 疾患, 病变, 病; 感情"
+          "definition": "n. 喜愛、情感、鍾愛"
         }
       ],
       "examples": [
         {
-          "en": "She has deep affection for her pet.",
+          "en": "The foster mother showed deep affection for every child in her care.",
           "highlight": [
             "affection"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "寄養母親對她照顧的每一個孩子都表現出深厚的感情。"
+          }
+        },
+        {
+          "en": "The team's affections for their long-time coach grew stronger after the championship win.",
+          "highlight": [
+            "affections"
+          ],
+          "translations": {
+            "zh-TW": "球隊隊員對長期執教的教練的感情在奪冠後更加深厚。"
+          }
+        },
+        {
+          "en": "Customers often develop genuine affection for brands that consistently deliver quality service.",
+          "highlight": [
+            "affection"
+          ],
+          "translations": {
+            "zh-TW": "顧客常會對持續提供優質服務的品牌產生真正的喜愛。"
           }
         }
       ],
       "synonyms": [
         "fondness",
-        "love"
+        "love",
+        "attachment"
       ],
       "antonyms": [
         "hatred",
         "dislike"
       ],
       "phrases": [
-        "show",
-        "affection",
-        "deep",
-        "affection"
+        "show affection",
+        "deep affection",
+        "mutual affection",
+        "affection for"
       ]
     },
     {
@@ -437,44 +610,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "afforded",
+        "present_3rd": "affords",
+        "past": "afforded",
         "past_participle": "afforded",
-        "present_participle": "affording",
-        "third_person": "affords"
+        "ing": "affording"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "afford",
-          "definition": "vt. 買得起, 足以, 给予"
+          "definition": "v. 買得起、負擔得起、承擔得起"
         }
       ],
       "examples": [
         {
-          "en": "They can't afford a new car.",
+          "en": "Only large corporations can afford the latest enterprise software upgrade for all branches.",
           "highlight": [
             "afford"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "只有大型企業才負擔得起為所有分公司升級最新企業版軟體。"
+          }
+        },
+        {
+          "en": "The scholarship afforded her the opportunity to study abroad for a full academic year.",
+          "highlight": [
+            "afforded"
+          ],
+          "translations": {
+            "zh-TW": "獎學金讓她有機會在國外學習整整一個學年。"
+          }
+        },
+        {
+          "en": "By affording employees flexible working hours, the firm has reduced staff turnover considerably.",
+          "highlight": [
+            "affording"
+          ],
+          "translations": {
+            "zh-TW": "透過給予員工彈性工作時間，公司大幅降低了員工流動率。"
           }
         }
       ],
       "synonyms": [
         "manage",
-        "bear"
+        "bear",
+        "sustain"
       ],
       "antonyms": [
-        "forbid",
-        "deny"
+        "deny",
+        "refuse"
       ],
       "phrases": [
-        "can't",
-        "afford",
-        "afford",
-        "the",
-        "cost"
+        "can't afford",
+        "afford to",
+        "afford the cost",
+        "afford an opportunity"
       ]
     }
   ]
