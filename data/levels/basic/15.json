@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 15,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-015-001",
@@ -15,44 +15,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "alarmed",
+        "plural": "alarms",
+        "present_3rd": "alarms",
+        "past": "alarmed",
         "past_participle": "alarmed",
-        "present_participle": "alarming",
-        "third_person": "alarms"
+        "ing": "alarming"
       },
-      "domain": "general",
+      "domain": "security",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "alarm",
-          "definition": "n. 惊恐, 警报, 警钟, vt. 使惊恐, 警告, [计] 报警信號"
+          "definition": "n. 警報、警鈴、驚恐  v. 使驚恐、使擔憂"
         }
       ],
       "examples": [
         {
-          "en": "She felt a sense of alarm.",
+          "en": "The fire alarm went off during the meeting, forcing everyone to evacuate the building.",
           "highlight": [
             "alarm"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "會議期間火災警報響起，迫使所有人撤離大樓。"
+          }
+        },
+        {
+          "en": "The sudden drop in sales alarmed the board of directors.",
+          "highlight": [
+            "alarmed"
+          ],
+          "translations": {
+            "zh-TW": "銷售額突然下滑令董事會感到驚恐。"
+          }
+        },
+        {
+          "en": "The rate at which the company is losing customers is alarming the shareholders.",
+          "highlight": [
+            "alarming"
+          ],
+          "translations": {
+            "zh-TW": "公司流失客戶的速度正令股東感到憂心。"
           }
         }
       ],
       "synonyms": [
+        "alert",
         "warning",
-        "alert"
+        "signal"
       ],
       "antonyms": [
         "calm",
-        "composure"
+        "reassurance"
       ],
       "phrases": [
-        "set",
-        "off",
-        "the",
-        "alarm",
-        "raise"
+        "fire alarm",
+        "burglar alarm",
+        "set off an alarm",
+        "raise the alarm"
       ]
     },
     {
@@ -65,42 +84,58 @@
       "pos": [
         "adjective"
       ],
-      "conjugations": {
-        "comparative": "alarmeder",
-        "superlative": "alarmedest"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "emotion",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "alarmed",
-          "definition": "a. 受惊的；焦虑的；惊恐的"
+          "definition": "adj. 驚恐的、感到恐慌的、擔憂的"
         }
       ],
       "examples": [
         {
-          "en": "He was alarmed by the news.",
+          "en": "The manager was alarmed by the sharp decline in quarterly revenue.",
           "highlight": [
             "alarmed"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理對季營收大幅下滑感到驚恐。"
+          }
+        },
+        {
+          "en": "Investors grew alarmed after hearing the CEO's sudden resignation announcement.",
+          "highlight": [
+            "alarmed"
+          ],
+          "translations": {
+            "zh-TW": "投資人聽到執行長突然宣布辭職後感到恐慌。"
+          }
+        },
+        {
+          "en": "She looked alarmed when the security guard told her the building was on lockdown.",
+          "highlight": [
+            "alarmed"
+          ],
+          "translations": {
+            "zh-TW": "當保全人員告訴她大樓處於封鎖狀態時，她露出驚恐的神情。"
           }
         }
       ],
       "synonyms": [
         "frightened",
-        "scared"
+        "panicked",
+        "distressed"
       ],
       "antonyms": [
-        "unconcerned",
-        "calm"
+        "calm",
+        "relaxed",
+        "composed"
       ],
       "phrases": [
-        "feel",
-        "alarmed",
-        "become",
-        "alarmed"
+        "feel alarmed",
+        "look alarmed",
+        "become alarmed"
       ]
     },
     {
@@ -113,42 +148,58 @@
       "pos": [
         "adjective"
       ],
-      "conjugations": {
-        "comparative": "alarminger",
-        "superlative": "alarmingest"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "alarming",
-          "definition": "a. 使人惊恐的, 引起惊恐的"
+          "definition": "adj. 令人驚恐的、令人擔憂的、引起恐慌的"
         }
       ],
       "examples": [
         {
-          "en": "The situation is alarming.",
+          "en": "The report revealed an alarming increase in workplace injuries this year.",
           "highlight": [
             "alarming"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "報告顯示今年職場受傷案件出現令人擔憂的增加。"
+          }
+        },
+        {
+          "en": "Customers found it alarming that their personal data had been leaked to third parties.",
+          "highlight": [
+            "alarming"
+          ],
+          "translations": {
+            "zh-TW": "顧客發現個人資料外洩給第三方，感到令人不安。"
+          }
+        },
+        {
+          "en": "What is truly alarming is the speed at which the virus spread across borders.",
+          "highlight": [
+            "alarming"
+          ],
+          "translations": {
+            "zh-TW": "真正令人驚恐的是病毒跨境擴散的速度。"
           }
         }
       ],
       "synonyms": [
         "disturbing",
-        "frightening"
+        "frightening",
+        "worrisome"
       ],
       "antonyms": [
         "reassuring",
-        "comforting"
+        "comforting",
+        "soothing"
       ],
       "phrases": [
-        "alarming",
-        "rate",
-        "alarming",
-        "situation"
+        "alarming rate",
+        "alarming trend",
+        "alarming situation"
       ]
     },
     {
@@ -164,35 +215,54 @@
       "conjugations": {
         "plural": "alcohols"
       },
-      "domain": "general",
+      "domain": "food",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "alcohol",
-          "definition": "n. 酒精, 酒, [化] 醇; 乙醇; 酒精"
+          "definition": "n. 酒精、酒、含酒精飲料"
         }
       ],
       "examples": [
         {
-          "en": "He doesn't drink alcohol.",
+          "en": "The hotel restaurant does not serve alcohol on the company dining plan.",
           "highlight": [
             "alcohol"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "飯店餐廳在公司餐飲方案中不供應含酒精飲料。"
+          }
+        },
+        {
+          "en": "Several alcohols are used in the manufacturing of medical disinfectants.",
+          "highlight": [
+            "alcohols"
+          ],
+          "translations": {
+            "zh-TW": "有幾種醇類被用於製造醫療消毒劑。"
+          }
+        },
+        {
+          "en": "Drivers must not consume alcohol before operating company vehicles.",
+          "highlight": [
+            "alcohol"
+          ],
+          "translations": {
+            "zh-TW": "駕駛員在操作公司車輛前不得飲酒。"
           }
         }
       ],
       "synonyms": [
-        "ethanol",
-        "drink"
+        "liquor",
+        "spirits",
+        "ethanol"
       ],
       "antonyms": [],
       "phrases": [
-        "consume",
-        "alcohol",
-        "alcohol",
-        "consumption"
+        "alcohol-free",
+        "alcohol consumption",
+        "rubbing alcohol",
+        "blood alcohol level"
       ]
     },
     {
@@ -209,37 +279,56 @@
       "conjugations": {
         "plural": "alcoholics"
       },
-      "domain": "general",
+      "domain": "food",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "alcoholic",
-          "definition": "n. 酒鬼, 酒精中毒者, a. 酒精的"
+          "definition": "adj. 含酒精的、酒精的  n. 酗酒者、酒精成癮者"
         }
       ],
       "examples": [
         {
-          "en": "He is an alcoholic.",
+          "en": "The catering service provides both alcoholic and non-alcoholic beverages for the event.",
           "highlight": [
             "alcoholic"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "餐飲服務為活動提供含酒精與無酒精的飲料。"
+          }
+        },
+        {
+          "en": "After years of heavy drinking, he was diagnosed as an alcoholic and entered rehab.",
+          "highlight": [
+            "alcoholic"
+          ],
+          "translations": {
+            "zh-TW": "多年酗酒後，他被診斷為酒精成癮者並進入復健中心。"
+          }
+        },
+        {
+          "en": "Many alcoholics struggle to keep their jobs while battling addiction in silence.",
+          "highlight": [
+            "alcoholics"
+          ],
+          "translations": {
+            "zh-TW": "許多酗酒者在默默對抗成癮的同時，還得努力保住工作。"
           }
         }
       ],
       "synonyms": [
+        "drinker",
         "inebriate",
-        "lush"
+        "boozer"
       ],
       "antonyms": [
-        "non-alcoholic"
+        "teetotaler",
+        "abstainer"
       ],
       "phrases": [
-        "alcoholic",
-        "drinks",
-        "alcoholic",
-        "beverages"
+        "alcoholic beverage",
+        "recovering alcoholic",
+        "non-alcoholic"
       ]
     },
     {
@@ -252,42 +341,59 @@
       "pos": [
         "adjective"
       ],
-      "conjugations": {
-        "comparative": "aliveer",
-        "superlative": "aliveest"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "alive",
-          "definition": "a. 活着的, 活泼的, 敏感的, 热闹的"
+          "definition": "adj. 活著的、有生氣的、充滿活力的"
         }
       ],
       "examples": [
         {
-          "en": "The patient is still alive.",
+          "en": "The rescue team confirmed that all the miners were still alive after three days underground.",
           "highlight": [
             "alive"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "救援小組確認所有礦工在地下受困三天後仍然活著。"
+          }
+        },
+        {
+          "en": "The downtown market comes alive on weekends with street performers and food stalls.",
+          "highlight": [
+            "alive"
+          ],
+          "translations": {
+            "zh-TW": "市區市場在週末因街頭藝人和美食攤位而熱鬧起來。"
+          }
+        },
+        {
+          "en": "Keeping traditional crafts alive is a priority for the cultural heritage foundation.",
+          "highlight": [
+            "alive"
+          ],
+          "translations": {
+            "zh-TW": "保留傳統工藝的活力是文化遺產基金會的首要任務。"
           }
         }
       ],
       "synonyms": [
         "living",
-        "breathing"
+        "breathing",
+        "active"
       ],
       "antonyms": [
         "dead",
-        "lifeless"
+        "lifeless",
+        "inactive"
       ],
       "phrases": [
-        "stay",
-        "alive",
-        "keep",
-        "alive"
+        "stay alive",
+        "keep alive",
+        "come alive",
+        "alive and well"
       ]
     },
     {
@@ -308,32 +414,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "all",
-          "definition": "a. 所有的, 全部的, 一切的, adv. 全部, 全然, pron. 全部, n. 全部"
+          "definition": "det. 所有的、全部的  pron. 全部  adv. 全然、完全"
         }
       ],
       "examples": [
         {
-          "en": "All the students passed the exam.",
+          "en": "All the documents must be submitted before the deadline on Friday.",
           "highlight": [
             "all"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "所有文件必須在週五截止日期前提交。"
+          }
+        },
+        {
+          "en": "The manager invited all of the team members to the strategy meeting.",
+          "highlight": [
+            "all"
+          ],
+          "translations": {
+            "zh-TW": "經理邀請了所有團隊成員參加策略會議。"
+          }
+        },
+        {
+          "en": "The new policy applies to all employees, regardless of their department.",
+          "highlight": [
+            "all"
+          ],
+          "translations": {
+            "zh-TW": "新政策適用於所有員工，不分部門。"
           }
         }
       ],
       "synonyms": [
         "every",
-        "entire"
+        "entire",
+        "whole"
       ],
       "antonyms": [
-        "nothing"
+        "none",
+        "nothing",
+        "partial"
       ],
       "phrases": [
-        "all",
-        "of",
-        "at",
-        "all"
+        "all of",
+        "at all",
+        "all in all",
+        "above all"
       ]
     },
     {
@@ -346,42 +473,58 @@
       "pos": [
         "adjective"
       ],
-      "conjugations": {
-        "comparative": "allieder",
-        "superlative": "alliedest"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "allied",
-          "definition": "a. 联盟的, 联姻的, 联系起來的"
+          "definition": "adj. 結盟的、聯合的、同盟的"
         }
       ],
       "examples": [
         {
-          "en": "The allied forces launched an attack.",
+          "en": "The two companies formed an allied partnership to expand into Asian markets.",
           "highlight": [
             "allied"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "兩家公司組成聯盟夥伴關係以拓展亞洲市場。"
+          }
+        },
+        {
+          "en": "Allied forces worked together to develop a new vaccine within record time.",
+          "highlight": [
+            "allied"
+          ],
+          "translations": {
+            "zh-TW": "同盟國的部隊攜手合作，在創紀錄的時間內研發出新疫苗。"
+          }
+        },
+        {
+          "en": "Several allied industries, such as logistics and packaging, benefited from the e-commerce boom.",
+          "highlight": [
+            "allied"
+          ],
+          "translations": {
+            "zh-TW": "物流與包裝等幾個相關聯的產業都因電子商務的蓬勃發展而受益。"
           }
         }
       ],
       "synonyms": [
         "united",
-        "affiliated"
+        "affiliated",
+        "associated"
       ],
       "antonyms": [
-        "enemy",
-        "adversary"
+        "opposing",
+        "rival",
+        "hostile"
       ],
       "phrases": [
-        "allied",
-        "forces",
-        "allied",
-        "nations"
+        "allied forces",
+        "allied nations",
+        "allied industries"
       ]
     },
     {
@@ -395,43 +538,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "allowed",
+        "present_3rd": "allows",
+        "past": "allowed",
         "past_participle": "allowed",
-        "present_participle": "allowing",
-        "third_person": "allows"
+        "ing": "allowing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "allow",
-          "definition": "vt. 允许, 同意给予, 承认, vi. 容许, 猜想, [计] 允许命令"
+          "definition": "v. 允許、准許、讓"
         }
       ],
       "examples": [
         {
-          "en": "She allowed him to leave.",
+          "en": "The company policy allows employees to work from home twice a week.",
           "highlight": [
-            "allow"
+            "allows"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司政策允許員工每週居家辦公兩天。"
+          }
+        },
+        {
+          "en": "The supervisor allowed the intern to leave early for a medical appointment.",
+          "highlight": [
+            "allowed"
+          ],
+          "translations": {
+            "zh-TW": "主管允許實習生為了看診提早下班。"
+          }
+        },
+        {
+          "en": "By allowing flexible working hours, the firm has boosted employee satisfaction.",
+          "highlight": [
+            "allowing"
+          ],
+          "translations": {
+            "zh-TW": "透過允許彈性工時，公司提升了員工滿意度。"
           }
         }
       ],
       "synonyms": [
         "permit",
-        "let"
+        "let",
+        "authorize"
       ],
       "antonyms": [
         "forbid",
+        "prohibit",
         "prevent"
       ],
       "phrases": [
-        "allow",
-        "time",
-        "allow",
-        "access"
+        "allow time",
+        "allow access",
+        "allow for",
+        "allow someone to"
       ]
     },
     {
@@ -452,33 +615,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "ally",
-          "definition": "n. 同盟者, 同盟國, 助手, vt. 使联盟, 使联合, 使有關系, vi. 結盟"
+          "definition": "n. 同盟國、盟友、支持者"
         }
       ],
       "examples": [
         {
-          "en": "The country is an ally of the US.",
+          "en": "The nation has long been a trusted ally of the United States in trade negotiations.",
           "highlight": [
             "ally"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在貿易談判中，該國一直是美國值得信賴的盟友。"
+          }
+        },
+        {
+          "en": "The CEO considered the supplier a key ally in keeping production costs low.",
+          "highlight": [
+            "ally"
+          ],
+          "translations": {
+            "zh-TW": "執行長視該供應商為維持低生產成本的關鍵盟友。"
+          }
+        },
+        {
+          "en": "Several allies joined forces to fund the humanitarian relief project.",
+          "highlight": [
+            "allies"
+          ],
+          "translations": {
+            "zh-TW": "幾個盟友聯手為人道救援計畫提供資金。"
           }
         }
       ],
       "synonyms": [
         "partner",
-        "supporter"
+        "supporter",
+        "associate"
       ],
       "antonyms": [
         "enemy",
-        "opponent"
+        "opponent",
+        "adversary"
       ],
       "phrases": [
-        "military",
-        "ally",
-        "key",
-        "ally"
+        "key ally",
+        "military ally",
+        "ally with",
+        "trusted ally"
       ]
     }
   ]
