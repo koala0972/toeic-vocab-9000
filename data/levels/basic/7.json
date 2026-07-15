@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 7,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-007-001",
@@ -19,33 +19,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "absolutely",
-          "definition": "adv. 完全地, 绝對地, 确确實實地"
+          "definition": "adv. 完全地、絕對地、確實地"
         }
       ],
       "examples": [
         {
-          "en": "She is absolutely certain.",
+          "en": "The manager is absolutely right about the budget shortfall.",
           "highlight": [
             "absolutely"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理對於預算短缺的判斷完全正確。"
+          }
+        },
+        {
+          "en": "She absolutely refused to compromise on product quality.",
+          "highlight": [
+            "absolutely"
+          ],
+          "translations": {
+            "zh-TW": "她絕對拒絕在產品品質上妥協。"
+          }
+        },
+        {
+          "en": "Are you absolutely certain the shipment will arrive on time?",
+          "highlight": [
+            "absolutely"
+          ],
+          "translations": {
+            "zh-TW": "你確定貨物會準時送達嗎？"
           }
         }
       ],
       "synonyms": [
         "completely",
-        "totally"
+        "totally",
+        "entirely"
       ],
       "antonyms": [
         "partially",
-        "incompletely"
+        "barely"
       ],
       "phrases": [
-        "absolutely",
-        "right",
-        "absolutely",
-        "certain"
+        "absolutely right",
+        "absolutely certain",
+        "absolutely necessary",
+        "absolutely nothing"
       ]
     },
     {
@@ -59,45 +78,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "absorbed",
+        "plural": "absorbs",
+        "present_3rd": "absorbs",
+        "past": "absorbed",
         "past_participle": "absorbed",
-        "present_participle": "absorbing",
-        "third_person": "absorbs"
+        "ing": "absorbing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "absorb",
-          "definition": "vt. 吸收, 使全神贯注, 同化, 買进, 理解, 承受, 忍受, 承担, [医] 吸收"
+          "definition": "v. 吸收、理解、使全神貫注、承受"
         }
       ],
       "examples": [
         {
-          "en": "The sponge absorbs water.",
+          "en": "The new company absorbs the costs of employee training each year.",
           "highlight": [
-            "absorb"
+            "absorbs"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新公司每年吸收員工培訓的成本。"
+          }
+        },
+        {
+          "en": "She absorbed the complex financial report in just one afternoon.",
+          "highlight": [
+            "absorbed"
+          ],
+          "translations": {
+            "zh-TW": "她僅用一個下午就理解了那份複雜的財務報告。"
+          }
+        },
+        {
+          "en": "The team is fully absorbing the new software system before the launch date.",
+          "highlight": [
+            "absorbing"
+          ],
+          "translations": {
+            "zh-TW": "團隊在發布日期前正全力吸收新軟體系統。"
           }
         }
       ],
       "synonyms": [
-        "soak",
-        "up",
-        "take",
-        "in"
+        "soak up",
+        "assimilate",
+        "understand"
       ],
       "antonyms": [
         "release",
         "exude"
       ],
       "phrases": [
-        "absorb",
-        "water",
-        "absorb",
-        "information"
+        "absorb information",
+        "absorb shock",
+        "absorb costs",
+        "absorb knowledge"
       ]
     },
     {
@@ -112,45 +149,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "abuseed",
-        "past_participle": "abuseed",
-        "present_participle": "abusing",
-        "third_person": "abuses"
+        "plural": "abuses",
+        "present_3rd": "abuses",
+        "past": "abused",
+        "past_participle": "abused",
+        "ing": "abusing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "abuse",
-          "definition": "n. 滥用, 虐待, 恶习, 辱骂, vt. 滥用, 辱骂, 虐待"
+          "definition": "n. 濫用、虐待、辱罵  v. 濫用、虐待、辱罵"
         }
       ],
       "examples": [
         {
-          "en": "He was accused of abuse.",
+          "en": "The company launched a campaign against substance abuse in the workplace.",
           "highlight": [
             "abuse"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司發起了一項反對職場藥物濫用的活動。"
+          }
+        },
+        {
+          "en": "The manager abused his power by promoting unqualified relatives.",
+          "highlight": [
+            "abused"
+          ],
+          "translations": {
+            "zh-TW": "那位經理濫用職權，提拔了不具資格的親戚。"
+          }
+        },
+        {
+          "en": "Several employees were caught abusing the company's expense policy.",
+          "highlight": [
+            "abusing"
+          ],
+          "translations": {
+            "zh-TW": "幾名員工被抓到濫用公司的報銷政策。"
           }
         }
       ],
       "synonyms": [
         "misuse",
-        "mistreat"
+        "mistreat",
+        "exploit"
       ],
       "antonyms": [
-        "use",
-        "properly",
-        "care"
+        "respect",
+        "protect"
       ],
       "phrases": [
-        "substance",
-        "abuse",
-        "abuse",
-        "of",
-        "power"
+        "substance abuse",
+        "abuse of power",
+        "abuse of trust",
+        "child abuse"
       ]
     },
     {
@@ -167,38 +222,57 @@
       "conjugations": {
         "plural": "academics"
       },
-      "domain": "general",
+      "domain": "education",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "academic",
-          "definition": "a. 学院的, 学术的, 不切實际的, n. 大学生, 大学教師, 学者, 学會會員"
+          "definition": "adj. 學術的、學院的  n. 學者、大學教師"
         }
       ],
       "examples": [
         {
-          "en": "She received academic awards.",
+          "en": "She has a strong academic background in economics and statistics.",
           "highlight": [
             "academic"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在經濟學和統計學方面有深厚的學術背景。"
+          }
+        },
+        {
+          "en": "Many top academics attended the international business conference.",
+          "highlight": [
+            "academics"
+          ],
+          "translations": {
+            "zh-TW": "許多頂尖學者出席了那場國際商業研討會。"
+          }
+        },
+        {
+          "en": "The academic year begins in September and ends in June.",
+          "highlight": [
+            "academic"
+          ],
+          "translations": {
+            "zh-TW": "學年度從九月開始，到六月結束。"
           }
         }
       ],
       "synonyms": [
+        "scholarly",
         "educational",
-        "scholarly"
+        "intellectual"
       ],
       "antonyms": [
         "nonacademic",
-        "unscholarly"
+        "practical"
       ],
       "phrases": [
-        "academic",
-        "year",
-        "academic",
-        "achievement"
+        "academic year",
+        "academic achievement",
+        "academic background",
+        "academic research"
       ]
     },
     {
@@ -213,40 +287,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "accented",
+        "plural": "accents",
+        "present_3rd": "accents",
+        "past": "accented",
         "past_participle": "accented",
-        "present_participle": "accenting",
-        "third_person": "accents"
+        "ing": "accenting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "accent",
-          "definition": "n. 重音, 口音, 特點, 注重點, vt. 重读, 加重音號于, 强调"
+          "definition": "n. 口音、重音、強調  v. 重讀、強調"
         }
       ],
       "examples": [
         {
-          "en": "He spoke with a British accent.",
+          "en": "Her British accent makes her popular with international clients.",
           "highlight": [
             "accent"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她的英國口音讓她在國際客戶中很受歡迎。"
+          }
+        },
+        {
+          "en": "The tour guide spoke with several different accents during the trip.",
+          "highlight": [
+            "accents"
+          ],
+          "translations": {
+            "zh-TW": "那位導覽員在旅程中說話時帶有幾種不同的口音。"
+          }
+        },
+        {
+          "en": "The designer accented the living room with bright blue cushions.",
+          "highlight": [
+            "accented"
+          ],
+          "translations": {
+            "zh-TW": "設計師用亮藍色靠墊來點綴客廳。"
           }
         }
       ],
       "synonyms": [
-        "pronunciation",
-        "intonation"
+        "intonation",
+        "dialect",
+        "emphasis"
       ],
       "antonyms": [],
       "phrases": [
-        "British",
-        "accent",
-        "strong",
-        "accent"
+        "British accent",
+        "strong accent",
+        "foreign accent",
+        "accent on"
       ]
     },
     {
@@ -260,44 +354,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "accepted",
+        "present_3rd": "accepts",
+        "past": "accepted",
         "past_participle": "accepted",
-        "present_participle": "accepting",
-        "third_person": "accepts"
+        "ing": "accepting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "accept",
-          "definition": "vt. 接受, 承认, 同意, 相信, 赞成, 承担, 承兑, 采纳, 接纳, 容忍, vi. 同意"
+          "definition": "v. 接受、同意、承認、容納"
         }
       ],
       "examples": [
         {
-          "en": "She accepted the job offer.",
+          "en": "The client accepts only payments made by credit card or bank transfer.",
           "highlight": [
-            "accept"
+            "accepts"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "那位客戶只接受以信用卡或銀行轉帳方式付款。"
+          }
+        },
+        {
+          "en": "She accepted the job offer immediately after the final interview.",
+          "highlight": [
+            "accepted"
+          ],
+          "translations": {
+            "zh-TW": "她在最終面試後立刻接受了那份工作錄取通知。"
+          }
+        },
+        {
+          "en": "The committee is accepting applications until the end of this month.",
+          "highlight": [
+            "accepting"
+          ],
+          "translations": {
+            "zh-TW": "委員會正在接受申請，直到本月底截止。"
           }
         }
       ],
       "synonyms": [
-        "agree",
-        "receive"
+        "receive",
+        "agree to",
+        "approve"
       ],
       "antonyms": [
         "reject",
-        "refuse"
+        "refuse",
+        "decline"
       ],
       "phrases": [
-        "accept",
-        "an",
-        "offer",
-        "accept",
-        "responsibility"
+        "accept an offer",
+        "accept responsibility",
+        "accept payment",
+        "accept applications"
       ]
     },
     {
@@ -311,41 +424,61 @@
         "adjective"
       ],
       "conjugations": {
-        "comparative": "acceptableer",
-        "superlative": "acceptableest"
+        "comparative": "more acceptable",
+        "superlative": "most acceptable"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "acceptable",
-          "definition": "a. 可接受的, 合意的, 可忍受的"
+          "definition": "adj. 可接受的、令人滿意的、合意的"
         }
       ],
       "examples": [
         {
-          "en": "The proposal is acceptable.",
+          "en": "The quality of the product is acceptable but needs improvement.",
           "highlight": [
             "acceptable"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "產品的品質是可以接受的，但仍需要改進。"
+          }
+        },
+        {
+          "en": "Submitting the report a day late is more acceptable than missing the deadline entirely.",
+          "highlight": [
+            "more acceptable"
+          ],
+          "translations": {
+            "zh-TW": "晚一天交報告比完全錯過截止日期還更能被接受。"
+          }
+        },
+        {
+          "en": "This is the most acceptable solution the team could propose under the tight budget.",
+          "highlight": [
+            "most acceptable"
+          ],
+          "translations": {
+            "zh-TW": "在緊縮的預算下，這是團隊能提出的最令人滿意的解決方案。"
           }
         }
       ],
       "synonyms": [
         "satisfactory",
-        "suitable"
+        "suitable",
+        "adequate"
       ],
       "antonyms": [
         "unacceptable",
-        "unsuitable"
+        "unsuitable",
+        "inadequate"
       ],
       "phrases": [
-        "socially",
-        "acceptable",
-        "acceptable",
-        "behavior"
+        "socially acceptable",
+        "acceptable behavior",
+        "acceptable quality",
+        "acceptable level"
       ]
     },
     {
@@ -360,44 +493,64 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "accessed",
+        "plural": "accesses",
+        "present_3rd": "accesses",
+        "past": "accessed",
         "past_participle": "accessed",
-        "present_participle": "accessing",
-        "third_person": "accesses"
+        "ing": "accessing"
       },
-      "domain": "general",
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "access",
-          "definition": "n. 通路, 入口, 接近, 进入, 使用权, 發作, vt. 访问, 存取, 接近, 使用, [计] 访问, 存取"
+          "definition": "n. 通路、使用權、存取  v. 存取、接近、使用"
         }
       ],
       "examples": [
         {
-          "en": "She has access to the library.",
+          "en": "Only authorized employees can access the confidential database remotely.",
           "highlight": [
             "access"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "只有獲授權的員工才能遠端存取機密資料庫。"
+          }
+        },
+        {
+          "en": "The HR department accessed the payroll system to process year-end bonuses.",
+          "highlight": [
+            "accessed"
+          ],
+          "translations": {
+            "zh-TW": "人事部門存取了薪資系統以處理年終獎金。"
+          }
+        },
+        {
+          "en": "She is accessing her work email from a secure home network connection.",
+          "highlight": [
+            "accessing"
+          ],
+          "translations": {
+            "zh-TW": "她正透過安全的家用網路連線存取工作電子郵件。"
           }
         }
       ],
       "synonyms": [
         "entry",
-        "admittance"
+        "admittance",
+        "approach"
       ],
       "antonyms": [
         "exit",
-        "egress"
+        "egress",
+        "denial"
       ],
       "phrases": [
-        "internet",
-        "access",
-        "access",
-        "to",
-        "information"
+        "internet access",
+        "access to information",
+        "have access to",
+        "access data"
       ]
     },
     {
@@ -418,33 +571,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "accident",
-          "definition": "n. 意外事件, 机遇, 事故, 次要方面, [化] 意外事故; 事故"
+          "definition": "n. 意外事件、事故、機遇"
         }
       ],
       "examples": [
         {
-          "en": "She was injured in a car accident.",
+          "en": "A minor traffic accident delayed the delivery truck by two hours.",
           "highlight": [
             "accident"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "一場輕微的交通事故讓送貨卡車延誤了兩個小時。"
+          }
+        },
+        {
+          "en": "Workplace accidents have decreased since the new safety regulations took effect.",
+          "highlight": [
+            "accidents"
+          ],
+          "translations": {
+            "zh-TW": "自從新的安全法規生效以來，職場事故已經減少了。"
+          }
+        },
+        {
+          "en": "By accident, the intern discovered a major billing error in the client's account.",
+          "highlight": [
+            "accident"
+          ],
+          "translations": {
+            "zh-TW": "實習生偶然發現了客戶帳戶中的一個重大帳務錯誤。"
           }
         }
       ],
       "synonyms": [
         "mishap",
-        "misfortune"
+        "misfortune",
+        "collision"
       ],
       "antonyms": [
-        "intentional",
-        "deliberate"
+        "intention",
+        "plan"
       ],
       "phrases": [
-        "traffic",
-        "accident",
-        "car",
-        "accident"
+        "traffic accident",
+        "car accident",
+        "by accident",
+        "workplace accident"
       ]
     },
     {
@@ -466,33 +638,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "accidental",
-          "definition": "a. 意外的, 偶然的, 非主要的, 附属的, n. 临時記號, 次要方面"
+          "definition": "adj. 意外的、偶然的  n. 臨時記號"
         }
       ],
       "examples": [
         {
-          "en": "It was an accidental discovery.",
+          "en": "The insurance policy does not cover accidental damage to rental equipment.",
           "highlight": [
             "accidental"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "保險單不涵蓋租賃設備的意外損壞。"
+          }
+        },
+        {
+          "en": "Several accidentals in the musical score challenged the young pianist during rehearsal.",
+          "highlight": [
+            "accidentals"
+          ],
+          "translations": {
+            "zh-TW": "樂譜中的幾個臨時記號在排練時挑戰了那位年輕鋼琴家。"
+          }
+        },
+        {
+          "en": "The breakthrough drug was an accidental discovery during a cancer research project.",
+          "highlight": [
+            "accidental"
+          ],
+          "translations": {
+            "zh-TW": "那款突破性藥物是在一項癌症研究計畫中的偶然發現。"
           }
         }
       ],
       "synonyms": [
         "unintentional",
+        "unplanned",
         "chance"
       ],
       "antonyms": [
         "intentional",
-        "deliberate"
+        "deliberate",
+        "planned"
       ],
       "phrases": [
-        "accidental",
-        "damage",
-        "accidental",
-        "discovery"
+        "accidental damage",
+        "accidental discovery",
+        "accidental death",
+        "accidental injury"
       ]
     }
   ]
