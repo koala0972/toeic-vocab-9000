@@ -206,16 +206,14 @@ export function WordCard({ entry, lang, rate, idx, onViewed, showAnswer, onToggl
               return (
                 <div key={i} className="border rounded-lg p-3 bg-slate-50">
                   <div className="flex items-start gap-2">
-                    <p className={`leading-relaxed text-base ${selectedWord ? 'text-blue-700' : ''}`}>
+                    <p className="leading-relaxed text-base">
                       {tokens.map((tok, ti) => (
                         <span
                           key={ti}
                           className={
                             'word-token' +
-                            (hlIndices.has(ti) ? ' highlighted' : '') +
-                            (selectedWord === tok.text ? ' selected' : '')
+                            (hlIndices.has(ti) ? ' highlighted' : '')
                           }
-                          onClick={tok.isWord ? () => handleTokenClick(ti, tok.text) : undefined}
                         >
                           {tok.text}
                         </span>
@@ -227,13 +225,6 @@ export function WordCard({ entry, lang, rate, idx, onViewed, showAnswer, onToggl
                     <div className="mt-2 text-slate-700 leading-relaxed border-t pt-2">
                       <span
                         dangerouslySetInnerHTML={{ __html: zhHTML }}
-                        onClick={(e) => {
-                          const target = e.target as HTMLElement;
-                          if (target.tagName === 'SPAN' && target.dataset.zhWord) {
-                            // 反向: 點中文 → 反白英文
-                            setSelectedWord(target.dataset.zhWord);
-                          }
-                        }}
                       />
                     </div>
                   )}
