@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 17,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-017-001",
@@ -14,44 +14,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "altered",
+        "present_3rd": "alters",
+        "past": "altered",
         "past_participle": "altered",
-        "present_participle": "altering",
-        "third_person": "alters"
+        "ing": "altering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "alter",
-          "definition": "v. 改变"
+          "definition": "v. 改變、修改、更改"
         }
       ],
       "examples": [
         {
-          "en": "He altered his appearance.",
+          "en": "The company decided to alter its marketing strategy after the quarterly review.",
           "highlight": [
             "alter"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司在季度檢討後決定更改行銷策略。"
+          }
+        },
+        {
+          "en": "She altered the contract terms to better reflect the client's needs.",
+          "highlight": [
+            "altered"
+          ],
+          "translations": {
+            "zh-TW": "她修改了合約條款，以更符合客戶的需求。"
+          }
+        },
+        {
+          "en": "The tailor is altering the suit to fit the customer perfectly.",
+          "highlight": [
+            "altering"
+          ],
+          "translations": {
+            "zh-TW": "裁縫正在修改這套西裝，好讓它完美合身。"
           }
         }
       ],
       "synonyms": [
         "change",
-        "modify"
+        "modify",
+        "adjust"
       ],
       "antonyms": [
         "keep",
-        "maintain"
+        "maintain",
+        "preserve"
       ],
       "phrases": [
-        "alter",
-        "the",
-        "plan",
-        "alter",
-        "the"
+        "alter the plan",
+        "alter the design",
+        "alter course",
+        "alter ego"
       ]
     },
     {
@@ -73,30 +92,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "alternative",
-          "definition": "n. 两者择一, 供替代的选择, a. 两者择一的, 供选择的, [计] 选择對象"
+          "definition": "n. 替代方案、可供選擇的事物  adj. 另類的、可供選擇的"
         }
       ],
       "examples": [
         {
-          "en": "There is an alternative route.",
+          "en": "We need an alternative plan in case the original one fails.",
           "highlight": [
             "alternative"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "萬一原定計畫失敗，我們需要一個替代方案。"
+          }
+        },
+        {
+          "en": "There are several alternatives to driving, such as biking or taking the train.",
+          "highlight": [
+            "alternatives"
+          ],
+          "translations": {
+            "zh-TW": "開車之外還有幾個替代選項，例如騎自行車或搭火車。"
+          }
+        },
+        {
+          "en": "Many offices now offer alternative work arrangements like remote or hybrid schedules.",
+          "highlight": [
+            "alternative"
+          ],
+          "translations": {
+            "zh-TW": "現在許多辦公室提供替代性的工作安排，例如遠端或混合式排班。"
           }
         }
       ],
       "synonyms": [
         "option",
-        "choice"
+        "choice",
+        "substitute"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "standard",
+        "conventional"
+      ],
       "phrases": [
-        "alternative",
-        "option",
-        "alternative",
-        "solution"
+        "alternative energy",
+        "alternative medicine",
+        "alternative route",
+        "have no alternative"
       ]
     },
     {
@@ -115,30 +156,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "alternatively",
-          "definition": "adv. 非此即彼"
+          "definition": "adv. 或者、要不、作為替代"
         }
       ],
       "examples": [
         {
-          "en": "You could alternatively use a different tool.",
+          "en": "Alternatively, you can submit the report by email instead of in person.",
+          "highlight": [
+            "Alternatively"
+          ],
+          "translations": {
+            "zh-TW": "或者，你也可以改用電子郵件提交報告，不用親自送來。"
+          }
+        },
+        {
+          "en": "We could stay at a hotel downtown; alternatively, we could rent an apartment near the venue.",
           "highlight": [
             "alternatively"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們可以住市區的飯店；或者，也可以在會場附近租一間公寓。"
+          }
+        },
+        {
+          "en": "Alternatively, consider booking an earlier flight to avoid the evening rush.",
+          "highlight": [
+            "Alternatively"
+          ],
+          "translations": {
+            "zh-TW": "或者也可以考慮訂更早的班機，以避開傍晚的交通尖峰。"
           }
         }
       ],
       "synonyms": [
         "optionally",
-        "otherwise"
+        "otherwise",
+        "else"
       ],
       "antonyms": [],
       "phrases": [
-        "use",
-        "alternatively",
-        "consider",
-        "alternatively"
+        "use alternatively",
+        "consider alternatively",
+        "see alternatively"
       ]
     },
     {
@@ -157,31 +216,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "although",
-          "definition": "conj. 虽然, 盡管"
+          "definition": "conj. 雖然、儘管"
         }
       ],
       "examples": [
         {
-          "en": "Although it was raining, we went for a walk.",
+          "en": "Although the deadline was tight, the team finished the project on time.",
+          "highlight": [
+            "Although"
+          ],
+          "translations": {
+            "zh-TW": "雖然截止日期很緊，團隊還是準時完成了專案。"
+          }
+        },
+        {
+          "en": "Although it was raining heavily, the outdoor concert went ahead as scheduled.",
+          "highlight": [
+            "Although"
+          ],
+          "translations": {
+            "zh-TW": "儘管雨下得很大，戶外演唱會仍照常舉行。"
+          }
+        },
+        {
+          "en": "She accepted the offer, although the salary was lower than she had hoped.",
           "highlight": [
             "although"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她接受了這份工作機會，雖然薪水比她原本期望的還要低。"
           }
         }
       ],
       "synonyms": [
         "though",
-        "even",
-        "though"
+        "even though",
+        "while"
       ],
       "antonyms": [],
       "phrases": [
-        "although",
-        "difficult",
-        "although",
-        "true"
+        "although difficult",
+        "although true",
+        "although small"
       ]
     },
     {
@@ -200,33 +276,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "altogether",
-          "definition": "adv. 完全地, 总而言之"
+          "definition": "adv. 完全地、總共、總而言之"
         }
       ],
       "examples": [
         {
-          "en": "She stopped seeing him altogether.",
+          "en": "The new policy is altogether different from the previous one.",
           "highlight": [
             "altogether"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新政策與舊政策截然不同。"
+          }
+        },
+        {
+          "en": "After the merger, the two companies operated as altogether new entities.",
+          "highlight": [
+            "altogether"
+          ],
+          "translations": {
+            "zh-TW": "併購之後，兩家公司以全新的型態運作。"
+          }
+        },
+        {
+          "en": "That will be $45 altogether, including tax and delivery.",
+          "highlight": [
+            "altogether"
+          ],
+          "translations": {
+            "zh-TW": "含稅及運費總共是 45 美元。"
           }
         }
       ],
       "synonyms": [
         "completely",
-        "entirely"
+        "entirely",
+        "totally"
       ],
       "antonyms": [
         "partially",
-        "incompletely"
+        "incompletely",
+        "partly"
       ],
       "phrases": [
-        "altogether",
-        "different",
-        "altogether",
-        "gone"
+        "altogether different",
+        "altogether new",
+        "altogether gone",
+        "not altogether"
       ]
     },
     {
@@ -245,33 +341,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "always",
-          "definition": "adv. 总是, 始终"
+          "definition": "adv. 總是、始終、一直"
         }
       ],
       "examples": [
         {
-          "en": "She always arrives on time.",
+          "en": "She always double-checks the figures before sending the report to the manager.",
           "highlight": [
             "always"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在把報告寄給主管之前，她總是會再核對一次數字。"
+          }
+        },
+        {
+          "en": "Our manager has always encouraged the team to share new ideas openly.",
+          "highlight": [
+            "always"
+          ],
+          "translations": {
+            "zh-TW": "我們的主管一直鼓勵團隊坦誠分享新想法。"
+          }
+        },
+        {
+          "en": "The cafe is always busy during lunch hour, so we usually book a table in advance.",
+          "highlight": [
+            "always"
+          ],
+          "translations": {
+            "zh-TW": "這家咖啡廳午餐時段總是客滿，所以我們通常會事先訂位。"
           }
         }
       ],
       "synonyms": [
         "constantly",
-        "forever"
+        "forever",
+        "invariably"
       ],
       "antonyms": [
         "never",
+        "rarely",
         "sometimes"
       ],
       "phrases": [
-        "always",
-        "happy",
-        "always",
-        "ready"
+        "always on time",
+        "always ready",
+        "as always",
+        "not always"
       ]
     },
     {
@@ -285,44 +401,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "amazeed",
-        "past_participle": "amazeed",
-        "present_participle": "amazing",
-        "third_person": "amazes"
+        "present_3rd": "amazes",
+        "past": "amazed",
+        "past_participle": "amazed",
+        "ing": "amazing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "amaze",
-          "definition": "vt. 使吃惊"
+          "definition": "v. 使驚訝、使吃驚"
         }
       ],
       "examples": [
         {
-          "en": "The performance amazed everyone.",
+          "en": "The new smartphone's camera quality never fails to amaze customers.",
           "highlight": [
             "amaze"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這款新智慧型手機的相機品質總能讓顧客驚豔不已。"
+          }
+        },
+        {
+          "en": "The young engineer amazed the board with a flawless presentation of the prototype.",
+          "highlight": [
+            "amazed"
+          ],
+          "translations": {
+            "zh-TW": "這位年輕工程師以一場完美無瑕的原型發表會讓董事會大為驚嘆。"
+          }
+        },
+        {
+          "en": "Her dedication to improving customer service continues to amaze her colleagues.",
+          "highlight": [
+            "amaze"
+          ],
+          "translations": {
+            "zh-TW": "她致力於改善客戶服務的投入，持續讓同事們感到驚訝。"
           }
         }
       ],
       "synonyms": [
         "astonish",
-        "astound"
+        "astound",
+        "surprise"
       ],
       "antonyms": [
         "bore",
-        "disinterest"
+        "underwhelm",
+        "disappoint"
       ],
       "phrases": [
-        "amaze",
-        "people",
-        "never",
-        "cease",
-        "to"
+        "amaze people",
+        "amaze everyone",
+        "never cease to amaze",
+        "be amazed"
       ]
     },
     {
@@ -336,41 +471,61 @@
         "adjective"
       ],
       "conjugations": {
-        "comparative": "amazeder",
-        "superlative": "amazedest"
+        "comparative": "more amazed",
+        "superlative": "most amazed"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "amazed",
-          "definition": "a. 吃惊的, 惊奇的"
+          "definition": "adj. 驚訝的、吃驚的"
         }
       ],
       "examples": [
         {
-          "en": "She was amazed by the news.",
+          "en": "The investors were amazed by how quickly the startup turned a profit.",
           "highlight": [
             "amazed"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "投資人對這家新創公司這麼快就轉虧為盈感到驚訝。"
+          }
+        },
+        {
+          "en": "Customers are often more amazed by the after-sales service than by the product itself.",
+          "highlight": [
+            "more amazed"
+          ],
+          "translations": {
+            "zh-TW": "顧客往往對售後服務比對產品本身更加讚嘆。"
+          }
+        },
+        {
+          "en": "Of all the applicants, the hiring panel was most amazed by her portfolio.",
+          "highlight": [
+            "most amazed"
+          ],
+          "translations": {
+            "zh-TW": "在所有應徵者當中，徵才小組對她的作品集最為驚豔。"
           }
         }
       ],
       "synonyms": [
         "astonished",
-        "astounded"
+        "astounded",
+        "surprised"
       ],
       "antonyms": [
         "indifferent",
-        "unsurprised"
+        "unsurprised",
+        "unimpressed"
       ],
       "phrases": [
-        "amazed",
-        "at",
-        "amazed",
-        "by"
+        "amazed at",
+        "amazed by",
+        "be amazed",
+        "stand amazed"
       ]
     },
     {
@@ -384,41 +539,61 @@
         "adjective"
       ],
       "conjugations": {
-        "comparative": "amazinger",
-        "superlative": "amazingest"
+        "comparative": "more amazing",
+        "superlative": "most amazing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "amazing",
-          "definition": "a. 令人惊异的"
+          "definition": "adj. 令人驚異的、出色的、極好的"
         }
       ],
       "examples": [
         {
-          "en": "The view is amazing.",
+          "en": "The hotel has an amazing view of the harbor that keeps guests coming back.",
           "highlight": [
             "amazing"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家飯店有令人驚豔的港景，讓房客一再回流。"
+          }
+        },
+        {
+          "en": "Her ability to solve problems under pressure is more amazing than any technical skill.",
+          "highlight": [
+            "more amazing"
+          ],
+          "translations": {
+            "zh-TW": "她在壓力下解決問題的能力，比任何技術能力都更令人讚嘆。"
+          }
+        },
+        {
+          "en": "The team's most amazing achievement was launching the product in just six months.",
+          "highlight": [
+            "most amazing"
+          ],
+          "translations": {
+            "zh-TW": "這個團隊最令人驚奇的成就，是僅用六個月就推出產品。"
           }
         }
       ],
       "synonyms": [
         "astonishing",
-        "astounding"
+        "astounding",
+        "remarkable"
       ],
       "antonyms": [
         "ordinary",
-        "unremarkable"
+        "unremarkable",
+        "mediocre"
       ],
       "phrases": [
-        "amazing",
-        "experience",
-        "amazing",
-        "talent"
+        "amazing experience",
+        "amazing talent",
+        "amazing view",
+        "simply amazing"
       ]
     },
     {
@@ -439,33 +614,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "ambition",
-          "definition": "n. 野心, 志向"
+          "definition": "n. 野心、抱負、志向"
         }
       ],
       "examples": [
         {
-          "en": "His ambition is to become a doctor.",
+          "en": "Her ambition to become a chief financial officer keeps her focused on each promotion.",
           "highlight": [
             "ambition"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "成為財務長的抱負，讓她對每一次升遷都保持專注。"
+          }
+        },
+        {
+          "en": "Many young graduates bring fresh ambitions to the workplace, eager to prove themselves.",
+          "highlight": [
+            "ambitions"
+          ],
+          "translations": {
+            "zh-TW": "許多年輕畢業生帶著新的抱負進入職場，渴望證明自己。"
+          }
+        },
+        {
+          "en": "The CEO praised the team's ambition in expanding the brand across three new markets.",
+          "highlight": [
+            "ambition"
+          ],
+          "translations": {
+            "zh-TW": "執行長讚揚團隊將品牌拓展至三個新市場的雄心。"
           }
         }
       ],
       "synonyms": [
         "aspiration",
-        "goal"
+        "goal",
+        "drive"
       ],
       "antonyms": [
         "indifference",
-        "laziness"
+        "laziness",
+        "apathy"
       ],
       "phrases": [
-        "career",
-        "ambition",
-        "lifelong",
-        "ambition"
+        "career ambition",
+        "lifelong ambition",
+        "political ambition",
+        "unfulfilled ambition"
       ]
     }
   ]
