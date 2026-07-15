@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 21,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-021-001",
@@ -21,30 +21,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "any",
-          "definition": "a. 任何的, pron. 任何"
+          "definition": "det. 任何的、一些  pron. 任何一個  adv. 絲毫、一點也"
         }
       ],
       "examples": [
         {
-          "en": "Is there any milk left?",
+          "en": "Is there any available meeting room on this floor?",
           "highlight": [
             "any"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這層樓還有任何可用的會議室嗎？"
+          }
+        },
+        {
+          "en": "If you have any questions about the contract, please contact our legal team.",
+          "highlight": [
+            "any"
+          ],
+          "translations": {
+            "zh-TW": "如果您對合約有任何問題，請聯繫我們的法務團隊。"
+          }
+        },
+        {
+          "en": "We don't expect any delays in the shipping schedule this month.",
+          "highlight": [
+            "any"
+          ],
+          "translations": {
+            "zh-TW": "我們預期本月的出貨時程不會有任何延遲。"
           }
         }
       ],
       "synonyms": [
         "some",
-        "any"
+        "whatever",
+        "whichever"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "none",
+        "no"
+      ],
       "phrases": [
-        "any",
-        "time",
-        "any",
-        "day"
+        "any time",
+        "any day",
+        "any more",
+        "any other"
       ]
     },
     {
@@ -63,34 +85,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "anybody",
-          "definition": "pron. 任何人, n. 重要人物"
+          "definition": "pron. 任何人、無論誰"
         }
       ],
       "examples": [
         {
-          "en": "Anybody can join the club.",
+          "en": "Is anybody available to cover the front desk during lunch?",
           "highlight": [
             "anybody"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "午餐時間有任何人能代班顧前台嗎？"
+          }
+        },
+        {
+          "en": "Anybody can apply for the position, as long as they meet the basic requirements.",
+          "highlight": [
+            "Anybody"
+          ],
+          "translations": {
+            "zh-TW": "任何人都可以應徵這個職位，只要符合基本條件。"
+          }
+        },
+        {
+          "en": "Has anybody seen the quarterly report Mr. Chen left on the table?",
+          "highlight": [
+            "anybody"
+          ],
+          "translations": {
+            "zh-TW": "有人看到陳先生留在桌上的季報了嗎？"
           }
         }
       ],
       "synonyms": [
         "anyone",
-        "everyone"
+        "whoever",
+        "somebody"
       ],
       "antonyms": [
         "nobody",
-        "no",
-        "one"
+        "no one"
       ],
       "phrases": [
-        "anybody",
-        "else",
-        "anybody",
-        "interested"
+        "anybody else",
+        "anybody interested",
+        "hardly anybody"
       ]
     },
     {
@@ -109,34 +148,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "anyone",
-          "definition": "pron. 任何人"
+          "definition": "pron. 任何人、無論誰"
         }
       ],
       "examples": [
         {
-          "en": "Does anyone know the answer?",
+          "en": "Does anyone know when the new payment system goes live?",
           "highlight": [
             "anyone"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "有人知道新的付款系統什麼時候上線嗎？"
+          }
+        },
+        {
+          "en": "If anyone calls while I'm in the meeting, please take a message.",
+          "highlight": [
+            "anyone"
+          ],
+          "translations": {
+            "zh-TW": "如果我在開會時有人來電，請幫我留話。"
+          }
+        },
+        {
+          "en": "We haven't received anyone's feedback on the training session yet.",
+          "highlight": [
+            "anyone"
+          ],
+          "translations": {
+            "zh-TW": "我們還沒收到任何人對培訓課程的回饋。"
           }
         }
       ],
       "synonyms": [
         "anybody",
-        "everyone"
+        "somebody",
+        "whoever"
       ],
       "antonyms": [
         "nobody",
-        "no",
-        "one"
+        "no one"
       ],
       "phrases": [
-        "anyone",
-        "else",
-        "anyone",
-        "who"
+        "anyone else",
+        "anyone who",
+        "if anyone"
       ]
     },
     {
@@ -155,32 +211,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "anything",
-          "definition": "pron. 任何事"
+          "definition": "pron. 任何事物、任何事情"
         }
       ],
       "examples": [
         {
-          "en": "She will do anything for her children.",
+          "en": "Please let me know if anything in the invoice looks incorrect.",
           "highlight": [
             "anything"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "如果發票中有任何看起來不正確的地方，請告訴我。"
+          }
+        },
+        {
+          "en": "Is there anything else I can help you with before you leave?",
+          "highlight": [
+            "anything"
+          ],
+          "translations": {
+            "zh-TW": "在您離開之前，還有什麼我能幫忙的嗎？"
+          }
+        },
+        {
+          "en": "We don't have anything scheduled for Friday afternoon.",
+          "highlight": [
+            "anything"
+          ],
+          "translations": {
+            "zh-TW": "我們星期五下午沒有任何行程安排。"
           }
         }
       ],
       "synonyms": [
         "something",
-        "whatever"
+        "whatever",
+        "all"
       ],
       "antonyms": [
         "nothing"
       ],
       "phrases": [
-        "do",
-        "anything",
-        "anything",
-        "else"
+        "anything else",
+        "do anything",
+        "anything but"
       ]
     },
     {
@@ -199,31 +273,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "anyway",
-          "definition": "adv. 无论如何, 至少"
+          "definition": "adv. 無論如何、不管怎樣、至少"
         }
       ],
       "examples": [
         {
-          "en": "It's cold outside, but I'm going anyway.",
+          "en": "The deadline is tight, but we'll finish the proposal anyway.",
           "highlight": [
             "anyway"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "截止日期很緊，但我們無論如何都會完成提案。"
+          }
+        },
+        {
+          "en": "It's already late, so let's wrap up the call anyway.",
+          "highlight": [
+            "anyway"
+          ],
+          "translations": {
+            "zh-TW": "已經很晚了，不管怎樣我們先結束通話吧。"
+          }
+        },
+        {
+          "en": "Nobody expected the merger to go through, but it happened anyway.",
+          "highlight": [
+            "anyway"
+          ],
+          "translations": {
+            "zh-TW": "沒人料到合併案會通過，但它無論如何還是成真了。"
           }
         }
       ],
       "synonyms": [
         "nonetheless",
-        "nevertheless"
+        "nevertheless",
+        "regardless"
       ],
       "antonyms": [],
       "phrases": [
-        "anyway",
-        "I",
-        "think",
-        "but",
-        "anyway"
+        "anyway I think",
+        "but anyway",
+        "thanks anyway"
       ]
     },
     {
@@ -242,32 +333,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "anywhere",
-          "definition": "adv. 无论何處"
+          "definition": "adv. 任何地方、無論何處"
         }
       ],
       "examples": [
         {
-          "en": "You can find this product anywhere.",
+          "en": "You can access the company portal from anywhere with a stable internet connection.",
           "highlight": [
             "anywhere"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "只要有穩定的網路連線，您可以從任何地方存取公司入口網站。"
+          }
+        },
+        {
+          "en": "I've looked everywhere and can't find the invoice anywhere in the office.",
+          "highlight": [
+            "anywhere"
+          ],
+          "translations": {
+            "zh-TW": "我到處都找過了，辦公室裡任何地方都找不到那張發票。"
+          }
+        },
+        {
+          "en": "Our delivery service covers almost anywhere in the city.",
+          "highlight": [
+            "anywhere"
+          ],
+          "translations": {
+            "zh-TW": "我們的配送服務幾乎涵蓋市內任何地方。"
           }
         }
       ],
       "synonyms": [
         "everywhere",
-        "wherever"
+        "wherever",
+        "someplace"
       ],
       "antonyms": [
         "nowhere"
       ],
       "phrases": [
-        "find",
-        "anywhere",
-        "go",
-        "anywhere"
+        "find anywhere",
+        "go anywhere",
+        "anywhere near"
       ]
     },
     {
@@ -281,42 +390,58 @@
         "adverb",
         "adjective"
       ],
-      "conjugations": {
-        "comparative": "aparter",
-        "superlative": "apartest"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "apart",
-          "definition": "adv. 成零碎, 成距離, 分别地, 分離着, a. 分離的"
+          "definition": "adv. 分開地、相距、分離地  a. 分離的"
         }
       ],
       "examples": [
         {
-          "en": "He stood apart from the group.",
+          "en": "The two branch offices are located twenty kilometers apart.",
           "highlight": [
             "apart"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "兩間分公司相距二十公里。"
+          }
+        },
+        {
+          "en": "She took the printer apart to clean the ink cartridge slot.",
+          "highlight": [
+            "apart"
+          ],
+          "translations": {
+            "zh-TW": "她把印表機拆開，清理墨水匣插槽。"
+          }
+        },
+        {
+          "en": "Despite moving apart, the team still collaborated on the project remotely.",
+          "highlight": [
+            "apart"
+          ],
+          "translations": {
+            "zh-TW": "儘管各自分散兩地，團隊仍透過遠端合作完成專案。"
           }
         }
       ],
       "synonyms": [
         "separately",
-        "aside"
+        "aside",
+        "distant"
       ],
       "antonyms": [
         "together",
         "joined"
       ],
       "phrases": [
-        "stand",
-        "apart",
-        "set",
-        "apart"
+        "stand apart",
+        "set apart",
+        "take apart",
+        "apart from"
       ]
     },
     {
@@ -337,34 +462,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "apartment",
-          "definition": "n. 房間, 公寓"
+          "definition": "n. 公寓、套房"
         }
       ],
       "examples": [
         {
-          "en": "She lives in an apartment downtown.",
+          "en": "She rented a furnished apartment near the company headquarters.",
           "highlight": [
             "apartment"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在公司總部附近租了一間附家具的公寓。"
+          }
+        },
+        {
+          "en": "The company owns several luxury apartments for visiting executives.",
+          "highlight": [
+            "apartments"
+          ],
+          "translations": {
+            "zh-TW": "公司擁有幾間豪華公寓，供來訪的高階主管住宿。"
+          }
+        },
+        {
+          "en": "Many young employees share apartments to save on living costs.",
+          "highlight": [
+            "apartments"
+          ],
+          "translations": {
+            "zh-TW": "許多年輕員工合租公寓以節省生活開銷。"
           }
         }
       ],
       "synonyms": [
         "flat",
-        "condo"
+        "condo",
+        "residence"
       ],
       "antonyms": [
-        "house",
-        "villa"
+        "house"
       ],
       "phrases": [
-        "luxury",
-        "apartment",
-        "rent",
-        "an",
-        "apartment"
+        "rent an apartment",
+        "luxury apartment",
+        "apartment building",
+        "studio apartment"
       ]
     },
     {
@@ -378,42 +520,58 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "apologizeed",
-        "past_participle": "apologizeed",
-        "present_participle": "apologizing",
-        "third_person": "apologizes"
+        "present_3rd": "apologizes",
+        "past": "apologized",
+        "past_participle": "apologized",
+        "ing": "apologizing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "apologize",
-          "definition": "vi. 道歉, 辩解"
+          "definition": "vi. 道歉、致歉"
         }
       ],
       "examples": [
         {
-          "en": "I apologize for the mistake.",
+          "en": "I apologize for the delay in responding to your email.",
           "highlight": [
             "apologize"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "對於延遲回覆您的電子郵件，我深感抱歉。"
+          }
+        },
+        {
+          "en": "The manager apologized to the client for the billing error last week.",
+          "highlight": [
+            "apologized"
+          ],
+          "translations": {
+            "zh-TW": "經理上週因帳單錯誤向客戶道了歉。"
+          }
+        },
+        {
+          "en": "The CEO is apologizing publicly for the product quality issue.",
+          "highlight": [
+            "apologizing"
+          ],
+          "translations": {
+            "zh-TW": "執行長正為產品品質問題公開致歉。"
           }
         }
       ],
       "synonyms": [
-        "say",
-        "sorry",
-        "express",
-        "regret"
+        "say sorry",
+        "express regret",
+        "make amends"
       ],
       "antonyms": [],
       "phrases": [
-        "apologize",
-        "for",
-        "apologize",
-        "to"
+        "apologize to",
+        "apologize for",
+        "apologize sincerely"
       ]
     },
     {
@@ -427,41 +585,61 @@
         "adjective"
       ],
       "conjugations": {
-        "comparative": "apparenter",
-        "superlative": "apparentest"
+        "comparative": "more apparent",
+        "superlative": "most apparent"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "apparent",
-          "definition": "a. 清晰可见的, 顯然的, 表面上的, [电] 外在的"
+          "definition": "a. 明顯的、顯而易見的、表面上的"
         }
       ],
       "examples": [
         {
-          "en": "It was apparent that she was upset.",
+          "en": "It was apparent that the supplier had no intention of fulfilling the order.",
           "highlight": [
             "apparent"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "供應商顯然沒有打算履行訂單。"
+          }
+        },
+        {
+          "en": "The decline in sales became more apparent after the new competitor entered the market.",
+          "highlight": [
+            "more apparent"
+          ],
+          "translations": {
+            "zh-TW": "在其他競爭者進入市場後，銷售下滑的趨勢變得更加明顯。"
+          }
+        },
+        {
+          "en": "Her dedication to the project was most apparent during the final week of launch.",
+          "highlight": [
+            "most apparent"
+          ],
+          "translations": {
+            "zh-TW": "在產品上線的最後一週，她對專案的投入最為顯而易見。"
           }
         }
       ],
       "synonyms": [
         "obvious",
-        "evident"
+        "evident",
+        "clear"
       ],
       "antonyms": [
         "hidden",
-        "unclear"
+        "unclear",
+        "obscure"
       ],
       "phrases": [
-        "become",
-        "apparent",
-        "make",
-        "apparent"
+        "become apparent",
+        "make apparent",
+        "apparent reason",
+        "apparent to all"
       ]
     }
   ]
