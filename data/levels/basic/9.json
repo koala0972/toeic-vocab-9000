@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 9,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-009-001",
@@ -14,44 +14,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "acknowledgeed",
-        "past_participle": "acknowledgeed",
-        "present_participle": "acknowledging",
-        "third_person": "acknowledges"
+        "present_3rd": "acknowledges",
+        "past": "acknowledged",
+        "past_participle": "acknowledged",
+        "ing": "acknowledging"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "acknowledge",
-          "definition": "vt. 承认, 告知收悉, 答謝, 报偿, [經] 承认, 答謝, 收到的通知"
+          "definition": "v. 承認、告知已收到、答謝"
         }
       ],
       "examples": [
         {
-          "en": "She acknowledged the problem.",
+          "en": "Please acknowledge receipt of this email within 24 hours.",
           "highlight": [
             "acknowledge"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在二十四小時內回覆確認已收到此電子郵件。"
+          }
+        },
+        {
+          "en": "The manager acknowledged that the deadline was too tight.",
+          "highlight": [
+            "acknowledged"
+          ],
+          "translations": {
+            "zh-TW": "經理承認截止日期太緊迫了。"
+          }
+        },
+        {
+          "en": "She is acknowledged as the leading expert in the field.",
+          "highlight": [
+            "acknowledged"
+          ],
+          "translations": {
+            "zh-TW": "她被公認為該領域最頂尖的專家。"
           }
         }
       ],
       "synonyms": [
         "admit",
-        "accept"
+        "recognize",
+        "concede"
       ],
       "antonyms": [
         "deny",
         "reject"
       ],
       "phrases": [
-        "acknowledge",
-        "a",
-        "problem",
-        "acknowledge",
-        "an"
+        "acknowledge receipt",
+        "acknowledge a mistake",
+        "acknowledge the fact",
+        "acknowledge a source"
       ]
     },
     {
@@ -65,43 +83,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "acquireed",
-        "past_participle": "acquireed",
-        "present_participle": "acquiring",
-        "third_person": "acquires"
+        "present_3rd": "acquires",
+        "past": "acquired",
+        "past_participle": "acquired",
+        "ing": "acquiring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "acquire",
-          "definition": "vt. 获得, 学到, [电] 目标锁定"
+          "definition": "v. 獲得、取得、收購、學到"
         }
       ],
       "examples": [
         {
-          "en": "She acquired new skills.",
+          "en": "The company plans to acquire a smaller competitor next year.",
           "highlight": [
             "acquire"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司計畫明年收購一家規模較小的競爭對手。"
+          }
+        },
+        {
+          "en": "He acquired extensive experience working in three different countries.",
+          "highlight": [
+            "acquired"
+          ],
+          "translations": {
+            "zh-TW": "他在三個不同國家工作，累積了豐富的經驗。"
+          }
+        },
+        {
+          "en": "They are acquiring new equipment to improve production efficiency.",
+          "highlight": [
+            "acquiring"
+          ],
+          "translations": {
+            "zh-TW": "他們正在採購新設備以提升生產效率。"
           }
         }
       ],
       "synonyms": [
         "obtain",
-        "get"
+        "gain",
+        "purchase"
       ],
       "antonyms": [
         "lose",
         "forfeit"
       ],
       "phrases": [
-        "acquire",
-        "knowledge",
-        "acquire",
-        "skills"
+        "acquire knowledge",
+        "acquire skills",
+        "acquire a company",
+        "acquire property"
       ]
     },
     {
@@ -121,30 +158,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "across",
-          "definition": "prep. 越過, 穿過, 與...相交叉, 在...的對面, adv. 交叉, 到另一边, 在對面, 成十字"
+          "definition": "prep. 越過、穿過、在…的對面  adv. 交叉地、到另一邊"
         }
       ],
       "examples": [
         {
-          "en": "She walked across the street.",
+          "en": "The new bridge across the river will open to traffic next month.",
           "highlight": [
             "across"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "橫跨這條河的新橋下個月將開放通車。"
+          }
+        },
+        {
+          "en": "Our company has offices across the country.",
+          "highlight": [
+            "across"
+          ],
+          "translations": {
+            "zh-TW": "我們公司在全國各地都設有辦公室。"
+          }
+        },
+        {
+          "en": "She came across some old photos while cleaning the attic.",
+          "highlight": [
+            "across"
+          ],
+          "translations": {
+            "zh-TW": "她在清理閣樓時偶然發現了一些舊照片。"
           }
         }
       ],
       "synonyms": [
         "over",
-        "through"
+        "through",
+        "crossing"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "within",
+        "inside"
+      ],
       "phrases": [
-        "walk",
-        "across",
-        "travel",
-        "across"
+        "across the street",
+        "across the board",
+        "come across",
+        "across the country"
       ]
     },
     {
@@ -159,32 +218,52 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "acted",
+        "plural": "acts",
+        "present_3rd": "acts",
+        "past": "acted",
         "past_participle": "acted",
-        "present_participle": "acting",
-        "third_person": "acts"
+        "ing": "acting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "act",
-          "definition": "n. 行動, 行為, 幕, 法案, vi. 行動, 表演, 假装, 见效, 表现, 担当, vt. 扮演, 装作, [计] 先进通信技术, 先进计算机工艺, 自動代码翻译技术"
+          "definition": "v. 行動、表現、表演  n. 行為、法案、一幕"
         }
       ],
       "examples": [
         {
-          "en": "She decided to act.",
+          "en": "We must act quickly to meet the client's deadline.",
           "highlight": [
             "act"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們必須迅速採取行動以趕上客戶的期限。"
+          }
+        },
+        {
+          "en": "She acted as the temporary manager while the director was on leave.",
+          "highlight": [
+            "acted"
+          ],
+          "translations": {
+            "zh-TW": "在主管請假期間，她擔任代理經理。"
+          }
+        },
+        {
+          "en": "He is acting on behalf of the board during the negotiation.",
+          "highlight": [
+            "acting"
+          ],
+          "translations": {
+            "zh-TW": "在談判過程中，他代表董事會行事。"
           }
         }
       ],
       "synonyms": [
         "perform",
+        "behave",
         "do"
       ],
       "antonyms": [
@@ -192,10 +271,10 @@
         "stop"
       ],
       "phrases": [
-        "act",
-        "quickly",
-        "act",
-        "on"
+        "act quickly",
+        "act on behalf",
+        "act of Congress",
+        "act of kindness"
       ]
     },
     {
@@ -216,33 +295,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "action",
-          "definition": "n. 行動, 活動, 動作, 作用, 战斗, 行為, 诉讼, vt. 對...起诉, [计] 方式"
+          "definition": "n. 行動、動作、作為、訴訟"
         }
       ],
       "examples": [
         {
-          "en": "She took action to improve her grades.",
+          "en": "The committee took action to resolve the safety issue.",
           "highlight": [
             "action"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "委員會採取行動解決安全問題。"
+          }
+        },
+        {
+          "en": "His actions during the crisis earned him a promotion.",
+          "highlight": [
+            "actions"
+          ],
+          "translations": {
+            "zh-TW": "他在危機期間的作為讓他獲得了升遷。"
+          }
+        },
+        {
+          "en": "The company filed a legal action against the infringing competitor.",
+          "highlight": [
+            "action"
+          ],
+          "translations": {
+            "zh-TW": "公司對侵權的競爭對手提起了法律訴訟。"
           }
         }
       ],
       "synonyms": [
         "deed",
-        "operation"
+        "measure",
+        "step"
       ],
       "antonyms": [
         "inaction",
         "inactivity"
       ],
       "phrases": [
-        "take",
-        "action",
-        "action",
-        "plan"
+        "take action",
+        "action plan",
+        "course of action",
+        "legal action"
       ]
     },
     {
@@ -256,41 +354,61 @@
         "adjective"
       ],
       "conjugations": {
-        "comparative": "activeer",
-        "superlative": "activeest"
+        "comparative": "more active",
+        "superlative": "most active"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "active",
-          "definition": "a. 活跃的, 起作用的, 积极的, 有效的, 主動的, 活性的, 现行的, 现役的, n. 主動語态, 积极分子"
+          "definition": "adj. 活躍的、積極的、主動的、有效的"
         }
       ],
       "examples": [
         {
-          "en": "She is an active member of the community.",
+          "en": "She is an active member of the trade association.",
           "highlight": [
             "active"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她是該貿易協會的活躍會員。"
+          }
+        },
+        {
+          "en": "Investors are more active in the market during earning season.",
+          "highlight": [
+            "more active"
+          ],
+          "translations": {
+            "zh-TW": "在財報季期間，投資人在市場上更加活躍。"
+          }
+        },
+        {
+          "en": "Japan is the most active trading partner in the region.",
+          "highlight": [
+            "most active"
+          ],
+          "translations": {
+            "zh-TW": "日本是該地區最活躍的貿易夥伴。"
           }
         }
       ],
       "synonyms": [
         "energetic",
-        "lively"
+        "lively",
+        "dynamic"
       ],
       "antonyms": [
         "inactive",
+        "passive",
         "lazy"
       ],
       "phrases": [
-        "active",
-        "lifestyle",
-        "active",
-        "role"
+        "active member",
+        "active role",
+        "active duty",
+        "active ingredient"
       ]
     },
     {
@@ -309,33 +427,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "actively",
-          "definition": "adv. 活跃地, 积极地"
+          "definition": "adv. 活躍地、積極地"
         }
       ],
       "examples": [
         {
-          "en": "She is actively involved in the project.",
+          "en": "The team actively participated in the brainstorming session.",
           "highlight": [
             "actively"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "團隊積極參與了腦力激盪會議。"
+          }
+        },
+        {
+          "en": "Our company actively seeks candidates from diverse backgrounds.",
+          "highlight": [
+            "actively"
+          ],
+          "translations": {
+            "zh-TW": "我們公司積極招募來自不同背景的候選人。"
+          }
+        },
+        {
+          "en": "The government is actively promoting renewable energy policies.",
+          "highlight": [
+            "actively"
+          ],
+          "translations": {
+            "zh-TW": "政府正積極推動再生能源政策。"
           }
         }
       ],
       "synonyms": [
         "energetically",
-        "vigorously"
+        "vigorously",
+        "diligently"
       ],
       "antonyms": [
         "inactively",
-        "lazily"
+        "lazily",
+        "passively"
       ],
       "phrases": [
-        "actively",
-        "participate",
-        "actively",
-        "engage"
+        "actively participate",
+        "actively seek",
+        "actively promote",
+        "actively involved"
       ]
     },
     {
@@ -356,33 +494,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "activity",
-          "definition": "n. 活動, 行動, 活跃, 活力, [计] 活動"
+          "definition": "n. 活動、活力、熱鬧"
         }
       ],
       "examples": [
         {
-          "en": "She enjoys outdoor activities.",
+          "en": "Business activity slowed down during the holiday season.",
           "highlight": [
             "activity"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "假期期間商業活動放緩。"
+          }
+        },
+        {
+          "en": "The resort offers various outdoor activities for guests.",
+          "highlight": [
+            "activities"
+          ],
+          "translations": {
+            "zh-TW": "度假村為住客提供各種戶外活動。"
+          }
+        },
+        {
+          "en": "Volunteer activities are encouraged and rewarded at our company.",
+          "highlight": [
+            "activities"
+          ],
+          "translations": {
+            "zh-TW": "我們公司鼓勵並獎勵志工活動。"
           }
         }
       ],
       "synonyms": [
         "action",
-        "pursuit"
+        "pursuit",
+        "movement"
       ],
       "antonyms": [
         "inactivity",
         "idleness"
       ],
       "phrases": [
-        "recreational",
-        "activity",
-        "physical",
-        "activity"
+        "business activity",
+        "outdoor activities",
+        "physical activity",
+        "criminal activity"
       ]
     },
     {
@@ -403,30 +560,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "actor",
-          "definition": "n. 男演員, 行動者, [医] 作用物, 反应物"
+          "definition": "n. 男演員、參與者、行動者"
         }
       ],
       "examples": [
         {
-          "en": "He is a famous actor.",
+          "en": "The actor is rehearsing for his role in the new play.",
           "highlight": [
             "actor"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位男演員正在為他在新劇中的角色排練。"
+          }
+        },
+        {
+          "en": "Several famous actors were invited to the charity gala.",
+          "highlight": [
+            "actors"
+          ],
+          "translations": {
+            "zh-TW": "幾位知名男演員受邀參加慈善晚會。"
+          }
+        },
+        {
+          "en": "Each actor must understand the director's vision for the film.",
+          "highlight": [
+            "actor"
+          ],
+          "translations": {
+            "zh-TW": "每位演員都必須理解導演對這部電影的構想。"
           }
         }
       ],
       "synonyms": [
         "performer",
+        "player",
         "thespian"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "spectator",
+        "audience"
+      ],
       "phrases": [
-        "leading",
-        "actor",
-        "supporting",
-        "actor"
+        "leading actor",
+        "supporting actor",
+        "professional actor",
+        "stage actor"
       ]
     },
     {
@@ -452,28 +631,46 @@
       ],
       "examples": [
         {
-          "en": "She won an award for best actress.",
+          "en": "The young actress won the award for best leading role.",
           "highlight": [
             "actress"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位年輕的女演員贏得了最佳女主角獎。"
+          }
+        },
+        {
+          "en": "Several veteran actresses attended the film premiere.",
+          "highlight": [
+            "actresses"
+          ],
+          "translations": {
+            "zh-TW": "幾位資深女演員出席了電影首映會。"
+          }
+        },
+        {
+          "en": "The actress has been nominated for three awards this season.",
+          "highlight": [
+            "actress"
+          ],
+          "translations": {
+            "zh-TW": "這位女演員本季入圍了三項大獎。"
           }
         }
       ],
       "synonyms": [
-        "female",
-        "actor"
+        "female actor",
+        "performer",
+        "player"
       ],
       "antonyms": [
-        "male",
         "actor"
       ],
       "phrases": [
-        "leading",
-        "actress",
-        "supporting",
-        "actress"
+        "leading actress",
+        "supporting actress",
+        "award-winning actress",
+        "Hollywood actress"
       ]
     }
   ]
