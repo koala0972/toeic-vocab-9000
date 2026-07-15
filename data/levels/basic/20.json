@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 20,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-020-001",
@@ -14,41 +14,60 @@
         "adjective"
       ],
       "conjugations": {
-        "comparative": "annoyinger",
-        "superlative": "annoyingest"
+        "comparative": "more annoying",
+        "superlative": "most annoying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "annoying",
-          "definition": "a. 恼人的, 讨厌的"
+          "definition": "a. 惱人的、令人煩躁的"
         }
       ],
       "examples": [
         {
-          "en": "The loud music was annoying.",
+          "en": "The constant noise from the construction site is really annoying.",
           "highlight": [
             "annoying"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "建築工地持續不斷的噪音實在很令人煩躁。"
+          }
+        },
+        {
+          "en": "His habit of interrupting meetings is more annoying than the delays themselves.",
+          "highlight": [
+            "more annoying"
+          ],
+          "translations": {
+            "zh-TW": "他在會議中插嘴的習慣比延遲本身更令人惱怒。"
+          }
+        },
+        {
+          "en": "Of all the complaints we receive, spam emails are the most annoying.",
+          "highlight": [
+            "most annoying"
+          ],
+          "translations": {
+            "zh-TW": "在我們收到的所有投訴中，垃圾郵件是最令人煩躁的。"
           }
         }
       ],
       "synonyms": [
         "irritating",
-        "vexing"
+        "vexing",
+        "bothersome"
       ],
       "antonyms": [
         "pleasing",
         "delightful"
       ],
       "phrases": [
-        "annoying",
-        "habit",
-        "annoying",
-        "person"
+        "annoying habit",
+        "annoying person",
+        "annoying problem",
+        "really annoying"
       ]
     },
     {
@@ -59,42 +78,63 @@
       "toeic_score_min": 200,
       "word": "annual",
       "pos": [
-        "adjective"
+        "adjective",
+        "noun"
       ],
       "conjugations": {
-        "comparative": "annualer",
-        "superlative": "annualest"
+        "plural": "annuals"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "annual",
-          "definition": "n. 年刊, 年报, a. 每年的, 一年一次的, 全年的, 一年生的"
+          "definition": "a. 每年的、一年一次的  n. 年刊、年報"
         }
       ],
       "examples": [
         {
-          "en": "The annual meeting is in July.",
+          "en": "All employees must attend the annual performance review meeting.",
           "highlight": [
             "annual"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "所有員工都必須出席年度績效考核會議。"
+          }
+        },
+        {
+          "en": "The company publishes its annuals summarising each fiscal year's highlights.",
+          "highlight": [
+            "annuals"
+          ],
+          "translations": {
+            "zh-TW": "公司出版年刊，摘要各個會計年度的重點。"
+          }
+        },
+        {
+          "en": "Shareholders are waiting for the annual report to assess this year's profits.",
+          "highlight": [
+            "annual"
+          ],
+          "translations": {
+            "zh-TW": "股東們正在等待年報，以評估今年的利潤。"
           }
         }
       ],
       "synonyms": [
         "yearly",
-        "per",
-        "annum"
+        "perennial",
+        "recurrent"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "one-time",
+        "occasional"
+      ],
       "phrases": [
-        "annual",
-        "report",
-        "annual",
-        "income"
+        "annual report",
+        "annual meeting",
+        "annual income",
+        "annual review"
       ]
     },
     {
@@ -108,36 +148,57 @@
         "adverb"
       ],
       "conjugations": {},
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "annually",
-          "definition": "adv. 一年一次, 每年, [經] 年度的, 每年的"
+          "definition": "adv. 每年地、一年一次地"
         }
       ],
       "examples": [
         {
-          "en": "The event is held annually.",
+          "en": "The trade fair is held annually in Tokyo every spring.",
           "highlight": [
             "annually"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這個商展每年春天在東京舉辦一次。"
+          }
+        },
+        {
+          "en": "Our department's budget is reviewed annually by the finance committee.",
+          "highlight": [
+            "annually"
+          ],
+          "translations": {
+            "zh-TW": "我們部門的預算每年由財務委員會審核一次。"
+          }
+        },
+        {
+          "en": "She donates ten percent of her salary annually to local charities.",
+          "highlight": [
+            "annually"
+          ],
+          "translations": {
+            "zh-TW": "她每年將百分之十的薪水捐給當地的慈善機構。"
           }
         }
       ],
       "synonyms": [
         "yearly",
-        "each",
-        "year"
+        "each year",
+        "per annum"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "monthly",
+        "quarterly"
+      ],
       "phrases": [
-        "celebrated",
-        "annually",
-        "review",
-        "annually"
+        "held annually",
+        "reviewed annually",
+        "published annually",
+        "reported annually"
       ]
     },
     {
@@ -157,34 +218,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "another",
-          "definition": "a. 另外的, 再一的, 不同的, pron. 又一個, 另一個, 类似的另一個"
+          "definition": "det. 另一的、再加一個  pron. 另一個"
         }
       ],
       "examples": [
         {
-          "en": "She needs another pen.",
+          "en": "Could you send me another copy of the contract by email?",
           "highlight": [
             "another"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "你可以再用電子郵件寄一份合約副本給我嗎？"
+          }
+        },
+        {
+          "en": "This proposal is unsatisfactory; let's try another approach.",
+          "highlight": [
+            "another"
+          ],
+          "translations": {
+            "zh-TW": "這份提案不盡人意；我們換另一種方式試試看。"
+          }
+        },
+        {
+          "en": "One candidate declined the offer, so the manager interviewed another.",
+          "highlight": [
+            "another"
+          ],
+          "translations": {
+            "zh-TW": "一位應徵者婉拒了錄取，因此經理面試了另一位。"
           }
         }
       ],
       "synonyms": [
         "additional",
-        "one",
-        "more"
+        "one more",
+        "a different"
       ],
       "antonyms": [
         "same",
         "identical"
       ],
       "phrases": [
-        "another",
-        "one",
-        "another",
-        "example"
+        "another one",
+        "another day",
+        "another time",
+        "one after another"
       ]
     },
     {
@@ -199,43 +278,64 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "answered",
+        "plural": "answers",
+        "present_3rd": "answers",
+        "past": "answered",
         "past_participle": "answered",
-        "present_participle": "answering",
-        "third_person": "answers"
+        "ing": "answering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "answer",
-          "definition": "n. 答案, 回答, 回报, 答辩, vt. 回答, 反驳, 适应, 響应, 符合, vi. 回答, 答应, 负责, 符合, 成功, [计] 用户问题及答案新聞组"
+          "definition": "n. 答案、回答  v. 回答、回覆"
         }
       ],
       "examples": [
         {
-          "en": "She gave the right answer.",
+          "en": "Please leave a short answer to each question on the form.",
           "highlight": [
             "answer"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在表格上為每個問題簡短作答。"
+          }
+        },
+        {
+          "en": "She answered all the interview questions with confidence.",
+          "highlight": [
+            "answered"
+          ],
+          "translations": {
+            "zh-TW": "她自信地回答了所有面試問題。"
+          }
+        },
+        {
+          "en": "The receptionist is busy answering phone calls from customers.",
+          "highlight": [
+            "answering"
+          ],
+          "translations": {
+            "zh-TW": "接待員正忙著回覆顧客的電話。"
           }
         }
       ],
       "synonyms": [
         "reply",
-        "respond"
+        "respond",
+        "resolve"
       ],
       "antonyms": [
         "question",
-        "query"
+        "query",
+        "ask"
       ],
       "phrases": [
-        "correct",
-        "answer",
-        "answer",
-        "quickly"
+        "answer the phone",
+        "correct answer",
+        "answer a question",
+        "in answer to"
       ]
     },
     {
@@ -254,30 +354,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "anti-",
-          "definition": "pref. 抗, 反, [医] 對抗, 解, 抑制, 取消"
+          "definition": "pref. 反、抗、反對"
         }
       ],
       "examples": [
         {
-          "en": "This is an anti-war protest.",
+          "en": "Thousands joined the anti-war protest in the city centre.",
           "highlight": [
-            "anti-"
+            "anti-war"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "數以千計的群眾加入市中心反戰的抗議活動。"
+          }
+        },
+        {
+          "en": "The doctor prescribed an anti-inflammatory drug for the swelling.",
+          "highlight": [
+            "anti-inflammatory"
+          ],
+          "translations": {
+            "zh-TW": "醫師開了一種抗發炎的藥物來消腫。"
+          }
+        },
+        {
+          "en": "Many consumers prefer anti-aging skincare products nowadays.",
+          "highlight": [
+            "anti-aging"
+          ],
+          "translations": {
+            "zh-TW": "如今許多消費者偏好抗老護膚產品。"
           }
         }
       ],
       "synonyms": [
         "against",
-        "opposing"
+        "opposing",
+        "counter"
       ],
       "antonyms": [
-        "pro-"
+        "pro-",
+        "supporting"
       ],
       "phrases": [
+        "anti-war",
         "anti-inflammatory",
-        "anti-aging"
+        "anti-aging",
+        "anti-virus"
       ]
     },
     {
@@ -291,40 +413,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "anticipateed",
-        "past_participle": "anticipateed",
-        "present_participle": "anticipating",
-        "third_person": "anticipates"
+        "present_3rd": "anticipates",
+        "past": "anticipated",
+        "past_participle": "anticipated",
+        "ing": "anticipating"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "anticipate",
-          "definition": "vt. 预期, 占先, 加速, 提前使用, [医] 提前出现, 先期發生"
+          "definition": "v. 預期、預料、期待"
         }
       ],
       "examples": [
         {
-          "en": "They anticipate a lot of rain.",
+          "en": "Analysts anticipate a steady rise in quarterly sales.",
           "highlight": [
             "anticipate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "分析師預期季度銷售額會穩定上升。"
+          }
+        },
+        {
+          "en": "The manager anticipated the shortage and ordered extra supplies in advance.",
+          "highlight": [
+            "anticipated"
+          ],
+          "translations": {
+            "zh-TW": "經理預料到缺貨的情況，提前訂購了額外的物資。"
+          }
+        },
+        {
+          "en": "We are anticipating a large crowd at the product launch event.",
+          "highlight": [
+            "anticipating"
+          ],
+          "translations": {
+            "zh-TW": "我們預期產品發表會上會有大批人潮。"
           }
         }
       ],
       "synonyms": [
         "expect",
-        "foresee"
+        "foresee",
+        "predict"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "doubt",
+        "question"
+      ],
       "phrases": [
-        "eagerly",
-        "anticipate",
-        "anticipate",
-        "problems"
+        "anticipate problems",
+        "eagerly anticipate",
+        "anticipate change",
+        "anticipate demand"
       ]
     },
     {
@@ -345,33 +489,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "anxiety",
-          "definition": "n. 焦虑, 忧虑, 令人焦虑的事, [医] 焦虑"
+          "definition": "n. 焦慮、憂慮、令人擔憂的事"
         }
       ],
       "examples": [
         {
-          "en": "He felt a surge of anxiety.",
+          "en": "Public speaking causes him a great deal of anxiety.",
           "highlight": [
             "anxiety"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公開演講讓他感到非常焦慮。"
+          }
+        },
+        {
+          "en": "The ongoing layoffs have created many anxieties among the staff.",
+          "highlight": [
+            "anxieties"
+          ],
+          "translations": {
+            "zh-TW": "持續的裁員在員工之間引發了許多焦慮。"
+          }
+        },
+        {
+          "en": "Her anxiety about the exam kept her awake the whole night.",
+          "highlight": [
+            "anxiety"
+          ],
+          "translations": {
+            "zh-TW": "她對考試的焦慮使她整晚無法入睡。"
           }
         }
       ],
       "synonyms": [
         "worry",
-        "concern"
+        "concern",
+        "nervousness"
       ],
       "antonyms": [
         "calm",
-        "confidence"
+        "confidence",
+        "ease"
       ],
       "phrases": [
-        "general",
-        "anxiety",
-        "cause",
-        "anxiety"
+        "anxiety disorder",
+        "cause anxiety",
+        "relieve anxiety",
+        "anxiety about"
       ]
     },
     {
@@ -385,41 +549,61 @@
         "adjective"
       ],
       "conjugations": {
-        "comparative": "anxiouser",
-        "superlative": "anxiousest"
+        "comparative": "more anxious",
+        "superlative": "most anxious"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "anxious",
-          "definition": "a. 忧虑的, 發愁的, 渴望的"
+          "definition": "a. 焦慮的、擔憂的、渴望的"
         }
       ],
       "examples": [
         {
-          "en": "She was anxious about the test.",
+          "en": "The new hire felt anxious on her first day at the office.",
           "highlight": [
             "anxious"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新進員工在上班第一天感到焦慮。"
+          }
+        },
+        {
+          "en": "Investors grew more anxious as the stock price continued to fall.",
+          "highlight": [
+            "more anxious"
+          ],
+          "translations": {
+            "zh-TW": "隨著股價持續下跌，投資人變得更加焦慮。"
+          }
+        },
+        {
+          "en": "He was the most anxious of all the candidates before the final interview.",
+          "highlight": [
+            "most anxious"
+          ],
+          "translations": {
+            "zh-TW": "在最終面試前，他是所有應徵者中最緊張的。"
           }
         }
       ],
       "synonyms": [
         "worried",
-        "uneasy"
+        "uneasy",
+        "nervous"
       ],
       "antonyms": [
         "calm",
-        "relaxed"
+        "relaxed",
+        "confident"
       ],
       "phrases": [
-        "anxious",
-        "about",
-        "anxious",
-        "for"
+        "anxious about",
+        "anxious for",
+        "feel anxious",
+        "anxious to please"
       ]
     },
     {
@@ -438,33 +622,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "anxiously",
-          "definition": "adv. 忧虑地, 不安地"
+          "definition": "adv. 焦慮地、不安地"
         }
       ],
       "examples": [
         {
-          "en": "They waited anxiously for news.",
+          "en": "The team waited anxiously for the client's final decision.",
           "highlight": [
             "anxiously"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "團隊焦急地等待客戶做最終決定。"
+          }
+        },
+        {
+          "en": "She checked her inbox anxiously every five minutes for the reply.",
+          "highlight": [
+            "anxiously"
+          ],
+          "translations": {
+            "zh-TW": "她每五分鐘就緊張地查看收件匣，等待回覆。"
+          }
+        },
+        {
+          "en": "Investors watched the market anxiously as prices began to drop.",
+          "highlight": [
+            "anxiously"
+          ],
+          "translations": {
+            "zh-TW": "投資人不安地盯著市場看價格開始下跌。"
           }
         }
       ],
       "synonyms": [
         "nervously",
-        "worriedly"
+        "worriedly",
+        "uneasily"
       ],
       "antonyms": [
         "calmly",
-        "confidently"
+        "confidently",
+        "relaxedly"
       ],
       "phrases": [
-        "wait",
-        "anxiously",
-        "look",
-        "anxiously"
+        "wait anxiously",
+        "look anxiously",
+        "anxiously awaiting",
+        "check anxiously"
       ]
     }
   ]
