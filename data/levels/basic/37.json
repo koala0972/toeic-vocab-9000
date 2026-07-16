@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 37,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-037-001",
@@ -12,44 +12,66 @@
       "word": "bent",
       "pos": [
         "adjective",
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "bents"
+        "plural": "bents",
+        "present_3rd": "bends",
+        "past": "bent",
+        "past_participle": "bent",
+        "ing": "bending"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bent",
-          "definition": "a. 弯曲的, 决心的, n. 爱好, bend的過去式和過去分词"
+          "definition": "adj. 彎曲的、決心的  n. 嗜好、傾向  v. bend 的過去式與過去分詞"
         }
       ],
       "examples": [
         {
-          "en": "The metal rod was bent.",
+          "en": "The metal rod was bent during shipping and no longer fits the frame.",
           "highlight": [
             "bent"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "金屬桿在運送過程中彎曲了，不再契合框架。"
+          }
+        },
+        {
+          "en": "He bent down to pick up the documents that had fallen on the floor.",
+          "highlight": [
+            "bent"
+          ],
+          "translations": {
+            "zh-TW": "他彎下腰撿起掉在地上的文件。"
+          }
+        },
+        {
+          "en": "She has a bent for languages and speaks four fluently.",
+          "highlight": [
+            "bent"
+          ],
+          "translations": {
+            "zh-TW": "她天生對語言有天分，能流利地說四種語言。"
           }
         }
       ],
       "synonyms": [
         "curved",
-        "angled"
+        "angled",
+        "determined"
       ],
       "antonyms": [
         "straight",
         "unbent"
       ],
       "phrases": [
-        "bent",
-        "out",
-        "of",
-        "shape",
-        "bent"
+        "bent out of shape",
+        "bent on doing",
+        "have a bent for"
       ]
     },
     {
@@ -68,34 +90,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "beside",
-          "definition": "prep. 在旁边"
+          "definition": "prep. 在……旁邊、與……相比"
         }
       ],
       "examples": [
         {
-          "en": "She sat beside him.",
+          "en": "She sat beside the CEO during the board meeting.",
           "highlight": [
             "beside"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "董事會議期間，她坐在執行長旁邊。"
+          }
+        },
+        {
+          "en": "The hotel is located right beside the train station, which is very convenient.",
+          "highlight": [
+            "beside"
+          ],
+          "translations": {
+            "zh-TW": "飯店就位於火車站旁邊，非常方便。"
+          }
+        },
+        {
+          "en": "Beside last year's record, this quarter's sales look disappointing.",
+          "highlight": [
+            "beside"
+          ],
+          "translations": {
+            "zh-TW": "與去年的紀錄相比，本季的銷售顯得令人失望。"
           }
         }
       ],
       "synonyms": [
-        "next",
-        "to",
-        "alongside"
+        "next to",
+        "alongside",
+        "by"
       ],
       "antonyms": [
-        "away",
-        "from"
+        "away from",
+        "far from"
       ],
       "phrases": [
-        "stand",
-        "beside",
-        "sit",
-        "beside"
+        "beside the point",
+        "beside oneself",
+        "stand beside"
       ]
     },
     {
@@ -118,33 +157,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "best",
-          "definition": "a. 最好的, adv. 最好地, n. 最好的人"
+          "definition": "adj. 最好的  adv. 最好地  n. 最好的人或事物"
         }
       ],
       "examples": [
         {
-          "en": "This is the best cake I've ever had.",
+          "en": "This is the best cake I have ever had in my life.",
           "highlight": [
             "best"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這是我這輩子吃過最好吃的蛋糕。"
+          }
+        },
+        {
+          "en": "Among all the candidates, she performed best in the interview.",
+          "highlight": [
+            "best"
+          ],
+          "translations": {
+            "zh-TW": "在所有候選人當中，她在面試中表現得最好。"
+          }
+        },
+        {
+          "en": "We always bring out the best in each other during team projects.",
+          "highlight": [
+            "best"
+          ],
+          "translations": {
+            "zh-TW": "在團隊專案中，我們總能激發彼此最好的一面。"
           }
         }
       ],
       "synonyms": [
         "finest",
-        "greatest"
+        "greatest",
+        "top"
       ],
       "antonyms": [
         "worst",
         "poorest"
       ],
       "phrases": [
-        "best",
-        "friend",
-        "best",
-        "quality"
+        "best friend",
+        "best quality",
+        "all the best",
+        "to the best of"
       ]
     },
     {
@@ -159,41 +217,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "beted",
-        "past_participle": "beted",
-        "present_participle": "beting",
-        "third_person": "bets"
+        "present_3rd": "bets",
+        "past": "bet",
+        "past_participle": "bet",
+        "ing": "betting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bet",
-          "definition": "n. 打赌, 赌注, v. 打赌"
+          "definition": "n. 打賭、賭注  v. 打賭、敢說"
         }
       ],
       "examples": [
         {
-          "en": "He bet $50 on the game.",
+          "en": "I bet you cannot finish that report before the deadline.",
           "highlight": [
             "bet"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我敢打賭你無法在期限前完成那份報告。"
+          }
+        },
+        {
+          "en": "He bet fifty dollars on the winning horse and walked away with a big smile.",
+          "highlight": [
+            "bet"
+          ],
+          "translations": {
+            "zh-TW": "他把五十美元押在那匹贏馬上，帶著燦爛的笑容離開。"
+          }
+        },
+        {
+          "en": "She is betting her savings on the new startup she just joined.",
+          "highlight": [
+            "betting"
+          ],
+          "translations": {
+            "zh-TW": "她把積蓄押在她剛加入的新創公司上。"
           }
         }
       ],
       "synonyms": [
         "wager",
-        "gamble"
+        "gamble",
+        "stake"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "forfeit",
+        "withdraw"
+      ],
       "phrases": [
-        "place",
-        "a",
-        "bet",
-        "win",
-        "a"
+        "place a bet",
+        "win a bet",
+        "you bet",
+        "safe bet"
       ]
     },
     {
@@ -206,43 +285,67 @@
       "pos": [
         "adjective",
         "adverb",
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "betters"
+        "plural": "betters",
+        "present_3rd": "betters",
+        "past": "bettered",
+        "past_participle": "bettered",
+        "ing": "bettering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "better",
-          "definition": "a. 较好的, adv. 比较好"
+          "definition": "adj. 較好的  adv. 比較好  v. 改善、超越"
         }
       ],
       "examples": [
         {
-          "en": "She is a better cook than I am.",
+          "en": "She is a better cook than I am, so I usually let her handle dinner.",
           "highlight": [
             "better"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她做的菜比我好，所以我通常讓她負責晚餐。"
+          }
+        },
+        {
+          "en": "Sales figures improved, but we can do better next quarter.",
+          "highlight": [
+            "better"
+          ],
+          "translations": {
+            "zh-TW": "銷售數據有進步，但下季我們可以做得更好。"
+          }
+        },
+        {
+          "en": "He bettered his previous record by three seconds in the final race.",
+          "highlight": [
+            "bettered"
+          ],
+          "translations": {
+            "zh-TW": "他在決賽中把之前的紀錄推進了三秒。"
           }
         }
       ],
       "synonyms": [
         "superior",
-        "improved"
+        "improved",
+        "finer"
       ],
       "antonyms": [
         "worse",
         "inferior"
       ],
       "phrases": [
-        "get",
-        "better",
-        "feel",
-        "better"
+        "get better",
+        "feel better",
+        "better off",
+        "had better"
       ]
     },
     {
@@ -263,30 +366,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "betting",
-          "definition": "n. 打赌, [法] 打赌, 赌博"
+          "definition": "n. 打賭、賭博"
         }
       ],
       "examples": [
         {
-          "en": "Betting on horse races is popular.",
+          "en": "Betting on horse races is a popular pastime in this city.",
           "highlight": [
             "betting"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在這個城市，賽馬投注是很受歡迎的消遣。"
+          }
+        },
+        {
+          "en": "Online sports betting has grown rapidly over the past few years.",
+          "highlight": [
+            "betting"
+          ],
+          "translations": {
+            "zh-TW": "線上體育博彩在過去幾年迅速成長。"
+          }
+        },
+        {
+          "en": "The company set strict rules to prevent illegal betting among employees.",
+          "highlight": [
+            "betting"
+          ],
+          "translations": {
+            "zh-TW": "公司制定了嚴格的規定，以防員工進行非法賭博。"
           }
         }
       ],
       "synonyms": [
         "gambling",
-        "wagering"
+        "wagering",
+        "staking"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "forfeiting",
+        "withdrawing"
+      ],
       "phrases": [
-        "sports",
-        "betting",
-        "betting",
-        "odds"
+        "sports betting",
+        "betting shop",
+        "betting odds",
+        "betting pool"
       ]
     },
     {
@@ -297,7 +422,8 @@
       "toeic_score_min": 200,
       "word": "between",
       "pos": [
-        "preposition"
+        "preposition",
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
@@ -305,37 +431,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "between",
-          "definition": "prep. 在...之間"
+          "definition": "prep. 在……之間  adv. 當中、之間"
         }
       ],
       "examples": [
         {
-          "en": "The ball rolled between the chairs.",
+          "en": "The contract was signed between the two companies last Friday.",
           "highlight": [
             "between"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這份合約是上周五由兩家公司簽訂的。"
+          }
+        },
+        {
+          "en": "There is a strong bond between the manager and her team members.",
+          "highlight": [
+            "between"
+          ],
+          "translations": {
+            "zh-TW": "主管與團隊成員之間有很強的凝聚力。"
+          }
+        },
+        {
+          "en": "You must choose between working late and attending your daughter's recital.",
+          "highlight": [
+            "between"
+          ],
+          "translations": {
+            "zh-TW": "你必須在加班和參加女兒的演奏會之間做選擇。"
           }
         }
       ],
       "synonyms": [
-        "in",
-        "the",
-        "middle",
-        "of",
-        "among"
+        "amid",
+        "among",
+        "in the middle of"
       ],
       "antonyms": [
         "outside",
         "beyond"
       ],
       "phrases": [
-        "between",
-        "the",
-        "lines",
-        "between",
-        "the"
+        "between you and me",
+        "between the lines",
+        "in between",
+        "between times"
       ]
     },
     {
@@ -346,42 +487,64 @@
       "toeic_score_min": 200,
       "word": "beyond",
       "pos": [
-        "preposition"
+        "preposition",
+        "adverb",
+        "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "beyonds"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "beyond",
-          "definition": "prep. 超過, 在那一边, 迟于, adv. 在远處, n. 更远處"
+          "definition": "prep. 超過、在……的那一邊  adv. 在遠處  n. 更遠處"
         }
       ],
       "examples": [
         {
-          "en": "The road extends beyond the horizon.",
+          "en": "The road extends beyond the horizon, leading to a small coastal town.",
           "highlight": [
             "beyond"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這條路延伸到地平線之外，通往一座濱海小鎮。"
+          }
+        },
+        {
+          "en": "His talent goes beyond what most people in the industry can achieve.",
+          "highlight": [
+            "beyond"
+          ],
+          "translations": {
+            "zh-TW": "他的才華超乎業界多數人能達到的水準。"
+          }
+        },
+        {
+          "en": "The damage was beyond repair, so we had to replace the entire machine.",
+          "highlight": [
+            "beyond"
+          ],
+          "translations": {
+            "zh-TW": "損壞已無法修復，我們只好更換整台機器。"
           }
         }
       ],
       "synonyms": [
         "past",
-        "further",
-        "than"
+        "further than",
+        "outside"
       ],
       "antonyms": [
         "within",
         "inside"
       ],
       "phrases": [
-        "beyond",
-        "belief",
-        "beyond",
-        "recognition"
+        "beyond belief",
+        "beyond recognition",
+        "beyond doubt",
+        "beyond repair"
       ]
     },
     {
@@ -396,41 +559,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "bicycleed",
-        "past_participle": "bicycleed",
-        "present_participle": "bicycling",
-        "third_person": "bicycles"
+        "plural": "bicycles",
+        "present_3rd": "bicycles",
+        "past": "bicycled",
+        "past_participle": "bicycled",
+        "ing": "bicycling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bicycle",
-          "definition": "n. 自行車"
+          "definition": "n. 腳踏車、自行車  v. 騎腳踏車"
         }
       ],
       "examples": [
         {
-          "en": "He rides his bicycle to school.",
+          "en": "He rides his bicycle to the office every morning to avoid traffic.",
           "highlight": [
             "bicycle"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他每天早上騎腳踏車去辦公室以避開車流。"
+          }
+        },
+        {
+          "en": "She bicycled across the entire country to raise money for charity.",
+          "highlight": [
+            "bicycled"
+          ],
+          "translations": {
+            "zh-TW": "她騎腳踏車橫越全國，為慈善募款。"
+          }
+        },
+        {
+          "en": "Bicycling is a great way to stay fit while commuting in the city.",
+          "highlight": [
+            "bicycling"
+          ],
+          "translations": {
+            "zh-TW": "騎腳踏車是在城市通勤中保持健康的好方法。"
           }
         }
       ],
       "synonyms": [
         "bike",
-        "cycle"
+        "cycle",
+        "two-wheeler"
       ],
       "antonyms": [],
       "phrases": [
-        "ride",
-        "a",
-        "bicycle",
-        "bicycle",
-        "lane"
+        "ride a bicycle",
+        "bicycle lane",
+        "bicycle rack",
+        "bicycle helmet"
       ]
     },
     {
@@ -441,44 +623,65 @@
       "toeic_score_min": 200,
       "word": "big",
       "pos": [
-        "adjective"
+        "adjective",
+        "adverb"
       ],
       "conjugations": {
-        "comparative": "biger",
-        "superlative": "bigest"
+        "comparative": "bigger",
+        "superlative": "biggest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "big",
-          "definition": "a. 大的, 重要的, adv. 大量地"
+          "definition": "adj. 大的、重要的  adv. 大量地、成功地"
         }
       ],
       "examples": [
         {
-          "en": "They live in a big house.",
+          "en": "They live in a big house near the lake with their three children.",
           "highlight": [
             "big"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他們和三個孩子住在湖邊的一棟大房子裡。"
+          }
+        },
+        {
+          "en": "Our company faces a bigger challenge this year than we did last year.",
+          "highlight": [
+            "bigger"
+          ],
+          "translations": {
+            "zh-TW": "我們公司今年面臨的挑戰比去年更大。"
+          }
+        },
+        {
+          "en": "Winning the international award was the biggest moment of her career.",
+          "highlight": [
+            "biggest"
+          ],
+          "translations": {
+            "zh-TW": "贏得國際大獎是她職業生涯中最重要的時刻。"
           }
         }
       ],
       "synonyms": [
         "large",
-        "huge"
+        "huge",
+        "great"
       ],
       "antonyms": [
         "small",
-        "tiny"
+        "tiny",
+        "little"
       ],
       "phrases": [
-        "big",
-        "problem",
-        "big",
-        "deal"
+        "big deal",
+        "big problem",
+        "big picture",
+        "think big"
       ]
     }
   ]
