@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 40,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-040-001",
@@ -15,40 +15,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "blooded",
+        "plural": "bloods",
+        "present_3rd": "bloods",
+        "past": "blooded",
         "past_participle": "blooded",
-        "present_participle": "blooding",
-        "third_person": "bloods"
+        "ing": "blooding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "blood",
-          "definition": "n. 血, 血统, 流血, 气质, 生命, vt. 使出血, 用血涂"
+          "definition": "n. 血液、血統、氣質  v. 使流血、給（獵犬）初嘗獵物血"
         }
       ],
       "examples": [
         {
-          "en": "He donated blood.",
+          "en": "He went to the clinic to donate blood for the emergency surgery.",
           "highlight": [
             "blood"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他到診所捐血，以供緊急手術使用。"
+          }
+        },
+        {
+          "en": "The first-time hunter blooded his hounds after the successful chase.",
+          "highlight": [
+            "blooded"
+          ],
+          "translations": {
+            "zh-TW": "初次打獵的獵人成功追獵之後，讓他的獵犬嘗了獵物的血。"
+          }
+        },
+        {
+          "en": "The wounded soldier was blooding through his uniform when the medic arrived.",
+          "highlight": [
+            "blooding"
+          ],
+          "translations": {
+            "zh-TW": "醫護兵抵達時，受傷的士兵正透過制服不停地滴血。"
           }
         }
       ],
       "synonyms": [
         "lifeblood",
-        "plasma"
+        "plasma",
+        "lineage"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "spirit",
+        "soul"
+      ],
       "phrases": [
-        "donate",
-        "blood",
-        "blood",
-        "test"
+        "blood pressure",
+        "blood test",
+        "blood type",
+        "blood donation"
       ]
     },
     {
@@ -63,44 +86,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "blowed",
-        "past_participle": "blowed",
-        "present_participle": "blowing",
-        "third_person": "blows"
+        "plural": "blows",
+        "present_3rd": "blows",
+        "past": "blew",
+        "past_participle": "blown",
+        "ing": "blowing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "blow",
-          "definition": "n. 吹, 打击, 殴打, 花开, v. 吹, 風吹, 吹響, 开花"
+          "definition": "v. 吹、吹響、爆炸  n. 重擊、打擊、挫折"
         }
       ],
       "examples": [
         {
-          "en": "The blow of the wind was strong.",
+          "en": "The factory whistle blows at exactly eight o'clock every morning.",
+          "highlight": [
+            "blows"
+          ],
+          "translations": {
+            "zh-TW": "工廠的汽笛每天早上八點整準時響起。"
+          }
+        },
+        {
+          "en": "The fierce autumn wind blew down the market stalls overnight.",
+          "highlight": [
+            "blew"
+          ],
+          "translations": {
+            "zh-TW": "猛烈的秋風在一夜之間吹倒了市場的攤位。"
+          }
+        },
+        {
+          "en": "Losing that contract was a terrible blow to the startup's morale.",
           "highlight": [
             "blow"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "失去那份合約對新創團隊的士氣是個沉重打擊。"
           }
         }
       ],
       "synonyms": [
         "gust",
-        "breeze"
+        "breeze",
+        "strike"
       ],
       "antonyms": [
         "calm",
         "stillness"
       ],
       "phrases": [
-        "strong",
-        "blow",
-        "blow",
-        "of",
-        "the"
+        "blow up",
+        "blow out",
+        "blow off steam",
+        "heavy blow"
       ]
     },
     {
@@ -115,37 +157,60 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "blues"
+        "comparative": "bluer",
+        "superlative": "bluest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "blue",
-          "definition": "n. 蓝色, a. 蓝色的, 下流的, 忧郁的, vt. 染成蓝色, vi. 变蓝"
+          "definition": "adj. 藍色的、憂鬱的  n. 藍色、憂鬱、藍調音樂"
         }
       ],
       "examples": [
         {
-          "en": "She wore a blue dress.",
+          "en": "She wore a navy-blue blazer to the job interview to look professional.",
           "highlight": [
             "blue"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她穿著藏青色西裝外套去面試，以顯得專業。"
+          }
+        },
+        {
+          "en": "The sky was bluer over the coast than anywhere else in the country.",
+          "highlight": [
+            "bluer"
+          ],
+          "translations": {
+            "zh-TW": "海岸上方的天空比國內任何地方都還要藍。"
+          }
+        },
+        {
+          "en": "He sang the blues every evening at the riverside tavern.",
+          "highlight": [
+            "blues"
+          ],
+          "translations": {
+            "zh-TW": "他每天傍晚在河畔酒館唱藍調音樂。"
           }
         }
       ],
       "synonyms": [
         "azure",
-        "cerulean"
+        "cerulean",
+        "indigo"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "cheerful",
+        "sunny"
+      ],
       "phrases": [
-        "blue",
-        "sky",
-        "blue",
-        "eyes"
+        "blue chip",
+        "blue collar",
+        "feel blue",
+        "out of the blue"
       ]
     },
     {
@@ -160,40 +225,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "boarded",
+        "plural": "boards",
+        "present_3rd": "boards",
+        "past": "boarded",
         "past_participle": "boarded",
-        "present_participle": "boarding",
-        "third_person": "boards"
+        "ing": "boarding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "board",
-          "definition": "n. 木板, 甲板, 膳食, 會議桌, vt. 乘船, 供膳食, 用板覆盖, vi. 搭伙, [计] 板"
+          "definition": "n. 木板、委員會、董事會、膳食  v. 登機、上船、搭伙"
         }
       ],
       "examples": [
         {
-          "en": "He cut a piece of board.",
+          "en": "The board of directors approved the new marketing budget yesterday.",
           "highlight": [
             "board"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "董事會昨天批准了新的行銷預算。"
+          }
+        },
+        {
+          "en": "Passengers boarded the flight to Singapore two hours behind schedule.",
+          "highlight": [
+            "boarded"
+          ],
+          "translations": {
+            "zh-TW": "乘客登上了延誤兩小時的新加坡航班。"
+          }
+        },
+        {
+          "en": "Boarding for international flights begins forty-five minutes before departure.",
+          "highlight": [
+            "Boarding"
+          ],
+          "translations": {
+            "zh-TW": "國際線的登機手續於起飛前四十五分鐘開始。"
           }
         }
       ],
       "synonyms": [
         "plank",
-        "slab"
+        "committee",
+        "panel"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "disembark",
+        "depart"
+      ],
       "phrases": [
-        "wooden",
-        "board",
-        "surf",
-        "board"
+        "board of directors",
+        "on board",
+        "board meeting",
+        "room and board"
       ]
     },
     {
@@ -208,41 +296,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "boated",
+        "plural": "boats",
+        "present_3rd": "boats",
+        "past": "boated",
         "past_participle": "boated",
-        "present_participle": "boating",
-        "third_person": "boats"
+        "ing": "boating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "boat",
-          "definition": "n. 船, vi. 乘船, vt. 以船運"
+          "definition": "n. 船、小舟  v. 划船、乘船遊覽"
         }
       ],
       "examples": [
         {
-          "en": "They sailed on a boat.",
+          "en": "The company chartered a boat to take clients across the harbour for the tour.",
           "highlight": [
             "boat"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司包了一艘船，載客戶渡過港灣進行參觀行程。"
+          }
+        },
+        {
+          "en": "They boated along the river every summer weekend when they were children.",
+          "highlight": [
+            "boated"
+          ],
+          "translations": {
+            "zh-TW": "他們小時候每逢夏天的週末都會沿河划船。"
+          }
+        },
+        {
+          "en": "Sailing and boating lessons are available at the lakeside resort.",
+          "highlight": [
+            "boating"
+          ],
+          "translations": {
+            "zh-TW": "湖畔度假村提供帆船與划船課程。"
           }
         }
       ],
       "synonyms": [
         "vessel",
-        "ship"
+        "ship",
+        "ferry"
       ],
       "antonyms": [],
       "phrases": [
-        "sail",
-        "a",
-        "boat",
-        "fishing",
-        "boat"
+        "fishing boat",
+        "lifeboat",
+        "miss the boat",
+        "boat trip"
       ]
     },
     {
@@ -253,44 +360,62 @@
       "toeic_score_min": 200,
       "word": "body",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "bodyed",
-        "past_participle": "bodyed",
-        "present_participle": "bodying",
-        "third_person": "bodys"
+        "plural": "bodies"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "body",
-          "definition": "n. 身体, 人, 尸体, 主要部分, 团体, vt. 赋以形体, [计] 体"
+          "definition": "n. 身體、軀體、團體、機構、主體"
         }
       ],
       "examples": [
         {
-          "en": "He has a muscular body.",
+          "en": "The doctor said his body needed at least eight hours of sleep to recover.",
           "highlight": [
             "body"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "醫生說他的身體至少需要睡滿八小時才能恢復。"
+          }
+        },
+        {
+          "en": "The governing bodies of the two organisations signed a joint agreement today.",
+          "highlight": [
+            "bodies"
+          ],
+          "translations": {
+            "zh-TW": "兩個組織的管理機構今天簽署了一份聯合協議。"
+          }
+        },
+        {
+          "en": "The committee acts as the main decision-making body within the company.",
+          "highlight": [
+            "body"
+          ],
+          "translations": {
+            "zh-TW": "委員會是公司內部的主要決策機構。"
           }
         }
       ],
       "synonyms": [
-        "figure",
-        "frame"
+        "physique",
+        "frame",
+        "corps"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "mind",
+        "soul"
+      ],
       "phrases": [
-        "body",
-        "language",
-        "body",
-        "weight"
+        "body language",
+        "body weight",
+        "governing body",
+        "body of work"
       ]
     },
     {
@@ -305,41 +430,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "boiled",
+        "plural": "boils",
+        "present_3rd": "boils",
+        "past": "boiled",
         "past_participle": "boiled",
-        "present_participle": "boiling",
-        "third_person": "boils"
+        "ing": "boiling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "boil",
-          "definition": "n. 煮沸, 沸腾, 疖, v. 煮沸, 激動"
+          "definition": "v. 煮沸、沸騰  n. 疔瘡、煮沸"
         }
       ],
       "examples": [
         {
-          "en": "She boiled the water.",
+          "en": "She boils the vegetables for exactly five minutes to preserve their nutrients.",
           "highlight": [
-            "boil"
+            "boils"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她把蔬菜煮恰好五分鐘，以保留營養。"
+          }
+        },
+        {
+          "en": "The chef boiled the chicken broth for three hours to develop a rich flavour.",
+          "highlight": [
+            "boiled"
+          ],
+          "translations": {
+            "zh-TW": "主廚將雞高湯熬煮三小時，以發展出濃郁的風味。"
+          }
+        },
+        {
+          "en": "The kettle reached boiling point just as the meeting started.",
+          "highlight": [
+            "boiling"
+          ],
+          "translations": {
+            "zh-TW": "會議剛開始時，水壺正好達到沸點。"
           }
         }
       ],
       "synonyms": [
         "simmer",
-        "bubble"
+        "bubble",
+        "seethe"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "freeze",
+        "cool"
+      ],
       "phrases": [
-        "boil",
-        "water",
-        "boil",
-        "an",
-        "egg"
+        "boil water",
+        "bring to a boil",
+        "boil over",
+        "boil down to"
       ]
     },
     {
@@ -354,41 +501,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "bombed",
+        "plural": "bombs",
+        "present_3rd": "bombs",
+        "past": "bombed",
         "past_participle": "bombed",
-        "present_participle": "bombing",
-        "third_person": "bombs"
+        "ing": "bombing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bomb",
-          "definition": "n. 炸弹, vt. 轰炸, 投弹于, vi. 失败"
+          "definition": "n. 炸彈  v. 轟炸、（口語）大敗、慘敗"
         }
       ],
       "examples": [
         {
-          "en": "The bomb exploded.",
+          "en": "The security team evacuated the building after a suspicious bomb was reported.",
           "highlight": [
             "bomb"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "接獲可疑炸彈通報後，維安小組撤離了整棟大樓。"
+          }
+        },
+        {
+          "en": "Unfortunately, the new comedy show bombed on its very first night.",
+          "highlight": [
+            "bombed"
+          ],
+          "translations": {
+            "zh-TW": "很遺憾地，新的喜劇節目在首演當晚就大敗收場。"
+          }
+        },
+        {
+          "en": "The bombing of the old factory site forced the city to rethink its safety policies.",
+          "highlight": [
+            "bombing"
+          ],
+          "translations": {
+            "zh-TW": "舊廠區的爆炸事件迫使市政府重新檢討安全政策。"
           }
         }
       ],
       "synonyms": [
         "explosive",
-        "missile"
+        "missile",
+        "grenade"
       ],
       "antonyms": [],
       "phrases": [
-        "drop",
-        "a",
-        "bomb",
-        "bomb",
-        "attack"
+        "bomb attack",
+        "time bomb",
+        "bomb scare",
+        "the bomb"
       ]
     },
     {
@@ -399,46 +565,59 @@
       "toeic_score_min": 200,
       "word": "bone",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "boneed",
-        "past_participle": "boneed",
-        "present_participle": "boning",
-        "third_person": "bones"
+        "plural": "bones"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bone",
-          "definition": "n. 骨頭, 骨, 骨制品, vt. 剔骨, vi. 专心致志"
+          "definition": "n. 骨頭、骨骼、骨架"
         }
       ],
       "examples": [
         {
-          "en": "He broke a bone in his leg.",
+          "en": "The athlete fractured a bone in his foot during yesterday's match.",
           "highlight": [
             "bone"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位運動員在昨天的比賽中摔斷了腳裡的一根骨頭。"
+          }
+        },
+        {
+          "en": "The veterinarian showed us the X-ray of the dog's broken bones clearly.",
+          "highlight": [
+            "bones"
+          ],
+          "translations": {
+            "zh-TW": "獸醫清楚地給我們看了那隻狗骨折的X光片。"
+          }
+        },
+        {
+          "en": "Milk and dairy products help strengthen bones throughout childhood.",
+          "highlight": [
+            "bones"
+          ],
+          "translations": {
+            "zh-TW": "牛奶與乳製品在童年時期有助於強化骨骼。"
           }
         }
       ],
       "synonyms": [
-        "skeletal",
-        "structure",
-        "ossein"
+        "skeleton",
+        "framework",
+        "structure"
       ],
       "antonyms": [],
       "phrases": [
-        "break",
-        "a",
-        "bone",
-        "bone",
-        "structure"
+        "break a bone",
+        "bone structure",
+        "bone marrow",
+        "to the bone"
       ]
     },
     {
@@ -453,41 +632,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "booked",
+        "plural": "books",
+        "present_3rd": "books",
+        "past": "booked",
         "past_participle": "booked",
-        "present_participle": "booking",
-        "third_person": "books"
+        "ing": "booking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "book",
-          "definition": "n. 書, 書籍, 帐簿, 名册, 工作簿, v. 登記, 预订, [计] 工作簿"
+          "definition": "n. 書、書籍、帳簿  v. 預訂、登記"
         }
       ],
       "examples": [
         {
-          "en": "She read a book.",
+          "en": "The professor recommended three books for the upcoming marketing exam.",
           "highlight": [
-            "book"
+            "books"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "教授推薦了三本書，作為即將到來的行銷考試參考。"
+          }
+        },
+        {
+          "en": "I booked a hotel room near the conference centre for the entire week.",
+          "highlight": [
+            "booked"
+          ],
+          "translations": {
+            "zh-TW": "我預訂了會議中心附近的一家飯店房間，住了整個星期。"
+          }
+        },
+        {
+          "en": "Online booking for the workshop closes at midnight this Sunday.",
+          "highlight": [
+            "booking"
+          ],
+          "translations": {
+            "zh-TW": "這個工作坊的線上預約將於本週日午夜截止。"
           }
         }
       ],
       "synonyms": [
         "volume",
-        "tome"
+        "tome",
+        "reserve"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "cancel"
+      ],
       "phrases": [
-        "read",
-        "a",
-        "book",
-        "write",
-        "a"
+        "book a flight",
+        "book in advance",
+        "book a table",
+        "cookbook"
       ]
     }
   ]
