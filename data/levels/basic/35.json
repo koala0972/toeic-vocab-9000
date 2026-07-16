@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 35,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-035-001",
@@ -11,42 +11,66 @@
       "toeic_score_min": 200,
       "word": "bed",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "beds"
+        "plural": "beds",
+        "present_3rd": "beds",
+        "past": "bedded",
+        "past_participle": "bedded",
+        "ing": "bedding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bed",
-          "definition": "n. 床, 睡眠處, 河床, 底座, 路基, 一层, vt. 提供宿處, 栽種, 安装, vi. 睡, 形成坚實的一层"
+          "definition": "n. 床、睡眠處、河床  v. 提供住宿、安置"
         }
       ],
       "examples": [
         {
-          "en": "He lay down on the bed.",
+          "en": "The hotel room has a comfortable bed for two guests.",
           "highlight": [
             "bed"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這間飯店客房有一張供兩位房客使用的舒適床鋪。"
+          }
+        },
+        {
+          "en": "The nursery bedded the new plants in fresh soil before the rain.",
+          "highlight": [
+            "bedded"
+          ],
+          "translations": {
+            "zh-TW": "苗圃在下雨前把新植物栽種在乾淨的土壤裡。"
+          }
+        },
+        {
+          "en": "We are bedding down in the guest room tonight because the main room is being painted.",
+          "highlight": [
+            "bedding"
+          ],
+          "translations": {
+            "zh-TW": "我們今晚在客房睡覺，因為主臥室正在粉刷。"
           }
         }
       ],
       "synonyms": [
-        "sleeping",
-        "place",
-        "cot"
+        "cot",
+        "mattress",
+        "sleeping place"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "floor"
+      ],
       "phrases": [
-        "go",
-        "to",
-        "bed",
-        "make",
-        "the"
+        "go to bed",
+        "make the bed",
+        "bed and breakfast",
+        "single bed"
       ]
     },
     {
@@ -67,31 +91,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "bedroom",
-          "definition": "n. 卧室"
+          "definition": "n. 臥室、寢室"
         }
       ],
       "examples": [
         {
-          "en": "The bedroom is upstairs.",
+          "en": "The master bedroom has a beautiful view of the garden.",
           "highlight": [
             "bedroom"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "主臥室有美麗的花園景觀。"
+          }
+        },
+        {
+          "en": "The new apartment has three bedrooms and two bathrooms.",
+          "highlight": [
+            "bedrooms"
+          ],
+          "translations": {
+            "zh-TW": "這間新公寓有三間臥室和兩間浴室。"
+          }
+        },
+        {
+          "en": "She decorated the spare bedroom for her visiting grandparents.",
+          "highlight": [
+            "bedroom"
+          ],
+          "translations": {
+            "zh-TW": "她把備用臥室佈置好，給來訪的祖父母住。"
           }
         }
       ],
       "synonyms": [
-        "sleeping",
-        "room",
-        "chamber"
+        "chamber",
+        "sleeping room",
+        "dormitory"
       ],
       "antonyms": [],
       "phrases": [
-        "master",
-        "bedroom",
-        "spare",
-        "bedroom"
+        "master bedroom",
+        "spare bedroom",
+        "bedroom community",
+        "shared bedroom"
       ]
     },
     {
@@ -102,40 +144,64 @@
       "toeic_score_min": 200,
       "word": "beef",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "beefs"
+        "plural": "beefs",
+        "present_3rd": "beefs",
+        "past": "beefed",
+        "past_participle": "beefed",
+        "ing": "beefing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "beef",
-          "definition": "n. 牛肉, 肌肉, vt. 养(牛), 宰(牛), vi. 抱怨, 告發"
+          "definition": "n. 牛肉、肌肉、牢騷  v. 抱怨、加強"
         }
       ],
       "examples": [
         {
-          "en": "They had beef for dinner.",
+          "en": "The restaurant is famous for its grilled beef steak.",
           "highlight": [
             "beef"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家餐廳以烤牛排聞名。"
+          }
+        },
+        {
+          "en": "He beefed about the slow service to the manager.",
+          "highlight": [
+            "beefed"
+          ],
+          "translations": {
+            "zh-TW": "他向經理抱怨服務太慢。"
+          }
+        },
+        {
+          "en": "The company is beefing up its security team after the data breach.",
+          "highlight": [
+            "beefing"
+          ],
+          "translations": {
+            "zh-TW": "公司在資料外洩後正在加強安全團隊。"
           }
         }
       ],
       "synonyms": [
         "meat",
-        "steak"
+        "steak",
+        "complaint"
       ],
       "antonyms": [],
       "phrases": [
-        "beef",
-        "stew",
-        "roast",
-        "beef"
+        "beef stew",
+        "roast beef",
+        "beef up",
+        "have a beef with"
       ]
     },
     {
@@ -156,30 +222,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "beer",
-          "definition": "n. 啤酒, [化] 啤酒"
+          "definition": "n. 啤酒、一杯啤酒"
         }
       ],
       "examples": [
         {
-          "en": "He drank a bottle of beer.",
+          "en": "He ordered a cold beer with his lunch.",
           "highlight": [
             "beer"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他午餐時點了一杯冰啤酒。"
+          }
+        },
+        {
+          "en": "They shared several beers while watching the football match.",
+          "highlight": [
+            "beers"
+          ],
+          "translations": {
+            "zh-TW": "他們在看足球比賽時共喝了幾杯啤酒。"
+          }
+        },
+        {
+          "en": "This local craft beer has won several international awards.",
+          "highlight": [
+            "beer"
+          ],
+          "translations": {
+            "zh-TW": "這款當地精釀啤酒贏得了多個國際獎項。"
           }
         }
       ],
       "synonyms": [
         "ale",
-        "brew"
+        "brew",
+        "lager"
       ],
       "antonyms": [],
       "phrases": [
-        "cold",
-        "beer",
-        "beer",
-        "bottle"
+        "cold beer",
+        "draft beer",
+        "beer garden",
+        "beer bottle"
       ]
     },
     {
@@ -200,37 +285,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "before",
-          "definition": "prep. 在...之前, conj. 在...之前, adv. 在前"
+          "definition": "prep. 在...之前  conj. 在...之前  adv. 以前、從前"
         }
       ],
       "examples": [
         {
-          "en": "She left before dawn.",
+          "en": "Please submit the report before the deadline on Friday.",
           "highlight": [
             "before"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在週五截止日期前提交報告。"
+          }
+        },
+        {
+          "en": "Call me before you leave the office today.",
+          "highlight": [
+            "before"
+          ],
+          "translations": {
+            "zh-TW": "你今天離開辦公室前先打電話給我。"
+          }
+        },
+        {
+          "en": "I have never visited this museum before today.",
+          "highlight": [
+            "before"
+          ],
+          "translations": {
+            "zh-TW": "在今天之前我從未參觀過這座博物館。"
           }
         }
       ],
       "synonyms": [
-        "prior",
-        "to",
-        "in",
-        "advance",
-        "of"
+        "prior to",
+        "ahead of",
+        "previously"
       ],
       "antonyms": [
         "after",
         "following"
       ],
       "phrases": [
-        "before",
-        "dinner",
-        "before",
-        "you",
-        "go"
+        "before long",
+        "before you know it",
+        "the day before",
+        "long before"
       ]
     },
     {
@@ -244,43 +344,64 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "begined",
-        "past_participle": "begined",
-        "present_participle": "begining",
-        "third_person": "begins"
+        "plural": "begins",
+        "present_3rd": "begins",
+        "past": "began",
+        "past_participle": "begun",
+        "ing": "beginning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "begin",
-          "definition": "v. 开始, [计] 开始"
+          "definition": "v. 開始、著手、起源"
         }
       ],
       "examples": [
         {
-          "en": "The show will begin shortly.",
+          "en": "The meeting will begin at nine o'clock sharp.",
           "highlight": [
             "begin"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "會議將在九點整開始。"
+          }
+        },
+        {
+          "en": "She began her career as a junior analyst at a small firm.",
+          "highlight": [
+            "began"
+          ],
+          "translations": {
+            "zh-TW": "她在一家小公司從初級分析師展開了她的職業生涯。"
+          }
+        },
+        {
+          "en": "The construction project has begun despite protests from residents.",
+          "highlight": [
+            "begun"
+          ],
+          "translations": {
+            "zh-TW": "儘管居民抗議，這項建築工程已經開始了。"
           }
         }
       ],
       "synonyms": [
         "start",
-        "commence"
+        "commence",
+        "initiate"
       ],
       "antonyms": [
         "end",
-        "finish"
+        "finish",
+        "conclude"
       ],
       "phrases": [
-        "begin",
-        "to",
-        "begin",
-        "with"
+        "begin with",
+        "to begin with",
+        "begin again",
+        "begin from scratch"
       ]
     },
     {
@@ -301,33 +422,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "beginning",
-          "definition": "n. 开始"
+          "definition": "n. 開始、開端、起源"
         }
       ],
       "examples": [
         {
-          "en": "The beginning of the book is interesting.",
+          "en": "The beginning of the novel sets the tone for the entire story.",
           "highlight": [
             "beginning"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "小說的開端為整個故事奠定了基調。"
+          }
+        },
+        {
+          "en": "Many successful companies had humble beginnings in a small garage.",
+          "highlight": [
+            "beginnings"
+          ],
+          "translations": {
+            "zh-TW": "許多成功企業都是在小小的車庫裡起家的。"
+          }
+        },
+        {
+          "en": "She marked the beginning of her new life with a toast to friends.",
+          "highlight": [
+            "beginning"
+          ],
+          "translations": {
+            "zh-TW": "她向朋友舉杯，標誌著新生活的開始。"
           }
         }
       ],
       "synonyms": [
         "start",
-        "onset"
+        "onset",
+        "origin"
       ],
       "antonyms": [
         "end",
-        "conclusion"
+        "conclusion",
+        "finish"
       ],
       "phrases": [
-        "new",
-        "beginning",
-        "fresh",
-        "beginning"
+        "new beginning",
+        "fresh beginning",
+        "from the beginning",
+        "at the beginning of"
       ]
     },
     {
@@ -348,31 +489,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "behalf",
-          "definition": "n. 利益, 方面"
+          "definition": "n. 代表、利益、方面"
         }
       ],
       "examples": [
         {
-          "en": "He spoke on behalf of the team.",
+          "en": "The lawyer signed the contract on behalf of his client.",
           "highlight": [
             "behalf"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "律師代表他的客戶簽署了合約。"
+          }
+        },
+        {
+          "en": "She accepted the award on behalf of the entire research team.",
+          "highlight": [
+            "behalf"
+          ],
+          "translations": {
+            "zh-TW": "她代表整個研究團隊領取了這個獎項。"
+          }
+        },
+        {
+          "en": "I am writing to you on behalf of the management regarding the new policy.",
+          "highlight": [
+            "behalf"
+          ],
+          "translations": {
+            "zh-TW": "我代表管理階層寫信給您，說明新政策的相關事宜。"
           }
         }
       ],
       "synonyms": [
-        "for",
-        "representing"
+        "representation",
+        "interest",
+        "part"
       ],
       "antonyms": [],
       "phrases": [
-        "on",
-        "behalf",
-        "of",
-        "in",
-        "behalf"
+        "on behalf of",
+        "in behalf of",
+        "speak on behalf of",
+        "act on behalf of"
       ]
     },
     {
@@ -386,44 +545,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "behaveed",
-        "past_participle": "behaveed",
-        "present_participle": "behaving",
-        "third_person": "behaves"
+        "present_3rd": "behaves",
+        "past": "behaved",
+        "past_participle": "behaved",
+        "ing": "behaving"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "behave",
-          "definition": "vi. 举止端正, 行為规矩, vt. 检點(自己的)行為, 使表现好"
+          "definition": "v. 表現、舉止端正、運作"
         }
       ],
       "examples": [
         {
-          "en": "They were told to behave properly.",
+          "en": "Children should behave themselves during the school assembly.",
           "highlight": [
             "behave"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "孩子們在學校集會時應該守規矩。"
+          }
+        },
+        {
+          "en": "The employee behaved professionally during the difficult negotiation.",
+          "highlight": [
+            "behaved"
+          ],
+          "translations": {
+            "zh-TW": "這位員工在困難的談判中表現得很專業。"
+          }
+        },
+        {
+          "en": "The new software is behaving unexpectedly on older devices.",
+          "highlight": [
+            "behaving"
+          ],
+          "translations": {
+            "zh-TW": "新軟體在較舊的裝置上運作出現異常。"
           }
         }
       ],
       "synonyms": [
         "act",
         "conduct",
-        "oneself"
+        "comport"
       ],
       "antonyms": [
         "misbehave",
         "misconduct"
       ],
       "phrases": [
-        "behave",
-        "well",
-        "behave",
-        "badly"
+        "behave well",
+        "behave badly",
+        "behave oneself",
+        "behave professionally"
       ]
     },
     {
@@ -444,32 +621,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "behavior",
-          "definition": "n. 行為, 举止, [医] 行為"
+          "definition": "n. 行為、舉止、表現方式"
         }
       ],
       "examples": [
         {
-          "en": "His behavior is unacceptable.",
+          "en": "The teacher praised the student for his excellent behavior in class.",
           "highlight": [
             "behavior"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "老師稱讚這名學生在課堂上的優良行為。"
+          }
+        },
+        {
+          "en": "Animal behaviors can change significantly when they feel threatened.",
+          "highlight": [
+            "behaviors"
+          ],
+          "translations": {
+            "zh-TW": "動物在感到受威脅時，行為會有顯著的改變。"
+          }
+        },
+        {
+          "en": "The company will not tolerate rude behavior toward customers.",
+          "highlight": [
+            "behavior"
+          ],
+          "translations": {
+            "zh-TW": "這家公司不會容忍對顧客無禮的行為。"
           }
         }
       ],
       "synonyms": [
         "conduct",
-        "actions"
+        "actions",
+        "manner"
       ],
       "antonyms": [
-        "misconduct"
+        "misconduct",
+        "misbehavior"
       ],
       "phrases": [
-        "acceptable",
-        "behavior",
-        "human",
-        "behavior"
+        "acceptable behavior",
+        "good behavior",
+        "human behavior",
+        "behavior pattern"
       ]
     }
   ]
