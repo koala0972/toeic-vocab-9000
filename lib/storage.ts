@@ -128,10 +128,25 @@ export async function setProgress(p: ProgressMap): Promise<void> {
   await put('progress', p);
 }
 
+/** 全域時序 serialization：避免 read-modify-write race condition
+ * (同個 idx 變動多次 fire and forget 會讀到舊值並覆蓋新值) */
+let writeQueue: Promise<unknown> = Promise.resolve();
+
+/** 包裝 function 讓一次只跑一個，順序執行 */
+function serialize<T>(fn: () => Promise<T>): Promise<T> {
+  const next = writeQueue.then(fn);
+  // 不管成功失敗都要繼續下一個
+  writeQueue = next.catch(() => undefined);
+  return next;
+}
+
 export async function setLevelProgress(level: number, idx: number): Promise<void> {
-  const cur = await getProgress();
-  cur[level] = Math.max(cur[level] ?? 0, idx);
-  await setProgress(cur);
+  await serialize(async () => {
+    const cur = await getProgress();
+    if ((cur[level] ?? 0) >= idx) return; // 已更前，no-op
+    cur[level] = idx;
+    await setProgress(cur);
+  });
 }
 
 export async function getFavorites(): Promise<FavoriteEntry[]> {
