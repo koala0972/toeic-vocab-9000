@@ -30,7 +30,7 @@ export async function generateMetadata({
   const tierName = tierZh[tier] ?? '';
 
   const title = `多益單字 關卡 ${level}（${tierName}・CEFR ${cefr}・多益 ${toeic}+）`;
-  const description = `多益單字 9000 第 ${level} 關，${tierName}級難度，CEFR ${cefr}，對應多益 ${toeic} 分以上。10 個英文單字搭配中文翻譯、例句、語音朗讀，中英反白對照學習。`;
+  const description = `多益單字 9000 第 ${level} 關，${tierName}難度，CEFR ${cefr}，對應多益 ${toeic} 分以上。10 個英文單字搭配中文翻譯、例句、語音朗讀，中英反白對照學習。`;
 
   // 構建 keyword list
   const keywords = [

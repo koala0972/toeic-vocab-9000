@@ -95,7 +95,7 @@ export default function BrowseTierPage() {
         </div>
       </div>
 
-      <h1 className="text-3xl font-bold">{config.zhName}級</h1>
+      <h1 className="text-3xl font-bold">{config.zhName}</h1>
       <p className="text-slate-500 mt-1 text-sm">
         關卡 {levelFrom} ~ {levelTo} · 共 {total} 關 · CEFR {config.cefrRange[0]}–{config.cefrRange[1]} · 多益 {config.toeicRange[0]}–{config.toeicRange[1]} 分
       </p>
@@ -172,7 +172,7 @@ export default function BrowseTierPage() {
                   : 'bg-white text-slate-700 border-slate-300 hover:bg-slate-50'
               }`}
             >
-              {t.zhName}級
+              {t.zhName}
             </Link>
           ))}
         </div>
