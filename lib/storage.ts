@@ -141,11 +141,17 @@ function serialize<T>(fn: () => Promise<T>): Promise<T> {
 }
 
 export async function setLevelProgress(level: number, idx: number): Promise<void> {
+  console.log('[setLevelProgress]', level, idx, 'start');
   await serialize(async () => {
     const cur = await getProgress();
-    if ((cur[level] ?? 0) >= idx) return; // 已更前，no-op
+    console.log('[setLevelProgress]', level, idx, 'cur=', cur);
+    if ((cur[level] ?? 0) >= idx) {
+      console.log('[setLevelProgress]', level, idx, 'no-op (already', cur[level], ')');
+      return; // 已更前，no-op
+    }
     cur[level] = idx;
     await setProgress(cur);
+    console.log('[setLevelProgress]', level, idx, 'WRITTEN');
   });
 }
 
