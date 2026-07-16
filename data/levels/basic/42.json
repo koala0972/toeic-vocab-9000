@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 42,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-042-001",
@@ -15,40 +15,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "bottleed",
-        "past_participle": "bottleed",
-        "present_participle": "bottling",
-        "third_person": "bottles"
+        "plural": "bottles",
+        "present_3rd": "bottles",
+        "past": "bottled",
+        "past_participle": "bottled",
+        "ing": "bottling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bottle",
-          "definition": "n. 瓶子, 酒瓶, vt. 装瓶, 抑制, 围困"
+          "definition": "n. 瓶子、容器  v. 把…裝入瓶中、抑制（情緒）"
         }
       ],
       "examples": [
         {
-          "en": "She drank a bottle of water.",
+          "en": "He bought a bottle of red wine for the dinner party.",
           "highlight": [
             "bottle"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他為晚宴買了一瓶紅酒。"
+          }
+        },
+        {
+          "en": "The factory bottled thousands of liters of mineral water every day.",
+          "highlight": [
+            "bottled"
+          ],
+          "translations": {
+            "zh-TW": "這座工廠每天將數千公升的礦泉水裝瓶。"
+          }
+        },
+        {
+          "en": "She had been bottling up her frustration until the meeting finally exploded.",
+          "highlight": [
+            "bottling"
+          ],
+          "translations": {
+            "zh-TW": "她一直壓抑著挫折感，直到會議上終於爆發。"
           }
         }
       ],
       "synonyms": [
         "flask",
-        "jar"
+        "jar",
+        "container"
       ],
       "antonyms": [],
       "phrases": [
-        "empty",
-        "bottle",
-        "glass",
-        "bottle"
+        "water bottle",
+        "wine bottle",
+        "bottle up",
+        "bottle neck"
       ]
     },
     {
@@ -70,34 +90,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "bottom",
-          "definition": "n. 底部, a. 底部的, vt. 给...装底, 查明真相, vi. 到达底部, 建立基础"
+          "definition": "n. 底部、最下部、臀部  adj. 底部的、最後的"
         }
       ],
       "examples": [
         {
-          "en": "The ball is at the bottom of the hill.",
+          "en": "Please sign your name at the bottom of the contract.",
           "highlight": [
             "bottom"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在合約的最下方簽名。"
+          }
+        },
+        {
+          "en": "The shipping company found cracks in the bottoms of several cargo containers.",
+          "highlight": [
+            "bottoms"
+          ],
+          "translations": {
+            "zh-TW": "貨運公司在幾個貨櫃的底部發現了裂縫。"
+          }
+        },
+        {
+          "en": "Profits hit rock bottom during the recession but recovered the next year.",
+          "highlight": [
+            "bottom"
+          ],
+          "translations": {
+            "zh-TW": "利潤在經濟衰退期間跌到谷底，但隔年就回升了。"
           }
         }
       ],
       "synonyms": [
         "base",
-        "foot"
+        "foot",
+        "lowest part"
       ],
       "antonyms": [
         "top",
-        "peak"
+        "peak",
+        "summit"
       ],
       "phrases": [
-        "bottom",
-        "line",
-        "at",
-        "the",
-        "bottom"
+        "bottom line",
+        "at the bottom of",
+        "rock bottom",
+        "from top to bottom"
       ]
     },
     {
@@ -119,32 +158,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "bound",
-          "definition": "n. 跃, 回跳, 范围, 边界, a. 受约束的, 装有封面的, 有义务的, 關联的, 被束缚的, 准备去...的, 便秘的, vi. 跳跃, 弹起, vt. 使跳, 限制, 形成...的疆界, bind過去式和過去分词, [计] 装订的"
+          "definition": "adj. 前往…的、受約束的、有義務的  v. bind 的過去式與過去分詞"
         }
       ],
       "examples": [
         {
-          "en": "The train is bound for Paris.",
+          "en": "The express train is bound for Tokyo and will arrive at 7 p.m.",
           "highlight": [
             "bound"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這班特快列車開往東京，將於晚上七點抵達。"
+          }
+        },
+        {
+          "en": "As a manager, she felt bound to report the safety violation immediately.",
+          "highlight": [
+            "bound"
+          ],
+          "translations": {
+            "zh-TW": "身為經理，她覺得有義務立即通報這起安全違規。"
+          }
+        },
+        {
+          "en": "The two companies are bound by a long-term supply agreement.",
+          "highlight": [
+            "bound"
+          ],
+          "translations": {
+            "zh-TW": "這兩家公司受到一份長期供應合約的約束。"
           }
         }
       ],
       "synonyms": [
         "headed",
-        "destined"
+        "destined",
+        "obliged"
       ],
       "antonyms": [
-        "unbound"
+        "unbound",
+        "free"
       ],
       "phrases": [
-        "east",
-        "bound",
-        "home",
-        "bound"
+        "bound for",
+        "bound to",
+        "home bound",
+        "out of bounds"
       ]
     },
     {
@@ -159,40 +218,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "bowled",
+        "plural": "bowls",
+        "present_3rd": "bowls",
+        "past": "bowled",
         "past_participle": "bowled",
-        "present_participle": "bowling",
-        "third_person": "bowls"
+        "ing": "bowling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bowl",
-          "definition": "n. 碗, 木球, 大酒杯, v. 滚木球, 快而稳地行驶"
+          "definition": "n. 碗、缽、圓形競技場  v. 滾球、打保齡球"
         }
       ],
       "examples": [
         {
-          "en": "She served the soup in a bowl.",
+          "en": "She ordered a bowl of noodles for lunch at the food court.",
           "highlight": [
             "bowl"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在美食街點了一碗麵當午餐。"
+          }
+        },
+        {
+          "en": "The chef prepared several decorative bowls for the buffet table.",
+          "highlight": [
+            "bowls"
+          ],
+          "translations": {
+            "zh-TW": "主廚為自助餐餐桌準備了幾個裝飾用的碗。"
+          }
+        },
+        {
+          "en": "They went bowling after work and stayed until the alley closed.",
+          "highlight": [
+            "bowling"
+          ],
+          "translations": {
+            "zh-TW": "他們下班後去打保齡球，一直待到球館打烊。"
           }
         }
       ],
       "synonyms": [
         "dish",
+        "basin",
         "container"
       ],
       "antonyms": [],
       "phrases": [
-        "soup",
-        "bowl",
-        "mixing",
-        "bowl"
+        "soup bowl",
+        "rice bowl",
+        "mixing bowl",
+        "bowl over"
       ]
     },
     {
@@ -207,40 +286,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "boxed",
+        "plural": "boxes",
+        "present_3rd": "boxes",
+        "past": "boxed",
         "past_participle": "boxed",
-        "present_participle": "boxing",
-        "third_person": "boxs"
+        "ing": "boxing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "box",
-          "definition": "n. 盒子, 箱, 方框, 一巴掌, vt. 装...入盒中, 装箱, 打耳光, vi. 拳击, [计] 方框"
+          "definition": "n. 盒子、箱子、包廂  v. 把…裝箱、打拳擊"
         }
       ],
       "examples": [
         {
-          "en": "He put the tools in a box.",
+          "en": "Please mail this box of samples to our client in Osaka.",
           "highlight": [
             "box"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請把這箱樣品寄給我們大阪的客戶。"
+          }
+        },
+        {
+          "en": "The warehouse staff boxed the products carefully before shipping.",
+          "highlight": [
+            "boxed"
+          ],
+          "translations": {
+            "zh-TW": "倉庫人員在出貨前小心地將產品裝箱。"
+          }
+        },
+        {
+          "en": "He took up boxing as a hobby to stay in shape after leaving the office.",
+          "highlight": [
+            "boxing"
+          ],
+          "translations": {
+            "zh-TW": "離開辦公室後，他把打拳擊當作保持身材的嗜好。"
           }
         }
       ],
       "synonyms": [
         "crate",
+        "carton",
         "case"
       ],
       "antonyms": [],
       "phrases": [
-        "cardboard",
-        "box",
-        "wooden",
-        "box"
+        "cardboard box",
+        "gift box",
+        "box office",
+        "box up"
       ]
     },
     {
@@ -254,41 +353,58 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "boies"
+        "plural": "boys"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "boy",
-          "definition": "n. 男孩, [法] 男孩, 少年, 兒子"
+          "definition": "n. 男孩、少年、兒子"
         }
       ],
       "examples": [
         {
-          "en": "The boy is playing outside.",
+          "en": "The boy next door helps his father run the family bakery.",
           "highlight": [
             "boy"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "隔壁的男孩幫他父親經營家族麵包店。"
+          }
+        },
+        {
+          "en": "Two boys were hired as part-time delivery staff for the summer.",
+          "highlight": [
+            "boys"
+          ],
+          "translations": {
+            "zh-TW": "兩個男孩被雇用為夏季的兼職外送人員。"
+          }
+        },
+        {
+          "en": "Her little boy starts primary school this September.",
+          "highlight": [
+            "boy"
+          ],
+          "translations": {
+            "zh-TW": "她的小男孩今年九月開始上小學。"
           }
         }
       ],
       "synonyms": [
         "lad",
-        "youngster"
+        "youngster",
+        "son"
       ],
       "antonyms": [
-        "girl",
-        "girl",
-        "child"
+        "girl"
       ],
       "phrases": [
-        "young",
-        "boy",
-        "little",
-        "boy"
+        "little boy",
+        "young boy",
+        "baby boy",
+        "boys' room"
       ]
     },
     {
@@ -309,29 +425,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "boyfriend",
-          "definition": "n. 男朋友"
+          "definition": "n. 男朋友、伴侶"
         }
       ],
       "examples": [
         {
-          "en": "She met her boyfriend at the cafe.",
+          "en": "Her boyfriend works as a software engineer at a major tech firm.",
           "highlight": [
             "boyfriend"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她的男朋友在一家大型科技公司擔任軟體工程師。"
+          }
+        },
+        {
+          "en": "She introduced two of her former boyfriends at the alumni reunion.",
+          "highlight": [
+            "boyfriends"
+          ],
+          "translations": {
+            "zh-TW": "她在校友聚會上介紹了她的兩位前男友。"
+          }
+        },
+        {
+          "en": "My boyfriend surprised me with concert tickets for our anniversary.",
+          "highlight": [
+            "boyfriend"
+          ],
+          "translations": {
+            "zh-TW": "我男朋友用演唱會門票給了我一個週年驚喜。"
           }
         }
       ],
       "synonyms": [
         "partner",
-        "lover"
+        "beau",
+        "significant other"
       ],
-      "antonyms": [],
-      "phrases": [
-        "new",
-        "boyfriend",
+      "antonyms": [
         "ex-boyfriend"
+      ],
+      "phrases": [
+        "current boyfriend",
+        "ex-boyfriend",
+        "new boyfriend",
+        "boyfriend material"
       ]
     },
     {
@@ -346,40 +484,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "brained",
+        "plural": "brains",
+        "present_3rd": "brains",
+        "past": "brained",
         "past_participle": "brained",
-        "present_participle": "braining",
-        "third_person": "brains"
+        "ing": "braining"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "brain",
-          "definition": "n. 脑, vt. 打碎脑部"
+          "definition": "n. 腦、頭腦、智力  v. 猛擊頭部"
         }
       ],
       "examples": [
         {
-          "en": "The human brain is very complex.",
+          "en": "The human brain can process vast amounts of information in seconds.",
           "highlight": [
             "brain"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "人腦能在幾秒內處理大量資訊。"
+          }
+        },
+        {
+          "en": "The company hired several top brains to lead the research division.",
+          "highlight": [
+            "brains"
+          ],
+          "translations": {
+            "zh-TW": "公司聘請了幾位頂尖人才來領導研究部門。"
+          }
+        },
+        {
+          "en": "She brained herself on the kitchen cabinet while reaching for the top shelf.",
+          "highlight": [
+            "brained"
+          ],
+          "translations": {
+            "zh-TW": "她伸手拿頂層架子時，頭撞到了廚櫃。"
           }
         }
       ],
       "synonyms": [
         "mind",
-        "intellect"
+        "intellect",
+        "genius"
       ],
       "antonyms": [],
       "phrases": [
-        "brain",
-        "surgery",
-        "brain",
-        "function"
+        "brain surgery",
+        "brain drain",
+        "brainstorm",
+        "use your brain"
       ]
     },
     {
@@ -394,43 +552,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "branched",
+        "plural": "branches",
+        "present_3rd": "branches",
+        "past": "branched",
         "past_participle": "branched",
-        "present_participle": "branching",
-        "third_person": "branchs"
+        "ing": "branching"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "branch",
-          "definition": "n. 树枝, 支店, 支流, 分部, vi. 分支, 出枝, vt. 分割, 用枝状叶脉刺绣花纹装饰, [计] 分支, 目录分支"
+          "definition": "n. 樹枝、分公司、支流  v. 分支、擴展"
         }
       ],
       "examples": [
         {
-          "en": "He climbed a tree and sat on a branch.",
+          "en": "Our company just opened a new branch in Singapore last month.",
           "highlight": [
             "branch"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們公司上個月剛在新加坡開設了一家新的分公司。"
+          }
+        },
+        {
+          "en": "The bank has branches in over thirty countries worldwide.",
+          "highlight": [
+            "branches"
+          ],
+          "translations": {
+            "zh-TW": "這家銀行在全球超過三十個國家設有分行。"
+          }
+        },
+        {
+          "en": "The hiking trail branched into two paths near the river.",
+          "highlight": [
+            "branched"
+          ],
+          "translations": {
+            "zh-TW": "健行步道在靠近河邊的地方分成兩條路。"
           }
         }
       ],
       "synonyms": [
-        "limb",
-        "bough"
+        "division",
+        "department",
+        " affiliate"
       ],
       "antonyms": [
         "trunk",
         "root"
       ],
       "phrases": [
-        "tree",
-        "branch",
-        "branch",
-        "office"
+        "branch office",
+        "branch out",
+        "olive branch",
+        "executive branch"
       ]
     },
     {
@@ -445,43 +623,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "branded",
+        "plural": "brands",
+        "present_3rd": "brands",
+        "past": "branded",
         "past_participle": "branded",
-        "present_participle": "branding",
-        "third_person": "brands"
+        "ing": "branding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "brand",
-          "definition": "n. 商标, 牌子, 烙印, vt. 打烙印于"
+          "definition": "n. 品牌、商標  v. 在…上烙印、樹立品牌形象"
         }
       ],
       "examples": [
         {
-          "en": "This is a popular brand of shoes.",
+          "en": "This is the most popular brand of coffee in our office break room.",
           "highlight": [
             "brand"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這是我們辦公室茶水間裡最受歡迎的咖啡品牌。"
+          }
+        },
+        {
+          "en": "The company branded its new product line with a sleek minimalist logo.",
+          "highlight": [
+            "branded"
+          ],
+          "translations": {
+            "zh-TW": "公司用一個俐落的極簡標誌為新產品線建立品牌形象。"
+          }
+        },
+        {
+          "en": "She is in charge of branding for a famous luxury fashion house.",
+          "highlight": [
+            "branding"
+          ],
+          "translations": {
+            "zh-TW": "她負責一家知名奢華時尚品牌的品牌建立工作。"
           }
         }
       ],
       "synonyms": [
         "label",
-        "trademark"
+        "trademark",
+        "make"
       ],
       "antonyms": [
         "generic",
         "no-name"
       ],
       "phrases": [
-        "brand",
-        "new",
-        "famous",
-        "brand"
+        "brand new",
+        "brand name",
+        "brand identity",
+        "store brand"
       ]
     }
   ]
