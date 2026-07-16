@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 30,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-030-001",
@@ -11,44 +11,65 @@
       "toeic_score_min": 200,
       "word": "awake",
       "pos": [
-        "adjective"
+        "adjective",
+        "verb"
       ],
       "conjugations": {
-        "comparative": "awakeer",
-        "superlative": "awakeest"
+        "past": "awoke",
+        "past_participle": "awoken",
+        "ing": "awaking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "awake",
-          "definition": "a. 醒着的, vt. 唤醒, 唤起, 使意识到, vi. 醒來, 被唤起, 意识到"
+          "definition": "a. 醒著的、清醒的  v. 醒來、喚醒、使意識到"
         }
       ],
       "examples": [
         {
-          "en": "She was awake all night.",
+          "en": "The loud thunder kept me awake all night.",
           "highlight": [
             "awake"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "巨大的雷聲讓我整晚都醒著無法入睡。"
+          }
+        },
+        {
+          "en": "She awoke to the smell of fresh coffee filling the kitchen.",
+          "highlight": [
+            "awoke"
+          ],
+          "translations": {
+            "zh-TW": "她在滿廚房新煮咖啡的香味中醒來。"
+          }
+        },
+        {
+          "en": "The entire nation was awoken by the shocking news broadcast.",
+          "highlight": [
+            "awoken"
+          ],
+          "translations": {
+            "zh-TW": "整個國家被那則令人震驚的新聞廣播喚醒。"
           }
         }
       ],
       "synonyms": [
         "alert",
-        "conscious"
+        "conscious",
+        "wakeful"
       ],
       "antonyms": [
         "asleep",
         "unconscious"
       ],
       "phrases": [
-        "stay",
-        "awake",
-        "wide",
-        "awake"
+        "stay awake",
+        "wide awake",
+        "awake to",
+        "lay awake"
       ]
     },
     {
@@ -63,44 +84,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "awarded",
+        "plural": "awards",
+        "present_3rd": "awards",
+        "past": "awarded",
         "past_participle": "awarded",
-        "present_participle": "awarding",
-        "third_person": "awards"
+        "ing": "awarding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "award",
-          "definition": "n. 奖品, 裁定, 判决, vt. 授予, 给予"
+          "definition": "n. 獎品、獎項  v. 授予、頒發"
         }
       ],
       "examples": [
         {
-          "en": "She won an award for her work.",
+          "en": "The company presents an annual award to its top-performing salesperson.",
           "highlight": [
             "award"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司每年頒發獎項給績效最佳的業務員。"
+          }
+        },
+        {
+          "en": "The committee awarded her a scholarship for outstanding academic achievement.",
+          "highlight": [
+            "awarded"
+          ],
+          "translations": {
+            "zh-TW": "委員會因她傑出的學術表現，授予她獎學金。"
+          }
+        },
+        {
+          "en": "The manager is awarding the contract to the lowest bidder next Monday.",
+          "highlight": [
+            "awarding"
+          ],
+          "translations": {
+            "zh-TW": "經理下週一將把合約頒發給出價最低的投標者。"
           }
         }
       ],
       "synonyms": [
         "prize",
-        "reward"
+        "reward",
+        "grant"
       ],
       "antonyms": [
         "penalty",
         "punishment"
       ],
       "phrases": [
-        "win",
-        "an",
-        "award",
-        "award",
-        "ceremony"
+        "win an award",
+        "award ceremony",
+        "award a contract",
+        "academic award"
       ]
     },
     {
@@ -113,42 +153,59 @@
       "pos": [
         "adjective"
       ],
-      "conjugations": {
-        "comparative": "awareer",
-        "superlative": "awareest"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "aware",
-          "definition": "a. 知道的, 有觉悟的"
+          "definition": "a. 察覺到的、意識到的、知道的"
         }
       ],
       "examples": [
         {
-          "en": "He is aware of the risks.",
+          "en": "Are you aware of the new company policy regarding remote work?",
           "highlight": [
             "aware"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "你知不知道公司關於遠端工作的新政策？"
+          }
+        },
+        {
+          "en": "Consumers today are more aware of data privacy issues than ever before.",
+          "highlight": [
+            "aware"
+          ],
+          "translations": {
+            "zh-TW": "現今的消費者比以往任何時候都更意識到資料隱私的問題。"
+          }
+        },
+        {
+          "en": "The CEO made the staff fully aware of the upcoming restructuring plan.",
+          "highlight": [
+            "aware"
+          ],
+          "translations": {
+            "zh-TW": "執行長讓員工充分了解即將到來的重組計畫。"
           }
         }
       ],
       "synonyms": [
         "conscious",
-        "mindful"
+        "mindful",
+        "informed"
       ],
       "antonyms": [
         "unaware",
-        "ignorant"
+        "ignorant",
+        "oblivious"
       ],
       "phrases": [
-        "well",
-        "aware",
-        "fully",
-        "aware"
+        "be aware of",
+        "well aware",
+        "fully aware",
+        "make aware"
       ]
     },
     {
@@ -162,42 +219,59 @@
         "adverb",
         "adjective"
       ],
-      "conjugations": {
-        "comparative": "awaier",
-        "superlative": "awaiest"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "away",
-          "definition": "adv. 離去"
+          "definition": "adv. 離開、遠離、不在  a. 遠方的、缺席的"
         }
       ],
       "examples": [
         {
-          "en": "She walked away from the crowd.",
+          "en": "Please step away from the emergency exit during takeoff.",
           "highlight": [
             "away"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "起飛期間請遠離緊急出口。"
+          }
+        },
+        {
+          "en": "The sales team is away on a three-day training retreat this week.",
+          "highlight": [
+            "away"
+          ],
+          "translations": {
+            "zh-TW": "業務團隊本週外出參加為期三天的培訓。"
+          }
+        },
+        {
+          "en": "She gave away her old laptop to a student who could not afford one.",
+          "highlight": [
+            "away"
+          ],
+          "translations": {
+            "zh-TW": "她把舊筆電送給了一個買不起電腦的學生。"
           }
         }
       ],
       "synonyms": [
         "distant",
-        "apart"
+        "apart",
+        "absent"
       ],
       "antonyms": [
         "near",
-        "close"
+        "close",
+        "present"
       ],
       "phrases": [
-        "walk",
-        "away",
-        "move",
-        "away"
+        "far away",
+        "give away",
+        "walk away",
+        "right away"
       ]
     },
     {
@@ -210,42 +284,59 @@
       "pos": [
         "adjective"
       ],
-      "conjugations": {
-        "comparative": "awfuler",
-        "superlative": "awfulest"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "awful",
-          "definition": "a. 可怕的, 庄严的, 虔敬的"
+          "definition": "a. 糟糕的、可怕的、極壞的"
         }
       ],
       "examples": [
         {
-          "en": "The weather was awful.",
+          "en": "The food at that restaurant was awful; I would not recommend it.",
           "highlight": [
             "awful"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "那家餐廳的食物糟透了，我不會推薦。"
+          }
+        },
+        {
+          "en": "Traffic during rush hour was more awful than usual due to the marathon.",
+          "highlight": [
+            "awful"
+          ],
+          "translations": {
+            "zh-TW": "因為馬拉松的緣故，尖峰時段的交通比平時更糟糕。"
+          }
+        },
+        {
+          "en": "That was the most awful presentation the board has ever seen.",
+          "highlight": [
+            "awful"
+          ],
+          "translations": {
+            "zh-TW": "那是董事會見過最糟糕的簡報。"
           }
         }
       ],
       "synonyms": [
         "terrible",
-        "dreadful"
+        "dreadful",
+        "horrible"
       ],
       "antonyms": [
         "pleasant",
-        "nice"
+        "wonderful",
+        "excellent"
       ],
       "phrases": [
-        "awful",
-        "experience",
-        "awful",
-        "smell"
+        "awful weather",
+        "awful lot of",
+        "feel awful",
+        "look awful"
       ]
     },
     {
@@ -264,34 +355,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "awfully",
-          "definition": "adv. 恶劣地, 非常地, 极端地"
+          "definition": "adv. 非常地、極度地"
         }
       ],
       "examples": [
         {
-          "en": "I'm awfully sorry.",
+          "en": "I'm awfully sorry for the delay in responding to your email.",
           "highlight": [
             "awfully"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "對於遲了回覆您的郵件，我感到非常抱歉。"
+          }
+        },
+        {
+          "en": "The new intern is awfully talented for someone so young.",
+          "highlight": [
+            "awfully"
+          ],
+          "translations": {
+            "zh-TW": "這位新實習生對這麼年輕的人來說，實在非常有才華。"
+          }
+        },
+        {
+          "en": "She was awfully kind to help us organize the conference.",
+          "highlight": [
+            "awfully"
+          ],
+          "translations": {
+            "zh-TW": "她人真的太好了，願意幫忙籌辦這場研討會。"
           }
         }
       ],
       "synonyms": [
         "extremely",
-        "very"
+        "very",
+        "terribly"
       ],
       "antonyms": [
         "slightly",
-        "a",
-        "little"
+        "barely",
+        "hardly"
       ],
       "phrases": [
-        "awfully",
-        "good",
-        "awfully",
-        "nice"
+        "awfully sorry",
+        "awfully good",
+        "awfully nice",
+        "awfully kind"
       ]
     },
     {
@@ -305,41 +415,61 @@
         "adjective"
       ],
       "conjugations": {
-        "comparative": "awkwarder",
-        "superlative": "awkwardest"
+        "comparative": "more awkward",
+        "superlative": "most awkward"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "awkward",
-          "definition": "a. 笨拙的, 棘手的"
+          "definition": "a. 尷尬的、笨拙的、棘手的、難處理的"
         }
       ],
       "examples": [
         {
-          "en": "The situation was very awkward.",
+          "en": "It was rather awkward when neither colleague spoke during the entire meeting.",
           "highlight": [
             "awkward"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "整場會議中兩位同事都不發一語，氣氛頗為尷尬。"
+          }
+        },
+        {
+          "en": "This is a more awkward time to schedule the interview than I expected.",
+          "highlight": [
+            "awkward"
+          ],
+          "translations": {
+            "zh-TW": "要安排這場面試的時間比我預期的還要更棘手。"
+          }
+        },
+        {
+          "en": "That was the most awkward handshake I have ever witnessed at a business event.",
+          "highlight": [
+            "awkward"
+          ],
+          "translations": {
+            "zh-TW": "那是我見過商務活動中最尷尬的一次握手。"
           }
         }
       ],
       "synonyms": [
         "clumsy",
-        "uncomfortable"
+        "uncomfortable",
+        "embarrassing"
       ],
       "antonyms": [
         "graceful",
-        "smooth"
+        "smooth",
+        "elegant"
       ],
       "phrases": [
-        "awkward",
-        "silence",
-        "awkward",
-        "moment"
+        "awkward silence",
+        "awkward moment",
+        "awkward position",
+        "awkward situation"
       ]
     },
     {
@@ -358,33 +488,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "awkwardly",
-          "definition": "adv. 笨拙地；无技巧地"
+          "definition": "adv. 尷尬地、笨拙地、不靈巧地"
         }
       ],
       "examples": [
         {
-          "en": "He moved awkwardly in the small space.",
+          "en": "He stood awkwardly in the corner during the networking event.",
           "highlight": [
             "awkwardly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在交流活動中，他尷尬地站在角落。"
+          }
+        },
+        {
+          "en": "The speaker paused awkwardly when the projector suddenly stopped working.",
+          "highlight": [
+            "awkwardly"
+          ],
+          "translations": {
+            "zh-TW": "投影機突然故障時，演講者尷尬地停頓了一下。"
+          }
+        },
+        {
+          "en": "She adjusted the microphone awkwardly before finally beginning her speech.",
+          "highlight": [
+            "awkwardly"
+          ],
+          "translations": {
+            "zh-TW": "她在終於開始演講前，笨拙地調整了一下麥克風。"
           }
         }
       ],
       "synonyms": [
         "clumsily",
-        "uncomfortably"
+        "uncomfortably",
+        "inelegantly"
       ],
       "antonyms": [
         "gracefully",
-        "smoothly"
+        "smoothly",
+        "elegantly"
       ],
       "phrases": [
-        "smile",
-        "awkwardly",
-        "awkwardly",
-        "position"
+        "smile awkwardly",
+        "stand awkwardly",
+        "awkwardly placed",
+        "laugh awkwardly"
       ]
     },
     {
@@ -405,33 +555,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "baby",
-          "definition": "n. 婴孩, [医] 婴兒"
+          "definition": "n. 嬰兒、寶寶、幼兒"
         }
       ],
       "examples": [
         {
-          "en": "The baby is sleeping.",
+          "en": "The baby has been crying since this morning; she might have a fever.",
           "highlight": [
             "baby"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "寶寶從今早就一直哭，她可能發燒了。"
+          }
+        },
+        {
+          "en": "Twins and other multiple babies often require extra care after birth.",
+          "highlight": [
+            "babies"
+          ],
+          "translations": {
+            "zh-TW": "雙胞胎及其他多胞胎嬰兒出生後通常需要額外照護。"
+          }
+        },
+        {
+          "en": "Both babies were born healthy at the central hospital last night.",
+          "highlight": [
+            "babies"
+          ],
+          "translations": {
+            "zh-TW": "昨晚兩名嬰兒都在中央醫院健康出生。"
           }
         }
       ],
       "synonyms": [
         "infant",
-        "newborn"
+        "newborn",
+        "toddler"
       ],
       "antonyms": [
         "adult",
         "grown-up"
       ],
       "phrases": [
-        "baby",
-        "boy",
-        "baby",
-        "girl"
+        "baby boy",
+        "baby girl",
+        "have a baby",
+        "baby sitter"
       ]
     },
     {
@@ -448,43 +617,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "backed",
+        "plural": "backs",
+        "present_3rd": "backs",
+        "past": "backed",
         "past_participle": "backed",
-        "present_participle": "backing",
-        "third_person": "backs"
+        "ing": "backing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "back",
-          "definition": "a. 後面的, vt. 使後退, 支持, vi. 倒退, 背靠, adv. 向後地, n. 背部, 後面"
+          "definition": "n. 背部、後面  a. 後面的  adv. 向後、回原處  v. 後退、支持"
         }
       ],
       "examples": [
         {
-          "en": "He lay on his back.",
+          "en": "He injured his back while lifting heavy boxes at the warehouse.",
           "highlight": [
             "back"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他在倉庫搬重物時傷到了背部。"
+          }
+        },
+        {
+          "en": "The investor backed the startup with two million dollars in seed funding.",
+          "highlight": [
+            "backed"
+          ],
+          "translations": {
+            "zh-TW": "投資人以兩百萬美元的種子資金支持那家新創公司。"
+          }
+        },
+        {
+          "en": "Several colleagues are backing her proposal for the new marketing campaign.",
+          "highlight": [
+            "backing"
+          ],
+          "translations": {
+            "zh-TW": "幾位同事都支持她提出的新行銷活動提案。"
           }
         }
       ],
       "synonyms": [
         "spine",
-        "rear"
+        "rear",
+        "support"
       ],
       "antonyms": [
         "front",
         "forward"
       ],
       "phrases": [
-        "lie",
-        "back",
-        "step",
-        "back"
+        "lie on one's back",
+        "back up",
+        "come back",
+        "back and forth"
       ]
     }
   ]
