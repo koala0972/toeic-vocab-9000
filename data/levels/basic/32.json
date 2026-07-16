@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 32,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-032-001",
@@ -15,43 +15,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "balanceed",
-        "past_participle": "balanceed",
-        "present_participle": "balancing",
-        "third_person": "balances"
+        "plural": "balances",
+        "present_3rd": "balances",
+        "past": "balanced",
+        "past_participle": "balanced",
+        "ing": "balancing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "balance",
-          "definition": "n. 平衡, 差额, vi. 平衡, 相等, vt. 称, 权衡, 比较, 使平衡, 結算, 抵消"
+          "definition": "n. 平衡、餘額  v. 使平衡、權衡、結算"
         }
       ],
       "examples": [
         {
-          "en": "He lost his balance and fell.",
+          "en": "She tried to keep her balance while walking on the icy sidewalk.",
           "highlight": [
             "balance"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她試著在結冰的人行道上走時保持平衡。"
+          }
+        },
+        {
+          "en": "The accountant balanced the books before the end of the fiscal year.",
+          "highlight": [
+            "balanced"
+          ],
+          "translations": {
+            "zh-TW": "會計師在會計年度結束前結算好帳目。"
+          }
+        },
+        {
+          "en": "He is balancing a full-time job with evening classes to earn his degree.",
+          "highlight": [
+            "balancing"
+          ],
+          "translations": {
+            "zh-TW": "他正在兼顧全職工作與夜間課程以取得學位。"
           }
         }
       ],
       "synonyms": [
+        "equilibrium",
         "stability",
-        "equilibrium"
+        "steady"
       ],
       "antonyms": [
         "imbalance",
         "instability"
       ],
       "phrases": [
-        "maintain",
-        "balance",
-        "lose",
-        "balance"
+        "keep balance",
+        "lose balance",
+        "balance sheet",
+        "balance a budget"
       ]
     },
     {
@@ -72,31 +92,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "ball",
-          "definition": "n. 球, 舞會, 球状物, v. 捏成球形"
+          "definition": "n. 球、舞會、球狀物"
         }
       ],
       "examples": [
         {
-          "en": "They played ball in the park.",
+          "en": "The children kicked the ball around the park all afternoon.",
           "highlight": [
             "ball"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "孩子們整個下午在公園裡踢球。"
+          }
+        },
+        {
+          "en": "She wore a beautiful gown to the charity ball last Saturday.",
+          "highlight": [
+            "ball"
+          ],
+          "translations": {
+            "zh-TW": "她上週六穿著美麗的礼服出席慈善舞會。"
+          }
+        },
+        {
+          "en": "He bought three new tennis balls for the match this weekend.",
+          "highlight": [
+            "balls"
+          ],
+          "translations": {
+            "zh-TW": "他為這週末的比賽買了三顆新的網球。"
           }
         }
       ],
       "synonyms": [
         "sphere",
-        "orb"
+        "orb",
+        "glob"
       ],
       "antonyms": [],
       "phrases": [
-        "throw",
-        "the",
-        "ball",
-        "soccer",
-        "ball"
+        "ball game",
+        "soccer ball",
+        "have a ball",
+        "ball of fire"
       ]
     },
     {
@@ -111,44 +149,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "baned",
-        "past_participle": "baned",
-        "present_participle": "baning",
-        "third_person": "bans"
+        "present_3rd": "bans",
+        "past": "banned",
+        "past_participle": "banned",
+        "ing": "banning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "ban",
-          "definition": "n. 禁令, vt. 禁止, 取缔"
+          "definition": "v. 禁止、取締  n. 禁令"
         }
       ],
       "examples": [
         {
-          "en": "The city banned smoking in public places.",
+          "en": "The government plans to ban single-use plastics by next year.",
           "highlight": [
             "ban"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "政府計畫在明年之前禁止一次性塑膠製品。"
+          }
+        },
+        {
+          "en": "The school banned cell phones during exams to prevent cheating.",
+          "highlight": [
+            "banned"
+          ],
+          "translations": {
+            "zh-TW": "學校在考試期間禁止使用手機以防作弊。"
+          }
+        },
+        {
+          "en": "The city is banning smoking in all public parks starting next month.",
+          "highlight": [
+            "banning"
+          ],
+          "translations": {
+            "zh-TW": "從下個月起，全市所有公園都將禁止吸菸。"
           }
         }
       ],
       "synonyms": [
         "prohibit",
-        "forbid"
+        "forbid",
+        "outlaw"
       ],
       "antonyms": [
         "allow",
         "permit"
       ],
       "phrases": [
-        "impose",
-        "a",
-        "ban",
-        "lift",
-        "a"
+        "impose a ban",
+        "lift a ban",
+        "ban on smoking",
+        "ban list"
       ]
     },
     {
@@ -163,40 +219,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "banded",
+        "plural": "bands",
+        "present_3rd": "bands",
+        "past": "banded",
         "past_participle": "banded",
-        "present_participle": "banding",
-        "third_person": "bands"
+        "ing": "banding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "band",
-          "definition": "n. 帶子, 队, 乐队, v. 联合, 結合, [计] 频帶; 波段; 區"
+          "definition": "n. 帶子、樂團、一群  v. 聯合、結合"
         }
       ],
       "examples": [
         {
-          "en": "She wore a hair band.",
+          "en": "She wore a wide velvet band in her hair at the wedding.",
           "highlight": [
             "band"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在婚禮上戴了一條寬絲絨髮帶。"
+          }
+        },
+        {
+          "en": "A band of volunteers banded together to clean up the beach after the storm.",
+          "highlight": [
+            "banded"
+          ],
+          "translations": {
+            "zh-TW": "一群志工在風暴過後聯合起來清理海灘。"
+          }
+        },
+        {
+          "en": "Several local bands are banding with national artists to raise funds for charity.",
+          "highlight": [
+            "banding"
+          ],
+          "translations": {
+            "zh-TW": "幾個在地樂團正與全國藝術家聯手為慈善募款。"
           }
         }
       ],
       "synonyms": [
         "strip",
-        "ribbon"
+        "group",
+        "bracelet"
       ],
       "antonyms": [],
       "phrases": [
-        "rubber",
-        "band",
-        "music",
-        "band"
+        "rubber band",
+        "march band",
+        "band together",
+        "rock band"
       ]
     },
     {
@@ -211,41 +287,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "bandageed",
-        "past_participle": "bandageed",
-        "present_participle": "bandaging",
-        "third_person": "bandages"
+        "plural": "bandages",
+        "present_3rd": "bandages",
+        "past": "bandaged",
+        "past_participle": "bandaged",
+        "ing": "bandaging"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bandage",
-          "definition": "n. 绷帶, [化] 帘布筒; 實心轮胎; 紧帶; 绷帶"
+          "definition": "n. 繃帶  v. 用繃帶包紮"
         }
       ],
       "examples": [
         {
-          "en": "He wrapped a bandage around his arm.",
+          "en": "The nurse wrapped a clean bandage around the wound carefully.",
           "highlight": [
             "bandage"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "護士小心翼翼地在傷口上纏上乾淨的繃帶。"
+          }
+        },
+        {
+          "en": "The trainer bandaged the athlete's ankle before the big match.",
+          "highlight": [
+            "bandaged"
+          ],
+          "translations": {
+            "zh-TW": "在大賽前，防護員用繃帶包紮了運動員的腳踝。"
+          }
+        },
+        {
+          "en": "She is bandaging her daughter's scraped knee after the fall in the playground.",
+          "highlight": [
+            "bandaging"
+          ],
+          "translations": {
+            "zh-TW": "她在女兒於遊樂場跌倒後，正在包紮擦傷的膝蓋。"
           }
         }
       ],
       "synonyms": [
         "dressing",
-        "compress"
+        "compress",
+        "wrap"
       ],
       "antonyms": [],
       "phrases": [
-        "apply",
-        "a",
-        "bandage",
-        "remove",
-        "a"
+        "apply a bandage",
+        "change a bandage",
+        "bandage a wound",
+        "rolling bandage"
       ]
     },
     {
@@ -260,40 +355,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "banked",
+        "plural": "banks",
+        "present_3rd": "banks",
+        "past": "banked",
         "past_participle": "banked",
-        "present_participle": "banking",
-        "third_person": "banks"
+        "ing": "banking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bank",
-          "definition": "n. 银行, 堤, 岸, [医] 库"
+          "definition": "n. 銀行、河岸、庫  v. 存入銀行、依賴"
         }
       ],
       "examples": [
         {
-          "en": "They sat on the river bank.",
+          "en": "She went to the bank to open a new savings account last Monday.",
           "highlight": [
             "bank"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她上週一去銀行開立一個新的儲蓄帳戶。"
+          }
+        },
+        {
+          "en": "He banked most of his salary each month to save for a down payment on a house.",
+          "highlight": [
+            "banked"
+          ],
+          "translations": {
+            "zh-TW": "他每個月把大部分薪水存入銀行，為房子的頭期款做準備。"
+          }
+        },
+        {
+          "en": "The company is banking on strong holiday sales to boost its annual revenue.",
+          "highlight": [
+            "banking"
+          ],
+          "translations": {
+            "zh-TW": "公司正依賴強勁的假期銷售來提升年度營收。"
           }
         }
       ],
       "synonyms": [
         "shore",
-        "edge"
+        "financial institution",
+        "rely"
       ],
       "antonyms": [],
       "phrases": [
-        "river",
-        "bank",
-        "bank",
-        "account"
+        "bank account",
+        "river bank",
+        "bank on",
+        "blood bank"
       ]
     },
     {
@@ -308,40 +423,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "bared",
-        "past_participle": "bared",
-        "present_participle": "baring",
-        "third_person": "bars"
+        "plural": "bars",
+        "present_3rd": "bars",
+        "past": "barred",
+        "past_participle": "barred",
+        "ing": "baring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bar",
-          "definition": "n. 条, 棒, 酒吧, 栅, 障碍物, vt. 禁止, 阻挡, 妨碍, [计] 棒形图"
+          "definition": "n. 條、棒、酒吧、障礙物  v. 阻擋、禁止"
         }
       ],
       "examples": [
         {
-          "en": "The windows were protected with iron bars.",
+          "en": "They met at a small wine bar after work to celebrate the new contract.",
           "highlight": [
             "bar"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "下班後他們在一家小酒吧聚會，慶祝簽下新合約。"
+          }
+        },
+        {
+          "en": "The security guard barred the entrance to anyone without a valid badge.",
+          "highlight": [
+            "barred"
+          ],
+          "translations": {
+            "zh-TW": "保安人員禁止任何人沒有有效識別證進入。"
+          }
+        },
+        {
+          "en": "The heavy iron bars on the windows kept the store safe overnight.",
+          "highlight": [
+            "bars"
+          ],
+          "translations": {
+            "zh-TW": "窗戶上沉重的鐵條讓商店在夜裡保持安全。"
           }
         }
       ],
       "synonyms": [
         "rod",
-        "barrier"
+        "counter",
+        "obstacle"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "allow",
+        "permit"
+      ],
       "phrases": [
-        "iron",
-        "bar",
-        "chocolate",
-        "bar"
+        "bar of soap",
+        "chocolate bar",
+        "bar the way",
+        "snack bar"
       ]
     },
     {
@@ -356,43 +494,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "bargained",
+        "plural": "bargains",
+        "present_3rd": "bargains",
+        "past": "bargained",
         "past_participle": "bargained",
-        "present_participle": "bargaining",
-        "third_person": "bargains"
+        "ing": "bargaining"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bargain",
-          "definition": "n. 交易, 買賣协定, 特价商品, v. 讲价, 交易"
+          "definition": "n. 交易、特價商品  v. 議價、討價還價"
         }
       ],
       "examples": [
         {
-          "en": "They struck a bargain to sell the house.",
+          "en": "She found a great bargain on winter coats at the outlet mall.",
           "highlight": [
             "bargain"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在 outlet 商場找到冬季外套的划算交易。"
+          }
+        },
+        {
+          "en": "The two companies bargained for three days before signing the final contract.",
+          "highlight": [
+            "bargained"
+          ],
+          "translations": {
+            "zh-TW": "兩家公司談判了三天才簽下最終合約。"
+          }
+        },
+        {
+          "en": "He is bargaining with the vendor over the price of fresh seafood at the market.",
+          "highlight": [
+            "bargaining"
+          ],
+          "translations": {
+            "zh-TW": "他正在市場上與攤販就新鮮海鮮的價格討價還價。"
           }
         }
       ],
       "synonyms": [
         "deal",
-        "agreement"
+        "agreement",
+        "negotiate"
       ],
       "antonyms": [
         "rip-off"
       ],
       "phrases": [
-        "strike",
-        "a",
-        "bargain",
-        "good",
-        "bargain"
+        "strike a bargain",
+        "good bargain",
+        "bargain hunt",
+        "bargain price"
       ]
     },
     {
@@ -413,34 +570,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "barrier",
-          "definition": "n. 障碍, 栅栏, [化] 势垒; 阻片; 阻挡层"
+          "definition": "n. 障礙、柵欄、屏障"
         }
       ],
       "examples": [
         {
-          "en": "The crowd was stopped by a barrier.",
+          "en": "A concrete barrier divides the two lanes of traffic on the highway.",
           "highlight": [
             "barrier"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "高速公路上混凝土護欄將兩個車道隔開。"
+          }
+        },
+        {
+          "en": "Language is often a barrier to communication in international business meetings.",
+          "highlight": [
+            "barrier"
+          ],
+          "translations": {
+            "zh-TW": "語言常是國際商務會議中溝通的障礙。"
+          }
+        },
+        {
+          "en": "The government is removing trade barriers to encourage exports between the two nations.",
+          "highlight": [
+            "barriers"
+          ],
+          "translations": {
+            "zh-TW": "政府正在移除貿易壁壘，以促進兩國之間的出口。"
           }
         }
       ],
       "synonyms": [
         "obstacle",
-        "hurdle"
+        "hurdle",
+        "fence"
       ],
       "antonyms": [
         "access",
-        "entry"
+        "entry",
+        "opening"
       ],
       "phrases": [
-        "break",
-        "down",
-        "a",
-        "barrier",
-        "barrier"
+        "trade barrier",
+        "break down barriers",
+        "barrier to entry",
+        "language barrier"
       ]
     },
     {
@@ -455,44 +631,64 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "baseed",
-        "past_participle": "baseed",
-        "present_participle": "basing",
-        "third_person": "bases"
+        "plural": "bases",
+        "present_3rd": "bases",
+        "past": "based",
+        "past_participle": "based",
+        "ing": "basing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "base",
-          "definition": "n. 底部, 垒, 基础, 基地, vt. 以...作基础, a. 卑鄙的, 低劣的, [计] 基准"
+          "definition": "n. 基礎、基地、底部  v. 以……為基礎"
         }
       ],
       "examples": [
         {
-          "en": "The lamp has a heavy base.",
+          "en": "The new office will serve as the company's base for operations in Asia.",
           "highlight": [
             "base"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新辦公室將做為公司在亞洲營運的基地。"
+          }
+        },
+        {
+          "en": "She based her research on data collected from over a thousand international customers.",
+          "highlight": [
+            "based"
+          ],
+          "translations": {
+            "zh-TW": "她的研究是建立在從一千多位國際顧客收集來的資料上。"
+          }
+        },
+        {
+          "en": "Scientists are basing their study on recent findings in climate science.",
+          "highlight": [
+            "basing"
+          ],
+          "translations": {
+            "zh-TW": "科學家正根據氣候科學的最新發現進行研究。"
           }
         }
       ],
       "synonyms": [
         "foundation",
-        "bottom"
+        "bottom",
+        "headquarters"
       ],
       "antonyms": [
         "top",
-        "peak"
+        "peak",
+        "apex"
       ],
       "phrases": [
-        "solid",
-        "base",
-        "base",
-        "of",
-        "operations"
+        "base on",
+        "military base",
+        "solid base",
+        "base of operations"
       ]
     }
   ]
