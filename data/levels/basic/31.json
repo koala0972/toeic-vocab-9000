@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 31,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-031-001",
@@ -11,7 +11,8 @@
       "toeic_score_min": 200,
       "word": "background",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "backgrounds"
@@ -21,33 +22,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "background",
-          "definition": "n. 背景, 背景资料, [计] 背景, 後台"
+          "definition": "n. 背景、學經歷  a. 背景的、次要的"
         }
       ],
       "examples": [
         {
-          "en": "She has a background in finance.",
+          "en": "Her background in marketing helped her land the job at the advertising firm.",
           "highlight": [
             "background"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在行銷方面的背景幫助她得到了那家廣告公司的工作。"
+          }
+        },
+        {
+          "en": "Candidates from diverse backgrounds bring fresh perspectives to the team.",
+          "highlight": [
+            "backgrounds"
+          ],
+          "translations": {
+            "zh-TW": "來自不同背景的候選人為團隊帶來了新的觀點。"
+          }
+        },
+        {
+          "en": "The company runs a background check on all new employees before hiring them.",
+          "highlight": [
+            "background"
+          ],
+          "translations": {
+            "zh-TW": "公司在雇用所有新員工之前會進行背景調查。"
           }
         }
       ],
       "synonyms": [
         "setting",
-        "context"
+        "context",
+        "history"
       ],
       "antonyms": [
-        "foreground",
         "foreground"
       ],
       "phrases": [
-        "educational",
-        "background",
-        "cultural",
-        "background"
+        "educational background",
+        "cultural background",
+        "background check",
+        "background knowledge"
       ]
     },
     {
@@ -62,41 +81,60 @@
         "adverb"
       ],
       "conjugations": {
-        "comparative": "backwarder",
-        "superlative": "backwardest"
+        "comparative": "more backward",
+        "superlative": "most backward"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "backward",
-          "definition": "adv. 向後地, 相反地, a. 向後的, 相反的, [计] 倒推"
+          "definition": "adv. 向後地、回溯地  a. 向後的、落後的"
         }
       ],
       "examples": [
         {
-          "en": "He took a step backward.",
+          "en": "He took a step backward when the door suddenly opened.",
           "highlight": [
             "backward"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "門突然打開時，他向後退了一步。"
+          }
+        },
+        {
+          "en": "The rural village seemed backward compared to the modern city nearby.",
+          "highlight": [
+            "backward"
+          ],
+          "translations": {
+            "zh-TW": "與附近現代化的城市相比，這個鄉村顯得落後。"
+          }
+        },
+        {
+          "en": "You can count backward from ten to calm yourself down before the presentation.",
+          "highlight": [
+            "backward"
+          ],
+          "translations": {
+            "zh-TW": "你可以在簡報前從十倒數回來讓自己冷靜下來。"
           }
         }
       ],
       "synonyms": [
         "reverse",
-        "rearward"
+        "rearward",
+        "retrograde"
       ],
       "antonyms": [
         "forward",
         "ahead"
       ],
       "phrases": [
-        "move",
-        "backward",
-        "step",
-        "backward"
+        "step backward",
+        "count backward",
+        "backward glance",
+        "backward movement"
       ]
     },
     {
@@ -115,34 +153,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "backwards",
-          "definition": "adv. 向後"
+          "definition": "adv. 向後地、倒退地"
         }
       ],
       "examples": [
         {
-          "en": "She walked backwards.",
+          "en": "She walked backwards to keep an eye on the children behind her.",
           "highlight": [
             "backwards"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她向後倒著走，以便留意身後的孩子們。"
+          }
+        },
+        {
+          "en": "If you read the contract backwards, you might miss the important fine print.",
+          "highlight": [
+            "backwards"
+          ],
+          "translations": {
+            "zh-TW": "如果你倒著閱讀合約，可能會漏掉重要的附則。"
+          }
+        },
+        {
+          "en": "The company seems to be moving backwards instead of adopting new technology.",
+          "highlight": [
+            "backwards"
+          ],
+          "translations": {
+            "zh-TW": "這家公司似乎在倒退，而不是採用新技術。"
           }
         }
       ],
       "synonyms": [
-        "in",
-        "reverse",
-        "rearward"
+        "rearward",
+        "in reverse",
+        "rearwards"
       ],
       "antonyms": [
         "forward",
         "ahead"
       ],
       "phrases": [
-        "walk",
-        "backwards",
-        "look",
-        "backwards"
+        "walk backwards",
+        "look backwards",
+        "go backwards",
+        "bend over backwards"
       ]
     },
     {
@@ -156,37 +212,56 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "bacterias"
+        "plural": "bacteria"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bacteria",
-          "definition": "pl. 细菌, [医] 细菌, [无芽胞]杆菌"
+          "definition": "n. 細菌（複數，單數為 bacterium）"
         }
       ],
       "examples": [
         {
-          "en": "Bacteria can cause infections.",
+          "en": "Bacteria can spread quickly in warm and humid environments.",
+          "highlight": [
+            "Bacteria"
+          ],
+          "translations": {
+            "zh-TW": "細菌在溫暖潮濕的環境中會迅速傳播。"
+          }
+        },
+        {
+          "en": "The scientist examined a single bacterium under the microscope.",
+          "highlight": [
+            "bacterium"
+          ],
+          "translations": {
+            "zh-TW": "這位科學家在顯微鏡下檢視了一個單一細菌。"
+          }
+        },
+        {
+          "en": "Wash your hands regularly to kill harmful bacteria and prevent infections.",
           "highlight": [
             "bacteria"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "定期洗手以殺死有害細菌並預防感染。"
           }
         }
       ],
       "synonyms": [
         "germs",
-        "microbes"
+        "microbes",
+        "microorganisms"
       ],
       "antonyms": [],
       "phrases": [
-        "harmful",
-        "bacteria",
-        "bacterial",
-        "infection"
+        "harmful bacteria",
+        "bacterial infection",
+        "kill bacteria",
+        "bacteria count"
       ]
     },
     {
@@ -200,41 +275,60 @@
         "adjective"
       ],
       "conjugations": {
-        "comparative": "bader",
-        "superlative": "badest"
+        "comparative": "worse",
+        "superlative": "worst"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bad",
-          "definition": "a. 坏的, n. 坏, adv. 坏地"
+          "definition": "a. 壞的、糟糕的、不良的"
         }
       ],
       "examples": [
         {
-          "en": "The weather was bad.",
+          "en": "The sales figures were bad last quarter, so the manager revised the strategy.",
           "highlight": [
             "bad"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "上季的銷售數據很差，所以經理修改了策略。"
+          }
+        },
+        {
+          "en": "The weather got worse as the plane approached the destination.",
+          "highlight": [
+            "worse"
+          ],
+          "translations": {
+            "zh-TW": "當飛機接近目的地時，天氣變得更糟了。"
+          }
+        },
+        {
+          "en": "It was the worst presentation she had ever given, but she learned from her mistakes.",
+          "highlight": [
+            "worst"
+          ],
+          "translations": {
+            "zh-TW": "這是她做過最糟糕的簡報，但她從錯誤中學到了教訓。"
           }
         }
       ],
       "synonyms": [
         "poor",
-        "substandard"
+        "substandard",
+        "inferior"
       ],
       "antonyms": [
         "good",
         "excellent"
       ],
       "phrases": [
-        "bad",
-        "weather",
-        "bad",
-        "experience"
+        "bad weather",
+        "bad habit",
+        "bad debt",
+        "feel bad about"
       ]
     },
     {
@@ -247,39 +341,62 @@
       "pos": [
         "adverb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "comparative": "worse",
+        "superlative": "worst"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "badly",
-          "definition": "adv. 严重地, 恶劣地, 极度地"
+          "definition": "adv. 嚴重地、很差地、拙劣地"
         }
       ],
       "examples": [
         {
-          "en": "She performed badly on the test.",
+          "en": "The new employee performed badly during the training session.",
           "highlight": [
             "badly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新員工在培訓課程中表現得很差。"
+          }
+        },
+        {
+          "en": "The factory was damaged worse than expected by the overnight storm.",
+          "highlight": [
+            "worse"
+          ],
+          "translations": {
+            "zh-TW": "工廠受到夜間暴風雨的損害比預期的更嚴重。"
+          }
+        },
+        {
+          "en": "The project was managed the worst by the team that lacked experience.",
+          "highlight": [
+            "worst"
+          ],
+          "translations": {
+            "zh-TW": "這個專案是由缺乏經驗的團隊管理得最糟糕的。"
           }
         }
       ],
       "synonyms": [
         "poorly",
-        "inadequately"
+        "inadequately",
+        "terribly"
       ],
       "antonyms": [
         "well",
-        "successfully"
+        "successfully",
+        "excellently"
       ],
       "phrases": [
-        "perform",
-        "badly",
-        "behave",
-        "badly"
+        "perform badly",
+        "behave badly",
+        "badly need",
+        "badly damaged"
       ]
     },
     {
@@ -293,41 +410,61 @@
         "adjective"
       ],
       "conjugations": {
-        "comparative": "bad-tempereder",
-        "superlative": "bad-temperedest"
+        "comparative": "more bad-tempered",
+        "superlative": "most bad-tempered"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bad-tempered",
-          "definition": "a. 脾气不好的"
+          "definition": "a. 脾氣壞的、易怒的"
         }
       ],
       "examples": [
         {
-          "en": "He is bad-tempered in the mornings.",
+          "en": "He is bad-tempered in the mornings before he has his coffee.",
           "highlight": [
             "bad-tempered"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他早上喝咖啡之前脾氣都很差。"
+          }
+        },
+        {
+          "en": "She became more bad-tempered as the long meeting dragged on without any breaks.",
+          "highlight": [
+            "bad-tempered"
+          ],
+          "translations": {
+            "zh-TW": "隨著冗長的會議沒有休息地拖延下去，她變得更加易怒。"
+          }
+        },
+        {
+          "en": "The most bad-tempered customer in the shop always complains about the service.",
+          "highlight": [
+            "bad-tempered"
+          ],
+          "translations": {
+            "zh-TW": "店裡脾氣最差的顧客總是抱怨服務不好。"
           }
         }
       ],
       "synonyms": [
         "grumpy",
-        "irritable"
+        "irritable",
+        "cranky"
       ],
       "antonyms": [
         "cheerful",
-        "good-natured"
+        "good-natured",
+        "even-tempered"
       ],
       "phrases": [
-        "become",
-        "bad-tempered",
-        "bad-tempered",
-        "person"
+        "bad-tempered person",
+        "bad-tempered mood",
+        "become bad-tempered",
+        "bad-tempered reply"
       ]
     },
     {
@@ -342,40 +479,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "baged",
-        "past_participle": "baged",
-        "present_participle": "baging",
-        "third_person": "bags"
+        "plural": "bags",
+        "present_3rd": "bags",
+        "past": "bagged",
+        "past_participle": "bagged",
+        "ing": "bagging"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bag",
-          "definition": "n. 袋子, 袋状物, vt. 使膨大, 装袋, 猎获"
+          "definition": "n. 袋子、皮包  v. 裝袋、把……裝進袋子"
         }
       ],
       "examples": [
         {
-          "en": "She packed her bag.",
+          "en": "She packed her bag the night before the business trip to Tokyo.",
           "highlight": [
             "bag"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在去東京出差的前一晚就把行李袋收拾好了。"
+          }
+        },
+        {
+          "en": "The porter bagged the groceries carefully so nothing would break.",
+          "highlight": [
+            "bagged"
+          ],
+          "translations": {
+            "zh-TW": "搬運工小心地把雜貨裝進袋子裡，這樣就不會有東西破掉。"
+          }
+        },
+        {
+          "en": "He is bagging the items while the cashier scans the next customer's order.",
+          "highlight": [
+            "bagging"
+          ],
+          "translations": {
+            "zh-TW": "當收銀員在掃描下一位顧客的商品時，他正在把物品裝袋。"
           }
         }
       ],
       "synonyms": [
         "sack",
-        "pouch"
+        "pouch",
+        "container"
       ],
       "antonyms": [],
       "phrases": [
-        "plastic",
-        "bag",
-        "shopping",
-        "bag"
+        "plastic bag",
+        "shopping bag",
+        "baggage allowance",
+        "bag of tricks"
       ]
     },
     {
@@ -388,38 +545,55 @@
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "baggages"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "baggage",
-          "definition": "n. 行李, [經] 行李"
+          "definition": "n. 行李（不可數）"
         }
       ],
       "examples": [
         {
-          "en": "They checked their baggage.",
+          "en": "They checked their baggage at the counter before boarding the flight.",
           "highlight": [
             "baggage"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他們在登機前於櫃台托運了行李。"
+          }
+        },
+        {
+          "en": "Passengers with excess baggage must pay an additional fee at the airport.",
+          "highlight": [
+            "baggage"
+          ],
+          "translations": {
+            "zh-TW": "行李超重的乘客必須在機場支付額外費用。"
+          }
+        },
+        {
+          "en": "The airline lost her baggage during the connecting flight to New York.",
+          "highlight": [
+            "baggage"
+          ],
+          "translations": {
+            "zh-TW": "航空公司在她轉機前往紐約的途中弄丢了她的行李。"
           }
         }
       ],
       "synonyms": [
         "luggage",
-        "suitcases"
+        "suitcases",
+        "bags"
       ],
       "antonyms": [],
       "phrases": [
-        "hand",
-        "baggage",
-        "excess",
-        "baggage"
+        "hand baggage",
+        "excess baggage",
+        "baggage claim",
+        "baggage allowance"
       ]
     },
     {
@@ -434,41 +608,60 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "bakeed",
-        "past_participle": "bakeed",
-        "present_participle": "baking",
-        "third_person": "bakes"
+        "plural": "bakes",
+        "present_3rd": "bakes",
+        "past": "baked",
+        "past_participle": "baked",
+        "ing": "baking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bake",
-          "definition": "vt. 烘焙, 烤, vi. 烤面包, n. 烘焙, 烤"
+          "definition": "v. 烘焙、烤  n. 烘焙食品"
         }
       ],
       "examples": [
         {
-          "en": "She baked a cake.",
+          "en": "She bakes fresh bread every morning for the café customers.",
           "highlight": [
-            "bake"
+            "bakes"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她每天早上為咖啡館的顧客烤新鮮的麵包。"
+          }
+        },
+        {
+          "en": "The bakery baked three hundred cookies for the corporate event.",
+          "highlight": [
+            "baked"
+          ],
+          "translations": {
+            "zh-TW": "這家麵包店為企業活動烤了三百塊餅乾。"
+          }
+        },
+        {
+          "en": "The bread is baking in the oven and will be ready in twenty minutes.",
+          "highlight": [
+            "baking"
+          ],
+          "translations": {
+            "zh-TW": "麵包正在烤箱裡烘烤，二十分鐘後就會好了。"
           }
         }
       ],
       "synonyms": [
         "roast",
-        "cook"
+        "cook",
+        "grill"
       ],
       "antonyms": [],
       "phrases": [
-        "bake",
-        "bread",
-        "bake",
-        "in",
-        "the"
+        "bake bread",
+        "bake a cake",
+        "baking powder",
+        "baking soda"
       ]
     }
   ]
