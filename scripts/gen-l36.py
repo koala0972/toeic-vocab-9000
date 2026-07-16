@@ -1,0 +1,425 @@
+import json
+
+data = {
+  "cefr": "A1",
+  "level": 36,
+  "tier": "basic",
+  "words": [
+    {
+      "id": "A1-036-001",
+      "level": 36,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "behind",
+      "pos": ["preposition", "adverb"],
+      "conjugations": {},
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "behind",
+          "definition": "prep. 在…後面、在…背後  adv. 在後面、落後"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The server room is located behind the main office.",
+          "highlight": ["behind"],
+          "translations": {"zh-TW": "伺服器機房位於主辦公室的後面。"}
+        },
+        {
+          "en": "The project is already two weeks behind schedule.",
+          "highlight": ["behind"],
+          "translations": {"zh-TW": "這個專案已經比預定進度落後兩週了。"}
+        },
+        {
+          "en": "She left her umbrella behind in the conference room.",
+          "highlight": ["behind"],
+          "translations": {"zh-TW": "她把雨傘留在會議室裡了。"}
+        }
+      ],
+      "synonyms": ["at the back of", "after", "beyond"],
+      "antonyms": ["in front of", "ahead of"],
+      "phrases": ["behind schedule", "leave behind", "behind the scenes", "fall behind"]
+    },
+    {
+      "id": "A1-036-002",
+      "level": 36,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "belief",
+      "pos": ["noun"],
+      "conjugations": {"plural": "beliefs"},
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "belief",
+          "definition": "n. 信念、相信、信仰"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Her belief in hard work has always driven her success.",
+          "highlight": ["belief"],
+          "translations": {"zh-TW": "她對努力工作的信念一直是她成功的動力。"}
+        },
+        {
+          "en": "Different cultures hold different beliefs about business etiquette.",
+          "highlight": ["beliefs"],
+          "translations": {"zh-TW": "不同的文化對商務禮儀持有不同的信念。"}
+        },
+        {
+          "en": "The manager expressed his belief that the team would meet the deadline.",
+          "highlight": ["belief"],
+          "translations": {"zh-TW": "經理表達了他的看法，相信團隊能趕上截止日期。"}
+        }
+      ],
+      "synonyms": ["faith", "conviction", "trust"],
+      "antonyms": ["doubt", "disbelief"],
+      "phrases": ["strong belief", "belief system", "beyond belief", "hold a belief"]
+    },
+    {
+      "id": "A1-036-003",
+      "level": 36,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "believe",
+      "pos": ["verb"],
+      "conjugations": {
+        "present_3rd": "believes",
+        "past": "believed",
+        "past_participle": "believed",
+        "ing": "believing"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "believe",
+          "definition": "v. 相信、認為、信任"
+        }
+      ],
+      "examples": [
+        {
+          "en": "I believe this proposal will significantly increase our revenue.",
+          "highlight": ["believe"],
+          "translations": {"zh-TW": "我相信這個提案會大幅增加我們的營收。"}
+        },
+        {
+          "en": "The client believed our promise to deliver the goods by Friday.",
+          "highlight": ["believed"],
+          "translations": {"zh-TW": "客戶相信了我們週五前交貨的承諾。"}
+        },
+        {
+          "en": "She has always believed in investing in employee training.",
+          "highlight": ["believed"],
+          "translations": {"zh-TW": "她一直相信投資員工培訓是值得的。"}
+        }
+      ],
+      "synonyms": ["trust", "accept", "consider"],
+      "antonyms": ["doubt", "disbelieve"],
+      "phrases": ["believe in", "believe it or not", "make believe", "believe firmly"]
+    },
+    {
+      "id": "A1-036-004",
+      "level": 36,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "bell",
+      "pos": ["noun"],
+      "conjugations": {"plural": "bells"},
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "bell",
+          "definition": "n. 鈴、鐘、鐘聲"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Please ring the bell at the reception desk if you need assistance.",
+          "highlight": ["bell"],
+          "translations": {"zh-TW": "如果您需要協助，請按接待臺上的服務鈴。"}
+        },
+        {
+          "en": "The church bells could be heard throughout the business district.",
+          "highlight": ["bells"],
+          "translations": {"zh-TW": "教堂的鐘聲在整個商圈都能聽見。"}
+        },
+        {
+          "en": "The school bell rings at eight o'clock every morning.",
+          "highlight": ["bell"],
+          "translations": {"zh-TW": "學校的鐘聲每天早上八點準時響起。"}
+        }
+      ],
+      "synonyms": ["chime", "buzzer", "gong"],
+      "antonyms": [],
+      "phrases": ["ring the bell", "school bell", "doorbell", "bell rings"]
+    },
+    {
+      "id": "A1-036-005",
+      "level": 36,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "belong",
+      "pos": ["verb"],
+      "conjugations": {
+        "present_3rd": "belongs",
+        "past": "belonged",
+        "past_participle": "belonged",
+        "ing": "belonging"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "belong",
+          "definition": "v. 屬於、應歸於"
+        }
+      ],
+      "examples": [
+        {
+          "en": "This equipment belongs to the marketing department.",
+          "highlight": ["belongs"],
+          "translations": {"zh-TW": "這些設備屬於行銷部門。"}
+        },
+        {
+          "en": "The antique desk belonged to the company's founder.",
+          "highlight": ["belonged"],
+          "translations": {"zh-TW": "這張古董辦公桌曾屬於公司的創辦人。"}
+        },
+        {
+          "en": "He has always felt a sense of belonging to this team.",
+          "highlight": ["belonging"],
+          "translations": {"zh-TW": "他一直對這個團隊有歸屬感。"}
+        }
+      ],
+      "synonyms": ["fit in", "be part of", "pertains to"],
+      "antonyms": [],
+      "phrases": ["belong to", "sense of belonging", "belong with", "belongingness"]
+    },
+    {
+      "id": "A1-036-006",
+      "level": 36,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "below",
+      "pos": ["preposition", "adverb"],
+      "conjugations": {},
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "below",
+          "definition": "prep. 在…下面、低於  adv. 在下方、在下"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The temperature in the warehouse is below freezing point.",
+          "highlight": ["below"],
+          "translations": {"zh-TW": "倉庫裡的溫度低於冰點。"}
+        },
+        {
+          "en": "Candidates with scores below 600 will not be shortlisted.",
+          "highlight": ["below"],
+          "translations": {"zh-TW": "分數低於 600 分的候選人將不會被列入候選名單。"}
+        },
+        {
+          "en": "Please find the meeting minutes attached below.",
+          "highlight": ["below"],
+          "translations": {"zh-TW": "請在下方查看隨附的會議紀錄。"}
+        }
+      ],
+      "synonyms": ["under", "beneath", "lower than"],
+      "antonyms": ["above", "over"],
+      "phrases": ["below average", "below zero", "below the surface", "see below"]
+    },
+    {
+      "id": "A1-036-007",
+      "level": 36,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "belt",
+      "pos": ["noun"],
+      "conjugations": {"plural": "belts"},
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "belt",
+          "definition": "n. 腰帶、皮帶、地帶"
+        }
+      ],
+      "examples": [
+        {
+          "en": "All factory workers must wear a safety belt while operating machinery.",
+          "highlight": ["belt"],
+          "translations": {"zh-TW": "所有工廠員工在操作機器時都必須繫上安全帶。"}
+        },
+        {
+          "en": "The company plans to expand its operations in the industrial belt.",
+          "highlight": ["belt"],
+          "translations": {"zh-TW": "公司計劃在工業地帶擴展業務。"}
+        },
+        {
+          "en": "He bought a new leather belt for his business suit.",
+          "highlight": ["belt"],
+          "translations": {"zh-TW": "他為他的西裝買了一條新皮帶。"}
+        }
+      ],
+      "synonyms": ["sash", "band", "zone"],
+      "antonyms": [],
+      "phrases": ["safety belt", "leather belt", "seat belt", "industrial belt"]
+    },
+    {
+      "id": "A1-036-008",
+      "level": 36,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "bend",
+      "pos": ["verb", "noun"],
+      "conjugations": {
+        "present_3rd": "bends",
+        "past": "bent",
+        "past_participle": "bent",
+        "ing": "bending",
+        "plural": "bends"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "bend",
+          "definition": "v. 彎曲、使彎曲、屈服  n. 彎曲處、轉彎"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Do not bend the documents when putting them in the envelope.",
+          "highlight": ["bend"],
+          "translations": {"zh-TW": "把文件放入信封時不要摺疊。"}
+        },
+        {
+          "en": "He bent down to pick up the fallen files from the floor.",
+          "highlight": ["bent"],
+          "translations": {"zh-TW": "他彎下腰把掉在地上的文件撿起來。"}
+        },
+        {
+          "en": "The river makes a sharp bend near the factory.",
+          "highlight": ["bend"],
+          "translations": {"zh-TW": "河流在工廠附近有一個急轉彎。"}
+        }
+      ],
+      "synonyms": ["curve", "flex", "bow"],
+      "antonyms": ["straighten", "unbend"],
+      "phrases": ["bend down", "bend over", "sharp bend", "bend the rules"]
+    },
+    {
+      "id": "A1-036-009",
+      "level": 36,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "beneath",
+      "pos": ["preposition", "adverb"],
+      "conjugations": {},
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "beneath",
+          "definition": "prep. 在…下方、低於  adv. 在下方"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The cables run beneath the office floor.",
+          "highlight": ["beneath"],
+          "translations": {"zh-TW": "電纜鋪設在辦公室地板下方。"}
+        },
+        {
+          "en": "Beneath his confident appearance, he was nervous about the presentation.",
+          "highlight": ["beneath"],
+          "translations": {"zh-TW": "在他自信的外表下,其實對簡報很緊張。"}
+        },
+        {
+          "en": "The treasure was buried beneath the old warehouse.",
+          "highlight": ["beneath"],
+          "translations": {"zh-TW": "寶藏被埋在舊倉庫的底下。"}
+        }
+      ],
+      "synonyms": ["under", "underneath", "below"],
+      "antonyms": ["above", "over"],
+      "phrases": ["beneath the surface", "beneath one's dignity", "beneath contempt", "lay beneath"]
+    },
+    {
+      "id": "A1-036-010",
+      "level": 36,
+      "tier": "basic",
+      "cefr": "A1",
+      "toeic_score_min": 200,
+      "word": "benefit",
+      "pos": ["noun", "verb"],
+      "conjugations": {
+        "plural": "benefits",
+        "present_3rd": "benefits",
+        "past": "benefited",
+        "past_participle": "benefited",
+        "ing": "benefiting"
+      },
+      "domain": "general",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "benefit",
+          "definition": "n. 利益、好處、福利  v. 對…有益、受益"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Full-time employees receive comprehensive health benefits.",
+          "highlight": ["benefits"],
+          "translations": {"zh-TW": "全職員工享有完善的健康福利。"}
+        },
+        {
+          "en": "The new training program benefited the entire sales team.",
+          "highlight": ["benefited"],
+          "translations": {"zh-TW": "新的培訓計劃讓整個業務團隊都受益了。"}
+        },
+        {
+          "en": "Many small businesses are benefiting from the government's tax cuts.",
+          "highlight": ["benefiting"],
+          "translations": {"zh-TW": "許多小型企業正從政府的減稅政策中受益。"}
+        }
+      ],
+      "synonyms": ["advantage", "gain", "profit"],
+      "antonyms": ["disadvantage", "harm", "loss"],
+      "phrases": ["benefit from", "health benefits", "for the benefit of", "mutual benefit"]
+    }
+  ]
+}
+
+path = "data/levels/basic/36.json"
+with open(path, "w", encoding="utf-8") as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)
+
+# Verify
+with open(path, "r", encoding="utf-8") as f:
+    v = json.load(f)
+print("Written {} words to {}".format(len(v["words"]), path))
+for w in v["words"]:
+    print("  {:10s} ex={}  highlights={}".format(
+        w["word"], len(w["examples"]),
+        [e["highlight"] for e in w["examples"]]
+    ))

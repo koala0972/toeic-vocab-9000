@@ -72,13 +72,13 @@ export default function Home() {
         <div className="mt-4 p-3 bg-white border rounded-lg">
           <div className="text-sm text-slate-500">學習進度</div>
           <div className="text-lg font-semibold">
-            {completedCount} / {TOTAL_LEVELS} 關完成 ({pct}%)
+            {visitedCount} / {TOTAL_LEVELS} 關已瀏覽 ({pct}%)
           </div>
           <div className="h-2 bg-slate-200 rounded mt-2 overflow-hidden">
             <div className="h-full bg-blue-500 transition-all" style={{ width: `${pct}%` }} />
           </div>
           <div className="text-xs text-slate-400 mt-1">
-            瀏覽過 {visitedCount} 關 · 資料存於本機瀏覽器 (IndexedDB)
+            {completedCount} 關已學完 · 資料存於本機瀏覽器 (IndexedDB)
           </div>
         </div>
 
@@ -92,11 +92,11 @@ export default function Home() {
 
       <div className="grid gap-4">
         {TIERS.map(t => {
-          const tierCompleted = Object.entries(progress)
-            .filter(([lv, v]) => v >= 10 && Number(lv) >= t.levels[0] && Number(lv) <= t.levels[1])
+          const tierVisited = Object.entries(progress)
+            .filter(([lv, v]) => v >= 1 && Number(lv) >= t.levels[0] && Number(lv) <= t.levels[1])
             .length;
           const tierTotal = t.levels[1] - t.levels[0] + 1;
-          const tierPct = Math.round((tierCompleted / tierTotal) * 100);
+          const tierPct = Math.round((tierVisited / tierTotal) * 100);
           return (
             <Link
               key={t.name}
@@ -112,7 +112,7 @@ export default function Home() {
                   <div className="text-xs text-slate-400 mt-2">{t.description}</div>
                 </div>
                 <div className="text-right">
-                  <div className="font-semibold text-blue-600">{tierCompleted}/{tierTotal}</div>
+                  <div className="font-semibold text-blue-600">{tierVisited}/{tierTotal}</div>
                   <div className="text-xs text-slate-500">{tierPct}%</div>
                 </div>
               </div>
