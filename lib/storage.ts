@@ -120,8 +120,18 @@ export async function setAllKV(data: Record<string, unknown>): Promise<void> {
 // ─────────────── 高階 API（業務端使用） ───────────────
 
 export async function getProgress(): Promise<ProgressMap> {
-  const v = await get<ProgressMap>('progress');
-  return v ?? {};
+  const raw = await get<ProgressMap | null>('progress');
+  if (!raw || typeof raw !== 'object' || Array.isArray(raw)) return {};
+  // 舊 bug 留下的 self-nesting: { key, value: { key, value: ... } }
+  // 用第一層 numeric key 直接掃出最大 leaf。葉子可為 number。
+  const out: ProgressMap = {};
+  for (const [k, v] of Object.entries(raw)) {
+    if (typeof v === 'number' && Number.isFinite(v)) {
+      const level = parseInt(k, 10);
+      if (!isNaN(level)) out[level] = v;
+    }
+  }
+  return out;
 }
 
 export async function setProgress(p: ProgressMap): Promise<void> {
