@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 38,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-038-001",
@@ -15,41 +15,61 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "bikeed",
-        "past_participle": "bikeed",
-        "present_participle": "biking",
-        "third_person": "bikes"
+        "plural": "bikes",
+        "present_3rd": "bikes",
+        "past": "biked",
+        "past_participle": "biked",
+        "ing": "biking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bike",
-          "definition": "n. 自行車, 脚踏車"
+          "definition": "n. 自行車  v. 騎自行車"
         }
       ],
       "examples": [
         {
-          "en": "He rides his bike to work.",
+          "en": "She locks her bike to the railing in front of the office every morning.",
           "highlight": [
             "bike"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她每天早上把自行車鎖在辦公室前面的欄杆上。"
+          }
+        },
+        {
+          "en": "To save money on his commute, Jack began biking to work instead of driving his car.",
+          "highlight": [
+            "biking"
+          ],
+          "translations": {
+            "zh-TW": "為了省通勤費，傑克開始騎自行車上班，不再開車。"
+          }
+        },
+        {
+          "en": "The courier company reported a sharp rise in the use of company-owned bikes for next-day deliveries.",
+          "highlight": [
+            "bikes"
+          ],
+          "translations": {
+            "zh-TW": "物流公司表示，「隔日送達」服務使公司配發的自行車使用量大幅上升。"
           }
         }
       ],
       "synonyms": [
         "bicycle",
-        "motorcycle"
+        "cycle"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "car"
+      ],
       "phrases": [
-        "ride",
-        "a",
-        "bike",
-        "bike",
-        "ride"
+        "ride a bike",
+        "bike lane",
+        "mountain bike",
+        "bike ride"
       ]
     },
     {
@@ -70,17 +90,35 @@
         {
           "lang": "zh-TW",
           "lang_word": "bill",
-          "definition": "n. 帐单, 清单, 钞票, 鸟嘴, 广告, 法案, 票据, vt. 开帐单, (用招贴)宣布"
+          "definition": "n. 帳單、鈔票、法案"
         }
       ],
       "examples": [
         {
-          "en": "She paid the electricity bill.",
+          "en": "Please pay the bill at the checkout counter before leaving the restaurant.",
           "highlight": [
             "bill"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在離開餐廳前到結帳櫃台結帳。"
+          }
+        },
+        {
+          "en": "The manager complains that unpaid phone bills pile up every month, especially during long business trips.",
+          "highlight": [
+            "bills"
+          ],
+          "translations": {
+            "zh-TW": "經理抱怨未繳的電話帳單每月累積，特別是長時間出差期間。"
+          }
+        },
+        {
+          "en": "Parliament will debate the new tax bill when it next convenes, along with several related amendments.",
+          "highlight": [
+            "bill"
+          ],
+          "translations": {
+            "zh-TW": "國會下次開議時將辯論新稅務法案，並討論幾項相關修正案。"
           }
         }
       ],
@@ -88,13 +126,14 @@
         "invoice",
         "statement"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "receipt"
+      ],
       "phrases": [
-        "pay",
-        "the",
-        "bill",
-        "bill",
-        "payment"
+        "pay the bill",
+        "phone bill",
+        "electricity bill",
+        "bill of rights"
       ]
     },
     {
@@ -116,27 +155,47 @@
         {
           "lang": "zh-TW",
           "lang_word": "billion",
-          "definition": "num. 十亿, 十亿個"
+          "definition": "num. 十億  n. 十億（的數量）"
         }
       ],
       "examples": [
         {
-          "en": "The company is worth over a billion dollars.",
+          "en": "The firm rose to one billion dollars in annual sales.",
           "highlight": [
             "billion"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家公司的年銷售額達到十億美元。"
+          }
+        },
+        {
+          "en": "With 150,000 annual app users, billions of search requests were generated last fiscal year alone.",
+          "highlight": [
+            "billions"
+          ],
+          "translations": {
+            "zh-TW": "借助 15 萬年度 app 用戶，光在上個財政年度就生成了數十億次搜尋請求。"
+          }
+        },
+        {
+          "en": "The holding company managed assets and is valued at close to two billion in U.S. currency.",
+          "highlight": [
+            "billion"
+          ],
+          "translations": {
+            "zh-TW": "這家控股公司管理資產，估值接近兩百億美元。"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "thousand million"
+      ],
       "antonyms": [],
       "phrases": [
-        "billion",
-        "dollars",
-        "billion",
-        "times"
+        "billion dollars",
+        "billions of people",
+        "billion users",
+        "multi-billion"
       ]
     },
     {
@@ -151,40 +210,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "bined",
-        "past_participle": "bined",
-        "present_participle": "bining",
-        "third_person": "bins"
+        "plural": "bins",
+        "present_3rd": "bins",
+        "past": "binned",
+        "past_participle": "binned",
+        "ing": "binning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bin",
-          "definition": "n. (贮存谷物等的)容器, 箱子, [计] 二进制, 商业信息网"
+          "definition": "n. 垃圾箱、儲存箱  v. 丟棄"
         }
       ],
       "examples": [
         {
-          "en": "Please put the trash in the bin.",
+          "en": "Please drop that used paper cup in the recycling bin next to the printer.",
           "highlight": [
             "bin"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請將用過的紙杯丟進印表機旁的回收箱。"
+          }
+        },
+        {
+          "en": "Hotel staff are instructed to place recovered items from check-out guests into labeled storage bins if recycling is required.",
+          "highlight": [
+            "bins"
+          ],
+          "translations": {
+            "zh-TW": "飯店員工被指示：若客人遺留物品需回收，應放入貼有標籤的儲存箱。"
+          }
+        },
+        {
+          "en": "Bin any document printed in error in the recycling bin to avoid contamination, says the office memo.",
+          "highlight": [
+            "Bin"
+          ],
+          "translations": {
+            "zh-TW": "辦公室備忘錄說，若列印出錯的文件，請直接丟棄到回收箱以避免污染。"
           }
         }
       ],
       "synonyms": [
         "container",
-        "receptacle"
+        "receptacle",
+        "trash can"
       ],
       "antonyms": [],
       "phrases": [
-        "trash",
-        "bin",
-        "recycling",
-        "bin"
+        "trash bin",
+        "recycling bin",
+        "storage bin",
+        "bin liner"
       ]
     },
     {
@@ -205,32 +284,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "biology",
-          "definition": "n. 生物学, [化] 生物; 生物学"
+          "definition": "n. 生物學"
         }
       ],
       "examples": [
         {
-          "en": "She is studying biology.",
+          "en": "He chose to major in biology because he wanted to work in a pharmaceutical company after graduation.",
           "highlight": [
             "biology"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他選擇主修生物學，因為他希望畢業後在藥廠工作。"
+          }
+        },
+        {
+          "en": "The Nobel laureate's contributions span not one but three biologies: molecular, cell, and developmental.",
+          "highlight": [
+            "biologies"
+          ],
+          "translations": {
+            "zh-TW": "這位諾貝爾獎得主的貢獻跨越三個生物學領域：分子、細胞、發育。"
+          }
+        },
+        {
+          "en": "The pharmaceutical corporation is expanding into marine biology research to source new drugs.",
+          "highlight": [
+            "biology"
+          ],
+          "translations": {
+            "zh-TW": "這家製藥公司正擴展海洋生物學研究，以期開發新藥。"
           }
         }
       ],
       "synonyms": [
-        "life",
-        "science",
-        "natural",
-        "science"
+        "life science",
+        "biological science"
       ],
       "antonyms": [],
       "phrases": [
-        "study",
-        "biology",
-        "biology",
-        "class"
+        "study biology",
+        "biology class",
+        "molecular biology",
+        "marine biology"
       ]
     },
     {
@@ -251,30 +346,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "bird",
-          "definition": "n. 鸟, 羽毛球, vi. 打鸟"
+          "definition": "n. 鳥、禽類"
         }
       ],
       "examples": [
         {
-          "en": "The bird sang a beautiful song.",
+          "en": "A small yellow bird perched on the windowsill during the board meeting.",
           "highlight": [
             "bird"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "董事會議期間，一隻黃色小鳥停在窗台上。"
+          }
+        },
+        {
+          "en": "Migratory birds typically follow the same flight path south each autumn.",
+          "highlight": [
+            "birds"
+          ],
+          "translations": {
+            "zh-TW": "候鳥通常每年秋天依循同樣的路線南下。"
+          }
+        },
+        {
+          "en": "The early bird catches the worm, as the saying goes — and in business, the first to market captures max share.",
+          "highlight": [
+            "bird"
+          ],
+          "translations": {
+            "zh-TW": "俗話說「早起的鳥兒有蟲吃」——而在商業上是同樣道理：最早上市者能奪下最大市占。"
           }
         }
       ],
       "synonyms": [
-        "avian",
-        "fowl"
+        "fowl",
+        "avian"
       ],
       "antonyms": [],
       "phrases": [
-        "rare",
-        "bird",
-        "bird",
-        "species"
+        "early bird",
+        "rare bird",
+        "bird's-eye view",
+        "bird watching"
       ]
     },
     {
@@ -295,17 +408,35 @@
         {
           "lang": "zh-TW",
           "lang_word": "birth",
-          "definition": "n. 出生, 起源, [医] 生产, 分娩"
+          "definition": "n. 出生、誕生、分娩"
         }
       ],
       "examples": [
         {
-          "en": "The birth of their child was a joyful event.",
+          "en": "Under company policy, employees receive 14 weeks of paid leave following the birth of a child.",
           "highlight": [
             "birth"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "根據公司規定，員工於子女出生後可享有 14 週的有薪假。"
+          }
+        },
+        {
+          "en": "The charity fund sponsors heart surgeries for poor families, and as a result saved over two thousand births last year.",
+          "highlight": [
+            "births"
+          ],
+          "translations": {
+            "zh-TW": "該慈善基金資助貧困家庭的心臟手術；去年因此拯救了超過二千次分娩。"
+          }
+        },
+        {
+          "en": "Please submit your child's birth certificate to the HR department within thirty days of hiring.",
+          "highlight": [
+            "birth"
+          ],
+          "translations": {
+            "zh-TW": "請於入職後 30 天內將您的孩子出生證明文件繳交給人事部門。"
           }
         }
       ],
@@ -314,14 +445,13 @@
         "delivery"
       ],
       "antonyms": [
-        "death",
-        "demise"
+        "death"
       ],
       "phrases": [
-        "birth",
-        "certificate",
-        "birth",
-        "rate"
+        "birth certificate",
+        "birth rate",
+        "give birth",
+        "birth date"
       ]
     },
     {
@@ -335,7 +465,7 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "birthdaies"
+        "plural": "birthdays"
       },
       "domain": "general",
       "translations": [
@@ -347,26 +477,42 @@
       ],
       "examples": [
         {
-          "en": "Her birthday is next week.",
+          "en": "Happy birthday! Did the office already sign your congratulation card?",
           "highlight": [
             "birthday"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "生日快樂！辦公室同仁已經簽好你的祝賀卡了嗎？"
+          }
+        },
+        {
+          "en": "The department celebrates staff birthdays with cake on the last Friday of each month.",
+          "highlight": [
+            "birthdays"
+          ],
+          "translations": {
+            "zh-TW": "部門每月最後一個星期五以蛋糕慶祝員工生日。"
+          }
+        },
+        {
+          "en": "For his fiftieth birthday, the CEO ordered champagne for everyone in the company.",
+          "highlight": [
+            "birthday"
+          ],
+          "translations": {
+            "zh-TW": "為了慶祝自己五十歲生日，執行長為公司全體員工點了香檳。"
           }
         }
       ],
       "synonyms": [
-        "anniversary",
-        "natal",
-        "day"
+        "anniversary"
       ],
       "antonyms": [],
       "phrases": [
-        "happy",
-        "birthday",
-        "birthday",
-        "party"
+        "happy birthday",
+        "birthday party",
+        "birthday cake",
+        "birthday present"
       ]
     },
     {
@@ -387,17 +533,35 @@
         {
           "lang": "zh-TW",
           "lang_word": "biscuit",
-          "definition": "n. 饼干, [化] 素坯; 饼干"
+          "definition": "n. 餅乾、小圓麵包"
         }
       ],
       "examples": [
         {
-          "en": "She ate a chocolate biscuit.",
+          "en": "She served coffee and a chocolate biscuit to each guest at the afternoon meeting.",
           "highlight": [
             "biscuit"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在下午會議中為每位嘉賓端上咖啡和一塊巧克力餅乾。"
+          }
+        },
+        {
+          "en": "The airline provides complimentary biscuits and juice on short-haul flights.",
+          "highlight": [
+            "biscuits"
+          ],
+          "translations": {
+            "zh-TW": "該航空公司在短程航線上提供免費餅乾與果汁。"
+          }
+        },
+        {
+          "en": "Local biscuit manufacturers reported a 5% sales increase after the export exposition.",
+          "highlight": [
+            "biscuit"
+          ],
+          "translations": {
+            "zh-TW": "本地餅乾製造商在出口展覽會後報告銷售增加 5%。"
           }
         }
       ],
@@ -407,10 +571,10 @@
       ],
       "antonyms": [],
       "phrases": [
-        "chocolate",
-        "biscuit",
-        "biscuit",
-        "tin"
+        "chocolate biscuit",
+        "biscuit tin",
+        "biscuit factory",
+        "digestive biscuit"
       ]
     },
     {
@@ -431,34 +595,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "bit",
-          "definition": "n. 少量, 馬嚼子, 辅币, vt. 给馬上嚼子, 控制, bite的過去式和過去分词, [计] 比特, 二进制数位, 机内测试"
+          "definition": "n. 一點、少量、小片段"
         }
       ],
       "examples": [
         {
-          "en": "He gave me a bit of his sandwich.",
+          "en": "Wait a bit — the manager is still on another call.",
           "highlight": [
             "bit"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請稍候片刻——經理還在另一通電話上。"
+          }
+        },
+        {
+          "en": "Please keep the relevant bits of the contract, and discard the outdated sections.",
+          "highlight": [
+            "bits"
+          ],
+          "translations": {
+            "zh-TW": "請保留合約中相關的小段落，並丟棄過時的章節。"
+          }
+        },
+        {
+          "en": "I'm feeling a bit under the weather today, so I'd like to work from home.",
+          "highlight": [
+            "bit"
+          ],
+          "translations": {
+            "zh-TW": "我今天覺得有點不舒服，希望能居家辦公。"
           }
         }
       ],
       "synonyms": [
         "piece",
-        "fragment"
+        "fragment",
+        "portion"
       ],
       "antonyms": [
         "whole",
         "lot"
       ],
       "phrases": [
-        "a",
-        "little",
-        "bit",
-        "bit",
-        "by"
+        "a little bit",
+        "bit by bit",
+        "wait a bit",
+        "every bit"
       ]
     }
   ]
