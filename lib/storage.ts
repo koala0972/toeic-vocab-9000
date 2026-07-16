@@ -151,23 +151,20 @@ function serialize<T>(fn: () => Promise<T>): Promise<T> {
 }
 
 export async function setLevelProgress(level: number, idx: number): Promise<void> {
-  console.log('[setLevelProgress]', level, idx, 'start');
   await serialize(async () => {
     const cur = await getProgress();
-    console.log('[setLevelProgress]', level, idx, 'cur=', cur);
-    if ((cur[level] ?? 0) >= idx) {
-      console.log('[setLevelProgress]', level, idx, 'no-op (already', cur[level], ')');
-      return; // 已更前，no-op
-    }
+    if ((cur[level] ?? 0) >= idx) return; // 已更前，no-op
     cur[level] = idx;
     await setProgress(cur);
-    console.log('[setLevelProgress]', level, idx, 'WRITTEN');
   });
 }
 
 export async function getFavorites(): Promise<FavoriteEntry[]> {
-  const v = await get<FavoriteEntry[]>('favorites');
-  return v ?? [];
+  const v = await get<FavoriteEntry[] | null | unknown>('favorites');
+  // 自癒：歷史 bug 可能把 favorites 寫壞成 object/null，
+  // 舊遷移或 race 也可能遺留非陣列。任何非陣列都 reset 為 []。
+  if (!Array.isArray(v)) return [];
+  return v;
 }
 
 export async function setFavorites(list: FavoriteEntry[]): Promise<void> {
