@@ -1,0 +1,427 @@
+# -*- coding: utf-8 -*-
+"""Generator for refined Level 24 — 3 examples per word covering tense/inflection variation."""
+import json
+
+data = {
+    "cefr": "A1",
+    "level": 24,
+    "tier": "basic",
+    "words": [
+        {
+            "id": "A1-024-001",
+            "level": 24,
+            "tier": "basic",
+            "cefr": "A1",
+            "toeic_score_min": 200,
+            "word": "argument",
+            "pos": ["noun"],
+            "conjugations": {"plural": "arguments"},
+            "domain": "general",
+            "translations": [
+                {
+                    "lang": "zh-TW",
+                    "lang_word": "argument",
+                    "definition": "n. 爭論、辯論；論點、理由"
+                }
+            ],
+            "examples": [
+                {
+                    "en": "They had a heated argument about the new company policy.",
+                    "highlight": ["argument"],
+                    "translations": {"zh-TW": "他們針對公司新政策發生了激烈的爭論。"}
+                },
+                {
+                    "en": "The lawyers presented strong arguments to support their client's case.",
+                    "highlight": ["arguments"],
+                    "translations": {"zh-TW": "律師們提出了有力的論點來支持委託人的案件。"}
+                },
+                {
+                    "en": "Her main argument was that the deadline should be extended.",
+                    "highlight": ["argument"],
+                    "translations": {"zh-TW": "她的主要論點是期限應該延長。"}
+                }
+            ],
+            "synonyms": ["dispute", "quarrel", "debate"],
+            "antonyms": ["agreement", "harmony"],
+            "phrases": ["heated argument", "strong argument", "get into an argument", "win an argument"]
+        },
+        {
+            "id": "A1-024-002",
+            "level": 24,
+            "tier": "basic",
+            "cefr": "A1",
+            "toeic_score_min": 200,
+            "word": "arise",
+            "pos": ["verb"],
+            "conjugations": {
+                "present_3rd": "arises",
+                "past": "arose",
+                "past_participle": "arisen",
+                "ing": "arising"
+            },
+            "domain": "general",
+            "translations": [
+                {
+                    "lang": "zh-TW",
+                    "lang_word": "arise",
+                    "definition": "v. 產生、出現；起立、起身"
+                }
+            ],
+            "examples": [
+                {
+                    "en": "Unexpected problems may arise during the project.",
+                    "highlight": ["arise"],
+                    "translations": {"zh-TW": "專案進行期間可能會產生意想不到的問題。"}
+                },
+                {
+                    "en": "A serious conflict arose between the two departments last week.",
+                    "highlight": ["arose"],
+                    "translations": {"zh-TW": "上週兩個部門之間發生了嚴重的衝突。"}
+                },
+                {
+                    "en": "Many issues have arisen since the new software was installed.",
+                    "highlight": ["arisen"],
+                    "translations": {"zh-TW": "自從安裝新軟體後，已經出現了許多問題。"}
+                }
+            ],
+            "synonyms": ["emerge", "occur", "surface"],
+            "antonyms": ["settle", "resolve"],
+            "phrases": ["arise from", "problems arise", "arise naturally", "arise unexpectedly"]
+        },
+        {
+            "id": "A1-024-003",
+            "level": 24,
+            "tier": "basic",
+            "cefr": "A1",
+            "toeic_score_min": 200,
+            "word": "arm",
+            "pos": ["noun", "verb"],
+            "conjugations": {
+                "plural": "arms",
+                "present_3rd": "arms",
+                "past": "armed",
+                "past_participle": "armed",
+                "ing": "arming"
+            },
+            "domain": "general",
+            "translations": [
+                {
+                    "lang": "zh-TW",
+                    "lang_word": "arm",
+                    "definition": "n. 手臂、胳膊  v. 武裝、配備"
+                }
+            ],
+            "examples": [
+                {
+                    "en": "She broke her arm while playing tennis last weekend.",
+                    "highlight": ["arm"],
+                    "translations": {"zh-TW": "她上週末打網球時摔斷了手臂。"}
+                },
+                {
+                    "en": "He folded his arms and waited patiently at the reception desk.",
+                    "highlight": ["arms"],
+                    "translations": {"zh-TW": "他在接待櫃台前雙臂交叉，耐心地等待著。"}
+                },
+                {
+                    "en": "The company armed its security team with the latest surveillance tools.",
+                    "highlight": ["armed"],
+                    "translations": {"zh-TW": "公司為安全團隊配備了最新的監控工具。"}
+                }
+            ],
+            "synonyms": ["limb", "equip", "supply"],
+            "antonyms": ["disarm"],
+            "phrases": ["broken arm", "arm in arm", "armed with", "cost an arm and a leg"]
+        },
+        {
+            "id": "A1-024-004",
+            "level": 24,
+            "tier": "basic",
+            "cefr": "A1",
+            "toeic_score_min": 200,
+            "word": "armed",
+            "pos": ["adjective"],
+            "conjugations": {},
+            "domain": "general",
+            "translations": [
+                {
+                    "lang": "zh-TW",
+                    "lang_word": "armed",
+                    "definition": "adj. 武裝的、配備武器的"
+                }
+            ],
+            "examples": [
+                {
+                    "en": "An armed guard stood at the entrance of the bank.",
+                    "highlight": ["armed"],
+                    "translations": {"zh-TW": "一名武裝警衛站在銀行入口處。"}
+                },
+                {
+                    "en": "The armed forces conducted a training exercise in the desert.",
+                    "highlight": ["armed"],
+                    "translations": {"zh-TW": "武裝部隊在沙漠中進行了軍事演習。"}
+                },
+                {
+                    "en": "Police advised residents to stay indoors during the armed robbery investigation.",
+                    "highlight": ["armed"],
+                    "translations": {"zh-TW": "警方建議居民在持械搶劫案調查期間待在室內。"}
+                }
+            ],
+            "synonyms": ["weaponized", "equipped"],
+            "antonyms": ["unarmed", "defenseless"],
+            "phrases": ["armed forces", "armed conflict", "armed robbery", "armed guard"]
+        },
+        {
+            "id": "A1-024-005",
+            "level": 24,
+            "tier": "basic",
+            "cefr": "A1",
+            "toeic_score_min": 200,
+            "word": "arms",
+            "pos": ["noun"],
+            "conjugations": {"plural": "arms"},
+            "domain": "general",
+            "translations": [
+                {
+                    "lang": "zh-TW",
+                    "lang_word": "arms",
+                    "definition": "n. 武器、軍械（arm 的複數，特指武器）"
+                }
+            ],
+            "examples": [
+                {
+                    "en": "The soldiers laid down their arms at the end of the war.",
+                    "highlight": ["arms"],
+                    "translations": {"zh-TW": "戰爭結束時，士兵們放下了武器。"}
+                },
+                {
+                    "en": "International law prohibits the trade of arms to conflict zones.",
+                    "highlight": ["arms"],
+                    "translations": {"zh-TW": "國際法禁止向衝突地區販售武器。"}
+                },
+                {
+                    "en": "The country increased its arms exports by twenty percent this year.",
+                    "highlight": ["arms"],
+                    "translations": {"zh-TW": "該國今年的武器出口增加了百分之二十。"}
+                }
+            ],
+            "synonyms": ["weapons", "munitions", "firearms"],
+            "antonyms": ["peace"],
+            "phrases": ["bear arms", "lay down arms", "arms trade", "arms control"]
+        },
+        {
+            "id": "A1-024-006",
+            "level": 24,
+            "tier": "basic",
+            "cefr": "A1",
+            "toeic_score_min": 200,
+            "word": "army",
+            "pos": ["noun"],
+            "conjugations": {"plural": "armies"},
+            "domain": "general",
+            "translations": [
+                {
+                    "lang": "zh-TW",
+                    "lang_word": "army",
+                    "definition": "n. 軍隊、陸軍；大群、大批"
+                }
+            ],
+            "examples": [
+                {
+                    "en": "He joined the army right after graduating from high school.",
+                    "highlight": ["army"],
+                    "translations": {"zh-TW": "他高中畢業後就加入了陸軍。"}
+                },
+                {
+                    "en": "The two armies faced each other across the border for weeks.",
+                    "highlight": ["armies"],
+                    "translations": {"zh-TW": "兩支軍隊在邊界兩側對峙了數週。"}
+                },
+                {
+                    "en": "An army of volunteers helped clean up the beach after the oil spill.",
+                    "highlight": ["army"],
+                    "translations": {"zh-TW": "漏油事件後，一大批志願者協助清理海灘。"}
+                }
+            ],
+            "synonyms": ["military", "troops", "forces"],
+            "antonyms": ["civilians"],
+            "phrases": ["join the army", "army base", "army officer", "army of volunteers"]
+        },
+        {
+            "id": "A1-024-007",
+            "level": 24,
+            "tier": "basic",
+            "cefr": "A1",
+            "toeic_score_min": 200,
+            "word": "around",
+            "pos": ["adverb", "preposition"],
+            "conjugations": {},
+            "domain": "general",
+            "translations": [
+                {
+                    "lang": "zh-TW",
+                    "lang_word": "around",
+                    "definition": "adv. 在周圍、四處、大約  prep. 在……周圍、繞著"
+                }
+            ],
+            "examples": [
+                {
+                    "en": "She looked around the office for her missing notebook.",
+                    "highlight": ["around"],
+                    "translations": {"zh-TW": "她在辦公室裡四處尋找遺失的筆記本。"}
+                },
+                {
+                    "en": "The new branch office will open around March next year.",
+                    "highlight": ["around"],
+                    "translations": {"zh-TW": "新的分公司大約會在明年三月開幕。"}
+                },
+                {
+                    "en": "There are around fifty people working on this project.",
+                    "highlight": ["around"],
+                    "translations": {"zh-TW": "大約有五十人參與這個專案。"}
+                }
+            ],
+            "synonyms": ["about", "approximately", "nearby"],
+            "antonyms": ["far"],
+            "phrases": ["look around", "around the corner", "around the world", "hang around"]
+        },
+        {
+            "id": "A1-024-008",
+            "level": 24,
+            "tier": "basic",
+            "cefr": "A1",
+            "toeic_score_min": 200,
+            "word": "arrange",
+            "pos": ["verb"],
+            "conjugations": {
+                "present_3rd": "arranges",
+                "past": "arranged",
+                "past_participle": "arranged",
+                "ing": "arranging"
+            },
+            "domain": "general",
+            "translations": [
+                {
+                    "lang": "zh-TW",
+                    "lang_word": "arrange",
+                    "definition": "v. 安排、籌備；排列、整理"
+                }
+            ],
+            "examples": [
+                {
+                    "en": "She arranged the documents neatly on the conference table.",
+                    "highlight": ["arranged"],
+                    "translations": {"zh-TW": "她把文件整齊地排列在會議桌上。"}
+                },
+                {
+                    "en": "The manager is arranging a meeting with the new clients for Friday.",
+                    "highlight": ["arranging"],
+                    "translations": {"zh-TW": "經理正在安排週五與新客戶的會議。"}
+                },
+                {
+                    "en": "The flowers were arranged beautifully for the anniversary celebration.",
+                    "highlight": ["arranged"],
+                    "translations": {"zh-TW": "為了週年慶祝活動，花朵被佈置得非常美麗。"}
+                }
+            ],
+            "synonyms": ["organize", "sort", "plan"],
+            "antonyms": ["disorganize", "disrupt"],
+            "phrases": ["arrange a meeting", "arrange flowers", "arrange accommodation", "arrange transport"]
+        },
+        {
+            "id": "A1-024-009",
+            "level": 24,
+            "tier": "basic",
+            "cefr": "A1",
+            "toeic_score_min": 200,
+            "word": "arrangement",
+            "pos": ["noun"],
+            "conjugations": {"plural": "arrangements"},
+            "domain": "general",
+            "translations": [
+                {
+                    "lang": "zh-TW",
+                    "lang_word": "arrangement",
+                    "definition": "n. 安排、籌備；排列、佈置"
+                }
+            ],
+            "examples": [
+                {
+                    "en": "We need to make arrangements for the CEO's visit next month.",
+                    "highlight": ["arrangements"],
+                    "translations": {"zh-TW": "我們需要為下個月執行長的參訪做好安排。"}
+                },
+                {
+                    "en": "The seating arrangement at the dinner followed strict protocol.",
+                    "highlight": ["arrangement"],
+                    "translations": {"zh-TW": "晚宴的座位安排遵循了嚴格的禮節。"}
+                },
+                {
+                    "en": "A special financial arrangement was made between the two companies.",
+                    "highlight": ["arrangement"],
+                    "translations": {"zh-TW": "兩家公司之間達成了一項特殊的財務安排。"}
+                }
+            ],
+            "synonyms": ["order", "organization", "plan"],
+            "antonyms": ["disorder", "confusion"],
+            "phrases": ["seating arrangement", "financial arrangement", "make arrangements", "special arrangement"]
+        },
+        {
+            "id": "A1-024-010",
+            "level": 24,
+            "tier": "basic",
+            "cefr": "A1",
+            "toeic_score_min": 200,
+            "word": "arrest",
+            "pos": ["verb", "noun"],
+            "conjugations": {
+                "plural": "arrests",
+                "present_3rd": "arrests",
+                "past": "arrested",
+                "past_participle": "arrested",
+                "ing": "arresting"
+            },
+            "domain": "general",
+            "translations": [
+                {
+                    "lang": "zh-TW",
+                    "lang_word": "arrest",
+                    "definition": "v. 逮捕、拘捕  n. 逮捕、拘留"
+                }
+            ],
+            "examples": [
+                {
+                    "en": "The police arrested the suspect outside the hotel at midnight.",
+                    "highlight": ["arrested"],
+                    "translations": {"zh-TW": "警方在午夜於飯店外逮捕了嫌犯。"}
+                },
+                {
+                    "en": "The officer was arresting a man for driving under the influence.",
+                    "highlight": ["arresting"],
+                    "translations": {"zh-TW": "那名員警正在逮捕一名酒駕的男子。"}
+                },
+                {
+                    "en": "The arrest of the fugitive made headlines across the country.",
+                    "highlight": ["arrest"],
+                    "translations": {"zh-TW": "這名逃犯的逮捕消息登上了全國頭條。"}
+                }
+            ],
+            "synonyms": ["detain", "capture", "apprehend"],
+            "antonyms": ["release", "free"],
+            "phrases": ["make an arrest", "arrest warrant", "under arrest", "arrest someone"]
+        }
+    ]
+}
+
+path = "data/levels/basic/24.json"
+with open(path, "w", encoding="utf-8") as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)
+
+# Verify
+with open(path, "r", encoding="utf-8") as f:
+    v = json.load(f)
+print("Written {} words to {}".format(len(v["words"]), path))
+for w in v["words"]:
+    print("  {:15s} ex={}  highlights={}".format(
+        w["word"], len(w["examples"]),
+        [e["highlight"] for e in w["examples"]]
+    ))

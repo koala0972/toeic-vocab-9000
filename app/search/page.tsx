@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { VoiceButton } from '@/components/VoiceButton';
 import type { VocabularyEntry } from '@/lib/types';
 import type { LangCode } from '@/lib/lang';
+import { getLang, migrateFromLocalStorage } from '@/lib/storage';
 
 interface SearchableEntry extends VocabularyEntry {
   _level: number;
@@ -47,8 +48,10 @@ export default function SearchPage() {
   }, []);
 
   useEffect(() => {
-    const s = localStorage.getItem('lang') as LangCode | null;
-    if (s) setLang(s);
+    void migrateFromLocalStorage().then(async () => {
+      const s = await getLang();
+      if (s) setLang(s as LangCode);
+    });
   }, []);
 
   const filtered = useMemo(() => {

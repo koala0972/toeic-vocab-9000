@@ -1,33 +1,31 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useCallback } from 'react';
 import Link from 'next/link';
 import type { FavoriteEntry } from '@/components/FavoriteStar';
+import { getFavorites, setFavorites, migrateFromLocalStorage } from '@/lib/storage';
+import { DataManager } from '@/components/DataManager';
+
+const READY_EVENT = 'vkv-data-changed';
 
 export default function FavoritesPage() {
   const [favs, setFavs] = useState<FavoriteEntry[]>([]);
 
-  useEffect(() => {
-    try {
-      const raw = JSON.parse(localStorage.getItem('favorites') ?? '[]');
-      // Migrate old string format → object format
-      if (raw.length > 0 && typeof raw[0] === 'string') {
-        const migrated = raw.map((id: string) => {
-          const parts = id.split('-');
-          return { id, word: id, level: parseInt(parts[1] ?? '0', 10), idx: parseInt(parts[2] ?? '0', 10) - 1 };
-        });
-        localStorage.setItem('favorites', JSON.stringify(migrated));
-        setFavs(migrated);
-      } else {
-        setFavs(raw);
-      }
-    } catch { setFavs([]); }
+  const refresh = useCallback(async () => {
+    setFavs(await getFavorites());
   }, []);
 
-  const removeFav = (id: string) => {
+  useEffect(() => {
+    void migrateFromLocalStorage().then(refresh);
+    window.addEventListener(READY_EVENT, refresh);
+    return () => window.removeEventListener(READY_EVENT, refresh);
+  }, [refresh]);
+
+  const removeFav = async (id: string) => {
     const updated = favs.filter(f => f.id !== id);
     setFavs(updated);
-    localStorage.setItem('favorites', JSON.stringify(updated));
+    await setFavorites(updated);
+    window.dispatchEvent(new Event(READY_EVENT));
   };
 
   return (
@@ -67,6 +65,8 @@ export default function FavoritesPage() {
           </li>
         ))}
       </ul>
+
+      <DataManager />
     </main>
   );
 }

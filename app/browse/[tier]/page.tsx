@@ -1,12 +1,15 @@
 'use client';
 
-import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useMemo, useState, useCallback } from 'react';
 import Link from 'next/link';
 import { useParams } from 'next/navigation';
 import { TIERS, TOTAL_LEVELS } from '@/lib/levels-config';
 import type { LangCode } from '@/lib/lang';
+import { getProgress, migrateFromLocalStorage } from '@/lib/storage';
 
 type TierName = 'basic' | 'intermediate' | 'advanced';
+
+const READY_EVENT = 'vkv-data-changed';
 
 export default function BrowseTierPage() {
   const params = useParams<{ tier: string }>();
@@ -26,12 +29,15 @@ export default function BrowseTierPage() {
       .catch(() => setManifest({ total_words: 0, entries: [] }));
   }, []);
 
-  useEffect(() => {
-    try {
-      const p = JSON.parse(localStorage.getItem('progress') ?? '{}');
-      setProgress(p);
-    } catch { setProgress({}); }
+  const refreshProgress = useCallback(async () => {
+    setProgress(await getProgress());
   }, []);
+
+  useEffect(() => {
+    void migrateFromLocalStorage().then(refreshProgress);
+    window.addEventListener(READY_EVENT, refreshProgress);
+    return () => window.removeEventListener(READY_EVENT, refreshProgress);
+  }, [refreshProgress]);
 
   // 依每個 level 顯示升級狀態：已升級 = 該關的 word 陣列內任意一個非 _duplicate
   const levelStatus = useMemo(() => {

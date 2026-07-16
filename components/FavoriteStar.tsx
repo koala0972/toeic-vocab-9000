@@ -1,14 +1,18 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useCallback } from 'react';
+import {
+  getFavorites,
+  setFavorites,
+  getLang,
+  setLang,
+  migrateFromLocalStorage,
+  type FavoriteEntry,
+} from '@/lib/storage';
 import { t, type LangCode } from '@/lib/i18n';
 
-export interface FavoriteEntry {
-  id: string;
-  word: string;
-  level: number;
-  idx: number;
-}
+// Re-export 型別，讓舊 import (從 components/FavoriteStar 拿) 還能用
+export type { FavoriteEntry } from '@/lib/storage';
 
 interface Props {
   id: string;
@@ -18,52 +22,36 @@ interface Props {
   onToggle?: (id: string) => boolean;
 }
 
-function readFavorites(): FavoriteEntry[] {
-  if (typeof window === 'undefined') return [];
-  try {
-    const raw = JSON.parse(localStorage.getItem('favorites') ?? '[]');
-    // Migrate: if old format (array of strings), convert to objects
-    if (raw.length > 0 && typeof raw[0] === 'string') {
-      const migrated = raw.map((id: string) => {
-        const parts = id.split('-');
-        return { id, word: id, level: parseInt(parts[1] ?? '0', 10), idx: parseInt(parts[2] ?? '0', 10) - 1 };
-      });
-      localStorage.setItem('favorites', JSON.stringify(migrated));
-      return migrated;
-    }
-    return raw;
-  } catch {
-    return [];
-  }
-}
-
-function writeFavorites(list: FavoriteEntry[]) {
-  localStorage.setItem('favorites', JSON.stringify(list));
-}
+const READY_EVENT = 'vkv-data-changed';
 
 export function FavoriteStar({ id, word, level, idx, onToggle }: Props) {
   const [fav, setFav] = useState(false);
-  const [lang, setLang] = useState<LangCode>('zh-TW');
+  const [lang, setLangState] = useState<LangCode>('zh-TW');
 
-  useEffect(() => {
-    setFav(readFavorites().some(e => e.id === id));
-    const s = localStorage.getItem('lang') as LangCode | null;
-    if (s) setLang(s);
+  const refresh = useCallback(async () => {
+    const [favs, l] = await Promise.all([getFavorites(), getLang()]);
+    setFav(favs.some(e => e.id === id));
+    if (l) setLangState(l as LangCode);
   }, [id]);
 
-  const click = () => {
-    const list = readFavorites();
+  useEffect(() => {
+    void migrateFromLocalStorage().then(refresh);
+    window.addEventListener(READY_EVENT, refresh);
+    return () => window.removeEventListener(READY_EVENT, refresh);
+  }, [refresh]);
+
+  const click = async () => {
+    const list = await getFavorites();
     const exists = list.some(e => e.id === id);
-    let nowOn = false;
+    let next: FavoriteEntry[];
     if (exists) {
-      writeFavorites(list.filter(e => e.id !== id));
-      nowOn = false;
+      next = list.filter(e => e.id !== id);
     } else {
-      list.push({ id, word, level, idx });
-      writeFavorites(list);
-      nowOn = true;
+      next = [...list, { id, word, level, idx }];
     }
-    setFav(nowOn);
+    await setFavorites(next);
+    setFav(!exists);
+    window.dispatchEvent(new Event(READY_EVENT));
     onToggle?.(id);
   };
 
@@ -79,10 +67,14 @@ export function FavoriteStar({ id, word, level, idx, onToggle }: Props) {
   );
 }
 
-export function isFavorited(id: string): boolean {
-  return readFavorites().some(e => e.id === id);
+export async function isFavorited(id: string): Promise<boolean> {
+  const favs = await getFavorites();
+  return favs.some(e => e.id === id);
 }
 
-export function getAllFavorites(): FavoriteEntry[] {
-  return readFavorites();
+export async function getAllFavorites(): Promise<FavoriteEntry[]> {
+  return await getFavorites();
 }
+
+// 保留工具 setLang 給其他模組用
+export { setLang };

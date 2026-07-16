@@ -2,31 +2,42 @@
 
 import { TIERS, TOTAL_LEVELS, WORDS_PER_LEVEL } from '@/lib/levels-config';
 import Link from 'next/link';
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useCallback } from 'react';
+import {
+  getProgress,
+  getLang,
+  setLang,
+  migrateFromLocalStorage,
+} from '@/lib/storage';
+import { DataManager } from '@/components/DataManager';
 
 const SUPPORTED_LANGS = [
   { code: 'zh-TW', label: '🇹🇼 繁體中文' },
 ];
 
+const READY_EVENT = 'vkv-data-changed';
+
 export default function Home() {
-  const [lang, setLang] = useState<string>('zh-TW');
+  const [lang, setLangState] = useState<string>('zh-TW');
   const [progress, setProgress] = useState<Record<number, number>>({});
 
-  useEffect(() => {
-    const saved = localStorage.getItem('lang');
-    if (saved) setLang(saved);
-    try {
-      const p = JSON.parse(localStorage.getItem('progress') ?? '{}');
-      setProgress(p);
-    } catch {}
+  const refresh = useCallback(async () => {
+    const [p, l] = await Promise.all([getProgress(), getLang()]);
+    setProgress(p);
+    if (l) setLangState(l);
   }, []);
 
-  const pickLang = (l: string) => {
-    setLang(l);
-    localStorage.setItem('lang', l);
+  useEffect(() => {
+    void migrateFromLocalStorage().then(refresh);
+    window.addEventListener(READY_EVENT, refresh);
+    return () => window.removeEventListener(READY_EVENT, refresh);
+  }, [refresh]);
+
+  const pickLang = async (l: string) => {
+    setLangState(l);
+    await setLang(l);
   };
 
-  // 學習進度小計
   const completedCount = Object.values(progress).filter(v => v >= 10).length;
   const visitedCount   = Object.keys(progress).length;
   const pct = Math.round((completedCount / TOTAL_LEVELS) * 100);
@@ -67,7 +78,7 @@ export default function Home() {
             <div className="h-full bg-blue-500 transition-all" style={{ width: `${pct}%` }} />
           </div>
           <div className="text-xs text-slate-400 mt-1">
-            瀏覽過 {visitedCount} 關 · 資料存於本機瀏覽器
+            瀏覽過 {visitedCount} 關 · 資料存於本機瀏覽器 (IndexedDB)
           </div>
         </div>
 
@@ -75,6 +86,8 @@ export default function Home() {
           <Link href="/search" className="text-blue-600 hover:underline">搜尋單字</Link>
           <Link href="/favorites" className="text-blue-600 hover:underline">收藏清單</Link>
         </div>
+
+        <DataManager />
       </header>
 
       <div className="grid gap-4">
@@ -112,7 +125,7 @@ export default function Home() {
       </div>
 
       <footer className="mt-10 text-xs text-slate-400 text-center">
-        v0.1 · 設計: CEFR/牛津 3000 + 多益官方詞頻 f.lux
+        v0.2 · IndexedDB 本機儲存 + JSON 備份匯出/匯入
       </footer>
     </main>
   );

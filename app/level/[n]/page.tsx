@@ -8,8 +8,18 @@ import { VoiceButton } from '@/components/VoiceButton';
 import type { VocabularyEntry } from '@/lib/types';
 import type { LangCode } from '@/lib/lang';
 import { speak, stopSpeak } from '@/lib/speech';
+import {
+  getLang,
+  setLang as setLangPersist,
+  getRate,
+  setRate as setRatePersist,
+  setLevelProgress,
+  migrateFromLocalStorage,
+} from '@/lib/storage';
 
 type LevelPageLang = Exclude<LangCode, 'en'>;
+
+const READY_EVENT = 'vkv-data-changed';
 
 interface LevelData {
   level: number;
@@ -47,31 +57,29 @@ export default function LevelPage() {
       .catch(e => setError(String(e)));
   }, [n]);
 
-  // 學習方語言
+  // 學習方語言 + 語速（IndexedDB）
   useEffect(() => {
-    const saved = localStorage.getItem('lang') as LevelPageLang | null;
-    if (saved) setLang(saved);
-    const r = parseFloat(localStorage.getItem('rate') ?? '1.0');
-    if (!isNaN(r)) setRate(r);
+    void migrateFromLocalStorage().then(async () => {
+      const [saved, r] = await Promise.all([getLang(), getRate()]);
+      if (saved) setLang(saved as LevelPageLang);
+      if (!isNaN(r)) setRate(r);
+    });
   }, []);
 
-  // 記錄關卡進度 (用 localStorage 一時先)
+  // 記錄關卡進度 (寫進 IndexedDB)
   useEffect(() => {
-    if (!data || idx <= 0) return;
-    try {
-      const p = JSON.parse(localStorage.getItem('progress') ?? '{}');
-      p[data.level] = Math.max(p[data.level] ?? 0, idx);
-      localStorage.setItem('progress', JSON.stringify(p));
-    } catch {}
+    const lv = data?.level;
+    if (!lv || idx <= 0) return;
+    void setLevelProgress(lv, idx);
   }, [idx, data?.level]);
 
-  const setLangPersist = (l: LevelPageLang) => {
+  const persistLang = (l: LevelPageLang) => {
     setLang(l);
-    localStorage.setItem('lang', l);
+    void setLangPersist(l);
   };
-  const setRatePersist = (r: number) => {
+  const persistRate = (r: number) => {
     setRate(r);
-    localStorage.setItem('rate', r.toString());
+    void setRatePersist(r);
   };
 
   const goNext = useCallback(() => {
@@ -148,7 +156,7 @@ export default function LevelPage() {
           {[0.5, 0.7, 1.0].map(r => (
             <button
               key={r}
-              onClick={() => setRatePersist(r)}
+              onClick={() => persistRate(r)}
               className={`px-2 py-0.5 rounded border text-xs ${rate === r ? 'bg-blue-600 text-white border-blue-600' : 'bg-white border-slate-300'}`}
             >
               {r.toFixed(1)}x
@@ -156,7 +164,7 @@ export default function LevelPage() {
           ))}
           <span className="ml-3 text-slate-500">語言</span>
           <button
-            onClick={() => setLangPersist('zh-TW')}
+            onClick={() => persistLang('zh-TW')}
             className={`px-2 py-0.5 rounded border text-xs flex items-center gap-1 ${lang === 'zh-TW' ? 'bg-blue-600 text-white border-blue-600' : 'bg-white border-slate-300'}`}
           >
             🇹🇼 繁中
