@@ -92,7 +92,7 @@ export default function Home() {
             >
               <div className="flex justify-between items-start">
                 <div>
-                  <div className="font-semibold text-lg">{t.zhName}級</div>
+                  <div className="font-semibold text-lg">{t.zhName}</div>
                   <div className="text-sm text-slate-500 mt-1">
                     關卡 {t.levels[0]} ~ {t.levels[1]} · CEFR {t.cefrRange[0]}–{t.cefrRange[1]} · 多益 {t.toeicRange[0]}–{t.toeicRange[1]} 分
                   </div>
