@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 27,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-027-001",
@@ -11,44 +11,66 @@
       "toeic_score_min": 200,
       "word": "associated",
       "pos": [
-        "adjective"
+        "adjective",
+        "verb"
       ],
       "conjugations": {
-        "comparative": "associateder",
-        "superlative": "associatedest"
+        "past": "associated",
+        "past_participle": "associated",
+        "ing": "associating",
+        "present_3rd": "associates"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "associated",
-          "definition": "a. 联合的, [计] 關联的; 結合的"
+          "definition": "a. 關聯的、有關聯的  v. associate 的過去式與過去分詞"
         }
       ],
       "examples": [
         {
-          "en": "She is associated with the project.",
+          "en": "The risks associated with overseas investment should not be underestimated.",
           "highlight": [
             "associated"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "與海外投資相關的風險不應被低估。"
+          }
+        },
+        {
+          "en": "He has associated with several prominent business leaders since graduation.",
+          "highlight": [
+            "associated"
+          ],
+          "translations": {
+            "zh-TW": "畢業後他與幾位傑出的商界領袖有過交往。"
+          }
+        },
+        {
+          "en": "She is associating her personal brand with environmental sustainability.",
+          "highlight": [
+            "associating"
+          ],
+          "translations": {
+            "zh-TW": "她正在將自己的個人品牌與環境永續聯繫在一起。"
           }
         }
       ],
       "synonyms": [
         "connected",
-        "related"
+        "related",
+        "linked"
       ],
       "antonyms": [
         "unrelated",
-        "separate"
+        "unconnected"
       ],
       "phrases": [
-        "associated",
-        "with",
-        "associated",
-        "company"
+        "associated with",
+        "associated company",
+        "associated press",
+        "associated risks"
       ]
     },
     {
@@ -69,33 +91,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "association",
-          "definition": "n. 协會, [计] 關联"
+          "definition": "n. 協會、協會組織、關聯、聯繫"
         }
       ],
       "examples": [
         {
-          "en": "The association meets every month.",
+          "en": "The trade association published new guidelines for member companies.",
           "highlight": [
             "association"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "該貿易協會為會員公司發布了新的指導方針。"
+          }
+        },
+        {
+          "en": "Several associations joined forces to host the annual charity gala.",
+          "highlight": [
+            "associations"
+          ],
+          "translations": {
+            "zh-TW": "幾個協會攜手合作舉辦年度慈善晚宴。"
+          }
+        },
+        {
+          "en": "Researchers found a strong association between sleep quality and productivity.",
+          "highlight": [
+            "association"
+          ],
+          "translations": {
+            "zh-TW": "研究人員發現睡眠品質與生產力之間有密切的關聯。"
           }
         }
       ],
       "synonyms": [
         "organization",
-        "group"
+        "society",
+        "connection"
       ],
       "antonyms": [
         "disassociation",
         "separation"
       ],
       "phrases": [
-        "professional",
-        "association",
-        "community",
-        "association"
+        "trade association",
+        "professional association",
+        "in association with",
+        "homeowner's association"
       ]
     },
     {
@@ -109,43 +150,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "assumeed",
-        "past_participle": "assumeed",
-        "present_participle": "assuming",
-        "third_person": "assumes"
+        "plural": "assumes",
+        "present_3rd": "assumes",
+        "past": "assumed",
+        "past_participle": "assumed",
+        "ing": "assuming"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "assume",
-          "definition": "vt. 假定, 承担, 呈现, vi. 装腔作势, 僭越"
+          "definition": "v. 假定、假設、承擔、擔任"
         }
       ],
       "examples": [
         {
-          "en": "I assume he is coming.",
+          "en": "Please do not assume that the deadline has been extended.",
           "highlight": [
             "assume"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請不要假設截止日期已經延後了。"
+          }
+        },
+        {
+          "en": "The new manager assumed responsibility for the regional sales team last month.",
+          "highlight": [
+            "assumed"
+          ],
+          "translations": {
+            "zh-TW": "新任經理上個月承擔了區域銷售團隊的責任。"
+          }
+        },
+        {
+          "en": "Assuming the budget is approved, construction will begin in March.",
+          "highlight": [
+            "Assuming"
+          ],
+          "translations": {
+            "zh-TW": "假設預算獲得批准，工程將於三月展開。"
           }
         }
       ],
       "synonyms": [
         "presume",
-        "suppose"
+        "suppose",
+        "take on"
       ],
       "antonyms": [
         "doubt",
         "question"
       ],
       "phrases": [
-        "assume",
-        "responsibility",
-        "assume",
-        "control"
+        "assume responsibility",
+        "assume control",
+        "assume office",
+        "assuming that"
       ]
     },
     {
@@ -159,43 +220,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "assureed",
-        "past_participle": "assureed",
-        "present_participle": "assuring",
-        "third_person": "assures"
+        "plural": "assures",
+        "present_3rd": "assures",
+        "past": "assured",
+        "past_participle": "assured",
+        "ing": "assuring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "assure",
-          "definition": "vt. 保证, 使确信, 弄清楚, 担保, [法] 确信, 保证, 保障"
+          "definition": "v. 保證、向…保證、使確信"
         }
       ],
       "examples": [
         {
-          "en": "She assured him of her support.",
+          "en": "I assure you that every effort will be made to deliver the order on time.",
           "highlight": [
             "assure"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我向您保證，我們會盡一切努力準時交付訂單。"
+          }
+        },
+        {
+          "en": "The quality control manager assured the clients that the products met all safety standards.",
+          "highlight": [
+            "assured"
+          ],
+          "translations": {
+            "zh-TW": "品管經理向客戶保證產品符合所有安全標準。"
+          }
+        },
+        {
+          "en": "The after-sales department is assuring every customer that defective products will be replaced free of charge.",
+          "highlight": [
+            "assuring"
+          ],
+          "translations": {
+            "zh-TW": "售後服務部門向每位顧客保證，瑕疵產品將免費更換。"
           }
         }
       ],
       "synonyms": [
+        "guarantee",
         "reassure",
         "convince"
       ],
       "antonyms": [
         "doubt",
-        "dissuade"
+        "worry"
       ],
       "phrases": [
-        "assure",
-        "success",
-        "assure",
-        "support"
+        "assure quality",
+        "rest assured",
+        "assure someone of",
+        "life assurance"
       ]
     },
     {
@@ -214,33 +295,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "at",
-          "definition": "prep. 在, 向, 對, [计] 地址转换器, 异常传输, 自動订票"
+          "definition": "prep. 在、於、對、以"
         }
       ],
       "examples": [
         {
-          "en": "She is at the library.",
+          "en": "The interviews are scheduled to begin at nine o'clock sharp.",
           "highlight": [
             "at"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "面試預定於九點整開始。"
+          }
+        },
+        {
+          "en": "Please pick up your visitor badge at the reception desk upon arrival.",
+          "highlight": [
+            "at"
+          ],
+          "translations": {
+            "zh-TW": "請在抵達後到接待台領取訪客識別證。"
+          }
+        },
+        {
+          "en": "The new product will be priced at forty-nine dollars during the launch promotion.",
+          "highlight": [
+            "at"
+          ],
+          "translations": {
+            "zh-TW": "新產品在發售促銷期間定價為四十九美元。"
           }
         }
       ],
       "synonyms": [
         "in",
-        "on"
+        "on",
+        "by"
       ],
       "antonyms": [
         "away",
         "from"
       ],
       "phrases": [
-        "at",
-        "home",
-        "at",
-        "work"
+        "at least",
+        "at most",
+        "at work",
+        "at the same time",
+        "at present"
       ]
     },
     {
@@ -261,32 +362,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "atmosphere",
-          "definition": "n. 大气, 空气, 气氛, [医] 大气; 大气压"
+          "definition": "n. 大氣、氣氛、氛圍"
         }
       ],
       "examples": [
         {
-          "en": "The atmosphere was tense.",
+          "en": "The restaurant offers a cozy atmosphere that keeps customers coming back.",
           "highlight": [
             "atmosphere"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家餐廳提供舒適的氛圍，讓顧客願意一再光顧。"
+          }
+        },
+        {
+          "en": "Different planets have vastly different atmospheres, which affect their surface temperatures.",
+          "highlight": [
+            "atmospheres"
+          ],
+          "translations": {
+            "zh-TW": "不同的行星擁有截然不同的大氣層，這影響了它們的表面溫度。"
+          }
+        },
+        {
+          "en": "The negotiations were held in a tense atmosphere after the tariff dispute.",
+          "highlight": [
+            "atmosphere"
+          ],
+          "translations": {
+            "zh-TW": "在關稅爭端之後，談判在緊張的氣氛中舉行。"
           }
         }
       ],
       "synonyms": [
+        "ambience",
         "air",
-        "ambiance"
+        "mood"
       ],
       "antonyms": [
-        "vacuum"
+        "vacuum",
+        "void"
       ],
       "phrases": [
-        "thick",
-        "atmosphere",
-        "friendly",
-        "atmosphere"
+        "friendly atmosphere",
+        "relaxed atmosphere",
+        "working atmosphere",
+        "poison the atmosphere"
       ]
     },
     {
@@ -302,34 +423,53 @@
       "conjugations": {
         "plural": "atoms"
       },
-      "domain": "general",
+      "domain": "science",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "atom",
-          "definition": "n. 原子, 核能, 微粒, 微量, [计] 原子"
+          "definition": "n. 原子、微粒"
         }
       ],
       "examples": [
         {
-          "en": "The atom is the basic unit of matter.",
+          "en": "Every atom in the human body is made of protons, neutrons, and electrons.",
           "highlight": [
             "atom"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "人體中的每個原子都是由質子、中子和電子組成的。"
+          }
+        },
+        {
+          "en": "Scientists have successfully photographed individual atoms using advanced electron microscopes.",
+          "highlight": [
+            "atoms"
+          ],
+          "translations": {
+            "zh-TW": "科學家已成功利用先進的電子顯微鏡拍攝到單個原子。"
+          }
+        },
+        {
+          "en": "The scientist's discovery was hailed as a breakthrough that would benefit humanity down to every atom.",
+          "highlight": [
+            "atom"
+          ],
+          "translations": {
+            "zh-TW": "這位科學家的發現被譽為一項突破，將對全人類都有所助益，深入到每一個原子。"
           }
         }
       ],
       "synonyms": [
-        "particle"
+        "particle",
+        "molecule"
       ],
       "antonyms": [],
       "phrases": [
-        "split",
-        "atom",
-        "atom",
-        "bomb"
+        "split the atom",
+        "atom bomb",
+        "hydrogen atom",
+        "atom smasher"
       ]
     },
     {
@@ -343,44 +483,64 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "attached",
+        "plural": "attaches",
+        "present_3rd": "attaches",
+        "past": "attached",
         "past_participle": "attached",
-        "present_participle": "attaching",
-        "third_person": "attachs"
+        "ing": "attaching"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "attach",
-          "definition": "vt. 附上, 使依附, 使附属, 使喜爱, 系, 缚, vi. 附属, 归属, 联系在一起, [计] 挂接服务器命令, 關联, 挂接, 附加"
+          "definition": "v. 附上、附加、繫上、使附屬"
         }
       ],
       "examples": [
         {
-          "en": "Please attach the file to the email.",
+          "en": "Please attach the updated price list to the email before sending it to the client.",
           "highlight": [
             "attach"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在將電子郵件寄給客戶之前附上更新後的價目表。"
+          }
+        },
+        {
+          "en": "She attached a handwritten note to each gift before distributing them to the team.",
+          "highlight": [
+            "attached"
+          ],
+          "translations": {
+            "zh-TW": "她在把禮物分發給團隊之前，在每份禮物上都附了一張手寫便條。"
+          }
+        },
+        {
+          "en": "The IT department is attaching new security tags to all company-issued laptops.",
+          "highlight": [
+            "attaching"
+          ],
+          "translations": {
+            "zh-TW": "資訊部門正在為所有公司配發的筆電附上新的安全標籤。"
           }
         }
       ],
       "synonyms": [
         "affix",
+        "fasten",
         "join"
       ],
       "antonyms": [
         "detach",
-        "remove"
+        "remove",
+        "separate"
       ],
       "phrases": [
-        "attach",
-        "importance",
-        "attach",
-        "a",
-        "file"
+        "attach a file",
+        "attach importance to",
+        "attach to",
+        "attach a label"
       ]
     },
     {
@@ -391,44 +551,67 @@
       "toeic_score_min": 200,
       "word": "attached",
       "pos": [
-        "adjective"
+        "adjective",
+        "verb"
       ],
       "conjugations": {
-        "comparative": "attacheder",
-        "superlative": "attachedest"
+        "past": "attached",
+        "past_participle": "attached",
+        "ing": "attaching",
+        "present_3rd": "attaches"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "attached",
-          "definition": "a. 附加的；依恋的, 充满爱心的"
+          "definition": "a. 附加的、附屬的、依戀的  v. attach 的過去式與過去分詞"
         }
       ],
       "examples": [
         {
-          "en": "The document is attached to the email.",
+          "en": "Please find the attached invoice for your recent purchase.",
           "highlight": [
             "attached"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請查收隨信附上您近期採購的發票。"
+          }
+        },
+        {
+          "en": "The attached garage provides direct access to the house through the kitchen.",
+          "highlight": [
+            "attached"
+          ],
+          "translations": {
+            "zh-TW": "附屬的車庫可經由廚房直接通往屋內。"
+          }
+        },
+        {
+          "en": "She felt deeply attached to the colleagues she had worked with for over a decade.",
+          "highlight": [
+            "attached"
+          ],
+          "translations": {
+            "zh-TW": "她對與她共事超過十年的同事們感到深深依戀。"
           }
         }
       ],
       "synonyms": [
         "connected",
-        "linked"
+        "linked",
+        "joined"
       ],
       "antonyms": [
         "detached",
-        "separated"
+        "separated",
+        "unattached"
       ],
       "phrases": [
-        "attached",
-        "file",
-        "emotionally",
-        "attached"
+        "attached file",
+        "emotionally attached",
+        "attached bathroom",
+        "attached please find"
       ]
     },
     {
@@ -443,44 +626,65 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "attacked",
+        "plural": "attacks",
+        "present_3rd": "attacks",
+        "past": "attacked",
         "past_participle": "attacked",
-        "present_participle": "attacking",
-        "third_person": "attacks"
+        "ing": "attacking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "attack",
-          "definition": "n. 攻击, 抨击, vt. 攻击, 抨击, 動手干, vi. 攻击"
+          "definition": "n. 攻擊、襲擊、發作  v. 攻擊、抨擊"
         }
       ],
       "examples": [
         {
-          "en": "The soldiers attacked the fort.",
+          "en": "The company's new marketing strategy attacks a previously overlooked segment of the market.",
+          "highlight": [
+            "attacks"
+          ],
+          "translations": {
+            "zh-TW": "公司的新行銷策略鎖定了一個先前被忽略的市場區隔。"
+          }
+        },
+        {
+          "en": "Several local businesses were attacked by cybercriminals demanding ransom payments.",
+          "highlight": [
+            "attacked"
+          ],
+          "translations": {
+            "zh-TW": "幾家本地企業遭到網路犯罪分子攻擊，對方勒索贖金。"
+          }
+        },
+        {
+          "en": "The manager launched a verbal attack on the proposal, calling it financially irresponsible.",
           "highlight": [
             "attack"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理對該提案發動了猛烈抨擊，稱其在財務上不負責任。"
           }
         }
       ],
       "synonyms": [
         "assault",
-        "strike"
+        "strike",
+        "assail"
       ],
       "antonyms": [
         "defend",
-        "protect"
+        "protect",
+        "guard"
       ],
       "phrases": [
-        "attack",
-        "the",
-        "enemy",
-        "attack",
-        "plan"
+        "heart attack",
+        "under attack",
+        "panic attack",
+        "attack a problem",
+        "attack plan"
       ]
     }
   ]
