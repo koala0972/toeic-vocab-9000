@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 33,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-033-001",
@@ -11,44 +11,66 @@
       "toeic_score_min": 200,
       "word": "based",
       "pos": [
-        "adjective"
+        "adjective",
+        "verb"
       ],
       "conjugations": {
-        "comparative": "baseder",
-        "superlative": "basedest"
+        "past": "based",
+        "past_participle": "based",
+        "ing": "basing",
+        "present_3rd": "bases"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "based",
-          "definition": "v. 立基于, 以…為基础（base的過去式和過去分词）"
+          "definition": "adj. 以……為基礎的、駐紮於  v. base 的過去式與過去分詞"
         }
       ],
       "examples": [
         {
-          "en": "The story is based on real events.",
+          "en": "Our pricing model is based on a thorough analysis of competitor rates.",
           "highlight": [
             "based"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們的定價模式是建立在對競爭對手費率徹底分析的基礎上。"
+          }
+        },
+        {
+          "en": "The consultant based her recommendations on data gathered from over two hundred companies.",
+          "highlight": [
+            "based"
+          ],
+          "translations": {
+            "zh-TW": "顧問以從兩百多家公司收集到的資料為依據提出了建議。"
+          }
+        },
+        {
+          "en": "Headquarters has based its new research team in Singapore to better serve Asian clients.",
+          "highlight": [
+            "based"
+          ],
+          "translations": {
+            "zh-TW": "總公司將新研究團隊駐紮在新加坡，以更妥善地服務亞洲客戶。"
           }
         }
       ],
       "synonyms": [
         "founded",
-        "established"
+        "established",
+        "rooted"
       ],
       "antonyms": [
-        "unfounded"
+        "unfounded",
+        "baseless"
       ],
       "phrases": [
-        "based",
-        "on",
-        "true",
-        "events",
-        "based"
+        "based on",
+        "based in",
+        "research-based",
+        "evidence-based"
       ]
     },
     {
@@ -59,44 +81,65 @@
       "toeic_score_min": 200,
       "word": "basic",
       "pos": [
-        "adjective"
+        "adjective",
+        "noun"
       ],
       "conjugations": {
-        "comparative": "basicer",
-        "superlative": "basicest"
+        "comparative": "more basic",
+        "superlative": "most basic"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "basic",
-          "definition": "n. 基本原理, 要素, 基本规律, a. 基本的, 碱性的, (计算机)BASIC語言"
+          "definition": "adj. 基本的、基礎的、初步的  n. 基本原理、要素"
         }
       ],
       "examples": [
         {
-          "en": "The basic principles of math are taught in school.",
+          "en": "All employees must complete a basic safety training course before starting work.",
           "highlight": [
             "basic"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "所有員工在開始工作前都必須完成基本的安全培訓課程。"
+          }
+        },
+        {
+          "en": "The mathematics textbook covers basic arithmetic, but a more basic explanation is needed for beginners.",
+          "highlight": [
+            "more basic"
+          ],
+          "translations": {
+            "zh-TW": "這本數學教科書涵蓋基本算術，但初學者需要更基礎的解釋。"
+          }
+        },
+        {
+          "en": "Food, water, and shelter are the most basic requirements for human survival.",
+          "highlight": [
+            "most basic"
+          ],
+          "translations": {
+            "zh-TW": "食物、水和住所是人類生存最基本的需求。"
           }
         }
       ],
       "synonyms": [
         "fundamental",
-        "essential"
+        "essential",
+        "primary"
       ],
       "antonyms": [
         "advanced",
-        "complex"
+        "complex",
+        "sophisticated"
       ],
       "phrases": [
-        "basic",
-        "principles",
-        "basic",
-        "needs"
+        "basic needs",
+        "basic skills",
+        "basic principles",
+        "basic salary"
       ]
     },
     {
@@ -115,33 +158,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "basically",
-          "definition": "adv. 基本上, 主要地"
+          "definition": "adv. 基本上、从根本上说、主要地"
         }
       ],
       "examples": [
         {
-          "en": "Basically, they are the same.",
+          "en": "Basically, we just need more time to finish the report.",
           "highlight": [
             "basically"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "基本上，我們只是需要更多時間來完成報告。"
+          }
+        },
+        {
+          "en": "The new policy is basically the same as the old one, with only minor changes.",
+          "highlight": [
+            "basically"
+          ],
+          "translations": {
+            "zh-TW": "新政策基本上與舊政策相同，只有些微的改變。"
+          }
+        },
+        {
+          "en": "He basically runs the whole department by himself while the manager is away.",
+          "highlight": [
+            "basically"
+          ],
+          "translations": {
+            "zh-TW": "經理不在的時候，整個部門基本上就是由他一個人在運作。"
           }
         }
       ],
       "synonyms": [
         "essentially",
-        "fundamentally"
+        "fundamentally",
+        "primarily"
       ],
       "antonyms": [
-        "superficially"
+        "superficially",
+        "secondarily"
       ],
       "phrases": [
-        "basically",
-        "the",
-        "same",
-        "basically",
-        "true"
+        "basically the same",
+        "basically speaking",
+        "basically true"
       ]
     },
     {
@@ -155,38 +216,56 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "basises"
+        "plural": "bases"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "basis",
-          "definition": "n. 基础, 主要成分, [化] 基底"
+          "definition": "n. 基礎、根據、基本原則"
         }
       ],
       "examples": [
         {
-          "en": "The basis of their argument was weak.",
+          "en": "Mutual trust is the basis of any successful business partnership.",
           "highlight": [
             "basis"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "互信是任何成功商業合作的基礎。"
+          }
+        },
+        {
+          "en": "The scientists established their theoretical bases through years of rigorous experimentation.",
+          "highlight": [
+            "bases"
+          ],
+          "translations": {
+            "zh-TW": "科學家們透過多年的嚴謹實驗確立了他們的理論基礎。"
+          }
+        },
+        {
+          "en": "Salaries are reviewed on a quarterly basis to ensure fair compensation across the company.",
+          "highlight": [
+            "basis"
+          ],
+          "translations": {
+            "zh-TW": "薪資每季審查一次，以確保全公司的薪酬公平。"
           }
         }
       ],
       "synonyms": [
         "foundation",
-        "base"
+        "base",
+        "groundwork"
       ],
       "antonyms": [],
       "phrases": [
-        "solid",
-        "basis",
-        "basis",
-        "for",
-        "negotiation"
+        "on a daily basis",
+        "on a regular basis",
+        "solid basis",
+        "basis for negotiation"
       ]
     },
     {
@@ -201,43 +280,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "bathed",
+        "plural": "baths",
+        "present_3rd": "baths",
+        "past": "bathed",
         "past_participle": "bathed",
-        "present_participle": "bathing",
-        "third_person": "baths"
+        "ing": "bathing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bath",
-          "definition": "n. 沐浴, 浴室, [医] 浴"
+          "definition": "n. 沐浴、洗澡、浴缸  v. 給……洗澡"
         }
       ],
       "examples": [
         {
-          "en": "She took a bath to relax.",
+          "en": "After a long day at work, she took a hot bath to relax her tired muscles.",
           "highlight": [
             "bath"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "工作了一整天後，她泡了個熱水澡來放鬆疲憊的肌肉。"
+          }
+        },
+        {
+          "en": "The mother bathed her baby gently with warm water before putting him to bed.",
+          "highlight": [
+            "bathed"
+          ],
+          "translations": {
+            "zh-TW": "媽媽用溫水輕柔地給寶寶洗了澡，然後讓他上床睡覺。"
+          }
+        },
+        {
+          "en": "The hotel spa offers a range of treatments including bathing in aromatic mineral springs.",
+          "highlight": [
+            "bathing"
+          ],
+          "translations": {
+            "zh-TW": "飯店水療中心提供各種療程，包括在芳香礦物泉中沐浴。"
           }
         }
       ],
       "synonyms": [
-        "bathtub",
-        "wash"
+        "wash",
+        "soak",
+        "cleanse"
       ],
       "antonyms": [
         "shower"
       ],
       "phrases": [
-        "take",
-        "a",
-        "bath",
-        "hot",
-        "bath"
+        "take a bath",
+        "hot bath",
+        "bubble bath",
+        "bath towel"
       ]
     },
     {
@@ -258,31 +356,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "bathroom",
-          "definition": "n. 浴室, 厕所"
+          "definition": "n. 浴室、洗手間、廁所"
         }
       ],
       "examples": [
         {
-          "en": "The house has two bathrooms.",
+          "en": "Could you tell me where the bathroom is, please?",
           "highlight": [
             "bathroom"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請問可以告訴我浴室在哪裡嗎？"
+          }
+        },
+        {
+          "en": "The new apartment has two bathrooms, one with a shower and one with a bathtub.",
+          "highlight": [
+            "bathrooms"
+          ],
+          "translations": {
+            "zh-TW": "新公寓有兩間浴室，一間有淋浴間，另一間有浴缸。"
+          }
+        },
+        {
+          "en": "We need to renovate the bathroom before putting the house on the market.",
+          "highlight": [
+            "bathroom"
+          ],
+          "translations": {
+            "zh-TW": "我們需要在房屋上市前翻新浴室。"
           }
         }
       ],
       "synonyms": [
         "restroom",
+        "washroom",
         "lavatory"
       ],
       "antonyms": [],
       "phrases": [
-        "clean",
-        "the",
-        "bathroom",
-        "bathroom",
-        "sink"
+        "bathroom break",
+        "public bathroom",
+        "bathroom scale",
+        "go to the bathroom"
       ]
     },
     {
@@ -303,31 +419,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "battery",
-          "definition": "n. 电池, 殴打, [化] 蓄电池"
+          "definition": "n. 電池、蓄電池、一系列"
         }
       ],
       "examples": [
         {
-          "en": "The remote control needs new batteries.",
+          "en": "My phone battery is running low, so I need to find a charger soon.",
           "highlight": [
             "battery"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我的手機電池快沒電了，所以我得趕快找充電器。"
+          }
+        },
+        {
+          "en": "Rechargeable batteries are more environmentally friendly than single-use ones.",
+          "highlight": [
+            "batteries"
+          ],
+          "translations": {
+            "zh-TW": "充電電池比一次性電池更環保。"
+          }
+        },
+        {
+          "en": "The engineer replaced the old battery in the smoke detector during the annual inspection.",
+          "highlight": [
+            "battery"
+          ],
+          "translations": {
+            "zh-TW": "工程師在年度檢查時更換了煙霧偵測器裡的舊電池。"
           }
         }
       ],
       "synonyms": [
         "cell",
-        "power",
-        "source"
+        "power source",
+        "accumulator"
       ],
       "antonyms": [],
       "phrases": [
-        "rechargeable",
-        "battery",
-        "dead",
-        "battery"
+        "charge the battery",
+        "dead battery",
+        "rechargeable battery",
+        "battery life"
       ]
     },
     {
@@ -342,43 +476,64 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "battleed",
-        "past_participle": "battleed",
-        "present_participle": "battling",
-        "third_person": "battles"
+        "plural": "battles",
+        "present_3rd": "battles",
+        "past": "battled",
+        "past_participle": "battled",
+        "ing": "battling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "battle",
-          "definition": "n. 战役, v. 战斗"
+          "definition": "n. 戰役、戰鬥、奮鬥  v. 戰鬥、搏鬥"
         }
       ],
       "examples": [
         {
-          "en": "The battle lasted for days.",
+          "en": "The company faces a long battle against its larger competitors for market share.",
           "highlight": [
             "battle"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司面臨與規模更大的競爭對手爭奪市場佔有率的長期奮戰。"
+          }
+        },
+        {
+          "en": "The small startup battled financial difficulties for three years before turning a profit.",
+          "highlight": [
+            "battled"
+          ],
+          "translations": {
+            "zh-TW": "這家小型新創公司與財務困境搏鬥了三年才轉虧為盈。"
+          }
+        },
+        {
+          "en": "Environmental groups are battling to preserve the wetlands from commercial development.",
+          "highlight": [
+            "battling"
+          ],
+          "translations": {
+            "zh-TW": "環保團體正努力保護濕地免受商業開發破壞。"
           }
         }
       ],
       "synonyms": [
         "combat",
-        "fight"
+        "fight",
+        "struggle"
       ],
       "antonyms": [
         "peace",
-        "truce"
+        "truce",
+        "harmony"
       ],
       "phrases": [
-        "epic",
-        "battle",
-        "battle",
-        "scene"
+        "battle against",
+        "win the battle",
+        "battle scene",
+        "tough battle"
       ]
     },
     {
@@ -392,40 +547,59 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "baies"
+        "plural": "bays"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bay",
-          "definition": "n. 海湾, 狗吠声, 月桂, vt. 吠, 使走投无路, vi. 吠"
+          "definition": "n. 海灣、分隔間"
         }
       ],
       "examples": [
         {
-          "en": "We sailed into the bay.",
+          "en": "The cargo ship anchored in the bay to wait out the storm.",
           "highlight": [
             "bay"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "貨輪停泊在海灣裡以躲避風暴。"
+          }
+        },
+        {
+          "en": "The hotel overlooks a beautiful bay with crystal-clear water and sandy beaches.",
+          "highlight": [
+            "bay"
+          ],
+          "translations": {
+            "zh-TW": "這家飯店俯瞰著一座美麗的海灣，海水清澈見底、沙灘綿延。"
+          }
+        },
+        {
+          "en": "The warehouse has six loading bays to handle deliveries efficiently.",
+          "highlight": [
+            "bays"
+          ],
+          "translations": {
+            "zh-TW": "倉庫設有六個裝卸貨車位，以便高效率地處理貨物配送。"
           }
         }
       ],
       "synonyms": [
         "inlet",
-        "cove"
+        "cove",
+        "gulf"
       ],
       "antonyms": [
         "cape",
         "promontory"
       ],
       "phrases": [
-        "bay",
-        "area",
-        "bay",
-        "window"
+        "bay area",
+        "bay window",
+        "loading bay",
+        "keep at bay"
       ]
     },
     {
@@ -439,43 +613,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "beed",
-        "past_participle": "beed",
-        "present_participle": "bing",
-        "third_person": "bes"
+        "present_3rd": "is",
+        "past": "was",
+        "past_participle": "been",
+        "ing": "being"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "be",
-          "definition": "v. 是, 表示, 在, [计] 後端, 总线允许"
+          "definition": "v. 是、存在、位於"
         }
       ],
       "examples": [
         {
-          "en": "To be or not to be, that is the question.",
+          "en": "She will be responsible for coordinating the international conference next month.",
           "highlight": [
             "be"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她下個月將負責協調國際會議。"
+          }
+        },
+        {
+          "en": "The documents have been reviewed by the legal team and are ready for signing.",
+          "highlight": [
+            "been"
+          ],
+          "translations": {
+            "zh-TW": "文件已經過法務團隊審查，可以準備簽署了。"
+          }
+        },
+        {
+          "en": "He was the project manager before being transferred to the Hong Kong office.",
+          "highlight": [
+            "being"
+          ],
+          "translations": {
+            "zh-TW": "在被調到香港辦公室之前，他是這個專案的專案經理。"
           }
         }
       ],
       "synonyms": [
         "exist",
-        "live"
+        "live",
+        "remain"
       ],
       "antonyms": [
         "cease",
         "stop"
       ],
       "phrases": [
-        "be",
-        "happy",
-        "be",
-        "careful"
+        "be able to",
+        "be about to",
+        "be careful",
+        "be worth"
       ]
     }
   ]
