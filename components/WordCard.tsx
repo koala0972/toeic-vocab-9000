@@ -228,7 +228,6 @@ export function WordCard({ entry, lang, rate, idx, onViewed, showAnswer, onToggl
         <kbd className="px-1 border rounded">Space</kbd> 播放/暫停
         <kbd className="px-1 border rounded">→</kbd> 下一題
         <kbd className="px-1 border rounded">←</kbd> 上一題
-        <kbd className="px-1 border rounded">A</kbd> 顯示/隱藏翻譯
         <kbd className="px-1 border rounded">F</kbd> 收藏
       </div>
     </div>

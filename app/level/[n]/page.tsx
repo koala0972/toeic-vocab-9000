@@ -15,6 +15,9 @@ import {
   setRate as setRatePersist,
   setLevelProgress,
   migrateFromLocalStorage,
+  getFavorites,
+  setFavorites,
+  type FavoriteEntry,
 } from '@/lib/storage';
 
 type LevelPageLang = Exclude<LangCode, 'en'>;
@@ -103,6 +106,19 @@ export default function LevelPage() {
   }, []);
   const toggleAnswer = useCallback(() => setShowAnswer(s => !s), []);
 
+  /** F 鍵 toggle 收藏目前單字；事件 broadcast 讓 FavoriteStar 同步 UI */
+  const toggleCurrentFavorite = useCallback(async () => {
+    if (!data) return;
+    const entry = data.words[idx];
+    const list = await getFavorites();
+    const exists = list.some(e => e.id === entry.id);
+    const next: FavoriteEntry[] = exists
+      ? list.filter(e => e.id !== entry.id)
+      : [...list, { id: entry.id, word: entry.word, level: entry.level, idx }];
+    await setFavorites(next);
+    window.dispatchEvent(new Event(READY_EVENT));
+  }, [data, idx]);
+
   const speakCurrent = useCallback(async () => {
     if (!data) return;
     const entry = data.words[idx];
@@ -121,10 +137,11 @@ export default function LevelPage() {
         else if (n > 1) window.location.href = `/level/${n - 1}`;
       }
       else if (e.key.toLowerCase() === 'a') toggleAnswer();
+      else if (e.key.toLowerCase() === 'f') void toggleCurrentFavorite();
     };
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
-  }, [speakCurrent, goNextOrLevel, toggleAnswer]);
+  }, [speakCurrent, goNextOrLevel, toggleAnswer, toggleCurrentFavorite]);
 
   useEffect(() => () => stopSpeak(), []);
 
