@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 28,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-028-001",
@@ -15,45 +15,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "attempted",
+        "plural": "attempts",
+        "present_3rd": "attempts",
+        "past": "attempted",
         "past_participle": "attempted",
-        "present_participle": "attempting",
-        "third_person": "attempts"
+        "ing": "attempting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "attempt",
-          "definition": "n. 尝试, 企图, vt. 尝试, 企图"
+          "definition": "v. 嘗試、企圖  n. 嘗試、試圖"
         }
       ],
       "examples": [
         {
-          "en": "She attempted to lift the box.",
+          "en": "The candidate will attempt to answer all the interview questions confidently.",
           "highlight": [
             "attempt"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "那位求職者會嘗試有信心地回答所有面試問題。"
+          }
+        },
+        {
+          "en": "She attempted the difficult calculation without using a calculator.",
+          "highlight": [
+            "attempted"
+          ],
+          "translations": {
+            "zh-TW": "她不使用計算機就嘗試了那道困難的運算。"
+          }
+        },
+        {
+          "en": "They are attempting to break into the Asian market this quarter.",
+          "highlight": [
+            "attempting"
+          ],
+          "translations": {
+            "zh-TW": "他們本季度正嘗試打進亞洲市場。"
           }
         }
       ],
       "synonyms": [
         "try",
-        "endeavor"
+        "endeavor",
+        "undertake"
       ],
       "antonyms": [
-        "give",
-        "up",
+        "abandon",
         "quit"
       ],
       "phrases": [
-        "make",
-        "an",
-        "attempt",
-        "first",
-        "attempt"
+        "make an attempt",
+        "first attempt",
+        "attempt to do",
+        "failed attempt"
       ]
     },
     {
@@ -66,40 +84,56 @@
       "pos": [
         "adjective"
       ],
-      "conjugations": {
-        "comparative": "attempteder",
-        "superlative": "attemptedest"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "attempted",
-          "definition": "a. 企图的；未遂的"
+          "definition": "adj. 未遂的、企圖的（用於犯罪未完成時）"
         }
       ],
       "examples": [
         {
-          "en": "He attempted the test.",
+          "en": "The suspect was charged with attempted robbery at the downtown bank.",
           "highlight": [
             "attempted"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "那名嫌犯被控在市中心的銀行犯下未遂搶劫罪。"
+          }
+        },
+        {
+          "en": "The most serious charge on the indictment was attempted murder.",
+          "highlight": [
+            "attempted"
+          ],
+          "translations": {
+            "zh-TW": "起訴書中最嚴重的罪名是未遂謀殺。"
+          }
+        },
+        {
+          "en": "Police are investigating an attempted burglary that occurred last night.",
+          "highlight": [
+            "attempted"
+          ],
+          "translations": {
+            "zh-TW": "警方正在調查昨晚發生的一起未遂竊盜案。"
           }
         }
       ],
       "synonyms": [
-        "tried"
+        "tried",
+        "intended"
       ],
       "antonyms": [
-        "succeeded"
+        "completed",
+        "successful"
       ],
       "phrases": [
-        "attempted",
-        "murder",
-        "attempted",
-        "robbery"
+        "attempted murder",
+        "attempted robbery",
+        "attempted burglary"
       ]
     },
     {
@@ -113,43 +147,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "attended",
+        "present_3rd": "attends",
+        "past": "attended",
         "past_participle": "attended",
-        "present_participle": "attending",
-        "third_person": "attends"
+        "ing": "attending"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "attend",
-          "definition": "vt. 参加, 照料, 伴随, vi. 专心于, 照顾, 服侍, 出席"
+          "definition": "v. 出席、參加、照料"
         }
       ],
       "examples": [
         {
-          "en": "She attended the meeting.",
+          "en": "All managers must attend the quarterly strategy meeting.",
           "highlight": [
             "attend"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "所有經理都必須出席每季的策略會議。"
+          }
+        },
+        {
+          "en": "She attended the training session last week and learned a lot.",
+          "highlight": [
+            "attended"
+          ],
+          "translations": {
+            "zh-TW": "她上週參加了培訓課程，並學到很多。"
+          }
+        },
+        {
+          "en": "He is attending a conference in Singapore this week.",
+          "highlight": [
+            "attending"
+          ],
+          "translations": {
+            "zh-TW": "他這週正在新加坡參加一場研討會。"
           }
         }
       ],
       "synonyms": [
         "participate",
-        "join"
+        "join",
+        "be present"
       ],
       "antonyms": [
-        "miss",
-        "avoid"
+        "skip",
+        "miss"
       ],
       "phrases": [
-        "attend",
-        "regularly",
-        "attend",
-        "class"
+        "attend a meeting",
+        "attend a conference",
+        "attend to",
+        "attend class"
       ]
     },
     {
@@ -170,33 +223,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "attention",
-          "definition": "n. 注意, 注意力, [计] 引起注意信號"
+          "definition": "n. 注意、注意力、關注"
         }
       ],
       "examples": [
         {
-          "en": "He paid attention to the details.",
+          "en": "Please pay close attention to the safety instructions before takeoff.",
           "highlight": [
             "attention"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "起飛前請密切注意安全指示。"
+          }
+        },
+        {
+          "en": "The new product launch drew the attentions of several major investors.",
+          "highlight": [
+            "attentions"
+          ],
+          "translations": {
+            "zh-TW": "新產品的發表引起了幾位主要投資者的關注。"
+          }
+        },
+        {
+          "en": "The teacher called the students' attention to the diagram on the board.",
+          "highlight": [
+            "attention"
+          ],
+          "translations": {
+            "zh-TW": "老師請學生注意黑板上的圖表。"
           }
         }
       ],
       "synonyms": [
         "notice",
-        "awareness"
+        "awareness",
+        "focus"
       ],
       "antonyms": [
         "inattention",
         "disregard"
       ],
       "phrases": [
-        "pay",
-        "attention",
-        "attract",
-        "attention"
+        "pay attention",
+        "attract attention",
+        "draw attention to",
+        "stand at attention"
       ]
     },
     {
@@ -217,33 +289,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "attitude",
-          "definition": "n. 态度, 看法, 姿势, [医] 体态, 姿势, 态度"
+          "definition": "n. 態度、看法、姿勢"
         }
       ],
       "examples": [
         {
-          "en": "She has a positive attitude.",
+          "en": "A positive attitude is essential for success in any workplace.",
           "highlight": [
             "attitude"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "正向的態度在任何職場的成功都是不可或缺的。"
+          }
+        },
+        {
+          "en": "The survey showed that employees' attitudes toward remote work have changed.",
+          "highlight": [
+            "attitudes"
+          ],
+          "translations": {
+            "zh-TW": "調查顯示員工對遠端工作的態度已經改變。"
+          }
+        },
+        {
+          "en": "Her professional attitude impressed everyone during the negotiation.",
+          "highlight": [
+            "attitude"
+          ],
+          "translations": {
+            "zh-TW": "她專業的態度在談判過程中令所有人印象深刻。"
           }
         }
       ],
       "synonyms": [
-        "view",
-        "outlook"
+        "viewpoint",
+        "outlook",
+        "stance"
       ],
       "antonyms": [
-        "disinterest",
-        "indifference"
+        "indifference",
+        "apathy"
       ],
       "phrases": [
-        "positive",
-        "attitude",
-        "change",
-        "attitude"
+        "positive attitude",
+        "change attitude",
+        "bad attitude",
+        "attitude toward"
       ]
     },
     {
@@ -257,40 +348,59 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "attorneies"
+        "plural": "attorneys"
       },
-      "domain": "general",
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "attorney",
-          "definition": "n. 代理人, 律師, [經] 律師, 代理人"
+          "definition": "n. 律師、代理人、辯護律師"
         }
       ],
       "examples": [
         {
-          "en": "She consulted her attorney.",
+          "en": "The company hired an attorney to handle the patent dispute.",
           "highlight": [
             "attorney"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司聘請了一位律師來處理專利糾紛。"
+          }
+        },
+        {
+          "en": "Several attorneys from the firm attended the court hearing.",
+          "highlight": [
+            "attorneys"
+          ],
+          "translations": {
+            "zh-TW": "該律師事務所的幾位律師出席了法庭聽證會。"
+          }
+        },
+        {
+          "en": "Please consult your attorney before signing any legal documents.",
+          "highlight": [
+            "attorney"
+          ],
+          "translations": {
+            "zh-TW": "簽署任何法律文件前請先諮詢您的律師。"
           }
         }
       ],
       "synonyms": [
         "lawyer",
-        "counsel"
+        "counsel",
+        "solicitor"
       ],
       "antonyms": [
         "client",
         "defendant"
       ],
       "phrases": [
-        "defense",
-        "attorney",
-        "district",
-        "attorney"
+        "defense attorney",
+        "district attorney",
+        "power of attorney",
+        "attorney general"
       ]
     },
     {
@@ -304,43 +414,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "attracted",
+        "present_3rd": "attracts",
+        "past": "attracted",
         "past_participle": "attracted",
-        "present_participle": "attracting",
-        "third_person": "attracts"
+        "ing": "attracting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "attract",
-          "definition": "vt. 吸引, 诱惑, vi. 有吸引力"
+          "definition": "v. 吸引、引起、引誘"
         }
       ],
       "examples": [
         {
-          "en": "The festival attracts many visitors.",
+          "en": "The new shopping mall is expected to attract thousands of visitors each day.",
           "highlight": [
             "attract"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新的購物中心預計每天會吸引數千名訪客。"
+          }
+        },
+        {
+          "en": "The discount promotion attracted a large number of customers over the weekend.",
+          "highlight": [
+            "attracted"
+          ],
+          "translations": {
+            "zh-TW": "折扣促銷在週末吸引了大量顧客。"
+          }
+        },
+        {
+          "en": "The startup is attracting significant investment from venture capital firms.",
+          "highlight": [
+            "attracting"
+          ],
+          "translations": {
+            "zh-TW": "這家新創公司正吸引創投公司的大量投資。"
           }
         }
       ],
       "synonyms": [
         "draw",
-        "allure"
+        "lure",
+        "entice"
       ],
       "antonyms": [
         "repel",
         "deter"
       ],
       "phrases": [
-        "attract",
-        "attention",
-        "attract",
-        "customers"
+        "attract attention",
+        "attract customers",
+        "attract investment",
+        "attract visitors"
       ]
     },
     {
@@ -361,33 +490,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "attraction",
-          "definition": "n. 吸引, 吸引人的事物, 吸引力, [医] 吸引"
+          "definition": "n. 吸引力、吸引人的事物、景點"
         }
       ],
       "examples": [
         {
-          "en": "The main attraction at the fair was the rollercoaster.",
+          "en": "The museum is the main attraction for tourists visiting the city.",
           "highlight": [
             "attraction"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這座博物館是造訪這座城市的遊客的主要景點。"
+          }
+        },
+        {
+          "en": "The theme park offers many attractions for families with young children.",
+          "highlight": [
+            "attractions"
+          ],
+          "translations": {
+            "zh-TW": "這座主題樂園為有年幼子女的家庭提供許多遊樂設施。"
+          }
+        },
+        {
+          "en": "There is a growing attraction between the two companies for a possible merger.",
+          "highlight": [
+            "attraction"
+          ],
+          "translations": {
+            "zh-TW": "兩家公司之間對於可能的合併案出現愈來愈濃厚的興趣。"
           }
         }
       ],
       "synonyms": [
         "appeal",
-        "allure"
+        "draw",
+        "magnet"
       ],
       "antonyms": [
         "repulsion",
-        "repulsiveness"
+        "turnoff"
       ],
       "phrases": [
-        "tourist",
-        "attraction",
-        "main",
-        "attraction"
+        "tourist attraction",
+        "main attraction",
+        "fatal attraction",
+        "top attraction"
       ]
     },
     {
@@ -401,41 +549,60 @@
         "adjective"
       ],
       "conjugations": {
-        "comparative": "attractiveer",
-        "superlative": "attractiveest"
+        "comparative": "more attractive",
+        "superlative": "most attractive"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "attractive",
-          "definition": "a. 吸引人的, 有魅力的, [法] 有吸引力的, 有迷惑力的"
+          "definition": "adj. 吸引人的、有魅力的、迷人的"
         }
       ],
       "examples": [
         {
-          "en": "She is an attractive person.",
+          "en": "The company offered an attractive salary package with full benefits.",
           "highlight": [
             "attractive"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司提供了附帶完整福利的吸引人的薪水方案。"
+          }
+        },
+        {
+          "en": "Working from home has become more attractive since the pandemic.",
+          "highlight": [
+            "more attractive"
+          ],
+          "translations": {
+            "zh-TW": "自疫情爆發以來，在家工作變得更加吸引人了。"
+          }
+        },
+        {
+          "en": "That was the most attractive proposal we received from all the vendors.",
+          "highlight": [
+            "most attractive"
+          ],
+          "translations": {
+            "zh-TW": "那是我們從所有供應商中收到的最具吸引力的提案。"
           }
         }
       ],
       "synonyms": [
         "appealing",
-        "charming"
+        "charming",
+        "inviting"
       ],
       "antonyms": [
         "unattractive",
         "repellent"
       ],
       "phrases": [
-        "attractive",
-        "offer",
-        "attractive",
-        "design"
+        "attractive offer",
+        "attractive price",
+        "attractive design",
+        "attractive option"
       ]
     },
     {
@@ -456,30 +623,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "audience",
-          "definition": "n. 聽众, 观众, 读者, [法] 聽讼, 观众, 聽众"
+          "definition": "n. 聽眾、觀眾、讀者、受眾"
         }
       ],
       "examples": [
         {
-          "en": "The audience applauded.",
+          "en": "The presenter tailored her speech to suit the international audience.",
           "highlight": [
             "audience"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "演講者根據國際聽眾調整了她的演說內容。"
+          }
+        },
+        {
+          "en": "The campaign successfully reached diverse audiences across several continents.",
+          "highlight": [
+            "audiences"
+          ],
+          "translations": {
+            "zh-TW": "這項宣傳活動成功地觸及了橫跨數大洲的多元觀眾群。"
+          }
+        },
+        {
+          "en": "The online streaming platform has a global audience of millions.",
+          "highlight": [
+            "audience"
+          ],
+          "translations": {
+            "zh-TW": "這個線上串流平台擁有數百萬的全球觀眾。"
           }
         }
       ],
       "synonyms": [
         "spectators",
-        "viewers"
+        "viewers",
+        "listeners"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "performer",
+        "presenter"
+      ],
       "phrases": [
-        "target",
-        "audience",
-        "audience",
-        "participation"
+        "target audience",
+        "audience participation",
+        "captive audience",
+        "mass audience"
       ]
     }
   ]
