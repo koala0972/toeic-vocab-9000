@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 22,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-022-001",
@@ -19,17 +19,35 @@
         {
           "lang": "zh-TW",
           "lang_word": "apparently",
-          "definition": "adv. 表面上, 清楚地, 顯然地"
+          "definition": "adv. 顯然地、表面上"
         }
       ],
       "examples": [
         {
-          "en": "Apparently, it is going to rain today.",
+          "en": "Apparently, the meeting has been cancelled due to the storm.",
+          "highlight": [
+            "Apparently"
+          ],
+          "translations": {
+            "zh-TW": "顯然，因為暴風雨的關係，會議已經被取消了。"
+          }
+        },
+        {
+          "en": "The new policy was apparently designed to reduce paperwork.",
           "highlight": [
             "apparently"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這項新政策顯然是為了減少文書工作而設計的。"
+          }
+        },
+        {
+          "en": "Apparently he forgot to submit the quarterly report on time.",
+          "highlight": [
+            "Apparently"
+          ],
+          "translations": {
+            "zh-TW": "顯然他忘了準時提交季度報告。"
           }
         }
       ],
@@ -39,10 +57,8 @@
       ],
       "antonyms": [],
       "phrases": [
-        "apparently",
-        "true",
-        "apparently",
-        "due"
+        "apparently so",
+        "apparently not"
       ]
     },
     {
@@ -57,40 +73,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "appealed",
+        "plural": "appeals",
+        "present_3rd": "appeals",
+        "past": "appealed",
         "past_participle": "appealed",
-        "present_participle": "appealing",
-        "third_person": "appeals"
+        "ing": "appealing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "appeal",
-          "definition": "n. 恳求, 诉請, 上诉, 吸引力, vi. 呼吁, 诉請, 要求, 上诉, 有吸引力, vt. 将...上诉"
+          "definition": "n. 懇求、上訴、吸引力  v. 呼籲、上訴、吸引"
         }
       ],
       "examples": [
         {
-          "en": "They made an appeal for donations.",
+          "en": "The charity launched an appeal for donations after the earthquake.",
           "highlight": [
             "appeal"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "地震過後，慈善機構發起了一項捐款呼籲。"
+          }
+        },
+        {
+          "en": "The defendant appealed to a higher court to overturn the ruling.",
+          "highlight": [
+            "appealed"
+          ],
+          "translations": {
+            "zh-TW": "被告向更高層級的法院提起上訴，要求推翻原判決。"
+          }
+        },
+        {
+          "en": "The idea of working from home has broad appeal among young professionals.",
+          "highlight": [
+            "appeal"
+          ],
+          "translations": {
+            "zh-TW": "在家工作的想法對年輕的專業人士有廣泛的吸引力。"
           }
         }
       ],
       "synonyms": [
         "plea",
-        "request"
+        "request",
+        "attraction"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "repulsion"
+      ],
       "phrases": [
-        "appeal",
-        "to",
-        "appeal",
-        "for"
+        "appeal to",
+        "make an appeal",
+        "lodge an appeal",
+        "broad appeal"
       ]
     },
     {
@@ -104,43 +142,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "appeared",
+        "present_3rd": "appears",
+        "past": "appeared",
         "past_participle": "appeared",
-        "present_participle": "appearing",
-        "third_person": "appears"
+        "ing": "appearing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "appear",
-          "definition": "vi. 出现, 顯得, 來到, [法] 出庭, 到案, 出现"
+          "definition": "v. 出現、顯得、出庭"
         }
       ],
       "examples": [
         {
-          "en": "She appeared out of nowhere.",
+          "en": "The CEO will appear on live television to explain the restructure.",
           "highlight": [
             "appear"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "執行長將在電視直播上出現，解釋重組計畫。"
+          }
+        },
+        {
+          "en": "She appeared in court three times as an expert witness last year.",
+          "highlight": [
+            "appeared"
+          ],
+          "translations": {
+            "zh-TW": "她去年曾以專家證人的身分出庭三次。"
+          }
+        },
+        {
+          "en": "The technician is currently appearing before the board to present her findings.",
+          "highlight": [
+            "appearing"
+          ],
+          "translations": {
+            "zh-TW": "技術員目前正在董事會面前出席，發表她的研究發現。"
           }
         }
       ],
       "synonyms": [
+        "emerge",
         "show",
-        "emerge"
+        "seem"
       ],
       "antonyms": [
         "disappear",
         "vanish"
       ],
       "phrases": [
-        "appear",
-        "suddenly",
-        "appear",
-        "on"
+        "appear in court",
+        "appear on stage",
+        "it appears that",
+        "appear suddenly"
       ]
     },
     {
@@ -161,33 +218,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "appearance",
-          "definition": "n. 出现, 露面, 外观, 外表, 出版, [计] 外观, 版面"
+          "definition": "n. 外表、出現、露面"
         }
       ],
       "examples": [
         {
-          "en": "He takes pride in his appearance.",
+          "en": "Candidates should maintain a professional appearance for job interviews.",
           "highlight": [
             "appearance"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "求職者面試時應保持專業的外表。"
+          }
+        },
+        {
+          "en": "The manager made a brief appearance at the team farewell party.",
+          "highlight": [
+            "appearance"
+          ],
+          "translations": {
+            "zh-TW": "經理在團隊歡送會上短暫露面。"
+          }
+        },
+        {
+          "en": "Despite her quiet appearances, she is actually a very confident leader.",
+          "highlight": [
+            "appearances"
+          ],
+          "translations": {
+            "zh-TW": "儘管外表看起來安靜，她其實是一位非常有自信的領導者。"
           }
         }
       ],
       "synonyms": [
         "look",
-        "aspect"
+        "aspect",
+        "presence"
       ],
       "antonyms": [
         "disappearance",
         "absence"
       ],
       "phrases": [
-        "physical",
-        "appearance",
-        "appearance",
-        "change"
+        "physical appearance",
+        "professional appearance",
+        "make an appearance",
+        "outward appearance"
       ]
     },
     {
@@ -208,17 +284,35 @@
         {
           "lang": "zh-TW",
           "lang_word": "apple",
-          "definition": "n. 苹果, 家伙, [医] 苹果"
+          "definition": "n. 蘋果、保齡球"
         }
       ],
       "examples": [
         {
-          "en": "She ate an apple for lunch.",
+          "en": "She grabbed an apple from the office fruit bowl before the morning meeting.",
           "highlight": [
             "apple"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在早上的會議前從辦公室的水果盆裡拿了顆蘋果。"
+          }
+        },
+        {
+          "en": "These apples were grown locally without any chemical pesticides.",
+          "highlight": [
+            "apples"
+          ],
+          "translations": {
+            "zh-TW": "這些蘋果是當地種植的，全程未使用化學農藥。"
+          }
+        },
+        {
+          "en": "The company is often described as the apple of the tech industry.",
+          "highlight": [
+            "apple"
+          ],
+          "translations": {
+            "zh-TW": "這家公司常被稱為科技業的掌上明珠。"
           }
         }
       ],
@@ -227,10 +321,10 @@
       ],
       "antonyms": [],
       "phrases": [
-        "apple",
-        "tree",
-        "apple",
-        "pie"
+        "apple pie",
+        "apple tree",
+        "the apple of one's eye",
+        "Big Apple"
       ]
     },
     {
@@ -251,30 +345,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "application",
-          "definition": "n. 应用, 申請, 志愿書, 应用程序, [计] 应用, 应用程序"
+          "definition": "n. 申請、申請書、應用程式"
         }
       ],
       "examples": [
         {
-          "en": "He filled out an application for the job.",
+          "en": "Please submit your job application by the end of this week.",
           "highlight": [
             "application"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在本週結束前提交您的求職申請。"
+          }
+        },
+        {
+          "en": "The company received over five hundred applications for a single position.",
+          "highlight": [
+            "applications"
+          ],
+          "translations": {
+            "zh-TW": "公司針對單一一個職位收到了超過五百份申請。"
+          }
+        },
+        {
+          "en": "This new mobile application lets users track their shipments in real time.",
+          "highlight": [
+            "application"
+          ],
+          "translations": {
+            "zh-TW": "這款新的手機應用程式讓使用者能即時追蹤貨物。"
           }
         }
       ],
       "synonyms": [
         "request",
-        "petition"
+        "petition",
+        "submission"
       ],
       "antonyms": [],
       "phrases": [
-        "job",
-        "application",
-        "application",
-        "form"
+        "job application",
+        "application form",
+        "software application",
+        "application deadline"
       ]
     },
     {
@@ -288,40 +401,59 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "applyed",
-        "past_participle": "applyed",
-        "present_participle": "applying",
-        "third_person": "applys"
+        "present_3rd": "applies",
+        "past": "applied",
+        "past_participle": "applied",
+        "ing": "applying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "apply",
-          "definition": "vt. 涂, 应用, vi. 申請, 适用"
+          "definition": "v. 申請、應用、塗抹"
         }
       ],
       "examples": [
         {
-          "en": "You need to apply for the position.",
+          "en": "You should apply for this scholarship before the deadline on Friday.",
           "highlight": [
             "apply"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "你應該在星期五的截止日期前申請這項獎學金。"
+          }
+        },
+        {
+          "en": "She applied for a marketing position at a well-known multinational corporation.",
+          "highlight": [
+            "applied"
+          ],
+          "translations": {
+            "zh-TW": "她申請了一家知名跨國公司的行銷職位。"
+          }
+        },
+        {
+          "en": "Applying machine learning to customer data can significantly improve sales.",
+          "highlight": [
+            "Applying"
+          ],
+          "translations": {
+            "zh-TW": "將機器學習應用於客戶資料能顯著提升銷售業績。"
           }
         }
       ],
       "synonyms": [
+        "request",
         "petition",
-        "request"
+        "utilize"
       ],
       "antonyms": [],
       "phrases": [
-        "apply",
-        "for",
-        "apply",
-        "to"
+        "apply for",
+        "apply to",
+        "apply the rules",
+        "apply pressure"
       ]
     },
     {
@@ -335,44 +467,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "appointed",
+        "present_3rd": "appoints",
+        "past": "appointed",
         "past_participle": "appointed",
-        "present_participle": "appointing",
-        "third_person": "appoints"
+        "ing": "appointing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "appoint",
-          "definition": "vt. 任命, 指定, 下令, [法] 派, 派任, 任命"
+          "definition": "v. 任命、指定、指派"
         }
       ],
       "examples": [
         {
-          "en": "She was appointed as the new manager.",
+          "en": "The board will appoint a new director at next month's shareholder meeting.",
           "highlight": [
             "appoint"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "董事會將在下月的股東會上任命一位新董事。"
+          }
+        },
+        {
+          "en": "She was appointed regional manager after five years of outstanding performance.",
+          "highlight": [
+            "appointed"
+          ],
+          "translations": {
+            "zh-TW": "她在五年出色的表現之後被任命為區域經理。"
+          }
+        },
+        {
+          "en": "The CEO is currently appointing a task force to investigate the data breach.",
+          "highlight": [
+            "appointing"
+          ],
+          "translations": {
+            "zh-TW": "執行長目前正在指派一個特別小組，調查資料外洩事件。"
           }
         }
       ],
       "synonyms": [
         "assign",
-        "designate"
+        "designate",
+        "nominate"
       ],
       "antonyms": [
         "dismiss",
-        "remove"
+        "remove",
+        "discharge"
       ],
       "phrases": [
-        "appoint",
-        "a",
-        "manager",
-        "appoint",
-        "a"
+        "appoint a manager",
+        "appoint someone to",
+        "appoint a committee",
+        "appoint a successor"
       ]
     },
     {
@@ -393,34 +544,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "appointment",
-          "definition": "n. 约會, 委任的职位, 委派, [經] 任命, 派, 指定"
+          "definition": "n. 約會、預約、任命、職位"
         }
       ],
       "examples": [
         {
-          "en": "I have an appointment with the doctor.",
+          "en": "I'd like to schedule an appointment with Dr. Lee for next Monday.",
           "highlight": [
             "appointment"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我想和李醫師預約下星期一的門診。"
+          }
+        },
+        {
+          "en": "The secretary confirmed all his appointments before the business trip to Osaka.",
+          "highlight": [
+            "appointments"
+          ],
+          "translations": {
+            "zh-TW": "秘書在大阪出差前確認了他所有的預約。"
+          }
+        },
+        {
+          "en": "Her appointment as CFO was formally announced in yesterday's press release.",
+          "highlight": [
+            "appointment"
+          ],
+          "translations": {
+            "zh-TW": "她被任命為財務長一事在昨天的新聞稿中正式發布。"
           }
         }
       ],
       "synonyms": [
         "meeting",
-        "date"
+        "date",
+        "booking"
       ],
       "antonyms": [
-        "cancellation",
-        "refusal"
+        "cancellation"
       ],
       "phrases": [
-        "doctor's",
-        "appointment",
-        "set",
-        "an",
-        "appointment"
+        "make an appointment",
+        "schedule an appointment",
+        "keep an appointment",
+        "appointment letter"
       ]
     },
     {
@@ -434,43 +602,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "appreciateed",
-        "past_participle": "appreciateed",
-        "present_participle": "appreciating",
-        "third_person": "appreciates"
+        "present_3rd": "appreciates",
+        "past": "appreciated",
+        "past_participle": "appreciated",
+        "ing": "appreciating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "appreciate",
-          "definition": "vt. 赏识, 鉴别, 為...而感激, 领會, 欣赏, vi. 增值, 涨价"
+          "definition": "v. 感激、欣賞、增值"
         }
       ],
       "examples": [
         {
-          "en": "I appreciate your help.",
+          "en": "I truly appreciate the effort you put into preparing this report.",
           "highlight": [
             "appreciate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我真心感謝你為了準備這份報告所付出的心力。"
+          }
+        },
+        {
+          "en": "The client appreciated our prompt response to the urgent matter.",
+          "highlight": [
+            "appreciated"
+          ],
+          "translations": {
+            "zh-TW": "客戶對我們針對緊急事件迅速的回覆表示讚賞。"
+          }
+        },
+        {
+          "en": "Not many investors are appreciating how risky this new venture actually is.",
+          "highlight": [
+            "appreciating"
+          ],
+          "translations": {
+            "zh-TW": "沒有多少投資人意識到這項新創投資的風險其實有多大。"
           }
         }
       ],
       "synonyms": [
         "value",
-        "respect"
+        "respect",
+        "treasure"
       ],
       "antonyms": [
         "disregard",
-        "ignore"
+        "depreciate"
       ],
       "phrases": [
-        "greatly",
-        "appreciate",
-        "appreciate",
-        "fully"
+        "greatly appreciate",
+        "appreciate your help",
+        "appreciate the gesture",
+        "appreciate in value"
       ]
     }
   ]
