@@ -11,36 +11,65 @@
       "toeic_score_min": 200,
       "word": "august",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "augusts"
+        "plural": "augusts",
+        "comparative": "auguster",
+        "superlative": "augustest"
       },
-      "domain": "general",
+      "domain": "calendar",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "august",
-          "definition": "n. 八月, a. 威严的, 令人敬畏的"
+          "definition": "n. 八月  a. 威嚴的、令人敬畏的"
         }
       ],
       "examples": [
         {
-          "en": "The festival is in August.",
+          "en": "Our company retreat is scheduled for August.",
+          "highlight": [
+            "August"
+          ],
+          "translations": {
+            "zh-TW": "我們公司的 retreat 訂在八月。"
+          }
+        },
+        {
+          "en": "The project milestones were all completed across three Augusts.",
+          "highlight": [
+            "Augusts"
+          ],
+          "translations": {
+            "zh-TW": "專案各個里程碑跨越三個八月才全部完成。"
+          }
+        },
+        {
+          "en": "The prime minister delivered an august speech that silenced the chamber.",
           "highlight": [
             "august"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "首相發表了一場威嚴的演說，令全場肅靜。"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "dignified",
+        "majestic",
+        "grand"
+      ],
+      "antonyms": [
+        "undignified",
+        "informal"
+      ],
       "phrases": [
-        "early",
-        "August",
-        "mid-August"
+        "mid-August",
+        "early August",
+        "august presence",
+        "august occasion"
       ]
     },
     {
@@ -56,32 +85,55 @@
       "conjugations": {
         "plural": "aunts"
       },
-      "domain": "general",
+      "domain": "family",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "aunt",
-          "definition": "n. 阿姨, 姨媽, 舅媽, 姑媽, 伯母"
+          "definition": "n. 阿姨、姨媽、舅媽、姑媽、伯母"
         }
       ],
       "examples": [
         {
-          "en": "She visited her aunt.",
+          "en": "My aunt runs a small bakery downtown.",
           "highlight": [
             "aunt"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我阿姨在市中心開了一間小麵包店。"
+          }
+        },
+        {
+          "en": "Both of his aunts flew in for the wedding.",
+          "highlight": [
+            "aunts"
+          ],
+          "translations": {
+            "zh-TW": "他兩位阿姨都飛來參加婚禮。"
+          }
+        },
+        {
+          "en": "Aunt Helen is the one who taught me how to cook.",
+          "highlight": [
+            "Aunt"
+          ],
+          "translations": {
+            "zh-TW": "海倫阿姨就是教我烹飪的人。"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "relative",
+        "kinswoman"
+      ],
+      "antonyms": [
+        "uncle"
+      ],
       "phrases": [
-        "maternal",
-        "aunt",
-        "paternal",
-        "aunt"
+        "great aunt",
+        "maternal aunt",
+        "paternal aunt",
+        "aunt and uncle"
       ]
     },
     {
@@ -92,40 +144,66 @@
       "toeic_score_min": 200,
       "word": "author",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "authors"
+        "plural": "authors",
+        "present_3rd": "authors",
+        "past": "authored",
+        "past_participle": "authored",
+        "ing": "authoring"
       },
-      "domain": "general",
+      "domain": "literature",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "author",
-          "definition": "n. 作家, 作家的著作, 创始人, [法] 作者, 著作人, 本人"
+          "definition": "n. 作者、作家  v. 撰寫、創作"
         }
       ],
       "examples": [
         {
-          "en": "He is the author of several books.",
+          "en": "The author will sign copies of her new novel at the bookstore.",
           "highlight": [
             "author"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "作者將在書店為她的小說新書簽名。"
+          }
+        },
+        {
+          "en": "Several renowned authors contributed to the charity anthology.",
+          "highlight": [
+            "authors"
+          ],
+          "translations": {
+            "zh-TW": "幾位知名作家共同為這本慈善文集供稿。"
+          }
+        },
+        {
+          "en": "He authored a widely cited report on market trends.",
+          "highlight": [
+            "authored"
+          ],
+          "translations": {
+            "zh-TW": "他撰寫了一篇廣被引用的市場趨勢報告。"
           }
         }
       ],
       "synonyms": [
         "writer",
-        "creator"
+        "creator",
+        "composer"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "reader"
+      ],
       "phrases": [
-        "best-selling",
-        "author",
-        "famous",
-        "author"
+        "best-selling author",
+        "co-author",
+        "guest author",
+        "author a book"
       ]
     },
     {
@@ -141,38 +219,57 @@
       "conjugations": {
         "plural": "authorities"
       },
-      "domain": "general",
+      "domain": "governance",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "authority",
-          "definition": "n. 权力, 当权者, 当局, 权威, 专家, [經] 代理权, 授权, 权威"
+          "definition": "n. 權力、權威、當局、專家"
         }
       ],
       "examples": [
         {
-          "en": "She has the authority to make decisions.",
+          "en": "The manager has the authority to approve budgets up to one million.",
           "highlight": [
             "authority"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理有權核准最高一百萬的預算。"
+          }
+        },
+        {
+          "en": "Local authorities were notified within an hour of the incident.",
+          "highlight": [
+            "authorities"
+          ],
+          "translations": {
+            "zh-TW": "事件發生後一小時內即通知了地方主管機關。"
+          }
+        },
+        {
+          "en": "She is a recognized authority on international trade law.",
+          "highlight": [
+            "authority"
+          ],
+          "translations": {
+            "zh-TW": "她是國際貿易法領域公認的權威。"
           }
         }
       ],
       "synonyms": [
+        "power",
         "control",
         "command"
       ],
       "antonyms": [
         "powerlessness",
-        "weakness"
+        "subordinate"
       ],
       "phrases": [
-        "legal",
-        "authority",
-        "local",
-        "authority"
+        "local authority",
+        "legal authority",
+        "in authority",
+        "authority on"
       ]
     },
     {
@@ -186,41 +283,60 @@
         "adjective"
       ],
       "conjugations": {
-        "comparative": "automaticer",
-        "superlative": "automaticest"
+        "comparative": "more automatic",
+        "superlative": "most automatic"
       },
-      "domain": "general",
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "automatic",
-          "definition": "n. 自動手枪, 自動机械, a. 自動的, 机械的, 必然的, 无意识的"
+          "definition": "a. 自動的、機械的、無意識的"
         }
       ],
       "examples": [
         {
-          "en": "The doors are automatic.",
+          "en": "The new copier has an automatic document feeder.",
           "highlight": [
             "automatic"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新影印機配備自動進紙器。"
+          }
+        },
+        {
+          "en": "Our payment system is more automatic than the previous one.",
+          "highlight": [
+            "more automatic"
+          ],
+          "translations": {
+            "zh-TW": "我們的付款系統比舊系統更加自動化。"
+          }
+        },
+        {
+          "en": "The factory on the third line is the most automatic of all our facilities.",
+          "highlight": [
+            "most automatic"
+          ],
+          "translations": {
+            "zh-TW": "第三條生產線的廠房是我們所有設施中自動化程度最高的。"
           }
         }
       ],
       "synonyms": [
         "self-operating",
-        "mechanized"
+        "mechanized",
+        "instinctive"
       ],
       "antonyms": [
         "manual",
-        "non-automatic"
+        "deliberate"
       ],
       "phrases": [
-        "automatic",
-        "transmission",
-        "automatic",
-        "response"
+        "automatic transmission",
+        "automatic response",
+        "automatic renewal",
+        "automatic payment"
       ]
     },
     {
@@ -234,38 +350,58 @@
         "adverb"
       ],
       "conjugations": {},
-      "domain": "general",
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "automatically",
-          "definition": "adv. 自動地, 机械地"
+          "definition": "adv. 自動地、機械地、無意識地"
         }
       ],
       "examples": [
         {
-          "en": "The device shuts off automatically.",
+          "en": "The software backs up your files automatically every evening.",
           "highlight": [
             "automatically"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "軟體每天傍晚會自動備份您的檔案。"
+          }
+        },
+        {
+          "en": "Members will be automatically enrolled in the loyalty program upon purchase.",
+          "highlight": [
+            "automatically"
+          ],
+          "translations": {
+            "zh-TW": "會員購物時將自動加入 loyalty 計畫。"
+          }
+        },
+        {
+          "en": "When the alarm sounds, the doors lock automatically for security.",
+          "highlight": [
+            "automatically"
+          ],
+          "translations": {
+            "zh-TW": "警報響起時，基於安全考量門會自動上鎖。"
           }
         }
       ],
       "synonyms": [
         "involuntarily",
-        "instinctively"
+        "instinctively",
+        "spontaneously"
       ],
       "antonyms": [
         "deliberately",
-        "intentionally"
+        "intentionally",
+        "manually"
       ],
       "phrases": [
-        "work",
-        "automatically",
-        "happen",
-        "automatically"
+        "work automatically",
+        "renew automatically",
+        "update automatically",
+        "happen automatically"
       ]
     },
     {
@@ -281,22 +417,40 @@
       "conjugations": {
         "plural": "autumns"
       },
-      "domain": "general",
+      "domain": "season",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "autumn",
-          "definition": "n. 秋天, 成熟期"
+          "definition": "n. 秋天、秋季"
         }
       ],
       "examples": [
         {
-          "en": "Autumn is my favorite season.",
+          "en": "Autumn is the peak season for tourist arrivals in this region.",
+          "highlight": [
+            "Autumn"
+          ],
+          "translations": {
+            "zh-TW": "秋天是這個地區遊客到訪的高峰季。"
+          }
+        },
+        {
+          "en": "We have celebrated the festival across three autumns now.",
+          "highlight": [
+            "autumns"
+          ],
+          "translations": {
+            "zh-TW": "我們至今已跨過三個秋天來慶祝這個節慶。"
+          }
+        },
+        {
+          "en": "The autumn harvest brought record yields for the cooperative.",
           "highlight": [
             "autumn"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "秋天的收成為合作社帶來破紀錄的產量。"
           }
         }
       ],
@@ -307,10 +461,10 @@
         "spring"
       ],
       "phrases": [
-        "autumn",
-        "leaves",
-        "autumn",
-        "season"
+        "autumn leaves",
+        "autumn season",
+        "autumn harvest",
+        "late autumn"
       ]
     },
     {
@@ -324,41 +478,61 @@
         "adjective"
       ],
       "conjugations": {
-        "comparative": "availableer",
-        "superlative": "availableest"
+        "comparative": "more available",
+        "superlative": "most available"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "available",
-          "definition": "a. 可利用的, 可获得的, 有效的, [医] 有效的, 可得的"
+          "definition": "a. 可用的、可獲得的、有空的"
         }
       ],
       "examples": [
         {
-          "en": "The book is available in the library.",
+          "en": "Three meeting rooms are available for booking this afternoon.",
           "highlight": [
             "available"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "今天下午有三間會議室可供預約。"
+          }
+        },
+        {
+          "en": "Funds are more available during the fourth quarter than earlier in the year.",
+          "highlight": [
+            "more available"
+          ],
+          "translations": {
+            "zh-TW": "第四季的資金比年初更容易取得。"
+          }
+        },
+        {
+          "en": "Customer support is most available during regular business hours.",
+          "highlight": [
+            "most available"
+          ],
+          "translations": {
+            "zh-TW": "客服在正常營業時間內最為方便聯繫。"
           }
         }
       ],
       "synonyms": [
         "accessible",
-        "obtainable"
+        "obtainable",
+        "ready"
       ],
       "antonyms": [
         "unavailable",
-        "scarce"
+        "scarce",
+        "busy"
       ],
       "phrases": [
-        "make",
-        "available",
-        "available",
-        "resources"
+        "make available",
+        "available resources",
+        "available for purchase",
+        "available time"
       ]
     },
     {
@@ -370,43 +544,68 @@
       "word": "average",
       "pos": [
         "noun",
-        "adjective"
+        "adjective",
+        "verb"
       ],
       "conjugations": {
-        "plural": "averages"
+        "plural": "averages",
+        "present_3rd": "averages",
+        "past": "averaged",
+        "past_participle": "averaged",
+        "ing": "averaging"
       },
-      "domain": "general",
+      "domain": "statistics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "average",
-          "definition": "n. 平均, 平均数, 一般水平, 海损, a. 平均的, 中等的, 平常的, vt. 算出...平均数, 平均做, 均分, 使平衡, vi. 平均為, 呈中間色"
+          "definition": "n. 平均、平均數  a. 平均的、一般的  v. 平均為、算出…的平均"
         }
       ],
       "examples": [
         {
-          "en": "The average temperature in July is high.",
+          "en": "The average salary in this industry has risen sharply.",
           "highlight": [
             "average"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這個產業的平均薪資已大幅上升。"
+          }
+        },
+        {
+          "en": "Sales across the four stores average out at two hundred units per week.",
+          "highlight": [
+            "average"
+          ],
+          "translations": {
+            "zh-TW": "四家店的銷量平均為每週兩百件。"
+          }
+        },
+        {
+          "en": "Our team averaged over three million in revenue last year.",
+          "highlight": [
+            "averaged"
+          ],
+          "translations": {
+            "zh-TW": "我們團隊去年的營收平均超過三百萬。"
           }
         }
       ],
       "synonyms": [
         "mean",
-        "median"
+        "median",
+        "ordinary"
       ],
       "antonyms": [
         "extreme",
-        "exceptional"
+        "exceptional",
+        "unusual"
       ],
       "phrases": [
-        "average",
-        "cost",
-        "average",
-        "person"
+        "on average",
+        "average cost",
+        "average person",
+        "above average"
       ]
     },
     {
@@ -420,43 +619,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "avoided",
+        "present_3rd": "avoids",
+        "past": "avoided",
         "past_participle": "avoided",
-        "present_participle": "avoiding",
-        "third_person": "avoids"
+        "ing": "avoiding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "avoid",
-          "definition": "vt. 避免, 防止, 撤消, [法] 避免, 回避, 躲开"
+          "definition": "v. 避免、迴避、躲開"
         }
       ],
       "examples": [
         {
-          "en": "He tried to avoid the obstacle.",
+          "en": "Please avoid sending confidential files via personal email.",
           "highlight": [
             "avoid"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請避免透過個人電子郵件寄送機密檔案。"
+          }
+        },
+        {
+          "en": "He avoided the meeting by claiming a last-minute emergency.",
+          "highlight": [
+            "avoided"
+          ],
+          "translations": {
+            "zh-TW": "他以臨時有緊急狀況為由避開了會議。"
+          }
+        },
+        {
+          "en": "By avoiding peak hours, commuters save nearly an hour each day.",
+          "highlight": [
+            "avoiding"
+          ],
+          "translations": {
+            "zh-TW": "避開尖峰時段讓通勤族每天節省近一小時。"
           }
         }
       ],
       "synonyms": [
         "evade",
-        "dodge"
+        "dodge",
+        "shun"
       ],
       "antonyms": [
         "confront",
-        "face"
+        "face",
+        "encounter"
       ],
       "phrases": [
-        "avoid",
-        "conflict",
-        "avoid",
-        "danger"
+        "avoid conflict",
+        "avoid danger",
+        "avoid traffic",
+        "avoid mistakes"
       ]
     }
   ]
