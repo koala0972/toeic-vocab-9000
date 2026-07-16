@@ -66,11 +66,11 @@ export default function LevelPage() {
     });
   }, []);
 
-  // 記錄關卡進度 (寫進 IndexedDB)
+  // 記錄關卡進度 (寫進 IndexedDB；1-based，最高 idx+1=10 代表完成)
   useEffect(() => {
     const lv = data?.level;
-    if (!lv || idx <= 0) return;
-    void setLevelProgress(lv, idx);
+    if (!lv || idx < 0) return;
+    void setLevelProgress(lv, idx + 1);
   }, [idx, data?.level]);
 
   const persistLang = (l: LevelPageLang) => {
