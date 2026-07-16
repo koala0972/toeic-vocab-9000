@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 44,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-044-001",
@@ -15,41 +15,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "bridgeed",
-        "past_participle": "bridgeed",
-        "present_participle": "bridging",
-        "third_person": "bridges"
+        "plural": "bridges",
+        "present_3rd": "bridges",
+        "past": "bridged",
+        "past_participle": "bridged",
+        "ing": "bridging"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bridge",
-          "definition": "n. 桥, 舰桥, 桥梁, 桥牌, vt. 架桥于, 跨越, [计] 桥, 网桥, 桥接器"
+          "definition": "n. 橋樑、橋、橋樑連接  v. 跨越、架橋、彌合（分歧）"
         }
       ],
       "examples": [
         {
-          "en": "They walked across the bridge.",
+          "en": "The new bridge connects the island to the mainland and shortens the commute by twenty minutes.",
           "highlight": [
             "bridge"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這座新橋將小島與大陸連接起來，把通勤時間縮短了二十分鐘。"
+          }
+        },
+        {
+          "en": "The manager bridged the gap between two departments by holding weekly joint meetings.",
+          "highlight": [
+            "bridged"
+          ],
+          "translations": {
+            "zh-TW": "經理每週舉行聯合會議，彌合了兩個部門之間的隔閡。"
+          }
+        },
+        {
+          "en": "Engineers are bridging the river with a temporary steel structure during repairs.",
+          "highlight": [
+            "bridging"
+          ],
+          "translations": {
+            "zh-TW": "在維修期間，工程師正以臨時鋼結構架橋跨越這條河。"
           }
         }
       ],
       "synonyms": [
         "span",
-        "overpass"
+        "overpass",
+        "link"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "gap",
+        "divide"
+      ],
       "phrases": [
-        "cross",
-        "the",
-        "bridge",
-        "build",
-        "a"
+        "bridge the gap",
+        "cross the bridge",
+        "build a bridge"
       ]
     },
     {
@@ -65,43 +86,64 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "briefed",
+        "plural": "briefs",
+        "present_3rd": "briefs",
+        "past": "briefed",
         "past_participle": "briefed",
-        "present_participle": "briefing",
-        "third_person": "briefs"
+        "ing": "briefing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "brief",
-          "definition": "n. 摘要, 简报, a. 简短的, 短暂的, vt. 對...作简报, 摘要, 节录"
+          "definition": "adj. 簡短的、扼要的  n. 摘要、簡報  v. 向…作簡報"
         }
       ],
       "examples": [
         {
-          "en": "He gave a brief summary of the report.",
+          "en": "Please keep your presentation brief so we have time for questions.",
           "highlight": [
             "brief"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請將簡報保持簡短，以便我們有時間提問。"
+          }
+        },
+        {
+          "en": "The legal team briefed the client on the risks before the contract was signed.",
+          "highlight": [
+            "briefed"
+          ],
+          "translations": {
+            "zh-TW": "在簽約之前，法務團隊已向客戶簡報過相關風險。"
+          }
+        },
+        {
+          "en": "She is briefing the marketing staff on the new product launch schedule.",
+          "highlight": [
+            "briefing"
+          ],
+          "translations": {
+            "zh-TW": "她正向行銷人員簡報新產品的上市時程。"
           }
         }
       ],
       "synonyms": [
         "short",
-        "concise"
+        "concise",
+        "succinct"
       ],
       "antonyms": [
         "long",
-        "extended"
+        "extended",
+        "lengthy"
       ],
       "phrases": [
-        "brief",
-        "moment",
-        "brief",
-        "discussion"
+        "brief moment",
+        "brief discussion",
+        "legal brief",
+        "in brief"
       ]
     },
     {
@@ -120,32 +162,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "briefly",
-          "definition": "adv. 简短地, 扼要地, 简明地, 简单地"
+          "definition": "adv. 簡短地、扼要地"
         }
       ],
       "examples": [
         {
-          "en": "She spoke briefly about the topic.",
+          "en": "The CEO briefly outlined the company's strategy during the morning meeting.",
           "highlight": [
             "briefly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "執行長在晨會中扼要地概述了公司的策略。"
+          }
+        },
+        {
+          "en": "I spoke briefly with the supplier about the delivery delay this afternoon.",
+          "highlight": [
+            "briefly"
+          ],
+          "translations": {
+            "zh-TW": "今天下午我簡短地與供應商談了延遲交貨的事。"
+          }
+        },
+        {
+          "en": "The applicant briefly mentioned her previous experience in finance before the interview moved on.",
+          "highlight": [
+            "briefly"
+          ],
+          "translations": {
+            "zh-TW": "面試繼續前，應徵者簡短提及了她過去在金融業的經驗。"
           }
         }
       ],
       "synonyms": [
         "shortly",
-        "quickly"
+        "concisely",
+        "succinctly"
       ],
       "antonyms": [
-        "lengthily"
+        "lengthily",
+        "extensively"
       ],
       "phrases": [
-        "explain",
-        "briefly",
-        "mentioned",
-        "briefly"
+        "explain briefly",
+        "mention briefly",
+        "speak briefly"
       ]
     },
     {
@@ -167,33 +228,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "bright",
-          "definition": "a. 明亮的, 聪明的, 鲜明的, 歡快的, adv. 明亮地, 歡快地"
+          "definition": "adj. 明亮的、聰明伶俐的、鮮明的、前景光明的"
         }
       ],
       "examples": [
         {
-          "en": "The sun is very bright today.",
+          "en": "The showroom has bright lighting to make the products stand out.",
           "highlight": [
             "bright"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "展間採用明亮的照明，讓產品更為顯眼。"
+          }
+        },
+        {
+          "en": "The LED panels are brighter than the old bulbs and save more electricity.",
+          "highlight": [
+            "brighter"
+          ],
+          "translations": {
+            "zh-TW": "這些 LED 面板比舊燈泡更亮，也更省電。"
+          }
+        },
+        {
+          "en": "She is the brightest engineer in the team and always solves problems quickly.",
+          "highlight": [
+            "brightest"
+          ],
+          "translations": {
+            "zh-TW": "她是團隊中最聰明的工程師，總能迅速解決問題。"
           }
         }
       ],
       "synonyms": [
+        "luminous",
         "shining",
-        "luminous"
+        "clever"
       ],
       "antonyms": [
         "dim",
-        "dull"
+        "dull",
+        "dark"
       ],
       "phrases": [
-        "bright",
-        "light",
-        "bright",
-        "color"
+        "bright light",
+        "bright color",
+        "bright future",
+        "bright idea"
       ]
     },
     {
@@ -212,33 +293,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "brightly",
-          "definition": "adv. 生辉地, 明亮地, 鲜明地"
+          "definition": "adv. 明亮地、鮮明地"
         }
       ],
       "examples": [
         {
-          "en": "The stars shone brightly.",
+          "en": "The storefront is brightly decorated during the holiday season to attract shoppers.",
           "highlight": [
             "brightly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "假期期間店面裝飾得明亮繽紛，以吸引顧客。"
+          }
+        },
+        {
+          "en": "The stars shone brightly over the open-air concert venue.",
+          "highlight": [
+            "brightly"
+          ],
+          "translations": {
+            "zh-TW": "在露天音樂會會場上方，星星閃耀得十分明亮。"
+          }
+        },
+        {
+          "en": "The reporter's byline was brightly highlighted on the front page of the morning paper.",
+          "highlight": [
+            "brightly"
+          ],
+          "translations": {
+            "zh-TW": "晨報頭版上記者的署名被醒目地標示出來。"
           }
         }
       ],
       "synonyms": [
         "vividly",
-        "clearly"
+        "clearly",
+        "radiantly"
       ],
       "antonyms": [
         "dimly",
         "dully"
       ],
       "phrases": [
-        "shine",
-        "brightly",
-        "brightly",
-        "lit"
+        "shine brightly",
+        "brightly lit",
+        "brightly colored"
       ]
     },
     {
@@ -253,6 +352,8 @@
         "noun"
       ],
       "conjugations": {
+        "comparative": "more brilliant",
+        "superlative": "most brilliant",
         "plural": "brilliants"
       },
       "domain": "general",
@@ -260,33 +361,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "brilliant",
-          "definition": "a. 光辉的, 灿烂的, 有才气的, [机] 亮的"
+          "definition": "adj. 才華洋溢的、卓越的、明亮的  n. 鑽石"
         }
       ],
       "examples": [
         {
-          "en": "She gave a brilliant performance.",
+          "en": "The merger was a brilliant move that doubled the company's market share.",
           "highlight": [
             "brilliant"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這項併購是一次高明的策略，讓公司市佔率增加了一倍。"
+          }
+        },
+        {
+          "en": "Her proposal was more brilliant than the other entries and won the innovation award.",
+          "highlight": [
+            "more brilliant"
+          ],
+          "translations": {
+            "zh-TW": "她的提案比其他參賽作品更為出色，因而獲得了創新獎。"
+          }
+        },
+        {
+          "en": "He is regarded as the most brilliant analyst the firm has ever hired.",
+          "highlight": [
+            "most brilliant"
+          ],
+          "translations": {
+            "zh-TW": "他被認為是公司有史以來聘僱過最傑出的分析師。"
           }
         }
       ],
       "synonyms": [
         "exceptional",
-        "outstanding"
+        "outstanding",
+        "genius"
       ],
       "antonyms": [
         "dull",
-        "ordinary"
+        "ordinary",
+        "mediocre"
       ],
       "phrases": [
-        "brilliant",
-        "idea",
-        "brilliant",
-        "mind"
+        "brilliant idea",
+        "brilliant mind",
+        "brilliant career"
       ]
     },
     {
@@ -297,48 +417,65 @@
       "toeic_score_min": 200,
       "word": "bring",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "bringed",
-        "past_participle": "bringed",
-        "present_participle": "bringing",
-        "third_person": "brings"
+        "present_3rd": "brings",
+        "past": "brought",
+        "past_participle": "brought",
+        "ing": "bringing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bring",
-          "definition": "vt. 帶來, 产生, 促使, 提出, vi. 生产"
+          "definition": "v. 帶來、引起、促使"
         }
       ],
       "examples": [
         {
-          "en": "Can you bring me a glass of water?",
+          "en": "Please bring the quarterly report to the board meeting tomorrow.",
           "highlight": [
             "bring"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請明天將季度報告帶到董事會議。"
+          }
+        },
+        {
+          "en": "The new policy brought several unexpected challenges to the sales team.",
+          "highlight": [
+            "brought"
+          ],
+          "translations": {
+            "zh-TW": "新政策為業務團隊帶來了幾項意想不到的挑戰。"
+          }
+        },
+        {
+          "en": "He has brought a fresh perspective to the project since joining last month.",
+          "highlight": [
+            "brought"
+          ],
+          "translations": {
+            "zh-TW": "自上個月加入以來，他為專案帶來了全新的觀點。"
           }
         }
       ],
       "synonyms": [
         "carry",
-        "deliver"
+        "deliver",
+        "fetch"
       ],
       "antonyms": [
         "take",
-        "away",
         "remove"
       ],
       "phrases": [
-        "bring",
-        "to",
-        "bring",
-        "along"
+        "bring to",
+        "bring along",
+        "bring about",
+        "bring up"
       ]
     },
     {
@@ -349,11 +486,11 @@
       "toeic_score_min": 200,
       "word": "broad",
       "pos": [
-        "adjective",
-        "noun",
-        "adverb"
+        "adjective"
       ],
       "conjugations": {
+        "comparative": "broader",
+        "superlative": "broadest",
         "plural": "broads"
       },
       "domain": "general",
@@ -361,33 +498,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "broad",
-          "definition": "a. 宽广的, 辽阔的, 广大的, 顯著的, adv. 宽阔地, n. 宽阔部分"
+          "definition": "adj. 寬廣的、遼闊的、概括的"
         }
       ],
       "examples": [
         {
-          "en": "The road is very broad.",
+          "en": "The agency offers a broad range of consulting services for international clients.",
           "highlight": [
             "broad"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家顧問公司為國際客戶提供廣泛的諮詢服務。"
+          }
+        },
+        {
+          "en": "Our product line is broader than last year after the new releases.",
+          "highlight": [
+            "broader"
+          ],
+          "translations": {
+            "zh-TW": "在新品上市之後，我們的產品線比去年更為廣泛。"
+          }
+        },
+        {
+          "en": "The report covers the broadest market segment available in the region.",
+          "highlight": [
+            "broadest"
+          ],
+          "translations": {
+            "zh-TW": "這份報告涵蓋該區域範圍最廣的市場區隔。"
           }
         }
       ],
       "synonyms": [
         "wide",
-        "extensive"
+        "extensive",
+        "comprehensive"
       ],
       "antonyms": [
         "narrow",
-        "limited"
+        "limited",
+        "restricted"
       ],
       "phrases": [
-        "broad",
-        "shoulders",
-        "broad",
-        "agreement"
+        "broad shoulders",
+        "broad agreement",
+        "broad range",
+        "broadly speaking"
       ]
     },
     {
@@ -402,42 +559,61 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "broadcasted",
-        "past_participle": "broadcasted",
-        "present_participle": "broadcasting",
-        "third_person": "broadcasts"
+        "plural": "broadcasts",
+        "present_3rd": "broadcasts",
+        "past": "broadcast",
+        "past_participle": "broadcast",
+        "ing": "broadcasting"
       },
-      "domain": "general",
+      "domain": "media",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "broadcast",
-          "definition": "n. 广播, 传播, a. 广播的, v. 广播, adv. 經广播, 四散地, [计] 广播命令, 广播"
+          "definition": "n. 廣播、節目  v. 廣播、播送"
         }
       ],
       "examples": [
         {
-          "en": "The news was broadcast at 7 PM.",
+          "en": "The network will broadcast the press conference live to viewers in over thirty countries.",
           "highlight": [
             "broadcast"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "該電視網將向超過三十個國家的觀眾實況轉播這場記者會。"
+          }
+        },
+        {
+          "en": "The station broadcast the emergency weather warning throughout the afternoon.",
+          "highlight": [
+            "broadcast"
+          ],
+          "translations": {
+            "zh-TW": "電台整個下午都在播放緊急的天氣警報。"
+          }
+        },
+        {
+          "en": "The production crew is broadcasting the awards ceremony via satellite this evening.",
+          "highlight": [
+            "broadcasting"
+          ],
+          "translations": {
+            "zh-TW": "製作團隊今晚正透過衛星轉播頒獎典禮。"
           }
         }
       ],
       "synonyms": [
         "transmit",
-        "air"
+        "air",
+        "televise"
       ],
       "antonyms": [
         "receive"
       ],
       "phrases": [
-        "broadcast",
-        "live",
-        "broadcast",
-        "news"
+        "broadcast live",
+        "broadcast news",
+        "radio broadcast"
       ]
     },
     {
@@ -456,32 +632,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "broadly",
-          "definition": "adv. 宽广地, 明白地, 无礼貌地"
+          "definition": "adv. 概括地、廣泛地、大致上"
         }
       ],
       "examples": [
         {
-          "en": "Broadly speaking, the plan is a good one.",
+          "en": "Broadly speaking, our strategy focuses on two key markets in Asia.",
           "highlight": [
             "broadly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "概括來說，我們的策略聚焦於亞洲兩個主要市場。"
+          }
+        },
+        {
+          "en": "The findings can broadly be applied to similar industries across Europe.",
+          "highlight": [
+            "broadly"
+          ],
+          "translations": {
+            "zh-TW": "研究結果可大致套用於歐洲類似的產業。"
+          }
+        },
+        {
+          "en": "Investors broadly welcomed the new tax policy and pushed share prices higher.",
+          "highlight": [
+            "broadly"
+          ],
+          "translations": {
+            "zh-TW": "投資人普遍歡迎新的稅改政策，並推升股價上揚。"
           }
         }
       ],
       "synonyms": [
         "generally",
-        "mostly"
+        "mostly",
+        "widely"
       ],
       "antonyms": [
-        "narrowly"
+        "narrowly",
+        "specifically"
       ],
       "phrases": [
-        "broadly",
-        "speaking",
-        "broadly",
-        "defined"
+        "broadly speaking",
+        "broadly defined",
+        "broadly applicable"
       ]
     }
   ]
