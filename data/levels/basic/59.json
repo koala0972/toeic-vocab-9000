@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 59,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-059-001",
@@ -19,33 +19,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "clearly",
-          "definition": "adv. 清楚地"
+          "definition": "adv. 清楚地、明確地、顯然地"
         }
       ],
       "examples": [
         {
-          "en": "She spoke clearly into the microphone.",
+          "en": "Please speak clearly so everyone in the meeting room can hear you.",
           "highlight": [
             "clearly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請清楚地發言，好讓會議室裡的每個人都能聽見你。"
+          }
+        },
+        {
+          "en": "The instructions were written clearly on the first page of the manual.",
+          "highlight": [
+            "clearly"
+          ],
+          "translations": {
+            "zh-TW": "使用手冊的第一頁就清楚地寫著操作說明。"
+          }
+        },
+        {
+          "en": "The report clearly shows that sales have increased this quarter.",
+          "highlight": [
+            "clearly"
+          ],
+          "translations": {
+            "zh-TW": "這份報告清楚顯示本季的銷售量已經成長。"
           }
         }
       ],
       "synonyms": [
         "plainly",
-        "distinctly"
+        "distinctly",
+        "obviously"
       ],
       "antonyms": [
         "unclearly",
-        "vaguely"
+        "vaguely",
+        "ambiguously"
       ],
       "phrases": [
-        "speak",
-        "clearly",
-        "see",
-        "clearly"
+        "speak clearly",
+        "see clearly",
+        "clearly stated",
+        "make it clear"
       ]
     },
     {
@@ -60,41 +80,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "clerked",
+        "plural": "clerks",
+        "present_3rd": "clerks",
+        "past": "clerked",
         "past_participle": "clerked",
-        "present_participle": "clerking",
-        "third_person": "clerks"
+        "ing": "clerking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "clerk",
-          "definition": "n. 办事員, 职員, 文書, vi. 当店員"
+          "definition": "n. 辦事員、職員、店員  v. 擔任辦事員、當店員"
         }
       ],
       "examples": [
         {
-          "en": "He works as a clerk at the bank.",
+          "en": "The front desk clerk greeted every guest with a warm smile.",
           "highlight": [
             "clerk"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "前台辦事員用溫暖的微笑迎接每一位訪客。"
+          }
+        },
+        {
+          "en": "The sales clerks helped the customers find the right size.",
+          "highlight": [
+            "clerks"
+          ],
+          "translations": {
+            "zh-TW": "幾位售貨店員協助顧客找到適合的尺寸。"
+          }
+        },
+        {
+          "en": "He clerked for a senior judge before opening his own law firm.",
+          "highlight": [
+            "clerked"
+          ],
+          "translations": {
+            "zh-TW": "他在開設自己的律師事務所之前，曾擔任資深法官的書記員。"
           }
         }
       ],
       "synonyms": [
-        "office",
-        "worker",
-        "administrator"
+        "office worker",
+        "assistant",
+        "receptionist"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "executive",
+        "manager"
+      ],
       "phrases": [
-        "office",
-        "clerk",
-        "sales",
-        "clerk"
+        "front desk clerk",
+        "sales clerk",
+        "file clerk",
+        "clerk of court"
       ]
     },
     {
@@ -105,44 +147,64 @@
       "toeic_score_min": 200,
       "word": "clever",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "clevers"
+        "comparative": "cleverer",
+        "superlative": "cleverest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "clever",
-          "definition": "a. 聪明的, 精明的"
+          "definition": "adj. 聰明的、機靈的、精巧的"
         }
       ],
       "examples": [
         {
-          "en": "She is very clever and always has good ideas.",
+          "en": "She is a clever negotiator who always gets the best deal for her company.",
           "highlight": [
             "clever"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她是位聰明的談判專家，總是能為公司爭取到最有利的條件。"
+          }
+        },
+        {
+          "en": "The cleverer student finished the exam ten minutes early.",
+          "highlight": [
+            "cleverer"
+          ],
+          "translations": {
+            "zh-TW": "那位較聰明的學生早了十分鐘答完考卷。"
+          }
+        },
+        {
+          "en": "That was the cleverest marketing strategy our team has ever designed.",
+          "highlight": [
+            "cleverest"
+          ],
+          "translations": {
+            "zh-TW": "那是我們團隊設計過最精巧的行銷策略。"
           }
         }
       ],
       "synonyms": [
         "intelligent",
-        "smart"
+        "smart",
+        "bright"
       ],
       "antonyms": [
         "dull",
-        "foolish"
+        "foolish",
+        "stupid"
       ],
       "phrases": [
-        "clever",
-        "idea",
-        "clever",
-        "solution"
+        "clever idea",
+        "clever solution",
+        "clever move",
+        "too clever"
       ]
     },
     {
@@ -157,40 +219,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "clicked",
+        "plural": "clicks",
+        "present_3rd": "clicks",
+        "past": "clicked",
         "past_participle": "clicked",
-        "present_participle": "clicking",
-        "third_person": "clicks"
+        "ing": "clicking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "click",
-          "definition": "n. 咔哒声, 啪嗒声, vi. 作咔哒声, vt. 使發咔哒声, [计] 单击"
+          "definition": "n. 單擊、點擊聲  v. 點擊、按一下"
         }
       ],
       "examples": [
         {
-          "en": "He clicked the mouse to open the file.",
+          "en": "Please click the link in the email to confirm your registration.",
           "highlight": [
             "click"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請點擊電子郵件中的連結以確認您的註冊。"
+          }
+        },
+        {
+          "en": "She clicked on the wrong button and deleted the entire spreadsheet.",
+          "highlight": [
+            "clicked"
+          ],
+          "translations": {
+            "zh-TW": "她點錯了按鈕，把整份試算表都刪掉了。"
+          }
+        },
+        {
+          "en": "The website tracks how many users are clicking the advertisement each day.",
+          "highlight": [
+            "clicking"
+          ],
+          "translations": {
+            "zh-TW": "這個網站每天追蹤有多少使用者正在點擊該廣告。"
           }
         }
       ],
       "synonyms": [
         "press",
-        "hit"
+        "tap",
+        "select"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "unclick",
+        "deselect"
+      ],
       "phrases": [
-        "double",
-        "click",
-        "right",
-        "click"
+        "click here",
+        "double click",
+        "right click",
+        "click rate"
       ]
     },
     {
@@ -211,33 +296,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "client",
-          "definition": "n. 客户, 顾客, 委托人, [计] 客户, 客户机, 客户机程序"
+          "definition": "n. 客戶、委託人、主顧"
         }
       ],
       "examples": [
         {
-          "en": "The lawyer met with her client.",
+          "en": "The lawyer scheduled a meeting with her client for Friday afternoon.",
           "highlight": [
             "client"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "律師把與委託人的會面安排在週五下午。"
+          }
+        },
+        {
+          "en": "Our company serves more than five hundred clients worldwide.",
+          "highlight": [
+            "clients"
+          ],
+          "translations": {
+            "zh-TW": "我們公司服務全球超過五百位客戶。"
+          }
+        },
+        {
+          "en": "A loyal client is worth more than ten occasional buyers.",
+          "highlight": [
+            "client"
+          ],
+          "translations": {
+            "zh-TW": "一位忠實客戶的價值勝過十個偶爾消費的買家。"
           }
         }
       ],
       "synonyms": [
         "customer",
-        "patron"
+        "patron",
+        "account"
       ],
       "antonyms": [
         "provider",
-        "professional"
+        "vendor",
+        "supplier"
       ],
       "phrases": [
-        "potential",
-        "client",
-        "loyal",
-        "client"
+        "loyal client",
+        "potential client",
+        "client base",
+        "key client"
       ]
     },
     {
@@ -248,45 +353,59 @@
       "toeic_score_min": 200,
       "word": "climate",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "climateed",
-        "past_participle": "climateed",
-        "present_participle": "climating",
-        "third_person": "climates"
+        "plural": "climates"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "climate",
-          "definition": "n. 气候, 社會趋势, 气候區, [医] 气候"
+          "definition": "n. 氣候、氛圍、風氣"
         }
       ],
       "examples": [
         {
-          "en": "The climate in this region is very dry.",
+          "en": "The tropical climate in southern Taiwan attracts many tourists every winter.",
           "highlight": [
             "climate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "台灣南部的熱帶氣候每年冬天吸引許多遊客。"
+          }
+        },
+        {
+          "en": "Different climates around the world support very different kinds of agriculture.",
+          "highlight": [
+            "climates"
+          ],
+          "translations": {
+            "zh-TW": "世界各地不同的氣候孕育出截然不同的農業樣貌。"
+          }
+        },
+        {
+          "en": "Many companies are trying to reduce emissions to fight climate change.",
+          "highlight": [
+            "climate"
+          ],
+          "translations": {
+            "zh-TW": "許多公司正努力減少排放，以對抗氣候變遷。"
           }
         }
       ],
       "synonyms": [
         "weather",
-        "weather",
-        "conditions"
+        "conditions",
+        "atmosphere"
       ],
       "antonyms": [],
       "phrases": [
-        "tropical",
-        "climate",
-        "changing",
-        "climate"
+        "tropical climate",
+        "climate change",
+        "business climate",
+        "global climate"
       ]
     },
     {
@@ -301,44 +420,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "climbed",
+        "plural": "climbs",
+        "present_3rd": "climbs",
+        "past": "climbed",
         "past_participle": "climbed",
-        "present_participle": "climbing",
-        "third_person": "climbs"
+        "ing": "climbing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "climb",
-          "definition": "v. 攀登, 上升, 爬, n. 攀登, 爬升"
+          "definition": "v. 攀登、爬升、上升  n. 攀登、攀升"
         }
       ],
       "examples": [
         {
-          "en": "They climbed the mountain.",
+          "en": "The hikers plan to climb Mount Jade early tomorrow morning.",
           "highlight": [
             "climb"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "登山客計畫明天清晨攀登玉山。"
+          }
+        },
+        {
+          "en": "Share prices climbed sharply after the company announced strong earnings.",
+          "highlight": [
+            "climbed"
+          ],
+          "translations": {
+            "zh-TW": "公司公布亮麗的財報後，股價急劇攀升。"
+          }
+        },
+        {
+          "en": "Climbing the corporate ladder takes patience, skill, and a bit of luck.",
+          "highlight": [
+            "climbing"
+          ],
+          "translations": {
+            "zh-TW": "在企業階層裡向上攀升需要耐心、技巧，再加上一點運氣。"
           }
         }
       ],
       "synonyms": [
         "ascend",
-        "scale"
+        "scale",
+        "mount"
       ],
       "antonyms": [
         "descend",
+        "drop",
         "fall"
       ],
       "phrases": [
-        "climb",
-        "a",
-        "mountain",
-        "climb",
-        "stairs"
+        "climb a mountain",
+        "climb the ladder",
+        "steep climb",
+        "climb stairs"
       ]
     },
     {
@@ -352,39 +491,58 @@
         "noun",
         "adjective"
       ],
-      "conjugations": {
-        "plural": "climbings"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "climbing",
-          "definition": "a. 攀缘而登的, 上升的, n. 攀登"
+          "definition": "n. 攀岩、攀登  adj. 攀爬用的、上升的"
         }
       ],
       "examples": [
         {
-          "en": "He enjoys rock climbing.",
+          "en": "Rock climbing has become a popular weekend sport among young office workers.",
           "highlight": [
             "climbing"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "攀岩已成為年輕上班族之間熱門的週末運動。"
+          }
+        },
+        {
+          "en": "Her climbing skills improved remarkably after three months of training.",
+          "highlight": [
+            "climbing"
+          ],
+          "translations": {
+            "zh-TW": "經過三個月的訓練，她的攀岩技巧明顯進步了。"
+          }
+        },
+        {
+          "en": "The local gym offers indoor climbing walls for beginners and advanced climbers alike.",
+          "highlight": [
+            "climbing"
+          ],
+          "translations": {
+            "zh-TW": "這間本地健身房為初學者和進階攀岩者提供室內攀岩牆。"
           }
         }
       ],
       "synonyms": [
         "mountaineering",
-        "rock",
-        "climbing"
+        "scaling",
+        "ascension"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "descending",
+        "falling"
+      ],
       "phrases": [
-        "climbing",
-        "gear",
-        "climbing",
-        "wall"
+        "rock climbing",
+        "climbing wall",
+        "climbing gear",
+        "indoor climbing"
       ]
     },
     {
@@ -399,40 +557,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "clocked",
+        "plural": "clocks",
+        "present_3rd": "clocks",
+        "past": "clocked",
         "past_participle": "clocked",
-        "present_participle": "clocking",
-        "third_person": "clocks"
+        "ing": "clocking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "clock",
-          "definition": "n. 時钟, 计時器, (袜子上的)绣花边花, vt. 绣花樣, 記時, 記录, vi. 記录時間, [计] 時钟"
+          "definition": "n. 時鐘、計時器  v. 計時、記錄時間"
         }
       ],
       "examples": [
         {
-          "en": "The clock on the wall showed 3 PM.",
+          "en": "There is a large clock hanging above the main entrance of the station.",
           "highlight": [
             "clock"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "車站正門上方掛著一座大型時鐘。"
+          }
+        },
+        {
+          "en": "The delivery driver clocked out at exactly six in the evening.",
+          "highlight": [
+            "clocked"
+          ],
+          "translations": {
+            "zh-TW": "送貨司機在傍晚六點整打卡下班。"
+          }
+        },
+        {
+          "en": "The new runner is clocking faster lap times than anyone else on the team.",
+          "highlight": [
+            "clocking"
+          ],
+          "translations": {
+            "zh-TW": "這位新跑者記錄到的單圈時間比隊上任何人都快。"
           }
         }
       ],
       "synonyms": [
         "timepiece",
-        "timer"
+        "timer",
+        "stopwatch"
       ],
       "antonyms": [],
       "phrases": [
-        "alarm",
-        "clock",
-        "wall",
-        "clock"
+        "alarm clock",
+        "clock in",
+        "clock out",
+        "wall clock"
       ]
     },
     {
@@ -445,41 +623,59 @@
       "pos": [
         "adjective"
       ],
-      "conjugations": {
-        "comparative": "closeder",
-        "superlative": "closedest"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "closed",
-          "definition": "a. 關闭的, 限于少数人的, [计] 關闭指令"
+          "definition": "adj. 關閉的、不營業的、封閉的"
         }
       ],
       "examples": [
         {
-          "en": "The shop is closed on Sundays.",
+          "en": "The branch office is closed on national holidays.",
           "highlight": [
             "closed"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "分公司在國定假日不營業。"
+          }
+        },
+        {
+          "en": "All the shops on this street were closed during the typhoon.",
+          "highlight": [
+            "closed"
+          ],
+          "translations": {
+            "zh-TW": "颱風期間這條街上所有的商店都拉下鐵門關閉了。"
+          }
+        },
+        {
+          "en": "The board held a closed meeting to discuss the merger in private.",
+          "highlight": [
+            "closed"
+          ],
+          "translations": {
+            "zh-TW": "董事會召開了閉門會議，以私下討論合併案。"
           }
         }
       ],
       "synonyms": [
         "shut",
-        "locked"
+        "locked",
+        "not operating"
       ],
       "antonyms": [
-        "open"
+        "open",
+        "available",
+        "operating"
       ],
       "phrases": [
-        "closed",
-        "door",
-        "closed",
-        "shop"
+        "closed shop",
+        "closed meeting",
+        "closed door",
+        "closed for holiday"
       ]
     }
   ]
