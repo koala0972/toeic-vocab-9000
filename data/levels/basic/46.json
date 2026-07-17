@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 46,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-046-001",
@@ -15,44 +15,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "burned",
+        "plural": "burns",
+        "present_3rd": "burns",
+        "past": "burned",
         "past_participle": "burned",
-        "present_participle": "burning",
-        "third_person": "burns"
+        "ing": "burning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "burn",
-          "definition": "vt. 烧, 烧毁, 烧伤, vi. 燃烧, 發热, 烧毁, n. 烧伤, 烙印"
+          "definition": "v. 燃燒、燒毀、燒傷  n. 燒傷、烙印"
         }
       ],
       "examples": [
         {
-          "en": "The fire burned all night.",
+          "en": "The factory burned down before the fire trucks arrived.",
           "highlight": [
-            "burn"
+            "burned"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "消防車抵達之前，工廠就燒毀了。"
+          }
+        },
+        {
+          "en": "Her cheek was burned by the hot steam from the kettle.",
+          "highlight": [
+            "burned"
+          ],
+          "translations": {
+            "zh-TW": "她的臉頰被水壺冒出的熱蒸氣燙傷了。"
+          }
+        },
+        {
+          "en": "The burning candle filled the room with a soft vanilla scent.",
+          "highlight": [
+            "burning"
+          ],
+          "translations": {
+            "zh-TW": "燃燒中的蠟燭讓房間充滿了柔和的香草氣味。"
           }
         }
       ],
       "synonyms": [
         "ignite",
-        "flame"
+        "scorch",
+        "combust"
       ],
       "antonyms": [
         "extinguish",
         "quench"
       ],
       "phrases": [
-        "burn",
-        "a",
-        "candle",
-        "burn",
-        "bright"
+        "burn down",
+        "burn out",
+        "burn the midnight oil",
+        "get burned"
       ]
     },
     {
@@ -63,43 +82,64 @@
       "toeic_score_min": 200,
       "word": "burnt",
       "pos": [
-        "adjective"
+        "adjective",
+        "verb"
       ],
       "conjugations": {
-        "comparative": "burnter",
-        "superlative": "burntest"
+        "past": "burnt",
+        "past_participle": "burnt"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "burnt",
-          "definition": "burn的過去式和過去分词"
+          "definition": "adj. 燒焦的、燒壞的  v. burn 的過去式與過去分詞"
         }
       ],
       "examples": [
         {
-          "en": "The toast is burnt.",
+          "en": "The cook threw away the burnt toast and started again.",
           "highlight": [
             "burnt"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "廚師把燒焦的吐司丟掉，重新做了一份。"
+          }
+        },
+        {
+          "en": "He burnt his hand on the hot oven door while checking the cake.",
+          "highlight": [
+            "burnt"
+          ],
+          "translations": {
+            "zh-TW": "他在查看蛋糕時，手被燙熱的烤箱門燙到了。"
+          }
+        },
+        {
+          "en": "The burnt orange paint on the wall made the office feel warmer.",
+          "highlight": [
+            "burnt"
+          ],
+          "translations": {
+            "zh-TW": "牆上焦橙色的油漆讓辦公室感覺更溫暖。"
           }
         }
       ],
       "synonyms": [
         "scorched",
-        "charred"
+        "charred",
+        "seared"
       ],
       "antonyms": [
-        "unburnt"
+        "unburnt",
+        "raw"
       ],
       "phrases": [
-        "burnt",
-        "toast",
-        "burnt",
-        "food"
+        "burnt toast",
+        "burnt orange",
+        "burnt sienna",
+        "get burnt"
       ]
     },
     {
@@ -114,41 +154,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "bursted",
-        "past_participle": "bursted",
-        "present_participle": "bursting",
-        "third_person": "bursts"
+        "plural": "bursts",
+        "present_3rd": "bursts",
+        "past": "burst",
+        "past_participle": "burst",
+        "ing": "bursting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "burst",
-          "definition": "n. 破裂, 突發, 爆發, v. 爆裂, 突發, 充满, [计] 二进制位组; 字符组; 脉冲串"
+          "definition": "v. 爆裂、突然發作  n. 爆裂、突發"
         }
       ],
       "examples": [
         {
-          "en": "The balloon burst.",
+          "en": "The water pipe burst and flooded the basement of the office building.",
           "highlight": [
             "burst"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "水管破裂，淹沒了辦公大樓的地下室。"
+          }
+        },
+        {
+          "en": "When she heard the good news, she burst into tears of joy.",
+          "highlight": [
+            "burst"
+          ],
+          "translations": {
+            "zh-TW": "聽到好消息時，她喜極而泣，淚水奪眶而出。"
+          }
+        },
+        {
+          "en": "A sudden burst of laughter came from the meeting room next door.",
+          "highlight": [
+            "burst"
+          ],
+          "translations": {
+            "zh-TW": "隔壁會議室突然傳來一陣大笑聲。"
           }
         }
       ],
       "synonyms": [
         "explode",
-        "rupture"
+        "rupture",
+        "erupt"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "close",
+        "seal"
+      ],
       "phrases": [
-        "burst",
-        "into",
-        "flames",
-        "burst",
-        "of"
+        "burst into tears",
+        "burst out laughing",
+        "burst into flames",
+        "a burst of"
       ]
     },
     {
@@ -159,48 +221,66 @@
       "toeic_score_min": 200,
       "word": "bury",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "buryed",
-        "past_participle": "buryed",
-        "present_participle": "burying",
-        "third_person": "burys"
+        "present_3rd": "buries",
+        "past": "buried",
+        "past_participle": "buried",
+        "ing": "burying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bury",
-          "definition": "vt. 埋葬, 埋藏"
+          "definition": "v. 埋葬、埋藏、把…埋入"
         }
       ],
       "examples": [
         {
-          "en": "They buried the treasure.",
+          "en": "The villagers buried their ancestors on the hillside behind the temple.",
+          "highlight": [
+            "buried"
+          ],
+          "translations": {
+            "zh-TW": "村民把祖先安葬在寺廟後方的山坡上。"
+          }
+        },
+        {
+          "en": "Don't bury your feelings; talk to someone you trust.",
           "highlight": [
             "bury"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "別把情緒埋在心裡，去找個你信任的人聊聊。"
+          }
+        },
+        {
+          "en": "She is always burying herself in work to avoid thinking about the divorce.",
+          "highlight": [
+            "burying"
+          ],
+          "translations": {
+            "zh-TW": "她總是埋首於工作，以避免去想離婚的事。"
           }
         }
       ],
       "synonyms": [
         "entomb",
-        "hide"
+        "inter",
+        "conceal"
       ],
       "antonyms": [
-        "unbury",
-        "exhume"
+        "exhume",
+        "uncover",
+        "dig up"
       ],
       "phrases": [
-        "bury",
-        "a",
-        "bone",
-        "bury",
-        "the"
+        "bury the hatchet",
+        "bury oneself in work",
+        "bury one's head in the sand",
+        "dead and buried"
       ]
     },
     {
@@ -215,44 +295,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "bused",
+        "plural": "buses",
+        "present_3rd": "buses",
+        "past": "bused",
         "past_participle": "bused",
-        "present_participle": "busing",
-        "third_person": "buses"
+        "ing": "busing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bus",
-          "definition": "n. 公共汽車, [计] 总线; 汇流条; 母线"
+          "definition": "n. 公共汽車、巴士  v. 用巴士接送、（餐廳）收拾餐桌"
         }
       ],
       "examples": [
         {
-          "en": "We took the bus to school.",
+          "en": "Sorry I'm late — I missed the 8 o'clock bus this morning.",
           "highlight": [
             "bus"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "抱歉我遲到了，今天早上我沒趕上八點那班公車。"
+          }
+        },
+        {
+          "en": "Several buses were delayed because of the heavy snowstorm in the city center.",
+          "highlight": [
+            "buses"
+          ],
+          "translations": {
+            "zh-TW": "因為市中心下了大暴雪，好幾輛公車都誤點了。"
+          }
+        },
+        {
+          "en": "The restaurant staff bused the dirty dishes to the kitchen between shifts.",
+          "highlight": [
+            "bused"
+          ],
+          "translations": {
+            "zh-TW": "餐廳員工在輪班之間把髒碗盤收拾到廚房去。"
           }
         }
       ],
       "synonyms": [
         "coach",
-        "transport"
+        "transit",
+        "shuttle"
       ],
-      "antonyms": [
-        "car",
-        "bike"
-      ],
+      "antonyms": [],
       "phrases": [
-        "catch",
-        "the",
-        "bus",
-        "bus",
-        "stop"
+        "catch the bus",
+        "miss the bus",
+        "bus stop",
+        "bus driver"
       ]
     },
     {
@@ -263,48 +359,59 @@
       "toeic_score_min": 200,
       "word": "bush",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "bushed",
-        "past_participle": "bushed",
-        "present_participle": "bushing",
-        "third_person": "bushs"
+        "plural": "bushes"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bush",
-          "definition": "n. 矮树丛, [化] 管衬"
+          "definition": "n. 灌木、矮樹叢"
         }
       ],
       "examples": [
         {
-          "en": "They hid behind a bush.",
+          "en": "A little rabbit hid behind the bush near the parking lot.",
           "highlight": [
             "bush"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "一隻小兔子躲在停車場旁邊的灌木叢後面。"
+          }
+        },
+        {
+          "en": "The gardener trimmed the bushes along the entrance to the hotel.",
+          "highlight": [
+            "bushes"
+          ],
+          "translations": {
+            "zh-TW": "園丁修剪了飯店入口兩旁的灌木。"
+          }
+        },
+        {
+          "en": "Around here, people still prefer to beat about the bush instead of speaking plainly.",
+          "highlight": [
+            "bush"
+          ],
+          "translations": {
+            "zh-TW": "在這裡，人們講話還是喜歡拐彎抹角，而不肯直說。"
           }
         }
       ],
       "synonyms": [
         "shrub",
-        "plant"
+        "thicket",
+        "undergrowth"
       ],
-      "antonyms": [
-        "tree",
-        "grass"
-      ],
+      "antonyms": [],
       "phrases": [
-        "hide",
-        "in",
-        "the",
-        "bush",
-        "thick"
+        "beat around the bush",
+        "bush fire",
+        "out in the bush",
+        "bushy eyebrows"
       ]
     },
     {
@@ -315,47 +422,62 @@
       "toeic_score_min": 200,
       "word": "business",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "businessed",
-        "past_participle": "businessed",
-        "present_participle": "businessing",
-        "third_person": "businesses"
+        "plural": "businesses"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "business",
-          "definition": "n. 生意, 事情, 业务, 商业, 商行, 职责, [經] 企业, 商业, 营业"
+          "definition": "n. 商業、生意、企業、事務"
         }
       ],
       "examples": [
         {
-          "en": "She runs her own business.",
+          "en": "Our family has been in the restaurant business for three generations.",
           "highlight": [
             "business"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們家做餐飲生意已經三代了。"
+          }
+        },
+        {
+          "en": "Many small businesses closed during the economic downturn last year.",
+          "highlight": [
+            "businesses"
+          ],
+          "translations": {
+            "zh-TW": "去年經濟不景氣時，許多小型企業倒閉了。"
+          }
+        },
+        {
+          "en": "It's none of your business how much I spend on clothes each month.",
+          "highlight": [
+            "business"
+          ],
+          "translations": {
+            "zh-TW": "我每個月花多少錢買衣服，不關你的事。"
           }
         }
       ],
       "synonyms": [
-        "work",
-        "trade"
+        "trade",
+        "enterprise",
+        "commerce"
       ],
       "antonyms": [
         "leisure",
         "idleness"
       ],
       "phrases": [
-        "small",
-        "business",
-        "business",
-        "plan"
+        "small business",
+        "business plan",
+        "mind your own business",
+        "out of business"
       ]
     },
     {
@@ -369,37 +491,56 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "businessmans"
+        "plural": "businessmen"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "businessman",
-          "definition": "n. 商人, 實业家, 工商业家"
+          "definition": "n. 商人、企業家"
         }
       ],
       "examples": [
         {
-          "en": "He is a successful businessman.",
+          "en": "The young businessman opened his first store when he was just twenty-five.",
           "highlight": [
             "businessman"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位年輕的商人二十五歲就開了第一家店。"
+          }
+        },
+        {
+          "en": "Several businessmen from Japan attended the trade fair in Taipei last week.",
+          "highlight": [
+            "businessmen"
+          ],
+          "translations": {
+            "zh-TW": "上週有幾位來自日本的商人參加了台北的貿易展。"
+          }
+        },
+        {
+          "en": "As a successful businessman, he often gives lectures to university students.",
+          "highlight": [
+            "businessman"
+          ],
+          "translations": {
+            "zh-TW": "身為成功的企業家，他經常到大學演講。"
           }
         }
       ],
       "synonyms": [
         "entrepreneur",
-        "executive"
+        "executive",
+        "merchant"
       ],
       "antonyms": [],
       "phrases": [
-        "successful",
-        "businessman",
-        "young",
-        "businessman"
+        "successful businessman",
+        "business trip",
+        "business suit",
+        "shrewd businessman"
       ]
     },
     {
@@ -414,43 +555,65 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "busyed",
-        "past_participle": "busyed",
-        "present_participle": "busying",
-        "third_person": "busys"
+        "comparative": "busier",
+        "superlative": "busiest",
+        "present_3rd": "busies",
+        "past": "busied",
+        "past_participle": "busied",
+        "ing": "busying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "busy",
-          "definition": "a. 忙碌的, 热闹的, 没空的, vt. 使忙, vi. 忙碌, [计] 忙; 忙碌"
+          "definition": "adj. 忙碌的、熱鬧的、（電話）占線的  v. 使忙碌"
         }
       ],
       "examples": [
         {
-          "en": "She is always busy with work.",
+          "en": "Sorry, the line is busy — could you call back in five minutes?",
           "highlight": [
             "busy"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "抱歉，電話佔線中，能不能五分鐘後再打來？"
+          }
+        },
+        {
+          "en": "December is the busiest month for retailers and online shops.",
+          "highlight": [
+            "busiest"
+          ],
+          "translations": {
+            "zh-TW": "十二月是零售商和網路商店最忙碌的月份。"
+          }
+        },
+        {
+          "en": "I don't want to busy myself with things that don't really matter.",
+          "highlight": [
+            "busy"
+          ],
+          "translations": {
+            "zh-TW": "我不想把時間忙在那些根本不重要的事上。"
           }
         }
       ],
       "synonyms": [
         "occupied",
-        "engaged"
+        "engaged",
+        "hectic"
       ],
       "antonyms": [
         "idle",
-        "inactive"
+        "free",
+        "relaxed"
       ],
       "phrases": [
-        "busy",
-        "day",
-        "busy",
-        "schedule"
+        "busy day",
+        "busy schedule",
+        "busy signal",
+        "busy oneself with"
       ]
     },
     {
@@ -462,7 +625,8 @@
       "word": "but",
       "pos": [
         "conjunction",
-        "preposition"
+        "preposition",
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
@@ -470,32 +634,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "but",
-          "definition": "prep. 除了, conj. 但是, adv. 仅仅"
+          "definition": "conj. 但是、然而  prep. 除了  adv. 只有、僅僅"
         }
       ],
       "examples": [
         {
-          "en": "I want to go, but I can't.",
+          "en": "I wanted to attend the meeting, but I had to finish the report first.",
           "highlight": [
             "but"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我本來想參加會議，但我得先把報告寫完。"
+          }
+        },
+        {
+          "en": "No one but the manager knows the password to the safe.",
+          "highlight": [
+            "but"
+          ],
+          "translations": {
+            "zh-TW": "除了經理之外，沒有人知道保險箱的密碼。"
+          }
+        },
+        {
+          "en": "We can but wait and see how the new policy affects sales next quarter.",
+          "highlight": [
+            "but"
+          ],
+          "translations": {
+            "zh-TW": "我們也只能靜觀新政策下季對銷售的影響了。"
           }
         }
       ],
       "synonyms": [
         "however",
-        "yet"
+        "yet",
+        "except"
       ],
       "antonyms": [
         "and"
       ],
       "phrases": [
-        "but",
-        "still",
-        "but",
-        "then"
+        "not only... but also",
+        "but for",
+        "but then",
+        "cannot but"
       ]
     }
   ]
