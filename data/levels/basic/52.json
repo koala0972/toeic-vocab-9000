@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 52,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-052-001",
@@ -14,37 +14,55 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "cds"
+        "plural": "CDs"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cd",
-          "definition": "n. 镭射碟, 镭射唱片, [计] 光盘, 压缩盘, 载波检测, DOS内部命令:顯示或改变当前目录"
+          "definition": "n. 光碟、鐳射唱片（compact disc 的縮寫）"
         }
       ],
       "examples": [
         {
-          "en": "I bought a new music CD.",
+          "en": "I bought a new CD to listen to in the car.",
           "highlight": [
-            "cd"
+            "CD"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我買了一張新光碟，要在車上聽。"
+          }
+        },
+        {
+          "en": "All my old CDs are stored in a box in the attic.",
+          "highlight": [
+            "CDs"
+          ],
+          "translations": {
+            "zh-TW": "我所有的舊光碟都收在閣樓的一個箱子裡。"
+          }
+        },
+        {
+          "en": "The shop still sells CDs for customers who prefer physical copies.",
+          "highlight": [
+            "CDs"
+          ],
+          "translations": {
+            "zh-TW": "這家店仍然販售光碟，給偏好實體唱片的顧客。"
           }
         }
       ],
       "synonyms": [
-        "compact",
-        "disc"
+        "compact disc",
+        "album",
+        "recording"
       ],
       "antonyms": [],
       "phrases": [
-        "music",
-        "CD",
-        "CD",
-        "player"
+        "music CD",
+        "CD player",
+        "burn a CD"
       ]
     },
     {
@@ -59,42 +77,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "ceaseed",
-        "past_participle": "ceaseed",
-        "present_participle": "ceasing",
-        "third_person": "ceases"
+        "present_3rd": "ceases",
+        "past": "ceased",
+        "past_participle": "ceased",
+        "ing": "ceasing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cease",
-          "definition": "n. 停止, v. 停止, 终了"
+          "definition": "v. 停止、終止  n. 停止"
         }
       ],
       "examples": [
         {
-          "en": "The hostilities had ceased.",
+          "en": "The company will cease production of the old model next month.",
           "highlight": [
             "cease"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司下個月將停止舊款機型的生產。"
+          }
+        },
+        {
+          "en": "The rain ceased shortly after midnight.",
+          "highlight": [
+            "ceased"
+          ],
+          "translations": {
+            "zh-TW": "雨在午夜過後不久就停了。"
+          }
+        },
+        {
+          "en": "The factory is ceasing operations due to financial losses.",
+          "highlight": [
+            "ceasing"
+          ],
+          "translations": {
+            "zh-TW": "由於財務虧損，工廠正在停止營運。"
           }
         }
       ],
       "synonyms": [
+        "stop",
         "halt",
-        "stop"
+        "end"
       ],
       "antonyms": [
         "begin",
-        "start"
+        "start",
+        "continue"
       ],
       "phrases": [
-        "ceasefire",
-        "cease",
-        "operations"
+        "cease fire",
+        "cease operations",
+        "cease and desist",
+        "without cease"
       ]
     },
     {
@@ -105,46 +144,61 @@
       "toeic_score_min": 200,
       "word": "ceiling",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "ceilinged",
-        "past_participle": "ceilinged",
-        "present_participle": "ceilinging",
-        "third_person": "ceilings"
+        "plural": "ceilings"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "ceiling",
-          "definition": "n. 天花板, [經] 顶點, 顶线, 上限"
+          "definition": "n. 天花板、上限、最高限度"
         }
       ],
       "examples": [
         {
-          "en": "The ceiling was painted white.",
+          "en": "The ceiling of the office was painted bright white.",
           "highlight": [
             "ceiling"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "辦公室的天花板被漆成亮白色。"
+          }
+        },
+        {
+          "en": "Many old houses have beautifully decorated ceilings in the living rooms.",
+          "highlight": [
+            "ceilings"
+          ],
+          "translations": {
+            "zh-TW": "許多老房子的客廳有著裝飾精美的天花板。"
+          }
+        },
+        {
+          "en": "The government set a price ceiling on basic food items during the crisis.",
+          "highlight": [
+            "ceiling"
+          ],
+          "translations": {
+            "zh-TW": "在危機期間，政府對基本食品設定了價格上限。"
           }
         }
       ],
       "synonyms": [
+        "upper limit",
         "roof",
-        "overhead"
+        "cap"
       ],
       "antonyms": [
         "floor"
       ],
       "phrases": [
-        "high",
-        "ceiling",
-        "ceiling",
-        "fan"
+        "ceiling fan",
+        "ceiling light",
+        "price ceiling",
+        "glass ceiling"
       ]
     },
     {
@@ -158,44 +212,61 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "celebrateed",
-        "past_participle": "celebrateed",
-        "present_participle": "celebrating",
-        "third_person": "celebrates"
+        "present_3rd": "celebrates",
+        "past": "celebrated",
+        "past_participle": "celebrated",
+        "ing": "celebrating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "celebrate",
-          "definition": "v. 庆祝, 祝贺, 举行"
+          "definition": "v. 慶祝、舉行慶祝活動"
         }
       ],
       "examples": [
         {
-          "en": "We will celebrate her birthday tomorrow.",
+          "en": "We will celebrate her promotion with a dinner this Friday.",
           "highlight": [
             "celebrate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們這星期五將以晚餐慶祝她的升遷。"
+          }
+        },
+        {
+          "en": "The whole family celebrated the new year at a hotel abroad.",
+          "highlight": [
+            "celebrated"
+          ],
+          "translations": {
+            "zh-TW": "全家人在國外的飯店慶祝了新年。"
+          }
+        },
+        {
+          "en": "The team is celebrating their first major contract win.",
+          "highlight": [
+            "celebrating"
+          ],
+          "translations": {
+            "zh-TW": "團隊正在慶祝贏得第一份重大合約。"
           }
         }
       ],
       "synonyms": [
         "commemorate",
-        "observe"
+        "observe",
+        "honour"
       ],
       "antonyms": [
         "ignore",
-        "disregard"
+        "neglect"
       ],
       "phrases": [
-        "celebrate",
-        "a",
-        "birthday",
-        "celebrate",
-        "an"
+        "celebrate a birthday",
+        "celebrate success",
+        "celebrate an anniversary"
       ]
     },
     {
@@ -216,30 +287,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "celebration",
-          "definition": "n. 庆祝, 庆典"
+          "definition": "n. 慶祝、慶典、慶祝活動"
         }
       ],
       "examples": [
         {
-          "en": "The celebration lasted all night.",
+          "en": "The celebration was held in the main hall of the hotel.",
           "highlight": [
             "celebration"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "慶祝活動在飯店的大廳舉行。"
+          }
+        },
+        {
+          "en": "Annual celebrations for the company's founding attract many employees.",
+          "highlight": [
+            "celebrations"
+          ],
+          "translations": {
+            "zh-TW": "公司成立的年度慶典吸引了許多員工參加。"
+          }
+        },
+        {
+          "en": "The city's New Year celebrations usually last for a whole week.",
+          "highlight": [
+            "celebrations"
+          ],
+          "translations": {
+            "zh-TW": "這座城市的新年慶祝活動通常持續整整一週。"
           }
         }
       ],
       "synonyms": [
         "festivity",
-        "party"
+        "party",
+        "ceremony"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "mourning"
+      ],
       "phrases": [
-        "grand",
-        "celebration",
-        "celebration",
-        "event"
+        "grand celebration",
+        "in celebration of",
+        "hold a celebration"
       ]
     },
     {
@@ -250,46 +341,59 @@
       "toeic_score_min": 200,
       "word": "cell",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "celled",
-        "past_participle": "celled",
-        "present_participle": "celling",
-        "third_person": "cells"
+        "plural": "cells"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cell",
-          "definition": "n. 单元, 细胞, 电池, [计] 单元"
+          "definition": "n. 細胞、牢房、電池、小隔間"
         }
       ],
       "examples": [
         {
-          "en": "A cell is the basic building block of life.",
+          "en": "Each cell in the spreadsheet contains a customer's order number.",
           "highlight": [
             "cell"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "試算表中的每一個儲存格都包含一個客戶的訂單編號。"
+          }
+        },
+        {
+          "en": "The suspect was locked in a cell at the local police station.",
+          "highlight": [
+            "cell"
+          ],
+          "translations": {
+            "zh-TW": "嫌疑犯被關在當地警察局的牢房裡。"
+          }
+        },
+        {
+          "en": "Prisoners in separate cells could not communicate with each other.",
+          "highlight": [
+            "cells"
+          ],
+          "translations": {
+            "zh-TW": "在個別牢房裡的囚犯無法彼此溝通。"
           }
         }
       ],
       "synonyms": [
         "unit",
-        "structure"
+        "chamber",
+        "compartment"
       ],
-      "antonyms": [
-        "organism"
-      ],
+      "antonyms": [],
       "phrases": [
-        "nerve",
-        "cell",
-        "cell",
-        "division"
+        "prison cell",
+        "stem cell",
+        "cell phone",
+        "solar cell"
       ]
     },
     {
@@ -300,45 +404,60 @@
       "toeic_score_min": 200,
       "word": "cent",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "cented",
-        "past_participle": "cented",
-        "present_participle": "centing",
-        "third_person": "cents"
+        "plural": "cents"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cent",
-          "definition": "n. 分, [經] 美分"
+          "definition": "n. 分（貨幣單位，一元的百分之一）"
         }
       ],
       "examples": [
         {
-          "en": "The candy costs fifty cents.",
+          "en": "The postage stamp costs only one cent in some countries.",
           "highlight": [
             "cent"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在某些國家，郵票只花一分錢。"
+          }
+        },
+        {
+          "en": "The machine returned fifty cents to the unsatisfied customer.",
+          "highlight": [
+            "cents"
+          ],
+          "translations": {
+            "zh-TW": "機器退了五十分錢給不滿意的顧客。"
+          }
+        },
+        {
+          "en": "He saved every cent he earned for a year to buy a bicycle.",
+          "highlight": [
+            "cent"
+          ],
+          "translations": {
+            "zh-TW": "他把一年賺的每一分錢都存下來，用來買一輛腳踏車。"
           }
         }
       ],
       "synonyms": [
-        "penny"
+        "penny",
+        "centime"
       ],
       "antonyms": [
         "dollar"
       ],
       "phrases": [
-        "one",
-        "cent",
-        "fifty",
-        "cents"
+        "every cent",
+        "worth every cent",
+        "two cents",
+        "per cent"
       ]
     },
     {
@@ -359,31 +478,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "centimetre",
-          "definition": "n. 厘米, 公分"
+          "definition": "n. 公分、厘米（長度單位，一米的百分之一）"
         }
       ],
       "examples": [
         {
-          "en": "The length of the table is 150 centimetres.",
+          "en": "The length of the board is exactly one centimetre shorter than required.",
           "highlight": [
             "centimetre"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這塊板的長度比規定少了整整一公分。"
+          }
+        },
+        {
+          "en": "Cracks of a few centimetres appeared in the wall after the earthquake.",
+          "highlight": [
+            "centimetres"
+          ],
+          "translations": {
+            "zh-TW": "地震後牆壁出現了幾公分長的裂縫。"
+          }
+        },
+        {
+          "en": "These flower stems can grow up to fifty centimetres tall in good conditions.",
+          "highlight": [
+            "centimetres"
+          ],
+          "translations": {
+            "zh-TW": "在良好的環境下，這些花莖可以長到五十公分高。"
           }
         }
       ],
       "synonyms": [
-        "cm"
+        "cm",
+        "centimeter"
       ],
       "antonyms": [
-        "meter"
+        "metre",
+        "kilometre"
       ],
       "phrases": [
-        "ten",
-        "centimetres",
-        "two",
-        "centimetres"
+        "square centimetre",
+        "a few centimetres",
+        "measure in centimetres"
       ]
     },
     {
@@ -398,40 +536,61 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "centrals"
+        "comparative": "more central",
+        "superlative": "most central"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "central",
-          "definition": "a. 中央的, 重要的, [医] 中央的, 中心的, 中枢的"
+          "definition": "adj. 中心的、中央的、主要的  n. 總部、總機"
         }
       ],
       "examples": [
         {
-          "en": "The central part of the city is very busy.",
+          "en": "The central office is responsible for approving all overseas shipments.",
           "highlight": [
             "central"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "中央辦公室負責核准所有海外出貨。"
+          }
+        },
+        {
+          "en": "Booking a more central hotel made getting to meetings much easier.",
+          "highlight": [
+            "more central"
+          ],
+          "translations": {
+            "zh-TW": "訂了一家更位於市中心的飯店，讓前往開會方便多了。"
+          }
+        },
+        {
+          "en": "The most central location of the three branches is the one nearest the station.",
+          "highlight": [
+            "most central"
+          ],
+          "translations": {
+            "zh-TW": "三個分店中最位於市中心的是離車站最近的那一家。"
           }
         }
       ],
       "synonyms": [
         "middle",
-        "main"
+        "main",
+        "core"
       ],
       "antonyms": [
         "peripheral",
-        "outer"
+        "outer",
+        "marginal"
       ],
       "phrases": [
-        "central",
-        "area",
-        "central",
-        "location"
+        "central office",
+        "central heating",
+        "central location",
+        "central role"
       ]
     },
     {
@@ -446,43 +605,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "centreed",
-        "past_participle": "centreed",
-        "present_participle": "centring",
-        "third_person": "centres"
+        "present_3rd": "centres",
+        "past": "centred",
+        "past_participle": "centred",
+        "ing": "centring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "centre",
-          "definition": "n. 中心, 中心點, 中锋, a. 中央的, 位在正中的, vt. 集中, 定中心, vi. 居中"
+          "definition": "n. 中心、中央  v. 把…放在中央、集中"
         }
       ],
       "examples": [
         {
-          "en": "The fountain is in the centre of the square.",
+          "en": "The new shopping centre will open near the train station next spring.",
           "highlight": [
             "centre"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新的購物中心明年春天將在火車站附近開幕。"
+          }
+        },
+        {
+          "en": "The discussion centred on ways to reduce costs without cutting staff.",
+          "highlight": [
+            "centred"
+          ],
+          "translations": {
+            "zh-TW": "討論集中在如何在不裁員的情況下降低成本。"
+          }
+        },
+        {
+          "en": "The manager is centring the display table directly under the main light.",
+          "highlight": [
+            "centring"
+          ],
+          "translations": {
+            "zh-TW": "經理正在把展示桌擺放在主燈正下方。"
           }
         }
       ],
       "synonyms": [
         "middle",
-        "hub"
+        "hub",
+        "core"
       ],
       "antonyms": [
         "edge",
         "periphery"
       ],
       "phrases": [
-        "city",
-        "centre",
-        "centre",
-        "point"
+        "city centre",
+        "shopping centre",
+        "centre of attention",
+        "centre on"
       ]
     }
   ]
