@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 63,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-063-001",
@@ -15,44 +15,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "commanded",
+        "plural": "commands",
+        "present_3rd": "commands",
+        "past": "commanded",
         "past_participle": "commanded",
-        "present_participle": "commanding",
-        "third_person": "commands"
+        "ing": "commanding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "command",
-          "definition": "n. 命令, 指挥, 控制, 部队, 司令部, v. 命令, 指挥, 控制, [计] 命令; 指令; DOS外部命令:启動新的命令處理器"
+          "definition": "n. 命令、指揮、控制  v. 命令、指揮、掌控"
         }
       ],
       "examples": [
         {
-          "en": "The officer commanded the troops.",
+          "en": "The general commanded the army to advance at dawn.",
           "highlight": [
-            "command"
+            "commanded"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "將軍命令軍隊在黎明時分前進。"
+          }
+        },
+        {
+          "en": "She commands respect from everyone in the boardroom.",
+          "highlight": [
+            "commands"
+          ],
+          "translations": {
+            "zh-TW": "她在會議室裡贏得所有人的敬重。"
+          }
+        },
+        {
+          "en": "The officer is commanding the rescue operation from headquarters.",
+          "highlight": [
+            "commanding"
+          ],
+          "translations": {
+            "zh-TW": "軍官正在總部指揮救援行動。"
           }
         }
       ],
       "synonyms": [
         "order",
-        "direct"
+        "direct",
+        "instruct"
       ],
       "antonyms": [
         "obey",
         "follow"
       ],
       "phrases": [
-        "command",
-        "attention",
-        "command",
-        "the",
-        "troops"
+        "command respect",
+        "command the troops",
+        "under command",
+        "chain of command"
       ]
     },
     {
@@ -67,44 +86,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "commented",
+        "plural": "comments",
+        "present_3rd": "comments",
+        "past": "commented",
         "past_participle": "commented",
-        "present_participle": "commenting",
-        "third_person": "comments"
+        "ing": "commenting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "comment",
-          "definition": "n. 注解, 批评, 评论, 备注, vi. 评论, 注解, [计] 备注"
+          "definition": "n. 評論、意見、註解  v. 評論、發表意見"
         }
       ],
       "examples": [
         {
-          "en": "She made a comment about the film.",
+          "en": "The manager commented on the proposal during the meeting.",
           "highlight": [
-            "comment"
+            "commented"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理在會議中對提案發表了評論。"
+          }
+        },
+        {
+          "en": "Several customers left positive comments on the website.",
+          "highlight": [
+            "comments"
+          ],
+          "translations": {
+            "zh-TW": "幾位顧客在網站上留下了正面的評論。"
+          }
+        },
+        {
+          "en": "The spokesperson is commenting on the new policy right now.",
+          "highlight": [
+            "commenting"
+          ],
+          "translations": {
+            "zh-TW": "發言人現在正在評論新政策。"
           }
         }
       ],
       "synonyms": [
         "remark",
-        "statement"
+        "statement",
+        "observation"
       ],
       "antonyms": [
         "silence",
         "ignore"
       ],
       "phrases": [
-        "make",
-        "a",
-        "comment",
-        "comment",
-        "on"
+        "make a comment",
+        "comment on",
+        "no comment",
+        "leave a comment"
       ]
     },
     {
@@ -126,22 +164,41 @@
         {
           "lang": "zh-TW",
           "lang_word": "commercial",
-          "definition": "a. 商业的, 商用的, 商品化的, n. 商业广告节目"
+          "definition": "adj. 商業的、商用的、營利的  n. 商業廣告"
         }
       ],
       "examples": [
         {
-          "en": "They made a commercial decision.",
+          "en": "The new product was a huge commercial success.",
           "highlight": [
             "commercial"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這款新產品在商業上取得了巨大成功。"
+          }
+        },
+        {
+          "en": "Several commercials aired during the Super Bowl broadcast.",
+          "highlight": [
+            "commercials"
+          ],
+          "translations": {
+            "zh-TW": "超級盃轉播期間播放了幾支商業廣告。"
+          }
+        },
+        {
+          "en": "Commercial flights to Asia have increased this year.",
+          "highlight": [
+            "Commercial"
+          ],
+          "translations": {
+            "zh-TW": "今年飛往亞洲的商業航班增加了。"
           }
         }
       ],
       "synonyms": [
         "profit-making",
+        "business",
         "trade"
       ],
       "antonyms": [
@@ -149,10 +206,10 @@
         "nonprofit"
       ],
       "phrases": [
-        "commercial",
-        "success",
-        "commercial",
-        "break"
+        "commercial success",
+        "commercial break",
+        "commercial vehicle",
+        "commercial use"
       ]
     },
     {
@@ -167,40 +224,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "commissioned",
+        "plural": "commissions",
+        "present_3rd": "commissions",
+        "past": "commissioned",
         "past_participle": "commissioned",
-        "present_participle": "commissioning",
-        "third_person": "commissions"
+        "ing": "commissioning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "commission",
-          "definition": "n. 委任状, 任官令, 所委职责, 佣金, 犯, 委托, 所托之事, vt. 委任, 委托制作, 使服役"
+          "definition": "n. 佣金、委員會、委託、委任狀  v. 委託、委任"
         }
       ],
       "examples": [
         {
-          "en": "He received a commission to paint a portrait.",
+          "en": "The artist was commissioned to paint a mural for the hotel lobby.",
+          "highlight": [
+            "commissioned"
+          ],
+          "translations": {
+            "zh-TW": "這位藝術家受委託為飯店大廳繪製壁畫。"
+          }
+        },
+        {
+          "en": "The salesperson earns a 5% commission on every deal.",
           "highlight": [
             "commission"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位業務員每筆交易可獲得 5% 的佣金。"
+          }
+        },
+        {
+          "en": "The government is commissioning a study on renewable energy.",
+          "highlight": [
+            "commissioning"
+          ],
+          "translations": {
+            "zh-TW": "政府正在委託一項再生能源的研究。"
           }
         }
       ],
       "synonyms": [
+        "fee",
         "task",
-        "duty"
+        "delegation"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "discharge",
+        "dismissal"
+      ],
       "phrases": [
-        "commission",
-        "work",
-        "art",
-        "commission"
+        "earn a commission",
+        "commission a study",
+        "sales commission",
+        "european commission"
       ]
     },
     {
@@ -211,48 +291,65 @@
       "toeic_score_min": 200,
       "word": "commit",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "commited",
-        "past_participle": "commited",
-        "present_participle": "commiting",
-        "third_person": "commits"
+        "present_3rd": "commits",
+        "past": "committed",
+        "past_participle": "committed",
+        "ing": "committing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "commit",
-          "definition": "vt. 委托(托付), 犯罪, 指派...作战, 使承担义务, [法] 犯, 做, 把...交托给"
+          "definition": "v. 犯(罪)、做出、承諾、投入、專注於"
         }
       ],
       "examples": [
         {
-          "en": "He committed a crime.",
+          "en": "The suspect committed the crime on a rainy night.",
           "highlight": [
-            "commit"
+            "committed"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "嫌疑犯在一個雨夜裡犯了罪。"
+          }
+        },
+        {
+          "en": "Our company commits to delivering high-quality service.",
+          "highlight": [
+            "commits"
+          ],
+          "translations": {
+            "zh-TW": "我們公司承諾提供高品質的服務。"
+          }
+        },
+        {
+          "en": "She is committing more time to her family this year.",
+          "highlight": [
+            "committing"
+          ],
+          "translations": {
+            "zh-TW": "她今年把更多時間投入在家人身上。"
           }
         }
       ],
       "synonyms": [
+        "pledge",
         "perform",
-        "perpetrate"
+        "dedicate"
       ],
       "antonyms": [
         "abstain",
         "desist"
       ],
       "phrases": [
-        "commit",
-        "a",
-        "mistake",
-        "commit",
-        "to"
+        "commit a crime",
+        "commit to",
+        "commit a mistake",
+        "commit resources"
       ]
     },
     {
@@ -273,33 +370,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "commitment",
-          "definition": "n. 委托, 交押, 承担义务, 赞助, [医] 院禁"
+          "definition": "n. 承諾、投入、奉獻、責任"
         }
       ],
       "examples": [
         {
-          "en": "Her commitment to the cause is admirable.",
+          "en": "Her commitment to the project inspired the whole team.",
           "highlight": [
             "commitment"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她對這個計畫的投入激勵了整個團隊。"
+          }
+        },
+        {
+          "en": "The company has made several commitments to environmental sustainability.",
+          "highlight": [
+            "commitments"
+          ],
+          "translations": {
+            "zh-TW": "公司在環境永續方面做出了多項承諾。"
+          }
+        },
+        {
+          "en": "A long-term commitment to quality is essential for business growth.",
+          "highlight": [
+            "commitment"
+          ],
+          "translations": {
+            "zh-TW": "對品質的長期承諾是企業成長的關鍵。"
           }
         }
       ],
       "synonyms": [
         "dedication",
-        "devotion"
+        "devotion",
+        "pledge"
       ],
       "antonyms": [
         "indifference",
         "neglect"
       ],
       "phrases": [
-        "strong",
-        "commitment",
-        "personal",
-        "commitment"
+        "strong commitment",
+        "personal commitment",
+        "commitment to quality",
+        "honor a commitment"
       ]
     },
     {
@@ -320,33 +436,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "committee",
-          "definition": "n. 委員會, [經] 委員會"
+          "definition": "n. 委員會"
         }
       ],
       "examples": [
         {
-          "en": "The committee meets once a month.",
+          "en": "The committee meets once a month to review proposals.",
           "highlight": [
             "committee"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "委員會每個月開會一次審查提案。"
+          }
+        },
+        {
+          "en": "Two new committees were formed to handle the merger.",
+          "highlight": [
+            "committees"
+          ],
+          "translations": {
+            "zh-TW": "為了處理合併案，新成立了兩個委員會。"
+          }
+        },
+        {
+          "en": "She was appointed to the advisory committee last year.",
+          "highlight": [
+            "committee"
+          ],
+          "translations": {
+            "zh-TW": "她去年被任命為顧問委員會的成員。"
           }
         }
       ],
       "synonyms": [
         "board",
-        "panel"
+        "panel",
+        "council"
       ],
       "antonyms": [
         "individual",
         "person"
       ],
       "phrases": [
-        "advisory",
-        "committee",
-        "planning",
-        "committee"
+        "advisory committee",
+        "planning committee",
+        "committee meeting",
+        "steering committee"
       ]
     },
     {
@@ -361,40 +496,61 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "commons"
+        "plural": "commons",
+        "comparative": "commoner",
+        "superlative": "commonest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "common",
-          "definition": "a. 通常的, 共同的, 通俗的, 公共的, [计] 公用块"
+          "definition": "adj. 常見的、共同的、普通的、公共的  n. 公地、平民"
         }
       ],
       "examples": [
         {
-          "en": "It's common to see deer in this area.",
+          "en": "It's common to see tourists in this part of the city.",
           "highlight": [
             "common"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在城市的這一區看到觀光客是很常見的。"
+          }
+        },
+        {
+          "en": "Punctuality is commoner in Japanese workplaces than in some Western ones.",
+          "highlight": [
+            "commoner"
+          ],
+          "translations": {
+            "zh-TW": "守時在日本職場比某些西方國家更常見。"
+          }
+        },
+        {
+          "en": "The commonest reason for flight delays is bad weather.",
+          "highlight": [
+            "commonest"
+          ],
+          "translations": {
+            "zh-TW": "航班延誤最常見的原因是惡劣天候。"
           }
         }
       ],
       "synonyms": [
         "usual",
-        "typical"
+        "typical",
+        "ordinary"
       ],
       "antonyms": [
         "rare",
         "uncommon"
       ],
       "phrases": [
-        "common",
-        "practice",
-        "common",
-        "sense"
+        "common practice",
+        "common sense",
+        "common ground",
+        "have in common"
       ]
     },
     {
@@ -413,33 +569,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "commonly",
-          "definition": "adv. 一般, 普通, 通常"
+          "definition": "adv. 通常地、一般地、常見地"
         }
       ],
       "examples": [
         {
-          "en": "This plant is commonly found in gardens.",
+          "en": "This herb is commonly used in traditional Chinese medicine.",
           "highlight": [
             "commonly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這種草藥常用於中藥之中。"
+          }
+        },
+        {
+          "en": "The two terms are commonly confused by English learners.",
+          "highlight": [
+            "commonly"
+          ],
+          "translations": {
+            "zh-TW": "這兩個詞常被英語學習者混淆。"
+          }
+        },
+        {
+          "en": "It is commonly known that exercise improves mental health.",
+          "highlight": [
+            "commonly"
+          ],
+          "translations": {
+            "zh-TW": "眾所周知運動能改善心理健康。"
           }
         }
       ],
       "synonyms": [
         "generally",
-        "often"
+        "usually",
+        "frequently"
       ],
       "antonyms": [
         "rarely",
         "seldom"
       ],
       "phrases": [
-        "commonly",
-        "used",
-        "commonly",
-        "known"
+        "commonly used",
+        "commonly known",
+        "commonly accepted",
+        "commonly found"
       ]
     },
     {
@@ -450,47 +625,65 @@
       "toeic_score_min": 200,
       "word": "communicate",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "communicateed",
-        "past_participle": "communicateed",
-        "present_participle": "communicating",
-        "third_person": "communicates"
+        "present_3rd": "communicates",
+        "past": "communicated",
+        "past_participle": "communicated",
+        "ing": "communicating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "communicate",
-          "definition": "vt. 顯露, 传达, 感染, vi. 通讯"
+          "definition": "v. 溝通、傳達、交流、聯繫"
         }
       ],
       "examples": [
         {
-          "en": "They communicate regularly via email.",
+          "en": "The two departments communicated daily during the project.",
           "highlight": [
-            "communicate"
+            "communicated"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "兩個部門在專案期間每天溝通。"
+          }
+        },
+        {
+          "en": "An effective leader communicates clearly with the team.",
+          "highlight": [
+            "communicates"
+          ],
+          "translations": {
+            "zh-TW": "一位有效的領導者會與團隊清晰溝通。"
+          }
+        },
+        {
+          "en": "They are communicating with the supplier via video call.",
+          "highlight": [
+            "communicating"
+          ],
+          "translations": {
+            "zh-TW": "他們正透過視訊會議與供應商聯繫。"
           }
         }
       ],
       "synonyms": [
-        "converse",
-        "convey"
+        "convey",
+        "correspond",
+        "express"
       ],
       "antonyms": [
         "miscommunicate",
-        "confuse"
+        "withhold"
       ],
       "phrases": [
-        "communicate",
-        "clearly",
-        "communicate",
-        "effectively"
+        "communicate effectively",
+        "communicate with",
+        "communicate clearly",
+        "communicate ideas"
       ]
     }
   ]
