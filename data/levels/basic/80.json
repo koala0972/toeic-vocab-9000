@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 80,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-080-001",
@@ -12,7 +12,8 @@
       "word": "daily",
       "pos": [
         "adjective",
-        "noun"
+        "noun",
+        "adverb"
       ],
       "conjugations": {
         "plural": "dailies"
@@ -22,33 +23,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "daily",
-          "definition": "a. 每日的, 日常的, adv. 每日地, 日常地, n. 日报"
+          "definition": "a. 每日的、日常的  adv. 每日地  n. 日報"
         }
       ],
       "examples": [
         {
-          "en": "She reads the daily newspaper.",
+          "en": "She checks the daily sales report before the morning meeting.",
           "highlight": [
             "daily"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在晨間會議前會先查看每日銷售報告。"
+          }
+        },
+        {
+          "en": "The manager reviews the dailies to track each shift's progress.",
+          "highlight": [
+            "dailies"
+          ],
+          "translations": {
+            "zh-TW": "經理會審閱每日報告，以追蹤各班次的進度。"
+          }
+        },
+        {
+          "en": "He commutes daily between Taipei and Hsinchu for work.",
+          "highlight": [
+            "daily"
+          ],
+          "translations": {
+            "zh-TW": "他每天通勤於台北與新竹之間上班。"
           }
         }
       ],
       "synonyms": [
         "everyday",
-        "regular"
+        "regular",
+        "routine"
       ],
       "antonyms": [
         "occasional",
         "rare"
       ],
       "phrases": [
-        "daily",
-        "routine",
-        "daily",
-        "life"
+        "daily routine",
+        "daily life",
+        "daily report",
+        "daily news"
       ]
     },
     {
@@ -63,43 +83,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "damageed",
-        "past_participle": "damageed",
-        "present_participle": "damaging",
-        "third_person": "damages"
+        "plural": "damages",
+        "present_3rd": "damages",
+        "past": "damaged",
+        "past_participle": "damaged",
+        "ing": "damaging"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "damage",
-          "definition": "n. 损害, 伤害, v. 损害"
+          "definition": "n. 損害、傷害  v. 損害、破壞"
         }
       ],
       "examples": [
         {
-          "en": "The storm caused damage to the roof.",
+          "en": "The storm caused severe damage to the warehouse roof.",
           "highlight": [
             "damage"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "暴風雨對倉庫屋頂造成了嚴重的損害。"
+          }
+        },
+        {
+          "en": "The shipment was damaged during transit and returned to the supplier.",
+          "highlight": [
+            "damaged"
+          ],
+          "translations": {
+            "zh-TW": "貨物在運送過程中受損，已退回給供應商。"
+          }
+        },
+        {
+          "en": "Harsh chemicals can damage the surface of the equipment over time.",
+          "highlight": [
+            "damage"
+          ],
+          "translations": {
+            "zh-TW": "刺激性化學物質久而久之會損害設備表面。"
           }
         }
       ],
       "synonyms": [
         "harm",
-        "injury"
+        "injury",
+        "destruction"
       ],
       "antonyms": [
         "repair",
         "fix"
       ],
       "phrases": [
-        "severe",
-        "damage",
-        "damage",
-        "control"
+        "severe damage",
+        "damage control",
+        "property damage",
+        "damage estimate"
       ]
     },
     {
@@ -111,43 +151,67 @@
       "word": "damp",
       "pos": [
         "adjective",
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "damps"
+        "plural": "damps",
+        "present_3rd": "damps",
+        "past": "damped",
+        "past_participle": "damped",
+        "ing": "damping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "damp",
-          "definition": "n. 潮湿, 湿气, a. 潮湿的, vt. 使潮湿, 使阻尼, 抑止, vi. 变潮湿, 衰减"
+          "definition": "a. 潮濕的  n. 濕氣  v. 使潮濕、抑制"
         }
       ],
       "examples": [
         {
-          "en": "The ground was damp after the rain.",
+          "en": "The basement walls were damp after the heavy rainfall.",
           "highlight": [
             "damp"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "大雨過後，地下室的牆壁變得潮濕。"
+          }
+        },
+        {
+          "en": "She wiped the window with a damp cloth to remove the dust.",
+          "highlight": [
+            "damp"
+          ],
+          "translations": {
+            "zh-TW": "她用濕布擦拭窗戶以去除灰塵。"
+          }
+        },
+        {
+          "en": "The engineer damped the vibration by adding rubber pads under the machine.",
+          "highlight": [
+            "damped"
+          ],
+          "translations": {
+            "zh-TW": "工程師在機器下方加裝橡膠墊來減弱震動。"
           }
         }
       ],
       "synonyms": [
         "moist",
-        "humid"
+        "humid",
+        "wet"
       ],
       "antonyms": [
         "dry",
         "arid"
       ],
       "phrases": [
-        "damp",
-        "cloth",
-        "damp",
-        "weather"
+        "damp cloth",
+        "damp weather",
+        "damp squib",
+        "damp atmosphere"
       ]
     },
     {
@@ -162,44 +226,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "danceed",
-        "past_participle": "danceed",
-        "present_participle": "dancing",
-        "third_person": "dances"
+        "plural": "dances",
+        "present_3rd": "dances",
+        "past": "danced",
+        "past_participle": "danced",
+        "ing": "dancing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dance",
-          "definition": "n. 跳舞, 舞蹈, 舞會, v. 跳舞"
+          "definition": "v. 跳舞  n. 舞蹈、舞會"
         }
       ],
       "examples": [
         {
-          "en": "They danced all night.",
+          "en": "They dance at the company gala every year to celebrate the anniversary.",
           "highlight": [
             "dance"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他們每年都會在公司晚宴上跳舞慶祝週年。"
+          }
+        },
+        {
+          "en": "The couple danced gracefully at the charity ball last weekend.",
+          "highlight": [
+            "danced"
+          ],
+          "translations": {
+            "zh-TW": "那對情侶上週末在慈善舞會中優雅地共舞。"
+          }
+        },
+        {
+          "en": "She is dancing in the annual talent show to impress the clients.",
+          "highlight": [
+            "dancing"
+          ],
+          "translations": {
+            "zh-TW": "她正在年度才藝表演中跳舞，希望能打動客戶。"
           }
         }
       ],
       "synonyms": [
         "move",
-        "sway"
+        "sway",
+        "prance"
       ],
       "antonyms": [
-        "stand",
-        "still",
+        "stand still",
         "freeze"
       ],
       "phrases": [
-        "dance",
-        "floor",
-        "dance",
-        "steps"
+        "dance floor",
+        "dance steps",
+        "dance performance",
+        "dance party"
       ]
     },
     {
@@ -210,48 +293,62 @@
       "toeic_score_min": 200,
       "word": "dancer",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "dancered",
-        "past_participle": "dancered",
-        "present_participle": "dancering",
-        "third_person": "dancers"
+        "plural": "dancers"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dancer",
-          "definition": "n. 舞蹈演員, 跳舞者"
+          "definition": "n. 舞者、舞蹈演員"
         }
       ],
       "examples": [
         {
-          "en": "The dancer performed beautifully.",
+          "en": "The dancer performed beautifully at the national theater last night.",
           "highlight": [
             "dancer"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "那位舞者昨晚在國家劇院演出得非常精彩。"
+          }
+        },
+        {
+          "en": "Several dancers were hired to entertain the guests at the corporate event.",
+          "highlight": [
+            "dancers"
+          ],
+          "translations": {
+            "zh-TW": "公司活動上聘請了幾位舞者來娛樂賓客。"
+          }
+        },
+        {
+          "en": "The lead dancer injured her ankle and had to skip the rehearsal.",
+          "highlight": [
+            "dancer"
+          ],
+          "translations": {
+            "zh-TW": "首席舞者扭傷了腳踝，不得不缺席排練。"
           }
         }
       ],
       "synonyms": [
         "performer",
-        "ballet",
-        "dancer"
+        "ballerina",
+        "artist"
       ],
       "antonyms": [
         "spectator",
         "viewer"
       ],
       "phrases": [
-        "professional",
-        "dancer",
-        "ballet",
-        "dancer"
+        "professional dancer",
+        "ballet dancer",
+        "lead dancer",
+        "backup dancer"
       ]
     },
     {
@@ -265,41 +362,58 @@
         "noun",
         "adjective"
       ],
-      "conjugations": {
-        "plural": "dancings"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dancing",
-          "definition": "n. 舞蹈, [建] 跳動的"
+          "definition": "n. 跳舞、舞蹈  a. 跳動的、會跳舞的"
         }
       ],
       "examples": [
         {
-          "en": "Dancing is her passion.",
+          "en": "Dancing is her greatest passion and she practices every evening.",
           "highlight": [
             "dancing"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "跳舞是她最大的熱愛，每晚都會練習。"
+          }
+        },
+        {
+          "en": "The dancing flames in the fireplace kept the room warm and cozy.",
+          "highlight": [
+            "dancing"
+          ],
+          "translations": {
+            "zh-TW": "壁爐中跳動的火焰讓房間保持溫暖舒適。"
+          }
+        },
+        {
+          "en": "Many guests joined the dancing after the wedding dinner.",
+          "highlight": [
+            "dancing"
+          ],
+          "translations": {
+            "zh-TW": "許多賓客在婚禮晚宴後加入跳舞的行列。"
           }
         }
       ],
       "synonyms": [
         "ballet",
-        "movement"
+        "movement",
+        "performance"
       ],
       "antonyms": [
         "stillness",
         "inactivity"
       ],
       "phrases": [
-        "dancing",
-        "shoes",
-        "dancing",
-        "skills"
+        "dancing shoes",
+        "dancing skills",
+        "dancing queen",
+        "dancing class"
       ]
     },
     {
@@ -310,48 +424,62 @@
       "toeic_score_min": 200,
       "word": "danger",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "dangered",
-        "past_participle": "dangered",
-        "present_participle": "dangering",
-        "third_person": "dangers"
+        "plural": "dangers"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "danger",
-          "definition": "n. 危险, 威胁, [法] 危险, 危险物, 危机"
+          "definition": "n. 危險、威脅、危機"
         }
       ],
       "examples": [
         {
-          "en": "There is a danger of falling rocks.",
+          "en": "There is a danger of falling rocks along the mountain road.",
           "highlight": [
             "danger"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "山路沿線有落石的危險。"
+          }
+        },
+        {
+          "en": "The workers were unaware of the dangers hidden in the old factory.",
+          "highlight": [
+            "dangers"
+          ],
+          "translations": {
+            "zh-TW": "工人們沒有意識到舊工廠裡潛藏的危險。"
+          }
+        },
+        {
+          "en": "The sign clearly warns visitors of the danger near the construction site.",
+          "highlight": [
+            "danger"
+          ],
+          "translations": {
+            "zh-TW": "標誌清楚提醒訪客工地附近有危險。"
           }
         }
       ],
       "synonyms": [
         "risk",
-        "hazard"
+        "hazard",
+        "threat"
       ],
       "antonyms": [
         "safety",
         "security"
       ],
       "phrases": [
-        "in",
-        "danger",
-        "pose",
-        "a",
-        "danger"
+        "in danger",
+        "out of danger",
+        "pose a danger",
+        "danger zone"
       ]
     },
     {
@@ -362,44 +490,63 @@
       "toeic_score_min": 200,
       "word": "dangerous",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "dangerouses"
+        "comparative": "more dangerous",
+        "superlative": "most dangerous"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dangerous",
-          "definition": "a. 危险的, [法] 危险的, 危害的"
+          "definition": "a. 危險的、有危害的"
         }
       ],
       "examples": [
         {
-          "en": "It's dangerous to swim here.",
+          "en": "It's dangerous to swim in this river during the rainy season.",
           "highlight": [
             "dangerous"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "雨季時在這條河裡游泳十分危險。"
+          }
+        },
+        {
+          "en": "Driving on icy roads is more dangerous than most people realize.",
+          "highlight": [
+            "more dangerous"
+          ],
+          "translations": {
+            "zh-TW": "在結冰的道路上開車，比多數人意識到的更危險。"
+          }
+        },
+        {
+          "en": "The lab technician handled the most dangerous chemicals with extreme care.",
+          "highlight": [
+            "most dangerous"
+          ],
+          "translations": {
+            "zh-TW": "實驗室技術員極為謹慎地處理最危險的化學物質。"
           }
         }
       ],
       "synonyms": [
         "risky",
-        "hazardous"
+        "hazardous",
+        "unsafe"
       ],
       "antonyms": [
         "safe",
         "secure"
       ],
       "phrases": [
-        "dangerous",
-        "situation",
-        "dangerous",
-        "place"
+        "dangerous situation",
+        "dangerous place",
+        "dangerous goods",
+        "dangerous driving"
       ]
     },
     {
@@ -414,44 +561,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "dareed",
-        "past_participle": "dareed",
-        "present_participle": "daring",
-        "third_person": "dares"
+        "plural": "dares",
+        "present_3rd": "dares",
+        "past": "dared",
+        "past_participle": "dared",
+        "ing": "daring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dare",
-          "definition": "n. 挑战, 挑動, 大胆, v. 敢, 胆敢"
+          "definition": "v. 敢、膽敢  n. 挑戰、膽量"
         }
       ],
       "examples": [
         {
-          "en": "He dared to climb the mountain.",
+          "en": "He dared to challenge the manager's decision during the board meeting.",
+          "highlight": [
+            "dared"
+          ],
+          "translations": {
+            "zh-TW": "他敢在董事會上挑戰經理的決定。"
+          }
+        },
+        {
+          "en": "She wouldn't dare speak to the client so rudely in a formal setting.",
           "highlight": [
             "dare"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在正式場合，她不敢對客戶如此無禮地說話。"
+          }
+        },
+        {
+          "en": "The daring rescue attempt saved three hikers trapped on the cliff.",
+          "highlight": [
+            "daring"
+          ],
+          "translations": {
+            "zh-TW": "這次大膽的救援行動救下了三名受困於懸崖的登山客。"
           }
         }
       ],
       "synonyms": [
         "brave",
-        "challenge"
+        "challenge",
+        "venture"
       ],
       "antonyms": [
         "fear",
-        "shun"
+        "shun",
+        "avoid"
       ],
       "phrases": [
-        "dare",
-        "to",
-        "dream",
-        "dare",
-        "to"
+        "dare to dream",
+        "dare to try",
+        "daring rescue",
+        "how dare you"
       ]
     },
     {
@@ -466,40 +633,61 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "darks"
+        "plural": "darks",
+        "comparative": "darker",
+        "superlative": "darkest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dark",
-          "definition": "n. 黑暗, 夜, 黄昏, 模糊, a. 黑暗的, 暗的, 深色的, 隐密的, 模糊的, 无知的"
+          "definition": "a. 黑暗的、深色的、隱密的  n. 黑暗、夜色"
         }
       ],
       "examples": [
         {
-          "en": "The room was dark and quiet.",
+          "en": "The conference room was dark because the lights had been turned off.",
           "highlight": [
             "dark"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "會議室一片漆黑，因為燈被關掉了。"
+          }
+        },
+        {
+          "en": "The sky grew darker as the storm approached the harbor.",
+          "highlight": [
+            "darker"
+          ],
+          "translations": {
+            "zh-TW": "隨著暴風雨逼近港口，天空變得更加陰暗。"
+          }
+        },
+        {
+          "en": "He wore a dark suit to the formal business dinner.",
+          "highlight": [
+            "dark"
+          ],
+          "translations": {
+            "zh-TW": "他穿著一套深色西裝出席正式商務晚宴。"
           }
         }
       ],
       "synonyms": [
         "dim",
-        "black"
+        "black",
+        "gloomy"
       ],
       "antonyms": [
         "bright",
         "light"
       ],
       "phrases": [
-        "dark",
-        "room",
-        "dark",
-        "night"
+        "dark room",
+        "dark night",
+        "dark color",
+        "in the dark"
       ]
     }
   ]
