@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 61,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-061-001",
@@ -15,40 +15,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "codeed",
-        "past_participle": "codeed",
-        "present_participle": "coding",
-        "third_person": "codes"
+        "plural": "codes",
+        "present_3rd": "codes",
+        "past": "coded",
+        "past_participle": "coded",
+        "ing": "coding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "code",
-          "definition": "n. 代码, 密码, 法规, 法典, vt. 把...编码, [计] 代码"
+          "definition": "n. 密碼、代碼、法規  v. 編碼、寫程式"
         }
       ],
       "examples": [
         {
-          "en": "They cracked the secret code.",
+          "en": "Please enter the security code to access the building.",
           "highlight": [
             "code"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請輸入安全密碼以進入大樓。"
+          }
+        },
+        {
+          "en": "The developer coded the new feature overnight.",
+          "highlight": [
+            "coded"
+          ],
+          "translations": {
+            "zh-TW": "開發人員連夜把新功能寫成程式碼。"
+          }
+        },
+        {
+          "en": "She has been coding mobile apps for three years.",
+          "highlight": [
+            "coding"
+          ],
+          "translations": {
+            "zh-TW": "她寫手機應用程式的程式碼已經三年了。"
           }
         }
       ],
       "synonyms": [
         "cipher",
-        "cryptogram"
+        "password",
+        "program"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "plaintext"
+      ],
       "phrases": [
-        "morse",
-        "code",
-        "secret",
-        "code"
+        "security code",
+        "source code",
+        "code of conduct",
+        "area code"
       ]
     },
     {
@@ -59,45 +81,61 @@
       "toeic_score_min": 200,
       "word": "coffee",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "coffeeed",
-        "past_participle": "coffeeed",
-        "present_participle": "coffeing",
-        "third_person": "coffees"
+        "plural": "coffees"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "coffee",
-          "definition": "n. 咖啡, 咖啡色, [医] 咖啡, 咖啡豆"
+          "definition": "n. 咖啡、咖啡色"
         }
       ],
       "examples": [
         {
-          "en": "She drank a cup of coffee.",
+          "en": "I usually drink a cup of coffee before the morning meeting.",
           "highlight": [
             "coffee"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我通常在晨間會議前喝一杯咖啡。"
+          }
+        },
+        {
+          "en": "She ordered two coffees and a sandwich at the cafe.",
+          "highlight": [
+            "coffees"
+          ],
+          "translations": {
+            "zh-TW": "她在咖啡廳點了兩杯咖啡和一份三明治。"
+          }
+        },
+        {
+          "en": "The break room has a new coffee machine for employees.",
+          "highlight": [
+            "coffee"
+          ],
+          "translations": {
+            "zh-TW": "休息室為員工添購了一台新的咖啡機。"
           }
         }
       ],
       "synonyms": [
         "brew",
-        "java"
+        "java",
+        "caffeine"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "decaf"
+      ],
       "phrases": [
-        "cup",
-        "of",
-        "coffee",
-        "coffee",
-        "shop"
+        "cup of coffee",
+        "coffee shop",
+        "coffee break",
+        "black coffee"
       ]
     },
     {
@@ -112,43 +150,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "coined",
+        "plural": "coins",
+        "present_3rd": "coins",
+        "past": "coined",
         "past_participle": "coined",
-        "present_participle": "coining",
-        "third_person": "coins"
+        "ing": "coining"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "coin",
-          "definition": "n. 硬币, 金钱, 货币, vt. 铸币, 创造, 杜撰"
+          "definition": "n. 硬幣、錢幣  v. 創造（新詞）、鑄幣"
         }
       ],
       "examples": [
         {
-          "en": "He put a coin into the vending machine.",
+          "en": "He inserted a coin into the parking meter.",
           "highlight": [
             "coin"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他把一枚硬幣投入停車計時器。"
+          }
+        },
+        {
+          "en": "The marketing team coined a catchy slogan for the new product.",
+          "highlight": [
+            "coined"
+          ],
+          "translations": {
+            "zh-TW": "行銷團隊為新產品創造了一句響亮的口號。"
+          }
+        },
+        {
+          "en": "Collecting rare coins has been his hobby since childhood.",
+          "highlight": [
+            "coins"
+          ],
+          "translations": {
+            "zh-TW": "收藏稀有硬幣從小就是他的嗜好。"
           }
         }
       ],
       "synonyms": [
         "currency",
-        "cash"
+        "token",
+        "mint"
       ],
       "antonyms": [
         "bill",
         "note"
       ],
       "phrases": [
-        "gold",
-        "coin",
-        "coin",
-        "collection"
+        "gold coin",
+        "coin collection",
+        "two sides of the same coin",
+        "coin a phrase"
       ]
     },
     {
@@ -163,40 +221,61 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "colds"
+        "plural": "colds",
+        "comparative": "colder",
+        "superlative": "coldest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cold",
-          "definition": "n. 感冒, 寒冷, a. 寒冷的, 冷淡的, 冷静的, adv. 完全地"
+          "definition": "adj. 寒冷的、冷淡的  n. 感冒、寒冷"
         }
       ],
       "examples": [
         {
-          "en": "The water is cold.",
+          "en": "The meeting room was cold, so I kept my jacket on.",
           "highlight": [
             "cold"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "會議室很冷，所以我一直穿著外套。"
+          }
+        },
+        {
+          "en": "Today is colder than yesterday, so please dress warmly.",
+          "highlight": [
+            "colder"
+          ],
+          "translations": {
+            "zh-TW": "今天比昨天冷，請注意保暖。"
+          }
+        },
+        {
+          "en": "She caught a cold after working late all week.",
+          "highlight": [
+            "cold"
+          ],
+          "translations": {
+            "zh-TW": "連續一週加班到很晚之後，她感冒了。"
           }
         }
       ],
       "synonyms": [
         "chilly",
-        "cool"
+        "cool",
+        "freezing"
       ],
       "antonyms": [
         "hot",
         "warm"
       ],
       "phrases": [
-        "cold",
-        "weather",
-        "cold",
-        "drink"
+        "catch a cold",
+        "cold weather",
+        "cold drink",
+        "cold war"
       ]
     },
     {
@@ -215,33 +294,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "coldly",
-          "definition": "adv. 冷淡地"
+          "definition": "adv. 冷淡地、無情地"
         }
       ],
       "examples": [
         {
-          "en": "She spoke coldly to him.",
+          "en": "The manager coldly rejected the intern's proposal.",
           "highlight": [
             "coldly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理冷淡地拒絕了實習生的提案。"
+          }
+        },
+        {
+          "en": "She stared coldly at the customer who insulted the staff.",
+          "highlight": [
+            "coldly"
+          ],
+          "translations": {
+            "zh-TW": "她冷冷地瞪著那位辱罵員工的顧客。"
+          }
+        },
+        {
+          "en": "He coldly informed the team that the project was cancelled.",
+          "highlight": [
+            "coldly"
+          ],
+          "translations": {
+            "zh-TW": "他冷冷地通知團隊專案已取消。"
           }
         }
       ],
       "synonyms": [
+        "indifferently",
         "unemotionally",
-        "indifferently"
+        "aloofly"
       ],
       "antonyms": [
         "warmly",
         "kindly"
       ],
       "phrases": [
-        "speak",
-        "coldly",
-        "treat",
-        "coldly"
+        "speak coldly",
+        "treat coldly",
+        "stare coldly",
+        "respond coldly"
       ]
     },
     {
@@ -256,43 +354,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "collapseed",
-        "past_participle": "collapseed",
-        "present_participle": "collapsing",
-        "third_person": "collapses"
+        "plural": "collapses",
+        "present_3rd": "collapses",
+        "past": "collapsed",
+        "past_participle": "collapsed",
+        "ing": "collapsing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "collapse",
-          "definition": "n. 崩溃, 倒塌, 虚脱, vi. 倒塌, 崩溃, 瓦解, vt. 使倒塌, 折叠, [计] 折叠"
+          "definition": "v. 倒塌、崩潰、瓦解  n. 倒塌、崩潰"
         }
       ],
       "examples": [
         {
-          "en": "The building collapsed after the earthquake.",
+          "en": "The negotiations collapsed after both sides refused to compromise.",
+          "highlight": [
+            "collapsed"
+          ],
+          "translations": {
+            "zh-TW": "在雙方都拒絕妥協後，談判破裂了。"
+          }
+        },
+        {
+          "en": "The old bridge is collapsing and will be replaced next month.",
+          "highlight": [
+            "collapsing"
+          ],
+          "translations": {
+            "zh-TW": "這座老橋正在坍塌，下個月將被更換。"
+          }
+        },
+        {
+          "en": "The sudden collapse of the stock market shocked investors.",
           "highlight": [
             "collapse"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "股市突然崩盤令投資人震驚。"
           }
         }
       ],
       "synonyms": [
         "crumble",
-        "fall"
+        "fall",
+        "fail"
       ],
       "antonyms": [
         "stand",
         "rise"
       ],
       "phrases": [
-        "building",
-        "collapse",
-        "sudden",
-        "collapse"
+        "economic collapse",
+        "building collapse",
+        "sudden collapse",
+        "collapse of negotiations"
       ]
     },
     {
@@ -313,33 +431,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "colleague",
-          "definition": "n. 同事, 同僚"
+          "definition": "n. 同事、同僚"
         }
       ],
       "examples": [
         {
-          "en": "She met with a colleague after work.",
+          "en": "My colleague will present the quarterly report tomorrow.",
           "highlight": [
             "colleague"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我的同事明天將發表季度報告。"
+          }
+        },
+        {
+          "en": "Several colleagues volunteered to help organize the company event.",
+          "highlight": [
+            "colleagues"
+          ],
+          "translations": {
+            "zh-TW": "幾位同事自願協助籌辦公司活動。"
+          }
+        },
+        {
+          "en": "She emailed a colleague about the upcoming deadline.",
+          "highlight": [
+            "colleague"
+          ],
+          "translations": {
+            "zh-TW": "她寄電子郵件給一位同事，告知即將到來的截止日期。"
           }
         }
       ],
       "synonyms": [
         "coworker",
-        "associate"
+        "associate",
+        "teammate"
       ],
       "antonyms": [
         "rival",
-        "enemy"
+        "competitor"
       ],
       "phrases": [
-        "trusted",
-        "colleague",
-        "senior",
-        "colleague"
+        "trusted colleague",
+        "senior colleague",
+        "close colleague",
+        "colleague feedback"
       ]
     },
     {
@@ -350,47 +487,65 @@
       "toeic_score_min": 200,
       "word": "collect",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "collected",
+        "present_3rd": "collects",
+        "past": "collected",
         "past_participle": "collected",
-        "present_participle": "collecting",
-        "third_person": "collects"
+        "ing": "collecting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "collect",
-          "definition": "v. 收集, 聚集, 集中, 搜集, a. 由收到者付款的, adv. 由收到者付款地"
+          "definition": "v. 收集、聚集、領取"
         }
       ],
       "examples": [
         {
-          "en": "They collected donations for the charity.",
+          "en": "We need to collect feedback from all customers before Friday.",
           "highlight": [
             "collect"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們需要在週五前向所有顧客收集回饋意見。"
+          }
+        },
+        {
+          "en": "She collected the documents from the front desk this morning.",
+          "highlight": [
+            "collected"
+          ],
+          "translations": {
+            "zh-TW": "她今早從櫃檯領取了文件。"
+          }
+        },
+        {
+          "en": "He is collecting data for the annual market research report.",
+          "highlight": [
+            "collecting"
+          ],
+          "translations": {
+            "zh-TW": "他正在為年度市場研究報告收集資料。"
           }
         }
       ],
       "synonyms": [
         "gather",
-        "assemble"
+        "assemble",
+        "accumulate"
       ],
       "antonyms": [
         "disperse",
         "scatter"
       ],
       "phrases": [
-        "collect",
-        "data",
-        "collect",
-        "stamps"
+        "collect data",
+        "collect stamps",
+        "collect payment",
+        "collect feedback"
       ]
     },
     {
@@ -411,34 +566,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "collection",
-          "definition": "n. 收集, 采集, (一批)收藏品, 募捐, [医] 收集; 收集品, 标本"
+          "definition": "n. 收集、收藏品、募捐"
         }
       ],
       "examples": [
         {
-          "en": "He has a collection of vintage cars.",
+          "en": "The museum's collection includes over two thousand paintings.",
           "highlight": [
             "collection"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這座博物館的收藏品包含超過兩千幅畫作。"
+          }
+        },
+        {
+          "en": "We launched a collection for the employee relief fund.",
+          "highlight": [
+            "collection"
+          ],
+          "translations": {
+            "zh-TW": "我們為員工救助基金發起了一次募捐。"
+          }
+        },
+        {
+          "en": "Her private collections of vintage cameras will be exhibited next month.",
+          "highlight": [
+            "collections"
+          ],
+          "translations": {
+            "zh-TW": "她的古董相機私人收藏將於下個月展出。"
           }
         }
       ],
       "synonyms": [
         "gathering",
-        "compilation"
+        "compilation",
+        "assortment"
       ],
       "antonyms": [
         "dispersal",
         "separation"
       ],
       "phrases": [
-        "art",
-        "collection",
-        "collection",
-        "of",
-        "books"
+        "art collection",
+        "collection of books",
+        "data collection",
+        "stamp collection"
       ]
     },
     {
@@ -449,44 +622,59 @@
       "toeic_score_min": 200,
       "word": "college",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "collegeed",
-        "past_participle": "collegeed",
-        "present_participle": "colleging",
-        "third_person": "colleges"
+        "plural": "colleges"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "college",
-          "definition": "n. 学院, 大学, 学會"
+          "definition": "n. 學院、大學、學會"
         }
       ],
       "examples": [
         {
-          "en": "She attended a prestigious college.",
+          "en": "She graduated from a top business college in London.",
           "highlight": [
             "college"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她畢業於倫敦一所頂尖的商學院。"
+          }
+        },
+        {
+          "en": "Several local colleges partnered with the company to offer internships.",
+          "highlight": [
+            "colleges"
+          ],
+          "translations": {
+            "zh-TW": "幾所當地學院與公司合作提供實習機會。"
+          }
+        },
+        {
+          "en": "He attended a community college before transferring to a university.",
+          "highlight": [
+            "college"
+          ],
+          "translations": {
+            "zh-TW": "他先就讀社區學院，之後轉學到大學。"
           }
         }
       ],
       "synonyms": [
         "university",
-        "institute"
+        "institute",
+        "academy"
       ],
       "antonyms": [],
       "phrases": [
-        "community",
-        "college",
-        "college",
-        "student"
+        "community college",
+        "college student",
+        "college degree",
+        "business college"
       ]
     }
   ]
