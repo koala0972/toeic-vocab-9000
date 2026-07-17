@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 82,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-082-001",
@@ -15,44 +15,59 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "debted",
-        "past_participle": "debted",
-        "present_participle": "debting",
-        "third_person": "debts"
+        "plural": "debts"
       },
-      "domain": "general",
+      "domain": "finance",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "debt",
-          "definition": "n. 债务, 罪過, [經] 借款, 欠款, 债务"
+          "definition": "n. 債務、欠款  v. 借貸、使負債"
         }
       ],
       "examples": [
         {
-          "en": "He is trying to pay off his debts.",
+          "en": "The company is struggling to pay off its debt to the bank.",
           "highlight": [
             "debt"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司正努力償還欠銀行的債務。"
+          }
+        },
+        {
+          "en": "After years of overspending, his debts had grown to an unmanageable level.",
+          "highlight": [
+            "debts"
+          ],
+          "translations": {
+            "zh-TW": "經過多年入不敷出，他的債務已增加到無法負擔的程度。"
+          }
+        },
+        {
+          "en": "She debted herself further by taking out a second mortgage on her house.",
+          "highlight": [
+            "debted"
+          ],
+          "translations": {
+            "zh-TW": "她用自己的房子再貸一筆款，讓自己陷入了更深的負債。"
           }
         }
       ],
       "synonyms": [
         "liability",
-        "arrears"
+        "arrears",
+        "obligation"
       ],
       "antonyms": [
         "credit",
         "asset"
       ],
       "phrases": [
-        "pay",
-        "off",
-        "debt",
-        "in",
-        "debt"
+        "pay off debt",
+        "in debt",
+        "national debt",
+        "debt consolidation"
       ]
     },
     {
@@ -63,47 +78,59 @@
       "toeic_score_min": 200,
       "word": "decade",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "decadeed",
-        "past_participle": "decadeed",
-        "present_participle": "decading",
-        "third_person": "decades"
+        "plural": "decades"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "decade",
-          "definition": "n. 十年, 十"
+          "definition": "n. 十年、十年代"
         }
       ],
       "examples": [
         {
-          "en": "He has been working here for a decade.",
+          "en": "Our company has grown rapidly over the last decade.",
           "highlight": [
             "decade"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "過去十年我們公司快速成長。"
+          }
+        },
+        {
+          "en": "Several decades have passed since the first moon landing in 1969.",
+          "highlight": [
+            "decades"
+          ],
+          "translations": {
+            "zh-TW": "自1969年首次登月以來已過去了好幾個十年。"
+          }
+        },
+        {
+          "en": "The architect designed buildings that would last for decades to come.",
+          "highlight": [
+            "decades"
+          ],
+          "translations": {
+            "zh-TW": "建築師設計的建築物能屹立數十年之久。"
           }
         }
       ],
       "synonyms": [
-        "ten",
-        "years",
-        "10-year",
+        "ten years",
+        "decennary",
         "period"
       ],
       "antonyms": [],
       "phrases": [
-        "past",
-        "decade",
-        "over",
-        "a",
-        "decade"
+        "past decade",
+        "over a decade",
+        "next decade",
+        "decade of service"
       ]
     },
     {
@@ -118,43 +145,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "decayed",
+        "plural": "decays",
+        "present_3rd": "decays",
+        "past": "decayed",
         "past_participle": "decayed",
-        "present_participle": "decaying",
-        "third_person": "decays"
+        "ing": "decaying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "decay",
-          "definition": "n. 衰退, 腐败, v. (使)衰退, (使)腐败"
+          "definition": "n. 衰退、腐敗  v. (使)衰退、(使)腐敗"
         }
       ],
       "examples": [
         {
-          "en": "The old house was in a state of decay.",
+          "en": "The old factory was left to decay after the company moved to a new site.",
           "highlight": [
             "decay"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "舊工廠在公司搬到新址後便任其衰敗。"
+          }
+        },
+        {
+          "en": "The fallen fruit decayed quickly in the summer heat.",
+          "highlight": [
+            "decayed"
+          ],
+          "translations": {
+            "zh-TW": "掉落的水果在夏日高溫下迅速腐爛。"
+          }
+        },
+        {
+          "en": "Urban decay has transformed once-thriving neighborhoods into abandoned areas.",
+          "highlight": [
+            "decaying"
+          ],
+          "translations": {
+            "zh-TW": "都市衰退讓曾經繁華的社區變成了荒廢區域。"
           }
         }
       ],
       "synonyms": [
+        "rot",
         "decomposition",
-        "rot"
+        "decline"
       ],
       "antonyms": [
         "growth",
-        "improvement"
+        "renewal"
       ],
       "phrases": [
-        "tooth",
-        "decay",
-        "gradual",
-        "decay"
+        "tooth decay",
+        "urban decay",
+        "gradual decay",
+        "radioactive decay"
       ]
     },
     {
@@ -170,7 +217,7 @@
       "conjugations": {
         "plural": "decembers"
       },
-      "domain": "general",
+      "domain": "calendar",
       "translations": [
         {
           "lang": "zh-TW",
@@ -180,25 +227,43 @@
       ],
       "examples": [
         {
-          "en": "They are planning a trip in December.",
+          "en": "Our fiscal year ends in December, so we always finalize budgets before the holidays.",
           "highlight": [
-            "december"
+            "December"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們的會計年度在十二月結束，所以我們總是在假期前確定預算。"
+          }
+        },
+        {
+          "en": "Many Decembers ago, the airline lost my luggage on a flight to Tokyo.",
+          "highlight": [
+            "Decembers"
+          ],
+          "translations": {
+            "zh-TW": "好幾個十二月以前，航空公司把我飛往東京的行李弄丟了。"
+          }
+        },
+        {
+          "en": "Year-end sales in December account for nearly forty percent of our annual revenue.",
+          "highlight": [
+            "December"
+          ],
+          "translations": {
+            "zh-TW": "十二月的年底銷售額佔我們年度營收將近四成。"
           }
         }
       ],
       "synonyms": [
-        "twelfth",
-        "month"
+        "twelfth month",
+        "year-end month"
       ],
       "antonyms": [],
       "phrases": [
-        "cold",
-        "December",
-        "December",
-        "25th"
+        "in December",
+        "December holiday",
+        "December sales",
+        "mid-December"
       ]
     },
     {
@@ -209,48 +274,65 @@
       "toeic_score_min": 200,
       "word": "decide",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "decideed",
-        "past_participle": "decideed",
-        "present_participle": "deciding",
-        "third_person": "decides"
+        "present_3rd": "decides",
+        "past": "decided",
+        "past_participle": "decided",
+        "ing": "deciding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "decide",
-          "definition": "v. 决定, 判决"
+          "definition": "v. 決定、判決"
         }
       ],
       "examples": [
         {
-          "en": "She decided to go to college.",
+          "en": "The committee will decide the winner of the contract next week.",
           "highlight": [
             "decide"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "委員會下週將決定合約得標者。"
+          }
+        },
+        {
+          "en": "She decided to pursue a master's degree after working for three years.",
+          "highlight": [
+            "decided"
+          ],
+          "translations": {
+            "zh-TW": "她工作三年後決定攻讀碩士學位。"
+          }
+        },
+        {
+          "en": "The manager is deciding between two candidates for the senior position.",
+          "highlight": [
+            "deciding"
+          ],
+          "translations": {
+            "zh-TW": "經理正在兩位候選人之間做決定，以填補這個資深職缺。"
           }
         }
       ],
       "synonyms": [
         "determine",
-        "choose"
+        "choose",
+        "resolve"
       ],
       "antonyms": [
         "hesitate",
         "waver"
       ],
       "phrases": [
-        "decide",
-        "to",
-        "go",
-        "decide",
-        "quickly"
+        "decide on",
+        "decide to",
+        "decide between",
+        "hard to decide"
       ]
     },
     {
@@ -261,47 +343,62 @@
       "toeic_score_min": 200,
       "word": "decision",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "decisioned",
-        "past_participle": "decisioned",
-        "present_participle": "decisioning",
-        "third_person": "decisions"
+        "plural": "decisions"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "decision",
-          "definition": "n. 决定, 决心, 决断, [计] 判定"
+          "definition": "n. 決定、決心、判斷"
         }
       ],
       "examples": [
         {
-          "en": "The decision was unanimous.",
+          "en": "The decision to expand into the Asian market was made by the board.",
           "highlight": [
             "decision"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "進軍亞洲市場的決定是由董事會做出的。"
+          }
+        },
+        {
+          "en": "Past decisions can guide us when facing similar challenges in the future.",
+          "highlight": [
+            "decisions"
+          ],
+          "translations": {
+            "zh-TW": "過去的決定能指引我們在未來面對類似挑戰時的方針。"
+          }
+        },
+        {
+          "en": "After weeks of deliberation, the jury finally reached a decision on the case.",
+          "highlight": [
+            "decision"
+          ],
+          "translations": {
+            "zh-TW": "經過數週的審議，陪審團終於對這起案件做出裁定。"
           }
         }
       ],
       "synonyms": [
         "resolution",
-        "conclusion"
+        "conclusion",
+        "verdict"
       ],
       "antonyms": [
         "indecision",
         "hesitation"
       ],
       "phrases": [
-        "final",
-        "decision",
-        "important",
-        "decision"
+        "final decision",
+        "make a decision",
+        "tough decision",
+        "decision-making"
       ]
     },
     {
@@ -312,48 +409,65 @@
       "toeic_score_min": 200,
       "word": "declare",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "declareed",
-        "past_participle": "declareed",
-        "present_participle": "declaring",
-        "third_person": "declares"
+        "present_3rd": "declares",
+        "past": "declared",
+        "past_participle": "declared",
+        "ing": "declaring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "declare",
-          "definition": "v. 宣布, 声明, 申报, 断言"
+          "definition": "v. 宣布、聲明、申報、斷言"
         }
       ],
       "examples": [
         {
-          "en": "He declared his love for her.",
+          "en": "Please declare any goods you are bringing into the country at customs.",
           "highlight": [
             "declare"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在海關申報您攜入國內的任何物品。"
+          }
+        },
+        {
+          "en": "The CEO declared that the company would go carbon neutral by 2030.",
+          "highlight": [
+            "declared"
+          ],
+          "translations": {
+            "zh-TW": "執行長宣布公司將在2030年前達到碳中和。"
+          }
+        },
+        {
+          "en": "With the vote so close, the announcer declared the election a tie until a recount.",
+          "highlight": [
+            "declaring"
+          ],
+          "translations": {
+            "zh-TW": "由於票數相近，廣播員在重新計票前宣布選舉平手。"
           }
         }
       ],
       "synonyms": [
         "announce",
-        "proclaim"
+        "proclaim",
+        "state"
       ],
       "antonyms": [
-        "deny",
-        "retract"
+        "conceal",
+        "deny"
       ],
       "phrases": [
-        "declare",
-        "a",
-        "state",
-        "of",
-        "emergency"
+        "declare bankruptcy",
+        "declare war",
+        "declare income",
+        "declare at customs"
       ]
     },
     {
@@ -368,43 +482,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "declineed",
-        "past_participle": "declineed",
-        "present_participle": "declining",
-        "third_person": "declines"
+        "plural": "declines",
+        "present_3rd": "declines",
+        "past": "declined",
+        "past_participle": "declined",
+        "ing": "declining"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "decline",
-          "definition": "n. 衰退, 跌落, 下降, vt. 使降低, 婉謝, vi. 下降, 衰落, 偏斜"
+          "definition": "n. 衰退、下降  v. 拒絕、婉謝、下降、衰落"
         }
       ],
       "examples": [
         {
-          "en": "The economy is beginning to decline.",
+          "en": "Sales began to decline sharply after the new competitor entered the market.",
           "highlight": [
             "decline"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新競爭者進入市場後，銷售額開始急劇下滑。"
+          }
+        },
+        {
+          "en": "She politely declined the invitation to speak at the conference.",
+          "highlight": [
+            "declined"
+          ],
+          "translations": {
+            "zh-TW": "她婉拒了在研討會上演講的邀請。"
+          }
+        },
+        {
+          "en": "With demand declining each quarter, the board voted to close the factory.",
+          "highlight": [
+            "declining"
+          ],
+          "translations": {
+            "zh-TW": "由於需求每季都在下滑，董事會投票決定關閉工廠。"
           }
         }
       ],
       "synonyms": [
+        "refuse",
         "diminish",
-        "reduce"
+        "decrease"
       ],
       "antonyms": [
+        "accept",
         "increase",
         "rise"
       ],
       "phrases": [
-        "steady",
-        "decline",
-        "sharp",
-        "decline"
+        "decline an offer",
+        "sharp decline",
+        "steady decline",
+        "decline in sales"
       ]
     },
     {
@@ -415,48 +550,65 @@
       "toeic_score_min": 200,
       "word": "decorate",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "decorateed",
-        "past_participle": "decorateed",
-        "present_participle": "decorating",
-        "third_person": "decorates"
+        "present_3rd": "decorates",
+        "past": "decorated",
+        "past_participle": "decorated",
+        "ing": "decorating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "decorate",
-          "definition": "v. 装饰"
+          "definition": "v. 裝飾、佈置、授予勳章"
         }
       ],
       "examples": [
         {
-          "en": "They decorated the room for the party.",
+          "en": "The staff will decorate the conference hall before the annual gala tonight.",
           "highlight": [
             "decorate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "員工會在今晚的年度晚宴前把會議廳佈置好。"
+          }
+        },
+        {
+          "en": "The general decorated the soldier for bravery during the mission.",
+          "highlight": [
+            "decorated"
+          ],
+          "translations": {
+            "zh-TW": "將軍因該士兵在任務中的英勇表現授予他勳章。"
+          }
+        },
+        {
+          "en": "They are decorating the new office with plants and artwork to make it more inviting.",
+          "highlight": [
+            "decorating"
+          ],
+          "translations": {
+            "zh-TW": "他們正在用植物和藝術品佈置新辦公室，讓它更吸引人。"
           }
         }
       ],
       "synonyms": [
         "adorn",
-        "embellish"
+        "embellish",
+        "ornament"
       ],
       "antonyms": [
-        "spoil",
+        "strip",
         "deface"
       ],
       "phrases": [
-        "decorate",
-        "the",
-        "house",
-        "decorate",
-        "the"
+        "decorate a room",
+        "decorate for Christmas",
+        "decorate with flowers",
+        "decorated soldier"
       ]
     },
     {
@@ -467,44 +619,59 @@
       "toeic_score_min": 200,
       "word": "decoration",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "decorationed",
-        "past_participle": "decorationed",
-        "present_participle": "decorationing",
-        "third_person": "decorations"
+        "plural": "decorations"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "decoration",
-          "definition": "n. 装饰, 装饰品"
+          "definition": "n. 裝飾、裝飾品、勳章"
         }
       ],
       "examples": [
         {
-          "en": "The decoration of the hall was beautiful.",
+          "en": "The interior designer handled every detail of the office decoration.",
           "highlight": [
             "decoration"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "室內設計師負責辦公室裝飾的每一個細節。"
+          }
+        },
+        {
+          "en": "Colorful Christmas decorations filled the storefront to attract holiday shoppers.",
+          "highlight": [
+            "decorations"
+          ],
+          "translations": {
+            "zh-TW": "色彩繽紛的聖誕裝飾品擺滿店面，以吸引節日購物人潮。"
+          }
+        },
+        {
+          "en": "The soldier received a medal of decoration for his acts of valor during combat.",
+          "highlight": [
+            "decoration"
+          ],
+          "translations": {
+            "zh-TW": "這名士兵因作戰中的英勇行為獲頒勳章。"
           }
         }
       ],
       "synonyms": [
-        "ornamentation",
-        "adornment"
+        "ornament",
+        "adornment",
+        "embellishment"
       ],
       "antonyms": [],
       "phrases": [
-        "holiday",
-        "decoration",
-        "party",
-        "decoration"
+        "holiday decoration",
+        "Christmas decoration",
+        "cake decoration",
+        "military decoration"
       ]
     }
   ]
