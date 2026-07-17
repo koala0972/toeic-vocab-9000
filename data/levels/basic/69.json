@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 69,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-069-001",
@@ -15,40 +15,62 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "considerables"
+        "plural": "considerables",
+        "comparative": "more considerable",
+        "superlative": "most considerable"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "considerable",
-          "definition": "a. 相当的, 可观的, 重要的"
+          "definition": "a. 相當大的、可觀的、重要的  n. 相當多"
         }
       ],
       "examples": [
         {
-          "en": "He made a considerable amount of money.",
+          "en": "The company has invested a considerable sum in research and development.",
           "highlight": [
             "considerable"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司已投入相當可觀的一筆資金在研發上。"
+          }
+        },
+        {
+          "en": "The new factory will require more considerable resources than we originally estimated.",
+          "highlight": [
+            "more considerable"
+          ],
+          "translations": {
+            "zh-TW": "新工廠將需要比我們原先估算更大量的資源。"
+          }
+        },
+        {
+          "en": "This contract represents the most considerable deal our firm has ever signed.",
+          "highlight": [
+            "most considerable"
+          ],
+          "translations": {
+            "zh-TW": "這份合約代表我們公司有史以簽訂過最重大的交易。"
           }
         }
       ],
       "synonyms": [
+        "substantial",
         "significant",
-        "substantial"
+        "appreciable"
       ],
       "antonyms": [
         "insignificant",
-        "minor"
+        "minor",
+        "negligible"
       ],
       "phrases": [
-        "considerable",
-        "effort",
-        "considerable",
-        "time"
+        "considerable amount",
+        "considerable effort",
+        "considerable time",
+        "considerable expense"
       ]
     },
     {
@@ -67,33 +89,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "considerably",
-          "definition": "adv. 非常地, 很, 颇"
+          "definition": "adv. 相當地、非常、頗"
         }
       ],
       "examples": [
         {
-          "en": "The project was considerably delayed.",
+          "en": "Sales have improved considerably since the new marketing campaign launched.",
           "highlight": [
             "considerably"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "自從新的行銷活動推出以來，銷售額已大幅提升。"
+          }
+        },
+        {
+          "en": "The redesigned product performs considerably better than the previous version.",
+          "highlight": [
+            "considerably"
+          ],
+          "translations": {
+            "zh-TW": "重新設計的產品表現比前一版本好得多。"
+          }
+        },
+        {
+          "en": "By moving production overseas, the firm reduced costs considerably without sacrificing quality.",
+          "highlight": [
+            "considerably"
+          ],
+          "translations": {
+            "zh-TW": "透過將生產移往海外，公司在不犧牲品質的情況下大幅降低了成本。"
           }
         }
       ],
       "synonyms": [
         "greatly",
-        "significantly"
+        "significantly",
+        "substantially"
       ],
       "antonyms": [
         "slightly",
-        "insignificantly"
+        "marginally"
       ],
       "phrases": [
-        "considerably",
-        "different",
-        "considerably",
-        "better"
+        "considerably better",
+        "considerably higher",
+        "considerably less",
+        "improve considerably"
       ]
     },
     {
@@ -114,34 +155,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "consideration",
-          "definition": "n. 考虑, 原因, [法] 考虑, 思考, 报酬"
+          "definition": "n. 考慮、體諒、需考量的事、報酬"
         }
       ],
       "examples": [
         {
-          "en": "She gave the proposal careful consideration.",
+          "en": "The committee will give your proposal careful consideration before making a decision.",
           "highlight": [
             "consideration"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "委員會在做決定前會仔細考慮你的提案。"
+          }
+        },
+        {
+          "en": "Several considerations must be weighed before we expand into the Asian market.",
+          "highlight": [
+            "considerations"
+          ],
+          "translations": {
+            "zh-TW": "在我們擴展至亞洲市場前，必須衡量幾項考量因素。"
+          }
+        },
+        {
+          "en": "Out of consideration for her colleagues, Yuki postponed the meeting until everyone could attend.",
+          "highlight": [
+            "consideration"
+          ],
+          "translations": {
+            "zh-TW": "體諒同事們的難處，Yuki 將會議延後到所有人都能出席為止。"
           }
         }
       ],
       "synonyms": [
         "thought",
-        "deliberation"
+        "deliberation",
+        "reflection"
       ],
       "antonyms": [
         "disregard",
-        "neglect"
+        "neglect",
+        "inattention"
       ],
       "phrases": [
-        "take",
-        "into",
-        "consideration",
-        "careful",
-        "consideration"
+        "take into consideration",
+        "under consideration",
+        "careful consideration",
+        "out of consideration for"
       ]
     },
     {
@@ -152,51 +212,66 @@
       "toeic_score_min": 200,
       "word": "consist",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "consisted",
+        "plural": "consists",
+        "present_3rd": "consists",
+        "past": "consisted",
         "past_participle": "consisted",
-        "present_participle": "consisting",
-        "third_person": "consists"
+        "ing": "consisting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "consist",
-          "definition": "vi. 组成, 存在于, 一致"
+          "definition": "vi. 由...組成、在於、一致"
         }
       ],
       "examples": [
         {
-          "en": "The committee consists of ten members.",
+          "en": "The new committee consists of representatives from each regional office.",
           "highlight": [
-            "consist"
+            "consists"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新委員會由各個地區辦事處的代表所組成。"
+          }
+        },
+        {
+          "en": "The training program consisted of online modules and two weekend workshops last year.",
+          "highlight": [
+            "consisted"
+          ],
+          "translations": {
+            "zh-TW": "去年的培訓計畫由線上課程模組和兩次週末工作坊所組成。"
+          }
+        },
+        {
+          "en": "Her presentation, consisting of slides and live demonstrations, impressed the entire board.",
+          "highlight": [
+            "consisting"
+          ],
+          "translations": {
+            "zh-TW": "她的簡報由投影片和現場示範組成，令全體董事會印象深刻。"
           }
         }
       ],
       "synonyms": [
-        "be",
-        "made",
-        "up",
-        "of",
-        "be"
+        "comprise",
+        "be composed of",
+        "be made up of"
       ],
       "antonyms": [
         "exclude",
-        "eliminate"
+        "omit"
       ],
       "phrases": [
-        "consist",
-        "mainly",
-        "of",
-        "consist",
-        "entirely"
+        "consist of",
+        "consist in",
+        "consist with",
+        "consist mainly of"
       ]
     },
     {
@@ -211,40 +286,62 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "constants"
+        "plural": "constants",
+        "comparative": "more constant",
+        "superlative": "most constant"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "constant",
-          "definition": "n. 常数, 恒量, a. 不变的, 一定的, 時常的, [计] 常量; 常数; 恒值"
+          "definition": "a. 持續不斷的、不變的  n. 常數、恆量"
         }
       ],
       "examples": [
         {
-          "en": "The constant noise was annoying.",
+          "en": "The constant noise from the construction site has been disrupting our meetings all week.",
           "highlight": [
             "constant"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "工地的持續噪音整週干擾著我們的會議。"
+          }
+        },
+        {
+          "en": "A more constant temperature must be maintained in the server room to protect the equipment.",
+          "highlight": [
+            "more constant"
+          ],
+          "translations": {
+            "zh-TW": "機房內必須維持更穩定的溫度，以保護設備。"
+          }
+        },
+        {
+          "en": "The speed of light is the most constant value known to modern physics.",
+          "highlight": [
+            "most constant"
+          ],
+          "translations": {
+            "zh-TW": "光速是現代物理學已知中最恆定不變的數值。"
           }
         }
       ],
       "synonyms": [
         "continuous",
-        "perpetual"
+        "perpetual",
+        "invariable"
       ],
       "antonyms": [
         "intermittent",
-        "occasional"
+        "occasional",
+        "variable"
       ],
       "phrases": [
-        "constant",
-        "pressure",
-        "constant",
-        "change"
+        "constant pressure",
+        "constant change",
+        "constant temperature",
+        "remain constant"
       ]
     },
     {
@@ -263,33 +360,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "constantly",
-          "definition": "adv. 不变地, 不断地, 時常地"
+          "definition": "adv. 不斷地、始終、時常地"
         }
       ],
       "examples": [
         {
-          "en": "She is constantly late.",
+          "en": "The sales team is constantly looking for ways to improve customer satisfaction.",
           "highlight": [
             "constantly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "業務團隊不斷尋求提升顧客滿意度的方法。"
+          }
+        },
+        {
+          "en": "Regulations in the financial sector change constantly, so our compliance team reviews policies monthly.",
+          "highlight": [
+            "constantly"
+          ],
+          "translations": {
+            "zh-TW": "金融業的法規不斷變動，因此我們的合規團隊每月檢視政策。"
+          }
+        },
+        {
+          "en": "She constantly reminded her staff to double-check the figures before submitting the report.",
+          "highlight": [
+            "constantly"
+          ],
+          "translations": {
+            "zh-TW": "她不斷提醒員工在提交報告前再次核對數字。"
           }
         }
       ],
       "synonyms": [
         "always",
-        "perpetually"
+        "perpetually",
+        "continually"
       ],
       "antonyms": [
         "rarely",
-        "infrequently"
+        "infrequently",
+        "occasionally"
       ],
       "phrases": [
-        "constantly",
-        "changing",
-        "constantly",
-        "moving"
+        "constantly changing",
+        "constantly moving",
+        "constantly improving",
+        "constantly monitored"
       ]
     },
     {
@@ -304,44 +421,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "constructed",
+        "plural": "constructs",
+        "present_3rd": "constructs",
+        "past": "constructed",
         "past_participle": "constructed",
-        "present_participle": "constructing",
-        "third_person": "constructs"
+        "ing": "constructing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "construct",
-          "definition": "vt. 构造, 建造, 對...进行构思, 作图, n. 构成物"
+          "definition": "vt. 建造、構築、構思  n. 構造物、概念"
         }
       ],
       "examples": [
         {
-          "en": "They are constructing a new building.",
+          "en": "The contractor will construct the new warehouse using locally sourced materials.",
           "highlight": [
             "construct"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "承包商將使用本地採購的材料建造新倉庫。"
+          }
+        },
+        {
+          "en": "The original bridge was constructed in 1985 and is now due for replacement.",
+          "highlight": [
+            "constructed"
+          ],
+          "translations": {
+            "zh-TW": "原橋梁建於一九八五年，如今已到了需要更換的時候。"
+          }
+        },
+        {
+          "en": "Engineers are currently constructing a tunnel that will cut travel time by forty percent.",
+          "highlight": [
+            "constructing"
+          ],
+          "translations": {
+            "zh-TW": "工程師目前正在建造一條隧道，建成後將縮短達四成的通行時間。"
           }
         }
       ],
       "synonyms": [
         "build",
-        "erect"
+        "erect",
+        "assemble"
       ],
       "antonyms": [
         "destroy",
-        "demolish"
+        "demolish",
+        "dismantle"
       ],
       "phrases": [
-        "construct",
-        "a",
-        "building",
-        "construct",
-        "a"
+        "construct a building",
+        "construct a theory",
+        "construct a bridge",
+        "under construction"
       ]
     },
     {
@@ -352,47 +489,62 @@
       "toeic_score_min": 200,
       "word": "construction",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "constructioned",
-        "past_participle": "constructioned",
-        "present_participle": "constructioning",
-        "third_person": "constructions"
+        "plural": "constructions"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "construction",
-          "definition": "n. 建筑, 构造, 建筑物, [化] 施工"
+          "definition": "n. 建造、建築、建築物、施工"
         }
       ],
       "examples": [
         {
-          "en": "The construction of the bridge took two years.",
+          "en": "Construction of the new headquarters is scheduled to begin next March.",
+          "highlight": [
+            "Construction"
+          ],
+          "translations": {
+            "zh-TW": "新總部的建造工程預計於明年三月動工。"
+          }
+        },
+        {
+          "en": "The road constructions around the harbor have caused traffic delays for three months.",
+          "highlight": [
+            "constructions"
+          ],
+          "translations": {
+            "zh-TW": "港口附近的道路施工已造成三個月的交通延誤。"
+          }
+        },
+        {
+          "en": "Wear a hard hat at all times when entering the construction site, even for a brief visit.",
           "highlight": [
             "construction"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "進入工地時即使只是短暫停留，也請全程配戴安全帽。"
           }
         }
       ],
       "synonyms": [
         "building",
-        "erection"
+        "erection",
+        "assembly"
       ],
       "antonyms": [
         "demolition",
         "destruction"
       ],
       "phrases": [
-        "construction",
-        "site",
-        "construction",
-        "work"
+        "construction site",
+        "construction work",
+        "under construction",
+        "construction company"
       ]
     },
     {
@@ -403,49 +555,66 @@
       "toeic_score_min": 200,
       "word": "consult",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "consulted",
+        "plural": "consults",
+        "present_3rd": "consults",
+        "past": "consulted",
         "past_participle": "consulted",
-        "present_participle": "consulting",
-        "third_person": "consults"
+        "ing": "consulting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "consult",
-          "definition": "vi. 商讨, 商量, 协商, 會诊, vt. 向...請教, 查阅, 考虑"
+          "definition": "vt. 請教、查閱  vi. 商議、協商"
         }
       ],
       "examples": [
         {
-          "en": "She consulted a lawyer.",
+          "en": "Before signing the lease, she decided to consult a real estate attorney.",
           "highlight": [
             "consult"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在簽下租約之前，她決定先請教一位房地產律師。"
+          }
+        },
+        {
+          "en": "The manager consulted with the engineering team before approving the revised budget.",
+          "highlight": [
+            "consulted"
+          ],
+          "translations": {
+            "zh-TW": "經理在批准修改後的預算前，先與工程團隊商議過。"
+          }
+        },
+        {
+          "en": "He has been consulting for several startups since leaving his corporate position last spring.",
+          "highlight": [
+            "consulting"
+          ],
+          "translations": {
+            "zh-TW": "自去年春天離開公司職位後，他一直為幾家新創公司擔任顧問。"
           }
         }
       ],
       "synonyms": [
-        "seek",
-        "advice",
-        "confer"
+        "confer",
+        "seek advice",
+        "discuss"
       ],
       "antonyms": [
         "ignore",
-        "neglect"
+        "disregard"
       ],
       "phrases": [
-        "consult",
-        "a",
-        "doctor",
-        "consult",
-        "with"
+        "consult a doctor",
+        "consult with",
+        "consult a lawyer",
+        "consult a dictionary"
       ]
     },
     {
@@ -456,47 +625,63 @@
       "toeic_score_min": 200,
       "word": "consumer",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "consumered",
-        "past_participle": "consumered",
-        "present_participle": "consumering",
-        "third_person": "consumers"
+        "plural": "consumers"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "consumer",
-          "definition": "n. 消费者, [經] 消费者, 用户"
+          "definition": "n. 消費者、顧客、使用者"
         }
       ],
       "examples": [
         {
-          "en": "Consumers are demanding more organic products.",
+          "en": "The consumer returned the defective phone to the retailer for a full refund.",
           "highlight": [
             "consumer"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "消費者將有瑕疵的手機退回零售商以獲得全額退款。"
+          }
+        },
+        {
+          "en": "Modern consumers expect same-day delivery and hassle-free returns when shopping online.",
+          "highlight": [
+            "consumers"
+          ],
+          "translations": {
+            "zh-TW": "現代消費者在網購時期望當日配送與無痛退貨。"
+          }
+        },
+        {
+          "en": "The survey aims to understand how the consumer evaluates packaging design before purchasing.",
+          "highlight": [
+            "consumer"
+          ],
+          "translations": {
+            "zh-TW": "這項調查旨在了解消費者在購買前如何評估包裝設計。"
           }
         }
       ],
       "synonyms": [
         "buyer",
-        "customer"
+        "customer",
+        "purchaser"
       ],
       "antonyms": [
         "seller",
-        "provider"
+        "producer",
+        "supplier"
       ],
       "phrases": [
-        "consumer",
-        "behavior",
-        "consumer",
-        "demand"
+        "consumer behavior",
+        "consumer demand",
+        "consumer protection",
+        "consumer rights"
       ]
     }
   ]
