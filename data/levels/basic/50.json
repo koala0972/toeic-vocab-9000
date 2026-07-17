@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 50,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-050-001",
@@ -11,45 +11,59 @@
       "toeic_score_min": 200,
       "word": "car",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "cared",
-        "past_participle": "cared",
-        "present_participle": "caring",
-        "third_person": "cars"
+        "plural": "cars"
       },
-      "domain": "general",
+      "domain": "transportation",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "car",
-          "definition": "n. 汽車, 客車, [机] 車"
+          "definition": "n. 汽車、轎車"
         }
       ],
       "examples": [
         {
-          "en": "She drives a red car.",
+          "en": "The company provides a company car for every senior manager.",
           "highlight": [
             "car"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司為每位高級經理提供一輛公務車。"
+          }
+        },
+        {
+          "en": "Electric cars have become increasingly popular in recent years.",
+          "highlight": [
+            "cars"
+          ],
+          "translations": {
+            "zh-TW": "近年來電動車變得越來越受歡迎。"
+          }
+        },
+        {
+          "en": "She parked her car in the underground garage and took the elevator to the office.",
+          "highlight": [
+            "car"
+          ],
+          "translations": {
+            "zh-TW": "她把車停在地下車庫,然後搭電梯到辦公室。"
           }
         }
       ],
       "synonyms": [
         "automobile",
-        "vehicle"
+        "vehicle",
+        "sedan"
       ],
       "antonyms": [],
       "phrases": [
-        "drive",
-        "a",
-        "car",
-        "car",
-        "accident"
+        "company car",
+        "electric car",
+        "rent a car",
+        "park the car"
       ]
     },
     {
@@ -60,44 +74,59 @@
       "toeic_score_min": 200,
       "word": "card",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "carded",
-        "past_participle": "carded",
-        "present_participle": "carding",
-        "third_person": "cards"
+        "plural": "cards"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "card",
-          "definition": "n. 卡片, 纸牌, 节目单, 明信片, 梳棉机, vt. 备置卡片, 記于卡片上, 梳理, [计] 卡片, 卡"
+          "definition": "n. 卡片、名片、信用卡、賀卡"
         }
       ],
       "examples": [
         {
-          "en": "He gave me a birthday card.",
+          "en": "Please present your membership card at the reception desk.",
           "highlight": [
             "card"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在櫃台出示您的會員卡。"
+          }
+        },
+        {
+          "en": "The delegates exchanged business cards before the meeting began.",
+          "highlight": [
+            "cards"
+          ],
+          "translations": {
+            "zh-TW": "代表們在會議開始前交換了名片。"
+          }
+        },
+        {
+          "en": "I paid for the lunch with my credit card instead of cash.",
+          "highlight": [
+            "card"
+          ],
+          "translations": {
+            "zh-TW": "我用信用卡而不是現金付了午餐的錢。"
           }
         }
       ],
       "synonyms": [
         "note",
-        "postcard"
+        "pass",
+        "voucher"
       ],
       "antonyms": [],
       "phrases": [
-        "birthday",
-        "card",
-        "credit",
-        "card"
+        "business card",
+        "credit card",
+        "membership card",
+        "birthday card"
       ]
     },
     {
@@ -119,30 +148,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "cardboard",
-          "definition": "n. 薄纸板, [化] 咭纸; 特等纸板; 卡纸板; 卡片纸板"
+          "definition": "n. 紙板、厚紙板  adj. 紙板做的、薄弱的"
         }
       ],
       "examples": [
         {
-          "en": "The box is made of cardboard.",
+          "en": "The new monitors were shipped in sturdy cardboard boxes.",
           "highlight": [
             "cardboard"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新顯示器裝在堅固的紙箱裡寄送。"
+          }
+        },
+        {
+          "en": "Several cardboards were stacked beside the recycling bin.",
+          "highlight": [
+            "cardboards"
+          ],
+          "translations": {
+            "zh-TW": "幾塊紙板被堆在資源回收桶旁邊。"
+          }
+        },
+        {
+          "en": "The proposal looked amateurish, bound in a cheap cardboard cover.",
+          "highlight": [
+            "cardboard"
+          ],
+          "translations": {
+            "zh-TW": "那份提案看起來很不專業,只用廉價紙板封面裝訂。"
           }
         }
       ],
       "synonyms": [
         "paperboard",
+        "pasteboard",
         "carton"
       ],
       "antonyms": [],
       "phrases": [
-        "cardboard",
-        "box",
-        "cardboard",
-        "cutout"
+        "cardboard box",
+        "cardboard cutout",
+        "sturdy cardboard",
+        "recycle the cardboard"
       ]
     },
     {
@@ -157,32 +205,52 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "careed",
-        "past_participle": "careed",
-        "present_participle": "caring",
-        "third_person": "cares"
+        "plural": "cares",
+        "present_3rd": "cares",
+        "past": "cared",
+        "past_participle": "cared",
+        "ing": "caring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "care",
-          "definition": "n. 小心, 照料, 忧虑, vi. 關心, 介意, vt. 在意, 喜歡"
+          "definition": "n. 照顧、關心、謹慎  v. 關心、在意、照顧"
         }
       ],
       "examples": [
         {
-          "en": "He needs care.",
+          "en": "The hospital provides excellent care for its patients.",
           "highlight": [
             "care"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家醫院為病人提供優質的照護。"
+          }
+        },
+        {
+          "en": "She cared for her elderly parents for over a decade.",
+          "highlight": [
+            "cared"
+          ],
+          "translations": {
+            "zh-TW": "她照顧年邁的父母超過十年。"
+          }
+        },
+        {
+          "en": "A caring manager builds trust and loyalty among the team members.",
+          "highlight": [
+            "caring"
+          ],
+          "translations": {
+            "zh-TW": "一位關心員工的經理能在團隊成員中建立信任與忠誠。"
           }
         }
       ],
       "synonyms": [
         "attention",
+        "concern",
         "custody"
       ],
       "antonyms": [
@@ -190,10 +258,10 @@
         "disregard"
       ],
       "phrases": [
-        "take",
-        "care",
-        "health",
-        "care"
+        "take care of",
+        "health care",
+        "care for",
+        "customer care"
       ]
     },
     {
@@ -204,47 +272,61 @@
       "toeic_score_min": 200,
       "word": "career",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "careered",
-        "past_participle": "careered",
-        "present_participle": "careering",
-        "third_person": "careers"
+        "plural": "careers"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "career",
-          "definition": "n. 事业, 生涯, 成功, [法] 职业, 专业, 履歷"
+          "definition": "n. 事業、職業生涯、職涯"
         }
       ],
       "examples": [
         {
-          "en": "She has a successful career in medicine.",
+          "en": "She started her career as an intern at a small accounting firm.",
           "highlight": [
             "career"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她的職業生涯從一家小型會計事務所的實習生開始。"
+          }
+        },
+        {
+          "en": "Many employees change careers at least once in their lifetime.",
+          "highlight": [
+            "careers"
+          ],
+          "translations": {
+            "zh-TW": "許多員工一生中至少轉換職涯一次。"
+          }
+        },
+        {
+          "en": "The workshop is designed to help graduates plan their career paths.",
+          "highlight": [
+            "career"
+          ],
+          "translations": {
+            "zh-TW": "這個工作坊旨在幫助畢業生規劃他們的職涯路徑。"
           }
         }
       ],
       "synonyms": [
         "profession",
-        "occupation"
+        "occupation",
+        "vocation"
       ],
       "antonyms": [
-        "job",
         "unemployment"
       ],
       "phrases": [
-        "career",
-        "path",
-        "career",
-        "opportunity"
+        "career path",
+        "career opportunity",
+        "career development",
+        "change careers"
       ]
     },
     {
@@ -255,44 +337,63 @@
       "toeic_score_min": 200,
       "word": "careful",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "carefuls"
+        "comparative": "more careful",
+        "superlative": "most careful"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "careful",
-          "definition": "a. 小心的, 谨慎的"
+          "definition": "adj. 小心的、謹慎的、細心的"
         }
       ],
       "examples": [
         {
-          "en": "Be careful while driving.",
+          "en": "Be careful when you handle confidential client information.",
           "highlight": [
             "careful"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "處理機密的客戶資訊時要格外小心。"
+          }
+        },
+        {
+          "en": "The auditor was more careful than the previous one and caught more errors.",
+          "highlight": [
+            "more careful"
+          ],
+          "translations": {
+            "zh-TW": "這位稽核員比前任更細心,發現了更多錯誤。"
+          }
+        },
+        {
+          "en": "She is the most careful proofreader the publishing house has ever employed.",
+          "highlight": [
+            "most careful"
+          ],
+          "translations": {
+            "zh-TW": "她是這家出版社聘僱過最仔細的校對員。"
           }
         }
       ],
       "synonyms": [
         "cautious",
-        "attentive"
+        "attentive",
+        "meticulous"
       ],
       "antonyms": [
         "careless",
         "negligent"
       ],
       "phrases": [
-        "be",
-        "careful",
-        "careful",
-        "handling"
+        "be careful",
+        "careful planning",
+        "careful handling",
+        "careful attention"
       ]
     },
     {
@@ -311,33 +412,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "carefully",
-          "definition": "adv. 小心地, 谨慎地"
+          "definition": "adv. 小心地、謹慎地、仔細地"
         }
       ],
       "examples": [
         {
-          "en": "She carefully packed the fragile items.",
+          "en": "The lab staff carefully measured each chemical before the test.",
           "highlight": [
             "carefully"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "實驗室人員在測試前仔細地量測每一種化學物質。"
+          }
+        },
+        {
+          "en": "Contracts should be reviewed carefully before signing.",
+          "highlight": [
+            "carefully"
+          ],
+          "translations": {
+            "zh-TW": "合約在簽署前應該仔細審閱。"
+          }
+        },
+        {
+          "en": "She listened carefully to the client's concerns during the consultation.",
+          "highlight": [
+            "carefully"
+          ],
+          "translations": {
+            "zh-TW": "她在諮詢過程中仔細聆聽客戶的疑慮。"
           }
         }
       ],
       "synonyms": [
         "cautiously",
-        "attentively"
+        "attentively",
+        "meticulously"
       ],
       "antonyms": [
         "carelessly",
         "recklessly"
       ],
       "phrases": [
-        "drive",
-        "carefully",
-        "handle",
-        "carefully"
+        "listen carefully",
+        "review carefully",
+        "handle carefully",
+        "plan carefully"
       ]
     },
     {
@@ -351,41 +471,60 @@
         "adjective"
       ],
       "conjugations": {
-        "comparative": "carelesser",
-        "superlative": "carelessest"
+        "comparative": "more careless",
+        "superlative": "most careless"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "careless",
-          "definition": "a. 粗心的, 不關心的, 无忧无虑的"
+          "definition": "adj. 粗心的、不小心的、草率的"
         }
       ],
       "examples": [
         {
-          "en": "His careless behavior caused the accident.",
+          "en": "His careless mistake cost the company thousands of dollars.",
           "highlight": [
             "careless"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他那個粗心的錯誤讓公司損失了數千元。"
+          }
+        },
+        {
+          "en": "The new intern was more careless than the experienced staff.",
+          "highlight": [
+            "more careless"
+          ],
+          "translations": {
+            "zh-TW": "新來的實習生比有經驗的員工更粗心。"
+          }
+        },
+        {
+          "en": "The most careless errors usually happen when the deadline is near.",
+          "highlight": [
+            "most careless"
+          ],
+          "translations": {
+            "zh-TW": "最草率的失誤通常發生在截止日期逼近的時候。"
           }
         }
       ],
       "synonyms": [
         "negligent",
-        "inattentive"
+        "inattentive",
+        "reckless"
       ],
       "antonyms": [
         "careful",
         "attentive"
       ],
       "phrases": [
-        "careless",
-        "mistake",
-        "careless",
-        "attitude"
+        "careless mistake",
+        "careless attitude",
+        "careless driving",
+        "careless error"
       ]
     },
     {
@@ -404,33 +543,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "carelessly",
-          "definition": "adv. 不注意地, 粗心地"
+          "definition": "adv. 粗心地、草率地、不小心地"
         }
       ],
       "examples": [
         {
-          "en": "He carelessly threw his clothes on the floor.",
+          "en": "He carelessly deleted the entire project folder before backing it up.",
           "highlight": [
             "carelessly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他不小心在備份前就刪除了整個專案資料夾。"
+          }
+        },
+        {
+          "en": "The draft was carelessly written and had to be revised twice.",
+          "highlight": [
+            "carelessly"
+          ],
+          "translations": {
+            "zh-TW": "那份草稿寫得很草率,必須修改兩次。"
+          }
+        },
+        {
+          "en": "She carelessly left her laptop on the train during her commute.",
+          "highlight": [
+            "carelessly"
+          ],
+          "translations": {
+            "zh-TW": "她在通勤時不小心把筆電留在火車上。"
           }
         }
       ],
       "synonyms": [
         "negligently",
-        "recklessly"
+        "recklessly",
+        "hastily"
       ],
       "antonyms": [
         "carefully",
         "attentively"
       ],
       "phrases": [
-        "drive",
-        "carelessly",
-        "throw",
-        "carelessly"
+        "act carelessly",
+        "carelessly handled",
+        "carelessly written",
+        "drive carelessly"
       ]
     },
     {
@@ -445,41 +603,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "carpeted",
+        "plural": "carpets",
+        "present_3rd": "carpets",
+        "past": "carpeted",
         "past_participle": "carpeted",
-        "present_participle": "carpeting",
-        "third_person": "carpets"
+        "ing": "carpeting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "carpet",
-          "definition": "n. 地毯, 地毯状物, vt. 铺以地毯, 铺盖"
+          "definition": "n. 地毯、地毯狀物  v. 鋪以地毯、責罵"
         }
       ],
       "examples": [
         {
-          "en": "The carpet in the living room is new.",
+          "en": "The hotel corridor was covered with a soft red carpet.",
           "highlight": [
             "carpet"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "飯店走廊鋪滿了柔軟的紅地毯。"
+          }
+        },
+        {
+          "en": "The entire office floor was carpeted in a neutral grey tone.",
+          "highlight": [
+            "carpeted"
+          ],
+          "translations": {
+            "zh-TW": "整個辦公室地板都鋪上了中性灰色調的地毯。"
+          }
+        },
+        {
+          "en": "Carpeting a large conference hall requires careful measurement and professional installation.",
+          "highlight": [
+            "Carpeting"
+          ],
+          "translations": {
+            "zh-TW": "為大型會議廳鋪地毯需要仔細丈量與專業安裝。"
           }
         }
       ],
       "synonyms": [
         "rug",
-        "mat"
+        "mat",
+        "flooring"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "bare floor"
+      ],
       "phrases": [
-        "vacuum",
-        "the",
-        "carpet",
-        "carpet",
-        "cleaning"
+        "red carpet",
+        "carpet cleaning",
+        "wall-to-wall carpet",
+        "vacuum the carpet"
       ]
     }
   ]
