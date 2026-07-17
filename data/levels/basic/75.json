@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 75,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-075-001",
@@ -16,35 +16,57 @@
       "conjugations": {
         "plural": "cousins"
       },
-      "domain": "general",
+      "domain": "family",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cousin",
-          "definition": "n. 堂兄弟姊妹, 表兄弟姊妹, [法] 同辈表亲或堂亲"
+          "definition": "n. 堂兄弟姊妹、表兄弟姊妹"
         }
       ],
       "examples": [
         {
-          "en": "She visited her cousin last summer.",
+          "en": "My cousin works at a bank in Singapore.",
           "highlight": [
             "cousin"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我表哥在新加坡的銀行工作。"
+          }
+        },
+        {
+          "en": "All of my cousins are coming to the family reunion this weekend.",
+          "highlight": [
+            "cousins"
+          ],
+          "translations": {
+            "zh-TW": "我所有的堂表兄弟姊妹這個週末都會來參加家族聚會。"
+          }
+        },
+        {
+          "en": "She is my cousin on my mother's side.",
+          "highlight": [
+            "cousin"
+          ],
+          "translations": {
+            "zh-TW": "她是我媽媽那邊的表姊。"
           }
         }
       ],
       "synonyms": [
         "relative",
-        "kin"
+        "kin",
+        "family member"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "stranger",
+        "outsider"
+      ],
       "phrases": [
-        "first",
-        "cousin",
-        "second",
-        "cousin"
+        "first cousin",
+        "second cousin",
+        "distant cousin",
+        "cousin once removed"
       ]
     },
     {
@@ -59,44 +81,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "covered",
+        "plural": "covers",
+        "present_3rd": "covers",
+        "past": "covered",
         "past_participle": "covered",
-        "present_participle": "covering",
-        "third_person": "covers"
+        "ing": "covering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cover",
-          "definition": "n. 盖子, 封面, 藉口, vt. 覆盖, 掩饰, 保护, 掩护, 包括, vi. 覆盖"
+          "definition": "v. 覆蓋、涵蓋、報導  n. 封面、掩護、蓋子"
         }
       ],
       "examples": [
         {
-          "en": "He covered the pot with a lid.",
+          "en": "This insurance policy covers damage from fire and theft.",
           "highlight": [
-            "cover"
+            "covers"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這份保險單涵蓋火災和失竊造成的損害。"
+          }
+        },
+        {
+          "en": "The reporter covered the election campaign for three months.",
+          "highlight": [
+            "covered"
+          ],
+          "translations": {
+            "zh-TW": "那位記者報導選戰長達三個月。"
+          }
+        },
+        {
+          "en": "She is covering the meeting while her manager is on vacation.",
+          "highlight": [
+            "covering"
+          ],
+          "translations": {
+            "zh-TW": "她正在代為處理會議事務，因為主管休假中。"
           }
         }
       ],
       "synonyms": [
-        "hide",
-        "conceal"
+        "protect",
+        "shelter",
+        "include"
       ],
       "antonyms": [
         "uncover",
+        "expose",
         "reveal"
       ],
       "phrases": [
-        "cover",
-        "the",
-        "table",
-        "cover",
-        "with"
+        "cover for someone",
+        "under cover",
+        "cover letter",
+        "take cover"
       ]
     },
     {
@@ -107,48 +149,61 @@
       "toeic_score_min": 200,
       "word": "covered",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
-      "conjugations": {
-        "past_tense": "covereded",
-        "past_participle": "covereded",
-        "present_participle": "covereding",
-        "third_person": "covereds"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "covered",
-          "definition": "a. 隐蔽着的, 掩藏着的, 有屋顶的, [建] 涂抹了的, 覆盖了的, 掩盖了的"
+          "definition": "adj. 有覆蓋的、被遮蔽的"
         }
       ],
       "examples": [
         {
-          "en": "The car was covered in snow.",
+          "en": "We sat in the covered walkway during the sudden rain.",
           "highlight": [
             "covered"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在突如其來的雨中，我們坐在有頂的走道裡。"
+          }
+        },
+        {
+          "en": "The market stall was covered with fresh fruit and vegetables.",
+          "highlight": [
+            "covered"
+          ],
+          "translations": {
+            "zh-TW": "市場攤位上擺滿了新鮮的水果和蔬菜。"
+          }
+        },
+        {
+          "en": "Their travel costs were fully covered by the company.",
+          "highlight": [
+            "covered"
+          ],
+          "translations": {
+            "zh-TW": "他們的差旅費用由公司全額負擔。"
           }
         }
       ],
       "synonyms": [
         "sheltered",
-        "concealed"
+        "roofed",
+        "protected"
       ],
       "antonyms": [
-        "bare",
-        "exposed"
+        "uncovered",
+        "exposed",
+        "bare"
       ],
       "phrases": [
-        "covered",
-        "bridge",
-        "covered",
-        "with",
-        "snow"
+        "covered bridge",
+        "covered market",
+        "fully covered",
+        "covered wagon"
       ]
     },
     {
@@ -159,47 +214,62 @@
       "toeic_score_min": 200,
       "word": "covering",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "coveringed",
-        "past_participle": "coveringed",
-        "present_participle": "coveringing",
-        "third_person": "coverings"
+        "plural": "coverings"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "covering",
-          "definition": "n. 覆盖物, 掩蔽物, a. 掩护的, 掩盖的, [计] 覆盖"
+          "definition": "n. 覆蓋物、遮蔽物"
         }
       ],
       "examples": [
         {
-          "en": "The covering on the book was torn.",
+          "en": "The thick plastic covering protects the furniture from dust.",
           "highlight": [
             "covering"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "厚塑膠套保護家具不受灰塵侵擾。"
+          }
+        },
+        {
+          "en": "A light covering of snow fell overnight across the city.",
+          "highlight": [
+            "covering"
+          ],
+          "translations": {
+            "zh-TW": "夜裡全市降下薄薄一層雪。"
+          }
+        },
+        {
+          "en": "We need to replace the thermal coverings on the pipes before winter.",
+          "highlight": [
+            "coverings"
+          ],
+          "translations": {
+            "zh-TW": "入冬前我們需要更換管線上的隔熱包覆層。"
           }
         }
       ],
       "synonyms": [
         "coating",
-        "layer"
+        "layer",
+        "wrapper"
       ],
       "antonyms": [
         "exposure",
-        "revelation"
+        "bareness"
       ],
       "phrases": [
-        "plastic",
-        "covering",
-        "book",
-        "covering"
+        "plastic covering",
+        "snow covering",
+        "protective covering",
+        "vinyl covering"
       ]
     },
     {
@@ -214,43 +284,64 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "cowed",
+        "plural": "cows",
+        "present_3rd": "cows",
+        "past": "cowed",
         "past_participle": "cowed",
-        "present_participle": "cowing",
-        "third_person": "cows"
+        "ing": "cowing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cow",
-          "definition": "n. 母牛, 母兽, vt. 威胁"
+          "definition": "n. 母牛、乳牛  v. 恐嚇、威嚇"
         }
       ],
       "examples": [
         {
-          "en": "The cow grazed in the field.",
+          "en": "The dairy farm keeps over two hundred cows for milk production.",
+          "highlight": [
+            "cows"
+          ],
+          "translations": {
+            "zh-TW": "這座乳牛場飼養超過兩百頭乳牛以生產牛奶。"
+          }
+        },
+        {
+          "en": "The bully cowed the younger students into giving him their lunch money.",
+          "highlight": [
+            "cowed"
+          ],
+          "translations": {
+            "zh-TW": "那個惡霸恐嚇低年級學生交出他們的午餐錢。"
+          }
+        },
+        {
+          "en": "A cow stood calmly in the pasture as the farmer approached.",
           "highlight": [
             "cow"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "當農夫走近時，一頭母牛平靜地站在牧場上。"
           }
         }
       ],
       "synonyms": [
         "bovine",
-        "heifer"
+        "heifer",
+        "intimidate"
       ],
       "antonyms": [
         "bull",
-        "steer"
+        "encourage",
+        "embolden"
       ],
       "phrases": [
-        "dairy",
-        "cow",
-        "cow",
-        "milk"
+        "dairy cow",
+        "cash cow",
+        "sacred cow",
+        "till the cows come home"
       ]
     },
     {
@@ -265,41 +356,64 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "cracked",
+        "plural": "cracks",
+        "present_3rd": "cracks",
+        "past": "cracked",
         "past_participle": "cracked",
-        "present_participle": "cracking",
-        "third_person": "cracks"
+        "ing": "cracking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "crack",
-          "definition": "n. 裂缝, 爆裂声, v. (使)爆裂, (使)裂开, (使)發出爆裂声, a. 第一流的, adv. 啪地一声"
+          "definition": "n. 裂縫、爆裂聲  v. 破裂、裂開、解開"
         }
       ],
       "examples": [
         {
-          "en": "There was a crack in the vase.",
+          "en": "There is a small crack in the windshield that keeps spreading.",
           "highlight": [
             "crack"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "擋風玻璃上有一道小裂縫，而且持續蔓延。"
+          }
+        },
+        {
+          "en": "He cracked the password after trying several combinations.",
+          "highlight": [
+            "cracked"
+          ],
+          "translations": {
+            "zh-TW": "試了幾組之後，他破解了密碼。"
+          }
+        },
+        {
+          "en": "The ice is cracking under the weight of the luggage, so be careful.",
+          "highlight": [
+            "cracking"
+          ],
+          "translations": {
+            "zh-TW": "行李的重量讓冰層正在裂開，小心點。"
           }
         }
       ],
       "synonyms": [
         "split",
-        "fracture"
+        "fracture",
+        "break"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "mend",
+        "repair",
+        "fix"
+      ],
       "phrases": [
-        "hairline",
-        "crack",
-        "crack",
-        "in",
-        "the"
+        "hairline crack",
+        "crack the code",
+        "crack a joke",
+        "crack down on"
       ]
     },
     {
@@ -310,47 +424,61 @@
       "toeic_score_min": 200,
       "word": "cracked",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
-      "conjugations": {
-        "past_tense": "crackeded",
-        "past_participle": "crackeded",
-        "present_participle": "crackeding",
-        "third_person": "crackeds"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cracked",
-          "definition": "a. 破碎的, 破裂的, 声音嘶哑的, [建] 有裂缝的, 裂化的"
+          "definition": "adj. 破裂的、有裂痕的、嘶啞的"
         }
       ],
       "examples": [
         {
-          "en": "The mirror was cracked.",
+          "en": "The cracked screen on his phone still works fine.",
           "highlight": [
             "cracked"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他手機上破裂的螢幕仍能正常使用。"
+          }
+        },
+        {
+          "en": "She gave directions in a cracked voice after shouting all day.",
+          "highlight": [
+            "cracked"
+          ],
+          "translations": {
+            "zh-TW": "喊了一整天後，她用嘶啞的聲音指引方向。"
+          }
+        },
+        {
+          "en": "Please toss out the cracked mugs before the guests arrive.",
+          "highlight": [
+            "cracked"
+          ],
+          "translations": {
+            "zh-TW": "客人抵達前，請把有裂痕的馬克杯丟掉。"
           }
         }
       ],
       "synonyms": [
         "fractured",
-        "broken"
+        "broken",
+        "snapped"
       ],
       "antonyms": [
-        "unbroken",
-        "intact"
+        "intact",
+        "whole",
+        "unbroken"
       ],
       "phrases": [
-        "cracked",
-        "mirror",
-        "cracked",
-        "window"
+        "cracked screen",
+        "cracked glass",
+        "cracked voice",
+        "cracked heel"
       ]
     },
     {
@@ -365,43 +493,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "crafted",
+        "plural": "crafts",
+        "present_3rd": "crafts",
+        "past": "crafted",
         "past_participle": "crafted",
-        "present_participle": "crafting",
-        "third_person": "crafts"
+        "ing": "crafting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "craft",
-          "definition": "n. 技艺, 手艺, 诡计, vt. 精心制作"
+          "definition": "n. 手藝、工藝品、小船、航空器  v. 精心製作"
         }
       ],
       "examples": [
         {
-          "en": "She enjoys various crafts like knitting and pottery.",
+          "en": "Local crafts are sold at the weekend market near the harbor.",
           "highlight": [
-            "craft"
+            "crafts"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "港口附近的週末市集販售當地的工藝品。"
+          }
+        },
+        {
+          "en": "The carpenter crafted a custom table from reclaimed oak.",
+          "highlight": [
+            "crafted"
+          ],
+          "translations": {
+            "zh-TW": "木匠用回收橡木精心打造了一張訂製桌。"
+          }
+        },
+        {
+          "en": "She spends every free evening crafting handmade greeting cards.",
+          "highlight": [
+            "crafting"
+          ],
+          "translations": {
+            "zh-TW": "她每個空閒的晚上都在做手工賀卡。"
           }
         }
       ],
       "synonyms": [
         "skill",
-        "trade"
+        "trade",
+        "artistry"
       ],
       "antonyms": [
         "clumsiness",
         "ineptitude"
       ],
       "phrases": [
-        "craft",
-        "fair",
-        "craft",
-        "skills"
+        "craft fair",
+        "craft beer",
+        "craftsmanship",
+        "landing craft"
       ]
     },
     {
@@ -416,43 +564,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "crashed",
+        "plural": "crashes",
+        "present_3rd": "crashes",
+        "past": "crashed",
         "past_participle": "crashed",
-        "present_participle": "crashing",
-        "third_person": "crashs"
+        "ing": "crashing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "crash",
-          "definition": "n. 哗啦声, 猛撞, 崩溃, 粗布, v. 撞碎, 破碎, (使)...坠毁, a. 速成的, [计] 崩溃"
+          "definition": "v. 碰撞、墜毀、崩潰  n. 撞擊、墜機、當機"
         }
       ],
       "examples": [
         {
-          "en": "The car crashed into a tree.",
+          "en": "The server crashes whenever more than fifty users log in at once.",
           "highlight": [
-            "crash"
+            "crashes"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "只要超過五十位使用者同時登入，伺服器就會當機。"
+          }
+        },
+        {
+          "en": "He crashed the rental car into a parking meter last night.",
+          "highlight": [
+            "crashed"
+          ],
+          "translations": {
+            "zh-TW": "昨晚他把租來的車撞上了停車收費表。"
+          }
+        },
+        {
+          "en": "The stock market is crashing, and investors are panicking.",
+          "highlight": [
+            "crashing"
+          ],
+          "translations": {
+            "zh-TW": "股市正在崩盤，投資人陷入恐慌。"
           }
         }
       ],
       "synonyms": [
         "collision",
-        "accident"
+        "smash",
+        "collapse"
       ],
       "antonyms": [
         "avoid",
-        "miss"
+        "miss",
+        "succeed"
       ],
       "phrases": [
-        "car",
-        "crash",
-        "plane",
-        "crash"
+        "car crash",
+        "plane crash",
+        "market crash",
+        "crash course"
       ]
     },
     {
@@ -467,6 +636,8 @@
         "noun"
       ],
       "conjugations": {
+        "comparative": "crazier",
+        "superlative": "craziest",
         "plural": "crazies"
       },
       "domain": "general",
@@ -474,34 +645,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "crazy",
-          "definition": "a. 發狂的, 狂热的"
+          "definition": "adj. 瘋狂的、狂熱的、著迷的"
         }
       ],
       "examples": [
         {
-          "en": "He went crazy after losing his job.",
+          "en": "It is crazy to commute three hours each way just for work.",
           "highlight": [
             "crazy"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "為了上班每天單程通勤三小時真是瘋狂。"
+          }
+        },
+        {
+          "en": "She is even crazier about photography than her sister.",
+          "highlight": [
+            "crazier"
+          ],
+          "translations": {
+            "zh-TW": "她對攝影的狂熱比她姊姊還要深。"
+          }
+        },
+        {
+          "en": "That was the craziest trade deal I have ever negotiated.",
+          "highlight": [
+            "craziest"
+          ],
+          "translations": {
+            "zh-TW": "那是我談過最離譜的一筆貿易交易。"
           }
         }
       ],
       "synonyms": [
         "insane",
-        "mad"
+        "mad",
+        "absurd"
       ],
       "antonyms": [
         "sane",
-        "rational"
+        "rational",
+        "sensible"
       ],
       "phrases": [
-        "go",
-        "crazy",
-        "drive",
-        "someone",
-        "crazy"
+        "go crazy",
+        "drive someone crazy",
+        "crazy about",
+        "like crazy"
       ]
     }
   ]
