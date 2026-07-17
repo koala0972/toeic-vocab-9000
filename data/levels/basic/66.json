@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 66,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-066-001",
@@ -14,41 +14,59 @@
         "adjective"
       ],
       "conjugations": {
-        "comparative": "concerneder",
-        "superlative": "concernedest"
+        "comparative": "more concerned",
+        "superlative": "most concerned"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "concerned",
-          "definition": "a. 關心的, 有關的, 参與的, 担心的"
+          "definition": "adj. 關心的、擔心的、有關的"
         }
       ],
       "examples": [
         {
-          "en": "She is concerned about his health.",
+          "en": "The manager is concerned about the decline in quarterly sales.",
           "highlight": [
             "concerned"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理對季度銷售額的下滑感到擔心。"
+          }
+        },
+        {
+          "en": "Investors grew more concerned as the stock price continued to fall.",
+          "highlight": [
+            "more concerned"
+          ],
+          "translations": {
+            "zh-TW": "隨著股價持續下跌，投資人變得更加憂心。"
+          }
+        },
+        {
+          "en": "Parents are most concerned about the safety of the new playground equipment.",
+          "highlight": [
+            "most concerned"
+          ],
+          "translations": {
+            "zh-TW": "家長們對新款遊樂設施的安全性最為關心。"
           }
         }
       ],
       "synonyms": [
         "worried",
-        "anxious"
+        "anxious",
+        "troubled"
       ],
       "antonyms": [
         "unconcerned",
         "indifferent"
       ],
       "phrases": [
-        "deeply",
-        "concerned",
-        "concerned",
-        "about"
+        "concerned about",
+        "deeply concerned",
+        "concerned citizen"
       ]
     },
     {
@@ -59,45 +77,56 @@
       "toeic_score_min": 200,
       "word": "concerning",
       "pos": [
-        "preposition",
-        "verb"
+        "preposition"
       ],
-      "conjugations": {
-        "past_tense": "concerninged",
-        "past_participle": "concerninged",
-        "present_participle": "concerninging",
-        "third_person": "concernings"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "concerning",
-          "definition": "prep. 關于, [法] 關于"
+          "definition": "prep. 關於、至於"
         }
       ],
       "examples": [
         {
-          "en": "They had a discussion concerning the new policy.",
+          "en": "The HR department issued a memo concerning the new dress code policy.",
           "highlight": [
             "concerning"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "人資部門發布了一份關於新服裝規定的備忘錄。"
+          }
+        },
+        {
+          "en": "She received a letter concerning the terms of her contract renewal.",
+          "highlight": [
+            "concerning"
+          ],
+          "translations": {
+            "zh-TW": "她收到了一封關於合約續約條件的信件。"
+          }
+        },
+        {
+          "en": "The lawyer raised several questions concerning the wording of the agreement.",
+          "highlight": [
+            "concerning"
+          ],
+          "translations": {
+            "zh-TW": "律師針對協議的措辭提出了幾個問題。"
           }
         }
       ],
       "synonyms": [
         "regarding",
-        "about"
+        "about",
+        "regarding"
       ],
       "antonyms": [],
       "phrases": [
-        "concerning",
-        "the",
-        "issue",
-        "concerning",
-        "the"
+        "concerning the issue",
+        "concerning the matter",
+        "concerning the policy"
       ]
     },
     {
@@ -112,40 +141,59 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "concerted",
+        "plural": "concerts",
+        "present_3rd": "concerts",
+        "past": "concerted",
         "past_participle": "concerted",
-        "present_participle": "concerting",
-        "third_person": "concerts"
+        "ing": "concerting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "concert",
-          "definition": "n. 音乐會, 和声, 一致, vt. 协力, 协调, vi. 协力, [计] 美國北卡罗來纳州Internet网"
+          "definition": "n. 音樂會、演唱會  v. 協力、共同籌劃"
         }
       ],
       "examples": [
         {
-          "en": "They went to a rock concert.",
+          "en": "The company sponsored a charity concert at the city stadium.",
           "highlight": [
             "concert"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司贊助了一場在市立體育館舉辦的慈善音樂會。"
+          }
+        },
+        {
+          "en": "Tickets for the orchestra concerts sold out within two hours.",
+          "highlight": [
+            "concerts"
+          ],
+          "translations": {
+            "zh-TW": "管弦樂團音樂會的門票在兩小時內銷售一空。"
+          }
+        },
+        {
+          "en": "They concerted their efforts to launch the product ahead of schedule.",
+          "highlight": [
+            "concerted"
+          ],
+          "translations": {
+            "zh-TW": "他們齊心協力讓產品提前上市。"
           }
         }
       ],
       "synonyms": [
         "performance",
-        "recital"
+        "recital",
+        "show"
       ],
       "antonyms": [],
       "phrases": [
-        "live",
-        "concert",
-        "concert",
-        "hall"
+        "live concert",
+        "concert hall",
+        "rock concert"
       ]
     },
     {
@@ -156,48 +204,64 @@
       "toeic_score_min": 200,
       "word": "conclude",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "concludeed",
-        "past_participle": "concludeed",
-        "present_participle": "concluding",
-        "third_person": "concludes"
+        "present_3rd": "concludes",
+        "past": "concluded",
+        "past_participle": "concluded",
+        "ing": "concluding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "conclude",
-          "definition": "vt. 結束, 作結论, 推断, vi. 結束, 推断"
+          "definition": "v. 結束、斷定、締結"
         }
       ],
       "examples": [
         {
-          "en": "They concluded the meeting.",
+          "en": "The board will conclude the meeting by noon tomorrow.",
           "highlight": [
             "conclude"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "董事會將在明天中午前結束會議。"
+          }
+        },
+        {
+          "en": "The auditor concluded that the financial statements were accurate.",
+          "highlight": [
+            "concluded"
+          ],
+          "translations": {
+            "zh-TW": "稽核員斷定財務報表是準確的。"
+          }
+        },
+        {
+          "en": "Having concluded the negotiations, both sides signed the agreement.",
+          "highlight": [
+            "concluded"
+          ],
+          "translations": {
+            "zh-TW": "完成談判後，雙方簽署了協議。"
           }
         }
       ],
       "synonyms": [
         "finish",
-        "end"
+        "end",
+        "complete"
       ],
       "antonyms": [
         "start",
         "begin"
       ],
       "phrases": [
-        "conclude",
-        "a",
-        "deal",
-        "conclude",
-        "a"
+        "conclude a deal",
+        "conclude a meeting",
+        "to conclude"
       ]
     },
     {
@@ -218,34 +282,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "conclusion",
-          "definition": "n. 結论, 結尾, 推论, [法] 缔結, 結论, 推论"
+          "definition": "n. 結論、結尾、締結"
         }
       ],
       "examples": [
         {
-          "en": "The conclusion of the trial was unexpected.",
+          "en": "The research team reached a conclusion after analyzing the survey data.",
           "highlight": [
             "conclusion"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "研究團隊在分析問卷資料後得出了結論。"
+          }
+        },
+        {
+          "en": "The report lists three main conclusions for the board to consider.",
+          "highlight": [
+            "conclusions"
+          ],
+          "translations": {
+            "zh-TW": "報告列出了三項主要結論供董事會參考。"
+          }
+        },
+        {
+          "en": "In conclusion, the speaker urged the audience to take action immediately.",
+          "highlight": [
+            "conclusion"
+          ],
+          "translations": {
+            "zh-TW": "最後，演講者敦促聽眾立即採取行動。"
           }
         }
       ],
       "synonyms": [
         "end",
-        "outcome"
+        "outcome",
+        "verdict"
       ],
       "antonyms": [
         "beginning",
         "start"
       ],
       "phrases": [
-        "draw",
-        "a",
-        "conclusion",
-        "final",
-        "conclusion"
+        "draw a conclusion",
+        "final conclusion",
+        "in conclusion"
       ]
     },
     {
@@ -267,33 +348,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "concrete",
-          "definition": "n. 凝結物, 混凝土, a. 具体的, 實在的, 混凝土的, v. (使)凝結, 用混凝土浇筑"
+          "definition": "n. 混凝土  adj. 具體的、實在的"
         }
       ],
       "examples": [
         {
-          "en": "They used concrete to build the foundation.",
+          "en": "The construction firm ordered additional concrete for the parking structure.",
           "highlight": [
             "concrete"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "營造公司為停車場建築額外訂購了混凝土。"
+          }
+        },
+        {
+          "en": "Several concretes were tested for durability before the bridge project began.",
+          "highlight": [
+            "concretes"
+          ],
+          "translations": {
+            "zh-TW": "橋樑工程開始前，測試了幾種混凝土的耐久性。"
+          }
+        },
+        {
+          "en": "The committee asked for concrete evidence before approving the proposed budget.",
+          "highlight": [
+            "concrete"
+          ],
+          "translations": {
+            "zh-TW": "委員會要求提出具體證據後才核准預算提案。"
           }
         }
       ],
       "synonyms": [
         "tangible",
-        "real"
+        "real",
+        "solid"
       ],
       "antonyms": [
         "abstract",
         "immaterial"
       ],
       "phrases": [
-        "concrete",
-        "evidence",
-        "concrete",
-        "plan"
+        "concrete evidence",
+        "concrete plan",
+        "reinforced concrete"
       ]
     },
     {
@@ -308,32 +407,52 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "conditioned",
+        "plural": "conditions",
+        "present_3rd": "conditions",
+        "past": "conditioned",
         "past_participle": "conditioned",
-        "present_participle": "conditioning",
-        "third_person": "conditions"
+        "ing": "conditioning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "condition",
-          "definition": "n. 情况, 条件, vt. 使健康, 以...為条件, 决定, 使适应, [计] 条件"
+          "definition": "n. 情況、條件、狀態  v. 使適應、制約"
         }
       ],
       "examples": [
         {
-          "en": "The car is in good condition.",
+          "en": "The used car is in excellent condition despite its age.",
           "highlight": [
             "condition"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這輛二手車雖然老舊，但狀況極佳。"
+          }
+        },
+        {
+          "en": "Market conditions have improved since the interest rate cut.",
+          "highlight": [
+            "conditions"
+          ],
+          "translations": {
+            "zh-TW": "自從降息以來，市場條件已有所改善。"
+          }
+        },
+        {
+          "en": "The athlete conditioned herself through months of intense training.",
+          "highlight": [
+            "conditioned"
+          ],
+          "translations": {
+            "zh-TW": "這位運動員經過數月的密集訓練來鍛鍊自己。"
           }
         }
       ],
       "synonyms": [
         "state",
+        "situation",
         "shape"
       ],
       "antonyms": [
@@ -341,10 +460,9 @@
         "neglect"
       ],
       "phrases": [
-        "working",
-        "condition",
-        "poor",
-        "condition"
+        "working condition",
+        "poor condition",
+        "terms and conditions"
       ]
     },
     {
@@ -359,44 +477,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "conducted",
+        "plural": "conducts",
+        "present_3rd": "conducts",
+        "past": "conducted",
         "past_participle": "conducted",
-        "present_participle": "conducting",
-        "third_person": "conducts"
+        "ing": "conducting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "conduct",
-          "definition": "n. 行為, 举動, 指导, vt. 為人, 指挥, 管理, 實施, vi. 领导, 传导, 指挥"
+          "definition": "v. 進行、指揮、傳導  n. 行為、操守"
         }
       ],
       "examples": [
         {
-          "en": "They conduct business in an ethical manner.",
+          "en": "The firm will conduct an internal audit next month.",
           "highlight": [
             "conduct"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司下個月將進行內部稽核。"
+          }
+        },
+        {
+          "en": "The scientist conducted experiments to test the new hypothesis.",
+          "highlight": [
+            "conducted"
+          ],
+          "translations": {
+            "zh-TW": "科學家進行了實驗以測試新的假設。"
+          }
+        },
+        {
+          "en": "Her professional conduct during the crisis earned the board's respect.",
+          "highlight": [
+            "conduct"
+          ],
+          "translations": {
+            "zh-TW": "她在危機中的專業操守贏得了董事會的尊敬。"
           }
         }
       ],
       "synonyms": [
         "manage",
-        "direct"
+        "direct",
+        "behavior"
       ],
       "antonyms": [
         "mismanage",
         "neglect"
       ],
       "phrases": [
-        "conduct",
-        "research",
-        "conduct",
-        "an",
-        "interview"
+        "conduct research",
+        "conduct an interview",
+        "code of conduct"
       ]
     },
     {
@@ -407,47 +543,58 @@
       "toeic_score_min": 200,
       "word": "conference",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "conferenceed",
-        "past_participle": "conferenceed",
-        "present_participle": "conferencing",
-        "third_person": "conferences"
+        "plural": "conferences"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "conference",
-          "definition": "n. 會議, [經] 會議, 讨论會, 协商會"
+          "definition": "n. 會議、研討會、協商會"
         }
       ],
       "examples": [
         {
-          "en": "She attended a conference on climate change.",
+          "en": "The annual sales conference will be held in Singapore this year.",
           "highlight": [
             "conference"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "年度銷售會議今年將在新加坡舉行。"
+          }
+        },
+        {
+          "en": "Industry conferences are excellent venues for networking with potential clients.",
+          "highlight": [
+            "conferences"
+          ],
+          "translations": {
+            "zh-TW": "產業研討會是與潛在客戶建立人脈的絕佳場合。"
+          }
+        },
+        {
+          "en": "The CEO called a press conference to announce the merger.",
+          "highlight": [
+            "conference"
+          ],
+          "translations": {
+            "zh-TW": "執行長召開記者會宣布合併案。"
           }
         }
       ],
       "synonyms": [
         "meeting",
-        "seminar"
+        "seminar",
+        "summit"
       ],
-      "antonyms": [
-        "conversation",
-        "chat"
-      ],
+      "antonyms": [],
       "phrases": [
-        "international",
-        "conference",
-        "press",
-        "conference"
+        "press conference",
+        "international conference",
+        "video conference"
       ]
     },
     {
@@ -468,33 +615,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "confidence",
-          "definition": "n. 信心, [电] 可靠"
+          "definition": "n. 信心、信任、把握"
         }
       ],
       "examples": [
         {
-          "en": "He has confidence in his abilities.",
+          "en": "The new manager spoke with confidence during the staff briefing.",
           "highlight": [
             "confidence"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新任經理在員工簡報中發言時充滿信心。"
+          }
+        },
+        {
+          "en": "Investors' confidences were shaken by the sudden market downturn.",
+          "highlight": [
+            "confidences"
+          ],
+          "translations": {
+            "zh-TW": "投資人的信心因突如其來的市場下跌而動搖。"
+          }
+        },
+        {
+          "en": "Shareholders expressed confidence in the company's long-term strategy.",
+          "highlight": [
+            "confidence"
+          ],
+          "translations": {
+            "zh-TW": "股東對公司的長期策略表達了信任。"
           }
         }
       ],
       "synonyms": [
         "trust",
-        "belief"
+        "belief",
+        "assurance"
       ],
       "antonyms": [
         "doubt",
         "mistrust"
       ],
       "phrases": [
-        "gain",
-        "confidence",
-        "lose",
-        "confidence"
+        "gain confidence",
+        "lose confidence",
+        "self-confidence"
       ]
     }
   ]
