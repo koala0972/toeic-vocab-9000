@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 49,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-049-001",
@@ -11,44 +11,59 @@
       "toeic_score_min": 200,
       "word": "cancer",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "cancered",
-        "past_participle": "cancered",
-        "present_participle": "cancering",
-        "third_person": "cancers"
+        "plural": "cancers"
       },
-      "domain": "general",
+      "domain": "medical",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cancer",
-          "definition": "n. 癌, 恶性肿瘤, [医] 癌"
+          "definition": "n. 癌、惡性腫瘤"
         }
       ],
       "examples": [
         {
-          "en": "She was diagnosed with cancer.",
+          "en": "She was diagnosed with cancer last year and started treatment immediately.",
           "highlight": [
             "cancer"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她去年被診斷出癌症，並立即開始接受治療。"
+          }
+        },
+        {
+          "en": "The study examined various types of cancers common among factory workers.",
+          "highlight": [
+            "cancers"
+          ],
+          "translations": {
+            "zh-TW": "該研究探討了工廠員工中常見的各種癌症。"
+          }
+        },
+        {
+          "en": "Quitting smoking significantly reduces your cancer risk over time.",
+          "highlight": [
+            "cancer"
+          ],
+          "translations": {
+            "zh-TW": "戒菸能隨著時間顯著降低罹癌風險。"
           }
         }
       ],
       "synonyms": [
         "malignancy",
-        "tumor"
+        "tumor",
+        "carcinoma"
       ],
       "antonyms": [],
       "phrases": [
-        "breast",
-        "cancer",
-        "cancer",
-        "treatment"
+        "cancer treatment",
+        "cancer research",
+        "breast cancer",
+        "lung cancer"
       ]
     },
     {
@@ -64,35 +79,54 @@
       "conjugations": {
         "plural": "candidates"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "candidate",
-          "definition": "n. 候选人, 投考者, [法] 候选, 候补者"
+          "definition": "n. 候選人、應徵者、投考者"
         }
       ],
       "examples": [
         {
-          "en": "He is a candidate for the position.",
+          "en": "The candidate impressed the interviewers with her fluent presentation.",
           "highlight": [
             "candidate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位候選人以流暢的簡報令面試官印象深刻。"
+          }
+        },
+        {
+          "en": "All candidates must submit their resumes before the deadline on Friday.",
+          "highlight": [
+            "candidates"
+          ],
+          "translations": {
+            "zh-TW": "所有應徵者必須在週五截止日期前提交履歷。"
+          }
+        },
+        {
+          "en": "We are looking for a candidate with at least three years of sales experience.",
+          "highlight": [
+            "candidate"
+          ],
+          "translations": {
+            "zh-TW": "我們正在尋找一位具備至少三年業務經驗的候選人。"
           }
         }
       ],
       "synonyms": [
         "applicant",
-        "nominee"
+        "nominee",
+        "aspirant"
       ],
       "antonyms": [],
       "phrases": [
-        "presidential",
-        "candidate",
-        "job",
-        "candidate"
+        "presidential candidate",
+        "job candidate",
+        "candidate profile",
+        "shortlisted candidate"
       ]
     },
     {
@@ -108,36 +142,54 @@
       "conjugations": {
         "plural": "candies"
       },
-      "domain": "general",
+      "domain": "food",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "candy",
-          "definition": "n. 糖果, 冰糖, vt. 用糖煮, 使結晶為砂糖, vi. 結晶為砂糖"
+          "definition": "n. 糖果、冰糖"
         }
       ],
       "examples": [
         {
-          "en": "She gave me a piece of candy.",
+          "en": "The hotel reception desk offers free candy to every guest at check-in.",
           "highlight": [
             "candy"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "飯店櫃台在辦理入住時提供每位賓客免費糖果。"
+          }
+        },
+        {
+          "en": "The children bought assorted candies from the vending machine after school.",
+          "highlight": [
+            "candies"
+          ],
+          "translations": {
+            "zh-TW": "放學後孩子們從自動販賣機買了各式各樣的糖果。"
+          }
+        },
+        {
+          "en": "My grandmother always keeps a bowl of candy on the living room table.",
+          "highlight": [
+            "candy"
+          ],
+          "translations": {
+            "zh-TW": "我奶奶總是在客廳桌上放著一碗糖果。"
           }
         }
       ],
       "synonyms": [
         "sweet",
-        "confectionery"
+        "confection",
+        "treat"
       ],
       "antonyms": [],
       "phrases": [
-        "piece",
-        "of",
-        "candy",
-        "candy",
-        "store"
+        "candy store",
+        "piece of candy",
+        "candy bar",
+        "cotton candy"
       ]
     },
     {
@@ -150,44 +202,58 @@
       "pos": [
         "verb"
       ],
-      "conjugations": {
-        "past_tense": "cannoted",
-        "past_participle": "cannoted",
-        "present_participle": "cannoting",
-        "third_person": "cannots"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cannot",
-          "definition": "aux. 无法, 不能"
+          "definition": "aux. 無法、不能（can 的否定形式）"
         }
       ],
       "examples": [
         {
-          "en": "I cannot swim.",
+          "en": "We cannot process your refund without the original purchase receipt.",
           "highlight": [
             "cannot"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "沒有原始購買收據，我們無法為您辦理退款。"
+          }
+        },
+        {
+          "en": "Passengers cannot board the flight without a valid passport and visa.",
+          "highlight": [
+            "cannot"
+          ],
+          "translations": {
+            "zh-TW": "旅客若無有效護照和簽證，就無法登機。"
+          }
+        },
+        {
+          "en": "I simply cannot understand why the meeting was rescheduled without notice.",
+          "highlight": [
+            "cannot"
+          ],
+          "translations": {
+            "zh-TW": "我實在無法理解為何會議會在沒有通知的情況下被重新安排。"
           }
         }
       ],
       "synonyms": [
         "can't",
-        "unable"
+        "unable to",
+        "may not"
       ],
       "antonyms": [
         "can",
         "able"
       ],
       "phrases": [
-        "cannot",
-        "do",
-        "cannot",
-        "be"
+        "cannot afford",
+        "cannot help",
+        "cannot wait",
+        "cannot resist"
       ]
     },
     {
@@ -202,41 +268,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "caped",
-        "past_participle": "caped",
-        "present_participle": "caping",
-        "third_person": "caps"
+        "plural": "caps",
+        "present_3rd": "caps",
+        "past": "capped",
+        "past_participle": "capped",
+        "ing": "capping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cap",
-          "definition": "n. 盖子, 帽子, vt. 戴帽子, 覆盖, 胜過, vi. 脱帽致意, [计] 调用程序分析, 容量, 代码分析程序, 计算机辅助生产, 计算机辅助印刷"
+          "definition": "n. 帽子、蓋子  v. 覆蓋、設上限"
         }
       ],
       "examples": [
         {
-          "en": "He wore a baseball cap.",
+          "en": "Factory workers must wear a safety cap at all times inside the plant.",
           "highlight": [
             "cap"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "工廠員工在廠區內必須隨時佩戴安全帽。"
+          }
+        },
+        {
+          "en": "The government capped rent increases at three percent this year.",
+          "highlight": [
+            "capped"
+          ],
+          "translations": {
+            "zh-TW": "政府今年將租金漲幅上限設定為百分之三。"
+          }
+        },
+        {
+          "en": "The store is capping each customer's purchases to prevent hoarding.",
+          "highlight": [
+            "capping"
+          ],
+          "translations": {
+            "zh-TW": "商店正在限制每位顧客的購買量以防止囤貨。"
           }
         }
       ],
       "synonyms": [
         "hat",
-        "headgear"
+        "lid",
+        "limit"
       ],
       "antonyms": [],
       "phrases": [
-        "wear",
-        "a",
-        "cap",
-        "cap",
-        "off"
+        "baseball cap",
+        "cap on spending",
+        "to cap it off",
+        "salary cap"
       ]
     },
     {
@@ -250,42 +335,61 @@
         "adjective"
       ],
       "conjugations": {
-        "comparative": "capableer",
-        "superlative": "capableest"
+        "comparative": "more capable",
+        "superlative": "most capable"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "capable",
-          "definition": "a. 有能力的, 能的, 能干的"
+          "definition": "a. 有能力的、能幹的、勝任的"
         }
       ],
       "examples": [
         {
-          "en": "She is capable of great things.",
+          "en": "She is a capable manager who handles crises without panicking.",
           "highlight": [
             "capable"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她是一位能幹的經理，能臨危不亂地處理危機。"
+          }
+        },
+        {
+          "en": "Our new analyst is more capable than the one he replaced.",
+          "highlight": [
+            "more capable"
+          ],
+          "translations": {
+            "zh-TW": "我們新來的分析師比他所取代的那位更能幹。"
+          }
+        },
+        {
+          "en": "He is the most capable engineer in the department for this complex task.",
+          "highlight": [
+            "most capable"
+          ],
+          "translations": {
+            "zh-TW": "他是部門中最有能力勝任這項複雜任務的工程師。"
           }
         }
       ],
       "synonyms": [
         "competent",
-        "able"
+        "able",
+        "proficient"
       ],
       "antonyms": [
         "incapable",
-        "unfit"
+        "unfit",
+        "incompetent"
       ],
       "phrases": [
-        "capable",
-        "of",
-        "doing",
-        "capable",
-        "of"
+        "capable of",
+        "capable leader",
+        "highly capable",
+        "capable hands"
       ]
     },
     {
@@ -306,30 +410,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "capacity",
-          "definition": "n. 容量, 能力, 才能, 资格, [计] 容量"
+          "definition": "n. 容量、能力、職位"
         }
       ],
       "examples": [
         {
-          "en": "The hall was filled to capacity.",
+          "en": "The conference hall has a seating capacity of five hundred people.",
           "highlight": [
             "capacity"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這座會議廳可容納五百人入座。"
+          }
+        },
+        {
+          "en": "The factory operates at full capacity during the peak holiday season.",
+          "highlight": [
+            "capacity"
+          ],
+          "translations": {
+            "zh-TW": "工廠在假期旺季期間以滿載產能運作。"
+          }
+        },
+        {
+          "en": "She works in her capacity as senior legal advisor to the board.",
+          "highlight": [
+            "capacity"
+          ],
+          "translations": {
+            "zh-TW": "她以董事會資深法律顧問的身分任職。"
           }
         }
       ],
       "synonyms": [
         "volume",
-        "capability"
+        "capability",
+        "aptitude"
       ],
       "antonyms": [],
       "phrases": [
-        "seating",
-        "capacity",
-        "storage",
-        "capacity"
+        "seating capacity",
+        "storage capacity",
+        "full capacity",
+        "in capacity of"
       ]
     },
     {
@@ -351,30 +474,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "capital",
-          "definition": "n. 首都, 大写字母, 资本, a. 首都的, 重要的"
+          "definition": "n. 首都、資本、大寫字母  a. 首要的、資本的"
         }
       ],
       "examples": [
         {
-          "en": "Paris is the capital of France.",
+          "en": "Tokyo is the capital of Japan and one of the busiest cities in the world.",
           "highlight": [
             "capital"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "東京是日本的首都，也是世界上最繁忙的城市之一。"
+          }
+        },
+        {
+          "en": "The startup raised enough capital to expand its operations into Southeast Asia.",
+          "highlight": [
+            "capital"
+          ],
+          "translations": {
+            "zh-TW": "這家新創公司籌集了足夠的資本，將業務擴展到東南亞。"
+          }
+        },
+        {
+          "en": "Please write your name in capital letters at the top of the application form.",
+          "highlight": [
+            "capital"
+          ],
+          "translations": {
+            "zh-TW": "請在申請表頂端以大寫字母填寫您的姓名。"
           }
         }
       ],
       "synonyms": [
-        "headquarters",
-        "metropolis"
+        "metropolis",
+        "funds",
+        "principal"
       ],
       "antonyms": [],
       "phrases": [
-        "capital",
-        "city",
-        "capital",
-        "investment"
+        "capital city",
+        "capital investment",
+        "working capital",
+        "capital letter"
       ]
     },
     {
@@ -389,40 +531,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "captained",
+        "plural": "captains",
+        "present_3rd": "captains",
+        "past": "captained",
         "past_participle": "captained",
-        "present_participle": "captaining",
-        "third_person": "captains"
+        "ing": "captaining"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "captain",
-          "definition": "n. 船長, 指挥官, 海军上校, 首领, vt. 率领, 指挥"
+          "definition": "n. 船長、機長、隊長  v. 率領、指揮"
         }
       ],
       "examples": [
         {
-          "en": "The captain of the ship gave orders.",
+          "en": "The captain announced a two-hour delay due to severe weather conditions.",
           "highlight": [
             "captain"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "機長宣布因天氣惡劣將延誤兩小時。"
+          }
+        },
+        {
+          "en": "She captained the national team to victory in the championship final.",
+          "highlight": [
+            "captained"
+          ],
+          "translations": {
+            "zh-TW": "她率領國家隊在冠軍賽決賽中奪勝。"
+          }
+        },
+        {
+          "en": "He is captaining the cargo vessel on its maiden voyage across the Pacific.",
+          "highlight": [
+            "captaining"
+          ],
+          "translations": {
+            "zh-TW": "他正指揮這艘貨船進行橫渡太平洋的首航。"
           }
         }
       ],
       "synonyms": [
         "commander",
-        "leader"
+        "leader",
+        "skipper"
       ],
       "antonyms": [],
       "phrases": [
-        "ship",
-        "captain",
-        "team",
-        "captain"
+        "ship captain",
+        "team captain",
+        "captain of industry",
+        "sea captain"
       ]
     },
     {
@@ -437,44 +599,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "captureed",
-        "past_participle": "captureed",
-        "present_participle": "capturing",
-        "third_person": "captures"
+        "plural": "captures",
+        "present_3rd": "captures",
+        "past": "captured",
+        "past_participle": "captured",
+        "ing": "capturing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "capture",
-          "definition": "n. 抓取, 战利品, 捕获之物, vt. 抓取, 获得, 迷住, [计] 截获命令"
+          "definition": "v. 捕獲、奪取、記錄  n. 捕獲、戰利品"
         }
       ],
       "examples": [
         {
-          "en": "They managed to capture the thief.",
+          "en": "The marketing campaign captured the attention of millions of online viewers.",
           "highlight": [
-            "capture"
+            "captured"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這場行銷活動吸引了數百萬線上觀眾的目光。"
+          }
+        },
+        {
+          "en": "Our new app captures every transaction in real time for accurate reporting.",
+          "highlight": [
+            "captures"
+          ],
+          "translations": {
+            "zh-TW": "我們的新應用程式即時記錄每筆交易，以便精確製作報表。"
+          }
+        },
+        {
+          "en": "By capturing the enemy stronghold, the troops secured a crucial strategic advantage.",
+          "highlight": [
+            "capturing"
+          ],
+          "translations": {
+            "zh-TW": "部隊藉由攻克敵方據點，取得了關鍵的戰略優勢。"
           }
         }
       ],
       "synonyms": [
         "seize",
-        "catch"
+        "catch",
+        "arrest"
       ],
       "antonyms": [
         "release",
-        "free"
+        "free",
+        "liberate"
       ],
       "phrases": [
-        "capture",
-        "the",
-        "moment",
-        "capture",
-        "attention"
+        "capture attention",
+        "capture the moment",
+        "data capture",
+        "capture market share"
       ]
     }
   ]
