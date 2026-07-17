@@ -120,15 +120,16 @@ export async function setAllKV(data: Record<string, unknown>): Promise<void> {
 // ─────────────── 高階 API（業務端使用） ───────────────
 
 export async function getProgress(): Promise<ProgressMap> {
-  const raw = await get<ProgressMap | null>('progress');
-  if (!raw || typeof raw !== 'object' || Array.isArray(raw)) return {};
-  // 舊 bug 留下的 self-nesting: { key, value: { key, value: ... } }
-  // 用第一層 numeric key 直接掃出最大 leaf。葉子可為 number。
+  // storage 把每筆包成 { key, value } 放進 object store，
+  // 所以 idb get 回形如 { key: 'progress', value: { 5: 1 } }。
+  const raw = await get<{ value?: ProgressMap } | null>('progress');
+  const v = raw?.value;
+  if (!v || typeof v !== 'object' || Array.isArray(v)) return {};
   const out: ProgressMap = {};
-  for (const [k, v] of Object.entries(raw)) {
-    if (typeof v === 'number' && Number.isFinite(v)) {
+  for (const [k, val] of Object.entries(v as Record<string, unknown>)) {
+    if (typeof val === 'number' && Number.isFinite(val)) {
       const level = parseInt(k, 10);
-      if (!isNaN(level)) out[level] = v;
+      if (!isNaN(level)) out[level] = val;
     }
   }
   return out;

@@ -23,7 +23,6 @@ export default function Home() {
 
   const refresh = useCallback(async () => {
     const [p, l] = await Promise.all([getProgress(), getLang()]);
-    console.log('[home refresh] progress=', p, 'lang=', l);
     setProgress(p);
     if (l) setLangState(l);
   }, []);
