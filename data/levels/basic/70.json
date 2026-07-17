@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 70,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-070-001",
@@ -15,43 +15,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "contacted",
+        "plural": "contacts",
+        "present_3rd": "contacts",
+        "past": "contacted",
         "past_participle": "contacted",
-        "present_participle": "contacting",
-        "third_person": "contacts"
+        "ing": "contacting"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "contact",
-          "definition": "n. 联系, 交际, 熟人, 接触, vi. 接触, 联系, vt. 使接触"
+          "definition": "n. 聯絡、接觸、熟人  v. 聯絡、接觸"
         }
       ],
       "examples": [
         {
-          "en": "They had close contact during the negotiation.",
+          "en": "Please contact our customer service department if you have any questions.",
           "highlight": [
             "contact"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "如果您有任何問題，請聯絡我們的客服部門。"
+          }
+        },
+        {
+          "en": "She contacted the supplier immediately after receiving the damaged shipment.",
+          "highlight": [
+            "contacted"
+          ],
+          "translations": {
+            "zh-TW": "她在收到損壞的貨物後立即聯絡了供應商。"
+          }
+        },
+        {
+          "en": "Our sales team is contacting potential clients to introduce the new product line.",
+          "highlight": [
+            "contacting"
+          ],
+          "translations": {
+            "zh-TW": "我們的業務團隊正在聯絡潛在客戶，介紹新產品系列。"
           }
         }
       ],
       "synonyms": [
-        "touch",
-        "connection"
+        "reach",
+        "get in touch",
+        "connect"
       ],
       "antonyms": [
-        "separation",
-        "distance"
+        "avoid",
+        "ignore"
       ],
       "phrases": [
-        "close",
-        "contact",
-        "maintain",
-        "contact"
+        "contact information",
+        "keep in contact",
+        "eye contact",
+        "business contact"
       ]
     },
     {
@@ -62,48 +82,65 @@
       "toeic_score_min": 200,
       "word": "contain",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "contained",
+        "present_3rd": "contains",
+        "past": "contained",
         "past_participle": "contained",
-        "present_participle": "containing",
-        "third_person": "contains"
+        "ing": "containing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "contain",
-          "definition": "vt. 包含, 容纳, 控制, vi. 自制"
+          "definition": "v. 包含、容納、控制"
         }
       ],
       "examples": [
         {
-          "en": "The box contains old photos.",
+          "en": "The contract must contain all the terms agreed upon during the meeting.",
           "highlight": [
             "contain"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "合約必須包含會議中達成的所有條款。"
+          }
+        },
+        {
+          "en": "The report contained detailed financial analysis for the last quarter.",
+          "highlight": [
+            "contained"
+          ],
+          "translations": {
+            "zh-TW": "這份報告包含了上一季度詳細的財務分析。"
+          }
+        },
+        {
+          "en": "The new packaging contains fewer materials, reducing both cost and waste.",
+          "highlight": [
+            "contains"
+          ],
+          "translations": {
+            "zh-TW": "新包裝使用了較少的材料，同時降低了成本與廢棄物。"
           }
         }
       ],
       "synonyms": [
         "include",
-        "hold"
+        "hold",
+        "comprise"
       ],
       "antonyms": [
         "exclude",
         "omit"
       ],
       "phrases": [
-        "contain",
-        "information",
-        "contain",
-        "an",
-        "item"
+        "contain information",
+        "contain chemicals",
+        "contain costs",
+        "contain a virus"
       ]
     },
     {
@@ -114,44 +151,59 @@
       "toeic_score_min": 200,
       "word": "container",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "containered",
-        "past_participle": "containered",
-        "present_participle": "containering",
-        "third_person": "containers"
+        "plural": "containers"
       },
-      "domain": "general",
+      "domain": "shipping",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "container",
-          "definition": "n. 容器, 集装箱, [化] 集装箱; 贮存箱; 容器(任何一種)"
+          "definition": "n. 容器、貨櫃"
         }
       ],
       "examples": [
         {
-          "en": "She put the cookies in a container.",
+          "en": "Please pack the books in a sturdy container before shipping them overseas.",
           "highlight": [
             "container"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請把書裝入堅固的容器後再寄送到海外。"
+          }
+        },
+        {
+          "en": "The shipping company delivered ten containers of electronic parts this morning.",
+          "highlight": [
+            "containers"
+          ],
+          "translations": {
+            "zh-TW": "航運公司今天早上送達了十個裝有電子零件的貨櫃。"
+          }
+        },
+        {
+          "en": "Each container holds up to two tons of goods for international transport.",
+          "highlight": [
+            "container"
+          ],
+          "translations": {
+            "zh-TW": "每個貨櫃在國際運輸中最多可裝載兩噸貨物。"
           }
         }
       ],
       "synonyms": [
         "receptacle",
-        "holder"
+        "vessel",
+        "bin"
       ],
       "antonyms": [],
       "phrases": [
-        "storage",
-        "container",
-        "shipping",
-        "container"
+        "shipping container",
+        "storage container",
+        "container ship",
+        "plastic container"
       ]
     },
     {
@@ -173,33 +225,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "contemporary",
-          "definition": "n. 同時代的人, a. 同時代的, 属于同一時期的"
+          "definition": "adj. 當代的、現代的  n. 同時代的人"
         }
       ],
       "examples": [
         {
-          "en": "Contemporary artists often explore different media.",
+          "en": "The museum exhibits contemporary art from artists across Asia.",
           "highlight": [
             "contemporary"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這座美術館展出亞洲各地藝術家的當代藝術作品。"
+          }
+        },
+        {
+          "en": "Many contemporaries of Shakespeare wrote plays in a similar style.",
+          "highlight": [
+            "contemporaries"
+          ],
+          "translations": {
+            "zh-TW": "莎士比亞的許多同時代作家都以類似的風格撰寫戲劇。"
+          }
+        },
+        {
+          "en": "Contemporary architects focus heavily on sustainability and energy efficiency.",
+          "highlight": [
+            "Contemporary"
+          ],
+          "translations": {
+            "zh-TW": "當代建築師非常重視永續發展與能源效率。"
           }
         }
       ],
       "synonyms": [
         "modern",
-        "current"
+        "current",
+        "present-day"
       ],
       "antonyms": [
         "ancient",
-        "old"
+        "outdated"
       ],
       "phrases": [
-        "contemporary",
-        "art",
-        "contemporary",
-        "music"
+        "contemporary art",
+        "contemporary music",
+        "contemporary dance",
+        "contemporary design"
       ]
     },
     {
@@ -221,33 +292,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "content",
-          "definition": "n. 内容, 满足, 意义, 要旨, a. 满足的, 满意的, vt. 使...满足, 使...安心, [计] 内容"
+          "definition": "n. 內容、目錄  adj. 滿足的、滿意的"
         }
       ],
       "examples": [
         {
-          "en": "She was content with her life.",
+          "en": "The website content needs to be updated before the product launch.",
           "highlight": [
             "content"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "網站內容需要在產品發布前更新。"
+          }
+        },
+        {
+          "en": "She checked the contents of the package before signing the delivery receipt.",
+          "highlight": [
+            "contents"
+          ],
+          "translations": {
+            "zh-TW": "她在簽收送貨單之前檢查了包裹的內容物。"
+          }
+        },
+        {
+          "en": "After years of hard work, he felt content with his career achievements.",
+          "highlight": [
+            "content"
+          ],
+          "translations": {
+            "zh-TW": "經過多年的努力工作，他對自己的職業成就感到滿足。"
           }
         }
       ],
       "synonyms": [
         "satisfied",
-        "pleased"
+        "pleased",
+        "material"
       ],
       "antonyms": [
         "discontent",
         "unhappy"
       ],
       "phrases": [
-        "feel",
-        "content",
-        "content",
-        "smile"
+        "content marketing",
+        "feel content",
+        "table of contents",
+        "content strategy"
       ]
     },
     {
@@ -262,44 +352,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "contested",
+        "plural": "contests",
+        "present_3rd": "contests",
+        "past": "contested",
         "past_participle": "contested",
-        "present_participle": "contesting",
-        "third_person": "contests"
+        "ing": "contesting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "contest",
-          "definition": "n. 竞赛, 争论, vt. 竞争, 争取, 争辩, vi. 竞争"
+          "definition": "n. 比賽、競賽  v. 競爭、質疑"
         }
       ],
       "examples": [
         {
-          "en": "The contest was fierce and competitive.",
+          "en": "The company is holding a contest to find the best new design idea.",
           "highlight": [
             "contest"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司正在舉辦比賽，尋找最佳的新設計構想。"
+          }
+        },
+        {
+          "en": "She contested the election results and demanded a recount of the votes.",
+          "highlight": [
+            "contested"
+          ],
+          "translations": {
+            "zh-TW": "她對選舉結果提出質疑，並要求重新計票。"
+          }
+        },
+        {
+          "en": "Several candidates are contesting the open position on the board of directors.",
+          "highlight": [
+            "contesting"
+          ],
+          "translations": {
+            "zh-TW": "幾位候選人正在競爭董事會的空缺席位。"
           }
         }
       ],
       "synonyms": [
         "competition",
-        "challenge"
+        "challenge",
+        "dispute"
       ],
       "antonyms": [
         "cooperation",
         "agreement"
       ],
       "phrases": [
-        "enter",
-        "a",
-        "contest",
-        "win",
-        "a"
+        "enter a contest",
+        "win a contest",
+        "contest results",
+        "beauty contest"
       ]
     },
     {
@@ -310,8 +419,7 @@
       "toeic_score_min": 200,
       "word": "context",
       "pos": [
-        "noun",
-        "adjective"
+        "noun"
       ],
       "conjugations": {
         "plural": "contexts"
@@ -321,34 +429,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "context",
-          "definition": "n. 上下文, 背景, 來龙去脉, n. 上下文, [计] 上下文"
+          "definition": "n. 上下文、背景、來龍去脈"
         }
       ],
       "examples": [
         {
-          "en": "You need to consider the context to understand the meaning.",
+          "en": "Please consider the cultural context before launching the marketing campaign.",
           "highlight": [
             "context"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在展開行銷活動之前，請考量文化背景。"
+          }
+        },
+        {
+          "en": "The same word can have different meanings in different contexts.",
+          "highlight": [
+            "contexts"
+          ],
+          "translations": {
+            "zh-TW": "同一個詞彙在不同的上下文中可能有不同的含義。"
+          }
+        },
+        {
+          "en": "Without proper context, the email could easily be misunderstood by the team.",
+          "highlight": [
+            "context"
+          ],
+          "translations": {
+            "zh-TW": "如果沒有適當的背景說明，團隊很容易誤解這封電子郵件。"
           }
         }
       ],
       "synonyms": [
         "circumstances",
-        "background"
+        "background",
+        "setting"
       ],
       "antonyms": [
-        "isolation",
-        "separation"
+        "isolation"
       ],
       "phrases": [
-        "context",
-        "of",
-        "the",
-        "situation",
-        "historical"
+        "in context",
+        "out of context",
+        "cultural context",
+        "historical context"
       ]
     },
     {
@@ -359,44 +484,61 @@
       "toeic_score_min": 200,
       "word": "continent",
       "pos": [
-        "noun",
-        "adjective"
+        "noun"
       ],
       "conjugations": {
         "plural": "continents"
       },
-      "domain": "general",
+      "domain": "geography",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "continent",
-          "definition": "n. 大陆, 洲, a. 自制的"
+          "definition": "n. 大陸、洲"
         }
       ],
       "examples": [
         {
-          "en": "Africa is a continent.",
+          "en": "The company plans to expand its business across the Asian continent next year.",
           "highlight": [
             "continent"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司計畫明年將業務擴展到整個亞洲大陸。"
+          }
+        },
+        {
+          "en": "There are seven continents on Earth, each with its own unique climate.",
+          "highlight": [
+            "continents"
+          ],
+          "translations": {
+            "zh-TW": "地球上有七大洲，每個洲都有獨特的氣候。"
+          }
+        },
+        {
+          "en": "Business travel between continents often requires adjusting to different time zones.",
+          "highlight": [
+            "continents"
+          ],
+          "translations": {
+            "zh-TW": "跨洲的商務旅行通常需要適應不同的時區。"
           }
         }
       ],
       "synonyms": [
         "landmass",
-        "territory"
+        "mainland"
       ],
       "antonyms": [
         "island",
         "ocean"
       ],
       "phrases": [
-        "Asian",
-        "continent",
-        "European",
-        "continent"
+        "Asian continent",
+        "European continent",
+        "cross-continent",
+        "continent tour"
       ]
     },
     {
@@ -407,48 +549,66 @@
       "toeic_score_min": 200,
       "word": "continue",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "continueed",
-        "past_participle": "continueed",
-        "present_participle": "continuing",
-        "third_person": "continues"
+        "present_3rd": "continues",
+        "past": "continued",
+        "past_participle": "continued",
+        "ing": "continuing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "continue",
-          "definition": "vi. 继续, 延续, 延長, vt. 使继续, 使延長"
+          "definition": "v. 繼續、延續、持續"
         }
       ],
       "examples": [
         {
-          "en": "They continued their journey.",
+          "en": "We will continue the meeting after a short coffee break.",
           "highlight": [
             "continue"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們會在短暫的咖啡休息後繼續會議。"
+          }
+        },
+        {
+          "en": "The CEO continued to emphasize the importance of customer satisfaction.",
+          "highlight": [
+            "continued"
+          ],
+          "translations": {
+            "zh-TW": "執行長持續強調顧客滿意度的重要性。"
+          }
+        },
+        {
+          "en": "Despite the economic slowdown, the company continues to hire new employees.",
+          "highlight": [
+            "continues"
+          ],
+          "translations": {
+            "zh-TW": "儘管經濟放緩，公司仍持續招募新員工。"
           }
         }
       ],
       "synonyms": [
         "persist",
-        "proceed"
+        "proceed",
+        "resume"
       ],
       "antonyms": [
         "stop",
-        "discontinue"
+        "discontinue",
+        "halt"
       ],
       "phrases": [
-        "continue",
-        "to",
-        "work",
-        "continue",
-        "with"
+        "continue to work",
+        "continue with",
+        "continue working",
+        "continue reading"
       ]
     },
     {
@@ -459,44 +619,61 @@
       "toeic_score_min": 200,
       "word": "continuous",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "continuouses"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "continuous",
-          "definition": "a. 连续的, 继续的, 连续不断的, [计] 连续的"
+          "definition": "adj. 連續的、持續不斷的"
         }
       ],
       "examples": [
         {
-          "en": "The continuous noise was annoying.",
+          "en": "The factory operates on a continuous production schedule to meet demand.",
           "highlight": [
             "continuous"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "工廠採用連續生產的排程來滿足需求。"
+          }
+        },
+        {
+          "en": "Continuous improvement is a core value of the company's quality management system.",
+          "highlight": [
+            "Continuous"
+          ],
+          "translations": {
+            "zh-TW": "持續改善是公司品質管理系統的核心價值。"
+          }
+        },
+        {
+          "en": "The continuous noise from the construction site made it hard to focus on work.",
+          "highlight": [
+            "continuous"
+          ],
+          "translations": {
+            "zh-TW": "工地持續不斷的噪音讓人難以專心工作。"
           }
         }
       ],
       "synonyms": [
         "uninterrupted",
-        "constant"
+        "constant",
+        "ceaseless"
       ],
       "antonyms": [
         "intermittent",
-        "sporadic"
+        "sporadic",
+        "broken"
       ],
       "phrases": [
-        "continuous",
-        "improvement",
-        "continuous",
-        "flow"
+        "continuous improvement",
+        "continuous flow",
+        "continuous process",
+        "continuous training"
       ]
     }
   ]
