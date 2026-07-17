@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 56,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-056-001",
@@ -22,33 +22,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "chemical",
-          "definition": "n. 化学药品, a. 化学的, 化学上用的"
+          "definition": "n. 化學物質、化學藥品  a. 化學的、化學上用的"
         }
       ],
       "examples": [
         {
-          "en": "They tested the water for chemicals.",
+          "en": "The factory stores hazardous chemicals in a secure warehouse.",
+          "highlight": [
+            "chemicals"
+          ],
+          "translations": {
+            "zh-TW": "這間工廠把危險化學物質存放在安全的倉庫裡。"
+          }
+        },
+        {
+          "en": "Chemical reactions can release harmful gases if not controlled.",
+          "highlight": [
+            "Chemical"
+          ],
+          "translations": {
+            "zh-TW": "化學反應若不受控制，可能會釋放有害氣體。"
+          }
+        },
+        {
+          "en": "The lab technician wore gloves to handle the chemical samples safely.",
           "highlight": [
             "chemical"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "實驗室技術員戴著手套，安全地處理化學樣本。"
           }
         }
       ],
       "synonyms": [
         "compound",
-        "substance"
+        "substance",
+        "reagent"
       ],
       "antonyms": [
         "natural",
         "organic"
       ],
       "phrases": [
-        "chemical",
-        "reaction",
-        "chemical",
-        "substance"
+        "chemical reaction",
+        "chemical substance",
+        "chemical plant",
+        "chemical industry"
       ]
     },
     {
@@ -69,30 +88,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "chemist",
-          "definition": "n. 化学家, 药剂師, [化] 化学家; 化学師; 化学工作者; 药剂師; 药房"
+          "definition": "n. 化學家、藥劑師"
         }
       ],
       "examples": [
         {
-          "en": "She wants to be a chemist.",
+          "en": "A chemist developed a new formula for the cleaning solution.",
           "highlight": [
             "chemist"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "一位化學家為這款清潔劑研發了新的配方。"
+          }
+        },
+        {
+          "en": "The chemists are researching renewable materials at the laboratory.",
+          "highlight": [
+            "chemists"
+          ],
+          "translations": {
+            "zh-TW": "這些化學家正在實驗室裡研究可再生材料。"
+          }
+        },
+        {
+          "en": "She consulted the chemist about the side effects of the medication.",
+          "highlight": [
+            "chemist"
+          ],
+          "translations": {
+            "zh-TW": "她向藥劑師諮詢了這種藥物的副作用。"
           }
         }
       ],
       "synonyms": [
         "pharmacist",
-        "scientist"
+        "scientist",
+        "researcher"
       ],
       "antonyms": [],
       "phrases": [
-        "research",
-        "chemist",
-        "industrial",
-        "chemist"
+        "research chemist",
+        "industrial chemist",
+        "consult a chemist",
+        "chemist shop"
       ]
     },
     {
@@ -113,30 +151,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "chemistry",
-          "definition": "n. 化学, 化学過程, [化] 化学"
+          "definition": "n. 化學、化學過程"
         }
       ],
       "examples": [
         {
-          "en": "He is studying chemistry.",
+          "en": "He majored in chemistry at the university.",
           "highlight": [
             "chemistry"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他在大學主修化學。"
+          }
+        },
+        {
+          "en": "The chemistry graduates applied for positions in the pharmaceutical industry.",
+          "highlight": [
+            "chemistry"
+          ],
+          "translations": {
+            "zh-TW": "化學系畢業生申請了製藥產業的職位。"
+          }
+        },
+        {
+          "en": "Good chemistry between colleagues can improve the team's productivity.",
+          "highlight": [
+            "chemistry"
+          ],
+          "translations": {
+            "zh-TW": "同事之間良好的默契能提升團隊的生產力。"
           }
         }
       ],
       "synonyms": [
         "science",
-        "biochemistry"
+        "biochemistry",
+        "affinity"
       ],
       "antonyms": [],
       "phrases": [
-        "organic",
-        "chemistry",
-        "chemistry",
-        "lab"
+        "organic chemistry",
+        "chemistry lab",
+        "study chemistry",
+        "good chemistry"
       ]
     },
     {
@@ -147,14 +204,10 @@
       "toeic_score_min": 200,
       "word": "cheque",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "chequeed",
-        "past_participle": "chequeed",
-        "present_participle": "chequing",
-        "third_person": "cheques"
+        "plural": "cheques"
       },
       "domain": "general",
       "translations": [
@@ -166,26 +219,44 @@
       ],
       "examples": [
         {
-          "en": "She wrote a cheque for the rent.",
+          "en": "The client paid the invoice with a cheque.",
           "highlight": [
             "cheque"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "客戶用支票支付了這張發票。"
+          }
+        },
+        {
+          "en": "The company issues cheques to all its suppliers at the end of the month.",
+          "highlight": [
+            "cheques"
+          ],
+          "translations": {
+            "zh-TW": "公司在月底向所有供應商開立支票。"
+          }
+        },
+        {
+          "en": "Please sign the back of the cheque before depositing it at the bank.",
+          "highlight": [
+            "cheque"
+          ],
+          "translations": {
+            "zh-TW": "請在支票背面簽名後，再存入銀行。"
           }
         }
       ],
       "synonyms": [
+        "check",
         "draft",
-        "check"
+        "payment"
       ],
       "antonyms": [],
       "phrases": [
-        "write",
-        "a",
-        "cheque",
-        "cash",
-        "a"
+        "write a cheque",
+        "cash a cheque",
+        "bounce a cheque",
+        "cheque book"
       ]
     },
     {
@@ -196,47 +267,59 @@
       "toeic_score_min": 200,
       "word": "chest",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "chested",
-        "past_participle": "chested",
-        "present_participle": "chesting",
-        "third_person": "chests"
+        "plural": "chests"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "chest",
-          "definition": "n. 胸, 胸部, 衣柜, 箱子, [医] 胸, 胸廓"
+          "definition": "n. 胸部、胸腔；箱子、櫃子"
         }
       ],
       "examples": [
         {
-          "en": "He felt a pain in his chest.",
+          "en": "The doctor examined the patient's chest with a stethoscope.",
           "highlight": [
             "chest"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "醫生用聽診器檢查了病人的胸部。"
+          }
+        },
+        {
+          "en": "Treasure chests were discovered in the basement of the old building.",
+          "highlight": [
+            "chests"
+          ],
+          "translations": {
+            "zh-TW": "在這棟舊大樓的地下室發現了寶箱。"
+          }
+        },
+        {
+          "en": "He keeps his winter clothes in a wooden chest under the bed.",
+          "highlight": [
+            "chest"
+          ],
+          "translations": {
+            "zh-TW": "他把冬衣收在床底下的一個木箱裡。"
           }
         }
       ],
       "synonyms": [
         "thorax",
-        "trunk"
+        "trunk",
+        "box"
       ],
-      "antonyms": [
-        "back",
-        "spine"
-      ],
+      "antonyms": [],
       "phrases": [
-        "chest",
-        "pain",
-        "chest",
-        "infection"
+        "chest pain",
+        "chest infection",
+        "treasure chest",
+        "tool chest"
       ]
     },
     {
@@ -251,40 +334,60 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "chewed",
+        "plural": "chews",
+        "present_3rd": "chews",
+        "past": "chewed",
         "past_participle": "chewed",
-        "present_participle": "chewing",
-        "third_person": "chews"
+        "ing": "chewing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "chew",
-          "definition": "vt. 咀嚼, 嚼碎, vi. 咀嚼, 细想, n. 咀嚼, 咀嚼物"
+          "definition": "v. 咀嚼、嚼碎  n. 咀嚼、咀嚼物"
         }
       ],
       "examples": [
         {
-          "en": "He chewed the steak thoroughly.",
+          "en": "Please chew your food slowly before swallowing.",
           "highlight": [
             "chew"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請慢慢咀嚼食物後再吞嚥。"
+          }
+        },
+        {
+          "en": "He chewed the tough steak for a long time before giving up.",
+          "highlight": [
+            "chewed"
+          ],
+          "translations": {
+            "zh-TW": "他嚼了那塊硬牛排很久，最後放棄了。"
+          }
+        },
+        {
+          "en": "The children were chewing gum during the long flight.",
+          "highlight": [
+            "chewing"
+          ],
+          "translations": {
+            "zh-TW": "孩子們在漫長的飛行途中嚼著口香糖。"
           }
         }
       ],
       "synonyms": [
         "masticate",
-        "munch"
+        "munch",
+        "chomp"
       ],
       "antonyms": [],
       "phrases": [
-        "chew",
-        "gum",
-        "chew",
-        "food"
+        "chew gum",
+        "chew food",
+        "chew out",
+        "chew on something"
       ]
     },
     {
@@ -295,44 +398,59 @@
       "toeic_score_min": 200,
       "word": "chicken",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "chickened",
-        "past_participle": "chickened",
-        "present_participle": "chickening",
-        "third_person": "chickens"
+        "plural": "chickens"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "chicken",
-          "definition": "n. 小鸡, 鸡肉"
+          "definition": "n. 雞、雞肉"
         }
       ],
       "examples": [
         {
-          "en": "They keep chickens in their backyard.",
+          "en": "The restaurant serves roast chicken with seasonal vegetables.",
           "highlight": [
             "chicken"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這間餐廳供應烤雞搭配時令蔬菜。"
+          }
+        },
+        {
+          "en": "The farmer raised hundreds of chickens for the local market.",
+          "highlight": [
+            "chickens"
+          ],
+          "translations": {
+            "zh-TW": "這位農夫為本地市場飼養了數百隻雞。"
+          }
+        },
+        {
+          "en": "She ordered grilled chicken salad for lunch at the café.",
+          "highlight": [
+            "chicken"
+          ],
+          "translations": {
+            "zh-TW": "她在咖啡館點了烤雞沙拉當作午餐。"
           }
         }
       ],
       "synonyms": [
         "poultry",
-        "hen"
+        "hen",
+        "fowl"
       ],
       "antonyms": [],
       "phrases": [
-        "fried",
-        "chicken",
-        "chicken",
-        "soup"
+        "fried chicken",
+        "chicken soup",
+        "chicken breast",
+        "chicken out"
       ]
     },
     {
@@ -354,33 +472,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "chief",
-          "definition": "n. 领袖, 酋長, 長官, 主要部分, a. 主要的, 首位的"
+          "definition": "n. 首領、主管、長官  a. 主要的、首要的"
         }
       ],
       "examples": [
         {
-          "en": "The chief addressed the tribe.",
+          "en": "The chief executive officer announced the new strategy.",
           "highlight": [
             "chief"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "執行長宣布了新的策略。"
+          }
+        },
+        {
+          "en": "The department chiefs met to discuss the quarterly budget.",
+          "highlight": [
+            "chiefs"
+          ],
+          "translations": {
+            "zh-TW": "各部門主管開會討論季度預算。"
+          }
+        },
+        {
+          "en": "Cost reduction is our chief concern for this fiscal year.",
+          "highlight": [
+            "chief"
+          ],
+          "translations": {
+            "zh-TW": "降低成本是我們本會計年度的首要目標。"
           }
         }
       ],
       "synonyms": [
         "leader",
-        "head"
+        "head",
+        "principal"
       ],
       "antonyms": [
         "follower",
         "subordinate"
       ],
       "phrases": [
-        "chief",
-        "executive",
-        "tribal",
-        "chief"
+        "chief executive officer",
+        "chief concern",
+        "tribal chief",
+        "chief engineer"
       ]
     },
     {
@@ -391,47 +528,62 @@
       "toeic_score_min": 200,
       "word": "child",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "childed",
-        "past_participle": "childed",
-        "present_participle": "childing",
-        "third_person": "childs"
+        "plural": "children"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "child",
-          "definition": "n. 孩子, 产物, 追随者, [医] 兒童"
+          "definition": "n. 孩子、兒童"
         }
       ],
       "examples": [
         {
-          "en": "The child is playing in the yard.",
+          "en": "Each child must be accompanied by an adult on the tour.",
           "highlight": [
             "child"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "每位兒童在行程中必須由成人陪同。"
+          }
+        },
+        {
+          "en": "The school provides free lunches for children from low-income families.",
+          "highlight": [
+            "children"
+          ],
+          "translations": {
+            "zh-TW": "學校為低收入戶家庭的孩子提供免費午餐。"
+          }
+        },
+        {
+          "en": "The company offers child care services for its employees.",
+          "highlight": [
+            "child"
+          ],
+          "translations": {
+            "zh-TW": "公司為員工提供托兒服務。"
           }
         }
       ],
       "synonyms": [
         "kid",
-        "youngster"
+        "youngster",
+        "toddler"
       ],
       "antonyms": [
         "adult",
         "grown-up"
       ],
       "phrases": [
-        "child",
-        "care",
-        "child",
-        "protection"
+        "child care",
+        "child protection",
+        "only child",
+        "child labor"
       ]
     },
     {
@@ -446,27 +598,46 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "chined",
-        "past_participle": "chined",
-        "present_participle": "chining",
-        "third_person": "chins"
+        "plural": "chins",
+        "present_3rd": "chins",
+        "past": "chinned",
+        "past_participle": "chinned",
+        "ing": "chinning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "chin",
-          "definition": "n. 下巴, 颏, [医] 颏"
+          "definition": "n. 下巴  v. 引體向上、用下巴碰觸"
         }
       ],
       "examples": [
         {
-          "en": "He stroked his chin thoughtfully.",
+          "en": "The boxer was struck on the chin during the final round.",
           "highlight": [
             "chin"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位拳擊手在最後一回合被擊中下巴。"
+          }
+        },
+        {
+          "en": "He rested his chin on his hand while listening to the presentation.",
+          "highlight": [
+            "chin"
+          ],
+          "translations": {
+            "zh-TW": "他聽簡報時，把下巴靠在手上。"
+          }
+        },
+        {
+          "en": "The athlete chinned the bar ten times during training.",
+          "highlight": [
+            "chinned"
+          ],
+          "translations": {
+            "zh-TW": "這位選手在訓練中做了十次引體向上。"
           }
         }
       ],
@@ -476,10 +647,10 @@
       ],
       "antonyms": [],
       "phrases": [
-        "stroke",
-        "chin",
-        "chin",
-        "up"
+        "stroke one's chin",
+        "chin up",
+        "double chin",
+        "chin strap"
       ]
     }
   ]
