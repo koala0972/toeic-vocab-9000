@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 84,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-084-001",
@@ -11,46 +11,60 @@
       "toeic_score_min": 200,
       "word": "definition",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "definitioned",
-        "past_participle": "definitioned",
-        "present_participle": "definitioning",
-        "third_person": "definitions"
+        "plural": "definitions"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "definition",
-          "definition": "n. 定义, 精确度, 清晰度, [计] 清晰度; 清晰度"
+          "definition": "n. 定義、解釋、清晰度"
         }
       ],
       "examples": [
         {
-          "en": "The dictionary provides definitions for words.",
+          "en": "The dictionary provides a clear definition for each word.",
           "highlight": [
             "definition"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這本字典為每個單字提供清晰的定義。"
+          }
+        },
+        {
+          "en": "The professor asked students to compare two definitions of the term.",
+          "highlight": [
+            "definitions"
+          ],
+          "translations": {
+            "zh-TW": "教授請學生比較這個詞的兩種定義。"
+          }
+        },
+        {
+          "en": "High-definition screens make the images much sharper.",
+          "highlight": [
+            "definition"
+          ],
+          "translations": {
+            "zh-TW": "高解析度的螢幕讓影像更加清晰。"
           }
         }
       ],
       "synonyms": [
         "meaning",
-        "explanation"
+        "explanation",
+        "description"
       ],
       "antonyms": [
-        "misdefinition"
+        "ambiguity"
       ],
       "phrases": [
-        "clear",
-        "definition",
-        "precise",
-        "definition"
+        "clear definition",
+        "by definition",
+        "high definition"
       ]
     },
     {
@@ -61,45 +75,58 @@
       "toeic_score_min": 200,
       "word": "degree",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "degreeed",
-        "past_participle": "degreeed",
-        "present_participle": "degreing",
-        "third_person": "degrees"
+        "plural": "degrees"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "degree",
-          "definition": "n. 程度, 度数, 学位, 度, [医] 度, 程度"
+          "definition": "n. 程度、度數、學位、等級"
         }
       ],
       "examples": [
         {
-          "en": "The temperature dropped by a few degrees.",
+          "en": "She earned a degree in business administration.",
           "highlight": [
             "degree"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她取得了企業管理的學位。"
+          }
+        },
+        {
+          "en": "The temperature rose by several degrees in the afternoon.",
+          "highlight": [
+            "degrees"
+          ],
+          "translations": {
+            "zh-TW": "下午氣溫上升了好幾度。"
+          }
+        },
+        {
+          "en": "He works with a high degree of professionalism.",
+          "highlight": [
+            "degree"
+          ],
+          "translations": {
+            "zh-TW": "他以高度的專業精神工作。"
           }
         }
       ],
       "synonyms": [
+        "extent",
         "level",
-        "extent"
+        "measure"
       ],
       "antonyms": [],
       "phrases": [
-        "high",
-        "degree",
-        "degree",
-        "of",
-        "difficulty"
+        "to some degree",
+        "high degree",
+        "bachelor's degree"
       ]
     },
     {
@@ -114,44 +141,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "delayed",
+        "plural": "delays",
+        "present_3rd": "delays",
+        "past": "delayed",
         "past_participle": "delayed",
-        "present_participle": "delaying",
-        "third_person": "delays"
+        "ing": "delaying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "delay",
-          "definition": "n. 耽搁, 迟滞, v. 耽搁, 延迟, [计] 延迟, 延時"
+          "definition": "n. 延遲、耽擱  v. 延遲、延期"
         }
       ],
       "examples": [
         {
-          "en": "The flight was delayed due to bad weather.",
+          "en": "Bad weather will delay the shipment until next week.",
           "highlight": [
             "delay"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "惡劣天氣會把貨物延遲到下週。"
+          }
+        },
+        {
+          "en": "The flight was delayed for over three hours.",
+          "highlight": [
+            "delayed"
+          ],
+          "translations": {
+            "zh-TW": "班機延遲了三個多小時。"
+          }
+        },
+        {
+          "en": "Several delays on the highway made commuters late for work.",
+          "highlight": [
+            "delays"
+          ],
+          "translations": {
+            "zh-TW": "高速公路上的幾次延誤讓通勤者上班遲到。"
           }
         }
       ],
       "synonyms": [
         "postpone",
-        "defer"
+        "defer",
+        "hold up"
       ],
       "antonyms": [
         "advance",
-        "hasten"
+        "hasten",
+        "expedite"
       ],
       "phrases": [
-        "flight",
-        "delay",
-        "delay",
-        "in",
-        "delivery"
+        "flight delay",
+        "without delay",
+        "delay in delivery"
       ]
     },
     {
@@ -166,43 +212,65 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "deliberateed",
-        "past_participle": "deliberateed",
-        "present_participle": "deliberating",
-        "third_person": "deliberates"
+        "plural": "deliberates",
+        "present_3rd": "deliberates",
+        "past": "deliberated",
+        "past_participle": "deliberated",
+        "ing": "deliberating",
+        "comparative": "more deliberate",
+        "superlative": "most deliberate"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "deliberate",
-          "definition": "a. 深思熟虑的, 故意的, 从容的, v. 仔细考虑"
+          "definition": "a. 深思熟慮的、故意的、從容的  v. 仔細考慮"
         }
       ],
       "examples": [
         {
-          "en": "It was a deliberate act of vandalism.",
+          "en": "The manager took a deliberate breath before announcing the layoffs.",
           "highlight": [
             "deliberate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理在宣布裁員前從容地深吸了一口氣。"
+          }
+        },
+        {
+          "en": "The committee deliberated for hours before reaching a decision.",
+          "highlight": [
+            "deliberated"
+          ],
+          "translations": {
+            "zh-TW": "委員會仔細討論了數小時才做出決定。"
+          }
+        },
+        {
+          "en": "She spoke in a more deliberate tone during the negotiation.",
+          "highlight": [
+            "deliberate"
+          ],
+          "translations": {
+            "zh-TW": "她在談判中用更從容的語氣說話。"
           }
         }
       ],
       "synonyms": [
         "intentional",
-        "planned"
+        "planned",
+        "purposeful"
       ],
       "antonyms": [
         "accidental",
-        "unplanned"
+        "unplanned",
+        "impulsive"
       ],
       "phrases": [
-        "deliberate",
-        "attempt",
-        "deliberate",
-        "action"
+        "deliberate act",
+        "deliberate attempt",
+        "deliberate decision"
       ]
     },
     {
@@ -221,33 +289,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "deliberately",
-          "definition": "adv. 故意地"
+          "definition": "adv. 故意地、刻意地"
         }
       ],
       "examples": [
         {
-          "en": "She deliberately ignored him.",
+          "en": "He deliberately left the report on the conference table.",
           "highlight": [
             "deliberately"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他故意把報告留在會議桌上。"
+          }
+        },
+        {
+          "en": "She deliberately chose the seat by the window during the meeting.",
+          "highlight": [
+            "deliberately"
+          ],
+          "translations": {
+            "zh-TW": "她在會議中刻意選了靠窗的位子。"
+          }
+        },
+        {
+          "en": "The witness deliberately avoided answering the lawyer's question.",
+          "highlight": [
+            "deliberately"
+          ],
+          "translations": {
+            "zh-TW": "證人刻意迴避律師的問題。"
           }
         }
       ],
       "synonyms": [
         "intentionally",
-        "purposefully"
+        "purposefully",
+        "on purpose"
       ],
       "antonyms": [
         "accidentally",
-        "unintentionally"
+        "unintentionally",
+        "inadvertently"
       ],
       "phrases": [
-        "deliberately",
-        "avoid",
-        "deliberately",
-        "ignore"
+        "deliberately ignore",
+        "deliberately avoid",
+        "act deliberately"
       ]
     },
     {
@@ -258,44 +345,64 @@
       "toeic_score_min": 200,
       "word": "delicate",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "delicates"
+        "plural": "delicates",
+        "comparative": "more delicate",
+        "superlative": "most delicate"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "delicate",
-          "definition": "a. 细致优雅的, 微妙的, 美味的, [医] 柔弱的"
+          "definition": "a. 精緻的、脆弱的、微妙的、靈敏的"
         }
       ],
       "examples": [
         {
-          "en": "The fabric is delicate and should be handled carefully.",
+          "en": "The silk scarf is delicate and requires hand washing.",
           "highlight": [
             "delicate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這條絲巾很脆弱,需要手洗。"
+          }
+        },
+        {
+          "en": "The negotiator handled the delicate situation with great care.",
+          "highlight": [
+            "delicate"
+          ],
+          "translations": {
+            "zh-TW": "談判者非常小心地處理這個微妙的局面。"
+          }
+        },
+        {
+          "en": "Her lace dress was more delicate than the others in the collection.",
+          "highlight": [
+            "delicate"
+          ],
+          "translations": {
+            "zh-TW": "她的蕾絲洋裝比系列中其他作品更精緻。"
           }
         }
       ],
       "synonyms": [
         "fragile",
-        "fine"
+        "fine",
+        "sensitive"
       ],
       "antonyms": [
         "coarse",
-        "sturdy"
+        "sturdy",
+        "robust"
       ],
       "phrases": [
-        "delicate",
-        "balance",
-        "delicate",
-        "situation"
+        "delicate balance",
+        "delicate situation",
+        "delicate matter"
       ]
     },
     {
@@ -310,44 +417,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "delighted",
+        "plural": "delights",
+        "present_3rd": "delights",
+        "past": "delighted",
         "past_participle": "delighted",
-        "present_participle": "delighting",
-        "third_person": "delights"
+        "ing": "delighting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "delight",
-          "definition": "n. 高興, 愉快, vt. 使高興, 乐于, vi. 感到高興(或愉快、快乐)"
+          "definition": "n. 高興、愉快  v. 使高興、感到愉快"
         }
       ],
       "examples": [
         {
-          "en": "She took great delight in her work.",
+          "en": "The children took great delight in opening their presents.",
           "highlight": [
             "delight"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "孩子們拆禮物時感到非常愉快。"
+          }
+        },
+        {
+          "en": "The new product delighted customers with its innovative features.",
+          "highlight": [
+            "delighted"
+          ],
+          "translations": {
+            "zh-TW": "新產品以創新的功能讓顧客感到高興。"
+          }
+        },
+        {
+          "en": "The chef takes delighting his guests as his highest priority.",
+          "highlight": [
+            "delighting"
+          ],
+          "translations": {
+            "zh-TW": "主廚把取悅賓客視為最高優先。"
           }
         }
       ],
       "synonyms": [
         "joy",
-        "pleasure"
+        "pleasure",
+        "gladden"
       ],
       "antonyms": [
         "displeasure",
-        "sadness"
+        "sadness",
+        "dismay"
       ],
       "phrases": [
-        "take",
-        "delight",
-        "in",
-        "much",
-        "to"
+        "take delight in",
+        "to someone's delight",
+        "delight in"
       ]
     },
     {
@@ -358,48 +484,63 @@
       "toeic_score_min": 200,
       "word": "delighted",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "delighteded",
-        "past_participle": "delighteded",
-        "present_participle": "delighteding",
-        "third_person": "delighteds"
+        "comparative": "more delighted",
+        "superlative": "most delighted"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "delighted",
-          "definition": "a. 高興的, 快乐的"
+          "definition": "a. 高興的、愉快的"
         }
       ],
       "examples": [
         {
-          "en": "They were delighted with the results.",
+          "en": "The clients were delighted with the final presentation.",
           "highlight": [
             "delighted"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "客戶對最終的簡報感到很高興。"
+          }
+        },
+        {
+          "en": "She was more delighted than anyone when the deal was signed.",
+          "highlight": [
+            "delighted"
+          ],
+          "translations": {
+            "zh-TW": "簽約時她比任何人都更開心。"
+          }
+        },
+        {
+          "en": "The delighted children ran to greet their grandparents.",
+          "highlight": [
+            "delighted"
+          ],
+          "translations": {
+            "zh-TW": "高興的孩子們跑去迎接祖父母。"
           }
         }
       ],
       "synonyms": [
         "pleased",
-        "happy"
+        "happy",
+        "thrilled"
       ],
       "antonyms": [
         "displeased",
-        "unhappy"
+        "unhappy",
+        "disappointed"
       ],
       "phrases": [
-        "delighted",
-        "with",
-        "the",
-        "outcome",
-        "delighted"
+        "delighted to meet you",
+        "delighted with",
+        "delighted by"
       ]
     },
     {
@@ -410,49 +551,65 @@
       "toeic_score_min": 200,
       "word": "deliver",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "delivered",
+        "present_3rd": "delivers",
+        "past": "delivered",
         "past_participle": "delivered",
-        "present_participle": "delivering",
-        "third_person": "delivers"
+        "ing": "delivering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "deliver",
-          "definition": "vt. 递送, 陈述, 释放, 發表, 引渡, 投递, 交付, [經] 交運"
+          "definition": "v. 遞送、交付、發表、分娩"
         }
       ],
       "examples": [
         {
-          "en": "The courier delivered the package.",
+          "en": "The courier will deliver the documents by noon.",
           "highlight": [
             "deliver"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "快遞會在中午前遞送文件。"
+          }
+        },
+        {
+          "en": "The CEO delivered an inspiring speech at the annual meeting.",
+          "highlight": [
+            "delivered"
+          ],
+          "translations": {
+            "zh-TW": "執行長在年會上發表了一場振奮人心的演說。"
+          }
+        },
+        {
+          "en": "The company is delivering services to clients across Asia.",
+          "highlight": [
+            "delivering"
+          ],
+          "translations": {
+            "zh-TW": "公司正在為亞洲各地的客戶提供服務。"
           }
         }
       ],
       "synonyms": [
-        "hand",
-        "over",
-        "bring"
+        "hand over",
+        "bring",
+        "convey"
       ],
       "antonyms": [
         "retain",
-        "keep"
+        "keep",
+        "hold"
       ],
       "phrases": [
-        "deliver",
-        "a",
-        "speech",
-        "deliver",
-        "on"
+        "deliver a speech",
+        "deliver on time",
+        "deliver the goods"
       ]
     },
     {
@@ -463,44 +620,58 @@
       "toeic_score_min": 200,
       "word": "delivery",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "deliveryed",
-        "past_participle": "deliveryed",
-        "present_participle": "deliverying",
-        "third_person": "deliverys"
+        "plural": "deliveries"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "delivery",
-          "definition": "n. 递送, 交付, 分娩, 交货, 引渡, [化] 交货额"
+          "definition": "n. 遞送、交付、交貨、分娩"
         }
       ],
       "examples": [
         {
-          "en": "The delivery was scheduled for Monday.",
+          "en": "The delivery is scheduled for Monday morning.",
           "highlight": [
             "delivery"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "交貨安排在週一上午。"
+          }
+        },
+        {
+          "en": "Several deliveries were delayed by the snowstorm.",
+          "highlight": [
+            "deliveries"
+          ],
+          "translations": {
+            "zh-TW": "幾批貨因暴風雪而延遲。"
+          }
+        },
+        {
+          "en": "Customers expect fast delivery when they shop online.",
+          "highlight": [
+            "delivery"
+          ],
+          "translations": {
+            "zh-TW": "顧客上網購物時期待快速的送貨。"
           }
         }
       ],
       "synonyms": [
         "distribution",
-        "dispatch"
+        "dispatch",
+        "shipment"
       ],
       "antonyms": [],
       "phrases": [
-        "delivery",
-        "service",
-        "delivery",
-        "time"
+        "delivery service",
+        "delivery time",
+        "free delivery"
       ]
     }
   ]
