@@ -15,43 +15,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "demanded",
+        "plural": "demands",
+        "present_3rd": "demands",
+        "past": "demanded",
         "past_participle": "demanded",
-        "present_participle": "demanding",
-        "third_person": "demands"
+        "ing": "demanding"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "demand",
-          "definition": "n. 要求, 需求, 需要, v. 要求, 查询"
+          "definition": "n. 需求、要求  v. 要求、強烈請求"
         }
       ],
       "examples": [
         {
-          "en": "They made a demand for higher wages.",
+          "en": "The union made a formal demand for safer working conditions.",
           "highlight": [
             "demand"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "工會正式要求改善工作環境的安全。"
+          }
+        },
+        {
+          "en": "The customer demanded a full refund after the product failed within a week.",
+          "highlight": [
+            "demanded"
+          ],
+          "translations": {
+            "zh-TW": "產品一週內就故障，顧客要求全額退款。"
+          }
+        },
+        {
+          "en": "Demanding clients expect replies within an hour during business hours.",
+          "highlight": [
+            "Demanding"
+          ],
+          "translations": {
+            "zh-TW": "要求高的客戶期望在營業時間內一小時內得到回覆。"
           }
         }
       ],
       "synonyms": [
         "request",
-        "need"
+        "require",
+        "claim"
       ],
       "antonyms": [
         "supply",
         "grant"
       ],
       "phrases": [
-        "high",
-        "demand",
-        "demand",
-        "for"
+        "in demand",
+        "high demand",
+        "demand for",
+        "meet the demand"
       ]
     },
     {
@@ -62,47 +82,64 @@
       "toeic_score_min": 200,
       "word": "demonstrate",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "demonstrateed",
-        "past_participle": "demonstrateed",
-        "present_participle": "demonstrating",
-        "third_person": "demonstrates"
+        "present_3rd": "demonstrates",
+        "past": "demonstrated",
+        "past_participle": "demonstrated",
+        "ing": "demonstrating"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "demonstrate",
-          "definition": "vt. 示范, 证明, vi. 示威"
+          "definition": "v. 示範、證明、展示"
         }
       ],
       "examples": [
         {
-          "en": "The experiment demonstrated the principle.",
+          "en": "The engineer will demonstrate the new software at tomorrow's meeting.",
           "highlight": [
             "demonstrate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "工程師會在明天的會議上示範新軟體。"
+          }
+        },
+        {
+          "en": "She demonstrated excellent leadership during the merger negotiations.",
+          "highlight": [
+            "demonstrated"
+          ],
+          "translations": {
+            "zh-TW": "在併購協商期間，她展現了卓越的領導能力。"
+          }
+        },
+        {
+          "en": "The trainer is currently demonstrating how to operate the forklift safely.",
+          "highlight": [
+            "demonstrating"
+          ],
+          "translations": {
+            "zh-TW": "培訓員目前正在示範如何安全操作堆高機。"
           }
         }
       ],
       "synonyms": [
         "show",
-        "exhibit"
+        "prove",
+        "illustrate"
       ],
       "antonyms": [
         "conceal",
         "hide"
       ],
       "phrases": [
-        "demonstrate",
-        "skills",
-        "demonstrate",
-        "clearly"
+        "demonstrate ability",
+        "demonstrate commitment",
+        "demonstrate against"
       ]
     },
     {
@@ -118,38 +155,52 @@
       "conjugations": {
         "plural": "dentists"
       },
-      "domain": "general",
+      "domain": "daily life",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dentist",
-          "definition": "n. 牙科医生, [医] 牙医師"
+          "definition": "n. 牙醫師"
         }
       ],
       "examples": [
         {
-          "en": "She has an appointment with the dentist.",
+          "en": "I need to book an appointment with the dentist next week.",
           "highlight": [
             "dentist"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我需要預約下週看牙醫。"
+          }
+        },
+        {
+          "en": "Many dentists in this city offer same-day emergency treatment.",
+          "highlight": [
+            "dentists"
+          ],
+          "translations": {
+            "zh-TW": "這座城市許多牙醫師都提供當日急診治療。"
+          }
+        },
+        {
+          "en": "The dentist's office is closed on Sundays and public holidays.",
+          "highlight": [
+            "dentist"
+          ],
+          "translations": {
+            "zh-TW": "這間牙醫診所週日與國定假日公休。"
           }
         }
       ],
       "synonyms": [
-        "oral",
-        "surgeon",
-        "tooth",
-        "doctor"
+        "dental surgeon",
+        "orthodontist"
       ],
       "antonyms": [],
       "phrases": [
-        "visit",
-        "the",
-        "dentist",
-        "family",
-        "dentist"
+        "visit the dentist",
+        "family dentist",
+        "dentist appointment"
       ]
     },
     {
@@ -160,48 +211,65 @@
       "toeic_score_min": 200,
       "word": "deny",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "denyed",
-        "past_participle": "denyed",
-        "present_participle": "denying",
-        "third_person": "denys"
+        "present_3rd": "denies",
+        "past": "denied",
+        "past_participle": "denied",
+        "ing": "denying"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "deny",
-          "definition": "v. 否认, 拒绝"
+          "definition": "v. 否認、拒絕"
         }
       ],
       "examples": [
         {
-          "en": "He denied the allegations.",
+          "en": "The company denies any involvement in the data breach.",
           "highlight": [
-            "deny"
+            "denies"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "該公司否認與這次資料外洩事件有任何關係。"
+          }
+        },
+        {
+          "en": "The manager denied our request for an extended deadline.",
+          "highlight": [
+            "denied"
+          ],
+          "translations": {
+            "zh-TW": "經理拒絕了我們延長期限的請求。"
+          }
+        },
+        {
+          "en": "He was accused of denying customers fair access to the service.",
+          "highlight": [
+            "denying"
+          ],
+          "translations": {
+            "zh-TW": "他被指控拒絕讓客戶公平使用該服務。"
           }
         }
       ],
       "synonyms": [
+        "refuse",
         "reject",
-        "refuse"
+        "disclaim"
       ],
       "antonyms": [
-        "accept",
-        "admit"
+        "admit",
+        "acknowledge",
+        "grant"
       ],
       "phrases": [
-        "deny",
-        "the",
-        "truth",
-        "deny",
-        "an"
+        "deny responsibility",
+        "deny access",
+        "deny the allegation"
       ]
     },
     {
@@ -212,47 +280,58 @@
       "toeic_score_min": 200,
       "word": "department",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "departmented",
-        "past_participle": "departmented",
-        "present_participle": "departmenting",
-        "third_person": "departments"
+        "plural": "departments"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "department",
-          "definition": "n. 部門, 系, 机關, [医] 部, 科"
+          "definition": "n. 部門、科、系"
         }
       ],
       "examples": [
         {
-          "en": "She works in the marketing department.",
+          "en": "Please forward your invoice to the accounting department.",
           "highlight": [
             "department"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請將發票轉交給會計部門。"
+          }
+        },
+        {
+          "en": "Several departments will share the new conference room on the fifth floor.",
+          "highlight": [
+            "departments"
+          ],
+          "translations": {
+            "zh-TW": "幾個部門將共用五樓的新會議室。"
+          }
+        },
+        {
+          "en": "She was promoted to head of the marketing department last spring.",
+          "highlight": [
+            "department"
+          ],
+          "translations": {
+            "zh-TW": "去年春天她晉升為行銷部門主管。"
           }
         }
       ],
       "synonyms": [
         "division",
-        "section"
+        "section",
+        "branch"
       ],
-      "antonyms": [
-        "whole",
-        "entirety"
-      ],
+      "antonyms": [],
       "phrases": [
-        "marketing",
-        "department",
-        "sales",
-        "department"
+        "marketing department",
+        "human resources department",
+        "department head"
       ]
     },
     {
@@ -263,47 +342,60 @@
       "toeic_score_min": 200,
       "word": "departure",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "departureed",
-        "past_participle": "departureed",
-        "present_participle": "departuring",
-        "third_person": "departures"
+        "plural": "departures"
       },
-      "domain": "general",
+      "domain": "travel",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "departure",
-          "definition": "n. 離开, 出發, 违背, 偏離, [經] 启運"
+          "definition": "n. 出發、啟程、離開"
         }
       ],
       "examples": [
         {
-          "en": "Their departure was delayed due to weather conditions.",
+          "en": "Flight BA 205 has been moved to departure gate 23.",
           "highlight": [
             "departure"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "BA 205 航班已改到 23 號登機門出發。"
+          }
+        },
+        {
+          "en": "Multiple departures from Terminal 2 were delayed by the storm.",
+          "highlight": [
+            "departures"
+          ],
+          "translations": {
+            "zh-TW": "因暴風雨影響，第二航廈多個出發航班延後。"
+          }
+        },
+        {
+          "en": "Hotel checkout is at 11 a.m., well before my departure time.",
+          "highlight": [
+            "departure"
+          ],
+          "translations": {
+            "zh-TW": "飯店退房時間是上午 11 點，遠早於我的出發時間。"
           }
         }
       ],
       "synonyms": [
         "exit",
-        "leaving"
+        "leaving",
+        "takeoff"
       ],
       "antonyms": [
-        "arrival",
-        "coming"
+        "arrival"
       ],
       "phrases": [
-        "departure",
-        "time",
-        "sudden",
-        "departure"
+        "departure time",
+        "departure gate",
+        "departure lounge"
       ]
     },
     {
@@ -314,48 +406,64 @@
       "toeic_score_min": 200,
       "word": "depend",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "depended",
+        "present_3rd": "depends",
+        "past": "depended",
         "past_participle": "depended",
-        "present_participle": "depending",
-        "third_person": "depends"
+        "ing": "depending"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "depend",
-          "definition": "vi. 靠, 视...而定, 信赖"
+          "definition": "v. 依賴、視…而定"
         }
       ],
       "examples": [
         {
-          "en": "Their success depends on the weather.",
+          "en": "Our bonus depends on the team's quarterly performance.",
           "highlight": [
-            "depend"
+            "depends"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們的獎金取決於團隊的季度表現。"
+          }
+        },
+        {
+          "en": "Last year the company depended heavily on a single supplier.",
+          "highlight": [
+            "depended"
+          ],
+          "translations": {
+            "zh-TW": "去年公司嚴重依賴單一供應商。"
+          }
+        },
+        {
+          "en": "We are depending on you to finish the report before Friday.",
+          "highlight": [
+            "depending"
+          ],
+          "translations": {
+            "zh-TW": "我們仰賴你在週五前完成這份報告。"
           }
         }
       ],
       "synonyms": [
         "rely",
-        "count"
+        "count",
+        "hinge"
       ],
       "antonyms": [
-        "independent",
-        "self-reliant"
+        "doubt",
+        "question"
       ],
       "phrases": [
-        "depend",
-        "heavily",
-        "on",
-        "depend",
-        "entirely"
+        "depend on",
+        "depend upon",
+        "it depends"
       ]
     },
     {
@@ -370,44 +478,61 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "deposited",
+        "plural": "deposits",
+        "present_3rd": "deposits",
+        "past": "deposited",
         "past_participle": "deposited",
-        "present_participle": "depositing",
-        "third_person": "deposits"
+        "ing": "depositing"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "deposit",
-          "definition": "n. 存款, 定金, 堆积物, vt. 存放, 堆积, vi. 沉淀"
+          "definition": "n. 存款、押金、訂金  v. 存入、存放"
         }
       ],
       "examples": [
         {
-          "en": "She made a deposit into her savings account.",
+          "en": "You must pay a security deposit before signing the lease.",
           "highlight": [
             "deposit"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "簽租約前必須先支付押金。"
+          }
+        },
+        {
+          "en": "I deposited the cheque at the branch near the office during lunch.",
+          "highlight": [
+            "deposited"
+          ],
+          "translations": {
+            "zh-TW": "午休時我把支票存進辦公室附近的分行。"
+          }
+        },
+        {
+          "en": "The ATM outside the lobby is for depositing cash and cheques.",
+          "highlight": [
+            "depositing"
+          ],
+          "translations": {
+            "zh-TW": "大廳外的提款機用於存入現金與支票。"
           }
         }
       ],
       "synonyms": [
-        "saving",
-        "investment"
+        "payment",
+        "installment",
+        "down payment"
       ],
       "antonyms": [
-        "withdrawal",
-        "disbursement"
+        "withdrawal"
       ],
       "phrases": [
-        "bank",
-        "deposit",
-        "make",
-        "a",
-        "deposit"
+        "make a deposit",
+        "security deposit",
+        "bank deposit"
       ]
     },
     {
@@ -418,48 +543,65 @@
       "toeic_score_min": 200,
       "word": "depress",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "depressed",
+        "present_3rd": "depresses",
+        "past": "depressed",
         "past_participle": "depressed",
-        "present_participle": "depressing",
-        "third_person": "depresses"
+        "ing": "depressing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "depress",
-          "definition": "vt. 使沮丧, 压低, 降低, 使萧条, [化] 推下"
+          "definition": "v. 使沮喪、壓低、使不景氣"
         }
       ],
       "examples": [
         {
-          "en": "The news depressed him.",
+          "en": "Long winters tend to depress sales of summer products.",
           "highlight": [
             "depress"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "漫長的冬季往往會壓低夏季產品的銷量。"
+          }
+        },
+        {
+          "en": "The poor quarterly figures depressed the stock price for weeks.",
+          "highlight": [
+            "depressed"
+          ],
+          "translations": {
+            "zh-TW": "糟糕的季度財報壓低了股價長達數週。"
+          }
+        },
+        {
+          "en": "Reading the news every night can be genuinely depressing.",
+          "highlight": [
+            "depressing"
+          ],
+          "translations": {
+            "zh-TW": "每晚看新聞確實會令人沮喪。"
           }
         }
       ],
       "synonyms": [
+        "discourage",
         "dishearten",
-        "sadden"
+        "lower"
       ],
       "antonyms": [
         "encourage",
-        "uplift"
+        "cheer",
+        "boost"
       ],
       "phrases": [
-        "depress",
-        "the",
-        "mood",
-        "depress",
-        "prices"
+        "depress prices",
+        "depress the mood",
+        "depress wages"
       ]
     },
     {
@@ -470,47 +612,63 @@
       "toeic_score_min": 200,
       "word": "depressed",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "depresseded",
-        "past_participle": "depresseded",
-        "present_participle": "depresseding",
-        "third_person": "depresseds"
+        "comparative": "more depressed",
+        "superlative": "most depressed"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "depressed",
-          "definition": "a. 沮丧的, 降低的, [医] 抑郁的, 阻抑的, 压低的, 凹[陷]的, 扁平的"
+          "definition": "adj. 沮喪的、憂鬱的、不景氣的"
         }
       ],
       "examples": [
         {
-          "en": "He has been feeling depressed lately.",
+          "en": "He felt depressed after losing the contract he had worked on for months.",
           "highlight": [
             "depressed"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "談了幾個月的合約泡湯後，他感到很沮喪。"
+          }
+        },
+        {
+          "en": "Sales were even more depressed in rural areas than in the cities.",
+          "highlight": [
+            "more depressed"
+          ],
+          "translations": {
+            "zh-TW": "鄉村地區的銷量比城市還更加低迷。"
+          }
+        },
+        {
+          "en": "The most depressed sectors of the economy are still waiting for relief.",
+          "highlight": [
+            "most depressed"
+          ],
+          "translations": {
+            "zh-TW": "景氣最低迷的產業仍在等待援助方案。"
           }
         }
       ],
       "synonyms": [
-        "despondent",
-        "sad"
+        "sad",
+        "downcast",
+        "low"
       ],
       "antonyms": [
-        "happy",
-        "cheerful"
+        "cheerful",
+        "upbeat",
+        "elated"
       ],
       "phrases": [
-        "clinically",
-        "depressed",
-        "feeling",
-        "depressed"
+        "feel depressed",
+        "depressed area",
+        "clinically depressed"
       ]
     }
   ]
