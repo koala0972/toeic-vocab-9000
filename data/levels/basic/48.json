@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 48,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-048-001",
@@ -21,34 +21,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "calculation",
-          "definition": "n. 计算, 考虑, 计算的結果, [經] 计算"
+          "definition": "n. 計算、推算、計算結果"
         }
       ],
       "examples": [
         {
-          "en": "He did a quick calculation in his head.",
+          "en": "The accountant did a quick calculation on her calculator.",
           "highlight": [
             "calculation"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "會計師用計算機快速做了一次計算。"
+          }
+        },
+        {
+          "en": "All calculations must be double-checked before the report is submitted.",
+          "highlight": [
+            "calculations"
+          ],
+          "translations": {
+            "zh-TW": "所有計算在報告提交前都必須複查一次。"
+          }
+        },
+        {
+          "en": "By my calculation, the project will be finished within budget.",
+          "highlight": [
+            "calculation"
+          ],
+          "translations": {
+            "zh-TW": "根據我的推算，這個專案會在預算內完成。"
           }
         }
       ],
       "synonyms": [
         "computation",
-        "reckoning"
+        "reckoning",
+        "estimate"
       ],
       "antonyms": [
-        "estimate",
-        "guess"
+        "guess",
+        "estimate"
       ],
       "phrases": [
-        "quick",
-        "calculation",
-        "make",
-        "a",
-        "calculation"
+        "make a calculation",
+        "quick calculation",
+        "cost calculation"
       ]
     },
     {
@@ -63,44 +80,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "called",
+        "plural": "calls",
+        "present_3rd": "calls",
+        "past": "called",
         "past_participle": "called",
-        "present_participle": "calling",
-        "third_person": "calls"
+        "ing": "calling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "call",
-          "definition": "n. 呼叫, 访问, 打电话, 號召, 召集, 要求, vt. 呼叫, 召集, 打电话, vi. 叫喊, 访问, 叫牌, [计] 调用; 呼叫; DOS内部命令:在批處理文件中调用另一個批處理文件"
+          "definition": "n. 電話、訪問、呼叫  v. 打電話、呼叫、拜訪"
         }
       ],
       "examples": [
         {
-          "en": "She called out for help.",
+          "en": "Please call the client before noon to confirm the schedule.",
           "highlight": [
             "call"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在中午前打電話給客戶確認時程。"
+          }
+        },
+        {
+          "en": "She called me three times yesterday but I missed every call.",
+          "highlight": [
+            "called",
+            "call"
+          ],
+          "translations": {
+            "zh-TW": "她昨天打了三次電話給我，但我每一通都錯過了。"
+          }
+        },
+        {
+          "en": "The manager is calling a team meeting for tomorrow morning.",
+          "highlight": [
+            "calling"
+          ],
+          "translations": {
+            "zh-TW": "經理正在召集一場明早的團隊會議。"
           }
         }
       ],
       "synonyms": [
-        "shout",
-        "yell"
+        "phone",
+        "ring",
+        "summon"
       ],
       "antonyms": [
         "whisper",
-        "murmur"
+        "ignore"
       ],
       "phrases": [
-        "call",
-        "for",
-        "help",
-        "call",
-        "a"
+        "phone call",
+        "call back",
+        "call off",
+        "conference call"
       ]
     },
     {
@@ -112,47 +149,66 @@
       "word": "called",
       "pos": [
         "verb",
-        "noun",
         "adjective"
       ],
       "conjugations": {
-        "past_tense": "calleded",
-        "past_participle": "calleded",
-        "present_participle": "calleding",
-        "third_person": "calleds"
+        "plural": "called",
+        "present_3rd": "calleds",
+        "past": "called",
+        "past_participle": "called",
+        "ing": "calling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "called",
-          "definition": "a. 被呼叫的"
+          "definition": "v. call 的過去式／過去分詞  a. 被稱為…的"
         }
       ],
       "examples": [
         {
-          "en": "The child is called Alex.",
+          "en": "The new employee is called Emily and she starts next Monday.",
           "highlight": [
             "called"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新來的員工叫做艾蜜莉，她下週一開始上班。"
+          }
+        },
+        {
+          "en": "He called the customer service hotline to report the broken product.",
+          "highlight": [
+            "called"
+          ],
+          "translations": {
+            "zh-TW": "他撥打客服專線回報瑕疵品。"
+          }
+        },
+        {
+          "en": "I have called this restaurant my favorite for over ten years.",
+          "highlight": [
+            "called"
+          ],
+          "translations": {
+            "zh-TW": "我稱這家餐廳為我的最愛已經超過十年了。"
           }
         }
       ],
       "synonyms": [
         "named",
-        "known",
-        "as"
+        "phoned",
+        "titled"
       ],
       "antonyms": [
-        "unnamed"
+        "unnamed",
+        "unreached"
       ],
       "phrases": [
-        "be",
-        "called",
-        "name",
-        "called"
+        "so-called",
+        "be called off",
+        "be called for",
+        "been called"
       ]
     },
     {
@@ -168,43 +224,64 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "calmed",
+        "plural": "calms",
+        "present_3rd": "calms",
+        "past": "calmed",
         "past_participle": "calmed",
-        "present_participle": "calming",
-        "third_person": "calms"
+        "ing": "calming"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "calm",
-          "definition": "n. 平稳, 風平浪静, a. 平静的, 冷静的, vi. 平静下來, 镇静, vt. 使平静"
+          "definition": "n. 平靜、寧靜  a. 平靜的、冷靜的  v. 使平靜、鎮定下來"
         }
       ],
       "examples": [
         {
-          "en": "He remained calm under pressure.",
+          "en": "The negotiator remained calm even when the talks became tense.",
           "highlight": [
             "calm"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "即使談判變得緊繃，談判代表仍保持冷靜。"
+          }
+        },
+        {
+          "en": "The manager calmed the worried investors with a clear action plan.",
+          "highlight": [
+            "calmed"
+          ],
+          "translations": {
+            "zh-TW": "經理用清晰的行動方案安撫了焦慮的投資人。"
+          }
+        },
+        {
+          "en": "Her calming words helped the team focus on finishing the order.",
+          "highlight": [
+            "calming"
+          ],
+          "translations": {
+            "zh-TW": "她令人安心的話語幫助團隊專注於完成訂單。"
           }
         }
       ],
       "synonyms": [
         "peaceful",
-        "serene"
+        "serene",
+        "tranquil"
       ],
       "antonyms": [
         "agitated",
-        "nervous"
+        "nervous",
+        "restless"
       ],
       "phrases": [
-        "calm",
-        "sea",
-        "calm",
-        "voice"
+        "calm down",
+        "stay calm",
+        "calm waters",
+        "calm voice"
       ]
     },
     {
@@ -223,33 +300,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "calmly",
-          "definition": "adv. 平静地, 安静地, 冷静地"
+          "definition": "adv. 平靜地、冷靜地"
         }
       ],
       "examples": [
         {
-          "en": "She spoke calmly despite the chaos.",
+          "en": "She calmly explained the new policy to the dissatisfied customer.",
           "highlight": [
             "calmly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她冷靜地向不滿的顧客解釋新政策。"
+          }
+        },
+        {
+          "en": "The pilot calmly handled the unexpected turbulence during the flight.",
+          "highlight": [
+            "calmly"
+          ],
+          "translations": {
+            "zh-TW": "飛行員冷靜地處理了飛行途中突如其來的亂流。"
+          }
+        },
+        {
+          "en": "He calmly walked out of the meeting after the deal was cancelled.",
+          "highlight": [
+            "calmly"
+          ],
+          "translations": {
+            "zh-TW": "交易取消後，他平靜地走出了會議室。"
           }
         }
       ],
       "synonyms": [
         "quietly",
-        "serenely"
+        "serenely",
+        "composedly"
       ],
       "antonyms": [
         "loudly",
-        "nervously"
+        "nervously",
+        "frantically"
       ],
       "phrases": [
-        "speak",
-        "calmly",
-        "react",
-        "calmly"
+        "speak calmly",
+        "react calmly",
+        "calmly explain",
+        "calmly walk away"
       ]
     },
     {
@@ -270,32 +367,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "camera",
-          "definition": "n. 照相机, 摄影机, 密谈室, 暗箱, [计] 摄影"
+          "definition": "n. 相機、攝影機"
         }
       ],
       "examples": [
         {
-          "en": "She took a photo with her camera.",
+          "en": "The reporter brought a camera to record the press conference.",
           "highlight": [
             "camera"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "記者帶了攝影機來錄下記者會。"
+          }
+        },
+        {
+          "en": "Several security cameras were installed in the parking lot last week.",
+          "highlight": [
+            "cameras"
+          ],
+          "translations": {
+            "zh-TW": "上週停車場安裝了幾台監視攝影機。"
+          }
+        },
+        {
+          "en": "The new camera has a built-in lens that is perfect for product photography.",
+          "highlight": [
+            "camera"
+          ],
+          "translations": {
+            "zh-TW": "這台新相機有內建鏡頭，非常適合商品攝影。"
           }
         }
       ],
       "synonyms": [
-        "photographic",
-        "device",
-        "video",
-        "recorder"
+        "camcorder",
+        "recorder",
+        "lens"
       ],
       "antonyms": [],
       "phrases": [
-        "digital",
-        "camera",
-        "security",
-        "camera"
+        "digital camera",
+        "security camera",
+        "camera lens",
+        "on camera"
       ]
     },
     {
@@ -310,43 +424,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "camped",
+        "plural": "camps",
+        "present_3rd": "camps",
+        "past": "camped",
         "past_participle": "camped",
-        "present_participle": "camping",
-        "third_person": "camps"
+        "ing": "camping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "camp",
-          "definition": "n. 露营, 帐篷, vi. 露营, 扎营, vt. 使扎营"
+          "definition": "n. 營地、陣營  v. 露營、紮營"
         }
       ],
       "examples": [
         {
-          "en": "They set up camp by the river.",
+          "en": "The company set up a training camp for new sales staff.",
           "highlight": [
             "camp"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司為新進業務設立了一個培訓營地。"
+          }
+        },
+        {
+          "en": "They camped by the lake during the company retreat last summer.",
+          "highlight": [
+            "camped"
+          ],
+          "translations": {
+            "zh-TW": "去年暑假公司旅遊時他們在湖邊紮營。"
+          }
+        },
+        {
+          "en": "Each summer, sports camps draw hundreds of young athletes to the campus.",
+          "highlight": [
+            "camps"
+          ],
+          "translations": {
+            "zh-TW": "每年暑假，體育營都會吸引數百名年輕運動員來到校園。"
           }
         }
       ],
       "synonyms": [
         "encampment",
-        "site"
+        "site",
+        "bivouac"
       ],
       "antonyms": [
-        "permanent",
-        "residence"
+        "permanent residence"
       ],
       "phrases": [
-        "summer",
-        "camp",
-        "camp",
-        "out"
+        "summer camp",
+        "camp out",
+        "training camp",
+        "refugee camp"
       ]
     },
     {
@@ -361,40 +494,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "campaigned",
+        "plural": "campaigns",
+        "present_3rd": "campaigns",
+        "past": "campaigned",
         "past_participle": "campaigned",
-        "present_participle": "campaigning",
-        "third_person": "campaigns"
+        "ing": "campaigning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "campaign",
-          "definition": "n. 战役, 運動, 竞选運動, vi. 参加運動, 作战"
+          "definition": "n. 活動、運動、競選、戰役  v. 從事運動、參選"
         }
       ],
       "examples": [
         {
-          "en": "The campaign for the new product was successful.",
+          "en": "The marketing campaign boosted online sales by twenty percent.",
           "highlight": [
             "campaign"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這次行銷活動讓線上銷售提升了百分之二十。"
+          }
+        },
+        {
+          "en": "She campaigned for mayor for nearly six months before the election.",
+          "highlight": [
+            "campaigned"
+          ],
+          "translations": {
+            "zh-TW": "她在選舉前將近六個月都在競選市長。"
+          }
+        },
+        {
+          "en": "Many environmental campaigns target plastic waste in the ocean.",
+          "highlight": [
+            "campaigns"
+          ],
+          "translations": {
+            "zh-TW": "許多環保運動都以海洋塑膠廢棄物為目標。"
           }
         }
       ],
       "synonyms": [
         "effort",
-        "drive"
+        "drive",
+        "operation"
       ],
       "antonyms": [],
       "phrases": [
-        "marketing",
-        "campaign",
-        "political",
-        "campaign"
+        "marketing campaign",
+        "election campaign",
+        "advertising campaign",
+        "campaign for"
       ]
     },
     {
@@ -407,39 +560,55 @@
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "campings"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "camping",
-          "definition": "n. 野营, 露营"
+          "definition": "n. 露營、紮營"
         }
       ],
       "examples": [
         {
-          "en": "We enjoyed camping in the mountains.",
+          "en": "Camping in the mountains is a popular weekend activity in this region.",
+          "highlight": [
+            "Camping"
+          ],
+          "translations": {
+            "zh-TW": "在山區露營是這個地區很受歡迎的週末活動。"
+          }
+        },
+        {
+          "en": "We plan to go camping by the river during the long holiday.",
           "highlight": [
             "camping"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們打算在連假期間到河邊露營。"
+          }
+        },
+        {
+          "en": "The hotel offers camping equipment rental for guests who want to sleep outdoors.",
+          "highlight": [
+            "camping"
+          ],
+          "translations": {
+            "zh-TW": "飯店為想在戶外過夜的房客提供露營裝備租借服務。"
           }
         }
       ],
       "synonyms": [
-        "outdoor",
-        "living",
-        "tenting"
+        "tenting",
+        "outdoors",
+        "bivouacking"
       ],
       "antonyms": [],
       "phrases": [
-        "go",
-        "camping",
-        "camping",
-        "trip"
+        "go camping",
+        "camping trip",
+        "camping gear",
+        "camping site"
       ]
     },
     {
@@ -454,45 +623,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "canceled",
+        "plural": "cancels",
+        "present_3rd": "cancels",
+        "past": "canceled",
         "past_participle": "canceled",
-        "present_participle": "canceling",
-        "third_person": "cancels"
+        "ing": "canceling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cancel",
-          "definition": "n. 取消, 撤消, 盖销(邮票), vt. 取消, 删去, 抵销, 盖销, vi. 相互抵销, [计] 作废"
+          "definition": "n. 取消、撤銷  v. 取消、撤銷、刪去、抵銷"
         }
       ],
       "examples": [
         {
-          "en": "The event was canceled due to rain.",
+          "en": "I need to cancel my hotel reservation because my flight was delayed.",
           "highlight": [
             "cancel"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "因為班機延誤，我需要取消飯店訂房。"
+          }
+        },
+        {
+          "en": "The airline canceled more than fifty flights due to the heavy snowstorm.",
+          "highlight": [
+            "canceled"
+          ],
+          "translations": {
+            "zh-TW": "因為暴風雪，航空公司取消了超過五十個航班。"
+          }
+        },
+        {
+          "en": "He is canceling his credit card after noticing a strange charge.",
+          "highlight": [
+            "canceling"
+          ],
+          "translations": {
+            "zh-TW": "他發現一筆奇怪的消費後，正在註銷信用卡。"
           }
         }
       ],
       "synonyms": [
-        "call",
-        "off",
-        "annul"
+        "annul",
+        "revoke",
+        "call off"
       ],
       "antonyms": [
         "continue",
-        "proceed"
+        "proceed",
+        "confirm"
       ],
       "phrases": [
-        "cancel",
-        "a",
-        "meeting",
-        "cancel",
-        "the"
+        "cancel a meeting",
+        "cancel out",
+        "cancel a reservation",
+        "cancel an order"
       ]
     }
   ]
