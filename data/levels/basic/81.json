@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 81,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-081-001",
@@ -14,37 +14,56 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "datas"
+        "plural": "data"
       },
-      "domain": "general",
+      "domain": "information technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "data",
-          "definition": "pl. 资料, 数据, [计] 数据; DOS内部命令:用于顯示或设定系统的日期"
+          "definition": "n. 資料、數據"
         }
       ],
       "examples": [
         {
-          "en": "They collected data for the research project.",
+          "en": "We need accurate data to make a business decision.",
           "highlight": [
             "data"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們需要準確的數據才能做出商業決策。"
+          }
+        },
+        {
+          "en": "All the client data have been uploaded to the cloud server.",
+          "highlight": [
+            "data"
+          ],
+          "translations": {
+            "zh-TW": "所有客戶資料都已上傳到雲端伺服器。"
+          }
+        },
+        {
+          "en": "The research team collects data from over two hundred participants.",
+          "highlight": [
+            "data"
+          ],
+          "translations": {
+            "zh-TW": "研究團隊從兩百多名參與者身上收集資料。"
           }
         }
       ],
       "synonyms": [
         "information",
+        "facts",
         "statistics"
       ],
       "antonyms": [],
       "phrases": [
-        "data",
-        "analysis",
-        "data",
-        "collection"
+        "data analysis",
+        "data collection",
+        "data base",
+        "raw data"
       ]
     },
     {
@@ -59,40 +78,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "dateed",
-        "past_participle": "dateed",
-        "present_participle": "dating",
-        "third_person": "dates"
+        "plural": "dates",
+        "present_3rd": "dates",
+        "past": "dated",
+        "past_participle": "dated",
+        "ing": "dating"
       },
-      "domain": "general",
+      "domain": "time",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "date",
-          "definition": "n. 日期, 约會, 枣椰树, vt. 约會, 定日期, vi. 注明日期, 過時"
+          "definition": "n. 日期、約會、約會對象  v. 約會、註明日期、鑑定年代"
         }
       ],
       "examples": [
         {
-          "en": "Today's date is July 10th.",
+          "en": "What is the due date for the monthly report?",
           "highlight": [
             "date"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "月度報告的截止日期是哪一天？"
+          }
+        },
+        {
+          "en": "She dated a colleague from the marketing department for three years.",
+          "highlight": [
+            "dated"
+          ],
+          "translations": {
+            "zh-TW": "她和行銷部門的一位同事交往了三年。"
+          }
+        },
+        {
+          "en": "They are dating seriously and plan to marry next summer.",
+          "highlight": [
+            "dating"
+          ],
+          "translations": {
+            "zh-TW": "他們正在認真交往，計畫明年夏天結婚。"
           }
         }
       ],
       "synonyms": [
+        "appointment",
         "day",
-        "appointment"
+        "engagement"
       ],
       "antonyms": [],
       "phrases": [
-        "expiration",
-        "date",
-        "due",
-        "date"
+        "due date",
+        "expiration date",
+        "blind date",
+        "save the date"
       ]
     },
     {
@@ -103,31 +142,45 @@
       "toeic_score_min": 200,
       "word": "daughter",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "daughtered",
-        "past_participle": "daughtered",
-        "present_participle": "daughtering",
-        "third_person": "daughters"
+        "plural": "daughters"
       },
-      "domain": "general",
+      "domain": "family",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "daughter",
-          "definition": "n. 女兒, a. 女兒的"
+          "definition": "n. 女兒"
         }
       ],
       "examples": [
         {
-          "en": "They have a daughter and a son.",
+          "en": "Her daughter just started studying at the university abroad.",
           "highlight": [
             "daughter"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她的女兒剛開始在國外的大學讀書。"
+          }
+        },
+        {
+          "en": "Both daughters followed their father into the medical profession.",
+          "highlight": [
+            "daughters"
+          ],
+          "translations": {
+            "zh-TW": "兩個女兒都追隨父親進入了醫療行業。"
+          }
+        },
+        {
+          "en": "My daughter-in-law runs a small business in the city center.",
+          "highlight": [
+            "daughter"
+          ],
+          "translations": {
+            "zh-TW": "我的媳婦在市中心經營一家小生意。"
           }
         }
       ],
@@ -136,14 +189,13 @@
         "child"
       ],
       "antonyms": [
-        "son",
-        "boy"
+        "son"
       ],
       "phrases": [
-        "eldest",
-        "daughter",
-        "only",
-        "daughter"
+        "only daughter",
+        "eldest daughter",
+        "daughter-in-law",
+        "stepdaughter"
       ]
     },
     {
@@ -154,49 +206,61 @@
       "toeic_score_min": 200,
       "word": "day",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "dayed",
-        "past_participle": "dayed",
-        "present_participle": "daying",
-        "third_person": "days"
+        "plural": "days"
       },
-      "domain": "general",
+      "domain": "time",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "day",
-          "definition": "n. 天, 日子, 白天, 工作日, [医] 日(一昼夜), 昼, 白天"
+          "definition": "n. 一天、白天、日子、工作日"
         }
       ],
       "examples": [
         {
-          "en": "It was a sunny day.",
+          "en": "The training session lasts a full day.",
           "highlight": [
             "day"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "培訓課程持續整整一天。"
+          }
+        },
+        {
+          "en": "Three working days are needed to complete the application review.",
+          "highlight": [
+            "days"
+          ],
+          "translations": {
+            "zh-TW": "需要三個工作天來完成申請審核。"
+          }
+        },
+        {
+          "en": "I do not like driving on rainy days.",
+          "highlight": [
+            "days"
+          ],
+          "translations": {
+            "zh-TW": "我不喜歡在雨天開車。"
           }
         }
       ],
       "synonyms": [
-        "24",
-        "hours",
-        "daytime"
+        "daytime",
+        "date"
       ],
       "antonyms": [
         "night",
         "evening"
       ],
       "phrases": [
-        "day",
-        "and",
-        "night",
-        "day",
-        "off"
+        "day off",
+        "business day",
+        "day and night",
+        "every other day"
       ]
     },
     {
@@ -207,44 +271,63 @@
       "toeic_score_min": 200,
       "word": "dead",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "deads"
+        "comparative": "deader",
+        "superlative": "deadest"
       },
-      "domain": "general",
+      "domain": "life",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dead",
-          "definition": "a. 死的, 不活泼的, 麻木的, 熄灭的, n. 死者, adv. 完全地, 直接地"
+          "definition": "adj. 死的、失去生命的、不再運作的"
         }
       ],
       "examples": [
         {
-          "en": "The plant is dead.",
+          "en": "My phone is dead because I forgot to charge it last night.",
           "highlight": [
             "dead"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我的手機沒電了，因為昨晚忘記充電。"
+          }
+        },
+        {
+          "en": "The main road was deader at three in the morning than at noon.",
+          "highlight": [
+            "deader"
+          ],
+          "translations": {
+            "zh-TW": "凌晨三點時主路比中午時死寂得多。"
+          }
+        },
+        {
+          "en": "This is the deadest shopping street in town during winter.",
+          "highlight": [
+            "deadest"
+          ],
+          "translations": {
+            "zh-TW": "這是冬天鎮上最冷清的購物街。"
           }
         }
       ],
       "synonyms": [
         "deceased",
-        "lifeless"
+        "lifeless",
+        "unconscious"
       ],
       "antonyms": [
         "alive",
         "living"
       ],
       "phrases": [
-        "dead",
-        "body",
-        "dead",
-        "end"
+        "dead end",
+        "deadline",
+        "dead battery",
+        "dead drop"
       ]
     },
     {
@@ -255,44 +338,61 @@
       "toeic_score_min": 200,
       "word": "deaf",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "deafs"
+        "comparative": "deafer",
+        "superlative": "deafest"
       },
-      "domain": "general",
+      "domain": "health",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "deaf",
-          "definition": "a. 聋的, [医] 聋的"
+          "definition": "adj. 聾的、聽力受損的"
         }
       ],
       "examples": [
         {
-          "en": "He was born deaf.",
+          "en": "The hotel staff learned basic sign language to serve deaf guests.",
           "highlight": [
             "deaf"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "飯店員工學習了基本手語來服務聽障客人。"
+          }
+        },
+        {
+          "en": "After the concert, his left ear was deafer than usual for two days.",
+          "highlight": [
+            "deafer"
+          ],
+          "translations": {
+            "zh-TW": "演唱會結束後，他的左耳比平常還聾了兩天。"
+          }
+        },
+        {
+          "en": "She is the deafest person in her family but refuses to wear a hearing aid.",
+          "highlight": [
+            "deafest"
+          ],
+          "translations": {
+            "zh-TW": "她是家中聽力最差的人，卻拒絕配戴助聽器。"
           }
         }
       ],
       "synonyms": [
         "hearing-impaired",
-        "unhearing"
+        "hard of hearing"
       ],
       "antonyms": [
-        "hearing",
-        "sound"
+        "hearing"
       ],
       "phrases": [
-        "deaf",
-        "ear",
-        "born",
-        "deaf"
+        "born deaf",
+        "deaf ear",
+        "tone deaf",
+        "deaf and mute"
       ]
     },
     {
@@ -307,43 +407,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "dealed",
-        "past_participle": "dealed",
-        "present_participle": "dealing",
-        "third_person": "deals"
+        "plural": "deals",
+        "present_3rd": "deals",
+        "past": "dealt",
+        "past_participle": "dealt",
+        "ing": "dealing"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "deal",
-          "definition": "n. 交易, 协定, 数量, 買賣, 松木板, vi. 處理, 应付, 做生意, vt. 分配, 發牌, 给予, [计] 發牌"
+          "definition": "n. 交易、協議  v. 處理、應付、發牌、經營"
         }
       ],
       "examples": [
         {
-          "en": "He dealt the cards to the players.",
+          "en": "We will deal with customer complaints within twenty-four hours.",
           "highlight": [
             "deal"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們會在二十四小時內處理客戶投訴。"
+          }
+        },
+        {
+          "en": "The sales manager dealt with the difficult client himself.",
+          "highlight": [
+            "dealt"
+          ],
+          "translations": {
+            "zh-TW": "業務經理親自應付了那位難搞的客戶。"
+          }
+        },
+        {
+          "en": "They have dealt with this supplier for over a decade without any issue.",
+          "highlight": [
+            "dealt"
+          ],
+          "translations": {
+            "zh-TW": "他們和這家供應商合作超過十年，從未出過問題。"
           }
         }
       ],
       "synonyms": [
-        "distribute",
-        "arrange"
+        "trade",
+        "agreement",
+        "handle"
       ],
       "antonyms": [
-        "collect",
-        "gather"
+        "break"
       ],
       "phrases": [
-        "deal",
-        "cards",
-        "deal",
-        "with"
+        "deal with",
+        "big deal",
+        "deal cards",
+        "package deal"
       ]
     },
     {
@@ -354,44 +473,63 @@
       "toeic_score_min": 200,
       "word": "dear",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "dears"
+        "comparative": "dearer",
+        "superlative": "dearest"
       },
-      "domain": "general",
+      "domain": "emotion",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dear",
-          "definition": "n. 亲爱的人, a. 亲爱的, 昂贵的, 严重的, 急迫的, interj. 啊, adv. 深爱地, 高价地"
+          "definition": "adj. 親愛的、珍貴的、昂貴的；n. 親愛的人"
         }
       ],
       "examples": [
         {
-          "en": "She is a dear friend.",
+          "en": "She is a dear colleague who always helps the new staff.",
           "highlight": [
             "dear"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她是位親愛的同事，總是幫助新進員工。"
+          }
+        },
+        {
+          "en": "Imported chocolate is much dearer than the local brand.",
+          "highlight": [
+            "dearer"
+          ],
+          "translations": {
+            "zh-TW": "進口巧克力比本地品牌貴得多。"
+          }
+        },
+        {
+          "en": "My dearest memory is working with my father at his first shop.",
+          "highlight": [
+            "dearest"
+          ],
+          "translations": {
+            "zh-TW": "我最珍貴的回憶是和我父親在他第一家店工作。"
           }
         }
       ],
       "synonyms": [
         "beloved",
-        "cherished"
+        "cherished",
+        "precious"
       ],
       "antonyms": [
         "unloved",
-        "indifferent"
+        "cheap"
       ],
       "phrases": [
-        "dear",
-        "friend",
-        "my",
-        "dear"
+        "dear friend",
+        "my dear",
+        "hold dear",
+        "dear sir"
       ]
     },
     {
@@ -402,45 +540,62 @@
       "toeic_score_min": 200,
       "word": "death",
       "pos": [
-        "noun",
-        "adjective"
+        "noun"
       ],
       "conjugations": {
         "plural": "deaths"
       },
-      "domain": "general",
+      "domain": "life",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "death",
-          "definition": "n. 死亡, [医] 死亡"
+          "definition": "n. 死亡、逝世、死因"
         }
       ],
       "examples": [
         {
-          "en": "The sudden death of her father affected her deeply.",
+          "en": "The company sent a formal letter after the death of their founder.",
           "highlight": [
             "death"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "創辦人去世後，公司發出了一封正式的哀悼信。"
+          }
+        },
+        {
+          "en": "Traffic deaths in the city dropped by twenty percent this year.",
+          "highlight": [
+            "deaths"
+          ],
+          "translations": {
+            "zh-TW": "今年城市的交通事故死亡人數下降了百分之二十。"
+          }
+        },
+        {
+          "en": "The insurer requires a death certificate before processing the claim.",
+          "highlight": [
+            "death"
+          ],
+          "translations": {
+            "zh-TW": "保險公司要求在處理理賠前提供死亡證明。"
           }
         }
       ],
       "synonyms": [
         "demise",
-        "passing"
+        "passing",
+        "end"
       ],
       "antonyms": [
         "birth",
         "life"
       ],
       "phrases": [
-        "sudden",
-        "death",
-        "cause",
-        "of",
-        "death"
+        "death rate",
+        "cause of death",
+        "death certificate",
+        "sudden death"
       ]
     },
     {
@@ -455,43 +610,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "debateed",
-        "past_participle": "debateed",
-        "present_participle": "debating",
-        "third_person": "debates"
+        "plural": "debates",
+        "present_3rd": "debates",
+        "past": "debated",
+        "past_participle": "debated",
+        "ing": "debating"
       },
-      "domain": "general",
+      "domain": "communication",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "debate",
-          "definition": "n. 辩论, 讨论, v. 争论, 辩论"
+          "definition": "n. 辯論、討論  v. 辯論、仔細考慮"
         }
       ],
       "examples": [
         {
-          "en": "They had a debate about the new policy.",
+          "en": "The board will debate the new policy at next week's meeting.",
           "highlight": [
             "debate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "董事會將在下週的會議上辯論新政策。"
+          }
+        },
+        {
+          "en": "The committee debated the budget proposal for three hours yesterday.",
+          "highlight": [
+            "debated"
+          ],
+          "translations": {
+            "zh-TW": "委員會昨天花了三個小時討論預算提案。"
+          }
+        },
+        {
+          "en": "The candidates are debating the trade issue live on national television.",
+          "highlight": [
+            "debating"
+          ],
+          "translations": {
+            "zh-TW": "候選人正在國家電視台實況辯論貿易議題。"
           }
         }
       ],
       "synonyms": [
         "discussion",
-        "argument"
+        "argument",
+        "deliberation"
       ],
       "antonyms": [
         "agreement",
         "accord"
       ],
       "phrases": [
-        "public",
-        "debate",
-        "debate",
-        "over"
+        "public debate",
+        "debate over",
+        "open to debate",
+        "heated debate"
       ]
     }
   ]
