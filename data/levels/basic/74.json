@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 74,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-074-001",
@@ -11,47 +11,61 @@
       "toeic_score_min": 200,
       "word": "council",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "counciled",
-        "past_participle": "counciled",
-        "present_participle": "counciling",
-        "third_person": "councils"
+        "plural": "councils"
       },
-      "domain": "general",
+      "domain": "government",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "council",
-          "definition": "n. 會議, 委員會, [經] 委員會"
+          "definition": "n. 議會、委員會、市政會議"
         }
       ],
       "examples": [
         {
-          "en": "The city council meets every month.",
+          "en": "The city council meets every month to discuss local policy.",
           "highlight": [
             "council"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "市議會每個月開會討論地方政策。"
+          }
+        },
+        {
+          "en": "Several local councils have pledged to cut carbon emissions by 2030.",
+          "highlight": [
+            "councils"
+          ],
+          "translations": {
+            "zh-TW": "幾個地方議會已承諾在 2030 年前減少碳排放。"
+          }
+        },
+        {
+          "en": "She was elected to the student council as vice president last semester.",
+          "highlight": [
+            "council"
+          ],
+          "translations": {
+            "zh-TW": "她上學期當選為學生會的副會長。"
           }
         }
       ],
       "synonyms": [
         "committee",
-        "assembly"
+        "assembly",
+        "board"
       ],
       "antonyms": [
-        "individual",
-        "person"
+        "individual"
       ],
       "phrases": [
-        "city",
-        "council",
-        "council",
-        "member"
+        "city council",
+        "student council",
+        "council member",
+        "council meeting"
       ]
     },
     {
@@ -66,44 +80,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "counted",
+        "present_3rd": "counts",
+        "past": "counted",
         "past_participle": "counted",
-        "present_participle": "counting",
-        "third_person": "counts"
+        "ing": "counting",
+        "plural": "counts"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "count",
-          "definition": "vt. 计算, 视為, vi. 计数, n. 计算, 合计, 计数, 伯爵, [计] 计数"
+          "definition": "v. 數、計算、視為  n. 計數、總數、伯爵"
         }
       ],
       "examples": [
         {
-          "en": "He counted the money.",
+          "en": "Please count the cash in the register before you close the shop.",
           "highlight": [
             "count"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "關店前請數一下收銀機裡的現金。"
+          }
+        },
+        {
+          "en": "The cashier counted the money twice to make sure the total was correct.",
+          "highlight": [
+            "counted"
+          ],
+          "translations": {
+            "zh-TW": "收銀員把錢數了兩次，以確認總額正確。"
+          }
+        },
+        {
+          "en": "She is counting on her manager to support her promotion request.",
+          "highlight": [
+            "counting"
+          ],
+          "translations": {
+            "zh-TW": "她正指望主管支持她的升遷申請。"
           }
         }
       ],
       "synonyms": [
+        "tally",
         "enumerate",
-        "tally"
+        "calculate"
       ],
       "antonyms": [
-        "estimate",
-        "guess"
+        "guess",
+        "estimate"
       ],
       "phrases": [
-        "count",
-        "the",
-        "votes",
-        "count",
-        "the"
+        "count on",
+        "count the cost",
+        "head count",
+        "lose count"
       ]
     },
     {
@@ -118,40 +151,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "countered",
+        "present_3rd": "counters",
+        "past": "countered",
         "past_participle": "countered",
-        "present_participle": "countering",
-        "third_person": "counters"
+        "ing": "countering",
+        "plural": "counters"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "counter",
-          "definition": "n. 计算器, 计算者, 柜台, 筹码, a. 反方向的, 相反的, adv. 反方向地, 相反地, [计] 计数器; 计数字"
+          "definition": "n. 櫃台、計數器  v. 反駁、對抗  adv. 相反地"
         }
       ],
       "examples": [
         {
-          "en": "She leaned on the counter.",
+          "en": "Please line up at the ticket counter and wait for your number to be called.",
           "highlight": [
             "counter"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在售票櫃台排隊，等候叫號。"
+          }
+        },
+        {
+          "en": "The spokesperson countered the reporter's question with detailed statistics.",
+          "highlight": [
+            "countered"
+          ],
+          "translations": {
+            "zh-TW": "發言人用詳細的數據反駁了記者的提問。"
+          }
+        },
+        {
+          "en": "Several airline counters were closed due to the strike yesterday.",
+          "highlight": [
+            "counters"
+          ],
+          "translations": {
+            "zh-TW": "昨天因為罷工，幾家航空公司的櫃台都關閉了。"
           }
         }
       ],
       "synonyms": [
         "worktop",
-        "table"
+        "table",
+        "bar"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "support"
+      ],
       "phrases": [
-        "store",
-        "counter",
-        "kitchen",
-        "counter"
+        "ticket counter",
+        "check-in counter",
+        "over the counter",
+        "counter argument"
       ]
     },
     {
@@ -162,47 +217,61 @@
       "toeic_score_min": 200,
       "word": "country",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "countryed",
-        "past_participle": "countryed",
-        "present_participle": "countrying",
-        "third_person": "countrys"
+        "plural": "countries"
       },
-      "domain": "general",
+      "domain": "geography",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "country",
-          "definition": "n. 國家, 乡村, 地區, 故乡, a. 乡下的, 农村的, [计] DOS外部命令:用于设定國家代码, 包括日期時間及货币格式"
+          "definition": "n. 國家、鄉村、地區"
         }
       ],
       "examples": [
         {
-          "en": "France is a beautiful country.",
+          "en": "France is a beautiful country that welcomes millions of tourists each year.",
           "highlight": [
             "country"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "法國是個美麗的國家，每年迎接數百萬遊客。"
+          }
+        },
+        {
+          "en": "Many countries signed the trade agreement during the summit last week.",
+          "highlight": [
+            "countries"
+          ],
+          "translations": {
+            "zh-TW": "上週的峰會中，許多國家簽署了這項貿易協定。"
+          }
+        },
+        {
+          "en": "They decided to move to the country to enjoy a quieter life after retirement.",
+          "highlight": [
+            "country"
+          ],
+          "translations": {
+            "zh-TW": "他們決定退休後搬到鄉下，享受更寧靜的生活。"
           }
         }
       ],
       "synonyms": [
         "nation",
-        "state"
+        "state",
+        "land"
       ],
       "antonyms": [
-        "city",
-        "metropolis"
+        "city"
       ],
       "phrases": [
-        "foreign",
-        "country",
-        "home",
-        "country"
+        "foreign country",
+        "home country",
+        "country music",
+        "across the country"
       ]
     },
     {
@@ -213,49 +282,62 @@
       "toeic_score_min": 200,
       "word": "countryside",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "countrysideed",
-        "past_participle": "countrysideed",
-        "present_participle": "countrysiding",
-        "third_person": "countrysides"
+        "plural": "countrysides"
       },
-      "domain": "general",
+      "domain": "geography",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "countryside",
-          "definition": "n. 乡下地方, 乡下居民"
+          "definition": "n. 鄉下、鄉村地區、田野"
         }
       ],
       "examples": [
         {
-          "en": "They live in the countryside.",
+          "en": "They live in the countryside about an hour outside the city centre.",
           "highlight": [
             "countryside"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他們住在離市中心約一小時車程的鄉下。"
+          }
+        },
+        {
+          "en": "The beautiful countrysides of Tuscany attract artists from all over the world.",
+          "highlight": [
+            "countrysides"
+          ],
+          "translations": {
+            "zh-TW": "托斯卡尼美麗的鄉村風光吸引了世界各地的藝術家。"
+          }
+        },
+        {
+          "en": "We spent the weekend cycling through the peaceful countryside of southern Taiwan.",
+          "highlight": [
+            "countryside"
+          ],
+          "translations": {
+            "zh-TW": "我們週末騎自行車穿梭在台灣南部寧靜的鄉間。"
           }
         }
       ],
       "synonyms": [
-        "rural",
-        "area",
-        "farmland"
+        "rural area",
+        "farmland",
+        "outback"
       ],
       "antonyms": [
-        "urban",
-        "area",
-        "cityscape"
+        "city",
+        "urban area"
       ],
       "phrases": [
-        "beautiful",
-        "countryside",
-        "peaceful",
-        "countryside"
+        "beautiful countryside",
+        "peaceful countryside",
+        "in the countryside",
+        "countryside living"
       ]
     },
     {
@@ -266,44 +348,59 @@
       "toeic_score_min": 200,
       "word": "county",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "countyed",
-        "past_participle": "countyed",
-        "present_participle": "countying",
-        "third_person": "countys"
+        "plural": "counties"
       },
-      "domain": "general",
+      "domain": "geography",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "county",
-          "definition": "n. 县, 郡"
+          "definition": "n. 縣、郡（行政區）"
         }
       ],
       "examples": [
         {
-          "en": "The county has a population of 500,000.",
+          "en": "The county has a population of about 500,000, mostly working in agriculture.",
           "highlight": [
             "county"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這個縣大約有 50 萬人口，多半從事農業。"
+          }
+        },
+        {
+          "en": "Several counties in the region were hit by severe storms last weekend.",
+          "highlight": [
+            "counties"
+          ],
+          "translations": {
+            "zh-TW": "上週末這個地區有幾個縣遭遇猛烈暴風雨。"
+          }
+        },
+        {
+          "en": "The county court handles most local civil and criminal cases.",
+          "highlight": [
+            "county"
+          ],
+          "translations": {
+            "zh-TW": "地方法院負責處理大多數的本地民事與刑事案件。"
           }
         }
       ],
       "synonyms": [
         "district",
-        "region"
+        "region",
+        "province"
       ],
       "antonyms": [],
       "phrases": [
-        "county",
-        "fair",
-        "county",
-        "council"
+        "county fair",
+        "county council",
+        "county seat",
+        "county court"
       ]
     },
     {
@@ -318,43 +415,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "coupleed",
-        "past_participle": "coupleed",
-        "present_participle": "coupling",
-        "third_person": "couples"
+        "present_3rd": "couples",
+        "past": "coupled",
+        "past_participle": "coupled",
+        "ing": "coupling",
+        "plural": "couples"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "couple",
-          "definition": "n. 對, 夫妇, 数個, vt. 使成双, 连接, 使成婚, 把...联系起來, vi. 結合, 成婚"
+          "definition": "n. 一對、夫婦、幾個  v. 連接、結合"
         }
       ],
       "examples": [
         {
-          "en": "A young couple moved in next door.",
+          "en": "A young couple moved in next door and invited us over for dinner.",
           "highlight": [
             "couple"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "一對年輕夫婦搬到我們隔壁，並邀請我們過去吃晚餐。"
+          }
+        },
+        {
+          "en": "Several couples celebrated their anniversaries at the hotel last weekend.",
+          "highlight": [
+            "couples"
+          ],
+          "translations": {
+            "zh-TW": "上週末有幾對夫妻在這家飯店慶祝結婚紀念日。"
+          }
+        },
+        {
+          "en": "The new system couples high efficiency with low energy consumption.",
+          "highlight": [
+            "couples"
+          ],
+          "translations": {
+            "zh-TW": "新系統兼具高效率與低能耗的優點。"
           }
         }
       ],
       "synonyms": [
         "pair",
-        "duo"
+        "duo",
+        "twosome"
       ],
       "antonyms": [
         "individual",
         "single"
       ],
       "phrases": [
-        "married",
-        "couple",
-        "happy",
-        "couple"
+        "married couple",
+        "happy couple",
+        "a couple of",
+        "couple with"
       ]
     },
     {
@@ -365,47 +482,62 @@
       "toeic_score_min": 200,
       "word": "courage",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "courageed",
-        "past_participle": "courageed",
-        "present_participle": "couraging",
-        "third_person": "courages"
+        "plural": "courages"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "courage",
-          "definition": "n. 勇气, 胆量"
+          "definition": "n. 勇氣、膽量、膽識"
         }
       ],
       "examples": [
         {
-          "en": "She showed great courage during the crisis.",
+          "en": "She showed great courage during the crisis and helped evacuate the building.",
           "highlight": [
             "courage"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在危機中展現了極大的勇氣，協助疏散了大樓裡的人。"
+          }
+        },
+        {
+          "en": "It takes courage to speak up against an unfair policy in the workplace.",
+          "highlight": [
+            "courage"
+          ],
+          "translations": {
+            "zh-TW": "在工作中勇於發聲反對不合理的政策，需要很大的勇氣。"
+          }
+        },
+        {
+          "en": "The soldiers were praised for their courages and sacrifices during the mission.",
+          "highlight": [
+            "courages"
+          ],
+          "translations": {
+            "zh-TW": "士兵們因這次任務中的英勇與犧牲而受到表揚。"
           }
         }
       ],
       "synonyms": [
         "bravery",
-        "valor"
+        "valor",
+        "boldness"
       ],
       "antonyms": [
         "fear",
         "cowardice"
       ],
       "phrases": [
-        "show",
-        "courage",
-        "great",
-        "courage"
+        "show courage",
+        "great courage",
+        "take courage",
+        "lose courage"
       ]
     },
     {
@@ -420,41 +552,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "courseed",
-        "past_participle": "courseed",
-        "present_participle": "coursing",
-        "third_person": "courses"
+        "present_3rd": "courses",
+        "past": "coursed",
+        "past_participle": "coursed",
+        "ing": "coursing",
+        "plural": "courses"
       },
-      "domain": "general",
+      "domain": "education",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "course",
-          "definition": "n. 课程, 路线, 過程, 一道菜, 道路, v. 追, (使)跑"
+          "definition": "n. 課程、路線、過程、一道菜  v. 流動、奔流"
         }
       ],
       "examples": [
         {
-          "en": "The ship changed course.",
+          "en": "The company offers an online course in project management for new staff.",
           "highlight": [
             "course"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司為新員工提供一門專案管理的線上課程。"
+          }
+        },
+        {
+          "en": "Several short courses were added to the training programme this year.",
+          "highlight": [
+            "courses"
+          ],
+          "translations": {
+            "zh-TW": "今年培訓計畫中加入了幾門短期課程。"
+          }
+        },
+        {
+          "en": "The river courses through the valley, providing water to nearby villages.",
+          "highlight": [
+            "courses"
+          ],
+          "translations": {
+            "zh-TW": "這條河流經山谷，為附近的村莊提供水源。"
           }
         }
       ],
       "synonyms": [
         "path",
-        "direction"
+        "route",
+        "class"
       ],
       "antonyms": [],
       "phrases": [
-        "course",
-        "of",
-        "action",
-        "golf",
-        "course"
+        "course of action",
+        "golf course",
+        "main course",
+        "in due course"
       ]
     },
     {
@@ -469,40 +620,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "courted",
+        "present_3rd": "courts",
+        "past": "courted",
         "past_participle": "courted",
-        "present_participle": "courting",
-        "third_person": "courts"
+        "ing": "courting",
+        "plural": "courts"
       },
-      "domain": "general",
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "court",
-          "definition": "n. 法院, 庭院, 奉承, vt. 献殷勤, 追求, 招致, vi. 求爱"
+          "definition": "n. 法院、球場、庭院  v. 討好、追求、招致"
         }
       ],
       "examples": [
         {
-          "en": "The court found him guilty.",
+          "en": "The court found the defendant guilty of fraud and sentenced him to prison.",
           "highlight": [
             "court"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "法院判決被告詐欺罪名成立，判處徒刑。"
+          }
+        },
+        {
+          "en": "Several tennis courts were reserved for members of the club this weekend.",
+          "highlight": [
+            "courts"
+          ],
+          "translations": {
+            "zh-TW": "這個週末有幾座網球場被俱樂部會員預約了。"
+          }
+        },
+        {
+          "en": "The company is courting new investors to fund its expansion into Asia.",
+          "highlight": [
+            "courting"
+          ],
+          "translations": {
+            "zh-TW": "公司正設法爭取新的投資人，以資助進軍亞洲市場。"
           }
         }
       ],
       "synonyms": [
         "tribunal",
-        "judiciary"
+        "judiciary",
+        "yard"
       ],
       "antonyms": [],
       "phrases": [
-        "high",
-        "court",
-        "court",
-        "case"
+        "high court",
+        "court case",
+        "court order",
+        "tennis court"
       ]
     }
   ]
