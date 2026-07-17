@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 51,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-051-001",
@@ -11,31 +11,45 @@
       "toeic_score_min": 200,
       "word": "carrot",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "carroted",
-        "past_participle": "carroted",
-        "present_participle": "carroting",
-        "third_person": "carrots"
+        "plural": "carrots"
       },
-      "domain": "general",
+      "domain": "food",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "carrot",
-          "definition": "n. 胡萝卜, [医] 胡萝卜"
+          "definition": "n. 胡蘿蔔、紅蘿蔔"
         }
       ],
       "examples": [
         {
-          "en": "She added carrots to the soup.",
+          "en": "She chopped a carrot to add to the soup.",
           "highlight": [
             "carrot"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她切了一根胡蘿蔔加進湯裡。"
+          }
+        },
+        {
+          "en": "The recipe calls for three carrots, grated.",
+          "highlight": [
+            "carrots"
+          ],
+          "translations": {
+            "zh-TW": "食譜需要三根胡蘿蔔，刨成絲。"
+          }
+        },
+        {
+          "en": "Eating a raw carrot as a snack is healthy and low in calories.",
+          "highlight": [
+            "carrot"
+          ],
+          "translations": {
+            "zh-TW": "把生胡蘿蔔當點心吃，既健康又低卡。"
           }
         }
       ],
@@ -45,10 +59,9 @@
       ],
       "antonyms": [],
       "phrases": [
-        "chop",
-        "carrots",
-        "eat",
-        "carrots"
+        "carrot cake",
+        "chop carrots",
+        "hang a carrot"
       ]
     },
     {
@@ -63,43 +76,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "carryed",
-        "past_participle": "carryed",
-        "present_participle": "carrying",
-        "third_person": "carrys"
+        "present_3rd": "carries",
+        "past": "carried",
+        "past_participle": "carried",
+        "ing": "carrying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "carry",
-          "definition": "n. 进位, 射程, 運载, vt. 携帶, 運送, 支持, 传送, 包含, vi. 被携帶, 能达到, [计] 进位; 进位数"
+          "definition": "v. 攜帶、運送、搬運  n. 攜帶、射程"
         }
       ],
       "examples": [
         {
-          "en": "He carried the box to the car.",
+          "en": "The courier will carry the package to the client's office.",
           "highlight": [
             "carry"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "快遞員會把包裹送到客戶的辦公室。"
+          }
+        },
+        {
+          "en": "She carried the luggage up the stairs without asking for help.",
+          "highlight": [
+            "carried"
+          ],
+          "translations": {
+            "zh-TW": "她沒有求助，獨自把行李搬上樓梯。"
+          }
+        },
+        {
+          "en": "He was carrying two cups of coffee when he slipped on the wet floor.",
+          "highlight": [
+            "carrying"
+          ],
+          "translations": {
+            "zh-TW": "他在濕滑的地板上滑倒時，正端著兩杯咖啡。"
           }
         }
       ],
       "synonyms": [
         "transport",
-        "convey"
+        "convey",
+        "bear"
       ],
       "antonyms": [
         "drop",
         "leave"
       ],
       "phrases": [
-        "carry",
-        "out",
-        "carry",
-        "on"
+        "carry out",
+        "carry on",
+        "carry forward",
+        "carry weight"
       ]
     },
     {
@@ -110,45 +142,59 @@
       "toeic_score_min": 200,
       "word": "case",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "caseed",
-        "past_participle": "caseed",
-        "present_participle": "casing",
-        "third_person": "cases"
+        "plural": "cases"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "case",
-          "definition": "n. 情形, 情况, 箱, 容器, 事實, 病例, 案例, 框子, vt. 装箱, 包盖"
+          "definition": "n. 案件、案例、情況、箱子、容器"
         }
       ],
       "examples": [
         {
-          "en": "It was a case of mistaken identity.",
+          "en": "In this case, we should wait for the manager's approval.",
           "highlight": [
             "case"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在這種情況下，我們應該等經理批准。"
+          }
+        },
+        {
+          "en": "The lawyer handled several cases of contract fraud last year.",
+          "highlight": [
+            "cases"
+          ],
+          "translations": {
+            "zh-TW": "這位律師去年處理了幾宗合約詐騙案件。"
+          }
+        },
+        {
+          "en": "The client presented a strong case for extending the deadline.",
+          "highlight": [
+            "case"
+          ],
+          "translations": {
+            "zh-TW": "客戶提出了充分的理由，要求延長期限。"
           }
         }
       ],
       "synonyms": [
         "instance",
-        "occurrence"
+        "occurrence",
+        "case"
       ],
       "antonyms": [],
       "phrases": [
-        "criminal",
-        "case",
-        "in",
-        "case",
-        "of"
+        "in case of",
+        "in any case",
+        "case study",
+        "make a case"
       ]
     },
     {
@@ -163,43 +209,61 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "cashed",
+        "present_3rd": "cashes",
+        "past": "cashed",
         "past_participle": "cashed",
-        "present_participle": "cashing",
-        "third_person": "cashs"
+        "ing": "cashing"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cash",
-          "definition": "n. 现金, vt. 兑现"
+          "definition": "n. 現金、現款  v. 兌現、把支票換成現金"
         }
       ],
       "examples": [
         {
-          "en": "He paid in cash.",
+          "en": "She prefers to pay for small purchases in cash.",
           "highlight": [
             "cash"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "小額消費她偏好付現金。"
+          }
+        },
+        {
+          "en": "He cashed a check at the bank on his lunch break.",
+          "highlight": [
+            "cashed"
+          ],
+          "translations": {
+            "zh-TW": "他在午休時去銀行兌現了一張支票。"
+          }
+        },
+        {
+          "en": "The shop is cashing travelers' checks for foreign visitors.",
+          "highlight": [
+            "cashing"
+          ],
+          "translations": {
+            "zh-TW": "這家店正在為外國旅客兌現旅行支票。"
           }
         }
       ],
       "synonyms": [
         "currency",
-        "money"
+        "money",
+        "funds"
       ],
       "antonyms": [
-        "credit",
-        "card"
+        "credit"
       ],
       "phrases": [
-        "cash",
-        "payment",
-        "cash",
-        "register"
+        "cash payment",
+        "cash register",
+        "cash flow",
+        "petty cash"
       ]
     },
     {
@@ -214,41 +278,59 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "casted",
-        "past_participle": "casted",
-        "present_participle": "casting",
-        "third_person": "casts"
+        "present_3rd": "casts",
+        "past": "cast",
+        "past_participle": "cast",
+        "ing": "casting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cast",
-          "definition": "n. 演員阵容, 投掷, 铸件, 预测, 特性, vt. 投, 掷, 抛, 脱落, 铸, 使弯曲, 计算, vi. 投, 计算, 浇铸成型"
+          "definition": "v. 投、擲、選角、鑄造  n. 演員陣容、石膏、鑄件"
         }
       ],
       "examples": [
         {
-          "en": "She cast the net into the sea.",
+          "en": "The committee will cast a vote to decide the next chairman.",
           "highlight": [
             "cast"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "委員會將投票表決下一任主席。"
+          }
+        },
+        {
+          "en": "He cast himself in the lead role when he directed the film.",
+          "highlight": [
+            "cast"
+          ],
+          "translations": {
+            "zh-TW": "他在執導這部電影時，讓自己擔綱主角。"
+          }
+        },
+        {
+          "en": "The studio is casting new actors for the sequel.",
+          "highlight": [
+            "casting"
+          ],
+          "translations": {
+            "zh-TW": "電影公司正在為續集物色新演員。"
           }
         }
       ],
       "synonyms": [
         "throw",
-        "fling"
+        "fling",
+        "toss"
       ],
       "antonyms": [],
       "phrases": [
-        "cast",
-        "a",
-        "spell",
-        "cast",
-        "a"
+        "cast a vote",
+        "cast a shadow",
+        "cast a spell",
+        "cast of characters"
       ]
     },
     {
@@ -259,44 +341,59 @@
       "toeic_score_min": 200,
       "word": "castle",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "castleed",
-        "past_participle": "castleed",
-        "present_participle": "castling",
-        "third_person": "castles"
+        "plural": "castles"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "castle",
-          "definition": "n. 城堡, 象棋中的車, vt. 置于城堡中, 盘踞于"
+          "definition": "n. 城堡、堡壘"
         }
       ],
       "examples": [
         {
-          "en": "The castle was built in the 15th century.",
+          "en": "The castle sits on a hill overlooking the lake.",
           "highlight": [
             "castle"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這座城堡坐落在俯瞰湖泊的山丘上。"
+          }
+        },
+        {
+          "en": "Many castles were destroyed during the war, but only a few were rebuilt.",
+          "highlight": [
+            "castles"
+          ],
+          "translations": {
+            "zh-TW": "許多城堡在戰爭中被摧毀，只有少數重建起來。"
+          }
+        },
+        {
+          "en": "They opened the doors of the old castle to paying visitors.",
+          "highlight": [
+            "castle"
+          ],
+          "translations": {
+            "zh-TW": "他們把那座古老城堡的大門向付費遊客敞開。"
           }
         }
       ],
       "synonyms": [
         "fortress",
-        "stronghold"
+        "stronghold",
+        "palace"
       ],
       "antonyms": [],
       "phrases": [
-        "medieval",
-        "castle",
-        "castle",
-        "walls"
+        "medieval castle",
+        "castle walls",
+        "castle in the air",
+        "build castles"
       ]
     },
     {
@@ -307,31 +404,45 @@
       "toeic_score_min": 200,
       "word": "cat",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "cated",
-        "past_participle": "cated",
-        "present_participle": "cating",
-        "third_person": "cats"
+        "plural": "cats"
       },
-      "domain": "general",
+      "domain": "animal",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cat",
-          "definition": "n. 猫, 恶妇, vi. 呕吐, 计算机辅助教育, 计算机辅助测试, 计算机辅助翻译, 计算机辅助排版, [计] 计算机辅助教学, 计算机辅助翻译, 计算机辅助排字, 计算机辅助测试"
+          "definition": "n. 貓、貓科動物"
         }
       ],
       "examples": [
         {
-          "en": "The cat is sleeping on the couch.",
+          "en": "She adopted a cat from the local shelter last weekend.",
           "highlight": [
             "cat"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她上週末從當地的收容所領養了一隻貓。"
+          }
+        },
+        {
+          "en": "Their two cats fight over the sunny spot by the window every morning.",
+          "highlight": [
+            "cats"
+          ],
+          "translations": {
+            "zh-TW": "他們家的兩隻貓每天早上都會搶窗邊那塊曬得到太陽的位置。"
+          }
+        },
+        {
+          "en": "A stray cat showed up at our door, so we gave it some food.",
+          "highlight": [
+            "cat"
+          ],
+          "translations": {
+            "zh-TW": "一隻流浪貓出現在我們家門口，於是我們給了牠一點食物。"
           }
         }
       ],
@@ -340,14 +451,13 @@
         "kitty"
       ],
       "antonyms": [
-        "dog",
-        "hound"
+        "dog"
       ],
       "phrases": [
-        "pet",
-        "cat",
-        "stray",
-        "cat"
+        "pet cat",
+        "stray cat",
+        "cats and dogs",
+        "let the cat out"
       ]
     },
     {
@@ -362,44 +472,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "catched",
-        "past_participle": "catched",
-        "present_participle": "catching",
-        "third_person": "catchs"
+        "present_3rd": "catches",
+        "past": "caught",
+        "past_participle": "caught",
+        "ing": "catching"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "catch",
-          "definition": "n. 捕捉, 陷阱, 捕捉之物, 抓, 拉手, vt. 捕捉, 赶上, 感染, 聽清楚, vi. 抓住, 燃着"
+          "definition": "v. 捕捉、抓住、趕上、感染  n. 捕捉、隱藏的問題"
         }
       ],
       "examples": [
         {
-          "en": "He managed to catch the ball.",
+          "en": "You need to run if you want to catch the last train.",
           "highlight": [
             "catch"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "如果想趕上末班車，你必須用跑的。"
+          }
+        },
+        {
+          "en": "He caught a cold after walking in the rain without an umbrella.",
+          "highlight": [
+            "caught"
+          ],
+          "translations": {
+            "zh-TW": "他沒帶傘淋著雨走回家，就感冒了。"
+          }
+        },
+        {
+          "en": "The police are catching the thieves who broke into the warehouse.",
+          "highlight": [
+            "catching"
+          ],
+          "translations": {
+            "zh-TW": "警方正在追捕闖入倉庫的小偷。"
           }
         }
       ],
       "synonyms": [
         "grab",
-        "seize"
+        "seize",
+        "capture"
       ],
       "antonyms": [
         "release",
         "drop"
       ],
       "phrases": [
-        "catch",
-        "a",
-        "ball",
-        "catch",
-        "a"
+        "catch a cold",
+        "catch up",
+        "catch fire",
+        "catch sight of"
       ]
     },
     {
@@ -420,30 +548,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "category",
-          "definition": "n. 種类, 类项, [计] 分类"
+          "definition": "n. 種類、類別、分類"
         }
       ],
       "examples": [
         {
-          "en": "The items were sorted into different categories.",
+          "en": "Please select a category for your complaint on the form.",
           "highlight": [
             "category"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在表格上為您的申訴選擇一個類別。"
+          }
+        },
+        {
+          "en": "The survey breaks down customers into five categories by age group.",
+          "highlight": [
+            "categories"
+          ],
+          "translations": {
+            "zh-TW": "這份問卷依年齡層將顧客分為五個類別。"
+          }
+        },
+        {
+          "en": "This store sells a wide category of products, from toys to kitchenware.",
+          "highlight": [
+            "category"
+          ],
+          "translations": {
+            "zh-TW": "這家店販售廣泛分類的商品，從玩具到廚具都有。"
           }
         }
       ],
       "synonyms": [
         "class",
-        "group"
+        "group",
+        "type"
       ],
       "antonyms": [],
       "phrases": [
-        "main",
-        "category",
-        "sub",
-        "category"
+        "main category",
+        "sub-category",
+        "fall into a category",
+        "special category"
       ]
     },
     {
@@ -458,44 +605,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "causeed",
-        "past_participle": "causeed",
-        "present_participle": "causing",
-        "third_person": "causes"
+        "present_3rd": "causes",
+        "past": "caused",
+        "past_participle": "caused",
+        "ing": "causing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cause",
-          "definition": "n. 原因, 目标, vt. 引起, 使产生, 使遭受"
+          "definition": "v. 引起、造成  n. 原因、理由、事業"
         }
       ],
       "examples": [
         {
-          "en": "The heavy rain caused flooding.",
+          "en": "Poor weather conditions may cause delays at the airport.",
           "highlight": [
             "cause"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "惡劣的天氣可能會在機場引發延誤。"
+          }
+        },
+        {
+          "en": "The power outage caused several servers to shut down.",
+          "highlight": [
+            "caused"
+          ],
+          "translations": {
+            "zh-TW": "停電導致幾台伺服器自動關機。"
+          }
+        },
+        {
+          "en": "Smoking is the leading cause of lung cancer, health experts say.",
+          "highlight": [
+            "cause"
+          ],
+          "translations": {
+            "zh-TW": "健康專家指出，吸菸是肺癌的首要原因。"
           }
         }
       ],
       "synonyms": [
         "reason",
-        "source"
+        "source",
+        "trigger"
       ],
       "antonyms": [
-        "result",
-        "effect"
+        "effect",
+        "result"
       ],
       "phrases": [
-        "cause",
-        "trouble",
-        "cause",
-        "of",
-        "death"
+        "cause trouble",
+        "cause of death",
+        "root cause",
+        "without cause"
       ]
     }
   ]
