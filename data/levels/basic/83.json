@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 83,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-083-001",
@@ -11,44 +11,64 @@
       "toeic_score_min": 200,
       "word": "decorative",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "decoratives"
+        "comparative": "more decorative",
+        "superlative": "most decorative"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "decorative",
-          "definition": "a. 装饰性的"
+          "definition": "a. 裝飾性的、作裝飾用的"
         }
       ],
       "examples": [
         {
-          "en": "She added decorative touches to her room.",
+          "en": "The lobby was filled with decorative plants and modern sculptures.",
           "highlight": [
             "decorative"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "大廳裡擺滿了裝飾用的植物和現代雕塑。"
+          }
+        },
+        {
+          "en": "Her office is more decorative than functional, with artwork covering every wall.",
+          "highlight": [
+            "more decorative"
+          ],
+          "translations": {
+            "zh-TW": "她的辦公室裝飾性勝過實用性，每面牆上都掛滿了藝術品。"
+          }
+        },
+        {
+          "en": "The most decorative element in the room is the hand-painted ceiling.",
+          "highlight": [
+            "most decorative"
+          ],
+          "translations": {
+            "zh-TW": "房間裡最具裝飾性的元素是那面手繪天花板。"
           }
         }
       ],
       "synonyms": [
         "ornamental",
-        "beautifying"
+        "decorating",
+        "embellishing"
       ],
       "antonyms": [
         "plain",
-        "functional"
+        "functional",
+        "utilitarian"
       ],
       "phrases": [
-        "decorative",
-        "items",
-        "decorative",
-        "purposes"
+        "decorative items",
+        "decorative purposes",
+        "decorative arts",
+        "decorative pattern"
       ]
     },
     {
@@ -63,43 +83,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "decreaseed",
-        "past_participle": "decreaseed",
-        "present_participle": "decreasing",
-        "third_person": "decreases"
+        "present_3rd": "decreases",
+        "past": "decreased",
+        "past_participle": "decreased",
+        "ing": "decreasing",
+        "plural": "decreases"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "decrease",
-          "definition": "n. 减少, 减少量, v. 减少"
+          "definition": "n. 減少、減少量  v. 減少、降低"
         }
       ],
       "examples": [
         {
-          "en": "There was a decrease in sales.",
+          "en": "The company plans to decrease its advertising budget next quarter.",
           "highlight": [
             "decrease"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司計畫在下個季度削減廣告預算。"
+          }
+        },
+        {
+          "en": "Sales decreased by fifteen percent after the price hike.",
+          "highlight": [
+            "decreased"
+          ],
+          "translations": {
+            "zh-TW": "漲價後銷售額下降了百分之十五。"
+          }
+        },
+        {
+          "en": "The decreasing demand for print newspapers has forced many publishers to close.",
+          "highlight": [
+            "decreasing"
+          ],
+          "translations": {
+            "zh-TW": "對紙本報紙不斷減少的需求已迫使許多出版商歇業。"
           }
         }
       ],
       "synonyms": [
         "reduce",
-        "diminish"
+        "diminish",
+        "lower"
       ],
       "antonyms": [
         "increase",
         "rise"
       ],
       "phrases": [
-        "sharp",
-        "decrease",
-        "slight",
-        "decrease"
+        "sharp decrease",
+        "slight decrease",
+        "decrease in sales",
+        "on the decrease"
       ]
     },
     {
@@ -111,9 +151,11 @@
       "word": "deep",
       "pos": [
         "adjective",
-        "noun"
+        "adverb"
       ],
       "conjugations": {
+        "comparative": "deeper",
+        "superlative": "deepest",
         "plural": "deeps"
       },
       "domain": "general",
@@ -121,33 +163,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "deep",
-          "definition": "a. 深的, adv. 深入地, n. 深渊, 深處"
+          "definition": "a. 深的、深刻的、深入的  adv. 深入地"
         }
       ],
       "examples": [
         {
-          "en": "The lake is very deep.",
+          "en": "The swimming pool is too deep for small children to use safely.",
           "highlight": [
             "deep"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這座游泳池對幼兒來說太深，無法安全使用。"
+          }
+        },
+        {
+          "en": "The candidate has a deeper understanding of finance than the others.",
+          "highlight": [
+            "deeper"
+          ],
+          "translations": {
+            "zh-TW": "這位候選人對財務的理解比其他人更深入。"
+          }
+        },
+        {
+          "en": "This is the deepest tunnel in the country, stretching over fifty kilometres.",
+          "highlight": [
+            "deepest"
+          ],
+          "translations": {
+            "zh-TW": "這是全國最深的隧道，全長超過五十公里。"
           }
         }
       ],
       "synonyms": [
         "profound",
-        "bottomless"
+        "bottomless",
+        "intense"
       ],
       "antonyms": [
         "shallow",
         "superficial"
       ],
       "phrases": [
-        "deep",
-        "water",
-        "deep",
-        "hole"
+        "deep in thought",
+        "deep breath",
+        "deep water",
+        "deep insight"
       ]
     },
     {
@@ -166,34 +227,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "deeply",
-          "definition": "adv. 深刻地, 在深處, 深沉地"
+          "definition": "adv. 深刻地、深深地、深沉地"
         }
       ],
       "examples": [
         {
-          "en": "She was deeply moved by the story.",
+          "en": "The manager was deeply concerned about the drop in productivity.",
           "highlight": [
             "deeply"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理對生產力下降深感憂心。"
+          }
+        },
+        {
+          "en": "She cares deeply about her team's well-being and mental health.",
+          "highlight": [
+            "deeply"
+          ],
+          "translations": {
+            "zh-TW": "她深切關心團隊的福祉與心理健康。"
+          }
+        },
+        {
+          "en": "Customers were deeply disappointed when the popular product was discontinued.",
+          "highlight": [
+            "deeply"
+          ],
+          "translations": {
+            "zh-TW": "當受歡迎的產品停產時，顧客們深感失望。"
           }
         }
       ],
       "synonyms": [
         "profoundly",
-        "strongly"
+        "strongly",
+        "intensely"
       ],
       "antonyms": [
         "slightly",
-        "lightly"
+        "lightly",
+        "barely"
       ],
       "phrases": [
-        "deeply",
-        "regret",
-        "deeply",
-        "in",
-        "love"
+        "deeply regret",
+        "deeply moved",
+        "deeply in love",
+        "deeply concerned"
       ]
     },
     {
@@ -208,44 +288,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "defeated",
+        "present_3rd": "defeats",
+        "past": "defeated",
         "past_participle": "defeated",
-        "present_participle": "defeating",
-        "third_person": "defeats"
+        "ing": "defeating",
+        "plural": "defeats"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "defeat",
-          "definition": "n. 败北, 失败, vt. 击败, 使落空"
+          "definition": "n. 擊敗、失敗  v. 擊敗、戰勝"
         }
       ],
       "examples": [
         {
-          "en": "They defeated the opposing team.",
+          "en": "Our team will defeat the rival company in this year's innovation contest.",
           "highlight": [
             "defeat"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們團隊將在今年的創新競賽中擊敗對手公司。"
+          }
+        },
+        {
+          "en": "The defending champions were defeated in the final minutes of the match.",
+          "highlight": [
+            "defeated"
+          ],
+          "translations": {
+            "zh-TW": "衛冕冠軍在比賽最後幾分鐘被擊敗。"
+          }
+        },
+        {
+          "en": "By defeating three top competitors, the startup secured the government contract.",
+          "highlight": [
+            "defeating"
+          ],
+          "translations": {
+            "zh-TW": "藉由擊敗三位頂尖競爭者，這家新創公司拿下了政府合約。"
           }
         }
       ],
       "synonyms": [
         "conquer",
-        "overcome"
+        "overcome",
+        "beat"
       ],
       "antonyms": [
         "surrender",
-        "lose"
+        "lose",
+        "yield"
       ],
       "phrases": [
-        "defeat",
-        "the",
-        "enemy",
-        "defeat",
-        "the"
+        "defeat the enemy",
+        "admit defeat",
+        "suffer a defeat",
+        "defeat the purpose"
       ]
     },
     {
@@ -256,37 +356,52 @@
       "toeic_score_min": 200,
       "word": "defence",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "defenceed",
-        "past_participle": "defenceed",
-        "present_participle": "defencing",
-        "third_person": "defences"
+        "plural": "defences"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "defence",
-          "definition": "n. 防卫, 防卫设备, [經] (诉讼程序中的)辩护"
+          "definition": "n. 防禦、保衛、辯護、國防"
         }
       ],
       "examples": [
         {
-          "en": "They built a wall for defence.",
+          "en": "The country invests heavily in national defence every year.",
           "highlight": [
             "defence"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這個國家每年在國防上投入大量資金。"
+          }
+        },
+        {
+          "en": "The city's ancient defences were built to withstand long sieges.",
+          "highlight": [
+            "defences"
+          ],
+          "translations": {
+            "zh-TW": "這座城市的古老防禦工事是為了抵禦長期圍攻而建造的。"
+          }
+        },
+        {
+          "en": "She works as a lawyer in the field of criminal defence.",
+          "highlight": [
+            "defence"
+          ],
+          "translations": {
+            "zh-TW": "她是一名律師，專門從事刑事辯護領域的工作。"
           }
         }
       ],
       "synonyms": [
         "protection",
-        "shield"
+        "shield",
+        "guard"
       ],
       "antonyms": [
         "attack",
@@ -294,8 +409,9 @@
       ],
       "phrases": [
         "self-defence",
-        "national",
-        "defence"
+        "national defence",
+        "defence mechanism",
+        "in defence of"
       ]
     },
     {
@@ -306,48 +422,66 @@
       "toeic_score_min": 200,
       "word": "defend",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "defended",
+        "present_3rd": "defends",
+        "past": "defended",
         "past_participle": "defended",
-        "present_participle": "defending",
-        "third_person": "defends"
+        "ing": "defending"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "defend",
-          "definition": "vt. 防护, 辩护, 防卫, [法] 作...的辩护律師, 辩护, 為...答辩"
+          "definition": "v. 保護、防禦、辯護、衛護"
         }
       ],
       "examples": [
         {
-          "en": "They defended their country from invaders.",
+          "en": "The lawyer will defend the client against all charges in court tomorrow.",
           "highlight": [
             "defend"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "律師明天將在法庭上為當事人辯護，反駁所有指控。"
+          }
+        },
+        {
+          "en": "The goalkeeper defended the net brilliantly throughout the match.",
+          "highlight": [
+            "defended"
+          ],
+          "translations": {
+            "zh-TW": "守門員在整場比賽中精彩地守住了球門。"
+          }
+        },
+        {
+          "en": "She is defending her PhD thesis on renewable energy next month.",
+          "highlight": [
+            "defending"
+          ],
+          "translations": {
+            "zh-TW": "她下個月將為自己的博士論文進行答辯，主題是再生能源。"
           }
         }
       ],
       "synonyms": [
         "protect",
-        "guard"
+        "guard",
+        "shield"
       ],
       "antonyms": [
         "attack",
-        "abandon"
+        "abandon",
+        "surrender"
       ],
       "phrases": [
-        "defend",
-        "against",
-        "defend",
-        "a",
-        "position"
+        "defend against",
+        "defend a position",
+        "defend one's rights",
+        "defend a title"
       ]
     },
     {
@@ -358,47 +492,66 @@
       "toeic_score_min": 200,
       "word": "define",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "defineed",
-        "past_participle": "defineed",
-        "present_participle": "defining",
-        "third_person": "defines"
+        "present_3rd": "defines",
+        "past": "defined",
+        "past_participle": "defined",
+        "ing": "defining"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "define",
-          "definition": "vt. 定义, 规定, 使明确, [计] 定义"
+          "definition": "v. 定義、界定、明確規定"
         }
       ],
       "examples": [
         {
-          "en": "Can you define this term?",
+          "en": "The contract clearly defines the responsibilities of each party involved.",
           "highlight": [
-            "define"
+            "defines"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "合約清楚界定了每位當事人的責任。"
+          }
+        },
+        {
+          "en": "The professor defined the term with several examples during the lecture.",
+          "highlight": [
+            "defined"
+          ],
+          "translations": {
+            "zh-TW": "教授在演講中用了幾個例子來定義這個術語。"
+          }
+        },
+        {
+          "en": "Defining a clear strategy is the first step toward business success.",
+          "highlight": [
+            "Defining"
+          ],
+          "translations": {
+            "zh-TW": "界定明確的策略是邁向商業成功的第一步。"
           }
         }
       ],
       "synonyms": [
         "explain",
-        "describe"
+        "describe",
+        "specify"
       ],
       "antonyms": [
         "confuse",
-        "obscure"
+        "obscure",
+        "blur"
       ],
       "phrases": [
-        "define",
-        "clearly",
-        "define",
-        "terms"
+        "define clearly",
+        "define terms",
+        "well-defined",
+        "define a role"
       ]
     },
     {
@@ -409,44 +562,64 @@
       "toeic_score_min": 200,
       "word": "definite",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "definites"
+        "comparative": "more definite",
+        "superlative": "most definite"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "definite",
-          "definition": "a. 明确的, 一定的, [法] 明确的, 确切的, 一定的"
+          "definition": "a. 明確的、一定的、確切的"
         }
       ],
       "examples": [
         {
-          "en": "We need a definite answer by tomorrow.",
+          "en": "We need a definite answer from the supplier by Friday at the latest.",
           "highlight": [
             "definite"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們最遲要在星期五前得到供應商的明確答覆。"
+          }
+        },
+        {
+          "en": "His tone was more definite than before, showing he had made up his mind.",
+          "highlight": [
+            "more definite"
+          ],
+          "translations": {
+            "zh-TW": "他的語氣比之前更明確，顯示他已下定決心。"
+          }
+        },
+        {
+          "en": "That was the most definite proof of the company's involvement in the scandal.",
+          "highlight": [
+            "most definite"
+          ],
+          "translations": {
+            "zh-TW": "那是該公司捲入醜聞最確切的證據。"
           }
         }
       ],
       "synonyms": [
         "certain",
-        "clear"
+        "clear",
+        "specific"
       ],
       "antonyms": [
         "indefinite",
-        "uncertain"
+        "uncertain",
+        "vague"
       ],
       "phrases": [
-        "definite",
-        "answer",
-        "definite",
-        "plans"
+        "definite answer",
+        "definite plans",
+        "definite article",
+        "definite time"
       ]
     },
     {
@@ -465,33 +638,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "definitely",
-          "definition": "adv. 明确无疑地, 清楚地"
+          "definition": "adv. 肯定地、明確無疑地、當然"
         }
       ],
       "examples": [
         {
-          "en": "I definitely agree with you.",
+          "en": "I will definitely attend the meeting tomorrow morning.",
           "highlight": [
             "definitely"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我明天早上一定會出席會議。"
+          }
+        },
+        {
+          "en": "The new policy has definitely improved employee satisfaction.",
+          "highlight": [
+            "definitely"
+          ],
+          "translations": {
+            "zh-TW": "新政策確實提升了員工的滿意度。"
+          }
+        },
+        {
+          "en": "That restaurant is definitely worth a visit if you love Italian cuisine.",
+          "highlight": [
+            "definitely"
+          ],
+          "translations": {
+            "zh-TW": "如果你熱愛義大利料理，那家餐廳絕對值得一訪。"
           }
         }
       ],
       "synonyms": [
         "certainly",
-        "surely"
+        "surely",
+        "absolutely"
       ],
       "antonyms": [
         "doubtfully",
-        "uncertainly"
+        "uncertainly",
+        "possibly"
       ],
       "phrases": [
-        "definitely",
-        "true",
-        "definitely",
-        "wrong"
+        "definitely not",
+        "definitely worth",
+        "definitely yes",
+        "definitely sure"
       ]
     }
   ]
