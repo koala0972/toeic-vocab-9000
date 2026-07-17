@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 57,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-057-001",
@@ -15,42 +15,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "chiped",
-        "past_participle": "chiped",
-        "present_participle": "chiping",
-        "third_person": "chips"
+        "plural": "chips",
+        "present_3rd": "chips",
+        "past": "chipped",
+        "past_participle": "chipped",
+        "ing": "chipping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "chip",
-          "definition": "n. 屑片, 薄片, 碎片, vt. 削, 切, 削成碎片, 使摔倒, 凿, vi. 削下屑片, [计] 孔屑; 组件; 晶片; 芯片"
+          "definition": "n. 晶片、晶元；碎片、薄屑；炸薯條  v. 削、切、鑿；打破（邊緣）"
         }
       ],
       "examples": [
         {
-          "en": "She ate a chocolate chip cookie.",
+          "en": "This smartphone uses a powerful new chip to process photos.",
           "highlight": [
             "chip"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這款智慧型手機採用一顆強大的新晶片來處理照片。"
+          }
+        },
+        {
+          "en": "She chipped a small piece off the vase while cleaning the shelf.",
+          "highlight": [
+            "chipped"
+          ],
+          "translations": {
+            "zh-TW": "她在清理架子時不小心把花瓶削掉了一小塊。"
+          }
+        },
+        {
+          "en": "The technician has been chipping away at the rust for an hour.",
+          "highlight": [
+            "chipping"
+          ],
+          "translations": {
+            "zh-TW": "技師已經慢慢敲除鐵鏽一個小時了。"
           }
         }
       ],
       "synonyms": [
+        "microchip",
         "fragment",
-        "piece"
+        "crisp"
       ],
       "antonyms": [
         "whole"
       ],
       "phrases": [
-        "chocolate",
-        "chip",
-        "wood",
-        "chip"
+        "microchip",
+        "potato chip",
+        "chip in",
+        "chip away"
       ]
     },
     {
@@ -61,44 +81,59 @@
       "toeic_score_min": 200,
       "word": "chocolate",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "chocolateed",
-        "past_participle": "chocolateed",
-        "present_participle": "chocolating",
-        "third_person": "chocolates"
+        "plural": "chocolates"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "chocolate",
-          "definition": "n. 巧克力, a. 巧克力制的"
+          "definition": "n. 巧克力；巧克力糖  adj. 巧克力口味的、深褐色的"
         }
       ],
       "examples": [
         {
-          "en": "She loves dark chocolate.",
+          "en": "The hotel places a piece of dark chocolate on every guest's pillow.",
           "highlight": [
             "chocolate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "飯店在每位客人的枕頭上放一塊黑巧克力。"
+          }
+        },
+        {
+          "en": "She received a box of Belgian chocolates as a birthday gift.",
+          "highlight": [
+            "chocolates"
+          ],
+          "translations": {
+            "zh-TW": "她收到一盒比利時巧克力做為生日禮物。"
+          }
+        },
+        {
+          "en": "Order a hot chocolate to go with your dessert.",
+          "highlight": [
+            "chocolate"
+          ],
+          "translations": {
+            "zh-TW": "點一杯熱巧克力來搭配您的甜點。"
           }
         }
       ],
       "synonyms": [
         "cocoa",
-        "confection"
+        "confection",
+        "candy"
       ],
       "antonyms": [],
       "phrases": [
-        "dark",
-        "chocolate",
-        "milk",
-        "chocolate"
+        "dark chocolate",
+        "milk chocolate",
+        "hot chocolate",
+        "chocolate bar"
       ]
     },
     {
@@ -120,31 +155,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "choice",
-          "definition": "n. 选择, 精选品, 选择权, a. 精选的, 挑三拣四的, 上等的, [计] DOS内部命令:在批處理文件中, 该命令用于提示用户作出选择, 决定批處理文件的流程"
+          "definition": "n. 選擇、抉擇；選擇權；精選品  adj. 精選的、上等的"
         }
       ],
       "examples": [
         {
-          "en": "You have a choice between coffee or tea.",
+          "en": "The buffet offers a wide choice of salads and desserts.",
           "highlight": [
             "choice"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "自助餐提供豐富的沙拉與甜點供選擇。"
+          }
+        },
+        {
+          "en": "Choosing the right supplier is one of the most important choices a manager can make.",
+          "highlight": [
+            "choices"
+          ],
+          "translations": {
+            "zh-TW": "挑選合適的供應商是經理能做的最重要抉擇之一。"
+          }
+        },
+        {
+          "en": "These choice cuts of beef are reserved for our premium members.",
+          "highlight": [
+            "choice"
+          ],
+          "translations": {
+            "zh-TW": "這些上等牛肉保留給我們的頂級會員。"
           }
         }
       ],
       "synonyms": [
         "option",
-        "selection"
+        "selection",
+        "alternative"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "compulsion"
+      ],
       "phrases": [
-        "make",
-        "a",
-        "choice",
-        "difficult",
-        "choice"
+        "make a choice",
+        "free choice",
+        "difficult choice",
+        "of choice"
       ]
     },
     {
@@ -155,47 +210,65 @@
       "toeic_score_min": 200,
       "word": "choose",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "chooseed",
-        "past_participle": "chooseed",
-        "present_participle": "choosing",
-        "third_person": "chooses"
+        "present_3rd": "chooses",
+        "past": "chose",
+        "past_participle": "chosen",
+        "ing": "choosing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "choose",
-          "definition": "vt. 选择, 宁愿, 欲, vi. 作出选择, 愿意, [计] 选取"
+          "definition": "v. 選擇、挑選；決定；寧願"
         }
       ],
       "examples": [
         {
-          "en": "Choose the one you like best.",
+          "en": "Please choose a seat near the window if you prefer natural light.",
           "highlight": [
             "choose"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "如果您喜歡自然光，請選擇靠窗的座位。"
+          }
+        },
+        {
+          "en": "We chose the second supplier because their prices were more competitive.",
+          "highlight": [
+            "chose"
+          ],
+          "translations": {
+            "zh-TW": "我們選了第二家供應商，因為他們的價格更具競爭力。"
+          }
+        },
+        {
+          "en": "The candidate has been chosen to lead the new research team.",
+          "highlight": [
+            "chosen"
+          ],
+          "translations": {
+            "zh-TW": "那位候選人已被選中來帶領新的研究團隊。"
           }
         }
       ],
       "synonyms": [
         "select",
-        "pick"
+        "pick",
+        "decide"
       ],
       "antonyms": [
         "refuse",
         "reject"
       ],
       "phrases": [
-        "choose",
-        "carefully",
-        "choose",
-        "wisely"
+        "choose wisely",
+        "choose between",
+        "pick and choose",
+        "choose from"
       ]
     },
     {
@@ -210,43 +283,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "choped",
-        "past_participle": "choped",
-        "present_participle": "choping",
-        "third_person": "chops"
+        "plural": "chops",
+        "present_3rd": "chops",
+        "past": "chopped",
+        "past_participle": "chopped",
+        "ing": "chopping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "chop",
-          "definition": "n. 肋条肉, 排骨, 砍, 戳記, 商标, vt. 剁碎, 砍, 切击, 割断, vi. 砍, 突然转向"
+          "definition": "v. 剁、砍、切細  n. 排骨；砍、劈；切口"
         }
       ],
       "examples": [
         {
-          "en": "He chopped the vegetables for the stew.",
+          "en": "The chef chops the onions finely before adding them to the sauce.",
           "highlight": [
-            "chop"
+            "chops"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "廚師把洋蔥切細後再加入醬汁中。"
+          }
+        },
+        {
+          "en": "He chopped the fresh herbs and mixed them into the dressing.",
+          "highlight": [
+            "chopped"
+          ],
+          "translations": {
+            "zh-TW": "他把新鮮香草剁碎並拌入醬料中。"
+          }
+        },
+        {
+          "en": "The pork chops on today's lunch menu come with a side of vegetables.",
+          "highlight": [
+            "chops"
+          ],
+          "translations": {
+            "zh-TW": "今天午餐菜單上的豬排附配一份蔬菜。"
           }
         }
       ],
       "synonyms": [
         "cut",
-        "slice"
+        "slice",
+        "hack"
       ],
       "antonyms": [
         "assemble",
-        "combine"
+        "join"
       ],
       "phrases": [
-        "chop",
-        "finely",
-        "chop",
-        "roughly"
+        "chop finely",
+        "pork chop",
+        "chop down",
+        "chop and change"
       ]
     },
     {
@@ -257,44 +350,59 @@
       "toeic_score_min": 200,
       "word": "church",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "churched",
-        "past_participle": "churched",
-        "present_participle": "churching",
-        "third_person": "churchs"
+        "plural": "churches"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "church",
-          "definition": "n. 教堂, 礼拜, 教會, vt. 使人接受宗教仪式, a. 教堂的"
+          "definition": "n. 教堂、教會；禮拜"
         }
       ],
       "examples": [
         {
-          "en": "They go to church every Sunday.",
+          "en": "The old stone church at the corner hosts a food drive every December.",
           "highlight": [
             "church"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "街角那座古老的石造教堂每年十二月都會舉辦食物捐贈活動。"
+          }
+        },
+        {
+          "en": "Several historic churches in the city centre are open for guided tours.",
+          "highlight": [
+            "churches"
+          ],
+          "translations": {
+            "zh-TW": "市區有幾座歷史悠久的教堂開放給導覽行程參觀。"
+          }
+        },
+        {
+          "en": "Our family usually goes to church on Sunday mornings.",
+          "highlight": [
+            "church"
+          ],
+          "translations": {
+            "zh-TW": "我們家通常在週日早上做禮拜。"
           }
         }
       ],
       "synonyms": [
         "cathedral",
-        "chapel"
+        "chapel",
+        "congregation"
       ],
       "antonyms": [],
       "phrases": [
-        "church",
-        "service",
-        "church",
-        "bell"
+        "go to church",
+        "church service",
+        "church bell",
+        "parish church"
       ]
     },
     {
@@ -305,45 +413,59 @@
       "toeic_score_min": 200,
       "word": "cigarette",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "cigaretteed",
-        "past_participle": "cigaretteed",
-        "present_participle": "cigaretting",
-        "third_person": "cigarettes"
+        "plural": "cigarettes"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cigarette",
-          "definition": "n. 香烟, 纸烟"
+          "definition": "n. 香菸、紙菸"
         }
       ],
       "examples": [
         {
-          "en": "He lit a cigarette.",
+          "en": "Smoking a single cigarette can linger on your clothes for hours.",
           "highlight": [
             "cigarette"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "抽一根菸的味道會在衣服上殘留好幾個小時。"
+          }
+        },
+        {
+          "en": "He left his pack of cigarettes on the restaurant table by mistake.",
+          "highlight": [
+            "cigarettes"
+          ],
+          "translations": {
+            "zh-TW": "他不小心把一包香菸忘在餐廳的桌上。"
+          }
+        },
+        {
+          "en": "The office building is a non-smoking area, so please step outside to smoke a cigarette.",
+          "highlight": [
+            "cigarette"
+          ],
+          "translations": {
+            "zh-TW": "辦公大樓為禁菸區，請到室外抽菸。"
           }
         }
       ],
       "synonyms": [
         "smoke",
-        "fag"
+        "fag",
+        "cig"
       ],
       "antonyms": [],
       "phrases": [
-        "light",
-        "a",
-        "cigarette",
-        "cigarette",
-        "smoke"
+        "light a cigarette",
+        "cigarette smoke",
+        "cigarette lighter",
+        "pack of cigarettes"
       ]
     },
     {
@@ -364,33 +486,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "cinema",
-          "definition": "n. 电影院, 电影"
+          "definition": "n. 電影院；電影（藝術、產業）"
         }
       ],
       "examples": [
         {
-          "en": "They went to the cinema to watch a movie.",
+          "en": "A new cinema opened downtown with twelve screens and reclining seats.",
           "highlight": [
             "cinema"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "市中心開了一家新的電影院，有十二個影廳和可躺式座椅。"
+          }
+        },
+        {
+          "en": "Many independent cinemas struggle to compete with large streaming platforms.",
+          "highlight": [
+            "cinemas"
+          ],
+          "translations": {
+            "zh-TW": "許多獨立電影院難以與大型串流平台競爭。"
+          }
+        },
+        {
+          "en": "She studied cinema at university and now directs short documentaries.",
+          "highlight": [
+            "cinema"
+          ],
+          "translations": {
+            "zh-TW": "她在大學主修電影，現在執導紀錄短片。"
           }
         }
       ],
       "synonyms": [
-        "movie",
-        "theater",
+        "movie theater",
         "film",
-        "house"
+        "picture house"
       ],
       "antonyms": [],
       "phrases": [
-        "go",
-        "to",
-        "the",
-        "cinema",
-        "cinema"
+        "go to the cinema",
+        "cinema screen",
+        "art cinema",
+        "cinema industry"
       ]
     },
     {
@@ -405,41 +543,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "circleed",
-        "past_participle": "circleed",
-        "present_participle": "circling",
-        "third_person": "circles"
+        "plural": "circles",
+        "present_3rd": "circles",
+        "past": "circled",
+        "past_participle": "circled",
+        "ing": "circling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "circle",
-          "definition": "n. 圆周, 社交圈, 循环, 范围, vt. 围着, 环绕, vi. 盘旋, 循环"
+          "definition": "n. 圓圈、圓周；社交圈；範圍  v. 環繞、圈出；盤旋"
         }
       ],
       "examples": [
         {
-          "en": "He drew a circle on the paper.",
+          "en": "Please circle the correct answer on the printed form.",
           "highlight": [
             "circle"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在列印表格上把正確答案圈出來。"
+          }
+        },
+        {
+          "en": "The eagle circled above the field searching for prey.",
+          "highlight": [
+            "circled"
+          ],
+          "translations": {
+            "zh-TW": "老鷹在田野上方盤旋搜尋獵物。"
+          }
+        },
+        {
+          "en": "We sat in a circle and shared ideas for the new marketing campaign.",
+          "highlight": [
+            "circle"
+          ],
+          "translations": {
+            "zh-TW": "我們圍坐成一圈，分享新行銷活動的點子。"
           }
         }
       ],
       "synonyms": [
         "ring",
-        "round"
+        "round",
+        "loop"
       ],
       "antonyms": [],
       "phrases": [
-        "draw",
-        "a",
-        "circle",
-        "circle",
-        "of"
+        "inner circle",
+        "full circle",
+        "vicious circle",
+        "social circle"
       ]
     },
     {
@@ -460,31 +617,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "circumstance",
-          "definition": "n. 环境, 状况, 事件"
+          "definition": "n. 情況、環境；事件；境遇"
         }
       ],
       "examples": [
         {
-          "en": "The circumstances of the accident are still unclear.",
+          "en": "Under the current circumstance, we cannot raise salaries this year.",
           "highlight": [
             "circumstance"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在目前的情況下，我們今年無法調薪。"
+          }
+        },
+        {
+          "en": "The contract depends on circumstances that we cannot fully control.",
+          "highlight": [
+            "circumstances"
+          ],
+          "translations": {
+            "zh-TW": "這份合約取決於我們無法完全控制的情況。"
+          }
+        },
+        {
+          "en": "Please review the agreement under all relevant circumstances before signing.",
+          "highlight": [
+            "circumstances"
+          ],
+          "translations": {
+            "zh-TW": "簽署前請參酌所有相關情況審閱合約。"
           }
         }
       ],
       "synonyms": [
         "situation",
-        "condition"
+        "condition",
+        "context"
       ],
       "antonyms": [],
       "phrases": [
-        "under",
-        "the",
-        "circumstances",
-        "difficult",
-        "circumstances"
+        "under the circumstances",
+        "circumstances permitting",
+        "extenuating circumstances",
+        "in no circumstances"
       ]
     }
   ]
