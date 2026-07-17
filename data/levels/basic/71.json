@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 71,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-071-001",
@@ -19,33 +19,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "continuously",
-          "definition": "adv. 不断地, 连续地, [电] 连续地"
+          "definition": "adv. 持續地、連續不斷地"
         }
       ],
       "examples": [
         {
-          "en": "He worked continuously without a break.",
+          "en": "The factory has been operating continuously for 48 hours to meet the deadline.",
           "highlight": [
             "continuously"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "為了趕上截止日期，工廠已連續運轉了四十八小時。"
+          }
+        },
+        {
+          "en": "Rain fell continuously throughout the weekend, flooding several streets downtown.",
+          "highlight": [
+            "continuously"
+          ],
+          "translations": {
+            "zh-TW": "整個週末雨下個不停，導致市中心幾條街道淹水。"
+          }
+        },
+        {
+          "en": "Investors have monitored the stock continuously since the merger announcement.",
+          "highlight": [
+            "continuously"
+          ],
+          "translations": {
+            "zh-TW": "自從併購消息宣布後，投資人便持續關注這檔股票。"
           }
         }
       ],
       "synonyms": [
         "constantly",
-        "perpetually"
+        "ceaselessly",
+        "unremittingly"
       ],
       "antonyms": [
         "intermittently",
         "sporadically"
       ],
       "phrases": [
-        "continuously",
-        "work",
-        "continuously",
-        "move"
+        "continuously variable",
+        "work continuously",
+        "continuously updated"
       ]
     },
     {
@@ -60,44 +78,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "contracted",
+        "plural": "contracts",
+        "present_3rd": "contracts",
+        "past": "contracted",
         "past_participle": "contracted",
-        "present_participle": "contracting",
-        "third_person": "contracts"
+        "ing": "contracting"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "contract",
-          "definition": "n. 合约, 婚约, 契约, vt. 使皱缩, 使缩短, 感染, 订约, 缔結, vi. 皱缩, 订约, 收缩"
+          "definition": "n. 合約、契約  v. 收縮、縮小；訂約；感染"
         }
       ],
       "examples": [
         {
-          "en": "They signed a new contract.",
+          "en": "Please review the contract carefully before signing it.",
           "highlight": [
             "contract"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "簽約前請仔細審閱這份合約。"
+          }
+        },
+        {
+          "en": "The company contracted a local firm to handle its logistics.",
+          "highlight": [
+            "contracted"
+          ],
+          "translations": {
+            "zh-TW": "該公司與一家本地廠商簽約，委託其處理物流。"
+          }
+        },
+        {
+          "en": "Muscles contract when lifting heavy weights and relax when lowering them.",
+          "highlight": [
+            "contract"
+          ],
+          "translations": {
+            "zh-TW": "舉起重物時肌肉會收縮，放下時則會放鬆。"
           }
         }
       ],
       "synonyms": [
         "agreement",
-        "deal"
+        "deal",
+        "pact"
       ],
       "antonyms": [
         "disagreement",
-        "dispute"
+        "expansion"
       ],
       "phrases": [
-        "sign",
-        "a",
-        "contract",
-        "breach",
-        "a"
+        "sign a contract",
+        "breach of contract",
+        "contract out",
+        "under contract"
       ]
     },
     {
@@ -112,43 +149,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "contrasted",
+        "plural": "contrasts",
+        "present_3rd": "contrasts",
+        "past": "contrasted",
         "past_participle": "contrasted",
-        "present_participle": "contrasting",
-        "third_person": "contrasts"
+        "ing": "contrasting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "contrast",
-          "definition": "n. 差别, 對比, 對照物, vt. 使對比, vi. 成對照, [计] 反差; 對比度"
+          "definition": "n. 對比、對照（差異）  v. 對比、對照"
         }
       ],
       "examples": [
         {
-          "en": "There is a stark contrast between the two styles.",
+          "en": "There is a stark contrast between their work styles.",
           "highlight": [
             "contrast"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他們的工作風格形成強烈對比。"
+          }
+        },
+        {
+          "en": "The report contrasted this year's profits with last year's losses.",
+          "highlight": [
+            "contrasted"
+          ],
+          "translations": {
+            "zh-TW": "報告將今年的獲利與去年的虧損作了對比。"
+          }
+        },
+        {
+          "en": "In contrast to her calm tone, his voice shook with anger.",
+          "highlight": [
+            "contrast"
+          ],
+          "translations": {
+            "zh-TW": "與她平靜的語氣形成對比的是，他的聲音因憤怒而顫抖。"
           }
         }
       ],
       "synonyms": [
         "difference",
-        "disparity"
+        "disparity",
+        "distinction"
       ],
       "antonyms": [
         "similarity",
         "resemblance"
       ],
       "phrases": [
-        "sharp",
-        "contrast",
-        "in",
-        "contrast"
+        "in contrast to",
+        "by contrast",
+        "sharp contrast",
+        "contrast with"
       ]
     },
     {
@@ -162,44 +219,58 @@
         "adjective",
         "verb"
       ],
-      "conjugations": {
-        "past_tense": "contrastinged",
-        "past_participle": "contrastinged",
-        "present_participle": "contrastinging",
-        "third_person": "contrastings"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "contrasting",
-          "definition": "v. （靠近或作比较時）顯出明顯的差异, 形成對比( contrast的现在分词 ); 對比, 對照"
+          "definition": "adj. 對比強烈的、形成對照的  v.（contrast 的現在分詞）對比、對照"
         }
       ],
       "examples": [
         {
-          "en": "The artist used contrasting colors.",
+          "en": "The designer paired contrasting colors to make the logo stand out.",
           "highlight": [
             "contrasting"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "設計師搭配對比強烈的色彩，讓標誌更顯眼。"
+          }
+        },
+        {
+          "en": "The essay contrasting the two philosophers won the academic award.",
+          "highlight": [
+            "contrasting"
+          ],
+          "translations": {
+            "zh-TW": "那篇對照兩位哲學家的文章贏得了學術獎。"
+          }
+        },
+        {
+          "en": "By contrasting the two surveys, analysts found a shift in consumer habits.",
+          "highlight": [
+            "contrasting"
+          ],
+          "translations": {
+            "zh-TW": "分析師透過對照兩份調查，發現了消費習慣的轉變。"
           }
         }
       ],
       "synonyms": [
         "differing",
+        "opposing",
         "opposite"
       ],
       "antonyms": [
         "similar",
-        "alike"
+        "alike",
+        "matching"
       ],
       "phrases": [
-        "contrasting",
-        "colors",
-        "contrasting",
-        "views"
+        "contrasting colors",
+        "contrasting views",
+        "contrasting styles"
       ]
     },
     {
@@ -210,47 +281,64 @@
       "toeic_score_min": 200,
       "word": "contribute",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "contributeed",
-        "past_participle": "contributeed",
-        "present_participle": "contributing",
-        "third_person": "contributes"
+        "present_3rd": "contributes",
+        "past": "contributed",
+        "past_participle": "contributed",
+        "ing": "contributing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "contribute",
-          "definition": "vt. 有助于, 捐助, 投稿, vi. 出力, 捐献, 投稿"
+          "definition": "v. 貢獻、捐助；促成、導致；投稿"
         }
       ],
       "examples": [
         {
-          "en": "He contributed to the charity fund.",
+          "en": "Every team member should contribute ideas during the brainstorming session.",
           "highlight": [
             "contribute"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "每位團隊成員都應在腦力激盪時提出想法。"
+          }
+        },
+        {
+          "en": "She contributed generously to the earthquake relief fund.",
+          "highlight": [
+            "contributed"
+          ],
+          "translations": {
+            "zh-TW": "她慷慨地捐助了地震救濟基金。"
+          }
+        },
+        {
+          "en": "Several factors contributed to the decline in quarterly sales.",
+          "highlight": [
+            "contributed"
+          ],
+          "translations": {
+            "zh-TW": "多項因素共同導致了本季銷售額的下滑。"
           }
         }
       ],
       "synonyms": [
         "donate",
-        "give"
+        "give",
+        "provide"
       ],
       "antonyms": [
         "withdraw",
-        "take"
+        "withhold"
       ],
       "phrases": [
-        "contribute",
-        "financially",
-        "contribute",
-        "ideas"
+        "contribute to",
+        "contribute ideas",
+        "contribute money"
       ]
     },
     {
@@ -261,48 +349,61 @@
       "toeic_score_min": 200,
       "word": "contribution",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "contributioned",
-        "past_participle": "contributioned",
-        "present_participle": "contributioning",
-        "third_person": "contributions"
+        "plural": "contributions"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "contribution",
-          "definition": "n. 捐助, 捐助之物, 贡献, [經] 贡献, 捐款, 补助品"
+          "definition": "n. 貢獻、捐獻；投稿；促成的作用"
         }
       ],
       "examples": [
         {
-          "en": "She made a significant contribution to the project.",
+          "en": "His contribution to the research project was widely recognized.",
           "highlight": [
             "contribution"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他對該研究計畫的貢獻廣受肯定。"
+          }
+        },
+        {
+          "en": "Employees' contributions to the pension plan are tax-deductible.",
+          "highlight": [
+            "contributions"
+          ],
+          "translations": {
+            "zh-TW": "員工對退休金的提撥可作為扣稅項目。"
+          }
+        },
+        {
+          "en": "The volunteer made a significant contribution to the community library.",
+          "highlight": [
+            "contribution"
+          ],
+          "translations": {
+            "zh-TW": "這位義工對社區圖書館作出了重大貢獻。"
           }
         }
       ],
       "synonyms": [
         "donation",
-        "input"
+        "input",
+        "gift"
       ],
       "antonyms": [
         "withdrawal",
-        "detract"
+        "detriment"
       ],
       "phrases": [
-        "financial",
-        "contribution",
-        "make",
-        "a",
-        "contribution"
+        "make a contribution",
+        "financial contribution",
+        "outstanding contribution"
       ]
     },
     {
@@ -317,43 +418,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "controled",
-        "past_participle": "controled",
-        "present_participle": "controling",
-        "third_person": "controls"
+        "plural": "controls",
+        "present_3rd": "controls",
+        "past": "controlled",
+        "past_participle": "controlled",
+        "ing": "controlling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "control",
-          "definition": "n. 控制, 管理, 克制, 控制器, 操纵装置, vt. 控制, 操纵, 抑制, [计] 控制; 控制器"
+          "definition": "n. 控制、管理；控制器；克制  v. 控制、管理；抑制"
         }
       ],
       "examples": [
         {
-          "en": "The company has control over the market.",
+          "en": "The manager lost control of the budget within the first quarter.",
           "highlight": [
             "control"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理在第一季就對預算失去了控制。"
+          }
+        },
+        {
+          "en": "A single tablet controls the temperature, lighting, and security system.",
+          "highlight": [
+            "controls"
+          ],
+          "translations": {
+            "zh-TW": "只要一塊平板就能控制溫度、照明與安防系統。"
+          }
+        },
+        {
+          "en": "The pilot controlled the aircraft smoothly despite the strong turbulence.",
+          "highlight": [
+            "controlled"
+          ],
+          "translations": {
+            "zh-TW": "儘管遭遇強烈亂流，飛行員仍平穩地操控著飛機。"
           }
         }
       ],
       "synonyms": [
-        "management",
-        "oversight"
+        "manage",
+        "regulate",
+        "command"
       ],
       "antonyms": [
         "chaos",
         "disorder"
       ],
       "phrases": [
-        "gain",
-        "control",
-        "lose",
-        "control"
+        "under control",
+        "out of control",
+        "quality control",
+        "remote control"
       ]
     },
     {
@@ -367,44 +488,58 @@
         "adjective",
         "verb"
       ],
-      "conjugations": {
-        "past_tense": "controlleded",
-        "past_participle": "controlleded",
-        "present_participle": "controlleding",
-        "third_person": "controlleds"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "controlled",
-          "definition": "a. 受约束的, 克制的, [法] 受管制的, 受控制的, 受管辖的"
+          "definition": "adj. 受控的、受管制的；克制的、穩定的  v.（control 的過去式／過去分詞）控制"
         }
       ],
       "examples": [
         {
-          "en": "The experiment was controlled by scientists.",
+          "en": "The experiment must be conducted in a strictly controlled environment.",
           "highlight": [
             "controlled"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這項實驗必須在嚴格受控的環境中進行。"
+          }
+        },
+        {
+          "en": "Access to the data is controlled by a multi-factor authentication system.",
+          "highlight": [
+            "controlled"
+          ],
+          "translations": {
+            "zh-TW": "存取該資料受到多因子身分驗證系統的管制。"
+          }
+        },
+        {
+          "en": "She controlled her nerves and delivered a poised presentation to the board.",
+          "highlight": [
+            "controlled"
+          ],
+          "translations": {
+            "zh-TW": "她克制住緊張，向董事會從容地進行了簡報。"
           }
         }
       ],
       "synonyms": [
         "regulated",
-        "directed"
+        "managed",
+        "restrained"
       ],
       "antonyms": [
         "uncontrolled",
-        "unmanaged"
+        "unregulated"
       ],
       "phrases": [
-        "controlled",
-        "environment",
-        "controlled",
-        "conditions"
+        "controlled environment",
+        "controlled substance",
+        "controlled conditions",
+        "controlled access"
       ]
     },
     {
@@ -415,44 +550,63 @@
       "toeic_score_min": 200,
       "word": "convenient",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "convenients"
+        "comparative": "more convenient",
+        "superlative": "most convenient"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "convenient",
-          "definition": "a. 方便的, 合宜的, [法] 适当的, 合理而可行的, 方便的"
+          "definition": "adj. 方便的、便利的；合宜的"
         }
       ],
       "examples": [
         {
-          "en": "The location is convenient for shopping.",
+          "en": "It's convenient that the hotel is right next to the subway station.",
           "highlight": [
             "convenient"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "飯店就在地鐵站旁邊，真的很方便。"
+          }
+        },
+        {
+          "en": "Online banking is more convenient than visiting a branch during business hours.",
+          "highlight": [
+            "more convenient"
+          ],
+          "translations": {
+            "zh-TW": "網路銀行比在營業時間親自跑分行更便利。"
+          }
+        },
+        {
+          "en": "Deliveries are scheduled at the most convenient time for each customer.",
+          "highlight": [
+            "most convenient"
+          ],
+          "translations": {
+            "zh-TW": "送貨時間會安排在每位顧客最方便的時段。"
           }
         }
       ],
       "synonyms": [
+        "handy",
         "suitable",
-        "handy"
+        "accessible"
       ],
       "antonyms": [
         "inconvenient",
         "unsuitable"
       ],
       "phrases": [
-        "convenient",
-        "time",
-        "convenient",
-        "location"
+        "convenient location",
+        "convenient time",
+        "convenient for",
+        "mutually convenient"
       ]
     },
     {
@@ -463,47 +617,62 @@
       "toeic_score_min": 200,
       "word": "convention",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "conventioned",
-        "past_participle": "conventioned",
-        "present_participle": "conventioning",
-        "third_person": "conventions"
+        "plural": "conventions"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "convention",
-          "definition": "n. 大會, 协定, 惯例, 约定, [计] 约定"
+          "definition": "n. 大會、會議；慣例、習俗；公約、協定"
         }
       ],
       "examples": [
         {
-          "en": "It is a long-standing convention.",
+          "en": "Our company holds an annual sales convention in Las Vegas.",
           "highlight": [
             "convention"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們公司每年都會在拉斯維加斯舉辦業務大會。"
+          }
+        },
+        {
+          "en": "Industry conventions are excellent venues for networking and finding new clients.",
+          "highlight": [
+            "conventions"
+          ],
+          "translations": {
+            "zh-TW": "業界大會是拓展人脈與開發新客戶的絕佳場合。"
+          }
+        },
+        {
+          "en": "By long-standing convention, the host pays for the welcome dinner.",
+          "highlight": [
+            "convention"
+          ],
+          "translations": {
+            "zh-TW": "依照長久以來的慣例，主人會負責支付迎賓晚宴的費用。"
           }
         }
       ],
       "synonyms": [
+        "conference",
         "custom",
-        "practice"
+        "gathering"
       ],
       "antonyms": [
-        "disruption",
-        "deviation"
+        "deviation",
+        "innovation"
       ],
       "phrases": [
-        "social",
-        "convention",
-        "political",
-        "convention"
+        "annual convention",
+        "by convention",
+        "social convention",
+        "convention center"
       ]
     }
   ]
