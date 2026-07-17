@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 78,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-078-001",
@@ -15,43 +15,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "cryed",
-        "past_participle": "cryed",
-        "present_participle": "crying",
-        "third_person": "crys"
+        "plural": "cries",
+        "present_3rd": "cries",
+        "past": "cried",
+        "past_participle": "cried",
+        "ing": "crying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cry",
-          "definition": "n. 叫声, 哭声, 大叫, vi. 哭, 叫, 喊, vt. 叫喊, 大声說, 哭出"
+          "definition": "v. 哭泣、叫喊  n. 哭聲、叫聲"
         }
       ],
       "examples": [
         {
-          "en": "The baby started to cry.",
+          "en": "The little girl began to cry when she lost her toy.",
           "highlight": [
             "cry"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "小女孩弄丟玩具時開始哭了起來。"
+          }
+        },
+        {
+          "en": "He cried for help when he fell into the river.",
+          "highlight": [
+            "cried"
+          ],
+          "translations": {
+            "zh-TW": "他掉進河裡時大聲呼救。"
+          }
+        },
+        {
+          "en": "The baby has been crying all night and the parents are exhausted.",
+          "highlight": [
+            "crying"
+          ],
+          "translations": {
+            "zh-TW": "寶寶整晚一直在哭，父母已筋疲力盡。"
           }
         }
       ],
       "synonyms": [
         "weep",
-        "sob"
+        "sob",
+        "wail"
       ],
       "antonyms": [
         "laugh",
         "smile"
       ],
       "phrases": [
-        "cry",
-        "loudly",
-        "cry",
-        "softly"
+        "cry out",
+        "cry for help",
+        "cry baby",
+        "battle cry"
       ]
     },
     {
@@ -62,41 +82,56 @@
       "toeic_score_min": 200,
       "word": "cultural",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "culturals"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cultural",
-          "definition": "a. 文化的, 教养的, 修养的, [医] 培养的"
+          "definition": "adj. 文化的、與文化相關的"
         }
       ],
       "examples": [
         {
-          "en": "There are many cultural differences between the two countries.",
+          "en": "Cultural differences often affect how business is conducted internationally.",
+          "highlight": [
+            "Cultural"
+          ],
+          "translations": {
+            "zh-TW": "文化差異常影響跨國商務的進行方式。"
+          }
+        },
+        {
+          "en": "The festival is one of the most important cultural events in the country.",
           "highlight": [
             "cultural"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這個節日是該國最重要的文化活動之一。"
+          }
+        },
+        {
+          "en": "The hotel respects the cultural traditions of every guest who stays there.",
+          "highlight": [
+            "cultural"
+          ],
+          "translations": {
+            "zh-TW": "這家旅館尊重每位住宿客人的文化傳統。"
           }
         }
       ],
       "synonyms": [
         "ethnic",
-        "societal"
+        "social"
       ],
       "antonyms": [],
       "phrases": [
-        "cultural",
-        "heritage",
-        "cultural",
-        "event"
+        "cultural heritage",
+        "cultural event",
+        "cultural difference",
+        "cultural exchange"
       ]
     },
     {
@@ -111,43 +146,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "cultureed",
-        "past_participle": "cultureed",
-        "present_participle": "culturing",
-        "third_person": "cultures"
+        "plural": "cultures",
+        "present_3rd": "cultures",
+        "past": "cultured",
+        "past_participle": "cultured",
+        "ing": "culturing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "culture",
-          "definition": "n. 文化, 修养, 耕種, vt. 耕種, 培养"
+          "definition": "n. 文化、修養  v. 培養"
         }
       ],
       "examples": [
         {
-          "en": "The museum has an extensive collection of art and culture.",
+          "en": "The company has a strong culture of innovation and teamwork.",
           "highlight": [
             "culture"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家公司有濃厚的創新與團隊合作文化。"
+          }
+        },
+        {
+          "en": "The lab cultured the bacteria for three days before testing the new drug.",
+          "highlight": [
+            "cultured"
+          ],
+          "translations": {
+            "zh-TW": "實驗室培養了細菌三天後才測試新藥。"
+          }
+        },
+        {
+          "en": "Culturing cells requires a sterile environment and precise temperature control.",
+          "highlight": [
+            "Culturing"
+          ],
+          "translations": {
+            "zh-TW": "培養細胞需要無菌環境和精確的溫度控制。"
           }
         }
       ],
       "synonyms": [
         "civilization",
-        "heritage"
+        "heritage",
+        "customs"
       ],
       "antonyms": [
-        "barbarism",
-        "ignorance"
+        "barbarism"
       ],
       "phrases": [
-        "rich",
-        "culture",
-        "popular",
-        "culture"
+        "company culture",
+        "pop culture",
+        "culture shock",
+        "safety culture"
       ]
     },
     {
@@ -162,44 +216,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "cuped",
-        "past_participle": "cuped",
-        "present_participle": "cuping",
-        "third_person": "cups"
+        "plural": "cups",
+        "present_3rd": "cups",
+        "past": "cupped",
+        "past_participle": "cupped",
+        "ing": "cupping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cup",
-          "definition": "n. 杯子, 茶杯, 优胜杯, vt. 使成杯状, 為...拔火罐"
+          "definition": "n. 杯子、獎盃  v. 使成杯狀、捧住"
         }
       ],
       "examples": [
         {
-          "en": "She drank a cup of tea.",
+          "en": "Could you bring me a cup of coffee before the meeting?",
           "highlight": [
             "cup"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "開會前能幫我帶杯咖啡過來嗎？"
+          }
+        },
+        {
+          "en": "She cupped her hands around the candle to protect the flame from the wind.",
+          "highlight": [
+            "cupped"
+          ],
+          "translations": {
+            "zh-TW": "她把雙手捧在蠟燭周圍，以保護火苗不被風吹熄。"
+          }
+        },
+        {
+          "en": "The team will compete for the World Cup next summer.",
+          "highlight": [
+            "Cup"
+          ],
+          "translations": {
+            "zh-TW": "這支隊伍明年夏天將爭奪世界盃冠軍。"
           }
         }
       ],
       "synonyms": [
         "mug",
-        "goblet"
+        "glass",
+        "chalice"
       ],
-      "antonyms": [
-        "bowl",
-        "dish"
-      ],
+      "antonyms": [],
       "phrases": [
-        "cup",
-        "of",
-        "tea",
-        "coffee",
-        "cup"
+        "a cup of tea",
+        "World Cup",
+        "measuring cup",
+        "cup of coffee"
       ]
     },
     {
@@ -210,48 +280,58 @@
       "toeic_score_min": 200,
       "word": "cupboard",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "cupboarded",
-        "past_participle": "cupboarded",
-        "present_participle": "cupboarding",
-        "third_person": "cupboards"
+        "plural": "cupboards"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cupboard",
-          "definition": "n. 食橱, 碗柜, 餐具柜"
+          "definition": "n. 櫥櫃、碗櫃、儲物櫃"
         }
       ],
       "examples": [
         {
-          "en": "The plates are in the cupboard.",
+          "en": "We keep the extra plates and glasses in the kitchen cupboard.",
           "highlight": [
             "cupboard"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們把多餘的盤子和杯子放在廚房的櫥櫃裡。"
+          }
+        },
+        {
+          "en": "There are three cupboards in the meeting room filled with office supplies.",
+          "highlight": [
+            "cupboards"
+          ],
+          "translations": {
+            "zh-TW": "會議室裡有三個裝滿辦公用品的儲物櫃。"
+          }
+        },
+        {
+          "en": "Please organize the cupboard by the end of the day so the new staff can find things easily.",
+          "highlight": [
+            "cupboard"
+          ],
+          "translations": {
+            "zh-TW": "請在下班前把櫥櫃整理好，方便新進員工找到物品。"
           }
         }
       ],
       "synonyms": [
         "cabinet",
-        "closet"
+        "closet",
+        "pantry"
       ],
-      "antonyms": [
-        "open",
-        "shelf",
-        "table"
-      ],
+      "antonyms": [],
       "phrases": [
-        "kitchen",
-        "cupboard",
-        "storage",
-        "cupboard"
+        "kitchen cupboard",
+        "storage cupboard",
+        "skeleton in the cupboard"
       ]
     },
     {
@@ -266,44 +346,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "cureed",
-        "past_participle": "cureed",
-        "present_participle": "curing",
-        "third_person": "cures"
+        "plural": "cures",
+        "present_3rd": "cures",
+        "past": "cured",
+        "past_participle": "cured",
+        "ing": "curing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cure",
-          "definition": "n. 治疗, 治愈, 治疗法, vt. 治疗, 治愈, 改正, 腌制, 加工處理, 使硫化, vi. 受治疗, 被加工處理, 被硫化"
+          "definition": "v. 治癒、治療  n. 療法、解藥"
         }
       ],
       "examples": [
         {
-          "en": "The doctor was able to cure the disease.",
+          "en": "The new medicine can cure most types of the disease within a week.",
           "highlight": [
             "cure"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這款新藥能在一週內治癒大多數類型的這種疾病。"
+          }
+        },
+        {
+          "en": "The doctor cured the patient with a combination of therapy and medication.",
+          "highlight": [
+            "cured"
+          ],
+          "translations": {
+            "zh-TW": "醫生以結合療法與藥物的方式治癒了這位病人。"
+          }
+        },
+        {
+          "en": "Scientists are currently curing and smoking the meat to enhance its flavor.",
+          "highlight": [
+            "curing"
+          ],
+          "translations": {
+            "zh-TW": "科學家目前正在醃製並煙燻肉品以提升其風味。"
           }
         }
       ],
       "synonyms": [
         "heal",
-        "remedy"
+        "remedy",
+        "treat"
       ],
       "antonyms": [
-        "ail",
-        "sicken"
+        "sicken",
+        "worsen"
       ],
       "phrases": [
-        "cure",
-        "a",
-        "disease",
-        "cure",
-        "an"
+        "cure a disease",
+        "miracle cure",
+        "cure for cancer",
+        "no cure"
       ]
     },
     {
@@ -314,44 +413,62 @@
       "toeic_score_min": 200,
       "word": "curious",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "curiouses"
+        "comparative": "curiouser",
+        "superlative": "curiousest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "curious",
-          "definition": "a. 好奇的, 求知的, 古怪的"
+          "definition": "adj. 好奇的、求知慾強的、古怪的"
         }
       ],
       "examples": [
         {
-          "en": "She was curious about the new neighbors.",
+          "en": "The new intern is curiously clever and asks thoughtful questions in every meeting.",
+          "highlight": [
+            "curiously"
+          ],
+          "translations": {
+            "zh-TW": "新來的實習生聰明得令人好奇，每次開會都會問很有深度的問題。"
+          }
+        },
+        {
+          "en": "Investors are curious whether the startup can turn a profit next year.",
           "highlight": [
             "curious"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "投資人很想知道這家新創公司明年能否轉虧為盈。"
+          }
+        },
+        {
+          "en": "Children are naturally more curious than adults about how things work.",
+          "highlight": [
+            "curious"
+          ],
+          "translations": {
+            "zh-TW": "小孩天生比大人更好奇事物是如何運作的。"
           }
         }
       ],
       "synonyms": [
         "inquisitive",
-        "interested"
+        "interested",
+        "intrigued"
       ],
       "antonyms": [
         "indifferent",
         "uninterested"
       ],
       "phrases": [
-        "curious",
-        "mind",
-        "curious",
-        "nature"
+        "curious about",
+        "curious mind",
+        "curious nature"
       ]
     },
     {
@@ -370,33 +487,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "curiously",
-          "definition": "adv. 好奇地"
+          "definition": "adv. 好奇地、奇妙地"
         }
       ],
       "examples": [
         {
-          "en": "He looked at the object curiously.",
+          "en": "Curiously, the report did not mention the main cause of the delay.",
+          "highlight": [
+            "Curiously"
+          ],
+          "translations": {
+            "zh-TW": "令人好奇的是，這份報告並未提到延期的主要原因。"
+          }
+        },
+        {
+          "en": "The customer looked curiously at the new product displayed on the shelf.",
           "highlight": [
             "curiously"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "顧客好奇地看著架上展示的新產品。"
+          }
+        },
+        {
+          "en": "Curiously enough, sales rose sharply the week after the price was increased.",
+          "highlight": [
+            "Curiously"
+          ],
+          "translations": {
+            "zh-TW": "說來奇怪，漲價後的一週銷售竟大幅成長。"
           }
         }
       ],
       "synonyms": [
         "inquiringly",
-        "interestedly"
+        "interestingly"
       ],
       "antonyms": [
-        "indifferently",
-        "uninterestedly"
+        "indifferently"
       ],
       "phrases": [
-        "curiously",
-        "observe",
-        "curiously",
-        "examine"
+        "curiously enough",
+        "look curiously",
+        "curiously observed"
       ]
     },
     {
@@ -411,43 +544,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "curled",
+        "plural": "curls",
+        "present_3rd": "curls",
+        "past": "curled",
         "past_participle": "curled",
-        "present_participle": "curling",
-        "third_person": "curls"
+        "ing": "curling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "curl",
-          "definition": "n. 拳曲, 鬈發, vt. 弄卷, vi. 拳曲, 弯曲"
+          "definition": "v. 捲曲、弄捲  n. 捲髮、捲曲物"
         }
       ],
       "examples": [
         {
-          "en": "She curled her hair for the party.",
+          "en": "She will curl her hair before the wedding ceremony begins.",
           "highlight": [
             "curl"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她會在婚禮開始前把頭髮捲起來。"
+          }
+        },
+        {
+          "en": "Smoke curled slowly from the chimney as the temperature dropped at night.",
+          "highlight": [
+            "curled"
+          ],
+          "translations": {
+            "zh-TW": "夜裡氣溫下降時，煙從煙囪緩緩繚繞而上。"
+          }
+        },
+        {
+          "en": "The leaves are curling because the plant needs more water.",
+          "highlight": [
+            "curling"
+          ],
+          "translations": {
+            "zh-TW": "葉子正在捲曲，因為植物需要更多水分。"
           }
         }
       ],
       "synonyms": [
         "coil",
-        "twist"
+        "twist",
+        "loop"
       ],
       "antonyms": [
         "straighten",
         "flatten"
       ],
       "phrases": [
-        "curl",
-        "hair",
-        "curl",
-        "ribbon"
+        "curl hair",
+        "curl up",
+        "make your hair curl"
       ]
     },
     {
@@ -458,10 +610,11 @@
       "toeic_score_min": 200,
       "word": "curly",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
+        "comparative": "curlier",
+        "superlative": "curliest",
         "plural": "curlies"
       },
       "domain": "general",
@@ -469,33 +622,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "curly",
-          "definition": "a. 拳曲的, 卷毛的, 弯曲的"
+          "definition": "adj. 捲曲的、捲髮的"
         }
       ],
       "examples": [
         {
-          "en": "She has curly hair.",
+          "en": "The young actress is famous for her curly red hair.",
           "highlight": [
             "curly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位年輕女演員以一頭紅色捲髮聞名。"
+          }
+        },
+        {
+          "en": "Her curly hair became curlier in the humid summer weather.",
+          "highlight": [
+            "curlier"
+          ],
+          "translations": {
+            "zh-TW": "她在潮濕的夏季天氣下捲髮變得更捲了。"
+          }
+        },
+        {
+          "en": "My brother has the curliest hair in our whole family.",
+          "highlight": [
+            "curliest"
+          ],
+          "translations": {
+            "zh-TW": "我哥哥擁有我們全家最捲的頭髮。"
           }
         }
       ],
       "synonyms": [
         "wavy",
-        "ringlet"
+        "ringleted"
       ],
       "antonyms": [
         "straight",
         "flat"
       ],
       "phrases": [
-        "curly",
-        "hair",
-        "curly",
-        "fries"
+        "curly hair",
+        "curly fries",
+        "curly tail"
       ]
     }
   ]
