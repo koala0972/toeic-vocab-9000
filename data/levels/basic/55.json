@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 55,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-055-001",
@@ -15,43 +15,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "chaseed",
-        "past_participle": "chaseed",
-        "present_participle": "chasing",
-        "third_person": "chases"
+        "present_3rd": "chases",
+        "past": "chased",
+        "past_participle": "chased",
+        "ing": "chasing",
+        "plural": "chases"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "chase",
-          "definition": "n. 追求, 狩猎, 追逐, vt. 追捕, 追逐, 雕刻, 在...上镶嵌宝石, vi. 追赶, 奔跑"
+          "definition": "v. 追逐、追趕、追求  n. 追逐、追擊"
         }
       ],
       "examples": [
         {
-          "en": "The dog chased the cat.",
+          "en": "The reporter chased the CEO down the hallway to ask about the merger.",
+          "highlight": [
+            "chased"
+          ],
+          "translations": {
+            "zh-TW": "記者沿著走廊追著執行長，詢問合併案的事。"
+          }
+        },
+        {
+          "en": "The sales team is chasing a new client in Singapore this quarter.",
+          "highlight": [
+            "chasing"
+          ],
+          "translations": {
+            "zh-TW": "業務團隊這一季正在追新加坡的新客戶。"
+          }
+        },
+        {
+          "en": "After a long chase through the airport, security finally caught the thief.",
           "highlight": [
             "chase"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經過機場裡漫長的追逐後，安檢人員終於抓住了小偷。"
           }
         }
       ],
       "synonyms": [
         "pursue",
-        "follow"
+        "follow",
+        "run after"
       ],
       "antonyms": [
         "flee",
         "escape"
       ],
       "phrases": [
-        "chase",
-        "after",
-        "chase",
-        "down"
+        "chase down",
+        "chase after",
+        "wild goose chase",
+        "chase a deadline"
       ]
     },
     {
@@ -66,44 +86,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "chated",
-        "past_participle": "chated",
-        "present_participle": "chating",
-        "third_person": "chats"
+        "present_3rd": "chats",
+        "past": "chatted",
+        "past_participle": "chatted",
+        "ing": "chatting",
+        "plural": "chats"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "chat",
-          "definition": "n. 闲谈, vi. 闲谈, 聊天"
+          "definition": "v. 聊天、閒談  n. 聊天、閒談"
         }
       ],
       "examples": [
         {
-          "en": "They chatted about their plans for the weekend.",
+          "en": "We chatted with the hotel manager about the conference room schedule.",
+          "highlight": [
+            "chatted"
+          ],
+          "translations": {
+            "zh-TW": "我們和飯店經理閒聊了會議室的時程安排。"
+          }
+        },
+        {
+          "en": "She is chatting with her colleagues over coffee about the new project.",
+          "highlight": [
+            "chatting"
+          ],
+          "translations": {
+            "zh-TW": "她正邊喝咖啡邊和同事聊新專案。"
+          }
+        },
+        {
+          "en": "I had a quick chat with the supplier before the meeting started.",
           "highlight": [
             "chat"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "會議開始前，我和供應商簡短聊了一下。"
           }
         }
       ],
       "synonyms": [
         "talk",
-        "converse"
+        "converse",
+        "gossip"
       ],
       "antonyms": [
         "ignore",
         "silence"
       ],
       "phrases": [
-        "chat",
-        "online",
-        "chat",
-        "with",
-        "friends"
+        "chat with someone",
+        "have a chat",
+        "live chat",
+        "chat room"
       ]
     },
     {
@@ -125,33 +164,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "cheap",
-          "definition": "a. 便宜的, 不值钱的, 可鄙的, adv. 便宜地"
+          "definition": "adj. 便宜的、廉價的、不值錢的"
         }
       ],
       "examples": [
         {
-          "en": "She bought a cheap dress.",
+          "en": "These pens are cheap, so we can order a large quantity for the office.",
           "highlight": [
             "cheap"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這些筆很便宜，所以公司可以大量訂購。"
+          }
+        },
+        {
+          "en": "Flying on Tuesday is usually cheaper than flying on the weekend.",
+          "highlight": [
+            "cheaper"
+          ],
+          "translations": {
+            "zh-TW": "禮拜二搭飛機通常比週末便宜。"
+          }
+        },
+        {
+          "en": "This is the cheapest hotel in the city center, but the rooms are clean.",
+          "highlight": [
+            "cheapest"
+          ],
+          "translations": {
+            "zh-TW": "這是市中心最便宜的飯店，但房間很乾淨。"
           }
         }
       ],
       "synonyms": [
         "inexpensive",
-        "low-cost"
+        "low-cost",
+        "affordable"
       ],
       "antonyms": [
         "expensive",
         "costly"
       ],
       "phrases": [
-        "cheap",
-        "price",
-        "cheap",
-        "goods"
+        "cheap price",
+        "cheap goods",
+        "dirt cheap",
+        "cheap shot"
       ]
     },
     {
@@ -170,33 +228,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "cheaply",
-          "definition": "adv. 便宜地"
+          "definition": "adv. 便宜地、低成本地"
         }
       ],
       "examples": [
         {
-          "en": "The toy was cheaply made.",
+          "en": "The factory produces shoes cheaply by using automated machines.",
           "highlight": [
             "cheaply"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這間工廠利用自動化機器低成本地生產鞋子。"
+          }
+        },
+        {
+          "en": "We printed the brochures cheaply at a local shop downtown.",
+          "highlight": [
+            "cheaply"
+          ],
+          "translations": {
+            "zh-TW": "我們在市中心的一家店便宜地印了宣傳手冊。"
+          }
+        },
+        {
+          "en": "Farmer's markets often sell fresh vegetables more cheaply than supermarkets.",
+          "highlight": [
+            "cheaply"
+          ],
+          "translations": {
+            "zh-TW": "農夫市集賣的新鮮蔬菜常比超市便宜。"
           }
         }
       ],
       "synonyms": [
         "inexpensively",
-        "economically"
+        "economically",
+        "affordably"
       ],
       "antonyms": [
         "expensively",
-        "richly"
+        "costly"
       ],
       "phrases": [
-        "produced",
-        "cheaply",
-        "available",
-        "cheaply"
+        "produced cheaply",
+        "available cheaply",
+        "buy cheaply"
       ]
     },
     {
@@ -211,46 +287,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "cheated",
+        "present_3rd": "cheats",
+        "past": "cheated",
         "past_participle": "cheated",
-        "present_participle": "cheating",
-        "third_person": "cheats"
+        "ing": "cheating",
+        "plural": "cheats"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cheat",
-          "definition": "n. 欺骗, 作弊, 骗子, v. 欺骗, 逃脱, 骗取"
+          "definition": "v. 欺騙、作弊、不忠  n. 騙子、作弊行為"
         }
       ],
       "examples": [
         {
-          "en": "He cheated on the test.",
+          "en": "The accountant was caught cheating the company out of thousands of dollars.",
+          "highlight": [
+            "cheating"
+          ],
+          "translations": {
+            "zh-TW": "會計師被抓到詐騙公司數千美元。"
+          }
+        },
+        {
+          "en": "He cheated on the certification exam and lost his license.",
+          "highlight": [
+            "cheated"
+          ],
+          "translations": {
+            "zh-TW": "他在資格考試中作弊，結果被吊銷執照。"
+          }
+        },
+        {
+          "en": "Customers who cheat on invoices will be reported to the authorities.",
           "highlight": [
             "cheat"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在發票上動手腳的顧客將被通報給主管機關。"
           }
         }
       ],
       "synonyms": [
         "deceive",
-        "trick"
+        "trick",
+        "defraud"
       ],
       "antonyms": [
-        "be",
-        "honest",
-        "play",
-        "fair"
+        "be honest",
+        "play fair"
       ],
       "phrases": [
-        "cheat",
-        "on",
-        "a",
-        "test",
-        "cheat"
+        "cheat on a test",
+        "cheat someone out of",
+        "cheat death"
       ]
     },
     {
@@ -265,44 +357,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "checked",
+        "present_3rd": "checks",
+        "past": "checked",
         "past_participle": "checked",
-        "present_participle": "checking",
-        "third_person": "checks"
+        "ing": "checking",
+        "plural": "checks"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "check",
-          "definition": "n. 检查, 支票, 阻止物, 寄物牌, 象棋中将军, vt. 检查, 阻止, 核對, 寄存, 托運, vi. 逐项相符, 开支票, [计] 复选"
+          "definition": "v. 檢查、核對、寄存  n. 檢查、支票、帳單"
         }
       ],
       "examples": [
         {
-          "en": "She checked the report for errors.",
+          "en": "The receptionist is checking the guest's passport at the front desk.",
+          "highlight": [
+            "checking"
+          ],
+          "translations": {
+            "zh-TW": "櫃檯接待員正在核查客人的護照。"
+          }
+        },
+        {
+          "en": "She checked the inventory list twice before placing the order.",
+          "highlight": [
+            "checked"
+          ],
+          "translations": {
+            "zh-TW": "她在下訂單前把庫存清單核對了兩次。"
+          }
+        },
+        {
+          "en": "Please run a background check on all new employees before they start.",
           "highlight": [
             "check"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請對所有新進員工進行背景調查，再讓他們上班。"
           }
         }
       ],
       "synonyms": [
         "inspect",
-        "verify"
+        "verify",
+        "examine"
       ],
       "antonyms": [
         "ignore",
         "neglect"
       ],
       "phrases": [
-        "check",
-        "the",
-        "details",
-        "check",
-        "for"
+        "check in",
+        "check out",
+        "background check",
+        "check the details"
       ]
     },
     {
@@ -317,27 +428,46 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "cheeked",
+        "present_3rd": "cheeks",
+        "past": "cheeked",
         "past_participle": "cheeked",
-        "present_participle": "cheeking",
-        "third_person": "cheeks"
+        "ing": "cheeking",
+        "plural": "cheeks"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cheek",
-          "definition": "n. 颊, 厚颜, 脸蛋, [医] 颊"
+          "definition": "n. 臉頰、面頰  v. 無禮地頂嘴"
         }
       ],
       "examples": [
         {
-          "en": "He kissed her on the cheek.",
+          "en": "The baby's cheeks turned red after playing outside in the cold.",
+          "highlight": [
+            "cheeks"
+          ],
+          "translations": {
+            "zh-TW": "嬰兒在外面冷空氣中玩耍後，臉頰變得紅通通的。"
+          }
+        },
+        {
+          "en": "She felt a sharp pain in her left cheek after the dental surgery.",
           "highlight": [
             "cheek"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "牙科手術後，她左邊臉頰感到一陣刺痛。"
+          }
+        },
+        {
+          "en": "A rose-pink ribbon adorned the baby's soft cheek during the photo shoot.",
+          "highlight": [
+            "cheek"
+          ],
+          "translations": {
+            "zh-TW": "拍照期間，嬰兒柔嫩的臉頰上別著一條粉紅色的絲帶。"
           }
         }
       ],
@@ -347,11 +477,10 @@
       ],
       "antonyms": [],
       "phrases": [
-        "rosy",
-        "cheeks",
-        "pinch",
-        "a",
-        "cheek"
+        "rosy cheeks",
+        "turn the other cheek",
+        "cheek by jowl",
+        "tongue in cheek"
       ]
     },
     {
@@ -365,41 +494,60 @@
         "adjective"
       ],
       "conjugations": {
-        "comparative": "cheerfuler",
-        "superlative": "cheerfulest"
+        "comparative": "more cheerful",
+        "superlative": "most cheerful"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cheerful",
-          "definition": "a. 快活的, 高興的, 興高采烈的"
+          "definition": "adj. 快樂的、愉快的、興高采烈的"
         }
       ],
       "examples": [
         {
-          "en": "She is always cheerful in the morning.",
+          "en": "The shop assistant gave us a cheerful greeting when we walked in.",
           "highlight": [
             "cheerful"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們走進店裡時，店員給了我們一個愉快的問候。"
+          }
+        },
+        {
+          "en": "Her voice was more cheerful than usual after she got the promotion.",
+          "highlight": [
+            "more cheerful"
+          ],
+          "translations": {
+            "zh-TW": "她升職後，聲音比平時更愉快了。"
+          }
+        },
+        {
+          "en": "He is the most cheerful member of our team during busy seasons.",
+          "highlight": [
+            "most cheerful"
+          ],
+          "translations": {
+            "zh-TW": "他是繁忙時期我們團隊中最開心的一位。"
           }
         }
       ],
       "synonyms": [
         "happy",
+        "merry",
         "optimistic"
       ],
       "antonyms": [
         "sad",
-        "gloomy"
+        "gloomy",
+        "grumpy"
       ],
       "phrases": [
-        "cheerful",
-        "mood",
-        "cheerful",
-        "smile"
+        "cheerful mood",
+        "cheerful smile",
+        "cheerful greeting"
       ]
     },
     {
@@ -418,33 +566,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "cheerfully",
-          "definition": "adv. 高高興興地"
+          "definition": "adv. 快樂地、愉快地"
         }
       ],
       "examples": [
         {
-          "en": "He cheerfully greeted everyone at the party.",
+          "en": "The waiter cheerfully explained the menu to the new customers.",
           "highlight": [
             "cheerfully"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "服務生愉快地為新客人介紹菜單。"
+          }
+        },
+        {
+          "en": "She cheerfully accepted the extra workload during her colleague's vacation.",
+          "highlight": [
+            "cheerfully"
+          ],
+          "translations": {
+            "zh-TW": "同事休假時，她愉快地接下了額外的工作量。"
+          }
+        },
+        {
+          "en": "The receptionist answers the phone cheerfully, even at the end of a long shift.",
+          "highlight": [
+            "cheerfully"
+          ],
+          "translations": {
+            "zh-TW": "即使在漫長的班次結束時，櫃檯人員接電話仍然很愉悅。"
           }
         }
       ],
       "synonyms": [
         "happily",
-        "optimistically"
+        "optimistically",
+        "brightly"
       ],
       "antonyms": [
         "sadly",
-        "gloomily"
+        "gloomily",
+        "grumpily"
       ],
       "phrases": [
-        "cheerfully",
-        "greeted",
-        "cheerfully",
-        "answered"
+        "cheerfully agreed",
+        "cheerfully greeted",
+        "answer cheerfully"
       ]
     },
     {
@@ -459,41 +626,59 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "cheeseed",
-        "past_participle": "cheeseed",
-        "present_participle": "cheesing",
-        "third_person": "cheeses"
+        "present_3rd": "cheeses",
+        "past": "cheesed",
+        "past_participle": "cheesed",
+        "ing": "cheesing",
+        "plural": "cheeses"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cheese",
-          "definition": "n. 乳酪, [化] 干酪"
+          "definition": "n. 乳酪、起司  v. 擺姿勢拍照"
         }
       ],
       "examples": [
         {
-          "en": "He added some cheese to the sandwich.",
+          "en": "The waiter brought a tray of imported cheeses for the tasting event.",
+          "highlight": [
+            "cheeses"
+          ],
+          "translations": {
+            "zh-TW": "服務生端來一盤進口乳酪供品嘗會使用。"
+          }
+        },
+        {
+          "en": "She added a slice of cheese to the sandwich before wrapping it up.",
           "highlight": [
             "cheese"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在三明治裡加了一片起司才包起來。"
+          }
+        },
+        {
+          "en": "Everyone cheesed for the camera at the end of the company retreat.",
+          "highlight": [
+            "cheesed"
+          ],
+          "translations": {
+            "zh-TW": "公司旅遊結束時，每個人都對著鏡頭擺出笑臉拍照。"
           }
         }
       ],
       "synonyms": [
-        "dairy",
-        "product",
+        "dairy product",
         "curd"
       ],
       "antonyms": [],
       "phrases": [
-        "cheese",
-        "slice",
-        "cheese",
-        "grater"
+        "cheese slice",
+        "cheese grater",
+        "say cheese",
+        "cheese board"
       ]
     }
   ]
