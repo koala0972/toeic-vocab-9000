@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 60,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-060-001",
@@ -19,32 +19,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "closely",
-          "definition": "adv. 接近地"
+          "definition": "adv. 密切地、仔細地、接近地"
         }
       ],
       "examples": [
         {
-          "en": "She followed closely behind him.",
+          "en": "The manager watched the new employee closely during her first week.",
           "highlight": [
             "closely"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理在新員工上班的第一週密切觀察她的表現。"
+          }
+        },
+        {
+          "en": "Please read the contract closely before signing it.",
+          "highlight": [
+            "closely"
+          ],
+          "translations": {
+            "zh-TW": "簽約前請仔細閱讀合約內容。"
+          }
+        },
+        {
+          "en": "The two companies work closely together on several research projects.",
+          "highlight": [
+            "closely"
+          ],
+          "translations": {
+            "zh-TW": "這兩家公司密切合作進行數項研究計畫。"
           }
         }
       ],
       "synonyms": [
-        "nearly",
-        "almost"
+        "attentively",
+        "carefully",
+        "intently"
       ],
       "antonyms": [
-        "distantly"
+        "distantly",
+        "loosely",
+        "carelessly"
       ],
       "phrases": [
-        "closely",
-        "related",
-        "closely",
-        "monitor"
+        "closely related",
+        "closely monitor",
+        "work closely",
+        "examine closely"
       ]
     },
     {
@@ -59,40 +80,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "closeted",
+        "plural": "closets",
+        "present_3rd": "closets",
+        "past": "closeted",
         "past_participle": "closeted",
-        "present_participle": "closeting",
-        "third_person": "closets"
+        "ing": "closeting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "closet",
-          "definition": "n. 壁橱, 小室, a. 秘密的, 空谈的, vt. 把...關入小室"
+          "definition": "n. 壁櫥、衣櫥、小房間  v. 把…關在密室裡商議"
         }
       ],
       "examples": [
         {
-          "en": "She hung her coat in the closet.",
+          "en": "She keeps all her winter jackets neatly arranged in the hallway closet.",
           "highlight": [
             "closet"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她把所有的冬季外套整齊地收在走廊的衣櫥裡。"
+          }
+        },
+        {
+          "en": "The hotel rooms feature spacious walk-in closets for long-stay guests.",
+          "highlight": [
+            "closets"
+          ],
+          "translations": {
+            "zh-TW": "飯店房間內設有寬敞的步入式衣櫥，方便長住旅客使用。"
+          }
+        },
+        {
+          "en": "The board was closeted with its lawyers for three hours before announcing the decision.",
+          "highlight": [
+            "closeted"
+          ],
+          "translations": {
+            "zh-TW": "董事會與律師們在密室裡商議了三小時，才向外界公布決定。"
           }
         }
       ],
       "synonyms": [
         "wardrobe",
-        "cupboard"
+        "cupboard",
+        "cabinet"
       ],
       "antonyms": [],
       "phrases": [
-        "walk-in",
-        "closet",
-        "clothes",
-        "closet"
+        "walk-in closet",
+        "closet organizer",
+        "skeleton in the closet",
+        "water closet"
       ]
     },
     {
@@ -113,31 +154,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "cloth",
-          "definition": "n. 布料, 织品, 布, [建] 布"
+          "definition": "n. 布、布料、抹布、桌布"
         }
       ],
       "examples": [
         {
-          "en": "The cloth was soft and smooth.",
+          "en": "This shirt is made from a soft cotton cloth that breathes well in summer.",
           "highlight": [
             "cloth"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這件襯衫是用柔軟的棉布製成，夏天穿起來很透氣。"
+          }
+        },
+        {
+          "en": "The waiter wiped the table with a clean cloth before setting the dishes.",
+          "highlight": [
+            "cloth"
+          ],
+          "translations": {
+            "zh-TW": "服務生在上菜前先用一塊乾淨的抹布擦拭桌面。"
+          }
+        },
+        {
+          "en": "Several silk cloths from Taiwan are on display at the international textile fair.",
+          "highlight": [
+            "cloths"
+          ],
+          "translations": {
+            "zh-TW": "來自台灣的多塊絲綢布料正在國際紡織展上展出。"
           }
         }
       ],
       "synonyms": [
         "fabric",
-        "textile"
+        "textile",
+        "material"
       ],
       "antonyms": [],
       "phrases": [
-        "cotton",
-        "cloth",
-        "piece",
-        "of",
-        "cloth"
+        "cotton cloth",
+        "table cloth",
+        "piece of cloth",
+        "linen cloth"
       ]
     },
     {
@@ -148,44 +207,57 @@
       "toeic_score_min": 200,
       "word": "clothes",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
-      "conjugations": {
-        "past_tense": "clothesed",
-        "past_participle": "clothesed",
-        "present_participle": "clothesing",
-        "third_person": "clotheses"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "clothes",
-          "definition": "n. 衣服"
+          "definition": "n. 衣服、服裝、衣物"
         }
       ],
       "examples": [
         {
-          "en": "She bought new clothes.",
+          "en": "Casual clothes are acceptable in the office on Fridays.",
           "highlight": [
             "clothes"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "週五在公司穿休閒服裝是可以接受的。"
+          }
+        },
+        {
+          "en": "She hung her wet clothes on the balcony to dry in the sun.",
+          "highlight": [
+            "clothes"
+          ],
+          "translations": {
+            "zh-TW": "她把濕衣服晾在陽台上曬太陽。"
+          }
+        },
+        {
+          "en": "Employees should pack a spare set of clothes when traveling on business trips.",
+          "highlight": [
+            "clothes"
+          ],
+          "translations": {
+            "zh-TW": "員工出差時應該準備一套備用衣物。"
           }
         }
       ],
       "synonyms": [
         "apparel",
-        "attire"
+        "attire",
+        "garments"
       ],
       "antonyms": [],
       "phrases": [
-        "winter",
-        "clothes",
-        "new",
-        "clothes"
+        "winter clothes",
+        "casual clothes",
+        "fold clothes",
+        "put on clothes"
       ]
     },
     {
@@ -196,46 +268,60 @@
       "toeic_score_min": 200,
       "word": "clothing",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
-      "conjugations": {
-        "past_tense": "clothinged",
-        "past_participle": "clothinged",
-        "present_participle": "clothinging",
-        "third_person": "clothings"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "clothing",
-          "definition": "n. 衣服"
+          "definition": "n. 服裝、衣物（總稱）"
         }
       ],
       "examples": [
         {
-          "en": "Winter clothing is now on sale.",
+          "en": "The charity collects used clothing to send to families in need.",
           "highlight": [
             "clothing"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這個慈善機構收集二手衣物，送給需要的家庭。"
+          }
+        },
+        {
+          "en": "The factory produces protective clothing for hospitals and laboratories.",
+          "highlight": [
+            "clothing"
+          ],
+          "translations": {
+            "zh-TW": "這家工廠為醫院與實驗室生產防護服裝。"
+          }
+        },
+        {
+          "en": "A clothing allowance is included in the contract for employees who must wear uniforms.",
+          "highlight": [
+            "clothing"
+          ],
+          "translations": {
+            "zh-TW": "合約中附有服裝津貼，給必須穿著制服的員工。"
           }
         }
       ],
       "synonyms": [
+        "apparel",
         "attire",
         "garments"
       ],
       "antonyms": [
-        "nakedness"
+        "nakedness",
+        "undress"
       ],
       "phrases": [
-        "winter",
-        "clothing",
-        "clothing",
-        "store"
+        "winter clothing",
+        "clothing store",
+        "protective clothing",
+        "clothing industry"
       ]
     },
     {
@@ -250,43 +336,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "clouded",
+        "plural": "clouds",
+        "present_3rd": "clouds",
+        "past": "clouded",
         "past_participle": "clouded",
-        "present_participle": "clouding",
-        "third_person": "clouds"
+        "ing": "clouding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cloud",
-          "definition": "n. 云, 阴暗, 烟雾, 疑团, vt. 以云遮敝, 笼罩, 使黯然, vi. 乌云密布, 阴沉"
+          "definition": "n. 雲、雲朵、陰影  v. 使模糊、佈滿雲、蒙上陰影"
         }
       ],
       "examples": [
         {
-          "en": "The sky was full of dark clouds.",
+          "en": "A few white clouds floated across the clear blue sky this morning.",
           "highlight": [
-            "cloud"
+            "clouds"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "今天早上有幾朵白雲飄過晴朗的藍天。"
+          }
+        },
+        {
+          "en": "The disagreement between the partners clouded the future of the joint venture.",
+          "highlight": [
+            "clouded"
+          ],
+          "translations": {
+            "zh-TW": "合夥人之間的不和為這個合資事業的前途蒙上了陰影。"
+          }
+        },
+        {
+          "en": "Clouds of steam rose from the factory chimney as the engineers ran the test.",
+          "highlight": [
+            "Clouds"
+          ],
+          "translations": {
+            "zh-TW": "工程師進行測試時，一團團的蒸汽從工廠煙囪升起。"
           }
         }
       ],
       "synonyms": [
-        "vapor",
-        "mist"
+        "mist",
+        "fog",
+        "vapor"
       ],
       "antonyms": [
-        "clear",
-        "sky"
+        "clear sky",
+        "sunshine"
       ],
       "phrases": [
-        "rain",
-        "cloud",
-        "cloud",
-        "formation"
+        "dark cloud",
+        "cloud computing",
+        "rain cloud",
+        "under a cloud"
       ]
     },
     {
@@ -301,41 +407,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "clubed",
-        "past_participle": "clubed",
-        "present_participle": "clubing",
-        "third_person": "clubs"
+        "plural": "clubs",
+        "present_3rd": "clubs",
+        "past": "clubbed",
+        "past_participle": "clubbed",
+        "ing": "clubbing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "club",
-          "definition": "n. 俱乐部, 木棍, 球棒, vt. 用棍棒打, 缴纳, vi. 联合起來, a. 俱乐部的"
+          "definition": "n. 俱樂部、社團、球桿、棍棒  v. 用棍棒打、聯合、湊集"
         }
       ],
       "examples": [
         {
-          "en": "He joined the chess club.",
+          "en": "She joined the company book club to meet colleagues outside her department.",
           "highlight": [
             "club"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她加入了公司的讀書俱樂部，藉此認識其他部門的同事。"
+          }
+        },
+        {
+          "en": "The two firms clubbed together to sponsor the charity marathon.",
+          "highlight": [
+            "clubbed"
+          ],
+          "translations": {
+            "zh-TW": "兩家公司聯合起來贊助這場公益馬拉松。"
+          }
+        },
+        {
+          "en": "Several art clubs in the city will host joint exhibitions next spring.",
+          "highlight": [
+            "clubs"
+          ],
+          "translations": {
+            "zh-TW": "市內幾個藝術社團明年春天將舉辦聯合展覽。"
           }
         }
       ],
       "synonyms": [
         "society",
-        "group"
+        "association",
+        "organization"
       ],
       "antonyms": [],
       "phrases": [
-        "sports",
-        "club",
-        "join",
-        "a",
-        "club"
+        "join a club",
+        "sports club",
+        "youth club",
+        "club together"
       ]
     },
     {
@@ -346,8 +471,7 @@
       "toeic_score_min": 200,
       "word": "coal",
       "pos": [
-        "noun",
-        "adjective"
+        "noun"
       ],
       "conjugations": {
         "plural": "coals"
@@ -357,31 +481,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "coal",
-          "definition": "n. 煤, 木炭, v. 加煤"
+          "definition": "n. 煤、煤炭"
         }
       ],
       "examples": [
         {
-          "en": "Coal is used as a fuel.",
+          "en": "Coal remains a major energy source for many power plants across Asia.",
+          "highlight": [
+            "Coal"
+          ],
+          "translations": {
+            "zh-TW": "煤炭仍然是亞洲許多發電廠的主要能源。"
+          }
+        },
+        {
+          "en": "A hot coal from the grill rolled out onto the wooden deck.",
           "highlight": [
             "coal"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "烤肉架上的一塊燒紅的煤炭滾落到了木棧板上。"
+          }
+        },
+        {
+          "en": "Several mining firms shipped thousands of tons of coals to overseas markets last quarter.",
+          "highlight": [
+            "coals"
+          ],
+          "translations": {
+            "zh-TW": "上季有幾家礦業公司把數千噸煤炭運往海外市場。"
           }
         }
       ],
       "synonyms": [
         "charcoal",
-        "fossil",
-        "fuel"
+        "fossil fuel"
       ],
       "antonyms": [],
       "phrases": [
-        "coal",
-        "mine",
-        "coal",
-        "industry"
+        "coal mine",
+        "coal industry",
+        "carry coals to Newcastle",
+        "coal power"
       ]
     },
     {
@@ -396,42 +537,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "coasted",
+        "plural": "coasts",
+        "present_3rd": "coasts",
+        "past": "coasted",
         "past_participle": "coasted",
-        "present_participle": "coasting",
-        "third_person": "coasts"
+        "ing": "coasting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "coast",
-          "definition": "n. 海岸, 滑坡, v. 沿海岸而行"
+          "definition": "n. 海岸、沿岸  v. 沿岸航行、不費力地前進"
         }
       ],
       "examples": [
         {
-          "en": "They walked along the coast.",
+          "en": "The cargo ship sails along the eastern coast twice a week.",
           "highlight": [
             "coast"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這艘貨船每週兩次沿著東部海岸航行。"
+          }
+        },
+        {
+          "en": "The bicycle coasted downhill without the rider having to pedal.",
+          "highlight": [
+            "coasted"
+          ],
+          "translations": {
+            "zh-TW": "腳踏車不用踩踏板就順著下坡滑行了下去。"
+          }
+        },
+        {
+          "en": "Several tropical coasts in Southeast Asia are popular destinations for diving tours.",
+          "highlight": [
+            "coasts"
+          ],
+          "translations": {
+            "zh-TW": "東南亞幾處熱帶海岸是潛水行程的熱門目的地。"
           }
         }
       ],
       "synonyms": [
         "shore",
-        "coastline"
+        "coastline",
+        "seaside"
       ],
       "antonyms": [
-        "inland"
+        "inland",
+        "interior"
       ],
       "phrases": [
-        "west",
-        "coast",
-        "east",
-        "coast"
+        "west coast",
+        "east coast",
+        "coast to coast",
+        "along the coast"
       ]
     },
     {
@@ -446,40 +608,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "coated",
+        "plural": "coats",
+        "present_3rd": "coats",
+        "past": "coated",
         "past_participle": "coated",
-        "present_participle": "coating",
-        "third_person": "coats"
+        "ing": "coating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "coat",
-          "definition": "n. 外套, vt. 外面覆盖, 给...穿外套"
+          "definition": "n. 外套、大衣、塗層  v. 塗上一層、覆蓋"
         }
       ],
       "examples": [
         {
-          "en": "She wore a warm coat.",
+          "en": "He removed his coat and hung it on the back of his chair.",
           "highlight": [
             "coat"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他脫下外套，掛在椅背上。"
+          }
+        },
+        {
+          "en": "The steel parts were coated with a thin layer of protective wax before shipping.",
+          "highlight": [
+            "coated"
+          ],
+          "translations": {
+            "zh-TW": "鋼製零件在出貨前塗上了一層薄薄的防護蠟。"
+          }
+        },
+        {
+          "en": "The factory is coating the lenses with anti-reflective material this afternoon.",
+          "highlight": [
+            "coating"
+          ],
+          "translations": {
+            "zh-TW": "今天下午工廠正在為鏡片塗上抗反射材質。"
           }
         }
       ],
       "synonyms": [
         "jacket",
-        "overcoat"
+        "overcoat",
+        "layer"
       ],
       "antonyms": [],
       "phrases": [
-        "winter",
-        "coat",
-        "fur",
-        "coat"
+        "winter coat",
+        "fur coat",
+        "coated with",
+        "apply a coat"
       ]
     }
   ]
