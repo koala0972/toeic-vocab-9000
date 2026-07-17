@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 68,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-068-001",
@@ -11,47 +11,64 @@
       "toeic_score_min": 200,
       "word": "congratulate",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "congratulateed",
-        "past_participle": "congratulateed",
-        "present_participle": "congratulating",
-        "third_person": "congratulates"
+        "present_3rd": "congratulates",
+        "past": "congratulated",
+        "past_participle": "congratulated",
+        "ing": "congratulating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "congratulate",
-          "definition": "vt. 祝贺, 庆贺"
+          "definition": "v. 祝賀、向……道賀"
         }
       ],
       "examples": [
         {
-          "en": "I congratulate you on your success.",
+          "en": "The manager congratulated the team on winning the contract.",
           "highlight": [
-            "congratulate"
+            "congratulated"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理祝賀團隊贏得這份合約。"
+          }
+        },
+        {
+          "en": "She always congratulates her colleagues when they receive promotions.",
+          "highlight": [
+            "congratulates"
+          ],
+          "translations": {
+            "zh-TW": "同事升職時，她總是向他們道賀。"
+          }
+        },
+        {
+          "en": "He spent the afternoon congratulating every participant in the competition.",
+          "highlight": [
+            "congratulating"
+          ],
+          "translations": {
+            "zh-TW": "他整個下午都在向比賽的每一位參賽者道賀。"
           }
         }
       ],
       "synonyms": [
         "praise",
-        "commend"
+        "commend",
+        "compliment"
       ],
       "antonyms": [
         "criticize",
         "blame"
       ],
       "phrases": [
-        "congratulate",
-        "warmly",
-        "congratulate",
-        "sincerely"
+        "congratulate on",
+        "congratulate warmly",
+        "congratulate sincerely"
       ]
     },
     {
@@ -72,33 +89,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "congratulation",
-          "definition": "n. 祝贺, 恭喜"
+          "definition": "n. 祝賀、恭喜"
         }
       ],
       "examples": [
         {
-          "en": "Congratulations on your new job.",
+          "en": "Please accept my congratulation on your recent achievement.",
           "highlight": [
             "congratulation"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請接受我對您近期成就的祝賀。"
+          }
+        },
+        {
+          "en": "Congratulations on your promotion to senior manager.",
+          "highlight": [
+            "congratulations"
+          ],
+          "translations": {
+            "zh-TW": "恭喜您升任資深經理。"
+          }
+        },
+        {
+          "en": "The board sent their congratulations to the newly elected chairperson.",
+          "highlight": [
+            "congratulations"
+          ],
+          "translations": {
+            "zh-TW": "董事會向新當選的主席致上祝賀。"
           }
         }
       ],
       "synonyms": [
         "praise",
-        "applause"
+        "applause",
+        "compliments"
       ],
       "antonyms": [
         "criticism",
         "blame"
       ],
       "phrases": [
-        "offer",
-        "congratulations",
-        "congratulations",
-        "card"
+        "offer congratulations",
+        "congratulations card",
+        "extend congratulations"
       ]
     },
     {
@@ -109,44 +144,58 @@
       "toeic_score_min": 200,
       "word": "congress",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "congressed",
-        "past_participle": "congressed",
-        "present_participle": "congressing",
-        "third_person": "congresses"
+        "plural": "congresses"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "congress",
-          "definition": "n. 國會, 會議, 讨论會, [医] 會議, 會合"
+          "definition": "n. 國會、議會、代表大會"
         }
       ],
       "examples": [
         {
-          "en": "The congress will meet next week.",
+          "en": "Congress passed the new trade bill after a lengthy debate.",
+          "highlight": [
+            "Congress"
+          ],
+          "translations": {
+            "zh-TW": "國會在冗長的辯論後通過了新的貿易法案。"
+          }
+        },
+        {
+          "en": "Members of congress will vote on the budget proposal next week.",
           "highlight": [
             "congress"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "國會議員下週將對預算提案進行表決。"
+          }
+        },
+        {
+          "en": "Delegates from over fifty countries attended the international medical congress.",
+          "highlight": [
+            "congress"
+          ],
+          "translations": {
+            "zh-TW": "來自五十多個國家的代表出席了這場國際醫學大會。"
           }
         }
       ],
       "synonyms": [
         "assembly",
-        "conference"
+        "conference",
+        "parliament"
       ],
       "antonyms": [],
       "phrases": [
-        "attend",
-        "congress",
-        "annual",
-        "congress"
+        "member of congress",
+        "congress session",
+        "international congress"
       ]
     },
     {
@@ -157,48 +206,64 @@
       "toeic_score_min": 200,
       "word": "connect",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "connected",
+        "present_3rd": "connects",
+        "past": "connected",
         "past_participle": "connected",
-        "present_participle": "connecting",
-        "third_person": "connects"
+        "ing": "connecting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "connect",
-          "definition": "v. 连接, 联合, 联系"
+          "definition": "v. 連接、聯繫、接通"
         }
       ],
       "examples": [
         {
-          "en": "She connected the wires.",
+          "en": "The new bridge connects the two cities across the river.",
           "highlight": [
-            "connect"
+            "connects"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新橋連接了河對岸的兩座城市。"
+          }
+        },
+        {
+          "en": "She connected her laptop to the projector before the presentation.",
+          "highlight": [
+            "connected"
+          ],
+          "translations": {
+            "zh-TW": "她在簡報前把筆電連接上投影機。"
+          }
+        },
+        {
+          "en": "The flight is connecting through Tokyo before reaching San Francisco.",
+          "highlight": [
+            "connecting"
+          ],
+          "translations": {
+            "zh-TW": "這班航班經東京轉機後才抵達舊金山。"
           }
         }
       ],
       "synonyms": [
         "link",
-        "join"
+        "join",
+        "attach"
       ],
       "antonyms": [
         "disconnect",
         "separate"
       ],
       "phrases": [
-        "connect",
-        "to",
-        "the",
-        "internet",
-        "connect"
+        "connect to",
+        "connect with",
+        "connecting flight"
       ]
     },
     {
@@ -213,43 +278,59 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "connecteded",
-        "past_participle": "connecteded",
-        "present_participle": "connecteding",
-        "third_person": "connecteds"
+        "comparative": "more connected",
+        "superlative": "most connected"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "connected",
-          "definition": "a. 连接的, 连贯的, 有联系的, 關联的, 连結的, 有關系的, [计] 连接的"
+          "definition": "adj. 連接的、有聯繫的  v. connect 的過去式與過去分詞"
         }
       ],
       "examples": [
         {
-          "en": "The devices are connected.",
+          "en": "All the office computers are connected to the same network.",
           "highlight": [
             "connected"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "辦公室所有電腦都連接同一個網路。"
+          }
+        },
+        {
+          "en": "The two incidents were closely connected, according to the investigation.",
+          "highlight": [
+            "connected"
+          ],
+          "translations": {
+            "zh-TW": "根據調查，這兩起事件密切相關。"
+          }
+        },
+        {
+          "en": "Our most connected clients receive priority customer service.",
+          "highlight": [
+            "most connected"
+          ],
+          "translations": {
+            "zh-TW": "我們聯繫最緊密的客戶享有優先客戶服務。"
           }
         }
       ],
       "synonyms": [
         "linked",
-        "joined"
+        "joined",
+        "associated"
       ],
       "antonyms": [
         "disconnected",
         "separate"
       ],
       "phrases": [
-        "closely",
-        "connected",
-        "directly",
-        "connected"
+        "closely connected",
+        "directly connected",
+        "stay connected"
       ]
     },
     {
@@ -260,47 +341,61 @@
       "toeic_score_min": 200,
       "word": "connection",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "connectioned",
-        "past_participle": "connectioned",
-        "present_participle": "connectioning",
-        "third_person": "connections"
+        "plural": "connections"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "connection",
-          "definition": "n. 连接, 關系, 前後關系, [计] 连接"
+          "definition": "n. 連接、關係、聯繫、接駁"
         }
       ],
       "examples": [
         {
-          "en": "There is a strong connection between diet and health.",
+          "en": "There is a clear connection between customer service and brand loyalty.",
           "highlight": [
             "connection"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "顧客服務與品牌忠誠度之間有明確的關聯。"
+          }
+        },
+        {
+          "en": "The hotel offers free Wi-Fi connections to all guests.",
+          "highlight": [
+            "connections"
+          ],
+          "translations": {
+            "zh-TW": "飯店為所有住客提供免費 Wi-Fi 連線。"
+          }
+        },
+        {
+          "en": "My business connections in Asia helped expand the company's market.",
+          "highlight": [
+            "connections"
+          ],
+          "translations": {
+            "zh-TW": "我在亞洲的商業人脈協助拓展了公司的市場。"
           }
         }
       ],
       "synonyms": [
         "relationship",
-        "association"
+        "association",
+        "link"
       ],
       "antonyms": [
         "disconnection",
         "separation"
       ],
       "phrases": [
-        "strong",
-        "connection",
-        "internet",
-        "connection"
+        "strong connection",
+        "internet connection",
+        "business connections"
       ]
     },
     {
@@ -314,41 +409,59 @@
         "adjective"
       ],
       "conjugations": {
-        "comparative": "consciouser",
-        "superlative": "consciousest"
+        "comparative": "more conscious",
+        "superlative": "most conscious"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "conscious",
-          "definition": "a. 有意识的, 知觉的, 觉察的, [医] 有意识的, 清醒的"
+          "definition": "adj. 有意識的、察覺到的、神智清醒的"
         }
       ],
       "examples": [
         {
-          "en": "He was conscious during the procedure.",
+          "en": "The patient remained conscious during the entire medical examination.",
           "highlight": [
             "conscious"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "病患在整個醫療檢查過程中保持清醒。"
+          }
+        },
+        {
+          "en": "Consumers are more conscious of environmental issues when choosing products.",
+          "highlight": [
+            "more conscious"
+          ],
+          "translations": {
+            "zh-TW": "消費者在挑選產品時更加關注環境議題。"
+          }
+        },
+        {
+          "en": "The company is making the most conscious effort to reduce its carbon footprint.",
+          "highlight": [
+            "most conscious"
+          ],
+          "translations": {
+            "zh-TW": "該公司正最用心地設法減少碳足跡。"
           }
         }
       ],
       "synonyms": [
         "aware",
-        "alert"
+        "alert",
+        "mindful"
       ],
       "antonyms": [
         "unaware",
         "unconscious"
       ],
       "phrases": [
-        "fully",
-        "conscious",
-        "conscious",
-        "effort"
+        "fully conscious",
+        "conscious effort",
+        "conscious decision"
       ]
     },
     {
@@ -359,47 +472,61 @@
       "toeic_score_min": 200,
       "word": "consequence",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "consequenceed",
-        "past_participle": "consequenceed",
-        "present_participle": "consequencing",
-        "third_person": "consequences"
+        "plural": "consequences"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "consequence",
-          "definition": "n. 結果, 重要性, [法] 結果, 後果, 推断"
+          "definition": "n. 後果、結果、重要性"
         }
       ],
       "examples": [
         {
-          "en": "Her decision had serious consequences.",
+          "en": "Every business decision carries a consequence that affects the bottom line.",
           "highlight": [
             "consequence"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "每項商業決策都會帶來影響損益的後果。"
+          }
+        },
+        {
+          "en": "Delays in the supply chain led to serious consequences for the retailer.",
+          "highlight": [
+            "consequences"
+          ],
+          "translations": {
+            "zh-TW": "供應鏈的延遲為這家零售商帶來了嚴重後果。"
+          }
+        },
+        {
+          "en": "As a consequence of the merger, several departments were restructured.",
+          "highlight": [
+            "consequence"
+          ],
+          "translations": {
+            "zh-TW": "併購的結果是數個部門被重組。"
           }
         }
       ],
       "synonyms": [
         "result",
-        "effect"
+        "effect",
+        "outcome"
       ],
       "antonyms": [
         "cause",
-        "source"
+        "origin"
       ],
       "phrases": [
-        "serious",
-        "consequence",
-        "direct",
-        "consequence"
+        "serious consequence",
+        "as a consequence",
+        "direct consequence"
       ]
     },
     {
@@ -414,40 +541,60 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "conservatives"
+        "plural": "conservatives",
+        "comparative": "more conservative",
+        "superlative": "most conservative"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "conservative",
-          "definition": "a. 保守的, 守旧的, 有保存力的, [化] 防腐剂; 保存剂"
+          "definition": "adj. 保守的、穩健的  n. 保守派人士"
         }
       ],
       "examples": [
         {
-          "en": "He has conservative views.",
+          "en": "The bank takes a conservative approach to lending money.",
           "highlight": [
             "conservative"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家銀行在放款上採取保守的做法。"
+          }
+        },
+        {
+          "en": "Older investors tend to be more conservative when choosing financial products.",
+          "highlight": [
+            "more conservative"
+          ],
+          "translations": {
+            "zh-TW": "年長投資人挑選金融商品時往往更加保守穩健。"
+          }
+        },
+        {
+          "en": "The most conservative estimates still show profit growth next quarter.",
+          "highlight": [
+            "most conservative"
+          ],
+          "translations": {
+            "zh-TW": "即使是最保守的估計，下季仍顯示獲利成長。"
           }
         }
       ],
       "synonyms": [
         "traditional",
-        "cautious"
+        "cautious",
+        "moderate"
       ],
       "antonyms": [
         "progressive",
         "liberal"
       ],
       "phrases": [
-        "conservative",
-        "values",
-        "conservative",
-        "approach"
+        "conservative approach",
+        "conservative estimate",
+        "conservative investor"
       ]
     },
     {
@@ -458,47 +605,64 @@
       "toeic_score_min": 200,
       "word": "consider",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "considered",
+        "present_3rd": "considers",
+        "past": "considered",
         "past_participle": "considered",
-        "present_participle": "considering",
-        "third_person": "considers"
+        "ing": "considering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "consider",
-          "definition": "v. 考虑, 思考, 认為"
+          "definition": "v. 考慮、細想、認為"
         }
       ],
       "examples": [
         {
-          "en": "He is considering changing jobs.",
+          "en": "The committee will consider all proposals before making a final decision.",
           "highlight": [
             "consider"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "委員會在做最終決定前會考慮所有提案。"
+          }
+        },
+        {
+          "en": "She considered several job offers before accepting a position abroad.",
+          "highlight": [
+            "considered"
+          ],
+          "translations": {
+            "zh-TW": "她考慮了幾個工作機會，才接受了一份海外職位。"
+          }
+        },
+        {
+          "en": "We are considering expanding our operations into the Southeast Asian market.",
+          "highlight": [
+            "considering"
+          ],
+          "translations": {
+            "zh-TW": "我們正在考慮將業務擴展至東南亞市場。"
           }
         }
       ],
       "synonyms": [
         "think",
-        "contemplate"
+        "contemplate",
+        "ponder"
       ],
       "antonyms": [
         "ignore",
         "disregard"
       ],
       "phrases": [
-        "consider",
-        "carefully",
-        "consider",
-        "options"
+        "consider carefully",
+        "consider options",
+        "all things considered"
       ]
     }
   ]
