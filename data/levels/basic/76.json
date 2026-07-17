@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 76,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-076-001",
@@ -15,41 +15,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "creamed",
+        "plural": "creams",
+        "present_3rd": "creams",
+        "past": "creamed",
         "past_participle": "creamed",
-        "present_participle": "creaming",
-        "third_person": "creams"
+        "ing": "creaming"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cream",
-          "definition": "n. 乳酪, 奶油, 面霜, [医] 乳油, 乳皮; 乳膏, 霜"
+          "definition": "n. 鮮奶油、乳霜  v. 加鮮奶油、變成乳霜狀"
         }
       ],
       "examples": [
         {
-          "en": "She added cream to her coffee.",
+          "en": "Would you like cream in your coffee?",
           "highlight": [
             "cream"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "您的咖啡要加鮮奶油嗎？"
+          }
+        },
+        {
+          "en": "She creamed the butter and sugar together until light and fluffy.",
+          "highlight": [
+            "creamed"
+          ],
+          "translations": {
+            "zh-TW": "她把奶油和糖一起打到蓬鬆泛白。"
+          }
+        },
+        {
+          "en": "The lotion is creaming nicely as you rub it into your skin.",
+          "highlight": [
+            "creaming"
+          ],
+          "translations": {
+            "zh-TW": "這款乳液塗抹在皮膚上時會形成綿密的乳霜狀。"
           }
         }
       ],
       "synonyms": [
-        "dairy",
-        "product",
+        "lotion",
+        "ointment",
         "froth"
       ],
       "antonyms": [],
       "phrases": [
-        "whipped",
-        "cream",
-        "heavy",
-        "cream"
+        "whipped cream",
+        "heavy cream",
+        "cream of the crop",
+        "ice cream"
       ]
     },
     {
@@ -60,47 +79,65 @@
       "toeic_score_min": 200,
       "word": "create",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "createed",
-        "past_participle": "createed",
-        "present_participle": "creating",
-        "third_person": "creates"
+        "present_3rd": "creates",
+        "past": "created",
+        "past_participle": "created",
+        "ing": "creating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "create",
-          "definition": "vt. 创造, 建造, 引起, 任命"
+          "definition": "v. 創造、建立、引起"
         }
       ],
       "examples": [
         {
-          "en": "The artist created a beautiful painting.",
+          "en": "The company plans to create fifty new jobs this year.",
           "highlight": [
             "create"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司今年計畫創造五十個新職缺。"
+          }
+        },
+        {
+          "en": "The artist created a stunning sculpture from recycled metal.",
+          "highlight": [
+            "created"
+          ],
+          "translations": {
+            "zh-TW": "那位藝術家用回收金屬創作了一座令人驚豔的雕塑。"
+          }
+        },
+        {
+          "en": "The team is creating a new marketing strategy for the product launch.",
+          "highlight": [
+            "creating"
+          ],
+          "translations": {
+            "zh-TW": "團隊正在為產品上市打造新的行銷策略。"
           }
         }
       ],
       "synonyms": [
         "generate",
-        "produce"
+        "produce",
+        "make"
       ],
       "antonyms": [
         "destroy",
-        "ruin"
+        "demolish"
       ],
       "phrases": [
-        "create",
-        "art",
-        "create",
-        "opportunities"
+        "create opportunities",
+        "create jobs",
+        "create value",
+        "create art"
       ]
     },
     {
@@ -121,34 +158,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "creature",
-          "definition": "n. 人, 動物, 创造物, 生物"
+          "definition": "n. 生物、動物、人"
         }
       ],
       "examples": [
         {
-          "en": "A strange creature was seen in the forest.",
+          "en": "The diver filmed a strange creature at the bottom of the sea.",
           "highlight": [
             "creature"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "潛水員在海底拍到了一隻奇怪的生物。"
+          }
+        },
+        {
+          "en": "Many nocturnal creatures hunt only after the sun goes down.",
+          "highlight": [
+            "creatures"
+          ],
+          "translations": {
+            "zh-TW": "許多夜行性動物只在太陽下山後才出來覓食。"
+          }
+        },
+        {
+          "en": "The gentle creature approached the child without any sign of aggression.",
+          "highlight": [
+            "creature"
+          ],
+          "translations": {
+            "zh-TW": "那隻溫馴的動物毫無攻擊跡象地靠近了那個孩子。"
           }
         }
       ],
       "synonyms": [
         "being",
-        "life",
-        "form"
+        "animal",
+        "organism"
       ],
       "antonyms": [
-        "human",
-        "person"
+        "plant"
       ],
       "phrases": [
-        "mythical",
-        "creature",
-        "sea",
-        "creature"
+        "mythical creature",
+        "sea creature",
+        "creature of habit",
+        "living creature"
       ]
     },
     {
@@ -163,43 +217,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "credited",
+        "plural": "credits",
+        "present_3rd": "credits",
+        "past": "credited",
         "past_participle": "credited",
-        "present_participle": "crediting",
-        "third_person": "credits"
+        "ing": "crediting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "credit",
-          "definition": "n. 信用, 信任, 荣誉, 贷款, 学分, vt. 归功于, 赞颂, 信任, 相信, [计] 信用量"
+          "definition": "n. 信用、賒帳、學分、功勞  v. 歸功於、存入帳戶"
         }
       ],
       "examples": [
         {
-          "en": "She has good credit and can easily get loans.",
+          "en": "The store offers interest-free credit to loyal customers.",
           "highlight": [
             "credit"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家店提供忠實顧客免利息的賒帳服務。"
+          }
+        },
+        {
+          "en": "The bank credited the refund to her account within two business days.",
+          "highlight": [
+            "credited"
+          ],
+          "translations": {
+            "zh-TW": "銀行在兩個工作天內將退款存入她的帳戶。"
+          }
+        },
+        {
+          "en": "The professor is crediting the entire class for participating in the survey.",
+          "highlight": [
+            "crediting"
+          ],
+          "translations": {
+            "zh-TW": "教授因全班參與問卷調查而給予全體學分。"
           }
         }
       ],
       "synonyms": [
-        "loan",
-        "trust"
+        "acknowledge",
+        "praise",
+        "loan"
       ],
       "antonyms": [
-        "debt",
-        "deficit"
+        "debit",
+        "debt"
       ],
       "phrases": [
-        "good",
-        "credit",
-        "credit",
-        "score"
+        "credit card",
+        "credit score",
+        "give someone credit",
+        "on credit"
       ]
     },
     {
@@ -210,48 +284,62 @@
       "toeic_score_min": 200,
       "word": "crime",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "crimeed",
-        "past_participle": "crimeed",
-        "present_participle": "criming",
-        "third_person": "crimes"
+        "plural": "crimes"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "crime",
-          "definition": "n. 犯罪, 罪行, 罪恶, [法] 犯罪, 罪, 罪恶"
+          "definition": "n. 犯罪、罪行、罪惡"
         }
       ],
       "examples": [
         {
-          "en": "The city has a low crime rate.",
+          "en": "The neighborhood watch program helped reduce crime in the area.",
           "highlight": [
             "crime"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "社區守望相助計畫幫助降低了該區的犯罪率。"
+          }
+        },
+        {
+          "en": "Several violent crimes were reported to the police last weekend.",
+          "highlight": [
+            "crimes"
+          ],
+          "translations": {
+            "zh-TW": "上週末警方接獲數起暴力犯罪的通報。"
+          }
+        },
+        {
+          "en": "Stealing company property is a crime that can lead to immediate dismissal.",
+          "highlight": [
+            "crime"
+          ],
+          "translations": {
+            "zh-TW": "侵占公司財物是種罪行，可能導致立即解雇。"
           }
         }
       ],
       "synonyms": [
         "offense",
-        "felony"
+        "felony",
+        "misdeed"
       ],
       "antonyms": [
-        "innocence",
-        "legality"
+        "lawfulness",
+        "innocence"
       ],
       "phrases": [
-        "commit",
-        "a",
-        "crime",
-        "crime",
-        "rate"
+        "commit a crime",
+        "crime rate",
+        "violent crime",
+        "hate crime"
       ]
     },
     {
@@ -273,34 +361,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "criminal",
-          "definition": "n. 罪犯, 犯人, 刑事, a. 犯了罪的, 刑事的, 有罪的"
+          "definition": "n. 罪犯  adj. 犯罪的、刑事的"
         }
       ],
       "examples": [
         {
-          "en": "The criminal was arrested by the police.",
+          "en": "The suspected criminal was finally captured after a three-month chase.",
           "highlight": [
             "criminal"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "那名嫌疑犯在長達三個月的追緝後終於落網。"
+          }
+        },
+        {
+          "en": "Repeat criminals often face harsher sentences under the new law.",
+          "highlight": [
+            "criminals"
+          ],
+          "translations": {
+            "zh-TW": "在新法之下，累犯常面臨更嚴厲的判刑。"
+          }
+        },
+        {
+          "en": "The lawyer specializes in criminal cases involving financial fraud.",
+          "highlight": [
+            "criminal"
+          ],
+          "translations": {
+            "zh-TW": "這位律師專門處理涉及金融詐欺的刑事案件。"
           }
         }
       ],
       "synonyms": [
         "offender",
-        "lawbreaker"
+        "lawbreaker",
+        "felon"
       ],
       "antonyms": [
-        "law-abiding",
-        "citizen",
+        "law-abiding citizen",
         "innocent"
       ],
       "phrases": [
-        "hardened",
-        "criminal",
-        "career",
-        "criminal"
+        "criminal record",
+        "criminal law",
+        "career criminal",
+        "criminal offense"
       ]
     },
     {
@@ -311,47 +417,62 @@
       "toeic_score_min": 200,
       "word": "crisis",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "crisised",
-        "past_participle": "crisised",
-        "present_participle": "crisising",
-        "third_person": "crisises"
+        "plural": "crises"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "crisis",
-          "definition": "n. 危机, 危险期, 紧要關頭, [医] 危象; 骤退, 临界, 极期"
+          "definition": "n. 危機、緊要關頭"
         }
       ],
       "examples": [
         {
-          "en": "The company is facing a financial crisis.",
+          "en": "The company is facing its worst financial crisis in twenty years.",
           "highlight": [
             "crisis"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司正面臨二十年來最嚴重的財務危機。"
+          }
+        },
+        {
+          "en": "Several economic crises have shaped the nation's current policies.",
+          "highlight": [
+            "crises"
+          ],
+          "translations": {
+            "zh-TW": "幾次經濟危機塑造了該國現今的政策。"
+          }
+        },
+        {
+          "en": "The prime minister declared a state of crisis after the earthquake struck.",
+          "highlight": [
+            "crisis"
+          ],
+          "translations": {
+            "zh-TW": "地震發生後，首相宣布進入危機狀態。"
           }
         }
       ],
       "synonyms": [
         "emergency",
-        "catastrophe"
+        "catastrophe",
+        "disaster"
       ],
       "antonyms": [
         "stability",
         "calm"
       ],
       "phrases": [
-        "economic",
-        "crisis",
-        "health",
-        "crisis"
+        "financial crisis",
+        "economic crisis",
+        "midlife crisis",
+        "crisis management"
       ]
     },
     {
@@ -366,40 +487,62 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "crisps"
+        "plural": "crisps",
+        "comparative": "crisper",
+        "superlative": "crispest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "crisp",
-          "definition": "a. 脆的, 新鲜的, 活泼的, v. (使)烘脆, (使)拳曲, (使)起皱, n. 松脆物"
+          "definition": "adj. 酥脆的、清新的  n. 洋芋片（英式）"
         }
       ],
       "examples": [
         {
-          "en": "The apple was crisp and delicious.",
+          "en": "The pastry was crisp and golden fresh out of the oven.",
           "highlight": [
             "crisp"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "剛出爐的糕點酥脆金黃。"
+          }
+        },
+        {
+          "en": "Autumn mornings feel crisper than the humid days of summer.",
+          "highlight": [
+            "crisper"
+          ],
+          "translations": {
+            "zh-TW": "秋天的早晨比潮濕的夏日感覺更清爽。"
+          }
+        },
+        {
+          "en": "She buys a bag of crisps from the vending machine every afternoon.",
+          "highlight": [
+            "crisps"
+          ],
+          "translations": {
+            "zh-TW": "她每天下午都會從自動販賣機買一包洋芋片。"
           }
         }
       ],
       "synonyms": [
         "crunchy",
-        "brittle"
+        "brittle",
+        "fresh"
       ],
       "antonyms": [
         "soft",
-        "soggy"
+        "soggy",
+        "stale"
       ],
       "phrases": [
-        "crisp",
-        "apple",
-        "crisp",
-        "air"
+        "crisp apple",
+        "crisp air",
+        "potato crisps",
+        "crisp white shirt"
       ]
     },
     {
@@ -413,38 +556,56 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "criterions"
+        "plural": "criteria"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "criterion",
-          "definition": "n. 标准, 准则, 规范, [化] 判据"
+          "definition": "n. 標準、準則"
         }
       ],
       "examples": [
         {
-          "en": "The main criterion for admission is academic performance.",
+          "en": "Language proficiency is the main criterion for the translator position.",
           "highlight": [
             "criterion"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "語言能力是該翻譯職缺的主要錄取標準。"
+          }
+        },
+        {
+          "en": "Applicants must meet all the criteria before their resumes are reviewed.",
+          "highlight": [
+            "criteria"
+          ],
+          "translations": {
+            "zh-TW": "申請者在履歷審查前必須符合所有評選標準。"
+          }
+        },
+        {
+          "en": "Each criterion on the rubric is scored on a scale from one to five.",
+          "highlight": [
+            "criterion"
+          ],
+          "translations": {
+            "zh-TW": "評分量表上的每一項標準都以一到五分計分。"
           }
         }
       ],
       "synonyms": [
         "standard",
-        "benchmark"
+        "benchmark",
+        "measure"
       ],
       "antonyms": [],
       "phrases": [
-        "meet",
-        "the",
-        "criterion",
-        "main",
-        "criterion"
+        "meet the criteria",
+        "main criterion",
+        "selection criteria",
+        "evaluation criterion"
       ]
     },
     {
@@ -455,44 +616,63 @@
       "toeic_score_min": 200,
       "word": "critical",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "criticals"
+        "comparative": "more critical",
+        "superlative": "most critical"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "critical",
-          "definition": "a. 批评的, 决定性的, 危险的, 临界的, [医] 危象的; 临界的, 极期的"
+          "definition": "adj. 關鍵的、批判性的、危急的"
         }
       ],
       "examples": [
         {
-          "en": "He was critical of the new policy.",
+          "en": "The manager was critical of the team's slow progress on the project.",
           "highlight": [
             "critical"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理對團隊在專案上的緩慢進度表示不滿。"
+          }
+        },
+        {
+          "en": "Timing becomes more critical as the product launch date approaches.",
+          "highlight": [
+            "more critical"
+          ],
+          "translations": {
+            "zh-TW": "隨著產品上市日期接近，時間點變得更加關鍵。"
+          }
+        },
+        {
+          "en": "Patient safety is the most critical concern in any hospital.",
+          "highlight": [
+            "most critical"
+          ],
+          "translations": {
+            "zh-TW": "病人安全是任何醫院中最關鍵的考量。"
           }
         }
       ],
       "synonyms": [
-        "judgmental",
-        "disapproving"
+        "crucial",
+        "essential",
+        "vital"
       ],
       "antonyms": [
-        "praising",
-        "approving"
+        "trivial",
+        "minor"
       ],
       "phrases": [
-        "critical",
-        "view",
-        "critical",
-        "issue"
+        "critical condition",
+        "critical issue",
+        "critical thinking",
+        "critical path"
       ]
     }
   ]
