@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 45,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-045-001",
@@ -22,33 +22,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "broken",
-          "definition": "a. 坏掉的, 打破的, 断掉的, break的過去分词"
+          "definition": "a. 破碎的、壞掉的、被打破的（break 的過去分詞）"
         }
       ],
       "examples": [
         {
-          "en": "He has a broken leg.",
+          "en": "The broken printer in the office needs to be replaced immediately.",
           "highlight": [
             "broken"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "辦公室裡那台壞掉的印表機必須立刻更換。"
+          }
+        },
+        {
+          "en": "Her broken promise to clients damaged the company's reputation.",
+          "highlight": [
+            "broken"
+          ],
+          "translations": {
+            "zh-TW": "她對客戶違背的承諾損害了公司的聲譽。"
+          }
+        },
+        {
+          "en": "After three divorces, he felt he had the brokener heart in the family.",
+          "highlight": [
+            "brokener"
+          ],
+          "translations": {
+            "zh-TW": "經歷三次離婚後，他覺得自己的心是家中更破碎的。"
           }
         }
       ],
       "synonyms": [
         "damaged",
-        "fractured"
+        "fractured",
+        "shattered"
       ],
       "antonyms": [
         "intact",
         "whole"
       ],
       "phrases": [
-        "broken",
-        "heart",
-        "broken",
-        "bone"
+        "broken heart",
+        "broken promise",
+        "broken English",
+        "broken glass"
       ]
     },
     {
@@ -63,41 +82,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "brothered",
+        "plural": "brothers",
+        "present_3rd": "brothers",
+        "past": "brothered",
         "past_participle": "brothered",
-        "present_participle": "brothering",
-        "third_person": "brothers"
+        "ing": "brothering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "brother",
-          "definition": "n. 兄弟"
+          "definition": "n. 兄弟、同仁  v. 視如兄弟般對待"
         }
       ],
       "examples": [
         {
-          "en": "He has two older brothers.",
+          "en": "My brother works as an accountant at a big firm downtown.",
           "highlight": [
             "brother"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我哥哥在市中心一間大型事務所擔任會計師。"
+          }
+        },
+        {
+          "en": "The two brothers run the family business together without any conflict.",
+          "highlight": [
+            "brothers"
+          ],
+          "translations": {
+            "zh-TW": "這兩兄弟一起經營家族事業，彼此之間毫無衝突。"
+          }
+        },
+        {
+          "en": "She brothered the new intern, guiding him through his first week on the job.",
+          "highlight": [
+            "brothered"
+          ],
+          "translations": {
+            "zh-TW": "她把新來的實習生當作弟弟般照顧，帶他度過上班的第一週。"
           }
         }
       ],
       "synonyms": [
-        "sibling"
+        "sibling",
+        "kinsman",
+        "comrade"
       ],
       "antonyms": [
         "sister"
       ],
       "phrases": [
-        "older",
-        "brother",
-        "younger",
-        "brother"
+        "older brother",
+        "younger brother",
+        "blood brother",
+        "brother-in-law"
       ]
     },
     {
@@ -113,40 +153,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "browned",
+        "plural": "browns",
+        "present_3rd": "browns",
+        "past": "browned",
         "past_participle": "browned",
-        "present_participle": "browning",
-        "third_person": "browns"
+        "ing": "browning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "brown",
-          "definition": "n. 褐色, a. 褐色的, v. (使)变褐色"
+          "definition": "n. 褐色  a. 褐色的、棕色的  v. （使）變成褐色、煎至焦黃"
         }
       ],
       "examples": [
         {
-          "en": "She has brown eyes.",
+          "en": "She wore a brown suit to the job interview to look professional.",
           "highlight": [
             "brown"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她穿了一套棕色的西裝去面試，以顯得專業。"
+          }
+        },
+        {
+          "en": "The chef browned the butter in a hot pan before adding the fish fillet.",
+          "highlight": [
+            "browned"
+          ],
+          "translations": {
+            "zh-TW": "主廚先在熱鍋裡把奶油煎至焦黃，再放入魚片。"
+          }
+        },
+        {
+          "en": "The banana was browning on the counter, so I used it to bake a loaf of bread.",
+          "highlight": [
+            "browning"
+          ],
+          "translations": {
+            "zh-TW": "香蕉在流理台上逐漸變褐，所以我拿來烤了一條麵包。"
           }
         }
       ],
       "synonyms": [
         "tan",
-        "chestnut"
+        "chestnut",
+        "brunette"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "white",
+        "bleached"
+      ],
       "phrases": [
-        "brown",
-        "hair",
-        "brown",
-        "shoes"
+        "brown hair",
+        "brown bag",
+        "brown sugar",
+        "brown out"
       ]
     },
     {
@@ -161,40 +224,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "brushed",
+        "plural": "brushes",
+        "present_3rd": "brushes",
+        "past": "brushed",
         "past_participle": "brushed",
-        "present_participle": "brushing",
-        "third_person": "brushs"
+        "ing": "brushing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "brush",
-          "definition": "n. 刷子, 毛笔, 争吵, vt. 刷, vi. 擦過, 掠過, [计] 电刷"
+          "definition": "n. 刷子、畫筆、小衝突  v. 刷、拂過、擦過"
         }
       ],
       "examples": [
         {
-          "en": "She used a brush to paint the wall.",
+          "en": "She grabbed a brush and quickly painted the office wall before lunch.",
           "highlight": [
             "brush"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她拿起一把刷子，在午餐前迅速把辦公室的牆面漆好。"
+          }
+        },
+        {
+          "en": "He brushed the dust off his jacket before stepping into the meeting room.",
+          "highlight": [
+            "brushed"
+          ],
+          "translations": {
+            "zh-TW": "他走進會議室前，先拂去外套上的灰塵。"
+          }
+        },
+        {
+          "en": "She was brushing her teeth when the delivery driver knocked on the door.",
+          "highlight": [
+            "brushing"
+          ],
+          "translations": {
+            "zh-TW": "送貨司機敲門時，她正在刷牙。"
           }
         }
       ],
       "synonyms": [
+        "paintbrush",
         "sweep",
-        "paintbrush"
+        "clean"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "dirt",
+        "grime"
+      ],
       "phrases": [
-        "paint",
-        "brush",
-        "hair",
-        "brush"
+        "paint brush",
+        "hair brush",
+        "brush up",
+        "brush aside"
       ]
     },
     {
@@ -209,41 +295,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "bubbleed",
-        "past_participle": "bubbleed",
-        "present_participle": "bubbling",
-        "third_person": "bubbles"
+        "plural": "bubbles",
+        "present_3rd": "bubbles",
+        "past": "bubbled",
+        "past_participle": "bubbled",
+        "ing": "bubbling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bubble",
-          "definition": "n. 泡沫, vi. 冒泡, 沸腾, vt. 使冒泡, 滔滔不绝地說"
+          "definition": "n. 泡沫、氣泡  v. 冒泡、沸騰、滔滔不絕地說"
         }
       ],
       "examples": [
         {
-          "en": "The soap bubbles floated in the air.",
+          "en": "The children happily blew bubbles in the backyard during the company picnic.",
           "highlight": [
-            "bubble"
+            "bubbles"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在公司野餐時，孩子們開心地在後院吹泡泡。"
+          }
+        },
+        {
+          "en": "The soup bubbled gently in the pot while she answered the phone call.",
+          "highlight": [
+            "bubbled"
+          ],
+          "translations": {
+            "zh-TW": "她去接電話時，湯在鍋裡輕輕地冒著泡。"
+          }
+        },
+        {
+          "en": "The water is bubbling — could you turn off the kettle for me?",
+          "highlight": [
+            "bubbling"
+          ],
+          "translations": {
+            "zh-TW": "水正在冒泡——你能幫我把水壺關掉嗎？"
           }
         }
       ],
       "synonyms": [
         "globule",
-        "bead"
+        "bead",
+        "foam"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "flatten",
+        "deflate"
+      ],
       "phrases": [
-        "blow",
-        "a",
-        "bubble",
-        "soap",
-        "bubble"
+        "blow a bubble",
+        "soap bubble",
+        "bubble tea",
+        "housing bubble"
       ]
     },
     {
@@ -258,41 +366,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "budgeted",
+        "plural": "budgets",
+        "present_3rd": "budgets",
+        "past": "budgeted",
         "past_participle": "budgeted",
-        "present_participle": "budgeting",
-        "third_person": "budgets"
+        "ing": "budgeting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "budget",
-          "definition": "n. 预算, vi. 编预算, vt. 编入预算, 安排, a. 廉价的"
+          "definition": "n. 預算  v. 編列預算、合理安排  a. 廉價的、經濟型的"
         }
       ],
       "examples": [
         {
-          "en": "We need to stick to the budget.",
+          "en": "We need to stick to our budget if we want the project to succeed.",
           "highlight": [
             "budget"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "如果想讓專案成功，我們就必須遵守預算。"
+          }
+        },
+        {
+          "en": "The marketing department budgeted fifty thousand dollars for the spring campaign.",
+          "highlight": [
+            "budgeted"
+          ],
+          "translations": {
+            "zh-TW": "行銷部門為春季活動編列了五萬美元的預算。"
+          }
+        },
+        {
+          "en": "She is budgeting her monthly salary carefully to save for a down payment.",
+          "highlight": [
+            "budgeting"
+          ],
+          "translations": {
+            "zh-TW": "她正在仔細地編列每月薪資預算，以便為頭期款存錢。"
           }
         }
       ],
       "synonyms": [
-        "financial",
-        "plan",
-        "estimate"
+        "financial plan",
+        "estimate",
+        "allocation"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "overspend",
+        "deficit"
+      ],
       "phrases": [
-        "annual",
-        "budget",
-        "budget",
-        "plan"
+        "annual budget",
+        "budget plan",
+        "on a budget",
+        "budget deficit"
       ]
     },
     {
@@ -307,44 +437,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "builded",
-        "past_participle": "builded",
-        "present_participle": "building",
-        "third_person": "builds"
+        "plural": "builds",
+        "present_3rd": "builds",
+        "past": "built",
+        "past_participle": "built",
+        "ing": "building"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "build",
-          "definition": "v. 建立, 建筑, n. 构造, 体格"
+          "definition": "v. 建造、建立、打造  n. 體格、構造"
         }
       ],
       "examples": [
         {
-          "en": "They are planning to build a new house.",
+          "en": "The company plans to build a new factory in Thailand next year.",
           "highlight": [
             "build"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司計畫明年在泰國建造一座新工廠。"
+          }
+        },
+        {
+          "en": "The consulting firm built a strong reputation over twenty years of service.",
+          "highlight": [
+            "built"
+          ],
+          "translations": {
+            "zh-TW": "這家顧問公司透過二十年的服務建立了良好的聲譽。"
+          }
+        },
+        {
+          "en": "They are building a mobile app to help customers track their orders.",
+          "highlight": [
+            "building"
+          ],
+          "translations": {
+            "zh-TW": "他們正在開發一款手機應用程式，幫助顧客追蹤訂單。"
           }
         }
       ],
       "synonyms": [
         "construct",
-        "create"
+        "create",
+        "develop"
       ],
       "antonyms": [
         "demolish",
-        "destroy"
+        "destroy",
+        "dismantle"
       ],
       "phrases": [
-        "build",
-        "a",
-        "house",
-        "build",
-        "a"
+        "build a house",
+        "build up",
+        "build trust",
+        "build a team"
       ]
     },
     {
@@ -355,44 +505,62 @@
       "toeic_score_min": 200,
       "word": "building",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "buildinged",
-        "past_participle": "buildinged",
-        "present_participle": "buildinging",
-        "third_person": "buildings"
+        "plural": "buildings"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "building",
-          "definition": "n. 建筑物, 建筑, [法] 营造, 建筑, 建筑物"
+          "definition": "n. 建築物、大樓、營造"
         }
       ],
       "examples": [
         {
-          "en": "The new building is almost complete.",
+          "en": "Our new office is in a tall building near the central station.",
           "highlight": [
             "building"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們的新辦公室位於中央車站附近的一棟高樓裡。"
+          }
+        },
+        {
+          "en": "Several historic buildings in the downtown area will be renovated next month.",
+          "highlight": [
+            "buildings"
+          ],
+          "translations": {
+            "zh-TW": "市中心的幾棟歷史建築下個月將進行翻修。"
+          }
+        },
+        {
+          "en": "Building a skyscraper requires careful planning and a skilled construction team.",
+          "highlight": [
+            "Building"
+          ],
+          "translations": {
+            "zh-TW": "建造摩天大樓需要周密的計畫和一支技術純熟的施工團隊。"
           }
         }
       ],
       "synonyms": [
         "structure",
-        "edifice"
+        "edifice",
+        "construction"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "ruin",
+        "demolition"
+      ],
       "phrases": [
-        "tall",
-        "building",
-        "office",
-        "building"
+        "tall building",
+        "office building",
+        "building site",
+        "building materials"
       ]
     },
     {
@@ -403,44 +571,63 @@
       "toeic_score_min": 200,
       "word": "bullet",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "bulleted",
+        "plural": "bullets",
+        "present_3rd": "bullets",
+        "past": "bulleted",
         "past_participle": "bulleted",
-        "present_participle": "bulleting",
-        "third_person": "bullets"
+        "ing": "bulleting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bullet",
-          "definition": "n. 子弹, [医] 弹, 子弹, 距节(馬)"
+          "definition": "n. 子彈、彈丸、項目符號（清單標記）"
         }
       ],
       "examples": [
         {
-          "en": "He found a bullet on the ground.",
+          "en": "The police officer found a single bullet on the floor of the warehouse.",
           "highlight": [
             "bullet"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "員警在倉庫的地板上發現了一顆子彈。"
+          }
+        },
+        {
+          "en": "The detective collected several bullets from the crime scene for analysis.",
+          "highlight": [
+            "bullets"
+          ],
+          "translations": {
+            "zh-TW": "偵探從犯罪現場收集了好幾顆子彈，以便進行分析。"
+          }
+        },
+        {
+          "en": "The secretary bulleted each item on the agenda to make the minutes easy to read.",
+          "highlight": [
+            "bulleted"
+          ],
+          "translations": {
+            "zh-TW": "秘書把議程上的每個項目都加上項目符號，讓會議紀錄更容易閱讀。"
           }
         }
       ],
       "synonyms": [
         "shot",
-        "projectile"
+        "projectile",
+        "round"
       ],
       "antonyms": [],
       "phrases": [
-        "silver",
-        "bullet",
-        "bullet",
-        "wound"
+        "silver bullet",
+        "bullet point",
+        "bullet wound",
+        "bite the bullet"
       ]
     },
     {
@@ -455,43 +642,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "bunched",
+        "plural": "bunches",
+        "present_3rd": "bunches",
+        "past": "bunched",
         "past_participle": "bunched",
-        "present_participle": "bunching",
-        "third_person": "bunchs"
+        "ing": "bunching"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bunch",
-          "definition": "n. 串, 束, [医] 骨肿块(馬)"
+          "definition": "n. 一束、一串、一群  v. 集中、聚攏"
         }
       ],
       "examples": [
         {
-          "en": "She picked a bunch of flowers.",
+          "en": "She received a beautiful bunch of flowers from her colleagues on her birthday.",
           "highlight": [
             "bunch"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她生日那天收到了同事們送的一束美麗鮮花。"
+          }
+        },
+        {
+          "en": "He bunched the receipts together before handing them to the accountant.",
+          "highlight": [
+            "bunched"
+          ],
+          "translations": {
+            "zh-TW": "他把收據集中在一起後，再交給會計。"
+          }
+        },
+        {
+          "en": "The supervisor complained about staff bunching near the entrance during breaks.",
+          "highlight": [
+            "bunching"
+          ],
+          "translations": {
+            "zh-TW": "主管抱怨員工休息時間總聚在入口附近。"
           }
         }
       ],
       "synonyms": [
         "group",
-        "cluster"
+        "cluster",
+        "batch"
       ],
       "antonyms": [
-        "individual"
+        "individual",
+        "scatter"
       ],
       "phrases": [
-        "bunch",
-        "of",
-        "grapes",
-        "bunch",
-        "of"
+        "bunch of grapes",
+        "a bunch of",
+        "the best of the bunch",
+        "bunch of keys"
       ]
     }
   ]
