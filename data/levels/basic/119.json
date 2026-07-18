@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 119,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-119-001",
@@ -22,32 +22,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "family",
-          "definition": "n. 家庭, 家人, 族, a. 家庭的"
+          "definition": "n. 家庭、家人、家族  a. 家庭的、家用的"
         }
       ],
       "examples": [
         {
-          "en": "They are a close-knit family.",
+          "en": "My family always gathers for dinner on Sundays.",
           "highlight": [
             "family"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我的家人每個星期天都會聚在一起吃晚餐。"
+          }
+        },
+        {
+          "en": "Many families moved to the suburbs for better schools.",
+          "highlight": [
+            "families"
+          ],
+          "translations": {
+            "zh-TW": "許多家庭為了更好的學校而搬到郊區。"
+          }
+        },
+        {
+          "en": "She runs the family business with her older brother.",
+          "highlight": [
+            "family"
+          ],
+          "translations": {
+            "zh-TW": "她和哥哥一起經營家族企業。"
           }
         }
       ],
       "synonyms": [
         "household",
-        "kin"
+        "kin",
+        "relatives"
       ],
       "antonyms": [
         "stranger"
       ],
       "phrases": [
-        "nuclear",
-        "family",
-        "extended",
-        "family"
+        "family business",
+        "nuclear family",
+        "extended family",
+        "family member"
       ]
     },
     {
@@ -58,34 +77,53 @@
       "toeic_score_min": 200,
       "word": "famous",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "famouses"
+        "comparative": "more famous",
+        "superlative": "most famous"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "famous",
-          "definition": "a. 出名的, 极好的"
+          "definition": "a. 著名的、出名的"
         }
       ],
       "examples": [
         {
-          "en": "He is a famous actor.",
+          "en": "He is a famous actor who has won several awards.",
           "highlight": [
             "famous"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他是一位得過幾次獎的著名演員。"
+          }
+        },
+        {
+          "en": "This restaurant became more famous after the chef appeared on TV.",
+          "highlight": [
+            "more famous"
+          ],
+          "translations": {
+            "zh-TW": "這家餐廳在主廚上電視之後變得更有名了。"
+          }
+        },
+        {
+          "en": "Paris is most famous for the Eiffel Tower and its cuisine.",
+          "highlight": [
+            "most famous"
+          ],
+          "translations": {
+            "zh-TW": "巴黎最出名的就是艾菲爾鐵塔和它的美食。"
           }
         }
       ],
       "synonyms": [
         "well-known",
-        "renowned"
+        "renowned",
+        "celebrated"
       ],
       "antonyms": [
         "unknown",
@@ -93,8 +131,9 @@
       ],
       "phrases": [
         "world-famous",
-        "famous",
-        "for"
+        "famous for",
+        "famous actor",
+        "famous landmark"
       ]
     },
     {
@@ -109,41 +148,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "faned",
-        "past_participle": "faned",
-        "present_participle": "faning",
-        "third_person": "fans"
+        "plural": "fans",
+        "present_3rd": "fans",
+        "past": "fanned",
+        "past_participle": "fanned",
+        "ing": "fanning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "fan",
-          "definition": "n. 風扇, 迷, 狂热者, 爱好者, vt. 煽動, 刺激, 吹拂, vi. 飘動, 成扇形散开"
+          "definition": "n. 風扇、扇子、狂熱愛好者  v. 扇風、煽動"
         }
       ],
       "examples": [
         {
-          "en": "Turn on the fan to cool the room.",
+          "en": "Turn on the fan to cool the office.",
           "highlight": [
             "fan"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "把電風扇打開讓辦公室涼快一點。"
+          }
+        },
+        {
+          "en": "Thousands of fans lined up to buy concert tickets.",
+          "highlight": [
+            "fans"
+          ],
+          "translations": {
+            "zh-TW": "成千上萬的粉絲排隊購買演唱會門票。"
+          }
+        },
+        {
+          "en": "She was fanning herself with a magazine during the heat wave.",
+          "highlight": [
+            "fanning"
+          ],
+          "translations": {
+            "zh-TW": "熱浪來襲時她用雜誌搧風。"
           }
         }
       ],
       "synonyms": [
         "ventilator",
-        "blower"
+        "supporter",
+        "enthusiast"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "critic"
+      ],
       "phrases": [
-        "turn",
-        "on",
-        "the",
-        "fan",
-        "electric"
+        "ceiling fan",
+        "big fan",
+        "fan base",
+        "fan club"
       ]
     },
     {
@@ -158,43 +218,63 @@
         "adjective"
       ],
       "conjugations": {
-        "past_tense": "fancyed",
-        "past_participle": "fancyed",
-        "present_participle": "fancying",
-        "third_person": "fancys"
+        "plural": "fancies",
+        "present_3rd": "fancies",
+        "past": "fancied",
+        "past_participle": "fancied",
+        "ing": "fancying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "fancy",
-          "definition": "n. 想象力, 幻想, 喜好, a. 想象的, 精美的, 新奇的, 奇特的, 高价的, 特級的, vt. 想象, 设想, 相信, 喜爱, vi. 想象, 幻想"
+          "definition": "v. 想要、想像、喜愛  a. 精美的、別緻的、昂貴的"
         }
       ],
       "examples": [
         {
-          "en": "I fancy a cup of coffee.",
+          "en": "I fancy a cup of tea after the long meeting.",
           "highlight": [
             "fancy"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "開完冗長的會議之後，我想來杯茶。"
+          }
+        },
+        {
+          "en": "She fancied a new dress she saw in the shop window.",
+          "highlight": [
+            "fancied"
+          ],
+          "translations": {
+            "zh-TW": "她喜歡上她在櫥窗裡看到的一件新洋裝。"
+          }
+        },
+        {
+          "en": "They went to a fancy restaurant for their anniversary.",
+          "highlight": [
+            "fancy"
+          ],
+          "translations": {
+            "zh-TW": "他們去了高級餐廳慶祝結婚紀念日。"
           }
         }
       ],
       "synonyms": [
         "desire",
-        "like"
+        "want",
+        "elegant"
       ],
       "antonyms": [
         "dislike",
-        "reject"
+        "plain"
       ],
       "phrases": [
-        "fancy",
-        "dress",
-        "fancy",
-        "restaurant"
+        "fancy dress",
+        "fancy restaurant",
+        "fancy a drink",
+        "fancy meeting you"
       ]
     },
     {
@@ -209,41 +289,60 @@
         "adverb"
       ],
       "conjugations": {
-        "comparative": "farer",
-        "superlative": "farest"
+        "comparative": "farther",
+        "superlative": "farthest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "far",
-          "definition": "a. 远的, 久远的, 遥远的, adv. 甚远地, 很, 到很深的程度, 到很远的距離"
+          "definition": "a. 遙遠的  adv. 遠地、很、到很大程度"
         }
       ],
       "examples": [
         {
-          "en": "He lives far from the city.",
+          "en": "He lives far from the city center.",
           "highlight": [
             "far"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他住得離市中心很遠。"
+          }
+        },
+        {
+          "en": "The new office is farther than the old one.",
+          "highlight": [
+            "farther"
+          ],
+          "translations": {
+            "zh-TW": "新辦公室比舊辦公室還要遠。"
+          }
+        },
+        {
+          "en": "This is the farthest I have ever traveled for work.",
+          "highlight": [
+            "farthest"
+          ],
+          "translations": {
+            "zh-TW": "這是我為了工作出差過最遠的一次。"
           }
         }
       ],
       "synonyms": [
         "distant",
-        "remote"
+        "remote",
+        "faraway"
       ],
       "antonyms": [
         "near",
         "close"
       ],
       "phrases": [
-        "far",
-        "away",
-        "far",
-        "from"
+        "far away",
+        "far from",
+        "so far",
+        "as far as"
       ]
     },
     {
@@ -258,45 +357,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "farmed",
+        "plural": "farms",
+        "present_3rd": "farms",
+        "past": "farmed",
         "past_participle": "farmed",
-        "present_participle": "farming",
-        "third_person": "farms"
+        "ing": "farming"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "farm",
-          "definition": "n. 农場, 农田, vt. 耕種, vi. 種田"
+          "definition": "n. 農場、農田  v. 耕作、務農"
         }
       ],
       "examples": [
         {
-          "en": "They own a large farm.",
+          "en": "They own a large farm in the countryside.",
           "highlight": [
             "farm"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他們在鄉下擁有一座大農場。"
+          }
+        },
+        {
+          "en": "His family has farmed this land for three generations.",
+          "highlight": [
+            "farmed"
+          ],
+          "translations": {
+            "zh-TW": "他的家族已經在這片土地上耕作了三代。"
+          }
+        },
+        {
+          "en": "Modern technology has changed the way people farm today.",
+          "highlight": [
+            "farm"
+          ],
+          "translations": {
+            "zh-TW": "現代科技改變了今日人們務農的方式。"
           }
         }
       ],
       "synonyms": [
         "ranch",
+        "plantation",
         "estate"
       ],
       "antonyms": [
-        "city",
-        "urban",
-        "area"
+        "city"
       ],
       "phrases": [
-        "own",
-        "a",
-        "farm",
-        "farm",
-        "animals"
+        "farm animals",
+        "dairy farm",
+        "farm land",
+        "wind farm"
       ]
     },
     {
@@ -307,44 +423,59 @@
       "toeic_score_min": 200,
       "word": "farmer",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "farmered",
-        "past_participle": "farmered",
-        "present_participle": "farmering",
-        "third_person": "farmers"
+        "plural": "farmers"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "farmer",
-          "definition": "n. 农夫, 农場主, [法] 农民, 农場主, 承包者"
+          "definition": "n. 農夫、農民、農場主人"
         }
       ],
       "examples": [
         {
-          "en": "The farmer works hard every day.",
+          "en": "The farmer works hard from sunrise to sunset.",
           "highlight": [
             "farmer"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位農夫從日出工作到日落。"
+          }
+        },
+        {
+          "en": "Local farmers sell fresh produce at the weekend market.",
+          "highlight": [
+            "farmers"
+          ],
+          "translations": {
+            "zh-TW": "當地農民在週末市集販售新鮮農產品。"
+          }
+        },
+        {
+          "en": "Coffee farmers in this region export to many countries.",
+          "highlight": [
+            "farmers"
+          ],
+          "translations": {
+            "zh-TW": "這個地區的咖啡農出口到許多國家。"
           }
         }
       ],
       "synonyms": [
         "agriculturist",
-        "grower"
+        "grower",
+        "rancher"
       ],
       "antonyms": [],
       "phrases": [
-        "dairy",
-        "farmer",
-        "hardworking",
-        "farmer"
+        "dairy farmer",
+        "coffee farmer",
+        "local farmers",
+        "farmers market"
       ]
     },
     {
@@ -355,44 +486,57 @@
       "toeic_score_min": 200,
       "word": "farming",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
-      "conjugations": {
-        "past_tense": "farminged",
-        "past_participle": "farminged",
-        "present_participle": "farminging",
-        "third_person": "farmings"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "farming",
-          "definition": "n. 农业, 耕作"
+          "definition": "n. 農業、耕作、務農"
         }
       ],
       "examples": [
         {
           "en": "Farming is their primary source of income.",
           "highlight": [
+            "Farming"
+          ],
+          "translations": {
+            "zh-TW": "務農是他們主要的收入來源。"
+          }
+        },
+        {
+          "en": "Organic farming has grown in popularity among younger consumers.",
+          "highlight": [
             "farming"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "有機農業在年輕消費者中越來越受歡迎。"
+          }
+        },
+        {
+          "en": "Sustainable farming methods help protect the soil and water.",
+          "highlight": [
+            "farming"
+          ],
+          "translations": {
+            "zh-TW": "永續農法有助於保護土壤和水源。"
           }
         }
       ],
       "synonyms": [
         "agriculture",
-        "cultivation"
+        "cultivation",
+        "husbandry"
       ],
       "antonyms": [],
       "phrases": [
-        "organic",
-        "farming",
-        "sustainable",
-        "farming"
+        "organic farming",
+        "sustainable farming",
+        "farming community",
+        "farming methods"
       ]
     },
     {
@@ -406,43 +550,58 @@
         "adjective",
         "adverb"
       ],
-      "conjugations": {
-        "comparative": "fartherer",
-        "superlative": "fartherest"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "farther",
-          "definition": "a. 更远的, 进一步的, adv. 更远的, 此外, far的比较級"
+          "definition": "a. 更遠的  adv. 更遠地、進一步地"
         }
       ],
       "examples": [
         {
-          "en": "He moved farther away from the noise.",
+          "en": "The hotel is farther from the station than I expected.",
           "highlight": [
             "farther"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家旅館離車站比我預期的還要遠。"
+          }
+        },
+        {
+          "en": "We walked farther along the beach to find a quieter spot.",
+          "highlight": [
+            "farther"
+          ],
+          "translations": {
+            "zh-TW": "我們沿著海灘走得更遠，想找一個更安靜的地方。"
+          }
+        },
+        {
+          "en": "If you need farther information, please contact our office.",
+          "highlight": [
+            "farther"
+          ],
+          "translations": {
+            "zh-TW": "如果您需要進一步的資訊，請聯絡我們的辦公室。"
           }
         }
       ],
       "synonyms": [
-        "more",
-        "distant",
-        "further"
+        "further",
+        "more distant",
+        "beyond"
       ],
       "antonyms": [
         "closer",
         "nearer"
       ],
       "phrases": [
-        "move",
-        "farther",
-        "farther",
-        "away"
+        "farther away",
+        "move farther",
+        "farther along",
+        "no farther"
       ]
     },
     {
@@ -456,16 +615,13 @@
         "adjective",
         "adverb"
       ],
-      "conjugations": {
-        "comparative": "farthester",
-        "superlative": "farthestest"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "farthest",
-          "definition": "a. 最远的, 最久的, adv. 最远, far的最高級"
+          "definition": "a. 最遠的  adv. 最遠地"
         }
       ],
       "examples": [
@@ -475,24 +631,42 @@
             "farthest"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這是我們旅程中最遠的一個點。"
+          }
+        },
+        {
+          "en": "Her house is the farthest from the office among all the staff.",
+          "highlight": [
+            "farthest"
+          ],
+          "translations": {
+            "zh-TW": "在所有員工當中，她家離辦公室最遠。"
+          }
+        },
+        {
+          "en": "He threw the ball the farthest and won the competition.",
+          "highlight": [
+            "farthest"
+          ],
+          "translations": {
+            "zh-TW": "他把球丟得最遠，贏得了比賽。"
           }
         }
       ],
       "synonyms": [
-        "most",
-        "distant",
-        "ultimate"
+        "most distant",
+        "remotest",
+        "furthest"
       ],
       "antonyms": [
         "closest",
         "nearest"
       ],
       "phrases": [
-        "farthest",
-        "point",
-        "farthest",
-        "distance"
+        "farthest point",
+        "farthest distance",
+        "farthest from",
+        "at the farthest"
       ]
     }
   ]
