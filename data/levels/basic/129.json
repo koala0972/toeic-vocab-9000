@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 129,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-129-001",
@@ -12,43 +12,67 @@
       "word": "forward",
       "pos": [
         "adjective",
-        "noun"
+        "adverb",
+        "verb"
       ],
       "conjugations": {
-        "plural": "forwards"
+        "plural": "forwards",
+        "present_3rd": "forwards",
+        "past": "forwarded",
+        "past_participle": "forwarded",
+        "ing": "forwarding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "forward",
-          "definition": "a. 向前的, 早的, 迅速的, 在前的, 进步的, vt. 促进...的生長, 转寄, 運送, adv. 向前地, [计] 前推, 转信"
+          "definition": "a. 向前的、前方的  adv. 向前地  v. 轉寄、促進"
         }
       ],
       "examples": [
         {
-          "en": "She took a step forward.",
+          "en": "Please forward this email to the sales team before noon.",
           "highlight": [
             "forward"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在中午前把這封電子郵件轉寄給業務團隊。"
+          }
+        },
+        {
+          "en": "She forwarded all the documents to the new manager last night.",
+          "highlight": [
+            "forwarded"
+          ],
+          "translations": {
+            "zh-TW": "她昨晚把所有文件都轉寄給了新任經理。"
+          }
+        },
+        {
+          "en": "The company is forwarding the shipment to the customer's branch office.",
+          "highlight": [
+            "forwarding"
+          ],
+          "translations": {
+            "zh-TW": "公司正在把貨物轉運到客戶的分公司。"
           }
         }
       ],
       "synonyms": [
         "ahead",
-        "onwards"
+        "onward",
+        "send on"
       ],
       "antonyms": [
         "backward",
         "rearward"
       ],
       "phrases": [
-        "move",
-        "forward",
-        "look",
-        "forward"
+        "look forward to",
+        "move forward",
+        "forward an email",
+        "step forward"
       ]
     },
     {
@@ -59,48 +83,65 @@
       "toeic_score_min": 200,
       "word": "found",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "founded",
+        "present_3rd": "founds",
+        "past": "founded",
         "past_participle": "founded",
-        "present_participle": "founding",
-        "third_person": "founds"
+        "ing": "founding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "found",
-          "definition": "vt. 建立, 创立, 铸造, find的過去式和過去分词"
+          "definition": "v. 建立、創立、設立"
         }
       ],
       "examples": [
         {
-          "en": "They founded a new company.",
+          "en": "They plan to found a new charity next year.",
           "highlight": [
             "found"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他們計畫明年創立一個新的慈善機構。"
+          }
+        },
+        {
+          "en": "The hotel chain was founded in 1985 by a young couple.",
+          "highlight": [
+            "founded"
+          ],
+          "translations": {
+            "zh-TW": "這家連鎖飯店是由一對年輕夫婦於 1985 年創立的。"
+          }
+        },
+        {
+          "en": "She is founding her second startup while finishing her MBA.",
+          "highlight": [
+            "founding"
+          ],
+          "translations": {
+            "zh-TW": "她在讀完 MBA 的同時，正在創辦她的第二家新創公司。"
           }
         }
       ],
       "synonyms": [
         "establish",
-        "create"
+        "create",
+        "set up"
       ],
       "antonyms": [
         "abolish",
         "dissolve"
       ],
       "phrases": [
-        "found",
-        "a",
-        "company",
-        "found",
-        "an"
+        "found a company",
+        "found a school",
+        "founding father",
+        "founding member"
       ]
     },
     {
@@ -111,48 +152,62 @@
       "toeic_score_min": 200,
       "word": "foundation",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "foundationed",
-        "past_participle": "foundationed",
-        "present_participle": "foundationing",
-        "third_person": "foundations"
+        "plural": "foundations"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "foundation",
-          "definition": "n. 基础, 根据, 建立, [化] 地基"
+          "definition": "n. 基礎、根基、基金會"
         }
       ],
       "examples": [
         {
-          "en": "The foundation of the building was strong.",
+          "en": "The foundation of the building was reinforced after the earthquake.",
           "highlight": [
             "foundation"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "地震後，大樓的地基被加固了。"
+          }
+        },
+        {
+          "en": "Several local foundations donated money to rebuild the library.",
+          "highlight": [
+            "foundations"
+          ],
+          "translations": {
+            "zh-TW": "幾個在地基金會捐款重建這座圖書館。"
+          }
+        },
+        {
+          "en": "Good training lays a solid foundation for a long career in nursing.",
+          "highlight": [
+            "foundation"
+          ],
+          "translations": {
+            "zh-TW": "良好的訓練為漫長的護理職涯奠定穩固的基礎。"
           }
         }
       ],
       "synonyms": [
         "base",
-        "groundwork"
+        "groundwork",
+        "basis"
       ],
       "antonyms": [
-        "roof",
-        "top"
+        "top",
+        "roof"
       ],
       "phrases": [
-        "solid",
-        "foundation",
-        "lay",
-        "the",
-        "foundation"
+        "lay the foundation",
+        "solid foundation",
+        "charitable foundation",
+        "foundation course"
       ]
     },
     {
@@ -163,37 +218,59 @@
       "toeic_score_min": 200,
       "word": "four",
       "pos": [
-        "numeral"
+        "numeral",
+        "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "fours"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "four",
-          "definition": "num. 四, 四個, [机] 四冲程循环"
+          "definition": "num. 四、四個  n. 四歲、四點鐘"
         }
       ],
       "examples": [
         {
-          "en": "She has four cats.",
+          "en": "I have four appointments scheduled this morning.",
           "highlight": [
             "four"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我今天早上排了四個約會。"
+          }
+        },
+        {
+          "en": "The four of us shared the cost of the gift.",
+          "highlight": [
+            "four"
+          ],
+          "translations": {
+            "zh-TW": "我們四個人分攤了這份禮物的費用。"
+          }
+        },
+        {
+          "en": "He rolls the dice and lands on a four, winning the game.",
+          "highlight": [
+            "four"
+          ],
+          "translations": {
+            "zh-TW": "他擲骰子擲出四點，贏得了這場遊戲。"
           }
         }
       ],
       "synonyms": [
-        "4"
+        "4",
+        "quartet"
       ],
       "antonyms": [],
       "phrases": [
-        "four",
-        "times",
-        "four",
-        "people"
+        "four seasons",
+        "four times",
+        "four people",
+        "all fours"
       ]
     },
     {
@@ -204,25 +281,46 @@
       "toeic_score_min": 200,
       "word": "fourteen",
       "pos": [
-        "numeral"
+        "numeral",
+        "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "fourteens"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "fourteen",
-          "definition": "num. 十四, 十四個"
+          "definition": "num. 十四、十四個  n. 十四歲"
         }
       ],
       "examples": [
         {
-          "en": "He turned fourteen last week.",
+          "en": "My daughter turned fourteen last weekend.",
           "highlight": [
             "fourteen"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我女兒上個週末滿十四歲了。"
+          }
+        },
+        {
+          "en": "Only fourteen guests attended the meeting due to the storm.",
+          "highlight": [
+            "fourteen"
+          ],
+          "translations": {
+            "zh-TW": "因為暴風雨，只有十四位客人出席了會議。"
+          }
+        },
+        {
+          "en": "He started his first part-time job at the age of fourteen.",
+          "highlight": [
+            "fourteen"
+          ],
+          "translations": {
+            "zh-TW": "他在十四歲時開始了第一份兼職工作。"
           }
         }
       ],
@@ -231,11 +329,10 @@
       ],
       "antonyms": [],
       "phrases": [
-        "turn",
-        "fourteen",
-        "fourteen",
-        "years",
-        "old"
+        "fourteen years old",
+        "turn fourteen",
+        "chapter fourteen",
+        "fourteen days"
       ]
     },
     {
@@ -247,6 +344,7 @@
       "word": "fourth",
       "pos": [
         "adjective",
+        "adverb",
         "noun"
       ],
       "conjugations": {
@@ -257,29 +355,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "fourth",
-          "definition": "num. 第四, 四分之一"
+          "definition": "a. 第四的、四分之一的  adv. 第四  n. 四分之一、第四名"
         }
       ],
       "examples": [
         {
-          "en": "She finished in fourth place.",
+          "en": "She finished in fourth place at the national swimming competition.",
           "highlight": [
             "fourth"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在全國游泳比賽中拿下第四名。"
+          }
+        },
+        {
+          "en": "The meeting is scheduled for the fourth of July.",
+          "highlight": [
+            "fourth"
+          ],
+          "translations": {
+            "zh-TW": "會議排在七月四日。"
+          }
+        },
+        {
+          "en": "He donated three fourths of his bonus to the children's hospital.",
+          "highlight": [
+            "fourths"
+          ],
+          "translations": {
+            "zh-TW": "他把四分之三的獎金捐給了兒童醫院。"
           }
         }
       ],
       "synonyms": [
-        "4th"
+        "4th",
+        "quarter"
       ],
       "antonyms": [],
       "phrases": [
-        "fourth",
-        "place",
-        "fourth",
-        "quarter"
+        "fourth place",
+        "fourth quarter",
+        "Fourth of July",
+        "three fourths"
       ]
     },
     {
@@ -291,46 +408,69 @@
       "word": "free",
       "pos": [
         "adjective",
+        "adverb",
         "verb"
       ],
       "conjugations": {
-        "past_tense": "freeed",
-        "past_participle": "freeed",
-        "present_participle": "freing",
-        "third_person": "frees"
+        "present_3rd": "frees",
+        "past": "freed",
+        "past_participle": "freed",
+        "ing": "freeing",
+        "comparative": "freer",
+        "superlative": "freest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "free",
-          "definition": "a. 自由的, 享受政治权力的, 允许的, 免费的, 丰富的, vt. 释放, 解放, 使自由, adv. 自由地, 免费"
+          "definition": "a. 自由的、免費的、空閒的  adv. 免費地  v. 釋放、使自由"
         }
       ],
       "examples": [
         {
-          "en": "He felt free after leaving his job.",
+          "en": "Admission is free for children under twelve on Sundays.",
           "highlight": [
             "free"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "週日十二歲以下兒童免費入場。"
+          }
+        },
+        {
+          "en": "The charity freed the rescued birds back into the wild yesterday.",
+          "highlight": [
+            "freed"
+          ],
+          "translations": {
+            "zh-TW": "慈善機構昨天把獲救的鳥兒野放回大自然。"
+          }
+        },
+        {
+          "en": "She feels freer now that she works from home every day.",
+          "highlight": [
+            "freer"
+          ],
+          "translations": {
+            "zh-TW": "現在每天在家工作，她覺得更自由了。"
           }
         }
       ],
       "synonyms": [
         "unrestricted",
-        "liberated"
+        "liberated",
+        "complimentary"
       ],
       "antonyms": [
         "restricted",
-        "controlled"
+        "bound",
+        "paid"
       ],
       "phrases": [
-        "feel",
-        "free",
-        "free",
-        "time"
+        "feel free",
+        "free time",
+        "free of charge",
+        "free trial"
       ]
     },
     {
@@ -341,48 +481,63 @@
       "toeic_score_min": 200,
       "word": "freedom",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "freedomed",
-        "past_participle": "freedomed",
-        "present_participle": "freedoming",
-        "third_person": "freedoms"
+        "plural": "freedoms"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "freedom",
-          "definition": "n. 自由, 坦率, 特权, [法] 自由, 自主, 免除"
+          "definition": "n. 自由、自主、免除"
         }
       ],
       "examples": [
         {
-          "en": "They fought for their freedom.",
+          "en": "The new policy gives employees more freedom to choose their working hours.",
           "highlight": [
             "freedom"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新政策給員工更多選擇工作時間的自由。"
+          }
+        },
+        {
+          "en": "Citizens of this country enjoy many freedoms, including freedom of speech.",
+          "highlight": [
+            "freedoms"
+          ],
+          "translations": {
+            "zh-TW": "這個國家的國民享有許多自由，包括言論自由。"
+          }
+        },
+        {
+          "en": "Financial freedom lets her travel the world without worrying about money.",
+          "highlight": [
+            "freedom"
+          ],
+          "translations": {
+            "zh-TW": "財務自由讓她能環遊世界而不必為金錢煩惱。"
           }
         }
       ],
       "synonyms": [
         "liberty",
-        "independence"
+        "independence",
+        "autonomy"
       ],
       "antonyms": [
         "captivity",
-        "oppression"
+        "oppression",
+        "restriction"
       ],
       "phrases": [
-        "freedom",
-        "of",
-        "speech",
-        "fight",
-        "for"
+        "freedom of speech",
+        "financial freedom",
+        "freedom of choice",
+        "fight for freedom"
       ]
     },
     {
@@ -397,45 +552,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "freezeed",
-        "past_participle": "freezeed",
-        "present_participle": "freezing",
-        "third_person": "freezes"
+        "plural": "freezes",
+        "present_3rd": "freezes",
+        "past": "froze",
+        "past_participle": "frozen",
+        "ing": "freezing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "freeze",
-          "definition": "vi. 冻結, 冷冻, 僵硬, 楞住, vt. 使結冰, 使冻住, 使呆住, n. 結冰, 凝固, [计] 冻結"
+          "definition": "v. 結冰、凍結、僵住  n. 結冰、凍結、停止"
         }
       ],
       "examples": [
         {
-          "en": "The water will freeze overnight.",
+          "en": "Water will freeze if the temperature drops below zero tonight.",
           "highlight": [
             "freeze"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "今晚如果氣溫降到零度以下，水就會結冰。"
+          }
+        },
+        {
+          "en": "The lake froze solid during the long winter, and kids skated on it.",
+          "highlight": [
+            "froze"
+          ],
+          "translations": {
+            "zh-TW": "湖面在漫長的冬天凍得結實，孩子們在上面溜冰。"
+          }
+        },
+        {
+          "en": "Frozen vegetables keep their nutrients better than canned ones.",
+          "highlight": [
+            "frozen"
+          ],
+          "translations": {
+            "zh-TW": "冷凍蔬菜比罐裝蔬菜更能保留營養。"
           }
         }
       ],
       "synonyms": [
+        "chill",
         "solidify",
-        "ice",
-        "over"
+        "ice up"
       ],
       "antonyms": [
         "melt",
-        "thaw"
+        "thaw",
+        "boil"
       ],
       "phrases": [
-        "freeze",
-        "to",
-        "death",
-        "freeze",
-        "over"
+        "freeze to death",
+        "freeze over",
+        "frozen food",
+        "price freeze"
       ]
     },
     {
@@ -450,43 +624,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "frequented",
+        "present_3rd": "frequents",
+        "past": "frequented",
         "past_participle": "frequented",
-        "present_participle": "frequenting",
-        "third_person": "frequents"
+        "ing": "frequenting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "frequent",
-          "definition": "a. 時常發生的, 频繁的, 快速的, vt. 時常來访, 常常聚集, 常與...交往"
+          "definition": "a. 時常發生的、頻繁的  v. 常去、常造訪"
         }
       ],
       "examples": [
         {
-          "en": "He is a frequent visitor.",
+          "en": "He is a frequent visitor to the office on weekends.",
           "highlight": [
             "frequent"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他週末常來辦公室。"
+          }
+        },
+        {
+          "en": "The ambassador frequented the small café near the embassy last summer.",
+          "highlight": [
+            "frequented"
+          ],
+          "translations": {
+            "zh-TW": "去年夏天，這位大使常去大使館附近的那家小咖啡館。"
+          }
+        },
+        {
+          "en": "She has been frequenting the gym twice a week since January.",
+          "highlight": [
+            "frequenting"
+          ],
+          "translations": {
+            "zh-TW": "從一月起，她每週去健身房兩次。"
           }
         }
       ],
       "synonyms": [
         "common",
+        "regular",
         "repeated"
       ],
       "antonyms": [
         "rare",
-        "occasional"
+        "occasional",
+        "infrequent"
       ],
       "phrases": [
-        "frequent",
-        "visitor",
-        "frequent",
-        "trips"
+        "frequent visitor",
+        "frequent flyer",
+        "frequent traveler",
+        "frequent customer"
       ]
     }
   ]
