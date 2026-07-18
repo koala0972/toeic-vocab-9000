@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 94,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-094-001",
@@ -11,47 +11,65 @@
       "toeic_score_min": 200,
       "word": "distribute",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "distributeed",
-        "past_participle": "distributeed",
-        "present_participle": "distributing",
-        "third_person": "distributes"
+        "present_3rd": "distributes",
+        "past": "distributed",
+        "past_participle": "distributed",
+        "ing": "distributing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "distribute",
-          "definition": "vt. 分配, 散布, 分發, [經] 分配, 分發"
+          "definition": "v. 分配、分發、散布"
         }
       ],
       "examples": [
         {
-          "en": "They distribute food to the homeless.",
+          "en": "The warehouse distributes products to retail stores across the country.",
           "highlight": [
-            "distribute"
+            "distributes"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這座倉庫將產品分發到全國各地的零售店。"
+          }
+        },
+        {
+          "en": "The marketing team distributed flyers at the trade show.",
+          "highlight": [
+            "distributed"
+          ],
+          "translations": {
+            "zh-TW": "行銷團隊在貿易展上發送了傳單。"
+          }
+        },
+        {
+          "en": "The charity is distributing food and supplies to families in need.",
+          "highlight": [
+            "distributing"
+          ],
+          "translations": {
+            "zh-TW": "這個慈善機構正在向需要的家庭分發食物和物資。"
           }
         }
       ],
       "synonyms": [
+        "allocate",
         "dispense",
-        "allocate"
+        "deliver"
       ],
       "antonyms": [
         "collect",
         "gather"
       ],
       "phrases": [
-        "distribute",
-        "evenly",
-        "distribute",
-        "among"
+        "distribute evenly",
+        "distribute among",
+        "distribute resources",
+        "distribute goods"
       ]
     },
     {
@@ -62,44 +80,61 @@
       "toeic_score_min": 200,
       "word": "district",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "districted",
-        "past_participle": "districted",
-        "present_participle": "districting",
-        "third_person": "districts"
+        "plural": "districts"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "district",
-          "definition": "n. 區域, 地方, [医] 地區, 地段"
+          "definition": "n. 區域、地區、行政區"
         }
       ],
       "examples": [
         {
-          "en": "He lives in the financial district.",
+          "en": "She works in the financial district of downtown Tokyo.",
           "highlight": [
             "district"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在東京鬧區的金融區工作。"
+          }
+        },
+        {
+          "en": "The school district covers the entire eastern part of the city.",
+          "highlight": [
+            "district"
+          ],
+          "translations": {
+            "zh-TW": "這個學區涵蓋整座城市的東半部。"
+          }
+        },
+        {
+          "en": "Several business districts were relocated to the new urban area.",
+          "highlight": [
+            "districts"
+          ],
+          "translations": {
+            "zh-TW": "幾個商業區被遷移到新的市區。"
           }
         }
       ],
       "synonyms": [
         "area",
-        "region"
+        "region",
+        "zone"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "whole"
+      ],
       "phrases": [
-        "business",
-        "district",
-        "school",
-        "district"
+        "business district",
+        "school district",
+        "financial district",
+        "shopping district"
       ]
     },
     {
@@ -110,48 +145,65 @@
       "toeic_score_min": 200,
       "word": "disturb",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "disturbed",
+        "present_3rd": "disturbs",
+        "past": "disturbed",
         "past_participle": "disturbed",
-        "present_participle": "disturbing",
-        "third_person": "disturbs"
+        "ing": "disturbing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "disturb",
-          "definition": "vt. 扰乱, 妨碍, 使不安, [法] 滋扰, 扰乱"
+          "definition": "v. 打擾、妨礙、使不安"
         }
       ],
       "examples": [
         {
-          "en": "Please do not disturb the meeting.",
+          "en": "Please do not disturb the guests while they are resting.",
           "highlight": [
             "disturb"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請勿在客人休息時打擾他們。"
+          }
+        },
+        {
+          "en": "A loud noise disturbed the meeting and everyone turned around.",
+          "highlight": [
+            "disturbed"
+          ],
+          "translations": {
+            "zh-TW": "一聲巨響打斷了會議,所有人都轉過頭來。"
+          }
+        },
+        {
+          "en": "She is disturbing the other workers by chatting on her phone.",
+          "highlight": [
+            "disturbing"
+          ],
+          "translations": {
+            "zh-TW": "她講電話閒聊的行為正在打擾其他同事。"
           }
         }
       ],
       "synonyms": [
         "disrupt",
-        "unsettle"
+        "bother",
+        "interrupt"
       ],
       "antonyms": [
         "calm",
         "soothe"
       ],
       "phrases": [
-        "disturb",
-        "the",
-        "peace",
-        "disturb",
-        "someone"
+        "do not disturb",
+        "disturb the peace",
+        "disturb someone",
+        "disturb the silence"
       ]
     },
     {
@@ -162,47 +214,64 @@
       "toeic_score_min": 200,
       "word": "disturbing",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "disturbinged",
-        "past_participle": "disturbinged",
-        "present_participle": "disturbinging",
-        "third_person": "disturbings"
+        "comparative": "more disturbing",
+        "superlative": "most disturbing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "disturbing",
-          "definition": "a. 引起烦恼的, 令人不安的"
+          "definition": "adj. 令人不安的、引起煩惱的"
         }
       ],
       "examples": [
         {
-          "en": "The news was disturbing.",
+          "en": "The survey revealed a disturbing trend in customer complaints.",
           "highlight": [
             "disturbing"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這份調查揭露了客訴方面一個令人不安的趨勢。"
+          }
+        },
+        {
+          "en": "The second report was more disturbing than the first one.",
+          "highlight": [
+            "more disturbing"
+          ],
+          "translations": {
+            "zh-TW": "第二份報告比第一份更令人不安。"
+          }
+        },
+        {
+          "en": "The most disturbing part of the audit was the missing funds.",
+          "highlight": [
+            "most disturbing"
+          ],
+          "translations": {
+            "zh-TW": "這次審計中最令人不安的部分是款項短缺。"
           }
         }
       ],
       "synonyms": [
         "upsetting",
-        "troubling"
+        "troubling",
+        "alarming"
       ],
       "antonyms": [
         "comforting",
-        "calming"
+        "calming",
+        "reassuring"
       ],
       "phrases": [
-        "disturbing",
-        "news",
-        "disturbing",
-        "trend"
+        "disturbing news",
+        "disturbing trend",
+        "disturbing report",
+        "disturbing discovery"
       ]
     },
     {
@@ -217,44 +286,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "divideed",
-        "past_participle": "divideed",
-        "present_participle": "dividing",
-        "third_person": "divides"
+        "present_3rd": "divides",
+        "past": "divided",
+        "past_participle": "divided",
+        "ing": "dividing",
+        "plural": "divides"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "divide",
-          "definition": "vi. 分开, 分配, 分裂, vt. 分, 分开, 分裂, 除, n. 分配, 分水岭, [计] 除"
+          "definition": "v. 分配、分開、除  n. 分水嶺、分歧"
         }
       ],
       "examples": [
         {
-          "en": "They decided to divide the profits equally.",
+          "en": "The manager decided to divide the team into two project groups.",
           "highlight": [
             "divide"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理決定把團隊分成兩個專案小組。"
+          }
+        },
+        {
+          "en": "They divided the profits equally among all the partners.",
+          "highlight": [
+            "divided"
+          ],
+          "translations": {
+            "zh-TW": "他們把利潤平均分配給所有合夥人。"
+          }
+        },
+        {
+          "en": "The river is dividing the city into a commercial zone and a residential zone.",
+          "highlight": [
+            "dividing"
+          ],
+          "translations": {
+            "zh-TW": "這條河正把城市分成商業區和住宅區。"
           }
         }
       ],
       "synonyms": [
         "separate",
-        "split"
+        "split",
+        "share"
       ],
       "antonyms": [
         "unite",
-        "join"
+        "join",
+        "combine"
       ],
       "phrases": [
-        "divide",
-        "equally",
-        "divide",
-        "into",
-        "parts"
+        "divide equally",
+        "divide into parts",
+        "divide and conquer",
+        "digital divide"
       ]
     },
     {
@@ -265,47 +354,62 @@
       "toeic_score_min": 200,
       "word": "division",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "divisioned",
-        "past_participle": "divisioned",
-        "present_participle": "divisioning",
-        "third_person": "divisions"
+        "plural": "divisions"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "division",
-          "definition": "n. 分, 分开, 除法, 部門(如部、處、系等), 師, [计] 部分"
+          "definition": "n. 分配、部門、除法、師"
         }
       ],
       "examples": [
         {
-          "en": "The division of the company into two parts was announced.",
+          "en": "She manages the sales division of the company.",
           "highlight": [
             "division"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她管理公司的銷售部門。"
+          }
+        },
+        {
+          "en": "The division of the company into two parts was announced yesterday.",
+          "highlight": [
+            "division"
+          ],
+          "translations": {
+            "zh-TW": "公司將一分為二的消息昨天才宣布。"
+          }
+        },
+        {
+          "en": "Several divisions of the corporation will be transferred to a new building.",
+          "highlight": [
+            "divisions"
+          ],
+          "translations": {
+            "zh-TW": "公司的幾個部門將被搬到新大樓。"
           }
         }
       ],
       "synonyms": [
-        "partition",
-        "section"
+        "department",
+        "section",
+        "partition"
       ],
       "antonyms": [
         "unification",
         "integration"
       ],
       "phrases": [
-        "equal",
-        "division",
-        "fair",
-        "division"
+        "sales division",
+        "division of labor",
+        "division of profits",
+        "fair division"
       ]
     },
     {
@@ -320,44 +424,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "divorceed",
-        "past_participle": "divorceed",
-        "present_participle": "divorcing",
-        "third_person": "divorces"
+        "plural": "divorces",
+        "present_3rd": "divorces",
+        "past": "divorced",
+        "past_participle": "divorced",
+        "ing": "divorcing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "divorce",
-          "definition": "n. 離婚, vt. 與...離婚"
+          "definition": "n. 離婚  v. 與……離婚"
         }
       ],
       "examples": [
         {
-          "en": "They finalized their divorce last year.",
+          "en": "They filed for divorce after years of disagreement.",
           "highlight": [
             "divorce"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經過多年意見不合,他們提出了離婚申請。"
+          }
+        },
+        {
+          "en": "The actor divorced his wife and moved to another country.",
+          "highlight": [
+            "divorced"
+          ],
+          "translations": {
+            "zh-TW": "這位演員和妻子離婚後搬到了另一個國家。"
+          }
+        },
+        {
+          "en": "The couple is divorcing after 20 years of marriage.",
+          "highlight": [
+            "divorcing"
+          ],
+          "translations": {
+            "zh-TW": "這對夫妻在結婚 20 年後正在辦理離婚。"
           }
         }
       ],
       "synonyms": [
         "separation",
-        "annulment"
+        "annulment",
+        "split"
       ],
       "antonyms": [
         "marriage",
         "union"
       ],
       "phrases": [
-        "file",
-        "for",
-        "divorce",
-        "get",
-        "a"
+        "file for divorce",
+        "get a divorce",
+        "divorce rate",
+        "divorce papers"
       ]
     },
     {
@@ -368,31 +491,43 @@
       "toeic_score_min": 200,
       "word": "divorced",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
-      "conjugations": {
-        "past_tense": "divorceded",
-        "past_participle": "divorceded",
-        "present_participle": "divorceding",
-        "third_person": "divorceds"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "divorced",
-          "definition": "a. 離婚的"
+          "definition": "adj. 離婚的"
         }
       ],
       "examples": [
         {
-          "en": "She is divorced and has two children.",
+          "en": "She is divorced and raising two children on her own.",
           "highlight": [
             "divorced"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她離了婚,獨自扶養兩個孩子。"
+          }
+        },
+        {
+          "en": "The divorced parents share custody of their only daughter.",
+          "highlight": [
+            "divorced"
+          ],
+          "translations": {
+            "zh-TW": "這對離婚父母共同監護他們唯一的女兒。"
+          }
+        },
+        {
+          "en": "Many divorced couples still run businesses together in this city.",
+          "highlight": [
+            "divorced"
+          ],
+          "translations": {
+            "zh-TW": "在這個城市,許多離婚夫妻仍然一起經營事業。"
           }
         }
       ],
@@ -401,13 +536,14 @@
         "annulled"
       ],
       "antonyms": [
-        "married"
+        "married",
+        "wed"
       ],
       "phrases": [
-        "divorced",
-        "parents",
-        "divorced",
-        "couple"
+        "divorced parents",
+        "divorced couple",
+        "divorced mother",
+        "divorced father"
       ]
     },
     {
@@ -422,44 +558,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "doed",
-        "past_participle": "doed",
-        "present_participle": "doing",
-        "third_person": "dos"
+        "present_3rd": "does",
+        "past": "did",
+        "past_participle": "done",
+        "ing": "doing",
+        "plural": "dos"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "do",
-          "definition": "v. 做, 进行, 完成"
+          "definition": "v. 做、執行、完成  n. 待辦事項"
         }
       ],
       "examples": [
         {
-          "en": "What do you want to do today?",
+          "en": "We need to do more research before launching the product.",
           "highlight": [
             "do"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們在推出產品前需要做更多研究。"
+          }
+        },
+        {
+          "en": "She did an excellent job on the quarterly report.",
+          "highlight": [
+            "did"
+          ],
+          "translations": {
+            "zh-TW": "她在這份季度報告上做得非常出色。"
+          }
+        },
+        {
+          "en": "The team is doing its best to finish the project on time.",
+          "highlight": [
+            "doing"
+          ],
+          "translations": {
+            "zh-TW": "團隊正盡最大努力按時完成這個專案。"
           }
         }
       ],
       "synonyms": [
         "perform",
-        "execute"
+        "execute",
+        "carry out"
       ],
       "antonyms": [
         "undo",
         "cease"
       ],
       "phrases": [
-        "do",
-        "the",
-        "job",
-        "do",
-        "the"
+        "do business",
+        "do your best",
+        "do a favor",
+        "do the job"
       ]
     },
     {
@@ -474,43 +629,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "doctored",
+        "plural": "doctors",
+        "present_3rd": "doctors",
+        "past": "doctored",
         "past_participle": "doctored",
-        "present_participle": "doctoring",
-        "third_person": "doctors"
+        "ing": "doctoring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "doctor",
-          "definition": "n. 医生, 博士, vt. 授以博士学位, 诊断, 修改, vi. 行医"
+          "definition": "n. 醫生、博士  v. 竄改、診治"
         }
       ],
       "examples": [
         {
-          "en": "She visited the doctor for a check-up.",
+          "en": "She visited the doctor for a routine check-up.",
           "highlight": [
             "doctor"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她去看醫生做例行健檢。"
+          }
+        },
+        {
+          "en": "Two doctors from the city hospital were invited to the conference.",
+          "highlight": [
+            "doctors"
+          ],
+          "translations": {
+            "zh-TW": "市立醫院的兩位醫生受邀參加這場研討會。"
+          }
+        },
+        {
+          "en": "The accountant was caught doctoring the financial records last quarter.",
+          "highlight": [
+            "doctoring"
+          ],
+          "translations": {
+            "zh-TW": "這名會計上個季度被發現竄改財務紀錄。"
           }
         }
       ],
       "synonyms": [
         "physician",
-        "medical",
+        "specialist",
         "practitioner"
       ],
       "antonyms": [
         "patient"
       ],
       "phrases": [
-        "family",
-        "doctor",
-        "medical",
-        "doctor"
+        "family doctor",
+        "medical doctor",
+        "doctor appointment",
+        "see a doctor"
       ]
     }
   ]
