@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 122,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-122-001",
@@ -15,40 +15,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "fenceed",
-        "past_participle": "fenceed",
-        "present_participle": "fencing",
-        "third_person": "fences"
+        "plural": "fences",
+        "present_3rd": "fences",
+        "past": "fenced",
+        "past_participle": "fenced",
+        "ing": "fencing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "fence",
-          "definition": "n. 围墙, 栅栏, 買賣赃物的人, 剑术, vt. 用篱笆围住, 练习剑术, 防护, vi. 击剑, 搪塞"
+          "definition": "n. 籬笆、圍欄、擊劍  v. 用籬笆圍住、擊劍、迴避"
         }
       ],
       "examples": [
         {
-          "en": "The fence needs to be repaired.",
+          "en": "The farmer built a wooden fence around the pasture to keep the cattle safe.",
           "highlight": [
             "fence"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "農夫在牧場周圍建了一道木籬笆，以保護牛隻安全。"
+          }
+        },
+        {
+          "en": "She fenced off the garden to stop rabbits from eating the vegetables.",
+          "highlight": [
+            "fenced"
+          ],
+          "translations": {
+            "zh-TW": "她把花園用籬笆圍起來，防止兔子吃掉蔬菜。"
+          }
+        },
+        {
+          "en": "He has been fencing competitively since he was twelve years old.",
+          "highlight": [
+            "fencing"
+          ],
+          "translations": {
+            "zh-TW": "他從十二歲起就一直從事競技擊劍運動。"
           }
         }
       ],
       "synonyms": [
         "barrier",
-        "hedge"
+        "hedge",
+        "enclose"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "opening",
+        "gap"
+      ],
       "phrases": [
-        "wooden",
-        "fence",
-        "electric",
-        "fence"
+        "wooden fence",
+        "fence off",
+        "sit on the fence",
+        "mend fences"
       ]
     },
     {
@@ -59,44 +82,61 @@
       "toeic_score_min": 200,
       "word": "festival",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "festivaled",
-        "past_participle": "festivaled",
-        "present_participle": "festivaling",
-        "third_person": "festivals"
+        "plural": "festivals"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "festival",
-          "definition": "a. 节日的, 喜庆的, 快乐的, n. 节日, 庆祝, 歡宴"
+          "definition": "n. 節日、慶典、（音樂、電影等）藝術節"
         }
       ],
       "examples": [
         {
-          "en": "They attended a music festival.",
+          "en": "The city hosts a music festival every summer that attracts thousands of tourists.",
           "highlight": [
             "festival"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這座城市每年夏天舉辦音樂節，吸引數以千計的遊客。"
+          }
+        },
+        {
+          "en": "Local festivals showcase traditional food, dance, and crafts from the region.",
+          "highlight": [
+            "festivals"
+          ],
+          "translations": {
+            "zh-TW": "地方慶典展示該地區的傳統美食、舞蹈和工藝品。"
+          }
+        },
+        {
+          "en": "She wore a festival costume decorated with bright ribbons and beads.",
+          "highlight": [
+            "festival"
+          ],
+          "translations": {
+            "zh-TW": "她穿著一件以鮮豔絲帶和珠飾裝點的慶典服裝。"
           }
         }
       ],
       "synonyms": [
         "celebration",
-        "carnival"
+        "carnival",
+        "gala"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "ordinary day"
+      ],
       "phrases": [
-        "annual",
-        "festival",
-        "music",
-        "festival"
+        "music festival",
+        "film festival",
+        "spring festival",
+        "festival season"
       ]
     },
     {
@@ -111,41 +151,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "fetched",
+        "present_3rd": "fetches",
+        "past": "fetched",
         "past_participle": "fetched",
-        "present_participle": "fetching",
-        "third_person": "fetchs"
+        "ing": "fetching"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "fetch",
-          "definition": "n. 取得, 拿, 诡计, 魂, vt. 接來, 取來, 售得, 帶來, 推出, 引出, 杀死, 吸引, 到达, vi. 取物, 前进, [计] 取"
+          "definition": "v. 接來、取來、（以某價格）售得  n. 詭計、fetch（玩丟接物的遊戲）"
         }
       ],
       "examples": [
         {
-          "en": "Can you fetch my glasses from the bedroom?",
+          "en": "Could you fetch the documents from the printer before the meeting starts?",
           "highlight": [
             "fetch"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "會議開始前，你能去印表機那邊把文件拿過來嗎？"
+          }
+        },
+        {
+          "en": "The dog fetched the stick and dropped it at its owner's feet.",
+          "highlight": [
+            "fetched"
+          ],
+          "translations": {
+            "zh-TW": "那隻狗把樹枝叼回來，放在主人的腳邊。"
+          }
+        },
+        {
+          "en": "She is fetching some coffee for everyone in the office break room.",
+          "highlight": [
+            "fetching"
+          ],
+          "translations": {
+            "zh-TW": "她正在辦公室休息室幫大家端咖啡過來。"
           }
         }
       ],
       "synonyms": [
         "retrieve",
-        "get"
+        "get",
+        "bring"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "send",
+        "deliver"
+      ],
       "phrases": [
-        "fetch",
-        "the",
-        "ball",
-        "fetch",
-        "water"
+        "fetch the ball",
+        "fetch a price",
+        "fetch up",
+        "go fetch"
       ]
     },
     {
@@ -160,44 +221,61 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "fevered",
+        "plural": "fevers",
+        "past": "fevered",
         "past_participle": "fevered",
-        "present_participle": "fevering",
-        "third_person": "fevers"
+        "ing": "fevering"
       },
-      "domain": "general",
+      "domain": "medical",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "fever",
-          "definition": "n. 發烧, 發热, 热病, [医] 發热, 热"
+          "definition": "n. 發燒、熱病、狂熱  v. 使發燒、使狂熱"
         }
       ],
       "examples": [
         {
-          "en": "She has a high fever.",
+          "en": "The child had a high fever and was taken to the clinic immediately.",
           "highlight": [
             "fever"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "那個孩子發高燒，立刻被送到診所就醫。"
+          }
+        },
+        {
+          "en": "Her fevers returned every evening, so the doctor ordered more tests.",
+          "highlight": [
+            "fevers"
+          ],
+          "translations": {
+            "zh-TW": "她每天傍晚都會反覆發燒，於是醫生安排了進一步檢查。"
+          }
+        },
+        {
+          "en": "He spent a fevered night tossing and turning, worried about the exam results.",
+          "highlight": [
+            "fevered"
+          ],
+          "translations": {
+            "zh-TW": "他因擔心考試成績，輾轉難眠地度過了一個焦躁不安的夜晚。"
           }
         }
       ],
       "synonyms": [
         "temperature",
-        "illness"
+        "heat",
+        "agitation"
       ],
       "antonyms": [
-        "normal",
-        "temperature"
+        "calm"
       ],
       "phrases": [
-        "high",
-        "fever",
-        "running",
-        "a",
-        "fever"
+        "high fever",
+        "run a fever",
+        "fever pitch",
+        "fever dream"
       ]
     },
     {
@@ -220,34 +298,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "few",
-          "definition": "a. 很少的, 不多的, 少数的, n. 少数"
+          "definition": "adj. 很少的、不多的  pron. 少數、幾個"
         }
       ],
       "examples": [
         {
-          "en": "Few people attended the meeting.",
+          "en": "Few employees attended the training session because of the snowstorm.",
           "highlight": [
             "few"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "因為暴風雪的關係，只有少數員工出席了培訓課程。"
+          }
+        },
+        {
+          "en": "There were fewer customers than usual at the restaurant on Tuesday evening.",
+          "highlight": [
+            "fewer"
+          ],
+          "translations": {
+            "zh-TW": "週二晚上餐廳的客人比平常少。"
+          }
+        },
+        {
+          "en": "The proposal received the fewest votes of any item on the agenda.",
+          "highlight": [
+            "fewest"
+          ],
+          "translations": {
+            "zh-TW": "這項提案在議程上的所有項目中獲得的票數最少。"
           }
         }
       ],
       "synonyms": [
         "some",
-        "not",
-        "many"
+        "several",
+        "handful"
       ],
       "antonyms": [
         "many",
-        "numerous"
+        "numerous",
+        "plentiful"
       ],
       "phrases": [
-        "few",
-        "people",
-        "few",
-        "options"
+        "a few",
+        "few people",
+        "very few",
+        "no fewer than"
       ]
     },
     {
@@ -262,44 +359,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "fielded",
+        "plural": "fields",
+        "present_3rd": "fields",
+        "past": "fielded",
         "past_participle": "fielded",
-        "present_participle": "fielding",
-        "third_person": "fields"
+        "ing": "fielding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "field",
-          "definition": "n. 领域, 田地, 場地, 战場, 場, 域, vt. 使...晒在場上, 使上場, a. 田間的, 野生的, 野外的, 田赛的, [计] 域, 字段"
+          "definition": "n. 田地、場地、領域、欄位  v. 接（球）、處理（問題）、派上場"
         }
       ],
       "examples": [
         {
-          "en": "They walked through the field.",
+          "en": "The new manager has years of experience in the field of digital marketing.",
           "highlight": [
             "field"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位新任經理在數位行銷領域擁有多年的經驗。"
+          }
+        },
+        {
+          "en": "The spokesperson fielded questions from reporters for over an hour.",
+          "highlight": [
+            "fielded"
+          ],
+          "translations": {
+            "zh-TW": "發言人回答記者們的問題長達一個多小時。"
+          }
+        },
+        {
+          "en": "She is fielding phone calls from worried clients all afternoon.",
+          "highlight": [
+            "fielding"
+          ],
+          "translations": {
+            "zh-TW": "整個下午她都在接聽焦慮客戶打來的電話。"
           }
         }
       ],
       "synonyms": [
         "meadow",
-        "pasture"
+        "pasture",
+        "domain"
       ],
       "antonyms": [
         "city",
-        "urban",
-        "area"
+        "urban area"
       ],
       "phrases": [
-        "corn",
-        "field",
-        "field",
-        "trip"
+        "track and field",
+        "field of study",
+        "field trip",
+        "play the field"
       ]
     },
     {
@@ -318,30 +434,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "fifteen",
-          "definition": "num. 十五, 十五個"
+          "definition": "num. 十五、十五個"
         }
       ],
       "examples": [
         {
-          "en": "She celebrated her fifteenth birthday.",
+          "en": "There are fifteen students enrolled in the advanced English course.",
           "highlight": [
             "fifteen"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "進階英語課程有十五名學生報名。"
+          }
+        },
+        {
+          "en": "The flight has been delayed by fifteen minutes due to bad weather.",
+          "highlight": [
+            "fifteen"
+          ],
+          "translations": {
+            "zh-TW": "由於天氣惡劣，班機延誤了十五分鐘。"
+          }
+        },
+        {
+          "en": "He started his first business at the age of fifteen, selling handmade crafts online.",
+          "highlight": [
+            "fifteen"
+          ],
+          "translations": {
+            "zh-TW": "他在十五歲時開始了第一份事業，在網路上販售手工藝品。"
           }
         }
       ],
       "synonyms": [
-        "15"
+        "15",
+        "a dozen and three"
       ],
       "antonyms": [],
       "phrases": [
-        "fifteen",
-        "minutes",
-        "fifteen",
-        "years",
-        "old"
+        "fifteen minutes",
+        "fifteen years old",
+        "fifteen percent",
+        "fifteen people"
       ]
     },
     {
@@ -363,29 +497,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "fifth",
-          "definition": "num. 第五, 五分之一"
+          "definition": "adj. 第五的  n. 五分之一、第五位"
         }
       ],
       "examples": [
         {
-          "en": "He finished in fifth place.",
+          "en": "She finished in fifth place at the national swimming championship.",
           "highlight": [
             "fifth"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在全國游泳錦標賽中獲得第五名。"
+          }
+        },
+        {
+          "en": "Two fifths of the company's revenue comes from overseas markets.",
+          "highlight": [
+            "fifths"
+          ],
+          "translations": {
+            "zh-TW": "該公司五分之二的營收來自海外市場。"
+          }
+        },
+        {
+          "en": "The fifth chapter of the report outlines the proposed budget for next year.",
+          "highlight": [
+            "fifth"
+          ],
+          "translations": {
+            "zh-TW": "報告的第五章概述了明年的預算提案。"
           }
         }
       ],
       "synonyms": [
-        "5th"
+        "5th",
+        "quintile"
       ],
       "antonyms": [],
       "phrases": [
-        "fifth",
-        "place",
-        "fifth",
-        "grade"
+        "fifth place",
+        "fifth grade",
+        "fifth floor",
+        "one fifth"
       ]
     },
     {
@@ -404,29 +557,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "fifty",
-          "definition": "num. 五十, 五十個"
+          "definition": "num. 五十、五十個"
         }
       ],
       "examples": [
         {
-          "en": "The book costs fifty dollars.",
+          "en": "The jacket was on sale for fifty dollars, half of its original price.",
           "highlight": [
             "fifty"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這件外套特價五十美元，是原價的一半。"
+          }
+        },
+        {
+          "en": "About fifty people gathered outside the Town Hall to protest the new policy.",
+          "highlight": [
+            "fifty"
+          ],
+          "translations": {
+            "zh-TW": "大約五十個人聚集在市政廳外抗議新政策。"
+          }
+        },
+        {
+          "en": "Fifty percent of the survey respondents said they were satisfied with the service.",
+          "highlight": [
+            "fifty"
+          ],
+          "translations": {
+            "zh-TW": "有百分之五十的問卷受訪者表示對服務感到滿意。"
           }
         }
       ],
       "synonyms": [
-        "50"
+        "50",
+        "half a hundred"
       ],
       "antonyms": [],
       "phrases": [
-        "fifty",
-        "dollars",
-        "fifty",
-        "percent"
+        "fifty dollars",
+        "fifty percent",
+        "fifty years",
+        "fifty-fifty"
       ]
     },
     {
@@ -441,43 +613,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "fighted",
-        "past_participle": "fighted",
-        "present_participle": "fighting",
-        "third_person": "fights"
+        "plural": "fights",
+        "present_3rd": "fights",
+        "past": "fought",
+        "past_participle": "fought",
+        "ing": "fighting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "fight",
-          "definition": "n. 打架, 争吵, 斗志, v. 對抗, 打架"
+          "definition": "v. 戰鬥、爭鬥、對抗、努力爭取  n. 打架、戰鬥、鬥志"
         }
       ],
       "examples": [
         {
-          "en": "They fight for their rights.",
+          "en": "The workers decided to fight for better pay and safer working conditions.",
           "highlight": [
             "fight"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "工人們決定為更好的薪酬和更安全的工作環境而抗爭。"
+          }
+        },
+        {
+          "en": "They fought bravely against the invaders and defended the city for weeks.",
+          "highlight": [
+            "fought"
+          ],
+          "translations": {
+            "zh-TW": "他們英勇地對抗入侵者，保衛了這座城市好幾週。"
+          }
+        },
+        {
+          "en": "The two companies have been fighting over the patent for nearly three years.",
+          "highlight": [
+            "fighting"
+          ],
+          "translations": {
+            "zh-TW": "這兩家公司為了這項專利已經爭訟將近三年了。"
           }
         }
       ],
       "synonyms": [
         "battle",
-        "combat"
+        "combat",
+        "struggle"
       ],
       "antonyms": [
         "peace",
-        "agreement"
+        "surrender"
       ],
       "phrases": [
-        "fight",
-        "for",
-        "fight",
-        "against"
+        "fight for",
+        "fight against",
+        "put up a fight",
+        "pick a fight"
       ]
     }
   ]
