@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 112,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-112-001",
@@ -11,48 +11,65 @@
       "toeic_score_min": 200,
       "word": "exaggerate",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "exaggerateed",
-        "past_participle": "exaggerateed",
-        "present_participle": "exaggerating",
-        "third_person": "exaggerates"
+        "present_3rd": "exaggerates",
+        "past": "exaggerated",
+        "past_participle": "exaggerated",
+        "ing": "exaggerating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "exaggerate",
-          "definition": "v. 夸大, 夸张"
+          "definition": "v. 誇大、誇張、言過其實"
         }
       ],
       "examples": [
         {
-          "en": "He tends to exaggerate his achievements.",
+          "en": "Salespeople often exaggerate the benefits of a product to close the deal.",
           "highlight": [
             "exaggerate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "業務員常把產品的好處誇大，以促成交易。"
+          }
+        },
+        {
+          "en": "The candidate exaggerated his role in the project during the interview.",
+          "highlight": [
+            "exaggerated"
+          ],
+          "translations": {
+            "zh-TW": "面試時這名應徵者誇大了他在專案中的角色。"
+          }
+        },
+        {
+          "en": "Stop exaggerating the risks — the investment is actually quite safe.",
+          "highlight": [
+            "exaggerating"
+          ],
+          "translations": {
+            "zh-TW": "別再誇大風險了——這項投資其實相當安全。"
           }
         }
       ],
       "synonyms": [
         "overstate",
-        "embellish"
+        "embellish",
+        "magnify"
       ],
       "antonyms": [
         "understate",
         "minimize"
       ],
       "phrases": [
-        "greatly",
-        "exaggerate",
-        "tend",
-        "to",
-        "exaggerate"
+        "exaggerate the truth",
+        "tend to exaggerate",
+        "greatly exaggerate",
+        "exaggerate claims"
       ]
     },
     {
@@ -67,43 +84,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "exaggerateded",
-        "past_participle": "exaggerateded",
-        "present_participle": "exaggerateding",
-        "third_person": "exaggerateds"
+        "past": "exaggerated",
+        "past_participle": "exaggerated",
+        "ing": "exaggerating",
+        "present_3rd": "exaggerates"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "exaggerated",
-          "definition": "a. 夸大的, 夸张的, 言過其實的"
+          "definition": "a. 誇大的、誇張的、言過其實的"
         }
       ],
       "examples": [
         {
-          "en": "The story was highly exaggerated.",
+          "en": "The report gave an exaggerated account of the company's losses.",
           "highlight": [
             "exaggerated"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這份報告對公司的虧損給出了誇大的描述。"
+          }
+        },
+        {
+          "en": "His exaggerated gestures made the presentation seem theatrical.",
+          "highlight": [
+            "exaggerated"
+          ],
+          "translations": {
+            "zh-TW": "他誇張的手勢讓簡報顯得像在演戲。"
+          }
+        },
+        {
+          "en": "The media has exaggerated the severity of the delay to attract viewers.",
+          "highlight": [
+            "exaggerated"
+          ],
+          "translations": {
+            "zh-TW": "媒體為了吸引觀眾，誇大了延誤的嚴重程度。"
           }
         }
       ],
       "synonyms": [
         "overstated",
-        "inflated"
+        "inflated",
+        "magnified"
       ],
       "antonyms": [
         "understated",
-        "realistic"
+        "realistic",
+        "moderate"
       ],
       "phrases": [
-        "highly",
-        "exaggerated",
-        "seem",
-        "exaggerated"
+        "highly exaggerated",
+        "exaggerated claims",
+        "exaggerated report",
+        "exaggerated facial expressions"
       ]
     },
     {
@@ -114,45 +151,59 @@
       "toeic_score_min": 200,
       "word": "exam",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "examed",
-        "past_participle": "examed",
-        "present_participle": "examing",
-        "third_person": "exams"
+        "plural": "exams"
       },
-      "domain": "general",
+      "domain": "education",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "exam",
-          "definition": "n. 考试, 测验"
+          "definition": "n. 考試、測驗（examination 的簡寫）"
         }
       ],
       "examples": [
         {
-          "en": "He passed the final exam.",
+          "en": "She passed the final exam with the highest score in her class.",
           "highlight": [
             "exam"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她以全班最高分通過了期末考試。"
+          }
+        },
+        {
+          "en": "Students are required to take three exams this semester.",
+          "highlight": [
+            "exams"
+          ],
+          "translations": {
+            "zh-TW": "學生本學期必須參加三場考試。"
+          }
+        },
+        {
+          "en": "He failed the entrance exam and had to retake it next year.",
+          "highlight": [
+            "exam"
+          ],
+          "translations": {
+            "zh-TW": "他沒通過入學考試，必須明年重考。"
           }
         }
       ],
       "synonyms": [
         "test",
-        "assessment"
+        "assessment",
+        "examination"
       ],
       "antonyms": [],
       "phrases": [
-        "final",
-        "exam",
-        "pass",
-        "an",
-        "exam"
+        "final exam",
+        "pass an exam",
+        "entrance exam",
+        "take an exam"
       ]
     },
     {
@@ -163,48 +214,62 @@
       "toeic_score_min": 200,
       "word": "examination",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "examinationed",
-        "past_participle": "examinationed",
-        "present_participle": "examinationing",
-        "third_person": "examinations"
+        "plural": "examinations"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "examination",
-          "definition": "n. 考试, 测验, 审查, [医] 检查, 诊察"
+          "definition": "n. 考試、審查、檢查、診察"
         }
       ],
       "examples": [
         {
-          "en": "The doctor performed a thorough examination.",
+          "en": "The doctor performed a thorough examination of the patient's heart.",
           "highlight": [
             "examination"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "醫生對病人的心臟進行了徹底的檢查。"
+          }
+        },
+        {
+          "en": "All applicants must pass a medical examination before starting work.",
+          "highlight": [
+            "examination"
+          ],
+          "translations": {
+            "zh-TW": "所有應徵者上工前都必須通過體檢。"
+          }
+        },
+        {
+          "en": "Customs officers conduct random examinations of imported goods.",
+          "highlight": [
+            "examinations"
+          ],
+          "translations": {
+            "zh-TW": "海關人員會對進口貨物進行隨機檢查。"
           }
         }
       ],
       "synonyms": [
         "inspection",
-        "check-up"
+        "check-up",
+        "review"
       ],
       "antonyms": [
         "glance",
-        "cursory",
-        "look"
+        "cursory look"
       ],
       "phrases": [
-        "medical",
-        "examination",
-        "thorough",
-        "examination"
+        "medical examination",
+        "thorough examination",
+        "physical examination",
+        "entrance examination"
       ]
     },
     {
@@ -215,47 +280,65 @@
       "toeic_score_min": 200,
       "word": "examine",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "examineed",
-        "past_participle": "examineed",
-        "present_participle": "examining",
-        "third_person": "examines"
+        "present_3rd": "examines",
+        "past": "examined",
+        "past_participle": "examined",
+        "ing": "examining"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "examine",
-          "definition": "v. 检查, 调查, 考试"
+          "definition": "v. 檢查、審查、仔細調查"
         }
       ],
       "examples": [
         {
-          "en": "The doctor examined the patient.",
+          "en": "The auditor will examine the company's financial records tomorrow.",
           "highlight": [
             "examine"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "稽核員明天將檢查公司的財務紀錄。"
+          }
+        },
+        {
+          "en": "The technician examined the machine before restarting the production line.",
+          "highlight": [
+            "examined"
+          ],
+          "translations": {
+            "zh-TW": "技術員在重啟生產線之前先檢查了機器。"
+          }
+        },
+        {
+          "en": "Engineers are currently examining the cause of the system failure.",
+          "highlight": [
+            "examining"
+          ],
+          "translations": {
+            "zh-TW": "工程師目前正在調查系統故障的原因。"
           }
         }
       ],
       "synonyms": [
         "inspect",
-        "scrutinize"
+        "scrutinize",
+        "investigate"
       ],
       "antonyms": [
         "ignore",
         "overlook"
       ],
       "phrases": [
-        "examine",
-        "thoroughly",
-        "examine",
-        "carefully"
+        "examine closely",
+        "examine carefully",
+        "examine the evidence",
+        "examine the documents"
       ]
     },
     {
@@ -266,45 +349,59 @@
       "toeic_score_min": 200,
       "word": "example",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "exampleed",
-        "past_participle": "exampleed",
-        "present_participle": "exampling",
-        "third_person": "examples"
+        "plural": "examples"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "example",
-          "definition": "n. 例子, 樣本, 實例, [化] 實例"
+          "definition": "n. 例子、範例、榜樣、實例"
         }
       ],
       "examples": [
         {
-          "en": "He is a good example for others.",
+          "en": "Her dedication to customers sets a good example for the whole team.",
           "highlight": [
             "example"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她對客戶的用心為整個團隊樹立了好榜樣。"
+          }
+        },
+        {
+          "en": "The textbook provides several examples to explain the grammar rule.",
+          "highlight": [
+            "examples"
+          ],
+          "translations": {
+            "zh-TW": "課本提供了幾個例子來解釋這條文法規則。"
+          }
+        },
+        {
+          "en": "Follow this example when filling out the application form.",
+          "highlight": [
+            "example"
+          ],
+          "translations": {
+            "zh-TW": "填寫申請表時請參照這個範例。"
           }
         }
       ],
       "synonyms": [
         "model",
-        "sample"
+        "sample",
+        "instance"
       ],
       "antonyms": [],
       "phrases": [
-        "give",
-        "an",
-        "example",
-        "prime",
-        "example"
+        "set an example",
+        "for example",
+        "give an example",
+        "prime example"
       ]
     },
     {
@@ -315,44 +412,61 @@
       "toeic_score_min": 200,
       "word": "excellent",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "excellents"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "excellent",
-          "definition": "a. 优良的, 杰出的, 出色的"
+          "definition": "a. 優秀的、傑出的、出色的"
         }
       ],
       "examples": [
         {
-          "en": "She did an excellent job.",
+          "en": "The candidate showed excellent communication skills during the interview.",
           "highlight": [
             "excellent"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這名應徵者在面試中展現了出色的溝通能力。"
+          }
+        },
+        {
+          "en": "Your report was excellent — the client really appreciated the clear analysis.",
+          "highlight": [
+            "excellent"
+          ],
+          "translations": {
+            "zh-TW": "你的報告很優秀——客戶非常欣賞清楚的分析。"
+          }
+        },
+        {
+          "en": "The hotel has an excellent reputation for customer service.",
+          "highlight": [
+            "excellent"
+          ],
+          "translations": {
+            "zh-TW": "這家飯店以優良的客服享有盛名。"
           }
         }
       ],
       "synonyms": [
         "outstanding",
-        "superb"
+        "superb",
+        "exceptional"
       ],
       "antonyms": [
         "poor",
+        "inferior",
         "bad"
       ],
       "phrases": [
-        "excellent",
-        "performance",
-        "excellent",
-        "quality"
+        "excellent performance",
+        "excellent quality",
+        "excellent service",
+        "excellent condition"
       ]
     },
     {
@@ -372,33 +486,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "except",
-          "definition": "vt. 除, 除外, vi. 反對, prep. 除了...之外, 若不是, 除非, conj. 只是"
+          "definition": "prep. 除了…之外  conj. 只是、除非"
         }
       ],
       "examples": [
         {
-          "en": "Everyone is here except John.",
+          "en": "All employees received a bonus except the new hires.",
           "highlight": [
             "except"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "除了新進員工外，所有員工都領到了獎金。"
+          }
+        },
+        {
+          "en": "The shop is open every day except on national holidays.",
+          "highlight": [
+            "except"
+          ],
+          "translations": {
+            "zh-TW": "這家店除國定假日外每天都營業。"
+          }
+        },
+        {
+          "en": "She would have accepted the offer, except the salary was too low.",
+          "highlight": [
+            "except"
+          ],
+          "translations": {
+            "zh-TW": "她原本會接受這份工作，只是薪水太低了。"
           }
         }
       ],
       "synonyms": [
         "excluding",
-        "besides"
+        "but",
+        "apart from"
       ],
       "antonyms": [
         "including",
         "with"
       ],
       "phrases": [
-        "everyone",
-        "except",
-        "except",
-        "for"
+        "except for",
+        "everyone except",
+        "except on",
+        "nothing except"
       ]
     },
     {
@@ -409,48 +542,62 @@
       "toeic_score_min": 200,
       "word": "exception",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "exceptioned",
-        "past_participle": "exceptioned",
-        "present_participle": "exceptioning",
-        "third_person": "exceptions"
+        "plural": "exceptions"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "exception",
-          "definition": "n. 例外, 除外, 异議, [计] 例外; 异常"
+          "definition": "n. 例外、除外、異議"
         }
       ],
       "examples": [
         {
-          "en": "There is an exception to every rule.",
+          "en": "The refund policy is strict, but the manager may make an exception for loyal customers.",
           "highlight": [
             "exception"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "退款政策很嚴格，但經理可能會為老客戶破例。"
+          }
+        },
+        {
+          "en": "There are a few exceptions to the rule regarding late payments.",
+          "highlight": [
+            "exceptions"
+          ],
+          "translations": {
+            "zh-TW": "關於逾期付款，這條規則有幾個例外。"
+          }
+        },
+        {
+          "en": "Without exception, all staff members must attend the safety training.",
+          "highlight": [
+            "exception"
+          ],
+          "translations": {
+            "zh-TW": "毫無例外地，所有員工都必須參加安全培訓。"
           }
         }
       ],
       "synonyms": [
         "anomaly",
-        "deviation"
+        "deviation",
+        "exclusion"
       ],
       "antonyms": [
         "rule",
         "norm"
       ],
       "phrases": [
-        "make",
-        "an",
-        "exception",
-        "rare",
-        "exception"
+        "make an exception",
+        "rare exception",
+        "without exception",
+        "exception to the rule"
       ]
     },
     {
@@ -465,43 +612,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "exchangeed",
-        "past_participle": "exchangeed",
-        "present_participle": "exchanging",
-        "third_person": "exchanges"
+        "plural": "exchanges",
+        "present_3rd": "exchanges",
+        "past": "exchanged",
+        "past_participle": "exchanged",
+        "ing": "exchanging"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "exchange",
-          "definition": "n. 交换, (电话)交换局, 交换机, 汇兑, 交易所, v. 交换, 交易, 兑换, [计] 交换; 电话局"
+          "definition": "n. 交換、交易、匯兌  v. 交換、兌換"
         }
       ],
       "examples": [
         {
-          "en": "They had a lively exchange of ideas.",
+          "en": "The two companies agreed to exchange information about their new products.",
           "highlight": [
             "exchange"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "兩家公司同意交換新產品的相關資訊。"
+          }
+        },
+        {
+          "en": "She exchanged the shoes for a smaller size at the customer service desk.",
+          "highlight": [
+            "exchanged"
+          ],
+          "translations": {
+            "zh-TW": "她在客服櫃台把鞋子換成了較小的尺寸。"
+          }
+        },
+        {
+          "en": "Students from different countries are exchanging ideas during the workshop.",
+          "highlight": [
+            "exchanging"
+          ],
+          "translations": {
+            "zh-TW": "來自不同國家的學生正在工作坊中交流意見。"
           }
         }
       ],
       "synonyms": [
         "trade",
-        "swap"
+        "swap",
+        "substitute"
       ],
       "antonyms": [
         "retention",
-        "holding"
+        "keeping"
       ],
       "phrases": [
-        "foreign",
-        "exchange",
-        "currency",
-        "exchange"
+        "exchange rate",
+        "foreign exchange",
+        "in exchange for",
+        "exchange ideas"
       ]
     }
   ]
