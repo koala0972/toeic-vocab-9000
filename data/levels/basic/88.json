@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 88,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-088-001",
@@ -11,48 +11,63 @@
       "toeic_score_min": 200,
       "word": "determined",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "determineded",
-        "past_participle": "determineded",
-        "present_participle": "determineding",
-        "third_person": "determineds"
+        "comparative": "more determined",
+        "superlative": "most determined"
       },
-      "domain": "general",
+      "domain": "attitude",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "determined",
-          "definition": "a. 坚决的, 已下决心的"
+          "definition": "a. 堅決的、下定決心的"
         }
       ],
       "examples": [
         {
-          "en": "She is determined to finish the project.",
+          "en": "She is determined to finish the report before the deadline.",
           "highlight": [
             "determined"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她下定決心要在截止日期前完成這份報告。"
+          }
+        },
+        {
+          "en": "The second candidate seemed even more determined than the first.",
+          "highlight": [
+            "more determined"
+          ],
+          "translations": {
+            "zh-TW": "第二位應徵者看起來比第一位更加堅決。"
+          }
+        },
+        {
+          "en": "He was the most determined member of the entire sales team.",
+          "highlight": [
+            "most determined"
+          ],
+          "translations": {
+            "zh-TW": "他是整個業務團隊中最有決心的一員。"
           }
         }
       ],
       "synonyms": [
         "resolute",
-        "resolute"
+        "firm",
+        "steadfast"
       ],
       "antonyms": [
         "indecisive",
         "hesitant"
       ],
       "phrases": [
-        "determined",
-        "effort",
-        "determined",
-        "to",
-        "succeed"
+        "determined to succeed",
+        "determined effort",
+        "strong and determined",
+        "determined attitude"
       ]
     },
     {
@@ -63,47 +78,65 @@
       "toeic_score_min": 200,
       "word": "develop",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "developed",
+        "present_3rd": "develops",
+        "past": "developed",
         "past_participle": "developed",
-        "present_participle": "developing",
-        "third_person": "develops"
+        "ing": "developing"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "develop",
-          "definition": "vt. 發展, 使發达, 进步, 洗印, 顯影, vi. 發展, 生長"
+          "definition": "v. 發展、開發、養成"
         }
       ],
       "examples": [
         {
-          "en": "The company plans to develop new products.",
+          "en": "Our company plans to develop a new line of eco-friendly products.",
           "highlight": [
             "develop"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們公司計畫開發一系列新的環保產品。"
+          }
+        },
+        {
+          "en": "The engineer developed a faster way to test the software last quarter.",
+          "highlight": [
+            "developed"
+          ],
+          "translations": {
+            "zh-TW": "工程師在上個季度開發出更快速的軟體測試方法。"
+          }
+        },
+        {
+          "en": "They are developing a training program for new employees.",
+          "highlight": [
+            "developing"
+          ],
+          "translations": {
+            "zh-TW": "他們正在為新進員工規劃一套培訓計畫。"
           }
         }
       ],
       "synonyms": [
-        "expand",
-        "grow"
+        "build",
+        "create",
+        "expand"
       ],
       "antonyms": [
         "decline",
         "regress"
       ],
       "phrases": [
-        "develop",
-        "skills",
-        "develop",
-        "rapidly"
+        "develop a product",
+        "develop skills",
+        "develop a market",
+        "develop a strategy"
       ]
     },
     {
@@ -114,47 +147,62 @@
       "toeic_score_min": 200,
       "word": "development",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "developmented",
-        "past_participle": "developmented",
-        "present_participle": "developmenting",
-        "third_person": "developments"
+        "plural": "developments"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "development",
-          "definition": "n. 發展, [化] 展开"
+          "definition": "n. 發展、開發、成長"
         }
       ],
       "examples": [
         {
-          "en": "The development of the new software is underway.",
+          "en": "The development of the new software took almost two years.",
           "highlight": [
             "development"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這套新軟體的開發花了將近兩年。"
+          }
+        },
+        {
+          "en": "Recent developments in technology have changed the way we work.",
+          "highlight": [
+            "developments"
+          ],
+          "translations": {
+            "zh-TW": "近來科技的各項發展改變了我們的工作方式。"
+          }
+        },
+        {
+          "en": "The HR department focuses on staff development and training.",
+          "highlight": [
+            "development"
+          ],
+          "translations": {
+            "zh-TW": "人資部門專注於員工的發展與培訓。"
           }
         }
       ],
       "synonyms": [
-        "advancement",
-        "growth"
+        "growth",
+        "progress",
+        "advancement"
       ],
       "antonyms": [
-        "stagnation",
-        "halt"
+        "decline",
+        "stagnation"
       ],
       "phrases": [
-        "economic",
-        "development",
-        "sustainable",
-        "development"
+        "economic development",
+        "product development",
+        "career development",
+        "sustainable development"
       ]
     },
     {
@@ -165,44 +213,59 @@
       "toeic_score_min": 200,
       "word": "device",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "deviceed",
-        "past_participle": "deviceed",
-        "present_participle": "devicing",
-        "third_person": "devices"
+        "plural": "devices"
       },
-      "domain": "general",
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "device",
-          "definition": "n. 装置, 设计, 策略, 發明物, 设备, [计] 设备; DOS内部命令:该命令要求DOS安装一個设备驱動程序"
+          "definition": "n. 裝置、設備、器具"
         }
       ],
       "examples": [
         {
-          "en": "She uses a device to track her fitness.",
+          "en": "This small device can measure your heart rate in seconds.",
           "highlight": [
             "device"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這個小裝置能在幾秒內測量你的心率。"
+          }
+        },
+        {
+          "en": "Visitors are asked to turn off all electronic devices during the meeting.",
+          "highlight": [
+            "devices"
+          ],
+          "translations": {
+            "zh-TW": "訪客在會議期間請關閉所有電子設備。"
+          }
+        },
+        {
+          "en": "The company designed a tracking device for logistics companies.",
+          "highlight": [
+            "device"
+          ],
+          "translations": {
+            "zh-TW": "公司為物流業者設計了一款追蹤裝置。"
           }
         }
       ],
       "synonyms": [
         "gadget",
-        "tool"
+        "tool",
+        "instrument"
       ],
       "antonyms": [],
       "phrases": [
-        "electronic",
-        "device",
-        "medical",
-        "device"
+        "electronic device",
+        "mobile device",
+        "tracking device",
+        "medical device"
       ]
     },
     {
@@ -213,47 +276,65 @@
       "toeic_score_min": 200,
       "word": "devote",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "devoteed",
-        "past_participle": "devoteed",
-        "present_participle": "devoting",
-        "third_person": "devotes"
+        "present_3rd": "devotes",
+        "past": "devoted",
+        "past_participle": "devoted",
+        "ing": "devoting"
       },
-      "domain": "general",
+      "domain": "commitment",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "devote",
-          "definition": "vt. 投入于, 献身"
+          "definition": "v. 奉獻、投入（時間、精力）"
         }
       ],
       "examples": [
         {
-          "en": "She devoted her life to helping the poor.",
+          "en": "She plans to devote more time to her family this year.",
           "highlight": [
             "devote"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她今年打算投入更多時間陪伴家人。"
+          }
+        },
+        {
+          "en": "He devoted his career to researching renewable energy.",
+          "highlight": [
+            "devoted"
+          ],
+          "translations": {
+            "zh-TW": "他把整個職業生涯奉獻給再生能源的研究。"
+          }
+        },
+        {
+          "en": "By devoting extra hours to practice, the team improved quickly.",
+          "highlight": [
+            "devoting"
+          ],
+          "translations": {
+            "zh-TW": "透過投入額外的練習時數，團隊進步得很快。"
           }
         }
       ],
       "synonyms": [
         "dedicate",
-        "allocate"
+        "commit",
+        "apply"
       ],
       "antonyms": [
         "neglect",
         "ignore"
       ],
       "phrases": [
-        "devote",
-        "time",
-        "devote",
-        "energy"
+        "devote time to",
+        "devote oneself to",
+        "devote energy to",
+        "devote resources to"
       ]
     },
     {
@@ -264,47 +345,63 @@
       "toeic_score_min": 200,
       "word": "devoted",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "devoteded",
-        "past_participle": "devoteded",
-        "present_participle": "devoteding",
-        "third_person": "devoteds"
+        "comparative": "more devoted",
+        "superlative": "most devoted"
       },
-      "domain": "general",
+      "domain": "attitude",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "devoted",
-          "definition": "a. 投入的, 深爱的"
+          "definition": "a. 忠誠的、全心全意的"
         }
       ],
       "examples": [
         {
-          "en": "He is a devoted husband.",
+          "en": "He is a devoted supporter of the local soccer team.",
           "highlight": [
             "devoted"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他是當地足球隊的忠實支持者。"
+          }
+        },
+        {
+          "en": "She became even more devoted to the project after its success.",
+          "highlight": [
+            "more devoted"
+          ],
+          "translations": {
+            "zh-TW": "計畫成功之後，她對這個專案變得更加投入。"
+          }
+        },
+        {
+          "en": "They are the most devoted volunteers at the community center.",
+          "highlight": [
+            "most devoted"
+          ],
+          "translations": {
+            "zh-TW": "他們是社區中心裡最盡心的志工。"
           }
         }
       ],
       "synonyms": [
         "loyal",
-        "faithful"
+        "faithful",
+        "dedicated"
       ],
       "antonyms": [
         "disloyal",
         "unfaithful"
       ],
       "phrases": [
-        "devoted",
-        "fan",
-        "devoted",
-        "friend"
+        "devoted friend",
+        "devoted husband",
+        "devoted fan",
+        "devoted to one's family"
       ]
     },
     {
@@ -315,45 +412,59 @@
       "toeic_score_min": 200,
       "word": "diagram",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "diagramed",
-        "past_participle": "diagramed",
-        "present_participle": "diagraming",
-        "third_person": "diagrams"
+        "plural": "diagrams"
       },
-      "domain": "general",
+      "domain": "visual",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "diagram",
-          "definition": "n. 图表；图解"
+          "definition": "n. 圖表、示意圖、圖解"
         }
       ],
       "examples": [
         {
-          "en": "The diagram shows the parts of the engine.",
+          "en": "Please look at the diagram on page twelve of the report.",
           "highlight": [
             "diagram"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請看報告第十二頁的圖表。"
+          }
+        },
+        {
+          "en": "The engineer drew several diagrams to explain how the machine works.",
+          "highlight": [
+            "diagrams"
+          ],
+          "translations": {
+            "zh-TW": "工程師畫了幾張示意圖來解釋機器如何運作。"
+          }
+        },
+        {
+          "en": "We need a clear diagram to show the new office layout.",
+          "highlight": [
+            "diagram"
+          ],
+          "translations": {
+            "zh-TW": "我們需要一張清楚的圖表來呈現新的辦公室格局。"
           }
         }
       ],
       "synonyms": [
         "chart",
-        "schematic"
+        "scheme",
+        "sketch"
       ],
       "antonyms": [],
       "phrases": [
-        "create",
-        "a",
-        "diagram",
-        "draw",
-        "a"
+        "draw a diagram",
+        "block diagram",
+        "flow diagram",
+        "labeled diagram"
       ]
     },
     {
@@ -364,44 +475,59 @@
       "toeic_score_min": 200,
       "word": "diamond",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "diamonded",
-        "past_participle": "diamonded",
-        "present_participle": "diamonding",
-        "third_person": "diamonds"
+        "plural": "diamonds"
       },
-      "domain": "general",
+      "domain": "object",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "diamond",
-          "definition": "n. 钻石, 菱形, [计] 菱形"
+          "definition": "n. 鑽石、菱形"
         }
       ],
       "examples": [
         {
-          "en": "She received a diamond ring.",
+          "en": "He bought her a diamond ring for their anniversary.",
           "highlight": [
             "diamond"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他為他們的紀念日買了一枚鑽石戒指給她。"
+          }
+        },
+        {
+          "en": "Several rare diamonds will be shown at the jewelry exhibition next month.",
+          "highlight": [
+            "diamonds"
+          ],
+          "translations": {
+            "zh-TW": "幾顆稀有的鑽石將在下個月的珠寶展中展出。"
+          }
+        },
+        {
+          "en": "The tennis player hit a perfect diamond shot during the match.",
+          "highlight": [
+            "diamond"
+          ],
+          "translations": {
+            "zh-TW": "這位網球選手在比賽中打出了完美的菱形角度球。"
           }
         }
       ],
       "synonyms": [
         "gem",
-        "jewel"
+        "jewel",
+        "rhombus"
       ],
       "antonyms": [],
       "phrases": [
-        "diamond",
-        "necklace",
-        "diamond",
-        "mine"
+        "diamond ring",
+        "diamond necklace",
+        "diamond mine",
+        "baseball diamond"
       ]
     },
     {
@@ -412,45 +538,59 @@
       "toeic_score_min": 200,
       "word": "diary",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "diaryed",
-        "past_participle": "diaryed",
-        "present_participle": "diarying",
-        "third_person": "diarys"
+        "plural": "diaries"
       },
-      "domain": "general",
+      "domain": "writing",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "diary",
-          "definition": "n. 日記, [經] 日記簿"
+          "definition": "n. 日記、日記簿、行事曆"
         }
       ],
       "examples": [
         {
-          "en": "She writes in her diary every day.",
+          "en": "She writes in her diary every night before bed.",
           "highlight": [
             "diary"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她每晚睡前都會寫日記。"
+          }
+        },
+        {
+          "en": "The historian discovered several old diaries from the nineteenth century.",
+          "highlight": [
+            "diaries"
+          ],
+          "translations": {
+            "zh-TW": "歷史學家發現了數本來自十九世紀的舊日記。"
+          }
+        },
+        {
+          "en": "Please check your diary before booking the meeting room.",
+          "highlight": [
+            "diary"
+          ],
+          "translations": {
+            "zh-TW": "預約會議室之前，請先查看你的行事曆。"
           }
         }
       ],
       "synonyms": [
         "journal",
-        "log"
+        "log",
+        "record"
       ],
       "antonyms": [],
       "phrases": [
-        "keep",
-        "a",
-        "diary",
-        "write",
-        "in"
+        "keep a diary",
+        "write in a diary",
+        "diary entry",
+        "diary planner"
       ]
     },
     {
@@ -461,44 +601,59 @@
       "toeic_score_min": 200,
       "word": "dictionary",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "dictionaryed",
-        "past_participle": "dictionaryed",
-        "present_participle": "dictionarying",
-        "third_person": "dictionarys"
+        "plural": "dictionaries"
       },
-      "domain": "general",
+      "domain": "reference",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dictionary",
-          "definition": "n. 字典, 词典, [计] 词典"
+          "definition": "n. 字典、辭典"
         }
       ],
       "examples": [
         {
-          "en": "You can find the meaning of words in a dictionary.",
+          "en": "If you are not sure of the spelling, check the dictionary.",
           "highlight": [
             "dictionary"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "如果不確定拼字，就查一下字典。"
+          }
+        },
+        {
+          "en": "The library has over fifty different dictionaries for learners.",
+          "highlight": [
+            "dictionaries"
+          ],
+          "translations": {
+            "zh-TW": "圖書館有超過五十本針對學習者的不同辭典。"
+          }
+        },
+        {
+          "en": "An online dictionary is often faster than a printed one.",
+          "highlight": [
+            "dictionary"
+          ],
+          "translations": {
+            "zh-TW": "線上字典通常比印刷字典更快速。"
           }
         }
       ],
       "synonyms": [
         "lexicon",
-        "glossary"
+        "glossary",
+        "wordbook"
       ],
       "antonyms": [],
       "phrases": [
-        "pocket",
-        "dictionary",
-        "bilingual",
-        "dictionary"
+        "look up in a dictionary",
+        "online dictionary",
+        "bilingual dictionary",
+        "pocket dictionary"
       ]
     }
   ]
