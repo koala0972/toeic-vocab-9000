@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 100,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-100-001",
@@ -14,40 +14,59 @@
         "adjective"
       ],
       "conjugations": {
-        "comparative": "easterner",
-        "superlative": "easternest"
+        "comparative": "more eastern",
+        "superlative": "most eastern"
       },
-      "domain": "general",
+      "domain": "geography",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "eastern",
-          "definition": "n. 东方人, 东正教徒, a. 东方的, 向东的, 自东的"
+          "definition": "adj. 東方的、東部的、來自東方的"
         }
       ],
       "examples": [
         {
-          "en": "They live in the eastern part of the city.",
+          "en": "Our company's eastern branch handles most of the regional sales.",
           "highlight": [
             "eastern"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們公司的東部分支負責大部分的區域銷售業務。"
+          }
+        },
+        {
+          "en": "Osaka is more eastern than Tokyo when you look at the whole map carefully.",
+          "highlight": [
+            "more eastern"
+          ],
+          "translations": {
+            "zh-TW": "仔細看整張地圖時，大阪比東京更偏東方。"
+          }
+        },
+        {
+          "en": "The most eastern province exports most of the country's seafood.",
+          "highlight": [
+            "most eastern"
+          ],
+          "translations": {
+            "zh-TW": "最東邊的省份出口了該國大部分的海鮮。"
           }
         }
       ],
       "synonyms": [
         "oriental",
-        "eastward"
+        "eastward",
+        "easterly"
       ],
       "antonyms": [
         "western"
       ],
       "phrases": [
-        "eastern",
-        "culture",
-        "eastern",
-        "region"
+        "eastern culture",
+        "eastern region",
+        "eastern europe",
+        "eastern seaboard"
       ]
     },
     {
@@ -59,43 +78,63 @@
       "word": "easy",
       "pos": [
         "adjective",
-        "noun"
+        "adverb"
       ],
       "conjugations": {
-        "plural": "easies"
+        "comparative": "easier",
+        "superlative": "easiest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "easy",
-          "definition": "a. 容易的, 缓缓的, 舒适的, 从容的, 宽容的, 流畅的, 随便的, 自在的, 疲软的, adv. 容易地, 慢慢地"
+          "definition": "adj. 容易的、輕鬆的、舒適的  adv. 輕鬆地、不費力地"
         }
       ],
       "examples": [
         {
-          "en": "The exam was easy.",
+          "en": "The registration process on the new website is quite easy.",
           "highlight": [
             "easy"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新網站上的註冊流程相當容易。"
+          }
+        },
+        {
+          "en": "Online banking is easier than visiting the branch in person.",
+          "highlight": [
+            "easier"
+          ],
+          "translations": {
+            "zh-TW": "網路銀行比親自跑分行還要更輕鬆。"
+          }
+        },
+        {
+          "en": "This is the easiest report I have ever written in my career.",
+          "highlight": [
+            "easiest"
+          ],
+          "translations": {
+            "zh-TW": "這是我職業生涯寫過最輕鬆的一份報告。"
           }
         }
       ],
       "synonyms": [
         "simple",
-        "effortless"
+        "effortless",
+        "straightforward"
       ],
       "antonyms": [
         "difficult",
         "hard"
       ],
       "phrases": [
-        "easy",
-        "task",
-        "easy",
-        "access"
+        "easy access",
+        "easy task",
+        "take it easy",
+        "easy money"
       ]
     },
     {
@@ -110,43 +149,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "eated",
-        "past_participle": "eated",
-        "present_participle": "eating",
-        "third_person": "eats"
+        "plural": "eats",
+        "present_3rd": "eats",
+        "past": "ate",
+        "past_participle": "eaten",
+        "ing": "eating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "eat",
-          "definition": "v. 吃, 腐蚀"
+          "definition": "v. 吃、進食、消耗  n. 食物、小吃"
         }
       ],
       "examples": [
         {
-          "en": "They ate dinner together.",
+          "en": "We usually eat lunch at the cafeteria across the street.",
           "highlight": [
             "eat"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們通常在對街的自助餐廳吃午餐。"
+          }
+        },
+        {
+          "en": "The clients ate at a famous steakhouse during their business trip.",
+          "highlight": [
+            "ate"
+          ],
+          "translations": {
+            "zh-TW": "客戶在出差期間到一家知名的牛排館用餐。"
+          }
+        },
+        {
+          "en": "All the pastries in the lounge have been eaten by the visitors.",
+          "highlight": [
+            "eaten"
+          ],
+          "translations": {
+            "zh-TW": "休息室裡的糕點全被訪客吃光了。"
           }
         }
       ],
       "synonyms": [
         "consume",
-        "ingest"
+        "dine",
+        "devour"
       ],
       "antonyms": [
         "fast",
         "abstain"
       ],
       "phrases": [
-        "eat",
-        "out",
-        "eat",
-        "in"
+        "eat out",
+        "eat in",
+        "eat up",
+        "eating habits"
       ]
     },
     {
@@ -157,44 +216,63 @@
       "toeic_score_min": 200,
       "word": "economic",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "economics"
+        "comparative": "more economic",
+        "superlative": "most economic"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "economic",
-          "definition": "a. 經济上的, 實用的, 节省的, [經] 經济的"
+          "definition": "adj. 經濟上的、經濟學的、有利可圖的"
         }
       ],
       "examples": [
         {
-          "en": "The country is facing economic challenges.",
+          "en": "The government announced a new economic policy to boost exports.",
           "highlight": [
             "economic"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "政府宣布了一項新的經濟政策以促進出口。"
+          }
+        },
+        {
+          "en": "Rail freight is more economic than air cargo for heavy goods.",
+          "highlight": [
+            "more economic"
+          ],
+          "translations": {
+            "zh-TW": "對於重型貨物而言，鐵路貨運比空運更符合經濟效益。"
+          }
+        },
+        {
+          "en": "This is the most economic solution the consulting firm has proposed.",
+          "highlight": [
+            "most economic"
+          ],
+          "translations": {
+            "zh-TW": "這是顧問公司所提出最符合經濟效益的解決方案。"
           }
         }
       ],
       "synonyms": [
         "financial",
-        "fiscal"
+        "fiscal",
+        "profitable"
       ],
       "antonyms": [
         "uneconomic",
         "unprofitable"
       ],
       "phrases": [
-        "economic",
-        "growth",
-        "economic",
-        "policy"
+        "economic growth",
+        "economic policy",
+        "economic crisis",
+        "economic development"
       ]
     },
     {
@@ -205,47 +283,62 @@
       "toeic_score_min": 200,
       "word": "economy",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "economyed",
-        "past_participle": "economyed",
-        "present_participle": "economying",
-        "third_person": "economys"
+        "plural": "economies"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "economy",
-          "definition": "n. 經济, 理财, 节约, [医] 經济, 整体"
+          "definition": "n. 經濟、節約、理財"
         }
       ],
       "examples": [
         {
-          "en": "The economy is growing.",
+          "en": "The global economy has shown signs of steady recovery this quarter.",
           "highlight": [
             "economy"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "本季全球經濟已出現穩定復甦的跡象。"
+          }
+        },
+        {
+          "en": "Several Asian economies grew faster than analysts had predicted.",
+          "highlight": [
+            "economies"
+          ],
+          "translations": {
+            "zh-TW": "幾個亞洲經濟體的成長速度超過分析師的預測。"
+          }
+        },
+        {
+          "en": "Travellers on a tight budget often choose economy class for long flights.",
+          "highlight": [
+            "economy"
+          ],
+          "translations": {
+            "zh-TW": "預算有限的旅客在長途航班上通常會選擇經濟艙。"
           }
         }
       ],
       "synonyms": [
         "market",
-        "system"
+        "system",
+        "thrift"
       ],
       "antonyms": [
-        "depression",
-        "recession"
+        "extravagance",
+        "waste"
       ],
       "phrases": [
-        "global",
-        "economy",
-        "local",
-        "economy"
+        "global economy",
+        "local economy",
+        "economy class",
+        "economy of scale"
       ]
     },
     {
@@ -260,43 +353,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "edgeed",
-        "past_participle": "edgeed",
-        "present_participle": "edging",
-        "third_person": "edges"
+        "plural": "edges",
+        "present_3rd": "edges",
+        "past": "edged",
+        "past_participle": "edged",
+        "ing": "edging"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "edge",
-          "definition": "n. 边缘, 尖锐, 刀刃, 优势, vt. 使锐利, 挤进, 镶边, vi. 缓缓移動"
+          "definition": "n. 邊緣、刀刃、優勢  v. 緩慢移動、使鋒利"
         }
       ],
       "examples": [
         {
-          "en": "She stood at the edge of the cliff.",
+          "en": "Please place your laptop near the edge of the conference table.",
           "highlight": [
             "edge"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請將您的筆記型電腦放在會議桌的邊緣附近。"
+          }
+        },
+        {
+          "en": "The startup edged past its main rival in last quarter's market share.",
+          "highlight": [
+            "edged"
+          ],
+          "translations": {
+            "zh-TW": "這家新創公司在上季的市佔率險勝了主要競爭對手。"
+          }
+        },
+        {
+          "en": "Interest rates are edging higher as inflation pressure continues.",
+          "highlight": [
+            "edging"
+          ],
+          "translations": {
+            "zh-TW": "隨著通膨壓力持續，利率正緩步攀升。"
           }
         }
       ],
       "synonyms": [
         "border",
-        "margin"
+        "margin",
+        "brink"
       ],
       "antonyms": [
         "center",
         "middle"
       ],
       "phrases": [
-        "sharp",
-        "edge",
-        "cutting",
-        "edge"
+        "sharp edge",
+        "cutting edge",
+        "competitive edge",
+        "edge out"
       ]
     },
     {
@@ -307,44 +420,59 @@
       "toeic_score_min": 200,
       "word": "edition",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "editioned",
-        "past_participle": "editioned",
-        "present_participle": "editioning",
-        "third_person": "editions"
+        "plural": "editions"
       },
-      "domain": "general",
+      "domain": "publishing",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "edition",
-          "definition": "n. 版本, 版, 翻版"
+          "definition": "n. 版本、版次、發行版本"
         }
       ],
       "examples": [
         {
-          "en": "The second edition of the book was released.",
+          "en": "The latest edition of the magazine features an interview with the CEO.",
           "highlight": [
             "edition"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "最新一期的雜誌刊登了執行長的專訪。"
+          }
+        },
+        {
+          "en": "Several previous editions of the manual can still be downloaded online.",
+          "highlight": [
+            "editions"
+          ],
+          "translations": {
+            "zh-TW": "先前的幾個版本手冊仍然可以在網路上下載。"
+          }
+        },
+        {
+          "en": "The publisher released a special anniversary edition of the textbook.",
+          "highlight": [
+            "edition"
+          ],
+          "translations": {
+            "zh-TW": "出版商發行了該教科書的週年紀念特版。"
           }
         }
       ],
       "synonyms": [
         "issue",
-        "version"
+        "version",
+        "release"
       ],
       "antonyms": [],
       "phrases": [
-        "new",
-        "edition",
-        "first",
-        "edition"
+        "new edition",
+        "first edition",
+        "special edition",
+        "latest edition"
       ]
     },
     {
@@ -355,44 +483,59 @@
       "toeic_score_min": 200,
       "word": "editor",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "editored",
-        "past_participle": "editored",
-        "present_participle": "editoring",
-        "third_person": "editors"
+        "plural": "editors"
       },
-      "domain": "general",
+      "domain": "publishing",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "editor",
-          "definition": "n. 编者, 编辑, 主笔, 编辑器, 编辑装置, [计] 编辑器"
+          "definition": "n. 編輯、主筆、剪輯師"
         }
       ],
       "examples": [
         {
-          "en": "The editor revised the article.",
+          "en": "The editor carefully reviewed every paragraph before publication.",
           "highlight": [
             "editor"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "編輯在出版前仔細審閱了每一段文字。"
+          }
+        },
+        {
+          "en": "Several editors worked together to finalize the annual report.",
+          "highlight": [
+            "editors"
+          ],
+          "translations": {
+            "zh-TW": "幾位編輯共同合作完成了年鑑的最終定稿。"
+          }
+        },
+        {
+          "en": "She has been the magazine's editor for nearly a decade.",
+          "highlight": [
+            "editor"
+          ],
+          "translations": {
+            "zh-TW": "她擔任該雜誌的主編已近十年之久。"
           }
         }
       ],
       "synonyms": [
         "journalist",
-        "reviser"
+        "reviser",
+        "compiler"
       ],
       "antonyms": [],
       "phrases": [
-        "chief",
-        "editor",
-        "magazine",
-        "editor"
+        "chief editor",
+        "editor in chief",
+        "magazine editor",
+        "video editor"
       ]
     },
     {
@@ -403,48 +546,65 @@
       "toeic_score_min": 200,
       "word": "educate",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "educateed",
-        "past_participle": "educateed",
-        "present_participle": "educating",
-        "third_person": "educates"
+        "present_3rd": "educates",
+        "past": "educated",
+        "past_participle": "educated",
+        "ing": "educating"
       },
-      "domain": "general",
+      "domain": "education",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "educate",
-          "definition": "vt. 教育, 培养, 训练"
+          "definition": "v. 教育、培養、訓練"
         }
       ],
       "examples": [
         {
-          "en": "Teachers educate students.",
+          "en": "The company educates its staff on data security every quarter.",
           "highlight": [
-            "educate"
+            "educates"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司每季都會對員工進行資料安全方面的教育訓練。"
+          }
+        },
+        {
+          "en": "The instructor educated the new hires on workplace safety procedures.",
+          "highlight": [
+            "educated"
+          ],
+          "translations": {
+            "zh-TW": "講師針對職場安全流程對新進員工進行了培訓。"
+          }
+        },
+        {
+          "en": "The workshop is aimed at educating consumers about sustainable products.",
+          "highlight": [
+            "educating"
+          ],
+          "translations": {
+            "zh-TW": "該研討會旨在教育消費者認識永續產品。"
           }
         }
       ],
       "synonyms": [
         "teach",
-        "instruct"
+        "instruct",
+        "train"
       ],
       "antonyms": [
         "ignore",
         "neglect"
       ],
       "phrases": [
-        "educate",
-        "children",
-        "educate",
-        "the",
-        "public"
+        "educate children",
+        "educate the public",
+        "educate oneself",
+        "educate consumers"
       ]
     },
     {
@@ -455,47 +615,60 @@
       "toeic_score_min": 200,
       "word": "educated",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
-      "conjugations": {
-        "past_tense": "educateded",
-        "past_participle": "educateded",
-        "present_participle": "educateding",
-        "third_person": "educateds"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "education",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "educated",
-          "definition": "a. 受過教育的, 有教养的"
+          "definition": "adj. 受過教育的、有教養的、有學識的"
         }
       ],
       "examples": [
         {
-          "en": "She is well educated.",
+          "en": "An educated workforce is essential for a knowledge-based economy.",
           "highlight": [
             "educated"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "受過教育的勞動力對知識型經濟而言至關重要。"
+          }
+        },
+        {
+          "en": "She is a well-educated professional with two master's degrees.",
+          "highlight": [
+            "well-educated"
+          ],
+          "translations": {
+            "zh-TW": "她是一位受過良好教育的專業人士，擁有兩個碩士學位。"
+          }
+        },
+        {
+          "en": "Highly educated candidates tend to receive more interview invitations.",
+          "highlight": [
+            "highly educated"
+          ],
+          "translations": {
+            "zh-TW": "高學歷的求職者往往會收到更多的面試邀請。"
           }
         }
       ],
       "synonyms": [
         "learned",
-        "literate"
+        "literate",
+        "knowledgeable"
       ],
       "antonyms": [
         "uneducated",
         "ignorant"
       ],
       "phrases": [
-        "highly",
-        "educated",
-        "poorly",
-        "educated"
+        "highly educated",
+        "well educated",
+        "educated guess",
+        "educated audience"
       ]
     }
   ]
