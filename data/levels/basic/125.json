@@ -12,46 +12,69 @@
       "word": "fit",
       "pos": [
         "verb",
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "fited",
-        "past_participle": "fited",
-        "present_participle": "fiting",
-        "third_person": "fits"
+        "plural": "fits",
+        "present_3rd": "fits",
+        "past": "fitted",
+        "past_participle": "fitted",
+        "ing": "fitting",
+        "comparative": "fitter",
+        "superlative": "fittest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "fit",
-          "definition": "n. 适宜, 合身, 發作, 痉挛, a. 适宜的, 對的, 准备好的, vt. 适合, 安装, 使合身, 使适应, 使合格, vi. 适合, 符合, 合身, [计] 非特"
+          "definition": "v. 合身、適合、安裝  n. 合身、合適、（疾病）發作  adj. 健康的、適合的"
         }
       ],
       "examples": [
         {
-          "en": "These shoes fit me perfectly.",
+          "en": "These shoes fit me perfectly, so I will buy them.",
           "highlight": [
             "fit"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這雙鞋我穿起來非常合腳，所以我要買下來。"
+          }
+        },
+        {
+          "en": "The tailor fitted the suit to his client's shoulders last week.",
+          "highlight": [
+            "fitted"
+          ],
+          "translations": {
+            "zh-TW": "上週裁縫把西裝調整到符合客戶肩膀的尺寸。"
+          }
+        },
+        {
+          "en": "She has been fitting new shelves in the office all afternoon.",
+          "highlight": [
+            "fitting"
+          ],
+          "translations": {
+            "zh-TW": "她整個下午都在辦公室裡安裝新的層架。"
           }
         }
       ],
       "synonyms": [
         "suit",
-        "match"
+        "match",
+        "adapt"
       ],
       "antonyms": [
         "misfit",
         "mismatch"
       ],
       "phrases": [
-        "fit",
-        "well",
-        "perfect",
-        "fit"
+        "fit in",
+        "keep fit",
+        "fit as a fiddle",
+        "a perfect fit"
       ]
     },
     {
@@ -62,47 +85,62 @@
       "toeic_score_min": 200,
       "word": "fitness",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "fitnessed",
-        "past_participle": "fitnessed",
-        "present_participle": "fitnessing",
-        "third_person": "fitnesses"
+        "plural": "fitnesses"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "fitness",
-          "definition": "n. 适合, 合宜, 合理, 恰当, 健康, [医] 适合性, 适应性"
+          "definition": "n. 健康、適合性、體能"
         }
       ],
       "examples": [
         {
-          "en": "He works out regularly to maintain his fitness.",
+          "en": "Good fitness helps you handle stressful work deadlines.",
           "highlight": [
             "fitness"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "良好的體能幫助你應付壓力大的工作截止日期。"
+          }
+        },
+        {
+          "en": "Many companies now offer fitness programs to their employees.",
+          "highlight": [
+            "fitness"
+          ],
+          "translations": {
+            "zh-TW": "許多公司現在為員工提供健身計畫。"
+          }
+        },
+        {
+          "en": "The manager checked the fitness of each candidate for the safety-critical role.",
+          "highlight": [
+            "fitness"
+          ],
+          "translations": {
+            "zh-TW": "經理檢查了每位候選人對安全關鍵職位的適任性。"
           }
         }
       ],
       "synonyms": [
         "health",
-        "condition"
+        "condition",
+        "wellness"
       ],
       "antonyms": [
         "unfitness",
-        "frailty"
+        "weakness"
       ],
       "phrases": [
-        "physical",
-        "fitness",
-        "fitness",
-        "level"
+        "physical fitness",
+        "fitness center",
+        "fitness level",
+        "cardio fitness"
       ]
     },
     {
@@ -117,44 +155,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "fixed",
+        "plural": "fixes",
+        "present_3rd": "fixes",
+        "past": "fixed",
         "past_participle": "fixed",
-        "present_participle": "fixing",
-        "third_person": "fixs"
+        "ing": "fixing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "fix",
-          "definition": "vt. 使固定, 修理, 准备, 安装, 凝视, 牢記, 确定, 整理, vi. 固定, 注视, 确定, n. 困境, 方位, 维修, 贿赂"
+          "definition": "v. 修理、固定、安排、確定  n. 維修、困境、（事情的）方位"
         }
       ],
       "examples": [
         {
-          "en": "He fixed the broken chair.",
+          "en": "The technician will fix the printer before the morning meeting.",
           "highlight": [
             "fix"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "技術員會在早上的會議前修好印表機。"
+          }
+        },
+        {
+          "en": "She fixed the broken window herself to save repair costs.",
+          "highlight": [
+            "fixed"
+          ],
+          "translations": {
+            "zh-TW": "她自己修好了破碎的窗戶以節省維修費用。"
+          }
+        },
+        {
+          "en": "We are fixing the schedule so everyone can attend the training.",
+          "highlight": [
+            "fixing"
+          ],
+          "translations": {
+            "zh-TW": "我們正在安排時程，讓所有人都能參加培訓。"
           }
         }
       ],
       "synonyms": [
         "repair",
-        "mend"
+        "mend",
+        "adjust"
       ],
       "antonyms": [
         "break",
         "damage"
       ],
       "phrases": [
-        "fix",
-        "a",
-        "problem",
-        "fix",
-        "a"
+        "fix a problem",
+        "fix up",
+        "in a fix",
+        "quick fix"
       ]
     },
     {
@@ -169,40 +226,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "flaged",
-        "past_participle": "flaged",
-        "present_participle": "flaging",
-        "third_person": "flags"
+        "plural": "flags",
+        "present_3rd": "flags",
+        "past": "flagged",
+        "past_participle": "flagged",
+        "ing": "flagging"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "flag",
-          "definition": "n. 标志, 旗标, 旗子, 信號旗, 菖蒲, vt. 悬旗, 打旗號, 铺石板, vi. 无力地下垂, [计] 标志; 属性标記命令"
+          "definition": "n. 旗幟、標誌  v. 標記、懸旗表示、（精力）衰退"
         }
       ],
       "examples": [
         {
-          "en": "The national flag was hoisted.",
+          "en": "The national flag flies above the embassy entrance.",
           "highlight": [
             "flag"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "國旗飄揚在大使館入口的上方。"
+          }
+        },
+        {
+          "en": "The system flagged the invoice as overdue and sent an alert.",
+          "highlight": [
+            "flagged"
+          ],
+          "translations": {
+            "zh-TW": "系統把這張發票標記為逾期，並發送了警示。"
+          }
+        },
+        {
+          "en": "Several supporters were flagging after hours of standing in the sun.",
+          "highlight": [
+            "flagging"
+          ],
+          "translations": {
+            "zh-TW": "幾位支持者在烈日下站了幾個小時後精力漸漸消退。"
           }
         }
       ],
       "synonyms": [
         "banner",
-        "ensign"
+        "ensign",
+        "signal"
       ],
       "antonyms": [],
       "phrases": [
-        "national",
-        "flag",
-        "flag",
-        "pole"
+        "raise the flag",
+        "flag down",
+        "red flag",
+        "flag carrier"
       ]
     },
     {
@@ -217,41 +294,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "flameed",
-        "past_participle": "flameed",
-        "present_participle": "flaming",
-        "third_person": "flames"
+        "plural": "flames",
+        "present_3rd": "flames",
+        "past": "flamed",
+        "past_participle": "flamed",
+        "ing": "flaming"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "flame",
-          "definition": "n. 火焰, 火舌, 热情, 光辉, vt. 焚烧, 用火焰给...灭菌, 用火焰传送(信號), 點燃, 激動, vi. 燃烧, 爆發, 闪耀, [计] 无聊邮件, 无益邮件"
+          "definition": "n. 火焰、熱情  v. 燃燒、爆發、（在網路上）謾罵"
         }
       ],
       "examples": [
         {
-          "en": "The flame flickered in the wind.",
+          "en": "A single flame appeared at the top of the birthday cake.",
           "highlight": [
             "flame"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "生日蛋糕的頂端出現了一點火苗。"
+          }
+        },
+        {
+          "en": "The argument flamed up again during the budget review.",
+          "highlight": [
+            "flamed"
+          ],
+          "translations": {
+            "zh-TW": "預算審查期間爭論又再次激烈地爆發。"
+          }
+        },
+        {
+          "en": "The flaming wreckage blocked the highway for most of the night.",
+          "highlight": [
+            "flaming"
+          ],
+          "translations": {
+            "zh-TW": "燃燒中的殘骸幾乎封鎖了整晚的高速公路。"
           }
         }
       ],
       "synonyms": [
         "blaze",
-        "fire"
+        "fire",
+        "glow"
       ],
       "antonyms": [],
       "phrases": [
-        "flame",
-        "of",
-        "a",
-        "candle",
-        "gas"
+        "flame of fire",
+        "flame out",
+        "go up in flames",
+        "fan the flames"
       ]
     },
     {
@@ -266,41 +362,60 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "flashed",
+        "plural": "flashes",
+        "present_3rd": "flashes",
+        "past": "flashed",
         "past_participle": "flashed",
-        "present_participle": "flashing",
-        "third_person": "flashs"
+        "ing": "flashing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "flash",
-          "definition": "n. 闪光, 闪现, 一瞬間, vi. 闪光, 闪现, 反射, vt. 使闪光, 反射"
+          "definition": "n. 閃光、閃現、一瞬間  v. 閃爍、閃現、快速出示"
         }
       ],
       "examples": [
         {
-          "en": "The lightning flashed in the sky.",
+          "en": "A flash of lightning lit up the empty parking lot.",
           "highlight": [
             "flash"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "一道閃電照亮了空蕩蕩的停車場。"
+          }
+        },
+        {
+          "en": "Security cameras flashed as the tourists entered the lobby.",
+          "highlight": [
+            "flashed"
+          ],
+          "translations": {
+            "zh-TW": "遊客一走進大廳，監視攝影機就閃了一下。"
+          }
+        },
+        {
+          "en": "A flashing light on the panel warns of low battery power.",
+          "highlight": [
+            "flashing"
+          ],
+          "translations": {
+            "zh-TW": "面板上閃爍的燈號警告電量不足。"
           }
         }
       ],
       "synonyms": [
         "sparkle",
-        "glint"
+        "glint",
+        "blink"
       ],
       "antonyms": [],
       "phrases": [
-        "flash",
-        "of",
-        "light",
-        "flash",
-        "drive"
+        "flash of light",
+        "flash drive",
+        "flash a smile",
+        "flash by"
       ]
     },
     {
@@ -315,40 +430,62 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "flats"
+        "plural": "flats",
+        "comparative": "flatter",
+        "superlative": "flattest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "flat",
-          "definition": "a. 平坦的, 单调的, 无力的, 浅的, 萧条的, 干脆的, 无聊的, adv. 平直地, 断然地, n. 扁平物, 平面, 平地, 平原, 平板車, v. (使)变平"
+          "definition": "adj. 平坦的、平淡的、（輪胎）洩氣的  n. 公寓、平地、洩氣輪胎"
         }
       ],
       "examples": [
         {
-          "en": "The land was flat and featureless.",
+          "en": "The table needs a flat surface so the cups do not tip over.",
           "highlight": [
             "flat"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這張桌子需要平坦的表面，杯子才不會翻倒。"
+          }
+        },
+        {
+          "en": "By the third hour of the lecture several students looked flatter and less alert.",
+          "highlight": [
+            "flatter"
+          ],
+          "translations": {
+            "zh-TW": "演講到了第三個小時，幾位學生看起來更沒精神、注意力也下降。"
+          }
+        },
+        {
+          "en": "The driver pulled over because they had a flat tire.",
+          "highlight": [
+            "flat"
+          ],
+          "translations": {
+            "zh-TW": "駕駛把車停到路邊，因為輪胎洩氣了。"
           }
         }
       ],
       "synonyms": [
         "level",
-        "smooth"
+        "smooth",
+        "even"
       ],
       "antonyms": [
         "uneven",
-        "rough"
+        "rough",
+        "bumpy"
       ],
       "phrases": [
-        "flat",
-        "tire",
-        "flat",
-        "surface"
+        "flat tire",
+        "flat surface",
+        "flat out",
+        "fall flat"
       ]
     },
     {
@@ -363,40 +500,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "flavored",
+        "plural": "flavors",
+        "present_3rd": "flavors",
+        "past": "flavored",
         "past_participle": "flavored",
-        "present_participle": "flavoring",
-        "third_person": "flavors"
+        "ing": "flavoring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "flavor",
-          "definition": "n. 滋味, 调味品, vt. 加味于"
+          "definition": "n. 味道、風味、調味料  v. 調味、加味於"
         }
       ],
       "examples": [
         {
-          "en": "The soup had a rich flavor.",
+          "en": "The chef described the flavor of the new dish to the guests.",
           "highlight": [
             "flavor"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "主廚向客人介紹新菜色的風味。"
+          }
+        },
+        {
+          "en": "Customers liked the strawberry-flavored yogurt the most.",
+          "highlight": [
+            "flavored"
+          ],
+          "translations": {
+            "zh-TW": "顧客最喜愛草莓口味的優格。"
+          }
+        },
+        {
+          "en": "She is flavoring the stew with herbs grown in her own garden.",
+          "highlight": [
+            "flavoring"
+          ],
+          "translations": {
+            "zh-TW": "她正用自家花園種的香草為燉菜調味。"
           }
         }
       ],
       "synonyms": [
         "taste",
-        "savor"
+        "savor",
+        "seasoning"
       ],
       "antonyms": [],
       "phrases": [
-        "distinct",
-        "flavor",
-        "mild",
-        "flavor"
+        "distinct flavor",
+        "mild flavor",
+        "flavor of the month",
+        "flavor up"
       ]
     },
     {
@@ -407,49 +564,66 @@
       "toeic_score_min": 200,
       "word": "flee",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "fleeed",
-        "past_participle": "fleeed",
-        "present_participle": "fleing",
-        "third_person": "flees"
+        "present_3rd": "flees",
+        "past": "fled",
+        "past_participle": "fled",
+        "ing": "fleeing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "flee",
-          "definition": "vt. 逃避, 逃跑, 逃走, vi. 逃, 消失"
+          "definition": "v. 逃跑、逃離、逃避"
         }
       ],
       "examples": [
         {
-          "en": "They fled from the war zone.",
+          "en": "Many residents flee the coastal town before the hurricane arrives.",
           "highlight": [
             "flee"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "許多居民在颶風來襲前逃離這座海岸小鎮。"
+          }
+        },
+        {
+          "en": "The protesters fled the square when riot police arrived.",
+          "highlight": [
+            "fled"
+          ],
+          "translations": {
+            "zh-TW": "鎮暴警察抵達時，抗議群眾逃離了廣場。"
+          }
+        },
+        {
+          "en": "Footage showed civilians fleeing across the border on foot.",
+          "highlight": [
+            "fleeing"
+          ],
+          "translations": {
+            "zh-TW": "畫面顯示平民徒步越過邊境逃離。"
           }
         }
       ],
       "synonyms": [
         "escape",
-        "run",
-        "away"
+        "run away",
+        "evacuate"
       ],
       "antonyms": [
         "stay",
+        "remain",
         "face"
       ],
       "phrases": [
-        "flee",
-        "the",
-        "scene",
-        "flee",
-        "from"
+        "flee the scene",
+        "flee from",
+        "flee the country",
+        "flee in panic"
       ]
     },
     {
@@ -464,43 +638,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "fleshed",
+        "plural": "fleshes",
+        "present_3rd": "fleshes",
+        "past": "fleshed",
         "past_participle": "fleshed",
-        "present_participle": "fleshing",
-        "third_person": "fleshs"
+        "ing": "fleshing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "flesh",
-          "definition": "n. 肉, 肉体, 肉欲, 人性, 亲属, 人类, 众生, 人体, vt. 以肉喂, 激起...的杀戳情绪, 使肥, 赋以血肉, vi. 長胖"
+          "definition": "n. 肉、果肉、肉體  v. 充實（細節）、使長肉"
         }
       ],
       "examples": [
         {
-          "en": "The flesh of the fruit was soft and juicy.",
+          "en": "The chef trimmed the excess fat from the beef flesh.",
           "highlight": [
             "flesh"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "主廚修掉牛肉多餘的脂肪。"
+          }
+        },
+        {
+          "en": "The author fleshed out the outline into a full draft last weekend.",
+          "highlight": [
+            "fleshed"
+          ],
+          "translations": {
+            "zh-TW": "作者上週末把大綱充實成完整的草稿。"
+          }
+        },
+        {
+          "en": "The hardest part is fleshing the characters with believable motives.",
+          "highlight": [
+            "fleshing"
+          ],
+          "translations": {
+            "zh-TW": "最難的部分是為角色填入可信的動機。"
           }
         }
       ],
       "synonyms": [
         "meat",
-        "tissue"
+        "tissue",
+        "pulp"
       ],
       "antonyms": [
         "bone"
       ],
       "phrases": [
-        "flesh",
-        "and",
-        "blood",
-        "soft",
-        "flesh"
+        "flesh and blood",
+        "soft flesh",
+        "flesh out",
+        "in the flesh"
       ]
     }
   ]
