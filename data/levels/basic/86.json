@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 86,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-086-001",
@@ -11,47 +11,63 @@
       "toeic_score_min": 200,
       "word": "depressing",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "depressinged",
-        "past_participle": "depressinged",
-        "present_participle": "depressinging",
-        "third_person": "depressings"
+        "comparative": "more depressing",
+        "superlative": "most depressing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "depressing",
-          "definition": "a. 抑压的, 沉闷的, 阴沉的"
+          "definition": "a. 令人沮喪的、令人抑鬱的、沉悶的"
         }
       ],
       "examples": [
         {
-          "en": "The weather was depressing.",
+          "en": "The quarterly sales report made for depressing reading.",
           "highlight": [
             "depressing"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "季度銷售報告讀起來令人沮喪。"
+          }
+        },
+        {
+          "en": "Losing the contract was even more depressing than worrying about it.",
+          "highlight": [
+            "more depressing"
+          ],
+          "translations": {
+            "zh-TW": "失去這筆合約比事前擔心還要更令人沮喪。"
+          }
+        },
+        {
+          "en": "The most depressing part of the trip was the long delay at the airport.",
+          "highlight": [
+            "most depressing"
+          ],
+          "translations": {
+            "zh-TW": "這趟旅程最令人鬱悶的是在機場長時間延誤。"
           }
         }
       ],
       "synonyms": [
+        "gloomy",
         "bleak",
-        "gloomy"
+        "dismal"
       ],
       "antonyms": [
         "cheerful",
-        "uplifting"
+        "uplifting",
+        "encouraging"
       ],
       "phrases": [
-        "depressing",
-        "news",
-        "depressing",
-        "atmosphere"
+        "depressing news",
+        "depressing weather",
+        "depressing atmosphere"
       ]
     },
     {
@@ -62,31 +78,45 @@
       "toeic_score_min": 200,
       "word": "depth",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "depthed",
-        "past_participle": "depthed",
-        "present_participle": "depthing",
-        "third_person": "depths"
+        "plural": "depths"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "depth",
-          "definition": "n. 深度, 深處, 深奥, [计] 深度"
+          "definition": "n. 深、深度、深刻、深處"
         }
       ],
       "examples": [
         {
-          "en": "The depth of the lake is 50 meters.",
+          "en": "The depth of the harbor limits the size of ships that can dock.",
           "highlight": [
             "depth"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "港口的深度限制了能停泊的船隻大小。"
+          }
+        },
+        {
+          "en": "Few vessels have explored the depths of the Mariana Trench.",
+          "highlight": [
+            "depths"
+          ],
+          "translations": {
+            "zh-TW": "極少有船隻探勘過馬里亞納海溝的深處。"
+          }
+        },
+        {
+          "en": "The article analyzes the depth of the housing crisis in the region.",
+          "highlight": [
+            "depth"
+          ],
+          "translations": {
+            "zh-TW": "這篇文章分析該地區住房危機的嚴重程度。"
           }
         }
       ],
@@ -95,14 +125,13 @@
         "profundity"
       ],
       "antonyms": [
-        "shallowness"
+        "shallowness",
+        "superficiality"
       ],
       "phrases": [
-        "ocean",
-        "depth",
-        "depth",
-        "of",
-        "knowledge"
+        "in depth",
+        "depth of knowledge",
+        "out of one's depth"
       ]
     },
     {
@@ -113,44 +142,61 @@
       "toeic_score_min": 200,
       "word": "derive",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "deriveed",
-        "past_participle": "deriveed",
-        "present_participle": "deriving",
-        "third_person": "derives"
+        "present_3rd": "derives",
+        "past": "derived",
+        "past_participle": "derived",
+        "ing": "deriving"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "derive",
-          "definition": "vt. 得自, vi. 起源"
+          "definition": "v. 源自、得自、衍生"
         }
       ],
       "examples": [
         {
-          "en": "The word 'coffee' derives from the Arabic word 'qahwa'.",
+          "en": "Many English words derive from Latin and Greek roots.",
           "highlight": [
             "derive"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "許多英文字詞源自拉丁和希臘字根。"
+          }
+        },
+        {
+          "en": "The company derived most of its revenue from software subscriptions last year.",
+          "highlight": [
+            "derived"
+          ],
+          "translations": {
+            "zh-TW": "去年公司的營收大多來自軟體訂閱。"
+          }
+        },
+        {
+          "en": "Researchers are deriving new insights by analyzing customer behavior data.",
+          "highlight": [
+            "deriving"
+          ],
+          "translations": {
+            "zh-TW": "研究人員正透過分析顧客行為資料，獲得新的見解。"
           }
         }
       ],
       "synonyms": [
+        "obtain",
         "extract",
-        "obtain"
+        "originate"
       ],
       "antonyms": [],
       "phrases": [
-        "derive",
-        "benefit",
-        "derive",
-        "pleasure"
+        "derive from",
+        "derive benefit",
+        "derive pleasure"
       ]
     },
     {
@@ -161,48 +207,64 @@
       "toeic_score_min": 200,
       "word": "describe",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "describeed",
-        "past_participle": "describeed",
-        "present_participle": "describing",
-        "third_person": "describes"
+        "present_3rd": "describes",
+        "past": "described",
+        "past_participle": "described",
+        "ing": "describing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "describe",
-          "definition": "vt. 描述, 描绘, 画"
+          "definition": "v. 描述、形容、描繪"
         }
       ],
       "examples": [
         {
-          "en": "He described the scene in detail.",
+          "en": "Please describe your responsibilities in your previous role.",
           "highlight": [
             "describe"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請描述你在前一個職位的工作內容。"
+          }
+        },
+        {
+          "en": "He described the accident clearly to the insurance adjuster.",
+          "highlight": [
+            "described"
+          ],
+          "translations": {
+            "zh-TW": "他向保險理賠員清楚地描述了事故經過。"
+          }
+        },
+        {
+          "en": "The witness is currently describing the suspect to a sketch artist.",
+          "highlight": [
+            "describing"
+          ],
+          "translations": {
+            "zh-TW": "目擊者正在向素描畫家描述嫌疑犯的長相。"
           }
         }
       ],
       "synonyms": [
-        "explain",
-        "depict"
+        "depict",
+        "portray",
+        "explain"
       ],
       "antonyms": [
         "confuse",
-        "distort"
+        "misrepresent"
       ],
       "phrases": [
-        "describe",
-        "in",
-        "detail",
-        "describe",
-        "clearly"
+        "describe in detail",
+        "describe clearly",
+        "describe accurately"
       ]
     },
     {
@@ -213,47 +275,60 @@
       "toeic_score_min": 200,
       "word": "description",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "descriptioned",
-        "past_participle": "descriptioned",
-        "present_participle": "descriptioning",
-        "third_person": "descriptions"
+        "plural": "descriptions"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "description",
-          "definition": "n. 描述, 說明, 種类, [經] 說明書(物品), 品名種类, 货物名称"
+          "definition": "n. 描述、說明、說明書"
         }
       ],
       "examples": [
         {
-          "en": "She gave a vivid description of the scene.",
+          "en": "The job description lists required skills and years of experience.",
           "highlight": [
             "description"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "職位說明書列出了所需的技能與工作年資。"
+          }
+        },
+        {
+          "en": "Product descriptions on the website should be accurate and concise.",
+          "highlight": [
+            "descriptions"
+          ],
+          "translations": {
+            "zh-TW": "網站上的商品說明應準確且簡潔。"
+          }
+        },
+        {
+          "en": "The witness gave a detailed description of the burglar to the police.",
+          "highlight": [
+            "description"
+          ],
+          "translations": {
+            "zh-TW": "目擊者向警方提供了竊賊的詳細描述。"
           }
         }
       ],
       "synonyms": [
         "account",
-        "depiction"
+        "depiction",
+        "portrayal"
       ],
       "antonyms": [
-        "misdescription"
+        "misrepresentation"
       ],
       "phrases": [
-        "give",
-        "a",
-        "description",
-        "vivid",
-        "description"
+        "job description",
+        "product description",
+        "detailed description"
       ]
     },
     {
@@ -264,48 +339,67 @@
       "toeic_score_min": 200,
       "word": "desert",
       "pos": [
-        "verb",
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "deserted",
+        "plural": "deserts",
+        "present_3rd": "deserts",
+        "past": "deserted",
         "past_participle": "deserted",
-        "present_participle": "deserting",
-        "third_person": "deserts"
+        "ing": "deserting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "desert",
-          "definition": "n. 沙漠, 应得的赏罚, 功劳, a. 沙漠的, 不毛的, vt. 放弃, 遗弃, 擅離, vi. 逃掉"
+          "definition": "n. 沙漠  v. 拋棄、離棄、擅離職守"
         }
       ],
       "examples": [
         {
-          "en": "He deserted his post.",
+          "en": "Many tourists visit the desert to photograph the sand dunes at sunset.",
           "highlight": [
             "desert"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "許多遊客造訪沙漠，拍攝日落時分的沙丘。"
+          }
+        },
+        {
+          "en": "The soldier deserted his post and was later arrested by military police.",
+          "highlight": [
+            "deserted"
+          ],
+          "translations": {
+            "zh-TW": "那名士兵擅離職守，隨後被憲兵逮捕。"
+          }
+        },
+        {
+          "en": "Customers are deserting the brand after a series of product recalls.",
+          "highlight": [
+            "deserting"
+          ],
+          "translations": {
+            "zh-TW": "經過一連串產品回收後，顧客紛紛背棄這個品牌。"
           }
         }
       ],
       "synonyms": [
         "abandon",
-        "forsake"
+        "forsake",
+        "wasteland"
       ],
       "antonyms": [
         "support",
+        "stay",
         "remain"
       ],
       "phrases": [
-        "desert",
-        "a",
-        "friend",
-        "desert",
-        "a"
+        "desert island",
+        "desert one's post",
+        "Sahara Desert"
       ]
     },
     {
@@ -316,47 +410,60 @@
       "toeic_score_min": 200,
       "word": "deserted",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
-      "conjugations": {
-        "past_tense": "deserteded",
-        "past_participle": "deserteded",
-        "present_participle": "deserteding",
-        "third_person": "deserteds"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "deserted",
-          "definition": "a. 被遗弃的, 废弃的, [法] 被遗弃的, 无人的, 放弃的"
+          "definition": "a. 被遺棄的、無人的、荒廢的"
         }
       ],
       "examples": [
         {
-          "en": "The town was deserted.",
+          "en": "By midnight the usually busy downtown streets were completely deserted.",
           "highlight": [
             "deserted"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "到了午夜，平時熱鬧的市中心街道完全空無一人。"
+          }
+        },
+        {
+          "en": "We found a deserted warehouse by the river and converted it into a studio.",
+          "highlight": [
+            "deserted"
+          ],
+          "translations": {
+            "zh-TW": "我們在河邊找到一間廢棄倉庫，將它改建為工作室。"
+          }
+        },
+        {
+          "en": "The beach looked so deserted that we had it entirely to ourselves.",
+          "highlight": [
+            "deserted"
+          ],
+          "translations": {
+            "zh-TW": "海灘空無一人，我們獨享整片沙灘。"
           }
         }
       ],
       "synonyms": [
+        "abandoned",
         "empty",
-        "abandoned"
+        "uninhabited"
       ],
       "antonyms": [
         "crowded",
-        "inhabited"
+        "populated",
+        "occupied"
       ],
       "phrases": [
-        "deserted",
-        "street",
-        "deserted",
-        "town"
+        "deserted street",
+        "deserted building",
+        "deserted beach"
       ]
     },
     {
@@ -367,47 +474,64 @@
       "toeic_score_min": 200,
       "word": "deserve",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "deserveed",
-        "past_participle": "deserveed",
-        "present_participle": "deserving",
-        "third_person": "deserves"
+        "present_3rd": "deserves",
+        "past": "deserved",
+        "past_participle": "deserved",
+        "ing": "deserving"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "deserve",
-          "definition": "vt. 该得到, 值得, vi. 应得报答"
+          "definition": "v. 應得、值得、應受"
         }
       ],
       "examples": [
         {
-          "en": "He deserves a reward for his efforts.",
+          "en": "Employees who exceed their targets deserve a fair bonus.",
           "highlight": [
             "deserve"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "超越業績目標的員工應該得到合理的獎金。"
+          }
+        },
+        {
+          "en": "She deserved the promotion after fifteen years of dedicated service.",
+          "highlight": [
+            "deserved"
+          ],
+          "translations": {
+            "zh-TW": "她服務公司十五年、盡忠職守，理應獲得升遷。"
+          }
+        },
+        {
+          "en": "Volunteers deserve our respect for dedicating their time to charity.",
+          "highlight": [
+            "deserve"
+          ],
+          "translations": {
+            "zh-TW": "志工將時間奉獻於公益，值得我們尊敬。"
           }
         }
       ],
       "synonyms": [
         "earn",
-        "merit"
+        "merit",
+        "warrant"
       ],
       "antonyms": [
-        "unworthy",
+        "forfeit",
         "lose"
       ],
       "phrases": [
-        "deserve",
-        "praise",
-        "deserve",
-        "punishment"
+        "deserve praise",
+        "deserve attention",
+        "deserve credit"
       ]
     },
     {
@@ -422,44 +546,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "designed",
+        "plural": "designs",
+        "present_3rd": "designs",
+        "past": "designed",
         "past_participle": "designed",
-        "present_participle": "designing",
-        "third_person": "designs"
+        "ing": "designing"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "design",
-          "definition": "n. 设计, 图樣, 方案, 企图, v. 设计, 计划"
+          "definition": "n. 設計、圖案、構想  v. 設計、規劃"
         }
       ],
       "examples": [
         {
-          "en": "The architect presented the design for the new building.",
+          "en": "The design of the new packaging is both modern and eco-friendly.",
           "highlight": [
             "design"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新包裝的設計既現代又環保。"
+          }
+        },
+        {
+          "en": "Several designs were submitted, but the client chose the simplest.",
+          "highlight": [
+            "designs"
+          ],
+          "translations": {
+            "zh-TW": "雖然提交了好幾份設計，客戶最終選擇了最簡潔的版本。"
+          }
+        },
+        {
+          "en": "He designed the user interface to be intuitive for first-time users.",
+          "highlight": [
+            "designed"
+          ],
+          "translations": {
+            "zh-TW": "他將使用者介面設計得很直覺，方便初次使用者操作。"
           }
         }
       ],
       "synonyms": [
         "plan",
-        "blueprint"
+        "blueprint",
+        "pattern"
       ],
       "antonyms": [
         "disorganize",
-        "disorder"
+        "improvise"
       ],
       "phrases": [
-        "design",
-        "a",
-        "building",
-        "fashion",
-        "design"
+        "product design",
+        "design process",
+        "by design"
       ]
     },
     {
@@ -474,43 +616,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "desireed",
-        "past_participle": "desireed",
-        "present_participle": "desiring",
-        "third_person": "desires"
+        "plural": "desires",
+        "present_3rd": "desires",
+        "past": "desired",
+        "past_participle": "desired",
+        "ing": "desiring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "desire",
-          "definition": "n. 欲望, 要求, vt. 想要, 請求, vi. 渴望"
+          "definition": "n. 欲望、渴望、請求  v. 渴望、想要"
         }
       ],
       "examples": [
         {
-          "en": "He expressed his desire to travel the world.",
+          "en": "She expressed a strong desire to lead the regional team.",
           "highlight": [
             "desire"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她表達了強烈想領導區域團隊的意願。"
+          }
+        },
+        {
+          "en": "The investor desired a stable return rather than high risk.",
+          "highlight": [
+            "desired"
+          ],
+          "translations": {
+            "zh-TW": "這位投資者追求穩定的報酬，而非高風險的收益。"
+          }
+        },
+        {
+          "en": "Clients desiring faster shipping can upgrade to express delivery.",
+          "highlight": [
+            "desiring"
+          ],
+          "translations": {
+            "zh-TW": "希望更快收到貨品的客戶可升級為快遞配送。"
           }
         }
       ],
       "synonyms": [
         "wish",
-        "craving"
+        "craving",
+        "longing"
       ],
       "antonyms": [
-        "disinterest",
-        "aversion"
+        "aversion",
+        "disinterest"
       ],
       "phrases": [
-        "strong",
-        "desire",
-        "desire",
-        "for"
+        "strong desire",
+        "desire for",
+        "personal desires"
       ]
     }
   ]
