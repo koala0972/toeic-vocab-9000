@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 115,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-115-001",
@@ -15,43 +15,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "experienceded",
-        "past_participle": "experienceded",
-        "present_participle": "experienceding",
-        "third_person": "experienceds"
+        "plural": "experienced",
+        "present_3rd": "experiences",
+        "past": "experienced",
+        "past_participle": "experienced",
+        "ing": "experiencing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "experienced",
-          "definition": "a. 富有經验的, 老练的, 熟练的"
+          "definition": "a. 經驗豐富的、老練的  v. 體驗、經歷（experience 的過去式與過去分詞）"
         }
       ],
       "examples": [
         {
-          "en": "He is an experienced driver.",
+          "en": "The company hired an experienced manager to lead the new project.",
           "highlight": [
             "experienced"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司聘請了一位經驗豐富的經理來領導新專案。"
+          }
+        },
+        {
+          "en": "She experienced many challenges during her first year abroad.",
+          "highlight": [
+            "experienced"
+          ],
+          "translations": {
+            "zh-TW": "她在出國第一年期間經歷了許多挑戰。"
+          }
+        },
+        {
+          "en": "Our team has experienced rapid growth since the launch of the product.",
+          "highlight": [
+            "experienced"
+          ],
+          "translations": {
+            "zh-TW": "自產品推出以來，我們的團隊經歷了快速的成長。"
           }
         }
       ],
       "synonyms": [
         "skilled",
-        "knowledgeable"
+        "knowledgeable",
+        "seasoned"
       ],
       "antonyms": [
         "inexperienced",
-        "unskilled"
+        "novice"
       ],
       "phrases": [
-        "experienced",
-        "teacher",
-        "very",
-        "experienced"
+        "experienced driver",
+        "experienced teacher",
+        "highly experienced",
+        "experienced staff"
       ]
     },
     {
@@ -66,41 +86,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "experimented",
+        "plural": "experiments",
+        "present_3rd": "experiments",
+        "past": "experimented",
         "past_participle": "experimented",
-        "present_participle": "experimenting",
-        "third_person": "experiments"
+        "ing": "experimenting"
       },
-      "domain": "general",
+      "domain": "science",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "experiment",
-          "definition": "n. 實验, 试验, 實验仪器, vi. 實验, 尝试"
+          "definition": "n. 實驗、試驗  v. 進行實驗、嘗試"
         }
       ],
       "examples": [
         {
-          "en": "They conducted an experiment in the lab.",
+          "en": "The scientists conducted a series of experiments on water quality.",
           "highlight": [
-            "experiment"
+            "experiments"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "科學家們針對水質進行了一系列的實驗。"
+          }
+        },
+        {
+          "en": "The research team experimented with several new materials last year.",
+          "highlight": [
+            "experimented"
+          ],
+          "translations": {
+            "zh-TW": "研究團隊去年嘗試了好幾種新材料。"
+          }
+        },
+        {
+          "en": "The students are experimenting with different ways to grow plants.",
+          "highlight": [
+            "experimenting"
+          ],
+          "translations": {
+            "zh-TW": "學生們正在嘗試用不同的方式來栽種植物。"
           }
         }
       ],
       "synonyms": [
         "test",
-        "trial"
+        "trial",
+        "investigation"
       ],
       "antonyms": [],
       "phrases": [
-        "conduct",
-        "an",
-        "experiment",
-        "scientific",
-        "experiment"
+        "conduct an experiment",
+        "scientific experiment",
+        "field experiment",
+        "experiment with"
       ]
     },
     {
@@ -112,46 +151,63 @@
       "word": "expert",
       "pos": [
         "noun",
-        "verb"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "experted",
-        "past_participle": "experted",
-        "present_participle": "experting",
-        "third_person": "experts"
+        "plural": "experts"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "expert",
-          "definition": "n. 专家, 行家, a. 老练的, 内行的, 专門的, [计] 高級"
+          "definition": "n. 專家、行家  a. 專家的、內行的"
         }
       ],
       "examples": [
         {
-          "en": "He is an expert in his field.",
+          "en": "We invited a financial expert to speak at the conference.",
           "highlight": [
             "expert"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們邀請了一位財務專家在研討會上演講。"
+          }
+        },
+        {
+          "en": "Several experts from different countries attended the meeting.",
+          "highlight": [
+            "experts"
+          ],
+          "translations": {
+            "zh-TW": "來自不同國家的好幾位專家出席了這場會議。"
+          }
+        },
+        {
+          "en": "The expert advice from our consultant helped us avoid costly mistakes.",
+          "highlight": [
+            "expert"
+          ],
+          "translations": {
+            "zh-TW": "顧問提供的專家意見幫助我們避免了代價高昂的錯誤。"
           }
         }
       ],
       "synonyms": [
         "specialist",
-        "authority"
+        "authority",
+        "professional"
       ],
       "antonyms": [
         "novice",
-        "beginner"
+        "beginner",
+        "amateur"
       ],
       "phrases": [
-        "expert",
-        "opinion",
-        "technical",
-        "expert"
+        "expert advice",
+        "expert opinion",
+        "leading expert",
+        "expert in the field"
       ]
     },
     {
@@ -162,48 +218,65 @@
       "toeic_score_min": 200,
       "word": "explain",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "explained",
+        "present_3rd": "explains",
+        "past": "explained",
         "past_participle": "explained",
-        "present_participle": "explaining",
-        "third_person": "explains"
+        "ing": "explaining"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "explain",
-          "definition": "v. 解释, 說明"
+          "definition": "v. 解釋、說明"
         }
       ],
       "examples": [
         {
-          "en": "She explained the rules clearly.",
+          "en": "Please explain the new policy to the customer politely.",
           "highlight": [
             "explain"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請禮貌地向顧客解釋新政策。"
+          }
+        },
+        {
+          "en": "The manager explained why the deadline had to be moved forward.",
+          "highlight": [
+            "explained"
+          ],
+          "translations": {
+            "zh-TW": "經理解釋了為什麼必須把截止日期提前。"
+          }
+        },
+        {
+          "en": "She is explaining the safety procedures to the new employees.",
+          "highlight": [
+            "explaining"
+          ],
+          "translations": {
+            "zh-TW": "她正在向新進員工解釋安全程序。"
           }
         }
       ],
       "synonyms": [
         "clarify",
-        "elucidate"
+        "elucidate",
+        "describe"
       ],
       "antonyms": [
         "confuse",
         "obscure"
       ],
       "phrases": [
-        "explain",
-        "clearly",
-        "explain",
-        "in",
-        "detail"
+        "explain clearly",
+        "explain in detail",
+        "explain the reason",
+        "let me explain"
       ]
     },
     {
@@ -214,48 +287,62 @@
       "toeic_score_min": 200,
       "word": "explanation",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "explanationed",
-        "past_participle": "explanationed",
-        "present_participle": "explanationing",
-        "third_person": "explanations"
+        "plural": "explanations"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "explanation",
-          "definition": "n. 解释, 說明, 辩解, 表明, [經] 解释, 注释, 說明"
+          "definition": "n. 解釋、說明、辯解"
         }
       ],
       "examples": [
         {
-          "en": "She gave a clear explanation of the problem.",
+          "en": "The manager gave a detailed explanation of the new schedule.",
           "highlight": [
             "explanation"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理對新的行程表提出了詳細的說明。"
+          }
+        },
+        {
+          "en": "The report offers several explanations for the decline in sales.",
+          "highlight": [
+            "explanations"
+          ],
+          "translations": {
+            "zh-TW": "這份報告對銷售下滑提出了好幾種解釋。"
+          }
+        },
+        {
+          "en": "His explanation for being late was accepted by the supervisor.",
+          "highlight": [
+            "explanation"
+          ],
+          "translations": {
+            "zh-TW": "主管接受了他遲到的解釋。"
           }
         }
       ],
       "synonyms": [
         "clarification",
-        "elucidation"
+        "account",
+        "reason"
       ],
       "antonyms": [
         "confusion",
         "ambiguity"
       ],
       "phrases": [
-        "give",
-        "an",
-        "explanation",
-        "need",
-        "an"
+        "give an explanation",
+        "detailed explanation",
+        "reasonable explanation",
+        "offer an explanation"
       ]
     },
     {
@@ -266,44 +353,64 @@
       "toeic_score_min": 200,
       "word": "explicit",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "explicits"
+        "comparative": "more explicit",
+        "superlative": "most explicit"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "explicit",
-          "definition": "a. 详述的, 清楚的, 直言的"
+          "definition": "a. 明確的、清楚的、直率的"
         }
       ],
       "examples": [
         {
-          "en": "The instructions were explicit.",
+          "en": "The contract includes an explicit clause about late payment fees.",
           "highlight": [
             "explicit"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "合約中包含了一條關於逾期付款費用的明確條款。"
+          }
+        },
+        {
+          "en": "Her instructions were more explicit than those in the previous email.",
+          "highlight": [
+            "more explicit"
+          ],
+          "translations": {
+            "zh-TW": "她的指示比前一封電子郵件中的更為明確。"
+          }
+        },
+        {
+          "en": "The manager was the most explicit in describing what needed to be done.",
+          "highlight": [
+            "most explicit"
+          ],
+          "translations": {
+            "zh-TW": "經理在描述需要完成的工作時最為明確。"
           }
         }
       ],
       "synonyms": [
         "clear",
-        "straightforward"
+        "straightforward",
+        "definite"
       ],
       "antonyms": [
         "implicit",
-        "vague"
+        "vague",
+        "ambiguous"
       ],
       "phrases": [
-        "explicit",
-        "instructions",
-        "explicit",
-        "content"
+        "explicit instructions",
+        "explicit content",
+        "explicit statement",
+        "make explicit"
       ]
     },
     {
@@ -314,47 +421,65 @@
       "toeic_score_min": 200,
       "word": "explode",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "explodeed",
-        "past_participle": "explodeed",
-        "present_participle": "exploding",
-        "third_person": "explodes"
+        "present_3rd": "explodes",
+        "past": "exploded",
+        "past_participle": "exploded",
+        "ing": "exploding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "explode",
-          "definition": "vi. 爆炸, 爆發, 激增, vt. 使爆炸"
+          "definition": "v. 爆炸、爆發、激增"
         }
       ],
       "examples": [
         {
-          "en": "The bomb could explode at any moment.",
+          "en": "Be careful with that old machine; it could explode at any moment.",
           "highlight": [
             "explode"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "小心那台舊機器，它隨時可能會爆炸。"
+          }
+        },
+        {
+          "en": "The firework exploded loudly above the crowd during the festival.",
+          "highlight": [
+            "exploded"
+          ],
+          "translations": {
+            "zh-TW": "慶典期間，煙火在人群上方轟然炸開。"
+          }
+        },
+        {
+          "en": "Prices are exploding due to the sudden shortage of raw materials.",
+          "highlight": [
+            "exploding"
+          ],
+          "translations": {
+            "zh-TW": "由於原料突然短缺，價格正在暴漲。"
           }
         }
       ],
       "synonyms": [
         "detonate",
-        "burst"
+        "burst",
+        "blow up"
       ],
       "antonyms": [
         "implode",
         "collapse"
       ],
       "phrases": [
-        "explode",
-        "violently",
-        "could",
-        "explode"
+        "explode violently",
+        "explode in anger",
+        "explode in popularity",
+        "explode on impact"
       ]
     },
     {
@@ -365,48 +490,66 @@
       "toeic_score_min": 200,
       "word": "explore",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "exploreed",
-        "past_participle": "exploreed",
-        "present_participle": "exploring",
-        "third_person": "explores"
+        "present_3rd": "explores",
+        "past": "explored",
+        "past_participle": "explored",
+        "ing": "exploring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "explore",
-          "definition": "v. 探险, 探测, 探究"
+          "definition": "v. 探索、探勘、探究"
         }
       ],
       "examples": [
         {
-          "en": "They plan to explore the new island.",
+          "en": "We want to explore new business opportunities in Asia.",
           "highlight": [
             "explore"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們想要探索亞洲的新商機。"
+          }
+        },
+        {
+          "en": "The researchers explored the remote region for nearly three months.",
+          "highlight": [
+            "explored"
+          ],
+          "translations": {
+            "zh-TW": "研究人員在偏遠地區探勘了將近三個月。"
+          }
+        },
+        {
+          "en": "The marketing team is exploring ways to reach younger customers.",
+          "highlight": [
+            "exploring"
+          ],
+          "translations": {
+            "zh-TW": "行銷團隊正在研究觸及年輕顧客的方法。"
           }
         }
       ],
       "synonyms": [
         "investigate",
-        "examine"
+        "examine",
+        "discover"
       ],
       "antonyms": [
         "ignore",
-        "neglect"
+        "neglect",
+        "overlook"
       ],
       "phrases": [
-        "explore",
-        "new",
-        "places",
-        "explore",
-        "options"
+        "explore new places",
+        "explore options",
+        "explore possibilities",
+        "explore the area"
       ]
     },
     {
@@ -417,47 +560,62 @@
       "toeic_score_min": 200,
       "word": "explosion",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "explosioned",
-        "past_participle": "explosioned",
-        "present_participle": "explosioning",
-        "third_person": "explosions"
+        "plural": "explosions"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "explosion",
-          "definition": "n. 爆發, 激增, 爆炸(声), [化] 爆炸"
+          "definition": "n. 爆炸、爆發、激增"
         }
       ],
       "examples": [
         {
-          "en": "The explosion was heard miles away.",
+          "en": "The explosion at the factory caused no injuries.",
           "highlight": [
             "explosion"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "工廠的爆炸沒有造成任何傷亡。"
+          }
+        },
+        {
+          "en": "Explosions were reported in several neighborhoods last night.",
+          "highlight": [
+            "Explosions"
+          ],
+          "translations": {
+            "zh-TW": "昨晚在好幾個街區都傳出爆炸的消息。"
+          }
+        },
+        {
+          "en": "There has been an explosion of online shopping in recent years.",
+          "highlight": [
+            "explosion"
+          ],
+          "translations": {
+            "zh-TW": "近年來線上購物呈現爆炸性的成長。"
           }
         }
       ],
       "synonyms": [
         "blast",
-        "detonation"
+        "detonation",
+        "burst"
       ],
       "antonyms": [
         "implosion",
         "calm"
       ],
       "phrases": [
-        "huge",
-        "explosion",
-        "loud",
-        "explosion"
+        "huge explosion",
+        "loud explosion",
+        "population explosion",
+        "explosion of interest"
       ]
     },
     {
@@ -472,45 +630,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "exported",
+        "plural": "exports",
+        "present_3rd": "exports",
+        "past": "exported",
         "past_participle": "exported",
-        "present_participle": "exporting",
-        "third_person": "exports"
+        "ing": "exporting"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "export",
-          "definition": "n. 输出品, 输出, vt. 输出, 出口, vi. 输出物资, [计] 导出"
+          "definition": "n. 出口、輸出品  v. 出口、輸出"
         }
       ],
       "examples": [
         {
-          "en": "They export cars to Europe.",
+          "en": "The country exports a large amount of electronics to Europe.",
           "highlight": [
-            "export"
+            "exports"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "該國將大量電子產品出口至歐洲。"
+          }
+        },
+        {
+          "en": "Last year the company exported more goods than ever before.",
+          "highlight": [
+            "exported"
+          ],
+          "translations": {
+            "zh-TW": "去年公司的出口貨品量創下歷史新高。"
+          }
+        },
+        {
+          "en": "The firm is exporting its services to clients around the world.",
+          "highlight": [
+            "exporting"
+          ],
+          "translations": {
+            "zh-TW": "這家公司正向全球的客戶輸出其服務。"
           }
         }
       ],
       "synonyms": [
-        "sell",
-        "abroad",
-        "send",
-        "out"
+        "ship out",
+        "sell abroad",
+        "send overseas"
       ],
       "antonyms": [
         "import",
-        "buy"
+        "buy in"
       ],
       "phrases": [
-        "export",
-        "goods",
-        "export",
-        "market"
+        "export goods",
+        "export market",
+        "export business",
+        "export regulations"
       ]
     }
   ]
