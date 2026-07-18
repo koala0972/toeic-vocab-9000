@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 87,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-087-001",
@@ -15,40 +15,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "desked",
+        "plural": "desks",
+        "present_3rd": "desks",
+        "past": "desked",
         "past_participle": "desked",
-        "present_participle": "desking",
-        "third_person": "desks"
+        "ing": "desking"
       },
-      "domain": "general",
+      "domain": "office",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "desk",
-          "definition": "n. 書桌, 办公桌, 工作台"
+          "definition": "n. 書桌、辦公桌、服務檯  v. 派駐於櫃檯工作"
         }
       ],
       "examples": [
         {
-          "en": "She sat at her desk.",
+          "en": "She sat at her desk and started typing the report.",
           "highlight": [
             "desk"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她坐在辦公桌前，開始打字撰寫報告。"
+          }
+        },
+        {
+          "en": "The company bought twenty new desks for the open-plan office.",
+          "highlight": [
+            "desks"
+          ],
+          "translations": {
+            "zh-TW": "公司為開放式辦公室購買了二十張新的辦公桌。"
+          }
+        },
+        {
+          "en": "He has been desking at the hotel reception for three months.",
+          "highlight": [
+            "desking"
+          ],
+          "translations": {
+            "zh-TW": "他在飯店接待櫃檯已經駐點工作了三個月。"
           }
         }
       ],
       "synonyms": [
         "table",
-        "workstation"
+        "workstation",
+        "counter"
       ],
       "antonyms": [],
       "phrases": [
-        "office",
-        "desk",
-        "writing",
-        "desk"
+        "reception desk",
+        "front desk",
+        "help desk",
+        "desk job"
       ]
     },
     {
@@ -59,47 +79,64 @@
       "toeic_score_min": 200,
       "word": "desperate",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "desperateed",
-        "past_participle": "desperateed",
-        "present_participle": "desperating",
-        "third_person": "desperates"
+        "comparative": "more desperate",
+        "superlative": "most desperate"
       },
-      "domain": "general",
+      "domain": "emotion",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "desperate",
-          "definition": "a. 不顾一切的, 危急的, 令人绝望的, 极渴望的"
+          "definition": "adj. 孤注一擲的、危急的、極度渴望的"
         }
       ],
       "examples": [
         {
-          "en": "They were desperate for help.",
+          "en": "The company is in a desperate financial situation after losing two major clients.",
           "highlight": [
             "desperate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在失去兩個主要客戶後，公司陷入了危急的財務狀況。"
+          }
+        },
+        {
+          "en": "As the deadline approached, the team became more desperate to finish the project.",
+          "highlight": [
+            "more desperate"
+          ],
+          "translations": {
+            "zh-TW": "隨著截止日期逼近，團隊為了完成專案變得更加孤注一擲。"
+          }
+        },
+        {
+          "en": "Refugees are the most desperate cases the charity has ever handled.",
+          "highlight": [
+            "most desperate"
+          ],
+          "translations": {
+            "zh-TW": "難民是該慈善機構處理過最令人絕望的案例。"
           }
         }
       ],
       "synonyms": [
         "hopeless",
-        "despairing"
+        "frantic",
+        "dire"
       ],
       "antonyms": [
         "hopeful",
-        "optimistic"
+        "optimistic",
+        "calm"
       ],
       "phrases": [
-        "desperate",
-        "situation",
-        "desperate",
-        "measures"
+        "desperate situation",
+        "desperate measures",
+        "desperate need",
+        "desperate times"
       ]
     },
     {
@@ -118,33 +155,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "desperately",
-          "definition": "adv. 拼命地；绝望地；极度地"
+          "definition": "adv. 拼命地、絕望地、極度地"
         }
       ],
       "examples": [
         {
-          "en": "She desperately tried to reach him.",
+          "en": "She desperately wanted to get the promotion after five years of hard work.",
           "highlight": [
             "desperately"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經過五年的辛勤工作，她極度渴望獲得晉升。"
+          }
+        },
+        {
+          "en": "The airline desperately needs more pilots to keep its flights on schedule.",
+          "highlight": [
+            "desperately"
+          ],
+          "translations": {
+            "zh-TW": "這家航空公司迫切需要更多飛行員來維持航班準點。"
+          }
+        },
+        {
+          "en": "They searched desperately for survivors amid the rubble of the collapsed building.",
+          "highlight": [
+            "desperately"
+          ],
+          "translations": {
+            "zh-TW": "他們在倒塌建築的瓦礫堆中拼命搜尋生還者。"
           }
         }
       ],
       "synonyms": [
         "hopelessly",
-        "despairingly"
+        "urgently",
+        "frantically"
       ],
       "antonyms": [
-        "hopefully",
-        "optimistically"
+        "calmly",
+        "casually",
+        "indifferently"
       ],
       "phrases": [
-        "desperately",
-        "need",
-        "desperately",
-        "try"
+        "desperately need",
+        "desperately want",
+        "desperately try"
       ]
     },
     {
@@ -163,38 +219,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "despite",
-          "definition": "n. 輕视, 憎恨, prep. 虽然, 盡管"
+          "definition": "prep. 儘管、雖然"
         }
       ],
       "examples": [
         {
-          "en": "They went out despite the rain.",
+          "en": "Despite the heavy traffic, the manager arrived at the meeting on time.",
           "highlight": [
             "despite"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "儘管交通擁堵，經理還是準時到達會議。"
+          }
+        },
+        {
+          "en": "The hotel continued to operate despite the staff shortage during peak season.",
+          "highlight": [
+            "despite"
+          ],
+          "translations": {
+            "zh-TW": "旺季期間儘管人手不足，飯店仍持續運作。"
+          }
+        },
+        {
+          "en": "Despite her limited English, she successfully negotiated the contract with the foreign client.",
+          "highlight": [
+            "despite"
+          ],
+          "translations": {
+            "zh-TW": "儘管英語有限，她仍成功與外國客戶談成了合約。"
           }
         }
       ],
       "synonyms": [
-        "in",
-        "spite",
-        "of",
-        "notwithstanding"
+        "notwithstanding",
+        "in spite of"
       ],
       "antonyms": [
-        "because",
-        "of",
-        "due",
-        "to"
+        "because of",
+        "due to"
       ],
       "phrases": [
-        "despite",
-        "the",
-        "difficulties",
-        "despite",
-        "the"
+        "despite the fact",
+        "despite the rain",
+        "despite the difficulties"
       ]
     },
     {
@@ -205,47 +273,65 @@
       "toeic_score_min": 200,
       "word": "destroy",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "destroyed",
+        "present_3rd": "destroys",
+        "past": "destroyed",
         "past_participle": "destroyed",
-        "present_participle": "destroying",
-        "third_person": "destroys"
+        "ing": "destroying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "destroy",
-          "definition": "vt. 破坏, 毁坏, 消灭"
+          "definition": "vt. 破壞、摧毀、毀滅"
         }
       ],
       "examples": [
         {
-          "en": "The fire destroyed the building.",
+          "en": "A single data breach can destroy a company's reputation overnight.",
           "highlight": [
             "destroy"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "一次資料外洩就能在一夜之間摧毀公司的聲譽。"
+          }
+        },
+        {
+          "en": "The hurricane destroyed entire neighborhoods along the coast last summer.",
+          "highlight": [
+            "destroyed"
+          ],
+          "translations": {
+            "zh-TW": "去年夏天颶風摧毀了沿岸整片社區。"
+          }
+        },
+        {
+          "en": "They are destroying old files to free up storage space in the office.",
+          "highlight": [
+            "destroying"
+          ],
+          "translations": {
+            "zh-TW": "他們正在銷毀舊檔案，以釋放辦公室的儲存空間。"
           }
         }
       ],
       "synonyms": [
         "ruin",
-        "demolish"
+        "demolish",
+        "wreck"
       ],
       "antonyms": [
         "build",
-        "create"
+        "create",
+        "construct"
       ],
       "phrases": [
-        "destroy",
-        "completely",
-        "destroy",
-        "evidence"
+        "destroy evidence",
+        "destroy completely",
+        "destroy documents"
       ]
     },
     {
@@ -256,47 +342,62 @@
       "toeic_score_min": 200,
       "word": "destruction",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "destructioned",
-        "past_participle": "destructioned",
-        "present_participle": "destructioning",
-        "third_person": "destructions"
+        "plural": "destructions"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "destruction",
-          "definition": "n. 破坏, 毁灭, [医] 破坏"
+          "definition": "n. 破壞、毀滅、摧毀"
         }
       ],
       "examples": [
         {
-          "en": "The storm caused widespread destruction.",
+          "en": "The earthquake caused massive destruction across the coastal city.",
           "highlight": [
             "destruction"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "地震對這座沿海城市造成了巨大的破壞。"
+          }
+        },
+        {
+          "en": "The insurance policy covers destructions of property caused by fire and flood.",
+          "highlight": [
+            "destructions"
+          ],
+          "translations": {
+            "zh-TW": "該保險方案理賠由火災和洪水造成的多項財物毀損。"
+          }
+        },
+        {
+          "en": "Preventing the destruction of cultural heritage is a global priority.",
+          "highlight": [
+            "destruction"
+          ],
+          "translations": {
+            "zh-TW": "防止文化遺產遭到破壞是全世界的優先課題。"
           }
         }
       ],
       "synonyms": [
         "demolition",
+        "devastation",
         "ruin"
       ],
       "antonyms": [
         "construction",
-        "creation"
+        "creation",
+        "preservation"
       ],
       "phrases": [
-        "complete",
-        "destruction",
-        "cause",
-        "destruction"
+        "cause destruction",
+        "mass destruction",
+        "weapon of destruction"
       ]
     },
     {
@@ -311,42 +412,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "detailed",
+        "plural": "details",
+        "present_3rd": "details",
+        "past": "detailed",
         "past_participle": "detailed",
-        "present_participle": "detailing",
-        "third_person": "details"
+        "ing": "detailing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "detail",
-          "definition": "n. 细节, 详情, vt. 详述, 选派, vi. 画详图, [计] 详细数据"
+          "definition": "n. 細節、詳情  vt. 詳述、細說"
         }
       ],
       "examples": [
         {
-          "en": "He explained every detail of the plan.",
+          "en": "Please review every detail of the contract before signing it.",
           "highlight": [
             "detail"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "簽署合約前，請仔細審閱每一個細節。"
+          }
+        },
+        {
+          "en": "The manager emailed the staff with further details about the new policy.",
+          "highlight": [
+            "details"
+          ],
+          "translations": {
+            "zh-TW": "經理透過電子郵件向員工說明新政策的更多詳情。"
+          }
+        },
+        {
+          "en": "The report detailing the merger plan was over a hundred pages long.",
+          "highlight": [
+            "detailing"
+          ],
+          "translations": {
+            "zh-TW": "詳述併購計畫的報告超過一百頁。"
           }
         }
       ],
       "synonyms": [
-        "aspect",
-        "feature"
+        "particular",
+        "feature",
+        "item"
       ],
       "antonyms": [
-        "generalization"
+        "generalization",
+        "overview"
       ],
       "phrases": [
-        "every",
-        "detail",
-        "fine",
-        "detail"
+        "in detail",
+        "every detail",
+        "detailed report",
+        "attention to detail"
       ]
     },
     {
@@ -361,43 +483,61 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "detaileded",
-        "past_participle": "detaileded",
-        "present_participle": "detaileding",
-        "third_person": "detaileds"
+        "comparative": "more detailed",
+        "superlative": "most detailed"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "detailed",
-          "definition": "a. 详细的, 复杂的, [法] 详细的, 详盡的"
+          "definition": "adj. 詳細的、詳盡的、精細的"
         }
       ],
       "examples": [
         {
-          "en": "The report was very detailed.",
+          "en": "She submitted a detailed proposal to the board of directors.",
           "highlight": [
             "detailed"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她向董事會提交了一份詳細的提案。"
+          }
+        },
+        {
+          "en": "The second edition of the manual is more detailed than the first one.",
+          "highlight": [
+            "more detailed"
+          ],
+          "translations": {
+            "zh-TW": "手冊的第二版比第一版更加詳盡。"
+          }
+        },
+        {
+          "en": "This is the most detailed budget report the accounting team has ever produced.",
+          "highlight": [
+            "most detailed"
+          ],
+          "translations": {
+            "zh-TW": "這是會計團隊有史以來製作過最精細的預算報告。"
           }
         }
       ],
       "synonyms": [
         "thorough",
-        "comprehensive"
+        "comprehensive",
+        "extensive"
       ],
       "antonyms": [
         "vague",
-        "general"
+        "general",
+        "brief"
       ],
       "phrases": [
-        "detailed",
-        "report",
-        "detailed",
-        "description"
+        "detailed report",
+        "detailed description",
+        "detailed analysis",
+        "detailed plan"
       ]
     },
     {
@@ -408,47 +548,63 @@
       "toeic_score_min": 200,
       "word": "determination",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "determinationed",
-        "past_participle": "determinationed",
-        "present_participle": "determinationing",
-        "third_person": "determinations"
+        "plural": "determinations"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "determination",
-          "definition": "n. 决心, 果断, [化] 判定; 测定"
+          "definition": "n. 決心、果斷、堅定"
         }
       ],
       "examples": [
         {
-          "en": "Her determination to succeed was impressive.",
+          "en": "Her determination to succeed impressed everyone in the company.",
           "highlight": [
             "determination"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她追求成功的決心令公司內每一位印象深刻。"
+          }
+        },
+        {
+          "en": "Scientists made several determinations about the chemical's properties.",
+          "highlight": [
+            "determinations"
+          ],
+          "translations": {
+            "zh-TW": "科學家對該化學物質的特性做出了多項判定。"
+          }
+        },
+        {
+          "en": "Salary determination is based on experience and performance.",
+          "highlight": [
+            "determination"
+          ],
+          "translations": {
+            "zh-TW": "薪資的決定是根據經驗與表現。"
           }
         }
       ],
       "synonyms": [
         "resolve",
-        "perseverance"
+        "perseverance",
+        "willpower"
       ],
       "antonyms": [
         "indecision",
-        "hesitation"
+        "hesitation",
+        "weakness"
       ],
       "phrases": [
-        "strong",
-        "determination",
-        "fierce",
-        "determination"
+        "strong determination",
+        "self-determination",
+        "determination of price",
+        "with determination"
       ]
     },
     {
@@ -459,48 +615,66 @@
       "toeic_score_min": 200,
       "word": "determine",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "determineed",
-        "past_participle": "determineed",
-        "present_participle": "determining",
-        "third_person": "determines"
+        "present_3rd": "determines",
+        "past": "determined",
+        "past_participle": "determined",
+        "ing": "determining"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "determine",
-          "definition": "v. 决定, 决心"
+          "definition": "vt. 決定、確定、查明  v. 下定決心"
         }
       ],
       "examples": [
         {
-          "en": "The investigation will determine the cause of the accident.",
+          "en": "The auditor will determine whether the expenses are legitimate.",
           "highlight": [
             "determine"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "審計員將判定這些支出是否合理。"
+          }
+        },
+        {
+          "en": "The committee determined that the project should be postponed.",
+          "highlight": [
+            "determined"
+          ],
+          "translations": {
+            "zh-TW": "委員會決定將專案延後進行。"
+          }
+        },
+        {
+          "en": "Market research plays a key role in determining the success of a new product.",
+          "highlight": [
+            "determining"
+          ],
+          "translations": {
+            "zh-TW": "市場研究在決定新產品成功與否方面扮演關鍵角色。"
           }
         }
       ],
       "synonyms": [
         "decide",
-        "establish"
+        "establish",
+        "resolve"
       ],
       "antonyms": [
         "misjudge",
-        "overlook"
+        "overlook",
+        "ignore"
       ],
       "phrases": [
-        "determine",
-        "the",
-        "cause",
-        "determine",
-        "the"
+        "determine the cause",
+        "determine the outcome",
+        "determine the price",
+        "determine whether"
       ]
     }
   ]
