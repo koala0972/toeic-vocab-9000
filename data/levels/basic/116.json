@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 116,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-116-001",
@@ -11,48 +11,65 @@
       "toeic_score_min": 200,
       "word": "expose",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "exposeed",
-        "past_participle": "exposeed",
-        "present_participle": "exposing",
-        "third_person": "exposes"
+        "present_3rd": "exposes",
+        "past": "exposed",
+        "past_participle": "exposed",
+        "ing": "exposing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "expose",
-          "definition": "vt. 使暴露, 使曝光, 揭穿, 陈列, [医] 暴露, 露置"
+          "definition": "v. 揭露、暴露、使接觸"
         }
       ],
       "examples": [
         {
-          "en": "The artist exposed the painting to the public.",
+          "en": "The journalist exposed the company's accounting fraud in a front-page story.",
           "highlight": [
-            "expose"
+            "exposed"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "那位記者在一篇頭版報導中揭露了這家公司的會計詐欺。"
+          }
+        },
+        {
+          "en": "The report has exposed thousands of customers to potential data leaks.",
+          "highlight": [
+            "exposed"
+          ],
+          "translations": {
+            "zh-TW": "這份報告讓数千名顧客暴露在潛在的資料外洩風險中。"
+          }
+        },
+        {
+          "en": "The new policy exposes employees to a wider range of training opportunities.",
+          "highlight": [
+            "exposes"
+          ],
+          "translations": {
+            "zh-TW": "這項新政策讓員工有機會接觸到更廣泛的培訓機會。"
           }
         }
       ],
       "synonyms": [
         "reveal",
-        "uncover"
+        "uncover",
+        "disclose"
       ],
       "antonyms": [
         "hide",
-        "cover"
+        "conceal"
       ],
       "phrases": [
-        "expose",
-        "the",
-        "truth",
-        "expose",
-        "to"
+        "expose the truth",
+        "expose to danger",
+        "expose corruption",
+        "expose a scam"
       ]
     },
     {
@@ -63,47 +80,62 @@
       "toeic_score_min": 200,
       "word": "exposure",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "exposureed",
-        "past_participle": "exposureed",
-        "present_participle": "exposuring",
-        "third_person": "exposures"
+        "plural": "exposures"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "exposure",
-          "definition": "n. 暴露, 揭發, 揭露, [化] 曝光量; 照射; 照射量"
+          "definition": "n. 暴露、曝光、接觸"
         }
       ],
       "examples": [
         {
-          "en": "Prolonged exposure to the sun can be harmful.",
+          "en": "The new brand gained wide market exposure through online advertising.",
           "highlight": [
             "exposure"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這個新品牌透過網路廣告獲得了廣泛的市場曝光。"
+          }
+        },
+        {
+          "en": "Repeated exposures to the chemical may cause skin irritation.",
+          "highlight": [
+            "exposures"
+          ],
+          "translations": {
+            "zh-TW": "反覆接觸這種化學物質可能引起皮膚過敏。"
+          }
+        },
+        {
+          "en": "The startup's exposure to foreign exchange risk worried its investors.",
+          "highlight": [
+            "exposure"
+          ],
+          "translations": {
+            "zh-TW": "這家新創公司對外匯風險的暴露令投資人感到擔憂。"
           }
         }
       ],
       "synonyms": [
         "contact",
-        "experience"
+        "experience",
+        "publicity"
       ],
       "antonyms": [
         "concealment",
-        "hiding"
+        "seclusion"
       ],
       "phrases": [
-        "prolonged",
-        "exposure",
-        "exposure",
-        "to"
+        "market exposure",
+        "sun exposure",
+        "media exposure",
+        "exposure to risk"
       ]
     },
     {
@@ -115,46 +147,66 @@
       "word": "express",
       "pos": [
         "verb",
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "expressed",
+        "present_3rd": "expresses",
+        "past": "expressed",
         "past_participle": "expressed",
-        "present_participle": "expressing",
-        "third_person": "expresses"
+        "ing": "expressing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "express",
-          "definition": "n. 快車, 快递, 专使, a. 明确的, 丝毫不差的, 专門的, 快的, vt. 表达, 表示, 表露"
+          "definition": "v. 表達、表示  n. 快車、快遞  adj. 快速的、明確的"
         }
       ],
       "examples": [
         {
-          "en": "He expressed his thoughts clearly.",
+          "en": "Employees should feel free to express their concerns during team meetings.",
           "highlight": [
             "express"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "員工應該可以在團隊會議中自由表達他們的疑慮。"
+          }
+        },
+        {
+          "en": "She expressed her gratitude to the client in a handwritten note.",
+          "highlight": [
+            "expressed"
+          ],
+          "translations": {
+            "zh-TW": "她用手寫便條向客戶表達了感謝之意。"
+          }
+        },
+        {
+          "en": "The parcel was delivered by express mail within two business days.",
+          "highlight": [
+            "express"
+          ],
+          "translations": {
+            "zh-TW": "包裹透過快捷郵件在兩個工作天內送達。"
           }
         }
       ],
       "synonyms": [
+        "convey",
         "articulate",
-        "convey"
+        "state"
       ],
       "antonyms": [
         "suppress",
-        "conceal"
+        "hide"
       ],
       "phrases": [
-        "express",
-        "clearly",
-        "express",
-        "feelings"
+        "express delivery",
+        "express feelings",
+        "express an opinion",
+        "express train"
       ]
     },
     {
@@ -165,48 +217,62 @@
       "toeic_score_min": 200,
       "word": "expression",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "expressioned",
-        "past_participle": "expressioned",
-        "present_participle": "expressioning",
-        "third_person": "expressions"
+        "plural": "expressions"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "expression",
-          "definition": "n. 表达, 表现, 词語, 措辞, [计] 表达式"
+          "definition": "n. 表達、表情、詞語"
         }
       ],
       "examples": [
         {
-          "en": "Her facial expression showed surprise.",
+          "en": "His calm expression concealed his surprise at the unexpected offer.",
           "highlight": [
             "expression"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他平靜的表情掩飾了對這個意外提議的驚訝。"
+          }
+        },
+        {
+          "en": "The coach's facial expressions revealed his frustration during the match.",
+          "highlight": [
+            "expressions"
+          ],
+          "translations": {
+            "zh-TW": "教練臉上的表情流露出他在比賽中的挫折感。"
+          }
+        },
+        {
+          "en": "Freedom of expression is protected under the company's code of conduct.",
+          "highlight": [
+            "expression"
+          ],
+          "translations": {
+            "zh-TW": "言論表達自由受到公司行為準則的保障。"
           }
         }
       ],
       "synonyms": [
         "statement",
-        "manifestation"
+        "phrase",
+        "look"
       ],
       "antonyms": [
         "silence",
         "suppression"
       ],
       "phrases": [
-        "facial",
-        "expression",
-        "expression",
-        "of",
-        "interest"
+        "facial expression",
+        "freedom of expression",
+        "artistic expression",
+        "common expression"
       ]
     },
     {
@@ -217,48 +283,65 @@
       "toeic_score_min": 200,
       "word": "extend",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "extended",
+        "present_3rd": "extends",
+        "past": "extended",
         "past_participle": "extended",
-        "present_participle": "extending",
-        "third_person": "extends"
+        "ing": "extending"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "extend",
-          "definition": "v. 扩充, 延伸, 伸展, 扩大, [计] 扩展"
+          "definition": "v. 延長、延伸、擴展"
         }
       ],
       "examples": [
         {
-          "en": "They plan to extend the road.",
+          "en": "We extend our business hours to serve customers across several time zones.",
           "highlight": [
             "extend"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們延長營業時間以服務跨多個時區的顧客。"
+          }
+        },
+        {
+          "en": "The manager extended the proposal deadline by one week after the client's request.",
+          "highlight": [
+            "extended"
+          ],
+          "translations": {
+            "zh-TW": "在客戶要求之後，經理將提案截止日期延長了一週。"
+          }
+        },
+        {
+          "en": "By extending its product line, the company hopes to reach younger consumers.",
+          "highlight": [
+            "extending"
+          ],
+          "translations": {
+            "zh-TW": "透過擴展產品線，這家公司希望能觸及更年輕的消費者。"
           }
         }
       ],
       "synonyms": [
+        "lengthen",
         "expand",
-        "lengthen"
+        "prolong"
       ],
       "antonyms": [
         "shorten",
         "reduce"
       ],
       "phrases": [
-        "extend",
-        "the",
-        "deadline",
-        "extend",
-        "the"
+        "extend a deadline",
+        "extend an invitation",
+        "extend the program",
+        "extend hours"
       ]
     },
     {
@@ -269,47 +352,62 @@
       "toeic_score_min": 200,
       "word": "extension",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "extensioned",
-        "past_participle": "extensioned",
-        "present_participle": "extensioning",
-        "third_person": "extensions"
+        "plural": "extensions"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "extension",
-          "definition": "n. 延長, 扩充, 范围, 扩展名, a. 伸缩的, [计] 扩展名, 扩充名"
+          "definition": "n. 延長、延長部分、分機、擴充"
         }
       ],
       "examples": [
         {
-          "en": "She asked for an extension on the project deadline.",
+          "en": "The contractor requested an extension on the renovation project.",
           "highlight": [
             "extension"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "承包商要求延長翻修工程的工期。"
+          }
+        },
+        {
+          "en": "Office extensions were updated after the company moved to a new building.",
+          "highlight": [
+            "extensions"
+          ],
+          "translations": {
+            "zh-TW": "在公司搬遷到新大樓後，辦公室分機號碼已更新。"
+          }
+        },
+        {
+          "en": "Please call extension 205 to reach the human resources department.",
+          "highlight": [
+            "extension"
+          ],
+          "translations": {
+            "zh-TW": "請撥分機 205 聯絡人力資源部門。"
           }
         }
       ],
       "synonyms": [
         "addition",
-        "add-on"
+        "supplement",
+        "postponement"
       ],
       "antonyms": [
         "reduction",
-        "cut"
+        "cutback"
       ],
       "phrases": [
-        "project",
-        "extension",
-        "extension",
-        "cord"
+        "extension cord",
+        "deadline extension",
+        "extension number",
+        "file extension"
       ]
     },
     {
@@ -320,44 +418,60 @@
       "toeic_score_min": 200,
       "word": "extensive",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "extensives"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "extensive",
-          "definition": "a. 广的, 广泛的, 多方面的, [經] 广大的, 扩大的"
+          "definition": "adj. 廣泛的、大量的、大規模的"
         }
       ],
       "examples": [
         {
-          "en": "The damage was extensive.",
+          "en": "The firm conducted extensive research before launching the new service.",
           "highlight": [
             "extensive"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家公司在推出新服務前進行了廣泛的研究。"
+          }
+        },
+        {
+          "en": "Candidates need extensive experience in project management to qualify.",
+          "highlight": [
+            "extensive"
+          ],
+          "translations": {
+            "zh-TW": "候選人需要具備專案管理方面的豐富經驗才能符合資格。"
+          }
+        },
+        {
+          "en": "An extensive network of suppliers keeps the factory running smoothly.",
+          "highlight": [
+            "extensive"
+          ],
+          "translations": {
+            "zh-TW": "龐大的供應商網絡確保工廠運作順暢。"
           }
         }
       ],
       "synonyms": [
         "widespread",
-        "comprehensive"
+        "comprehensive",
+        "broad"
       ],
       "antonyms": [
         "limited",
         "narrow"
       ],
       "phrases": [
-        "extensive",
-        "research",
-        "extensive",
-        "damage"
+        "extensive research",
+        "extensive experience",
+        "extensive damage",
+        "extensive range"
       ]
     },
     {
@@ -368,47 +482,62 @@
       "toeic_score_min": 200,
       "word": "extent",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "extented",
-        "past_participle": "extented",
-        "present_participle": "extenting",
-        "third_person": "extents"
+        "plural": "extents"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "extent",
-          "definition": "n. 范围, 程度, 區域, [计] 范围"
+          "definition": "n. 程度、範圍、限度"
         }
       ],
       "examples": [
         {
-          "en": "The extent of the damage was unknown.",
+          "en": "The insurance covers damage to a limited extent under this policy.",
           "highlight": [
             "extent"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "依此保單規定，保險理賠的損失僅涵蓋有限範圍。"
+          }
+        },
+        {
+          "en": "Analysts were surprised by the full extent of the economic downturn.",
+          "highlight": [
+            "extent"
+          ],
+          "translations": {
+            "zh-TW": "分析師對這次經濟下滑的全面程度感到驚訝。"
+          }
+        },
+        {
+          "en": "The two cases differ in extent rather than in nature.",
+          "highlight": [
+            "extent"
+          ],
+          "translations": {
+            "zh-TW": "這兩起案件在性質上並無不同，而是在範圍上有別。"
           }
         }
       ],
       "synonyms": [
         "scope",
-        "range"
+        "range",
+        "degree"
       ],
       "antonyms": [
         "limit",
         "restriction"
       ],
       "phrases": [
-        "full",
-        "extent",
-        "large",
-        "extent"
+        "to some extent",
+        "to a certain extent",
+        "full extent",
+        "extent of damage"
       ]
     },
     {
@@ -420,6 +549,7 @@
       "word": "extra",
       "pos": [
         "adjective",
+        "adverb",
         "noun"
       ],
       "conjugations": {
@@ -430,30 +560,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "extra",
-          "definition": "n. 额外的事物, 另外的收费, a. 额外的, 特别的, adv. 额外地, 特别地, 非常地"
+          "definition": "adj. 額外的、多餘的  adv. 額外地  n. 附加物、臨時演員"
         }
       ],
       "examples": [
         {
-          "en": "He needed extra time to finish the test.",
+          "en": "Late delivery will cost an extra fee of five dollars per package.",
           "highlight": [
             "extra"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "延遲送達每件包裹將收取五美元的額外費用。"
+          }
+        },
+        {
+          "en": "Several extras were hired for the outdoor scene in the movie.",
+          "highlight": [
+            "extras"
+          ],
+          "translations": {
+            "zh-TW": "電影中的戶外場景雇用了幾名臨時演員。"
+          }
+        },
+        {
+          "en": "Participants can pay extra to access the VIP networking lounge.",
+          "highlight": [
+            "extra"
+          ],
+          "translations": {
+            "zh-TW": "參加者可以額外付費使用 VIP 交誼廳。"
           }
         }
       ],
       "synonyms": [
         "additional",
-        "supplementary"
+        "supplementary",
+        "bonus"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "basic",
+        "standard"
+      ],
       "phrases": [
-        "extra",
-        "time",
-        "extra",
-        "money"
+        "extra time",
+        "extra charge",
+        "extra money",
+        "no extra cost"
       ]
     },
     {
@@ -464,44 +616,60 @@
       "toeic_score_min": 200,
       "word": "extraordinary",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "extraordinaries"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "extraordinary",
-          "definition": "a. 非常的, 特别的, 非凡的, [經] 非常的, 特别的, 临時的"
+          "definition": "adj. 非凡的、特別的、驚人的"
         }
       ],
       "examples": [
         {
-          "en": "Her performance was extraordinary.",
+          "en": "The athlete showed extraordinary discipline throughout the training season.",
           "highlight": [
             "extraordinary"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位運動員在整個訓練季展現出非凡的自律。"
+          }
+        },
+        {
+          "en": "An extraordinary general meeting was called to approve the merger plan.",
+          "highlight": [
+            "extraordinary"
+          ],
+          "translations": {
+            "zh-TW": "為了通過合併計畫，公司召開了臨時股東大會。"
+          }
+        },
+        {
+          "en": "Her extraordinary leadership helped the team meet a tight deadline.",
+          "highlight": [
+            "extraordinary"
+          ],
+          "translations": {
+            "zh-TW": "她出色的領導能力幫助團隊在緊迫的期限內完成任務。"
           }
         }
       ],
       "synonyms": [
         "remarkable",
-        "exceptional"
+        "exceptional",
+        "outstanding"
       ],
       "antonyms": [
         "ordinary",
         "common"
       ],
       "phrases": [
-        "extraordinary",
-        "talent",
-        "extraordinary",
-        "event"
+        "extraordinary meeting",
+        "extraordinary talent",
+        "extraordinary circumstances",
+        "extraordinary result"
       ]
     }
   ]
