@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 118,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-118-001",
@@ -15,43 +15,61 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "fainted",
+        "present_3rd": "faints",
+        "past": "fainted",
         "past_participle": "fainted",
-        "present_participle": "fainting",
-        "third_person": "faints"
+        "ing": "fainting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "faint",
-          "definition": "n. 昏厥, 昏倒, a. 模糊的, 微弱的, 无力的, vi. 昏倒, 变得微弱"
+          "definition": "a. 微弱的、模糊的、昏眩的  v. 昏倒、暈厥"
         }
       ],
       "examples": [
         {
-          "en": "She felt faint after standing up too quickly.",
+          "en": "A faint sound came from the next room during the meeting.",
           "highlight": [
             "faint"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "會議中，隔壁房間傳來一陣微弱的聲音。"
+          }
+        },
+        {
+          "en": "The witness fainted when she saw the defendant enter the courtroom.",
+          "highlight": [
+            "fainted"
+          ],
+          "translations": {
+            "zh-TW": "證人看到被告走進法庭時，當場昏倒了。"
+          }
+        },
+        {
+          "en": "She felt fainting after missing lunch and rushing to the airport.",
+          "highlight": [
+            "fainting"
+          ],
+          "translations": {
+            "zh-TW": "她錯過午餐又趕著去機場，覺得一陣暈眩。"
           }
         }
       ],
       "synonyms": [
         "weak",
-        "pale"
+        "pale",
+        "dizzy"
       ],
       "antonyms": [
         "strong",
-        "robust"
+        "clear"
       ],
       "phrases": [
-        "faint",
-        "smell",
-        "feel",
-        "faint"
+        "faint sound",
+        "feel faint",
+        "faint smell"
       ]
     },
     {
@@ -66,40 +84,61 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "fairs"
+        "plural": "fairs",
+        "comparative": "fairer",
+        "superlative": "fairest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "fair",
-          "definition": "n. 展览會, 市集, 美好的事物, a. 公平的, 按规则进行的, 不好不坏的, 晴朗的, 美丽的, adv. 公平地, 正面地, 有教养地, 清楚地, vi. 转晴"
+          "definition": "a. 公平的、合理的、晴朗的  n. 博覽會、市集"
         }
       ],
       "examples": [
         {
-          "en": "He received a fair trial.",
+          "en": "The manager gave a fair warning before dismissing the employee.",
           "highlight": [
             "fair"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理在解雇員工之前給予了合理的警告。"
+          }
+        },
+        {
+          "en": "The trade fair attracted buyers from over thirty countries.",
+          "highlight": [
+            "fair"
+          ],
+          "translations": {
+            "zh-TW": "這場貿易博覽會吸引了來自三十多個國家的買家。"
+          }
+        },
+        {
+          "en": "The judges agreed it was the fairest price they had ever offered.",
+          "highlight": [
+            "fairest"
+          ],
+          "translations": {
+            "zh-TW": "評審們一致認為這是他們給出過最公道的價格。"
           }
         }
       ],
       "synonyms": [
         "just",
-        "impartial"
+        "impartial",
+        "reasonable"
       ],
       "antonyms": [
         "unfair",
         "biased"
       ],
       "phrases": [
-        "fair",
-        "treatment",
-        "fair",
-        "price"
+        "fair price",
+        "trade fair",
+        "fair trial",
+        "fair enough"
       ]
     },
     {
@@ -118,33 +157,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "fairly",
-          "definition": "adv. 美观地, 公平地, 相当地, 清楚地"
+          "definition": "adv. 公平地、相當、還算"
         }
       ],
       "examples": [
         {
-          "en": "The judge ruled fairly.",
+          "en": "The contract was reviewed fairly by both legal teams.",
           "highlight": [
             "fairly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "合約由雙方法務團隊公平地審查過。"
+          }
+        },
+        {
+          "en": "The hotel room was fairly clean, but the bathroom needed work.",
+          "highlight": [
+            "fairly"
+          ],
+          "translations": {
+            "zh-TW": "這間旅館房間還算乾淨，但浴室需要整理。"
+          }
+        },
+        {
+          "en": "They handled the complaint fairly, offering a full refund.",
+          "highlight": [
+            "fairly"
+          ],
+          "translations": {
+            "zh-TW": "他們公平地處理了投訴，提供了全額退款。"
           }
         }
       ],
       "synonyms": [
         "impartially",
-        "equitably"
+        "equitably",
+        "rather"
       ],
       "antonyms": [
         "unjustly",
         "unfairly"
       ],
       "phrases": [
-        "fairly",
-        "easy",
-        "fairly",
-        "new"
+        "treat fairly",
+        "fairly easy",
+        "fairly new"
       ]
     },
     {
@@ -155,47 +212,62 @@
       "toeic_score_min": 200,
       "word": "faith",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "faithed",
-        "past_participle": "faithed",
-        "present_participle": "faithing",
-        "third_person": "faiths"
+        "plural": "faiths"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "faith",
-          "definition": "n. 信心, 信任, 忠實, 保证, [法] 信任, 信仰, 信念"
+          "definition": "n. 信心、信任、信仰、信念"
         }
       ],
       "examples": [
         {
-          "en": "She has faith in her friends.",
+          "en": "The client has complete faith in our consulting team.",
           "highlight": [
             "faith"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "客戶對我們的顧問團隊有完全的信心。"
+          }
+        },
+        {
+          "en": "Different faiths were represented at the interfaith business summit.",
+          "highlight": [
+            "faiths"
+          ],
+          "translations": {
+            "zh-TW": "不同的宗教信仰都派代表出席了這場跨信仰商業峰會。"
+          }
+        },
+        {
+          "en": "She kept faith with her suppliers even when prices dropped.",
+          "highlight": [
+            "faith"
+          ],
+          "translations": {
+            "zh-TW": "即使價格下跌，她仍對供應商恪守承諾。"
           }
         }
       ],
       "synonyms": [
         "trust",
-        "belief"
+        "belief",
+        "confidence"
       ],
       "antonyms": [
         "doubt",
         "disbelief"
       ],
       "phrases": [
-        "have",
-        "faith",
-        "blind",
-        "faith"
+        "have faith in",
+        "good faith",
+        "keep faith with",
+        "blind faith"
       ]
     },
     {
@@ -206,44 +278,62 @@
       "toeic_score_min": 200,
       "word": "faithful",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "faithfuls"
+        "comparative": "more faithful",
+        "superlative": "most faithful"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "faithful",
-          "definition": "a. 忠實的, 详确的, 可靠的, n. 信徒"
+          "definition": "a. 忠實的、忠誠的、可靠的、如實的"
         }
       ],
       "examples": [
         {
-          "en": "She has always been faithful to her friends.",
+          "en": "He has been a faithful customer of the bank for twenty years.",
           "highlight": [
             "faithful"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "二十年來他一直是這家銀行的忠實客戶。"
+          }
+        },
+        {
+          "en": "The assistant gave a more faithful account of the meeting than the notes.",
+          "highlight": [
+            "more faithful"
+          ],
+          "translations": {
+            "zh-TW": "助理對會議的描述比會議記錄更如實。"
+          }
+        },
+        {
+          "en": "The translator was praised for producing the most faithful English version.",
+          "highlight": [
+            "most faithful"
+          ],
+          "translations": {
+            "zh-TW": "這位翻譯者因完成最忠於原文的英文版本而受到讚揚。"
           }
         }
       ],
       "synonyms": [
         "loyal",
-        "devoted"
+        "devoted",
+        "reliable"
       ],
       "antonyms": [
         "disloyal",
         "unfaithful"
       ],
       "phrases": [
-        "faithful",
-        "friend",
-        "faithful",
-        "companion"
+        "faithful friend",
+        "faithful companion",
+        "faithful customer"
       ]
     },
     {
@@ -262,33 +352,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "faithfully",
-          "definition": "adv. 忠實地, 诚心诚意地, 深信着地"
+          "definition": "adv. 忠實地、如實地、誠心誠意地"
         }
       ],
       "examples": [
         {
-          "en": "He served the company faithfully for 40 years.",
+          "en": "The auditor faithfully recorded every expense in the report.",
           "highlight": [
             "faithfully"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "查帳員在報告中忠實地記下了每一筆開支。"
+          }
+        },
+        {
+          "en": "Yours faithfully, the customer service department — that was how the letter ended.",
+          "highlight": [
+            "faithfully"
+          ],
+          "translations": {
+            "zh-TW": "「敬上，客服部門」——這封信就以此結尾。"
+          }
+        },
+        {
+          "en": "She faithfully attended every quarterly shareholders' meeting.",
+          "highlight": [
+            "faithfully"
+          ],
+          "translations": {
+            "zh-TW": "她每次季股東會議都準時出席，從不缺席。"
           }
         }
       ],
       "synonyms": [
         "loyally",
-        "devotedly"
+        "devotedly",
+        "accurately"
       ],
       "antonyms": [
         "disloyally",
         "unfaithfully"
       ],
       "phrases": [
-        "serve",
-        "faithfully",
-        "report",
-        "faithfully"
+        "serve faithfully",
+        "yours faithfully",
+        "report faithfully"
       ]
     },
     {
@@ -303,43 +411,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "falled",
-        "past_participle": "falled",
-        "present_participle": "falling",
-        "third_person": "falls"
+        "plural": "falls",
+        "present_3rd": "falls",
+        "past": "fell",
+        "past_participle": "fallen",
+        "ing": "falling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "fall",
-          "definition": "n. 落下, 瀑布, 采伐量, 下降, 落差, 降低, 堕落, 秋天, vi. 倒下, 落下, 來临, 失守, 阵亡, 下跌, 减弱, 倾斜, 垮台, 轮到, 变成, 降低, a. 秋天的"
+          "definition": "v. 跌倒、落下、下降、來臨  n. 落下、秋季、瀑布、下跌"
         }
       ],
       "examples": [
         {
-          "en": "Leaves fall from the trees in autumn.",
+          "en": "Sales always fall in late summer before the autumn promotion.",
           "highlight": [
             "fall"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "盛夏促銷前，業績總是會下滑。"
+          }
+        },
+        {
+          "en": "The stock price fell sharply after the merger was cancelled.",
+          "highlight": [
+            "fell"
+          ],
+          "translations": {
+            "zh-TW": "合併案取消後，股價大幅下跌。"
+          }
+        },
+        {
+          "en": "By November, sales had fallen below the company's yearly target.",
+          "highlight": [
+            "fallen"
+          ],
+          "translations": {
+            "zh-TW": "到了十一月，營業額已跌破公司年度目標。"
           }
         }
       ],
       "synonyms": [
         "drop",
-        "descend"
+        "descend",
+        "decline"
       ],
       "antonyms": [
         "rise",
-        "ascend"
+        "ascend",
+        "climb"
       ],
       "phrases": [
-        "fall",
-        "down",
-        "fall",
-        "off"
+        "fall down",
+        "fall off",
+        "fall apart",
+        "fall in love"
       ]
     },
     {
@@ -350,44 +479,64 @@
       "toeic_score_min": 200,
       "word": "false",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "falses"
+        "comparative": "falser",
+        "superlative": "falsest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "false",
-          "definition": "a. 錯误的, 虚伪的, 假的, 不老實的, adv. 不准确地, 欺诈地"
+          "definition": "a. 錯誤的、虛假的、不實的、假的"
         }
       ],
       "examples": [
         {
-          "en": "He gave a false name.",
+          "en": "The applicant was caught using a false ID at the airport security check.",
           "highlight": [
             "false"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這名求職者在機場安檢時被查出使用假證件。"
+          }
+        },
+        {
+          "en": "The bank refused the transfer because the signature was falser than the one on file.",
+          "highlight": [
+            "falser"
+          ],
+          "translations": {
+            "zh-TW": "銀行拒絕了這次轉帳，因為簽名比存檔的更不真實。"
+          }
+        },
+        {
+          "en": "The report warned this was the falsest claim they had seen all year.",
+          "highlight": [
+            "falsest"
+          ],
+          "translations": {
+            "zh-TW": "報告警告，這是他們全年看過最虛假的聲明。"
           }
         }
       ],
       "synonyms": [
         "incorrect",
-        "untrue"
+        "untrue",
+        "fake"
       ],
       "antonyms": [
         "true",
-        "correct"
+        "correct",
+        "genuine"
       ],
       "phrases": [
-        "false",
-        "statement",
-        "false",
-        "identity"
+        "false statement",
+        "false identity",
+        "false alarm",
+        "false claim"
       ]
     },
     {
@@ -398,48 +547,62 @@
       "toeic_score_min": 200,
       "word": "fame",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "fameed",
-        "past_participle": "fameed",
-        "present_participle": "faming",
-        "third_person": "fames"
+        "plural": "fames"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "fame",
-          "definition": "n. 名望, 名声, 传說"
+          "definition": "n. 名望、名聲、聲譽"
         }
       ],
       "examples": [
         {
-          "en": "She gained fame as a singer.",
+          "en": "The chef achieved international fame after winning the cooking competition.",
           "highlight": [
             "fame"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "主廚拿下烹飪比賽冠軍後，獲得了國際知名度。"
+          }
+        },
+        {
+          "en": "Many retired athletes find that fame fades faster than expected.",
+          "highlight": [
+            "fame"
+          ],
+          "translations": {
+            "zh-TW": "許多退休運動員發現，名氣消退得比預期還要快。"
+          }
+        },
+        {
+          "en": "Her name became one of the most recognizable fames in the Asian fashion industry.",
+          "highlight": [
+            "fames"
+          ],
+          "translations": {
+            "zh-TW": "她的名字成了亞洲時尚業中最具辨識度的名人之一。"
           }
         }
       ],
       "synonyms": [
         "renown",
-        "celebrity"
+        "celebrity",
+        "reputation"
       ],
       "antonyms": [
         "obscurity",
         "anonymity"
       ],
       "phrases": [
-        "rise",
-        "to",
-        "fame",
-        "achieve",
-        "fame"
+        "rise to fame",
+        "achieve fame",
+        "fame and fortune",
+        "hall of fame"
       ]
     },
     {
@@ -454,40 +617,62 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "familiars"
+        "plural": "familiars",
+        "comparative": "more familiar",
+        "superlative": "most familiar"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "familiar",
-          "definition": "a. 熟悉的, 常见的, 亲密的, n. 熟友, 常客"
+          "definition": "a. 熟悉的、常見的、親密的  n. 熟友、常客"
         }
       ],
       "examples": [
         {
-          "en": "She looked familiar to me.",
+          "en": "The receptionist's face looked familiar to the returning guest.",
           "highlight": [
             "familiar"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "對回頭客而言，櫃台人員的臉看起來很熟悉。"
+          }
+        },
+        {
+          "en": "After three months, the new employee felt more familiar with the software.",
+          "highlight": [
+            "more familiar"
+          ],
+          "translations": {
+            "zh-TW": "三個月後，新進員工對這套軟體感到更熟悉了。"
+          }
+        },
+        {
+          "en": "He was the most familiar with the merger details among the team members.",
+          "highlight": [
+            "most familiar"
+          ],
+          "translations": {
+            "zh-TW": "在團隊成員中，他對併購細節最為熟悉。"
           }
         }
       ],
       "synonyms": [
         "recognized",
-        "acquainted"
+        "acquainted",
+        "known"
       ],
       "antonyms": [
         "unfamiliar",
-        "strange"
+        "strange",
+        "unknown"
       ],
       "phrases": [
-        "familiar",
-        "face",
-        "seem",
-        "familiar"
+        "familiar face",
+        "seem familiar",
+        "familiar with",
+        "familiar territory"
       ]
     }
   ]
