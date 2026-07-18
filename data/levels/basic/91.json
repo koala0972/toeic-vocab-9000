@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 91,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-091-001",
@@ -11,47 +11,64 @@
       "toeic_score_min": 200,
       "word": "disappear",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "disappeared",
+        "present_3rd": "disappears",
+        "past": "disappeared",
         "past_participle": "disappeared",
-        "present_participle": "disappearing",
-        "third_person": "disappears"
+        "ing": "disappearing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "disappear",
-          "definition": "vi. 消失, 不见"
+          "definition": "v. 消失、不見"
         }
       ],
       "examples": [
         {
-          "en": "The sun disappeared behind the clouds.",
+          "en": "The ship disappeared over the horizon as the sun set.",
+          "highlight": [
+            "disappeared"
+          ],
+          "translations": {
+            "zh-TW": "船隻隨著日落消失在地平線的另一端。"
+          }
+        },
+        {
+          "en": "The magician made the coin disappear right before our eyes.",
           "highlight": [
             "disappear"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "魔術師在我們面前把硬幣變消失了。"
+          }
+        },
+        {
+          "en": "The fog is disappearing quickly now that the wind has picked up.",
+          "highlight": [
+            "disappearing"
+          ],
+          "translations": {
+            "zh-TW": "起風之後霧氣正迅速消散。"
           }
         }
       ],
       "synonyms": [
         "vanish",
-        "fade"
+        "fade",
+        "evaporate"
       ],
       "antonyms": [
         "appear",
         "emerge"
       ],
       "phrases": [
-        "suddenly",
-        "disappear",
-        "disappear",
-        "completely"
+        "disappear without a trace",
+        "disappear into thin air",
+        "make disappear"
       ]
     },
     {
@@ -62,48 +79,64 @@
       "toeic_score_min": 200,
       "word": "disappoint",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "disappointed",
+        "present_3rd": "disappoints",
+        "past": "disappointed",
         "past_participle": "disappointed",
-        "present_participle": "disappointing",
-        "third_person": "disappoints"
+        "ing": "disappointing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "disappoint",
-          "definition": "vt. 使失望"
+          "definition": "v. 使失望、辜負期望"
         }
       ],
       "examples": [
         {
-          "en": "The movie disappointed many fans.",
+          "en": "The new restaurant disappointed us with its slow service and cold food.",
+          "highlight": [
+            "disappointed"
+          ],
+          "translations": {
+            "zh-TW": "這家新餐廳服務慢、菜又涼，讓我們很失望。"
+          }
+        },
+        {
+          "en": "Please don't disappoint your parents by skipping the exam.",
           "highlight": [
             "disappoint"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請別蹺掉考試，這樣會辜負你父母的期望。"
+          }
+        },
+        {
+          "en": "The CEO's speech disappoints employees who expected a bigger bonus.",
+          "highlight": [
+            "disappoints"
+          ],
+          "translations": {
+            "zh-TW": "執行長的談話讓原本期待更高年終的員工感到失望。"
           }
         }
       ],
       "synonyms": [
-        "let",
-        "down",
-        "fail"
+        "let down",
+        "fail",
+        "dismay"
       ],
       "antonyms": [
         "satisfy",
-        "fulfill"
+        "impress"
       ],
       "phrases": [
-        "bitterly",
-        "disappoint",
-        "disappoint",
-        "greatly"
+        "disappoint someone's expectations",
+        "bitterly disappoint",
+        "fail to disappoint"
       ]
     },
     {
@@ -114,47 +147,61 @@
       "toeic_score_min": 200,
       "word": "disappointed",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
-      "conjugations": {
-        "past_tense": "disappointeded",
-        "past_participle": "disappointeded",
-        "present_participle": "disappointeding",
-        "third_person": "disappointeds"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "disappointed",
-          "definition": "a. 失望的"
+          "definition": "adj. 失望的、感到沮喪的"
         }
       ],
       "examples": [
         {
-          "en": "She was disappointed with the test results.",
+          "en": "She was disappointed with her test results despite weeks of preparation.",
           "highlight": [
             "disappointed"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "儘管準備了好幾週，她對考試成績還是很失望。"
+          }
+        },
+        {
+          "en": "The disappointed customer asked for a refund after the product broke in two days.",
+          "highlight": [
+            "disappointed"
+          ],
+          "translations": {
+            "zh-TW": "這名失望的顧客在產品兩天就壞掉後要求退款。"
+          }
+        },
+        {
+          "en": "He felt disappointed at not being selected for the promotion.",
+          "highlight": [
+            "disappointed"
+          ],
+          "translations": {
+            "zh-TW": "他因為沒被選上晉升而感到失望。"
           }
         }
       ],
       "synonyms": [
+        "disheartened",
         "dismayed",
-        "disheartened"
+        "let down"
       ],
       "antonyms": [
         "pleased",
-        "satisfied"
+        "satisfied",
+        "delighted"
       ],
       "phrases": [
-        "feel",
-        "disappointed",
-        "deeply",
-        "disappointed"
+        "disappointed in",
+        "disappointed with",
+        "disappointed at",
+        "deeply disappointed"
       ]
     },
     {
@@ -165,47 +212,61 @@
       "toeic_score_min": 200,
       "word": "disappointing",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
-      "conjugations": {
-        "past_tense": "disappointinged",
-        "past_participle": "disappointinged",
-        "present_participle": "disappointinging",
-        "third_person": "disappointings"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "disappointing",
-          "definition": "a. 使失望的, 期待落空的, 令人沮丧的"
+          "definition": "adj. 令人失望的、讓人期待的"
         }
       ],
       "examples": [
         {
-          "en": "The game was disappointing.",
+          "en": "The quarterly sales report was disappointing for the third time in a row.",
           "highlight": [
             "disappointing"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "季度銷售報告令人失望，這已經是連續第三次了。"
+          }
+        },
+        {
+          "en": "A disappointing outcome forced the coach to rethink his strategy.",
+          "highlight": [
+            "disappointing"
+          ],
+          "translations": {
+            "zh-TW": "令人失望的賽果迫使教練重新思考戰術。"
+          }
+        },
+        {
+          "en": "It is disappointing that the new software still crashes during the demo.",
+          "highlight": [
+            "disappointing"
+          ],
+          "translations": {
+            "zh-TW": "新軟體在展示時還是會當機，實在令人失望。"
           }
         }
       ],
       "synonyms": [
         "unsatisfactory",
-        "discouraging"
+        "discouraging",
+        "underwhelming"
       ],
       "antonyms": [
         "satisfactory",
-        "fulfilling"
+        "fulfilling",
+        "impressive"
       ],
       "phrases": [
-        "very",
-        "disappointing",
-        "quite",
-        "disappointing"
+        "disappointing result",
+        "disappointing performance",
+        "very disappointing",
+        "disappointing news"
       ]
     },
     {
@@ -216,47 +277,63 @@
       "toeic_score_min": 200,
       "word": "disappointment",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "disappointmented",
-        "past_participle": "disappointmented",
-        "present_participle": "disappointmenting",
-        "third_person": "disappointments"
+        "plural": "disappointments"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "disappointment",
-          "definition": "n. 失望"
+          "definition": "n. 失望、令人失望的人事物"
         }
       ],
       "examples": [
         {
-          "en": "His failure was a huge disappointment.",
+          "en": "His failure to win the contract was a huge disappointment to the team.",
           "highlight": [
             "disappointment"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他未能拿下這份合約，對團隊來說是個巨大的失望。"
+          }
+        },
+        {
+          "en": "She has experienced many disappointments in her acting career but never gave up.",
+          "highlight": [
+            "disappointments"
+          ],
+          "translations": {
+            "zh-TW": "她在演藝生涯中經歷過許多次失望，但從未放棄。"
+          }
+        },
+        {
+          "en": "To our disappointment, the concert was cancelled due to the storm.",
+          "highlight": [
+            "disappointment"
+          ],
+          "translations": {
+            "zh-TW": "令我們失望的是，演唱會因為暴風雨而取消了。"
           }
         }
       ],
       "synonyms": [
         "letdown",
-        "setback"
+        "setback",
+        "frustration"
       ],
       "antonyms": [
         "satisfaction",
-        "fulfillment"
+        "fulfillment",
+        "success"
       ],
       "phrases": [
-        "huge",
-        "disappointment",
-        "great",
-        "disappointment"
+        "to someone's disappointment",
+        "huge disappointment",
+        "disappointment to",
+        "disappointment over"
       ]
     },
     {
@@ -267,48 +344,63 @@
       "toeic_score_min": 200,
       "word": "disapproval",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "disapprovaled",
-        "past_participle": "disapprovaled",
-        "present_participle": "disapprovaling",
-        "third_person": "disapprovals"
+        "plural": "disapprovals"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "disapproval",
-          "definition": "n. 不赞成"
+          "definition": "n. 不贊同、反對、非難"
         }
       ],
       "examples": [
         {
-          "en": "She looked at him with disapproval.",
+          "en": "The committee expressed its disapproval of the proposed budget cuts.",
           "highlight": [
             "disapproval"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "委員會對所提議的預算削減表達了不贊同。"
+          }
+        },
+        {
+          "en": "Her parents' disapprovals of the marriage plan surprised everyone.",
+          "highlight": [
+            "disapprovals"
+          ],
+          "translations": {
+            "zh-TW": "她父母對這樁婚事的多項反對，讓所有人都很驚訝。"
+          }
+        },
+        {
+          "en": "He shook his head in disapproval when the student used a phone during class.",
+          "highlight": [
+            "disapproval"
+          ],
+          "translations": {
+            "zh-TW": "當學生在上課時使用手機，他搖頭表示不贊同。"
           }
         }
       ],
       "synonyms": [
         "criticism",
-        "dislike"
+        "objection",
+        "displeasure"
       ],
       "antonyms": [
         "approval",
-        "praise"
+        "praise",
+        "endorsement"
       ],
       "phrases": [
-        "look",
-        "of",
-        "disapproval",
-        "show",
-        "disapproval"
+        "shake one's head in disapproval",
+        "express disapproval",
+        "look of disapproval",
+        "meet with disapproval"
       ]
     },
     {
@@ -319,47 +411,65 @@
       "toeic_score_min": 200,
       "word": "disapprove",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "disapproveed",
-        "past_participle": "disapproveed",
-        "present_participle": "disapproving",
-        "third_person": "disapproves"
+        "present_3rd": "disapproves",
+        "past": "disapproved",
+        "past_participle": "disapproved",
+        "ing": "disapproving"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "disapprove",
-          "definition": "v. 不赞成"
+          "definition": "v. 不贊同、反對"
         }
       ],
       "examples": [
         {
-          "en": "They disapprove of smoking.",
+          "en": "Many shareholders disapprove of the CEO's plan to sell the company.",
           "highlight": [
             "disapprove"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "許多股東不贊同執行長出售公司的計畫。"
+          }
+        },
+        {
+          "en": "My parents disapproved of my decision to drop out of college.",
+          "highlight": [
+            "disapproved"
+          ],
+          "translations": {
+            "zh-TW": "我父母反對我從大學退學的決定。"
+          }
+        },
+        {
+          "en": "The teacher disapproves of students using phones during the lecture.",
+          "highlight": [
+            "disapproves"
+          ],
+          "translations": {
+            "zh-TW": "老師不贊成學生在上課時使用手機。"
           }
         }
       ],
       "synonyms": [
-        "condemn",
-        "reject"
+        "object to",
+        "oppose",
+        "condemn"
       ],
       "antonyms": [
         "approve",
-        "endorse"
+        "endorse",
+        "support"
       ],
       "phrases": [
-        "strongly",
-        "disapprove",
-        "disapprove",
-        "of"
+        "disapprove of",
+        "strongly disapprove",
+        "disapprove strongly"
       ]
     },
     {
@@ -370,47 +480,61 @@
       "toeic_score_min": 200,
       "word": "disapproving",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
-      "conjugations": {
-        "past_tense": "disapprovinged",
-        "past_participle": "disapprovinged",
-        "present_participle": "disapprovinging",
-        "third_person": "disapprovings"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "disapproving",
-          "definition": "a. 不满的, 反對的, v. 不赞成( disapprove的现在分词 )"
+          "definition": "adj. 不贊同的、非難的"
         }
       ],
       "examples": [
         {
-          "en": "He gave a disapproving glance.",
+          "en": "She gave her son a disapproving look when he arrived late for dinner.",
           "highlight": [
             "disapproving"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她兒子晚餐遲到時，她給了他一個不贊同的眼神。"
+          }
+        },
+        {
+          "en": "The disapproving crowd murmured as the politician defended his remarks.",
+          "highlight": [
+            "disapproving"
+          ],
+          "translations": {
+            "zh-TW": "當這位政治人物為自己的言論辯護時，不滿的群眾嘀咕了起來。"
+          }
+        },
+        {
+          "en": "His disapproving tone made it clear he did not support the new policy.",
+          "highlight": [
+            "disapproving"
+          ],
+          "translations": {
+            "zh-TW": "他不贊同的口氣顯示他並不支持這項新政策。"
           }
         }
       ],
       "synonyms": [
         "critical",
-        "disfavoring"
+        "disapprobatory",
+        "censorious"
       ],
       "antonyms": [
         "approving",
-        "favorable"
+        "favorable",
+        "supportive"
       ],
       "phrases": [
-        "disapproving",
-        "look",
-        "disapproving",
-        "tone"
+        "disapproving look",
+        "disapproving tone",
+        "disapproving glance",
+        "disapproving crowd"
       ]
     },
     {
@@ -421,47 +545,63 @@
       "toeic_score_min": 200,
       "word": "disaster",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "disastered",
-        "past_participle": "disastered",
-        "present_participle": "disastering",
-        "third_person": "disasters"
+        "plural": "disasters"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "disaster",
-          "definition": "n. 灾祸, 不幸, 彻底失败"
+          "definition": "n. 災難、災禍、徹底的失敗"
         }
       ],
       "examples": [
         {
-          "en": "The earthquake was a disaster.",
+          "en": "The earthquake was the worst natural disaster the country had faced in a century.",
           "highlight": [
             "disaster"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "那場地震是這個國家一世紀以來最嚴重的天然災難。"
+          }
+        },
+        {
+          "en": "Several disasters hit the region this year, including floods and wildfires.",
+          "highlight": [
+            "disasters"
+          ],
+          "translations": {
+            "zh-TW": "今年有數場災難襲擊該地區，包括水災和野火。"
+          }
+        },
+        {
+          "en": "The product launch turned into a disaster when the website crashed on day one.",
+          "highlight": [
+            "disaster"
+          ],
+          "translations": {
+            "zh-TW": "產品發表會第一天網站就當機，整個活動變成一場災難。"
           }
         }
       ],
       "synonyms": [
         "calamity",
-        "catastrophe"
+        "catastrophe",
+        "tragedy"
       ],
       "antonyms": [
         "miracle",
-        "blessing"
+        "blessing",
+        "triumph"
       ],
       "phrases": [
-        "natural",
-        "disaster",
-        "disaster",
-        "relief"
+        "natural disaster",
+        "disaster relief",
+        "disaster recovery",
+        "disaster strikes"
       ]
     },
     {
@@ -472,44 +612,59 @@
       "toeic_score_min": 200,
       "word": "disc",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "disced",
-        "past_participle": "disced",
-        "present_participle": "discing",
-        "third_person": "discs"
+        "plural": "discs"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "disc",
-          "definition": "n. 圆盘, 唱片, vt. 灌唱片"
+          "definition": "n. 圓盤、唱片、光碟"
         }
       ],
       "examples": [
         {
-          "en": "She inserted the disc into the computer.",
+          "en": "She carefully placed the old vinyl disc on the turntable.",
           "highlight": [
             "disc"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她小心地把那張老黑膠唱片放到唱盤上。"
+          }
+        },
+        {
+          "en": "Several discs in the cabinet were rare jazz recordings from the 1960s.",
+          "highlight": [
+            "discs"
+          ],
+          "translations": {
+            "zh-TW": "櫃子裡有幾張唱片是一九六〇年代珍稀的爵士錄音。"
+          }
+        },
+        {
+          "en": "Insert the installation disc into the drive and wait for the prompt.",
+          "highlight": [
+            "disc"
+          ],
+          "translations": {
+            "zh-TW": "請將安裝光碟插入光碟機，並等待提示訊息出現。"
           }
         }
       ],
       "synonyms": [
-        "plate",
+        "disk",
+        "record",
         "platter"
       ],
       "antonyms": [],
       "phrases": [
-        "compact",
-        "disc",
-        "insert",
-        "disc"
+        "compact disc",
+        "disc jockey",
+        "slipped disc",
+        "vinyl disc"
       ]
     }
   ]
