@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 127,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-127-001",
@@ -15,44 +15,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "followed",
+        "plural": "follows",
+        "present_3rd": "follows",
+        "past": "followed",
         "past_participle": "followed",
-        "present_participle": "following",
-        "third_person": "follows"
+        "ing": "following"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "follow",
-          "definition": "vt. 跟随, 沿行, 遵循, 追求, vi. 跟随, 接着, n. 跟随, 追随"
+          "definition": "v. 跟隨、遵循、追蹤  n. 追隨、跟隨"
         }
       ],
       "examples": [
         {
-          "en": "The dog followed its owner.",
+          "en": "Please follow the instructions on the form before submitting it.",
           "highlight": [
             "follow"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在提交前遵循表格上的指示。"
+          }
+        },
+        {
+          "en": "The new manager followed the same strategy that had worked the previous year.",
+          "highlight": [
+            "followed"
+          ],
+          "translations": {
+            "zh-TW": "新任經理沿用了前一年奏效的相同策略。"
+          }
+        },
+        {
+          "en": "She has been following the company's stock price closely for the past three months.",
+          "highlight": [
+            "following"
+          ],
+          "translations": {
+            "zh-TW": "過去三個月她一直密切追蹤這家公司的股價。"
           }
         }
       ],
       "synonyms": [
+        "pursue",
         "trail",
-        "pursue"
+        "obey"
       ],
       "antonyms": [
         "lead",
         "precede"
       ],
       "phrases": [
-        "follow",
-        "the",
-        "leader",
-        "follow",
-        "directions"
+        "follow up",
+        "follow the rules",
+        "follow the leader",
+        "as follows"
       ]
     },
     {
@@ -64,7 +83,8 @@
       "word": "following",
       "pos": [
         "adjective",
-        "noun"
+        "noun",
+        "preposition"
       ],
       "conjugations": {
         "plural": "followings"
@@ -74,33 +94,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "following",
-          "definition": "n. 下列各项, 部下, 追随者, a. 下列的, 其次的"
+          "definition": "a. 下列的、接著的  n. 追隨者、支持者  prep. 在...之後"
         }
       ],
       "examples": [
         {
-          "en": "The following day, they went hiking.",
+          "en": "Please review the following documents before the meeting.",
           "highlight": [
             "following"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在會議前審閱下列文件。"
+          }
+        },
+        {
+          "en": "The company has built a loyal following through its quality products.",
+          "highlight": [
+            "following"
+          ],
+          "translations": {
+            "zh-TW": "這家公司靠著優質的產品建立起忠實的顧客群。"
+          }
+        },
+        {
+          "en": "Following the announcement, the share price rose sharply.",
+          "highlight": [
+            "Following"
+          ],
+          "translations": {
+            "zh-TW": "公告發布之後，股價隨即大幅上揚。"
           }
         }
       ],
       "synonyms": [
         "subsequent",
-        "next"
+        "next",
+        "ensuing"
       ],
       "antonyms": [
         "previous",
         "prior"
       ],
       "phrases": [
-        "following",
-        "week",
-        "following",
-        "statement"
+        "the following day",
+        "following the meeting",
+        "a loyal following",
+        "as follows"
       ]
     },
     {
@@ -111,44 +150,59 @@
       "toeic_score_min": 200,
       "word": "food",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "fooded",
-        "past_participle": "fooded",
-        "present_participle": "fooding",
-        "third_person": "foods"
+        "plural": "foods"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "food",
-          "definition": "n. 食物, 养料, [医] 食物, 食品"
+          "definition": "n. 食物、食品、養料"
         }
       ],
       "examples": [
         {
-          "en": "We need food to survive.",
+          "en": "The hotel provides free food for all staff during their shifts.",
           "highlight": [
             "food"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家飯店為所有值班員工提供免費餐點。"
+          }
+        },
+        {
+          "en": "Frozen foods are convenient but often contain high levels of sodium.",
+          "highlight": [
+            "foods"
+          ],
+          "translations": {
+            "zh-TW": "冷凍食品很方便，但通常含有高量的鈉。"
+          }
+        },
+        {
+          "en": "Many travelers worry about food safety when eating at street stalls abroad.",
+          "highlight": [
+            "food"
+          ],
+          "translations": {
+            "zh-TW": "許多旅客在國外路邊攤用餐時會擔心食品安全。"
           }
         }
       ],
       "synonyms": [
         "nourishment",
-        "sustenance"
+        "cuisine",
+        "meal"
       ],
       "antonyms": [],
       "phrases": [
-        "healthy",
-        "food",
-        "fast",
-        "food"
+        "junk food",
+        "fast food",
+        "food safety",
+        "organic food"
       ]
     },
     {
@@ -163,44 +217,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "fooled",
+        "plural": "fools",
+        "present_3rd": "fools",
+        "past": "fooled",
         "past_participle": "fooled",
-        "present_participle": "fooling",
-        "third_person": "fools"
+        "ing": "fooling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "fool",
-          "definition": "n. 愚人, 受骗者, 奶油拌水果, vt. 愚弄, 欺骗, 浪费, vi. 干傻事, 开玩笑, 游荡, a. 傻的"
+          "definition": "n. 愚人、傻瓜  v. 愚弄、欺騙、開玩笑"
         }
       ],
       "examples": [
         {
-          "en": "Don't be such a fool.",
+          "en": "Don't be a fool and sign a contract you haven't read.",
           "highlight": [
             "fool"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "別當傻子簽下自己沒讀過的合約。"
+          }
+        },
+        {
+          "en": "The salesman fooled the customer into buying the overpriced warranty.",
+          "highlight": [
+            "fooled"
+          ],
+          "translations": {
+            "zh-TW": "業務員把顧客騙去買了溢價的保固方案。"
+          }
+        },
+        {
+          "en": "Stop fooling around and get back to work before the deadline.",
+          "highlight": [
+            "fooling"
+          ],
+          "translations": {
+            "zh-TW": "別再混了，在截止期限前趕快回去工作。"
           }
         }
       ],
       "synonyms": [
         "idiot",
-        "dunce"
+        "deceive",
+        "trick"
       ],
       "antonyms": [
         "genius",
         "sage"
       ],
       "phrases": [
-        "play",
-        "the",
-        "fool",
-        "make",
-        "a"
+        "make a fool of",
+        "play the fool",
+        "fool around",
+        "April Fools' Day"
       ]
     },
     {
@@ -215,40 +288,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "footed",
+        "plural": "feet",
+        "present_3rd": "foots",
+        "past": "footed",
         "past_participle": "footed",
-        "present_participle": "footing",
-        "third_person": "foots"
+        "ing": "footing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "foot",
-          "definition": "n. 脚, 步调, 英尺, 底部, 末尾, 步兵, vt. 走在...上, 给...换底, 支付, vi. 跳舞, 步行, 总计"
+          "definition": "n. 腳、英尺、底部  v. 結帳、步行"
         }
       ],
       "examples": [
         {
-          "en": "He injured his foot.",
+          "en": "He sprained his foot while jogging in the park this morning.",
           "highlight": [
             "foot"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "今天早上他在公園慢跑時扭傷了腳。"
+          }
+        },
+        {
+          "en": "The conference room is about twenty feet long and seats fifty people.",
+          "highlight": [
+            "feet"
+          ],
+          "translations": {
+            "zh-TW": "會議室長約二十英呎，可容納五十人。"
+          }
+        },
+        {
+          "en": "She footed the bill for the entire team during the company dinner.",
+          "highlight": [
+            "footed"
+          ],
+          "translations": {
+            "zh-TW": "公司聚餐時她替整個團隊付了帳。"
           }
         }
       ],
       "synonyms": [
-        "feet",
-        "tootsie"
+        "paw",
+        "hoof",
+        "pay"
       ],
       "antonyms": [],
       "phrases": [
-        "foot",
-        "injury",
-        "left",
-        "foot"
+        "on foot",
+        "foot the bill",
+        "set foot in",
+        "get off on the right foot"
       ]
     },
     {
@@ -259,43 +352,58 @@
       "toeic_score_min": 200,
       "word": "football",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "footballed",
-        "past_participle": "footballed",
-        "present_participle": "footballing",
-        "third_person": "footballs"
+        "plural": "footballs"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "football",
-          "definition": "n. 足球, 橄榄球"
+          "definition": "n. 足球、橄欖球、足球比賽"
         }
       ],
       "examples": [
         {
-          "en": "He loves playing football.",
+          "en": "My brother plays football every weekend with his college friends.",
           "highlight": [
             "football"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我弟弟每個週末都和大学朋友一起踢足球。"
+          }
+        },
+        {
+          "en": "Several footballs were donated to the local youth club last summer.",
+          "highlight": [
+            "footballs"
+          ],
+          "translations": {
+            "zh-TW": "去年夏天有好幾顆足球捐給了當地的青年俱樂部。"
+          }
+        },
+        {
+          "en": "The football match was postponed due to the heavy rain.",
+          "highlight": [
+            "football"
+          ],
+          "translations": {
+            "zh-TW": "因為大雨，這場足球賽被延期了。"
           }
         }
       ],
       "synonyms": [
-        "soccer"
+        "soccer",
+        "gridiron"
       ],
       "antonyms": [],
       "phrases": [
-        "play",
-        "football",
-        "football",
-        "match"
+        "play football",
+        "football match",
+        "football fan",
+        "football team"
       ]
     },
     {
@@ -315,37 +423,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "for",
-          "definition": "prep. 為, 因為, 至于, conj. 因為, [计] DOS批處理命令:對一组参数重复执行指定的命令"
+          "definition": "prep. 為了、給、達（時間）  conj. 因為"
         }
       ],
       "examples": [
         {
-          "en": "This gift is for you.",
+          "en": "This report is for the board meeting scheduled next Monday.",
           "highlight": [
             "for"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這份報告是給下週一排定的董事會議用的。"
+          }
+        },
+        {
+          "en": "The shop has been closed for three months due to renovation.",
+          "highlight": [
+            "for"
+          ],
+          "translations": {
+            "zh-TW": "這家店因整修已經關閉三個月了。"
+          }
+        },
+        {
+          "en": "We must leave early, for the airport is quite far from the city center.",
+          "highlight": [
+            "for"
+          ],
+          "translations": {
+            "zh-TW": "我們必須提早出發，因為機場離市中心相當遠。"
           }
         }
       ],
       "synonyms": [
-        "intended",
-        "for",
-        "in",
-        "favor",
-        "of"
+        "intended for",
+        "in favor of"
       ],
       "antonyms": [
-        "against",
-        "opposed",
-        "to"
+        "against"
       ],
       "phrases": [
-        "reason",
-        "for",
-        "good",
-        "for"
+        "for example",
+        "for sure",
+        "for now",
+        "for a while"
       ]
     },
     {
@@ -360,44 +481,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "forceed",
-        "past_participle": "forceed",
-        "present_participle": "forcing",
-        "third_person": "forces"
+        "plural": "forces",
+        "present_3rd": "forces",
+        "past": "forced",
+        "past_participle": "forced",
+        "ing": "forcing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "force",
-          "definition": "n. 力量, 武力, 势力, 影響力, 军队, 力, 效力, vt. 强迫, 强夺, 推動, 提高, [计] 人工转移; 强制"
+          "definition": "n. 力量、武力、軍隊、影響力  v. 強迫、迫使、推動"
         }
       ],
       "examples": [
         {
-          "en": "He used all his force to lift the box.",
+          "en": "The police force was mobilized to maintain order during the protest.",
           "highlight": [
             "force"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "抗議期間警方動員警力以維持秩序。"
+          }
+        },
+        {
+          "en": "The company was forced to cut its workforce due to declining sales.",
+          "highlight": [
+            "forced"
+          ],
+          "translations": {
+            "zh-TW": "由於業績下滑，這家公司被迫裁減人力。"
+          }
+        },
+        {
+          "en": "The new regulations are forcing manufacturers to adopt greener technology.",
+          "highlight": [
+            "forcing"
+          ],
+          "translations": {
+            "zh-TW": "新法規正迫使製造商採用更環保的技術。"
           }
         }
       ],
       "synonyms": [
         "strength",
-        "power"
+        "power",
+        "compel"
       ],
       "antonyms": [
         "weakness",
-        "frailty"
+        "persuade"
       ],
       "phrases": [
-        "apply",
-        "force",
-        "force",
-        "of",
-        "nature"
+        "workforce",
+        "force of nature",
+        "in force",
+        "force someone's hand"
       ]
     },
     {
@@ -412,43 +552,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "forecasted",
+        "plural": "forecasts",
+        "present_3rd": "forecasts",
+        "past": "forecasted",
         "past_participle": "forecasted",
-        "present_participle": "forecasting",
-        "third_person": "forecasts"
+        "ing": "forecasting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "forecast",
-          "definition": "n. 预想, 预测, 预报, vt. 预想, 预测, 预报, [计] 趋势预测"
+          "definition": "n. 預測、預報  v. 預測、預報"
         }
       ],
       "examples": [
         {
-          "en": "The weather forecast predicts rain.",
+          "en": "The weather forecast says it will be sunny all weekend.",
           "highlight": [
             "forecast"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "天氣預報說週末都會是晴天。"
+          }
+        },
+        {
+          "en": "Analysts forecasted a steady rise in housing prices through next year.",
+          "highlight": [
+            "forecasted"
+          ],
+          "translations": {
+            "zh-TW": "分析師預測房價會穩步上揚直到明年。"
+          }
+        },
+        {
+          "en": "Forecasting demand accurately is critical for managing the supply chain.",
+          "highlight": [
+            "Forecasting"
+          ],
+          "translations": {
+            "zh-TW": "準確預測需求對供應鏈管理至關重要。"
           }
         }
       ],
       "synonyms": [
         "predict",
-        "anticipate"
+        "anticipate",
+        "project"
       ],
       "antonyms": [
         "recall",
-        "hindsight"
+        "retrospect"
       ],
       "phrases": [
-        "weather",
-        "forecast",
-        "forecast",
-        "accuracy"
+        "weather forecast",
+        "sales forecast",
+        "economic forecast",
+        "forecast demand"
       ]
     },
     {
@@ -459,44 +619,60 @@
       "toeic_score_min": 200,
       "word": "foreign",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "foreigns"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "foreign",
-          "definition": "a. 外國的, 外交的, 外省的, 外來的, 不相關的, [机] 外來的"
+          "definition": "a. 外國的、外來的、外交的、陌生的"
         }
       ],
       "examples": [
         {
-          "en": "He speaks several foreign languages.",
+          "en": "She works in the foreign exchange department of a major bank.",
           "highlight": [
             "foreign"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在一家大型銀行的外匯部門工作。"
+          }
+        },
+        {
+          "en": "The company relies on foreign investment to fund its expansion.",
+          "highlight": [
+            "foreign"
+          ],
+          "translations": {
+            "zh-TW": "這家公司依靠外國投資來資助其擴張計畫。"
+          }
+        },
+        {
+          "en": "These concepts are completely foreign to anyone outside the field.",
+          "highlight": [
+            "foreign"
+          ],
+          "translations": {
+            "zh-TW": "這些概念對業外人士來說完全陌生。"
           }
         }
       ],
       "synonyms": [
+        "overseas",
         "international",
-        "overseas"
+        "external"
       ],
       "antonyms": [
         "domestic",
         "native"
       ],
       "phrases": [
-        "foreign",
-        "language",
-        "foreign",
-        "country"
+        "foreign language",
+        "foreign country",
+        "foreign exchange",
+        "foreign investment"
       ]
     }
   ]
