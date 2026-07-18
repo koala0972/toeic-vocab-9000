@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 96,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-096-001",
@@ -14,42 +14,56 @@
         "adverb",
         "adjective"
       ],
-      "conjugations": {
-        "comparative": "downstairser",
-        "superlative": "downstairsest"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "downstairs",
-          "definition": "n. 楼下, a. 楼下的, adv. 在楼下"
+          "definition": "adv. 在樓下、往樓下  adj. 樓下的"
         }
       ],
       "examples": [
         {
-          "en": "The kitchen is downstairs.",
+          "en": "The reception desk is downstairs, next to the elevator.",
           "highlight": [
             "downstairs"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "接待櫃台在樓下，電梯旁邊。"
+          }
+        },
+        {
+          "en": "She rushed downstairs when she smelled smoke from the kitchen.",
+          "highlight": [
+            "downstairs"
+          ],
+          "translations": {
+            "zh-TW": "她聞到廚房傳來煙味，急忙跑下樓。"
+          }
+        },
+        {
+          "en": "The downstairs office is being renovated this week.",
+          "highlight": [
+            "downstairs"
+          ],
+          "translations": {
+            "zh-TW": "樓下的辦公室本週正在整修。"
           }
         }
       ],
       "synonyms": [
-        "ground",
-        "floor",
-        "basement"
+        "below",
+        "lower floor",
+        "ground floor"
       ],
       "antonyms": [
         "upstairs"
       ],
       "phrases": [
-        "downstairs",
-        "bathroom",
-        "go",
-        "downstairs"
+        "go downstairs",
+        "downstairs neighbor",
+        "downstairs bathroom"
       ]
     },
     {
@@ -61,43 +75,60 @@
       "word": "downward",
       "pos": [
         "adjective",
-        "noun"
+        "adverb"
       ],
-      "conjugations": {
-        "plural": "downwards"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "downward",
-          "definition": "a. 向下的"
+          "definition": "adj. 向下的、下降的  adv. 向下地"
         }
       ],
       "examples": [
         {
-          "en": "The stock market took a downward turn.",
+          "en": "The stock market showed a steady downward trend last quarter.",
           "highlight": [
             "downward"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "上個季度股市呈現穩定的下滑趨勢。"
+          }
+        },
+        {
+          "en": "The plane began its downward descent toward the runway.",
+          "highlight": [
+            "downward"
+          ],
+          "translations": {
+            "zh-TW": "飛機開始向下滑降，朝跑道下降。"
+          }
+        },
+        {
+          "en": "Apply downward pressure on the lid to seal the container tightly.",
+          "highlight": [
+            "downward"
+          ],
+          "translations": {
+            "zh-TW": "對蓋子施加向下的壓力，才能將容器密封緊。"
           }
         }
       ],
       "synonyms": [
         "descending",
-        "falling"
+        "falling",
+        "declining"
       ],
       "antonyms": [
         "upward",
         "rising"
       ],
       "phrases": [
-        "downward",
-        "spiral",
-        "downward",
-        "trend"
+        "downward trend",
+        "downward spiral",
+        "downward pressure",
+        "downward slope"
       ]
     },
     {
@@ -116,33 +147,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "downwards",
-          "definition": "adv. 向下"
+          "definition": "adv. 向下地、下垂地"
         }
       ],
       "examples": [
         {
-          "en": "She looked downwards at her feet.",
+          "en": "She glanced downwards at her phone to read the new message.",
           "highlight": [
             "downwards"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她低頭看了看手機，閱讀新訊息。"
+          }
+        },
+        {
+          "en": "The path winds downwards through the forest toward the lake.",
+          "highlight": [
+            "downwards"
+          ],
+          "translations": {
+            "zh-TW": "小徑蜿蜒向下，穿過森林通往湖邊。"
+          }
+        },
+        {
+          "en": "Profits have been moving downwards since the new tax policy took effect.",
+          "highlight": [
+            "downwards"
+          ],
+          "translations": {
+            "zh-TW": "自從新稅制生效以來，利潤持續走低。"
           }
         }
       ],
       "synonyms": [
         "down",
-        "below"
+        "below",
+        "lower"
       ],
       "antonyms": [
         "upwards",
         "above"
       ],
       "phrases": [
-        "look",
-        "downwards",
-        "move",
-        "downwards"
+        "look downwards",
+        "move downwards",
+        "slope downwards",
+        "trend downwards"
       ]
     },
     {
@@ -164,31 +214,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "dozen",
-          "definition": "n. 打, 十二個, a. 一打的"
+          "definition": "n. 一打、十二個  adj. 一打的"
         }
       ],
       "examples": [
         {
-          "en": "He bought a dozen eggs.",
+          "en": "She ordered a dozen roses for the company's anniversary celebration.",
           "highlight": [
             "dozen"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她為公司週年慶訂購了一打玫瑰花。"
+          }
+        },
+        {
+          "en": "Dozens of applicants lined up outside the office for the job interview.",
+          "highlight": [
+            "dozens"
+          ],
+          "translations": {
+            "zh-TW": "數十名求職者在辦公室外排隊等著面試。"
+          }
+        },
+        {
+          "en": "We buy eggs by the dozen at the wholesale market downtown.",
+          "highlight": [
+            "dozen"
+          ],
+          "translations": {
+            "zh-TW": "我們在市中心的批發市場一打一打地買雞蛋。"
           }
         }
       ],
       "synonyms": [
         "twelve",
-        "group"
+        "group of twelve"
       ],
       "antonyms": [],
       "phrases": [
-        "a",
-        "dozen",
-        "of",
-        "two",
-        "dozen"
+        "a dozen of",
+        "by the dozen",
+        "dozens of",
+        "half a dozen"
       ]
     },
     {
@@ -203,43 +270,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "drafted",
+        "plural": "drafts",
+        "present_3rd": "drafts",
+        "past": "drafted",
         "past_participle": "drafted",
-        "present_participle": "drafting",
-        "third_person": "drafts"
+        "ing": "drafting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "draft",
-          "definition": "n. 气流, 草稿, 汇票, 草案, vt. 起草, 征兵, [计] 草稿"
+          "definition": "n. 草稿、草案、匯票、穿堂風  v. 起草、徵召入伍"
         }
       ],
       "examples": [
         {
-          "en": "She wrote a draft of the report.",
+          "en": "Please review the draft of the contract before our meeting tomorrow.",
           "highlight": [
             "draft"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在我們明天開會前先審閱合約草稿。"
+          }
+        },
+        {
+          "en": "The legal team drafted a new privacy policy to comply with the regulations.",
+          "highlight": [
+            "drafted"
+          ],
+          "translations": {
+            "zh-TW": "法務團隊起草了一份新的隱私政策，以符合法規要求。"
+          }
+        },
+        {
+          "en": "She is drafting a proposal to expand the company's overseas market.",
+          "highlight": [
+            "drafting"
+          ],
+          "translations": {
+            "zh-TW": "她正在草擬一份擴展公司海外市場的企劃案。"
           }
         }
       ],
       "synonyms": [
         "outline",
-        "sketch"
+        "sketch",
+        "blueprint"
       ],
       "antonyms": [
         "final",
-        "complete"
+        "finished version"
       ],
       "phrases": [
-        "rough",
-        "draft",
-        "first",
-        "draft"
+        "rough draft",
+        "first draft",
+        "draft a proposal",
+        "bank draft"
       ]
     },
     {
@@ -254,43 +341,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "draged",
-        "past_participle": "draged",
-        "present_participle": "draging",
-        "third_person": "drags"
+        "plural": "drags",
+        "present_3rd": "drags",
+        "past": "dragged",
+        "past_participle": "dragged",
+        "ing": "dragging"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "drag",
-          "definition": "n. 拖, 拖累, v. 拖累, 拖拉, 沉重缓慢地走, 拖動, [计] 拖動"
+          "definition": "v. 拖、拉、拖累、勉強地走  n. 拖累、令人厭煩的人事物"
         }
       ],
       "examples": [
         {
-          "en": "He had to drag the heavy box.",
+          "en": "He had to drag the heavy suitcase through the airport terminal.",
           "highlight": [
             "drag"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他只好拖著沉重的行李箱穿過機場航廈。"
+          }
+        },
+        {
+          "en": "The damaged equipment dragged the project behind schedule by two weeks.",
+          "highlight": [
+            "dragged"
+          ],
+          "translations": {
+            "zh-TW": "損壞的設備讓專案進度落後了兩週。"
+          }
+        },
+        {
+          "en": "The meeting was dragging on for hours without reaching any decision.",
+          "highlight": [
+            "dragging"
+          ],
+          "translations": {
+            "zh-TW": "會議拖了好幾個小時，卻沒有達成任何決議。"
           }
         }
       ],
       "synonyms": [
         "haul",
-        "pull"
+        "pull",
+        "tug"
       ],
       "antonyms": [
         "push",
         "shove"
       ],
       "phrases": [
-        "drag",
-        "along",
-        "drag",
-        "out"
+        "drag on",
+        "drag out",
+        "drag someone down",
+        "a drag on"
       ]
     },
     {
@@ -301,47 +408,61 @@
       "toeic_score_min": 200,
       "word": "drama",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "dramaed",
-        "past_participle": "dramaed",
-        "present_participle": "dramaing",
-        "third_person": "dramas"
+        "plural": "dramas"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "drama",
-          "definition": "n. 戏剧, 戏剧艺术"
+          "definition": "n. 戲劇、戲劇藝術、戲劇性的事件"
         }
       ],
       "examples": [
         {
-          "en": "She loves studying drama.",
+          "en": "She studied drama at university and now works as a theater director.",
           "highlight": [
             "drama"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在大學主修戲劇，現在是劇場導演。"
+          }
+        },
+        {
+          "en": "Several dramas at the film festival explored themes of family and identity.",
+          "highlight": [
+            "dramas"
+          ],
+          "translations": {
+            "zh-TW": "影展中有多部戲劇探討了家庭與認同等主題。"
+          }
+        },
+        {
+          "en": "There was too much drama in the office after the manager suddenly resigned.",
+          "highlight": [
+            "drama"
+          ],
+          "translations": {
+            "zh-TW": "經理突然辭職後，辦公室裡上演了太多戲劇性的風波。"
           }
         }
       ],
       "synonyms": [
         "play",
-        "theater"
+        "theater",
+        "performance"
       ],
       "antonyms": [
-        "comedy",
-        "farce"
+        "comedy"
       ],
       "phrases": [
-        "study",
-        "drama",
-        "drama",
-        "class"
+        "study drama",
+        "drama series",
+        "drama class",
+        "make a drama out of"
       ]
     },
     {
@@ -352,44 +473,65 @@
       "toeic_score_min": 200,
       "word": "dramatic",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "dramatics"
+        "plural": "dramatics",
+        "comparative": "more dramatic",
+        "superlative": "most dramatic"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dramatic",
-          "definition": "a. 戏剧性的, 生動的"
+          "definition": "adj. 戲劇性的、引人注目的、戲劇的"
         }
       ],
       "examples": [
         {
-          "en": "The movie had a dramatic ending.",
+          "en": "Sales figures showed a dramatic improvement after the marketing campaign.",
           "highlight": [
             "dramatic"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "行銷活動之後，銷售數據出現了戲劇性的改善。"
+          }
+        },
+        {
+          "en": "The new policy had a more dramatic effect on small businesses than expected.",
+          "highlight": [
+            "more dramatic"
+          ],
+          "translations": {
+            "zh-TW": "新政策對小型企業的影響比預期更為顯著。"
+          }
+        },
+        {
+          "en": "The CEO described it as the most dramatic turnaround in the company's history.",
+          "highlight": [
+            "most dramatic"
+          ],
+          "translations": {
+            "zh-TW": "執行長形容這是公司史上最戲劇性的轉機。"
           }
         }
       ],
       "synonyms": [
         "theatrical",
-        "intense"
+        "striking",
+        "remarkable"
       ],
       "antonyms": [
         "undramatic",
+        "subtle",
         "calm"
       ],
       "phrases": [
-        "dramatic",
-        "change",
-        "dramatic",
-        "effect"
+        "dramatic change",
+        "dramatic effect",
+        "dramatic increase",
+        "dramatic moment"
       ]
     },
     {
@@ -408,33 +550,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "dramatically",
-          "definition": "adv. 戏剧地, 引人注目地, 突然地"
+          "definition": "adv. 戲劇性地、顯著地、引人注目地"
         }
       ],
       "examples": [
         {
-          "en": "The situation changed dramatically.",
+          "en": "Tourism numbers dropped dramatically after the natural disaster last summer.",
           "highlight": [
             "dramatically"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "去年夏天的天然災害之後，觀光人數大幅下滑。"
+          }
+        },
+        {
+          "en": "The company's revenue grew dramatically once they expanded into Asian markets.",
+          "highlight": [
+            "dramatically"
+          ],
+          "translations": {
+            "zh-TW": "公司拓展亞洲市場後，營收大幅成長。"
+          }
+        },
+        {
+          "en": "Air quality in the city improved dramatically after the new emission standards.",
+          "highlight": [
+            "dramatically"
+          ],
+          "translations": {
+            "zh-TW": "實施新的排放標準後，城市的空氣品質顯著改善。"
           }
         }
       ],
       "synonyms": [
         "significantly",
-        "remarkably"
+        "remarkably",
+        "strikingly"
       ],
       "antonyms": [
         "slightly",
+        "marginally",
         "subtly"
       ],
       "phrases": [
-        "increase",
-        "dramatically",
-        "fall",
-        "dramatically"
+        "increase dramatically",
+        "fall dramatically",
+        "change dramatically",
+        "improve dramatically"
       ]
     },
     {
@@ -449,44 +611,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "drawed",
-        "past_participle": "drawed",
-        "present_participle": "drawing",
-        "third_person": "draws"
+        "plural": "draws",
+        "present_3rd": "draws",
+        "past": "drew",
+        "past_participle": "drawn",
+        "ing": "drawing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "draw",
-          "definition": "vi. 拉, 拖, 拔剑, vt. 拖拉, 挨近, 领取, 打成平局, 引导, 抽签决定, 画, 描写, 制订, 草拟, 吸引, n. 拉, 拖, 拔出, 抽签, 平局, [计] 翻牌, 绘图"
+          "definition": "v. 畫、描繪、吸引、拉、抽出、打成平局  n. 平局、抽籤、吸引人的事物"
         }
       ],
       "examples": [
         {
-          "en": "He can draw very well.",
+          "en": "The architect will draw a new floor plan for the renovated office space.",
           "highlight": [
             "draw"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "建築師會為整修後的辦公空間繪製新的平面圖。"
+          }
+        },
+        {
+          "en": "She drew a detailed map to help the delivery driver find the warehouse.",
+          "highlight": [
+            "drew"
+          ],
+          "translations": {
+            "zh-TW": "她畫了一張詳細的地圖，幫助送貨司機找到倉庫。"
+          }
+        },
+        {
+          "en": "The upcoming product launch has drawn the attention of investors worldwide.",
+          "highlight": [
+            "drawn"
+          ],
+          "translations": {
+            "zh-TW": "即將推出的新產品吸引了全球投資人的目光。"
           }
         }
       ],
       "synonyms": [
         "sketch",
-        "depict"
+        "depict",
+        "attract"
       ],
       "antonyms": [
         "erase",
-        "delete"
+        "repel"
       ],
       "phrases": [
-        "draw",
-        "a",
-        "picture",
-        "draw",
-        "attention"
+        "draw a picture",
+        "draw attention",
+        "draw a conclusion",
+        "draw up",
+        "end in a draw"
       ]
     }
   ]
