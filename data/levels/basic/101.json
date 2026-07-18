@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 101,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-101-001",
@@ -15,43 +15,59 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "educationed",
-        "past_participle": "educationed",
-        "present_participle": "educationing",
-        "third_person": "educations"
+        "plural": "educations"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "education",
-          "definition": "n. 教育, 训练, 教育学, [医] 教育, 训练"
+          "definition": "n. 教育、教育學  v. 對…進行教育"
         }
       ],
       "examples": [
         {
-          "en": "He is studying education at the university.",
+          "en": "She received a good education before starting her career.",
           "highlight": [
             "education"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在展開職涯之前接受了良好的教育。"
+          }
+        },
+        {
+          "en": "The company funds several educations for underprivileged students every year.",
+          "highlight": [
+            "educations"
+          ],
+          "translations": {
+            "zh-TW": "公司每年資助數名弱勢學生的教育。"
+          }
+        },
+        {
+          "en": "The minister was educationed by his aides on the latest policy brief.",
+          "highlight": [
+            "educationed"
+          ],
+          "translations": {
+            "zh-TW": "部長由幕僚就最新的政策簡報進行了說明與教導。"
           }
         }
       ],
       "synonyms": [
         "schooling",
-        "instruction"
+        "instruction",
+        "learning"
       ],
       "antonyms": [
         "ignorance",
         "illiteracy"
       ],
       "phrases": [
-        "higher",
-        "education",
-        "formal",
-        "education"
+        "higher education",
+        "formal education",
+        "physical education",
+        "department of education"
       ]
     },
     {
@@ -66,44 +82,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "effected",
+        "plural": "effects",
+        "present_3rd": "effects",
+        "past": "effected",
         "past_participle": "effected",
-        "present_participle": "effecting",
-        "third_person": "effects"
+        "ing": "effecting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "effect",
-          "definition": "n. 結果, 影響, 效果, 印象, vt. 實行, 引起, 完成, [计] 效果"
+          "definition": "n. 效果、影響、結果  v. 實行、促成"
         }
       ],
       "examples": [
         {
-          "en": "The new law had a positive effect.",
+          "en": "The new tax policy takes effect next month.",
           "highlight": [
             "effect"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新稅制將於下個月生效。"
+          }
+        },
+        {
+          "en": "The manager effected several changes to improve team productivity.",
+          "highlight": [
+            "effected"
+          ],
+          "translations": {
+            "zh-TW": "經理促成了多項變革以提升團隊生產力。"
+          }
+        },
+        {
+          "en": "Scientists are still studying the long-term effects of the spill on marine life.",
+          "highlight": [
+            "effects"
+          ],
+          "translations": {
+            "zh-TW": "科學家仍在研究這次外洩對海洋生物的長期影響。"
           }
         }
       ],
       "synonyms": [
         "result",
-        "outcome"
+        "outcome",
+        "consequence"
       ],
       "antonyms": [
         "cause",
         "origin"
       ],
       "phrases": [
-        "have",
-        "an",
-        "effect",
-        "positive",
-        "effect"
+        "take effect",
+        "side effect",
+        "in effect",
+        "cause and effect"
       ]
     },
     {
@@ -118,40 +153,61 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "effectives"
+        "plural": "effectives",
+        "comparative": "more effective",
+        "superlative": "most effective"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "effective",
-          "definition": "a. 有效的, 有力的, 實际的, n. 有生力量"
+          "definition": "adj. 有效的、實際的、生效的  n. 有生力量"
         }
       ],
       "examples": [
         {
-          "en": "The new method is very effective.",
+          "en": "Email remains an effective way to reach international clients.",
           "highlight": [
             "effective"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "電子郵件仍是聯繫國際客戶的有效方式。"
+          }
+        },
+        {
+          "en": "The revised plan is more effective than the original draft.",
+          "highlight": [
+            "more effective"
+          ],
+          "translations": {
+            "zh-TW": "修訂後的計畫比原始版本更有效率。"
+          }
+        },
+        {
+          "en": "Online advertising proved the most effective channel for the startup.",
+          "highlight": [
+            "most effective"
+          ],
+          "translations": {
+            "zh-TW": "網路廣告被證實是該新創公司最有效的管道。"
           }
         }
       ],
       "synonyms": [
         "efficient",
-        "potent"
+        "potent",
+        "productive"
       ],
       "antonyms": [
         "ineffective",
         "useless"
       ],
       "phrases": [
-        "effective",
-        "solution",
-        "effective",
-        "immediately"
+        "effective solution",
+        "effective immediately",
+        "cost effective",
+        "effective date"
       ]
     },
     {
@@ -170,33 +226,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "effectively",
-          "definition": "adv. 有效地, 有力地, 實际上"
+          "definition": "adv. 有效地、實際上"
         }
       ],
       "examples": [
         {
-          "en": "She worked effectively to meet the deadline.",
+          "en": "She manages her team effectively and always meets deadlines.",
           "highlight": [
             "effectively"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她有效地管理團隊，總是能準時完成工作。"
+          }
+        },
+        {
+          "en": "By merging two departments, the company effectively cut its overhead by 20 percent.",
+          "highlight": [
+            "effectively"
+          ],
+          "translations": {
+            "zh-TW": "公司合併了兩個部門，實際上削減了兩成的經常開支。"
+          }
+        },
+        {
+          "en": "The new software lets sales reps respond to clients effectively in real time.",
+          "highlight": [
+            "effectively"
+          ],
+          "translations": {
+            "zh-TW": "新軟體讓業務代表能即時有效地回應客戶。"
           }
         }
       ],
       "synonyms": [
         "efficiently",
-        "productively"
+        "productively",
+        "successfully"
       ],
       "antonyms": [
         "inefficiently",
         "ineffectively"
       ],
       "phrases": [
-        "work",
-        "effectively",
-        "communicate",
-        "effectively"
+        "work effectively",
+        "communicate effectively",
+        "manage effectively",
+        "function effectively"
       ]
     },
     {
@@ -211,44 +286,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "efforted",
+        "plural": "efforts",
+        "present_3rd": "efforts",
+        "past": "efforted",
         "past_participle": "efforted",
-        "present_participle": "efforting",
-        "third_person": "efforts"
+        "ing": "efforting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "effort",
-          "definition": "n. 努力, 成就"
+          "definition": "n. 努力、心力  v. 盡力、努力"
         }
       ],
       "examples": [
         {
-          "en": "He put a lot of effort into his work.",
+          "en": "The team made a great effort to finish the project on time.",
           "highlight": [
             "effort"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "團隊付出極大的努力才準時完成專案。"
+          }
+        },
+        {
+          "en": "Our efforts to reach new customers paid off last quarter.",
+          "highlight": [
+            "efforts"
+          ],
+          "translations": {
+            "zh-TW": "我們爭取新客戶的努力在上個季度有了回報。"
+          }
+        },
+        {
+          "en": "Despite efforting for months, the startup could not secure additional funding.",
+          "highlight": [
+            "efforting"
+          ],
+          "translations": {
+            "zh-TW": "儘管努力了數月，這家新創公司仍無法獲得額外資金。"
           }
         }
       ],
       "synonyms": [
         "exertion",
-        "endeavor"
+        "endeavor",
+        "attempt"
       ],
       "antonyms": [
         "laziness",
         "inactivity"
       ],
       "phrases": [
-        "make",
-        "an",
-        "effort",
-        "put",
-        "effort"
+        "make an effort",
+        "put effort into",
+        "best effort",
+        "joint effort"
       ]
     },
     {
@@ -263,40 +357,59 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "egged",
+        "plural": "eggs",
+        "present_3rd": "eggs",
+        "past": "egged",
         "past_participle": "egged",
-        "present_participle": "egging",
-        "third_person": "eggs"
+        "ing": "egging"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "egg",
-          "definition": "n. 蛋, 卵, vt. 挑唆, 煽動, 调蛋黄"
+          "definition": "n. 蛋、卵  v. 煽動、攪打蛋液"
         }
       ],
       "examples": [
         {
-          "en": "She made an omelette with two eggs.",
+          "en": "The hotel breakfast includes one boiled egg and toast.",
           "highlight": [
             "egg"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "飯店早餐附一顆水煮蛋和吐司。"
+          }
+        },
+        {
+          "en": "She bought a dozen eggs to bake cakes for the charity sale.",
+          "highlight": [
+            "eggs"
+          ],
+          "translations": {
+            "zh-TW": "她買了一打雞蛋，為義賣烘焙蛋糕。"
+          }
+        },
+        {
+          "en": "His friends egged him on to ask the manager for a raise.",
+          "highlight": [
+            "egged"
+          ],
+          "translations": {
+            "zh-TW": "他的朋友們慫恿他向經理要求加薪。"
           }
         }
       ],
       "synonyms": [
         "ovum",
-        "ovoid"
+        "roe"
       ],
       "antonyms": [],
       "phrases": [
-        "fried",
-        "egg",
-        "egg",
-        "shell"
+        "fried egg",
+        "egg shell",
+        "boiled egg",
+        "egg someone on"
       ]
     },
     {
@@ -307,37 +420,59 @@
       "toeic_score_min": 200,
       "word": "eight",
       "pos": [
-        "numeral"
+        "numeral",
+        "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "eights"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "eight",
-          "definition": "num. 八, 八個"
+          "definition": "num. 八、八個  n. 八"
         }
       ],
       "examples": [
         {
-          "en": "She has eight apples.",
+          "en": "The meeting starts at eight sharp every Monday.",
           "highlight": [
             "eight"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "會議每週一八點整準時開始。"
+          }
+        },
+        {
+          "en": "Eight people attended the interview, but only two were hired.",
+          "highlight": [
+            "Eight"
+          ],
+          "translations": {
+            "zh-TW": "八人參加了面試，但只有兩人被錄取。"
+          }
+        },
+        {
+          "en": "The team scored three eights in a row during the final round.",
+          "highlight": [
+            "eights"
+          ],
+          "translations": {
+            "zh-TW": "隊伍在最後一輪連續得到三個八分。"
           }
         }
       ],
       "synonyms": [
-        "8"
+        "8",
+        "VIII"
       ],
       "antonyms": [],
       "phrases": [
-        "eight",
-        "years",
-        "eight",
-        "times"
+        "eight years",
+        "eight times",
+        "at eight o'clock",
+        "eight hours"
       ]
     },
     {
@@ -348,38 +483,59 @@
       "toeic_score_min": 200,
       "word": "eighteen",
       "pos": [
-        "numeral"
+        "numeral",
+        "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "eighteens"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "eighteen",
-          "definition": "num. 十八, 十八個"
+          "definition": "num. 十八、十八個  n. 十八"
         }
       ],
       "examples": [
         {
-          "en": "He turned eighteen yesterday.",
+          "en": "You must be at least eighteen to sign the rental agreement.",
           "highlight": [
             "eighteen"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "您必須年滿十八歲才能簽署租賃合約。"
+          }
+        },
+        {
+          "en": "Eighteen students applied for the summer internship program.",
+          "highlight": [
+            "Eighteen"
+          ],
+          "translations": {
+            "zh-TW": "十八名學生申請了暑期實習計畫。"
+          }
+        },
+        {
+          "en": "The company offers a special discount for customers aged eighteens and above.",
+          "highlight": [
+            "eighteens"
+          ],
+          "translations": {
+            "zh-TW": "公司為十八歲及以上的顧客提供特別折扣。"
           }
         }
       ],
       "synonyms": [
-        "18"
+        "18",
+        "XVIII"
       ],
       "antonyms": [],
       "phrases": [
-        "eighteen",
-        "years",
-        "old",
-        "eighteen",
-        "months"
+        "eighteen years old",
+        "eighteen months",
+        "at eighteen",
+        "under eighteen"
       ]
     },
     {
@@ -401,17 +557,35 @@
         {
           "lang": "zh-TW",
           "lang_word": "eighteenth",
-          "definition": "num. 第十八, 十八分之一"
+          "definition": "adj. 第十八的  n. 第十八、十八分之一"
         }
       ],
       "examples": [
         {
-          "en": "The eighteenth century was a time of change.",
+          "en": "The contract must be signed by the eighteenth of this month.",
           "highlight": [
             "eighteenth"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "合約必須在本月十八日前簽署。"
+          }
+        },
+        {
+          "en": "This is the eighteenth floor; please press the button to exit.",
+          "highlight": [
+            "eighteenth"
+          ],
+          "translations": {
+            "zh-TW": "這裡是十八樓，請按鈕準備出電梯。"
+          }
+        },
+        {
+          "en": "Each heir received an eighteenth of the total estate.",
+          "highlight": [
+            "eighteenth"
+          ],
+          "translations": {
+            "zh-TW": "每位繼承人取得了總遺產的十八分之一。"
           }
         }
       ],
@@ -420,10 +594,10 @@
       ],
       "antonyms": [],
       "phrases": [
-        "eighteenth",
-        "century",
-        "eighteenth",
-        "birthday"
+        "eighteenth century",
+        "eighteenth birthday",
+        "on the eighteenth",
+        "an eighteenth share"
       ]
     },
     {
@@ -445,17 +619,35 @@
         {
           "lang": "zh-TW",
           "lang_word": "eighth",
-          "definition": "num. 第八, 八分之一"
+          "definition": "adj. 第八的  n. 第八、八分之一"
         }
       ],
       "examples": [
         {
-          "en": "She finished in eighth place.",
+          "en": "Our branch is located on the eighth floor of the office tower.",
           "highlight": [
             "eighth"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們的分公司位於辦公大樓的第八層。"
+          }
+        },
+        {
+          "en": "The runner finished in eighth place despite a late injury.",
+          "highlight": [
+            "eighth"
+          ],
+          "translations": {
+            "zh-TW": "儘管末段受傷，跑者仍以第八名完賽。"
+          }
+        },
+        {
+          "en": "Each investor holds an eighth of the company's shares.",
+          "highlight": [
+            "eighth"
+          ],
+          "translations": {
+            "zh-TW": "每位投資人持有公司股份的八分之一。"
           }
         }
       ],
@@ -464,10 +656,10 @@
       ],
       "antonyms": [],
       "phrases": [
-        "eighth",
-        "grade",
-        "eighth",
-        "place"
+        "eighth grade",
+        "eighth place",
+        "an eighth of",
+        "on the eighth"
       ]
     }
   ]
