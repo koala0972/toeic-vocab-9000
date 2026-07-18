@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 110,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-110-001",
@@ -15,40 +15,61 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "essentials"
+        "plural": "essentials",
+        "comparative": "more essential",
+        "superlative": "most essential"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "essential",
-          "definition": "n. 要素, 要點, 本质, a. 必要的, 重要的, 本质的, [计] 本质冒险"
+          "definition": "adj. 必要的、不可或缺的  n. 要素、必需品"
         }
       ],
       "examples": [
         {
-          "en": "Water is essential for life.",
+          "en": "Good communication skills are essential for any manager in a multinational company.",
           "highlight": [
             "essential"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "良好的溝通能力對跨國公司的任何經理來說都是不可或缺的。"
+          }
+        },
+        {
+          "en": "Water, food, and shelter are considered the most essential needs for disaster relief.",
+          "highlight": [
+            "most essential"
+          ],
+          "translations": {
+            "zh-TW": "水、食物和住所被視為災難救援中最迫切的必需品。"
+          }
+        },
+        {
+          "en": "The manual covers the essentials of workplace safety in just twenty pages.",
+          "highlight": [
+            "essentials"
+          ],
+          "translations": {
+            "zh-TW": "這本手冊只用了二十頁就涵蓋了職場安全的要點。"
           }
         }
       ],
       "synonyms": [
         "necessary",
-        "vital"
+        "vital",
+        "indispensable"
       ],
       "antonyms": [
-        "nonessential",
-        "unnecessary"
+        "unnecessary",
+        "nonessential"
       ],
       "phrases": [
-        "essential",
-        "for",
-        "essential",
-        "part"
+        "essential to",
+        "essential for",
+        "essential part",
+        "essential goods"
       ]
     },
     {
@@ -67,34 +88,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "essentially",
-          "definition": "adv. 本质上, 本來"
+          "definition": "adv. 本質上、基本上"
         }
       ],
       "examples": [
         {
-          "en": "Essentially, the project was a success.",
+          "en": "Essentially, the two contracts impose the same obligations on both parties.",
+          "highlight": [
+            "Essentially"
+          ],
+          "translations": {
+            "zh-TW": "本質上，兩份合約對雙方課以相同的義務。"
+          }
+        },
+        {
+          "en": "The committee is essentially responsible for reviewing all budget proposals each quarter.",
           "highlight": [
             "essentially"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "委員會基本上負責每季度審查所有預算提案。"
+          }
+        },
+        {
+          "en": "His role has essentially remained unchanged since he joined the firm ten years ago.",
+          "highlight": [
+            "essentially"
+          ],
+          "translations": {
+            "zh-TW": "自從他十年前加入公司以來，他的職務基本上維持不變。"
           }
         }
       ],
       "synonyms": [
         "basically",
-        "fundamentally"
+        "fundamentally",
+        "inherently"
       ],
       "antonyms": [
-        "nonessentially",
-        "superficially"
+        "superficially",
+        "secondarily"
       ],
       "phrases": [
-        "essentially",
-        "the",
-        "same",
-        "essentially",
-        "a"
+        "essentially the same",
+        "essentially different",
+        "essentially true"
       ]
     },
     {
@@ -105,49 +143,65 @@
       "toeic_score_min": 200,
       "word": "establish",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "established",
+        "present_3rd": "establishes",
+        "past": "established",
         "past_participle": "established",
-        "present_participle": "establishing",
-        "third_person": "establishs"
+        "ing": "establishing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "establish",
-          "definition": "vt. 建立, 确立, 制定, vi. 移植生長"
+          "definition": "v. 建立、設立、確立"
         }
       ],
       "examples": [
         {
-          "en": "The company was established in 1990.",
+          "en": "The bank plans to establish a new branch in Singapore by the end of next year.",
           "highlight": [
             "establish"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "銀行計畫在明年年底前於新加坡設立一家新的分行。"
+          }
+        },
+        {
+          "en": "She established her reputation as a reliable supplier after five years of consistent quality.",
+          "highlight": [
+            "established"
+          ],
+          "translations": {
+            "zh-TW": "經過五年穩定的品質，她確立了自己作為可靠供應商的聲譽。"
+          }
+        },
+        {
+          "en": "The company is currently establishing a training center for new hires in Taipei.",
+          "highlight": [
+            "establishing"
+          ],
+          "translations": {
+            "zh-TW": "公司目前正於台北為新進員工設立一個培訓中心。"
           }
         }
       ],
       "synonyms": [
         "create",
-        "set",
-        "up"
+        "found",
+        "set up"
       ],
       "antonyms": [
         "abolish",
         "dismantle"
       ],
       "phrases": [
-        "establish",
-        "a",
-        "company",
-        "establish",
-        "rules"
+        "establish a company",
+        "establish rules",
+        "establish a relationship",
+        "establish credit"
       ]
     },
     {
@@ -158,47 +212,59 @@
       "toeic_score_min": 200,
       "word": "estate",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "estateed",
-        "past_participle": "estateed",
-        "present_participle": "estating",
-        "third_person": "estates"
+        "plural": "estates"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "estate",
-          "definition": "n. 不動产, (人生的)阶段, 阶层, 财产, [經] 房地产, 遗产, 财产"
+          "definition": "n. 不動產、地產、遺產"
         }
       ],
       "examples": [
         {
-          "en": "They live on a large estate.",
+          "en": "The wealthy businessman bought a large country estate in southern France.",
           "highlight": [
             "estate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "那位富有的商人法國南部買下了一座大型鄉村莊園。"
+          }
+        },
+        {
+          "en": "Several historic estates in the region have been opened to the public as museums.",
+          "highlight": [
+            "estates"
+          ],
+          "translations": {
+            "zh-TW": "該地區幾座具有歷史價值的莊園已作為博物館向公眾開放。"
+          }
+        },
+        {
+          "en": "Her estate, including the house and investments, will be divided equally among the children.",
+          "highlight": [
+            "estate"
+          ],
+          "translations": {
+            "zh-TW": "她的遺產（包括房屋及投資）將平均分配給子女。"
           }
         }
       ],
       "synonyms": [
         "property",
-        "land"
+        "land",
+        "grounds"
       ],
-      "antonyms": [
-        "apartment",
-        "flat"
-      ],
+      "antonyms": [],
       "phrases": [
-        "large",
-        "estate",
-        "real",
-        "estate"
+        "real estate",
+        "estate agent",
+        "estate sale",
+        "private estate"
       ]
     },
     {
@@ -213,44 +279,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "estimateed",
-        "past_participle": "estimateed",
-        "present_participle": "estimating",
-        "third_person": "estimates"
+        "plural": "estimates",
+        "present_3rd": "estimates",
+        "past": "estimated",
+        "past_participle": "estimated",
+        "ing": "estimating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "estimate",
-          "definition": "n. 估计, 判断, vt. 估计, 评价, 判断, vi. 估计"
+          "definition": "n. 估計、估價  v. 估計、評估"
         }
       ],
       "examples": [
         {
-          "en": "The estimate for repairs was high.",
+          "en": "The contractor gave us a rough estimate of fifty thousand dollars for the renovation.",
           "highlight": [
             "estimate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "承包商給我們翻了修工程的粗略估價為五萬美元。"
+          }
+        },
+        {
+          "en": "The audit team estimated compliance costs at nearly twice what the board had projected last year.",
+          "highlight": [
+            "estimated"
+          ],
+          "translations": {
+            "zh-TW": "稽核團隊估計合規成本幾乎是去年董事會所預估的兩倍。"
+          }
+        },
+        {
+          "en": "By carefully estimating demand in advance, the factory reduced wasted materials by thirty percent.",
+          "highlight": [
+            "estimating"
+          ],
+          "translations": {
+            "zh-TW": "透過事先仔細估算需求，工廠將材料浪費減少了百分之三十。"
           }
         }
       ],
       "synonyms": [
-        "approximation",
-        "guess"
+        "approximate",
+        "calculate",
+        "assess"
       ],
       "antonyms": [
         "exact",
         "precise"
       ],
       "phrases": [
-        "make",
-        "an",
-        "estimate",
-        "cost",
-        "estimate"
+        "rough estimate",
+        "cost estimate",
+        "make an estimate",
+        "estimate at"
       ]
     },
     {
@@ -261,43 +346,58 @@
       "toeic_score_min": 200,
       "word": "euro",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "euroed",
-        "past_participle": "euroed",
-        "present_participle": "euroing",
-        "third_person": "euros"
+        "plural": "euros"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "euro",
-          "definition": "n. 欧元（欧盟的统一货币单位）"
+          "definition": "n. 歐元（歐盟的統一貨幣單位）"
         }
       ],
       "examples": [
         {
-          "en": "He paid in euros.",
+          "en": "The invoice is quoted in euros, so the exchange rate will affect the final amount.",
+          "highlight": [
+            "euros"
+          ],
+          "translations": {
+            "zh-TW": "發票以歐元計價，因此匯率會影響最終金額。"
+          }
+        },
+        {
+          "en": "One euro was worth about thirty-two New Taiwan dollars at yesterday's closing rate.",
           "highlight": [
             "euro"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "昨日收盤匯率，一歐元約值新台幣三十二元。"
+          }
+        },
+        {
+          "en": "Businesses trading with European clients often bill in euros to avoid currency conversion fees.",
+          "highlight": [
+            "euros"
+          ],
+          "translations": {
+            "zh-TW": "與歐洲客戶往來的公司，經常以歐元計價帳單以避免貨幣轉換手續費。"
           }
         }
       ],
       "synonyms": [
-        "EUR"
+        "EUR",
+        "European currency"
       ],
       "antonyms": [],
       "phrases": [
-        "euro",
-        "zone",
-        "euro",
-        "currency"
+        "euro zone",
+        "euro currency",
+        "euro area",
+        "euro zone economy"
       ]
     },
     {
@@ -309,46 +409,68 @@
       "word": "even",
       "pos": [
         "adjective",
+        "adverb",
         "verb"
       ],
       "conjugations": {
-        "past_tense": "evened",
+        "present_3rd": "evens",
+        "past": "evened",
         "past_participle": "evened",
-        "present_participle": "evening",
-        "third_person": "evens"
+        "ing": "evening",
+        "comparative": "more even",
+        "superlative": "most even"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "even",
-          "definition": "a. 平坦的, 相等的, 连贯的, 均等的, 公平的, 偶数的, 平均的, 平衡的, 恰好的, vt. 使平坦, 使相等, vi. 变平, 成為相等, adv. 甚至, 實际上, 完全, 十分, n. 偶数, 偶校验, [计] 偶数, 偶校验"
+          "definition": "adj. 平坦的、均勻的、相等的  adv. 甚至、即使  v. 使平坦、使相等  n. 偶數"
         }
       ],
       "examples": [
         {
-          "en": "The surface is even.",
+          "en": "The new desk has an even surface, making it comfortable for long hours of writing.",
           "highlight": [
             "even"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新書桌的表面平坦，適合長時間書寫。"
+          }
+        },
+        {
+          "en": "The most even distribution of resources wins the audit committee's approval each quarter.",
+          "highlight": [
+            "most even"
+          ],
+          "translations": {
+            "zh-TW": "每季度最均勻的資源分配會獲得審計委員會的批准。"
+          }
+        },
+        {
+          "en": "Even experienced traders can lose money when markets swing unexpectedly, so always diversify.",
+          "highlight": [
+            "Even"
+          ],
+          "translations": {
+            "zh-TW": "即使經驗豐富的交易員，在市場意外波動時也可能虧損，因此務必分散投資。"
           }
         }
       ],
       "synonyms": [
         "flat",
-        "level"
+        "level",
+        "smooth"
       ],
       "antonyms": [
         "uneven",
         "rough"
       ],
       "phrases": [
-        "even",
-        "surface",
-        "even",
-        "ground"
+        "even number",
+        "even surface",
+        "even if",
+        "even though"
       ]
     },
     {
@@ -370,34 +492,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "evening",
-          "definition": "n. 傍晚, 晚間, 末期"
+          "definition": "n. 傍晚、晚上  adj. 晚上的"
         }
       ],
       "examples": [
         {
-          "en": "They went out for dinner in the evening.",
+          "en": "The networking reception will take place on Tuesday evening at the hotel's rooftop lounge.",
           "highlight": [
             "evening"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "交流酒會將於週二晚上在飯店的頂樓酒廊舉行。"
+          }
+        },
+        {
+          "en": "She spent most evenings reviewing reports at the office before taking the train home.",
+          "highlight": [
+            "evenings"
+          ],
+          "translations": {
+            "zh-TW": "她大多數的傍晚都在辦公室審閱報告，然後才搭火車回家。"
+          }
+        },
+        {
+          "en": "The evening flight to Frankfurt was delayed by two hours due to heavy rain.",
+          "highlight": [
+            "evening"
+          ],
+          "translations": {
+            "zh-TW": "飛往法蘭克福的晚間班機因豪雨延誤了兩個小時。"
           }
         }
       ],
       "synonyms": [
         "nightfall",
-        "dusk"
+        "dusk",
+        "sunset"
       ],
       "antonyms": [
         "morning",
         "dawn"
       ],
       "phrases": [
-        "early",
-        "evening",
-        "in",
-        "the",
-        "evening"
+        "in the evening",
+        "evening gown",
+        "evening shift",
+        "good evening"
       ]
     },
     {
@@ -408,44 +548,59 @@
       "toeic_score_min": 200,
       "word": "event",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "evented",
-        "past_participle": "evented",
-        "present_participle": "eventing",
-        "third_person": "events"
+        "plural": "events"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "event",
-          "definition": "n. 事件, 結果, 事情的进程, 竞赛项目, [计] 事件"
+          "definition": "n. 事件、活動、競賽項目"
         }
       ],
       "examples": [
         {
-          "en": "The event was a great success.",
+          "en": "The annual charity event raised over two hundred thousand dollars for local hospitals.",
           "highlight": [
             "event"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "一年一度的慈善活動為本地醫院募得超過二十萬美元。"
+          }
+        },
+        {
+          "en": "Several corporate events are scheduled in the conference hall during the third week of June.",
+          "highlight": [
+            "events"
+          ],
+          "translations": {
+            "zh-TW": "六月的第三週，會議廳已排定數場企業活動。"
+          }
+        },
+        {
+          "en": "In the event of a power outage, the backup generator should start automatically within thirty seconds.",
+          "highlight": [
+            "event"
+          ],
+          "translations": {
+            "zh-TW": "若發生停電，備用發電機應在三十秒內自動啟動。"
           }
         }
       ],
       "synonyms": [
         "occurrence",
-        "happening"
+        "happening",
+        "occasion"
       ],
       "antonyms": [],
       "phrases": [
-        "special",
-        "event",
-        "major",
-        "event"
+        "special event",
+        "major event",
+        "in the event of",
+        "event organizer"
       ]
     },
     {
@@ -464,33 +619,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "eventually",
-          "definition": "adv. 最後, 终于"
+          "definition": "adv. 最終、終於"
         }
       ],
       "examples": [
         {
-          "en": "Eventually, they agreed on a plan.",
+          "en": "After months of negotiation, the two firms eventually signed the distribution agreement.",
           "highlight": [
             "eventually"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經過數月的協商，兩家公司最終簽署了經銷協議。"
+          }
+        },
+        {
+          "en": "Eventually, the new policy will apply to all employees, not just managers.",
+          "highlight": [
+            "Eventually"
+          ],
+          "translations": {
+            "zh-TW": "最終，新政策將適用於所有員工，而非僅限於經理。"
+          }
+        },
+        {
+          "en": "She eventually decided to accept the job offer in Osaka, despite the initial salary concerns.",
+          "highlight": [
+            "eventually"
+          ],
+          "translations": {
+            "zh-TW": "儘管最初對薪水有疑慮，她最終還是決定接受大阪的工作機會。"
           }
         }
       ],
       "synonyms": [
         "finally",
-        "ultimately"
+        "ultimately",
+        "in the end"
       ],
       "antonyms": [
         "immediately",
         "suddenly"
       ],
       "phrases": [
-        "eventually",
-        "decide",
-        "eventually",
-        "become"
+        "eventually become",
+        "eventually decide",
+        "eventually succeed",
+        "eventually lead to"
       ]
     }
   ]
