@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 102,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-102-001",
@@ -22,29 +22,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "eightieth",
-          "definition": "num. 第八十, 八十分之一"
+          "definition": "num. 第八十的、第八十個  n. 第八十、八十分之一"
         }
       ],
       "examples": [
         {
-          "en": "He celebrated his eightieth birthday.",
+          "en": "The company celebrated its eightieth anniversary with a gala dinner.",
           "highlight": [
             "eightieth"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司舉辦盛大的晚宴慶祝第八十週年。"
+          }
+        },
+        {
+          "en": "He was the eightieth customer to enter the store that morning and won a gift card.",
+          "highlight": [
+            "eightieth"
+          ],
+          "translations": {
+            "zh-TW": "他是那天早上第八十位進入店裡的顧客，贏得了一張禮券。"
+          }
+        },
+        {
+          "en": "Only a few eightieths of the total budget was spent on marketing.",
+          "highlight": [
+            "eightieths"
+          ],
+          "translations": {
+            "zh-TW": "總預算中只有極少數的八十分之一花在行銷上。"
           }
         }
       ],
       "synonyms": [
         "80th"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "first"
+      ],
       "phrases": [
-        "eightieth",
-        "anniversary",
-        "eightieth",
-        "year"
+        "eightieth birthday",
+        "eightieth anniversary",
+        "eightieth percentile"
       ]
     },
     {
@@ -63,29 +82,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "eighty",
-          "definition": "num. 八十, 八十個"
+          "definition": "num. 八十、八十個"
         }
       ],
       "examples": [
         {
-          "en": "The book costs eighty dollars.",
+          "en": "The hotel room costs eighty dollars per night during the off-season.",
           "highlight": [
             "eighty"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "淡季期間這間飯店客房每晚收費八十美元。"
+          }
+        },
+        {
+          "en": "Eighty percent of the survey respondents were satisfied with the service.",
+          "highlight": [
+            "eighty"
+          ],
+          "translations": {
+            "zh-TW": "百分之八十的問卷受訪者對服務感到滿意。"
+          }
+        },
+        {
+          "en": "She wore a light jacket because the temperature outside was only eighty degrees Fahrenheit.",
+          "highlight": [
+            "eighty"
+          ],
+          "translations": {
+            "zh-TW": "她穿了件輕便外套，因為外面氣溫只有華氏八十度。"
           }
         }
       ],
       "synonyms": [
-        "80"
+        "80",
+        "eighty"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "twenty"
+      ],
       "phrases": [
-        "eighty",
-        "percent",
-        "eighty",
-        "dollars"
+        "eighty percent",
+        "eighty dollars",
+        "eighty years old"
       ]
     },
     {
@@ -96,7 +135,9 @@
       "toeic_score_min": 200,
       "word": "either",
       "pos": [
-        "conjunction"
+        "conjunction",
+        "pronoun",
+        "adjective"
       ],
       "conjugations": {},
       "domain": "general",
@@ -104,32 +145,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "either",
-          "definition": "a. (两者之中)任一的, (两者之中)各一的, pron. (两者之中)任一, conj. 或, 要麼"
+          "definition": "a. 兩者之中任一的  pron. 兩者之中任一  conj. 或者、要嘛"
         }
       ],
       "examples": [
         {
-          "en": "You can choose either option.",
+          "en": "You can choose either option, but you must decide before the deadline.",
           "highlight": [
             "either"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "你可以選擇任一個方案，但必須在截止日期前決定。"
+          }
+        },
+        {
+          "en": "Either we ship the order today or we will miss the customer's expected delivery date.",
+          "highlight": [
+            "either"
+          ],
+          "translations": {
+            "zh-TW": "我們要嘛今天出貨，要嘛就會錯過客戶期望的送達日期。"
+          }
+        },
+        {
+          "en": "I haven't visited either of the two new branch offices yet.",
+          "highlight": [
+            "either"
+          ],
+          "translations": {
+            "zh-TW": "我還沒去過那兩間新分公司的任何一間。"
           }
         }
       ],
       "synonyms": [
-        "or",
-        "neither"
+        "any",
+        "one"
       ],
       "antonyms": [
+        "neither",
         "both"
       ],
       "phrases": [
-        "either",
-        "one",
-        "either",
-        "way"
+        "either way",
+        "either or",
+        "either side"
       ]
     },
     {
@@ -144,41 +203,58 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "elbowed",
+        "plural": "elbows",
+        "present_3rd": "elbows",
+        "past": "elbowed",
         "past_participle": "elbowed",
-        "present_participle": "elbowing",
-        "third_person": "elbows"
+        "ing": "elbowing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "elbow",
-          "definition": "n. 手肘, 弯頭, 扶手, v. 用手肘推开, 推挤"
+          "definition": "n. 手肘、彎頭  v. 用手肘推擠"
         }
       ],
       "examples": [
         {
-          "en": "He hurt his elbow.",
+          "en": "She rested her elbow on the table during the long meeting.",
           "highlight": [
             "elbow"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "漫長的會議中她把手肘靠在桌子上。"
+          }
+        },
+        {
+          "en": "He elbowed his way through the crowded market to reach the stall.",
+          "highlight": [
+            "elbowed"
+          ],
+          "translations": {
+            "zh-TW": "他用手肘推擠著穿過擁擠的市場來到攤位前。"
+          }
+        },
+        {
+          "en": "The reporter was elbowing her way to the front of the press conference room.",
+          "highlight": [
+            "elbowing"
+          ],
+          "translations": {
+            "zh-TW": "那位記者正用手肘擠到記者會會場的前方。"
           }
         }
       ],
       "synonyms": [
         "joint",
-        "hinge"
+        "nudge"
       ],
       "antonyms": [],
       "phrases": [
-        "bend",
-        "the",
-        "elbow",
-        "elbow",
-        "joint"
+        "elbow room",
+        "bend your elbow",
+        "elbow grease"
       ]
     },
     {
@@ -200,33 +276,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "elderly",
-          "definition": "a. 過了中年的, 稍老的"
+          "definition": "a. 年長的、上了年紀的  n. 老年人"
         }
       ],
       "examples": [
         {
-          "en": "The elderly woman needed assistance.",
+          "en": "An elderly passenger was helped onto the train by the conductor.",
           "highlight": [
             "elderly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "一名年長的乘客由列車長攙扶上了火車。"
+          }
+        },
+        {
+          "en": "The hotel offers special discount rates for the elderly during weekdays.",
+          "highlight": [
+            "elderly"
+          ],
+          "translations": {
+            "zh-TW": "這家飯店平日對老年人提供特別折扣的房價。"
+          }
+        },
+        {
+          "en": "The hospital has a dedicated ward for elderlies who need long-term care.",
+          "highlight": [
+            "elderlies"
+          ],
+          "translations": {
+            "zh-TW": "這家醫院設有專門的病房，收需要長期照護的老年人。"
           }
         }
       ],
       "synonyms": [
         "senior",
-        "aged"
+        "aged",
+        "older"
       ],
       "antonyms": [
         "young",
         "youthful"
       ],
       "phrases": [
-        "elderly",
-        "care",
-        "elderly",
-        "person"
+        "elderly care",
+        "elderly people",
+        "elderly woman"
       ]
     },
     {
@@ -238,44 +332,64 @@
       "word": "elect",
       "pos": [
         "verb",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "elected",
+        "present_3rd": "elects",
+        "past": "elected",
         "past_participle": "elected",
-        "present_participle": "electing",
-        "third_person": "elects"
+        "ing": "electing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "elect",
-          "definition": "n. 当选人, 被选的人, a. 被选的, 选出的, vt. 选举, 选择, vi. 作选择"
+          "definition": "vt. 選舉、推選  a. 當選而尚未就職的"
         }
       ],
       "examples": [
         {
-          "en": "They elected a new president.",
+          "en": "The board will elect a new chairperson at next week's meeting.",
           "highlight": [
             "elect"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "董事會將在下週的會議上選出新任董事長。"
+          }
+        },
+        {
+          "en": "Shareholders elected the president to a second four-year term.",
+          "highlight": [
+            "elected"
+          ],
+          "translations": {
+            "zh-TW": "股東們選舉總裁連任第二個四年任期。"
+          }
+        },
+        {
+          "en": "The committee is electing representatives from each regional office this afternoon.",
+          "highlight": [
+            "electing"
+          ],
+          "translations": {
+            "zh-TW": "委員會今天下午正從各個地區辦公室選出代表。"
           }
         }
       ],
       "synonyms": [
         "choose",
-        "vote"
+        "vote",
+        "select"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "dismiss",
+        "remove"
+      ],
       "phrases": [
-        "elect",
-        "a",
-        "leader",
-        "elect",
-        "officials"
+        "elect a president",
+        "president elect",
+        "elect to do"
       ]
     },
     {
@@ -286,46 +400,60 @@
       "toeic_score_min": 200,
       "word": "election",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "electioned",
-        "past_participle": "electioned",
-        "present_participle": "electioning",
-        "third_person": "elections"
+        "plural": "elections"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "election",
-          "definition": "n. 选举, 当选, 选择权, [法] 选举, 当选"
+          "definition": "n. 選舉、當選、投票"
         }
       ],
       "examples": [
         {
-          "en": "The next election will be held in November.",
+          "en": "The upcoming election has drawn a record number of registered voters.",
           "highlight": [
             "election"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "即將到來的選舉吸引了創紀錄數量的登記選民。"
+          }
+        },
+        {
+          "en": "Local elections will be held across the country next month.",
+          "highlight": [
+            "elections"
+          ],
+          "translations": {
+            "zh-TW": "全國各地下個月將舉行地方選舉。"
+          }
+        },
+        {
+          "en": "The opposition party won the last election by a narrow margin.",
+          "highlight": [
+            "election"
+          ],
+          "translations": {
+            "zh-TW": "反對黨在上次選舉中以些微差距險勝。"
           }
         }
       ],
       "synonyms": [
         "vote",
+        "ballot",
         "selection"
       ],
       "antonyms": [
         "appointment"
       ],
       "phrases": [
-        "presidential",
-        "election",
-        "general",
-        "election"
+        "presidential election",
+        "general election",
+        "election campaign"
       ]
     },
     {
@@ -347,32 +475,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "electric",
-          "definition": "a. 电的, 导电的, 电動的, [医] 电的"
+          "definition": "a. 電的、電動的、用電的  n. 電力車輛"
         }
       ],
       "examples": [
         {
-          "en": "She plugged in the electric kettle.",
+          "en": "She bought a new electric car to save on fuel costs.",
           "highlight": [
             "electric"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她買了一輛新的電動車來節省油錢。"
+          }
+        },
+        {
+          "en": "The factory replaced its old machines with electric ones to reduce emissions.",
+          "highlight": [
+            "electric"
+          ],
+          "translations": {
+            "zh-TW": "這家工廠用電動機器取代舊機器以減少排放。"
+          }
+        },
+        {
+          "en": "The company introduced a line of electrics that use advanced battery technology.",
+          "highlight": [
+            "electrics"
+          ],
+          "translations": {
+            "zh-TW": "這家公司推出了一系列使用先進電池技術的電動產品。"
           }
         }
       ],
       "synonyms": [
         "powered",
-        "charged"
+        "electronic"
       ],
       "antonyms": [
-        "manual"
+        "manual",
+        "gas-powered"
       ],
       "phrases": [
-        "electric",
-        "car",
-        "electric",
-        "shock"
+        "electric car",
+        "electric shock",
+        "electric bill"
       ]
     },
     {
@@ -383,41 +529,57 @@
       "toeic_score_min": 200,
       "word": "electrical",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "electricals"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "electrical",
-          "definition": "a. 电的, 有關电的, [医] 电的"
+          "definition": "a. 電的、與電有關的"
         }
       ],
       "examples": [
         {
-          "en": "He is an electrical engineer.",
+          "en": "The hotel hired an electrical engineer to inspect the wiring in every guest room.",
           "highlight": [
             "electrical"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家飯店聘請了一位電機工程師檢查每間客房的配線。"
+          }
+        },
+        {
+          "en": "Make sure to unplug all electrical appliances before leaving the office for the night.",
+          "highlight": [
+            "electrical"
+          ],
+          "translations": {
+            "zh-TW": "晚上離開辦公室前請務必拔掉所有電器用品的插頭。"
+          }
+        },
+        {
+          "en": "An electrical fault caused the production line to shut down for three hours.",
+          "highlight": [
+            "electrical"
+          ],
+          "translations": {
+            "zh-TW": "電路故障導致生產線停工了三個小時。"
           }
         }
       ],
       "synonyms": [
-        "powered",
-        "electric"
+        "electric",
+        "powered"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "manual"
+      ],
       "phrases": [
-        "electrical",
-        "appliance",
-        "electrical",
-        "fault"
+        "electrical engineer",
+        "electrical appliance",
+        "electrical fault"
       ]
     },
     {
@@ -428,44 +590,58 @@
       "toeic_score_min": 200,
       "word": "electricity",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "electricityed",
-        "past_participle": "electricityed",
-        "present_participle": "electricitying",
-        "third_person": "electricitys"
+        "plural": "electricities"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "electricity",
-          "definition": "n. 电, 电流, 电学, 热情, 电力供应, [化] 电学; 电"
+          "definition": "n. 電、電力、電流"
         }
       ],
       "examples": [
         {
-          "en": "The electricity went out during the storm.",
+          "en": "The factory's monthly electricity bill has dropped significantly since the renovation.",
           "highlight": [
             "electricity"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "整修之後這家工廠每月的電費大幅下降了。"
+          }
+        },
+        {
+          "en": "The sudden storm knocked out electricity across the entire downtown area.",
+          "highlight": [
+            "electricity"
+          ],
+          "translations": {
+            "zh-TW": "突如其來的暴風雨使整個市中心停電。"
+          }
+        },
+        {
+          "en": "Solar panels now generate enough electricity to power the office building during the day.",
+          "highlight": [
+            "electricity"
+          ],
+          "translations": {
+            "zh-TW": "太陽能板如今能發出足夠的電，在白天供應整棟辦公大樓所需。"
           }
         }
       ],
       "synonyms": [
+        "power",
         "current",
-        "power"
+        "energy"
       ],
       "antonyms": [],
       "phrases": [
-        "generate",
-        "electricity",
-        "electricity",
-        "supply"
+        "generate electricity",
+        "electricity bill",
+        "cut off electricity"
       ]
     }
   ]
