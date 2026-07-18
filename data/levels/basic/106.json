@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 106,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-106-001",
@@ -15,43 +15,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "ended",
+        "plural": "ends",
+        "present_3rd": "ends",
+        "past": "ended",
         "past_participle": "ended",
-        "present_participle": "ending",
-        "third_person": "ends"
+        "ing": "ending"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "end",
-          "definition": "n. 結束, 终點, 目标, 末端, 梢, 死亡, 残余, v. 結束, 终結, 终止, [计] 端; 結束"
+          "definition": "n. 結束、盡頭、末端  v. 結束、終止"
         }
       ],
       "examples": [
         {
-          "en": "The movie had a surprising end.",
+          "en": "The meeting came to an end after two hours of discussion.",
           "highlight": [
             "end"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經過兩小時的討論後，會議終於結束了。"
+          }
+        },
+        {
+          "en": "The negotiation ended successfully with both sides signing the contract.",
+          "highlight": [
+            "ended"
+          ],
+          "translations": {
+            "zh-TW": "談判成功結束，雙方簽署了合約。"
+          }
+        },
+        {
+          "en": "She is ending her internship at the bank to return to graduate school.",
+          "highlight": [
+            "ending"
+          ],
+          "translations": {
+            "zh-TW": "她正在結束在銀行的實習，準備回到研究所。"
           }
         }
       ],
       "synonyms": [
         "conclusion",
-        "finish"
+        "finish",
+        "terminate"
       ],
       "antonyms": [
         "beginning",
         "start"
       ],
       "phrases": [
-        "happy",
-        "end",
-        "tragic",
-        "end"
+        "end up",
+        "in the end",
+        "dead end",
+        "end of the year"
       ]
     },
     {
@@ -62,47 +82,62 @@
       "toeic_score_min": 200,
       "word": "ending",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "endinged",
-        "past_participle": "endinged",
-        "present_participle": "endinging",
-        "third_person": "endings"
+        "plural": "endings"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "ending",
-          "definition": "n. 终止, 终了, 收場, [医] 末梢"
+          "definition": "n. 結局、結尾、終止"
         }
       ],
       "examples": [
         {
-          "en": "The story has a happy ending.",
+          "en": "The novel has a surprising ending that no one predicted.",
           "highlight": [
             "ending"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這本小說的結局出人意料，沒有人猜得到。"
+          }
+        },
+        {
+          "en": "The film's multiple endings gave audiences a choice of conclusions.",
+          "highlight": [
+            "endings"
+          ],
+          "translations": {
+            "zh-TW": "這部電影有多個結局，讓觀眾可以選擇自己喜歡的版本。"
+          }
+        },
+        {
+          "en": "All good endings come from a well-planned beginning.",
+          "highlight": [
+            "endings"
+          ],
+          "translations": {
+            "zh-TW": "所有美好的結局都來自周詳計畫的開始。"
           }
         }
       ],
       "synonyms": [
         "conclusion",
-        "finale"
+        "finale",
+        "closure"
       ],
       "antonyms": [
         "beginning",
-        "start"
+        "opening"
       ],
       "phrases": [
-        "happy",
-        "ending",
-        "sad",
-        "ending"
+        "happy ending",
+        "bad ending",
+        "ending credits",
+        "surprise ending"
       ]
     },
     {
@@ -113,47 +148,62 @@
       "toeic_score_min": 200,
       "word": "enemy",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "enemyed",
-        "past_participle": "enemyed",
-        "present_participle": "enemying",
-        "third_person": "enemys"
+        "plural": "enemies"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "enemy",
-          "definition": "n. 敌人, 仇敌, 敌军, a. 敌人的"
+          "definition": "n. 敵人、敵軍、仇敵"
         }
       ],
       "examples": [
         {
-          "en": "They are enemies in the game.",
+          "en": "The company treated its competitor as an enemy in the market.",
           "highlight": [
             "enemy"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家公司把競爭對手當作市場上的敵人。"
+          }
+        },
+        {
+          "en": "The two nations were once enemies but now trade openly with each other.",
+          "highlight": [
+            "enemies"
+          ],
+          "translations": {
+            "zh-TW": "這兩個國家曾是敵人，但現在彼此公開貿易。"
+          }
+        },
+        {
+          "en": "The general discussed how to defend the border against a powerful enemy.",
+          "highlight": [
+            "enemy"
+          ],
+          "translations": {
+            "zh-TW": "將軍討論如何保衛邊境，抵禦強大的敵人。"
           }
         }
       ],
       "synonyms": [
         "opponent",
-        "adversary"
+        "adversary",
+        "foe"
       ],
       "antonyms": [
         "friend",
         "ally"
       ],
       "phrases": [
-        "sworn",
-        "enemy",
-        "enemy",
-        "territory"
+        "sworn enemy",
+        "public enemy",
+        "enemy territory",
+        "make an enemy"
       ]
     },
     {
@@ -164,48 +214,62 @@
       "toeic_score_min": 200,
       "word": "energy",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "energyed",
-        "past_participle": "energyed",
-        "present_participle": "energying",
-        "third_person": "energys"
+        "plural": "energies"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "energy",
-          "definition": "n. 精力, 精神, 活力, 能量, [化] 能; 能量"
+          "definition": "n. 精力、活力、能量、能源"
         }
       ],
       "examples": [
         {
-          "en": "He has a lot of energy.",
+          "en": "The young manager has the energy to lead a growing team.",
           "highlight": [
             "energy"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位年輕經理有足夠精力帶領不斷擴大的團隊。"
+          }
+        },
+        {
+          "en": "She devoted all her energies to launching the new product line.",
+          "highlight": [
+            "energies"
+          ],
+          "translations": {
+            "zh-TW": "她把所有精力都投入推出新產品線。"
+          }
+        },
+        {
+          "en": "The country is investing heavily in renewable energy to reduce carbon emissions.",
+          "highlight": [
+            "energy"
+          ],
+          "translations": {
+            "zh-TW": "該國正大力投資再生能源，以減少碳排放。"
           }
         }
       ],
       "synonyms": [
         "vitality",
-        "vigor"
+        "vigor",
+        "power"
       ],
       "antonyms": [
         "fatigue",
         "lethargy"
       ],
       "phrases": [
-        "full",
-        "of",
-        "energy",
-        "renewable",
-        "energy"
+        "renewable energy",
+        "energy efficient",
+        "full of energy",
+        "energy crisis"
       ]
     },
     {
@@ -216,48 +280,65 @@
       "toeic_score_min": 200,
       "word": "engage",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "engageed",
-        "past_participle": "engageed",
-        "present_participle": "engaging",
-        "third_person": "engages"
+        "present_3rd": "engages",
+        "past": "engaged",
+        "past_participle": "engaged",
+        "ing": "engaging"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "engage",
-          "definition": "vi. 答应, 从事, 交战, vt. 使忙碌, 雇佣, 预定, 使从事于, 使参加"
+          "definition": "v. 從事、參與、吸引、聘僱、訂婚"
         }
       ],
       "examples": [
         {
-          "en": "The story engaged the audience.",
+          "en": "The company engages contractors for short-term projects to reduce overhead costs.",
           "highlight": [
-            "engage"
+            "engages"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家公司為短期專案聘僱承包商，以降低經常性支出。"
+          }
+        },
+        {
+          "en": "Last year the firm engaged an outside consultant to streamline its operations.",
+          "highlight": [
+            "engaged"
+          ],
+          "translations": {
+            "zh-TW": "去年公司聘用了一位外部顧問來簡化營運流程。"
+          }
+        },
+        {
+          "en": "The speaker has a natural talent for engaging the audience throughout the presentation.",
+          "highlight": [
+            "engaging"
+          ],
+          "translations": {
+            "zh-TW": "這位講者天生就有本事在整場簡報中吸引聽眾的注意力。"
           }
         }
       ],
       "synonyms": [
         "involve",
-        "engross"
+        "hire",
+        "attract"
       ],
       "antonyms": [
-        "bore",
-        "disengage"
+        "disengage",
+        "release"
       ],
       "phrases": [
-        "engage",
-        "in",
-        "conversation",
-        "engage",
-        "the"
+        "engage in",
+        "engage with",
+        "engage someone to do",
+        "engage in conversation"
       ]
     },
     {
@@ -271,45 +352,58 @@
         "adjective",
         "verb"
       ],
-      "conjugations": {
-        "past_tense": "engageded",
-        "past_participle": "engageded",
-        "present_participle": "engageding",
-        "third_person": "engageds"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "engaged",
-          "definition": "a. 忙碌的, 使用中的"
+          "definition": "a. 已訂婚的、忙碌的、使用中的  v. engage 的過去式與過去分詞"
         }
       ],
       "examples": [
         {
-          "en": "She is engaged in a new project.",
+          "en": "The line is engaged at the moment; please call back in ten minutes.",
           "highlight": [
             "engaged"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "線路目前使用中，請十分鐘後再回撥。"
+          }
+        },
+        {
+          "en": "She got engaged to her boyfriend of five years during their trip to Paris.",
+          "highlight": [
+            "engaged"
+          ],
+          "translations": {
+            "zh-TW": "她在巴黎之旅中與交往五年的男友訂婚了。"
+          }
+        },
+        {
+          "en": "The engaged employees tend to stay longer and contribute more to the company.",
+          "highlight": [
+            "engaged"
+          ],
+          "translations": {
+            "zh-TW": "投入的員工往往待得較久，對公司貢獻也更大。"
           }
         }
       ],
       "synonyms": [
         "occupied",
-        "busy"
+        "busy",
+        "committed"
       ],
       "antonyms": [
         "disengaged",
         "idle"
       ],
       "phrases": [
-        "engaged",
-        "in",
-        "work",
-        "engaged",
-        "with"
+        "get engaged",
+        "engaged tone",
+        "fully engaged",
+        "engaged in work"
       ]
     },
     {
@@ -320,44 +414,59 @@
       "toeic_score_min": 200,
       "word": "engine",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "engineed",
-        "past_participle": "engineed",
-        "present_participle": "engining",
-        "third_person": "engines"
+        "plural": "engines"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "engine",
-          "definition": "n. 引擎, 發動机, 机車, vt. 安装發動机于"
+          "definition": "n. 引擎、發動機、機車"
         }
       ],
       "examples": [
         {
-          "en": "The car's engine is powerful.",
+          "en": "The mechanic checked the engine before the long road trip.",
           "highlight": [
             "engine"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "技工在長途旅行前檢查了引擎。"
+          }
+        },
+        {
+          "en": "Modern car engines are far more fuel-efficient than those of a decade ago.",
+          "highlight": [
+            "engines"
+          ],
+          "translations": {
+            "zh-TW": "現代汽車引擎比十年前的引擎省油得多。"
+          }
+        },
+        {
+          "en": "The search engine returns relevant results in less than a second.",
+          "highlight": [
+            "engine"
+          ],
+          "translations": {
+            "zh-TW": "這個搜尋引擎在不到一秒內就回傳相關結果。"
           }
         }
       ],
       "synonyms": [
         "motor",
-        "machine"
+        "machine",
+        "generator"
       ],
       "antonyms": [],
       "phrases": [
-        "car",
-        "engine",
-        "powerful",
-        "engine"
+        "car engine",
+        "search engine",
+        "engine failure",
+        "start the engine"
       ]
     },
     {
@@ -372,40 +481,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "engineered",
+        "plural": "engineers",
+        "present_3rd": "engineers",
+        "past": "engineered",
         "past_participle": "engineered",
-        "present_participle": "engineering",
-        "third_person": "engineers"
+        "ing": "engineering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "engineer",
-          "definition": "n. 工程師, 工兵, vt. 设计, 监造, 精明地處理, 策划"
+          "definition": "n. 工程師、工兵  v. 設計、策劃、精巧地安排"
         }
       ],
       "examples": [
         {
-          "en": "He is a civil engineer.",
+          "en": "The software engineer debugged the system before the release deadline.",
           "highlight": [
             "engineer"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位軟體工程師在發布截止日前除錯了系統。"
+          }
+        },
+        {
+          "en": "The team of engineers engineered a solution that saved the company millions.",
+          "highlight": [
+            "engineered"
+          ],
+          "translations": {
+            "zh-TW": "工程師團隊設計出一個解決方案，為公司省下數百萬。"
+          }
+        },
+        {
+          "en": "Many engineers now specialize in cloud infrastructure and machine learning.",
+          "highlight": [
+            "engineers"
+          ],
+          "translations": {
+            "zh-TW": "現今許多工程師專精於雲端基礎設施與機器學習。"
           }
         }
       ],
       "synonyms": [
         "technician",
-        "designer"
+        "designer",
+        "developer"
       ],
       "antonyms": [],
       "phrases": [
-        "software",
-        "engineer",
-        "mechanical",
-        "engineer"
+        "software engineer",
+        "civil engineer",
+        "mechanical engineer",
+        "engineer a solution"
       ]
     },
     {
@@ -416,45 +545,57 @@
       "toeic_score_min": 200,
       "word": "engineering",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
-      "conjugations": {
-        "past_tense": "engineeringed",
-        "past_participle": "engineeringed",
-        "present_participle": "engineeringing",
-        "third_person": "engineerings"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "engineering",
-          "definition": "n. 工程学, 工程, 操纵, [化] 机器; 机器学"
+          "definition": "n. 工程學、工程、操縱"
         }
       ],
       "examples": [
         {
-          "en": "She studied engineering at university.",
+          "en": "She earned a degree in engineering from a top technical university.",
           "highlight": [
             "engineering"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她從頂尖理工大學取得工程學位。"
+          }
+        },
+        {
+          "en": "Civil engineering requires deep knowledge of materials and structural design.",
+          "highlight": [
+            "engineering"
+          ],
+          "translations": {
+            "zh-TW": "土木工程需要對材料與結構設計有深入了解。"
+          }
+        },
+        {
+          "en": "The bridge was praised as a masterpiece of modern engineering.",
+          "highlight": [
+            "engineering"
+          ],
+          "translations": {
+            "zh-TW": "這座橋被讚譽為現代工程的傑作。"
           }
         }
       ],
       "synonyms": [
-        "applied",
-        "science",
-        "technology"
+        "applied science",
+        "technology",
+        "construction"
       ],
       "antonyms": [],
       "phrases": [
-        "civil",
-        "engineering",
-        "electrical",
-        "engineering"
+        "civil engineering",
+        "electrical engineering",
+        "genetic engineering",
+        "engineering department"
       ]
     },
     {
@@ -465,48 +606,65 @@
       "toeic_score_min": 200,
       "word": "enjoy",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "enjoyed",
+        "present_3rd": "enjoys",
+        "past": "enjoyed",
         "past_participle": "enjoyed",
-        "present_participle": "enjoying",
-        "third_person": "enjoys"
+        "ing": "enjoying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "enjoy",
-          "definition": "vt. 享受, 喜歡, 欣赏, [法] 享受, 享有, 获得某種利益"
+          "definition": "v. 享受、喜歡、享有"
         }
       ],
       "examples": [
         {
-          "en": "He enjoys playing football.",
+          "en": "Employees who enjoy their work tend to be more productive and loyal.",
           "highlight": [
             "enjoy"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "享受自己工作的員工通常更有生產力，也更具向心力。"
+          }
+        },
+        {
+          "en": "We enjoyed a wonderful dinner with clients after signing the deal.",
+          "highlight": [
+            "enjoyed"
+          ],
+          "translations": {
+            "zh-TW": "簽約後我們與客戶共進了一頓美好的晚餐。"
+          }
+        },
+        {
+          "en": "She is enjoying her new role as marketing director far more than expected.",
+          "highlight": [
+            "enjoying"
+          ],
+          "translations": {
+            "zh-TW": "她擔任行銷總監的新職位比預期中更享受其中。"
           }
         }
       ],
       "synonyms": [
-        "delight",
-        "in",
-        "relish"
+        "relish",
+        "savor",
+        "delight in"
       ],
       "antonyms": [
         "dislike",
         "hate"
       ],
       "phrases": [
-        "enjoy",
-        "greatly",
-        "enjoy",
-        "thoroughly"
+        "enjoy yourself",
+        "enjoy a meal",
+        "enjoy the benefits",
+        "enjoy life"
       ]
     }
   ]
