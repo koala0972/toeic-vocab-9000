@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 89,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-089-001",
@@ -15,44 +15,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "dieed",
-        "past_participle": "dieed",
-        "present_participle": "diing",
-        "third_person": "dies"
+        "plural": "dies",
+        "present_3rd": "dies",
+        "past": "died",
+        "past_participle": "died",
+        "ing": "dying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "die",
-          "definition": "vi. 死亡, 消逝, 平息, 熄灭, 漠然, 渴望, vt. 死, n. 骰子, 冲模"
+          "definition": "v. 死亡、逝去、消逝  n. 骰子"
         }
       ],
       "examples": [
         {
-          "en": "He died peacefully in his sleep.",
+          "en": "Many small businesses die within their first year.",
           "highlight": [
             "die"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "許多小企業在第一年內就倒閉了。"
+          }
+        },
+        {
+          "en": "The old factory died quietly after losing its biggest client.",
+          "highlight": [
+            "died"
+          ],
+          "translations": {
+            "zh-TW": "失去最大的客戶後，這家老工廠悄悄地倒閉了。"
+          }
+        },
+        {
+          "en": "The tradition is dying as younger generations move to the cities.",
+          "highlight": [
+            "dying"
+          ],
+          "translations": {
+            "zh-TW": "隨著年輕一代搬到城市，這項傳統正在消逝。"
           }
         }
       ],
       "synonyms": [
-        "pass",
-        "away",
-        "expire"
+        "pass away",
+        "expire",
+        "perish"
       ],
       "antonyms": [
         "live",
         "survive"
       ],
       "phrases": [
-        "die",
-        "young",
-        "die",
-        "hard"
+        "die out",
+        "die hard",
+        "die young",
+        "never say die"
       ]
     },
     {
@@ -67,40 +86,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "dieted",
+        "plural": "diets",
+        "present_3rd": "diets",
+        "past": "dieted",
         "past_participle": "dieted",
-        "present_participle": "dieting",
-        "third_person": "diets"
+        "ing": "dieting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "diet",
-          "definition": "n. 日常饮食, 議會, vt. 照规定饮食, vi. 忌食"
+          "definition": "n. 飲食、日常食物  v. 節食、控制飲食"
         }
       ],
       "examples": [
         {
-          "en": "He is on a strict diet.",
+          "en": "A balanced diet is essential for maintaining good health.",
           "highlight": [
             "diet"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "均衡的飲食對維持健康至關重要。"
+          }
+        },
+        {
+          "en": "She has dieted for three months before the wedding.",
+          "highlight": [
+            "dieted"
+          ],
+          "translations": {
+            "zh-TW": "她在婚禮前已經節食三個月了。"
+          }
+        },
+        {
+          "en": "He is dieting again to fit into his old suit for the interview.",
+          "highlight": [
+            "dieting"
+          ],
+          "translations": {
+            "zh-TW": "為了能穿上舊西裝參加面試，他又開始節食了。"
           }
         }
       ],
       "synonyms": [
-        "nutrition",
-        "regimen"
+        "regimen",
+        "nutrition plan",
+        "menu"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "binge",
+        "indulgence"
+      ],
       "phrases": [
-        "balanced",
-        "diet",
-        "special",
-        "diet"
+        "balanced diet",
+        "on a diet",
+        "strict diet",
+        "healthy diet"
       ]
     },
     {
@@ -111,48 +153,62 @@
       "toeic_score_min": 200,
       "word": "difference",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "differenceed",
-        "past_participle": "differenceed",
-        "present_participle": "differencing",
-        "third_person": "differences"
+        "plural": "differences"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "difference",
-          "definition": "n. 不同, 差异, [计] 差分"
+          "definition": "n. 差異、不同之處、差額"
         }
       ],
       "examples": [
         {
-          "en": "There is a big difference between them.",
+          "en": "There is a noticeable difference between the two proposals.",
           "highlight": [
             "difference"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這兩份提案之間有明顯的差異。"
+          }
+        },
+        {
+          "en": "The cultural differences between the two regions surprised the visitors.",
+          "highlight": [
+            "differences"
+          ],
+          "translations": {
+            "zh-TW": "兩個地區之間的文化差異令訪客感到驚訝。"
+          }
+        },
+        {
+          "en": "Please tell me the difference in price between these two models.",
+          "highlight": [
+            "difference"
+          ],
+          "translations": {
+            "zh-TW": "請告訴我這兩個型號之間的價差。"
           }
         }
       ],
       "synonyms": [
-        "discrepancy",
-        "distinction"
+        "distinction",
+        "contrast",
+        "discrepancy"
       ],
       "antonyms": [
         "similarity",
         "sameness"
       ],
       "phrases": [
-        "make",
-        "a",
-        "difference",
-        "big",
-        "difference"
+        "make a difference",
+        "tell the difference",
+        "price difference",
+        "significant difference"
       ]
     },
     {
@@ -163,47 +219,61 @@
       "toeic_score_min": 200,
       "word": "different",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
-      "conjugations": {
-        "past_tense": "differented",
-        "past_participle": "differented",
-        "present_participle": "differenting",
-        "third_person": "differents"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "different",
-          "definition": "a. 不同的, [机] 差動, 微分的, 差速器"
+          "definition": "adj. 不同的、相異的、各種的"
         }
       ],
       "examples": [
         {
-          "en": "They have different opinions.",
+          "en": "We tried three different approaches to solving the problem.",
           "highlight": [
             "different"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們嘗試了三種不同的方法來解決問題。"
+          }
+        },
+        {
+          "en": "This restaurant is different from the one we visited last month.",
+          "highlight": [
+            "different"
+          ],
+          "translations": {
+            "zh-TW": "這家餐廳和我們上個月去的那家不一樣。"
+          }
+        },
+        {
+          "en": "The new policy applies to employees in different departments across the company.",
+          "highlight": [
+            "different"
+          ],
+          "translations": {
+            "zh-TW": "新政策適用於公司內不同部門的員工。"
           }
         }
       ],
       "synonyms": [
         "distinct",
-        "dissimilar"
+        "dissimilar",
+        "unlike"
       ],
       "antonyms": [
         "same",
-        "similar"
+        "similar",
+        "identical"
       ],
       "phrases": [
-        "different",
-        "types",
-        "different",
-        "from"
+        "different from",
+        "different to",
+        "different kinds of",
+        "look different"
       ]
     },
     {
@@ -222,33 +292,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "differently",
-          "definition": "adv. 差异, 不同, 各别, 各種"
+          "definition": "adv. 不同地、以不同的方式"
         }
       ],
       "examples": [
         {
-          "en": "She thinks differently than her parents.",
+          "en": "She thinks differently from her colleagues about the marketing strategy.",
           "highlight": [
             "differently"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "關於行銷策略，她和同事們的想法不同。"
+          }
+        },
+        {
+          "en": "The software works differently on mobile devices than on desktop computers.",
+          "highlight": [
+            "differently"
+          ],
+          "translations": {
+            "zh-TW": "這款軟體在行動裝置上的運作方式和桌上型電腦不同。"
+          }
+        },
+        {
+          "en": "Please handle this customer's complaint differently from the previous one.",
+          "highlight": [
+            "differently"
+          ],
+          "translations": {
+            "zh-TW": "請以不同於上次的方式來處理這位客戶的投訴。"
           }
         }
       ],
       "synonyms": [
         "alternatively",
-        "variously"
+        "divergently",
+        "uniquely"
       ],
       "antonyms": [
         "similarly",
-        "alike"
+        "alike",
+        "identically"
       ],
       "phrases": [
-        "think",
-        "differently",
-        "act",
-        "differently"
+        "think differently",
+        "act differently",
+        "treat differently",
+        "behave differently"
       ]
     },
     {
@@ -259,44 +349,61 @@
       "toeic_score_min": 200,
       "word": "difficult",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "difficults"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "difficult",
-          "definition": "a. 困難的"
+          "definition": "adj. 困難的、艱難的、不易相處的"
         }
       ],
       "examples": [
         {
-          "en": "This is a difficult problem to solve.",
+          "en": "This is a difficult question to answer in a short interview.",
           "highlight": [
             "difficult"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這是在短暫面試中難以回答的問題。"
+          }
+        },
+        {
+          "en": "Learning a foreign language can be difficult but very rewarding.",
+          "highlight": [
+            "difficult"
+          ],
+          "translations": {
+            "zh-TW": "學習外語可能很困難，但非常有回報。"
+          }
+        },
+        {
+          "en": "The new manager is difficult to work with, according to the team.",
+          "highlight": [
+            "difficult"
+          ],
+          "translations": {
+            "zh-TW": "團隊反映新經理很難共事。"
           }
         }
       ],
       "synonyms": [
+        "hard",
         "challenging",
-        "hard"
+        "tough"
       ],
       "antonyms": [
         "easy",
-        "simple"
+        "simple",
+        "effortless"
       ],
       "phrases": [
-        "difficult",
-        "task",
-        "difficult",
-        "situation"
+        "difficult task",
+        "difficult situation",
+        "difficult decision",
+        "difficult customer"
       ]
     },
     {
@@ -307,48 +414,63 @@
       "toeic_score_min": 200,
       "word": "difficulty",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "difficultyed",
-        "past_participle": "difficultyed",
-        "present_participle": "difficultying",
-        "third_person": "difficultys"
+        "plural": "difficulties"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "difficulty",
-          "definition": "n. 困難, 難點"
+          "definition": "n. 困難、難度、障礙"
         }
       ],
       "examples": [
         {
-          "en": "He had difficulty understanding the instructions.",
+          "en": "He had difficulty understanding the instruction manual.",
           "highlight": [
             "difficulty"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他難以理解這份使用說明書。"
+          }
+        },
+        {
+          "en": "The company is facing financial difficulties this quarter.",
+          "highlight": [
+            "difficulties"
+          ],
+          "translations": {
+            "zh-TW": "本季度公司面臨財務困難。"
+          }
+        },
+        {
+          "en": "The difficulty of this project requires extra time and resources.",
+          "highlight": [
+            "difficulty"
+          ],
+          "translations": {
+            "zh-TW": "這個專案的難度需要額外的時間和資源。"
           }
         }
       ],
       "synonyms": [
         "challenge",
-        "struggle"
+        "struggle",
+        "hardship"
       ],
       "antonyms": [
         "ease",
-        "simplicity"
+        "simplicity",
+        "facility"
       ],
       "phrases": [
-        "have",
-        "difficulty",
-        "with",
-        "face",
-        "difficulty"
+        "have difficulty with",
+        "face difficulties",
+        "with difficulty",
+        "cause difficulty"
       ]
     },
     {
@@ -363,44 +485,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "diged",
-        "past_participle": "diged",
-        "present_participle": "diging",
-        "third_person": "digs"
+        "plural": "digs",
+        "present_3rd": "digs",
+        "past": "dug",
+        "past_participle": "dug",
+        "ing": "digging"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dig",
-          "definition": "vt. 挖, 翻土, 發掘, vi. 挖掘, n. 挖掘, [计] 数字, 数位"
+          "definition": "v. 挖掘、發掘  n. 挖掘、考古發掘地點"
         }
       ],
       "examples": [
         {
-          "en": "They began to dig a hole.",
+          "en": "The workers will dig a trench along the road tomorrow morning.",
           "highlight": [
             "dig"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "工人們明天早上將沿著馬路挖一條溝渠。"
+          }
+        },
+        {
+          "en": "She dug out the old files from the basement archive.",
+          "highlight": [
+            "dug"
+          ],
+          "translations": {
+            "zh-TW": "她從地下室檔案室裡翻出了舊檔案。"
+          }
+        },
+        {
+          "en": "The team is digging deeper into the data to find the root cause.",
+          "highlight": [
+            "digging"
+          ],
+          "translations": {
+            "zh-TW": "團隊正在深入研究資料以找出根本原因。"
           }
         }
       ],
       "synonyms": [
         "excavate",
-        "delve"
+        "delve",
+        "unearth"
       ],
       "antonyms": [
         "fill",
-        "cover"
+        "cover",
+        "bury"
       ],
       "phrases": [
-        "dig",
-        "a",
-        "hole",
-        "dig",
-        "deep"
+        "dig deep",
+        "dig into",
+        "dig up",
+        "dig a hole"
       ]
     },
     {
@@ -422,32 +564,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "digital",
-          "definition": "a. 数字顯示的, 数字的, n. 数字仪表, 数字式电子表(或時钟), [计] 数字, 数字式"
+          "definition": "adj. 數位的、數字的  n. 數位裝置"
         }
       ],
       "examples": [
         {
-          "en": "She bought a new digital camera.",
+          "en": "The company is investing heavily in digital marketing this year.",
           "highlight": [
             "digital"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司今年在數位行銷上投入大量資金。"
+          }
+        },
+        {
+          "en": "She uploaded all the digitals from the photoshoot to the shared folder.",
+          "highlight": [
+            "digitals"
+          ],
+          "translations": {
+            "zh-TW": "她把拍攝現場的所有數位照片上傳到共享資料夾。"
+          }
+        },
+        {
+          "en": "A digital signature is required to complete the online contract.",
+          "highlight": [
+            "digital"
+          ],
+          "translations": {
+            "zh-TW": "完成線上合約需要數位簽章。"
           }
         }
       ],
       "synonyms": [
         "electronic",
-        "computerized"
+        "computerized",
+        "online"
       ],
       "antonyms": [
-        "analog"
+        "analog",
+        "manual"
       ],
       "phrases": [
-        "digital",
-        "technology",
-        "digital",
-        "age"
+        "digital camera",
+        "digital technology",
+        "digital age",
+        "digital signature"
       ]
     },
     {
@@ -462,43 +624,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "dinnered",
+        "plural": "dinners",
+        "present_3rd": "dinners",
+        "past": "dinnered",
         "past_participle": "dinnered",
-        "present_participle": "dinnering",
-        "third_person": "dinners"
+        "ing": "dinnering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dinner",
-          "definition": "n. 晚餐, 正餐, 宴會"
+          "definition": "n. 晚餐、正餐、宴會  v. 宴請"
         }
       ],
       "examples": [
         {
-          "en": "They invited us to dinner.",
+          "en": "We are invited to a business dinner with the new clients.",
           "highlight": [
             "dinner"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們受邀與新客戶共進商務晚餐。"
+          }
+        },
+        {
+          "en": "They have dinnered at this restaurant every Friday for the past year.",
+          "highlight": [
+            "dinnered"
+          ],
+          "translations": {
+            "zh-TW": "過去一年他們每個星期五都在這家餐廳用餐。"
+          }
+        },
+        {
+          "en": "The company is dinnering potential partners at the hotel tonight.",
+          "highlight": [
+            "dinnering"
+          ],
+          "translations": {
+            "zh-TW": "公司今晚在飯店宴請潛在合作夥伴。"
           }
         }
       ],
       "synonyms": [
         "meal",
-        "supper"
+        "supper",
+        "banquet"
       ],
       "antonyms": [
         "breakfast",
         "lunch"
       ],
       "phrases": [
-        "dinner",
-        "party",
-        "have",
-        "dinner"
+        "business dinner",
+        "dinner party",
+        "have dinner",
+        "formal dinner"
       ]
     }
   ]
