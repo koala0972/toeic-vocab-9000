@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 117,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-117-001",
@@ -15,40 +15,61 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "extremes"
+        "plural": "extremes",
+        "comparative": "extremer",
+        "superlative": "extremest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "extreme",
-          "definition": "n. 极端, 末端, a. 极端的, 盡頭的, 极度的, 偏激的"
+          "definition": "adj. 極端的、極度的、偏激的  n. 極端、末端"
         }
       ],
       "examples": [
         {
-          "en": "He took extreme measures to ensure success.",
+          "en": "The company took extreme measures to cut costs during the recession.",
           "highlight": [
             "extreme"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司在經濟衰退期間採取了極端的措施來削減成本。"
+          }
+        },
+        {
+          "en": "The extremes of summer heat and winter cold make it hard to plan outdoor events.",
+          "highlight": [
+            "extremes"
+          ],
+          "translations": {
+            "zh-TW": "夏日酷熱與冬日嚴寒這兩個極端，讓人很難安排戶外活動。"
+          }
+        },
+        {
+          "en": "Her views on the issue are extreme compared to most of her colleagues.",
+          "highlight": [
+            "extreme"
+          ],
+          "translations": {
+            "zh-TW": "相較於多數同事，她對這個議題的看法相當偏激。"
           }
         }
       ],
       "synonyms": [
         "severe",
-        "intense"
+        "intense",
+        "radical"
       ],
       "antonyms": [
         "moderate",
         "mild"
       ],
       "phrases": [
-        "extreme",
-        "weather",
-        "extreme",
-        "measures"
+        "extreme weather",
+        "extreme measures",
+        "go to extremes",
+        "extreme sports"
       ]
     },
     {
@@ -67,33 +88,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "extremely",
-          "definition": "adv. 极端地, 非常地"
+          "definition": "adv. 極端地、非常地、極其"
         }
       ],
       "examples": [
         {
-          "en": "The weather was extremely hot.",
+          "en": "The deadline is extremely tight, so we need to start working immediately.",
           "highlight": [
             "extremely"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "截止日期非常緊迫，所以我們必須立刻開始工作。"
+          }
+        },
+        {
+          "en": "Customers were extremely satisfied with the quality of the new product.",
+          "highlight": [
+            "extremely"
+          ],
+          "translations": {
+            "zh-TW": "顧客對新產品的品質感到非常滿意。"
+          }
+        },
+        {
+          "en": "She found the exam extremely difficult and had to study for weeks.",
+          "highlight": [
+            "extremely"
+          ],
+          "translations": {
+            "zh-TW": "她覺得這次考試極其困難，不得不準備了好幾個星期。"
           }
         }
       ],
       "synonyms": [
         "very",
-        "highly"
+        "highly",
+        "remarkably"
       ],
       "antonyms": [
         "slightly",
         "moderately"
       ],
       "phrases": [
-        "extremely",
-        "difficult",
-        "extremely",
-        "hot"
+        "extremely difficult",
+        "extremely important",
+        "extremely hot",
+        "extremely useful"
       ]
     },
     {
@@ -108,41 +148,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "eyeed",
-        "past_participle": "eyeed",
-        "present_participle": "eying",
-        "third_person": "eyes"
+        "plural": "eyes",
+        "present_3rd": "eyes",
+        "past": "eyed",
+        "past_participle": "eyed",
+        "ing": "eyeing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "eye",
-          "definition": "n. 眼睛, 视力, 看, vt. 看, 注视"
+          "definition": "n. 眼睛、視力、目光  v. 注視、細看"
         }
       ],
       "examples": [
         {
-          "en": "She has blue eyes.",
+          "en": "She kept an eye on the stock market throughout the trading day.",
           "highlight": [
             "eye"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在整個交易日裡一直留意著股市動向。"
+          }
+        },
+        {
+          "en": "His eyes lit up when he saw the new design proposal.",
+          "highlight": [
+            "eyes"
+          ],
+          "translations": {
+            "zh-TW": "當他看到新的設計提案時，眼睛為之一亮。"
+          }
+        },
+        {
+          "en": "The buyer eyed the antique vase carefully before making an offer.",
+          "highlight": [
+            "eyed"
+          ],
+          "translations": {
+            "zh-TW": "買家在出價前仔細端詳了那只古董花瓶。"
           }
         }
       ],
       "synonyms": [
-        "ocular",
-        "organ",
-        "sight"
+        "look",
+        "gaze",
+        "stare"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "ignore",
+        "overlook"
+      ],
       "phrases": [
-        "blue",
-        "eyes",
-        "eye",
-        "color"
+        "keep an eye on",
+        "eye contact",
+        "turn a blind eye",
+        "catch someone's eye"
       ]
     },
     {
@@ -157,44 +219,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "faceed",
-        "past_participle": "faceed",
-        "present_participle": "facing",
-        "third_person": "faces"
+        "plural": "faces",
+        "present_3rd": "faces",
+        "past": "faced",
+        "past_participle": "faced",
+        "ing": "facing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "face",
-          "definition": "n. 脸, 面容, 正面, 外观, vt. 面對, 朝, 正视, 面临, vi. 朝, 向, [计] 现場可改变的控制元件"
+          "definition": "n. 臉、面容、正面  v. 面對、正視、朝向"
         }
       ],
       "examples": [
         {
-          "en": "She washed her face.",
+          "en": "A friendly face at the reception desk makes guests feel welcome.",
           "highlight": [
             "face"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "接待櫃台有一張友善的臉孔，讓賓客感到賓至如歸。"
+          }
+        },
+        {
+          "en": "The company faced serious financial difficulties last quarter.",
+          "highlight": [
+            "faced"
+          ],
+          "translations": {
+            "zh-TW": "公司上季度面臨了嚴重的財務困難。"
+          }
+        },
+        {
+          "en": "She is facing a difficult decision about whether to relocate overseas.",
+          "highlight": [
+            "facing"
+          ],
+          "translations": {
+            "zh-TW": "她正面臨是否搬到海外的艱難決定。"
           }
         }
       ],
       "synonyms": [
-        "visage",
-        "countenance"
+        "confront",
+        "encounter",
+        "visage"
       ],
       "antonyms": [
-        "back",
-        "rear"
+        "avoid",
+        "evade"
       ],
       "phrases": [
-        "wash",
-        "face",
-        "face",
-        "the",
-        "challenge"
+        "face the music",
+        "face to face",
+        "save face",
+        "face the challenge"
       ]
     },
     {
@@ -209,44 +290,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "facinged",
-        "past_participle": "facinged",
-        "present_participle": "facinging",
-        "third_person": "facings"
+        "plural": "facings",
+        "present_3rd": "facings",
+        "past": "faced",
+        "past_participle": "faced",
+        "ing": "facing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "facing",
-          "definition": "n. 贴边, 饰面, [化] 衬片; 盖面; 铺面; 饰面; 贴面; 密封面"
+          "definition": "v. 面對、面臨（face 的現在分詞）  n. 飾面、貼邊"
         }
       ],
       "examples": [
         {
-          "en": "She is facing many challenges.",
+          "en": "The store facing the park gets more foot traffic than others on the street.",
           "highlight": [
             "facing"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "面向公園的那家店面比街上其他店家得到更多來客流量。"
+          }
+        },
+        {
+          "en": "Facing a shortage of skilled workers, the firm launched a new training program.",
+          "highlight": [
+            "Facing"
+          ],
+          "translations": {
+            "zh-TW": "面對技術工人短缺的問題，公司推出了新的培訓計畫。"
+          }
+        },
+        {
+          "en": "The marble facing on the lobby wall gives the building a luxurious feel.",
+          "highlight": [
+            "facing"
+          ],
+          "translations": {
+            "zh-TW": "大廳牆面上的大理石飾面讓這棟建築增添了一分奢華感。"
           }
         }
       ],
       "synonyms": [
-        "confront",
-        "encounter"
+        "confronting",
+        "encountering",
+        "opposing"
       ],
       "antonyms": [
-        "avoid",
-        "evade"
+        "avoiding",
+        "evading"
       ],
       "phrases": [
-        "facing",
-        "the",
-        "problem",
-        "facing",
-        "reality"
+        "facing page",
+        "facing the challenge",
+        "facing material",
+        "facing the future"
       ]
     },
     {
@@ -257,47 +357,62 @@
       "toeic_score_min": 200,
       "word": "fact",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "facted",
-        "past_participle": "facted",
-        "present_participle": "facting",
-        "third_person": "facts"
+        "plural": "facts"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "fact",
-          "definition": "n. 事實, 真實性, 真相, 细节, 论据"
+          "definition": "n. 事實、真相、真實性"
         }
       ],
       "examples": [
         {
-          "en": "It's a fact that the earth orbits the sun.",
+          "en": "It is a well-known fact that regular exercise improves productivity.",
           "highlight": [
             "fact"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "規律運動能提升工作效率，這是一個眾所皆知的事實。"
+          }
+        },
+        {
+          "en": "The report is based on verifiable facts gathered from multiple sources.",
+          "highlight": [
+            "facts"
+          ],
+          "translations": {
+            "zh-TW": "這份報告是基於從多個來源蒐集到的可查證事實。"
+          }
+        },
+        {
+          "en": "In fact, sales have grown faster than the management team expected.",
+          "highlight": [
+            "fact"
+          ],
+          "translations": {
+            "zh-TW": "事實上，銷售成長的速度比管理團隊預期的還要快。"
           }
         }
       ],
       "synonyms": [
         "truth",
-        "reality"
+        "reality",
+        "certainty"
       ],
       "antonyms": [
         "fiction",
-        "lie"
+        "falsehood"
       ],
       "phrases": [
-        "scientific",
-        "fact",
-        "historical",
-        "fact"
+        "in fact",
+        "matter of fact",
+        "established fact",
+        "scientific fact"
       ]
     },
     {
@@ -312,40 +427,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "factored",
+        "plural": "factors",
+        "present_3rd": "factors",
+        "past": "factored",
         "past_participle": "factored",
-        "present_participle": "factoring",
-        "third_person": "factors"
+        "ing": "factoring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "factor",
-          "definition": "n. 因素, 因数, 系数, 基因, 代理人, [计] 因式"
+          "definition": "n. 因素、要素  v. 將…納入考量、分解因數"
         }
       ],
       "examples": [
         {
-          "en": "Poor diet is a factor in many diseases.",
+          "en": "Weather is one of the key factors that affect crop prices each season.",
           "highlight": [
-            "factor"
+            "factors"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "天氣是每個季節影響農產品價格的關鍵因素之一。"
+          }
+        },
+        {
+          "en": "The analyst factored inflation into the long-term revenue forecast.",
+          "highlight": [
+            "factored"
+          ],
+          "translations": {
+            "zh-TW": "分析師將通貨膨脹納入長期營收預測的考量之中。"
+          }
+        },
+        {
+          "en": "The bank is factoring the invoice to free up working capital for the supplier.",
+          "highlight": [
+            "factoring"
+          ],
+          "translations": {
+            "zh-TW": "銀行正在對這張發票進行應收帳款融資，以釋放供應商的營運資金。"
           }
         }
       ],
       "synonyms": [
         "element",
-        "component"
+        "component",
+        "consideration"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "whole",
+        "totality"
+      ],
       "phrases": [
-        "key",
-        "factor",
-        "contributing",
-        "factor"
+        "key factor",
+        "contributing factor",
+        "deciding factor",
+        "risk factor"
       ]
     },
     {
@@ -356,44 +494,59 @@
       "toeic_score_min": 200,
       "word": "factory",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "factoryed",
-        "past_participle": "factoryed",
-        "present_participle": "factorying",
-        "third_person": "factorys"
+        "plural": "factories"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "factory",
-          "definition": "n. 工厂, 产生地, 代理店, [經] 工厂, 代理店, 商行在國外的代理處"
+          "definition": "n. 工廠、製造廠、產生地"
         }
       ],
       "examples": [
         {
-          "en": "He works in a car factory.",
+          "en": "The new factory will create over three hundred jobs in the region.",
           "highlight": [
             "factory"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這座新工廠將為該地區創造超過三百個工作機會。"
+          }
+        },
+        {
+          "en": "Several factories in the industrial zone have switched to renewable energy.",
+          "highlight": [
+            "factories"
+          ],
+          "translations": {
+            "zh-TW": "工業區內的幾座工廠已改用再生能源。"
+          }
+        },
+        {
+          "en": "The firm plans to relocate its factory to a region with lower labor costs.",
+          "highlight": [
+            "factory"
+          ],
+          "translations": {
+            "zh-TW": "這家公司計畫把工廠遷往勞力成本較低的地區。"
           }
         }
       ],
       "synonyms": [
         "plant",
-        "mill"
+        "mill",
+        "works"
       ],
       "antonyms": [],
       "phrases": [
-        "manufacturing",
-        "factory",
-        "factory",
-        "worker"
+        "factory worker",
+        "factory output",
+        "factory floor",
+        "manufacturing factory"
       ]
     },
     {
@@ -408,45 +561,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "failed",
+        "plural": "fails",
+        "present_3rd": "fails",
+        "past": "failed",
         "past_participle": "failed",
-        "present_participle": "failing",
-        "third_person": "fails"
+        "ing": "failing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "fail",
-          "definition": "vi. 失败, 缺乏, 中断, 衰退, 失灵, vt. 忘記, 使...失望, 缺乏, 不及格, n. 不及格"
+          "definition": "v. 失敗、不及格、未能、辜負  n. 不及格"
         }
       ],
       "examples": [
         {
-          "en": "He failed to meet the deadline.",
+          "en": "The candidate failed the entrance exam on her first attempt.",
           "highlight": [
-            "fail"
+            "failed"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這名候選人第一次嘗試時未能通過入學考試。"
+          }
+        },
+        {
+          "en": "If the system fails during peak hours, customers will lose access to their accounts.",
+          "highlight": [
+            "fails"
+          ],
+          "translations": {
+            "zh-TW": "若系統在尖峰時段故障，顧客將無法存取自己的帳戶。"
+          }
+        },
+        {
+          "en": "Failing to meet safety standards can result in heavy fines for the company.",
+          "highlight": [
+            "Failing"
+          ],
+          "translations": {
+            "zh-TW": "未能符合安全標準可能讓公司面臨高額罰款。"
           }
         }
       ],
       "synonyms": [
-        "fall",
-        "short",
-        "not",
-        "succeed"
+        "fall short",
+        "miss",
+        "drop"
       ],
       "antonyms": [
         "succeed",
         "pass"
       ],
       "phrases": [
-        "fail",
-        "miserably",
-        "fail",
-        "to"
+        "fail to meet",
+        "fail an exam",
+        "without fail",
+        "fail miserably"
       ]
     },
     {
@@ -457,48 +628,62 @@
       "toeic_score_min": 200,
       "word": "failure",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "failureed",
-        "past_participle": "failureed",
-        "present_participle": "failuring",
-        "third_person": "failures"
+        "plural": "failures"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "failure",
-          "definition": "n. 失败, 失败者, 不足, 缺乏, 破产, [计] 故障; 失效"
+          "definition": "n. 失敗、失敗者、故障、不足"
         }
       ],
       "examples": [
         {
-          "en": "The project ended in failure.",
+          "en": "The launch was a complete failure due to poor market research.",
           "highlight": [
             "failure"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "由於市場調查不充分，這次產品上市徹底失敗。"
+          }
+        },
+        {
+          "en": "Hardware failures are the most common cause of data loss in servers.",
+          "highlight": [
+            "failures"
+          ],
+          "translations": {
+            "zh-TW": "硬體故障是伺服器資料遺失最常見的原因。"
+          }
+        },
+        {
+          "en": "After several business failures, he finally built a successful startup.",
+          "highlight": [
+            "failures"
+          ],
+          "translations": {
+            "zh-TW": "經歷幾次創業失敗之後，他終於打造出一家成功的新創公司。"
           }
         }
       ],
       "synonyms": [
         "defeat",
-        "setback"
+        "setback",
+        "breakdown"
       ],
       "antonyms": [
         "success",
         "achievement"
       ],
       "phrases": [
-        "complete",
-        "failure",
-        "result",
-        "in",
-        "failure"
+        "complete failure",
+        "result in failure",
+        "business failure",
+        "power failure"
       ]
     }
   ]
