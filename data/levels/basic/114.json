@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 114,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-114-001",
@@ -11,48 +11,64 @@
       "toeic_score_min": 200,
       "word": "exist",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "existed",
+        "present_3rd": "exists",
+        "past": "existed",
         "past_participle": "existed",
-        "present_participle": "existing",
-        "third_person": "exists"
+        "ing": "existing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "exist",
-          "definition": "vi. 存在, 生存, 發生"
+          "definition": "v. 存在、生存、生活"
         }
       ],
       "examples": [
         {
-          "en": "Ghosts do not exist.",
+          "en": "Several reputable airlines still exist despite years of fierce competition.",
           "highlight": [
             "exist"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "儘管歷經多年激烈競爭，幾家信譽良好的航空公司依然存在。"
+          }
+        },
+        {
+          "en": "The small bakery existed for over fifty years before closing last month.",
+          "highlight": [
+            "existed"
+          ],
+          "translations": {
+            "zh-TW": "這家小麵包店存在了五十多年，直到上個月才歇業。"
+          }
+        },
+        {
+          "en": "Existing customers will be automatically transferred to the new service plan.",
+          "highlight": [
+            "existing"
+          ],
+          "translations": {
+            "zh-TW": "現有客戶將會自動轉移到新的服務方案。"
           }
         }
       ],
       "synonyms": [
         "live",
-        "be"
+        "be present",
+        "occur"
       ],
       "antonyms": [
-        "perish",
-        "vanish"
+        "vanish",
+        "perish"
       ],
       "phrases": [
-        "actually",
-        "exist",
-        "continue",
-        "to",
-        "exist"
+        "exist in",
+        "exist on",
+        "cease to exist"
       ]
     },
     {
@@ -63,48 +79,61 @@
       "toeic_score_min": 200,
       "word": "existence",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "existenceed",
-        "past_participle": "existenceed",
-        "present_participle": "existencing",
-        "third_person": "existences"
+        "plural": "existences"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "existence",
-          "definition": "n. 存在, 生存, [法] 存在, 存在状态, 實体"
+          "definition": "n. 存在、生存、生活"
         }
       ],
       "examples": [
         {
-          "en": "The existence of the building is under threat.",
+          "en": "The report confirmed the existence of a serious safety defect in the new model.",
           "highlight": [
             "existence"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "報告證實了新型號存在嚴重的安全缺陷。"
+          }
+        },
+        {
+          "en": "The existences of small bookshops are threatened by giant online retailers.",
+          "highlight": [
+            "existences"
+          ],
+          "translations": {
+            "zh-TW": "小型書店的生存正受到大型網路零售商的威脅。"
+          }
+        },
+        {
+          "en": "Pollution threatens the very existence of several endangered species.",
+          "highlight": [
+            "existence"
+          ],
+          "translations": {
+            "zh-TW": "汙染威脅著幾種瀕危物種的生存。"
           }
         }
       ],
       "synonyms": [
         "being",
-        "reality"
+        "reality",
+        "life"
       ],
       "antonyms": [
         "nonexistence",
-        "nothingness"
+        "extinction"
       ],
       "phrases": [
-        "proof",
-        "of",
-        "existence",
-        "brief",
-        "existence"
+        "in existence",
+        "come into existence",
+        "cease existence"
       ]
     },
     {
@@ -119,45 +148,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "exited",
+        "plural": "exits",
+        "present_3rd": "exits",
+        "past": "exited",
         "past_participle": "exited",
-        "present_participle": "exiting",
-        "third_person": "exits"
+        "ing": "exiting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "exit",
-          "definition": "n. 出口, 退場, 離去, 去世, vi. 退出, 脱離, 去世, [计] 退出; DOS内部命令:本命令用于退出当前的命令處理器(COMMAND.COM), 恢复前一個命令處理器"
+          "definition": "n. 出口、退場  v. 離開、退出"
         }
       ],
       "examples": [
         {
-          "en": "They headed towards the exit.",
+          "en": "Please follow the signs to the nearest emergency exit.",
           "highlight": [
             "exit"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請依指示前往最近的緊急出口。"
+          }
+        },
+        {
+          "en": "The CEO exited the meeting room without answering any questions.",
+          "highlight": [
+            "exited"
+          ],
+          "translations": {
+            "zh-TW": "執行長沒有回答任何問題便離開了會議室。"
+          }
+        },
+        {
+          "en": "Exiting the highway, she noticed her fuel gauge was nearly empty.",
+          "highlight": [
+            "exiting"
+          ],
+          "translations": {
+            "zh-TW": "下高速公路時，她注意到油表幾乎見底了。"
           }
         }
       ],
       "synonyms": [
-        "way",
-        "out",
-        "doorway"
+        "leave",
+        "depart",
+        "way out"
       ],
       "antonyms": [
-        "entrance",
-        "entry"
+        "enter",
+        "entrance"
       ],
       "phrases": [
-        "emergency",
-        "exit",
-        "make",
-        "an",
-        "exit"
+        "emergency exit",
+        "exit strategy",
+        "make an exit"
       ]
     },
     {
@@ -168,48 +214,64 @@
       "toeic_score_min": 200,
       "word": "expand",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "expanded",
+        "present_3rd": "expands",
+        "past": "expanded",
         "past_participle": "expanded",
-        "present_participle": "expanding",
-        "third_person": "expands"
+        "ing": "expanding"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "expand",
-          "definition": "vt. 使膨胀, 详述, 扩张, vi. 张开, 發展, vt. 展开, vi. 展开, [计] 展开; DOS外部命令:将原始DOS磁盘上的压缩文件解压缩并拷贝到硬盘上"
+          "definition": "v. 擴張、擴大、擴展"
         }
       ],
       "examples": [
         {
-          "en": "The company plans to expand its operations.",
+          "en": "The startup plans to expand its sales team next quarter.",
           "highlight": [
             "expand"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家新創公司計畫在下季擴充業務團隊。"
+          }
+        },
+        {
+          "en": "Last year the firm expanded into three new Asian markets.",
+          "highlight": [
+            "expanded"
+          ],
+          "translations": {
+            "zh-TW": "去年該公司擴展到三個新的亞洲市場。"
+          }
+        },
+        {
+          "en": "Expanding abroad requires careful research into local regulations.",
+          "highlight": [
+            "expanding"
+          ],
+          "translations": {
+            "zh-TW": "向海外擴張需要對當地法規進行審慎的研究。"
           }
         }
       ],
       "synonyms": [
         "enlarge",
-        "extend"
+        "extend",
+        "grow"
       ],
       "antonyms": [
         "shrink",
         "contract"
       ],
       "phrases": [
-        "expand",
-        "rapidly",
-        "expand",
-        "the",
-        "business"
+        "expand operations",
+        "expand the market",
+        "expand rapidly"
       ]
     },
     {
@@ -220,47 +282,64 @@
       "toeic_score_min": 200,
       "word": "expect",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "expected",
+        "present_3rd": "expects",
+        "past": "expected",
         "past_participle": "expected",
-        "present_participle": "expecting",
-        "third_person": "expects"
+        "ing": "expecting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "expect",
-          "definition": "vt. 预期, 盼望, 期待"
+          "definition": "v. 預期、期待、預料"
         }
       ],
       "examples": [
         {
-          "en": "We expect rain later today.",
+          "en": "We expect the shipment to arrive by Friday morning.",
           "highlight": [
             "expect"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們預期貨物會在週五上午抵達。"
+          }
+        },
+        {
+          "en": "The manager expected the report to be finished before lunch.",
+          "highlight": [
+            "expected"
+          ],
+          "translations": {
+            "zh-TW": "經理預期報告會在午餐前完成。"
+          }
+        },
+        {
+          "en": "She is expecting a promotion after her outstanding performance this quarter.",
+          "highlight": [
+            "expecting"
+          ],
+          "translations": {
+            "zh-TW": "她在本季表現傑出之後，正期待升遷。"
           }
         }
       ],
       "synonyms": [
         "anticipate",
+        "await",
         "predict"
       ],
       "antonyms": [
         "doubt",
-        "question"
+        "despair"
       ],
       "phrases": [
-        "expect",
-        "results",
-        "expect",
-        "someone"
+        "expect to",
+        "expect results",
+        "expect a baby"
       ]
     },
     {
@@ -271,47 +350,61 @@
       "toeic_score_min": 200,
       "word": "expectation",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "expectationed",
-        "past_participle": "expectationed",
-        "present_participle": "expectationing",
-        "third_person": "expectations"
+        "plural": "expectations"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "expectation",
-          "definition": "n. 期待, 指望, 展望, [化] 期望值"
+          "definition": "n. 期待、期望、預料"
         }
       ],
       "examples": [
         {
-          "en": "She had high expectations for the job.",
+          "en": "The new product exceeded every customer's expectation.",
           "highlight": [
             "expectation"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這項新產品超出了每位顧客的期待。"
+          }
+        },
+        {
+          "en": "The board's expectations for revenue growth were far too optimistic.",
+          "highlight": [
+            "expectations"
+          ],
+          "translations": {
+            "zh-TW": "董事會對營收成長的期望過於樂觀。"
+          }
+        },
+        {
+          "en": "Candidates should clearly understand the expectations of the role before accepting.",
+          "highlight": [
+            "expectations"
+          ],
+          "translations": {
+            "zh-TW": "候選人在接受職位之前，應清楚了解這個角色的期望。"
           }
         }
       ],
       "synonyms": [
-        "belief",
-        "anticipation"
+        "anticipation",
+        "hope",
+        "belief"
       ],
       "antonyms": [
-        "disbelief",
-        "doubt"
+        "doubt",
+        "disappointment"
       ],
       "phrases": [
-        "meet",
-        "expectations",
-        "high",
-        "expectation"
+        "meet expectations",
+        "beyond expectation",
+        "high expectations"
       ]
     },
     {
@@ -325,44 +418,57 @@
         "adjective",
         "verb"
       ],
-      "conjugations": {
-        "past_tense": "expecteded",
-        "past_participle": "expecteded",
-        "present_participle": "expecteding",
-        "third_person": "expecteds"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "expected",
-          "definition": "a. 预期的；预料的"
+          "definition": "adj. 預期的、預料的  v. expect 的過去式／過去分詞"
         }
       ],
       "examples": [
         {
-          "en": "The expected result was achieved.",
+          "en": "The expected delivery time is between two and four business days.",
           "highlight": [
             "expected"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "預計的送達時間為二至四個工作天。"
+          }
+        },
+        {
+          "en": "The CFO was expected to present the budget during yesterday's meeting.",
+          "highlight": [
+            "expected"
+          ],
+          "translations": {
+            "zh-TW": "財務長被預期在昨天的會議中提出預算。"
+          }
+        },
+        {
+          "en": "Sales growth this year is expected, but the company remains cautious.",
+          "highlight": [
+            "expected"
+          ],
+          "translations": {
+            "zh-TW": "今年銷售成長是預料中的，但公司仍保持謹慎。"
           }
         }
       ],
       "synonyms": [
         "anticipated",
-        "predicted"
+        "predicted",
+        "likely"
       ],
       "antonyms": [
         "unexpected",
         "surprising"
       ],
       "phrases": [
-        "expected",
-        "outcome",
-        "expected",
-        "result"
+        "expected outcome",
+        "expected result",
+        "as expected"
       ]
     },
     {
@@ -373,47 +479,61 @@
       "toeic_score_min": 200,
       "word": "expense",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "expenseed",
-        "past_participle": "expenseed",
-        "present_participle": "expensing",
-        "third_person": "expenses"
+        "plural": "expenses"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "expense",
-          "definition": "n. 费用, 代价, 开支, 损失, [經] 费用, 开支, 将支出转為费用"
+          "definition": "n. 費用、開支、花費"
         }
       ],
       "examples": [
         {
-          "en": "Traveling can be an expensive expense.",
+          "en": "Keep all receipts because the company reimburses travel expenses monthly.",
           "highlight": [
             "expense"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請保留所有收據，因為公司每月會報銷差旅費用。"
+          }
+        },
+        {
+          "en": "Employee expenses for the conference totaled over ten thousand dollars.",
+          "highlight": [
+            "expenses"
+          ],
+          "translations": {
+            "zh-TW": "員工參加研討會的開支總計超過一萬美元。"
+          }
+        },
+        {
+          "en": "He bought a new laptop at his own expense and did not ask for reimbursement.",
+          "highlight": [
+            "expense"
+          ],
+          "translations": {
+            "zh-TW": "他自費購買了一台新筆電，並未申請報銷。"
           }
         }
       ],
       "synonyms": [
         "cost",
-        "expenditure"
+        "expenditure",
+        "charge"
       ],
       "antonyms": [
         "income",
         "profit"
       ],
       "phrases": [
-        "travel",
-        "expense",
-        "living",
-        "expense"
+        "travel expenses",
+        "at one's expense",
+        "living expenses"
       ]
     },
     {
@@ -424,44 +544,63 @@
       "toeic_score_min": 200,
       "word": "expensive",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "expensives"
+        "comparative": "more expensive",
+        "superlative": "most expensive"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "expensive",
-          "definition": "a. 贵的, 奢华的, 费用浩大的, 乱化钱的, [經] 高价的, 昂贵的, 浪费的"
+          "definition": "adj. 昂貴的、高價的"
         }
       ],
       "examples": [
         {
-          "en": "The jewelry was too expensive.",
+          "en": "This vintage watch is extremely expensive but holds its value well.",
           "highlight": [
             "expensive"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這只復古手錶極為昂貴，但保值性很好。"
+          }
+        },
+        {
+          "en": "Imported luxury cars are more expensive than locally assembled models.",
+          "highlight": [
+            "more expensive"
+          ],
+          "translations": {
+            "zh-TW": "進口豪華汽車比本地組裝的車型更昂貴。"
+          }
+        },
+        {
+          "en": "She booked the most expensive suite in the hotel for her anniversary trip.",
+          "highlight": [
+            "most expensive"
+          ],
+          "translations": {
+            "zh-TW": "她為周年紀念旅行預訂了飯店中最昂貴的套房。"
           }
         }
       ],
       "synonyms": [
         "costly",
-        "pricey"
+        "pricey",
+        "high-priced"
       ],
       "antonyms": [
         "cheap",
-        "affordable"
+        "affordable",
+        "inexpensive"
       ],
       "phrases": [
-        "very",
-        "expensive",
-        "too",
-        "expensive"
+        "too expensive",
+        "very expensive",
+        "expensive taste"
       ]
     },
     {
@@ -476,43 +615,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "experienceed",
-        "past_participle": "experienceed",
-        "present_participle": "experiencing",
-        "third_person": "experiences"
+        "plural": "experiences",
+        "present_3rd": "experiences",
+        "past": "experienced",
+        "past_participle": "experienced",
+        "ing": "experiencing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "experience",
-          "definition": "n. 經歷, 經验, 体验, vt. 經歷, 經验, 体验"
+          "definition": "n. 經驗、經歷、體驗  v. 經歷、體驗"
         }
       ],
       "examples": [
         {
-          "en": "She has a lot of experience in marketing.",
+          "en": "Candidates with prior retail experience will be considered first.",
           "highlight": [
             "experience"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "具備零售相關經驗的求職者將優先被考慮。"
+          }
+        },
+        {
+          "en": "The region experienced its worst drought in over a century last summer.",
+          "highlight": [
+            "experienced"
+          ],
+          "translations": {
+            "zh-TW": "該地區去年夏天經歷了一個多世紀以來最嚴重的乾旱。"
+          }
+        },
+        {
+          "en": "Many companies are now experiencing supply chain delays of several weeks.",
+          "highlight": [
+            "experiencing"
+          ],
+          "translations": {
+            "zh-TW": "許多公司目前正經歷長達數週的供應鏈延遲。"
           }
         }
       ],
       "synonyms": [
         "knowledge",
-        "skill"
+        "skill",
+        "encounter"
       ],
       "antonyms": [
-        "ignorance",
-        "inexperience"
+        "inexperience",
+        "ignorance"
       ],
       "phrases": [
-        "gain",
-        "experience",
-        "work",
-        "experience"
+        "work experience",
+        "gain experience",
+        "practical experience"
       ]
     }
   ]
