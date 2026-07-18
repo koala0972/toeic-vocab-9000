@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 95,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-095-001",
@@ -15,40 +15,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "documented",
+        "plural": "documents",
+        "present_3rd": "documents",
+        "past": "documented",
         "past_participle": "documented",
-        "present_participle": "documenting",
-        "third_person": "documents"
+        "ing": "documenting"
       },
-      "domain": "general",
+      "domain": "office",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "document",
-          "definition": "n. 文件, 公文, 文档, vt. 证明, 為...引证, [计] 文档"
+          "definition": "n. 文件、公文  v. 記錄、以文件記載"
         }
       ],
       "examples": [
         {
-          "en": "He signed the document.",
+          "en": "Please sign this document before submitting it to the human resources office.",
           "highlight": [
             "document"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在將這份文件送交人事室之前先簽名。"
+          }
+        },
+        {
+          "en": "The engineer documented every step of the testing procedure for future reference.",
+          "highlight": [
+            "documented"
+          ],
+          "translations": {
+            "zh-TW": "工程師把測試程序的每個步驟都記錄下來，以供日後參考。"
+          }
+        },
+        {
+          "en": "She is documenting the customer complaints to identify recurring problems.",
+          "highlight": [
+            "documenting"
+          ],
+          "translations": {
+            "zh-TW": "她正在記錄客戶投訴，以便找出重複發生的問題。"
           }
         }
       ],
       "synonyms": [
         "record",
+        "file",
         "paper"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "erase",
+        "delete"
+      ],
       "phrases": [
-        "official",
-        "document",
-        "legal",
-        "document"
+        "official document",
+        "legal document",
+        "document control",
+        "travel document"
       ]
     },
     {
@@ -63,43 +86,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "doged",
-        "past_participle": "doged",
-        "present_participle": "doging",
-        "third_person": "dogs"
+        "plural": "dogs",
+        "present_3rd": "dogs",
+        "past": "dogged",
+        "past_participle": "dogged",
+        "ing": "dogging"
       },
-      "domain": "general",
+      "domain": "animals",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dog",
-          "definition": "n. 狗, 坏蛋, vt. 跟踪, 尾随"
+          "definition": "n. 狗  v. 緊跟、尾隨、困擾"
         }
       ],
       "examples": [
         {
-          "en": "They have a pet dog.",
+          "en": "The family adopted a rescue dog from the local animal shelter.",
           "highlight": [
             "dog"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家人從當地的動物收容所領養了一隻救援犬。"
+          }
+        },
+        {
+          "en": "Two dogs were playing in the park while their owners chatted on the bench.",
+          "highlight": [
+            "dogs"
+          ],
+          "translations": {
+            "zh-TW": "兩隻狗在公園裡玩耍，而牠們的主人在長椅上聊天。"
+          }
+        },
+        {
+          "en": "Financial problems dogged the company throughout the entire quarter.",
+          "highlight": [
+            "dogged"
+          ],
+          "translations": {
+            "zh-TW": "財務問題在整個季度裡一直困擾著這家公司。"
           }
         }
       ],
       "synonyms": [
+        "hound",
         "canine",
-        "hound"
+        "pooch"
       ],
       "antonyms": [
-        "cat",
-        "feline"
+        "cat"
       ],
       "phrases": [
-        "pet",
-        "dog",
-        "guard",
-        "dog"
+        "guide dog",
+        "guard dog",
+        "hot dog",
+        "pet dog"
       ]
     },
     {
@@ -110,44 +152,61 @@
       "toeic_score_min": 200,
       "word": "dollar",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "dollared",
-        "past_participle": "dollared",
-        "present_participle": "dollaring",
-        "third_person": "dollars"
+        "plural": "dollars"
       },
-      "domain": "general",
+      "domain": "finance",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dollar",
-          "definition": "n. 美元, 元(加、澳等國货币单位), [經] 纯經济的, 美元, 元"
+          "definition": "n. 美元、元（加拿大、澳洲等國貨幣單位）"
         }
       ],
       "examples": [
         {
-          "en": "The item costs ten dollars.",
+          "en": "The price of the ticket is twenty dollars, including all taxes.",
           "highlight": [
             "dollar"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這張票的票價是二十美元，包含所有稅金。"
+          }
+        },
+        {
+          "en": "She exchanged five hundred dollars for euros before flying to Paris.",
+          "highlight": [
+            "dollars"
+          ],
+          "translations": {
+            "zh-TW": "她在飛往巴黎之前，把五百美元兌換成歐元。"
+          }
+        },
+        {
+          "en": "The canadian dollar has strengthened against the yen this month.",
+          "highlight": [
+            "dollar"
+          ],
+          "translations": {
+            "zh-TW": "本月加幣對日圓升值了。"
           }
         }
       ],
       "synonyms": [
         "buck",
-        "currency"
+        "currency",
+        "money"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "cent"
+      ],
       "phrases": [
-        "US",
-        "dollar",
-        "Canadian",
-        "dollar"
+        "US dollar",
+        "Canadian dollar",
+        "dollar sign",
+        "dollar store"
       ]
     },
     {
@@ -169,33 +228,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "domestic",
-          "definition": "a. 家庭的, 國内的, 驯养的, [医] 家庭的, 家用的"
+          "definition": "a. 家庭的、國內的、馴養的  n. 家傭、國貨"
         }
       ],
       "examples": [
         {
-          "en": "She is a domestic worker.",
+          "en": "The airline focuses on domestic flights rather than international routes.",
           "highlight": [
             "domestic"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家航空公司專注於國內航班，而非國際航線。"
+          }
+        },
+        {
+          "en": "Domestic sales increased by fifteen percent during the holiday season.",
+          "highlight": [
+            "Domestic"
+          ],
+          "translations": {
+            "zh-TW": "假期期間國內銷售額成長了百分之十五。"
+          }
+        },
+        {
+          "en": "The government introduced new policies to support the domestic economy and local businesses.",
+          "highlight": [
+            "domestic"
+          ],
+          "translations": {
+            "zh-TW": "政府推出新政策以扶植國內經濟與在地企業。"
           }
         }
       ],
       "synonyms": [
         "household",
-        "home"
+        "home",
+        "internal"
       ],
       "antonyms": [
-        "wild",
-        "undomesticated"
+        "foreign",
+        "international",
+        "wild"
       ],
       "phrases": [
-        "domestic",
-        "violence",
-        "domestic",
-        "chores"
+        "domestic flight",
+        "domestic violence",
+        "domestic market",
+        "domestic animal"
       ]
     },
     {
@@ -206,48 +285,66 @@
       "toeic_score_min": 200,
       "word": "dominate",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "dominateed",
-        "past_participle": "dominateed",
-        "present_participle": "dominating",
-        "third_person": "dominates"
+        "present_3rd": "dominates",
+        "past": "dominated",
+        "past_participle": "dominated",
+        "ing": "dominating"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dominate",
-          "definition": "v. 支配, 占优势"
+          "definition": "v. 支配、控制、占優勢"
         }
       ],
       "examples": [
         {
-          "en": "One company has dominated the market.",
+          "en": "Two large corporations dominate the smartphone market in this region.",
           "highlight": [
             "dominate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "兩家大型企業在這個地區的智慧型手機市場中占主導地位。"
+          }
+        },
+        {
+          "en": "The home team dominated the match from the very first minute.",
+          "highlight": [
+            "dominated"
+          ],
+          "translations": {
+            "zh-TW": "主隊從第一分鐘起就主導了這場比賽。"
+          }
+        },
+        {
+          "en": "She has been dominating the sales leaderboard for three consecutive quarters.",
+          "highlight": [
+            "dominating"
+          ],
+          "translations": {
+            "zh-TW": "她已經連續三個季度稱霸銷售排行榜。"
           }
         }
       ],
       "synonyms": [
         "control",
-        "rule"
+        "rule",
+        "govern"
       ],
       "antonyms": [
         "submit",
-        "follow"
+        "surrender",
+        "yield"
       ],
       "phrases": [
-        "dominate",
-        "the",
-        "market",
-        "dominate",
-        "completely"
+        "dominate the market",
+        "dominate the industry",
+        "dominate completely",
+        "dominate competition"
       ]
     },
     {
@@ -258,47 +355,62 @@
       "toeic_score_min": 200,
       "word": "door",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "doored",
-        "past_participle": "doored",
-        "present_participle": "dooring",
-        "third_person": "doors"
+        "plural": "doors"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "door",
-          "definition": "n. 門"
+          "definition": "n. 門、通道、入口"
         }
       ],
       "examples": [
         {
-          "en": "He knocked on the door.",
+          "en": "Please close the door quietly when you enter the meeting room.",
           "highlight": [
             "door"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "進會議室時請輕輕關上門。"
+          }
+        },
+        {
+          "en": "The emergency doors automatically open when the fire alarm is triggered.",
+          "highlight": [
+            "doors"
+          ],
+          "translations": {
+            "zh-TW": "火災警報啟動時，緊急門會自動開啟。"
+          }
+        },
+        {
+          "en": "Our new office has glass doors that separate the workspace from the reception area.",
+          "highlight": [
+            "doors"
+          ],
+          "translations": {
+            "zh-TW": "我們的新辦公室有玻璃門，將辦公區與接待區隔開。"
           }
         }
       ],
       "synonyms": [
         "gate",
-        "entrance"
+        "entrance",
+        "portal"
       ],
       "antonyms": [
         "wall",
         "barrier"
       ],
       "phrases": [
-        "front",
-        "door",
-        "back",
-        "door"
+        "front door",
+        "back door",
+        "open the door",
+        "close the door"
       ]
     },
     {
@@ -313,41 +425,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "doted",
-        "past_participle": "doted",
-        "present_participle": "doting",
-        "third_person": "dots"
+        "plural": "dots",
+        "present_3rd": "dots",
+        "past": "dotted",
+        "past_participle": "dotted",
+        "ing": "dotting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dot",
-          "definition": "n. 點, 圆點, 小数點, 小东西, 嫁妆, vt. 作小點記號, 加小點于, vi. 打上點, [计] 點"
+          "definition": "n. 點、圓點  v. 加點、星羅棋佈"
         }
       ],
       "examples": [
         {
-          "en": "She put a dot at the end of the sentence.",
+          "en": "Please type your email address with a dot between the first and last name.",
           "highlight": [
             "dot"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在電子郵件地址的名字與姓氏之間加上一個點。"
+          }
+        },
+        {
+          "en": "Red dots on the screen indicate areas that require urgent attention.",
+          "highlight": [
+            "dots"
+          ],
+          "translations": {
+            "zh-TW": "螢幕上的紅點表示需要緊急處理的區域。"
+          }
+        },
+        {
+          "en": "The countryside is dotted with small farms and traditional villages.",
+          "highlight": [
+            "dotted"
+          ],
+          "translations": {
+            "zh-TW": "鄉間散布著小農場與傳統村莊。"
           }
         }
       ],
       "synonyms": [
         "point",
-        "spot"
+        "spot",
+        "mark"
       ],
       "antonyms": [],
       "phrases": [
-        "dot",
-        "the",
-        "i's",
-        "connect",
-        "the"
+        "dot com",
+        "dot the i's",
+        "connect the dots",
+        "red dot"
       ]
     },
     {
@@ -359,43 +490,67 @@
       "word": "double",
       "pos": [
         "adjective",
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "doubles"
+        "plural": "doubles",
+        "present_3rd": "doubles",
+        "past": "doubled",
+        "past_participle": "doubled",
+        "ing": "doubling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "double",
-          "definition": "n. 两倍, a. 两倍的, 双重的, vt. 使加倍, vi. 加倍, 代替, 快步走, [计] 双精度型"
+          "definition": "a. 兩倍的、雙重的  n. 兩倍、雙人房  v. 使加倍"
         }
       ],
       "examples": [
         {
-          "en": "They ordered a double room.",
+          "en": "We would like to book a double room with a view of the harbor.",
           "highlight": [
             "double"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們想訂一間可看見海港景觀的雙人房。"
+          }
+        },
+        {
+          "en": "The company doubled its revenue within just two years of launching the new product.",
+          "highlight": [
+            "doubled"
+          ],
+          "translations": {
+            "zh-TW": "這家公司在推出新產品後僅僅兩年內，營收就翻倍了。"
+          }
+        },
+        {
+          "en": "Prices are doubling every decade, making housing unaffordable for many families.",
+          "highlight": [
+            "doubling"
+          ],
+          "translations": {
+            "zh-TW": "物價每十年就翻倍，讓許多家庭負擔不起住房。"
           }
         }
       ],
       "synonyms": [
         "twin",
-        "dual"
+        "dual",
+        "twofold"
       ],
       "antonyms": [
         "single",
-        "one"
+        "half"
       ],
       "phrases": [
-        "double",
-        "check",
-        "double",
-        "room"
+        "double check",
+        "double room",
+        "double digits",
+        "double standard"
       ]
     },
     {
@@ -410,44 +565,64 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "doubted",
+        "plural": "doubts",
+        "present_3rd": "doubts",
+        "past": "doubted",
         "past_participle": "doubted",
-        "present_participle": "doubting",
-        "third_person": "doubts"
+        "ing": "doubting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "doubt",
-          "definition": "n. 怀疑, 疑惑, v. 怀疑, 不信"
+          "definition": "n. 懷疑、疑惑  v. 懷疑、不確信"
         }
       ],
       "examples": [
         {
-          "en": "He had doubts about the plan.",
+          "en": "There is no doubt that she is the most qualified candidate for the position.",
           "highlight": [
             "doubt"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "毫無疑問，她是這個職位最合適的人選。"
+          }
+        },
+        {
+          "en": "The manager raised several doubts about the feasibility of the proposed timeline.",
+          "highlight": [
+            "doubts"
+          ],
+          "translations": {
+            "zh-TW": "經理對所提時程的可行性提出了幾點質疑。"
+          }
+        },
+        {
+          "en": "Many investors doubted the startup's ability to achieve profitability within a year.",
+          "highlight": [
+            "doubted"
+          ],
+          "translations": {
+            "zh-TW": "許多投資人懷疑這家新創公司能在一年內實現獲利。"
           }
         }
       ],
       "synonyms": [
         "uncertainty",
-        "suspicion"
+        "suspicion",
+        "question"
       ],
       "antonyms": [
         "certainty",
-        "confidence"
+        "confidence",
+        "belief"
       ],
       "phrases": [
-        "serious",
-        "doubt",
-        "without",
-        "a",
-        "doubt"
+        "no doubt",
+        "without a doubt",
+        "reasonable doubt",
+        "cast doubt on"
       ]
     },
     {
@@ -459,7 +634,8 @@
       "word": "down",
       "pos": [
         "adverb",
-        "adjective"
+        "adjective",
+        "preposition"
       ],
       "conjugations": {
         "comparative": "downer",
@@ -470,33 +646,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "down",
-          "definition": "a. 向下的, adv. 下, 下去, 降下, prep. 往下, 沿着, n. 丘陵, 软毛, 开阔的高地, [计] 向下, 退下命令"
+          "definition": "adv. 向下、下降  a. 沮喪的、往下方的  prep. 沿著、往下"
         }
       ],
       "examples": [
         {
-          "en": "The sun went down.",
+          "en": "The elevator broke down, so we had to take the stairs to the tenth floor.",
           "highlight": [
             "down"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "電梯故障了，我們只好走樓梯到十樓。"
+          }
+        },
+        {
+          "en": "Sales were down by eight percent compared to the same period last year.",
+          "highlight": [
+            "down"
+          ],
+          "translations": {
+            "zh-TW": "與去年同期相比，銷售額下降了百分之八。"
+          }
+        },
+        {
+          "en": "She has been feeling down since her project proposal was rejected by the committee.",
+          "highlight": [
+            "down"
+          ],
+          "translations": {
+            "zh-TW": "自從她的專案提案被委員會駁回後，她一直覺得很沮喪。"
           }
         }
       ],
       "synonyms": [
         "lower",
-        "beneath"
+        "downward",
+        "depressed"
       ],
       "antonyms": [
         "up",
-        "above"
+        "above",
+        "higher"
       ],
       "phrases": [
-        "sit",
-        "down",
-        "fall",
-        "down"
+        "sit down",
+        "fall down",
+        "break down",
+        "slow down"
       ]
     }
   ]
