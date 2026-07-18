@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 90,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-090-001",
@@ -15,43 +15,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "directed",
+        "present_3rd": "directs",
+        "past": "directed",
         "past_participle": "directed",
-        "present_participle": "directing",
-        "third_person": "directs"
+        "ing": "directing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "direct",
-          "definition": "a. 直接的, 坦白的, vt. 指示, 指挥, 命令, 导演, vi. 指导, 指挥, adv. 直接地"
+          "definition": "adj. 直接的、坦率的  v. 指導、指揮、導演"
         }
       ],
       "examples": [
         {
-          "en": "He gave me direct instructions.",
+          "en": "There is a direct flight from Tokyo to Taipei every morning.",
           "highlight": [
             "direct"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "每天早上都有從東京直飛台北的班機。"
+          }
+        },
+        {
+          "en": "The manager directed the team to finish the report by Friday.",
+          "highlight": [
+            "directed"
+          ],
+          "translations": {
+            "zh-TW": "經理指示團隊在週五前完成報告。"
+          }
+        },
+        {
+          "en": "She is directing a new marketing campaign for the product launch.",
+          "highlight": [
+            "directing"
+          ],
+          "translations": {
+            "zh-TW": "她正在主導一項為產品上市而設計的全新行銷活動。"
           }
         }
       ],
       "synonyms": [
-        "straight",
-        "straightforward"
+        "straightforward",
+        "frank",
+        "guide"
       ],
       "antonyms": [
         "indirect",
         "roundabout"
       ],
       "phrases": [
-        "direct",
-        "route",
-        "direct",
-        "communication"
+        "direct flight",
+        "direct contact",
+        "direct result",
+        "direct question"
       ]
     },
     {
@@ -62,47 +81,62 @@
       "toeic_score_min": 200,
       "word": "direction",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "directioned",
-        "past_participle": "directioned",
-        "present_participle": "directioning",
-        "third_person": "directions"
+        "plural": "directions"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "direction",
-          "definition": "n. 方向, 指导, 趋势, [计] 方向; 流向"
+          "definition": "n. 方向、指示、趨勢"
         }
       ],
       "examples": [
         {
-          "en": "They headed in the same direction.",
+          "en": "The train station is in the opposite direction from the hotel.",
           "highlight": [
             "direction"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "火車站位於與飯店相反的方向。"
+          }
+        },
+        {
+          "en": "Please follow the directions on the label before taking the medicine.",
+          "highlight": [
+            "directions"
+          ],
+          "translations": {
+            "zh-TW": "服藥前請依照標籤上的指示說明操作。"
+          }
+        },
+        {
+          "en": "The new CEO will take the company in a fresh direction next year.",
+          "highlight": [
+            "direction"
+          ],
+          "translations": {
+            "zh-TW": "新任執行長明年將帶領公司走向全新的方向。"
           }
         }
       ],
       "synonyms": [
         "route",
-        "path"
+        "path",
+        "guidance"
       ],
       "antonyms": [
         "disorientation",
         "confusion"
       ],
       "phrases": [
-        "give",
-        "direction",
-        "change",
-        "direction"
+        "in the direction of",
+        "opposite direction",
+        "wrong direction",
+        "sense of direction"
       ]
     },
     {
@@ -121,33 +155,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "directly",
-          "definition": "adv. 径直地, 直接地, 直率地, 正好地, 直截了当地, (非正式)立即, 馬上, conj. 一...(就...), 一当...就..., [计] 直接的"
+          "definition": "adv. 直接地、立即地、坦率地"
         }
       ],
       "examples": [
         {
-          "en": "She spoke to me directly.",
+          "en": "Please send your application directly to the human resources department.",
           "highlight": [
             "directly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請將您的申請表直接寄到人力資源部門。"
+          }
+        },
+        {
+          "en": "The CEO directly addressed the staff's concerns during the meeting.",
+          "highlight": [
+            "directly"
+          ],
+          "translations": {
+            "zh-TW": "執行長在會議中直接回應了員工們的疑慮。"
+          }
+        },
+        {
+          "en": "After the storm passed, the airline resumed flights directly.",
+          "highlight": [
+            "directly"
+          ],
+          "translations": {
+            "zh-TW": "暴風雨過後，航空公司立刻恢復了航班。"
           }
         }
       ],
       "synonyms": [
         "straight",
-        "immediately"
+        "immediately",
+        "frankly"
       ],
       "antonyms": [
         "indirectly",
         "circuitously"
       ],
       "phrases": [
-        "speak",
-        "directly",
-        "directly",
-        "address"
+        "directly responsible",
+        "directly affected",
+        "speak directly to",
+        "directly proportional"
       ]
     },
     {
@@ -158,47 +211,62 @@
       "toeic_score_min": 200,
       "word": "director",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "directored",
-        "past_participle": "directored",
-        "present_participle": "directoring",
-        "third_person": "directors"
+        "plural": "directors"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "director",
-          "definition": "n. 主管, 导演, 董事, [计] 寻向偶极子; 指挥仪"
+          "definition": "n. 主管、董事、導演"
         }
       ],
       "examples": [
         {
-          "en": "The film director was praised for his work.",
+          "en": "The managing director will announce the new policy at tomorrow's meeting.",
           "highlight": [
             "director"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "常務董事將在明天的會議上宣布新政策。"
+          }
+        },
+        {
+          "en": "All department directors must submit their budgets by the end of this month.",
+          "highlight": [
+            "directors"
+          ],
+          "translations": {
+            "zh-TW": "所有部門主管必須在本月底前提交預算。"
+          }
+        },
+        {
+          "en": "The young director won an award for his first feature film last year.",
+          "highlight": [
+            "director"
+          ],
+          "translations": {
+            "zh-TW": "這位年輕導演去年以他的第一部長片獲獎。"
           }
         }
       ],
       "synonyms": [
         "manager",
-        "head"
+        "executive",
+        "filmmaker"
       ],
       "antonyms": [
         "subordinate",
         "employee"
       ],
       "phrases": [
-        "film",
-        "director",
-        "company",
-        "director"
+        "managing director",
+        "board of directors",
+        "film director",
+        "director of operations"
       ]
     },
     {
@@ -209,48 +277,62 @@
       "toeic_score_min": 200,
       "word": "dirt",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "dirted",
-        "past_participle": "dirted",
-        "present_participle": "dirting",
-        "third_person": "dirts"
+        "plural": "dirts"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dirt",
-          "definition": "n. 污垢, 泥土, [化] 污垢"
+          "definition": "n. 泥土、污垢"
         }
       ],
       "examples": [
         {
-          "en": "His shoes were covered in dirt.",
+          "en": "The gardener wiped the dirt off his hands before shaking mine.",
           "highlight": [
             "dirt"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "園丁在和我握手前先擦掉了手上的泥土。"
+          }
+        },
+        {
+          "en": "The children's clothes were covered with dirts after playing in the yard.",
+          "highlight": [
+            "dirts"
+          ],
+          "translations": {
+            "zh-TW": "孩子們在院子裡玩耍後，衣服上沾滿了泥垢。"
+          }
+        },
+        {
+          "en": "A layer of dirt had built up on the office windows over the winter.",
+          "highlight": [
+            "dirt"
+          ],
+          "translations": {
+            "zh-TW": "一整個冬天，辦公室的窗戶累積了一層污垢。"
           }
         }
       ],
       "synonyms": [
         "soil",
-        "grime"
+        "grime",
+        "mud"
       ],
       "antonyms": [
         "cleanliness",
         "purity"
       ],
       "phrases": [
-        "covered",
-        "in",
-        "dirt",
-        "dirt",
-        "road"
+        "dirt road",
+        "covered in dirt",
+        "dirt cheap",
+        "treat someone like dirt"
       ]
     },
     {
@@ -265,43 +347,65 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "dirtyed",
-        "past_participle": "dirtyed",
-        "present_participle": "dirtying",
-        "third_person": "dirtys"
+        "comparative": "dirtier",
+        "superlative": "dirtiest",
+        "present_3rd": "dirties",
+        "past": "dirtied",
+        "past_participle": "dirtied",
+        "ing": "dirtying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dirty",
-          "definition": "a. 肮脏的, 卑鄙的, vt. 弄脏, vi. 变脏"
+          "definition": "adj. 骯髒的、卑鄙的  v. 弄髒"
         }
       ],
       "examples": [
         {
-          "en": "The floor was dirty.",
+          "en": "Please don't leave your dirty dishes in the office sink overnight.",
           "highlight": [
             "dirty"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請不要把髒碗盤留在辦公室的水槽裡過夜。"
+          }
+        },
+        {
+          "en": "The factory floor got dirtier during the busy production season.",
+          "highlight": [
+            "dirtier"
+          ],
+          "translations": {
+            "zh-TW": "在生產旺季期間，工廠地板變得更加骯髒。"
+          }
+        },
+        {
+          "en": "He dirtied his new uniform while repairing the truck engine.",
+          "highlight": [
+            "dirtied"
+          ],
+          "translations": {
+            "zh-TW": "他在修理卡車引擎時弄髒了新制服。"
           }
         }
       ],
       "synonyms": [
         "filthy",
-        "unclean"
+        "unclean",
+        "messy"
       ],
       "antonyms": [
         "clean",
-        "spotless"
+        "spotless",
+        "pristine"
       ],
       "phrases": [
-        "dirty",
-        "clothes",
-        "dirty",
-        "hands"
+        "dirty clothes",
+        "dirty hands",
+        "dirty look",
+        "dirty joke"
       ]
     },
     {
@@ -312,44 +416,61 @@
       "toeic_score_min": 200,
       "word": "disabled",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "disableds"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "disabled",
-          "definition": "a. 残废的, 有缺陷的, 失效的, [计] 失效的"
+          "definition": "adj. 殘障的、失去能力的、停用的"
         }
       ],
       "examples": [
         {
-          "en": "The building is accessible for disabled people.",
+          "en": "The new office building has elevators designed for disabled employees.",
           "highlight": [
             "disabled"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新辦公大樓設有專為殘障員工設計的電梯。"
+          }
+        },
+        {
+          "en": "The parking spaces closest to the entrance are reserved for disabled visitors.",
+          "highlight": [
+            "disabled"
+          ],
+          "translations": {
+            "zh-TW": "距離入口最近的停車位保留給殘障訪客使用。"
+          }
+        },
+        {
+          "en": "Please use the side entrance because the main gate is disabled for repairs today.",
+          "highlight": [
+            "disabled"
+          ],
+          "translations": {
+            "zh-TW": "請走側門，因為今天大門已停用以進行維修。"
           }
         }
       ],
       "synonyms": [
         "handicapped",
-        "impaired"
+        "impaired",
+        "inactive"
       ],
       "antonyms": [
         "abled",
-        "capable"
+        "capable",
+        "enabled"
       ],
       "phrases": [
-        "disabled",
-        "access",
-        "disabled",
-        "person"
+        "disabled access",
+        "disabled person",
+        "disabled parking",
+        "disabled toilet"
       ]
     },
     {
@@ -364,43 +485,64 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "disadvantageed",
-        "past_participle": "disadvantageed",
-        "present_participle": "disadvantaging",
-        "third_person": "disadvantages"
+        "present_3rd": "disadvantages",
+        "past": "disadvantaged",
+        "past_participle": "disadvantaged",
+        "ing": "disadvantaging",
+        "plural": "disadvantages"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "disadvantage",
-          "definition": "n. 缺點, 不利, 坏處"
+          "definition": "n. 缺點、不利、劣勢  v. 使處於不利地位"
         }
       ],
       "examples": [
         {
-          "en": "Being short can be a disadvantage in basketball.",
+          "en": "Not speaking English fluently can be a disadvantage in international business.",
           "highlight": [
             "disadvantage"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在國際商務中，無法流利使用英語可能是個劣勢。"
+          }
+        },
+        {
+          "en": "There are several disadvantages to working from home, such as isolation.",
+          "highlight": [
+            "disadvantages"
+          ],
+          "translations": {
+            "zh-TW": "在家工作有幾個缺點，例如孤立感。"
+          }
+        },
+        {
+          "en": "The new tax policy disadvantaged small businesses in the region.",
+          "highlight": [
+            "disadvantaged"
+          ],
+          "translations": {
+            "zh-TW": "新稅收政策使該地區的小型企業處於不利地位。"
           }
         }
       ],
       "synonyms": [
         "drawback",
-        "obstacle"
+        "obstacle",
+        "handicap"
       ],
       "antonyms": [
         "advantage",
-        "benefit"
+        "benefit",
+        "strength"
       ],
       "phrases": [
-        "major",
-        "disadvantage",
-        "obvious",
-        "disadvantage"
+        "major disadvantage",
+        "at a disadvantage",
+        "disadvantage of",
+        "put at a disadvantage"
       ]
     },
     {
@@ -411,47 +553,66 @@
       "toeic_score_min": 200,
       "word": "disagree",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "disagreeed",
-        "past_participle": "disagreeed",
-        "present_participle": "disagreing",
-        "third_person": "disagrees"
+        "present_3rd": "disagrees",
+        "past": "disagreed",
+        "past_participle": "disagreed",
+        "ing": "disagreeing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "disagree",
-          "definition": "vi. 不一致, 不适宜, [法] 抵触, 不同意, 争执"
+          "definition": "v. 不同意、意見不合、不一致"
         }
       ],
       "examples": [
         {
-          "en": "I disagree with your opinion.",
+          "en": "I disagree with the proposal to cut the training budget this quarter.",
           "highlight": [
             "disagree"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我不同意本季度削減培訓預算的提案。"
+          }
+        },
+        {
+          "en": "The two managers disagreed about the best way to launch the new service.",
+          "highlight": [
+            "disagreed"
+          ],
+          "translations": {
+            "zh-TW": "兩位經理對推出新服務的最佳方式意見不合。"
+          }
+        },
+        {
+          "en": "They keep disagreeing on the schedule, which delays the whole project.",
+          "highlight": [
+            "disagreeing"
+          ],
+          "translations": {
+            "zh-TW": "他們一直對時程意見相左，這耽誤了整個專案。"
           }
         }
       ],
       "synonyms": [
         "differ",
-        "oppose"
+        "oppose",
+        "object"
       ],
       "antonyms": [
         "agree",
-        "concur"
+        "concur",
+        "consent"
       ],
       "phrases": [
-        "disagree",
-        "strongly",
-        "disagree",
-        "completely"
+        "disagree with",
+        "strongly disagree",
+        "disagree completely",
+        "disagree on"
       ]
     },
     {
@@ -462,47 +623,63 @@
       "toeic_score_min": 200,
       "word": "disagreement",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "disagreemented",
-        "past_participle": "disagreemented",
-        "present_participle": "disagreementing",
-        "third_person": "disagreements"
+        "plural": "disagreements"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "disagreement",
-          "definition": "n. 不合, 争论, 不一致, [法] 不一致, 不同意, 陪审团的意见不一"
+          "definition": "n. 意見不合、爭論、不一致"
         }
       ],
       "examples": [
         {
-          "en": "They had a disagreement about the project.",
+          "en": "There was a serious disagreement between the partners over profit sharing.",
           "highlight": [
             "disagreement"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "合夥人之間對利潤分配有嚴重的意見分歧。"
+          }
+        },
+        {
+          "en": "The team resolved their disagreements during a long afternoon meeting.",
+          "highlight": [
+            "disagreements"
+          ],
+          "translations": {
+            "zh-TW": "團隊在漫長的下午會議中解決了彼此間的分歧。"
+          }
+        },
+        {
+          "en": "A minor disagreement about the hotel room turned into a formal complaint.",
+          "highlight": [
+            "disagreement"
+          ],
+          "translations": {
+            "zh-TW": "一場關於飯店房間的小爭執演變成了正式的投訴。"
           }
         }
       ],
       "synonyms": [
         "conflict",
-        "dispute"
+        "dispute",
+        "discord"
       ],
       "antonyms": [
         "agreement",
-        "consensus"
+        "consensus",
+        "harmony"
       ],
       "phrases": [
-        "serious",
-        "disagreement",
-        "minor",
-        "disagreement"
+        "serious disagreement",
+        "minor disagreement",
+        "have a disagreement",
+        "in disagreement with"
       ]
     }
   ]
