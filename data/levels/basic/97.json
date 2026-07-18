@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 97,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-097-001",
@@ -11,44 +11,58 @@
       "toeic_score_min": 200,
       "word": "drawer",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "drawered",
-        "past_participle": "drawered",
-        "present_participle": "drawering",
-        "third_person": "drawers"
+        "plural": "drawers"
       },
-      "domain": "general",
+      "domain": "furniture",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "drawer",
-          "definition": "n. 抽屉, 开票人, [计] 抽屉"
+          "definition": "n. 抽屜、開票人"
         }
       ],
       "examples": [
         {
-          "en": "She keeps her clothes in a drawer.",
+          "en": "Keep your passport in the top drawer of the desk.",
           "highlight": [
             "drawer"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "把你的護照放在書桌的最上層抽屜裡。"
+          }
+        },
+        {
+          "en": "She opened the drawers one by one looking for the contract.",
+          "highlight": [
+            "drawers"
+          ],
+          "translations": {
+            "zh-TW": "她逐一拉開抽屜尋找那份合約。"
+          }
+        },
+        {
+          "en": "The drawer of the cheque must sign here before we can cash it.",
+          "highlight": [
+            "drawer"
+          ],
+          "translations": {
+            "zh-TW": "支票的開票人必須在這裡簽名,我們才能兌現。"
           }
         }
       ],
       "synonyms": [
         "compartment",
-        "container"
+        "receptacle",
+        "payee"
       ],
       "antonyms": [],
       "phrases": [
-        "top",
-        "drawer",
-        "desk",
-        "drawer"
+        "top drawer",
+        "bottom drawer",
+        "drawer of the cheque"
       ]
     },
     {
@@ -63,44 +77,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "dreamed",
+        "plural": "dreams",
+        "present_3rd": "dreams",
+        "past": "dreamed",
         "past_participle": "dreamed",
-        "present_participle": "dreaming",
-        "third_person": "dreams"
+        "ing": "dreaming"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dream",
-          "definition": "n. 夢, 空想, 愿望, v. 做夢, 想象, 夢想"
+          "definition": "n. 夢、夢想  v. 做夢、夢想"
         }
       ],
       "examples": [
         {
-          "en": "She had a strange dream last night.",
+          "en": "She had a strange dream about the meeting last night.",
           "highlight": [
             "dream"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她昨晚做了一個關於那次會議的奇怪的夢。"
+          }
+        },
+        {
+          "en": "He dreamed of starting his own company after graduation.",
+          "highlight": [
+            "dreamed"
+          ],
+          "translations": {
+            "zh-TW": "他畢業後夢想著創立自己的公司。"
+          }
+        },
+        {
+          "en": "The children are dreaming about a trip to Disneyland.",
+          "highlight": [
+            "dreaming"
+          ],
+          "translations": {
+            "zh-TW": "孩子們正夢想著去迪士尼樂園旅行。"
           }
         }
       ],
       "synonyms": [
         "vision",
-        "fantasy"
+        "fantasy",
+        "aspiration"
       ],
       "antonyms": [
         "reality",
         "actuality"
       ],
       "phrases": [
-        "have",
-        "a",
-        "dream",
-        "dream",
-        "about"
+        "have a dream",
+        "dream of",
+        "dream come true"
       ]
     },
     {
@@ -115,43 +147,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "dressed",
+        "plural": "dresses",
+        "present_3rd": "dresses",
+        "past": "dressed",
         "past_participle": "dressed",
-        "present_participle": "dressing",
-        "third_person": "dresses"
+        "ing": "dressing"
       },
-      "domain": "general",
+      "domain": "clothing",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dress",
-          "definition": "n. 服装, 覆盖物, vi. 穿着, vt. 给...穿衣, 整理"
+          "definition": "n. 洋裝、連衣裙  v. 穿衣、打扮"
         }
       ],
       "examples": [
         {
-          "en": "He dressed quickly for work.",
+          "en": "She always dresses smartly for client meetings.",
+          "highlight": [
+            "dresses"
+          ],
+          "translations": {
+            "zh-TW": "她總是為客戶會議穿著得體。"
+          }
+        },
+        {
+          "en": "He dressed in a dark suit for the job interview.",
+          "highlight": [
+            "dressed"
+          ],
+          "translations": {
+            "zh-TW": "他穿著深色西裝去參加求職面試。"
+          }
+        },
+        {
+          "en": "Please wear a formal dress to the awards ceremony tonight.",
           "highlight": [
             "dress"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請穿正式的洋裝出席今晚的頒獎典禮。"
           }
         }
       ],
       "synonyms": [
         "clothe",
-        "attire"
+        "attire",
+        "gown"
       ],
       "antonyms": [
         "undress",
         "strip"
       ],
       "phrases": [
-        "dress",
-        "quickly",
-        "dress",
-        "up"
+        "dress up",
+        "dress code",
+        "get dressed"
       ]
     },
     {
@@ -162,48 +213,61 @@
       "toeic_score_min": 200,
       "word": "dressed",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "dresseded",
-        "past_participle": "dresseded",
-        "present_participle": "dresseding",
-        "third_person": "dresseds"
+        "plural": "dressed"
       },
-      "domain": "general",
+      "domain": "clothing",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dressed",
-          "definition": "a. 穿好衣服的；打扮好的；去内脏及分割加工好的（特指動物, 如鱼, 禽类等）"
+          "definition": "adj. 穿好衣服的、打扮好的"
         }
       ],
       "examples": [
         {
-          "en": "She was dressed in a beautiful gown.",
+          "en": "The bride was dressed in a beautiful white gown.",
           "highlight": [
             "dressed"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新娘穿著一件美麗的白色婚紗。"
+          }
+        },
+        {
+          "en": "He arrived well-dressed and well-prepared for the negotiation.",
+          "highlight": [
+            "dressed"
+          ],
+          "translations": {
+            "zh-TW": "他準時抵達,穿著講究,為談判做好了充分準備。"
+          }
+        },
+        {
+          "en": "The staff were dressed in uniforms before the guests arrived.",
+          "highlight": [
+            "dressed"
+          ],
+          "translations": {
+            "zh-TW": "員工們在客人抵達前就穿好了制服。"
           }
         }
       ],
       "synonyms": [
         "clad",
-        "attired"
+        "attired",
+        "garbed"
       ],
       "antonyms": [
         "undressed",
         "bare"
       ],
       "phrases": [
-        "dressed",
-        "in",
-        "black",
-        "well",
-        "dressed"
+        "well-dressed",
+        "dressed in",
+        "get dressed"
       ]
     },
     {
@@ -218,40 +282,61 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "drinked",
-        "past_participle": "drinked",
-        "present_participle": "drinking",
-        "third_person": "drinks"
+        "plural": "drinks",
+        "present_3rd": "drinks",
+        "past": "drank",
+        "past_participle": "drunk",
+        "ing": "drinking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "drink",
-          "definition": "n. 饮料, 酒, v. 喝, 喝酒"
+          "definition": "n. 飲料、酒  v. 喝、飲"
         }
       ],
       "examples": [
         {
-          "en": "He drank a glass of water.",
+          "en": "I usually drink a cup of coffee before the morning meeting.",
           "highlight": [
             "drink"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我通常在晨會前喝一杯咖啡。"
+          }
+        },
+        {
+          "en": "She drank two glasses of water after the long presentation.",
+          "highlight": [
+            "drank"
+          ],
+          "translations": {
+            "zh-TW": "她做完冗長的簡報後喝了兩杯水。"
+          }
+        },
+        {
+          "en": "He has drunk too much wine and should not drive home tonight.",
+          "highlight": [
+            "drunk"
+          ],
+          "translations": {
+            "zh-TW": "他酒喝得太多,今晚不該開車回家。"
           }
         }
       ],
       "synonyms": [
         "sip",
+        "gulp",
         "swallow"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "spit"
+      ],
       "phrases": [
-        "drink",
-        "water",
-        "drink",
-        "tea"
+        "drink water",
+        "have a drink",
+        "drink too much"
       ]
     },
     {
@@ -266,41 +351,61 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "driveed",
-        "past_participle": "driveed",
-        "present_participle": "driving",
-        "third_person": "drives"
+        "plural": "drives",
+        "present_3rd": "drives",
+        "past": "drove",
+        "past_participle": "driven",
+        "ing": "driving"
       },
-      "domain": "general",
+      "domain": "transport",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "drive",
-          "definition": "n. 驾車, 快車道, 推进力, 驱動, 動力, 击球, 驱動器, vt. 开車, 驱使, 推動, 驾驶, vi. 开車, 猛击, 飞跑, [计] 驱動器"
+          "definition": "n. 開車、車程、動力  v. 駕駛、驅動"
         }
       ],
       "examples": [
         {
-          "en": "She drives to work every day.",
+          "en": "She drives to the office every weekday morning.",
           "highlight": [
-            "drive"
+            "drives"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她每個工作日的早上都開車去辦公室。"
+          }
+        },
+        {
+          "en": "He drove the visitors from the airport to the hotel.",
+          "highlight": [
+            "drove"
+          ],
+          "translations": {
+            "zh-TW": "他開車把訪客從機場送到飯店。"
+          }
+        },
+        {
+          "en": "The new manager has driven the team to record sales this quarter.",
+          "highlight": [
+            "driven"
+          ],
+          "translations": {
+            "zh-TW": "新任經理帶領團隊在本季創下銷售新紀錄。"
           }
         }
       ],
       "synonyms": [
         "steer",
-        "operate"
+        "operate",
+        "pilot"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "walk"
+      ],
       "phrases": [
-        "drive",
-        "a",
-        "car",
-        "drive",
-        "to"
+        "drive a car",
+        "drive home",
+        "test drive"
       ]
     },
     {
@@ -311,46 +416,60 @@
       "toeic_score_min": 200,
       "word": "driver",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "drivered",
-        "past_participle": "drivered",
-        "present_participle": "drivering",
-        "third_person": "drivers"
+        "plural": "drivers"
       },
-      "domain": "general",
+      "domain": "transport",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "driver",
-          "definition": "n. 驾驶員, 驱動器, 驱動程序, [化] 驱動器"
+          "definition": "n. 司機、驅動程式"
         }
       ],
       "examples": [
         {
-          "en": "The driver waited in the car.",
+          "en": "The taxi driver waited outside the hotel for the guest.",
           "highlight": [
             "driver"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "計程車司機在飯店外等候乘客。"
+          }
+        },
+        {
+          "en": "The company hired new drivers to expand its delivery service.",
+          "highlight": [
+            "drivers"
+          ],
+          "translations": {
+            "zh-TW": "公司招募了新司機以擴展配送服務。"
+          }
+        },
+        {
+          "en": "Please install the latest printer driver before connecting the device.",
+          "highlight": [
+            "driver"
+          ],
+          "translations": {
+            "zh-TW": "連接裝置之前,請先安裝最新的印表機驅動程式。"
           }
         }
       ],
       "synonyms": [
         "chauffeur",
-        "motorist"
+        "motorist",
+        "operator"
       ],
       "antonyms": [
         "passenger"
       ],
       "phrases": [
-        "bus",
-        "driver",
-        "truck",
-        "driver"
+        "bus driver",
+        "truck driver",
+        "device driver"
       ]
     },
     {
@@ -362,43 +481,58 @@
       "word": "driving",
       "pos": [
         "noun",
-        "verb"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "drivinged",
-        "past_participle": "drivinged",
-        "present_participle": "drivinging",
-        "third_person": "drivings"
+        "plural": "drivings"
       },
-      "domain": "general",
+      "domain": "transport",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "driving",
-          "definition": "n. 赶, 操纵, 驾驶, a. 推进的, 强劲的, 精力旺盛的"
+          "definition": "n. 駕駛  adj. 駕駛的、推進的"
         }
       ],
       "examples": [
         {
-          "en": "He is learning about safe driving.",
+          "en": "Safe driving is essential for delivery truck companies.",
           "highlight": [
             "driving"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "安全駕駛對貨運公司至關重要。"
+          }
+        },
+        {
+          "en": "He passed his driving test on the third attempt.",
+          "highlight": [
+            "driving"
+          ],
+          "translations": {
+            "zh-TW": "他第三次嘗試才通過駕駛考試。"
+          }
+        },
+        {
+          "en": "Heavy rain made the driving conditions very dangerous last night.",
+          "highlight": [
+            "driving"
+          ],
+          "translations": {
+            "zh-TW": "昨晚的大雨讓駕駛狀況變得非常危險。"
           }
         }
       ],
       "synonyms": [
         "steering",
-        "operation"
+        "piloting",
+        "motoring"
       ],
       "antonyms": [],
       "phrases": [
-        "driving",
-        "test",
-        "driving",
-        "license"
+        "driving test",
+        "driving licence",
+        "driving force"
       ]
     },
     {
@@ -413,45 +547,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "droped",
-        "past_participle": "droped",
-        "present_participle": "droping",
-        "third_person": "drops"
+        "plural": "drops",
+        "present_3rd": "drops",
+        "past": "dropped",
+        "past_participle": "dropped",
+        "ing": "dropping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "drop",
-          "definition": "n. 滴, 微量, 落下, 空投, vi. 放下, 掉下, 下降, vt. 使滴下, 放下, 丢失, 遗漏, [计] 投入, 投入點, 接入點, 分接點"
+          "definition": "n. 滴、下降、微量  v. 掉下、降低、放棄"
         }
       ],
       "examples": [
         {
-          "en": "She accidentally dropped her phone.",
+          "en": "Sales drop sharply during the off-season every year.",
           "highlight": [
             "drop"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "每年淡季時銷量都會大幅下降。"
+          }
+        },
+        {
+          "en": "She accidentally dropped her phone on the office floor.",
+          "highlight": [
+            "dropped"
+          ],
+          "translations": {
+            "zh-TW": "她不小心把手機掉在辦公室的地板上。"
+          }
+        },
+        {
+          "en": "The company has dropped the project due to budget cuts.",
+          "highlight": [
+            "dropped"
+          ],
+          "translations": {
+            "zh-TW": "由於預算縮減,公司已放棄這項專案。"
           }
         }
       ],
       "synonyms": [
-        "let",
-        "fall",
-        "release"
+        "let fall",
+        "release",
+        "decline"
       ],
       "antonyms": [
         "raise",
-        "lift"
+        "lift",
+        "catch"
       ],
       "phrases": [
-        "drop",
-        "a",
-        "hint",
-        "drop",
-        "the"
+        "drop a hint",
+        "drop by",
+        "drop in price"
       ]
     },
     {
@@ -466,40 +618,59 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "druged",
-        "past_participle": "druged",
-        "present_participle": "druging",
-        "third_person": "drugs"
+        "plural": "drugs",
+        "present_3rd": "drugs",
+        "past": "drugged",
+        "past_participle": "drugged",
+        "ing": "drugging"
       },
-      "domain": "general",
+      "domain": "medical",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "drug",
-          "definition": "n. 药, 麻药, 麻醉药, vi. 吸毒, vt. 使服麻醉药, 使麻木"
+          "definition": "n. 藥物、藥品、毒品  v. 下藥、使麻醉"
         }
       ],
       "examples": [
         {
-          "en": "He was prescribed a new drug.",
+          "en": "The doctor prescribed a new drug for her high blood pressure.",
           "highlight": [
             "drug"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "醫生為她的高血壓開了一種新藥。"
+          }
+        },
+        {
+          "en": "Several over-the-counter drugs can help relieve a common cold.",
+          "highlight": [
+            "drugs"
+          ],
+          "translations": {
+            "zh-TW": "有幾種非處方藥可以緩解普通感冒。"
+          }
+        },
+        {
+          "en": "He was drugged and robbed at the bar last weekend.",
+          "highlight": [
+            "drugged"
+          ],
+          "translations": {
+            "zh-TW": "上週末他在酒吧被下藥並遭到搶劫。"
           }
         }
       ],
       "synonyms": [
         "medicine",
-        "medication"
+        "medication",
+        "pharmaceutical"
       ],
       "antonyms": [],
       "phrases": [
-        "prescription",
-        "drug",
-        "illegal",
-        "drug"
+        "prescription drug",
+        "drug store",
+        "illegal drug"
       ]
     }
   ]
