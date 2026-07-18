@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 123,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-123-001",
@@ -11,44 +11,61 @@
       "toeic_score_min": 200,
       "word": "fighter",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "fightered",
-        "past_participle": "fightered",
-        "present_participle": "fightering",
-        "third_person": "fighters"
+        "plural": "fighters"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "fighter",
-          "definition": "n. 斗士, 战士, 好战者, 战斗机"
+          "definition": "n. 戰士、鬥士、格鬥者、戰鬥機"
         }
       ],
       "examples": [
         {
-          "en": "The boxer is a strong fighter.",
+          "en": "The young boxer proved to be a talented fighter in the ring.",
           "highlight": [
             "fighter"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位年輕拳擊手在擂台上證明了自己是個有天分的鬥士。"
+          }
+        },
+        {
+          "en": "Many fighters train for years before their first professional match.",
+          "highlight": [
+            "fighters"
+          ],
+          "translations": {
+            "zh-TW": "許多格鬥選手在接受第一場職業比賽前已經訓練多年。"
+          }
+        },
+        {
+          "en": "She was described as a real fighter who never gave up despite the setbacks.",
+          "highlight": [
+            "fighter"
+          ],
+          "translations": {
+            "zh-TW": "她被形容為一位真正的鬥士，儘管遭遇挫折也從不放棄。"
           }
         }
       ],
       "synonyms": [
         "warrior",
-        "combatant"
+        "combatant",
+        "champion"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "peacemaker"
+      ],
       "phrases": [
-        "boxer",
-        "fighter",
-        "freedom",
-        "fighter"
+        "freedom fighter",
+        "fighter jet",
+        "fire fighter",
+        "street fighter"
       ]
     },
     {
@@ -60,46 +77,60 @@
       "word": "fighting",
       "pos": [
         "noun",
-        "verb"
+        "adjective"
       ],
-      "conjugations": {
-        "past_tense": "fightinged",
-        "past_participle": "fightinged",
-        "present_participle": "fightinging",
-        "third_person": "fightings"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "fighting",
-          "definition": "a. 战斗的, 容易引起争斗的, 适于格斗的, 好斗的, 好战的, 斗争的, 搏斗的, n. 战斗, 斗争, 搏斗"
+          "definition": "n. 戰鬥、打鬥、格鬥  adj. 戰鬥的、好鬥的、適合戰鬥的"
         }
       ],
       "examples": [
         {
-          "en": "The fighting lasted for hours.",
+          "en": "Heavy fighting broke out along the border late last night.",
           "highlight": [
             "fighting"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "昨天深夜邊境一帶爆發了激烈的戰鬥。"
+          }
+        },
+        {
+          "en": "The two gangs were caught fighting in the parking lot by the police.",
+          "highlight": [
+            "fighting"
+          ],
+          "translations": {
+            "zh-TW": "兩個幫派在停車場打鬥時被警方當場查獲。"
+          }
+        },
+        {
+          "en": "The soldiers showed a fighting spirit that impressed their commander.",
+          "highlight": [
+            "fighting"
+          ],
+          "translations": {
+            "zh-TW": "士兵們展現令指揮官讚賞的戰鬥精神。"
           }
         }
       ],
       "synonyms": [
         "combat",
-        "warfare"
+        "conflict",
+        "struggle"
       ],
       "antonyms": [
         "peace",
         "harmony"
       ],
       "phrases": [
-        "fierce",
-        "fighting",
-        "constant",
-        "fighting"
+        "fighting spirit",
+        "fighting words",
+        "street fighting",
+        "fire fighting"
       ]
     },
     {
@@ -114,40 +145,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "figureed",
-        "past_participle": "figureed",
-        "present_participle": "figuring",
-        "third_person": "figures"
+        "plural": "figures",
+        "present_3rd": "figures",
+        "past": "figured",
+        "past_participle": "figured",
+        "ing": "figuring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "figure",
-          "definition": "n. 数字, 价格, 图形, 形状, vt. 描绘, 表示, 演算, 认為, vi. 计算, 出现, 估计"
+          "definition": "n. 數字、金額、圖形、人物  v. 計算、推算、認為"
         }
       ],
       "examples": [
         {
-          "en": "The figures show an increase in sales.",
+          "en": "The sales figures for this quarter exceeded everyone's expectations.",
           "highlight": [
-            "figure"
+            "figures"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "本季的銷售數字超出了所有人的預期。"
+          }
+        },
+        {
+          "en": "She figured the total cost would be around five thousand dollars.",
+          "highlight": [
+            "figured"
+          ],
+          "translations": {
+            "zh-TW": "她計算出總成本大約是五千美元。"
+          }
+        },
+        {
+          "en": "We are still figuring out how to split the bill among the ten of us.",
+          "highlight": [
+            "figuring"
+          ],
+          "translations": {
+            "zh-TW": "我們仍在設法弄清楚十個人當中該如何平分這筆帳。"
           }
         }
       ],
       "synonyms": [
         "number",
+        "calculation",
         "statistic"
       ],
       "antonyms": [],
       "phrases": [
-        "sales",
-        "figure",
-        "unemployment",
-        "figure"
+        "sales figure",
+        "figure out",
+        "public figure",
+        "key figure"
       ]
     },
     {
@@ -162,41 +213,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "fileed",
-        "past_participle": "fileed",
-        "present_participle": "filing",
-        "third_person": "files"
+        "plural": "files",
+        "present_3rd": "files",
+        "past": "filed",
+        "past_participle": "filed",
+        "ing": "filing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "file",
-          "definition": "n. 档案, 公文箱, 文件夹, 文件, 卷宗, 锉刀, vi. 列队行进, 用锉刀做, vt. 归档, 申請, 锉, 琢磨, [计] 文件"
+          "definition": "n. 檔案、文件、卷宗、資料夾  v. 歸檔、提交（申請）、列隊行進"
         }
       ],
       "examples": [
         {
-          "en": "He put the documents in a file.",
+          "en": "Please save the report to the shared file on the company server.",
           "highlight": [
             "file"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請將報告儲存到公司伺服器上的共享檔案。"
+          }
+        },
+        {
+          "en": "The lawyer filed a formal complaint against the manufacturer yesterday.",
+          "highlight": [
+            "filed"
+          ],
+          "translations": {
+            "zh-TW": "律師昨天對製造商正式提出了申訴。"
+          }
+        },
+        {
+          "en": "She spent the whole afternoon filing the contracts in alphabetical order.",
+          "highlight": [
+            "filing"
+          ],
+          "translations": {
+            "zh-TW": "她整個下午都在依字母順序歸檔那些合約。"
           }
         }
       ],
       "synonyms": [
         "folder",
-        "dossier"
+        "dossier",
+        "document"
       ],
       "antonyms": [],
       "phrases": [
-        "file",
-        "cabinet",
-        "file",
-        "a",
-        "report"
+        "file a report",
+        "file a lawsuit",
+        "file cabinet",
+        "on file"
       ]
     },
     {
@@ -211,43 +281,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "filled",
+        "plural": "fills",
+        "present_3rd": "fills",
+        "past": "filled",
         "past_participle": "filled",
-        "present_participle": "filling",
-        "third_person": "fills"
+        "ing": "filling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "fill",
-          "definition": "vt. 装满, 填充, 弥漫, 供给, 满足, 供应, vi. 充满, 变得沉重, n. 满足, 装满, 充分, 填方, vt. 填充, vi. 填充, [计] 填充"
+          "definition": "v. 裝滿、填滿、填寫、滿足  n. 充分、填滿物"
         }
       ],
       "examples": [
         {
-          "en": "She filled the glass with water.",
+          "en": "Could you fill out this application form before the interview?",
           "highlight": [
             "fill"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "面試前可以請你填寫這份申請表嗎？"
+          }
+        },
+        {
+          "en": "She filled the kettle with fresh water and put it on the stove.",
+          "highlight": [
+            "filled"
+          ],
+          "translations": {
+            "zh-TW": "她把水壺裝滿清水後放到爐子上。"
+          }
+        },
+        {
+          "en": "The stadium was filling quickly as fans arrived for the championship game.",
+          "highlight": [
+            "filling"
+          ],
+          "translations": {
+            "zh-TW": "球迷陸續抵達冠軍賽現場，體育場很快便坐滿了人。"
           }
         }
       ],
       "synonyms": [
         "stuff",
-        "load"
+        "load",
+        "pack"
       ],
       "antonyms": [
         "empty",
         "drain"
       ],
       "phrases": [
-        "fill",
-        "up",
-        "fill",
-        "with"
+        "fill out",
+        "fill in",
+        "fill up",
+        "fill a position"
       ]
     },
     {
@@ -262,42 +352,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "filmed",
+        "plural": "films",
+        "present_3rd": "films",
+        "past": "filmed",
         "past_participle": "filmed",
-        "present_participle": "filming",
-        "third_person": "films"
+        "ing": "filming"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "film",
-          "definition": "n. 软片, 薄膜, 胶卷, 电影, vt. 覆以薄膜, 拍摄, vi. 生薄膜, 拍电影"
+          "definition": "n. 電影、影片、底片、薄膜  v. 拍攝、覆以薄膜"
         }
       ],
       "examples": [
         {
-          "en": "They watched an interesting film.",
+          "en": "The team is currently filming a documentary about ocean pollution.",
+          "highlight": [
+            "filming"
+          ],
+          "translations": {
+            "zh-TW": "團隊目前正拍攝一部關於海洋污染的紀錄片。"
+          }
+        },
+        {
+          "en": "That action film broke box office records across Asia last summer.",
           "highlight": [
             "film"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "那部動作片去年夏天打破了全亞洲的票房紀錄。"
+          }
+        },
+        {
+          "en": "Several of her early films were rediscovered and restored last year.",
+          "highlight": [
+            "films"
+          ],
+          "translations": {
+            "zh-TW": "她的幾部早期電影去年被重新發現並修復完成。"
           }
         }
       ],
       "synonyms": [
         "movie",
-        "motion",
-        "picture"
+        "motion picture",
+        "feature"
       ],
       "antonyms": [],
       "phrases": [
-        "watch",
-        "a",
-        "film",
-        "film",
-        "festival"
+        "film festival",
+        "film industry",
+        "short film",
+        "documentary film"
       ]
     },
     {
@@ -319,33 +427,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "final",
-          "definition": "n. 期末考试, 結局, 决赛, a. 最後的, 终极的, 决定性的"
+          "definition": "adj. 最後的、最終的、決定性的  n. 決賽、期末考"
         }
       ],
       "examples": [
         {
-          "en": "This is the final chapter of the book.",
+          "en": "The committee will make the final decision at next week's meeting.",
           "highlight": [
             "final"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "委員會將在下次會議做出最終決定。"
+          }
+        },
+        {
+          "en": "She scored the highest mark on the final exam in her class.",
+          "highlight": [
+            "final"
+          ],
+          "translations": {
+            "zh-TW": "她在期末考拿到全班最高分。"
+          }
+        },
+        {
+          "en": "Tickets for the championship finals sold out in less than an hour.",
+          "highlight": [
+            "finals"
+          ],
+          "translations": {
+            "zh-TW": "冠軍決賽的門票不到一小時便全部售罄。"
           }
         }
       ],
       "synonyms": [
         "last",
-        "ultimate"
+        "ultimate",
+        "concluding"
       ],
       "antonyms": [
         "initial",
         "first"
       ],
       "phrases": [
-        "final",
-        "decision",
-        "final",
-        "chapter"
+        "final decision",
+        "final exam",
+        "final chapter",
+        "the finals"
       ]
     },
     {
@@ -364,34 +491,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "finally",
-          "definition": "adv. 最後, 终于"
+          "definition": "adv. 最後、終於、最終"
         }
       ],
       "examples": [
         {
-          "en": "Finally, the rain stopped.",
+          "en": "Finally, after three hours of negotiation, both sides signed the contract.",
           "highlight": [
             "finally"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經過三個小時的協商，雙方終於簽下了合約。"
+          }
+        },
+        {
+          "en": "She finally managed to fix her laptop after trying several different methods.",
+          "highlight": [
+            "finally"
+          ],
+          "translations": {
+            "zh-TW": "嘗試了好幾種方法之後，她終於修好了筆電。"
+          }
+        },
+        {
+          "en": "The package finally arrived two weeks later than the promised delivery date.",
+          "highlight": [
+            "finally"
+          ],
+          "translations": {
+            "zh-TW": "那件包裹終於在比預定送達日晚了兩週後寄達。"
           }
         }
       ],
       "synonyms": [
         "eventually",
-        "at",
-        "last"
+        "at last",
+        "ultimately"
       ],
       "antonyms": [
         "immediately",
         "suddenly"
       ],
       "phrases": [
-        "finally",
-        "arrive",
-        "finally",
-        "decide"
+        "and finally",
+        "finally arrived",
+        "finally decided",
+        "finally finished"
       ]
     },
     {
@@ -406,41 +551,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "financeed",
-        "past_participle": "financeed",
-        "present_participle": "financing",
-        "third_person": "finances"
+        "plural": "finances",
+        "present_3rd": "finances",
+        "past": "financed",
+        "past_participle": "financed",
+        "ing": "financing"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "finance",
-          "definition": "n. 财政, 财务, vt. 供给...經费, 负担經费, vi. 筹措资金"
+          "definition": "n. 財政、金融、財務、資金  v. 提供資金、負擔經費"
         }
       ],
       "examples": [
         {
-          "en": "He works in finance.",
+          "en": "She has worked in corporate finance for more than ten years.",
           "highlight": [
             "finance"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在企業金融領域已經工作超過十年。"
+          }
+        },
+        {
+          "en": "The bank financed nearly half of the startup's expansion project.",
+          "highlight": [
+            "financed"
+          ],
+          "translations": {
+            "zh-TW": "銀行資助了那家新創公司擴張計畫將近一半的金額。"
+          }
+        },
+        {
+          "en": "The minister is currently financing a review of national tax policy.",
+          "highlight": [
+            "financing"
+          ],
+          "translations": {
+            "zh-TW": "部長目前正資助一項針對國家稅務政策的評估。"
           }
         }
       ],
       "synonyms": [
+        "funding",
         "economics",
-        "money",
-        "management"
+        "banking"
       ],
       "antonyms": [],
       "phrases": [
-        "corporate",
-        "finance",
-        "personal",
-        "finance"
+        "corporate finance",
+        "personal finance",
+        "finance minister",
+        "minister of finance"
       ]
     },
     {
@@ -451,41 +615,57 @@
       "toeic_score_min": 200,
       "word": "financial",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "financials"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "financial",
-          "definition": "a. 财政的, 金融的, [經] 财政的, 金融的, 财务的"
+          "definition": "adj. 財務的、金融的、財政的"
         }
       ],
       "examples": [
         {
-          "en": "They need financial advice.",
+          "en": "The company released its annual financial report to shareholders last Friday.",
           "highlight": [
             "financial"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司上週五向股東發布了年度財務報告。"
+          }
+        },
+        {
+          "en": "Many small businesses faced serious financial difficulties during the recession.",
+          "highlight": [
+            "financial"
+          ],
+          "translations": {
+            "zh-TW": "許多小型企業在經濟衰退期間面臨嚴重的財務困難。"
+          }
+        },
+        {
+          "en": "Students from low-income families can apply for financial aid through the university.",
+          "highlight": [
+            "financial"
+          ],
+          "translations": {
+            "zh-TW": "低收入家庭的學生可以向校方申請財務補助。"
           }
         }
       ],
       "synonyms": [
         "economic",
-        "fiscal"
+        "fiscal",
+        "monetary"
       ],
       "antonyms": [],
       "phrases": [
-        "financial",
-        "aid",
-        "financial",
-        "crisis"
+        "financial aid",
+        "financial crisis",
+        "financial report",
+        "financial advisor"
       ]
     }
   ]
