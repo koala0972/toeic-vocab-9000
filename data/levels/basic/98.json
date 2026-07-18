@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 98,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-098-001",
@@ -21,30 +21,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "drugstore",
-          "definition": "n. 药房, 杂货店"
+          "definition": "n. 藥妝店、藥房（兼售日用品）"
         }
       ],
       "examples": [
         {
-          "en": "She went to the drugstore to buy some medicine.",
+          "en": "I bought the bandages at the drugstore on the corner.",
           "highlight": [
             "drugstore"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我在轉角那家藥妝店買了繃帶。"
+          }
+        },
+        {
+          "en": "Several new drugstores opened along Main Street last year.",
+          "highlight": [
+            "drugstores"
+          ],
+          "translations": {
+            "zh-TW": "去年主街上新開了好幾家藥妝店。"
+          }
+        },
+        {
+          "en": "The drugstore near the station is open twenty-four hours.",
+          "highlight": [
+            "drugstore"
+          ],
+          "translations": {
+            "zh-TW": "車站附近那家藥妝店二十四小時營業。"
           }
         }
       ],
       "synonyms": [
         "pharmacy",
-        "chemist"
+        "chemist",
+        "apothecary"
       ],
       "antonyms": [],
       "phrases": [
-        "local",
-        "drugstore",
-        "chain",
-        "drugstore"
+        "drugstore chain",
+        "local drugstore",
+        "drugstore makeup",
+        "drugstore counter"
       ]
     },
     {
@@ -59,40 +78,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "drumed",
-        "past_participle": "drumed",
-        "present_participle": "druming",
-        "third_person": "drums"
+        "plural": "drums",
+        "present_3rd": "drums",
+        "past": "drummed",
+        "past_participle": "drummed",
+        "ing": "drumming"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "drum",
-          "definition": "n. 鼓, 鼓声, vi. 击鼓, 作鼓声, vt. 打鼓奏出, [计] 磁鼓"
+          "definition": "n. 鼓、鼓聲  v. 擊鼓、連續敲打"
         }
       ],
       "examples": [
         {
-          "en": "He played the drum in the band.",
+          "en": "He plays the drum in the school marching band.",
           "highlight": [
             "drum"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他在學校的行進樂隊裡打鼓。"
+          }
+        },
+        {
+          "en": "She drummed her fingers on the desk while waiting for the call.",
+          "highlight": [
+            "drummed"
+          ],
+          "translations": {
+            "zh-TW": "她等候電話時用手指在桌上敲個不停。"
+          }
+        },
+        {
+          "en": "The drummer is drumming out a steady rhythm for the dancers.",
+          "highlight": [
+            "drumming"
+          ],
+          "translations": {
+            "zh-TW": "鼓手正為舞者們敲出穩定的節奏。"
           }
         }
       ],
       "synonyms": [
         "percussion",
-        "timpani"
+        "timpani",
+        "beat"
       ],
       "antonyms": [],
       "phrases": [
-        "bass",
-        "drum",
-        "drum",
-        "set"
+        "drum set",
+        "bass drum",
+        "drum up business",
+        "drum up support"
       ]
     },
     {
@@ -114,33 +153,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "drunk",
-          "definition": "a. 喝醉了的, drink的過去式"
+          "definition": "a. 喝醉的  n. 醉漢（亦可作 drink 的過去分詞）"
         }
       ],
       "examples": [
         {
-          "en": "He was too drunk to drive.",
+          "en": "The manager was too drunk to sign the contract properly.",
           "highlight": [
             "drunk"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "那位經理醉得太厲害，合約都簽不好。"
+          }
+        },
+        {
+          "en": "Police arrested several drunks outside the bar at midnight.",
+          "highlight": [
+            "drunks"
+          ],
+          "translations": {
+            "zh-TW": "警方在半夜於酒吧外逮捕了幾名醉漢。"
+          }
+        },
+        {
+          "en": "She had never been drunk before last night's company party.",
+          "highlight": [
+            "drunk"
+          ],
+          "translations": {
+            "zh-TW": "在昨晚的公司派對之前，她從未喝醉過。"
           }
         }
       ],
       "synonyms": [
         "intoxicated",
-        "inebriated"
+        "inebriated",
+        "tipsy"
       ],
       "antonyms": [
         "sober",
         "clear-headed"
       ],
       "phrases": [
-        "drunk",
-        "driving",
-        "get",
-        "drunk"
+        "drunk driving",
+        "get drunk",
+        "drunk on wine",
+        "dead drunk"
       ]
     },
     {
@@ -155,43 +213,65 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "dryed",
-        "past_participle": "dryed",
-        "present_participle": "drying",
-        "third_person": "drys"
+        "present_3rd": "dries",
+        "past": "dried",
+        "past_participle": "dried",
+        "ing": "drying",
+        "comparative": "drier",
+        "superlative": "driest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dry",
-          "definition": "a. 干的, 无酒的, 枯燥无味的, 干燥的, vt. 把...弄干, vi. 变干, n. 干, 干涸"
+          "definition": "a. 乾的、乾燥的、枯燥的  v. 弄乾、變乾"
         }
       ],
       "examples": [
         {
-          "en": "The clothes are dry.",
+          "en": "The presentation was so dry that half the audience fell asleep.",
           "highlight": [
             "dry"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "那場簡報枯燥乏味，半數聽眾都睡著了。"
+          }
+        },
+        {
+          "en": "She dried the dishes carefully before putting them back in the cupboard.",
+          "highlight": [
+            "dried"
+          ],
+          "translations": {
+            "zh-TW": "她把碗盤仔細擦乾後才放回櫥櫃。"
+          }
+        },
+        {
+          "en": "July is usually the driest month of the year in this region.",
+          "highlight": [
+            "driest"
+          ],
+          "translations": {
+            "zh-TW": "在這個地區，七月通常是一年中最乾燥的月份。"
           }
         }
       ],
       "synonyms": [
         "arid",
-        "dehydrated"
+        "dehydrated",
+        "parched"
       ],
       "antonyms": [
         "wet",
-        "moist"
+        "moist",
+        "damp"
       ],
       "phrases": [
-        "dry",
-        "clothes",
-        "dry",
-        "weather"
+        "dry cleaning",
+        "dry run",
+        "dry season",
+        "dry off"
       ]
     },
     {
@@ -213,33 +293,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "due",
-          "definition": "n. 应得的东西, 应付款, a. 到期的, 应得的, 应付的, 约定的"
+          "definition": "a. 到期的、應付的、預期的  n. 應付款、會費"
         }
       ],
       "examples": [
         {
-          "en": "The rent is due tomorrow.",
+          "en": "The final report is due next Monday at the latest.",
           "highlight": [
             "due"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "最終報告最遲下週一到期。"
+          }
+        },
+        {
+          "en": "Members must pay their dues by the end of each quarter.",
+          "highlight": [
+            "dues"
+          ],
+          "translations": {
+            "zh-TW": "會員必須在每季末前繳交會費。"
+          }
+        },
+        {
+          "en": "The delay was due to a sudden power outage in the factory.",
+          "highlight": [
+            "due"
+          ],
+          "translations": {
+            "zh-TW": "這次延遲是因工廠突然停電所致。"
           }
         }
       ],
       "synonyms": [
         "expected",
-        "owed"
+        "owed",
+        "payable"
       ],
       "antonyms": [
         "early",
         "overdue"
       ],
       "phrases": [
-        "payment",
-        "due",
-        "rent",
-        "due"
+        "due to",
+        "payment due",
+        "due date",
+        "in due course"
       ]
     },
     {
@@ -254,43 +353,65 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "dulled",
+        "present_3rd": "dulls",
+        "past": "dulled",
         "past_participle": "dulled",
-        "present_participle": "dulling",
-        "third_person": "dulls"
+        "ing": "dulling",
+        "comparative": "duller",
+        "superlative": "dullest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dull",
-          "definition": "a. 钝的, 无趣的, 呆滞的, 阴暗的, vt. 使迟钝, 使阴暗, 缓和, vi. 变迟钝, 减少"
+          "definition": "a. 鈍的、乏味的、陰沉的  v. 使遲鈍、使暗淡"
         }
       ],
       "examples": [
         {
-          "en": "The lecture was dull.",
+          "en": "The training seminar was so dull that nobody asked a single question.",
           "highlight": [
             "dull"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "那場培訓研討會乏味得沒有人提出半個問題。"
+          }
+        },
+        {
+          "en": "Years of repetition had dulled her interest in the work.",
+          "highlight": [
+            "dulled"
+          ],
+          "translations": {
+            "zh-TW": "多年的重複操作使她對這份工作失去了興趣。"
+          }
+        },
+        {
+          "en": "This kitchen knife is the dullest one I have ever used.",
+          "highlight": [
+            "dullest"
+          ],
+          "translations": {
+            "zh-TW": "這把菜刀是我用過最鈍的一把。"
           }
         }
       ],
       "synonyms": [
         "boring",
-        "monotonous"
+        "monotonous",
+        "blunt"
       ],
       "antonyms": [
         "exciting",
-        "interesting"
+        "interesting",
+        "sharp"
       ],
       "phrases": [
-        "dull",
-        "lecture",
-        "dull",
-        "color"
+        "dull weather",
+        "dull pain",
+        "dull moment",
+        "dull the pain"
       ]
     },
     {
@@ -305,45 +426,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "dumped",
+        "plural": "dumps",
+        "present_3rd": "dumps",
+        "past": "dumped",
         "past_participle": "dumped",
-        "present_participle": "dumping",
-        "third_person": "dumps"
+        "ing": "dumping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dump",
-          "definition": "n. 垃圾場, vt. 倾倒, 倾销, vi. 倒垃圾, 倾销商品, [计] 转出; 转储; 倾卸; 切断电源"
+          "definition": "n. 垃圾場、堆放處  v. 傾倒、丟棄、拋售"
         }
       ],
       "examples": [
         {
-          "en": "He dumped the trash in the bin.",
+          "en": "Construction workers dump waste materials at the city landfill every morning.",
           "highlight": [
             "dump"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "建築工人每天早上把廢棄物傾倒在市立垃圾場。"
+          }
+        },
+        {
+          "en": "The company dumped its surplus inventory at half price before the audit.",
+          "highlight": [
+            "dumped"
+          ],
+          "translations": {
+            "zh-TW": "公司在查帳前以半價拋售了多餘的庫存。"
+          }
+        },
+        {
+          "en": "Investors are dumping shares of the failing retailer in panic.",
+          "highlight": [
+            "dumping"
+          ],
+          "translations": {
+            "zh-TW": "投資人正恐慌拋售那家瀕臨倒閉零售商的股票。"
           }
         }
       ],
       "synonyms": [
         "discard",
-        "throw",
-        "away"
+        "dispose",
+        "unload"
       ],
       "antonyms": [
         "keep",
-        "retain"
+        "retain",
+        "collect"
       ],
       "phrases": [
-        "dump",
-        "the",
-        "waste",
-        "dump",
-        "illegally"
+        "dump site",
+        "dump truck",
+        "dump prices",
+        "illegal dumping"
       ]
     },
     {
@@ -362,34 +502,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "during",
-          "definition": "prep. 在...的時候"
+          "definition": "prep. 在……期間、在……的時候"
         }
       ],
       "examples": [
         {
-          "en": "He stayed at the hotel during his vacation.",
+          "en": "The server crashed twice during the quarterly review meeting.",
           "highlight": [
             "during"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "伺服器在季度檢討會議期間當機了兩次。"
+          }
+        },
+        {
+          "en": "Please keep your phones on silent during the conference.",
+          "highlight": [
+            "during"
+          ],
+          "translations": {
+            "zh-TW": "會議期間請將手機調成靜音。"
+          }
+        },
+        {
+          "en": "Sales of heaters always rise sharply during the winter months.",
+          "highlight": [
+            "during"
+          ],
+          "translations": {
+            "zh-TW": "暖氣設備的銷量在冬季期間總是大幅上升。"
           }
         }
       ],
       "synonyms": [
         "throughout",
-        "amid"
+        "amid",
+        "within"
       ],
       "antonyms": [
         "before",
         "after"
       ],
       "phrases": [
-        "during",
-        "the",
-        "day",
-        "during",
-        "the"
+        "during the day",
+        "during the meeting",
+        "during the holidays",
+        "during work hours"
       ]
     },
     {
@@ -404,42 +562,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "dusted",
+        "plural": "dusts",
+        "present_3rd": "dusts",
+        "past": "dusted",
         "past_participle": "dusted",
-        "present_participle": "dusting",
-        "third_person": "dusts"
+        "ing": "dusting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dust",
-          "definition": "n. 灰尘, 尘埃, 粉末, 花粉, 土, 骚乱, vt. 拂去灰尘, 撒, 弄成粉末, vi. 拂去灰尘, 化為粉末"
+          "definition": "n. 灰塵、塵埃  v. 擦去灰塵、撣塵"
         }
       ],
       "examples": [
         {
-          "en": "She cleaned the dust off the shelves.",
+          "en": "A thin layer of dust covered the shelves in the warehouse.",
           "highlight": [
             "dust"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "倉庫的貨架上覆蓋著一層薄灰。"
+          }
+        },
+        {
+          "en": "The cleaner dusted every display case before the store opened.",
+          "highlight": [
+            "dusted"
+          ],
+          "translations": {
+            "zh-TW": "清潔工在開店前把每個展示櫃都擦了灰塵。"
+          }
+        },
+        {
+          "en": "She is dusting the office plants so they look fresh for clients.",
+          "highlight": [
+            "dusting"
+          ],
+          "translations": {
+            "zh-TW": "她正在替辦公室的盆栽撣塵，好讓客戶看到時覺得清新。"
           }
         }
       ],
       "synonyms": [
         "powder",
-        "particles"
+        "particles",
+        "dirt"
       ],
       "antonyms": [
         "cleanliness"
       ],
       "phrases": [
-        "dust",
-        "particles",
-        "dust",
-        "storm"
+        "dust particles",
+        "dust storm",
+        "dust off",
+        "settle the dust"
       ]
     },
     {
@@ -450,48 +628,62 @@
       "toeic_score_min": 200,
       "word": "duty",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "dutyed",
-        "past_participle": "dutyed",
-        "present_participle": "dutying",
-        "third_person": "dutys"
+        "plural": "duties"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "duty",
-          "definition": "n. 责任, 關税, 职务, 尊敬, [化] 职责"
+          "definition": "n. 責任、職責、關稅、義務"
         }
       ],
       "examples": [
         {
-          "en": "It is your duty to attend the meeting.",
+          "en": "It is the manager's duty to ensure workplace safety.",
           "highlight": [
             "duty"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "確保職場安全是經理的職責。"
+          }
+        },
+        {
+          "en": "Customs duties on imported electronics will rise next month.",
+          "highlight": [
+            "duties"
+          ],
+          "translations": {
+            "zh-TW": "進口電子產品的關稅下個月將會調漲。"
+          }
+        },
+        {
+          "en": "She was off duty when the fire alarm went off in the building.",
+          "highlight": [
+            "duty"
+          ],
+          "translations": {
+            "zh-TW": "火警警報響起時她正好不在值班。"
           }
         }
       ],
       "synonyms": [
         "responsibility",
-        "obligation"
+        "obligation",
+        "task"
       ],
       "antonyms": [
         "freedom",
         "exemption"
       ],
       "phrases": [
-        "perform",
-        "a",
-        "duty",
-        "on",
-        "duty"
+        "on duty",
+        "off duty",
+        "customs duty",
+        "duty-free"
       ]
     }
   ]
