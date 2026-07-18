@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 92,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-092-001",
@@ -15,42 +15,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "disciplineed",
-        "past_participle": "disciplineed",
-        "present_participle": "disciplining",
-        "third_person": "disciplines"
+        "plural": "disciplines",
+        "present_3rd": "disciplines",
+        "past": "disciplined",
+        "past_participle": "disciplined",
+        "ing": "disciplining"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "discipline",
-          "definition": "n. 训练, 纪律, vt. 训练, 惩罚"
+          "definition": "n. 紀律、訓練、自律  v. 訓練、懲戒"
         }
       ],
       "examples": [
         {
-          "en": "The school enforces strict discipline.",
+          "en": "Strict discipline is required in the military academy.",
           "highlight": [
             "discipline"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "軍校要求嚴格的紀律。"
+          }
+        },
+        {
+          "en": "The manager disciplined the employee for repeated tardiness.",
+          "highlight": [
+            "disciplined"
+          ],
+          "translations": {
+            "zh-TW": "經理因為該員工屢次遲到而予以懲戒。"
+          }
+        },
+        {
+          "en": "Self-disciplining oneself is the first step toward success.",
+          "highlight": [
+            "disciplining"
+          ],
+          "translations": {
+            "zh-TW": "自我約束是邁向成功的第一步。"
           }
         }
       ],
       "synonyms": [
+        "training",
         "control",
-        "training"
+        "order"
       ],
       "antonyms": [
         "chaos",
         "disorder"
       ],
       "phrases": [
-        "strict",
-        "discipline",
-        "self-discipline"
+        "strict discipline",
+        "self-discipline",
+        "discipline oneself",
+        "lack of discipline"
       ]
     },
     {
@@ -65,44 +86,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "discounted",
+        "plural": "discounts",
+        "present_3rd": "discounts",
+        "past": "discounted",
         "past_participle": "discounted",
-        "present_participle": "discounting",
-        "third_person": "discounts"
+        "ing": "discounting"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "discount",
-          "definition": "n. 折扣, 贴现率, vt. 打折扣, vi. 贴现"
+          "definition": "n. 折扣、打折  v. 打折扣、對…不全信"
         }
       ],
       "examples": [
         {
-          "en": "The store offers a discount on all items.",
+          "en": "The store offers a 20 percent discount to members.",
           "highlight": [
             "discount"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家商店給會員八折優惠。"
+          }
+        },
+        {
+          "en": "All clearance items were discounted by 50 percent.",
+          "highlight": [
+            "discounted"
+          ],
+          "translations": {
+            "zh-TW": "所有清倉商品都打五折。"
+          }
+        },
+        {
+          "en": "The analyst is discounting the rumor as market noise.",
+          "highlight": [
+            "discounting"
+          ],
+          "translations": {
+            "zh-TW": "分析師把這則傳聞當作市場雜音而不予採信。"
           }
         }
       ],
       "synonyms": [
         "reduction",
-        "rebate"
+        "rebate",
+        "deduction"
       ],
       "antonyms": [
         "surcharge",
         "premium"
       ],
       "phrases": [
-        "offer",
-        "a",
-        "discount",
-        "discount",
-        "price"
+        "offer a discount",
+        "discount price",
+        "at a discount",
+        "discount rate"
       ]
     },
     {
@@ -113,48 +153,66 @@
       "toeic_score_min": 200,
       "word": "discover",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "discovered",
+        "present_3rd": "discovers",
+        "past": "discovered",
         "past_participle": "discovered",
-        "present_participle": "discovering",
-        "third_person": "discovers"
+        "ing": "discovering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "discover",
-          "definition": "vt. 發现, 找到, 暴露, vi. 發现"
+          "definition": "v. 發現、找到、察覺"
         }
       ],
       "examples": [
         {
-          "en": "She discovered a hidden talent for painting.",
+          "en": "Scientists discover new species every year in the rainforest.",
           "highlight": [
             "discover"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "科學家每年都會在雨林中發現新物種。"
+          }
+        },
+        {
+          "en": "She discovered a hidden talent for painting at age forty.",
+          "highlight": [
+            "discovered"
+          ],
+          "translations": {
+            "zh-TW": "她在四十歲時發現了自己隱藏的繪畫天賦。"
+          }
+        },
+        {
+          "en": "The team is currently discovering more efficient ways to recycle plastic.",
+          "highlight": [
+            "discovering"
+          ],
+          "translations": {
+            "zh-TW": "團隊目前正在發現更有效回收塑膠的方法。"
           }
         }
       ],
       "synonyms": [
         "uncover",
-        "find"
+        "find",
+        "detect"
       ],
       "antonyms": [
         "lose",
-        "overlook"
+        "overlook",
+        "miss"
       ],
       "phrases": [
-        "discover",
-        "a",
-        "new",
-        "species",
-        "discover"
+        "discover new species",
+        "discover a talent",
+        "discover the truth",
+        "newly discovered"
       ]
     },
     {
@@ -165,47 +223,62 @@
       "toeic_score_min": 200,
       "word": "discovery",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "discoveryed",
-        "past_participle": "discoveryed",
-        "present_participle": "discoverying",
-        "third_person": "discoverys"
+        "plural": "discoveries"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "discovery",
-          "definition": "n. 發现, 被發现的事物, [法] 要求告知, 發现, 發觉"
+          "definition": "n. 發現、被發現的事物"
         }
       ],
       "examples": [
         {
-          "en": "The discovery of the new element was groundbreaking.",
+          "en": "The discovery of penicillin changed modern medicine forever.",
           "highlight": [
             "discovery"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "青黴素的發現永遠改變了現代醫學。"
+          }
+        },
+        {
+          "en": "Recent discoveries in astronomy continue to surprise researchers.",
+          "highlight": [
+            "discoveries"
+          ],
+          "translations": {
+            "zh-TW": "近期在天文學上的新發現持續令研究人員驚喜。"
+          }
+        },
+        {
+          "en": "The oil company announced a major discovery off the coast.",
+          "highlight": [
+            "discovery"
+          ],
+          "translations": {
+            "zh-TW": "石油公司宣布在沿海有重大發現。"
           }
         }
       ],
       "synonyms": [
+        "finding",
         "revelation",
-        "finding"
+        "breakthrough"
       ],
       "antonyms": [
         "loss",
         "concealment"
       ],
       "phrases": [
-        "scientific",
-        "discovery",
-        "major",
-        "discovery"
+        "scientific discovery",
+        "major discovery",
+        "make a discovery",
+        "new discovery"
       ]
     },
     {
@@ -216,48 +289,65 @@
       "toeic_score_min": 200,
       "word": "discuss",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "discussed",
+        "present_3rd": "discusses",
+        "past": "discussed",
         "past_participle": "discussed",
-        "present_participle": "discussing",
-        "third_person": "discusses"
+        "ing": "discussing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "discuss",
-          "definition": "vt. 讨论, 论述, [医] 讨论, 辩论"
+          "definition": "v. 討論、論述、商議"
         }
       ],
       "examples": [
         {
-          "en": "They discussed the plan in detail.",
+          "en": "The committee will discuss the proposal at tomorrow's meeting.",
           "highlight": [
             "discuss"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "委員會將在明天的會議上討論這項提案。"
+          }
+        },
+        {
+          "en": "We discussed the contract terms in detail before signing.",
+          "highlight": [
+            "discussed"
+          ],
+          "translations": {
+            "zh-TW": "我們在簽約前詳細討論了合約條款。"
+          }
+        },
+        {
+          "en": "The two leaders are currently discussing trade agreements in Geneva.",
+          "highlight": [
+            "discussing"
+          ],
+          "translations": {
+            "zh-TW": "兩位領導人目前正在日內瓦討論貿易協定。"
           }
         }
       ],
       "synonyms": [
         "debate",
-        "converse"
+        "converse",
+        "talk over"
       ],
       "antonyms": [
         "ignore",
         "neglect"
       ],
       "phrases": [
-        "discuss",
-        "in",
-        "detail",
-        "discuss",
-        "openly"
+        "discuss in detail",
+        "discuss openly",
+        "discuss the matter",
+        "need to discuss"
       ]
     },
     {
@@ -268,47 +358,62 @@
       "toeic_score_min": 200,
       "word": "discussion",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "discussioned",
-        "past_participle": "discussioned",
-        "present_participle": "discussioning",
-        "third_person": "discussions"
+        "plural": "discussions"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "discussion",
-          "definition": "n. 讨论"
+          "definition": "n. 討論、商議、議論"
         }
       ],
       "examples": [
         {
-          "en": "The discussion lasted for hours.",
+          "en": "The panel discussion covered recent economic trends.",
           "highlight": [
             "discussion"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這場座談會討論了近期的經濟趨勢。"
+          }
+        },
+        {
+          "en": "After lengthy discussions, both sides finally reached an agreement.",
+          "highlight": [
+            "discussions"
+          ],
+          "translations": {
+            "zh-TW": "經過冗長的討論後，雙方終於達成共識。"
+          }
+        },
+        {
+          "en": "An open discussion is encouraged during the staff meeting.",
+          "highlight": [
+            "discussion"
+          ],
+          "translations": {
+            "zh-TW": "員工會議中鼓勵進行公開討論。"
           }
         }
       ],
       "synonyms": [
         "conversation",
-        "dialogue"
+        "dialogue",
+        "debate"
       ],
       "antonyms": [
         "agreement",
         "consensus"
       ],
       "phrases": [
-        "open",
-        "discussion",
-        "heated",
-        "discussion"
+        "open discussion",
+        "heated discussion",
+        "panel discussion",
+        "under discussion"
       ]
     },
     {
@@ -319,47 +424,62 @@
       "toeic_score_min": 200,
       "word": "disease",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "diseaseed",
-        "past_participle": "diseaseed",
-        "present_participle": "diseasing",
-        "third_person": "diseases"
+        "plural": "diseases"
       },
-      "domain": "general",
+      "domain": "medical",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "disease",
-          "definition": "n. 疾病, 弊病, [医] [疾]病"
+          "definition": "n. 疾病、弊病"
         }
       ],
       "examples": [
         {
-          "en": "He suffers from a rare disease.",
+          "en": "Heart disease is one of the leading causes of death worldwide.",
           "highlight": [
             "disease"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "心臟病是全球主要的死因之一。"
+          }
+        },
+        {
+          "en": "Many infectious diseases can be prevented by vaccination.",
+          "highlight": [
+            "diseases"
+          ],
+          "translations": {
+            "zh-TW": "許多傳染病都可以透過疫苗接種來預防。"
+          }
+        },
+        {
+          "en": "The new treatment could cure patients with chronic kidney disease.",
+          "highlight": [
+            "disease"
+          ],
+          "translations": {
+            "zh-TW": "新療法可治癒慢性腎臟病患者。"
           }
         }
       ],
       "synonyms": [
         "illness",
-        "ailment"
+        "ailment",
+        "sickness"
       ],
       "antonyms": [
         "health",
         "wellness"
       ],
       "phrases": [
-        "infectious",
-        "disease",
-        "chronic",
-        "disease"
+        "infectious disease",
+        "chronic disease",
+        "heart disease",
+        "rare disease"
       ]
     },
     {
@@ -374,43 +494,64 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "disgusted",
+        "plural": "disgusts",
+        "present_3rd": "disgusts",
+        "past": "disgusted",
         "past_participle": "disgusted",
-        "present_participle": "disgusting",
-        "third_person": "disgusts"
+        "ing": "disgusting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "disgust",
-          "definition": "n. 厌恶, 嫌恶, vi. 令人厌恶, vt. 使作呕"
+          "definition": "n. 厭惡、反感  v. 使厭惡、使作嘔"
         }
       ],
       "examples": [
         {
-          "en": "She looked at the trash with disgust.",
+          "en": "She stared at the rotten food in disgust.",
           "highlight": [
             "disgust"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她滿臉厭惡地盯著那些腐爛的食物。"
+          }
+        },
+        {
+          "en": "The violent scenes in the film disgusted him.",
+          "highlight": [
+            "disgusted"
+          ],
+          "translations": {
+            "zh-TW": "電影裡的暴力場景令他作嘔。"
+          }
+        },
+        {
+          "en": "The politician's corrupt behavior disgusts the public.",
+          "highlight": [
+            "disgusts"
+          ],
+          "translations": {
+            "zh-TW": "那位政客的貪腐行為令大眾厭惡。"
           }
         }
       ],
       "synonyms": [
         "revulsion",
-        "loathing"
+        "loathing",
+        "repugnance"
       ],
       "antonyms": [
         "attraction",
-        "approval"
+        "approval",
+        "delight"
       ],
       "phrases": [
-        "with",
-        "disgust",
-        "express",
-        "disgust"
+        "with disgust",
+        "express disgust",
+        "in disgust",
+        "fill with disgust"
       ]
     },
     {
@@ -421,47 +562,61 @@
       "toeic_score_min": 200,
       "word": "disgusted",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
-      "conjugations": {
-        "past_tense": "disgusteded",
-        "past_participle": "disgusteded",
-        "present_participle": "disgusteding",
-        "third_person": "disgusteds"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "disgusted",
-          "definition": "a. 厌恶的；厌烦的"
+          "definition": "adj. 感到厭惡的、反感的"
         }
       ],
       "examples": [
         {
-          "en": "He was disgusted by the smell.",
+          "en": "The customer was disgusted by the rude service.",
           "highlight": [
             "disgusted"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "那位顧客對粗魯的服務感到厭惡。"
+          }
+        },
+        {
+          "en": "Disgusted viewers switched off the program halfway through.",
+          "highlight": [
+            "disgusted"
+          ],
+          "translations": {
+            "zh-TW": "感到反感的觀眾看到一半就關掉了節目。"
+          }
+        },
+        {
+          "en": "She looked disgusted when she heard the unfair decision.",
+          "highlight": [
+            "disgusted"
+          ],
+          "translations": {
+            "zh-TW": "聽到這個不公平的決定時，她一臉反感。"
           }
         }
       ],
       "synonyms": [
         "repulsed",
-        "appalled"
+        "appalled",
+        "sickened"
       ],
       "antonyms": [
         "pleased",
-        "delighted"
+        "delighted",
+        "satisfied"
       ],
       "phrases": [
-        "disgusted",
-        "look",
-        "disgusted",
-        "by"
+        "disgusted by",
+        "disgusted at",
+        "thoroughly disgusted",
+        "look disgusted"
       ]
     },
     {
@@ -472,48 +627,61 @@
       "toeic_score_min": 200,
       "word": "disgusting",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
-      "conjugations": {
-        "past_tense": "disgustinged",
-        "past_participle": "disgustinged",
-        "present_participle": "disgustinging",
-        "third_person": "disgustings"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "disgusting",
-          "definition": "a. 令人厌恶的"
+          "definition": "adj. 令人厭惡的、噁心的"
         }
       ],
       "examples": [
         {
-          "en": "The food was disgusting.",
+          "en": "The kitchen was in a disgusting state after the party.",
           "highlight": [
             "disgusting"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "派對結束後廚房髒得令人作嘔。"
+          }
+        },
+        {
+          "en": "His disgusting remarks offended everyone in the room.",
+          "highlight": [
+            "disgusting"
+          ],
+          "translations": {
+            "zh-TW": "他令人反感的言論冒犯了在場所有人。"
+          }
+        },
+        {
+          "en": "The food at that restaurant was absolutely disgusting.",
+          "highlight": [
+            "disgusting"
+          ],
+          "translations": {
+            "zh-TW": "那家餐廳的食物真是噁心透了。"
           }
         }
       ],
       "synonyms": [
         "revolting",
-        "repulsive"
+        "repulsive",
+        "nauseating"
       ],
       "antonyms": [
+        "delightful",
         "pleasant",
         "appealing"
       ],
       "phrases": [
-        "absolutely",
-        "disgusting",
-        "find",
-        "something",
-        "disgusting"
+        "disgusting behavior",
+        "disgusting smell",
+        "absolutely disgusting",
+        "disgusting food"
       ]
     }
   ]
