@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 99,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-099-001",
@@ -21,32 +21,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "dvd",
-          "definition": "abbr. 数字化视频光盘（Digital Video Disk）"
+          "definition": "n. 數位影音光碟（Digital Video Disk 的縮寫）"
         }
       ],
       "examples": [
         {
-          "en": "They watched a movie on DVD.",
+          "en": "The store sells DVDs of classic movies at discount prices.",
           "highlight": [
-            "dvd"
+            "DVDs"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家商店以折扣價售賣經典電影的 DVD。"
+          }
+        },
+        {
+          "en": "The training DVD includes a step-by-step tutorial for new employees.",
+          "highlight": [
+            "DVD"
+          ],
+          "translations": {
+            "zh-TW": "這張培訓 DVD 包含專為新進員工設計的逐步教學。"
+          }
+        },
+        {
+          "en": "DVDs are still the preferred medium for archival video in many offices.",
+          "highlight": [
+            "DVDs"
+          ],
+          "translations": {
+            "zh-TW": "在許多辦公室裡，DVD 仍是保存歸檔影片的首選媒介。"
           }
         }
       ],
       "synonyms": [
-        "digital",
-        "versatile",
-        "disc"
+        "digital video disc",
+        "optical disc"
       ],
       "antonyms": [],
       "phrases": [
-        "watch",
-        "a",
-        "DVD",
-        "DVD",
-        "player"
+        "DVD player",
+        "DVD drive",
+        "burn a DVD",
+        "DVD box set"
       ]
     },
     {
@@ -60,45 +76,58 @@
         "adjective",
         "verb"
       ],
-      "conjugations": {
-        "past_tense": "dyinged",
-        "past_participle": "dyinged",
-        "present_participle": "dyinging",
-        "third_person": "dyings"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dying",
-          "definition": "a. 垂死的, [法] 快要死的, 垂死的, 临终的"
+          "definition": "adj. 垂死的、臨終的、即將消失的        v. die 的現在分詞形式"
         }
       ],
       "examples": [
         {
-          "en": "He took care of his dying grandmother.",
+          "en": "The dying patient was transferred to hospice care.",
           "highlight": [
             "dying"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位垂死的病人被轉入安寧照護。"
+          }
+        },
+        {
+          "en": "He knelt beside his dying father and held his hand.",
+          "highlight": [
+            "dying"
+          ],
+          "translations": {
+            "zh-TW": "他跪在臨終的父親身旁，握住他的手。"
+          }
+        },
+        {
+          "en": "Traditional bookstores are a dying breed in the digital age.",
+          "highlight": [
+            "dying"
+          ],
+          "translations": {
+            "zh-TW": "在數位時代，傳統書店正成為即將消失的物種。"
           }
         }
       ],
       "synonyms": [
-        "near",
-        "death",
+        "passing",
+        "fading",
         "terminal"
       ],
       "antonyms": [
         "living",
-        "healthy"
+        "thriving"
       ],
       "phrases": [
-        "dying",
-        "wish",
-        "dying",
-        "out"
+        "dying wish",
+        "dying breath",
+        "dying industry",
+        "a dying art"
       ]
     },
     {
@@ -110,40 +139,61 @@
       "word": "each",
       "pos": [
         "adjective",
-        "noun"
+        "pronoun",
+        "adverb"
       ],
-      "conjugations": {
-        "plural": "eachs"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "each",
-          "definition": "a. 每個, 每一, adv. 每個, pron. 每個, 個人, 各自"
+          "definition": "adj. 每個、每一        pron. 各自、每個人        adv. 每個地"
         }
       ],
       "examples": [
         {
-          "en": "Each student received a certificate.",
+          "en": "Each employee must complete the safety training by Friday.",
           "highlight": [
             "each"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "每位員工必須在週五前完成安全培訓。"
+          }
+        },
+        {
+          "en": "The manager gave each of the team members a separate task.",
+          "highlight": [
+            "each"
+          ],
+          "translations": {
+            "zh-TW": "經理分別指派每位團隊成員一項任務。"
+          }
+        },
+        {
+          "en": "The tickets cost fifty dollars each, regardless of age.",
+          "highlight": [
+            "each"
+          ],
+          "translations": {
+            "zh-TW": "票價不分年齡，每張五十元。"
           }
         }
       ],
       "synonyms": [
         "every",
-        "all"
+        "apiece",
+        "individual"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "none",
+        "all together"
+      ],
       "phrases": [
-        "each",
-        "one",
-        "each",
-        "time"
+        "each other",
+        "each and every",
+        "each time",
+        "each one"
       ]
     },
     {
@@ -154,46 +204,58 @@
       "toeic_score_min": 200,
       "word": "ear",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "eared",
-        "past_participle": "eared",
-        "present_participle": "earing",
-        "third_person": "ears"
+        "plural": "ears"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "ear",
-          "definition": "n. 耳朵, 倾聽, 聽觉, 穗, vi. 抽穗"
+          "definition": "n. 耳朵、聽覺、穗        vi. 抽穗"
         }
       ],
       "examples": [
         {
-          "en": "She has a piercing in her ear.",
+          "en": "He turned his ear toward the speaker to catch every word.",
           "highlight": [
             "ear"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他把耳朵轉向講者，想聽清楚每個字。"
+          }
+        },
+        {
+          "en": "She covered her ears when the fire alarm went off in the office.",
+          "highlight": [
+            "ears"
+          ],
+          "translations": {
+            "zh-TW": "當火災警報在辦公室響起時，她摀住耳朵。"
+          }
+        },
+        {
+          "en": "They walked hand in hand, whispering secrets into each other's ears.",
+          "highlight": [
+            "ears"
+          ],
+          "translations": {
+            "zh-TW": "他們手牽手走著，在彼此耳邊輕聲訴說秘密。"
           }
         }
       ],
       "synonyms": [
         "hearing",
-        "organ",
-        "auditory",
-        "organ"
+        "auditory organ"
       ],
       "antonyms": [],
       "phrases": [
-        "sharp",
-        "ear",
-        "ear",
-        "infection"
+        "sharp ear",
+        "ear infection",
+        "turn a deaf ear",
+        "all ears"
       ]
     },
     {
@@ -216,33 +278,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "early",
-          "definition": "a. 早的, 早熟的, adv. 很早, 初"
+          "definition": "adj. 早的、初期的        adv. 早、在初期"
         }
       ],
       "examples": [
         {
-          "en": "They arrived early to get good seats.",
+          "en": "The early bus to the airport leaves at five in the morning.",
           "highlight": [
             "early"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "開往機場的早班公車清晨五點出發。"
+          }
+        },
+        {
+          "en": "She arrived earlier than the others and prepared the meeting room.",
+          "highlight": [
+            "earlier"
+          ],
+          "translations": {
+            "zh-TW": "她比其他人更早抵達，並準備好會議室。"
+          }
+        },
+        {
+          "en": "Our earliest record of this transaction dates back to 2010.",
+          "highlight": [
+            "earliest"
+          ],
+          "translations": {
+            "zh-TW": "我們關於這筆交易最早的紀錄可追溯到 2010 年。"
           }
         }
       ],
       "synonyms": [
         "premature",
-        "early-stage"
+        "initial",
+        "soon"
       ],
       "antonyms": [
         "late",
         "tardy"
       ],
       "phrases": [
-        "early",
-        "morning",
-        "early",
-        "bird"
+        "early morning",
+        "early bird",
+        "early stage",
+        "as early as possible"
       ]
     },
     {
@@ -253,48 +334,66 @@
       "toeic_score_min": 200,
       "word": "earn",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "earned",
+        "present_3rd": "earns",
+        "past": "earned",
         "past_participle": "earned",
-        "present_participle": "earning",
-        "third_person": "earns"
+        "ing": "earning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "earn",
-          "definition": "vt. 赚得, 获得, 博得, [计] 欧州科学研究网"
+          "definition": "vt. 賺得、獲得、贏得        vi. 賺取收入"
         }
       ],
       "examples": [
         {
-          "en": "She earns a good salary.",
+          "en": "She earns a generous commission on every property she sells.",
           "highlight": [
-            "earn"
+            "earns"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她每賣出一筆房產就能賺取豐厚的佣金。"
+          }
+        },
+        {
+          "en": "He earned a scholarship after scoring the highest marks in the exam.",
+          "highlight": [
+            "earned"
+          ],
+          "translations": {
+            "zh-TW": "他在考試中取得最高分，因而贏得了獎學金。"
+          }
+        },
+        {
+          "en": "After earning her MBA, she was promoted to senior manager.",
+          "highlight": [
+            "earning"
+          ],
+          "translations": {
+            "zh-TW": "在取得 MBA 學位後，她被晉升為資深經理。"
           }
         }
       ],
       "synonyms": [
         "make",
-        "gain"
+        "gain",
+        "acquire"
       ],
       "antonyms": [
         "spend",
-        "lose"
+        "lose",
+        "forfeit"
       ],
       "phrases": [
-        "earn",
-        "money",
-        "earn",
-        "a",
-        "living"
+        "earn a living",
+        "earn money",
+        "earn respect",
+        "earn a reputation"
       ]
     },
     {
@@ -305,44 +404,62 @@
       "toeic_score_min": 200,
       "word": "earth",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "earthed",
-        "past_participle": "earthed",
-        "present_participle": "earthing",
-        "third_person": "earths"
+        "plural": "earths"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "earth",
-          "definition": "n. 地球, 泥土, 世界, 尘世, vt. 埋入土中, 赶入洞内, vi. 躲入洞内"
+          "definition": "n. 地球、泥土、塵世、陸地        vt. 埋入土中、接地"
         }
       ],
       "examples": [
         {
-          "en": "The Earth orbits the sun.",
+          "en": "The satellite orbits the Earth twice every twenty-four hours.",
+          "highlight": [
+            "Earth"
+          ],
+          "translations": {
+            "zh-TW": "這顆衛星每二十四小時繞地球運行兩圈。"
+          }
+        },
+        {
+          "en": "The farmer tilled the earth and planted rows of corn.",
           "highlight": [
             "earth"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "農夫翻耕泥土，種下一排排的玉米。"
+          }
+        },
+        {
+          "en": "Looking down from space, the earth looks like a fragile blue marble.",
+          "highlight": [
+            "earth"
+          ],
+          "translations": {
+            "zh-TW": "從太空俯瞰，地球看起來像一顆脆弱的藍色彈珠。"
           }
         }
       ],
       "synonyms": [
         "world",
-        "globe"
+        "globe",
+        "soil"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "sky",
+        "heaven"
+      ],
       "phrases": [
-        "planet",
-        "Earth",
-        "Mother",
-        "Earth"
+        "planet Earth",
+        "Mother Earth",
+        "down to earth",
+        "earthquake"
       ]
     },
     {
@@ -357,44 +474,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "easeed",
-        "past_participle": "easeed",
-        "present_participle": "easing",
-        "third_person": "eases"
+        "present_3rd": "eases",
+        "past": "eased",
+        "past_participle": "eased",
+        "ing": "easing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "ease",
-          "definition": "n. 安乐, 安逸, 悠闲, vt. 使安乐, 使安心, 减輕, 放松, vi. 减輕, 放松, 灵活地移動"
+          "definition": "n. 舒適、安逸、輕鬆        vt. 減輕、緩和、使安心        vi. 放鬆、緩和"
         }
       ],
       "examples": [
         {
-          "en": "He tried to ease her pain.",
+          "en": "The pharmacist recommended a balm to ease the pain in her shoulder.",
           "highlight": [
             "ease"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "藥師推薦一款藥膏來緩和她肩膀的疼痛。"
+          }
+        },
+        {
+          "en": "He eased into retirement by gradually reducing his working hours.",
+          "highlight": [
+            "eased"
+          ],
+          "translations": {
+            "zh-TW": "他藉由逐步減少工時，慢慢步入退休生活。"
+          }
+        },
+        {
+          "en": "After weeks of negotiation, tensions between the two firms are finally easing.",
+          "highlight": [
+            "easing"
+          ],
+          "translations": {
+            "zh-TW": "經過數週談判，兩家公司之間的緊張關係終於逐漸緩和。"
           }
         }
       ],
       "synonyms": [
         "alleviate",
-        "relieve"
+        "relieve",
+        "comfort"
       ],
       "antonyms": [
         "aggravate",
-        "worsen"
+        "worsen",
+        "intensify"
       ],
       "phrases": [
-        "ease",
-        "the",
-        "pain",
-        "ease",
-        "tensions"
+        "ease the pain",
+        "ease tensions",
+        "at ease",
+        "ill at ease"
       ]
     },
     {
@@ -413,33 +549,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "easily",
-          "definition": "adv. 容易地, 輕易地, 流利地"
+          "definition": "adv. 容易地、輕易地、順利地、流利地"
         }
       ],
       "examples": [
         {
-          "en": "She solved the problem easily.",
+          "en": "The new software can easily handle thousands of records at once.",
           "highlight": [
             "easily"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這套新軟體能輕易地一次處理數千筆紀錄。"
+          }
+        },
+        {
+          "en": "She solved the calculus problem so easily that the professor was stunned.",
+          "highlight": [
+            "easily"
+          ],
+          "translations": {
+            "zh-TW": "她如此輕易地解出微積分題目，令教授感到驚訝。"
+          }
+        },
+        {
+          "en": "Books can easily be ordered online and delivered within two days.",
+          "highlight": [
+            "easily"
+          ],
+          "translations": {
+            "zh-TW": "書籍可以輕易地在網路上訂購，並於兩天內送達。"
           }
         }
       ],
       "synonyms": [
         "effortlessly",
-        "readily"
+        "readily",
+        "smoothly"
       ],
       "antonyms": [
-        "difficultly",
+        "with difficulty",
         "hardly"
       ],
       "phrases": [
-        "easily",
-        "solved",
-        "easily",
-        "accessible"
+        "easily accessible",
+        "easily solved",
+        "easily confused",
+        "win easily"
       ]
     },
     {
@@ -451,7 +606,8 @@
       "word": "east",
       "pos": [
         "noun",
-        "adjective"
+        "adjective",
+        "adverb"
       ],
       "conjugations": {
         "plural": "easts"
@@ -461,32 +617,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "east",
-          "definition": "n. 东方, 东, a. 东方的, 向东的, adv. 向东方, 朝东方"
+          "definition": "n. 東方、東邊        adj. 東方的、向東的        adv. 朝東方"
         }
       ],
       "examples": [
         {
-          "en": "The sun rises in the east.",
+          "en": "The sun rises in the east and sets in the west.",
           "highlight": [
             "east"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "太陽從東方升起，在西方落下。"
+          }
+        },
+        {
+          "en": "Our new branch office is located on the east side of the city.",
+          "highlight": [
+            "east"
+          ],
+          "translations": {
+            "zh-TW": "我們的新分公司位於城市的東側。"
+          }
+        },
+        {
+          "en": "They drove east for three hours before reaching the coast.",
+          "highlight": [
+            "east"
+          ],
+          "translations": {
+            "zh-TW": "他們朝東行駛了三個小時才抵達海岸。"
           }
         }
       ],
       "synonyms": [
         "orient",
-        "sunrise"
+        "eastward"
       ],
       "antonyms": [
         "west"
       ],
       "phrases": [
-        "east",
-        "side",
-        "face",
-        "east"
+        "east side",
+        "face east",
+        "Middle East",
+        "Far East"
       ]
     }
   ]
