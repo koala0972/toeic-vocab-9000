@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 128,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-128-001",
@@ -15,43 +15,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "forested",
+        "plural": "forests",
+        "present_3rd": "forests",
+        "past": "forested",
         "past_participle": "forested",
-        "present_participle": "foresting",
-        "third_person": "forests"
+        "ing": "foresting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "forest",
-          "definition": "n. 森林, 林區, vt. 植树于"
+          "definition": "n. 森林、林區  v. 在…植林、造林"
         }
       ],
       "examples": [
         {
-          "en": "They went hiking in the forest.",
+          "en": "The logging company bought a large forest in northern Canada.",
           "highlight": [
             "forest"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家伐木公司在加拿大北部買下了一大片森林。"
+          }
+        },
+        {
+          "en": "Dense forests covered the mountainside before the wildfire spread.",
+          "highlight": [
+            "forests"
+          ],
+          "translations": {
+            "zh-TW": "野火蔓延之前，茂密的森林覆蓋著整個山腰。"
+          }
+        },
+        {
+          "en": "The government forested the bare hills to prevent soil erosion.",
+          "highlight": [
+            "forested"
+          ],
+          "translations": {
+            "zh-TW": "政府在光禿的山丘上植林，以防止土壤流失。"
           }
         }
       ],
       "synonyms": [
         "woods",
-        "woodland"
+        "woodland",
+        "jungle"
       ],
       "antonyms": [
         "desert",
         "wasteland"
       ],
       "phrases": [
-        "dense",
-        "forest",
-        "tropical",
-        "forest"
+        "dense forest",
+        "tropical forest",
+        "forest fire",
+        "rain forest"
       ]
     },
     {
@@ -73,33 +93,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "forever",
-          "definition": "adv. 永远"
+          "definition": "adv. 永遠、永久地、不斷地  n. 永恆"
         }
       ],
       "examples": [
         {
-          "en": "I will love you forever.",
+          "en": "Our company promises to support this product forever.",
           "highlight": [
             "forever"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們公司承諾永遠支援這項產品。"
+          }
+        },
+        {
+          "en": "She has been waiting in line forever at the airport check-in counter.",
+          "highlight": [
+            "forever"
+          ],
+          "translations": {
+            "zh-TW": "她在機場登機櫃檯大排長龍，好像等了一輩子。"
+          }
+        },
+        {
+          "en": "Couples exchange rings as a symbol of forever in the wedding ceremony.",
+          "highlight": [
+            "forever"
+          ],
+          "translations": {
+            "zh-TW": "新人們在婚禮上交換戒指，作為永恆的象徵。"
           }
         }
       ],
       "synonyms": [
         "eternally",
-        "perpetually"
+        "perpetually",
+        "always"
       ],
       "antonyms": [
         "temporarily",
-        "momentarily"
+        "briefly"
       ],
       "phrases": [
-        "love",
-        "forever",
-        "last",
-        "forever"
+        "forever young",
+        "last forever",
+        "forever and ever",
+        "take forever"
       ]
     },
     {
@@ -110,47 +149,65 @@
       "toeic_score_min": 200,
       "word": "forget",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "forgeted",
-        "past_participle": "forgeted",
-        "present_participle": "forgeting",
-        "third_person": "forgets"
+        "present_3rd": "forgets",
+        "past": "forgot",
+        "past_participle": "forgotten",
+        "ing": "forgetting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "forget",
-          "definition": "vt. 忘記, 忽略, 忘, vi. 忘記"
+          "definition": "v. 忘記、遺忘、忽略"
         }
       ],
       "examples": [
         {
-          "en": "Don't forget to lock the door.",
+          "en": "Please don't forget to bring your ID to the interview tomorrow.",
           "highlight": [
             "forget"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "明天面試請別忘了帶身分證件。"
+          }
+        },
+        {
+          "en": "He forgot the client's name during the meeting and felt embarrassed.",
+          "highlight": [
+            "forgot"
+          ],
+          "translations": {
+            "zh-TW": "他在會議中忘記了客戶的名字，感到很尷尬。"
+          }
+        },
+        {
+          "en": "I have forgotten my password and cannot log in to the system.",
+          "highlight": [
+            "forgotten"
+          ],
+          "translations": {
+            "zh-TW": "我忘記了密碼，無法登入系統。"
           }
         }
       ],
       "synonyms": [
         "overlook",
-        "disregard"
+        "disregard",
+        "omit"
       ],
       "antonyms": [
         "remember",
         "recall"
       ],
       "phrases": [
-        "forget",
-        "about",
-        "forget",
-        "to"
+        "forget about",
+        "forget to",
+        "forgive and forget",
+        "never forget"
       ]
     },
     {
@@ -161,48 +218,65 @@
       "toeic_score_min": 200,
       "word": "forgive",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "forgiveed",
-        "past_participle": "forgiveed",
-        "present_participle": "forgiving",
-        "third_person": "forgives"
+        "present_3rd": "forgives",
+        "past": "forgave",
+        "past_participle": "forgiven",
+        "ing": "forgiving"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "forgive",
-          "definition": "vt. 原谅, 宽恕, 免除, [法] 免除, 宽恕, 原谅"
+          "definition": "v. 原諒、寬恕、免除（債務）"
         }
       ],
       "examples": [
         {
-          "en": "I forgive you for your mistake.",
+          "en": "The manager decided to forgive the new employee for his mistake.",
           "highlight": [
             "forgive"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理決定原諒這位新進員工的過錯。"
+          }
+        },
+        {
+          "en": "She forgave her business partner after their long argument last year.",
+          "highlight": [
+            "forgave"
+          ],
+          "translations": {
+            "zh-TW": "去年長久的爭執後，她原諒了她的生意夥伴。"
+          }
+        },
+        {
+          "en": "The bank has forgiven part of the loan for the struggling startup.",
+          "highlight": [
+            "forgiven"
+          ],
+          "translations": {
+            "zh-TW": "銀行已免除這家艱困新創公司部分的貸款。"
           }
         }
       ],
       "synonyms": [
         "pardon",
-        "absolve"
+        "absolve",
+        "excuse"
       ],
       "antonyms": [
         "blame",
         "accuse"
       ],
       "phrases": [
-        "forgive",
-        "someone",
-        "forgive",
-        "and",
-        "forget"
+        "forgive someone",
+        "forgive and forget",
+        "forgive a debt",
+        "forgive me"
       ]
     },
     {
@@ -217,42 +291,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "forked",
+        "plural": "forks",
+        "present_3rd": "forks",
+        "past": "forked",
         "past_participle": "forked",
-        "present_participle": "forking",
-        "third_person": "forks"
+        "ing": "forking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "fork",
-          "definition": "n. 叉子, 叉状物, 分岔, vi. 分支, 分歧, vt. 做成叉形, 叉起, [计] 派生指令"
+          "definition": "n. 叉子、餐叉、分岔  v. 分岔、分歧"
         }
       ],
       "examples": [
         {
-          "en": "He ate his salad with a fork.",
+          "en": "He placed his fork on the napkin during the business lunch.",
           "highlight": [
             "fork"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "商務午餐中，他把叉子放在餐巾上。"
+          }
+        },
+        {
+          "en": "The hotel restaurant provides silver forks for its VIP guests.",
+          "highlight": [
+            "forks"
+          ],
+          "translations": {
+            "zh-TW": "這家飯店的餐廳為貴賓客人提供銀製餐叉。"
+          }
+        },
+        {
+          "en": "The road forked just before the industrial park entrance.",
+          "highlight": [
+            "forked"
+          ],
+          "translations": {
+            "zh-TW": "道路在工業園區入口前分岔。"
           }
         }
       ],
       "synonyms": [
         "utensil",
-        "prong"
+        "prong",
+        "branch"
       ],
       "antonyms": [
+        "merge",
         "spoon"
       ],
       "phrases": [
-        "dinner",
-        "fork",
-        "salad",
-        "fork"
+        "dinner fork",
+        "salad fork",
+        "fork in the road",
+        "fork out"
       ]
     },
     {
@@ -267,44 +362,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "formed",
+        "plural": "forms",
+        "present_3rd": "forms",
+        "past": "formed",
         "past_participle": "formed",
-        "present_participle": "forming",
-        "third_person": "forms"
+        "ing": "forming"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "form",
-          "definition": "n. 形状, 形体, 类型, 方式, 表格, 形式, v. 形成, 排列, (使)组成, n. 表单, [计] 表单"
+          "definition": "n. 形式、表格、形態  v. 形成、組成、建立"
         }
       ],
       "examples": [
         {
-          "en": "They formed a new club.",
+          "en": "Please fill out this form before opening a bank account.",
           "highlight": [
             "form"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "開立銀行帳戶前請填寫這份表格。"
+          }
+        },
+        {
+          "en": "The staff formed a committee to review the new policy.",
+          "highlight": [
+            "formed"
+          ],
+          "translations": {
+            "zh-TW": "員工組成了一個委員會來審查新政策。"
+          }
+        },
+        {
+          "en": "The clouds are forming over the bay; it might rain soon.",
+          "highlight": [
+            "forming"
+          ],
+          "translations": {
+            "zh-TW": "海灣上方正在形成雲層，可能不久就會下雨。"
           }
         }
       ],
       "synonyms": [
         "create",
-        "develop"
+        "develop",
+        "shape"
       ],
       "antonyms": [
         "destroy",
         "dismantle"
       ],
       "phrases": [
-        "form",
-        "a",
-        "group",
-        "form",
-        "an"
+        "form a group",
+        "application form",
+        "order form",
+        "form an opinion"
       ]
     },
     {
@@ -315,44 +429,63 @@
       "toeic_score_min": 200,
       "word": "formal",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "formals"
+        "comparative": "more formal",
+        "superlative": "most formal"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "formal",
-          "definition": "a. 正式的, 形式的, 礼仪的, 拘于礼节的, 拘谨的, n. 正式的社交活動"
+          "definition": "adj. 正式的、形式的、拘謹的"
         }
       ],
       "examples": [
         {
-          "en": "He wore a formal suit to the event.",
+          "en": "All employees must wear formal attire to the annual banquet.",
           "highlight": [
             "formal"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "所有員工都必須穿著正式服裝出席年度晚宴。"
+          }
+        },
+        {
+          "en": "His speech was more formal than usual at the shareholders' meeting.",
+          "highlight": [
+            "more formal"
+          ],
+          "translations": {
+            "zh-TW": "在股東會上，他的演講比以往更為拘謹正式。"
+          }
+        },
+        {
+          "en": "The most formal event of the year is the company's charity gala.",
+          "highlight": [
+            "most formal"
+          ],
+          "translations": {
+            "zh-TW": "全年最正式的活動是公司的慈善晚會。"
           }
         }
       ],
       "synonyms": [
         "official",
-        "ceremonious"
+        "ceremonious",
+        "proper"
       ],
       "antonyms": [
         "informal",
         "casual"
       ],
       "phrases": [
-        "formal",
-        "event",
-        "formal",
-        "dress"
+        "formal event",
+        "formal dress",
+        "formal letter",
+        "formal education"
       ]
     },
     {
@@ -371,33 +504,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "formerly",
-          "definition": "adv. 从前, 以前"
+          "definition": "adv. 從前、以前、原本"
         }
       ],
       "examples": [
         {
-          "en": "She was formerly known as Jane Smith.",
+          "en": "The hotel, formerly a warehouse, now hosts international conferences.",
           "highlight": [
             "formerly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家飯店原本是倉庫，現在舉辦國際會議。"
+          }
+        },
+        {
+          "en": "She formerly worked as an accountant before moving to marketing.",
+          "highlight": [
+            "formerly"
+          ],
+          "translations": {
+            "zh-TW": "她以前是會計師，之後才轉調到行銷部門。"
+          }
+        },
+        {
+          "en": "The firm, formerly known as Atlas Inc., changed its name last year.",
+          "highlight": [
+            "formerly"
+          ],
+          "translations": {
+            "zh-TW": "這家公司原本名為 Atlas Inc.，去年才改了名字。"
           }
         }
       ],
       "synonyms": [
         "previously",
-        "earlier"
+        "earlier",
+        "once"
       ],
       "antonyms": [
         "currently",
         "presently"
       ],
       "phrases": [
-        "formerly",
-        "known",
-        "formerly",
-        "a"
+        "formerly known as",
+        "formerly a",
+        "formerly of"
       ]
     },
     {
@@ -408,47 +559,60 @@
       "toeic_score_min": 200,
       "word": "forth",
       "pos": [
-        "adverb",
-        "verb"
+        "adverb"
       ],
-      "conjugations": {
-        "past_tense": "forthed",
-        "past_participle": "forthed",
-        "present_participle": "forthing",
-        "third_person": "forths"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "forth",
-          "definition": "adv. 往前, 以後, 向外"
+          "definition": "adv. 向前、往外、以後"
         }
       ],
       "examples": [
         {
-          "en": "They set forth on their journey.",
+          "en": "The team set forth on a research trip to Southeast Asia.",
           "highlight": [
             "forth"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "團隊啟程前往東南亞展開研究之旅。"
+          }
+        },
+        {
+          "en": "The CEO laid forth the new strategy at the quarterly meeting.",
+          "highlight": [
+            "forth"
+          ],
+          "translations": {
+            "zh-TW": "執行長在季度會議上提出了新的策略。"
+          }
+        },
+        {
+          "en": "From that day forth, the company required all staff to wear uniforms.",
+          "highlight": [
+            "forth"
+          ],
+          "translations": {
+            "zh-TW": "從那天起，公司要求所有員工穿著制服。"
           }
         }
       ],
       "synonyms": [
         "onward",
-        "outward"
+        "forward",
+        "ahead"
       ],
       "antonyms": [
         "back",
         "backward"
       ],
       "phrases": [
-        "set",
-        "forth",
-        "go",
-        "forth"
+        "set forth",
+        "go forth",
+        "and so forth",
+        "back and forth"
       ]
     },
     {
@@ -459,49 +623,62 @@
       "toeic_score_min": 200,
       "word": "fortune",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "fortuneed",
-        "past_participle": "fortuneed",
-        "present_participle": "fortuning",
-        "third_person": "fortunes"
+        "plural": "fortunes"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "fortune",
-          "definition": "n. 财富, 運气, 興隆, 大量财产, 好運, 命運, [法] 命運, 财产, 大量财产"
+          "definition": "n. 財富、運氣、好運、命運"
         }
       ],
       "examples": [
         {
-          "en": "He made a fortune in real estate.",
+          "en": "She made a fortune by investing in technology stocks early.",
           "highlight": [
             "fortune"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她及早投資科技股，賺進了可觀的財富。"
+          }
+        },
+        {
+          "en": "The fortunes of the company changed after the new CEO took over.",
+          "highlight": [
+            "fortunes"
+          ],
+          "translations": {
+            "zh-TW": "新任執行長上任後，公司的營運情況改變了。"
+          }
+        },
+        {
+          "en": "Good fortune seemed to follow the family through every business deal.",
+          "highlight": [
+            "fortune"
+          ],
+          "translations": {
+            "zh-TW": "好運似乎跟隨著這個家族走過每一筆生意。"
           }
         }
       ],
       "synonyms": [
         "luck",
-        "fate"
+        "fate",
+        "wealth"
       ],
       "antonyms": [
         "misfortune",
-        "bad",
-        "luck"
+        "bad luck"
       ],
       "phrases": [
-        "make",
-        "a",
-        "fortune",
-        "good",
-        "fortune"
+        "make a fortune",
+        "good fortune",
+        "fortune teller",
+        "fortune cookie"
       ]
     }
   ]
