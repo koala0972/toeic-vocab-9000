@@ -1,7 +1,7 @@
 {
+  "cefr": "A1",
   "level": 93,
   "tier": "basic",
-  "cefr": "A1",
   "words": [
     {
       "id": "A1-093-001",
@@ -15,41 +15,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "dished",
+        "plural": "dishes",
+        "present_3rd": "dishes",
+        "past": "dished",
         "past_participle": "dished",
-        "present_participle": "dishing",
-        "third_person": "dishs"
+        "ing": "dishing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dish",
-          "definition": "n. 盘子, 碟, 菜肴, [医] 皿, 碟"
+          "definition": "n. 盤子、碟子、菜餚  v. 盛於盤中、閒聊（非正式）"
         }
       ],
       "examples": [
         {
-          "en": "She served the pasta in a large dish.",
+          "en": "She placed the roasted chicken on a large dish and brought it to the table.",
           "highlight": [
             "dish"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她把烤雞放在一個大盤子上，端到桌前。"
+          }
+        },
+        {
+          "en": "The restaurant dished up three different appetizers before the main course arrived.",
+          "highlight": [
+            "dished"
+          ],
+          "translations": {
+            "zh-TW": "餐廳在主菜上桌前，先端出了三道不同的開胃菜。"
+          }
+        },
+        {
+          "en": "He is always dishing out advice to his coworkers, whether they ask for it or not.",
+          "highlight": [
+            "dishing"
+          ],
+          "translations": {
+            "zh-TW": "他總是對同事們發表意見，不管他們是否要求。"
           }
         }
       ],
       "synonyms": [
         "plate",
+        "platter",
         "bowl"
       ],
       "antonyms": [],
       "phrases": [
-        "serve",
-        "in",
-        "a",
-        "dish",
-        "dish"
+        "dish out",
+        "side dish",
+        "main dish",
+        "do the dishes"
       ]
     },
     {
@@ -60,44 +79,62 @@
       "toeic_score_min": 200,
       "word": "dishonest",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "dishonests"
+        "comparative": "more dishonest",
+        "superlative": "most dishonest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dishonest",
-          "definition": "a. 不诚實的, [法] 不忠實的, 不诚實的, 欺诈的"
+          "definition": "adj. 不誠實的、欺詐的、不正直的"
         }
       ],
       "examples": [
         {
-          "en": "He was dishonest about his qualifications.",
+          "en": "The salesperson was dishonest about the car's accident history.",
           "highlight": [
             "dishonest"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "業務員隱瞞了這輛車的事故紀錄，並不誠實。"
+          }
+        },
+        {
+          "en": "Lying on the application form would be more dishonest than admitting you lack experience.",
+          "highlight": [
+            "more dishonest"
+          ],
+          "translations": {
+            "zh-TW": "在申請表上說謊，比坦白承認自己經驗不足更不誠實。"
+          }
+        },
+        {
+          "en": "Forging the receipt was the most dishonest thing he had ever done at the company.",
+          "highlight": [
+            "most dishonest"
+          ],
+          "translations": {
+            "zh-TW": "偽造收據是他在公司做過最不誠實的事。"
           }
         }
       ],
       "synonyms": [
         "deceitful",
-        "fraudulent"
+        "fraudulent",
+        "untrustworthy"
       ],
       "antonyms": [
         "honest",
         "truthful"
       ],
       "phrases": [
-        "dishonest",
-        "behavior",
-        "dishonest",
-        "person"
+        "dishonest behavior",
+        "dishonest person",
+        "dishonest practices"
       ]
     },
     {
@@ -116,33 +153,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "dishonestly",
-          "definition": "adv. 不诚實地, 不正直地"
+          "definition": "adv. 不誠實地、欺詐地、不正直地"
         }
       ],
       "examples": [
         {
-          "en": "She acted dishonestly in the exam.",
+          "en": "The accountant dishonestly transferred company funds into her personal account over six months.",
           "highlight": [
             "dishonestly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "會計師在半年內不誠實地將公司資金轉入她的個人帳戶。"
+          }
+        },
+        {
+          "en": "The athlete behaved dishonestly by using performance-enhancing drugs during the competition.",
+          "highlight": [
+            "dishonestly"
+          ],
+          "translations": {
+            "zh-TW": "這位運動員在比賽期間使用增強表現的藥物，行為不誠實。"
+          }
+        },
+        {
+          "en": "He acted dishonestly when he claimed the lost laptop had been brand new.",
+          "highlight": [
+            "dishonestly"
+          ],
+          "translations": {
+            "zh-TW": "他聲稱遺失的筆電是全新的，此舉並不誠實。"
           }
         }
       ],
       "synonyms": [
         "deceitfully",
-        "fraudulently"
+        "fraudulently",
+        "crookedly"
       ],
       "antonyms": [
         "honestly",
         "truthfully"
       ],
       "phrases": [
-        "act",
-        "dishonestly",
-        "behave",
-        "dishonestly"
+        "act dishonestly",
+        "behave dishonestly",
+        "deal dishonestly"
       ]
     },
     {
@@ -157,40 +212,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "disked",
+        "plural": "disks",
+        "present_3rd": "disks",
+        "past": "disked",
         "past_participle": "disked",
-        "present_participle": "disking",
-        "third_person": "disks"
+        "ing": "disking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "disk",
-          "definition": "n. 圆盘, 磁盘, [计] 磁盘"
+          "definition": "n. 圓盤、磁碟、光碟  v. 用磁碟儲存、犁地"
         }
       ],
       "examples": [
         {
-          "en": "She saved the file on a disk.",
+          "en": "Back up your important files to an external disk before you upgrade your computer.",
           "highlight": [
             "disk"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在升級電腦之前，請將重要檔案備份到外接磁碟。"
+          }
+        },
+        {
+          "en": "The farmer disked the field right after the harvest to prepare the soil for the next crop.",
+          "highlight": [
+            "disked"
+          ],
+          "translations": {
+            "zh-TW": "農夫在收成後立刻犁地，為下一季作物整地。"
+          }
+        },
+        {
+          "en": "He is disking the back field this morning so the soil will be ready for planting by noon.",
+          "highlight": [
+            "disking"
+          ],
+          "translations": {
+            "zh-TW": "他今早正在後方田地犁地，這樣中午前土壤就能準備好播種。"
           }
         }
       ],
       "synonyms": [
         "disc",
-        "platter"
+        "platter",
+        "circle"
       ],
       "antonyms": [],
       "phrases": [
-        "compact",
-        "disk",
-        "magnetic",
-        "disk"
+        "compact disk",
+        "hard disk",
+        "magnetic disk",
+        "disk space"
       ]
     },
     {
@@ -205,43 +280,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "dislikeed",
-        "past_participle": "dislikeed",
-        "present_participle": "disliking",
-        "third_person": "dislikes"
+        "plural": "dislikes",
+        "present_3rd": "dislikes",
+        "past": "disliked",
+        "past_participle": "disliked",
+        "ing": "disliking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dislike",
-          "definition": "n. 嫌恶, vt. 讨厌, 不喜歡"
+          "definition": "v. 不喜歡、厭惡  n. 反感、不喜歡"
         }
       ],
       "examples": [
         {
-          "en": "She dislikes eating broccoli.",
+          "en": "Many employees dislike long commutes to the office every morning.",
           "highlight": [
             "dislike"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "許多員工不喜歡每天早上通勤到辦公室的漫長路程。"
+          }
+        },
+        {
+          "en": "He disliked the new company policy from the very first day it was announced.",
+          "highlight": [
+            "disliked"
+          ],
+          "translations": {
+            "zh-TW": "自從新政策宣布的第一天起，他就對它心生反感。"
+          }
+        },
+        {
+          "en": "She realizes that disliking a colleague is no excuse for being unprofessional.",
+          "highlight": [
+            "disliking"
+          ],
+          "translations": {
+            "zh-TW": "她明白，不喜歡一位同事並不能成為不專業的藉口。"
           }
         }
       ],
       "synonyms": [
         "hate",
-        "loathe"
+        "loathe",
+        "detest"
       ],
       "antonyms": [
         "like",
-        "love"
+        "love",
+        "adore"
       ],
       "phrases": [
-        "strongly",
-        "dislike",
-        "intense",
-        "dislike"
+        "strongly dislike",
+        "take a dislike to",
+        "likes and dislikes",
+        "intense dislike"
       ]
     },
     {
@@ -252,49 +348,66 @@
       "toeic_score_min": 200,
       "word": "dismiss",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "dismissed",
+        "present_3rd": "dismisses",
+        "past": "dismissed",
         "past_participle": "dismissed",
-        "present_participle": "dismissing",
-        "third_person": "dismisses"
+        "ing": "dismissing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dismiss",
-          "definition": "vt. 解散, 开除, 解职, vi. 解散, [计] 解散"
+          "definition": "v. 解散、打發、解僱、駁回、不予理會"
         }
       ],
       "examples": [
         {
-          "en": "The teacher dismissed the class early.",
+          "en": "The manager will dismiss the team meeting early if everyone finishes their reports.",
           "highlight": [
             "dismiss"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "如果大家都完成報告，經理會提早結束團隊會議。"
+          }
+        },
+        {
+          "en": "The judge dismissed the case due to a lack of evidence.",
+          "highlight": [
+            "dismissed"
+          ],
+          "translations": {
+            "zh-TW": "法官因證據不足而駁回了這起案件。"
+          }
+        },
+        {
+          "en": "She kept dismissing his concerns, which only made him more frustrated.",
+          "highlight": [
+            "dismissing"
+          ],
+          "translations": {
+            "zh-TW": "她不斷忽視他的疑慮，這反而讓他更加沮喪。"
           }
         }
       ],
       "synonyms": [
-        "send",
-        "away",
-        "discharge"
+        "discharge",
+        "fire",
+        "disband"
       ],
       "antonyms": [
+        "hire",
         "accept",
-        "keep"
+        "retain"
       ],
       "phrases": [
-        "dismiss",
-        "a",
-        "case",
-        "dismiss",
-        "from"
+        "dismiss a case",
+        "dismiss from job",
+        "dismiss an idea",
+        "dismiss charges"
       ]
     },
     {
@@ -309,43 +422,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "displayed",
+        "plural": "displays",
+        "present_3rd": "displays",
+        "past": "displayed",
         "past_participle": "displayed",
-        "present_participle": "displaying",
-        "third_person": "displays"
+        "ing": "displaying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "display",
-          "definition": "n. 顯示, 陈列, 炫耀, 顯示器, vt. 陈列, 顯示, 表现, 夸示, [计] 顯示器; 顯示"
+          "definition": "v. 展示、陳列、顯示  n. 展覽、展示、顯示器"
         }
       ],
       "examples": [
         {
-          "en": "They displayed their artwork at the gallery.",
+          "en": "The new store displays its latest smartphones near the entrance to attract customers.",
           "highlight": [
-            "display"
+            "displays"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新店把最新的智慧型手機陳列在入口附近，以吸引顧客。"
+          }
+        },
+        {
+          "en": "The museum displayed ancient pottery in glass cases for the special exhibition.",
+          "highlight": [
+            "displayed"
+          ],
+          "translations": {
+            "zh-TW": "博物館把古代陶器陳列在玻璃櫃裡，作為特展。"
+          }
+        },
+        {
+          "en": "The screen is displaying an error message, so we need to restart the system.",
+          "highlight": [
+            "displaying"
+          ],
+          "translations": {
+            "zh-TW": "螢幕正顯示錯誤訊息，所以我們需要重新啟動系統。"
           }
         }
       ],
       "synonyms": [
         "exhibit",
-        "show"
+        "show",
+        "present"
       ],
       "antonyms": [
         "hide",
-        "conceal"
+        "conceal",
+        "cover"
       ],
       "phrases": [
-        "public",
-        "display",
-        "impressive",
-        "display"
+        "on display",
+        "public display",
+        "display screen",
+        "window display"
       ]
     },
     {
@@ -356,48 +490,66 @@
       "toeic_score_min": 200,
       "word": "dissolve",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "dissolveed",
-        "past_participle": "dissolveed",
-        "present_participle": "dissolving",
-        "third_person": "dissolves"
+        "present_3rd": "dissolves",
+        "past": "dissolved",
+        "past_participle": "dissolved",
+        "ing": "dissolving"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dissolve",
-          "definition": "v. 溶解, 解散"
+          "definition": "v. 溶解、解除、解散、消除"
         }
       ],
       "examples": [
         {
-          "en": "The sugar dissolved in the tea.",
+          "en": "Stir the powder until it completely dissolves in the hot water.",
           "highlight": [
-            "dissolve"
+            "dissolves"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "攪拌粉末，直到它完全溶解於熱水中。"
+          }
+        },
+        {
+          "en": "The board dissolved the partnership after a year of financial disagreements.",
+          "highlight": [
+            "dissolved"
+          ],
+          "translations": {
+            "zh-TW": "經過一年的財務分歧後，董事會解散了合夥關係。"
+          }
+        },
+        {
+          "en": "The chemist is dissolving the sample in acid before running the experiment.",
+          "highlight": [
+            "dissolving"
+          ],
+          "translations": {
+            "zh-TW": "化學家正在將樣本溶於酸中，以進行實驗。"
           }
         }
       ],
       "synonyms": [
         "melt",
-        "liquefy"
+        "liquefy",
+        "disband"
       ],
       "antonyms": [
         "solidify",
-        "coagulate"
+        "coagulate",
+        "freeze"
       ],
       "phrases": [
-        "completely",
-        "dissolve",
-        "dissolve",
-        "in",
-        "water"
+        "dissolve in water",
+        "dissolve a partnership",
+        "dissolve parliament",
+        "dissolve into laughter"
       ]
     },
     {
@@ -412,43 +564,64 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "distanceed",
-        "past_participle": "distanceed",
-        "present_participle": "distancing",
-        "third_person": "distances"
+        "plural": "distances",
+        "present_3rd": "distances",
+        "past": "distanced",
+        "past_participle": "distanced",
+        "ing": "distancing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "distance",
-          "definition": "n. 距離, 远方, 遥远, [计] 位距"
+          "definition": "n. 距離、遠方、疏遠  v. 使疏遠、拉開距離"
         }
       ],
       "examples": [
         {
-          "en": "The distance between the two cities is 200 miles.",
+          "en": "The distance between the airport and the hotel is about thirty kilometers.",
           "highlight": [
             "distance"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "機場與飯店之間的距離大約三十公里。"
+          }
+        },
+        {
+          "en": "The company distanced itself from the controversial statement made by its former CEO.",
+          "highlight": [
+            "distanced"
+          ],
+          "translations": {
+            "zh-TW": "公司與前執行長發表的爭議性言論劃清界線。"
+          }
+        },
+        {
+          "en": "She is distancing herself from the project because of a conflict of interest.",
+          "highlight": [
+            "distancing"
+          ],
+          "translations": {
+            "zh-TW": "因為利益衝突，她正與這個專案保持距離。"
           }
         }
       ],
       "synonyms": [
         "gap",
-        "interval"
+        "interval",
+        "span"
       ],
       "antonyms": [
         "closeness",
-        "nearness"
+        "nearness",
+        "proximity"
       ],
       "phrases": [
-        "long",
-        "distance",
-        "travel",
-        "distance"
+        "long distance",
+        "from a distance",
+        "keep one's distance",
+        "distance learning"
       ]
     },
     {
@@ -459,48 +632,66 @@
       "toeic_score_min": 200,
       "word": "distinguish",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "distinguished",
+        "present_3rd": "distinguishes",
+        "past": "distinguished",
         "past_participle": "distinguished",
-        "present_participle": "distinguishing",
-        "third_person": "distinguishs"
+        "ing": "distinguishing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "distinguish",
-          "definition": "v. 區别, 辨别"
+          "definition": "v. 區別、辨別、使出眾、看清"
         }
       ],
       "examples": [
         {
-          "en": "He can distinguish between different musical notes.",
+          "en": "An experienced buyer can distinguish genuine leather from synthetic material at a glance.",
           "highlight": [
             "distinguish"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "有經驗的買家一眼就能分辨真皮與合成素材。"
+          }
+        },
+        {
+          "en": "The expert carefully distinguished between the two similar legal terms during the lecture.",
+          "highlight": [
+            "distinguished"
+          ],
+          "translations": {
+            "zh-TW": "專家在演講中仔細區分了兩個相似的法律術語。"
+          }
+        },
+        {
+          "en": "The quality of customer service is what distinguishes our brand from competitors.",
+          "highlight": [
+            "distinguishing"
+          ],
+          "translations": {
+            "zh-TW": "顧客服務的品質正是讓我們品牌有別於競爭對手的關鍵。"
           }
         }
       ],
       "synonyms": [
         "differentiate",
-        "discern"
+        "discern",
+        "tell apart"
       ],
       "antonyms": [
         "confuse",
-        "mix",
-        "up"
+        "mix up",
+        "conflate"
       ],
       "phrases": [
-        "distinguish",
-        "between",
-        "easily",
-        "distinguish"
+        "distinguish between",
+        "distinguish from",
+        "distinguish oneself",
+        "easily distinguish"
       ]
     }
   ]
