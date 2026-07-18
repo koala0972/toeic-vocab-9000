@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 132,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-132-001",
@@ -15,40 +15,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "fured",
-        "past_participle": "fured",
-        "present_participle": "furing",
-        "third_person": "furs"
+        "plural": "furs",
+        "present_3rd": "furs",
+        "past": "furred",
+        "past_participle": "furred",
+        "ing": "furring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "fur",
-          "definition": "n. 毛皮, vt. 以毛皮制作, 使生苔, 使生水垢, vi. 生苔, 积水垢"
+          "definition": "n. 毛皮、毛、皮草  v. 用毛皮覆蓋、使生水垢"
         }
       ],
       "examples": [
         {
-          "en": "The cat's fur is very soft.",
+          "en": "The winter coat is lined with rabbit fur to keep out the cold.",
           "highlight": [
             "fur"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這件冬衣內襯兔毛，可以禦寒。"
+          }
+        },
+        {
+          "en": "In the eighteenth century, fur was traded heavily between Europe and North America.",
+          "highlight": [
+            "furs"
+          ],
+          "translations": {
+            "zh-TW": "十八世紀時，歐洲與北美之間大量交易各種毛皮。"
+          }
+        },
+        {
+          "en": "Tea furred the inside of the kettle after years of use.",
+          "highlight": [
+            "furred"
+          ],
+          "translations": {
+            "zh-TW": "用久了之後，茶垢在水壺內側結了一層。"
           }
         }
       ],
       "synonyms": [
+        "pelt",
         "coat",
-        "pelt"
+        "hide"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "baldness"
+      ],
       "phrases": [
-        "fur",
-        "coat",
-        "fur",
-        "trade"
+        "fur coat",
+        "fur trade",
+        "fake fur",
+        "animal fur"
       ]
     },
     {
@@ -59,44 +81,59 @@
       "toeic_score_min": 200,
       "word": "furniture",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "furnitureed",
-        "past_participle": "furnitureed",
-        "present_participle": "furnituring",
-        "third_person": "furnitures"
+        "plural": "furnitures"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "furniture",
-          "definition": "n. 家具, 帆具"
+          "definition": "n. 家具、陳設、設備"
         }
       ],
       "examples": [
         {
-          "en": "They bought new furniture for the living room.",
+          "en": "The new office furniture was delivered and assembled last Tuesday.",
           "highlight": [
             "furniture"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新的辦公室家具上週二送達並組裝好了。"
+          }
+        },
+        {
+          "en": "She shopped for antique pieces of furniture for the summer cottage.",
+          "highlight": [
+            "furniture"
+          ],
+          "translations": {
+            "zh-TW": "她為夏日小屋選購了幾件古董家具。"
+          }
+        },
+        {
+          "en": "The catalog displays mahogany and oak furnitures side by side.",
+          "highlight": [
+            "furnitures"
+          ],
+          "translations": {
+            "zh-TW": "目錄上把紅木和橡木家具並排列出。"
           }
         }
       ],
       "synonyms": [
         "furnishings",
-        "fittings"
+        "fixtures",
+        "movables"
       ],
       "antonyms": [],
       "phrases": [
-        "wooden",
-        "furniture",
-        "modern",
-        "furniture"
+        "office furniture",
+        "wooden furniture",
+        "furniture store",
+        "antique furniture"
       ]
     },
     {
@@ -108,44 +145,66 @@
       "word": "further",
       "pos": [
         "adverb",
-        "adjective"
+        "adjective",
+        "verb"
       ],
       "conjugations": {
-        "comparative": "furtherer",
-        "superlative": "furtherest"
+        "present_3rd": "furthers",
+        "past": "furthered",
+        "past_participle": "furthered",
+        "ing": "furthering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "further",
-          "definition": "a. 更远的, 此外的, 更多的, vt. 促进, 增进, 助長, adv. 更进一步地, 更远地, 此外"
+          "definition": "a. 更遠的、更多的、進一步的  adv. 更遠地、進一步地  v. 促進、推進"
         }
       ],
       "examples": [
         {
-          "en": "We need to look further into the problem.",
+          "en": "We need further information before signing the contract.",
           "highlight": [
             "further"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們需要更多資訊才能簽約。"
+          }
+        },
+        {
+          "en": "The scholarship furthered her research on renewable energy.",
+          "highlight": [
+            "furthered"
+          ],
+          "translations": {
+            "zh-TW": "這筆獎學金推進了她對再生能源的研究。"
+          }
+        },
+        {
+          "en": "He walked further down the corridor, searching for the manager's office.",
+          "highlight": [
+            "further"
+          ],
+          "translations": {
+            "zh-TW": "他沿著走廊走得更遠，尋找經理辦公室。"
           }
         }
       ],
       "synonyms": [
-        "more",
-        "additional"
+        "additional",
+        "farther",
+        "more"
       ],
       "antonyms": [
-        "closer",
-        "nearer"
+        "nearer",
+        "closer"
       ],
       "phrases": [
-        "further",
-        "research",
-        "further",
-        "information"
+        "further notice",
+        "further research",
+        "further information",
+        "until further notice"
       ]
     },
     {
@@ -167,33 +226,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "future",
-          "definition": "n. 未來, 将來, a. 将來的, 未來的"
+          "definition": "n. 未來、將來、前途  a. 將來的、未來的"
         }
       ],
       "examples": [
         {
-          "en": "She is planning for the future.",
+          "en": "The HR manager discussed my future career path during the annual review.",
           "highlight": [
             "future"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "人事經理在年度評估時討論了我未來的職涯發展。"
+          }
+        },
+        {
+          "en": "Investors trade in oil futures to hedge against price fluctuations.",
+          "highlight": [
+            "futures"
+          ],
+          "translations": {
+            "zh-TW": "投資人交易石油期貨以規避價格波動。"
+          }
+        },
+        {
+          "en": "In the near future, the company plans to open branches in three more cities.",
+          "highlight": [
+            "future"
+          ],
+          "translations": {
+            "zh-TW": "不久的將來，公司計畫再開設三個城市的分公司。"
           }
         }
       ],
       "synonyms": [
-        "coming",
-        "prospective"
+        "forthcoming",
+        "prospective",
+        "coming"
       ],
       "antonyms": [
         "past",
         "present"
       ],
       "phrases": [
-        "near",
-        "future",
-        "future",
-        "plans"
+        "near future",
+        "future plans",
+        "in the future",
+        "future generations"
       ]
     },
     {
@@ -208,43 +286,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "gained",
+        "plural": "gains",
+        "present_3rd": "gains",
+        "past": "gained",
         "past_participle": "gained",
-        "present_participle": "gaining",
-        "third_person": "gains"
+        "ing": "gaining"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "gain",
-          "definition": "n. 增益, 获得, 利润, 收获, 增加, vt. 得到, 增进, 赚到, vi. 获利, 增加, [计] 增益"
+          "definition": "v. 獲得、增加、獲利  n. 增益、獲得、利潤、收益"
         }
       ],
       "examples": [
         {
-          "en": "He gained a lot of experience from that job.",
+          "en": "The new recruit hopes to gain experience in international trade.",
           "highlight": [
             "gain"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新進員工希望累積國際貿易的經驗。"
+          }
+        },
+        {
+          "en": "Sales gained momentum after the product was featured on television.",
+          "highlight": [
+            "gained"
+          ],
+          "translations": {
+            "zh-TW": "產品登上電視節目後，銷量獲得了動能。"
+          }
+        },
+        {
+          "en": "Stockholders celebrated a net gain of twelve percent this quarter.",
+          "highlight": [
+            "gain"
+          ],
+          "translations": {
+            "zh-TW": "股東慶祝本季淨收益達百分之十二。"
           }
         }
       ],
       "synonyms": [
         "acquire",
-        "obtain"
+        "obtain",
+        "earn"
       ],
       "antonyms": [
         "lose",
         "forfeit"
       ],
       "phrases": [
-        "gain",
-        "experience",
-        "gain",
-        "weight"
+        "gain experience",
+        "gain weight",
+        "net gain",
+        "gain access"
       ]
     },
     {
@@ -256,46 +354,65 @@
       "word": "game",
       "pos": [
         "noun",
-        "verb"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "gameed",
-        "past_participle": "gameed",
-        "present_participle": "gaming",
-        "third_person": "games"
+        "plural": "games",
+        "present_3rd": "games",
+        "past": "gamed",
+        "past_participle": "gamed",
+        "ing": "gaming"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "game",
-          "definition": "n. 比赛, 玩耍, 比分, 得胜, 比赛规则, 策略, 游戏, 野味, vi. 赌博, a. 勇敢的, 有胆量的, 關于野味的, 跛的, [计] 博弈; 對策"
+          "definition": "n. 遊戲、比賽、策略、獵物  a. 勇敢的、樂意的"
         }
       ],
       "examples": [
         {
-          "en": "They played a fun game.",
+          "en": "The sales team played a team-building game during the retreat.",
           "highlight": [
             "game"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "業務團隊在員工旅遊中玩了一個團隊建設遊戲。"
+          }
+        },
+        {
+          "en": "Olympic games attract thousands of tourists every four years.",
+          "highlight": [
+            "games"
+          ],
+          "translations": {
+            "zh-TW": "奧運每四年吸引成千上萬的觀光客。"
+          }
+        },
+        {
+          "en": "The online gaming industry has grown rapidly since the pandemic.",
+          "highlight": [
+            "gaming"
+          ],
+          "translations": {
+            "zh-TW": "疫情之後，線上遊戲產業快速成長。"
           }
         }
       ],
       "synonyms": [
         "contest",
-        "match"
+        "match",
+        "play"
       ],
       "antonyms": [
-        "work",
-        "task"
+        "work"
       ],
       "phrases": [
-        "board",
-        "game",
-        "video",
-        "game"
+        "board game",
+        "video game",
+        "ball game",
+        "fair game"
       ]
     },
     {
@@ -310,43 +427,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "gaped",
-        "past_participle": "gaped",
-        "present_participle": "gaping",
-        "third_person": "gaps"
+        "plural": "gaps",
+        "present_3rd": "gaps",
+        "past": "gapped",
+        "past_participle": "gapped",
+        "ing": "gapping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "gap",
-          "definition": "n. 缝隙, 缺口, 間断, 間距, 通用汇编程序, vt. 打开缺口, 造成缝隙, vi. 豁开, [计] 通用汇编程序, 图形应用程序, 間距"
+          "definition": "n. 缺口、間隙、差距、間隔  v. 豁開、使成缺口"
         }
       ],
       "examples": [
         {
-          "en": "There is a gap in the fence.",
+          "en": "There is a wide gap between entry-level and senior salaries in this industry.",
           "highlight": [
             "gap"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這個行業裡，入門級與資深人員的薪水差距很大。"
+          }
+        },
+        {
+          "en": "The bridge spans several gaps between the rocky cliffs.",
+          "highlight": [
+            "gaps"
+          ],
+          "translations": {
+            "zh-TW": "這座橋橫跨岩壁之間好幾處缺口。"
+          }
+        },
+        {
+          "en": "After college she took a gap year to volunteer in Southeast Asia.",
+          "highlight": [
+            "gap"
+          ],
+          "translations": {
+            "zh-TW": "大學畢業後，她空了一年去東南亞當志工。"
           }
         }
       ],
       "synonyms": [
         "opening",
-        "space"
+        "space",
+        "void"
       ],
       "antonyms": [
         "closure",
-        "seal"
+        "junction"
       ],
       "phrases": [
-        "gap",
-        "year",
-        "generation",
-        "gap"
+        "gap year",
+        "generation gap",
+        "bridge the gap",
+        "close the gap"
       ]
     },
     {
@@ -361,40 +498,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "garageed",
-        "past_participle": "garageed",
-        "present_participle": "garaging",
-        "third_person": "garages"
+        "plural": "garages",
+        "present_3rd": "garages",
+        "past": "garaged",
+        "past_participle": "garaged",
+        "ing": "garaging"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "garage",
-          "definition": "n. 車库, 汽車修理厂, 机库, vt. 把車送入修車場"
+          "definition": "n. 車庫、汽車修理廠  v. 將車送入車庫"
         }
       ],
       "examples": [
         {
-          "en": "The car is parked in the garage.",
+          "en": "A spacious garage adds significant value to a suburban house.",
           "highlight": [
             "garage"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "寬敞的車庫讓郊區房屋的價值大幅提升。"
+          }
+        },
+        {
+          "en": "Several mobile garages near the highway offer twenty-four-hour service.",
+          "highlight": [
+            "garages"
+          ],
+          "translations": {
+            "zh-TW": "高速公路附近有幾家流動修車廠提供二十四小時服務。"
+          }
+        },
+        {
+          "en": "He garaged the company car overnight to avoid parking fines.",
+          "highlight": [
+            "garaged"
+          ],
+          "translations": {
+            "zh-TW": "他把公司車停進車庫過夜，以免被開罰單。"
           }
         }
       ],
       "synonyms": [
         "carport",
-        "shelter"
+        "parking",
+        "workshop"
       ],
       "antonyms": [],
       "phrases": [
-        "double",
-        "garage",
-        "attached",
-        "garage"
+        "attached garage",
+        "garage sale",
+        "double garage",
+        "park in the garage"
       ]
     },
     {
@@ -405,45 +562,62 @@
       "toeic_score_min": 200,
       "word": "garbage",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "garbageed",
-        "past_participle": "garbageed",
-        "present_participle": "garbaging",
-        "third_person": "garbages"
+        "plural": "garbages"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "garbage",
-          "definition": "n. 垃圾, 废物, [计] 无用信息"
+          "definition": "n. 垃圾、廢物、無用之物"
         }
       ],
       "examples": [
         {
-          "en": "Please take out the garbage.",
+          "en": "Please separate the garbage into recyclables and general waste.",
           "highlight": [
             "garbage"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請把垃圾分成可回收和一般廢棄物。"
+          }
+        },
+        {
+          "en": "Restaurant garbages are collected twice a day in the business district.",
+          "highlight": [
+            "garbages"
+          ],
+          "translations": {
+            "zh-TW": "商業區的餐廳垃圾每日清運兩次。"
+          }
+        },
+        {
+          "en": "Don't feed garbage from the table to the family dog.",
+          "highlight": [
+            "garbage"
+          ],
+          "translations": {
+            "zh-TW": "別把餐桌上的廚餘拿來餵家裡的狗。"
           }
         }
       ],
       "synonyms": [
         "trash",
-        "waste"
+        "waste",
+        "rubbish"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "treasure",
+        "valuables"
+      ],
       "phrases": [
-        "garbage",
-        "can",
-        "take",
-        "out",
-        "the"
+        "garbage can",
+        "garbage truck",
+        "garbage disposal",
+        "take out the garbage"
       ]
     },
     {
@@ -458,40 +632,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "gardened",
+        "plural": "gardens",
+        "present_3rd": "gardens",
+        "past": "gardened",
         "past_participle": "gardened",
-        "present_participle": "gardening",
-        "third_person": "gardens"
+        "ing": "gardening"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "garden",
-          "definition": "n. 花园, 果园, 菜园, vi. 栽培花木, vt. 造园, a. 花园的, 普通的"
+          "definition": "n. 花園、菜園、果園  v. 從事園藝、栽培花木"
         }
       ],
       "examples": [
         {
-          "en": "She grows tomatoes in her garden.",
+          "en": "The hotel features a rooftop garden with herbs for the kitchen.",
           "highlight": [
             "garden"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家旅館的屋頂花園種了廚房用的香草。"
+          }
+        },
+        {
+          "en": "Botanical gardens draw many visitors every spring.",
+          "highlight": [
+            "gardens"
+          ],
+          "translations": {
+            "zh-TW": "植物園每年春天吸引很多訪客。"
+          }
+        },
+        {
+          "en": "She has been gardening since dawn, weeding the vegetable beds.",
+          "highlight": [
+            "gardening"
+          ],
+          "translations": {
+            "zh-TW": "她從天亮就開始整理花園，給菜畦除草。"
           }
         }
       ],
       "synonyms": [
         "yard",
-        "plot"
+        "plot",
+        "patch"
       ],
       "antonyms": [],
       "phrases": [
-        "flower",
-        "garden",
-        "vegetable",
-        "garden"
+        "flower garden",
+        "vegetable garden",
+        "botanical garden",
+        "roof garden"
       ]
     }
   ]
