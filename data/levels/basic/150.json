@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 150,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-150-001",
@@ -22,33 +22,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "ideal",
-          "definition": "n. 理想, 典范, 观念, 思想, 最後目标, a. 理想的, 完美的, 空想的, 观念的, 唯心论的"
+          "definition": "adj. 理想的、完美的  n. 理想、典範"
         }
       ],
       "examples": [
         {
-          "en": "He is the ideal candidate for the job.",
+          "en": "She is the ideal candidate for the marketing manager position.",
           "highlight": [
             "ideal"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她是行銷經理職位的理想人選。"
+          }
+        },
+        {
+          "en": "The company strove for the ideals of fairness and transparency in every hiring round.",
+          "highlight": [
+            "ideals"
+          ],
+          "translations": {
+            "zh-TW": "公司在每一次招募中都努力追求公平與透明這些理想。"
+          }
+        },
+        {
+          "en": "An ideal solution would balance cost savings with employee well-being.",
+          "highlight": [
+            "ideal"
+          ],
+          "translations": {
+            "zh-TW": "一個理想的解決方案會在節省成本與員工福祉之間取得平衡。"
           }
         }
       ],
       "synonyms": [
         "perfect",
-        "optimal"
+        "optimal",
+        "flawless"
       ],
       "antonyms": [
         "imperfect",
         "unsuitable"
       ],
       "phrases": [
-        "ideal",
-        "solution",
-        "ideal",
-        "candidate"
+        "ideal candidate",
+        "ideal solution",
+        "ideal location",
+        "strive for ideals"
       ]
     },
     {
@@ -59,47 +78,65 @@
       "toeic_score_min": 200,
       "word": "identify",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "identifyed",
-        "past_participle": "identifyed",
-        "present_participle": "identifying",
-        "third_person": "identifys"
+        "present_3rd": "identifies",
+        "past": "identified",
+        "past_participle": "identified",
+        "ing": "identifying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "identify",
-          "definition": "vt. 识别, 认為...等同于, 确定, 使参與, vi. 一致, 认同"
+          "definition": "v. 認出、識別、確認、認同"
         }
       ],
       "examples": [
         {
-          "en": "Can you identify the suspect?",
+          "en": "Please identify yourself before entering the secure area.",
           "highlight": [
             "identify"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在進入安全區域前確認您的身分。"
+          }
+        },
+        {
+          "en": "The auditor identified several discrepancies in the quarterly report.",
+          "highlight": [
+            "identified"
+          ],
+          "translations": {
+            "zh-TW": "稽核人員在季度報告中發現了好幾處差異。"
+          }
+        },
+        {
+          "en": "Identifying the root cause of the defect took the engineering team three full days.",
+          "highlight": [
+            "Identifying"
+          ],
+          "translations": {
+            "zh-TW": "找出缺陷的根本原因花了工程團隊整整三天的時間。"
           }
         }
       ],
       "synonyms": [
         "recognize",
-        "determine"
+        "determine",
+        "spot"
       ],
       "antonyms": [
         "misidentify",
         "confuse"
       ],
       "phrases": [
-        "identify",
-        "with",
-        "identify",
-        "as"
+        "identify with",
+        "identify as",
+        "identify the cause",
+        "identify yourself"
       ]
     },
     {
@@ -110,47 +147,60 @@
       "toeic_score_min": 200,
       "word": "identity",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "identityed",
-        "past_participle": "identityed",
-        "present_participle": "identitying",
-        "third_person": "identitys"
+        "plural": "identities"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "identity",
-          "definition": "n. 身份, 相同, 一致, 特性, 恒等式, [计] (打)标記, 标识"
+          "definition": "n. 身分、認同、特性"
         }
       ],
       "examples": [
         {
-          "en": "She struggled with her identity.",
+          "en": "Please keep your identity card ready for inspection at the security gate.",
           "highlight": [
             "identity"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請備妥您的身分證，以便在安檢門接受查驗。"
+          }
+        },
+        {
+          "en": "The firm protects the identities of all whistle-blowers under its confidentiality policy.",
+          "highlight": [
+            "identities"
+          ],
+          "translations": {
+            "zh-TW": "依據保密政策，公司保護所有吹哨者的身分。"
+          }
+        },
+        {
+          "en": "A strong corporate identity helps customers remember the brand.",
+          "highlight": [
+            "identity"
+          ],
+          "translations": {
+            "zh-TW": "強烈的企業認同感有助於顧客記住這個品牌。"
           }
         }
       ],
       "synonyms": [
-        "name",
-        "identification"
+        "identification",
+        "individuality"
       ],
       "antonyms": [
         "anonymity"
       ],
       "phrases": [
-        "national",
-        "identity",
-        "sense",
-        "of",
-        "identity"
+        "identity card",
+        "national identity",
+        "sense of identity",
+        " corporate identity"
       ]
     },
     {
@@ -169,32 +219,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "if",
-          "definition": "conj. 如果, 是否, 无论何時, 假设, 即使, n. 条件, [计] DOS批處理命令:根据所测试的条件决定是否执行另一条命令"
+          "definition": "conj. 如果、是否、即使"
         }
       ],
       "examples": [
         {
-          "en": "If it rains, we will stay indoors.",
+          "en": "If the shipment arrives late, we will notify every customer by email.",
+          "highlight": [
+            "If"
+          ],
+          "translations": {
+            "zh-TW": "如果貨物晚到，我們會用電子郵件通知每位顧客。"
+          }
+        },
+        {
+          "en": "The manager asked if anyone had reviewed the contract before signing.",
           "highlight": [
             "if"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理詢問是否有人在簽約前審閱過合約。"
+          }
+        },
+        {
+          "en": "Even if the budget is tight, training should remain a priority.",
+          "highlight": [
+            "if"
+          ],
+          "translations": {
+            "zh-TW": "即使預算吃緊，培訓仍應是優先事項。"
           }
         }
       ],
       "synonyms": [
-        "in",
-        "case",
+        "whether",
         "provided",
-        "that"
+        "supposing"
       ],
       "antonyms": [],
       "phrases": [
-        "if",
-        "only",
-        "if",
-        "possible"
+        "if only",
+        "even if",
+        "as if",
+        "if necessary"
       ]
     },
     {
@@ -205,48 +272,65 @@
       "toeic_score_min": 200,
       "word": "ignore",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "ignoreed",
-        "past_participle": "ignoreed",
-        "present_participle": "ignoring",
-        "third_person": "ignores"
+        "present_3rd": "ignores",
+        "past": "ignored",
+        "past_participle": "ignored",
+        "ing": "ignoring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "ignore",
-          "definition": "vt. 不理睬, 忽视, 驳回, 忽略, [计] 忽略"
+          "definition": "v. 忽視、不理睬、忽略"
         }
       ],
       "examples": [
         {
-          "en": "He ignored the warning signs.",
+          "en": "A good leader never ignores feedback from frontline staff.",
           "highlight": [
-            "ignore"
+            "ignores"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "優秀的領導者絕不忽視基層員工的回饋。"
+          }
+        },
+        {
+          "en": "He ignored the warning label and injured his hand on the machine.",
+          "highlight": [
+            "ignored"
+          ],
+          "translations": {
+            "zh-TW": "他無視警告標籤，結果手被機器弄傷了。"
+          }
+        },
+        {
+          "en": "Ignoring minor complaints can turn into a serious PR crisis later.",
+          "highlight": [
+            "Ignoring"
+          ],
+          "translations": {
+            "zh-TW": "忽視微小的投訴，日後可能演變成嚴重的公關危機。"
           }
         }
       ],
       "synonyms": [
         "disregard",
-        "neglect"
+        "neglect",
+        "overlook"
       ],
       "antonyms": [
         "acknowledge",
         "notice"
       ],
       "phrases": [
-        "ignore",
-        "the",
-        "fact",
-        "cannot",
-        "ignore"
+        "ignore the warning",
+        "ignore advice",
+        "ignore the rules",
+        "cannot ignore"
       ]
     },
     {
@@ -268,33 +352,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "ill",
-          "definition": "n. 疾病, 坏事, 罪恶, 灾難, a. 生病的, 邪恶的, 不吉利的, 敌意的, 不良的, 不顺利的, adv. 有害地, 不幸地, 几乎不"
+          "definition": "adj. 生病的、不良的  n. 疾病、不幸的事"
         }
       ],
       "examples": [
         {
-          "en": "She is ill with the flu.",
+          "en": "She felt too ill to attend the board meeting this morning.",
           "highlight": [
             "ill"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她今天早上覺得身體太不舒服，無法出席董事會議。"
+          }
+        },
+        {
+          "en": "The factory closing brought many ills to the small town's economy.",
+          "highlight": [
+            "ills"
+          ],
+          "translations": {
+            "zh-TW": "工廠關閉為這個小鎮的經濟帶來許多不幸的後果。"
+          }
+        },
+        {
+          "en": "An ill-timed product launch can damage a brand for years.",
+          "highlight": [
+            "ill"
+          ],
+          "translations": {
+            "zh-TW": "時機不當的產品發表會可能讓品牌受損多年。"
           }
         }
       ],
       "synonyms": [
         "sick",
-        "unwell"
+        "unwell",
+        "ailing"
       ],
       "antonyms": [
         "healthy",
         "well"
       ],
       "phrases": [
-        "seriously",
-        "ill",
-        "terminally",
-        "ill"
+        "seriously ill",
+        "terminally ill",
+        "ill-timed",
+        "ill effects"
       ]
     },
     {
@@ -305,8 +408,7 @@
       "toeic_score_min": 200,
       "word": "illegal",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
         "plural": "illegals"
@@ -316,33 +418,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "illegal",
-          "definition": "a. 违法的, 不合规定的, [經] 非法的, 犯规的"
+          "definition": "adj. 非法的、違法的、不合規定的"
         }
       ],
       "examples": [
         {
-          "en": "It's illegal to park here.",
+          "en": "It is illegal to download copyrighted material without permission.",
           "highlight": [
             "illegal"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "未經許可下載受版權保護的素材是違法的。"
+          }
+        },
+        {
+          "en": "The court ruled that several illegals seized at the border had to be returned to their owners.",
+          "highlight": [
+            "illegals"
+          ],
+          "translations": {
+            "zh-TW": "法院裁定，在邊境查獲的幾件違禁品必須歸還原主。"
+          }
+        },
+        {
+          "en": "Companies engaged in illegal practices can face heavy fines and reputation loss.",
+          "highlight": [
+            "illegal"
+          ],
+          "translations": {
+            "zh-TW": "涉及非法行為的公司可能面臨高額罰款與聲譽受損。"
           }
         }
       ],
       "synonyms": [
         "unlawful",
-        "illicit"
+        "illicit",
+        "prohibited"
       ],
       "antonyms": [
         "legal",
         "lawful"
       ],
       "phrases": [
-        "illegal",
-        "activity",
-        "illegal",
-        "drugs"
+        "illegal activity",
+        "illegal drugs",
+        "illegal practices",
+        "illegal parking"
       ]
     },
     {
@@ -353,47 +474,62 @@
       "toeic_score_min": 200,
       "word": "illness",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "illnessed",
-        "past_participle": "illnessed",
-        "present_participle": "illnessing",
-        "third_person": "illnesses"
+        "plural": "illnesses"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "illness",
-          "definition": "n. 疾病, 恶意, [医] 病"
+          "definition": "n. 疾病、生病、病症"
         }
       ],
       "examples": [
         {
-          "en": "The illness kept him bedridden for weeks.",
+          "en": "A sudden illness forced him to cancel the business trip to Osaka.",
           "highlight": [
             "illness"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "一場突如其來的疾病迫使他取消了去大阪的出差。"
+          }
+        },
+        {
+          "en": "Chronic illnesses such as diabetes require long-term medical care.",
+          "highlight": [
+            "illnesses"
+          ],
+          "translations": {
+            "zh-TW": "糖尿病等慢性疾病需要長期的醫療照護。"
+          }
+        },
+        {
+          "en": "The HR policy grants paid leave for illness lasting more than three days.",
+          "highlight": [
+            "illness"
+          ],
+          "translations": {
+            "zh-TW": "人資政策規定，病假超過三天即可享有支薪休假。"
           }
         }
       ],
       "synonyms": [
         "disease",
-        "sickness"
+        "sickness",
+        "ailment"
       ],
       "antonyms": [
         "health",
         "wellness"
       ],
       "phrases": [
-        "serious",
-        "illness",
-        "mental",
-        "illness"
+        "serious illness",
+        "mental illness",
+        "chronic illness",
+        "suffer from illness"
       ]
     },
     {
@@ -404,47 +540,65 @@
       "toeic_score_min": 200,
       "word": "illustrate",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "illustrateed",
-        "past_participle": "illustrateed",
-        "present_participle": "illustrating",
-        "third_person": "illustrates"
+        "present_3rd": "illustrates",
+        "past": "illustrated",
+        "past_participle": "illustrated",
+        "ing": "illustrating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "illustrate",
-          "definition": "vt. 举例說明, 作图解, 阐明, vi. 举例說明"
+          "definition": "v. 舉例說明、圖解、闡明"
         }
       ],
       "examples": [
         {
-          "en": "The teacher illustrated the concept with a diagram.",
+          "en": "The instructor will illustrate the new workflow with a short diagram.",
           "highlight": [
             "illustrate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "講師將用一張簡短的圖表來說明新的工作流程。"
+          }
+        },
+        {
+          "en": "She illustrated her point with three recent case studies from the banking sector.",
+          "highlight": [
+            "illustrated"
+          ],
+          "translations": {
+            "zh-TW": "她用銀行業三個近期的案例來佐證自己的論點。"
+          }
+        },
+        {
+          "en": "Illustrating complex data with charts makes the report easier for clients to digest.",
+          "highlight": [
+            "Illustrating"
+          ],
+          "translations": {
+            "zh-TW": "用圖表呈現複雜的資料，能讓客戶更容易消化報告內容。"
           }
         }
       ],
       "synonyms": [
         "explain",
-        "demonstrate"
+        "demonstrate",
+        "clarify"
       ],
       "antonyms": [
         "obscure",
         "confuse"
       ],
       "phrases": [
-        "illustrate",
-        "with",
-        "clearly",
-        "illustrate"
+        "illustrate with",
+        "clearly illustrate",
+        "illustrate a point",
+        "illustrate by example"
       ]
     },
     {
@@ -459,42 +613,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "imageed",
-        "past_participle": "imageed",
-        "present_participle": "imaging",
-        "third_person": "images"
+        "plural": "images",
+        "present_3rd": "images",
+        "past": "imaged",
+        "past_participle": "imaged",
+        "ing": "imaging"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "image",
-          "definition": "n. 影像, 肖像, 想象, 图像, 形象, 翻版, vt. 作...的像, 反映, 想象, 象征, n. 图像, [计] 图象"
+          "definition": "n. 影像、形象、圖像  v. 想像、描繪"
         }
       ],
       "examples": [
         {
-          "en": "The artist created a beautiful image.",
+          "en": "A positive brand image attracts more loyal customers over time.",
           "highlight": [
             "image"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "正面的品牌形象久而久之會吸引更多忠實顧客。"
+          }
+        },
+        {
+          "en": "The website loads product images slowly, which frustrates online shoppers.",
+          "highlight": [
+            "images"
+          ],
+          "translations": {
+            "zh-TW": "這個網站載入產品圖片的速度很慢，讓線上消費者感到挫折。"
+          }
+        },
+        {
+          "en": "The marketing team spent weeks imaging how the new logo would appear on storefronts.",
+          "highlight": [
+            "imaging"
+          ],
+          "translations": {
+            "zh-TW": "行銷團隊花了數週構思新商標會如何呈現在店面外觀上。"
           }
         }
       ],
       "synonyms": [
         "picture",
-        "likeness"
+        "likeness",
+        "portrait"
       ],
       "antonyms": [
         "reality"
       ],
       "phrases": [
-        "mental",
-        "image",
-        "positive",
-        "image"
+        "brand image",
+        "mental image",
+        "image processing",
+        "public image"
       ]
     }
   ]
