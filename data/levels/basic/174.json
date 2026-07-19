@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 174,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-174-001",
@@ -11,44 +11,62 @@
       "toeic_score_min": 200,
       "word": "lonely",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "lonelies"
+        "comparative": "lonelier",
+        "superlative": "loneliest"
       },
-      "domain": "general",
+      "domain": "emotion",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "lonely",
-          "definition": "a. 孤单的, 孤寂的, 荒凉的"
+          "definition": "a. 孤獨的、寂寞的、荒涼的"
         }
       ],
       "examples": [
         {
-          "en": "She felt lonely after moving to a new city.",
+          "en": "After her husband passed away, she felt lonely in the big house.",
           "highlight": [
             "lonely"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "丈夫過世後，她在大房子裡感到孤獨。"
+          }
+        },
+        {
+          "en": "The winter nights in the cabin felt even lonelier than the summer ones.",
+          "highlight": [
+            "lonelier"
+          ],
+          "translations": {
+            "zh-TW": "小木屋裡的冬夜比夏夜更顯寂寞。"
+          }
+        },
+        {
+          "en": "He drove down the loneliest highway in the country, with no other car in sight for miles.",
+          "highlight": [
+            "loneliest"
+          ],
+          "translations": {
+            "zh-TW": "他駛上全國最荒涼的公路，數英里內不見其他車輛。"
           }
         }
       ],
       "synonyms": [
         "isolated",
-        "lonesome"
+        "lonesome",
+        "solitary"
       ],
       "antonyms": [
         "sociable",
-        "outgoing"
+        "accompanied"
       ],
       "phrases": [
-        "feel",
-        "lonely",
-        "lonely",
-        "place"
+        "feel lonely",
+        "lonely place",
+        "lonely heart"
       ]
     },
     {
@@ -60,46 +78,69 @@
       "word": "long",
       "pos": [
         "adjective",
-        "verb"
+        "verb",
+        "adverb"
       ],
       "conjugations": {
-        "past_tense": "longed",
+        "plural": "longs",
+        "present_3rd": "longs",
+        "past": "longed",
         "past_participle": "longed",
-        "present_participle": "longing",
-        "third_person": "longs"
+        "ing": "longing",
+        "comparative": "longer",
+        "superlative": "longest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "long",
-          "definition": "a. 長的, 長久的, 冗長的, 做多頭的, vi. 渴望, 热望, 极想, adv. 長久, 始终, n. 長時間, 長信號, 長整型, [计] 長, 長整型"
+          "definition": "a. 長的、長久的  v. 渴望  adv. 長久地"
         }
       ],
       "examples": [
         {
-          "en": "They took a long walk.",
+          "en": "The meeting lasted a long time and everyone was exhausted by the end.",
           "highlight": [
             "long"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "會議持續了很長的時間，到最後每個人都精疲力竭。"
+          }
+        },
+        {
+          "en": "She longed to see her family again after working abroad for three years.",
+          "highlight": [
+            "longed"
+          ],
+          "translations": {
+            "zh-TW": "在國外工作三年後，她渴望再次見到家人。"
+          }
+        },
+        {
+          "en": "He sat by the window, longing for a letter from his old friend.",
+          "highlight": [
+            "longing"
+          ],
+          "translations": {
+            "zh-TW": "他坐在窗邊，期盼著老友的來信。"
           }
         }
       ],
       "synonyms": [
         "lengthy",
-        "extended"
+        "extended",
+        "yearn"
       ],
       "antonyms": [
         "short",
         "brief"
       ],
       "phrases": [
-        "long",
-        "walk",
-        "long",
-        "time"
+        "long time",
+        "long walk",
+        "long for",
+        "as long as"
       ]
     },
     {
@@ -114,43 +155,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "looked",
+        "plural": "looks",
+        "present_3rd": "looks",
+        "past": "looked",
         "past_participle": "looked",
-        "present_participle": "looking",
-        "third_person": "looks"
+        "ing": "looking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "look",
-          "definition": "n. 一看, 神色, 樣子, 面容, vi. 看, 注意, 朝着, 顯得, vt. 打量, 看上去與...一樣, 以眼色(或脸色)顯示, 期待"
+          "definition": "v. 看、注視、看起來  n. 一看、神色、外表"
         }
       ],
       "examples": [
         {
-          "en": "Look at the sky.",
+          "en": "Please look at the contract carefully before you sign it.",
           "highlight": [
             "look"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在簽約前仔細看一下合約。"
+          }
+        },
+        {
+          "en": "She looked at the report again and found a small error in the numbers.",
+          "highlight": [
+            "looked"
+          ],
+          "translations": {
+            "zh-TW": "她再次查看報告，發現數字中有個小錯誤。"
+          }
+        },
+        {
+          "en": "Looking back on the project, the team realized they should have started earlier.",
+          "highlight": [
+            "looking"
+          ],
+          "translations": {
+            "zh-TW": "回顧這個專案，團隊意識到他們應該更早開始。"
           }
         }
       ],
       "synonyms": [
         "gaze",
-        "glance"
+        "glance",
+        "stare"
       ],
       "antonyms": [
         "ignore",
         "overlook"
       ],
       "phrases": [
-        "look",
-        "at",
-        "look",
-        "for"
+        "look at",
+        "look for",
+        "look forward to",
+        "look up"
       ]
     },
     {
@@ -162,43 +223,68 @@
       "word": "loose",
       "pos": [
         "adjective",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "looses"
+        "plural": "looses",
+        "present_3rd": "looses",
+        "past": "loosed",
+        "past_participle": "loosed",
+        "ing": "loosing",
+        "comparative": "looser",
+        "superlative": "loosest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "loose",
-          "definition": "n. 發射, 放任, 放纵, a. 宽松的, 松的, 宽的, 不牢固的, 散漫的, 自由的, 不精确的, vt. 释放, 放枪, 开船, vi. 变松, 开火, adv. 松散地"
+          "definition": "a. 鬆的、不牢固的、散漫的  v. 鬆開、釋放"
         }
       ],
       "examples": [
         {
-          "en": "The handle is loose.",
+          "en": "A loose wire caused the machine to stop working in the middle of the shift.",
           "highlight": [
             "loose"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "一條鬆脫的電線導致機器在班次進行中停止運轉。"
+          }
+        },
+        {
+          "en": "The mechanic loosed the bolts carefully before removing the old engine part.",
+          "highlight": [
+            "loosed"
+          ],
+          "translations": {
+            "zh-TW": "技師小心翼翼地扭鬆螺栓，才拆下舊的引擎零件。"
+          }
+        },
+        {
+          "en": "After eating too much, his belt felt looser than it had that morning.",
+          "highlight": [
+            "looser"
+          ],
+          "translations": {
+            "zh-TW": "吃得太飽後，他的皮帶感覺比早上鬆了些。"
           }
         }
       ],
       "synonyms": [
-        "unstable",
-        "slack"
+        "slack",
+        "unfastened",
+        "unsecured"
       ],
       "antonyms": [
         "tight",
         "secure"
       ],
       "phrases": [
-        "loose",
-        "connection",
-        "loose",
-        "fitting"
+        "loose connection",
+        "loose fitting",
+        "loose change",
+        "set loose"
       ]
     },
     {
@@ -213,44 +299,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "lorded",
+        "plural": "lords",
+        "present_3rd": "lords",
+        "past": "lorded",
         "past_participle": "lorded",
-        "present_participle": "lording",
-        "third_person": "lords"
+        "ing": "lording"
       },
-      "domain": "general",
+      "domain": "society",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "lord",
-          "definition": "n. 统治者, 阁下, 上帝, vi. 称王, 作威作福, vt. 使成贵族"
+          "definition": "n. 領主、貴族、閣下  v. 稱霸、作威作福"
         }
       ],
       "examples": [
         {
-          "en": "The lord of the manor lived in a grand house.",
+          "en": "The lord of the manor welcomed the new tenants to the estate.",
           "highlight": [
             "lord"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "莊園領主歡迎新租戶來到這片土地。"
+          }
+        },
+        {
+          "en": "In the old days, powerful lords controlled much of the land and the people on it.",
+          "highlight": [
+            "lords"
+          ],
+          "translations": {
+            "zh-TW": "古時候，權勢顯赫的領主掌控了大部分的土地與其上的百姓。"
+          }
+        },
+        {
+          "en": "He lorded over his staff as if the small office were his own kingdom.",
+          "highlight": [
+            "lorded"
+          ],
+          "translations": {
+            "zh-TW": "他對下屬作威作福，彷彿這間小辦公室就是他的王國。"
           }
         }
       ],
       "synonyms": [
         "master",
-        "ruler"
+        "ruler",
+        "nobleman"
       ],
       "antonyms": [
         "servant",
-        "follower"
+        "subject"
       ],
       "phrases": [
-        "lord",
-        "and",
-        "lady",
-        "lord",
-        "of"
+        "lord and lady",
+        "lord of the manor",
+        "lord it over"
       ]
     },
     {
@@ -261,47 +365,66 @@
       "toeic_score_min": 200,
       "word": "lose",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "loseed",
-        "past_participle": "loseed",
-        "present_participle": "losing",
-        "third_person": "loses"
+        "present_3rd": "loses",
+        "past": "lost",
+        "past_participle": "lost",
+        "ing": "losing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "lose",
-          "definition": "vt. 遗失, 损失, 丢失, 使失去, 錯過, 浪费, 迷失, 使迷路, 输去, 使沉溺于, vi. 受损失, 失败"
+          "definition": "v. 遺失、輸掉、失去、浪費"
         }
       ],
       "examples": [
         {
-          "en": "He tends to lose his keys.",
+          "en": "If you lose your train ticket, you will have to buy a new one at full price.",
           "highlight": [
             "lose"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "如果你弄丟了火車票，就得全額購買新的票。"
+          }
+        },
+        {
+          "en": "The team lost the match by only two points, leaving the coach very disappointed.",
+          "highlight": [
+            "lost"
+          ],
+          "translations": {
+            "zh-TW": "球隊僅以兩分之差輸掉比賽，令教練非常失望。"
+          }
+        },
+        {
+          "en": "Our company is losing money on this product, so we may stop making it next year.",
+          "highlight": [
+            "losing"
+          ],
+          "translations": {
+            "zh-TW": "我們公司在這項產品上虧錢，明年可能會停止生產。"
           }
         }
       ],
       "synonyms": [
         "misplace",
-        "forfeit"
+        "forfeit",
+        "fail"
       ],
       "antonyms": [
         "find",
-        "win"
+        "win",
+        "gain"
       ],
       "phrases": [
-        "lose",
-        "keys",
-        "lose",
-        "weight"
+        "lose weight",
+        "lose money",
+        "lose temper",
+        "lose track"
       ]
     },
     {
@@ -312,47 +435,63 @@
       "toeic_score_min": 200,
       "word": "loss",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "lossed",
-        "past_participle": "lossed",
-        "present_participle": "lossing",
-        "third_person": "losses"
+        "plural": "losses"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "loss",
-          "definition": "n. 损失, 遗失, 失败, 输, 錯過, 伤亡, [化] 损失; 损耗"
+          "definition": "n. 損失、遺失、虧損、失敗"
         }
       ],
       "examples": [
         {
-          "en": "The company suffered a loss last year.",
+          "en": "The company reported a heavy loss for the third quarter in a row.",
           "highlight": [
             "loss"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "該公司連續第三季公布嚴重虧損。"
+          }
+        },
+        {
+          "en": "The insurance company covered the losses caused by the sudden flood.",
+          "highlight": [
+            "losses"
+          ],
+          "translations": {
+            "zh-TW": "保險公司理賠了因突如其來的洪水所造成的損失。"
+          }
+        },
+        {
+          "en": "Cutting these small but steady losses will help the business turn a profit next year.",
+          "highlight": [
+            "losses"
+          ],
+          "translations": {
+            "zh-TW": "減少這些雖小卻持續的虧損，將有助於公司明年轉虧為盈。"
           }
         }
       ],
       "synonyms": [
         "defeat",
-        "failure"
+        "failure",
+        "deprivation"
       ],
       "antonyms": [
         "gain",
+        "profit",
         "success"
       ],
       "phrases": [
-        "financial",
-        "loss",
-        "loss",
-        "of"
+        "financial loss",
+        "loss of",
+        "at a loss",
+        "weight loss"
       ]
     },
     {
@@ -366,44 +505,58 @@
         "adjective",
         "verb"
       ],
-      "conjugations": {
-        "past_tense": "losted",
-        "past_participle": "losted",
-        "present_participle": "losting",
-        "third_person": "losts"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "lost",
-          "definition": "a. 失去的, 遗失的, 迷惑的, lose的過去式和過去分词"
+          "definition": "a. 迷路的、失去的、不知所措的  v. lose 的過去式與過去分詞"
         }
       ],
       "examples": [
         {
-          "en": "He felt lost in the new city.",
+          "en": "The new employee felt lost during his first week because no one trained him.",
           "highlight": [
             "lost"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新員工第一週感到不知所措，因為沒有人培訓他。"
+          }
+        },
+        {
+          "en": "We lost our way in the old town and had to ask a shopkeeper for directions.",
+          "highlight": [
+            "lost"
+          ],
+          "translations": {
+            "zh-TW": "我們在老城區迷了路，只好向一位店主問路。"
+          }
+        },
+        {
+          "en": "She has lost the keys to the office, so the security team will have to change the lock.",
+          "highlight": [
+            "lost"
+          ],
+          "translations": {
+            "zh-TW": "她弄丟了辦公室的鑰匙，因此安全小組得更換鎖頭。"
           }
         }
       ],
       "synonyms": [
         "misplaced",
-        "missing"
+        "missing",
+        "strayed"
       ],
       "antonyms": [
         "found",
         "located"
       ],
       "phrases": [
-        "feel",
-        "lost",
-        "get",
-        "lost"
+        "feel lost",
+        "get lost",
+        "lost cause",
+        "lost and found"
       ]
     },
     {
@@ -425,34 +578,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "lot",
-          "definition": "n. 運气, 签, 抽签, 份额, 许多, 一堆, vt. 划分, vi. 抽签, 抓阄"
+          "definition": "n. 許多、一批、停車場、命運  adv. 很多"
         }
       ],
       "examples": [
         {
-          "en": "She bought a lot of books.",
+          "en": "She learned a lot from the training program and applied it to her daily work.",
           "highlight": [
             "lot"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她從培訓課程中學到很多，並將其運用於日常工作。"
+          }
+        },
+        {
+          "en": "There are lots of opportunities for young engineers in this growing market.",
+          "highlight": [
+            "lots"
+          ],
+          "translations": {
+            "zh-TW": "這個不斷成長的市場為年輕工程師提供了大量機會。"
+          }
+        },
+        {
+          "en": "The new parking lot behind the building can hold over two hundred cars.",
+          "highlight": [
+            "lot"
+          ],
+          "translations": {
+            "zh-TW": "大樓後方的新停車場可容納超過兩百輛車。"
           }
         }
       ],
       "synonyms": [
         "many",
-        "bunch"
+        "plenty",
+        "batch"
       ],
       "antonyms": [
         "few",
         "little"
       ],
       "phrases": [
-        "a",
-        "lot",
-        "of",
-        "lots",
-        "of"
+        "a lot of",
+        "lots of",
+        "parking lot",
+        "a lot"
       ]
     },
     {
@@ -464,43 +635,64 @@
       "word": "loud",
       "pos": [
         "adjective",
-        "noun"
+        "adverb"
       ],
       "conjugations": {
-        "plural": "louds"
+        "comparative": "louder",
+        "superlative": "loudest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "loud",
-          "definition": "a. 大声的, 不断的, 喧吵的, adv. 高声地, 大声地"
+          "definition": "a. 大聲的、吵鬧的  adv. 大聲地"
         }
       ],
       "examples": [
         {
-          "en": "The music was too loud.",
+          "en": "The loud music from the next room made it hard to focus on the report.",
           "highlight": [
             "loud"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "隔壁房間大聲的音樂讓人難以專心寫報告。"
+          }
+        },
+        {
+          "en": "Could you speak a little louder so the people in the back row can hear you?",
+          "highlight": [
+            "louder"
+          ],
+          "translations": {
+            "zh-TW": "可以請你說得更大聲一點嗎，這樣後排的人才聽得到。"
+          }
+        },
+        {
+          "en": "He has the loudest laugh in the whole office; everyone knows when he is amused.",
+          "highlight": [
+            "loudest"
+          ],
+          "translations": {
+            "zh-TW": "他的笑聲是整間辦公室裡最大的；他一被逗樂，每個人都知道。"
           }
         }
       ],
       "synonyms": [
         "noisy",
+        "booming",
         "thunderous"
       ],
       "antonyms": [
         "quiet",
-        "soft"
+        "soft",
+        "silent"
       ],
       "phrases": [
-        "loud",
-        "noise",
-        "loud",
-        "music"
+        "loud noise",
+        "loud music",
+        "loud voice",
+        "out loud"
       ]
     }
   ]
