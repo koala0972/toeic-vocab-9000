@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 168,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-168-001",
@@ -15,44 +15,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "launched",
+        "present_3rd": "launches",
+        "past": "launched",
         "past_participle": "launched",
-        "present_participle": "launching",
-        "third_person": "launchs"
+        "ing": "launching"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "launch",
-          "definition": "n. 下水, 汽艇, 發射, vt. 使下水, 發射, 發動, vi. 起飞, 下水, 投入, 开始"
+          "definition": "v. 發表、推出（產品）、發射、開辦  n. 發表會、發射、啟動"
         }
       ],
       "examples": [
         {
-          "en": "They will launch the new product next month.",
+          "en": "The company will launch its flagship smartphone in Tokyo next March.",
           "highlight": [
             "launch"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家公司明年三月將在東京發表旗艦智慧型手機。"
+          }
+        },
+        {
+          "en": "The marketing team launched the campaign across thirty countries last summer.",
+          "highlight": [
+            "launched"
+          ],
+          "translations": {
+            "zh-TW": "行銷團隊去年夏天橫跨三十個國家推出該活動。"
+          }
+        },
+        {
+          "en": "Engineers are currently launching a third satellite to expand broadband coverage.",
+          "highlight": [
+            "launching"
+          ],
+          "translations": {
+            "zh-TW": "工程師目前正在發射第三顆衛星，以擴大寬頻涵蓋範圍。"
           }
         }
       ],
       "synonyms": [
         "initiate",
-        "commence"
+        "commence",
+        "start"
       ],
       "antonyms": [
         "halt",
-        "stop"
+        "stop",
+        "cancel"
       ],
       "phrases": [
-        "launch",
-        "a",
-        "campaign",
-        "product",
-        "launch"
+        "launch a product",
+        "product launch",
+        "launch a campaign",
+        "soft launch"
       ]
     },
     {
@@ -67,44 +86,64 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "lawed",
+        "plural": "laws",
+        "present_3rd": "laws",
+        "past": "lawed",
         "past_participle": "lawed",
-        "present_participle": "lawing",
-        "third_person": "laws"
+        "ing": "lawing"
       },
-      "domain": "general",
+      "domain": "legal",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "law",
-          "definition": "n. 法律, 法则, 定律, 法律的制约, 法学, 司法界, 诉讼, v. 起诉"
+          "definition": "n. 法律、法規、法則  v. 起訴、訴諸法律"
         }
       ],
       "examples": [
         {
-          "en": "Everyone must obey the law.",
+          "en": "Every employee must comply with the new privacy law before April.",
           "highlight": [
             "law"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "每位員工必須在四月前遵守新的隱私法規。"
+          }
+        },
+        {
+          "en": "Several tax laws were revised last quarter to attract foreign investors.",
+          "highlight": [
+            "laws"
+          ],
+          "translations": {
+            "zh-TW": "上季有幾項稅法被修正，以吸引外國投資人。"
+          }
+        },
+        {
+          "en": "The council is now lawing a measure to cut carbon emissions by 2030.",
+          "highlight": [
+            "lawing"
+          ],
+          "translations": {
+            "zh-TW": "市議會正在將一項 2030 年減碳措施立法。"
           }
         }
       ],
       "synonyms": [
         "rule",
-        "regulation"
+        "regulation",
+        "statute"
       ],
       "antonyms": [
         "disorder",
-        "anarchy"
+        "anarchy",
+        "lawlessness"
       ],
       "phrases": [
-        "break",
-        "the",
-        "law",
-        "law",
-        "and"
+        "break the law",
+        "by law",
+        "law firm",
+        "law and order"
       ]
     },
     {
@@ -119,40 +158,61 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "lawyered",
+        "plural": "lawyers",
+        "present_3rd": "lawyers",
+        "past": "lawyered",
         "past_participle": "lawyered",
-        "present_participle": "lawyering",
-        "third_person": "lawyers"
+        "ing": "lawyering"
       },
-      "domain": "general",
+      "domain": "legal",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "lawyer",
-          "definition": "n. 律師, [經] 律師"
+          "definition": "n. 律師  v. 以律師身分執業、辯護"
         }
       ],
       "examples": [
         {
-          "en": "She is studying to become a lawyer.",
+          "en": "The lawyer drafted the partnership agreement before the deadline.",
           "highlight": [
             "lawyer"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "律師在期限前擬好了合夥協議書。"
+          }
+        },
+        {
+          "en": "Three corporate lawyers handled the merger paperwork with the foreign subsidiary.",
+          "highlight": [
+            "lawyers"
+          ],
+          "translations": {
+            "zh-TW": "三位企業律師負責與外國子公司之間的併購文件。"
+          }
+        },
+        {
+          "en": "She has lawyered for major banks in Hong Kong for over twenty years.",
+          "hint": "",
+          "highlight": [
+            "lawyered"
+          ],
+          "translations": {
+            "zh-TW": "她已在香港為大型銀行擔任律師超過二十年。"
           }
         }
       ],
       "synonyms": [
         "attorney",
-        "solicitor"
+        "solicitor",
+        "counsel"
       ],
       "antonyms": [],
       "phrases": [
-        "criminal",
-        "lawyer",
-        "corporate",
-        "lawyer"
+        "corporate lawyer",
+        "defendant's lawyer",
+        "lawyer up",
+        "hire a lawyer"
       ]
     },
     {
@@ -167,43 +227,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "layed",
-        "past_participle": "layed",
-        "present_participle": "laying",
-        "third_person": "lays"
+        "present_3rd": "lays",
+        "past": "laid",
+        "past_participle": "laid",
+        "ing": "laying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "lay",
-          "definition": "vt. 放置, 产, 铺设, 布置, 提出, 平息, vi. 下蛋, 打赌, n. 位置, 层, 隐藏處, a. 世俗的, 外行的, lie的過去式"
+          "definition": "v. 放置、安放、鋪設、產卵  n. 位置、層"
         }
       ],
       "examples": [
         {
-          "en": "He lay down on the bed.",
+          "en": "Supervisors will lay the new procedure before the board meeting.",
           "highlight": [
             "lay"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "主管將在董事會議前提出新的作業程序。"
+          }
+        },
+        {
+          "en": "Construction crews laid the foundation for the warehouse last October.",
+          "highlight": [
+            "laid"
+          ],
+          "translations": {
+            "zh-TW": "施工團隊去年十月為倉庫打好了地基。"
+          }
+        },
+        {
+          "en": "Many retailers are now laying off seasonal staff after the Lunar New Year.",
+          "highlight": [
+            "laying"
+          ],
+          "translations": {
+            "zh-TW": "許多零售商在農曆新年後正裁減季節性員工。"
           }
         }
       ],
       "synonyms": [
         "put",
-        "place"
+        "place",
+        "set"
       ],
       "antonyms": [
         "rise",
-        "stand"
+        "stand",
+        "uplift"
       ],
       "phrases": [
-        "lay",
-        "down",
-        "lay",
-        "on"
+        "lay off",
+        "lay down",
+        "lay foundation",
+        "lay out"
       ]
     },
     {
@@ -218,41 +298,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "layered",
+        "plural": "layers",
+        "present_3rd": "layers",
+        "past": "layered",
         "past_participle": "layered",
-        "present_participle": "layering",
-        "third_person": "layers"
+        "ing": "layering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "layer",
-          "definition": "n. 层, 产卵鸡, 放置者, vt. 分层堆积, 压植, [计] 层"
+          "definition": "n. 層、階層  v. 分層堆疊、分層栽植"
         }
       ],
       "examples": [
         {
-          "en": "There is a layer of dust on the shelf.",
+          "en": "A thin layer of frost covered the windshield before dawn.",
           "highlight": [
             "layer"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "黎明前擋風玻璃上覆蓋了一層薄霜。"
+          }
+        },
+        {
+          "en": "The data security system has five independent layers to protect user accounts.",
+          "highlight": [
+            "layers"
+          ],
+          "translations": {
+            "zh-TW": "資料安全系統有五個獨立的層級來保護使用者帳戶。"
+          }
+        },
+        {
+          "en": "The chef layered cheese and ham between the slices of toasted bread.",
+          "highlight": [
+            "layered"
+          ],
+          "translations": {
+            "zh-TW": "主廚在烤過的吐司片之間夾上一層層的起司和火腿。"
           }
         }
       ],
       "synonyms": [
         "coating",
-        "film"
+        "film",
+        "sheet"
       ],
       "antonyms": [],
       "phrases": [
-        "thin",
-        "layer",
-        "layer",
-        "of",
-        "dust"
+        "thin layer",
+        "layer of dust",
+        "ozone layer",
+        "top layer"
       ]
     },
     {
@@ -263,47 +362,64 @@
       "toeic_score_min": 200,
       "word": "lazy",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "lazyed",
-        "past_participle": "lazyed",
-        "present_participle": "lazying",
-        "third_person": "lazys"
+        "comparative": "lazier",
+        "superlative": "laziest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "lazy",
-          "definition": "a. 懒惰的, 怠惰的, 缓慢的, vi. 懒散"
+          "definition": "adj. 懶惰的、怠惰的、慢吞吞的"
         }
       ],
       "examples": [
         {
-          "en": "He is too lazy to clean his room.",
+          "en": "Many staff started the lazy afternoon with leftover tasks from the week.",
           "highlight": [
             "lazy"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "許多員工以本週剩下的任務開始這個悠閒的下午。"
+          }
+        },
+        {
+          "en": "Sales dropped because the rival chain grew lazier with its delivery service last winter.",
+          "highlight": [
+            "lazier"
+          ],
+          "translations": {
+            "zh-TW": "競爭連鎖店去年冬天外送服務越來越怠慢，導致我們銷售額下滑。"
+          }
+        },
+        {
+          "en": "The laziest accountant in the branch missed the quarterly report by two days.",
+          "highlight": [
+            "laziest"
+          ],
+          "translations": {
+            "zh-TW": "分行裡最懶惰的會計延遲了兩天才交出每季報告。"
           }
         }
       ],
       "synonyms": [
         "indolent",
-        "slothful"
+        "slothful",
+        "sluggish"
       ],
       "antonyms": [
         "industrious",
-        "hardworking"
+        "hardworking",
+        "diligent"
       ],
       "phrases": [
-        "lazy",
-        "day",
-        "feel",
-        "lazy"
+        "lazy day",
+        "feel lazy",
+        "lazy afternoon",
+        "lazy river"
       ]
     },
     {
@@ -318,44 +434,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "leaded",
-        "past_participle": "leaded",
-        "present_participle": "leading",
-        "third_person": "leads"
+        "present_3rd": "leads",
+        "past": "led",
+        "past_participle": "led",
+        "ing": "leading"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "lead",
-          "definition": "n. 铅, 铅条, 领导, 超前量, 领引, 榜樣, 主角, 导线, vt. 引导, 帶领, 领导, 指挥, 致使, 加铅于, 用铅包, vi. 领导, 帶頭, 导致, 用测深锤测深, 被铅覆盖, a. 帶頭的, 最重要的"
+          "definition": "v. 帶領、引導、領導、導致  n. 領先、主導、鉛"
         }
       ],
       "examples": [
         {
-          "en": "She will lead the team to victory.",
+          "en": "The new CFO will lead the restructuring plan announced last Friday.",
           "highlight": [
             "lead"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新任財務長將帶領上週五宣布的重整計畫。"
+          }
+        },
+        {
+          "en": "Researchers led the field study with funding from the National Science Council.",
+          "highlight": [
+            "led"
+          ],
+          "translations": {
+            "zh-TW": "研究人員在國科會的經費支持下領導了這項田野研究。"
+          }
+        },
+        {
+          "en": "Many banks are leading the shift toward contactless payments across Asia.",
+          "hint": "",
+          "highlight": [
+            "leading"
+          ],
+          "translations": {
+            "zh-TW": "許多銀行正引領亞洲地區朝向非接觸式支付的轉變。"
           }
         }
       ],
       "synonyms": [
         "guide",
-        "direct"
+        "direct",
+        "head"
       ],
       "antonyms": [
         "follow",
-        "trail"
+        "trail",
+        "obey"
       ],
       "phrases": [
-        "lead",
-        "the",
-        "way",
-        "lead",
-        "to"
+        "lead the way",
+        "lead to",
+        "take the lead",
+        "leading role"
       ]
     },
     {
@@ -366,47 +502,63 @@
       "toeic_score_min": 200,
       "word": "leader",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "leadered",
-        "past_participle": "leadered",
-        "present_participle": "leadering",
-        "third_person": "leaders"
+        "plural": "leaders"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "leader",
-          "definition": "n. 领导者, 社论, 指挥, 领袖, 领唱者, 前导字符, [计] 前导字符"
+          "definition": "n. 領袖、領導者、指揮、主唱"
         }
       ],
       "examples": [
         {
-          "en": "He is a natural leader.",
+          "en": "Every successful startup needs a trustworthy leader and a clear vision.",
+          "hint": "",
           "highlight": [
             "leader"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "每家成功的初創公司都需要一位可信賴的領導者和清晰的願景。"
+          }
+        },
+        {
+          "en": "Regional leaders from twenty cities signed the green-energy charter in Taichung.",
+          "highlight": [
+            "leaders"
+          ],
+          "translations": {
+            "zh-TW": "來自二十個城市的區域領袖在台中簽署了綠能憲章。"
+          }
+        },
+        {
+          "en": "The board appointed her team leader because she previously turned two factories profitable.",
+          "highlight": [
+            "leader"
+          ],
+          "translations": {
+            "zh-TW": "董事會任命她為團隊領導者，因為她先前讓兩座工廠轉虧為盈。"
           }
         }
       ],
       "synonyms": [
         "chief",
-        "commander"
+        "commander",
+        "head"
       ],
       "antonyms": [
         "follower",
         "subordinate"
       ],
       "phrases": [
-        "natural",
-        "leader",
-        "team",
-        "leader"
+        "team leader",
+        "natural leader",
+        "group leader",
+        "cult leader"
       ]
     },
     {
@@ -423,38 +575,59 @@
       "conjugations": {
         "plural": "leadings"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "leading",
-          "definition": "n. 领导, 指挥, 神示, 铅板, a. 领导的, 主要的, 在前的"
+          "definition": "adj. 主要的、領先的、在前面的  n. 領導、鉛板"
         }
       ],
       "examples": [
         {
-          "en": "She is the leading expert in the field.",
+          "en": "The leading exporter of semiconductors upgraded its automated testing line.",
           "highlight": [
             "leading"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家領先的半導體出口商升級了自動化測試產線。"
+          }
+        },
+        {
+          "en": "Three leading banks lowered mortgage rates after the central bank's adjustment.",
+          "hint": "",
+          "highlight": [
+            "leading"
+          ],
+          "translations": {
+            "zh-TW": "在中央銀行調整後，三家主要銀行調降了房貸利率。"
+          }
+        },
+        {
+          "en": "Pollution is now the leading cause of respiratory disease in northern cities.",
+          "highlight": [
+            "leading"
+          ],
+          "translations": {
+            "zh-TW": "污染現已成為北方城市呼吸道疾病的最主要成因。"
           }
         }
       ],
       "synonyms": [
         "main",
-        "principal"
+        "principal",
+        "chief"
       ],
       "antonyms": [
         "secondary",
-        "minor"
+        "minor",
+        "trailing"
       ],
       "phrases": [
-        "leading",
-        "role",
-        "leading",
-        "cause"
+        "leading role",
+        "leading cause",
+        "leading brand",
+        "leading edge"
       ]
     },
     {
@@ -469,40 +642,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "leafed",
+        "plural": "leaves",
+        "present_3rd": "leafs",
+        "past": "leafed",
         "past_participle": "leafed",
-        "present_participle": "leafing",
-        "third_person": "leafs"
+        "ing": "leafing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "leaf",
-          "definition": "n. 叶, 树叶, 花瓣, 页, vi. 生叶, 翻書页, vt. 在...上長叶, 翻...的页"
+          "definition": "n. 葉子、書頁、箔  v. 翻閱（書頁）、長葉"
         }
       ],
       "examples": [
         {
-          "en": "The tree has lost all its leaves.",
+          "en": "Each contract has a stamped leaf in its appendix for audit purposes.",
           "highlight": [
             "leaf"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "每份合約附錄中都有蓋過章的一頁以供審計之用。"
+          }
+        },
+        {
+          "en": "Autumn leaves drifted onto the sidewalks as tourists photographed the red maples.",
+          "highlight": [
+            "leaves"
+          ],
+          "translations": {
+            "zh-TW": "秋葉隨風飄落人行道，遊客忙著拍攝紅楓。"
+          }
+        },
+        {
+          "en": "The analyst spent the morning leafing through last year's earnings reports.",
+          "highlight": [
+            "leafing"
+          ],
+          "translations": {
+            "zh-TW": "分析師整個上午都在翻閱去年的財報。"
           }
         }
       ],
       "synonyms": [
         "foliage",
-        "frond"
+        "frond",
+        "page"
       ],
       "antonyms": [],
       "phrases": [
-        "green",
-        "leaf",
-        "leaf",
-        "fall"
+        "green leaf",
+        "leaf fall",
+        "turn over a new leaf",
+        "leaf through"
       ]
     }
   ]
