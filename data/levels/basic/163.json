@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 163,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-163-001",
@@ -15,46 +15,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "jokeed",
-        "past_participle": "jokeed",
-        "present_participle": "joking",
-        "third_person": "jokes"
+        "plural": "jokes",
+        "present_3rd": "jokes",
+        "past": "joked",
+        "past_participle": "joked",
+        "ing": "joking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "joke",
-          "definition": "n. 笑话, 玩笑, 笑柄, v. 开玩笑, 取笑, 作弄"
+          "definition": "n. 笑話、玩笑  v. 開玩笑、打趣"
         }
       ],
       "examples": [
         {
-          "en": "He told a funny joke.",
+          "en": "He told a joke during the meeting to ease the tension.",
           "highlight": [
             "joke"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他在會議中講了個笑話來緩和緊張氣氛。"
+          }
+        },
+        {
+          "en": "She joked about the long commute, though it clearly bothered her.",
+          "highlight": [
+            "joked"
+          ],
+          "translations": {
+            "zh-TW": "她拿漫長的通勤開玩笑，雖然那顯然困擾著她。"
+          }
+        },
+        {
+          "en": "Stop joking around and take this interview seriously.",
+          "highlight": [
+            "joking"
+          ],
+          "translations": {
+            "zh-TW": "別再開玩笑了，認真對待這場面試。"
           }
         }
       ],
       "synonyms": [
-        "funny",
-        "story",
-        "quip"
+        "gag",
+        "quip",
+        "jest"
       ],
       "antonyms": [
-        "serious",
-        "remark",
-        "statement"
+        "seriousness"
       ],
       "phrases": [
-        "tell",
-        "a",
-        "joke",
-        "play",
-        "a"
+        "tell a joke",
+        "play a joke on",
+        "inside joke",
+        "no joke"
       ]
     },
     {
@@ -65,44 +81,59 @@
       "toeic_score_min": 200,
       "word": "journalist",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "journalisted",
-        "past_participle": "journalisted",
-        "present_participle": "journalisting",
-        "third_person": "journalists"
+        "plural": "journalists"
       },
-      "domain": "general",
+      "domain": "media",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "journalist",
-          "definition": "n. 新聞記者, 从事新聞杂志业的人"
+          "definition": "n. 新聞記者、新聞工作者"
         }
       ],
       "examples": [
         {
-          "en": "She is a well-known journalist.",
+          "en": "The journalist covered the election campaign for a major newspaper.",
           "highlight": [
             "journalist"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位記者為一家大報報導了選舉活動。"
+          }
+        },
+        {
+          "en": "Several journalists were waiting outside the company headquarters.",
+          "highlight": [
+            "journalists"
+          ],
+          "translations": {
+            "zh-TW": "幾位記者等在公司總部外面。"
+          }
+        },
+        {
+          "en": "She works as freelance journalist, contributing to various magazines.",
+          "highlight": [
+            "journalist"
+          ],
+          "translations": {
+            "zh-TW": "她是自由撰稿記者，為多本雜�供稿。"
           }
         }
       ],
       "synonyms": [
         "reporter",
-        "correspondent"
+        "correspondent",
+        "news writer"
       ],
       "antonyms": [],
       "phrases": [
-        "investigative",
-        "journalist",
-        "freelance",
-        "journalist"
+        "investigative journalist",
+        "freelance journalist",
+        "accredited journalist",
+        "staff journalist"
       ]
     },
     {
@@ -117,41 +148,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "journeyed",
+        "plural": "journeys",
+        "present_3rd": "journeys",
+        "past": "journeyed",
         "past_participle": "journeyed",
-        "present_participle": "journeying",
-        "third_person": "journeys"
+        "ing": "journeying"
       },
-      "domain": "general",
+      "domain": "travel",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "journey",
-          "definition": "n. 旅程, 旅行, 行程, vi. 旅行, vt. 游歷"
+          "definition": "n. 旅程、旅行  v. 旅行、長途跋涉"
         }
       ],
       "examples": [
         {
-          "en": "Their journey took several days.",
+          "en": "Their business trip turned into an unexpected journey across three countries.",
           "highlight": [
             "journey"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他們的商務旅行變成了橫跨三國的意外旅程。"
+          }
+        },
+        {
+          "en": "The salesman journeyed from Tokyo to Osaka to meet his biggest client.",
+          "highlight": [
+            "journeyed"
+          ],
+          "translations": {
+            "zh-TW": "那位業務員從東京一路旅行到大阪，只為見他最大的客戶。"
+          }
+        },
+        {
+          "en": "She has been journeying through Southeast Asia for the past month.",
+          "highlight": [
+            "journeying"
+          ],
+          "translations": {
+            "zh-TW": "過去一個月她一直在東南亞各地旅行。"
           }
         }
       ],
       "synonyms": [
         "trip",
-        "travel"
+        "voyage",
+        "expedition"
       ],
       "antonyms": [],
       "phrases": [
-        "long",
-        "journey",
-        "enjoy",
-        "the",
-        "journey"
+        "long journey",
+        "safe journey",
+        "business journey",
+        "return journey"
       ]
     },
     {
@@ -162,47 +212,62 @@
       "toeic_score_min": 200,
       "word": "joy",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "joyed",
-        "past_participle": "joyed",
-        "present_participle": "joying",
-        "third_person": "joys"
+        "plural": "joys"
       },
-      "domain": "general",
+      "domain": "emotion",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "joy",
-          "definition": "n. 歡喜, 乐事, 高興, vt. 使快乐, 令人高興, vi. 歡喜"
+          "definition": "n. 喜悅、快樂、樂事"
         }
       ],
       "examples": [
         {
-          "en": "She was filled with joy.",
+          "en": "Her promotion brought great joy to her family.",
           "highlight": [
             "joy"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她的升遷為家人帶來了極大的喜悅。"
+          }
+        },
+        {
+          "en": "The joys of running your own business are not without sacrifices.",
+          "highlight": [
+            "joys"
+          ],
+          "translations": {
+            "zh-TW": "自己經營事業的種種樂事，並非沒有犧牲。"
+          }
+        },
+        {
+          "en": "He takes great joy in mentoring junior employees.",
+          "highlight": [
+            "joy"
+          ],
+          "translations": {
+            "zh-TW": "他從指導年輕員工中獲得莫大的喜悅。"
           }
         }
       ],
       "synonyms": [
         "happiness",
-        "delight"
+        "delight",
+        "glee"
       ],
       "antonyms": [
         "sorrow",
-        "sadness"
+        "despair"
       ],
       "phrases": [
-        "great",
-        "joy",
-        "joy",
-        "of"
+        "great joy",
+        "tears of joy",
+        "the joy of",
+        "pride and joy"
       ]
     },
     {
@@ -217,40 +282,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "judgeed",
-        "past_participle": "judgeed",
-        "present_participle": "judging",
-        "third_person": "judges"
+        "plural": "judges",
+        "present_3rd": "judges",
+        "past": "judged",
+        "past_participle": "judged",
+        "ing": "judging"
       },
-      "domain": "general",
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "judge",
-          "definition": "n. 法官, 裁判員, 审判官, 鉴定人, vt. 审理, 鉴定, 判断, 判决, 裁定, vi. 下判断, 作评价"
+          "definition": "n. 法官、裁判  v. 審判、評斷、判斷"
         }
       ],
       "examples": [
         {
-          "en": "The judge will give his verdict.",
+          "en": "The judge ruled in favor of the plaintiff after a two-week trial.",
           "highlight": [
             "judge"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "歷經兩週審判後，法官判決原告勝訴。"
+          }
+        },
+        {
+          "en": "The panel judged the entries based on creativity and originality.",
+          "highlight": [
+            "judged"
+          ],
+          "translations": {
+            "zh-TW": "評審團依創意與原創性來評判作品。"
+          }
+        },
+        {
+          "en": "Stop judging people by their appearance, especially in a professional setting.",
+          "highlight": [
+            "judging"
+          ],
+          "translations": {
+            "zh-TW": "不要以貌取人，尤其是在職場環境中。"
           }
         }
       ],
       "synonyms": [
         "magistrate",
-        "adjudicator"
+        "adjudicator",
+        "assessor"
       ],
       "antonyms": [],
       "phrases": [
-        "court",
-        "judge",
-        "supreme",
-        "judge"
+        "federal judge",
+        "judge by",
+        "judging panel",
+        "presiding judge"
       ]
     },
     {
@@ -261,47 +346,62 @@
       "toeic_score_min": 200,
       "word": "judgement",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "judgemented",
-        "past_participle": "judgemented",
-        "present_participle": "judgementing",
-        "third_person": "judgements"
+        "plural": "judgements"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "judgement",
-          "definition": "n. 审判, 判决, 判断, [經] 判定, 审定, 鉴定"
+          "definition": "n. 判斷、判決、見解"
         }
       ],
       "examples": [
         {
-          "en": "Use your judgement to make the decision.",
+          "en": "Use your best judgement when dealing with difficult customers.",
           "highlight": [
             "judgement"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "應付難纏的顧客時，請運用你最佳的判斷力。"
+          }
+        },
+        {
+          "en": "His professional judgements have earned him the respect of his colleagues.",
+          "highlight": [
+            "judgements"
+          ],
+          "translations": {
+            "zh-TW": "他的專業見解贏得了同事們的尊重。"
+          }
+        },
+        {
+          "en": "The court is expected to deliver its judgement sometime next week.",
+          "highlight": [
+            "judgement"
+          ],
+          "translations": {
+            "zh-TW": "法院預計下週某個時候作出判決。"
           }
         }
       ],
       "synonyms": [
         "decision",
-        "verdict"
+        "verdict",
+        "assessment"
       ],
       "antonyms": [
         "indecision",
         "doubt"
       ],
       "phrases": [
-        "good",
-        "judgement",
-        "sound",
-        "judgement"
+        "good judgement",
+        "sound judgement",
+        "pass judgement",
+        "professional judgement"
       ]
     },
     {
@@ -312,44 +412,59 @@
       "toeic_score_min": 200,
       "word": "juice",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "juiceed",
-        "past_participle": "juiceed",
-        "present_participle": "juicing",
-        "third_person": "juices"
+        "plural": "juices"
       },
-      "domain": "general",
+      "domain": "food",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "juice",
-          "definition": "n. 汁, 活力, 体液, vt. 挤出汁來, 加汁"
+          "definition": "n. 果汁、蔬菜汁、汁液"
         }
       ],
       "examples": [
         {
-          "en": "She drank a glass of orange juice.",
+          "en": "I usually have a glass of fresh orange juice at breakfast.",
           "highlight": [
             "juice"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我早餐通常喝一杯新鮮柳橙汁。"
+          }
+        },
+        {
+          "en": "The cafe offers several vegetable juices for health-conscious customers.",
+          "highlight": [
+            "juices"
+          ],
+          "translations": {
+            "zh-TW": "這家咖啡館為注重健康的顧客提供多種蔬菜汁。"
+          }
+        },
+        {
+          "en": "He bought a bottle of apple juice from the convenience store before his shift.",
+          "highlight": [
+            "juice"
+          ],
+          "translations": {
+            "zh-TW": "他上班前在便利商店買了一瓶蘋果汁。"
           }
         }
       ],
       "synonyms": [
+        "extract",
         "nectar",
-        "extract"
+        "sap"
       ],
       "antonyms": [],
       "phrases": [
-        "fruit",
-        "juice",
-        "fresh",
-        "juice"
+        "orange juice",
+        "fresh juice",
+        "fruit juice",
+        "juice bar"
       ]
     },
     {
@@ -358,41 +473,58 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 200,
-      "word": "july",
+      "word": "July",
       "pos": [
         "noun",
-        "proper",
-        "noun"
+        "proper noun"
       ],
       "conjugations": {
-        "plural": "julies"
+        "plural": "Julys"
       },
-      "domain": "general",
+      "domain": "time",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "july",
+          "lang_word": "July",
           "definition": "n. 七月"
         }
       ],
       "examples": [
         {
-          "en": "We have a holiday in July.",
+          "en": "Our company retreat is scheduled for the third week of July.",
           "highlight": [
-            "july"
+            "July"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們公司的員工旅遊定在七月的第三週。"
+          }
+        },
+        {
+          "en": "The past two Julys were the hottest on record for the region.",
+          "highlight": [
+            "Julys"
+          ],
+          "translations": {
+            "zh-TW": "過去兩個七月是該地區有紀錄以來最熱的。"
+          }
+        },
+        {
+          "en": "Sales typically peak in July thanks to the summer promotion.",
+          "highlight": [
+            "July"
+          ],
+          "translations": {
+            "zh-TW": "由於夏季促銷，銷售額通常在七月達到高峰。"
           }
         }
       ],
       "synonyms": [],
       "antonyms": [],
       "phrases": [
-        "in",
-        "July",
-        "July",
-        "4th"
+        "in July",
+        "July 4th",
+        "mid-July",
+        "early July"
       ]
     },
     {
@@ -407,43 +539,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "jumped",
+        "plural": "jumps",
+        "present_3rd": "jumps",
+        "past": "jumped",
         "past_participle": "jumped",
-        "present_participle": "jumping",
-        "third_person": "jumps"
+        "ing": "jumping"
       },
-      "domain": "general",
+      "domain": "action",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "jump",
-          "definition": "n. 跳跃, 跳動, 暴涨, 惊跳, vt. 跳跃, 跃過, 突升, 使跳跃, vi. 跳跃, 跳, 跳動, 暴涨, [计] 转移, 跳转"
+          "definition": "v. 跳躍、暴漲  n. 跳躍、劇增"
         }
       ],
       "examples": [
         {
-          "en": "The cat can jump high.",
+          "en": "The stock price jumped 15% after the strong earnings report.",
+          "highlight": [
+            "jumped"
+          ],
+          "translations": {
+            "zh-TW": "強勁的財報公布後，股價跳漲了百分之十五。"
+          }
+        },
+        {
+          "en": "He was jumping up and down with excitement after closing the deal.",
+          "highlight": [
+            "jumping"
+          ],
+          "translations": {
+            "zh-TW": "他在簽下這筆交易後興奮得跳來跳去。"
+          }
+        },
+        {
+          "en": "There has been a significant jump in online sales this quarter.",
           "highlight": [
             "jump"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "本季線上銷售有顯著的劇增。"
           }
         }
       ],
       "synonyms": [
         "leap",
-        "spring"
+        "spring",
+        "bound"
       ],
       "antonyms": [
-        "fall",
-        "drop"
+        "drop",
+        "fall"
       ],
       "phrases": [
-        "jump",
-        "up",
-        "jump",
-        "over"
+        "jump up",
+        "jump over",
+        "jump in",
+        "long jump"
       ]
     },
     {
@@ -452,41 +604,58 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 200,
-      "word": "june",
+      "word": "June",
       "pos": [
         "noun",
-        "proper",
-        "noun"
+        "proper noun"
       ],
       "conjugations": {
-        "plural": "junes"
+        "plural": "Junes"
       },
-      "domain": "general",
+      "domain": "time",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "june",
+          "lang_word": "June",
           "definition": "n. 六月"
         }
       ],
       "examples": [
         {
-          "en": "June is my favorite month.",
+          "en": "June is when our fiscal year comes to a close.",
           "highlight": [
-            "june"
+            "June"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "六月是我們會計年度結束的時候。"
+          }
+        },
+        {
+          "en": "Both previous Junes saw record attendance at the trade show.",
+          "highlight": [
+            "Junes"
+          ],
+          "translations": {
+            "zh-TW": "前兩次六月都在商展中創下破紀錄的出席人數。"
+          }
+        },
+        {
+          "en": "We are planning to launch the new product line by the end of June.",
+          "highlight": [
+            "June"
+          ],
+          "translations": {
+            "zh-TW": "我們計畫在六月底前推出新的產品線。"
           }
         }
       ],
       "synonyms": [],
       "antonyms": [],
       "phrases": [
-        "in",
-        "June",
-        "June",
-        "1st"
+        "in June",
+        "mid-June",
+        "early June",
+        "late June"
       ]
     }
   ]
