@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 167,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-167-001",
@@ -15,44 +15,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "landed",
+        "plural": "lands",
+        "present_3rd": "lands",
+        "past": "landed",
         "past_participle": "landed",
-        "present_participle": "landing",
-        "third_person": "lands"
+        "ing": "landing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "land",
-          "definition": "n. 陆地, 地面, 地界, 地产, 國土, 土地, vi. 登陆, 登岸, 到达, vt. 使上岸, 使登陆, 使到达, [计] 连接盘; 焊盘"
+          "definition": "n. 土地、陸地、國土  v. 降落、登陸、著陸"
         }
       ],
       "examples": [
         {
-          "en": "They bought a piece of land.",
+          "en": "The plane landed safely at Narita Airport despite the heavy rain.",
+          "highlight": [
+            "landed"
+          ],
+          "translations": {
+            "zh-TW": "儘管下著大雨，飛機仍安全降落於成田機場。"
+          }
+        },
+        {
+          "en": "The company is landing a major contract with a European partner this week.",
+          "highlight": [
+            "landing"
+          ],
+          "translations": {
+            "zh-TW": "公司本週正與一家歐洲合作夥伴談定一份重要合約。"
+          }
+        },
+        {
+          "en": "They bought a piece of land near the coast to build a vacation house.",
           "highlight": [
             "land"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他們在海岸附近買了一塊土地，打算蓋一棟度假屋。"
           }
         }
       ],
       "synonyms": [
         "ground",
-        "soil"
+        "soil",
+        "terrain"
       ],
       "antonyms": [
         "sea",
         "water"
       ],
       "phrases": [
-        "piece",
-        "of",
-        "land",
-        "own",
-        "land"
+        "land a job",
+        "land of opportunity",
+        "landing page",
+        "promised land"
       ]
     },
     {
@@ -67,40 +86,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "landscapeed",
-        "past_participle": "landscapeed",
-        "present_participle": "landscaping",
-        "third_person": "landscapes"
+        "plural": "landscapes",
+        "present_3rd": "landscapes",
+        "past": "landscaped",
+        "past_participle": "landscaped",
+        "ing": "landscaping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "landscape",
-          "definition": "n. 風景, 山水, 風景画, vi. 从事景观美化, vt. 美化...景观, [计] 横向"
+          "definition": "n. 風景、景色、景觀  v. 從事景觀美化、園藝設計"
         }
       ],
       "examples": [
         {
-          "en": "The landscape is beautiful.",
+          "en": "The resort offers a stunning landscape of mountains and lakes.",
           "highlight": [
             "landscape"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "度假村提供了由群山與湖泊構成的壯麗景觀。"
+          }
+        },
+        {
+          "en": "The hotel grounds were landscaped by a famous garden designer.",
+          "highlight": [
+            "landscaped"
+          ],
+          "translations": {
+            "zh-TW": "飯店庭園是由一位知名的庭園設計師所設計美化的。"
+          }
+        },
+        {
+          "en": "They are landscaping the front yard with native plants and stone paths.",
+          "highlight": [
+            "landscaping"
+          ],
+          "translations": {
+            "zh-TW": "他們正在用原生植物與石板步道美化前院。"
           }
         }
       ],
       "synonyms": [
         "scenery",
-        "view"
+        "view",
+        "terrain"
       ],
       "antonyms": [],
       "phrases": [
-        "beautiful",
-        "landscape",
-        "landscape",
-        "painting"
+        "landscape painting",
+        "landscape design",
+        "urban landscape",
+        "landscaping business"
       ]
     },
     {
@@ -111,46 +150,61 @@
       "toeic_score_min": 200,
       "word": "language",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "languageed",
-        "past_participle": "languageed",
-        "present_participle": "languaging",
-        "third_person": "languages"
+        "plural": "languages"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "language",
-          "definition": "n. 語言, 文字, 措辞, [计] 語言"
+          "definition": "n. 語言、文字、措辭"
         }
       ],
       "examples": [
         {
-          "en": "He speaks three languages.",
+          "en": "She speaks three languages fluently: English, Japanese, and French.",
+          "highlight": [
+            "languages"
+          ],
+          "translations": {
+            "zh-TW": "她能流利地說三種語言:英文、日文和法文。"
+          }
+        },
+        {
+          "en": "Body language often reveals more than spoken words in negotiations.",
           "highlight": [
             "language"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在談判中,肢體語言往往比口語透露更多訊息。"
+          }
+        },
+        {
+          "en": "The company uses plain language in all contracts to avoid misunderstandings.",
+          "highlight": [
+            "language"
+          ],
+          "translations": {
+            "zh-TW": "公司在所有合約中使用淺顯的文字,以避免誤解。"
           }
         }
       ],
       "synonyms": [
         "tongue",
-        "speech"
+        "speech",
+        "dialect"
       ],
       "antonyms": [
         "silence"
       ],
       "phrases": [
-        "native",
-        "language",
-        "foreign",
-        "language"
+        "native language",
+        "foreign language",
+        "body language",
+        "language barrier"
       ]
     },
     {
@@ -161,44 +215,64 @@
       "toeic_score_min": 200,
       "word": "large",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "larges"
+        "plural": "larges",
+        "comparative": "larger",
+        "superlative": "largest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "large",
-          "definition": "a. 大的, 大量的, 宽大的, 广博的, adv. 大大地, 夸大地"
+          "definition": "adj. 大的、大量的、寬大的"
         }
       ],
       "examples": [
         {
-          "en": "They live in a large house.",
+          "en": "The new office has a large conference room that seats forty people.",
           "highlight": [
             "large"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新辦公室有一間可容納四十人的大型會議室。"
+          }
+        },
+        {
+          "en": "Our Tokyo branch is larger than the Osaka branch in terms of staff.",
+          "highlight": [
+            "larger"
+          ],
+          "translations": {
+            "zh-TW": "就員工人數而言,我們東京分公司比大阪分公司還要大。"
+          }
+        },
+        {
+          "en": "This is the largest single investment the company has ever made.",
+          "highlight": [
+            "largest"
+          ],
+          "translations": {
+            "zh-TW": "這是公司歷來最大的一筆單項投資。"
           }
         }
       ],
       "synonyms": [
         "big",
-        "huge"
+        "huge",
+        "spacious"
       ],
       "antonyms": [
         "small",
         "tiny"
       ],
       "phrases": [
-        "large",
-        "house",
-        "large",
-        "amount"
+        "large amount",
+        "large scale",
+        "by and large",
+        "at large"
       ]
     },
     {
@@ -217,34 +291,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "largely",
-          "definition": "adv. 大量地, 很多地, 大半地"
+          "definition": "adv. 大量地、主要地、在很大程度上"
         }
       ],
       "examples": [
         {
-          "en": "The success is largely due to teamwork.",
+          "en": "The project's success is largely due to the team's hard work and dedication.",
           "highlight": [
             "largely"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這個專案的成功在很大程度上歸功於團隊的辛勤與投入。"
+          }
+        },
+        {
+          "en": "Their profits come largely from overseas sales rather than the domestic market.",
+          "highlight": [
+            "largely"
+          ],
+          "translations": {
+            "zh-TW": "他們的利潤主要來自海外銷售,而非國內市場。"
+          }
+        },
+        {
+          "en": "The new policy has been largely ignored by most employees.",
+          "highlight": [
+            "largely"
+          ],
+          "translations": {
+            "zh-TW": "這項新政策大體上被多數員工所忽視。"
           }
         }
       ],
       "synonyms": [
         "mostly",
-        "mainly"
+        "mainly",
+        "chiefly"
       ],
       "antonyms": [
-        "little",
-        "slightly"
+        "slightly",
+        "barely"
       ],
       "phrases": [
-        "largely",
-        "due",
-        "to",
-        "largely",
-        "responsible"
+        "largely due to",
+        "largely responsible",
+        "largely ignored",
+        "largely unaffected"
       ]
     },
     {
@@ -256,43 +348,68 @@
       "word": "last",
       "pos": [
         "adjective",
-        "noun"
+        "adverb",
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "lasts"
+        "plural": "lasts",
+        "present_3rd": "lasts",
+        "past": "lasted",
+        "past_participle": "lasted",
+        "ing": "lasting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "last",
-          "definition": "a. 最後的, 末尾的, 最近的, vi. 持续, 支持, 维持, vt. 使维持, 够...用, adv. 最後, 後來, n. 最後, 末尾, 鞋楦頭"
+          "definition": "adj. 最後的、上一個的  adv. 最後  n. 最後  v. 持續、維持"
         }
       ],
       "examples": [
         {
-          "en": "He was the last person to leave.",
+          "en": "The meeting lasted more than two hours because of the heated debate.",
+          "highlight": [
+            "lasted"
+          ],
+          "translations": {
+            "zh-TW": "由於激烈的辯論,會議持續了兩個多小時。"
+          }
+        },
+        {
+          "en": "A lasting partnership requires trust, communication, and mutual respect.",
+          "highlight": [
+            "lasting"
+          ],
+          "translations": {
+            "zh-TW": "持久的合作關係需要信任、溝通與相互尊重。"
+          }
+        },
+        {
+          "en": "This is the last chance to submit the proposal before the deadline.",
           "highlight": [
             "last"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這是在截止日期前提交提案的最後一次機會。"
           }
         }
       ],
       "synonyms": [
         "final",
-        "ultimate"
+        "ultimate",
+        "endure"
       ],
       "antonyms": [
         "first",
         "initial"
       ],
       "phrases": [
-        "last",
-        "person",
-        "last",
-        "place"
+        "last minute",
+        "last but not least",
+        "last resort",
+        "lasting impression"
       ]
     },
     {
@@ -307,30 +424,49 @@
         "adverb"
       ],
       "conjugations": {
-        "comparative": "lateer",
-        "superlative": "lateest"
+        "comparative": "later",
+        "superlative": "latest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "late",
-          "definition": "a. 迟的, 晚的, 已故的, adv. 很晚, 很迟, 晚"
+          "definition": "adj. 遲的、晚的、已故的  adv. 遲、晚"
         }
       ],
       "examples": [
         {
-          "en": "She arrived late to the meeting.",
+          "en": "She apologized for being late to the client presentation this morning.",
           "highlight": [
             "late"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她為今早遲到缺席客戶簡報而道歉。"
+          }
+        },
+        {
+          "en": "The train arrived later than scheduled due to heavy snowfall.",
+          "highlight": [
+            "later"
+          ],
+          "translations": {
+            "zh-TW": "因為大雪,火車比預定時間晚到。"
+          }
+        },
+        {
+          "en": "She has been working late at night to finish the quarterly report.",
+          "highlight": [
+            "late"
+          ],
+          "translations": {
+            "zh-TW": "為了完成季度報告,她最近一直工作到深夜。"
           }
         }
       ],
       "synonyms": [
         "delayed",
+        "tardy",
         "overdue"
       ],
       "antonyms": [
@@ -338,11 +474,10 @@
         "punctual"
       ],
       "phrases": [
-        "arrive",
-        "late",
-        "late",
-        "at",
-        "night"
+        "arrive late",
+        "late at night",
+        "of late",
+        "late for work"
       ]
     },
     {
@@ -356,43 +491,58 @@
         "adverb",
         "adjective"
       ],
-      "conjugations": {
-        "comparative": "laterer",
-        "superlative": "laterest"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "later",
-          "definition": "adv. 以後, 随後"
+          "definition": "adv. 之後、後來  adj. 更遲的、更晚的"
         }
       ],
       "examples": [
         {
-          "en": "We will discuss this later.",
+          "en": "Let's discuss the budget details later in the afternoon meeting.",
           "highlight": [
             "later"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們下午的會議中再討論預算細節吧。"
+          }
+        },
+        {
+          "en": "She joined the company later than most of her colleagues in the same department.",
+          "highlight": [
+            "later"
+          ],
+          "translations": {
+            "zh-TW": "她比同部門大多數同事都還晚進公司。"
+          }
+        },
+        {
+          "en": "Three years later, the startup became one of the most profitable firms in the region.",
+          "highlight": [
+            "later"
+          ],
+          "translations": {
+            "zh-TW": "三年後,這家新創公司成為該地區最獲利的公司之一。"
           }
         }
       ],
       "synonyms": [
         "afterwards",
-        "subsequently"
+        "subsequently",
+        "afterward"
       ],
       "antonyms": [
         "earlier",
         "sooner"
       ],
       "phrases": [
-        "later",
-        "today",
-        "see",
-        "you",
-        "later"
+        "see you later",
+        "later on",
+        "sooner or later",
+        "later today"
       ]
     },
     {
@@ -414,34 +564,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "latest",
-          "definition": "a. 最近的"
+          "definition": "adj. 最新的、最近的  n. 最新事物"
         }
       ],
       "examples": [
         {
-          "en": "Here is the latest news.",
+          "en": "Here is the latest sales report covering the second quarter.",
           "highlight": [
             "latest"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這是涵蓋第二季的最新銷售報告。"
+          }
+        },
+        {
+          "en": "The company is using the latest technology to improve customer service.",
+          "highlight": [
+            "latest"
+          ],
+          "translations": {
+            "zh-TW": "公司正在使用最新科技來改善客戶服務。"
+          }
+        },
+        {
+          "en": "Have you read the latest on the proposed merger in the news?",
+          "highlight": [
+            "latest"
+          ],
+          "translations": {
+            "zh-TW": "你讀過新聞中關於那樁併購案的最新消息了嗎?"
           }
         }
       ],
       "synonyms": [
         "newest",
-        "most",
-        "recent"
+        "most recent",
+        "up-to-date"
       ],
       "antonyms": [
         "oldest",
         "outdated"
       ],
       "phrases": [
-        "latest",
-        "news",
-        "latest",
-        "technology"
+        "latest news",
+        "latest technology",
+        "at the latest",
+        "the latest"
       ]
     },
     {
@@ -456,44 +624,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "laughed",
+        "plural": "laughs",
+        "present_3rd": "laughs",
+        "past": "laughed",
         "past_participle": "laughed",
-        "present_participle": "laughing",
-        "third_person": "laughs"
+        "ing": "laughing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "laugh",
-          "definition": "n. 笑, 笑声, vi. 笑, 大笑, vt. 以笑表示"
+          "definition": "n. 笑、笑聲  v. 笑、大笑"
         }
       ],
       "examples": [
         {
-          "en": "The joke made everyone laugh.",
+          "en": "Everyone laughed when the manager accidentally played the wrong video in the meeting.",
+          "highlight": [
+            "laughed"
+          ],
+          "translations": {
+            "zh-TW": "當經理在會議中不小心播放錯誤的影片時,所有人都笑了。"
+          }
+        },
+        {
+          "en": "The children were laughing at the clown's silly performance in the park.",
+          "highlight": [
+            "laughing"
+          ],
+          "translations": {
+            "zh-TW": "孩子們在公園裡看著小丑滑稽的表演大笑著。"
+          }
+        },
+        {
+          "en": "She has a loud laugh that can be heard across the entire office.",
           "highlight": [
             "laugh"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她的笑聲很大聲,整間辦公室都聽得到。"
           }
         }
       ],
       "synonyms": [
         "giggle",
-        "chuckle"
+        "chuckle",
+        "laugh"
       ],
       "antonyms": [
         "cry",
         "weep"
       ],
       "phrases": [
-        "laugh",
-        "out",
-        "loud",
-        "laugh",
-        "at"
+        "laugh out loud",
+        "laugh at",
+        "laugh it off",
+        "have a good laugh"
       ]
     }
   ]
