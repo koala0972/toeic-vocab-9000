@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 171,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-171-001",
@@ -15,43 +15,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "licenseed",
-        "past_participle": "licenseed",
-        "present_participle": "licensing",
-        "third_person": "licenses"
+        "plural": "licenses",
+        "present_3rd": "licenses",
+        "past": "licensed",
+        "past_participle": "licensed",
+        "ing": "licensing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "license",
-          "definition": "n. 执照, 许可证, 特许, vt. 许可, 特许"
+          "definition": "n. 執照、許可證  v. 許可、發給執照"
         }
       ],
       "examples": [
         {
-          "en": "He has a driver's license.",
+          "en": "You must carry a valid driver's license at all times.",
           "highlight": [
             "license"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "你必須隨身攜帶有效的駕照。"
+          }
+        },
+        {
+          "en": "The restaurant was licensed to serve alcohol until midnight.",
+          "highlight": [
+            "licensed"
+          ],
+          "translations": {
+            "zh-TW": "這家餐廳獲得許可供應酒精飲料至午夜。"
+          }
+        },
+        {
+          "en": "Our company is licensing a new software patent from a German firm.",
+          "highlight": [
+            "licensing"
+          ],
+          "translations": {
+            "zh-TW": "我們公司正從一家德國公司取得一項新軟體專利的授權。"
           }
         }
       ],
       "synonyms": [
         "permit",
-        "certification"
+        "certificate",
+        "authorization"
       ],
       "antonyms": [
-        "restriction",
-        "prohibition"
+        "prohibition",
+        "restriction"
       ],
       "phrases": [
-        "driver's",
-        "license",
-        "license",
-        "to"
+        "driver's license",
+        "business license",
+        "license agreement",
+        "license plate"
       ]
     },
     {
@@ -66,43 +86,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "lieed",
-        "past_participle": "lieed",
-        "present_participle": "liing",
-        "third_person": "lies"
+        "present_3rd": "lies",
+        "past": "lay",
+        "past_participle": "lain",
+        "ing": "lying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "lie",
-          "definition": "n. 谎言, 假象, 位置, vi. 躺着, 說谎, 位于, 展现, 存在, 停泊, vt. 谎骗"
+          "definition": "v. 躺、位於、說謊  n. 謊言、位置"
         }
       ],
       "examples": [
         {
-          "en": "He lies down to rest every afternoon.",
+          "en": "The remote village lies between two steep mountains.",
           "highlight": [
-            "lie"
+            "lies"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "那座偏遠的村莊坐落在兩座陡峭的山之間。"
+          }
+        },
+        {
+          "en": "The patient lay in bed for three days before the fever broke.",
+          "highlight": [
+            "lay"
+          ],
+          "translations": {
+            "zh-TW": "病人在退燒前在床上躺了三天。"
+          }
+        },
+        {
+          "en": "The ancient manuscript has lain undiscovered in the library basement for decades.",
+          "highlight": [
+            "lain"
+          ],
+          "translations": {
+            "zh-TW": "那部古老的手稿在圖書館地下室靜靜躺了數十年才被發現。"
           }
         }
       ],
       "synonyms": [
         "recline",
-        "rest"
+        "rest",
+        "fib"
       ],
       "antonyms": [
         "stand",
-        "sit"
+        "truth"
       ],
       "phrases": [
-        "lie",
-        "down",
-        "lie",
-        "in"
+        "lie down",
+        "tell a lie",
+        "lie in",
+        "lie ahead"
       ]
     },
     {
@@ -113,48 +152,61 @@
       "toeic_score_min": 200,
       "word": "life",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "lifeed",
-        "past_participle": "lifeed",
-        "present_participle": "lifing",
-        "third_person": "lifes"
+        "plural": "lives"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "life",
-          "definition": "n. 生活, 生命, 人生, 世事, 生物, 寿命, 一生, 生命力, 灵魂, 无期徒刑, [医] 生活, 生存, 生命, 寿命"
+          "definition": "n. 生命、生活、一生、壽命"
         }
       ],
       "examples": [
         {
-          "en": "Life is beautiful.",
+          "en": "Regular exercise can greatly improve the quality of life.",
           "highlight": [
             "life"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "規律的運動能大幅提升生活品質。"
+          }
+        },
+        {
+          "en": "Many young professionals struggle to balance careers and family lives.",
+          "highlight": [
+            "lives"
+          ],
+          "translations": {
+            "zh-TW": "許多年輕專業人士很難在事業與家庭生活之間取得平衡。"
+          }
+        },
+        {
+          "en": "The scientist devoted her life to studying ancient civilizations.",
+          "highlight": [
+            "life"
+          ],
+          "translations": {
+            "zh-TW": "那位科學家將畢生奉獻於研究古代文明。"
           }
         }
       ],
       "synonyms": [
         "existence",
+        "lifetime",
         "being"
       ],
       "antonyms": [
-        "death",
-        "nonexistence"
+        "death"
       ],
       "phrases": [
-        "life",
-        "and",
-        "death",
-        "life",
-        "is"
+        "quality of life",
+        "way of life",
+        "life expectancy",
+        "life insurance"
       ]
     },
     {
@@ -169,43 +221,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "lifted",
+        "plural": "lifts",
+        "present_3rd": "lifts",
+        "past": "lifted",
         "past_participle": "lifted",
-        "present_participle": "lifting",
-        "third_person": "lifts"
+        "ing": "lifting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "lift",
-          "definition": "n. 举起, 帮助, 昂扬, 电梯, vt. 升高, 提高, 鼓舞, 清偿, 空運, 举起, 剽窃, vi. 升起, 消散, 耸立"
+          "definition": "v. 舉起、抬起、提升  n. 電梯、舉、搭便車"
         }
       ],
       "examples": [
         {
-          "en": "She can lift heavy weights.",
+          "en": "Please lift the package carefully to avoid scratching the surface.",
           "highlight": [
             "lift"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請小心抬起包裹以免刮傷表面。"
+          }
+        },
+        {
+          "en": "The rescuers lifted the injured hiker onto a stretcher.",
+          "highlight": [
+            "lifted"
+          ],
+          "translations": {
+            "zh-TW": "救援人員將受傷的登山客抬上擔架。"
+          }
+        },
+        {
+          "en": "Cranes are lifting heavy steel beams onto the new skyscraper.",
+          "highlight": [
+            "lifting"
+          ],
+          "translations": {
+            "zh-TW": "起重機正將沉重的鋼樑吊上新建的摩天大樓。"
           }
         }
       ],
       "synonyms": [
         "raise",
-        "elevate"
+        "elevate",
+        "hoist"
       ],
       "antonyms": [
         "lower",
         "drop"
       ],
       "phrases": [
-        "lift",
-        "weights",
-        "lift",
-        "up"
+        "lift weights",
+        "give a lift",
+        "lift up",
+        "lift off"
       ]
     },
     {
@@ -217,46 +289,69 @@
       "word": "light",
       "pos": [
         "noun",
+        "adjective",
         "verb"
       ],
       "conjugations": {
-        "past_tense": "lighted",
-        "past_participle": "lighted",
-        "present_participle": "lighting",
-        "third_person": "lights"
+        "plural": "lights",
+        "present_3rd": "lights",
+        "past": "lit",
+        "past_participle": "lit",
+        "ing": "lighting",
+        "comparative": "lighter",
+        "superlative": "lightest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "light",
-          "definition": "n. 光, 光亮, 灯, 日光, 發光体, 光源, 杰出人物, 火花, 眼光, a. 輕的, 少量的, 輕微的, 輕快的, 輕浮的, 明亮的, 淡色的, 容易的, vt. 點燃, 照亮, vi. 點着, 变亮, 突降, 偶然碰到, adv. 輕地"
+          "definition": "n. 光、燈光  a. 輕的、明亮的  v. 點燃、照亮"
         }
       ],
       "examples": [
         {
-          "en": "The room is filled with light.",
+          "en": "Natural light streams into the office through the large windows.",
           "highlight": [
             "light"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "自然光透過大窗戶照進辦公室。"
+          }
+        },
+        {
+          "en": "The stage manager lit the candles right before the performance began.",
+          "highlight": [
+            "lit"
+          ],
+          "translations": {
+            "zh-TW": "舞台經理在演出開始前點燃了蠟燭。"
+          }
+        },
+        {
+          "en": "By midnight, all the streetlights had been lit for the festival.",
+          "highlight": [
+            "lit"
+          ],
+          "translations": {
+            "zh-TW": "子夜時分，所有的路燈都為慶典點亮了。"
           }
         }
       ],
       "synonyms": [
-        "brightness",
-        "luminosity"
+        "illumination",
+        "bright",
+        "ignite"
       ],
       "antonyms": [
         "darkness",
-        "shadow"
+        "heavy"
       ],
       "phrases": [
-        "bright",
-        "light",
-        "natural",
-        "light"
+        "traffic light",
+        "light bulb",
+        "light up",
+        "come to light"
       ]
     },
     {
@@ -275,33 +370,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "lightly",
-          "definition": "adv. 輕輕地, 少许, 不费力地"
+          "definition": "adv. 輕輕地、輕微地、不費力地"
         }
       ],
       "examples": [
         {
-          "en": "She touched the fabric lightly.",
+          "en": "The chef seasoned the salad lightly with olive oil and lemon.",
           "highlight": [
             "lightly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "主廚輕輕地用橄欖油和檸檬為沙拉調味。"
+          }
+        },
+        {
+          "en": "Please knock lightly on the conference room door before entering.",
+          "highlight": [
+            "lightly"
+          ],
+          "translations": {
+            "zh-TW": "進入會議室前請輕輕敲門。"
+          }
+        },
+        {
+          "en": "The manager took the complaint lightly, which upset the customer.",
+          "highlight": [
+            "lightly"
+          ],
+          "translations": {
+            "zh-TW": "經理對客訴掉以輕心，讓這位顧客很不高興。"
           }
         }
       ],
       "synonyms": [
         "gently",
-        "softly"
+        "softly",
+        "delicately"
       ],
       "antonyms": [
         "heavily",
-        "strongly"
+        "firmly"
       ],
       "phrases": [
-        "touch",
-        "lightly",
-        "lightly",
-        "brush"
+        "touch lightly",
+        "take lightly",
+        "lightly seasoned",
+        "sleep lightly"
       ]
     },
     {
@@ -312,44 +426,68 @@
       "toeic_score_min": 200,
       "word": "like",
       "pos": [
+        "verb",
         "preposition",
         "noun"
       ],
       "conjugations": {
-        "plural": "likes"
+        "plural": "likes",
+        "present_3rd": "likes",
+        "past": "liked",
+        "past_participle": "liked",
+        "ing": "liking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "like",
-          "definition": "a. 相似的, 同樣的, vt. 喜歡, 愿意, 想, vi. 喜歡, 希望, n. 爱好, 同樣的人(或物), prep. 象, 如同, adv. 可能"
+          "definition": "v. 喜歡、想要  prep. 像、如同  n. 喜好"
         }
       ],
       "examples": [
         {
-          "en": "He likes to play soccer.",
+          "en": "Customers like the new return policy because it is more flexible.",
           "highlight": [
             "like"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "顧客喜歡新的退貨政策，因為它更有彈性。"
+          }
+        },
+        {
+          "en": "She has liked every photo in the album since the trip ended.",
+          "highlight": [
+            "liked"
+          ],
+          "translations": {
+            "zh-TW": "旅行結束後，她對相簿裡的每張照片都按了讚。"
+          }
+        },
+        {
+          "en": "He likes to review his notes right before giving a presentation.",
+          "highlight": [
+            "likes"
+          ],
+          "translations": {
+            "zh-TW": "他喜歡在發表演講前迅速複習筆記。"
           }
         }
       ],
       "synonyms": [
         "enjoy",
-        "prefer"
+        "prefer",
+        "fancy"
       ],
       "antonyms": [
         "dislike",
         "hate"
       ],
       "phrases": [
-        "like",
-        "doing",
-        "like",
-        "to"
+        "feel like",
+        "would like",
+        "like-minded",
+        "nothing like"
       ]
     },
     {
@@ -372,34 +510,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "likely",
-          "definition": "a. 有可能的, 合适的, 前途有望的, adv. 或许, 可能"
+          "definition": "a. 有可能的  adv. 可能地、或許"
         }
       ],
       "examples": [
         {
-          "en": "It is likely to rain tomorrow.",
+          "en": "Sales are likely to rise during the holiday shopping season.",
           "highlight": [
             "likely"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "節日購物季期間銷售額可能會上升。"
+          }
+        },
+        {
+          "en": "Without proper training, mistakes are likelier to occur in production.",
+          "highlight": [
+            "likelier"
+          ],
+          "translations": {
+            "zh-TW": "缺乏適當培訓，生產線上更可能出現失誤。"
+          }
+        },
+        {
+          "en": "Iceberg calving is the likeliest explanation for the sudden rise in sea level.",
+          "highlight": [
+            "likeliest"
+          ],
+          "translations": {
+            "zh-TW": "冰山崩解是海平面突然上升最有可能的解釋。"
           }
         }
       ],
       "synonyms": [
         "probable",
-        "possible"
+        "possible",
+        "apt"
       ],
       "antonyms": [
         "unlikely",
         "improbable"
       ],
       "phrases": [
-        "likely",
-        "to",
-        "happen",
-        "most",
-        "likely"
+        "most likely",
+        "likely to",
+        "highly likely",
+        "less likely"
       ]
     },
     {
@@ -414,43 +570,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "limited",
+        "plural": "limits",
+        "present_3rd": "limits",
+        "past": "limited",
         "past_participle": "limited",
-        "present_participle": "limiting",
-        "third_person": "limits"
+        "ing": "limiting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "limit",
-          "definition": "n. 界限, 边界, 限度, 极限, 限制, vt. 限制, 限定"
+          "definition": "n. 界限、限制、極限  v. 限制、限定"
         }
       ],
       "examples": [
         {
-          "en": "There is a limit to how much you can carry.",
+          "en": "The daily withdrawal limit on this card is five hundred dollars.",
           "highlight": [
             "limit"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這張卡每日提款上限為五百美元。"
+          }
+        },
+        {
+          "en": "The city council limited parking downtown to two hours per vehicle.",
+          "highlight": [
+            "limited"
+          ],
+          "translations": {
+            "zh-TW": "市議會將市中心停車限制為每輛車兩小時。"
+          }
+        },
+        {
+          "en": "Budget constraints are limiting the scope of our research project.",
+          "highlight": [
+            "limiting"
+          ],
+          "translations": {
+            "zh-TW": "預算限制正在縮小我們研究計畫的範圍。"
           }
         }
       ],
       "synonyms": [
+        "restriction",
         "boundary",
-        "restriction"
+        "cap"
       ],
       "antonyms": [
         "freedom",
-        "infinity"
+        "unlimited"
       ],
       "phrases": [
-        "upper",
-        "limit",
-        "limit",
-        "of"
+        "upper limit",
+        "time limit",
+        "speed limit",
+        "credit limit"
       ]
     },
     {
@@ -461,47 +637,60 @@
       "toeic_score_min": 200,
       "word": "limited",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
-      "conjugations": {
-        "past_tense": "limiteded",
-        "past_participle": "limiteded",
-        "present_participle": "limiteding",
-        "third_person": "limiteds"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "limited",
-          "definition": "a. 有限制的, 有限的, 有限责任的, n. 特别快車"
+          "definition": "a. 有限的、有限制的"
         }
       ],
       "examples": [
         {
-          "en": "The tickets are limited in number.",
+          "en": "Seats for the workshop are limited, so please register early.",
           "highlight": [
             "limited"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "工作坊的名額有限，請盡早報名。"
+          }
+        },
+        {
+          "en": "The company offers a limited warranty on all electronic products.",
+          "highlight": [
+            "limited"
+          ],
+          "translations": {
+            "zh-TW": "這家公司對所有電子產品提供有限保固。"
+          }
+        },
+        {
+          "en": "Only a limited number of journalists were invited to the press preview.",
+          "highlight": [
+            "limited"
+          ],
+          "translations": {
+            "zh-TW": "只有少數記者受邀參加媒體預覽。"
           }
         }
       ],
       "synonyms": [
         "restricted",
-        "finite"
+        "finite",
+        "scarce"
       ],
       "antonyms": [
         "unlimited",
         "infinite"
       ],
       "phrases": [
-        "limited",
-        "edition",
-        "limited",
-        "access"
+        "limited edition",
+        "limited time",
+        "limited access",
+        "limited liability"
       ]
     }
   ]
