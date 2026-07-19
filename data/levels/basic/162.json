@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 162,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-162-001",
@@ -12,38 +12,60 @@
       "word": "january",
       "pos": [
         "noun",
-        "proper",
-        "noun"
+        "proper noun"
       ],
       "conjugations": {
         "plural": "januaries"
       },
-      "domain": "general",
+      "domain": "calendar",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "january",
-          "definition": "n. 一月"
+          "definition": "n. 一月（公曆第一個月）"
         }
       ],
       "examples": [
         {
-          "en": "January is a cold month.",
+          "en": "The new fiscal year begins in January, so we need to finalize the budget by December.",
           "highlight": [
-            "january"
+            "January"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新財政年度從一月開始，所以我們必須在十二月底前定案預算。"
+          }
+        },
+        {
+          "en": "Last January was the coldest in a decade, with snow closing several offices.",
+          "highlight": [
+            "January"
+          ],
+          "translations": {
+            "zh-TW": "去年一月是十年來最冷的一月，大雪甚至讓幾間辦公室關閉。"
+          }
+        },
+        {
+          "en": "She has two Januaries to remember: the one she started her job and the one she got promoted.",
+          "highlight": [
+            "Januaries"
+          ],
+          "translations": {
+            "zh-TW": "她有兩個難忘的一月：一個是她開始上班的那年，另一個是她升職的那年。"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "first month",
+        "winter month"
+      ],
+      "antonyms": [
+        "December"
+      ],
       "phrases": [
-        "January",
-        "weather",
-        "January",
-        "1st"
+        "in January",
+        "January 1st",
+        "mid-January",
+        "late January"
       ]
     },
     {
@@ -54,47 +76,64 @@
       "toeic_score_min": 200,
       "word": "jealous",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "jealoused",
-        "past_participle": "jealoused",
-        "present_participle": "jealousing",
-        "third_person": "jealouses"
+        "comparative": "jealouser",
+        "superlative": "jealousest"
       },
-      "domain": "general",
+      "domain": "emotion",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "jealous",
-          "definition": "a. 嫉妒的, 羡慕的, 留心的, 戒备的"
+          "definition": "a. 嫉妒的、羨慕的、戒備的"
         }
       ],
       "examples": [
         {
-          "en": "He felt jealous of his friend's success.",
+          "en": "She felt jealous when her colleague received the promotion she had been hoping for.",
           "highlight": [
             "jealous"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "當同事獲得她一直期盼的升遷時，她感到嫉妒。"
+          }
+        },
+        {
+          "en": "He became jealouser of his rival's success as the competition grew fiercer.",
+          "highlight": [
+            "jealouser"
+          ],
+          "translations": {
+            "zh-TW": "隨著競爭變得更加激烈，他對對手的成功越來越嫉妒。"
+          }
+        },
+        {
+          "en": "Among the team, she was the jealousest whenever someone else got praised by the manager.",
+          "highlight": [
+            "jealousest"
+          ],
+          "translations": {
+            "zh-TW": "在團隊中，每當有人被主管稱讚，她是最嫉妒的一個。"
           }
         }
       ],
       "synonyms": [
         "envious",
-        "covetous"
+        "covetous",
+        "resentful"
       ],
       "antonyms": [
         "content",
-        "satisfied"
+        "satisfied",
+        "secure"
       ],
       "phrases": [
-        "feel",
-        "jealous",
-        "jealous",
-        "of"
+        "feel jealous",
+        "jealous of",
+        "jealous feelings",
+        "jealous rage"
       ]
     },
     {
@@ -105,45 +144,61 @@
       "toeic_score_min": 200,
       "word": "jeans",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "jeansed",
-        "past_participle": "jeansed",
-        "present_participle": "jeansing",
-        "third_person": "jeanses"
+        "plural": "jeans"
       },
-      "domain": "general",
+      "domain": "clothing",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "jeans",
-          "definition": "n. 工装裤, 牛仔裤"
+          "definition": "n. 牛仔褲、工裝褲"
         }
       ],
       "examples": [
         {
-          "en": "She bought a new pair of jeans.",
+          "en": "He wore jeans to the office on Friday because the company allows casual dress at the end of the week.",
           "highlight": [
             "jeans"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他星期五穿牛仔褲來辦公室，因為公司允許週末前穿便服。"
+          }
+        },
+        {
+          "en": "She bought two pairs of jeans during the seasonal sale, saving almost thirty percent.",
+          "highlight": [
+            "jeans"
+          ],
+          "translations": {
+            "zh-TW": "她在季節特賣會上買了兩條牛仔褲，省了將近三成。"
+          }
+        },
+        {
+          "en": "Those blue jeans look too casual for a client meeting; you should change into trousers.",
+          "highlight": [
+            "jeans"
+          ],
+          "translations": {
+            "zh-TW": "那條藍色牛仔褲對客戶會議來說太過休閒，你應該換上西裝褲。"
           }
         }
       ],
       "synonyms": [
         "denims",
+        "trousers",
         "pants"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "suit"
+      ],
       "phrases": [
-        "pair",
-        "of",
-        "jeans",
-        "blue",
-        "jeans"
+        "blue jeans",
+        "pair of jeans",
+        "jeans and a t-shirt",
+        "tight jeans"
       ]
     },
     {
@@ -158,40 +213,61 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "jellyed",
-        "past_participle": "jellyed",
-        "present_participle": "jellying",
-        "third_person": "jellys"
+        "plural": "jellies",
+        "past": "jellied",
+        "past_participle": "jellied",
+        "ing": "jellying"
       },
-      "domain": "general",
+      "domain": "food",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "jelly",
-          "definition": "n. 果冻, 果冻甜食, 胶状物, v. (使)結冻, (使)成胶状"
+          "definition": "n. 果凍、果醬、膠狀物  v. 凝結成膠狀"
         }
       ],
       "examples": [
         {
-          "en": "She likes strawberry jelly.",
+          "en": "For breakfast, she spreads jelly on her toast while reviewing the morning emails.",
           "highlight": [
             "jelly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "早餐時，她在吐司上塗果醬，同時查看早上的郵件。"
+          }
+        },
+        {
+          "en": "The caterer brought assorted jellies and jams to the corporate breakfast buffet.",
+          "highlight": [
+            "jellies"
+          ],
+          "translations": {
+            "zh-TW": "外燴公司為企業早餐自助餐帶來了各式果凍和果醬。"
+          }
+        },
+        {
+          "en": "The dessert is still jellying in the fridge, so it will be ready in two more hours.",
+          "highlight": [
+            "jellying"
+          ],
+          "translations": {
+            "zh-TW": "甜點還在冰箱裡凝結中，所以再兩個小時就會完成。"
           }
         }
       ],
       "synonyms": [
         "preserve",
-        "conserve"
+        "jam",
+        "gelatin"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "liquid"
+      ],
       "phrases": [
-        "strawberry",
-        "jelly",
-        "fruit",
-        "jelly"
+        "strawberry jelly",
+        "fruit jelly",
+        "jelly sandwich",
+        "jelly beans"
       ]
     },
     {
@@ -206,40 +282,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "jeweled",
+        "plural": "jewels",
+        "present_3rd": "jewels",
+        "past": "jeweled",
         "past_participle": "jeweled",
-        "present_participle": "jeweling",
-        "third_person": "jewels"
+        "ing": "jeweling"
       },
-      "domain": "general",
+      "domain": "luxury",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "jewel",
-          "definition": "n. 珠宝, 贵重物, 镶珠宝的饰物, vt. 饰以珠宝, 镶以宝石"
+          "definition": "n. 寶石、珠寶  v. 鑲以寶石"
         }
       ],
       "examples": [
         {
-          "en": "The crown was adorned with jewels.",
+          "en": "The investor considers this startup a jewel in his portfolio, because it returns the highest profit.",
           "highlight": [
             "jewel"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位投資人認為這家新創公司是他投資組合中的一顆寶石，因為它帶來最高的利潤。"
+          }
+        },
+        {
+          "en": "The crown jewels are kept in a secured vault and displayed only on special occasions.",
+          "highlight": [
+            "jewels"
+          ],
+          "translations": {
+            "zh-TW": "皇冠上的珠寶被保存在保險庫中，只在特殊場合才展示。"
+          }
+        },
+        {
+          "en": "The artisan spent weeks jeweling the watch case, setting a small diamond on each hour mark.",
+          "highlight": [
+            "jeweling"
+          ],
+          "translations": {
+            "zh-TW": "工匠花了數週時間為錶殼鑲嵌寶石，在每個時辰刻度上各鑲一顆小鑽石。"
           }
         }
       ],
       "synonyms": [
         "gem",
-        "gemstone"
+        "gemstone",
+        "precious stone"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "rhinestone"
+      ],
       "phrases": [
-        "precious",
-        "jewel",
-        "crown",
-        "jewel"
+        "crown jewel",
+        "precious jewel",
+        "jewel case",
+        "jewel thief"
       ]
     },
     {
@@ -250,44 +348,57 @@
       "toeic_score_min": 200,
       "word": "jewelry",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
-      "conjugations": {
-        "past_tense": "jewelryed",
-        "past_participle": "jewelryed",
-        "present_participle": "jewelrying",
-        "third_person": "jewelrys"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "luxury",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "jewelry",
-          "definition": "n. 珠宝, 珠宝类"
+          "definition": "n. 珠寶、首飾（總稱）"
         }
       ],
       "examples": [
         {
-          "en": "She wore elegant jewelry.",
+          "en": "She runs a small boutique that sells handmade jewelry to online customers around the world.",
           "highlight": [
             "jewelry"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她經營一間小商店，向世界各地的線上顧客販售手工珠寶。"
+          }
+        },
+        {
+          "en": "The insurance policy covers lost or stolen jewelry up to ten thousand dollars.",
+          "highlight": [
+            "jewelry"
+          ],
+          "translations": {
+            "zh-TW": "這份保單理賠遺失或失竊的珠寶，最高一萬美元。"
+          }
+        },
+        {
+          "en": "Buying jewelry as a corporate gift requires care, because tastes vary widely among executives.",
+          "highlight": [
+            "jewelry"
+          ],
+          "translations": {
+            "zh-TW": "把珠寶當作企業贈禮需要謹慎，因為主管們的品味差異很大。"
           }
         }
       ],
       "synonyms": [
-        "ornament",
-        "bijouterie"
+        "ornaments",
+        "accessories",
+        "trinkets"
       ],
       "antonyms": [],
       "phrases": [
-        "gold",
-        "jewelry",
-        "elegant",
-        "jewelry"
+        "gold jewelry",
+        "silver jewelry",
+        "fine jewelry",
+        "jewelry store"
       ]
     },
     {
@@ -302,42 +413,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "jobed",
-        "past_participle": "jobed",
-        "present_participle": "jobing",
-        "third_person": "jobs"
+        "plural": "jobs",
+        "present_3rd": "jobs",
+        "past": "jobbed",
+        "past_participle": "jobbed",
+        "ing": "jobbing"
       },
-      "domain": "general",
+      "domain": "work",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "job",
-          "definition": "n. 工作, 零活, 职业, 事情, vi. 做零工, 打杂, 做股票經纪, 假公济私, vt. 代客買賣, 批發, 承包, 欺骗, [计] 作业"
+          "definition": "n. 工作、職位、差事  v. 做零工、批發"
         }
       ],
       "examples": [
         {
-          "en": "He has a new job at the company.",
+          "en": "She accepted the job offer right away because the salary was higher than she expected.",
           "highlight": [
             "job"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她馬上接受了這份工作錄取通知，因為薪水比她預期的還要高。"
+          }
+        },
+        {
+          "en": "Many jobs in the factory were cut after the company moved production overseas.",
+          "highlight": [
+            "jobs"
+          ],
+          "translations": {
+            "zh-TW": "公司將生產線移往海外後，工廠裡許多職位被削減。"
+          }
+        },
+        {
+          "en": "Before opening his own shop, he jobbed for several years as a freelance translator.",
+          "highlight": [
+            "jobbed"
+          ],
+          "translations": {
+            "zh-TW": "在開自己的店之前，他做了幾年自由譯者的零工。"
           }
         }
       ],
       "synonyms": [
         "occupation",
-        "position"
+        "position",
+        "task"
       ],
       "antonyms": [
-        "unemployment"
+        "unemployment",
+        "leisure"
       ],
       "phrases": [
-        "new",
-        "job",
-        "part-time",
-        "job"
+        "new job",
+        "part-time job",
+        "job interview",
+        "on the job"
       ]
     },
     {
@@ -352,44 +484,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "joined",
+        "present_3rd": "joins",
+        "past": "joined",
         "past_participle": "joined",
-        "present_participle": "joining",
-        "third_person": "joins"
+        "ing": "joining"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "join",
-          "definition": "vi. 参加, 結合, 加入, vt. 连接, 結合, 参加, 加入, n. 连接, 結合, 接合點, [计] 连接; 汇合指令"
+          "definition": "v. 加入、參加、連接  n. 接合點"
         }
       ],
       "examples": [
         {
-          "en": "They decided to join the club.",
+          "en": "He decided to join the marketing team after working in sales for three years.",
           "highlight": [
             "join"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在業務部門工作了三年後，他決定加入行銷團隊。"
+          }
+        },
+        {
+          "en": "She joined the conference call five minutes late because her previous meeting ran over.",
+          "highlight": [
+            "joined"
+          ],
+          "translations": {
+            "zh-TW": "她晚五分鐘才加入電話會議，因為前一個會議延長了。"
+          }
+        },
+        {
+          "en": "By joining the loyalty program, customers can earn points on every purchase.",
+          "highlight": [
+            "joining"
+          ],
+          "translations": {
+            "zh-TW": "加入忠誠會員計畫後，顧客每筆消費都可以累積點數。"
           }
         }
       ],
       "synonyms": [
         "unite",
-        "connect"
+        "connect",
+        "enlist"
       ],
       "antonyms": [
         "separate",
-        "divide"
+        "leave",
+        "split"
       ],
       "phrases": [
-        "join",
-        "a",
-        "club",
-        "join",
-        "the"
+        "join a club",
+        "join forces",
+        "join the team",
+        "join hands"
       ]
     },
     {
@@ -411,30 +562,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "joint",
-          "definition": "n. 连接處, 接合, 關节, a. 共同的, 联合的, 连接的, 合办的, vt. 连接, 接合, 使有接頭, vi. 贴合, 長节"
+          "definition": "n. 關節、接合處  a. 共同的、聯合的"
         }
       ],
       "examples": [
         {
-          "en": "He has pain in his knee joint.",
+          "en": "The two companies signed a joint venture to develop new battery technology.",
           "highlight": [
             "joint"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "兩家公司簽署了合資協議，共同開發新的電池技術。"
+          }
+        },
+        {
+          "en": "The doctor said the pain in her finger joints was caused by too much typing at work.",
+          "highlight": [
+            "joints"
+          ],
+          "translations": {
+            "zh-TW": "醫生說她手指關節的疼痛是因為工作時打字過多所致。"
+          }
+        },
+        {
+          "en": "They hold a joint account at the bank so either spouse can pay the household bills.",
+          "highlight": [
+            "joint"
+          ],
+          "translations": {
+            "zh-TW": "他們在銀行開了一個聯名帳戶，這樣夫妻任一方都能支付家庭帳單。"
           }
         }
       ],
       "synonyms": [
         "junction",
-        "connection"
+        "connection",
+        "shared"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "separate",
+        "individual"
+      ],
       "phrases": [
-        "knee",
-        "joint",
-        "elbow",
-        "joint"
+        "joint venture",
+        "joint account",
+        "knee joint",
+        "joint effort"
       ]
     },
     {
@@ -453,33 +626,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "jointly",
-          "definition": "adv. 共同地, 连帶地"
+          "definition": "adv. 共同地、連帶地"
         }
       ],
       "examples": [
         {
-          "en": "They worked jointly on the project.",
+          "en": "The two departments jointly organized the year-end party to split the cost and workload.",
           "highlight": [
             "jointly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "兩個部門共同舉辦尾牙，以分攤成本與工作量。"
+          }
+        },
+        {
+          "en": "The report was jointly written by engineers and marketing staff for the board meeting.",
+          "highlight": [
+            "jointly"
+          ],
+          "translations": {
+            "zh-TW": "這份報告由工程師與行銷人員共同撰寫，以供董事會會議使用。"
+          }
+        },
+        {
+          "en": "The couple jointly owns the restaurant, but only one of them appears on the legal license.",
+          "highlight": [
+            "jointly"
+          ],
+          "translations": {
+            "zh-TW": "這對夫妻共同擁有這家餐廳，但營業執照上只有一人具名。"
           }
         }
       ],
       "synonyms": [
         "together",
-        "mutually"
+        "mutually",
+        "cooperatively"
       ],
       "antonyms": [
         "individually",
+        "separately",
         "singly"
       ],
       "phrases": [
-        "jointly",
-        "owned",
-        "jointly",
-        "responsible"
+        "jointly owned",
+        "jointly responsible",
+        "work jointly",
+        "jointly funded"
       ]
     }
   ]
