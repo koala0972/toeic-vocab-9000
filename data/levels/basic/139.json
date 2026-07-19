@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 139,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-139-001",
@@ -11,47 +11,67 @@
       "toeic_score_min": 200,
       "word": "guard",
       "pos": [
-        "verb",
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "guarded",
+        "plural": "guards",
+        "present_3rd": "guards",
+        "past": "guarded",
         "past_participle": "guarded",
-        "present_participle": "guarding",
-        "third_person": "guards"
+        "ing": "guarding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "guard",
-          "definition": "n. 守卫者, 警戒, 护卫队, 防护装置, vt. 保卫, 看守, 当心, vi. 防止, 警惕, 警卫, 看守"
+          "definition": "n. 警衛、守衛、保鏢  v. 保護、看守、警戒"
         }
       ],
       "examples": [
         {
-          "en": "The guard checked everyone's ID.",
+          "en": "The security guard checked everyone's ID before letting them enter the building.",
           "highlight": [
             "guard"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "警衛在讓大家進入大樓之前檢查了每個人的身分證。"
+          }
+        },
+        {
+          "en": "The dog guarded the warehouse throughout the night while we were away.",
+          "highlight": [
+            "guarded"
+          ],
+          "translations": {
+            "zh-TW": "我們不在時，那隻狗整晚守著倉庫。"
+          }
+        },
+        {
+          "en": "She is guarding the luggage while her husband buys the train tickets.",
+          "highlight": [
+            "guarding"
+          ],
+          "translations": {
+            "zh-TW": "她先生去買火車票時，她正在看守行李。"
           }
         }
       ],
       "synonyms": [
         "protect",
+        "defend",
         "watch"
       ],
       "antonyms": [
-        "ignore",
-        "neglect"
+        "attack",
+        "ignore"
       ],
       "phrases": [
-        "security",
-        "guard",
-        "guard",
-        "against"
+        "security guard",
+        "guard against",
+        "bodyguard",
+        "on guard"
       ]
     },
     {
@@ -66,43 +86,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "guessed",
+        "plural": "guesses",
+        "present_3rd": "guesses",
+        "past": "guessed",
         "past_participle": "guessed",
-        "present_participle": "guessing",
-        "third_person": "guesses"
+        "ing": "guessing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "guess",
-          "definition": "n. 猜测, 臆测, v. 猜测, 臆测"
+          "definition": "v. 猜測、估計、推測  n. 猜測、猜想"
         }
       ],
       "examples": [
         {
-          "en": "Can you guess the answer?",
+          "en": "Can you guess how many people will attend the conference tomorrow?",
           "highlight": [
             "guess"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "你猜猜看明天會有多少人來參加研討會？"
+          }
+        },
+        {
+          "en": "She guessed the password on the third try and finally logged into the system.",
+          "highlight": [
+            "guessed"
+          ],
+          "translations": {
+            "zh-TW": "她第三次才猜中密碼，終於登入了系統。"
+          }
+        },
+        {
+          "en": "Stop guessing and just ask the manager directly if you want the right answer.",
+          "highlight": [
+            "guessing"
+          ],
+          "translations": {
+            "zh-TW": "別再瞎猜了，想要正確答案就直接問經理吧。"
           }
         }
       ],
       "synonyms": [
         "estimate",
-        "suppose"
+        "suppose",
+        "assume"
       ],
       "antonyms": [
         "know",
-        "ascertain"
+        "verify"
       ],
       "phrases": [
-        "wild",
-        "guess",
-        "educated",
-        "guess"
+        "wild guess",
+        "educated guess",
+        "guess what",
+        "take a guess"
       ]
     },
     {
@@ -117,43 +157,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "guested",
+        "plural": "guests",
+        "present_3rd": "guests",
+        "past": "guested",
         "past_participle": "guested",
-        "present_participle": "guesting",
-        "third_person": "guests"
+        "ing": "guesting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "guest",
-          "definition": "n. 客人, 來宾, 旅客, [化] 客体"
+          "definition": "n. 客人、賓客、住客  v. 客串演出、擔任特別來賓"
         }
       ],
       "examples": [
         {
-          "en": "She welcomed her guests warmly.",
+          "en": "The hotel guest asked the receptionist for an extra pillow and blanket.",
           "highlight": [
             "guest"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "飯店住客向櫃檯人員要求多要一個枕頭和一條毛毯。"
+          }
+        },
+        {
+          "en": "All the guests at the wedding party were impressed by the delicious food.",
+          "highlight": [
+            "guests"
+          ],
+          "translations": {
+            "zh-TW": "婚宴上的所有賓客都對美味的餐點印象深刻。"
+          }
+        },
+        {
+          "en": "The famous author guested on a popular podcast to talk about her new book.",
+          "highlight": [
+            "guested"
+          ],
+          "translations": {
+            "zh-TW": "那位知名作家客串上了一個熱門Podcast節目，談論她的新書。"
           }
         }
       ],
       "synonyms": [
         "visitor",
-        "invitee"
+        "invitee",
+        "caller"
       ],
       "antonyms": [
         "host",
         "resident"
       ],
       "phrases": [
-        "welcome",
-        "guest",
-        "honored",
-        "guest"
+        "honored guest",
+        "guest room",
+        "guest list",
+        "guest speaker"
       ]
     },
     {
@@ -168,43 +228,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "guideed",
-        "past_participle": "guideed",
-        "present_participle": "guiding",
-        "third_person": "guides"
+        "plural": "guides",
+        "present_3rd": "guides",
+        "past": "guided",
+        "past_participle": "guided",
+        "ing": "guiding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "guide",
-          "definition": "n. 引导者, 导游, 指南, 路标, vt. 指导, 支配, 管理, 帶领, 操纵, vi. 任向导, [计] 辅助线"
+          "definition": "n. 導遊、嚮導、指南  v. 引導、帶領、指導"
         }
       ],
       "examples": [
         {
-          "en": "The guide led us through the museum.",
+          "en": "The tour guide led us through the museum and explained each painting in detail.",
           "highlight": [
             "guide"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "導遊帶領我們穿過博物館，並詳細解說每一幅畫作。"
+          }
+        },
+        {
+          "en": "An experienced lawyer guided her through the complex contract before she signed it.",
+          "highlight": [
+            "guided"
+          ],
+          "translations": {
+            "zh-TW": "在她簽字之前，一位經驗豐富的律師帶她看過這份複雜的合約。"
+          }
+        },
+        {
+          "en": "Strong core values are guiding the company's decisions during this difficult period.",
+          "highlight": [
+            "guiding"
+          ],
+          "translations": {
+            "zh-TW": "在這段困難時期，堅實的核心價值正在引導公司的決策。"
           }
         }
       ],
       "synonyms": [
         "escort",
+        "lead",
         "mentor"
       ],
       "antonyms": [
-        "follower",
-        "misguide"
+        "mislead",
+        "follow"
       ],
       "phrases": [
-        "tour",
-        "guide",
-        "guide",
-        "book"
+        "tour guide",
+        "guide book",
+        "guided tour",
+        "guiding principle"
       ]
     },
     {
@@ -215,48 +295,63 @@
       "toeic_score_min": 200,
       "word": "guilty",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "guiltyed",
-        "past_participle": "guiltyed",
-        "present_participle": "guiltying",
-        "third_person": "guiltys"
+        "comparative": "guiltier",
+        "superlative": "guiltiest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "guilty",
-          "definition": "a. 犯罪的, 有過失的, 自觉有錯的, 心虚的, [法] 有罪的, 犯罪的, 自觉有罪的"
+          "definition": "adj. 有罪的、內疚的、心虛的"
         }
       ],
       "examples": [
         {
-          "en": "He felt guilty about the lie.",
+          "en": "The jury found the manager guilty of stealing money from the company.",
           "highlight": [
             "guilty"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "陪審團判決那位經理盜用公司資金有罪。"
+          }
+        },
+        {
+          "en": "She felt guiltier about lying to her best friend than about missing the meeting.",
+          "highlight": [
+            "guiltier"
+          ],
+          "translations": {
+            "zh-TW": "她對欺騙摯友感到的內疚，比錯過會議還要更深。"
+          }
+        },
+        {
+          "en": "It was the guiltiest moment of his life when he realized he had hurt his coworker's career.",
+          "highlight": [
+            "guiltiest"
+          ],
+          "translations": {
+            "zh-TW": "當他意識到自己傷害了同事的職涯時，那是他一生中最內疚的時刻。"
           }
         }
       ],
       "synonyms": [
         "culpable",
-        "at",
-        "fault"
+        "ashamed",
+        "remorseful"
       ],
       "antonyms": [
         "innocent",
         "blameless"
       ],
       "phrases": [
-        "feel",
-        "guilty",
-        "guilty",
-        "of"
+        "feel guilty",
+        "guilty of",
+        "guilty conscience",
+        "guilty plea"
       ]
     },
     {
@@ -267,45 +362,62 @@
       "toeic_score_min": 200,
       "word": "habit",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "habited",
-        "past_participle": "habited",
-        "present_participle": "habiting",
-        "third_person": "habits"
+        "plural": "habits"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "habit",
-          "definition": "n. 习惯, 嗜好, 习性, vt. 使穿衣"
+          "definition": "n. 習慣、慣例、癖好"
         }
       ],
       "examples": [
         {
-          "en": "She has a habit of biting her nails.",
+          "en": "Reading a business journal every morning is a productive habit for any manager.",
           "highlight": [
             "habit"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "每天早上閱讀商業期刊，對任何經理而言都是一個有益的習慣。"
+          }
+        },
+        {
+          "en": "Good habits like daily exercise and punctual meetings will help you succeed in your career.",
+          "highlight": [
+            "habits"
+          ],
+          "translations": {
+            "zh-TW": "像每日運動和準時開會這類好習慣，會幫助你在職涯上成功。"
+          }
+        },
+        {
+          "en": "She stopped smoking last year but still occasionally writes reports out of old habit.",
+          "highlight": [
+            "habit"
+          ],
+          "translations": {
+            "zh-TW": "她去年戒了菸，但偶爾還是出於舊習慣而寫報告。"
           }
         }
       ],
       "synonyms": [
         "custom",
-        "practice"
+        "practice",
+        "routine"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "irregularity",
+        "change"
+      ],
       "phrases": [
-        "bad",
-        "habit",
-        "break",
-        "a",
-        "habit"
+        "bad habit",
+        "break a habit",
+        "out of habit",
+        "healthy habit"
       ]
     },
     {
@@ -316,46 +428,61 @@
       "toeic_score_min": 200,
       "word": "hair",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "haired",
-        "past_participle": "haired",
-        "present_participle": "hairing",
-        "third_person": "hairs"
+        "plural": "hairs"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "hair",
-          "definition": "n. 頭發, 毛發, 些微, [医] 毛, 發"
+          "definition": "n. 頭髮、毛髮、一根毛髮"
         }
       ],
       "examples": [
         {
-          "en": "Her hair is long and curly.",
+          "en": "The job interviewer noticed that the candidate's hair was neatly styled and professional.",
           "highlight": [
             "hair"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "面試官注意到求職者的頭髮梳整得很整齊、很專業。"
+          }
+        },
+        {
+          "en": "The laboratory technician found two short hairs on the jacket used as evidence.",
+          "highlight": [
+            "hairs"
+          ],
+          "translations": {
+            "zh-TW": "實驗室技術員在作為證物的夾克上發現了兩根短毛髮。"
+          }
+        },
+        {
+          "en": "She asked her hairdresser to trim only the split ends and keep the rest long.",
+          "highlight": [
+            "hair"
+          ],
+          "translations": {
+            "zh-TW": "她請美髮師只修剪分岔的髮尾，其餘部分保持長度。"
           }
         }
       ],
       "synonyms": [
         "locks",
-        "tresses"
+        "tresses",
+        "mane"
       ],
       "antonyms": [
         "baldness"
       ],
       "phrases": [
-        "curly",
-        "hair",
-        "hair",
-        "color"
+        "hair style",
+        "hair color",
+        "hair cut",
+        "get a haircut"
       ]
     },
     {
@@ -366,44 +493,59 @@
       "toeic_score_min": 200,
       "word": "hairdresser",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "hairdressered",
-        "past_participle": "hairdressered",
-        "present_participle": "hairdressering",
-        "third_person": "hairdressers"
+        "plural": "hairdressers"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "hairdresser",
-          "definition": "n. 美發師, 理發師"
+          "definition": "n. 美髮師、理髮師、設計師"
         }
       ],
       "examples": [
         {
-          "en": "She works as a hairdresser.",
+          "en": "The hairdresser suggested a new style that would suit her face shape and busy office life.",
           "highlight": [
             "hairdresser"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "美髮師建議了一款新造型，既適合她的臉型，也適合忙碌的上班族生活。"
+          }
+        },
+        {
+          "en": "Several hairdressers in that salon are fully booked on weekends because of high demand.",
+          "highlight": [
+            "hairdressers"
+          ],
+          "translations": {
+            "zh-TW": "那家美髮沙龍有幾位設計師週末都已約滿，因為需求量很高。"
+          }
+        },
+        {
+          "en": "She has worked as a professional hairdresser for over ten years and owns a small salon downtown.",
+          "highlight": [
+            "hairdresser"
+          ],
+          "translations": {
+            "zh-TW": "她擔任專業美髮師已超過十年，並在市中心經營一家小型沙龍。"
           }
         }
       ],
       "synonyms": [
         "barber",
-        "stylist"
+        "stylist",
+        "hairstylist"
       ],
       "antonyms": [],
       "phrases": [
-        "professional",
-        "hairdresser",
-        "visit",
-        "hairdresser"
+        "professional hairdresser",
+        "visit the hairdresser",
+        "hair salon",
+        "hairdresser appointment"
       ]
     },
     {
@@ -418,41 +560,59 @@
         "adjective"
       ],
       "conjugations": {
-        "plural": "halfs"
+        "plural": "halves"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "half",
-          "definition": "n. 一半, 半場, 不完全, a. 一半的, 不完全的, 部分的, 半場的, adv. 一半地, 部分地, 在某種程度上地, 几乎"
+          "definition": "n. 一半、半個  adj. 一半的、部分的  adv. 一半地"
         }
       ],
       "examples": [
         {
-          "en": "Cut the apple in half.",
+          "en": "Only half of the employees showed up for the emergency meeting on Friday afternoon.",
           "highlight": [
             "half"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "週五下午的緊急會議只有一半的員工出席。"
+          }
+        },
+        {
+          "en": "Divide the cake into two halves and give one half to the new neighbors next door.",
+          "highlight": [
+            "halves"
+          ],
+          "translations": {
+            "zh-TW": "把蛋糕分成兩半，將其中一半給隔壁新搬來的鄰居。"
+          }
+        },
+        {
+          "en": "We finished the report in half the time we expected thanks to the new software tool.",
+          "highlight": [
+            "half"
+          ],
+          "translations": {
+            "zh-TW": "多虧了新的軟體工具，我們只花了預期一半的時間就完成了報告。"
           }
         }
       ],
       "synonyms": [
         "part",
-        "portion"
+        "portion",
+        "moiety"
       ],
       "antonyms": [
         "whole",
         "entire"
       ],
       "phrases": [
-        "cut",
-        "in",
-        "half",
-        "half",
-        "full"
+        "cut in half",
+        "half full",
+        "half price",
+        "half time"
       ]
     },
     {
@@ -463,45 +623,59 @@
       "toeic_score_min": 200,
       "word": "hall",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "halled",
-        "past_participle": "halled",
-        "present_participle": "halling",
-        "third_person": "halls"
+        "plural": "halls"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "hall",
-          "definition": "n. 門厅, 走廊, 會堂"
+          "definition": "n. 玄關、走廊、大廳、會堂"
         }
       ],
       "examples": [
         {
-          "en": "They waited in the hall.",
+          "en": "All the employees gathered in the main hall for the annual company announcement.",
           "highlight": [
             "hall"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "所有員工都聚集到主大廳，聆聽年度公司公告。"
+          }
+        },
+        {
+          "en": "There are several concert halls in this city, but only one is large enough for a full orchestra.",
+          "highlight": [
+            "halls"
+          ],
+          "translations": {
+            "zh-TW": "這座城市有幾座音樂廳，但只有一座大到足以容纳整個交響樂團。"
+          }
+        },
+        {
+          "en": "Please leave your shoes in the hall before entering the office to keep the carpet clean.",
+          "highlight": [
+            "hall"
+          ],
+          "translations": {
+            "zh-TW": "為了保持地毯清潔，請在進辦公室前把鞋子留在玄關。"
           }
         }
       ],
       "synonyms": [
         "entrance",
-        "foyer"
+        "foyer",
+        "lobby"
       ],
       "antonyms": [],
       "phrases": [
-        "hall",
-        "of",
-        "residence",
-        "school",
-        "hall"
+        "hall of residence",
+        "concert hall",
+        "city hall",
+        "hall way"
       ]
     }
   ]
