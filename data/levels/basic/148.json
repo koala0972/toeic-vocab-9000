@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 148,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-148-001",
@@ -15,40 +15,61 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "hots"
+        "plural": "hots",
+        "comparative": "hotter",
+        "superlative": "hottest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "hot",
-          "definition": "a. 热的, 热心的, 辣的, 热情的, 激動的, 猛烈的, 紧迫的, adv. 热, 紧迫地"
+          "definition": "a. 熱的、辣的、激烈的、搶手的  n. 熱"
         }
       ],
       "examples": [
         {
-          "en": "It was a hot summer day.",
+          "en": "The coffee is too hot to drink right now.",
           "highlight": [
             "hot"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "咖啡現在太燙了，沒辦法馬上喝。"
+          }
+        },
+        {
+          "en": "Yesterday was even hotter than today, reaching 38 degrees.",
+          "highlight": [
+            "hotter"
+          ],
+          "translations": {
+            "zh-TW": "昨天比今天更熱，氣溫高達 38 度。"
+          }
+        },
+        {
+          "en": "This summer has been the hottest on record in the city.",
+          "highlight": [
+            "hottest"
+          ],
+          "translations": {
+            "zh-TW": "這個夏天是該市有史以來最熱的一次。"
           }
         }
       ],
       "synonyms": [
         "warm",
-        "heated"
+        "heated",
+        "spicy"
       ],
       "antonyms": [
         "cold",
         "cool"
       ],
       "phrases": [
-        "hot",
-        "day",
-        "hot",
-        "water"
+        "hot weather",
+        "hot topic",
+        "hot dog",
+        "hot spot"
       ]
     },
     {
@@ -59,45 +80,59 @@
       "toeic_score_min": 200,
       "word": "hotel",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "hoteled",
-        "past_participle": "hoteled",
-        "present_participle": "hoteling",
-        "third_person": "hotels"
+        "plural": "hotels"
       },
-      "domain": "general",
+      "domain": "travel",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "hotel",
-          "definition": "n. 旅館, 客栈"
+          "definition": "n. 旅館、飯店"
         }
       ],
       "examples": [
         {
-          "en": "They stayed at a luxurious hotel.",
+          "en": "We booked a hotel near the conference center.",
           "highlight": [
             "hotel"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們在會議中心附近訂了一家旅館。"
+          }
+        },
+        {
+          "en": "Several new hotels opened downtown this year.",
+          "highlight": [
+            "hotels"
+          ],
+          "translations": {
+            "zh-TW": "今年市區新開了好幾家旅館。"
+          }
+        },
+        {
+          "en": "The hotel chain operates over 200 properties worldwide.",
+          "highlight": [
+            "hotel"
+          ],
+          "translations": {
+            "zh-TW": "這家連鎖飯店在全球營運超過 200 家分館。"
           }
         }
       ],
       "synonyms": [
         "inn",
-        "lodge"
+        "lodge",
+        "resort"
       ],
       "antonyms": [],
       "phrases": [
-        "luxury",
-        "hotel",
-        "stay",
-        "at",
-        "a"
+        "luxury hotel",
+        "boutique hotel",
+        "hotel room",
+        "stay at a hotel"
       ]
     },
     {
@@ -108,48 +143,61 @@
       "toeic_score_min": 200,
       "word": "hour",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "houred",
-        "past_participle": "houred",
-        "present_participle": "houring",
-        "third_person": "hours"
+        "plural": "hours"
       },
-      "domain": "general",
+      "domain": "time",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "hour",
-          "definition": "n. 小時, 钟頭, 時間, ...點钟, 课時"
+          "definition": "n. 小時、鐘頭、時間"
         }
       ],
       "examples": [
         {
-          "en": "It takes an hour to get there.",
+          "en": "It takes an hour to drive from Taipei to Taoyuan.",
           "highlight": [
             "hour"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "從台北開車到桃園需要一個小時。"
+          }
+        },
+        {
+          "en": "Office hours are from nine to six on weekdays.",
+          "highlight": [
+            "hours"
+          ],
+          "translations": {
+            "zh-TW": "辦公時間為週一至週五早上九點到下午六點。"
+          }
+        },
+        {
+          "en": "She worked for three hours without taking a break.",
+          "highlight": [
+            "hours"
+          ],
+          "translations": {
+            "zh-TW": "她連續工作了三個小時都沒有休息。"
           }
         }
       ],
       "synonyms": [
-        "sixty",
-        "minutes",
-        "time"
+        "time",
+        "moment"
       ],
       "antonyms": [
         "minute",
         "second"
       ],
       "phrases": [
-        "one",
-        "hour",
-        "two",
-        "hours"
+        "business hours",
+        "rush hour",
+        "per hour",
+        "half an hour"
       ]
     },
     {
@@ -164,44 +212,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "houseed",
-        "past_participle": "houseed",
-        "present_participle": "housing",
-        "third_person": "houses"
+        "plural": "houses",
+        "present_3rd": "houses",
+        "past": "housed",
+        "past_participle": "housed",
+        "ing": "housing"
       },
-      "domain": "general",
+      "domain": "living",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "house",
-          "definition": "n. 房子, 住宅, 机构, 議院, 家族, 家庭, vt. 给...房子住, 收藏, vi. 住, 躲藏"
+          "definition": "n. 房子、住宅、機構  v. 提供住房、收容"
         }
       ],
       "examples": [
         {
-          "en": "They bought a new house.",
+          "en": "They bought a house in the suburbs last year.",
           "highlight": [
             "house"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他們去年在郊區買了一棟房子。"
+          }
+        },
+        {
+          "en": "The new warehouse will house all the company's inventory.",
+          "highlight": [
+            "house"
+          ],
+          "translations": {
+            "zh-TW": "新倉庫將用來存放公司所有的庫存。"
+          }
+        },
+        {
+          "en": "Three families are currently housed in the temporary shelter.",
+          "highlight": [
+            "housed"
+          ],
+          "translations": {
+            "zh-TW": "目前有三個家庭被安置在臨時避難所中。"
           }
         }
       ],
       "synonyms": [
         "home",
-        "residence"
+        "residence",
+        "dwelling"
       ],
-      "antonyms": [
-        "apartment",
-        "flat"
-      ],
+      "antonyms": [],
       "phrases": [
-        "buy",
-        "a",
-        "house",
-        "house",
-        "and"
+        "house price",
+        "house hunting",
+        "company house",
+        "house of representatives"
       ]
     },
     {
@@ -218,36 +282,53 @@
       "conjugations": {
         "plural": "households"
       },
-      "domain": "general",
+      "domain": "family",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "household",
-          "definition": "n. 一家人, 家庭, 家族, 王室, a. 家庭的, 家常的, 王室的"
+          "definition": "n. 一家人、家庭  a. 家庭的、家用的"
         }
       ],
       "examples": [
         {
-          "en": "The whole household was asleep.",
+          "en": "The average household in Taipei has 2.5 people.",
           "highlight": [
             "household"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "台北的平均每戶家庭有 2.5 人。"
+          }
+        },
+        {
+          "en": "Many households now rely on two incomes to get by.",
+          "highlight": [
+            "households"
+          ],
+          "translations": {
+            "zh-TW": "現在許多家庭靠兩份收入才能維持生計。"
+          }
+        },
+        {
+          "en": "She is responsible for all the household expenses.",
+          "highlight": [
+            "household"
+          ],
+          "translations": {
+            "zh-TW": "她負責所有的家庭開支。"
           }
         }
       ],
       "synonyms": [
         "family",
-        "unit",
         "home"
       ],
       "antonyms": [],
       "phrases": [
-        "household",
-        "chores",
-        "entire",
-        "household"
+        "household income",
+        "household chores",
+        "household goods",
+        "household appliances"
       ]
     },
     {
@@ -258,44 +339,57 @@
       "toeic_score_min": 200,
       "word": "housing",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
-      "conjugations": {
-        "past_tense": "housinged",
-        "past_participle": "housinged",
-        "present_participle": "housinging",
-        "third_person": "housings"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "living",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "housing",
-          "definition": "n. 遮盖, 住房供给, 居留(處), 房屋, 装饰, [化] 外壳"
+          "definition": "n. 住房、住宅、房屋供給"
         }
       ],
       "examples": [
         {
-          "en": "There is a need for affordable housing.",
+          "en": "The government is building more affordable housing for young families.",
           "highlight": [
             "housing"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "政府正在為年輕家庭興建更多可負擔的住宅。"
+          }
+        },
+        {
+          "en": "Housing prices in the capital have risen sharply this year.",
+          "highlight": [
+            "Housing"
+          ],
+          "translations": {
+            "zh-TW": "首都的房價今年大幅上漲。"
+          }
+        },
+        {
+          "en": "The university guarantees housing for all first-year students.",
+          "highlight": [
+            "housing"
+          ],
+          "translations": {
+            "zh-TW": "大學保證所有大一新生都有宿舍住。"
           }
         }
       ],
       "synonyms": [
         "shelter",
-        "residence"
+        "accommodation",
+        "lodging"
       ],
       "antonyms": [],
       "phrases": [
-        "public",
-        "housing",
-        "housing",
-        "market"
+        "public housing",
+        "housing market",
+        "housing project",
+        "student housing"
       ]
     },
     {
@@ -315,33 +409,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "how",
-          "definition": "adv. 如何, 怎樣, 多少, 多麼, n. 方式"
+          "definition": "adv. 如何、怎樣、多麼  conj. 如何"
         }
       ],
       "examples": [
         {
-          "en": "How do you solve this problem?",
+          "en": "How do you usually commute to the office?",
+          "highlight": [
+            "How"
+          ],
+          "translations": {
+            "zh-TW": "你通常怎麼通勤到辦公室？"
+          }
+        },
+        {
+          "en": "Could you explain how the new payment system works?",
           "highlight": [
             "how"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "你能說明一下新的支付系統如何運作嗎？"
+          }
+        },
+        {
+          "en": "How wonderful it is to see you after so many years!",
+          "highlight": [
+            "How"
+          ],
+          "translations": {
+            "zh-TW": "隔了這麼多年還能見到你，真是太棒了！"
           }
         }
       ],
       "synonyms": [
-        "in",
-        "what",
-        "way",
-        "by",
-        "what"
+        "in what way",
+        "by what means"
       ],
       "antonyms": [],
       "phrases": [
-        "how",
-        "to",
-        "how",
-        "come"
+        "how to",
+        "how come",
+        "how about",
+        "how much"
       ]
     },
     {
@@ -361,33 +470,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "however",
-          "definition": "adv. 然而, 无论如何, 究竟怎樣, conj. 然而, 可是"
+          "definition": "adv. 然而、不過、無論如何  conj. 然而"
         }
       ],
       "examples": [
         {
-          "en": "He is tired; however, he will continue working.",
+          "en": "The deadline is tight; however, the team will meet it.",
           "highlight": [
             "however"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "截止時間很緊；不過，團隊會如期完成。"
+          }
+        },
+        {
+          "en": "However you choose to handle the matter, let me know first.",
+          "highlight": [
+            "However"
+          ],
+          "translations": {
+            "zh-TW": "無論你決定如何處理這件事，請先讓我知道。"
+          }
+        },
+        {
+          "en": "Sales dropped last quarter; however, profits rose by 5 percent.",
+          "highlight": [
+            "however"
+          ],
+          "translations": {
+            "zh-TW": "上季銷售下滑；然而，利潤卻成長了百分之五。"
           }
         }
       ],
       "synonyms": [
         "nevertheless",
-        "yet"
+        "yet",
+        "still"
       ],
       "antonyms": [
         "therefore",
         "consequently"
       ],
       "phrases": [
-        "however",
-        "difficult",
-        "however",
-        "much"
+        "however much",
+        "however difficult",
+        "however long",
+        "look tired however"
       ]
     },
     {
@@ -398,44 +526,64 @@
       "toeic_score_min": 200,
       "word": "huge",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "huges"
+        "plural": "huge",
+        "comparative": "huger",
+        "superlative": "hugest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "huge",
-          "definition": "a. 极大的, 巨大的, 无限的"
+          "definition": "a. 巨大的、龐大的、非常的"
         }
       ],
       "examples": [
         {
-          "en": "The elephant is a huge animal.",
+          "en": "The company made a huge profit this quarter.",
           "highlight": [
             "huge"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家公司本季創下了龐大的利潤。"
+          }
+        },
+        {
+          "en": "The new stadium is huger than the old one by far.",
+          "highlight": [
+            "huger"
+          ],
+          "translations": {
+            "zh-TW": "新體育館比舊體育館大得多。"
+          }
+        },
+        {
+          "en": "Winning the contract was the hugest success of his career.",
+          "highlight": [
+            "hugest"
+          ],
+          "translations": {
+            "zh-TW": "拿下這份合約是他生涯中最巨大的成功。"
           }
         }
       ],
       "synonyms": [
         "enormous",
-        "massive"
+        "massive",
+        "vast"
       ],
       "antonyms": [
         "small",
         "tiny"
       ],
       "phrases": [
-        "huge",
-        "amount",
-        "huge",
-        "success"
+        "huge amount",
+        "huge success",
+        "huge difference",
+        "huge impact"
       ]
     },
     {
@@ -457,33 +605,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "human",
-          "definition": "n. 人, 人类, a. 人类的, 似人类的, 人性的, 有同情心的"
+          "definition": "n. 人、人類  a. 人類的、人性的"
         }
       ],
       "examples": [
         {
-          "en": "Human rights are important.",
+          "en": "Human error caused most of the accidents on the factory line.",
+          "highlight": [
+            "Human"
+          ],
+          "translations": {
+            "zh-TW": "工廠生產線上的大部分事故都是人為疏失造成的。"
+          }
+        },
+        {
+          "en": "Humans have been building cities for thousands of years.",
+          "highlight": [
+            "Humans"
+          ],
+          "translations": {
+            "zh-TW": "人類建造城市已有數千年歷史。"
+          }
+        },
+        {
+          "en": "It is human to make mistakes, but we must learn from them.",
           "highlight": [
             "human"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "犯錯是人之常情，但我們必須從中學習。"
           }
         }
       ],
       "synonyms": [
         "person",
-        "individual"
+        "individual",
+        "mankind"
       ],
       "antonyms": [
         "animal",
-        "non-human"
+        "machine"
       ],
       "phrases": [
-        "human",
-        "nature",
-        "human",
-        "rights"
+        "human nature",
+        "human rights",
+        "human resources",
+        "human being"
       ]
     }
   ]
