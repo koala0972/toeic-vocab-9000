@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 164,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-164-001",
@@ -15,40 +15,61 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "juniors"
+        "plural": "juniors",
+        "comparative": "juniorer",
+        "superlative": "juniores"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "junior",
-          "definition": "n. 年少者, 地位较低者, 大学三年級学生, a. 年少的, 下級的, 後进的"
+          "definition": "n. 年少者、地位較低者、（大學）三年級學生  a. 年少的、資淺的、下級的"
         }
       ],
       "examples": [
         {
-          "en": "He is a junior member of the team.",
+          "en": "She is a junior associate at the law firm.",
           "highlight": [
             "junior"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她是那間律師事務所的初級律師。"
+          }
+        },
+        {
+          "en": "The juniors on the team are eager to learn from the seniors.",
+          "highlight": [
+            "juniors"
+          ],
+          "translations": {
+            "zh-TW": "團隊裡的資淺成員都很渴望向資深前輩學習。"
+          }
+        },
+        {
+          "en": "He is junior to me by two years in the company.",
+          "highlight": [
+            "junior"
+          ],
+          "translations": {
+            "zh-TW": "他在公司裡比我資淺兩年。"
           }
         }
       ],
       "synonyms": [
         "younger",
+        "subordinate",
         "novice"
       ],
       "antonyms": [
         "senior",
-        "older"
+        "superior"
       ],
       "phrases": [
-        "junior",
-        "team",
-        "junior",
-        "member"
+        "junior high",
+        "junior member",
+        "junior partner",
+        "junior officer"
       ]
     },
     {
@@ -59,31 +80,45 @@
       "toeic_score_min": 200,
       "word": "jury",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "juryed",
-        "past_participle": "juryed",
-        "present_participle": "jurying",
-        "third_person": "jurys"
+        "plural": "juries"
       },
-      "domain": "general",
+      "domain": "legal",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "jury",
-          "definition": "n. 陪审团, 评判委員會, a. 应急的"
+          "definition": "n. 陪審團、評審委員會"
         }
       ],
       "examples": [
         {
-          "en": "The jury reached a unanimous verdict.",
+          "en": "The jury reached a unanimous verdict after three days of deliberation.",
           "highlight": [
             "jury"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "陪審團經過三天討論後達成一致裁決。"
+          }
+        },
+        {
+          "en": "Several juries were convened to handle the backlog of cases.",
+          "highlight": [
+            "juries"
+          ],
+          "translations": {
+            "zh-TW": "為了消化積壓的案件，召集了數個陪審團。"
+          }
+        },
+        {
+          "en": "She served on the jury during the high-profile trial last summer.",
+          "highlight": [
+            "jury"
+          ],
+          "translations": {
+            "zh-TW": "去年夏天她在那樁備受矚目的審判中擔任陪審員。"
           }
         }
       ],
@@ -91,13 +126,14 @@
         "panel",
         "tribunal"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "judge"
+      ],
       "phrases": [
-        "serve",
-        "on",
-        "a",
-        "jury",
-        "jury"
+        "serve on a jury",
+        "jury duty",
+        "jury box",
+        "grand jury"
       ]
     },
     {
@@ -120,33 +156,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "just",
-          "definition": "a. 正直的, 合理的, 正确的, 应得的, adv. 刚刚, 正好, 仅仅"
+          "definition": "a. 公正的、合理的、應得的  adv. 剛才、正好、僅僅"
         }
       ],
       "examples": [
         {
-          "en": "It was a just decision.",
+          "en": "The judge made a just ruling based on the evidence presented.",
           "highlight": [
             "just"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "法官根據提出的證據作出了公正的裁決。"
+          }
+        },
+        {
+          "en": "Her solution was juster than the one proposed by the committee.",
+          "highlight": [
+            "juster"
+          ],
+          "translations": {
+            "zh-TW": "她的解決方案比委員會提出的更為公正。"
+          }
+        },
+        {
+          "en": "He is known as the justest leader the company has ever had.",
+          "highlight": [
+            "justest"
+          ],
+          "translations": {
+            "zh-TW": "他被認為是公司有史以來最公正的領導者。"
           }
         }
       ],
       "synonyms": [
         "fair",
-        "unbiased"
+        "righteous",
+        "equitable"
       ],
       "antonyms": [
         "unfair",
         "biased"
       ],
       "phrases": [
-        "just",
-        "decision",
-        "just",
-        "cause"
+        "just in time",
+        "just cause",
+        "just decision",
+        "fair and just"
       ]
     },
     {
@@ -157,47 +212,62 @@
       "toeic_score_min": 200,
       "word": "justice",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "justiceed",
-        "past_participle": "justiceed",
-        "present_participle": "justicing",
-        "third_person": "justices"
+        "plural": "justices"
       },
-      "domain": "general",
+      "domain": "legal",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "justice",
-          "definition": "n. 正义, 公平, 公正, 正确, 司法, 审判"
+          "definition": "n. 正義、公平、司法、法官"
         }
       ],
       "examples": [
         {
-          "en": "They are fighting for justice.",
+          "en": "The protesters demanded justice for the victims of the fraud.",
           "highlight": [
             "justice"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "抗議者要求為詐欺案的受害者伸張正義。"
+          }
+        },
+        {
+          "en": "The Supreme Court justices will hear the appeal next month.",
+          "highlight": [
+            "justices"
+          ],
+          "translations": {
+            "zh-TW": "最高法院的大法官們下個月將審理這起上訴案。"
+          }
+        },
+        {
+          "en": "She worked as a justice of the peace in the small town for over a decade.",
+          "highlight": [
+            "justice"
+          ],
+          "translations": {
+            "zh-TW": "她在那個小鎮擔任治安法官超過十年。"
           }
         }
       ],
       "synonyms": [
         "fairness",
-        "law"
+        "equity",
+        "righteousness"
       ],
       "antonyms": [
         "injustice",
         "unfairness"
       ],
       "phrases": [
-        "seek",
-        "justice",
-        "social",
-        "justice"
+        "social justice",
+        "justice system",
+        "criminal justice",
+        "justice of the peace"
       ]
     },
     {
@@ -208,48 +278,65 @@
       "toeic_score_min": 200,
       "word": "justify",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "justifyed",
-        "past_participle": "justifyed",
-        "present_participle": "justifying",
-        "third_person": "justifys"
+        "present_3rd": "justifies",
+        "past": "justified",
+        "past_participle": "justified",
+        "ing": "justifying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "justify",
-          "definition": "vt. 替...辩护, 证明, vi. 证明合法, [计] 段落重排, 两端對齐"
+          "definition": "v. 證明…為正當、為…辯護、合理化"
         }
       ],
       "examples": [
         {
-          "en": "She tried to justify her actions.",
+          "en": "You must justify your request for additional funding with solid data.",
           "highlight": [
             "justify"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "你必須用確實的數據來證明你申請額外資金是合理的。"
+          }
+        },
+        {
+          "en": "The manager justified the decision by citing recent market research.",
+          "highlight": [
+            "justified"
+          ],
+          "translations": {
+            "zh-TW": "經理引用近期的市場研究來為這項決策辯護。"
+          }
+        },
+        {
+          "en": "She spent hours justifying the budget increase to the board members.",
+          "highlight": [
+            "justifying"
+          ],
+          "translations": {
+            "zh-TW": "她花了數小時向董事會成員解釋預算增加的合理性。"
           }
         }
       ],
       "synonyms": [
         "defend",
-        "explain"
+        "vindicate",
+        "warrant"
       ],
       "antonyms": [
         "condemn",
         "blame"
       ],
       "phrases": [
-        "justify",
-        "actions",
-        "justify",
-        "the",
-        "means"
+        "justify a decision",
+        "justify the cost",
+        "justify actions",
+        "justify the means"
       ]
     },
     {
@@ -260,47 +347,64 @@
       "toeic_score_min": 200,
       "word": "keen",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "keened",
-        "past_participle": "keened",
-        "present_participle": "keening",
-        "third_person": "keens"
+        "comparative": "keener",
+        "superlative": "keenest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "keen",
-          "definition": "a. 锋利的, 敏锐的, 强烈的, 敏捷的, 热心的, 渴望的, n. 挽歌, 痛哭, v. 唱挽歌, 痛哭"
+          "definition": "a. 敏銳的、熱切的、渴望的、鋒利的"
         }
       ],
       "examples": [
         {
-          "en": "She is keen to learn new things.",
+          "en": "The company is keen to expand into the Asian market next year.",
           "highlight": [
             "keen"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司渴望明年拓展亞洲市場。"
+          }
+        },
+        {
+          "en": "She is keener than her colleagues to take on leadership roles.",
+          "highlight": [
+            "keener"
+          ],
+          "translations": {
+            "zh-TW": "她比同事更熱切於承擔領導職務。"
+          }
+        },
+        {
+          "en": "He has always been the keenest observer of market trends in our department.",
+          "highlight": [
+            "keenest"
+          ],
+          "translations": {
+            "zh-TW": "他一直是我們部門裡對市場趨勢最敏銳的觀察者。"
           }
         }
       ],
       "synonyms": [
         "eager",
-        "enthusiastic"
+        "enthusiastic",
+        "sharp"
       ],
       "antonyms": [
         "uninterested",
-        "apathetic"
+        "apathetic",
+        "dull"
       ],
       "phrases": [
-        "keen",
-        "interest",
-        "keen",
-        "on"
+        "keen on",
+        "keen interest",
+        "keen sense",
+        "keen observer"
       ]
     },
     {
@@ -315,45 +419,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "keeped",
-        "past_participle": "keeped",
-        "present_participle": "keeping",
-        "third_person": "keeps"
+        "plural": "keeps",
+        "present_3rd": "keeps",
+        "past": "kept",
+        "past_participle": "kept",
+        "ing": "keeping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "keep",
-          "definition": "n. 生计, 维持, 保持, vt. 保持, 保存, 遵守, 看守, 整理, 维持, 履行, 經营, 拘留, 記帐, vi. 保持, 继续不断"
+          "definition": "v. 保持、保存、遵守、繼續  n. 生計、保持"
         }
       ],
       "examples": [
         {
-          "en": "Please keep this document safe.",
+          "en": "Please keep the original receipts for at least three years for tax purposes.",
           "highlight": [
             "keep"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請將原始收據至少保存三年，以供報稅之用。"
+          }
+        },
+        {
+          "en": "He kept detailed records of every transaction made last quarter.",
+          "highlight": [
+            "kept"
+          ],
+          "translations": {
+            "zh-TW": "他保留了上季度每筆交易的詳細紀錄。"
+          }
+        },
+        {
+          "en": "Keeping clients informed of delays builds long-term trust in business.",
+          "highlight": [
+            "keeping"
+          ],
+          "translations": {
+            "zh-TW": "讓客戶瞭解延遲情況有助於建立長期的商業信任。"
           }
         }
       ],
       "synonyms": [
-        "hold",
-        "retain"
+        "retain",
+        "preserve",
+        "maintain"
       ],
       "antonyms": [
         "release",
-        "let",
-        "go"
+        "discard"
       ],
       "phrases": [
-        "keep",
-        "safe",
-        "keep",
-        "in",
-        "mind"
+        "keep in mind",
+        "keep track of",
+        "keep up with",
+        "keep a record"
       ]
     },
     {
@@ -368,40 +490,59 @@
         "adjective"
       ],
       "conjugations": {
-        "plural": "keies"
+        "plural": "keys"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "key",
-          "definition": "n. 钥匙, 键, 解答, 關键, 要害, 基调, 线索, 答案, 暗礁, vt. 调音, 锁上, 提供线索, vi. 使用钥匙, [计] 键, 密钥"
+          "definition": "n. 鑰匙、關鍵、答案、按鍵  a. 關鍵的、重要的"
         }
       ],
       "examples": [
         {
-          "en": "He lost his keys.",
+          "en": "She left the key to the office on the reception desk by mistake.",
           "highlight": [
             "key"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她不小心把辦公室的鑰匙留在櫃台上了。"
+          }
+        },
+        {
+          "en": "Make sure you bring all your keys when you move to the new apartment.",
+          "highlight": [
+            "keys"
+          ],
+          "translations": {
+            "zh-TW": "搬去新公寓時，務必把所有的鑰匙都帶上。"
+          }
+        },
+        {
+          "en": "Timing is a key factor in the success of any product launch.",
+          "highlight": [
+            "key"
+          ],
+          "translations": {
+            "zh-TW": "時機是任何產品發布成功的關鍵因素。"
           }
         }
       ],
       "synonyms": [
-        "lock",
-        "opener"
+        "crucial",
+        "essential",
+        "answer"
       ],
       "antonyms": [
-        "lock",
-        "hinder"
+        "trivial",
+        "minor"
       ],
       "phrases": [
-        "house",
-        "key",
-        "key",
-        "to"
+        "key to success",
+        "key factor",
+        "key points",
+        "under lock and key"
       ]
     },
     {
@@ -416,42 +557,59 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "keyboarded",
+        "plural": "keyboards",
+        "present_3rd": "keyboards",
+        "past": "keyboarded",
         "past_participle": "keyboarded",
-        "present_participle": "keyboarding",
-        "third_person": "keyboards"
+        "ing": "keyboarding"
       },
-      "domain": "general",
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "keyboard",
-          "definition": "n. 键盘, [计] 键盘"
+          "definition": "n. 鍵盤  v. 用鍵盤輸入"
         }
       ],
       "examples": [
         {
-          "en": "She typed the letter on the keyboard.",
+          "en": "My wireless keyboard stopped working during the presentation yesterday.",
           "highlight": [
             "keyboard"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "昨天簡報時我的無線鍵盤突然無法運作了。"
+          }
+        },
+        {
+          "en": "She keyboarded the entire report in under two hours without any mistakes.",
+          "highlight": [
+            "keyboarded"
+          ],
+          "translations": {
+            "zh-TW": "她在兩小時內就把整份報告用鍵盤打完了，而且沒有任何錯誤。"
+          }
+        },
+        {
+          "en": "Keyboarding accurately is an essential skill for most office jobs today.",
+          "highlight": [
+            "keyboarding"
+          ],
+          "translations": {
+            "zh-TW": "如今對大多數辦公室工作來說，精準的鍵盤輸入是必備技能。"
           }
         }
       ],
       "synonyms": [
-        "typewriter",
-        "keyboard",
-        "computer",
-        "keyboard"
+        "keypad",
+        "input device"
       ],
       "antonyms": [],
       "phrases": [
-        "keyboard",
-        "keys",
-        "computer",
-        "keyboard"
+        "computer keyboard",
+        "wireless keyboard",
+        "keyboard shortcut",
+        "keyboard layout"
       ]
     },
     {
@@ -466,27 +624,46 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "kicked",
+        "plural": "kicks",
+        "present_3rd": "kicks",
+        "past": "kicked",
         "past_participle": "kicked",
-        "present_participle": "kicking",
-        "third_person": "kicks"
+        "ing": "kicking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "kick",
-          "definition": "n. 踢, 反冲, 後座力, 凹底, vi. 踢, 反抗, 反冲, vt. 踢, 反冲"
+          "definition": "v. 踢、反彈、驅逐  n. 踢、反衝、快感"
         }
       ],
       "examples": [
         {
-          "en": "He kicked the ball into the goal.",
+          "en": "The committee decided to kick the proposal back to the planning team for revision.",
           "highlight": [
             "kick"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "委員會決定將提案退回給規劃小組修改。"
+          }
+        },
+        {
+          "en": "He kicked the ball so hard that it shattered the window of the office.",
+          "highlight": [
+            "kicked"
+          ],
+          "translations": {
+            "zh-TW": "他把球踢得太用力，甚至打碎了辦公室的窗戶。"
+          }
+        },
+        {
+          "en": "Kicking the habit of checking email every five minutes improved her focus.",
+          "highlight": [
+            "kicking"
+          ],
+          "translations": {
+            "zh-TW": "改掉每五分鐘就檢查一次電子郵件的習慣後，她的專注力提升了。"
           }
         }
       ],
@@ -496,14 +673,13 @@
       ],
       "antonyms": [
         "caress",
-        "touch"
+        "embrace"
       ],
       "phrases": [
-        "kick",
-        "a",
-        "ball",
-        "kick",
-        "out"
+        "kick off",
+        "kick out",
+        "kick back",
+        "kick the habit"
       ]
     }
   ]
