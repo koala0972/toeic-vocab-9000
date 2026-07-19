@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 156,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-156-001",
@@ -17,39 +17,57 @@
       "conjugations": {
         "plural": "initiatives"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "initiative",
-          "definition": "n. 主動行動, 首创精神, 主動权, a. 自發的, 起始的"
+          "definition": "n. 主動、主動權、倡議  a. 自發的、起始的"
         }
       ],
       "examples": [
         {
-          "en": "She took the initiative to start the meeting.",
+          "en": "She took the initiative to organize the team-building event without being asked.",
           "highlight": [
             "initiative"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她主動發起籌辦團隊建設活動，沒有人要求她這麼做。"
+          }
+        },
+        {
+          "en": "Several new initiatives were launched this quarter to improve customer satisfaction.",
+          "highlight": [
+            "initiatives"
+          ],
+          "translations": {
+            "zh-TW": "本季推出了幾項新的倡議，以提升顧客滿意度。"
+          }
+        },
+        {
+          "en": "Managers should show initiative when facing unexpected problems during a project.",
+          "highlight": [
+            "initiative"
+          ],
+          "translations": {
+            "zh-TW": "專案中遇到突發問題時，經理應展現主動解決的態度。"
           }
         }
       ],
       "synonyms": [
         "enterprise",
-        "drive"
+        "drive",
+        "proactivity"
       ],
       "antonyms": [
         "indifference",
         "passivity"
       ],
       "phrases": [
-        "take",
-        "the",
-        "initiative",
-        "business",
-        "initiative"
+        "take the initiative",
+        "business initiative",
+        "on one's own initiative",
+        "government initiative"
       ]
     },
     {
@@ -60,47 +78,65 @@
       "toeic_score_min": 200,
       "word": "injure",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "injureed",
-        "past_participle": "injureed",
-        "present_participle": "injuring",
-        "third_person": "injures"
+        "present_3rd": "injures",
+        "past": "injured",
+        "past_participle": "injured",
+        "ing": "injuring"
       },
-      "domain": "general",
+      "domain": "medical",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "injure",
-          "definition": "vt. 伤害, 损害, 使受冤屈, [医] 损伤"
+          "definition": "v. 傷害、使受傷、損害"
         }
       ],
       "examples": [
         {
-          "en": "He injured his leg while playing soccer.",
+          "en": "Be careful not to injure your back while lifting those heavy boxes.",
           "highlight": [
             "injure"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "搬那些重箱子時要小心，別傷到背部。"
+          }
+        },
+        {
+          "en": "The athlete injured her knee during yesterday's match and may miss the rest of the season.",
+          "highlight": [
+            "injured"
+          ],
+          "translations": {
+            "zh-TW": "這名選手在昨天的比賽中傷到了膝蓋，可能錯過本季剩餘賽事。"
+          }
+        },
+        {
+          "en": "He has been injuring his reputation with careless public comments for months.",
+          "highlight": [
+            "injuring"
+          ],
+          "translations": {
+            "zh-TW": "幾個月來他一直用輕率的公開發言損害自己的名聲。"
           }
         }
       ],
       "synonyms": [
         "harm",
-        "hurt"
+        "hurt",
+        "damage"
       ],
       "antonyms": [
         "heal",
         "mend"
       ],
       "phrases": [
-        "injure",
-        "seriously",
-        "injure",
-        "oneself"
+        "injure seriously",
+        "injure oneself",
+        "injure one's reputation",
+        "injure a muscle"
       ]
     },
     {
@@ -115,43 +151,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "injureded",
-        "past_participle": "injureded",
-        "present_participle": "injureding",
-        "third_person": "injureds"
+        "present_3rd": "injureds",
+        "past": "injured",
+        "past_participle": "injured",
+        "ing": "injureding"
       },
-      "domain": "general",
+      "domain": "medical",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "injured",
-          "definition": "a. 受伤的, 受损害的, 被触怒的, [法] 受害的, 被害的"
+          "definition": "a. 受傷的、受損害的"
         }
       ],
       "examples": [
         {
-          "en": "The injured person was taken to the hospital.",
+          "en": "The injured worker was rushed to the emergency room after the factory accident.",
           "highlight": [
             "injured"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "工廠意外發生後，受傷的工人被緊急送往急診室。"
+          }
+        },
+        {
+          "en": "Three injured players sat on the bench, unable to continue the game.",
+          "highlight": [
+            "injured"
+          ],
+          "translations": {
+            "zh-TW": "三名受傷的球員坐在板凳上，無法繼續比賽。"
+          }
+        },
+        {
+          "en": "An injured ankle kept him out of the marathon for nearly four months.",
+          "highlight": [
+            "injured"
+          ],
+          "translations": {
+            "zh-TW": "腳踝受傷讓他將近四個月無法參加馬拉松。"
           }
         }
       ],
       "synonyms": [
         "wounded",
-        "hurt"
+        "hurt",
+        "damaged"
       ],
       "antonyms": [
         "unharmed",
-        "unhurt"
+        "unhurt",
+        "healthy"
       ],
       "phrases": [
-        "seriously",
-        "injured",
-        "injured",
-        "person"
+        "seriously injured",
+        "injured person",
+        "injured player",
+        "injured worker"
       ]
     },
     {
@@ -162,47 +218,62 @@
       "toeic_score_min": 200,
       "word": "injury",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "injuryed",
-        "past_participle": "injuryed",
-        "present_participle": "injurying",
-        "third_person": "injurys"
+        "plural": "injuries"
       },
-      "domain": "general",
+      "domain": "medical",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "injury",
-          "definition": "n. 伤害, 侮辱, [医] 伤, 损伤"
+          "definition": "n. 傷害、受傷、損害"
         }
       ],
       "examples": [
         {
-          "en": "He suffered a serious injury.",
+          "en": "He suffered a serious injury to his shoulder while moving office furniture.",
           "highlight": [
             "injury"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他在搬動辦公室家具時肩膀受了重傷。"
+          }
+        },
+        {
+          "en": "Workplace injuries have dropped by 20 percent since the new safety policy was introduced.",
+          "highlight": [
+            "injuries"
+          ],
+          "translations": {
+            "zh-TW": "自從實施新安全政策以來，職場傷害已減少了百分之二十。"
+          }
+        },
+        {
+          "en": "The player recovered fully from his injury and returned to the national team last month.",
+          "highlight": [
+            "injury"
+          ],
+          "translations": {
+            "zh-TW": "這名球員完全從傷勢中康復，上個月回歸了國家隊。"
           }
         }
       ],
       "synonyms": [
         "wound",
-        "harm"
+        "harm",
+        "damage"
       ],
       "antonyms": [
         "health",
         "wellness"
       ],
       "phrases": [
-        "serious",
-        "injury",
-        "minor",
-        "injury"
+        "serious injury",
+        "minor injury",
+        "personal injury",
+        "injury claim"
       ]
     },
     {
@@ -217,40 +288,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "inked",
+        "plural": "inks",
+        "present_3rd": "inks",
+        "past": "inked",
         "past_participle": "inked",
-        "present_participle": "inking",
-        "third_person": "inks"
+        "ing": "inking"
       },
-      "domain": "general",
+      "domain": "office",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "ink",
-          "definition": "n. 墨水, 墨汁, vt. 涂墨水于, 签署, 加墨水"
+          "definition": "n. 墨水、墨汁  v. 塗墨水於、簽署"
         }
       ],
       "examples": [
         {
-          "en": "The pen ran out of ink.",
+          "en": "The printer is out of ink again, so we need to order a new cartridge today.",
           "highlight": [
             "ink"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "印表機的墨水又用完了，我們今天就得訂購新的墨水匣。"
+          }
+        },
+        {
+          "en": "The CEO inked a three-year partnership agreement with the supplier yesterday.",
+          "highlight": [
+            "inked"
+          ],
+          "translations": {
+            "zh-TW": "執行長昨天與供應商簽署了一份為期三年的合作協議。"
+          }
+        },
+        {
+          "en": "Different inks produce different shades, so designers must choose carefully for each project.",
+          "highlight": [
+            "inks"
+          ],
+          "translations": {
+            "zh-TW": "不同的墨水會產生不同的色調，設計師必須為每個專案謹慎選擇。"
           }
         }
       ],
       "synonyms": [
         "dye",
-        "pigment"
+        "pigment",
+        "toner"
       ],
       "antonyms": [],
       "phrases": [
-        "black",
-        "ink",
-        "ink",
-        "pen"
+        "black ink",
+        "ink cartridge",
+        "ink pen",
+        "ink a deal"
       ]
     },
     {
@@ -265,40 +356,62 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "inners"
+        "plural": "inners",
+        "comparative": "innerer",
+        "superlative": "innermost"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "inner",
-          "definition": "a. 内部的, 内心的, n. 内部"
+          "definition": "a. 內部的、內心的  n. 內部"
         }
       ],
       "examples": [
         {
-          "en": "She felt a sense of inner peace.",
+          "en": "Yoga practice helps many people find a sense of inner peace after a long workday.",
           "highlight": [
             "inner"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "瑜伽練習幫助許多人在長時間工作後找到內心的平靜。"
+          }
+        },
+        {
+          "en": "She kept her inner thoughts hidden even from her closest colleagues.",
+          "highlight": [
+            "inner"
+          ],
+          "translations": {
+            "zh-TW": "她甚至對最親近的同事都隱藏自己內心的想法。"
+          }
+        },
+        {
+          "en": "The innermost layer of the package protects the fragile product during shipping.",
+          "highlight": [
+            "innermost"
+          ],
+          "translations": {
+            "zh-TW": "包裝的最內層在運送過程中保護這項易碎產品。"
           }
         }
       ],
       "synonyms": [
         "internal",
-        "inside"
+        "inside",
+        "interior"
       ],
       "antonyms": [
         "outer",
-        "external"
+        "external",
+        "exterior"
       ],
       "phrases": [
-        "inner",
-        "peace",
-        "inner",
-        "thoughts"
+        "inner peace",
+        "inner thoughts",
+        "inner circle",
+        "inner self"
       ]
     },
     {
@@ -315,38 +428,57 @@
       "conjugations": {
         "plural": "innocents"
       },
-      "domain": "general",
+      "domain": "legal",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "innocent",
-          "definition": "a. 无罪的, 不懂事的, 无知的, n. 天真的人, 笨蛋"
+          "definition": "a. 無辜的、清白的、無害的  n. 無辜者、天真的人"
         }
       ],
       "examples": [
         {
-          "en": "He was found innocent of the charges.",
+          "en": "The court found the defendant innocent of all charges after reviewing the evidence.",
           "highlight": [
             "innocent"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "法院審理證據後判定被告所有罪名不成立、無罪。"
+          }
+        },
+        {
+          "en": "Many innocents were mistakenly accused during the early stages of the investigation.",
+          "highlight": [
+            "innocents"
+          ],
+          "translations": {
+            "zh-TW": "調查初期有許多無辜者遭到誤控。"
+          }
+        },
+        {
+          "en": "The lawyer proved that her client was innocent of fraud and had been framed by a colleague.",
+          "highlight": [
+            "innocent"
+          ],
+          "translations": {
+            "zh-TW": "律師證明她的當事人沒有犯詐欺罪，是遭到同事陷害。"
           }
         }
       ],
       "synonyms": [
         "blameless",
-        "guiltless"
+        "guiltless",
+        "harmless"
       ],
       "antonyms": [
         "guilty",
         "culpable"
       ],
       "phrases": [
-        "innocent",
-        "child",
-        "innocent",
-        "of"
+        "innocent of",
+        "innocent bystander",
+        "innocent child",
+        "prove innocent"
       ]
     },
     {
@@ -357,45 +489,59 @@
       "toeic_score_min": 200,
       "word": "inquiry",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "inquiryed",
-        "past_participle": "inquiryed",
-        "present_participle": "inquirying",
-        "third_person": "inquirys"
+        "plural": "inquiries"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "inquiry",
-          "definition": "n. 质询, 探索, 调查, 询盘, [计] 询问; 查询"
+          "definition": "n. 詢問、查詢、調查、探詢"
         }
       ],
       "examples": [
         {
-          "en": "They launched an inquiry into the matter.",
+          "en": "We received your inquiry about the new product line and will reply within two business days.",
           "highlight": [
             "inquiry"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們已收到您對新產品線的詢問，將於兩個工作天內回覆。"
+          }
+        },
+        {
+          "en": "The committee launched an official inquiry into the financial irregularities reported last month.",
+          "highlight": [
+            "inquiry"
+          ],
+          "translations": {
+            "zh-TW": "委員會針對上個月通報的財務異常展開正式調查。"
+          }
+        },
+        {
+          "en": "Customer inquiries have tripled since we launched the online chat support service.",
+          "highlight": [
+            "inquiries"
+          ],
+          "translations": {
+            "zh-TW": "自從我們推出線上客服支援後，顧客查詢增加了三倍。"
           }
         }
       ],
       "synonyms": [
         "investigation",
-        "probe"
+        "probe",
+        "question"
       ],
       "antonyms": [],
       "phrases": [
-        "conduct",
-        "an",
-        "inquiry",
-        "police",
-        "inquiry"
+        "conduct an inquiry",
+        "customer inquiry",
+        "police inquiry",
+        "make an inquiry"
       ]
     },
     {
@@ -406,44 +552,59 @@
       "toeic_score_min": 200,
       "word": "insect",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "insected",
-        "past_participle": "insected",
-        "present_participle": "insecting",
-        "third_person": "insects"
+        "plural": "insects"
       },
-      "domain": "general",
+      "domain": "nature",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "insect",
-          "definition": "n. 昆虫, 卑鄙的人, [医] 昆虫"
+          "definition": "n. 昆蟲、蟲"
         }
       ],
       "examples": [
         {
-          "en": "The insect buzzed around the room.",
+          "en": "A small insect landed on the dining table during the outdoor reception.",
           "highlight": [
             "insect"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "戶外接待會中，一隻小昆蟲飛落到餐桌上。"
+          }
+        },
+        {
+          "en": "Farmers use natural methods to control insects that damage their crops each season.",
+          "highlight": [
+            "insects"
+          ],
+          "translations": {
+            "zh-TW": "農夫每季使用天然方法控制會損害農作物的昆蟲。"
+          }
+        },
+        {
+          "en": "The warehouse staff sealed every package tightly to keep insects out during storage.",
+          "highlight": [
+            "insects"
+          ],
+          "translations": {
+            "zh-TW": "倉庫人員把每個包裹封緊，避免儲存期間昆蟲跑進去。"
           }
         }
       ],
       "synonyms": [
         "bug",
-        "critter"
+        "critter",
+        "pest"
       ],
       "antonyms": [],
       "phrases": [
-        "insect",
-        "bite",
-        "flying",
-        "insect"
+        "insect bite",
+        "flying insect",
+        "insect repellent",
+        "harmful insect"
       ]
     },
     {
@@ -454,8 +615,10 @@
       "toeic_score_min": 200,
       "word": "inside",
       "pos": [
+        "noun",
         "adjective",
-        "noun"
+        "adverb",
+        "preposition"
       ],
       "conjugations": {
         "plural": "insides"
@@ -465,34 +628,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "inside",
-          "definition": "n. 内部, 内脏, 内幕, a. 内部的, 秘密的, 户内的, adv. 在裡面, prep. 在...之内"
+          "definition": "n. 內部  a. 內部的、秘密的  adv. 在裡面  prep. 在…之內"
         }
       ],
       "examples": [
         {
-          "en": "The keys are inside the drawer.",
+          "en": "The receptionist keeps all important files inside the locked cabinet.",
           "highlight": [
             "inside"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "櫃檯人員把所有重要檔案放在上鎖的櫃子裡面。"
+          }
+        },
+        {
+          "en": "The inside of the new office building feels bright and spacious compared to the old one.",
+          "highlight": [
+            "inside"
+          ],
+          "translations": {
+            "zh-TW": "新辦公大樓的內部比舊大樓明亮且寬敞許多。"
+          }
+        },
+        {
+          "en": "She learned the business inside out during her ten years with the company.",
+          "highlight": [
+            "inside"
+          ],
+          "translations": {
+            "zh-TW": "她在公司服務十年，對這門業務瞭若指掌。"
           }
         }
       ],
       "synonyms": [
         "within",
-        "interior"
+        "interior",
+        "indoors"
       ],
       "antonyms": [
         "outside",
-        "exterior"
+        "exterior",
+        "outdoors"
       ],
       "phrases": [
-        "inside",
-        "the",
-        "house",
-        "inside",
-        "out"
+        "inside the house",
+        "inside out",
+        "inside information",
+        "inside the building"
       ]
     }
   ]
