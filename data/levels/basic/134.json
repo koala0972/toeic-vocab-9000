@@ -11,45 +11,61 @@
       "toeic_score_min": 200,
       "word": "gentleman",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "gentlemaned",
-        "past_participle": "gentlemaned",
-        "present_participle": "gentlemaning",
-        "third_person": "gentlemans"
+        "plural": "gentlemen"
       },
-      "domain": "general",
+      "domain": "social",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "gentleman",
-          "definition": "n. 绅士, 先生"
+          "definition": "n. 紳士、先生、有教養的男子"
         }
       ],
       "examples": [
         {
-          "en": "He is a true gentleman.",
+          "en": "The gentleman at the front desk will help you check in.",
           "highlight": [
             "gentleman"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "櫃檯那位先生會協助您辦理入住。"
+          }
+        },
+        {
+          "en": "Several gentlemen attended the business luncheon in formal suits.",
+          "highlight": [
+            "gentlemen"
+          ],
+          "translations": {
+            "zh-TW": "幾位紳士穿著正式西裝出席了商務午餐會。"
+          }
+        },
+        {
+          "en": "A true gentleman always holds the door open for the next person.",
+          "highlight": [
+            "gentleman"
+          ],
+          "translations": {
+            "zh-TW": "真正的紳士總會為下一位拉開門。"
           }
         }
       ],
       "synonyms": [
-        "honorable",
+        "sir",
         "man",
         "nobleman"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "lady"
+      ],
       "phrases": [
-        "true",
-        "gentleman",
-        "perfect",
-        "gentleman"
+        "true gentleman",
+        "gentleman agreement",
+        "perfect gentleman",
+        "ladies and gentlemen"
       ]
     },
     {
@@ -60,44 +76,63 @@
       "toeic_score_min": 200,
       "word": "genuine",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "genuines"
+        "comparative": "more genuine",
+        "superlative": "most genuine"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "genuine",
-          "definition": "a. 真正的, 真實的, 诚恳的, [医] 真性的"
+          "definition": "a. 真正的、真誠的、非偽造的"
         }
       ],
       "examples": [
         {
-          "en": "The signature is genuine.",
+          "en": "This certificate proves that the diamond is genuine.",
           "highlight": [
             "genuine"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這份證書證明這顆鑽石是真的。"
+          }
+        },
+        {
+          "en": "Her apology sounded more genuine than anything she had said before.",
+          "highlight": [
+            "more genuine"
+          ],
+          "translations": {
+            "zh-TW": "她的道歉聽起來比她之前說過的任何話都更真誠。"
+          }
+        },
+        {
+          "en": "Customers appreciate the most genuine service they receive at this hotel.",
+          "highlight": [
+            "most genuine"
+          ],
+          "translations": {
+            "zh-TW": "顧客讚賞他們在這家飯店所享受到最真誠的服務。"
           }
         }
       ],
       "synonyms": [
         "authentic",
-        "real"
+        "real",
+        "sincere"
       ],
       "antonyms": [
         "fake",
         "counterfeit"
       ],
       "phrases": [
-        "genuine",
-        "article",
-        "genuine",
-        "interest"
+        "genuine concern",
+        "genuine leather",
+        "genuine interest",
+        "genuine product"
       ]
     },
     {
@@ -108,47 +143,59 @@
       "toeic_score_min": 200,
       "word": "geography",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "geographyed",
-        "past_participle": "geographyed",
-        "present_participle": "geographying",
-        "third_person": "geographys"
+        "plural": "geographies"
       },
-      "domain": "general",
+      "domain": "education",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "geography",
-          "definition": "n. 地理学, 地理, [医] 地理"
+          "definition": "n. 地理、地理學、地形"
         }
       ],
       "examples": [
         {
-          "en": "She studied geography in college.",
+          "en": "She teaches geography at a senior high school in Taipei.",
           "highlight": [
             "geography"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在台北一所高中教地理。"
+          }
+        },
+        {
+          "en": "The geographies of these two regions shape their very different economies.",
+          "highlight": [
+            "geographies"
+          ],
+          "translations": {
+            "zh-TW": "這兩個地區的地理形態造就了截然不同的經濟型態。"
+          }
+        },
+        {
+          "en": "A good understanding of regional geography helps logistics planners cut shipping costs.",
+          "highlight": [
+            "geography"
+          ],
+          "translations": {
+            "zh-TW": "對區域地理的良好理解能幫助物流規劃人員降低運輸成本。"
           }
         }
       ],
       "synonyms": [
-        "earth",
-        "science",
-        "study",
-        "of",
-        "the"
+        "terrain",
+        "landscape",
+        "topography"
       ],
       "antonyms": [],
       "phrases": [
-        "physical",
-        "geography",
-        "human",
-        "geography"
+        "physical geography",
+        "human geography",
+        "economic geography",
+        "regional geography"
       ]
     },
     {
@@ -159,47 +206,65 @@
       "toeic_score_min": 200,
       "word": "get",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "geted",
-        "past_participle": "geted",
-        "present_participle": "geting",
-        "third_person": "gets"
+        "present_3rd": "gets",
+        "past": "got",
+        "past_participle": "gotten",
+        "ing": "getting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "get",
-          "definition": "vt. 得到, 获得, 变成, 使得, 收获, 接通, 抓住, 染上, vi. 到达, 成為, 变得, n. (网球等)救球, 生殖, 幼兽, [计] 取得指令, 获取文件"
+          "definition": "v. 得到、獲得、抵達、變得、理解"
         }
       ],
       "examples": [
         {
-          "en": "He got a new job.",
+          "en": "I usually get to the office before nine every morning.",
           "highlight": [
             "get"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我通常每天早上九點前到辦公室。"
+          }
+        },
+        {
+          "en": "She got a promotion after completing the overseas project successfully.",
+          "highlight": [
+            "got"
+          ],
+          "translations": {
+            "zh-TW": "她順利完成海外專案後獲得了升遷。"
+          }
+        },
+        {
+          "en": "By the time the manager returned, the report had gotten approval from three departments.",
+          "highlight": [
+            "gotten"
+          ],
+          "translations": {
+            "zh-TW": "在經理回來之前，這份報告已獲得三個部門的核准。"
           }
         }
       ],
       "synonyms": [
         "receive",
-        "obtain"
+        "obtain",
+        "acquire"
       ],
       "antonyms": [
         "give",
         "lose"
       ],
       "phrases": [
-        "get",
-        "something",
-        "get",
-        "ready"
+        "get along",
+        "get ready",
+        "get in touch",
+        "get to know"
       ]
     },
     {
@@ -221,33 +286,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "giant",
-          "definition": "n. 巨人, 大力士, 巨大怪物, a. 庞大的, 巨大的"
+          "definition": "n. 巨人、大公司、偉人  a. 巨大的、龐大的"
         }
       ],
       "examples": [
         {
-          "en": "The story featured a giant.",
+          "en": "That technology giant just announced a major acquisition deal.",
           "highlight": [
             "giant"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "那家科技巨頭剛宣布了一項重大的收購案。"
+          }
+        },
+        {
+          "en": "Industry giants are competing fiercely for control of the cloud market.",
+          "highlight": [
+            "giants"
+          ],
+          "translations": {
+            "zh-TW": "業界巨頭們正為雲端市場的主導權激烈競爭。"
+          }
+        },
+        {
+          "en": "The new factory uses giant robots to assemble electric vehicles.",
+          "highlight": [
+            "giant"
+          ],
+          "translations": {
+            "zh-TW": "新工廠使用巨型機器人來組裝電動車。"
           }
         }
       ],
       "synonyms": [
         "colossus",
-        "behemoth"
+        "behemoth",
+        "titan"
       ],
       "antonyms": [
         "dwarf",
         "tiny"
       ],
       "phrases": [
-        "giant",
-        "tree",
-        "giant",
-        "corporation"
+        "giant panda",
+        "giant step",
+        "giant corporation",
+        "sleeping giant"
       ]
     },
     {
@@ -262,40 +346,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "gifted",
+        "plural": "gifts",
+        "present_3rd": "gifts",
+        "past": "gifted",
         "past_participle": "gifted",
-        "present_participle": "gifting",
-        "third_person": "gifts"
+        "ing": "gifting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "gift",
-          "definition": "n. 礼物, 赠予, 天才, vt. 赋予"
+          "definition": "n. 禮物、天賦  v. 贈予、贈送"
         }
       ],
       "examples": [
         {
-          "en": "She received a beautiful gift.",
+          "en": "Each participant received a welcome gift from the host company.",
           "highlight": [
             "gift"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "每位與會者都收到主辦公司致贈的迎賓禮。"
+          }
+        },
+        {
+          "en": "The CEO gifted every long-term employee a watch on the tenth anniversary.",
+          "highlight": [
+            "gifted"
+          ],
+          "translations": {
+            "zh-TW": "執行長在十週年時贈送每位資深員工一只手錶。"
+          }
+        },
+        {
+          "en": "Gifting corporate partners a thoughtful token strengthens long-term relationships.",
+          "highlight": [
+            "Gifting"
+          ],
+          "translations": {
+            "zh-TW": "致贈企業合作夥伴一份用心的禮物能強化長期關係。"
           }
         }
       ],
       "synonyms": [
         "present",
-        "offering"
+        "offering",
+        "talent"
       ],
       "antonyms": [],
       "phrases": [
-        "birthday",
-        "gift",
-        "special",
-        "gift"
+        "birthday gift",
+        "gift card",
+        "gift wrap",
+        "natural gift"
       ]
     },
     {
@@ -306,47 +410,61 @@
       "toeic_score_min": 200,
       "word": "girl",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "girled",
-        "past_participle": "girled",
-        "present_participle": "girling",
-        "third_person": "girls"
+        "plural": "girls"
       },
-      "domain": "general",
+      "domain": "people",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "girl",
-          "definition": "n. 女孩, 少女, 女佣"
+          "definition": "n. 女孩、少女、女兒"
         }
       ],
       "examples": [
         {
-          "en": "The girl is playing in the park.",
+          "en": "The little girl waved to her mother from the train window.",
           "highlight": [
             "girl"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "小女孩從火車窗邊向母親揮手。"
+          }
+        },
+        {
+          "en": "Three girls from the marketing team gave a presentation on the new campaign.",
+          "highlight": [
+            "girls"
+          ],
+          "translations": {
+            "zh-TW": "行銷團隊的三位女孩就新活動做了簡報。"
+          }
+        },
+        {
+          "en": "The shop assistant, a polite young girl, helped me find the right size.",
+          "highlight": [
+            "girl"
+          ],
+          "translations": {
+            "zh-TW": "店裡那位有禮貌的年輕女孩幫我找到了合適的尺寸。"
           }
         }
       ],
       "synonyms": [
-        "female",
-        "child",
-        "lass"
+        "lass",
+        "daughter",
+        "young woman"
       ],
       "antonyms": [
         "boy"
       ],
       "phrases": [
-        "little",
-        "girl",
-        "young",
-        "girl"
+        "little girl",
+        "young girl",
+        "girlfriend",
+        "schoolgirl"
       ]
     },
     {
@@ -357,44 +475,61 @@
       "toeic_score_min": 200,
       "word": "girlfriend",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "girlfriended",
-        "past_participle": "girlfriended",
-        "present_participle": "girlfriending",
-        "third_person": "girlfriends"
+        "plural": "girlfriends"
       },
-      "domain": "general",
+      "domain": "social",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "girlfriend",
-          "definition": "n. 女朋友"
+          "definition": "n. 女朋友、女性伴侶"
         }
       ],
       "examples": [
         {
-          "en": "He went to the movies with his girlfriend.",
+          "en": "He introduced his girlfriend to his parents at the family dinner.",
           "highlight": [
             "girlfriend"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他在家庭聚餐上把女朋友介紹給父母。"
+          }
+        },
+        {
+          "en": "My girlfriends and I meet for coffee every Saturday afternoon.",
+          "highlight": [
+            "girlfriends"
+          ],
+          "translations": {
+            "zh-TW": "我和幾位女性好友每個星期六下午都會相聚喝咖啡。"
+          }
+        },
+        {
+          "en": "His former girlfriend now works in the same building as he does.",
+          "highlight": [
+            "girlfriend"
+          ],
+          "translations": {
+            "zh-TW": "他的前女友現在和他在同一棟大樓上班。"
           }
         }
       ],
       "synonyms": [
         "partner",
-        "companion"
+        "companion",
+        "sweetheart"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "boyfriend"
+      ],
       "phrases": [
-        "current",
-        "girlfriend",
-        "former",
-        "girlfriend"
+        "former girlfriend",
+        "current girlfriend",
+        "new girlfriend",
+        "ex-girlfriend"
       ]
     },
     {
@@ -409,44 +544,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "giveed",
-        "past_participle": "giveed",
-        "present_participle": "giving",
-        "third_person": "gives"
+        "present_3rd": "gives",
+        "past": "gave",
+        "past_participle": "given",
+        "ing": "giving"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "give",
-          "definition": "n. 弹性, 适应性, vt. 给, 授予, 供给, 产生, 發表, 付出, 献出, 讓出, vi. 捐赠, 支持不住, 讓步"
+          "definition": "v. 給予、提供、付出  n. 彈性、讓步"
         }
       ],
       "examples": [
         {
-          "en": "Please give me the book.",
+          "en": "Please give this envelope to the receptionist when you arrive.",
           "highlight": [
             "give"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在抵達時把這個信封交給櫃檯接待員。"
+          }
+        },
+        {
+          "en": "The manager gave a clear presentation about the new training program.",
+          "highlight": [
+            "gave"
+          ],
+          "translations": {
+            "zh-TW": "經理針對新的培訓計畫做了一場清楚的簡報。"
+          }
+        },
+        {
+          "en": "Given our budget limits, we will postpone the office renovation until next quarter.",
+          "highlight": [
+            "Given"
+          ],
+          "translations": {
+            "zh-TW": "考量到我們的預算限制，辦公室翻修將延到下季。"
           }
         }
       ],
       "synonyms": [
-        "donate",
-        "present"
+        "hand over",
+        "offer",
+        "donate"
       ],
       "antonyms": [
         "take",
         "receive"
       ],
       "phrases": [
-        "give",
-        "a",
-        "gift",
-        "give",
-        "advice"
+        "give up",
+        "give in",
+        "give away",
+        "give a presentation"
       ]
     },
     {
@@ -457,48 +610,64 @@
       "toeic_score_min": 200,
       "word": "glad",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "gladed",
-        "past_participle": "gladed",
-        "present_participle": "glading",
-        "third_person": "glads"
+        "comparative": "gladder",
+        "superlative": "gladdest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "glad",
-          "definition": "a. 高興的, 喜歡的, 情愿的"
+          "definition": "a. 高興的、樂意的、令人愉快的"
         }
       ],
       "examples": [
         {
-          "en": "I am glad you came.",
+          "en": "I am glad to hear that your flight landed safely.",
           "highlight": [
             "glad"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "聽到你的班機平安抵達，我很高興。"
+          }
+        },
+        {
+          "en": "The customers seemed gladder than ever after the staff resolved the billing issue.",
+          "highlight": [
+            "gladder"
+          ],
+          "translations": {
+            "zh-TW": "員工解決帳單問題後，顧客們似乎比之前更高興了。"
+          }
+        },
+        {
+          "en": "This has been the gladdest news the team has heard all quarter.",
+          "highlight": [
+            "gladdest"
+          ],
+          "translations": {
+            "zh-TW": "這是這一季團隊聽到最令人高興的消息。"
           }
         }
       ],
       "synonyms": [
         "happy",
-        "pleased"
+        "pleased",
+        "delighted"
       ],
       "antonyms": [
         "sad",
-        "unhappy"
+        "unhappy",
+        "upset"
       ],
       "phrases": [
-        "glad",
-        "to",
-        "see",
-        "glad",
-        "you"
+        "glad to see",
+        "glad to hear",
+        "glad tidings",
+        "glad hand"
       ]
     }
   ]
