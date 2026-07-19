@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 160,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-160-001",
@@ -11,47 +11,62 @@
       "toeic_score_min": 200,
       "word": "introduction",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "introductioned",
-        "past_participle": "introductioned",
-        "present_participle": "introductioning",
-        "third_person": "introductions"
+        "plural": "introductions"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "introduction",
-          "definition": "n. 介绍, 传入, 采用, 初步"
+          "definition": "n. 介紹、引言、採用、入門"
         }
       ],
       "examples": [
         {
-          "en": "The introduction of the new policy was well received.",
+          "en": "The introduction of the new policy was well received by all employees.",
           "highlight": [
             "introduction"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新政策的實施受到了全體員工的歡迎。"
+          }
+        },
+        {
+          "en": "The speaker gave brief introductions before the main presentation began.",
+          "highlight": [
+            "introductions"
+          ],
+          "translations": {
+            "zh-TW": "演講者在主要報告開始前做了簡短的介紹。"
+          }
+        },
+        {
+          "en": "Let me write an introduction to the report before sending it to the client.",
+          "highlight": [
+            "introduction"
+          ],
+          "translations": {
+            "zh-TW": "讓我在寄給客戶之前先為這份報告寫一段前言。"
           }
         }
       ],
       "synonyms": [
         "presentation",
-        "launch"
+        "preface",
+        "foreword"
       ],
       "antonyms": [
-        "removal",
-        "withdrawal"
+        "conclusion",
+        "farewell"
       ],
       "phrases": [
-        "brief",
-        "introduction",
-        "detailed",
-        "introduction"
+        "introduction to",
+        "letter of introduction",
+        "make an introduction",
+        "brief introduction"
       ]
     },
     {
@@ -62,48 +77,65 @@
       "toeic_score_min": 200,
       "word": "invent",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "invented",
+        "present_3rd": "invents",
+        "past": "invented",
         "past_participle": "invented",
-        "present_participle": "inventing",
-        "third_person": "invents"
+        "ing": "inventing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "invent",
-          "definition": "vt. 發明, 创作, 虚构, [机] 發明"
+          "definition": "v. 發明、創造、虛構"
         }
       ],
       "examples": [
         {
-          "en": "He invented a new type of engine.",
+          "en": "The engineer hopes to invent a more efficient battery for electric cars.",
           "highlight": [
             "invent"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位工程師希望能為電動車發明一款更有效率的電池。"
+          }
+        },
+        {
+          "en": "She invented a clever excuse when she arrived late for the meeting.",
+          "highlight": [
+            "invented"
+          ],
+          "translations": {
+            "zh-TW": "她開會遲到時編造了一個巧妙的藉口。"
+          }
+        },
+        {
+          "en": "He spends his weekends inventing new recipes in the kitchen.",
+          "highlight": [
+            "inventing"
+          ],
+          "translations": {
+            "zh-TW": "他週末都在廚房研發新的食譜。"
           }
         }
       ],
       "synonyms": [
         "create",
-        "design"
+        "design",
+        "devise"
       ],
       "antonyms": [
         "copy",
         "imitate"
       ],
       "phrases": [
-        "invent",
-        "something",
-        "new",
-        "invent",
-        "a"
+        "invent something new",
+        "invent a story",
+        "invent an excuse",
+        "invent from scratch"
       ]
     },
     {
@@ -114,47 +146,62 @@
       "toeic_score_min": 200,
       "word": "invention",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "inventioned",
-        "past_participle": "inventioned",
-        "present_participle": "inventioning",
-        "third_person": "inventions"
+        "plural": "inventions"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "invention",
-          "definition": "n. 發明, 创作能力, 虚构的故事, [經] 發明"
+          "definition": "n. 發明、發明物、創造力、虛構"
         }
       ],
       "examples": [
         {
-          "en": "The invention of the telephone changed the world.",
+          "en": "The invention of the smartphone changed how people communicate worldwide.",
           "highlight": [
             "invention"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "智慧型手機的發明改變了全世界人們的溝通方式。"
+          }
+        },
+        {
+          "en": "Several new inventions were showcased at the annual technology expo.",
+          "highlight": [
+            "inventions"
+          ],
+          "translations": {
+            "zh-TW": "年度科技博覽會上展示了幾項新發明。"
+          }
+        },
+        {
+          "en": "Her latest invention helps farmers save water during a drought.",
+          "highlight": [
+            "invention"
+          ],
+          "translations": {
+            "zh-TW": "她最新的發明能幫助農民在乾旱時節省用水。"
           }
         }
       ],
       "synonyms": [
         "creation",
-        "discovery"
+        "discovery",
+        "innovation"
       ],
       "antonyms": [
         "imitation",
         "copy"
       ],
       "phrases": [
-        "groundbreaking",
-        "invention",
-        "recent",
-        "invention"
+        "latest invention",
+        "groundbreaking invention",
+        "patent an invention",
+        "register an invention"
       ]
     },
     {
@@ -165,47 +212,65 @@
       "toeic_score_min": 200,
       "word": "invest",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "invested",
+        "present_3rd": "invests",
+        "past": "invested",
         "past_participle": "invested",
-        "present_participle": "investing",
-        "third_person": "invests"
+        "ing": "investing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "invest",
-          "definition": "vt. 投资, 花费, 笼罩, 授予, vi. 投资, 利用"
+          "definition": "v. 投資、投入（時間金錢）、授予"
         }
       ],
       "examples": [
         {
-          "en": "She decided to invest in real estate.",
+          "en": "Many graduates choose to invest their savings in index funds.",
           "highlight": [
             "invest"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "許多畢業生選擇把儲蓄投資於指數基金。"
+          }
+        },
+        {
+          "en": "The company invested heavily in renewable energy last quarter.",
+          "highlight": [
+            "invested"
+          ],
+          "translations": {
+            "zh-TW": "該公司上個季度大筆投資於再生能源。"
+          }
+        },
+        {
+          "en": "She is investing time in learning a third language for her career.",
+          "highlight": [
+            "investing"
+          ],
+          "translations": {
+            "zh-TW": "她為了職涯正投入時間學習第三外語。"
           }
         }
       ],
       "synonyms": [
-        "allocate",
-        "fund"
+        "fund",
+        "finance",
+        "allocate"
       ],
       "antonyms": [
         "divest",
         "withdraw"
       ],
       "phrases": [
-        "invest",
-        "money",
-        "invest",
-        "time"
+        "invest in",
+        "invest money",
+        "invest time",
+        "invest wisely"
       ]
     },
     {
@@ -216,48 +281,65 @@
       "toeic_score_min": 200,
       "word": "investigate",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "investigateed",
-        "past_participle": "investigateed",
-        "present_participle": "investigating",
-        "third_person": "investigates"
+        "present_3rd": "investigates",
+        "past": "investigated",
+        "past_participle": "investigated",
+        "ing": "investigating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "investigate",
-          "definition": "v. 调查, 审查"
+          "definition": "v. 調查、審查、研究"
         }
       ],
       "examples": [
         {
-          "en": "The police will investigate the case.",
+          "en": "The committee will investigate the cause of the data breach.",
           "highlight": [
             "investigate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "委員會將會調查這次資料外洩的原因。"
+          }
+        },
+        {
+          "en": "Detectives investigated the case for three months before making an arrest.",
+          "highlight": [
+            "investigated"
+          ],
+          "translations": {
+            "zh-TW": "警探調查了這個案件三個月才將嫌疑犯逮捕。"
+          }
+        },
+        {
+          "en": "She is currently investigating new markets for the company's products.",
+          "highlight": [
+            "investigating"
+          ],
+          "translations": {
+            "zh-TW": "她目前正在為公司產品研究新的市場。"
           }
         }
       ],
       "synonyms": [
         "examine",
-        "probe"
+        "probe",
+        "explore"
       ],
       "antonyms": [
         "ignore",
         "neglect"
       ],
       "phrases": [
-        "investigate",
-        "thoroughly",
-        "investigate",
-        "a",
-        "case"
+        "investigate a case",
+        "investigate thoroughly",
+        "investigate the cause",
+        "investigate a complaint"
       ]
     },
     {
@@ -268,47 +350,62 @@
       "toeic_score_min": 200,
       "word": "investment",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "investmented",
-        "past_participle": "investmented",
-        "present_participle": "investmenting",
-        "third_person": "investments"
+        "plural": "investments"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "investment",
-          "definition": "n. 投资, [医] 包埋料, 围模料, 包埋法, 围模法"
+          "definition": "n. 投資、投入的資本、投資額"
         }
       ],
       "examples": [
         {
-          "en": "His investment in the company paid off.",
+          "en": "His investment in the startup finally paid off after five years.",
           "highlight": [
             "investment"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他對那家新創公司的投資五年後終於有了回報。"
+          }
+        },
+        {
+          "en": "The bank offers several investment options for retired customers.",
+          "highlight": [
+            "investment"
+          ],
+          "translations": {
+            "zh-TW": "這家銀行為退休客戶提供幾種投資選項。"
+          }
+        },
+        {
+          "en": "Smart investments now can secure a comfortable future for your family.",
+          "highlight": [
+            "investments"
+          ],
+          "translations": {
+            "zh-TW": "現在聰明的投資能為您的家人保障舒適的未來。"
           }
         }
       ],
       "synonyms": [
         "funding",
-        "finance"
+        "finance",
+        "capital"
       ],
       "antonyms": [
         "divestment",
         "withdrawal"
       ],
       "phrases": [
-        "financial",
-        "investment",
-        "secure",
-        "investment"
+        "investment in",
+        "investment portfolio",
+        "long-term investment",
+        "investment return"
       ]
     },
     {
@@ -323,43 +420,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "inviteed",
-        "past_participle": "inviteed",
-        "present_participle": "inviting",
-        "third_person": "invites"
+        "present_3rd": "invites",
+        "past": "invited",
+        "past_participle": "invited",
+        "ing": "inviting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "invite",
-          "definition": "vt. 邀請, 請求, 引起, 招致, n. 邀請"
+          "definition": "v. 邀請、請求、招致  n. 邀請"
         }
       ],
       "examples": [
         {
-          "en": "They invited us to their wedding.",
+          "en": "We would like to invite you to our annual conference in Tokyo.",
           "highlight": [
             "invite"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們想邀請您參加我們在東京的年度大會。"
+          }
+        },
+        {
+          "en": "She invited the whole department to celebrate her promotion.",
+          "highlight": [
+            "invited"
+          ],
+          "translations": {
+            "zh-TW": "她邀請了整個部門一起慶祝她升職。"
+          }
+        },
+        {
+          "en": "He is inviting trouble by ignoring the safety regulations at work.",
+          "highlight": [
+            "inviting"
+          ],
+          "translations": {
+            "zh-TW": "他無視工作場所的安全規定，是在給自己惹麻煩。"
           }
         }
       ],
       "synonyms": [
         "ask",
-        "request"
+        "request",
+        "summon"
       ],
       "antonyms": [
         "exclude",
         "reject"
       ],
       "phrases": [
-        "invite",
-        "someone",
-        "invite",
-        "to"
+        "invite someone to",
+        "invite over",
+        "invite trouble",
+        "send an invite"
       ]
     },
     {
@@ -370,47 +486,65 @@
       "toeic_score_min": 200,
       "word": "involve",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "involveed",
-        "past_participle": "involveed",
-        "present_participle": "involving",
-        "third_person": "involves"
+        "present_3rd": "involves",
+        "past": "involved",
+        "past_participle": "involved",
+        "ing": "involving"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "involve",
-          "definition": "vt. 包括, 使陷于, 潜心于, 包围, [医] 累及, 牵涉, 包含"
+          "definition": "v. 包含、牽涉、使參與、需要"
         }
       ],
       "examples": [
         {
-          "en": "The project will involve several steps.",
+          "en": "The new project will involve close cooperation with the marketing team.",
           "highlight": [
             "involve"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新專案將需要與行銷團隊密切合作。"
+          }
+        },
+        {
+          "en": "The manager involved every staff member in the decision-making process.",
+          "highlight": [
+            "involved"
+          ],
+          "translations": {
+            "zh-TW": "經理讓每一位員工都參與了決策過程。"
+          }
+        },
+        {
+          "en": "The job involves traveling to client sites at least twice a month.",
+          "highlight": [
+            "involves"
+          ],
+          "translations": {
+            "zh-TW": "這份工作需要每個月至少出差到客戶端兩次。"
           }
         }
       ],
       "synonyms": [
         "include",
-        "engage"
+        "engage",
+        "entail"
       ],
       "antonyms": [
         "exclude",
         "omit"
       ],
       "phrases": [
-        "involve",
-        "in",
-        "involve",
-        "with"
+        "involve in",
+        "involve with",
+        "involve someone",
+        "be involved in"
       ]
     },
     {
@@ -421,47 +555,60 @@
       "toeic_score_min": 200,
       "word": "involved",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
-      "conjugations": {
-        "past_tense": "involveded",
-        "past_participle": "involveded",
-        "present_participle": "involveding",
-        "third_person": "involveds"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "involved",
-          "definition": "a. 難懂的, 复杂的, 不易懂的, 卷入...之中的, 累及..., 與...有關, 被纠缠的, [计] 包含, 涉及"
+          "definition": "adj. 參與的、捲入的、有關的、複雜的"
         }
       ],
       "examples": [
         {
-          "en": "He is involved in many activities.",
+          "en": "All parties involved agreed to sign the new contract.",
           "highlight": [
             "involved"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "所有相關方都同意簽署新合約。"
+          }
+        },
+        {
+          "en": "The more involved explanation confused the new employees even further.",
+          "highlight": [
+            "involved"
+          ],
+          "translations": {
+            "zh-TW": "更為複雜的解釋反而讓新進員工更加困惑。"
+          }
+        },
+        {
+          "en": "She stayed involved in community service even after retiring.",
+          "highlight": [
+            "involved"
+          ],
+          "translations": {
+            "zh-TW": "她退休後仍持續投入社區服務。"
           }
         }
       ],
       "synonyms": [
-        "complicated",
-        "engaged"
+        "engaged",
+        "participating",
+        "complicated"
       ],
       "antonyms": [
-        "uncomplicated",
+        "uninvolved",
         "simple"
       ],
       "phrases": [
-        "deeply",
-        "involved",
-        "directly",
-        "involved"
+        "get involved",
+        "involved in",
+        "involved with",
+        "parties involved"
       ]
     },
     {
@@ -472,47 +619,62 @@
       "toeic_score_min": 200,
       "word": "involvement",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "involvemented",
-        "past_participle": "involvemented",
-        "present_participle": "involvementing",
-        "third_person": "involvements"
+        "plural": "involvements"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "involvement",
-          "definition": "n. 卷入, 牵连, 包含, 困窘, [經] 财政困難, 經济上的困窘"
+          "definition": "n. 參與、牽涉、捲入、投入"
         }
       ],
       "examples": [
         {
-          "en": "Her involvement in the project was crucial.",
+          "en": "Her involvement in the project was crucial to its success.",
           "highlight": [
             "involvement"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她對這個專案的參與是其成功的關鍵。"
+          }
+        },
+        {
+          "en": "The CEO denied any involvements with the competitor's board members.",
+          "highlight": [
+            "involvements"
+          ],
+          "translations": {
+            "zh-TW": "執行長否認與競爭對手的董事有任何牽涉。"
+          }
+        },
+        {
+          "en": "Parental involvement in a child's education often leads to better grades.",
+          "highlight": [
+            "involvement"
+          ],
+          "translations": {
+            "zh-TW": "父母參與孩子的教育通常會帶來更好的成績。"
           }
         }
       ],
       "synonyms": [
         "participation",
-        "engagement"
+        "engagement",
+        "contribution"
       ],
       "antonyms": [
         "exclusion",
         "disengagement"
       ],
       "phrases": [
-        "active",
-        "involvement",
-        "direct",
-        "involvement"
+        "involvement in",
+        "active involvement",
+        "direct involvement",
+        "community involvement"
       ]
     }
   ]
