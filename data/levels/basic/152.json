@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 152,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-152-001",
@@ -15,43 +15,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "impressed",
+        "present_3rd": "impresses",
+        "past": "impressed",
         "past_participle": "impressed",
-        "present_participle": "impressing",
-        "third_person": "impresses"
+        "ing": "impressing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "impress",
-          "definition": "n. 印象, 特征, 印記, vt. 使有印象, 印, 铭刻, 传送, 影響, 强征, vi. 给人印象"
+          "definition": "vt. 使印象深刻、打動  vi. 給人留下印象"
         }
       ],
       "examples": [
         {
-          "en": "She wants to impress her boss.",
+          "en": "The candidate tried to impress the interviewer with her fluency in three languages.",
           "highlight": [
             "impress"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "那位應徵者試圖用她流利的三種語言來讓面試官印象深刻。"
+          }
+        },
+        {
+          "en": "The new intern impressed the manager by finishing the report two days early.",
+          "highlight": [
+            "impressed"
+          ],
+          "translations": {
+            "zh-TW": "新來的實習生提前兩天完成報告，令經理印象深刻。"
+          }
+        },
+        {
+          "en": "Her presentation was so impressing that several clients asked for a follow-up meeting.",
+          "highlight": [
+            "impressing"
+          ],
+          "translations": {
+            "zh-TW": "她的簡報令人印象深刻，好幾位客戶都要求安排後續會議。"
           }
         }
       ],
       "synonyms": [
-        "influence",
-        "affect"
+        "dazzle",
+        "awe",
+        "move"
       ],
       "antonyms": [
         "disappoint",
         "underwhelm"
       ],
       "phrases": [
-        "impress",
-        "with",
-        "impress",
-        "someone"
+        "impress someone",
+        "impress with",
+        "first impression",
+        "be impressed by"
       ]
     },
     {
@@ -65,43 +84,58 @@
         "adjective",
         "verb"
       ],
-      "conjugations": {
-        "past_tense": "impresseded",
-        "past_participle": "impresseded",
-        "present_participle": "impresseding",
-        "third_person": "impresseds"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "impressed",
-          "definition": "a. 外加的；印象深刻的；了不起的；受感動的"
+          "definition": "adj. 印象深刻的、讚嘆的"
         }
       ],
       "examples": [
         {
-          "en": "He was impressed by her performance.",
+          "en": "The board was impressed by the sales figures from the last quarter.",
           "highlight": [
             "impressed"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "董事會對上一季的銷售數字印象深刻。"
+          }
+        },
+        {
+          "en": "She looked impressed when the technician solved the problem in five minutes.",
+          "highlight": [
+            "impressed"
+          ],
+          "translations": {
+            "zh-TW": "技術員在五分鐘內解決了問題，她看起來很讚嘆。"
+          }
+        },
+        {
+          "en": "I have never been more impressed with a customer service team than I am today.",
+          "highlight": [
+            "impressed"
+          ],
+          "translations": {
+            "zh-TW": "我從沒像今天這樣對一個客服團隊如此印象深刻。"
           }
         }
       ],
       "synonyms": [
+        "amazed",
         "awed",
-        "amazed"
+        "stunned"
       ],
       "antonyms": [
-        "unimpressed"
+        "unimpressed",
+        "underwhelmed"
       ],
       "phrases": [
-        "deeply",
-        "impressed",
-        "quite",
-        "impressed"
+        "be impressed by",
+        "deeply impressed",
+        "quite impressed",
+        "impressed with"
       ]
     },
     {
@@ -112,44 +146,61 @@
       "toeic_score_min": 200,
       "word": "impression",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "impressioned",
-        "past_participle": "impressioned",
-        "present_participle": "impressioning",
-        "third_person": "impressions"
+        "plural": "impressions"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "impression",
-          "definition": "n. 印象, 意念, 盖印, 印記, 印数, 底色, 效果, [医] 压迹, 印模, 印象, 影響"
+          "definition": "n. 印象、感想、印記"
         }
       ],
       "examples": [
         {
-          "en": "She made a good impression at the interview.",
+          "en": "She made a strong impression on the client during the kickoff meeting.",
           "highlight": [
             "impression"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在啟動會議上給客戶留下了深刻的印象。"
+          }
+        },
+        {
+          "en": "His first impressions of the new office were very positive.",
+          "highlight": [
+            "impressions"
+          ],
+          "translations": {
+            "zh-TW": "他對新辦公室的第一印象非常正面。"
+          }
+        },
+        {
+          "en": "The handmade packaging left a lasting impression on every customer who opened the box.",
+          "highlight": [
+            "impression"
+          ],
+          "translations": {
+            "zh-TW": "手工包裝在每位打開盒子的顧客心中留下了持久的印象。"
           }
         }
       ],
       "synonyms": [
         "perception",
-        "opinion"
+        "notion",
+        "sense"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "misconception"
+      ],
       "phrases": [
-        "first",
-        "impression",
-        "lasting",
-        "impression"
+        "first impression",
+        "make an impression",
+        "lasting impression",
+        "under the impression"
       ]
     },
     {
@@ -160,44 +211,63 @@
       "toeic_score_min": 200,
       "word": "impressive",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "impressives"
+        "comparative": "more impressive",
+        "superlative": "most impressive"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "impressive",
-          "definition": "a. 给人深刻印象的, 威严的"
+          "definition": "adj. 令人印象深刻的、出色的"
         }
       ],
       "examples": [
         {
-          "en": "The view was impressive.",
+          "en": "The hotel lobby has an impressive view of the harbor.",
           "highlight": [
             "impressive"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "飯店大廳有令人印象深刻的海港景觀。"
+          }
+        },
+        {
+          "en": "This year's revenue growth is even more impressive than last year's.",
+          "highlight": [
+            "more impressive"
+          ],
+          "translations": {
+            "zh-TW": "今年的營收成長比去年更令人印象深刻。"
+          }
+        },
+        {
+          "en": "The CEO delivered the most impressive speech at the annual conference.",
+          "highlight": [
+            "most impressive"
+          ],
+          "translations": {
+            "zh-TW": "執行長在年會上發表了最令人印象深刻的演說。"
           }
         }
       ],
       "synonyms": [
-        "awe-inspiring",
+        "striking",
+        "remarkable",
         "grand"
       ],
       "antonyms": [
         "unimpressive",
-        "ordinary"
+        "mediocre"
       ],
       "phrases": [
-        "most",
-        "impressive",
-        "impressive",
-        "feat"
+        "impressive feat",
+        "most impressive",
+        "impressive record",
+        "impressive performance"
       ]
     },
     {
@@ -208,47 +278,65 @@
       "toeic_score_min": 200,
       "word": "improve",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "improveed",
-        "past_participle": "improveed",
-        "present_participle": "improving",
-        "third_person": "improves"
+        "present_3rd": "improves",
+        "past": "improved",
+        "past_participle": "improved",
+        "ing": "improving"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "improve",
-          "definition": "vt. 改良, 提高...的价值, 改善, 利用, vi. 变得更好, 增加"
+          "definition": "vt. 改善、提升  vi. 變得更好"
         }
       ],
       "examples": [
         {
-          "en": "He wants to improve his skills.",
+          "en": "The company plans to improve customer service by hiring more staff.",
           "highlight": [
             "improve"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司計劃透過增聘人手來改善客服品質。"
+          }
+        },
+        {
+          "en": "Sales improved sharply after the new marketing campaign was launched.",
+          "highlight": [
+            "improved"
+          ],
+          "translations": {
+            "zh-TW": "新的行銷活動上線後，銷售明顯改善。"
+          }
+        },
+        {
+          "en": "The factory has been improving its safety standards since the audit last year.",
+          "highlight": [
+            "improving"
+          ],
+          "translations": {
+            "zh-TW": "自去年稽核以來，工廠一直在提升安全標準。"
           }
         }
       ],
       "synonyms": [
         "enhance",
-        "better"
+        "better",
+        "upgrade"
       ],
       "antonyms": [
         "worsen",
-        "degrade"
+        "deteriorate"
       ],
       "phrases": [
-        "improve",
-        "performance",
-        "improve",
-        "skills"
+        "improve performance",
+        "improve skills",
+        "improve quality",
+        "improve efficiency"
       ]
     },
     {
@@ -259,48 +347,62 @@
       "toeic_score_min": 200,
       "word": "improvement",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "improvemented",
-        "past_participle": "improvemented",
-        "present_participle": "improvementing",
-        "third_person": "improvements"
+        "plural": "improvements"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "improvement",
-          "definition": "n. 进步, 改善, 利用, [医] 改善, 好转, 进步"
+          "definition": "n. 改善、進步、提升"
         }
       ],
       "examples": [
         {
-          "en": "There has been a significant improvement in her work.",
+          "en": "There has been a noticeable improvement in delivery times this month.",
           "highlight": [
             "improvement"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "本月的配送時間有明顯的改善。"
+          }
+        },
+        {
+          "en": "The recent improvements to the app make it much easier to use.",
+          "highlight": [
+            "improvements"
+          ],
+          "translations": {
+            "zh-TW": "應用程式最近的改善讓它變得更好用了。"
+          }
+        },
+        {
+          "en": "Management attributed the improvement in morale to the new flexible work policy.",
+          "highlight": [
+            "improvement"
+          ],
+          "translations": {
+            "zh-TW": "管理階層將士氣的提升歸功於新的彈性工作政策。"
           }
         }
       ],
       "synonyms": [
         "advancement",
-        "development"
+        "progress",
+        "enhancement"
       ],
       "antonyms": [
         "deterioration",
         "decline"
       ],
       "phrases": [
-        "make",
-        "an",
-        "improvement",
-        "show",
-        "improvement"
+        "make an improvement",
+        "show improvement",
+        "room for improvement",
+        "continuous improvement"
       ]
     },
     {
@@ -320,17 +422,35 @@
         {
           "lang": "zh-TW",
           "lang_word": "in",
-          "definition": "prep. 在...期間, 在...之内, 處于...之中, 从事于, 按照, 穿着, adv. 进入, 朝裡, 在裡面, 在屋裡, a. 在裡面的, 在朝的, n. 执政者, 交情"
+          "definition": "prep. 在……之內、在……期間、用……  adv. 在裡面、進入"
         }
       ],
       "examples": [
         {
-          "en": "The keys are in the drawer.",
+          "en": "Please leave your business card in the tray at the reception desk.",
           "highlight": [
             "in"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請將您的名片放在櫃檯的托盤裡。"
+          }
+        },
+        {
+          "en": "The negotiation was completed in just three days.",
+          "highlight": [
+            "in"
+          ],
+          "translations": {
+            "zh-TW": "談判只花了三天就完成了。"
+          }
+        },
+        {
+          "en": "All payments must be made in euros, according to the new contract.",
+          "highlight": [
+            "in"
+          ],
+          "translations": {
+            "zh-TW": "根據新合約，所有款項都必須以歐元支付。"
           }
         }
       ],
@@ -343,11 +463,10 @@
         "outside"
       ],
       "phrases": [
-        "in",
-        "the",
-        "room",
-        "in",
-        "the"
+        "in charge of",
+        "in advance",
+        "in time",
+        "in charge"
       ]
     },
     {
@@ -358,8 +477,7 @@
       "toeic_score_min": 200,
       "word": "inability",
       "pos": [
-        "noun",
-        "adjective"
+        "noun"
       ],
       "conjugations": {
         "plural": "inabilities"
@@ -369,34 +487,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "inability",
-          "definition": "n. 无能, 无力"
+          "definition": "n. 無能、無力、不能"
         }
       ],
       "examples": [
         {
-          "en": "His inability to walk was due to an injury.",
+          "en": "His inability to speak French made the negotiations more difficult.",
           "highlight": [
             "inability"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他不會說法語，讓談判變得更困難。"
+          }
+        },
+        {
+          "en": "The company's inability to meet the deadline cost them the contract.",
+          "highlight": [
+            "inability"
+          ],
+          "translations": {
+            "zh-TW": "公司無法在期限內完成，讓他們失去了這份合約。"
+          }
+        },
+        {
+          "en": "Several inabilities of the new software were noted during the trial period.",
+          "highlight": [
+            "inabilities"
+          ],
+          "translations": {
+            "zh-TW": "試用期間，新軟體的幾項無法勝任之處被記錄下來。"
           }
         }
       ],
       "synonyms": [
         "incapacity",
-        "incompetence"
+        "incompetence",
+        "powerlessness"
       ],
       "antonyms": [
         "ability",
         "competence"
       ],
       "phrases": [
-        "inability",
-        "to",
-        "due",
-        "to",
-        "inability"
+        "inability to",
+        "due to inability",
+        "inability to pay",
+        "demonstrate inability"
       ]
     },
     {
@@ -411,44 +547,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "inched",
+        "plural": "inches",
+        "present_3rd": "inches",
+        "past": "inched",
         "past_participle": "inched",
-        "present_participle": "inching",
-        "third_person": "inchs"
+        "ing": "inching"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "inch",
-          "definition": "n. 英寸, 身高, 小岛, vi. 慢慢前进, 慢慢移動, vt. 使缓慢地移動"
+          "definition": "n. 英寸  v. 緩慢移動、一點一點地推進"
         }
       ],
       "examples": [
         {
-          "en": "The screen measures 15 inches.",
+          "en": "The snowfall reached eight inches by the time the storm ended.",
           "highlight": [
-            "inch"
+            "inches"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "暴風雪結束時，降雪量達到八英寸。"
+          }
+        },
+        {
+          "en": "Traffic inched forward during the morning rush hour.",
+          "highlight": [
+            "inched"
+          ],
+          "translations": {
+            "zh-TW": "早晨尖峰時段，車流只能緩慢地往前移動。"
+          }
+        },
+        {
+          "en": "The technician was inching the heavy equipment into position with great care.",
+          "highlight": [
+            "inching"
+          ],
+          "translations": {
+            "zh-TW": "技術員正小心翼翼地把沉重的設備一點一點地推到定位。"
           }
         }
       ],
       "synonyms": [
         "measure",
-        "unit"
+        "creep",
+        "crawl"
       ],
       "antonyms": [
-        "foot",
-        "yard"
+        "leap",
+        "rush"
       ],
       "phrases": [
-        "inch",
-        "by",
-        "inch",
-        "every",
-        "inch"
+        "inch by inch",
+        "every inch",
+        "inch forward",
+        "inch along"
       ]
     },
     {
@@ -459,45 +614,59 @@
       "toeic_score_min": 200,
       "word": "incident",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "incidented",
-        "past_participle": "incidented",
-        "present_participle": "incidenting",
-        "third_person": "incidents"
+        "plural": "incidents"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "incident",
-          "definition": "n. 事件, 事变, 小事, a. 附帶的, 易于發生的, 外來的, 入射的"
+          "definition": "n. 事件、事故、突發狀況"
         }
       ],
       "examples": [
         {
-          "en": "The incident was reported to the police.",
+          "en": "A minor incident at the warehouse delayed the shipment by two hours.",
           "highlight": [
             "incident"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "倉庫發生的小事件讓出貨延遲了兩小時。"
+          }
+        },
+        {
+          "en": "All workplace incidents must be reported to the safety officer within 24 hours.",
+          "highlight": [
+            "incidents"
+          ],
+          "translations": {
+            "zh-TW": "所有職場事故都必須在二十四小時內通報安全官。"
+          }
+        },
+        {
+          "en": "The hotel manager handled the incident with the unhappy guest calmly and professionally.",
+          "highlight": [
+            "incident"
+          ],
+          "translations": {
+            "zh-TW": "飯店經理冷靜且專業地處理了那位不滿客人的事件。"
           }
         }
       ],
       "synonyms": [
         "event",
-        "occurrence"
+        "occurrence",
+        "episode"
       ],
       "antonyms": [],
       "phrases": [
-        "report",
-        "an",
-        "incident",
-        "incident",
-        "report"
+        "report an incident",
+        "major incident",
+        "minor incident",
+        "incident report"
       ]
     }
   ]
