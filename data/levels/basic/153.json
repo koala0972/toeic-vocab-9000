@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 153,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-153-001",
@@ -11,36 +11,54 @@
       "toeic_score_min": 200,
       "word": "include",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "includeed",
-        "past_participle": "includeed",
-        "present_participle": "including",
-        "third_person": "includes"
+        "present_3rd": "includes",
+        "past": "included",
+        "past_participle": "included",
+        "ing": "including"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "include",
-          "definition": "vt. 包括, 把...算入, 包住, [计] DOS内部命令:在CONFIG.SYS文件的一個配置块中包含另一配置块的内容"
+          "definition": "v. 包含、包括、把……算入"
         }
       ],
       "examples": [
         {
-          "en": "The price includes tax.",
+          "en": "The monthly subscription includes unlimited cloud storage and priority support.",
           "highlight": [
-            "include"
+            "includes"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "月費訂閱方案包含無限量雲端儲存空間與優先客服支援。"
+          }
+        },
+        {
+          "en": "Our latest report included a detailed analysis of the Asian market.",
+          "highlight": [
+            "included"
+          ],
+          "translations": {
+            "zh-TW": "我們最新的報告包含了針對亞洲市場的詳細分析。"
+          }
+        },
+        {
+          "en": "The new policy will be effective next month, including all regional branches.",
+          "highlight": [
+            "including"
+          ],
+          "translations": {
+            "zh-TW": "新政策將於下個月生效，涵蓋所有地區分公司。"
           }
         }
       ],
       "synonyms": [
         "contain",
+        "comprise",
         "encompass"
       ],
       "antonyms": [
@@ -48,10 +66,9 @@
         "omit"
       ],
       "phrases": [
-        "include",
-        "in",
-        "include",
-        "all"
+        "include in",
+        "include tax",
+        "not include"
       ]
     },
     {
@@ -70,33 +87,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "including",
-          "definition": "prep. 包含, 包括, [經] 包括, 算入"
+          "definition": "prep. 包含、包括……在內"
         }
       ],
       "examples": [
         {
-          "en": "We are open every day including weekends.",
+          "en": "All employees, including part-time staff, are entitled to a year-end bonus.",
           "highlight": [
             "including"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "所有員工，包括兼職人員在內，皆有資格領取年終獎金。"
+          }
+        },
+        {
+          "en": "The price is $50 per person, including breakfast and free Wi-Fi.",
+          "highlight": [
+            "including"
+          ],
+          "translations": {
+            "zh-TW": "每人收費 50 美元，包含早餐與免費 Wi-Fi。"
+          }
+        },
+        {
+          "en": "We received applications from twelve countries, including Japan and Brazil.",
+          "highlight": [
+            "including"
+          ],
+          "translations": {
+            "zh-TW": "我們收到了來自十二個國家的申請，包括日本與巴西。"
           }
         }
       ],
       "synonyms": [
         "comprising",
-        "counting"
+        "counting",
+        "incorporating"
       ],
       "antonyms": [
         "excluding",
         "excepting"
       ],
       "phrases": [
-        "including",
-        "everything",
-        "including",
-        "everyone"
+        "including but not limited to",
+        "including tax",
+        "including shipping"
       ]
     },
     {
@@ -107,47 +142,61 @@
       "toeic_score_min": 200,
       "word": "income",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "incomeed",
-        "past_participle": "incomeed",
-        "present_participle": "incoming",
-        "third_person": "incomes"
+        "plural": "incomes"
       },
-      "domain": "general",
+      "domain": "finance",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "income",
-          "definition": "n. 收入, 收益, 流入, [經] 收益"
+          "definition": "n. 收入、所得、收益"
         }
       ],
       "examples": [
         {
-          "en": "She has a steady income.",
+          "en": "Her annual income from the rental property exceeds $40,000.",
           "highlight": [
             "income"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她來自出租物業的年收入超過四萬美元。"
+          }
+        },
+        {
+          "en": "Household incomes in this neighborhood have risen noticeably over the past decade.",
+          "highlight": [
+            "incomes"
+          ],
+          "translations": {
+            "zh-TW": "這個社區的家庭收入在過去十年間顯著上升。"
+          }
+        },
+        {
+          "en": "Many retirees rely on passive income from investments and dividends.",
+          "highlight": [
+            "income"
+          ],
+          "translations": {
+            "zh-TW": "許多退休人士依靠投資與股息所帶來的被動收入維生。"
           }
         }
       ],
       "synonyms": [
         "earnings",
-        "revenue"
+        "revenue",
+        "wage"
       ],
       "antonyms": [
         "expense",
-        "outgoings"
+        "expenditure"
       ],
       "phrases": [
-        "monthly",
-        "income",
-        "steady",
-        "income"
+        "annual income",
+        "net income",
+        "stable income"
       ]
     },
     {
@@ -162,43 +211,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "increaseed",
-        "past_participle": "increaseed",
-        "present_participle": "increasing",
-        "third_person": "increases"
+        "plural": "increases",
+        "present_3rd": "increases",
+        "past": "increased",
+        "past_participle": "increased",
+        "ing": "increasing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "increase",
-          "definition": "n. 增加, 增进, 利益, vt. 增加, 加大, vi. 增加, 繁殖"
+          "definition": "v. 增加、增長、提升  n. 增加、增幅"
         }
       ],
       "examples": [
         {
-          "en": "They plan to increase production.",
+          "en": "The company plans to increase its marketing budget by 20 percent next quarter.",
           "highlight": [
             "increase"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司計畫在下個季度將行銷預算增加百分之二十。"
+          }
+        },
+        {
+          "en": "Online sales increased sharply after the new website was launched.",
+          "highlight": [
+            "increased"
+          ],
+          "translations": {
+            "zh-TW": "新網站上線之後，線上銷售量大幅增加。"
+          }
+        },
+        {
+          "en": "Increasing fuel costs have pushed many logistics firms to raise their prices.",
+          "highlight": [
+            "Increasing"
+          ],
+          "translations": {
+            "zh-TW": "不斷上升的燃料成本迫使許多物流公司調漲價格。"
           }
         }
       ],
       "synonyms": [
         "grow",
-        "expand"
+        "expand",
+        "boost"
       ],
       "antonyms": [
         "decrease",
         "reduce"
       ],
       "phrases": [
-        "increase",
-        "by",
-        "increase",
-        "in"
+        "increase by",
+        "increase in",
+        "on the increase"
       ]
     },
     {
@@ -217,33 +285,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "increasingly",
-          "definition": "adv. 逐渐地, 渐增地"
+          "definition": "adv. 日益、越來越……地"
         }
       ],
       "examples": [
         {
-          "en": "He is becoming increasingly worried.",
+          "en": "Consumers are increasingly concerned about the environmental impact of packaging.",
           "highlight": [
             "increasingly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "消費者越來越關注包裝對環境造成的影響。"
+          }
+        },
+        {
+          "en": "Remote work has become increasingly common since the pandemic began.",
+          "highlight": [
+            "increasingly"
+          ],
+          "translations": {
+            "zh-TW": "自疫情爆發以來，遠端工作已變得越來越普遍。"
+          }
+        },
+        {
+          "en": "Investors are increasingly cautious about putting money into emerging markets.",
+          "highlight": [
+            "increasingly"
+          ],
+          "translations": {
+            "zh-TW": "投資人對於將資金投入新興市場越來越謹慎。"
           }
         }
       ],
       "synonyms": [
         "progressively",
-        "more"
+        "gradually",
+        "more and more"
       ],
       "antonyms": [
-        "less",
-        "decreasingly"
+        "decreasingly",
+        "less"
       ],
       "phrases": [
-        "increasingly",
-        "common",
-        "increasingly",
-        "aware"
+        "increasingly popular",
+        "increasingly important",
+        "increasingly difficult"
       ]
     },
     {
@@ -263,34 +349,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "indeed",
-          "definition": "adv. 的确, 實在, 真正地, 甚至"
+          "definition": "adv. 確實、的確、真正地  interj. 真的、實在是"
         }
       ],
       "examples": [
         {
-          "en": "Indeed, it was a remarkable achievement.",
+          "en": "The new software is, indeed, much faster than the previous version.",
           "highlight": [
             "indeed"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這套新軟體確實比之前的版本快得多。"
+          }
+        },
+        {
+          "en": "A: The keynote speech was inspiring. B: Indeed, I have rarely heard such a compelling presentation.",
+          "highlight": [
+            "Indeed"
+          ],
+          "translations": {
+            "zh-TW": "甲：那場專題演講很振奮人心。乙：確實，我很少聽到這麼有說服力的簡報。"
+          }
+        },
+        {
+          "en": "The results were indeed disappointing, but they gave us valuable lessons for the next project.",
+          "highlight": [
+            "indeed"
+          ],
+          "translations": {
+            "zh-TW": "結果的確令人失望，但它們為下一個專案提供了寶貴的教訓。"
           }
         }
       ],
       "synonyms": [
         "truly",
-        "certainly"
+        "certainly",
+        "really"
       ],
       "antonyms": [
         "doubtfully",
-        "uncertainly"
+        "unlikely"
       ],
       "phrases": [
-        "yes",
-        "indeed",
-        "indeed",
-        "it",
-        "is"
+        "yes indeed",
+        "very much indeed",
+        "indeed so"
       ]
     },
     {
@@ -301,47 +404,59 @@
       "toeic_score_min": 200,
       "word": "independence",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
-      "conjugations": {
-        "past_tense": "independenceed",
-        "past_participle": "independenceed",
-        "present_participle": "independencing",
-        "third_person": "independences"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "independence",
-          "definition": "n. 独立, 自立, 自主, [医] 自主性, 独立性"
+          "definition": "n. 獨立、自主、自立"
         }
       ],
       "examples": [
         {
-          "en": "The country gained independence in 1960.",
+          "en": "The country declared its independence from colonial rule in 1947.",
           "highlight": [
             "independence"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這個國家於 1947 年宣告脫離殖民統治獨立。"
+          }
+        },
+        {
+          "en": "Financial independence allows young adults to make their own life choices.",
+          "highlight": [
+            "independence"
+          ],
+          "translations": {
+            "zh-TW": "財務獨立讓年輕人能夠自主做出人生選擇。"
+          }
+        },
+        {
+          "en": "The auditor emphasized the importance of independence when reviewing company accounts.",
+          "highlight": [
+            "independence"
+          ],
+          "translations": {
+            "zh-TW": "稽核人員在審查公司帳目時強調獨立性的重要。"
           }
         }
       ],
       "synonyms": [
         "autonomy",
-        "self-sufficiency"
+        "self-sufficiency",
+        "self-rule"
       ],
       "antonyms": [
         "dependence",
         "subordination"
       ],
       "phrases": [
-        "gain",
-        "independence",
-        "national",
-        "independence"
+        "declare independence",
+        "gain independence",
+        "financial independence"
       ]
     },
     {
@@ -363,33 +478,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "independent",
-          "definition": "n. 独立自主者, 无党派者, a. 独立的, 有主见的, 不须依赖的, 不受约束的"
+          "definition": "adj. 獨立的、自主的、不受支配的"
         }
       ],
       "examples": [
         {
-          "en": "She is an independent woman.",
+          "en": "She runs an independent bookstore that specializes in rare secondhand editions.",
           "highlight": [
             "independent"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她經營一家獨立書店，專門販售罕見的二手版本。"
+          }
+        },
+        {
+          "en": "An independent review board will evaluate the safety of the new medication.",
+          "highlight": [
+            "independent"
+          ],
+          "translations": {
+            "zh-TW": "一個獨立的審查委員會將評估這款新藥的安全性。"
+          }
+        },
+        {
+          "en": "Many independents in the legislature hold the balance of power between the two major parties.",
+          "highlight": [
+            "independents"
+          ],
+          "translations": {
+            "zh-TW": "立法機關中許多無黨籍人士在兩大政黨之間掌握關鍵的權力平衡。"
           }
         }
       ],
       "synonyms": [
         "self-reliant",
-        "autonomous"
+        "autonomous",
+        "self-governing"
       ],
       "antonyms": [
         "dependent",
         "subordinate"
       ],
       "phrases": [
-        "independent",
-        "from",
-        "independent",
-        "of"
+        "independent of",
+        "independent contractor",
+        "independent variable"
       ]
     },
     {
@@ -404,40 +537,59 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "indexed",
+        "plural": "indexes",
+        "present_3rd": "indexes",
+        "past": "indexed",
         "past_participle": "indexed",
-        "present_participle": "indexing",
-        "third_person": "indexs"
+        "ing": "indexing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "index",
-          "definition": "n. 索引, 指针, 指数, 指标, vt. 编入索引中, 指出, vi. 做索引, [计] 下标; 附标; 变址; 索引; 编索引"
+          "definition": "n. 索引、指數、指標  v. 編入索引、按指數調整"
         }
       ],
       "examples": [
         {
-          "en": "Look up the term in the index.",
+          "en": "You can find every reference to the author by checking the index at the back of the book.",
           "highlight": [
             "index"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "查閱書末的索引，就能找到該作者的每一處提及。"
+          }
+        },
+        {
+          "en": "The librarian indexed over two thousand articles during the summer project.",
+          "highlight": [
+            "indexed"
+          ],
+          "translations": {
+            "zh-TW": "圖書館員在暑假期間為超過兩千篇文章編製了索引。"
+          }
+        },
+        {
+          "en": "Several economic indexes were adjusted to reflect the latest inflation figures.",
+          "highlight": [
+            "indexes"
+          ],
+          "translations": {
+            "zh-TW": "幾項經濟指數經過調整，以反映最新的通膨數據。"
           }
         }
       ],
       "synonyms": [
         "listing",
-        "directory"
+        "directory",
+        "indicator"
       ],
       "antonyms": [],
       "phrases": [
-        "alphabetical",
-        "index",
-        "name",
-        "index"
+        "consumer price index",
+        "alphabetical index",
+        "index of"
       ]
     },
     {
@@ -448,49 +600,64 @@
       "toeic_score_min": 200,
       "word": "indicate",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "indicateed",
-        "past_participle": "indicateed",
-        "present_participle": "indicating",
-        "third_person": "indicates"
+        "present_3rd": "indicates",
+        "past": "indicated",
+        "past_participle": "indicated",
+        "ing": "indicating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "indicate",
-          "definition": "vt. 顯示, 象征, 指示, 指出, [医] 指示"
+          "definition": "v. 指出、表明、顯示、指示"
         }
       ],
       "examples": [
         {
-          "en": "Please indicate your preferences on the form.",
+          "en": "Please indicate your preferred interview time on the form below.",
           "highlight": [
             "indicate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在下方表格中勾選您希望的訪談時段。"
+          }
+        },
+        {
+          "en": "The survey results indicated a strong demand for shorter, more flexible working hours.",
+          "highlight": [
+            "indicated"
+          ],
+          "translations": {
+            "zh-TW": "問卷結果顯示，受訪者強烈期望更短且更有彈性的工時。"
+          }
+        },
+        {
+          "en": "The red light on the dashboard indicates that the engine oil needs to be replaced soon.",
+          "highlight": [
+            "indicates"
+          ],
+          "translations": {
+            "zh-TW": "儀表板上的紅燈顯示引擎機油需要盡快更換。"
           }
         }
       ],
       "synonyms": [
         "show",
-        "point",
-        "out"
+        "point out",
+        "signify"
       ],
       "antonyms": [
         "hide",
         "conceal"
       ],
       "phrases": [
-        "indicate",
-        "clearly",
-        "indicate",
-        "a",
-        "preference"
+        "indicate that",
+        "clearly indicate",
+        "indicate a preference"
       ]
     }
   ]
