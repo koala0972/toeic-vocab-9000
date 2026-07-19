@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 154,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-154-001",
@@ -11,44 +11,58 @@
       "toeic_score_min": 200,
       "word": "indication",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "indicationed",
-        "past_participle": "indicationed",
-        "present_participle": "indicationing",
-        "third_person": "indications"
+        "plural": "indications"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "indication",
-          "definition": "n. 指示, 象征, 暗示, [医] 指示, 指征, 适应征"
+          "definition": "n. 指示、跡象、象徵"
         }
       ],
       "examples": [
         {
-          "en": "There is no indication of a break-in.",
+          "en": "There was no indication that the deal would fall through.",
           "highlight": [
             "indication"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "沒有任何跡象顯示這筆交易會失敗。"
+          }
+        },
+        {
+          "en": "Several indications suggest the market is recovering.",
+          "highlight": [
+            "indications"
+          ],
+          "translations": {
+            "zh-TW": "多項跡象顯示市場正在復甦。"
+          }
+        },
+        {
+          "en": "The sudden drop in sales was taken as a clear indication of trouble ahead.",
+          "highlight": [
+            "indication"
+          ],
+          "translations": {
+            "zh-TW": "銷售額的驟降被視為前方有麻煩的明確警示。"
           }
         }
       ],
       "synonyms": [
         "sign",
-        "signal"
+        "signal",
+        "symptom"
       ],
       "antonyms": [],
       "phrases": [
-        "strong",
-        "indication",
-        "indication",
-        "of"
+        "clear indication",
+        "give an indication",
+        "early indication"
       ]
     },
     {
@@ -59,44 +73,63 @@
       "toeic_score_min": 200,
       "word": "indirect",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "indirects"
+        "comparative": "more indirect",
+        "superlative": "most indirect"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "indirect",
-          "definition": "a. 間接的, 非直截了当的, 不坦率的, [医] 間接的"
+          "definition": "adj. 間接的、迂迴的、不坦率的"
         }
       ],
       "examples": [
         {
-          "en": "They took an indirect route to avoid traffic.",
+          "en": "They took an indirect route to avoid the heavy traffic downtown.",
           "highlight": [
             "indirect"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "為了避開市中心的大塞車，他們走了一條迂迴的路。"
+          }
+        },
+        {
+          "en": "Her answer was even more indirect than I had expected.",
+          "highlight": [
+            "more indirect"
+          ],
+          "translations": {
+            "zh-TW": "她的回答比我預期的還要更加拐彎抹角。"
+          }
+        },
+        {
+          "en": "Diplomats often use the most indirect language when discussing sensitive issues.",
+          "highlight": [
+            "most indirect"
+          ],
+          "translations": {
+            "zh-TW": "外交官在討論敏感議題時，往往使用最迂迴的措辭。"
           }
         }
       ],
       "synonyms": [
-        "secondary",
-        "incidental"
+        "roundabout",
+        "oblique",
+        "circuitous"
       ],
       "antonyms": [
         "direct",
         "straightforward"
       ],
       "phrases": [
-        "indirect",
-        "effect",
-        "indirect",
-        "route"
+        "indirect route",
+        "indirect effect",
+        "indirect approach",
+        "indirect cost"
       ]
     },
     {
@@ -115,33 +148,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "indirectly",
-          "definition": "adv. 間接, 曲折, 迂回, 不直截了当, 不诚實, 不坦率, [计] 間接地"
+          "definition": "adv. 間接地、迂迴地"
         }
       ],
       "examples": [
         {
-          "en": "She was indirectly involved in the decision.",
+          "en": "She was indirectly involved in the hiring decision.",
           "highlight": [
             "indirectly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她間接參與了這次招聘的決定。"
+          }
+        },
+        {
+          "en": "The new tax policy indirectly affects every small business owner.",
+          "highlight": [
+            "indirectly"
+          ],
+          "translations": {
+            "zh-TW": "新的稅收政策間接影響到每一位小型企業主。"
+          }
+        },
+        {
+          "en": "When he criticised the plan, he was indirectly questioning the manager's judgement.",
+          "highlight": [
+            "indirectly"
+          ],
+          "translations": {
+            "zh-TW": "當他批評這項計畫時，其實是在間接質疑經理的判斷。"
           }
         }
       ],
       "synonyms": [
         "obliquely",
-        "subtly"
+        "secondhand",
+        "circuitously"
       ],
       "antonyms": [
         "directly",
-        "straight"
+        "straightforwardly"
       ],
       "phrases": [
-        "indirectly",
-        "related",
-        "indirectly",
-        "involved"
+        "indirectly related",
+        "indirectly involved",
+        "indirectly affected",
+        "indirectly caused"
       ]
     },
     {
@@ -163,33 +215,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "individual",
-          "definition": "n. 人, 個人, 個体, a. 個别的, 個人的, 独特的"
+          "definition": "n. 個人、個體  adj. 個別的、獨特的"
         }
       ],
       "examples": [
         {
-          "en": "Every individual has rights.",
+          "en": "Every individual has the right to express an opinion at the meeting.",
           "highlight": [
             "individual"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "每一位個人都有權在會議上發表意見。"
+          }
+        },
+        {
+          "en": "The insurance plan can be tailored to suit different individuals.",
+          "highlight": [
+            "individuals"
+          ],
+          "translations": {
+            "zh-TW": "這份保險方案可以根據不同的個人量身打造。"
+          }
+        },
+        {
+          "en": "Each individual employee receives a personalised training schedule.",
+          "highlight": [
+            "individual"
+          ],
+          "translations": {
+            "zh-TW": "每一位員工都會收到一份個人化的培訓時間表。"
           }
         }
       ],
       "synonyms": [
         "person",
-        "being"
+        "single",
+        "distinct"
       ],
       "antonyms": [
         "group",
         "collective"
       ],
       "phrases": [
-        "individual",
-        "rights",
-        "unique",
-        "individual"
+        "individual rights",
+        "individual needs",
+        "individual employee",
+        "individual attention"
       ]
     },
     {
@@ -200,28 +271,43 @@
       "toeic_score_min": 200,
       "word": "indoors",
       "pos": [
-        "adverb",
-        "noun"
+        "adverb"
       ],
-      "conjugations": {
-        "plural": "indoorses"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "indoors",
-          "definition": "adv. 在户内"
+          "definition": "adv. 在室內、往室內"
         }
       ],
       "examples": [
         {
-          "en": "We stayed indoors during the storm.",
+          "en": "We decided to stay indoors because of the heavy rain.",
           "highlight": [
             "indoors"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "因為大雨，我們決定待在室內。"
+          }
+        },
+        {
+          "en": "The workshop will be held indoors in the main conference hall.",
+          "highlight": [
+            "indoors"
+          ],
+          "translations": {
+            "zh-TW": "工作坊將在主會議廳的室內舉行。"
+          }
+        },
+        {
+          "en": "When the storm hit, the children quickly went back indoors.",
+          "highlight": [
+            "indoors"
+          ],
+          "translations": {
+            "zh-TW": "暴風雨來襲時，孩子們趕快回到室內。"
           }
         }
       ],
@@ -234,10 +320,10 @@
         "outside"
       ],
       "phrases": [
-        "stay",
-        "indoors",
-        "remain",
-        "indoors"
+        "stay indoors",
+        "go indoors",
+        "remain indoors",
+        "keep indoors"
       ]
     },
     {
@@ -248,28 +334,46 @@
       "toeic_score_min": 200,
       "word": "industrial",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "industrials"
+        "comparative": "more industrial",
+        "superlative": "most industrial"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "industrial",
-          "definition": "a. 工业的, 供工业用的, 工业高度發展的, 产业的, n. 工业工人, 工业股票"
+          "definition": "adj. 工業的、產業的、供工業用的"
         }
       ],
       "examples": [
         {
-          "en": "The city is known for its industrial heritage.",
+          "en": "The city is famous for its industrial heritage and manufacturing excellence.",
           "highlight": [
             "industrial"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這座城市以其工業傳承和卓越的製造業聞名。"
+          }
+        },
+        {
+          "en": "The northern region became more industrial than the south over the past decade.",
+          "highlight": [
+            "more industrial"
+          ],
+          "translations": {
+            "zh-TW": "在過去十年間，北部地區變得比南部更加工業化。"
+          }
+        },
+        {
+          "en": "Japan was once considered the most industrial nation in Asia.",
+          "highlight": [
+            "most industrial"
+          ],
+          "translations": {
+            "zh-TW": "日本曾被視為亞洲工業化程度最高的國家。"
           }
         }
       ],
@@ -279,13 +383,13 @@
       ],
       "antonyms": [
         "agricultural",
-        "non-industrial"
+        "rural"
       ],
       "phrases": [
-        "industrial",
-        "area",
-        "industrial",
-        "revolution"
+        "industrial area",
+        "industrial revolution",
+        "industrial development",
+        "industrial zone"
       ]
     },
     {
@@ -296,8 +400,7 @@
       "toeic_score_min": 200,
       "word": "industry",
       "pos": [
-        "noun",
-        "adjective"
+        "noun"
       ],
       "conjugations": {
         "plural": "industries"
@@ -307,30 +410,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "industry",
-          "definition": "n. 勤劳, 工业, 企业, 产业, 有组织的劳動, [經] 工业, 實业"
+          "definition": "n. 工業、產業、行業、勤奮"
         }
       ],
       "examples": [
         {
-          "en": "The steel industry is vital to the economy.",
+          "en": "The technology industry has grown rapidly over the past two decades.",
           "highlight": [
             "industry"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "科技產業在過去二十年裡快速成長。"
+          }
+        },
+        {
+          "en": "Tourism and hospitality industries were hit hard by the pandemic.",
+          "highlight": [
+            "industries"
+          ],
+          "translations": {
+            "zh-TW": "觀光與餐旅產業在疫情期間受到重創。"
+          }
+        },
+        {
+          "en": "His industry and dedication eventually earned him a senior management role.",
+          "highlight": [
+            "industry"
+          ],
+          "translations": {
+            "zh-TW": "他的勤奮與奉獻最終為他爭取到高階管理職位。"
           }
         }
       ],
       "synonyms": [
-        "manufacturing",
-        "production"
+        "business",
+        "sector",
+        "trade"
       ],
       "antonyms": [],
       "phrases": [
-        "service",
-        "industry",
-        "tourism",
-        "industry"
+        "service industry",
+        "tourism industry",
+        "manufacturing industry",
+        "industry standard"
       ]
     },
     {
@@ -341,44 +463,63 @@
       "toeic_score_min": 200,
       "word": "inevitable",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "inevitables"
+        "comparative": "more inevitable",
+        "superlative": "most inevitable"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "inevitable",
-          "definition": "a. 不可避免的, 必然的, [法] 不可避免的, 无法规避的, 必然的"
+          "definition": "adj. 不可避免的、必然的"
         }
       ],
       "examples": [
         {
-          "en": "Death is inevitable.",
+          "en": "Given the rising costs, a price increase seems inevitable this year.",
           "highlight": [
             "inevitable"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "考量到成本上升，今年漲價似乎已是不可避免。"
+          }
+        },
+        {
+          "en": "The restructuring became more inevitable after the merger was announced.",
+          "highlight": [
+            "more inevitable"
+          ],
+          "translations": {
+            "zh-TW": "在併購案宣布之後，組織重整變得更加勢在必行。"
+          }
+        },
+        {
+          "en": "Many analysts believe that the shift to renewable energy is the most inevitable trend of our time.",
+          "highlight": [
+            "most inevitable"
+          ],
+          "translations": {
+            "zh-TW": "許多分析師認為，轉向再生能源是我們這個時代最不可避免的趨勢。"
           }
         }
       ],
       "synonyms": [
         "unavoidable",
-        "certain"
+        "certain",
+        "inescapable"
       ],
       "antonyms": [
         "avoidable",
         "preventable"
       ],
       "phrases": [
-        "inevitable",
-        "consequence",
-        "inevitable",
-        "result"
+        "inevitable consequence",
+        "inevitable result",
+        "inevitable outcome",
+        "the inevitable"
       ]
     },
     {
@@ -397,34 +538,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "inevitably",
-          "definition": "adv. 不可避免地"
+          "definition": "adv. 不可避免地、必然地"
         }
       ],
       "examples": [
         {
-          "en": "Inevitably, some mistakes were made.",
+          "en": "Inevitably, the project was delayed by budget cuts.",
           "highlight": [
             "inevitably"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "由於預算刪減，這個專案不可避免地被延後了。"
+          }
+        },
+        {
+          "en": "The new regulations will inevitably lead to higher prices for consumers.",
+          "highlight": [
+            "inevitably"
+          ],
+          "translations": {
+            "zh-TW": "新法規不可避免地會導致消費者面臨更高的價格。"
+          }
+        },
+        {
+          "en": "When deadlines are tight, employees inevitably feel more stressed at work.",
+          "highlight": [
+            "inevitably"
+          ],
+          "translations": {
+            "zh-TW": "當截止日期緊迫時，員工不可避免地會在工作中感到更大壓力。"
           }
         }
       ],
       "synonyms": [
+        "unavoidably",
         "certainly",
-        "unavoidably"
+        "necessarily"
       ],
       "antonyms": [
-        "preventably",
-        "avoidably"
+        "avoidably",
+        "preventably"
       ],
       "phrases": [
-        "inevitably",
-        "lead",
-        "to",
-        "inevitably",
-        "happen"
+        "inevitably lead to",
+        "inevitably happen",
+        "inevitably result in",
+        "inevitably follow"
       ]
     },
     {
@@ -435,47 +594,65 @@
       "toeic_score_min": 200,
       "word": "infect",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "infected",
+        "present_3rd": "infects",
+        "past": "infected",
         "past_participle": "infected",
-        "present_participle": "infecting",
-        "third_person": "infects"
+        "ing": "infecting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "infect",
-          "definition": "vt. 传染, 感染, [医] 传染, 感染"
+          "definition": "v. 傳染、感染、影響"
         }
       ],
       "examples": [
         {
-          "en": "The virus can infect humans and animals.",
+          "en": "The virus can easily infect anyone who has not been vaccinated.",
           "highlight": [
             "infect"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這種病毒很容易感染任何尚未接種疫苗的人。"
+          }
+        },
+        {
+          "en": "Last year, the flu infected nearly half of the office staff.",
+          "highlight": [
+            "infected"
+          ],
+          "translations": {
+            "zh-TW": "去年，流感感染了將近一半的辦公室員工。"
+          }
+        },
+        {
+          "en": "The technician is now infecting the test database with sample malware for analysis.",
+          "highlight": [
+            "infecting"
+          ],
+          "translations": {
+            "zh-TW": "技術人員正在將樣本惡意軟體植入測試資料庫中以進行分析。"
           }
         }
       ],
       "synonyms": [
         "contaminate",
-        "transmit"
+        "transmit",
+        "affect"
       ],
       "antonyms": [
         "heal",
         "cure"
       ],
       "phrases": [
-        "infect",
-        "with",
-        "can",
-        "infect"
+        "infect with",
+        "infect humans",
+        "become infected",
+        "infect cells"
       ]
     }
   ]
