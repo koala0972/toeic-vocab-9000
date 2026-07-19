@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 166,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-166-001",
@@ -15,41 +15,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "knited",
-        "past_participle": "knited",
-        "present_participle": "kniting",
-        "third_person": "knits"
+        "present_3rd": "knits",
+        "past": "knitted",
+        "past_participle": "knitted",
+        "ing": "knitting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "knit",
-          "definition": "v. 编织, 結合"
+          "definition": "v. 編織、針織  n. 針織品、編織物"
         }
       ],
       "examples": [
         {
-          "en": "She likes to knit scarves.",
+          "en": "My grandmother likes to knit sweaters for the whole family every winter.",
           "highlight": [
             "knit"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我祖母每年冬天都喜歡為全家人編織毛衣。"
+          }
+        },
+        {
+          "en": "She knitted a warm scarf for her husband before his business trip to Seoul.",
+          "highlight": [
+            "knitted"
+          ],
+          "translations": {
+            "zh-TW": "她在丈夫出差首爾前，為他織了一條保暖的圍巾。"
+          }
+        },
+        {
+          "en": "The company is knitting together remote teams through weekly video conferences.",
+          "highlight": [
+            "knitting"
+          ],
+          "translations": {
+            "zh-TW": "公司透過每週視訊會議，將遠端團隊緊密結合在一起。"
           }
         }
       ],
       "synonyms": [
         "weave",
-        "stitch"
+        "stitch",
+        "purl"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "unravel",
+        "unravel"
+      ],
       "phrases": [
-        "knit",
-        "a",
-        "sweater",
-        "knit",
-        "together"
+        "knit a sweater",
+        "knit together",
+        "knit one's brows",
+        "knitting needle"
       ]
     },
     {
@@ -64,44 +85,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "knocked",
+        "plural": "knocks",
+        "present_3rd": "knocks",
+        "past": "knocked",
         "past_participle": "knocked",
-        "present_participle": "knocking",
-        "third_person": "knocks"
+        "ing": "knocking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "knock",
-          "definition": "n. 敲, 敲打, 敲門, v. 敲击, 互撞, 攻击"
+          "definition": "v. 敲、擊、撞  n. 敲門聲、打擊"
         }
       ],
       "examples": [
         {
-          "en": "He knocked on the door.",
+          "en": "Please knock before entering the manager's office.",
           "highlight": [
             "knock"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "進入經理辦公室前請先敲門。"
+          }
+        },
+        {
+          "en": "Someone knocked on the conference room door during the presentation.",
+          "highlight": [
+            "knocked"
+          ],
+          "translations": {
+            "zh-TW": "簡報進行中，有人敲了會議室的門。"
+          }
+        },
+        {
+          "en": "I heard someone knocking at the front desk, but no one was there.",
+          "highlight": [
+            "knocking"
+          ],
+          "translations": {
+            "zh-TW": "我聽到有人在櫃檯敲門，但那裡並沒有人。"
           }
         }
       ],
       "synonyms": [
+        "tap",
         "rap",
-        "tap"
+        "strike"
       ],
       "antonyms": [
-        "ignore",
-        "overlook"
+        "praise",
+        "commend"
       ],
       "phrases": [
-        "knock",
-        "on",
-        "the",
-        "door",
-        "knock"
+        "knock on the door",
+        "knock down",
+        "knock over",
+        "hard knock"
       ]
     },
     {
@@ -112,36 +152,54 @@
       "toeic_score_min": 200,
       "word": "know",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "knowed",
-        "past_participle": "knowed",
-        "present_participle": "knowing",
-        "third_person": "knows"
+        "present_3rd": "knows",
+        "past": "knew",
+        "past_participle": "known",
+        "ing": "knowing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "know",
-          "definition": "v. 知道, 了解, 认识, 确信"
+          "definition": "v. 知道、了解、認識、熟悉"
         }
       ],
       "examples": [
         {
-          "en": "I know the answer.",
+          "en": "I know the new company policy will affect our department next month.",
           "highlight": [
             "know"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我知道新公司政策下個月會影響到我們部門。"
+          }
+        },
+        {
+          "en": "She knew the answer to every question the client asked during the meeting.",
+          "highlight": [
+            "knew"
+          ],
+          "translations": {
+            "zh-TW": "會議中客戶問的每一個問題她都知道答案。"
+          }
+        },
+        {
+          "en": "He has known about the merger plans since they were first discussed last quarter.",
+          "highlight": [
+            "known"
+          ],
+          "translations": {
+            "zh-TW": "自從上季首次討論併購計畫以來，他就一直知情。"
           }
         }
       ],
       "synonyms": [
         "understand",
+        "comprehend",
         "recognize"
       ],
       "antonyms": [
@@ -149,11 +207,10 @@
         "misunderstand"
       ],
       "phrases": [
-        "know",
-        "the",
-        "answer",
-        "know",
-        "how"
+        "know how",
+        "know about",
+        "know the answer",
+        "as far as I know"
       ]
     },
     {
@@ -164,47 +221,62 @@
       "toeic_score_min": 200,
       "word": "knowledge",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "knowledgeed",
-        "past_participle": "knowledgeed",
-        "present_participle": "knowledging",
-        "third_person": "knowledges"
+        "plural": "knowledges"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "knowledge",
-          "definition": "n. 知识, 学问, 认识, 知道"
+          "definition": "n. 知識、學問、了解"
         }
       ],
       "examples": [
         {
-          "en": "His knowledge of history is impressive.",
+          "en": "Her knowledge of international trade law helped the company win the contract.",
           "highlight": [
             "knowledge"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她對國際貿易法的知識幫助公司贏得了合約。"
+          }
+        },
+        {
+          "en": "The new employees' knowledges in different fields strengthened the research team.",
+          "highlight": [
+            "knowledges"
+          ],
+          "translations": {
+            "zh-TW": "新員工在不同領域的知識強化了研究團隊。"
+          }
+        },
+        {
+          "en": "Building a broad knowledge of customer needs is essential for sales success.",
+          "highlight": [
+            "knowledge"
+          ],
+          "translations": {
+            "zh-TW": "建立對顧客需求的廣泛了解，是銷售成功的關鍵。"
           }
         }
       ],
       "synonyms": [
         "wisdom",
-        "learning"
+        "expertise",
+        "understanding"
       ],
       "antonyms": [
         "ignorance",
-        "incomprehension"
+        "unawareness"
       ],
       "phrases": [
-        "vast",
-        "knowledge",
-        "acquire",
-        "knowledge"
+        "knowledge of",
+        "acquire knowledge",
+        "broad knowledge",
+        "common knowledge"
       ]
     },
     {
@@ -219,40 +291,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "labeled",
+        "plural": "labels",
+        "present_3rd": "labels",
+        "past": "labeled",
         "past_participle": "labeled",
-        "present_participle": "labeling",
-        "third_person": "labels"
+        "ing": "labeling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "label",
-          "definition": "n. 标签, 称號, 商标, 标志, vt. 贴标签于, 标注, [计] 标志; 标注; DOS外部命令:用于建立改变或删除磁盘卷标號"
+          "definition": "n. 標籤、標記  v. 貼標籤、標注"
         }
       ],
       "examples": [
         {
-          "en": "She read the label on the bottle.",
+          "en": "Each product label must clearly show the ingredients and country of origin.",
           "highlight": [
             "label"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "每個產品標籤都必須清楚標示成分與原產國。"
+          }
+        },
+        {
+          "en": "The warehouse staff labeled all the boxes before shipping them to the retailer.",
+          "highlight": [
+            "labeled"
+          ],
+          "translations": {
+            "zh-TW": "倉庫員工在出貨給零售商前，為所有箱子貼上了標籤。"
+          }
+        },
+        {
+          "en": "She is labeling the files according to the new office filing system.",
+          "highlight": [
+            "labeling"
+          ],
+          "translations": {
+            "zh-TW": "她正依照新的辦公室歸檔系統為文件貼標籤。"
           }
         }
       ],
       "synonyms": [
         "tag",
+        "sticker",
         "marker"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "unmark",
+        "unlabeled"
+      ],
       "phrases": [
-        "product",
-        "label",
-        "label",
-        "on"
+        "product label",
+        "nutrition label",
+        "label on",
+        "private label"
       ]
     },
     {
@@ -263,8 +358,7 @@
       "toeic_score_min": 200,
       "word": "laboratory",
       "pos": [
-        "noun",
-        "adjective"
+        "noun"
       ],
       "conjugations": {
         "plural": "laboratories"
@@ -274,31 +368,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "laboratory",
-          "definition": "n. 實验室, 研究室, 化工厂, [医] 實验室, 检验室, 化验室"
+          "definition": "n. 實驗室、研究室"
         }
       ],
       "examples": [
         {
-          "en": "The scientist works in a laboratory.",
+          "en": "The pharmaceutical company built a new laboratory to develop vaccines.",
           "highlight": [
             "laboratory"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家製藥公司建造了一間新實驗室來研發疫苗。"
+          }
+        },
+        {
+          "en": "Several laboratories across the city are collaborating on cancer research.",
+          "highlight": [
+            "laboratories"
+          ],
+          "translations": {
+            "zh-TW": "全市好幾間實驗室正在合作進行癌症研究。"
+          }
+        },
+        {
+          "en": "All laboratory results must be reviewed by a senior chemist before release.",
+          "highlight": [
+            "laboratory"
+          ],
+          "translations": {
+            "zh-TW": "所有實驗室結果在發布前都必須由資深化學家審核。"
           }
         }
       ],
       "synonyms": [
         "lab",
-        "research",
-        "center"
+        "research center",
+        "testing facility"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "field",
+        "outdoors"
+      ],
       "phrases": [
-        "scientific",
-        "laboratory",
-        "chemistry",
-        "laboratory"
+        "laboratory test",
+        "research laboratory",
+        "clinical laboratory",
+        "laboratory equipment"
       ]
     },
     {
@@ -313,43 +428,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "lacked",
+        "plural": "lacks",
+        "present_3rd": "lacks",
+        "past": "lacked",
         "past_participle": "lacked",
-        "present_participle": "lacking",
-        "third_person": "lacks"
+        "ing": "lacking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "lack",
-          "definition": "n. 缺乏, 无, 不足, vt. 缺乏, 短少, 不足, 需要, vi. 缺乏"
+          "definition": "n. 缺乏、不足  v. 缺少、沒有"
         }
       ],
       "examples": [
         {
-          "en": "There is a lack of evidence.",
+          "en": "There is a lack of skilled workers in the technology sector this year.",
           "highlight": [
             "lack"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "今年科技業缺乏技術熟練的員工。"
+          }
+        },
+        {
+          "en": "The startup lacked the funds to launch its product on the international market.",
+          "highlight": [
+            "lacked"
+          ],
+          "translations": {
+            "zh-TW": "這家新創公司缺乏在國際市場推出產品所需的資金。"
+          }
+        },
+        {
+          "en": "His report was lacking in detail, so the manager asked him to rewrite it.",
+          "highlight": [
+            "lacking"
+          ],
+          "translations": {
+            "zh-TW": "他的報告細節不足，因此經理要求他重寫。"
           }
         }
       ],
       "synonyms": [
         "shortage",
-        "deficit"
+        "deficiency",
+        "absence"
       ],
       "antonyms": [
         "abundance",
         "plenty"
       ],
       "phrases": [
-        "lack",
-        "of",
-        "complete",
-        "lack"
+        "lack of",
+        "lack funds",
+        "complete lack",
+        "lacking in"
       ]
     },
     {
@@ -360,8 +495,7 @@
       "toeic_score_min": 200,
       "word": "lady",
       "pos": [
-        "noun",
-        "adjective"
+        "noun"
       ],
       "conjugations": {
         "plural": "ladies"
@@ -371,33 +505,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "lady",
-          "definition": "n. 淑女, 夫人, 女士, 贵妇"
+          "definition": "n. 女士、淑女、夫人"
         }
       ],
       "examples": [
         {
-          "en": "She is a kind lady.",
+          "en": "The lady at the reception desk will help you with your reservation.",
           "highlight": [
             "lady"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "櫃檯的那位女士會協助您處理訂房事宜。"
+          }
+        },
+        {
+          "en": "Several ladies from the marketing department attended the industry conference.",
+          "highlight": [
+            "ladies"
+          ],
+          "translations": {
+            "zh-TW": "行銷部門的幾位女士參加了這場產業研討會。"
+          }
+        },
+        {
+          "en": "A young lady handed the CEO a business card during the networking event.",
+          "highlight": [
+            "lady"
+          ],
+          "translations": {
+            "zh-TW": "在交流活動中，一位年輕女士遞給執行長一張名片。"
           }
         }
       ],
       "synonyms": [
         "woman",
-        "dame"
+        "gentlewoman",
+        "madam"
       ],
       "antonyms": [
         "gentleman",
         "man"
       ],
       "phrases": [
-        "young",
-        "lady",
-        "kind",
-        "lady"
+        "young lady",
+        "first lady",
+        "lady of the house",
+        "ladies' room"
       ]
     },
     {
@@ -408,48 +561,62 @@
       "toeic_score_min": 200,
       "word": "lake",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "lakeed",
-        "past_participle": "lakeed",
-        "present_participle": "laking",
-        "third_person": "lakes"
+        "plural": "lakes"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "lake",
-          "definition": "n. 湖, 池, 色淀, v. (使)血球溶解"
+          "definition": "n. 湖、湖泊"
         }
       ],
       "examples": [
         {
-          "en": "They swam in the lake.",
+          "en": "The resort hotel is located beside a beautiful lake surrounded by mountains.",
           "highlight": [
             "lake"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這間度假飯店位於群山環繞的美麗湖畔。"
+          }
+        },
+        {
+          "en": "The Great Lakes region is a major hub for shipping and manufacturing in North America.",
+          "highlight": [
+            "Lakes"
+          ],
+          "translations": {
+            "zh-TW": "五大湖區是北美航運與製造業的主要樞紐。"
+          }
+        },
+        {
+          "en": "Our company retreat will be held at a conference center near a mountain lake.",
+          "highlight": [
+            "lake"
+          ],
+          "translations": {
+            "zh-TW": "我們的公司員工旅遊將在山地湖泊旁的會議中心舉行。"
           }
         }
       ],
       "synonyms": [
         "pond",
-        "reservoir"
+        "reservoir",
+        "loch"
       ],
       "antonyms": [
-        "sea",
-        "ocean"
+        "ocean",
+        "desert"
       ],
       "phrases": [
-        "swim",
-        "in",
-        "the",
-        "lake",
-        "large"
+        "mountain lake",
+        "artificial lake",
+        "by the lake",
+        "Great Lakes"
       ]
     },
     {
@@ -460,47 +627,62 @@
       "toeic_score_min": 200,
       "word": "lamp",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "lamped",
-        "past_participle": "lamped",
-        "present_participle": "lamping",
-        "third_person": "lamps"
+        "plural": "lamps"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "lamp",
-          "definition": "n. 灯, vt. 照亮, [计] 逻辑模拟分析系统"
+          "definition": "n. 燈、檯燈、照明設備"
         }
       ],
       "examples": [
         {
-          "en": "He turned on the lamp.",
+          "en": "He turned on the desk lamp to review the contract one more time before signing.",
           "highlight": [
             "lamp"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他打開檯燈，要在簽約前再把合約看一次。"
+          }
+        },
+        {
+          "en": "There were several antique lamps in the hotel lobby that caught the guests' attention.",
+          "highlight": [
+            "lamps"
+          ],
+          "translations": {
+            "zh-TW": "飯店大廳裡有幾盞古董燈具引起了客人們的注意。"
+          }
+        },
+        {
+          "en": "The office manager replaced the broken lamp on the reception desk with a modern LED one.",
+          "highlight": [
+            "lamp"
+          ],
+          "translations": {
+            "zh-TW": "辦公室經理用一盞現代 LED 燈取代了櫃檯上壞掉的燈。"
           }
         }
       ],
       "synonyms": [
         "light",
-        "lantern"
+        "lantern",
+        "light fixture"
       ],
       "antonyms": [
         "darkness",
         "shadow"
       ],
       "phrases": [
-        "table",
-        "lamp",
-        "lamp",
-        "post"
+        "desk lamp",
+        "table lamp",
+        "street lamp",
+        "floor lamp"
       ]
     }
   ]
