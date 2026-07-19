@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 173,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-173-001",
@@ -22,33 +22,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "living",
-          "definition": "n. 生活, 生计, 生存, a. 活的, 逼真的, 现存的"
+          "definition": "n. 生計、生活費  a. 活的、現存的、逼真的"
         }
       ],
       "examples": [
         {
-          "en": "He is earning a living as a teacher.",
+          "en": "She earns a living as a freelance translator.",
           "highlight": [
             "living"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她靠擔任自由翻譯師維生。"
+          }
+        },
+        {
+          "en": "All living creatures need water and air to survive.",
+          "highlight": [
+            "living"
+          ],
+          "translations": {
+            "zh-TW": "所有生物都需要水和空氣才能生存。"
+          }
+        },
+        {
+          "en": "The cost of livings varies greatly between cities and rural areas.",
+          "highlight": [
+            "livings"
+          ],
+          "translations": {
+            "zh-TW": "各地的生活花費在城市與鄉村之間差異極大。"
           }
         }
       ],
       "synonyms": [
         "livelihood",
-        "income"
+        "income",
+        "alive"
       ],
       "antonyms": [
-        "unemployment"
+        "dead",
+        "lifeless"
       ],
       "phrases": [
-        "cost",
-        "of",
-        "living",
-        "standard",
-        "of"
+        "earn a living",
+        "cost of living",
+        "living room",
+        "living standard"
       ]
     },
     {
@@ -63,40 +82,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "loaded",
+        "plural": "loads",
+        "present_3rd": "loads",
+        "past": "loaded",
         "past_participle": "loaded",
-        "present_participle": "loading",
-        "third_person": "loads"
+        "ing": "loading"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "load",
-          "definition": "n. 负荷, 担子, 重担, 装载量, 负载, 工作量, 加载, vt. 装载, 装填, 使担负, vi. 装货, 上客, 装料, [计] 加载, 装入程序"
+          "definition": "n. 負荷、裝載量、工作量  v. 裝載、裝填、載入"
         }
       ],
       "examples": [
         {
-          "en": "He carried a heavy load.",
+          "en": "The truck carries a heavy load of steel beams.",
           "highlight": [
             "load"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這輛卡車載著沉重的鋼樑負荷。"
+          }
+        },
+        {
+          "en": "The workers loaded the cargo onto the ship before dawn.",
+          "highlight": [
+            "loaded"
+          ],
+          "translations": {
+            "zh-TW": "工人們在破曉前把貨物裝載到船上。"
+          }
+        },
+        {
+          "en": "The website is loading the images slowly due to high traffic.",
+          "highlight": [
+            "loading"
+          ],
+          "translations": {
+            "zh-TW": "由於流量過高，網站正在緩慢地載入圖片。"
           }
         }
       ],
       "synonyms": [
         "burden",
-        "cargo"
+        "cargo",
+        "freight"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "unload",
+        "empty"
+      ],
       "phrases": [
-        "heavy",
-        "load",
-        "load",
-        "up"
+        "heavy load",
+        "load up",
+        "workload",
+        "load capacity"
       ]
     },
     {
@@ -111,40 +153,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "loaned",
+        "plural": "loans",
+        "present_3rd": "loans",
+        "past": "loaned",
         "past_participle": "loaned",
-        "present_participle": "loaning",
-        "third_person": "loans"
+        "ing": "loaning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "loan",
-          "definition": "n. 贷款, 借出, v. 借, 供应货款, 借给"
+          "definition": "n. 貸款、借款  v. 借出、借貸"
         }
       ],
       "examples": [
         {
-          "en": "She took out a loan to buy a car.",
+          "en": "She applied for a loan to expand her small business.",
           "highlight": [
             "loan"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她申請了一筆貸款來拓展自己的小生意。"
+          }
+        },
+        {
+          "en": "The bank loaned the startup two million dollars for research.",
+          "highlight": [
+            "loaned"
+          ],
+          "translations": {
+            "zh-TW": "銀行借給這家新創公司兩百萬美元作為研究費用。"
+          }
+        },
+        {
+          "en": "Loan repayment terms vary depending on the lender's policy.",
+          "highlight": [
+            "Loan"
+          ],
+          "translations": {
+            "zh-TW": "貸款還款條件因貸款機構的政策而異。"
           }
         }
       ],
       "synonyms": [
         "credit",
-        "mortgage"
+        "mortgage",
+        "lend"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "repay",
+        "payback"
+      ],
       "phrases": [
-        "bank",
-        "loan",
-        "student",
-        "loan"
+        "bank loan",
+        "student loan",
+        "take out a loan",
+        "loan shark"
       ]
     },
     {
@@ -166,33 +231,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "local",
-          "definition": "a. 地方性的, 当地的, 局部的, 乡土的, 本地的, n. 当地居民, 本地新聞, 局部, [计] 本地的; 局部"
+          "definition": "a. 本地的、當地的、局部的  n. 當地居民、本地新聞"
         }
       ],
       "examples": [
         {
-          "en": "She shops at the local market.",
+          "en": "The local market sells fresh vegetables every morning.",
           "highlight": [
             "local"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "當地市場每天早上販售新鮮蔬菜。"
+          }
+        },
+        {
+          "en": "The locals welcomed tourists with a traditional dance performance.",
+          "highlight": [
+            "locals"
+          ],
+          "translations": {
+            "zh-TW": "當地居民以傳統舞蹈表演歡迎觀光客。"
+          }
+        },
+        {
+          "en": "She prefers to buy local produce to support nearby farmers.",
+          "highlight": [
+            "local"
+          ],
+          "translations": {
+            "zh-TW": "她偏好購買本地農產品以支持附近的農民。"
           }
         }
       ],
       "synonyms": [
         "community",
-        "neighborhood"
+        "regional",
+        "nearby"
       ],
       "antonyms": [
         "global",
-        "widespread"
+        "national",
+        "distant"
       ],
       "phrases": [
-        "local",
-        "market",
-        "local",
-        "community"
+        "local market",
+        "local community",
+        "local government",
+        "local time"
       ]
     },
     {
@@ -203,48 +288,66 @@
       "toeic_score_min": 200,
       "word": "locate",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "locateed",
-        "past_participle": "locateed",
-        "present_participle": "locating",
-        "third_person": "locates"
+        "present_3rd": "locates",
+        "past": "located",
+        "past_participle": "located",
+        "ing": "locating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "locate",
-          "definition": "vt. 找出, 设于, 位于, vi. 定居"
+          "definition": "v. 找出、定位、設於、位於"
         }
       ],
       "examples": [
         {
-          "en": "They were able to locate the missing keys.",
+          "en": "The police can locate the missing person through his phone signal.",
           "highlight": [
             "locate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "警方能透過手機訊號定位這名失蹤者。"
+          }
+        },
+        {
+          "en": "The new branch office is located in the heart of the business district.",
+          "highlight": [
+            "located"
+          ],
+          "translations": {
+            "zh-TW": "新分公司位於商業區的心臟地帶。"
+          }
+        },
+        {
+          "en": "Locating the fault in the circuit took the engineer three hours.",
+          "highlight": [
+            "Locating"
+          ],
+          "translations": {
+            "zh-TW": "工程師花了三個小時才找出電路中的故障點。"
           }
         }
       ],
       "synonyms": [
         "find",
-        "detect"
+        "detect",
+        "pinpoint"
       ],
       "antonyms": [
         "lose",
-        "misplace"
+        "misplace",
+        "hide"
       ],
       "phrases": [
-        "locate",
-        "exactly",
-        "locate",
-        "the",
-        "missing"
+        "locate the missing",
+        "be located in",
+        "locate exactly",
+        "hard to locate"
       ]
     },
     {
@@ -255,44 +358,59 @@
       "toeic_score_min": 200,
       "word": "location",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "locationed",
-        "past_participle": "locationed",
-        "present_participle": "locationing",
-        "third_person": "locations"
+        "plural": "locations"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "location",
-          "definition": "n. 位置, 場所, 特定區域, [计] 位置"
+          "definition": "n. 位置、場所、拍攝地點"
         }
       ],
       "examples": [
         {
-          "en": "The location of the building is ideal.",
+          "en": "The hotel's location is ideal for sightseeing and shopping.",
           "highlight": [
             "location"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家飯店的位置非常適合觀光與購物。"
+          }
+        },
+        {
+          "en": "The company operates warehouses in several key locations across the country.",
+          "highlight": [
+            "locations"
+          ],
+          "translations": {
+            "zh-TW": "該公司在全國幾個關鍵地點營運倉庫。"
+          }
+        },
+        {
+          "en": "The film crew chose a remote mountain village as their location.",
+          "highlight": [
+            "location"
+          ],
+          "translations": {
+            "zh-TW": "電影劇組選擇一個偏遠的山村作為拍攝地點。"
           }
         }
       ],
       "synonyms": [
         "place",
-        "position"
+        "position",
+        "site"
       ],
       "antonyms": [],
       "phrases": [
-        "ideal",
-        "location",
-        "prime",
-        "location"
+        "ideal location",
+        "prime location",
+        "shooting location",
+        "strategic location"
       ]
     },
     {
@@ -307,44 +425,64 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "locked",
+        "plural": "locks",
+        "present_3rd": "locks",
+        "past": "locked",
         "past_participle": "locked",
-        "present_participle": "locking",
-        "third_person": "locks"
+        "ing": "locking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "lock",
-          "definition": "n. 锁, 刹車, 水闸, 一缕頭發, vt. 锁, 锁上, 拘禁, 隐藏, (用锁等)拴住, 刹住, vi. 锁住, (齿轮等)啮合, (船)過闸"
+          "definition": "n. 鎖、頭髮一縷、水閘  v. 鎖上、鎖住、固定"
         }
       ],
       "examples": [
         {
-          "en": "He locked the door before leaving.",
+          "en": "She always keeps a spare lock in her desk drawer.",
           "highlight": [
             "lock"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她總是在書桌抽屜裡備用一把鎖。"
+          }
+        },
+        {
+          "en": "He locked the office door before heading home for the night.",
+          "highlight": [
+            "locked"
+          ],
+          "translations": {
+            "zh-TW": "他晚上回家前先鎖上了辦公室的門。"
+          }
+        },
+        {
+          "en": "Locking your suitcase is recommended when traveling by train.",
+          "highlight": [
+            "Locking"
+          ],
+          "translations": {
+            "zh-TW": "搭火車旅行時建議鎖上行李箱。"
           }
         }
       ],
       "synonyms": [
         "fasten",
-        "secure"
+        "secure",
+        "bolt"
       ],
       "antonyms": [
         "unlock",
-        "open"
+        "open",
+        "release"
       ],
       "phrases": [
-        "lock",
-        "the",
-        "door",
-        "key",
-        "lock"
+        "lock the door",
+        "key lock",
+        "lock up",
+        "under lock and key"
       ]
     },
     {
@@ -359,41 +497,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "loged",
-        "past_participle": "loged",
-        "present_participle": "loging",
-        "third_person": "logs"
+        "plural": "logs",
+        "present_3rd": "logs",
+        "past": "logged",
+        "past_participle": "logged",
+        "ing": "logging"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "log",
-          "definition": "n. 記录, 圆木, 日志, 计程仪, vt. 伐木, 切, 航行, vi. 伐木, [计] 日志"
+          "definition": "n. 原木、日誌、紀錄  v. 砍伐、記錄、登入"
         }
       ],
       "examples": [
         {
-          "en": "He threw another log on the fire.",
+          "en": "He threw another log onto the campfire to keep it burning.",
           "highlight": [
             "log"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他又往營火裡丟了一根原木以維持燃燒。"
+          }
+        },
+        {
+          "en": "The system logged every user access for security auditing.",
+          "highlight": [
+            "logged"
+          ],
+          "translations": {
+            "zh-TW": "系統為了安全稽核記錄了每一次使用者存取。"
+          }
+        },
+        {
+          "en": "Logging into the company portal requires two-factor authentication.",
+          "highlight": [
+            "Logging"
+          ],
+          "translations": {
+            "zh-TW": "登入公司入口網站需要雙重身分驗證。"
           }
         }
       ],
       "synonyms": [
         "timber",
-        "wood"
+        "record",
+        "journal"
       ],
       "antonyms": [],
       "phrases": [
-        "throw",
-        "a",
-        "log",
-        "log",
-        "cabin"
+        "log in",
+        "log cabin",
+        "keep a log",
+        "log entry"
       ]
     },
     {
@@ -404,47 +561,63 @@
       "toeic_score_min": 200,
       "word": "logic",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "logiced",
-        "past_participle": "logiced",
-        "present_participle": "logicing",
-        "third_person": "logics"
+        "plural": "logics"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "logic",
-          "definition": "n. 逻辑, 逻辑学, 推理的方法, 推理, 逻辑性, [计] 逻辑"
+          "definition": "n. 邏輯、邏輯學、推理、道理"
         }
       ],
       "examples": [
         {
-          "en": "His argument lacks logic.",
+          "en": "His argument lacks logic and cannot convince the board.",
           "highlight": [
             "logic"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他的論點缺乏邏輯，無法說服董事會。"
+          }
+        },
+        {
+          "en": "Different cultures follow different logics when making business decisions.",
+          "highlight": [
+            "logics"
+          ],
+          "translations": {
+            "zh-TW": "不同文化在制定商業決策時遵循不同的邏輯。"
+          }
+        },
+        {
+          "en": "She used strict logic to solve the complex puzzle.",
+          "highlight": [
+            "logic"
+          ],
+          "translations": {
+            "zh-TW": "她運用嚴格的邏輯解開了這道複雜的謎題。"
           }
         }
       ],
       "synonyms": [
         "reasoning",
-        "sense"
+        "sense",
+        "rationale"
       ],
       "antonyms": [
         "irrationality",
-        "nonsense"
+        "nonsense",
+        "absurdity"
       ],
       "phrases": [
-        "lack",
-        "logic",
-        "use",
-        "logic"
+        "lack logic",
+        "use logic",
+        "business logic",
+        "formal logic"
       ]
     },
     {
@@ -455,44 +628,64 @@
       "toeic_score_min": 200,
       "word": "logical",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "logicals"
+        "comparative": "more logical",
+        "superlative": "most logical"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "logical",
-          "definition": "a. 合乎逻辑的, 合理的, [法] 逻辑的, 符合逻辑的"
+          "definition": "a. 合乎邏輯的、合理的、符合邏輯的"
         }
       ],
       "examples": [
         {
-          "en": "She gave a logical explanation.",
+          "en": "She gave a logical explanation for the budget overrun.",
           "highlight": [
             "logical"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她對預算超支給出了合乎邏輯的解釋。"
+          }
+        },
+        {
+          "en": "Cross-training employees is more logical than hiring temporary staff.",
+          "highlight": [
+            "more logical"
+          ],
+          "translations": {
+            "zh-TW": "對員工進行交叉培訓比雇用臨時員工更合邏輯。"
+          }
+        },
+        {
+          "en": "The most logical solution is to automate the entire production line.",
+          "highlight": [
+            "most logical"
+          ],
+          "translations": {
+            "zh-TW": "最合邏輯的解決方案是將整條生產線自動化。"
           }
         }
       ],
       "synonyms": [
         "rational",
-        "coherent"
+        "coherent",
+        "reasonable"
       ],
       "antonyms": [
         "illogical",
-        "irrational"
+        "irrational",
+        "absurd"
       ],
       "phrases": [
-        "logical",
-        "explanation",
-        "logical",
-        "conclusion"
+        "logical explanation",
+        "logical conclusion",
+        "logical reasoning",
+        "logical step"
       ]
     }
   ]
