@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 144,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-144-001",
@@ -22,33 +22,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "hello",
-          "definition": "interj. 喂, 嘿"
+          "definition": "interj. 喂、你好  n.打招呼、問候語"
         }
       ],
       "examples": [
         {
-          "en": "She said hello to everyone.",
+          "en": "Hello, may I speak to the manager about the invoice?",
           "highlight": [
             "hello"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "你好，我可以跟經理談一下那張發票的事嗎？"
+          }
+        },
+        {
+          "en": "She said a warm hello to the new colleague at orientation.",
+          "highlight": [
+            "hello"
+          ],
+          "translations": {
+            "zh-TW": "她在新人訓練時熱情地向那位新同事打了聲招呼。"
+          }
+        },
+        {
+          "en": "His hellos echoed through the empty lobby as he toured the floor.",
+          "highlight": [
+            "hellos"
+          ],
+          "translations": {
+            "zh-TW": "他在巡視樓層時，一聲聲的問候在空盪的大廳裡迴響著。"
           }
         }
       ],
       "synonyms": [
         "hi",
-        "greetings"
+        "greetings",
+        "hey"
       ],
       "antonyms": [
         "goodbye",
         "farewell"
       ],
       "phrases": [
-        "say",
-        "hello",
-        "wave",
-        "hello"
+        "say hello",
+        "hello there",
+        "wave hello",
+        "hello again"
       ]
     },
     {
@@ -63,43 +82,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "helped",
+        "plural": "helps",
+        "present_3rd": "helps",
+        "past": "helped",
         "past_participle": "helped",
-        "present_participle": "helping",
-        "third_person": "helps"
+        "ing": "helping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "help",
-          "definition": "n. 帮忙, 帮助者, 补救办法, 有益的东西, vt. 帮助, 帮忙, 接济, 治疗, 款待, vi. 有用, 救命, 招待, [计] 帮助, 帮助程序; DOS外部命令: DOS命令的电子文件帮助程序"
+          "definition": "v. 幫助、協助、有助於  n. 幫忙、援助、幫手"
         }
       ],
       "examples": [
         {
-          "en": "Can you help me with this task?",
+          "en": "Could you help me carry these boxes to the warehouse?",
           "highlight": [
             "help"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "你能幫我把這些箱子搬到倉庫嗎？"
+          }
+        },
+        {
+          "en": "The intern helped the team finish the quarterly report before the deadline.",
+          "highlight": [
+            "helped"
+          ],
+          "translations": {
+            "zh-TW": "那位實習生協助團隊在期限前完成了季報。"
+          }
+        },
+        {
+          "en": "Thank you for helping with the customer complaints last week.",
+          "highlight": [
+            "helping"
+          ],
+          "translations": {
+            "zh-TW": "謝謝你上週幫忙處理客訴案件。"
           }
         }
       ],
       "synonyms": [
         "assist",
-        "aid"
+        "aid",
+        "support"
       ],
       "antonyms": [
         "hinder",
         "obstruct"
       ],
       "phrases": [
-        "offer",
-        "help",
-        "need",
-        "help"
+        "help yourself",
+        "offer help",
+        "ask for help",
+        "help desk"
       ]
     },
     {
@@ -110,44 +149,63 @@
       "toeic_score_min": 200,
       "word": "helpful",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "helpfuls"
+        "comparative": "more helpful",
+        "superlative": "most helpful"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "helpful",
-          "definition": "a. 有帮助的, 有益的, 有用的"
+          "definition": "adj. 有幫助的、有益的、樂於助人的"
         }
       ],
       "examples": [
         {
-          "en": "She was very helpful during the project.",
+          "en": "The receptionist was very helpful when I asked for directions.",
           "highlight": [
             "helpful"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我問路的時候，那名櫃台人員非常樂於協助。"
+          }
+        },
+        {
+          "en": "A clear user manual is even more helpful than a long tutorial video.",
+          "highlight": [
+            "more helpful"
+          ],
+          "translations": {
+            "zh-TW": "比起冗長的教學影片，一份清楚的使用手冊更有幫助。"
+          }
+        },
+        {
+          "en": "She is the most helpful staff member in the entire customer service team.",
+          "highlight": [
+            "most helpful"
+          ],
+          "translations": {
+            "zh-TW": "她是整個客服團隊裡最樂於助人的同仁。"
           }
         }
       ],
       "synonyms": [
         "supportive",
-        "cooperative"
+        "cooperative",
+        "useful"
       ],
       "antonyms": [
         "unhelpful",
         "uncooperative"
       ],
       "phrases": [
-        "helpful",
-        "advice",
-        "very",
-        "helpful"
+        "very helpful",
+        "helpful advice",
+        "extremely helpful",
+        "helpful attitude"
       ]
     },
     {
@@ -166,34 +224,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "hence",
-          "definition": "adv. 因此, 从此"
+          "definition": "adv. 因此、從此"
         }
       ],
       "examples": [
         {
-          "en": "The project is delayed; hence, the meeting is postponed.",
+          "en": "The supplier raised prices; hence, we must revise the budget forecast.",
           "highlight": [
             "hence"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "供應商調漲了價格；因此，我們必須重新修正預算預測。"
+          }
+        },
+        {
+          "en": "Raw materials are scarce this quarter; hence, production will slow down.",
+          "highlight": [
+            "hence"
+          ],
+          "translations": {
+            "zh-TW": "本季原物料短缺；因此，產出速度將會放慢。"
+          }
+        },
+        {
+          "en": "The contract was signed three years ago, hence the current legal dispute.",
+          "highlight": [
+            "hence"
+          ],
+          "translations": {
+            "zh-TW": "該合約是三年前簽訂的，也因此引發了目前的法律爭議。"
           }
         }
       ],
       "synonyms": [
         "therefore",
-        "thus"
+        "thus",
+        "consequently"
       ],
-      "antonyms": [
-        "henceforth",
-        "hereafter"
-      ],
+      "antonyms": [],
       "phrases": [
-        "hence",
-        "the",
-        "delay",
-        "hence",
-        "the"
+        "hence the reason",
+        "and hence",
+        "hence the need",
+        "hence the delay"
       ]
     },
     {
@@ -212,36 +285,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "her",
-          "definition": "pron. 她的, 她"
+          "definition": "pron. 她的（所有格）、她（受格）"
         }
       ],
       "examples": [
         {
-          "en": "She lost her keys.",
+          "en": "She left her laptop in the conference room after the meeting.",
           "highlight": [
             "her"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "會議結束後，她把筆電留在會議室了。"
+          }
+        },
+        {
+          "en": "The client asked to speak to her directly about the contract terms.",
+          "highlight": [
+            "her"
+          ],
+          "translations": {
+            "zh-TW": "客戶要求直接跟她談合約條件。"
+          }
+        },
+        {
+          "en": "Human Resources sent her the job offer by email this morning.",
+          "highlight": [
+            "her"
+          ],
+          "translations": {
+            "zh-TW": "人資部門今早用email把錄取通知寄給她了。"
           }
         }
       ],
       "synonyms": [
-        "her",
-        "own",
-        "belonging",
-        "to",
-        "her"
+        "hers"
       ],
       "antonyms": [
         "his",
         "him"
       ],
       "phrases": [
-        "her",
-        "book",
-        "her",
-        "house"
+        "her own",
+        "her side",
+        "let her know",
+        "on her way"
       ]
     },
     {
@@ -252,47 +339,62 @@
       "toeic_score_min": 200,
       "word": "hero",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "heroed",
-        "past_participle": "heroed",
-        "present_participle": "heroing",
-        "third_person": "heros"
+        "plural": "heroes"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "hero",
-          "definition": "n. 英雄, 超越常人者, 男主角"
+          "definition": "n. 英雄、男主角、崇拜對象"
         }
       ],
       "examples": [
         {
-          "en": "The firefighter was a hero.",
+          "en": "The firefighter was hailed as a hero after rescuing the family.",
           "highlight": [
             "hero"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "那名消防員救出一家人後被譽為英雄。"
+          }
+        },
+        {
+          "en": "Many unsung heroes in operations keep the supply chain running smoothly.",
+          "highlight": [
+            "heroes"
+          ],
+          "translations": {
+            "zh-TW": "營運部門有許多無名英雄讓供應鏈順利運轉。"
+          }
+        },
+        {
+          "en": "The CEO became the firm's folk hero after saving it from bankruptcy.",
+          "highlight": [
+            "hero"
+          ],
+          "translations": {
+            "zh-TW": "那位執行長把公司從破產邊緣救回來，成了公司的傳奇人物。"
           }
         }
       ],
       "synonyms": [
         "champion",
-        "savior"
+        "savior",
+        "idol"
       ],
       "antonyms": [
         "villain",
         "coward"
       ],
       "phrases": [
-        "unsung",
-        "hero",
-        "war",
-        "hero"
+        "unsung hero",
+        "war hero",
+        "local hero",
+        "hero of the story"
       ]
     },
     {
@@ -311,35 +413,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "hers",
-          "definition": "pron. 她的"
+          "definition": "pron. 她的（所有物）"
         }
       ],
       "examples": [
         {
-          "en": "The book is hers.",
+          "en": "This office is mine, and the corner office is hers.",
           "highlight": [
             "hers"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這間辦公室是我的，那間角落辦公室則是她的。"
+          }
+        },
+        {
+          "en": "The promotion was hers after she closed the biggest deal of the year.",
+          "highlight": [
+            "hers"
+          ],
+          "translations": {
+            "zh-TW": "在她談成全年最大一筆生意後，那次升遷就非她莫屬了。"
+          }
+        },
+        {
+          "en": "Is this design proposal yours or hers?",
+          "highlight": [
+            "hers"
+          ],
+          "translations": {
+            "zh-TW": "這份設計提案是你的還是她的？"
           }
         }
       ],
       "synonyms": [
-        "her",
-        "own",
-        "her",
-        "property"
+        "her own"
       ],
       "antonyms": [
         "his",
         "theirs"
       ],
       "phrases": [
-        "hers",
-        "alone",
-        "all",
-        "hers"
+        "of hers",
+        "hers alone",
+        "all hers",
+        "a friend of hers"
       ]
     },
     {
@@ -358,34 +475,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "herself",
-          "definition": "pron. 她自己, 她亲自"
+          "definition": "pron. 她自己、她親自"
         }
       ],
       "examples": [
         {
-          "en": "She made the dress herself.",
+          "en": "She organized the entire training schedule herself.",
           "highlight": [
             "herself"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她親自安排了整個培訓時程。"
+          }
+        },
+        {
+          "en": "The director herself approved the new marketing plan.",
+          "highlight": [
+            "herself"
+          ],
+          "translations": {
+            "zh-TW": "處長本人親自批准了那項新的行銷計畫。"
+          }
+        },
+        {
+          "en": "After the long negotiation, she found herself exhausted but relieved.",
+          "highlight": [
+            "herself"
+          ],
+          "translations": {
+            "zh-TW": "漫長的談判之後，她發現自己疲憊卻也鬆了口氣。"
           }
         }
       ],
       "synonyms": [
-        "herself",
-        "her",
-        "own"
+        "on her own"
       ],
       "antonyms": [
         "himself",
         "themselves"
       ],
       "phrases": [
-        "by",
-        "herself",
-        "to",
-        "herself"
+        "by herself",
+        "for herself",
+        "to herself",
+        "all by herself"
       ]
     },
     {
@@ -396,48 +529,66 @@
       "toeic_score_min": 200,
       "word": "hesitate",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "hesitateed",
-        "past_participle": "hesitateed",
-        "present_participle": "hesitating",
-        "third_person": "hesitates"
+        "present_3rd": "hesitates",
+        "past": "hesitated",
+        "past_participle": "hesitated",
+        "ing": "hesitating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "hesitate",
-          "definition": "vi. 犹豫, 迟疑, 踌躇, 支吾, 停顿"
+          "definition": "v. 猶豫、遲疑、躊躇"
         }
       ],
       "examples": [
         {
-          "en": "Do not hesitate to ask if you need anything.",
+          "en": "Please do not hesitate to contact us if you have any questions.",
           "highlight": [
             "hesitate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "如有任何問題，請不必猶豫，隨時與我們聯繫。"
+          }
+        },
+        {
+          "en": "She hesitated before signing the contract because the terms were unclear.",
+          "highlight": [
+            "hesitated"
+          ],
+          "translations": {
+            "zh-TW": "由於條款不清楚，她在簽約前遲疑了一下。"
+          }
+        },
+        {
+          "en": "He is hesitating between two job offers from rival companies.",
+          "highlight": [
+            "hesitating"
+          ],
+          "translations": {
+            "zh-TW": "他在兩家競爭公司的工作邀約之間猶豫不決。"
           }
         }
       ],
       "synonyms": [
         "pause",
-        "falter"
+        "falter",
+        "waver"
       ],
       "antonyms": [
         "proceed",
-        "continue"
+        "continue",
+        "decide"
       ],
       "phrases": [
-        "hesitate",
-        "to",
-        "ask",
-        "hesitate",
-        "before"
+        "hesitate to ask",
+        "don't hesitate",
+        "hesitate before",
+        "hesitate over"
       ]
     },
     {
@@ -456,32 +607,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "hi",
-          "definition": "interj. 喂"
+          "definition": "interj. 嗨、你好（非正式問候語）"
         }
       ],
       "examples": [
         {
-          "en": "Hi, how are you?",
+          "en": "Hi, I'm calling to confirm my appointment with Dr. Lee.",
           "highlight": [
             "hi"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "嗨，我打來確認跟李醫師的預約。"
+          }
+        },
+        {
+          "en": "Hi there, welcome to the team — let me show you around the office.",
+          "highlight": [
+            "hi"
+          ],
+          "translations": {
+            "zh-TW": "嗨，歡迎加入團隊——我帶你參觀一下辦公室。"
+          }
+        },
+        {
+          "en": "He always greets the receptionist with a cheerful hi every morning.",
+          "highlight": [
+            "hi"
+          ],
+          "translations": {
+            "zh-TW": "他每天早上總是用開朗的一聲「嗨」向櫃台小姐問候。"
           }
         }
       ],
       "synonyms": [
         "hello",
-        "hey"
+        "hey",
+        "greetings"
       ],
       "antonyms": [
-        "goodbye"
+        "goodbye",
+        "bye"
       ],
       "phrases": [
-        "say",
-        "hi",
-        "hi",
-        "there"
+        "say hi",
+        "hi there",
+        "wave hi",
+        "drop by and say hi"
       ]
     }
   ]
