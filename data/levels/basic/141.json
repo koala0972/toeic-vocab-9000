@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 141,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-141-001",
@@ -15,41 +15,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "harbored",
+        "plural": "harbors",
+        "present_3rd": "harbors",
+        "past": "harbored",
         "past_participle": "harbored",
-        "present_participle": "harboring",
-        "third_person": "harbors"
+        "ing": "harboring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "harbor",
-          "definition": "n. 港, 避難所, v. 庇护, 藏匿, (使)入港停泊"
+          "definition": "n. 港灣、港口、避難所  v. 庇護、窩藏、停泊"
         }
       ],
       "examples": [
         {
-          "en": "The ship entered the harbor.",
+          "en": "The cargo ship sailed into the harbor just before the storm broke.",
           "highlight": [
             "harbor"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "貨船在暴風雨來臨前駛入了港灣。"
+          }
+        },
+        {
+          "en": "The fishing boats harbored at the small dock to wait out the typhoon.",
+          "highlight": [
+            "harbored"
+          ],
+          "translations": {
+            "zh-TW": "漁船停泊在小碼頭,等候颱風過境。"
+          }
+        },
+        {
+          "en": "She was accused of harboring a fugitive in her apartment for three weeks.",
+          "highlight": [
+            "harboring"
+          ],
+          "translations": {
+            "zh-TW": "她被指控在自己公寓裡窩藏逃犯長達三個星期。"
           }
         }
       ],
       "synonyms": [
         "port",
-        "dock"
+        "dock",
+        "haven"
       ],
       "antonyms": [],
       "phrases": [
-        "safe",
-        "harbor",
-        "enter",
-        "the",
-        "harbor"
+        "natural harbor",
+        "harbor master",
+        "harbor a grudge",
+        "safe harbor"
       ]
     },
     {
@@ -61,43 +80,63 @@
       "word": "hard",
       "pos": [
         "adjective",
-        "noun"
+        "adverb"
       ],
       "conjugations": {
-        "plural": "hards"
+        "comparative": "harder",
+        "superlative": "hardest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "hard",
-          "definition": "a. 坚硬的, 硬的, 難的, 艰苦的, 困難的, 坚固的, 猛烈的, 艰難的, 結實的, 确實的, adv. 坚硬地, 努力地, 辛苦地, 接近地, 猛烈地, 牢固地"
+          "definition": "adj. 堅硬的、困難的、艱苦的、猛烈的  adv. 努力地、猛烈地、困難地"
         }
       ],
       "examples": [
         {
-          "en": "The ground was hard after the frost.",
+          "en": "The bread was so hard that she could barely bite into it.",
           "highlight": [
             "hard"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這麵包太硬了,她幾乎咬不下去。"
+          }
+        },
+        {
+          "en": "He studied harder than anyone else in the class and finally passed the exam.",
+          "highlight": [
+            "harder"
+          ],
+          "translations": {
+            "zh-TW": "他比班上任何人都更努力學習,最終通過了考試。"
+          }
+        },
+        {
+          "en": "This year's winter has been the hardest in decades for the mountain villages.",
+          "highlight": [
+            "hardest"
+          ],
+          "translations": {
+            "zh-TW": "今年的冬天是數十年來山區最嚴寒的一個。"
           }
         }
       ],
       "synonyms": [
         "solid",
-        "firm"
+        "firm",
+        "difficult"
       ],
       "antonyms": [
         "soft",
         "easy"
       ],
       "phrases": [
-        "hard",
-        "surface",
-        "hard",
-        "to"
+        "hard work",
+        "hard times",
+        "hardly ever",
+        "hard currency"
       ]
     },
     {
@@ -116,33 +155,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "hardly",
-          "definition": "adv. 刚刚, 几乎不, 勉强是"
+          "definition": "adv. 幾乎不、勉強、才剛剛"
         }
       ],
       "examples": [
         {
-          "en": "She could hardly believe her eyes.",
+          "en": "She could hardly believe her eyes when she saw the bonus on her payslip.",
           "highlight": [
             "hardly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "看到薪資單上的獎金時,她幾乎不敢相信自己的眼睛。"
+          }
+        },
+        {
+          "en": "Hardly anyone showed up to the meeting because of the heavy snow.",
+          "highlight": [
+            "Hardly"
+          ],
+          "translations": {
+            "zh-TW": "因為大雪的關係,幾乎沒有人出席會議。"
+          }
+        },
+        {
+          "en": "We had hardly finished dinner when the phone rang with an urgent call from the office.",
+          "highlight": [
+            "hardly"
+          ],
+          "translations": {
+            "zh-TW": "我們才剛吃完晚餐,辦公室就來了一通緊急電話。"
           }
         }
       ],
       "synonyms": [
         "barely",
-        "scarcely"
+        "scarcely",
+        "rarely"
       ],
       "antonyms": [
         "easily",
-        "clearly"
+        "completely"
       ],
       "phrases": [
-        "hardly",
-        "ever",
-        "hardly",
-        "any"
+        "hardly ever",
+        "hardly anyone",
+        "hardly anything",
+        "hardly surprising"
       ]
     },
     {
@@ -163,32 +221,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "hardware",
-          "definition": "n. 硬件, 五金器具, 零件, [计] 硬件"
+          "definition": "n. 硬體、五金器具、電腦設備"
         }
       ],
       "examples": [
         {
-          "en": "He works in a hardware store.",
+          "en": "The company invested heavily in new computer hardware for its engineering team.",
           "highlight": [
             "hardware"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家公司為工程團隊大量投資了新的電腦硬體。"
+          }
+        },
+        {
+          "en": "They bought various hardwares at the local store to fix the broken cabinet.",
+          "highlight": [
+            "hardwares"
+          ],
+          "translations": {
+            "zh-TW": "他們在當地商店買了各種五金零件來修理壞掉的櫃子。"
+          }
+        },
+        {
+          "en": "A hardware failure caused the entire network to shut down for three hours.",
+          "highlight": [
+            "hardware"
+          ],
+          "translations": {
+            "zh-TW": "一次硬體故障導致整個網路癱瘓了三個小時。"
           }
         }
       ],
       "synonyms": [
         "equipment",
+        "machinery",
         "tools"
       ],
       "antonyms": [
         "software"
       ],
       "phrases": [
-        "computer",
-        "hardware",
-        "hardware",
-        "store"
+        "hardware store",
+        "computer hardware",
+        "hardware failure",
+        "hardware upgrade"
       ]
     },
     {
@@ -203,43 +280,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "harmed",
+        "plural": "harms",
+        "present_3rd": "harms",
+        "past": "harmed",
         "past_participle": "harmed",
-        "present_participle": "harming",
-        "third_person": "harms"
+        "ing": "harming"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "harm",
-          "definition": "n. 伤害, 害處, vt. 伤害, 损害"
+          "definition": "n. 傷害、損害、危害  v. 傷害、損害"
         }
       ],
       "examples": [
         {
-          "en": "The accident caused serious harm.",
+          "en": "The new regulation will do more harm than good to small businesses.",
           "highlight": [
             "harm"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這項新法規對小企業弊多於利。"
+          }
+        },
+        {
+          "en": "The recall was issued after several consumers were harmed by the defective product.",
+          "highlight": [
+            "harmed"
+          ],
+          "translations": {
+            "zh-TW": "在幾名消費者被瑕疵產品傷害後,公司發出了召回通知。"
+          }
+        },
+        {
+          "en": "The factory was fined for harming the river ecosystem with untreated wastewater.",
+          "highlight": [
+            "harming"
+          ],
+          "translations": {
+            "zh-TW": "這家工廠因為排放未處理的廢水,損害了河流生態系統而被罰款。"
           }
         }
       ],
       "synonyms": [
         "injury",
-        "damage"
+        "damage",
+        "hurt"
       ],
       "antonyms": [
         "benefit",
         "repair"
       ],
       "phrases": [
-        "cause",
-        "harm",
-        "serious",
-        "harm"
+        "do harm",
+        "cause harm",
+        "out of harm's way",
+        "no harm done"
       ]
     },
     {
@@ -250,44 +347,63 @@
       "toeic_score_min": 200,
       "word": "harmful",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "harmfuls"
+        "comparative": "more harmful",
+        "superlative": "most harmful"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "harmful",
-          "definition": "a. 有害的, 伤害的"
+          "definition": "adj. 有害的、造成損害的"
         }
       ],
       "examples": [
         {
-          "en": "Smoking is harmful to your health.",
+          "en": "Smoking is harmful to your health and the health of those around you.",
           "highlight": [
             "harmful"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "吸菸對你以及周遭人的健康都有害。"
+          }
+        },
+        {
+          "en": "Secondhand smoke is even more harmful to children than most people realize.",
+          "highlight": [
+            "more harmful"
+          ],
+          "translations": {
+            "zh-TW": "二手菸對兒童的危害比多數人想像的還要嚴重。"
+          }
+        },
+        {
+          "en": "Researchers identified air pollution as the most harmful environmental factor in the region.",
+          "highlight": [
+            "most harmful"
+          ],
+          "translations": {
+            "zh-TW": "研究人員指出,空氣污染是該地區最有害的環境因素。"
           }
         }
       ],
       "synonyms": [
         "dangerous",
-        "detrimental"
+        "detrimental",
+        "toxic"
       ],
       "antonyms": [
         "beneficial",
         "harmless"
       ],
       "phrases": [
-        "harmful",
-        "effects",
-        "harmful",
-        "to"
+        "harmful effects",
+        "harmful to health",
+        "harmful substances",
+        "harmful bacteria"
       ]
     },
     {
@@ -298,44 +414,63 @@
       "toeic_score_min": 200,
       "word": "harmless",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "harmlesses"
+        "comparative": "more harmless",
+        "superlative": "most harmless"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "harmless",
-          "definition": "a. 无害處的, 未受损害的, 无辜的, 无恶意的, [法] 无害的, 无恶意的, 无损害的"
+          "definition": "adj. 無害的、無惡意的、無毒的"
         }
       ],
       "examples": [
         {
-          "en": "The spider is harmless.",
+          "en": "The gardener assured her that the small green snake in the yard was harmless.",
           "highlight": [
             "harmless"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "園丁向她保證,院子裡那條小綠蛇是無害的。"
+          }
+        },
+        {
+          "en": "His joke seemed harmless at first, but it upset several colleagues in the meeting.",
+          "highlight": [
+            "harmless"
+          ],
+          "translations": {
+            "zh-TW": "他的笑話一開始看似無惡意,卻惹惱了會議上的幾位同事。"
+          }
+        },
+        {
+          "en": "Compared with industrial waste, kitchen waste is the most harmless kind of refuse.",
+          "highlight": [
+            "most harmless"
+          ],
+          "translations": {
+            "zh-TW": "與工業廢料相比,廚餘是最無害的垃圾。"
           }
         }
       ],
       "synonyms": [
         "innocuous",
-        "safe"
+        "safe",
+        "benign"
       ],
       "antonyms": [
         "harmful",
         "dangerous"
       ],
       "phrases": [
-        "completely",
-        "harmless",
-        "relatively",
-        "harmless"
+        "perfectly harmless",
+        "harmless joke",
+        "harmless fun",
+        "harmless remark"
       ]
     },
     {
@@ -346,47 +481,62 @@
       "toeic_score_min": 200,
       "word": "harmony",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "harmonyed",
-        "past_participle": "harmonyed",
-        "present_participle": "harmonying",
-        "third_person": "harmonys"
+        "plural": "harmonies"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "harmony",
-          "definition": "n. 协调, 和睦, 调和, [电] 和声学"
+          "definition": "n. 和諧、和睦、調和、和聲"
         }
       ],
       "examples": [
         {
-          "en": "Their voices were in perfect harmony.",
+          "en": "The two departments have worked in harmony since the new manager took over.",
           "highlight": [
             "harmony"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "自從新任經理上任後,兩個部門一直和諧共事。"
+          }
+        },
+        {
+          "en": "The choir sang in perfect harmony, moving the audience to tears.",
+          "highlight": [
+            "harmony"
+          ],
+          "translations": {
+            "zh-TW": "合唱團以完美的和聲演唱,感動得觀眾落淚。"
+          }
+        },
+        {
+          "en": "Her paintings capture the subtle harmonies of color found in nature.",
+          "highlight": [
+            "harmonies"
+          ],
+          "translations": {
+            "zh-TW": "她的畫作捕捉了大自然中微妙的色彩調和。"
           }
         }
       ],
       "synonyms": [
         "accord",
-        "concord"
+        "concord",
+        "unity"
       ],
       "antonyms": [
         "discord",
         "dissonance"
       ],
       "phrases": [
-        "in",
-        "harmony",
-        "perfect",
-        "harmony"
+        "in harmony",
+        "live in harmony",
+        "perfect harmony",
+        "racial harmony"
       ]
     },
     {
@@ -397,44 +547,64 @@
       "toeic_score_min": 200,
       "word": "harsh",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "harshs"
+        "comparative": "harsher",
+        "superlative": "harshest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "harsh",
-          "definition": "a. 粗糙的, 刺耳的, 严厉的, [法] 粗糙的, 严厉的, 苛刻的"
+          "definition": "adj. 嚴厲的、苛刻的、刺耳的、惡劣的"
         }
       ],
       "examples": [
         {
-          "en": "The teacher's criticism was harsh.",
+          "en": "The manager received harsh criticism for the way he handled the layoffs.",
           "highlight": [
             "harsh"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理因為處理裁員的方式而受到了嚴厲的批評。"
+          }
+        },
+        {
+          "en": "The weather grew harsher as the expedition climbed higher into the mountains.",
+          "highlight": [
+            "harsher"
+          ],
+          "translations": {
+            "zh-TW": "探險隊爬得越高,天氣就變得越惡劣。"
+          }
+        },
+        {
+          "en": "The judge handed down the harshest sentence allowed by law for the financial fraud.",
+          "highlight": [
+            "harshest"
+          ],
+          "translations": {
+            "zh-TW": "法官針對這起金融詐欺案,判處了法律所允許的最嚴厲刑罰。"
           }
         }
       ],
       "synonyms": [
         "severe",
-        "rough"
+        "rough",
+        "stern"
       ],
       "antonyms": [
         "gentle",
-        "mild"
+        "mild",
+        "soft"
       ],
       "phrases": [
-        "harsh",
-        "criticism",
-        "harsh",
-        "conditions"
+        "harsh criticism",
+        "harsh conditions",
+        "harsh reality",
+        "harsh winter"
       ]
     },
     {
@@ -449,43 +619,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "harvested",
+        "plural": "harvests",
+        "present_3rd": "harvests",
+        "past": "harvested",
         "past_participle": "harvested",
-        "present_participle": "harvesting",
-        "third_person": "harvests"
+        "ing": "harvesting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "harvest",
-          "definition": "n. 收获, 成果, 收获物, 收获期, v. 收割, 收获"
+          "definition": "n. 收成、收割、成果  v. 收割、採收、收穫"
         }
       ],
       "examples": [
         {
-          "en": "The farmers are busy with the harvest.",
+          "en": "This year's wheat harvest was the largest the farm had seen in a decade.",
           "highlight": [
             "harvest"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "今年的小麥收成是這座農場十年來最大的一次。"
+          }
+        },
+        {
+          "en": "The farmers harvested the rice early to avoid the approaching typhoon.",
+          "highlight": [
+            "harvested"
+          ],
+          "translations": {
+            "zh-TW": "農民們為了避開逼近的颱風,提前收割了稻米。"
+          }
+        },
+        {
+          "en": "They are harvesting grapes in the vineyard before sunrise to keep them cool.",
+          "highlight": [
+            "harvesting"
+          ],
+          "translations": {
+            "zh-TW": "他們正在葡萄園裡採收葡萄,趁日出前趕在低溫時完成。"
           }
         }
       ],
       "synonyms": [
         "reap",
-        "gather"
+        "gather",
+        "crop"
       ],
       "antonyms": [
         "sow",
         "plant"
       ],
       "phrases": [
-        "harvest",
-        "season",
-        "harvest",
-        "time"
+        "harvest season",
+        "harvest time",
+        "bumper harvest",
+        "harvest festival"
       ]
     }
   ]
