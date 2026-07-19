@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 142,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-142-001",
@@ -15,41 +15,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "hated",
-        "past_participle": "hated",
-        "present_participle": "hating",
-        "third_person": "hats"
+        "plural": "hats",
+        "present_3rd": "hats",
+        "past": "hatted",
+        "past_participle": "hatted",
+        "ing": "hatting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "hat",
-          "definition": "n. 帽子, vt. 给...戴帽子"
+          "definition": "n. 帽子  v. 給…戴帽子"
         }
       ],
       "examples": [
         {
-          "en": "He wore a hat to protect himself from the sun.",
+          "en": "The banker always wears a black hat to client meetings.",
           "highlight": [
             "hat"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "那位銀行家去見客戶時總是戴著一頂黑色帽子。"
+          }
+        },
+        {
+          "en": "She took off her hats and scarves as soon as she entered the warm lobby.",
+          "highlight": [
+            "hats"
+          ],
+          "translations": {
+            "zh-TW": "她一走進溫暖的大廳就脫下了帽子和圍巾。"
+          }
+        },
+        {
+          "en": "The hotel staff hat each guest on arrival for a winter promotion photo.",
+          "highlight": [
+            "hat"
+          ],
+          "translations": {
+            "zh-TW": "飯店員工為每位抵達的住客戴上帽子,拍攝冬季促銷照片。"
           }
         }
       ],
       "synonyms": [
         "cap",
-        "headwear"
+        "headwear",
+        "fedora"
       ],
       "antonyms": [],
       "phrases": [
-        "wear",
-        "a",
-        "hat",
-        "take",
-        "off"
+        "wear a hat",
+        "take off one's hat",
+        "hat in hand",
+        "tip one's hat"
       ]
     },
     {
@@ -64,43 +83,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "hateed",
-        "past_participle": "hateed",
-        "present_participle": "hating",
-        "third_person": "hates"
+        "present_3rd": "hates",
+        "past": "hated",
+        "past_participle": "hated",
+        "ing": "hating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "hate",
-          "definition": "n. 憎恨, 恨, 厌恶, vt. 憎恨, 憎恶, vi. 仇恨"
+          "definition": "v. 討厭、憎恨、厭惡  n. 仇恨、憎恨"
         }
       ],
       "examples": [
         {
-          "en": "She hates getting up early.",
+          "en": "Many employees hate having to fill out long approval forms.",
           "highlight": [
             "hate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "許多員工討厭必須填寫冗長的審核表格。"
+          }
+        },
+        {
+          "en": "She hated the new manager's micromanagement style from the very first week.",
+          "highlight": [
+            "hated"
+          ],
+          "translations": {
+            "zh-TW": "從第一週起她就討厭新經理那種鉅細靡遺的管理風格。"
+          }
+        },
+        {
+          "en": "He couldn't stop hating the new policy even after it boosted quarterly sales.",
+          "highlight": [
+            "hating"
+          ],
+          "translations": {
+            "zh-TW": "即使新政策提升了季度業績,他還是忍不住討厭它。"
           }
         }
       ],
       "synonyms": [
         "detest",
-        "loathe"
+        "loathe",
+        "despise"
       ],
       "antonyms": [
         "love",
-        "like"
+        "adore"
       ],
       "phrases": [
-        "hate",
-        "doing",
-        "hate",
-        "it"
+        "hate doing something",
+        "love-hate relationship",
+        "hate speech",
+        "pet hate"
       ]
     },
     {
@@ -111,47 +149,63 @@
       "toeic_score_min": 200,
       "word": "hatred",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "hatreded",
-        "past_participle": "hatreded",
-        "present_participle": "hatreding",
-        "third_person": "hatreds"
+        "plural": "hatreds"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "hatred",
-          "definition": "n. 憎恨, 仇恨, 憎恶, [法] 敌意, 憎恨, 憎恶"
+          "definition": "n. 仇恨、憎恨、厭惡"
         }
       ],
       "examples": [
         {
-          "en": "She was filled with hatred for her enemies.",
+          "en": "The new HR policy aims to reduce workplace hatred among rival teams.",
           "highlight": [
             "hatred"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新的人資政策旨在減少競爭團隊之間的仇恨。"
+          }
+        },
+        {
+          "en": "The rival merchants' long-standing hatreds finally erupted during the trade fair.",
+          "highlight": [
+            "hatreds"
+          ],
+          "translations": {
+            "zh-TW": "對立商家之間長期的積怨終於在商展期間爆發開來。"
+          }
+        },
+        {
+          "en": "Their mutual hatred prevented any chance of merging the two departments.",
+          "highlight": [
+            "hatred"
+          ],
+          "translations": {
+            "zh-TW": "他們彼此之間的仇恨,使得兩個部門根本不可能合併。"
           }
         }
       ],
       "synonyms": [
         "loathing",
-        "animosity"
+        "animosity",
+        "hostility"
       ],
       "antonyms": [
         "love",
-        "affection"
+        "affection",
+        "fondness"
       ],
       "phrases": [
-        "intense",
-        "hatred",
-        "feel",
-        "hatred"
+        "intense hatred",
+        "deep-seated hatred",
+        "hatred toward",
+        "nurse a hatred"
       ]
     },
     {
@@ -166,44 +220,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "haveed",
-        "past_participle": "haveed",
-        "present_participle": "having",
-        "third_person": "haves"
+        "present_3rd": "has",
+        "past": "had",
+        "past_participle": "had",
+        "ing": "having"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "have",
-          "definition": "vt. 有, 怀有, 拿, 进行, aux. 已經"
+          "definition": "v. 有、擁有、舉行、從事  aux. 已經  n. 富人、有錢人"
         }
       ],
       "examples": [
         {
-          "en": "They have a beautiful house.",
+          "en": "The company has just opened a new office in Singapore.",
           "highlight": [
-            "have"
+            "has"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家公司剛在新加坡開設了新辦事處。"
+          }
+        },
+        {
+          "en": "They had already signed the contract when the price drop was announced.",
+          "highlight": [
+            "had"
+          ],
+          "translations": {
+            "zh-TW": "當降價消息宣布時,他們早已簽好了合約。"
+          }
+        },
+        {
+          "en": "Having a backup plan saved the launch when the main supplier went bankrupt.",
+          "highlight": [
+            "Having"
+          ],
+          "translations": {
+            "zh-TW": "因為有備用方案,才在主要供應商破產時挽救了產品發表。"
           }
         }
       ],
       "synonyms": [
         "own",
-        "possess"
+        "possess",
+        "hold"
       ],
       "antonyms": [
         "lack",
-        "need"
+        "want"
       ],
       "phrases": [
-        "have",
-        "a",
-        "car",
-        "have",
-        "to"
+        "have to",
+        "have got",
+        "have a meeting",
+        "have a look"
       ]
     },
     {
@@ -222,31 +294,47 @@
         {
           "lang": "zh-TW",
           "lang_word": "he",
-          "definition": "pron. 他, n. 男孩, 男人, 雄性動物"
+          "definition": "pron. 他"
         }
       ],
       "examples": [
         {
-          "en": "He is my brother.",
+          "en": "He is the lead negotiator for the upcoming merger talks.",
           "highlight": [
             "he"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他是即將展開的併購談判的首席代表。"
+          }
+        },
+        {
+          "en": "He confirmed that the shipment would arrive by Friday morning.",
+          "highlight": [
+            "He"
+          ],
+          "translations": {
+            "zh-TW": "他確認貨件會在星期五早上抵達。"
+          }
+        },
+        {
+          "en": "He always reviews the quarterly report himself before the board meeting.",
+          "highlight": [
+            "He"
+          ],
+          "translations": {
+            "zh-TW": "在董事會開會前,他總是親自審閱季度報告。"
           }
         }
       ],
-      "synonyms": [
-        "he"
-      ],
+      "synonyms": [],
       "antonyms": [
         "she"
       ],
       "phrases": [
-        "he",
-        "is",
-        "he",
-        "has"
+        "he himself",
+        "he says",
+        "he who",
+        "as he puts it"
       ]
     },
     {
@@ -261,41 +349,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "headed",
+        "plural": "heads",
+        "present_3rd": "heads",
+        "past": "headed",
         "past_participle": "headed",
-        "present_participle": "heading",
-        "third_person": "heads"
+        "ing": "heading"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "head",
-          "definition": "n. 頭, 頭脑, 领袖, 脑袋, 最前的部分, vt. 為首, 朝向, 前进, 用頭顶, vi. 朝特定方向行进, (作物)結穗, a. 頭的, 在顶端的, 主要的, [计] 磁頭; 冲頭"
+          "definition": "n. 頭、領袖、上端  v. 朝…前進、帶領、主管"
         }
       ],
       "examples": [
         {
-          "en": "He nodded his head in agreement.",
+          "en": "She was appointed head of the marketing department last month.",
           "highlight": [
             "head"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她上個月被任命為行銷部門主管。"
+          }
+        },
+        {
+          "en": "The delegates headed straight to the conference room after registration.",
+          "highlight": [
+            "headed"
+          ],
+          "translations": {
+            "zh-TW": "代表們完成報到後便直接走向會議室。"
+          }
+        },
+        {
+          "en": "He is heading the investigation into the missing invoices himself.",
+          "highlight": [
+            "heading"
+          ],
+          "translations": {
+            "zh-TW": "他正親自主持對遺失發票的調查工作。"
           }
         }
       ],
       "synonyms": [
-        "cranium",
-        "noggin"
+        "director",
+        "leader",
+        "chief"
       ],
       "antonyms": [],
       "phrases": [
-        "head",
-        "of",
-        "the",
-        "company",
-        "head"
+        "head of department",
+        "head for",
+        "head start",
+        "head office"
       ]
     },
     {
@@ -310,42 +417,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "headlineed",
-        "past_participle": "headlineed",
-        "present_participle": "headlining",
-        "third_person": "headlines"
+        "plural": "headlines",
+        "present_3rd": "headlines",
+        "past": "headlined",
+        "past_participle": "headlined",
+        "ing": "headlining"
       },
-      "domain": "general",
+      "domain": "media",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "headline",
-          "definition": "n. 大标题, 新聞摘要, vt. 為...做标题, 写标题"
+          "definition": "n. 新聞頭條、大標題  v. 以…為標題、擔任主秀"
         }
       ],
       "examples": [
         {
-          "en": "The news headline caught everyone's attention.",
+          "en": "The product recall made headlines across every major financial newspaper.",
           "highlight": [
-            "headline"
+            "headlines"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這次產品回收登上了所有主要財經報紙的頭條。"
+          }
+        },
+        {
+          "en": "The merger rumor headlined the evening business report last night.",
+          "highlight": [
+            "headlined"
+          ],
+          "translations": {
+            "zh-TW": "昨晚的晚間財經報導以併購傳聞作為頭條。"
+          }
+        },
+        {
+          "en": "She is headlining the annual entrepreneurs' forum next month in Tokyo.",
+          "highlight": [
+            "headlining"
+          ],
+          "translations": {
+            "zh-TW": "她下個月將在東京擔任年度創業家論壇的主講人。"
           }
         }
       ],
       "synonyms": [
         "title",
+        "banner",
         "caption"
       ],
-      "antonyms": [
-        "body"
-      ],
+      "antonyms": [],
       "phrases": [
-        "news",
-        "headline",
-        "headline",
-        "news"
+        "make headlines",
+        "headline news",
+        "grab the headlines",
+        "front-page headline"
       ]
     },
     {
@@ -356,47 +481,63 @@
       "toeic_score_min": 200,
       "word": "health",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "healthed",
-        "past_participle": "healthed",
-        "present_participle": "healthing",
-        "third_person": "healths"
+        "plural": "healths"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "health",
-          "definition": "n. 健康, 卫生, 蓬勃, 健康状态, [医] 健康"
+          "definition": "n. 健康、衛生、身心健康"
         }
       ],
       "examples": [
         {
-          "en": "Regular exercise is good for your health.",
+          "en": "Regular checkups are essential for maintaining good health in old age.",
           "highlight": [
             "health"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "定期健康檢查對維持老年時期的健康至關重要。"
+          }
+        },
+        {
+          "en": "The company offers free health screenings to all its employees every year.",
+          "highlight": [
+            "health"
+          ],
+          "translations": {
+            "zh-TW": "公司每年為全體員工提供免費健康檢查。"
+          }
+        },
+        {
+          "en": "Their health has improved markedly since they switched to remote work.",
+          "highlight": [
+            "health"
+          ],
+          "translations": {
+            "zh-TW": "自從改為遠端工作後,他們的健康狀況已明顯改善。"
           }
         }
       ],
       "synonyms": [
+        "wellness",
         "well-being",
         "fitness"
       ],
       "antonyms": [
         "illness",
+        "sickness",
         "disease"
       ],
       "phrases": [
-        "good",
-        "health",
-        "public",
-        "health"
+        "public health",
+        "health insurance",
+        "health care",
+        "mental health"
       ]
     },
     {
@@ -407,44 +548,64 @@
       "toeic_score_min": 200,
       "word": "healthy",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "healthies"
+        "comparative": "healthier",
+        "superlative": "healthiest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "healthy",
-          "definition": "a. 健康的, 有益健康的, 卫生的, [医] 健康的"
+          "definition": "a. 健康的、有益健康的、旺盛的"
         }
       ],
       "examples": [
         {
-          "en": "She leads a healthy lifestyle.",
+          "en": "A healthy work-life balance boosts productivity and reduces turnover.",
           "highlight": [
             "healthy"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "健康的工作與生活平衡能提升生產力,也降低員工流動率。"
+          }
+        },
+        {
+          "en": "Sales of organic food grew faster as consumers chose healthier options.",
+          "highlight": [
+            "healthier"
+          ],
+          "translations": {
+            "zh-TW": "隨著消費者選擇更健康的選項,有機食品的銷售成長得更快。"
+          }
+        },
+        {
+          "en": "The Mediterranean diet is often ranked among the healthiest in the world.",
+          "highlight": [
+            "healthiest"
+          ],
+          "translations": {
+            "zh-TW": "地中海飲食常被評為世界上最健康的飲食之一。"
           }
         }
       ],
       "synonyms": [
         "fit",
-        "robust"
+        "robust",
+        "sound"
       ],
       "antonyms": [
         "unhealthy",
-        "sick"
+        "sick",
+        "ill"
       ],
       "phrases": [
-        "stay",
-        "healthy",
-        "healthy",
-        "diet"
+        "healthy diet",
+        "stay healthy",
+        "healthy lifestyle",
+        "healthy profit"
       ]
     },
     {
@@ -455,37 +616,54 @@
       "toeic_score_min": 200,
       "word": "hear",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "heared",
-        "past_participle": "heared",
-        "present_participle": "hearing",
-        "third_person": "hears"
+        "present_3rd": "hears",
+        "past": "heard",
+        "past_participle": "heard",
+        "ing": "hearing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "hear",
-          "definition": "vt. 聽到, 倾聽, 聽說, 审理, vi. 聽见, 聽"
+          "definition": "v. 聽見、聆聽、聽說、審理"
         }
       ],
       "examples": [
         {
-          "en": "Can you hear that noise?",
+          "en": "I hear that the new CFO will start next Tuesday.",
           "highlight": [
             "hear"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我聽說新的財務長將於下週二到任。"
+          }
+        },
+        {
+          "en": "The committee heard testimony from three auditors before issuing the report.",
+          "highlight": [
+            "heard"
+          ],
+          "translations": {
+            "zh-TW": "委員會在發布報告前,聽取了三位稽核人員的證詞。"
+          }
+        },
+        {
+          "en": "Hearing the client's concerns, the team revised the proposal overnight.",
+          "highlight": [
+            "Hearing"
+          ],
+          "translations": {
+            "zh-TW": "聽完客戶的疑慮後,團隊連夜修改了提案。"
           }
         }
       ],
       "synonyms": [
         "listen",
-        "to",
+        "perceive",
         "overhear"
       ],
       "antonyms": [
@@ -493,11 +671,10 @@
         "disregard"
       ],
       "phrases": [
-        "hear",
-        "clearly",
-        "hear",
-        "a",
-        "sound"
+        "hear from",
+        "hear about",
+        "hear out",
+        "hard of hearing"
       ]
     }
   ]
