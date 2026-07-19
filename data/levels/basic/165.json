@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 165,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-165-001",
@@ -15,43 +15,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "kided",
-        "past_participle": "kided",
-        "present_participle": "kiding",
-        "third_person": "kids"
+        "plural": "kids",
+        "present_3rd": "kids",
+        "past": "kidded",
+        "past_participle": "kidded",
+        "ing": "kidding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "kid",
-          "definition": "n. 小山羊, 小山羊肉, 小孩, 欺骗, a. 小山羊皮制的, v. 哄骗, 嘲弄"
+          "definition": "n. 小孩、年輕人  v. 開玩笑、逗弄"
         }
       ],
       "examples": [
         {
-          "en": "The kids are playing outside.",
+          "en": "The kids were excited to see the elephant at the zoo.",
+          "highlight": [
+            "kids"
+          ],
+          "translations": {
+            "zh-TW": "孩子們在動物園看到大象時興奮不已。"
+          }
+        },
+        {
+          "en": "I was just kidding when I said you were fired.",
+          "highlight": [
+            "kidding"
+          ],
+          "translations": {
+            "zh-TW": "我說你被解僱了只是在開玩笑而已。"
+          }
+        },
+        {
+          "en": "Don't kid yourself — passing the TOEIC exam takes real effort.",
           "highlight": [
             "kid"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "別自欺欺人了，通過多益考試需要真正的努力。"
           }
         }
       ],
       "synonyms": [
         "child",
-        "youngster"
+        "youngster",
+        "joke"
       ],
       "antonyms": [
         "adult",
         "elder"
       ],
       "phrases": [
-        "young",
-        "kid",
-        "kids",
-        "are"
+        "kid around",
+        "just kidding",
+        "grown kid",
+        "kid stuff"
       ]
     },
     {
@@ -66,44 +86,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "killed",
+        "plural": "kills",
+        "present_3rd": "kills",
+        "past": "killed",
         "past_participle": "killed",
-        "present_participle": "killing",
-        "third_person": "kills"
+        "ing": "killing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "kill",
-          "definition": "n. 杀, 杀戮, 小河, vt. 杀, 破坏, 消灭, 使终止, 抵消, 否决, vi. 杀死, [计] 删除"
+          "definition": "v. 殺死、終止、消磨（時間）  n. 獵物、殺戮"
         }
       ],
       "examples": [
         {
-          "en": "He was killed in an accident.",
+          "en": "The cold weather killed most of the crops last winter.",
+          "highlight": [
+            "killed"
+          ],
+          "translations": {
+            "zh-TW": "去年冬天的寒冷天氣冻死了大部分的農作物。"
+          }
+        },
+        {
+          "en": "She was killing time at the airport by reading a magazine.",
+          "highlight": [
+            "killing"
+          ],
+          "translations": {
+            "zh-TW": "她在機場看雜誌來打發時間。"
+          }
+        },
+        {
+          "en": "A single mistake can kill the whole project, so please double-check.",
           "highlight": [
             "kill"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "一個失誤就可能毀掉整個專案，所以請務必再次確認。"
           }
         }
       ],
       "synonyms": [
-        "murder",
-        "slay"
+        "slay",
+        "destroy",
+        "end"
       ],
       "antonyms": [
         "save",
-        "preserve"
+        "preserve",
+        "create"
       ],
       "phrases": [
-        "kill",
-        "time",
-        "kill",
-        "the",
-        "mood"
+        "kill time",
+        "kill two birds with one stone",
+        "kill the mood",
+        "kill switch"
       ]
     },
     {
@@ -118,37 +158,62 @@
         "adjective"
       ],
       "conjugations": {
-        "plural": "kinds"
+        "plural": "kinds",
+        "comparative": "kinder",
+        "superlative": "kindest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "kind",
-          "definition": "n. 種类, 性质, 方式, a. 亲切的, 仁慈的, 和蔼的"
+          "definition": "n. 種類、類型  a. 親切的、仁慈的"
         }
       ],
       "examples": [
         {
-          "en": "There are many kinds of flowers.",
+          "en": "What kind of music do you like to listen to?",
           "highlight": [
             "kind"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "你喜歡聽哪種類型的音樂？"
+          }
+        },
+        {
+          "en": "There are many kinds of fresh bread at the bakery near my office.",
+          "highlight": [
+            "kinds"
+          ],
+          "translations": {
+            "zh-TW": "我辦公室附近的麵包店有很多種新鮮麵包。"
+          }
+        },
+        {
+          "en": "It was very kind of you to help the elderly woman with her bags.",
+          "highlight": [
+            "kind"
+          ],
+          "translations": {
+            "zh-TW": "你幫那位老太太提袋子，真是太親切了。"
           }
         }
       ],
       "synonyms": [
         "type",
-        "category"
+        "sort",
+        "generous"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "cruel",
+        "unkind",
+        "unfeeling"
+      ],
       "phrases": [
-        "different",
-        "kinds",
-        "same",
-        "kind"
+        "kind of",
+        "all kinds of",
+        "a kind of",
+        "be kind to"
       ]
     },
     {
@@ -171,33 +236,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "kindly",
-          "definition": "a. 和蔼的, 温和的, 爽快的, adv. 温和地, 亲切地"
+          "definition": "adv. 親切地、溫和地、勞駕（請求用語）  a. 和藹的"
         }
       ],
       "examples": [
         {
-          "en": "She kindly offered to help.",
+          "en": "The receptionist kindly showed me to the conference room.",
           "highlight": [
             "kindly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "櫃台人員親切地帶我到會議室。"
+          }
+        },
+        {
+          "en": "Would you kindly send the report by Friday afternoon?",
+          "highlight": [
+            "kindly"
+          ],
+          "translations": {
+            "zh-TW": "能否勞駕您在週五下午前寄出報告？"
+          }
+        },
+        {
+          "en": "The teacher spoke kindlier than usual to the new student on her first day.",
+          "highlight": [
+            "kindlier"
+          ],
+          "translations": {
+            "zh-TW": "老師在新生第一天上學時說話比平常更溫和。"
           }
         }
       ],
       "synonyms": [
-        "nicely",
-        "graciously"
+        "graciously",
+        "gently",
+        "warmly"
       ],
       "antonyms": [
-        "unkindly",
-        "rudely"
+        "rudely",
+        "harshly",
+        "cruelly"
       ],
       "phrases": [
-        "kindly",
-        "offer",
-        "kindly",
-        "ask"
+        "kindly note",
+        "would you kindly",
+        "treat kindly",
+        "kindly reminder"
       ]
     },
     {
@@ -208,48 +293,63 @@
       "toeic_score_min": 200,
       "word": "kindness",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "kindnessed",
-        "past_participle": "kindnessed",
-        "present_participle": "kindnessing",
-        "third_person": "kindnesses"
+        "plural": "kindnesses"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "kindness",
-          "definition": "n. 仁慈, 亲切, 和蔼"
+          "definition": "n. 仁慈、親切、善意之舉"
         }
       ],
       "examples": [
         {
-          "en": "Her kindness is appreciated.",
+          "en": "Her kindness to the new neighbors made them feel welcome.",
           "highlight": [
             "kindness"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她對新鄰居的親切讓他們感到受歡迎。"
+          }
+        },
+        {
+          "en": "The volunteer's many kindnesses were remembered by everyone in the community.",
+          "highlight": [
+            "kindnesses"
+          ],
+          "translations": {
+            "zh-TW": "這位義工的許多善舉被社區裡的每個人銘記在心。"
+          }
+        },
+        {
+          "en": "Thank you for your kindness during my visit to your office.",
+          "highlight": [
+            "kindness"
+          ],
+          "translations": {
+            "zh-TW": "感謝您在我到辦公室拜訪期間的盛情款待。"
           }
         }
       ],
       "synonyms": [
         "generosity",
-        "consideration"
+        "compassion",
+        "benevolence"
       ],
       "antonyms": [
+        "cruelty",
         "unkindness",
-        "cruelty"
+        "harshness"
       ],
       "phrases": [
-        "act",
-        "of",
-        "kindness",
-        "kindness",
-        "to"
+        "act of kindness",
+        "out of kindness",
+        "kindness of heart",
+        "random kindness"
       ]
     },
     {
@@ -260,48 +360,63 @@
       "toeic_score_min": 200,
       "word": "king",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "kinged",
-        "past_participle": "kinged",
-        "present_participle": "kinging",
-        "third_person": "kings"
+        "plural": "kings"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "king",
-          "definition": "n. 國王, 君主, vt. 使...成為君主, vi. 君临, 统治"
+          "definition": "n. 國王、君主、巨頭、最重要者"
         }
       ],
       "examples": [
         {
-          "en": "The king addressed his subjects.",
+          "en": "The king addressed the nation on television last night.",
           "highlight": [
             "king"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "國王昨晚在電視上向全國發表談話。"
+          }
+        },
+        {
+          "en": "Many kings ruled this ancient kingdom over the centuries.",
+          "highlight": [
+            "kings"
+          ],
+          "translations": {
+            "zh-TW": "幾個世紀以來有許多國王統治過這個古老王國。"
+          }
+        },
+        {
+          "en": "In the technology industry, Apple has long been king of the smartphone market.",
+          "highlight": [
+            "king"
+          ],
+          "translations": {
+            "zh-TW": "在科技產業中，蘋果長期以來都是智慧型手機市場的霸主。"
           }
         }
       ],
       "synonyms": [
         "monarch",
-        "sovereign"
+        "sovereign",
+        "ruler"
       ],
       "antonyms": [
         "commoner",
-        "subject"
+        "subject",
+        "peasant"
       ],
       "phrases": [
-        "king",
-        "and",
-        "queen",
-        "the",
-        "king's"
+        "king of the hill",
+        "crown the king",
+        "king size",
+        "king and queen"
       ]
     },
     {
@@ -316,44 +431,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "kissed",
+        "plural": "kisses",
+        "present_3rd": "kisses",
+        "past": "kissed",
         "past_participle": "kissed",
-        "present_participle": "kissing",
-        "third_person": "kisses"
+        "ing": "kissing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "kiss",
-          "definition": "n. 吻, vt. 吻, vi. 接吻"
+          "definition": "v. 親吻、輕觸  n. 吻"
         }
       ],
       "examples": [
         {
-          "en": "He kissed her on the cheek.",
+          "en": "She kissed her children goodbye before leaving for work.",
+          "highlight": [
+            "kissed"
+          ],
+          "translations": {
+            "zh-TW": "她出門上班前親吻孩子們道別。"
+          }
+        },
+        {
+          "en": "The couple was kissing at the airport when their friends walked by.",
+          "highlight": [
+            "kissing"
+          ],
+          "translations": {
+            "zh-TW": "這對情侶在機場親吻時，朋友們正好走過來。"
+          }
+        },
+        {
+          "en": "He gave his grandmother a gentle kiss on the forehead.",
           "highlight": [
             "kiss"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他輕輕地親了奶奶的額頭。"
           }
         }
       ],
       "synonyms": [
         "peck",
-        "smooch"
+        "smooch",
+        "caress"
       ],
       "antonyms": [
         "slap",
-        "hit"
+        "push away"
       ],
       "phrases": [
-        "kiss",
-        "on",
-        "the",
-        "cheek",
-        "kiss"
+        "kiss goodbye",
+        "kiss of life",
+        "kiss on the cheek",
+        "blow a kiss"
       ]
     },
     {
@@ -364,8 +498,7 @@
       "toeic_score_min": 200,
       "word": "kitchen",
       "pos": [
-        "noun",
-        "adjective"
+        "noun"
       ],
       "conjugations": {
         "plural": "kitchens"
@@ -375,30 +508,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "kitchen",
-          "definition": "n. 厨房, 全套炊具, [医] 厨房"
+          "definition": "n. 廚房、炊事房"
         }
       ],
       "examples": [
         {
-          "en": "She cooked dinner in the kitchen.",
+          "en": "The new restaurant has a huge kitchen for preparing large banquets.",
           "highlight": [
             "kitchen"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家新餐廳有一個大廚房，用來準備大型宴會。"
+          }
+        },
+        {
+          "en": "The hotel renovated all its kitchens to meet the new health regulations.",
+          "highlight": [
+            "kitchens"
+          ],
+          "translations": {
+            "zh-TW": "這家飯店翻新了所有的廚房，以符合新的衛生法規。"
+          }
+        },
+        {
+          "en": "We sat around the kitchen table drinking tea and talking about our day.",
+          "highlight": [
+            "kitchen"
+          ],
+          "translations": {
+            "zh-TW": "我們圍坐在廚房的餐桌旁喝茶，聊著今天發生的事。"
           }
         }
       ],
       "synonyms": [
         "cookhouse",
-        "galley"
+        "galley",
+        "scullery"
       ],
       "antonyms": [],
       "phrases": [
-        "kitchen",
-        "table",
-        "kitchen",
-        "sink"
+        "kitchen table",
+        "kitchen sink",
+        "kitchen appliances",
+        "kitchen cabinet"
       ]
     },
     {
@@ -413,40 +565,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "kneeed",
-        "past_participle": "kneeed",
-        "present_participle": "kneing",
-        "third_person": "knees"
+        "plural": "knees",
+        "present_3rd": "knees",
+        "past": "kneed",
+        "past_participle": "kneed",
+        "ing": "kneeing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "knee",
-          "definition": "n. 膝, 膝盖, vt. 膝行, 用膝盖碰"
+          "definition": "n. 膝蓋、膝部  v. 用膝蓋碰擊"
         }
       ],
       "examples": [
         {
-          "en": "He injured his knee while playing soccer.",
+          "en": "He injured his knee while playing soccer last weekend.",
           "highlight": [
             "knee"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他上週末踢足球時傷到了膝蓋。"
+          }
+        },
+        {
+          "en": "After the long hike, both knees were aching for two days.",
+          "highlight": [
+            "knees"
+          ],
+          "translations": {
+            "zh-TW": "長途健行後，雙膝痛了整整兩天。"
+          }
+        },
+        {
+          "en": "She knelt on one knee to tie her shoelace before the morning run.",
+          "highlight": [
+            "knee"
+          ],
+          "translations": {
+            "zh-TW": "晨跑前她單膝跪地綁好鞋帶。"
           }
         }
       ],
       "synonyms": [
         "joint",
-        "patella"
+        "patella",
+        "lap"
       ],
       "antonyms": [],
       "phrases": [
-        "knee",
-        "injury",
-        "knee",
-        "joint"
+        "knee injury",
+        "on bended knee",
+        "knee-jerk reaction",
+        "weak in the knees"
       ]
     },
     {
@@ -461,40 +633,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "knifeed",
-        "past_participle": "knifeed",
-        "present_participle": "knifing",
-        "third_person": "knifes"
+        "plural": "knives",
+        "present_3rd": "knifes",
+        "past": "knifed",
+        "past_participle": "knifed",
+        "ing": "knifing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "knife",
-          "definition": "n. 小刀, 匕首, vt. 切割, 伤害, 切, 戳, vi. 劈开, 穿過"
+          "definition": "n. 刀、小刀、餐刀  v. 用刀刺、切割"
         }
       ],
       "examples": [
         {
-          "en": "He cut the vegetables with a knife.",
+          "en": "The chef always uses a sharp knife when preparing vegetables.",
           "highlight": [
             "knife"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "主廚在準備蔬菜時總是用一把鋒利的刀。"
+          }
+        },
+        {
+          "en": "The waiter polished the silver knives and forks before setting the tables.",
+          "highlight": [
+            "knives"
+          ],
+          "translations": {
+            "zh-TW": "服務生在擺桌前把銀製的刀叉都擦亮了。"
+          }
+        },
+        {
+          "en": "The cold wind knifed through my thin jacket as I walked home.",
+          "highlight": [
+            "knifed"
+          ],
+          "translations": {
+            "zh-TW": "我走回家時，寒風如刀般刺穿了我單薄的外套。"
           }
         }
       ],
       "synonyms": [
         "blade",
-        "cutter"
+        "cutter",
+        "dagger"
       ],
       "antonyms": [],
       "phrases": [
-        "sharp",
-        "knife",
-        "knife",
-        "blade"
+        "sharp knife",
+        "butter knife",
+        "knife and fork",
+        "under the knife"
       ]
     }
   ]
