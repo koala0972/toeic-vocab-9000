@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 151,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-151-001",
@@ -11,48 +11,64 @@
       "toeic_score_min": 200,
       "word": "imagine",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "imagineed",
-        "past_participle": "imagineed",
-        "present_participle": "imagining",
-        "third_person": "imagines"
+        "present_3rd": "imagines",
+        "past": "imagined",
+        "past_participle": "imagined",
+        "ing": "imagining"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "imagine",
-          "definition": "vt. 想像, 设想, 猜测, vi. 想像起來"
+          "definition": "v. 想像、設想、猜測"
         }
       ],
       "examples": [
         {
-          "en": "Can you imagine a world without war?",
+          "en": "I cannot imagine living in a city without any public transportation.",
           "highlight": [
             "imagine"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我無法想像生活在一個沒有任何大眾運輸的城市裡。"
+          }
+        },
+        {
+          "en": "She imagined herself managing a large international team after the promotion.",
+          "highlight": [
+            "imagined"
+          ],
+          "translations": {
+            "zh-TW": "她想像自己在升遷後帶領一支大型國際團隊。"
+          }
+        },
+        {
+          "en": "The children are imagining life on a distant planet for their science project.",
+          "highlight": [
+            "imagining"
+          ],
+          "translations": {
+            "zh-TW": "孩子們正在為科學專案想像在遙遠行星上的生活。"
           }
         }
       ],
       "synonyms": [
         "envision",
-        "conceive"
+        "conceive",
+        "picture"
       ],
       "antonyms": [
         "disregard",
         "ignore"
       ],
       "phrases": [
-        "imagine",
-        "that",
-        "can",
-        "you",
-        "imagine"
+        "imagine that",
+        "just imagine",
+        "imagine doing"
       ]
     },
     {
@@ -63,44 +79,63 @@
       "toeic_score_min": 200,
       "word": "immediate",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "immediates"
+        "comparative": "more immediate",
+        "superlative": "most immediate"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "immediate",
-          "definition": "a. 立即的, 直接的, 接近的, [医] 直接的, 立即的"
+          "definition": "adj. 立即的、直接的、緊鄰的"
         }
       ],
       "examples": [
         {
-          "en": "They need an immediate response.",
+          "en": "The manager requested an immediate response from the supplier.",
           "highlight": [
             "immediate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理要求供應商立即回覆。"
+          }
+        },
+        {
+          "en": "We need a more immediate solution to reduce the shipping delays.",
+          "highlight": [
+            "more immediate"
+          ],
+          "translations": {
+            "zh-TW": "我們需要一個更直接的解決方案來縮短出貨延遲。"
+          }
+        },
+        {
+          "en": "Fire safety is the most immediate concern in this old factory building.",
+          "highlight": [
+            "most immediate"
+          ],
+          "translations": {
+            "zh-TW": "消防安全是這棟舊工廠最迫切的問題。"
           }
         }
       ],
       "synonyms": [
         "instant",
-        "prompt"
+        "prompt",
+        "direct"
       ],
       "antonyms": [
         "delayed",
-        "late"
+        "distant"
       ],
       "phrases": [
-        "immediate",
-        "action",
-        "immediate",
-        "response"
+        "immediate response",
+        "immediate action",
+        "immediate family",
+        "immediate supervisor"
       ]
     },
     {
@@ -119,34 +154,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "immediately",
-          "definition": "adv. 直接地, 立刻, 立即"
+          "definition": "adv. 立即地、直接地、緊接著"
         }
       ],
       "examples": [
         {
-          "en": "The ambulance arrived immediately.",
+          "en": "The security team responded immediately when the alarm went off.",
           "highlight": [
             "immediately"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "警報響起時，安全小組立刻做出了反應。"
+          }
+        },
+        {
+          "en": "Please send the contract to the client immediately after the meeting.",
+          "highlight": [
+            "immediately"
+          ],
+          "translations": {
+            "zh-TW": "會議結束後請立即將合約寄給客戶。"
+          }
+        },
+        {
+          "en": "He felt immediately comfortable in the new office environment.",
+          "highlight": [
+            "immediately"
+          ],
+          "translations": {
+            "zh-TW": "他一到新辦公環境就立刻感到自在。"
           }
         }
       ],
       "synonyms": [
         "instantly",
-        "at",
-        "once"
+        "at once",
+        "right away"
       ],
       "antonyms": [
         "later",
         "eventually"
       ],
       "phrases": [
-        "respond",
-        "immediately",
-        "immediately",
-        "after"
+        "respond immediately",
+        "immediately after",
+        "leave immediately",
+        "take action immediately"
       ]
     },
     {
@@ -161,40 +214,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "impacted",
+        "plural": "impacts",
+        "present_3rd": "impacts",
+        "past": "impacted",
         "past_participle": "impacted",
-        "present_participle": "impacting",
-        "third_person": "impacts"
+        "ing": "impacting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "impact",
-          "definition": "n. 冲击, 冲突, 影響, 效果, vt. 挤入, 撞击, 压紧, 對...發生影響"
+          "definition": "n. 影響、衝擊、作用  v. 對⋯產生影響"
         }
       ],
       "examples": [
         {
-          "en": "The impact of the crash was severe.",
+          "en": "The new tax policy will have a significant impact on small businesses.",
           "highlight": [
             "impact"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新稅制將對小型企業產生重大影響。"
+          }
+        },
+        {
+          "en": "The merger impacted hundreds of employees across three departments.",
+          "highlight": [
+            "impacted"
+          ],
+          "translations": {
+            "zh-TW": "這次合併影響了三個部門的數百名員工。"
+          }
+        },
+        {
+          "en": "Rising fuel prices are impacting the logistics company's profit margins.",
+          "highlight": [
+            "impacting"
+          ],
+          "translations": {
+            "zh-TW": "不斷上漲的燃料價格正影響著這家物流公司的利潤。"
           }
         }
       ],
       "synonyms": [
         "effect",
-        "influence"
+        "influence",
+        "consequence"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "benefit"
+      ],
       "phrases": [
-        "positive",
-        "impact",
-        "major",
-        "impact"
+        "positive impact",
+        "major impact",
+        "impact on",
+        "economic impact"
       ]
     },
     {
@@ -209,44 +284,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "implemented",
+        "plural": "implements",
+        "present_3rd": "implements",
+        "past": "implemented",
         "past_participle": "implemented",
-        "present_participle": "implementing",
-        "third_person": "implements"
+        "ing": "implementing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "implement",
-          "definition": "n. 工具, 器具, 手段, vt. 實现, 使生效, 执行"
+          "definition": "v. 實施、執行、貫徹  n. 工具、器具"
         }
       ],
       "examples": [
         {
-          "en": "They implemented the new policy.",
+          "en": "The company plans to implement a new quality control system next quarter.",
           "highlight": [
             "implement"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司計畫下季度實施新的品管系統。"
+          }
+        },
+        {
+          "en": "The HR department implemented the new attendance policy last month.",
+          "highlight": [
+            "implemented"
+          ],
+          "translations": {
+            "zh-TW": "人事部門上個月實施了新的出勤政策。"
+          }
+        },
+        {
+          "en": "Engineers are implementing changes to improve the website's loading speed.",
+          "highlight": [
+            "implementing"
+          ],
+          "translations": {
+            "zh-TW": "工程師正在實施修改以提升網站的載入速度。"
           }
         }
       ],
       "synonyms": [
         "execute",
-        "apply"
+        "apply",
+        "carry out"
       ],
       "antonyms": [
         "neglect",
         "ignore"
       ],
       "phrases": [
-        "implement",
-        "changes",
-        "implement",
-        "a",
-        "policy"
+        "implement a policy",
+        "implement changes",
+        "implement a plan",
+        "implement a system"
       ]
     },
     {
@@ -257,44 +351,61 @@
       "toeic_score_min": 200,
       "word": "implication",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "implicationed",
-        "past_participle": "implicationed",
-        "present_participle": "implicationing",
-        "third_person": "implications"
+        "plural": "implications"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "implication",
-          "definition": "n. 牵连, 含义, 暗示, [法] 推断, 含蓄之意, 暗示"
+          "definition": "n. 含意、暗示、牽連、可能的影響"
         }
       ],
       "examples": [
         {
-          "en": "The implication of his statement is clear.",
+          "en": "The legal implication of signing this contract should not be ignored.",
           "highlight": [
             "implication"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "簽署這份合約的法律含意不應被忽視。"
+          }
+        },
+        {
+          "en": "The CFO explained the financial implications of the new regulation to the board.",
+          "highlight": [
+            "implications"
+          ],
+          "translations": {
+            "zh-TW": "財務長向董事會解釋了新法規在財務上的影響。"
+          }
+        },
+        {
+          "en": "His silence implied that he disagreed with the proposal.",
+          "highlight": [
+            "implied"
+          ],
+          "translations": {
+            "zh-TW": "他的沉默暗示他不同意這項提案。"
           }
         }
       ],
       "synonyms": [
         "suggestion",
-        "inference"
+        "inference",
+        "consequence"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "explicit statement"
+      ],
       "phrases": [
-        "far-reaching",
-        "implication",
-        "serious",
-        "implication"
+        "negative implication",
+        "far-reaching implication",
+        "serious implication",
+        "political implication"
       ]
     },
     {
@@ -305,48 +416,60 @@
       "toeic_score_min": 200,
       "word": "importance",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
-      "conjugations": {
-        "past_tense": "importanceed",
-        "past_participle": "importanceed",
-        "present_participle": "importancing",
-        "third_person": "importances"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "importance",
-          "definition": "n. 重要, 重要性, 重要地位, 自大, [机] 重要, 重要性"
+          "definition": "n. 重要性、重要地位、價值"
         }
       ],
       "examples": [
         {
-          "en": "She understands the importance of education.",
+          "en": "The CEO emphasized the importance of customer satisfaction in today's meeting.",
           "highlight": [
             "importance"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "執行長在今天的會議中強調了顧客滿意度的重要性。"
+          }
+        },
+        {
+          "en": "The importance of regular backups cannot be overstated for any IT department.",
+          "highlight": [
+            "importance"
+          ],
+          "translations": {
+            "zh-TW": "對任何資訊部門而言，定期備份的重要性再怎麼強調都不為過。"
+          }
+        },
+        {
+          "en": "Understanding the importance of punctuality is essential in Japanese business culture.",
+          "highlight": [
+            "importance"
+          ],
+          "translations": {
+            "zh-TW": "在日本商業文化中，理解守時的重要性是不可或缺的。"
           }
         }
       ],
       "synonyms": [
         "significance",
-        "value"
+        "value",
+        "consequence"
       ],
       "antonyms": [
         "insignificance",
         "triviality"
       ],
       "phrases": [
-        "understand",
-        "the",
-        "importance",
-        "importance",
-        "of"
+        "of great importance",
+        "attach importance to",
+        "realize the importance",
+        "stress the importance"
       ]
     },
     {
@@ -357,44 +480,63 @@
       "toeic_score_min": 200,
       "word": "important",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "importants"
+        "comparative": "more important",
+        "superlative": "most important"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "important",
-          "definition": "a. 重要的, 有地位的, 大量的, 顯要的, 自负的, [计] 要點"
+          "definition": "adj. 重要的、顯要的、影響大的"
         }
       ],
       "examples": [
         {
-          "en": "This is an important decision.",
+          "en": "It is important to review the contract carefully before signing.",
           "highlight": [
             "important"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "簽約前仔細審閱合約是很重要的。"
+          }
+        },
+        {
+          "en": "Customer trust is more important than short-term profits in this industry.",
+          "highlight": [
+            "more important"
+          ],
+          "translations": {
+            "zh-TW": "在這個產業中，顧客的信任比短期利潤更重要。"
+          }
+        },
+        {
+          "en": "The most important factor for promotion is consistent performance over time.",
+          "highlight": [
+            "most important"
+          ],
+          "translations": {
+            "zh-TW": "晉升最重要的因素是長期穩定的表現。"
           }
         }
       ],
       "synonyms": [
         "significant",
-        "crucial"
+        "crucial",
+        "vital"
       ],
       "antonyms": [
         "insignificant",
         "trivial"
       ],
       "phrases": [
-        "important",
-        "to",
-        "important",
-        "for"
+        "important decision",
+        "important to",
+        "important for",
+        "play an important role"
       ]
     },
     {
@@ -413,32 +555,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "importantly",
-          "definition": "adv. 重要地；大量地；有名望地；自命不凡地"
+          "definition": "adv. 重要地、顯著地、自命不凡地"
         }
       ],
       "examples": [
         {
-          "en": "Importantly, he also mentioned the risks.",
+          "en": "Importantly, the company has reduced its carbon emissions by thirty percent.",
           "highlight": [
             "importantly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "重要的是，該公司已將碳排放量減少了百分之三十。"
+          }
+        },
+        {
+          "en": "More importantly, the survey shows that employee satisfaction has improved.",
+          "highlight": [
+            "importantly"
+          ],
+          "translations": {
+            "zh-TW": "更重要的是，調查顯示員工滿意度已有所提升。"
+          }
+        },
+        {
+          "en": "Most importantly, please ensure all the safety procedures are followed.",
+          "highlight": [
+            "importantly"
+          ],
+          "translations": {
+            "zh-TW": "最重要的是，請確實遵守所有的安全程序。"
           }
         }
       ],
       "synonyms": [
         "significantly",
-        "notably"
+        "notably",
+        "crucially"
       ],
       "antonyms": [
-        "insignificantly"
+        "insignificantly",
+        "trivially"
       ],
       "phrases": [
-        "more",
-        "importantly",
-        "very",
-        "importantly"
+        "more importantly",
+        "most importantly",
+        "importantly enough"
       ]
     },
     {
@@ -449,44 +610,63 @@
       "toeic_score_min": 200,
       "word": "impossible",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "impossibles"
+        "comparative": "more impossible",
+        "superlative": "most impossible"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "impossible",
-          "definition": "a. 不可能的, 難以置信的, 令人无法忍受的"
+          "definition": "adj. 不可能的、辦不到的、令人難以忍受的"
         }
       ],
       "examples": [
         {
-          "en": "It is impossible to solve this problem.",
+          "en": "It is impossible to complete the project without additional funding.",
           "highlight": [
             "impossible"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "沒有額外資金的話，不可能完成這個專案。"
+          }
+        },
+        {
+          "en": "Meeting the deadline became more impossible as more technical issues appeared.",
+          "highlight": [
+            "more impossible"
+          ],
+          "translations": {
+            "zh-TW": "隨著越多技術問題出現，要在期限內完成變得更加不可能。"
+          }
+        },
+        {
+          "en": "He was the most impossible client the agency had ever dealt with.",
+          "highlight": [
+            "most impossible"
+          ],
+          "translations": {
+            "zh-TW": "他是這家代理商處理過最難搞的客戶。"
           }
         }
       ],
       "synonyms": [
         "unachievable",
-        "unattainable"
+        "unattainable",
+        "unfeasible"
       ],
       "antonyms": [
         "possible",
         "achievable"
       ],
       "phrases": [
-        "impossible",
-        "task",
-        "impossible",
-        "to"
+        "impossible task",
+        "impossible to",
+        "next to impossible",
+        "virtually impossible"
       ]
     }
   ]
