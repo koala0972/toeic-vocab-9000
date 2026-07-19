@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 155,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-155-001",
@@ -11,47 +11,62 @@
       "toeic_score_min": 200,
       "word": "infection",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "infectioned",
-        "past_participle": "infectioned",
-        "present_participle": "infectioning",
-        "third_person": "infections"
+        "plural": "infections"
       },
-      "domain": "general",
+      "domain": "medical",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "infection",
-          "definition": "n. 传染, 影響, 传染病, [医] 传染, 感染"
+          "definition": "n. 感染、傳染、傳染病"
         }
       ],
       "examples": [
         {
-          "en": "He has a throat infection.",
+          "en": "The doctor confirmed that the patient had a bacterial infection.",
           "highlight": [
             "infection"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "醫生確認該病患感染了細菌。"
+          }
+        },
+        {
+          "en": "Hospital staff work hard to prevent infections from spreading between wards.",
+          "highlight": [
+            "infections"
+          ],
+          "translations": {
+            "zh-TW": "醫院人員努力防止感染在病房之間傳播。"
+          }
+        },
+        {
+          "en": "Early treatment of the infection helped the worker return to duty within a week.",
+          "highlight": [
+            "infection"
+          ],
+          "translations": {
+            "zh-TW": "及早治療感染讓這名員工一週內就能回到工作崗位。"
           }
         }
       ],
       "synonyms": [
         "contagion",
-        "contamination"
+        "disease",
+        "illness"
       ],
       "antonyms": [
         "health",
         "wellness"
       ],
       "phrases": [
-        "bacterial",
-        "infection",
-        "serious",
-        "infection"
+        "bacterial infection",
+        "viral infection",
+        "prevent infection",
+        "ear infection"
       ]
     },
     {
@@ -62,44 +77,60 @@
       "toeic_score_min": 200,
       "word": "infectious",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "infectiouses"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "medical",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "infectious",
-          "definition": "a. 有传染性的, 易传染的, [医] 传染性的"
+          "definition": "adj. 有傳染性的、易傳染的"
         }
       ],
       "examples": [
         {
-          "en": "Flu is highly infectious.",
+          "en": "Tuberculosis is an infectious disease that spreads through the air.",
           "highlight": [
             "infectious"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "結核病是一種透過空氣傳播的傳染病。"
+          }
+        },
+        {
+          "en": "Her infectious laugh made the whole team feel more relaxed before the presentation.",
+          "highlight": [
+            "infectious"
+          ],
+          "translations": {
+            "zh-TW": "她那極具感染力的笑聲讓整個團隊在簡報前放鬆了不少。"
+          }
+        },
+        {
+          "en": "Patients with infectious conditions are kept in isolation rooms to protect other visitors.",
+          "highlight": [
+            "infectious"
+          ],
+          "translations": {
+            "zh-TW": "罹患傳染性疾病的病患被安置在隔離病房，以保護其他訪客。"
           }
         }
       ],
       "synonyms": [
         "contagious",
-        "communicable"
+        "communicable",
+        "catching"
       ],
       "antonyms": [
         "non-contagious",
         "non-infectious"
       ],
       "phrases": [
-        "highly",
-        "infectious",
-        "infectious",
-        "disease"
+        "infectious disease",
+        "infectious laugh",
+        "highly infectious",
+        "infectious agent"
       ]
     },
     {
@@ -114,40 +145,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "influenceed",
-        "past_participle": "influenceed",
-        "present_participle": "influencing",
-        "third_person": "influences"
+        "plural": "influences",
+        "present_3rd": "influences",
+        "past": "influenced",
+        "past_participle": "influenced",
+        "ing": "influencing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "influence",
-          "definition": "n. 影響力, 权力, 势力, vt. 影響, 改变"
+          "definition": "n. 影響力、勢力  v. 影響、左右"
         }
       ],
       "examples": [
         {
-          "en": "His influence made a big difference.",
+          "en": "The manager has a strong influence on every decision made in the sales department.",
           "highlight": [
             "influence"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理對業務部門的每項決策都有極大的影響力。"
+          }
+        },
+        {
+          "en": "The new tax policy influenced many small business owners to delay their investments.",
+          "highlight": [
+            "influenced"
+          ],
+          "translations": {
+            "zh-TW": "新的稅制影響了許多小企業主，使他們延後投資。"
+          }
+        },
+        {
+          "en": "By influencing public opinion through social media, the brand quickly doubled its market share.",
+          "highlight": [
+            "influencing"
+          ],
+          "translations": {
+            "zh-TW": "透過社群媒體影響輿論，這個品牌很快就把市占率翻了一倍。"
           }
         }
       ],
       "synonyms": [
-        "effect",
-        "impact"
+        "affect",
+        "impact",
+        "shape"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "ignore",
+        "neglect"
+      ],
       "phrases": [
-        "strong",
-        "influence",
-        "influence",
-        "on"
+        "under the influence",
+        "influence on",
+        "strong influence",
+        "influence decision"
       ]
     },
     {
@@ -158,48 +212,66 @@
       "toeic_score_min": 200,
       "word": "inform",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "informed",
+        "present_3rd": "informs",
+        "past": "informed",
         "past_participle": "informed",
-        "present_participle": "informing",
-        "third_person": "informs"
+        "ing": "informing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "inform",
-          "definition": "vt. 通知, 使了解, 使充满, vi. 提供资料, 告發"
+          "definition": "v. 通知、告知"
         }
       ],
       "examples": [
         {
-          "en": "Please inform me of any changes.",
+          "en": "Please inform the front desk if you plan to check out late.",
           "highlight": [
             "inform"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "若您打算延後退房，請先告知櫃台。"
+          }
+        },
+        {
+          "en": "The HR department informed all employees about the updated holiday schedule last Friday.",
+          "highlight": [
+            "informed"
+          ],
+          "translations": {
+            "zh-TW": "人資部門上週五已通知全體員工最新的假日行事曆。"
+          }
+        },
+        {
+          "en": "By informing customers in advance, the airline avoided hundreds of complaint calls.",
+          "highlight": [
+            "informing"
+          ],
+          "translations": {
+            "zh-TW": "藉由事先通知乘客，航空公司避免了數百通客訴電話。"
           }
         }
       ],
       "synonyms": [
         "notify",
-        "tell"
+        "tell",
+        "advise"
       ],
       "antonyms": [
         "misinform",
-        "mislead"
+        "mislead",
+        "conceal"
       ],
       "phrases": [
-        "inform",
-        "the",
-        "public",
-        "inform",
-        "of"
+        "inform of",
+        "inform about",
+        "keep informed",
+        "inform the public"
       ]
     },
     {
@@ -210,44 +282,64 @@
       "toeic_score_min": 200,
       "word": "informal",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "informals"
+        "comparative": "more informal",
+        "superlative": "most informal"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "informal",
-          "definition": "a. 非正式的, 不拘礼的, 通俗的, [經] 非正式的, 日常使用的"
+          "definition": "adj. 非正式的、不拘禮的、輕鬆的"
         }
       ],
       "examples": [
         {
-          "en": "They had an informal meeting.",
+          "en": "The manager prefers an informal meeting over coffee rather than a long conference room session.",
           "highlight": [
             "informal"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理偏好喝杯咖啡開個非正式會議，而不是在會議室裡耗上半天。"
+          }
+        },
+        {
+          "en": "Friday's dress code is more informal, so staff may wear clean jeans and polo shirts.",
+          "highlight": [
+            "more informal"
+          ],
+          "translations": {
+            "zh-TW": "週五的服裝規定比較輕鬆，員工可以穿著乾淨的牛仔褲和Polo衫。"
+          }
+        },
+        {
+          "en": "The most informal interview I've ever had turned out to be the one that landed me the job.",
+          "highlight": [
+            "most informal"
+          ],
+          "translations": {
+            "zh-TW": "我經歷過最輕鬆的一場面試，反倒成了讓我拿到工作的那一場。"
           }
         }
       ],
       "synonyms": [
         "casual",
-        "relaxed"
+        "relaxed",
+        "unofficial"
       ],
       "antonyms": [
         "formal",
-        "official"
+        "official",
+        "ceremonial"
       ],
       "phrases": [
-        "informal",
-        "meeting",
-        "informal",
-        "dress"
+        "informal meeting",
+        "informal dress",
+        "informal setting",
+        "informal discussion"
       ]
     },
     {
@@ -258,47 +350,62 @@
       "toeic_score_min": 200,
       "word": "information",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "informationed",
-        "past_participle": "informationed",
-        "present_participle": "informationing",
-        "third_person": "informations"
+        "plural": "informations"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "information",
-          "definition": "n. 消息, 知识, 通知, 情报, 信息, 问讯處, 起诉, [计] 信息"
+          "definition": "n. 資訊、情報、消息"
         }
       ],
       "examples": [
         {
-          "en": "We need more information about the event.",
+          "en": "Please send the budget report information to all department heads by noon.",
           "highlight": [
             "information"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請於中午前將預算報告的資訊寄給各部門主管。"
+          }
+        },
+        {
+          "en": "Travelers can find a great deal of useful information on the airport's official website.",
+          "highlight": [
+            "information"
+          ],
+          "translations": {
+            "zh-TW": "旅客可以在機場的官方網站上找到許多實用資訊。"
+          }
+        },
+        {
+          "en": "The leaked information caused the company's stock price to drop sharply within hours.",
+          "highlight": [
+            "information"
+          ],
+          "translations": {
+            "zh-TW": "外洩的情報使公司的股價在數小時內急劇下跌。"
           }
         }
       ],
       "synonyms": [
         "data",
-        "knowledge"
+        "details",
+        "facts"
       ],
       "antonyms": [
         "misinformation",
         "ignorance"
       ],
       "phrases": [
-        "gather",
-        "information",
-        "provide",
-        "information"
+        "information about",
+        "gather information",
+        "provide information",
+        "confidential information"
       ]
     },
     {
@@ -309,44 +416,62 @@
       "toeic_score_min": 200,
       "word": "ingredient",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "ingrediented",
-        "past_participle": "ingrediented",
-        "present_participle": "ingredienting",
-        "third_person": "ingredients"
+        "plural": "ingredients"
       },
-      "domain": "general",
+      "domain": "food",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "ingredient",
-          "definition": "n. 成分, 因素, [化] 配合剂; 拼料; 成分; 组分"
+          "definition": "n. 成分、原料、要素"
         }
       ],
       "examples": [
         {
-          "en": "The main ingredient is flour.",
+          "en": "Sugar is the main ingredient that gives the sauce its distinctive flavor.",
           "highlight": [
             "ingredient"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "糖是讓這款醬汁具有獨特風味的主要原料。"
+          }
+        },
+        {
+          "en": "All ingredients must be listed on the packaging in order of weight.",
+          "highlight": [
+            "ingredients"
+          ],
+          "translations": {
+            "zh-TW": "所有原料都必須依照重量順序列在包裝上。"
+          }
+        },
+        {
+          "en": "Patience turned out to be the key ingredient in building a long-term business relationship.",
+          "highlight": [
+            "ingredient"
+          ],
+          "translations": {
+            "zh-TW": "耐心證明是建立長期商業關係的關鍵要素。"
           }
         }
       ],
       "synonyms": [
         "component",
-        "element"
+        "element",
+        "constituent"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "whole",
+        "entirety"
+      ],
       "phrases": [
-        "key",
-        "ingredient",
-        "main",
-        "ingredient"
+        "key ingredient",
+        "main ingredient",
+        "active ingredient",
+        "natural ingredients"
       ]
     },
     {
@@ -368,33 +493,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "initial",
-          "definition": "n. 字首, 首字母, a. 开始的, 最初的, 字首的, vt. 用姓名的首字母签名"
+          "definition": "adj. 最初的、開始的  n. 首字母"
         }
       ],
       "examples": [
         {
-          "en": "His initial reaction was surprise.",
+          "en": "The initial response from clients was very positive, so the company decided to expand the pilot program.",
           "highlight": [
             "initial"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "客戶最初的反應非常正面，公司因此決定擴大試辦計畫。"
+          }
+        },
+        {
+          "en": "Please write your full name and initials at the top of every page of the contract.",
+          "highlight": [
+            "initials"
+          ],
+          "translations": {
+            "zh-TW": "請在合約每一頁的上方寫上您的全名與首字母。"
+          }
+        },
+        {
+          "en": "After the initial discussion, both firms agreed to schedule a follow-up meeting next Tuesday.",
+          "highlight": [
+            "initial"
+          ],
+          "translations": {
+            "zh-TW": "在初步討論之後，雙方公司同意將下次會議安排在下週二。"
           }
         }
       ],
       "synonyms": [
         "first",
+        "original",
         "primary"
       ],
       "antonyms": [
         "final",
-        "last"
+        "last",
+        "ultimate"
       ],
       "phrases": [
-        "initial",
-        "impression",
-        "initial",
-        "reaction"
+        "initial impression",
+        "initial reaction",
+        "initial stage",
+        "initial cost"
       ]
     },
     {
@@ -413,34 +558,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "initially",
-          "definition": "adv. 最初, 开頭"
+          "definition": "adv. 最初、起初、開始時"
         }
       ],
       "examples": [
         {
-          "en": "Initially, it was difficult to understand.",
+          "en": "Initially, the proposal seemed too expensive, but the long-term savings convinced the board.",
           "highlight": [
             "initially"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "起初這項提案看起來太昂貴，但長期的節省說服了董事會。"
+          }
+        },
+        {
+          "en": "The new intern was initially nervous about speaking in meetings, but soon gained confidence.",
+          "highlight": [
+            "initially"
+          ],
+          "translations": {
+            "zh-TW": "這位新實習生起初在會議中發言時很緊張，但很快就有了自信。"
+          }
+        },
+        {
+          "en": "Initially considered a risky investment, the project eventually returned a 12% profit in its first year.",
+          "highlight": [
+            "initially"
+          ],
+          "translations": {
+            "zh-TW": "該專案最初被視為高風險投資，但最終在第一年就獲得了12%的利潤。"
           }
         }
       ],
       "synonyms": [
-        "at",
-        "first",
-        "originally"
+        "at first",
+        "originally",
+        "firstly"
       ],
       "antonyms": [
         "finally",
-        "ultimately"
+        "ultimately",
+        "eventually"
       ],
       "phrases": [
-        "initially",
-        "thought",
-        "initially",
-        "planned"
+        "initially thought",
+        "initially planned",
+        "initially appeared",
+        "initially expected"
       ]
     },
     {
@@ -455,44 +619,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "initiateed",
-        "past_participle": "initiateed",
-        "present_participle": "initiating",
-        "third_person": "initiates"
+        "present_3rd": "initiates",
+        "past": "initiated",
+        "past_participle": "initiated",
+        "ing": "initiating",
+        "plural": "initiates"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "initiate",
-          "definition": "n. 入會, 开始, a. 新加入的, vt. 开始, 传授基本知识给"
+          "definition": "v. 開始、發起、啟動  n. 新加入者"
         }
       ],
       "examples": [
         {
-          "en": "They decided to initiate the project.",
+          "en": "The company decided to initiate a new training program for all customer service staff.",
           "highlight": [
             "initiate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司決定為全體客服人員發起一項新的培訓計畫。"
+          }
+        },
+        {
+          "en": "The union initiated talks with management after working conditions deteriorated last month.",
+          "highlight": [
+            "initiated"
+          ],
+          "translations": {
+            "zh-TW": "在上個月工作環境惡化後，工會與資方展開了協商。"
+          }
+        },
+        {
+          "en": "By initiating a refund policy review, the store improved customer satisfaction within a quarter.",
+          "highlight": [
+            "initiating"
+          ],
+          "translations": {
+            "zh-TW": "藉由啟動退費政策的檢討，這家店在一季之內就提升了顧客滿意度。"
           }
         }
       ],
       "synonyms": [
         "commence",
-        "launch"
+        "launch",
+        "start"
       ],
       "antonyms": [
         "terminate",
-        "end"
+        "end",
+        "conclude"
       ],
       "phrases": [
-        "initiate",
-        "a",
-        "process",
-        "initiate",
-        "contact"
+        "initiate a process",
+        "initiate contact",
+        "initiate a project",
+        "initiate a conversation"
       ]
     }
   ]
