@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 136,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-136-001",
@@ -11,45 +11,61 @@
       "toeic_score_min": 200,
       "word": "goods",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "goodsed",
-        "past_participle": "goodsed",
-        "present_participle": "goodsing",
-        "third_person": "goodses"
+        "plural": "goods"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "goods",
-          "definition": "n. 货物, [經] 货物, 商品, 動产"
+          "definition": "n. 貨物、商品、物品"
         }
       ],
       "examples": [
         {
-          "en": "The store sells various goods.",
+          "en": "The warehouse stores imported goods waiting for customs clearance.",
           "highlight": [
             "goods"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這座倉庫存放著等候海關清關的進口貨物。"
+          }
+        },
+        {
+          "en": "The retailer ordered seasonal goods in bulk to cut costs.",
+          "highlight": [
+            "goods"
+          ],
+          "translations": {
+            "zh-TW": "零售商大量訂購季節性商品以降低成本。"
+          }
+        },
+        {
+          "en": "Damaged goods cannot be returned once the invoice is stamped ‘final sale’.",
+          "highlight": [
+            "goods"
+          ],
+          "translations": {
+            "zh-TW": "一旦發票蓋上「最終出售」字樣，受損貨物便無法退貨。"
           }
         }
       ],
       "synonyms": [
         "merchandise",
-        "products"
+        "products",
+        "wares"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "bads"
+      ],
       "phrases": [
-        "consumer",
-        "goods",
-        "goods",
-        "and",
-        "services"
+        "consumer goods",
+        "goods and services",
+        "finished goods",
+        "capital goods"
       ]
     },
     {
@@ -60,48 +76,65 @@
       "toeic_score_min": 200,
       "word": "govern",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "governed",
+        "present_3rd": "governs",
+        "past": "governed",
         "past_participle": "governed",
-        "present_participle": "governing",
-        "third_person": "governs"
+        "ing": "governing"
       },
-      "domain": "general",
+      "domain": "politics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "govern",
-          "definition": "v. 统治, 支配, 管理"
+          "definition": "v. 治理、統治、管理"
         }
       ],
       "examples": [
         {
-          "en": "The president governs the country.",
+          "en": "Strict regulations govern the export of sensitive technology.",
           "highlight": [
             "govern"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "嚴格的法規規範了敏感科技產品的出口。"
+          }
+        },
+        {
+          "en": "The board appointed a new CEO to govern the struggling firm.",
+          "highlight": [
+            "govern"
+          ],
+          "translations": {
+            "zh-TW": "董事會任命了一位新執行長來管理這家經營困難的公司。"
+          }
+        },
+        {
+          "en": "The committee has governed the trade association for over a decade.",
+          "highlight": [
+            "governed"
+          ],
+          "translations": {
+            "zh-TW": "這個委員會已掌管這個貿易協會超過十年。"
           }
         }
       ],
       "synonyms": [
         "rule",
-        "lead"
+        "administer",
+        "manage"
       ],
       "antonyms": [
         "follow",
         "obey"
       ],
       "phrases": [
-        "govern",
-        "a",
-        "country",
-        "govern",
-        "with"
+        "govern a country",
+        "govern a company",
+        "govern by principle",
+        "govern effectively"
       ]
     },
     {
@@ -112,44 +145,61 @@
       "toeic_score_min": 200,
       "word": "government",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "governmented",
-        "past_participle": "governmented",
-        "present_participle": "governmenting",
-        "third_person": "governments"
+        "plural": "governments"
       },
-      "domain": "general",
+      "domain": "politics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "government",
-          "definition": "n. 政府, 内阁, [經] 政府, 政治, 政体"
+          "definition": "n. 政府、內閣、政體"
         }
       ],
       "examples": [
         {
-          "en": "The government announced new policies.",
+          "en": "The government introduced new tax incentives for small businesses.",
           "highlight": [
             "government"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "政府為小型企業推出了新的稅賦優惠。"
+          }
+        },
+        {
+          "en": "Several governments signed a joint trade agreement last week.",
+          "highlight": [
+            "governments"
+          ],
+          "translations": {
+            "zh-TW": "上週有數個政府簽署了一份聯合貿易協定。"
+          }
+        },
+        {
+          "en": "Local government offices will close for the national holiday.",
+          "highlight": [
+            "government"
+          ],
+          "translations": {
+            "zh-TW": "地方政府機關將因國定假日而休假。"
           }
         }
       ],
       "synonyms": [
         "administration",
-        "authority"
+        "authority",
+        "regime"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "opposition"
+      ],
       "phrases": [
-        "local",
-        "government",
-        "federal",
-        "government"
+        "local government",
+        "federal government",
+        "government policy",
+        "government officials"
       ]
     },
     {
@@ -160,44 +210,61 @@
       "toeic_score_min": 200,
       "word": "governor",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "governored",
-        "past_participle": "governored",
-        "present_participle": "governoring",
-        "third_person": "governors"
+        "plural": "governors"
       },
-      "domain": "general",
+      "domain": "politics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "governor",
-          "definition": "n. (美)州長, (英)总督, 统治者, 管理者, 理事, [医] 节制器, 调节器"
+          "definition": "n. 州長、省長、總督、主管"
         }
       ],
       "examples": [
         {
-          "en": "The governor attended the ceremony.",
+          "en": "The governor addressed the chamber of commerce at the annual banquet.",
           "highlight": [
             "governor"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "州長在年度晚宴上向商會致辭。"
+          }
+        },
+        {
+          "en": "Two governors from neighbouring states met to discuss infrastructure funding.",
+          "highlight": [
+            "governors"
+          ],
+          "translations": {
+            "zh-TW": "兩位鄰近州的州長會面商討基礎建設資金。"
+          }
+        },
+        {
+          "en": "The deputy governor will assume office while the governor travels abroad.",
+          "highlight": [
+            "governor"
+          ],
+          "translations": {
+            "zh-TW": "州長出國期間將由副州長代理職務。"
           }
         }
       ],
       "synonyms": [
         "chief",
-        "head"
+        "head",
+        "director"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "subordinate"
+      ],
       "phrases": [
-        "state",
-        "governor",
-        "governor's",
-        "mansion"
+        "state governor",
+        "deputy governor",
+        "governor's office",
+        "bank governor"
       ]
     },
     {
@@ -212,45 +279,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "grabed",
-        "past_participle": "grabed",
-        "present_participle": "grabing",
-        "third_person": "grabs"
+        "present_3rd": "grabs",
+        "past": "grabbed",
+        "past_participle": "grabbed",
+        "ing": "grabbing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "grab",
-          "definition": "n. 抓握, 掠夺, 强占, 东方沿岸帆船, vi. 抓取, 抢去, vt. 攫取, 捕获, 霸占"
+          "definition": "v. 抓取、奪取  n. 抓握、掠奪"
         }
       ],
       "examples": [
         {
-          "en": "She grabbed her bag and left.",
+          "en": "She grabbed her briefcase and rushed to the airport.",
+          "highlight": [
+            "grabbed"
+          ],
+          "translations": {
+            "zh-TW": "她抓起公事包便衝往機場。"
+          }
+        },
+        {
+          "en": "Investors are grabbing the chance to buy discounted shares before the rally.",
+          "highlight": [
+            "grabbing"
+          ],
+          "translations": {
+            "zh-TW": "投資人正把握機會在行情反彈前買進折價股票。"
+          }
+        },
+        {
+          "en": "A grab for market share forced competitors to cut prices.",
           "highlight": [
             "grab"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "搶奪市占率的舉動迫使競爭對手降價。"
           }
         }
       ],
       "synonyms": [
         "seize",
-        "snatch"
+        "snatch",
+        "grasp"
       ],
       "antonyms": [
         "release",
-        "let",
-        "go"
+        "let go"
       ],
       "phrases": [
-        "grab",
-        "quickly",
-        "grab",
-        "hold",
-        "of"
+        "grab a bite",
+        "grab attention",
+        "grab a chance",
+        "make a grab for"
       ]
     },
     {
@@ -265,40 +349,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "gradeed",
-        "past_participle": "gradeed",
-        "present_participle": "grading",
-        "third_person": "grades"
+        "plural": "grades",
+        "present_3rd": "grades",
+        "past": "graded",
+        "past_participle": "graded",
+        "ing": "grading"
       },
-      "domain": "general",
+      "domain": "education",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "grade",
-          "definition": "n. 等級, 年級, 阶段, 成绩, 程度, 坡度, 斜坡, vt. 分等, 分級, 评分, vi. 属于某等級, 逐渐变化"
+          "definition": "n. 等級、年級、成績  v. 評分、分級"
         }
       ],
       "examples": [
         {
-          "en": "He received a high grade on his test.",
+          "en": "The inspector grades each batch of coffee beans before export.",
+          "highlight": [
+            "grades"
+          ],
+          "translations": {
+            "zh-TW": "稽查員在出口前為每批咖啡豆評級。"
+          }
+        },
+        {
+          "en": "The teacher graded twenty essays over the weekend.",
+          "highlight": [
+            "graded"
+          ],
+          "translations": {
+            "zh-TW": "老師在週末批改了二十篇作文。"
+          }
+        },
+        {
+          "en": "Only top-grade materials can be used for the construction project.",
           "highlight": [
             "grade"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這項建築工程只能使用頂級材料。"
           }
         }
       ],
       "synonyms": [
         "rank",
-        "level"
+        "level",
+        "mark"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "mix"
+      ],
       "phrases": [
-        "high",
-        "grade",
-        "grade",
-        "level"
+        "high grade",
+        "grade A",
+        "make the grade",
+        "grade level"
       ]
     },
     {
@@ -309,44 +415,63 @@
       "toeic_score_min": 200,
       "word": "gradual",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "graduals"
+        "comparative": "more gradual",
+        "superlative": "most gradual"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "gradual",
-          "definition": "a. 逐渐的, 渐增的, n. 弥撒升阶圣歌"
+          "definition": "adj. 逐漸的、循序漸進的"
         }
       ],
       "examples": [
         {
-          "en": "There was a gradual increase in temperature.",
+          "en": "There was a gradual recovery in consumer confidence after the downturn.",
           "highlight": [
             "gradual"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經濟低迷後，消費者信心出現了逐步回升。"
+          }
+        },
+        {
+          "en": "The second plan offered a more gradual approach to laying off staff.",
+          "highlight": [
+            "more gradual"
+          ],
+          "translations": {
+            "zh-TW": "第二套方案在裁員方面提供了較為循序漸進的做法。"
+          }
+        },
+        {
+          "en": "The most gradual slope on the trail is recommended for beginner cyclists.",
+          "highlight": [
+            "most gradual"
+          ],
+          "translations": {
+            "zh-TW": "步道上坡度最平緩的路段建議初學單車騎士使用。"
           }
         }
       ],
       "synonyms": [
         "progressive",
-        "slow"
+        "step-by-step",
+        "phased"
       ],
       "antonyms": [
         "sudden",
         "abrupt"
       ],
       "phrases": [
-        "gradual",
-        "change",
-        "gradual",
-        "increase"
+        "gradual change",
+        "gradual increase",
+        "gradual decline",
+        "gradual improvement"
       ]
     },
     {
@@ -365,33 +490,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "gradually",
-          "definition": "adv. 逐渐地"
+          "definition": "adv. 逐漸地、逐步地"
         }
       ],
       "examples": [
         {
-          "en": "The weather improved gradually.",
+          "en": "The new manager gradually rebuilt the team's confidence after the layoffs.",
           "highlight": [
             "gradually"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新任經理在裁員後逐步重建了團隊的信心。"
+          }
+        },
+        {
+          "en": "Fuel prices have gradually risen despite repeated government interventions.",
+          "highlight": [
+            "gradually"
+          ],
+          "translations": {
+            "zh-TW": "儘管政府屢次干預，燃油價格仍逐步攀升。"
+          }
+        },
+        {
+          "en": "Sales gradually recovered once the marketing campaign reached its target audience.",
+          "highlight": [
+            "gradually"
+          ],
+          "translations": {
+            "zh-TW": "行銷活動觸及目標客群後，銷售額逐漸回升。"
           }
         }
       ],
       "synonyms": [
         "steadily",
-        "progressively"
+        "progressively",
+        "slowly"
       ],
       "antonyms": [
         "suddenly",
         "abruptly"
       ],
       "phrases": [
-        "gradually",
-        "improve",
-        "gradually",
-        "increase"
+        "gradually improve",
+        "gradually increase",
+        "gradually decrease",
+        "gradually fade"
       ]
     },
     {
@@ -402,45 +546,59 @@
       "toeic_score_min": 200,
       "word": "grain",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "grained",
-        "past_participle": "grained",
-        "present_participle": "graining",
-        "third_person": "grains"
+        "plural": "grains"
       },
-      "domain": "general",
+      "domain": "agriculture",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "grain",
-          "definition": "n. 谷粒, 颗粒, 谷类, 纹理, 本质, v. (使)成谷粒"
+          "definition": "n. 穀物、穀粒、顆粒、紋理"
         }
       ],
       "examples": [
         {
-          "en": "The farmer harvested the grain.",
+          "en": "The cooperative exports wheat grain to over thirty countries.",
           "highlight": [
             "grain"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家合作社將小麥穀粒出口至三十多個國家。"
+          }
+        },
+        {
+          "en": "A few grains of sand scratched the lens of the camera.",
+          "highlight": [
+            "grains"
+          ],
+          "translations": {
+            "zh-TW": "幾粒沙子刮傷了相機鏡頭。"
+          }
+        },
+        {
+          "en": "Grain prices soared after poor harvests across the region.",
+          "highlight": [
+            "Grain"
+          ],
+          "translations": {
+            "zh-TW": "整個地區的穀物價格在歉收後飆升。"
           }
         }
       ],
       "synonyms": [
         "cereal",
-        "seed"
+        "seed",
+        "kernel"
       ],
       "antonyms": [],
       "phrases": [
-        "grain",
-        "of",
-        "wheat",
-        "grain",
-        "harvest"
+        "grain of wheat",
+        "grain harvest",
+        "whole grain",
+        "against the grain"
       ]
     },
     {
@@ -451,10 +609,11 @@
       "toeic_score_min": 200,
       "word": "grand",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
+        "comparative": "grander",
+        "superlative": "grandest",
         "plural": "grands"
       },
       "domain": "general",
@@ -462,33 +621,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "grand",
-          "definition": "a. 庄重的, 壮观的, 顯赫的, 重大的, 最高的, 雄伟的, 宏大的, 豪华的, 傲慢的, [法] 重大的, 主要的, 伟大的"
+          "definition": "adj. 宏偉的、壯觀的、重大的"
         }
       ],
       "examples": [
         {
-          "en": "The palace was grand and majestic.",
+          "en": "The grand opening of the flagship store attracted hundreds of shoppers.",
           "highlight": [
             "grand"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "旗艦店的盛大開幕吸引了數百位購物者。"
+          }
+        },
+        {
+          "en": "The second venue was grander but drew far fewer guests than expected.",
+          "highlight": [
+            "grander"
+          ],
+          "translations": {
+            "zh-TW": "第二個會場更為宏偉，但來賓卻比預期少得多。"
+          }
+        },
+        {
+          "en": "Fifty years ago the grandest hotel on the avenue was demolished.",
+          "highlight": [
+            "grandest"
+          ],
+          "translations": {
+            "zh-TW": "五十年前，這條大道上最宏偉的飯店被拆除了。"
           }
         }
       ],
       "synonyms": [
         "magnificent",
-        "splendid"
+        "splendid",
+        "imposing"
       ],
       "antonyms": [
         "humble",
         "modest"
       ],
       "phrases": [
-        "grand",
-        "building",
-        "grand",
-        "idea"
+        "grand opening",
+        "grand prize",
+        "grand total",
+        "grand plan"
       ]
     }
   ]
