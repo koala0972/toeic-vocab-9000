@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 146,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-146-001",
@@ -19,34 +19,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "his",
-          "definition": "pron. 他的, [化] 组氨酸"
+          "definition": "pron. 他的（所有格）"
         }
       ],
       "examples": [
         {
-          "en": "He forgot his keys.",
+          "en": "Mr. Lee forgot his briefcase at the office.",
           "highlight": [
             "his"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "李先生把他的公事包忘在辦公室了。"
+          }
+        },
+        {
+          "en": "His presentation impressed the entire board of directors.",
+          "highlight": [
+            "his"
+          ],
+          "translations": {
+            "zh-TW": "他的簡報讓全體董事會印象深刻。"
+          }
+        },
+        {
+          "en": "Please confirm his reservation for the conference room.",
+          "highlight": [
+            "his"
+          ],
+          "translations": {
+            "zh-TW": "請確認他對會議室的預約。"
           }
         }
       ],
       "synonyms": [
-        "belonging",
-        "to",
-        "him"
+        "belonging to him"
       ],
       "antonyms": [
         "her",
         "hers"
       ],
       "phrases": [
-        "his",
-        "book",
-        "his",
-        "car"
+        "his own",
+        "his side",
+        "his fault"
       ]
     },
     {
@@ -57,46 +72,61 @@
       "toeic_score_min": 200,
       "word": "history",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "historyed",
-        "past_participle": "historyed",
-        "present_participle": "historying",
-        "third_person": "historys"
+        "plural": "histories"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "history",
-          "definition": "n. 歷史, 過去, 經歷, 發展過程, 歷史学, 過去的事, 歷史記录, [计] 歷史記录"
+          "definition": "n. 歷史、過去的事、經歷"
         }
       ],
       "examples": [
         {
-          "en": "She is studying history at university.",
+          "en": "She is studying the history of international trade.",
           "highlight": [
             "history"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她正在研究國際貿易的歷史。"
+          }
+        },
+        {
+          "en": "The two companies have a long history of successful partnership.",
+          "highlight": [
+            "history"
+          ],
+          "translations": {
+            "zh-TW": "這兩家公司有著悠久成功的合作歷史。"
+          }
+        },
+        {
+          "en": "The histories of several nations were shaped by maritime trade.",
+          "highlight": [
+            "histories"
+          ],
+          "translations": {
+            "zh-TW": "數個國家的歷史由海上貿易所形塑。"
           }
         }
       ],
       "synonyms": [
         "chronicle",
-        "record"
+        "record",
+        "past"
       ],
       "antonyms": [
         "future"
       ],
       "phrases": [
-        "world",
-        "history",
-        "history",
-        "lesson"
+        "history of",
+        "world history",
+        "track history",
+        "go down in history"
       ]
     },
     {
@@ -111,44 +141,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "hited",
-        "past_participle": "hited",
-        "present_participle": "hiting",
-        "third_person": "hits"
+        "plural": "hits",
+        "present_3rd": "hits",
+        "past": "hit",
+        "past_participle": "hit",
+        "ing": "hitting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "hit",
-          "definition": "n. 打击, 打, 冲撞, 讽刺, vt. 打, 打击, 碰撞, 打中, 袭击, 偶然碰上, vi. 打, 打中, 打击, 碰撞, 偶然碰上, [计] 击中; 找到; 瞬時打扰"
+          "definition": "v. 擊、打、碰撞、達到  n. 擊打、成功、命中"
         }
       ],
       "examples": [
         {
-          "en": "He hit the ball with a bat.",
+          "en": "The new product hit the market last month and sold out quickly.",
           "highlight": [
             "hit"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新產品上個月上市後很快就銷售一空。"
+          }
+        },
+        {
+          "en": "Sales hit a record high during the holiday season.",
+          "highlight": [
+            "hit"
+          ],
+          "translations": {
+            "zh-TW": "銷售額在假期期間創下歷史新高。"
+          }
+        },
+        {
+          "en": "The website is hitting over a million visitors per day.",
+          "highlight": [
+            "hitting"
+          ],
+          "translations": {
+            "zh-TW": "該網站每天吸引超過百萬名訪客。"
           }
         }
       ],
       "synonyms": [
         "strike",
-        "punch"
+        "punch",
+        "reach"
       ],
       "antonyms": [
         "miss",
         "avoid"
       ],
       "phrases": [
-        "hit",
-        "the",
-        "target",
-        "hit",
-        "hard"
+        "hit the target",
+        "hit hard",
+        "hit the market",
+        "hit a record"
       ]
     },
     {
@@ -159,49 +208,62 @@
       "toeic_score_min": 200,
       "word": "hobby",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "hobbyed",
-        "past_participle": "hobbyed",
-        "present_participle": "hobbying",
-        "third_person": "hobbys"
+        "plural": "hobbies"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "hobby",
-          "definition": "n. 嗜好, 癖好, 爱好"
+          "definition": "n. 嗜好、業餘愛好"
         }
       ],
       "examples": [
         {
-          "en": "Her hobby is painting.",
+          "en": "Her hobby is painting landscapes on weekends.",
           "highlight": [
             "hobby"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她的嗜好是在週末畫風景畫。"
+          }
+        },
+        {
+          "en": "Many employees pursue hobbies outside of working hours to relieve stress.",
+          "highlight": [
+            "hobbies"
+          ],
+          "translations": {
+            "zh-TW": "許多員工在工時之外培養嗜好以紓解壓力。"
+          }
+        },
+        {
+          "en": "Photography is a popular hobby among business travelers.",
+          "highlight": [
+            "hobby"
+          ],
+          "translations": {
+            "zh-TW": "攝影是商務旅客中常見的嗜好。"
           }
         }
       ],
       "synonyms": [
         "pastime",
-        "leisure",
-        "activity"
+        "leisure activity",
+        "interest"
       ],
       "antonyms": [
         "job",
         "work"
       ],
       "phrases": [
-        "favorite",
-        "hobby",
-        "pursue",
-        "a",
-        "hobby"
+        "favorite hobby",
+        "pursue a hobby",
+        "take up a hobby",
+        "hobby shop"
       ]
     },
     {
@@ -216,44 +278,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "holded",
-        "past_participle": "holded",
-        "present_participle": "holding",
-        "third_person": "holds"
+        "plural": "holds",
+        "present_3rd": "holds",
+        "past": "held",
+        "past_participle": "held",
+        "ing": "holding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "hold",
-          "definition": "n. 把握, 把持力, 柄, 控制, 掌握, 监禁, vt. 保存, 握住, 拿住, 占据, 持有, 拥有, vi. 支持, 持续, 有效, n. 保留, [计] 保留"
+          "definition": "v. 握住、舉行、持有、保留  n. 把握、控制"
         }
       ],
       "examples": [
         {
-          "en": "She held the baby in her arms.",
+          "en": "The manager will hold a meeting at three o'clock.",
           "highlight": [
             "hold"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理將在三點鐘主持一場會議。"
+          }
+        },
+        {
+          "en": "She held the position of CFO for over a decade.",
+          "highlight": [
+            "held"
+          ],
+          "translations": {
+            "zh-TW": "她擔任財務長一職超過十年。"
+          }
+        },
+        {
+          "en": "The company is holding a press conference tomorrow morning.",
+          "highlight": [
+            "holding"
+          ],
+          "translations": {
+            "zh-TW": "公司明天早上將召開記者會。"
           }
         }
       ],
       "synonyms": [
         "grip",
-        "clasp"
+        "grasp",
+        "conduct"
       ],
       "antonyms": [
         "release",
-        "let",
-        "go"
+        "let go"
       ],
       "phrases": [
-        "hold",
-        "tightly",
-        "hold",
-        "onto"
+        "hold on",
+        "hold a meeting",
+        "hold up",
+        "hold a position"
       ]
     },
     {
@@ -268,44 +349,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "holeed",
-        "past_participle": "holeed",
-        "present_participle": "holing",
-        "third_person": "holes"
+        "plural": "holes",
+        "present_3rd": "holes",
+        "past": "holed",
+        "past_participle": "holed",
+        "ing": "holing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "hole",
-          "definition": "n. 孔, 洞, 穴, 漏洞, vt. 挖洞, 掘坑, vi. 进洞, 凿洞"
+          "definition": "n. 洞、孔、漏洞  v. 挖洞、鑿洞"
         }
       ],
       "examples": [
         {
-          "en": "There is a hole in the ground.",
+          "en": "There is a hole in the roof that needs immediate repair.",
           "highlight": [
             "hole"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "屋頂有個洞需要立即修理。"
+          }
+        },
+        {
+          "en": "The accountant found holes in the company's financial records.",
+          "highlight": [
+            "holes"
+          ],
+          "translations": {
+            "zh-TW": "會計師在公司財務記錄中發現了漏洞。"
+          }
+        },
+        {
+          "en": "The road was holed by the heavy construction equipment.",
+          "highlight": [
+            "holed"
+          ],
+          "translations": {
+            "zh-TW": "道路被重型施工設備挖出了坑洞。"
           }
         }
       ],
       "synonyms": [
         "cavity",
-        "gap"
+        "gap",
+        "opening"
       ],
       "antonyms": [
         "solid",
         "fill"
       ],
       "phrases": [
-        "small",
-        "hole",
-        "dig",
-        "a",
-        "hole"
+        "dig a hole",
+        "hole in one",
+        "black hole",
+        "hole up"
       ]
     },
     {
@@ -316,47 +416,61 @@
       "toeic_score_min": 200,
       "word": "holiday",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "holidayed",
-        "past_participle": "holidayed",
-        "present_participle": "holidaying",
-        "third_person": "holidays"
+        "plural": "holidays"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "holiday",
-          "definition": "n. 假日, 假期, 节日, vi. 度假"
+          "definition": "n. 假日、假期、節日"
         }
       ],
       "examples": [
         {
-          "en": "They went on a holiday to Greece.",
+          "en": "They went on holiday to Greece for two weeks.",
           "highlight": [
             "holiday"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他們去希臘度假兩個禮拜。"
+          }
+        },
+        {
+          "en": "The office will be closed during the public holidays next week.",
+          "highlight": [
+            "holidays"
+          ],
+          "translations": {
+            "zh-TW": "辦公室下週的國定假日將關閉。"
+          }
+        },
+        {
+          "en": "All employees are entitled to paid holidays under company policy.",
+          "highlight": [
+            "holidays"
+          ],
+          "translations": {
+            "zh-TW": "所有員工依公司政策享有帶薪假期。"
           }
         }
       ],
       "synonyms": [
         "vacation",
-        "break"
+        "break",
+        "leave"
       ],
       "antonyms": [
         "workday"
       ],
       "phrases": [
-        "summer",
-        "holiday",
-        "go",
-        "on",
-        "holiday"
+        "summer holiday",
+        "go on holiday",
+        "public holiday",
+        "paid holiday"
       ]
     },
     {
@@ -371,40 +485,61 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "hollows"
+        "plural": "hollows",
+        "comparative": "hollower",
+        "superlative": "hollowest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "hollow",
-          "definition": "n. 洞, 窟窿, 山谷, a. 空的, 虚伪的, 空腹的, 凹的, vi. 形成空洞, vt. 挖空"
+          "definition": "adj. 空的、空洞的、虛偽的  n. 洞、凹地"
         }
       ],
       "examples": [
         {
-          "en": "The tree was hollow inside.",
+          "en": "The hollow tree branch fell during the storm.",
           "highlight": [
             "hollow"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "那根中空的樹枝在暴風雨中折斷了。"
+          }
+        },
+        {
+          "en": "His hollow promises disappointed the entire team.",
+          "highlight": [
+            "hollow"
+          ],
+          "translations": {
+            "zh-TW": "他空洞的承諾讓整個團隊感到失望。"
+          }
+        },
+        {
+          "en": "Her excuse became hollower each time she repeated it.",
+          "highlight": [
+            "hollower"
+          ],
+          "translations": {
+            "zh-TW": "她的藉口每重複一次就顯得更空洞。"
           }
         }
       ],
       "synonyms": [
         "empty",
-        "void"
+        "void",
+        "vacant"
       ],
       "antonyms": [
         "solid",
         "filled"
       ],
       "phrases": [
-        "hollow",
-        "log",
-        "hollow",
-        "sound"
+        "hollow promise",
+        "hollow sound",
+        "hollow victory",
+        "hollow out"
       ]
     },
     {
@@ -426,34 +561,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "home",
-          "definition": "n. 家, 避難所, 故乡, a. 家庭的, 國内的, 打中目标的, adv. 在家, 在本國, 打中目标地, [计] 返回始位"
+          "definition": "n. 家、住所、故鄉  adv. 回家、在家"
         }
       ],
       "examples": [
         {
-          "en": "They bought a new home.",
+          "en": "They bought a new home near the train station.",
           "highlight": [
             "home"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他們在火車站附近買了一個新家。"
+          }
+        },
+        {
+          "en": "Many employees now work from homes equipped with high-speed internet.",
+          "highlight": [
+            "homes"
+          ],
+          "translations": {
+            "zh-TW": "許多員工現在在配備高速網路的家中工作。"
+          }
+        },
+        {
+          "en": "The sales representative flew home after a week-long business trip.",
+          "highlight": [
+            "home"
+          ],
+          "translations": {
+            "zh-TW": "業務代表在一週的出差後搭機返家。"
           }
         }
       ],
       "synonyms": [
         "house",
-        "residence"
+        "residence",
+        "household"
       ],
       "antonyms": [
         "office",
         "workplace"
       ],
       "phrases": [
-        "home",
-        "sweet",
-        "home",
-        "at",
-        "home"
+        "at home",
+        "home sweet home",
+        "work from home",
+        "go home"
       ]
     },
     {
@@ -464,47 +617,63 @@
       "toeic_score_min": 200,
       "word": "honest",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "honested",
-        "past_participle": "honested",
-        "present_participle": "honesting",
-        "third_person": "honests"
+        "comparative": "honester",
+        "superlative": "honestest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "honest",
-          "definition": "a. 诚實的, 坦直的, 可靠的"
+          "definition": "adj. 誠實的、坦白的、正直的"
         }
       ],
       "examples": [
         {
-          "en": "She is an honest person.",
+          "en": "She is an honest person who never lies to her clients.",
           "highlight": [
             "honest"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她是個誠實的人，從不對客戶說謊。"
+          }
+        },
+        {
+          "en": "To be honest, I do not think this proposal is feasible.",
+          "highlight": [
+            "honest"
+          ],
+          "translations": {
+            "zh-TW": "老實說，我認為這個提案不可行。"
+          }
+        },
+        {
+          "en": "His honest feedback helped the team improve the product.",
+          "highlight": [
+            "honest"
+          ],
+          "translations": {
+            "zh-TW": "他誠實的回饋幫助團隊改進了產品。"
           }
         }
       ],
       "synonyms": [
         "truthful",
-        "sincere"
+        "sincere",
+        "frank"
       ],
       "antonyms": [
         "dishonest",
         "deceitful"
       ],
       "phrases": [
-        "honest",
-        "opinion",
-        "honest",
-        "answer"
+        "honest opinion",
+        "honest answer",
+        "to be honest",
+        "honest mistake"
       ]
     }
   ]
