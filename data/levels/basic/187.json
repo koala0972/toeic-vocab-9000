@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 187,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-187-001",
@@ -11,46 +11,58 @@
       "toeic_score_min": 200,
       "word": "month",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "monthed",
-        "past_participle": "monthed",
-        "present_participle": "monthing",
-        "third_person": "months"
+        "plural": "months"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "month",
-          "definition": "n. 月, [經] 月"
+          "definition": "n. 月、月份"
         }
       ],
       "examples": [
         {
-          "en": "They will visit next month.",
+          "en": "The new branch office will open next month.",
           "highlight": [
             "month"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新的分公司將於下個月開幕。"
+          }
+        },
+        {
+          "en": "Sales rose sharply over the past six months.",
+          "highlight": [
+            "months"
+          ],
+          "translations": {
+            "zh-TW": "過去六個月來銷售額大幅攀升。"
+          }
+        },
+        {
+          "en": "Employees are paid at the end of each month.",
+          "highlight": [
+            "month"
+          ],
+          "translations": {
+            "zh-TW": "員工在每個月底領薪資。"
           }
         }
       ],
       "synonyms": [
-        "calendar",
-        "month",
-        "lunar",
-        "month"
+        "calendar month",
+        "lunar month"
       ],
       "antonyms": [],
       "phrases": [
-        "next",
-        "month",
-        "last",
-        "month"
+        "next month",
+        "last month",
+        "per month",
+        "month-end"
       ]
     },
     {
@@ -61,47 +73,61 @@
       "toeic_score_min": 200,
       "word": "mood",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "mooded",
-        "past_participle": "mooded",
-        "present_participle": "mooding",
-        "third_person": "moods"
+        "plural": "moods"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mood",
-          "definition": "n. 心情, 气氛, 生气, 基调, [医] 心境"
+          "definition": "n. 心情、情緒、氣氛"
         }
       ],
       "examples": [
         {
-          "en": "She is in a good mood.",
+          "en": "She was in a good mood after the promotion.",
           "highlight": [
             "mood"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她升遷後心情很好。"
+          }
+        },
+        {
+          "en": "His unpredictable moods made teamwork difficult.",
+          "highlight": [
+            "moods"
+          ],
+          "translations": {
+            "zh-TW": "他陰晴不定的情緒讓團隊合作變得困難。"
+          }
+        },
+        {
+          "en": "The soft lighting created a relaxed mood in the restaurant.",
+          "highlight": [
+            "mood"
+          ],
+          "translations": {
+            "zh-TW": "柔和的燈光為餐廳營造出輕鬆的氣氛。"
           }
         }
       ],
       "synonyms": [
         "temper",
-        "disposition"
+        "disposition",
+        "spirits"
       ],
       "antonyms": [
-        "indifference",
         "apathy"
       ],
       "phrases": [
-        "good",
-        "mood",
-        "bad",
-        "mood"
+        "in a good mood",
+        "bad mood",
+        "mood swing",
+        "set the mood"
       ]
     },
     {
@@ -116,40 +142,59 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "mooned",
+        "plural": "moons",
+        "past": "mooned",
         "past_participle": "mooned",
-        "present_participle": "mooning",
-        "third_person": "moons"
+        "present_3rd": "moons",
+        "ing": "mooning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "moon",
-          "definition": "n. 月亮, 月球, 月光, vi. 闲荡, vt. 虚度"
+          "definition": "n. 月亮、月球  vi. 閒蕩、虚度光陰"
         }
       ],
       "examples": [
         {
-          "en": "The moon is full tonight.",
+          "en": "A full moon rose over the harbour.",
           "highlight": [
             "moon"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "滿月從港口上方升起。"
+          }
+        },
+        {
+          "en": "Saturn has more than eighty confirmed moons.",
+          "highlight": [
+            "moons"
+          ],
+          "translations": {
+            "zh-TW": "土星有超過八十顆已確認的衛星。"
+          }
+        },
+        {
+          "en": "He spent the afternoon mooning around the park.",
+          "highlight": [
+            "mooning"
+          ],
+          "translations": {
+            "zh-TW": "他整個下午都在公園裡虛度光陰。"
           }
         }
       ],
       "synonyms": [
         "satellite",
-        "crescent"
+        "lunar body"
       ],
       "antonyms": [],
       "phrases": [
-        "full",
-        "moon",
-        "crescent",
-        "moon"
+        "full moon",
+        "new moon",
+        "moonlight",
+        "once in a blue moon"
       ]
     },
     {
@@ -164,40 +209,61 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "morals"
+        "plural": "morals",
+        "comparative": "more moral",
+        "superlative": "most moral"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "moral",
-          "definition": "n. 道德, 品行, 寓意, a. 道德的, 品性端正的, 精神上的"
+          "definition": "adj. 道德的、品性端正的  n. 道德、寓意"
         }
       ],
       "examples": [
         {
-          "en": "He has a strong moral sense.",
+          "en": "The manager has a strong moral sense.",
           "highlight": [
             "moral"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位經理有很強的道德感。"
+          }
+        },
+        {
+          "en": "It is more moral to act honestly than to cut corners.",
+          "highlight": [
+            "more moral"
+          ],
+          "translations": {
+            "zh-TW": "誠實行事比投機取巧更具道德。"
+          }
+        },
+        {
+          "en": "The story teaches children important morals.",
+          "highlight": [
+            "morals"
+          ],
+          "translations": {
+            "zh-TW": "這個故事教導孩子們重要的道德觀。"
           }
         }
       ],
       "synonyms": [
         "ethical",
-        "virtuous"
+        "virtuous",
+        "righteous"
       ],
       "antonyms": [
         "immoral",
         "unethical"
       ],
       "phrases": [
-        "moral",
-        "values",
-        "moral",
-        "sense"
+        "moral values",
+        "moral sense",
+        "moral support",
+        "moral dilemma"
       ]
     },
     {
@@ -209,44 +275,61 @@
       "word": "more",
       "pos": [
         "adjective",
+        "adverb",
         "pronoun"
       ],
-      "conjugations": {
-        "comparative": "moreer",
-        "superlative": "moreest"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "more",
-          "definition": "n. 更多, a. 多的, 程度较大的, 更大的, adv. 多, 更多, 进一步, [计] DOS外部命令:顯示满屏後自動暂停, 并顯示:\"--More--\", 按任意键继续"
+          "definition": "adj. 更多的  adv. 更多、更  pron. 更多"
         }
       ],
       "examples": [
         {
-          "en": "She needs more time to finish.",
+          "en": "We need more time to review the contract.",
           "highlight": [
             "more"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們需要更多時間審閱合約。"
+          }
+        },
+        {
+          "en": "Could you give us more details about the proposal?",
+          "highlight": [
+            "more"
+          ],
+          "translations": {
+            "zh-TW": "能否提供更多關於這項提案的細節？"
+          }
+        },
+        {
+          "en": "More and more customers prefer online shopping.",
+          "highlight": [
+            "More"
+          ],
+          "translations": {
+            "zh-TW": "越來越多的消費者偏好線上購物。"
           }
         }
       ],
       "synonyms": [
         "additional",
-        "extra"
+        "extra",
+        "further"
       ],
       "antonyms": [
         "less",
         "fewer"
       ],
       "phrases": [
-        "more",
-        "time",
-        "more",
-        "information"
+        "more time",
+        "more information",
+        "more and more",
+        "more or less"
       ]
     },
     {
@@ -265,31 +348,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "moreover",
-          "definition": "adv. 而且, 此外"
+          "definition": "adv. 而且、此外、再者"
         }
       ],
       "examples": [
         {
-          "en": "Moreover, he is always on time.",
+          "en": "The report is incomplete; moreover, it contains several errors.",
           "highlight": [
             "moreover"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這份報告不完整，而且還包含幾處錯誤。"
+          }
+        },
+        {
+          "en": "The hotel is centrally located; moreover, the staff are attentive.",
+          "highlight": [
+            "moreover"
+          ],
+          "translations": {
+            "zh-TW": "這家旅館位於市中心，再者員工也很細心。"
+          }
+        },
+        {
+          "en": "Sales grew this quarter; moreover, profit margins improved.",
+          "highlight": [
+            "moreover"
+          ],
+          "translations": {
+            "zh-TW": "本季銷售額成長，此外利潤率也有所提升。"
           }
         }
       ],
       "synonyms": [
         "furthermore",
-        "besides"
+        "besides",
+        "in addition"
       ],
       "antonyms": [
         "however",
         "nevertheless"
       ],
       "phrases": [
-        "moreover",
-        "furthermore"
+        "moreover clause",
+        "and moreover",
+        "moreover advantages"
       ]
     },
     {
@@ -300,8 +403,7 @@
       "toeic_score_min": 200,
       "word": "morning",
       "pos": [
-        "noun",
-        "adverb"
+        "noun"
       ],
       "conjugations": {
         "plural": "mornings"
@@ -311,33 +413,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "morning",
-          "definition": "n. 早晨, 早上, 初期"
+          "definition": "n. 早晨、早上、初期"
         }
       ],
       "examples": [
         {
-          "en": "She drinks coffee every morning.",
+          "en": "The meeting is scheduled for Monday morning.",
           "highlight": [
             "morning"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "會議安排在星期一早上。"
+          }
+        },
+        {
+          "en": "The shop opens early on weekend mornings.",
+          "highlight": [
+            "mornings"
+          ],
+          "translations": {
+            "zh-TW": "這家店週末早上很早就開門。"
+          }
+        },
+        {
+          "en": "She reviews her emails first thing every morning.",
+          "highlight": [
+            "morning"
+          ],
+          "translations": {
+            "zh-TW": "她每天早上第一件事就是查看電子郵件。"
           }
         }
       ],
       "synonyms": [
         "dawn",
-        "forenoon"
+        "forenoon",
+        "sunrise"
       ],
       "antonyms": [
         "evening",
         "night"
       ],
       "phrases": [
-        "every",
-        "morning",
-        "early",
-        "morning"
+        "good morning",
+        "every morning",
+        "early morning",
+        "morning shift"
       ]
     },
     {
@@ -349,43 +470,61 @@
       "word": "most",
       "pos": [
         "adjective",
-        "noun"
+        "adverb",
+        "pronoun"
       ],
-      "conjugations": {
-        "plural": "mosts"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "most",
-          "definition": "n. 最多, 最大, a. 大多数的, 几乎全部的, 最多的, adv. 最, 最多, 极其"
+          "definition": "adj. 大多數的、最多的  adv. 最、極其  pron. 大多數"
         }
       ],
       "examples": [
         {
-          "en": "He has the most experience.",
+          "en": "Most employees prefer a flexible work schedule.",
+          "highlight": [
+            "Most"
+          ],
+          "translations": {
+            "zh-TW": "大多數員工偏好彈性的工作時間。"
+          }
+        },
+        {
+          "en": "She is the most experienced member of the team.",
           "highlight": [
             "most"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她是團隊中經驗最豐富的成員。"
+          }
+        },
+        {
+          "en": "Most of the budget goes to research and development.",
+          "highlight": [
+            "Most"
+          ],
+          "translations": {
+            "zh-TW": "預算的大半用於研究與開發。"
           }
         }
       ],
       "synonyms": [
         "greatest",
-        "highest"
+        "highest",
+        "majority"
       ],
       "antonyms": [
         "least",
         "fewest"
       ],
       "phrases": [
-        "the",
-        "most",
-        "most",
-        "of"
+        "the most",
+        "most of",
+        "make the most of",
+        "most likely"
       ]
     },
     {
@@ -404,33 +543,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "mostly",
-          "definition": "adv. 大概, 大部分, 主要, [經] 大部份"
+          "definition": "adv. 大部分、主要、多半"
         }
       ],
       "examples": [
         {
-          "en": "She is mostly happy.",
+          "en": "Our clients are mostly small businesses.",
           "highlight": [
             "mostly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們的客戶多數是小型企業。"
+          }
+        },
+        {
+          "en": "The weather in spring is mostly sunny here.",
+          "highlight": [
+            "mostly"
+          ],
+          "translations": {
+            "zh-TW": "這裡春天的天氣多半晴朗。"
+          }
+        },
+        {
+          "en": "She mostly handles customer complaints by phone.",
+          "highlight": [
+            "mostly"
+          ],
+          "translations": {
+            "zh-TW": "她主要透過電話處理顧客投訴。"
           }
         }
       ],
       "synonyms": [
         "mainly",
-        "chiefly"
+        "chiefly",
+        "largely"
       ],
       "antonyms": [
-        "seldom",
-        "rarely"
+        "rarely",
+        "seldom"
       ],
       "phrases": [
-        "mostly",
-        "sunny",
-        "mostly",
-        "true"
+        "mostly sunny",
+        "mostly true",
+        "mostly fine"
       ]
     },
     {
@@ -445,43 +602,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "mothered",
+        "plural": "mothers",
+        "past": "mothered",
         "past_participle": "mothered",
-        "present_participle": "mothering",
-        "third_person": "mothers"
+        "present_3rd": "mothers",
+        "ing": "mothering"
       },
-      "domain": "general",
+      "domain": "family",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mother",
-          "definition": "n. 母亲, 修女院長, vt. 产生, 照看, 收养"
+          "definition": "n. 母親、媽媽  v. 像母親般照顧、呵護"
         }
       ],
       "examples": [
         {
-          "en": "My mother is a great cook.",
+          "en": "Her mother works at a bank downtown.",
           "highlight": [
             "mother"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她的母親在市中心的一家銀行工作。"
+          }
+        },
+        {
+          "en": "Many working mothers struggle to balance career and family.",
+          "highlight": [
+            "mothers"
+          ],
+          "translations": {
+            "zh-TW": "許多職業母親在工作與家庭之間難以取得平衡。"
+          }
+        },
+        {
+          "en": "She mothered her younger colleagues when they first joined.",
+          "highlight": [
+            "mothered"
+          ],
+          "translations": {
+            "zh-TW": "當年輕同事剛加入時，她像母親般照顧他們。"
           }
         }
       ],
       "synonyms": [
         "mom",
-        "mama"
+        "mum",
+        "parent"
       ],
       "antonyms": [
-        "father",
-        "dad"
+        "father"
       ],
       "phrases": [
-        "loving",
-        "mother",
-        "new",
-        "mother"
+        "mother tongue",
+        "single mother",
+        "mother figure",
+        "working mother"
       ]
     }
   ]
