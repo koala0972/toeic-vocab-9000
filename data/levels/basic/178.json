@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 178,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-178-001",
@@ -11,45 +11,59 @@
       "toeic_score_min": 200,
       "word": "manner",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "mannered",
-        "past_participle": "mannered",
-        "present_participle": "mannering",
-        "third_person": "manners"
+        "plural": "manners"
       },
-      "domain": "general",
+      "domain": "etiquette",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "manner",
-          "definition": "n. 樣子, 礼貌, 風格, [法] 方式, 方法, 樣式"
+          "definition": "n. 方式、態度；禮貌（複數）"
         }
       ],
       "examples": [
         {
-          "en": "She spoke in a friendly manner.",
+          "en": "The manager spoke to the client in a professional manner.",
           "highlight": [
             "manner"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理以專業的態度與客戶交談。"
+          }
+        },
+        {
+          "en": "Good manners are essential in any business setting.",
+          "highlight": [
+            "manners"
+          ],
+          "translations": {
+            "zh-TW": "良好的禮儀在任何商業場合都是不可或缺的。"
+          }
+        },
+        {
+          "en": "She handled the complaint in a calm and courteous manner.",
+          "highlight": [
+            "manner"
+          ],
+          "translations": {
+            "zh-TW": "她以冷靜且有禮的方式處理了這件投訴。"
           }
         }
       ],
       "synonyms": [
+        "way",
         "style",
         "approach"
       ],
       "antonyms": [],
       "phrases": [
-        "friendly",
-        "manner",
-        "in",
-        "a",
-        "manner"
+        "good manners",
+        "table manners",
+        "in a manner",
+        "professional manner"
       ]
     },
     {
@@ -64,43 +78,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "manufactureed",
-        "past_participle": "manufactureed",
-        "present_participle": "manufacturing",
-        "third_person": "manufactures"
+        "plural": "manufactures",
+        "present_3rd": "manufactures",
+        "past": "manufactured",
+        "past_participle": "manufactured",
+        "ing": "manufacturing"
       },
-      "domain": "general",
+      "domain": "industry",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "manufacture",
-          "definition": "n. 产品, 制造, vt. 制造, 假造, vi. 制造"
+          "definition": "v. 製造、生產  n. 製造業、產品"
         }
       ],
       "examples": [
         {
-          "en": "The company manufactures cars.",
+          "en": "The factory manufactures electronic components for major brands.",
           "highlight": [
-            "manufacture"
+            "manufactures"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這間工廠為各大品牌製造電子零件。"
+          }
+        },
+        {
+          "en": "The new model was manufactured at our plant in Vietnam.",
+          "highlight": [
+            "manufactured"
+          ],
+          "translations": {
+            "zh-TW": "這款新型號是在我們位於越南的工廠製造的。"
+          }
+        },
+        {
+          "en": "They are manufacturing the vaccine on a massive scale.",
+          "highlight": [
+            "manufacturing"
+          ],
+          "translations": {
+            "zh-TW": "他們正在大規模製造這款疫苗。"
           }
         }
       ],
       "synonyms": [
         "produce",
-        "create"
+        "make",
+        "fabricate"
       ],
       "antonyms": [
         "destroy",
         "dismantle"
       ],
       "phrases": [
-        "manufacture",
-        "cars",
-        "manufacture",
-        "goods"
+        "manufacture goods",
+        "manufacture process",
+        "domestic manufacture",
+        "mass manufacture"
       ]
     },
     {
@@ -111,47 +145,62 @@
       "toeic_score_min": 200,
       "word": "manufacturer",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "manufacturered",
-        "past_participle": "manufacturered",
-        "present_participle": "manufacturering",
-        "third_person": "manufacturers"
+        "plural": "manufacturers"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "manufacturer",
-          "definition": "n. 制造业者, 厂商, [經] 制造人, 制造商, 制造厂"
+          "definition": "n. 製造商、製造廠、廠商"
         }
       ],
       "examples": [
         {
-          "en": "The manufacturer issued a recall.",
+          "en": "The manufacturer issued a safety recall for the defective toys.",
           "highlight": [
             "manufacturer"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "製造商對有缺陷的玩具發出了安全回收通知。"
+          }
+        },
+        {
+          "en": "Several manufacturers lowered their prices to stay competitive.",
+          "highlight": [
+            "manufacturers"
+          ],
+          "translations": {
+            "zh-TW": "為了保持競爭力，多家廠商調降了價格。"
+          }
+        },
+        {
+          "en": "The leading manufacturer has plant sites across three countries.",
+          "highlight": [
+            "manufacturer"
+          ],
+          "translations": {
+            "zh-TW": "這家領先的製造商在三個國家設有工廠。"
           }
         }
       ],
       "synonyms": [
         "producer",
-        "maker"
+        "maker",
+        "builder"
       ],
       "antonyms": [
         "consumer",
         "customer"
       ],
       "phrases": [
-        "car",
-        "manufacturer",
-        "leading",
-        "manufacturer"
+        "original manufacturer",
+        "car manufacturer",
+        "leading manufacturer",
+        "manufacturer warranty"
       ]
     },
     {
@@ -165,42 +214,58 @@
         "adjective",
         "pronoun"
       ],
-      "conjugations": {
-        "comparative": "manier",
-        "superlative": "maniest"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "many",
-          "definition": "n. 多数, 多数人, a. 许多的, pron. 许多"
+          "definition": "adj. 許多的、很多的  pron. 許多"
         }
       ],
       "examples": [
         {
-          "en": "There are many options.",
+          "en": "Many employees attended the training session last Friday.",
           "highlight": [
             "many"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "許多員工參加了上週五的培訓課程。"
+          }
+        },
+        {
+          "en": "Many of the applicants lacked relevant work experience.",
+          "highlight": [
+            "many"
+          ],
+          "translations": {
+            "zh-TW": "許多求職者缺乏相關的工作經驗。"
+          }
+        },
+        {
+          "en": "She has written many reports since taking on the new role.",
+          "highlight": [
+            "many"
+          ],
+          "translations": {
+            "zh-TW": "她自從接下新職務以來已撰寫了許多報告。"
           }
         }
       ],
       "synonyms": [
         "numerous",
-        "multiple"
+        "multiple",
+        "plenty of"
       ],
       "antonyms": [
         "few",
         "little"
       ],
       "phrases": [
-        "many",
-        "people",
-        "many",
-        "options"
+        "many people",
+        "many times",
+        "how many",
+        "as many as"
       ]
     },
     {
@@ -215,41 +280,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "maped",
-        "past_participle": "maped",
-        "present_participle": "maping",
-        "third_person": "maps"
+        "plural": "maps",
+        "present_3rd": "maps",
+        "past": "mapped",
+        "past_participle": "mapped",
+        "ing": "mapping"
       },
-      "domain": "general",
+      "domain": "geography",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "map",
-          "definition": "n. 地图, 天体图, 映像, vt. 映射, 绘制...地图, 计划, [计] 實用程序, 映射, 制造自動化协議"
+          "definition": "n. 地圖  v. 繪製地圖、規劃、對應"
         }
       ],
       "examples": [
         {
-          "en": "She looked at the map.",
+          "en": "The tourist picked up a city map at the hotel front desk.",
           "highlight": [
             "map"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位旅客在飯店櫃台拿了一張城市地圖。"
+          }
+        },
+        {
+          "en": "The analyst mapped the customer journey across all touchpoints.",
+          "highlight": [
+            "mapped"
+          ],
+          "translations": {
+            "zh-TW": "分析師將顧客旅程對應到所有接觸點上。"
+          }
+        },
+        {
+          "en": "The team is mapping out the new delivery routes for next quarter.",
+          "highlight": [
+            "mapping"
+          ],
+          "translations": {
+            "zh-TW": "團隊正在規劃下季新的配送路線。"
           }
         }
       ],
       "synonyms": [
         "chart",
-        "plan"
+        "plan",
+        "guide"
       ],
       "antonyms": [],
       "phrases": [
-        "look",
-        "at",
-        "the",
-        "map",
-        "road"
+        "road map",
+        "map out",
+        "mind map",
+        "off the map"
       ]
     },
     {
@@ -260,39 +344,64 @@
       "toeic_score_min": 200,
       "word": "march",
       "pos": [
-        "noun",
-        "proper",
+        "verb",
         "noun"
       ],
       "conjugations": {
-        "plural": "marchs"
+        "plural": "marches",
+        "present_3rd": "marches",
+        "past": "marched",
+        "past_participle": "marched",
+        "ing": "marching"
       },
-      "domain": "general",
+      "domain": "time",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "march",
-          "definition": "n. 三月, 进行, 行军, 步伐, 長途跋涉, 进行曲, 边界, vi. 进军, 前进, 交界, vt. 使行军, 使行进"
+          "definition": "n. 三月；行軍、遊行  v. 行進、前進"
         }
       ],
       "examples": [
         {
-          "en": "March is a windy month.",
+          "en": "March is the busiest month for our annual sales report.",
           "highlight": [
-            "march"
+            "March"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "三月是我們年度銷售報告最繁忙的月份。"
+          }
+        },
+        {
+          "en": "Thousands marched through downtown to demand better working conditions.",
+          "highlight": [
+            "marched"
+          ],
+          "translations": {
+            "zh-TW": "數千人遊行穿過市中心，要求改善工作條件。"
+          }
+        },
+        {
+          "en": "The troops were marching toward the training field at dawn.",
+          "highlight": [
+            "marching"
+          ],
+          "translations": {
+            "zh-TW": "軍隊在黎明時分行進前往訓練場。"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "walk",
+        "stride",
+        "parade"
+      ],
       "antonyms": [],
       "phrases": [
-        "March",
-        "weather",
-        "March",
-        "1st"
+        "march on",
+        "march ahead",
+        "on the march",
+        "march in"
       ]
     },
     {
@@ -307,41 +416,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "marked",
+        "plural": "marks",
+        "present_3rd": "marks",
+        "past": "marked",
         "past_participle": "marked",
-        "present_participle": "marking",
-        "third_person": "marks"
+        "ing": "marking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mark",
-          "definition": "n. 标志, 分数, 馬克, 痕迹, 斑點, 靶子, 刻度, 記號, 符號, 戳記, 标准, 起跑线, vt. 做标記于, 留意, 打分数, 表明, 标志, 記录, vi. 作記號, 記得分, [计] 标志; 标記; 传號"
+          "definition": "n. 標記、分數、痕跡  v. 標記、評分、表明"
         }
       ],
       "examples": [
         {
-          "en": "He marked the spot on the map.",
+          "en": "The teacher gave her essay a high mark for originality.",
           "highlight": [
             "mark"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "老師因為她的原創性而給這篇文章打了高分。"
+          }
+        },
+        {
+          "en": "The inspector marked each approved item with a green sticker.",
+          "highlight": [
+            "marked"
+          ],
+          "translations": {
+            "zh-TW": "檢查員在每件合格物品上貼了綠色標籤作為記號。"
+          }
+        },
+        {
+          "en": "The CEO is marking the company's twentieth anniversary this month.",
+          "highlight": [
+            "marking"
+          ],
+          "translations": {
+            "zh-TW": "執行長這個月正在慶祝公司成立二十週年。"
           }
         }
       ],
       "synonyms": [
+        "sign",
         "spot",
-        "sign"
+        "grade"
       ],
       "antonyms": [],
       "phrases": [
-        "mark",
-        "the",
-        "spot",
-        "mark",
-        "on"
+        "mark the spot",
+        "make a mark",
+        "trade mark",
+        "mark down"
       ]
     },
     {
@@ -356,40 +484,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "marketed",
+        "plural": "markets",
+        "present_3rd": "markets",
+        "past": "marketed",
         "past_participle": "marketed",
-        "present_participle": "marketing",
-        "third_person": "markets"
+        "ing": "marketing"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "market",
-          "definition": "n. 市場, 交易, 集市, 推销地區, 行情, 市面, 销路, vt. 在市場上交易, 使上市, 销售, vi. 在市場上買賣"
+          "definition": "n. 市場、行情  v. 行銷、銷售"
         }
       ],
       "examples": [
         {
-          "en": "She went to the market to buy vegetables.",
+          "en": "The local market opens early every Saturday morning.",
           "highlight": [
             "market"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "當地市場每個星期六一大早就開門了。"
+          }
+        },
+        {
+          "en": "The startup successfully marketed its app to younger users.",
+          "highlight": [
+            "marketed"
+          ],
+          "translations": {
+            "zh-TW": "這家新創公司成功地把它的應用程式行銷給年輕族群。"
+          }
+        },
+        {
+          "en": "They are marketing the product as an eco-friendly alternative.",
+          "highlight": [
+            "marketing"
+          ],
+          "translations": {
+            "zh-TW": "他們正在將該產品行銷為環保替代方案。"
           }
         }
       ],
       "synonyms": [
+        "marketplace",
         "bazaar",
-        "marketplace"
+        "trade"
       ],
       "antonyms": [],
       "phrases": [
-        "farmers",
-        "market",
-        "market",
-        "value"
+        "stock market",
+        "market share",
+        "target market",
+        "farmers' market"
       ]
     },
     {
@@ -400,44 +548,57 @@
       "toeic_score_min": 200,
       "word": "marketing",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
-      "conjugations": {
-        "past_tense": "marketinged",
-        "past_participle": "marketinged",
-        "present_participle": "marketinging",
-        "third_person": "marketings"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "marketing",
-          "definition": "n. 行销, 買賣, [經] 推销, 在市場買賣, 销售"
+          "definition": "n. 行銷、市場推廣、行銷學"
         }
       ],
       "examples": [
         {
-          "en": "He works in marketing.",
+          "en": "Marketing plays a key role in launching any new product.",
+          "highlight": [
+            "Marketing"
+          ],
+          "translations": {
+            "zh-TW": "行銷在任何新產品上市的過程中都扮演關鍵角色。"
+          }
+        },
+        {
+          "en": "She leads a small marketing team of five people.",
           "highlight": [
             "marketing"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她帶領一個五人的小型行銷團隊。"
+          }
+        },
+        {
+          "en": "Effective marketing strategies can boost sales by twenty percent.",
+          "highlight": [
+            "marketing"
+          ],
+          "translations": {
+            "zh-TW": "有效的行銷策略可以提升百分之二十的銷售額。"
           }
         }
       ],
       "synonyms": [
         "advertising",
-        "promotion"
+        "promotion",
+        "sales"
       ],
       "antonyms": [],
       "phrases": [
-        "marketing",
-        "strategy",
-        "marketing",
-        "campaign"
+        "marketing strategy",
+        "marketing campaign",
+        "digital marketing",
+        "marketing department"
       ]
     },
     {
@@ -448,47 +609,62 @@
       "toeic_score_min": 200,
       "word": "marriage",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "marriageed",
-        "past_participle": "marriageed",
-        "present_participle": "marriaging",
-        "third_person": "marriages"
+        "plural": "marriages"
       },
-      "domain": "general",
+      "domain": "life",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "marriage",
-          "definition": "n. 婚姻, 結婚, 婚礼, 合并, [医] 婚姻, 結婚"
+          "definition": "n. 婚姻、結婚、結合"
         }
       ],
       "examples": [
         {
-          "en": "Their marriage ceremony was beautiful.",
+          "en": "Their marriage has lasted for more than thirty years.",
           "highlight": [
             "marriage"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他們的婚姻已經持續了三十多年。"
+          }
+        },
+        {
+          "en": "Inter-cultural marriages have become more common in recent years.",
+          "highlight": [
+            "marriages"
+          ],
+          "translations": {
+            "zh-TW": "近年來跨文化的婚姻變得更加普遍。"
+          }
+        },
+        {
+          "en": "The couple celebrated their marriage with a small ceremony.",
+          "highlight": [
+            "marriage"
+          ],
+          "translations": {
+            "zh-TW": "這對新人以一場小型儀式慶祝他們的婚事。"
           }
         }
       ],
       "synonyms": [
+        "wedding",
         "union",
-        "wedding"
+        "matrimony"
       ],
       "antonyms": [
         "divorce",
         "separation"
       ],
       "phrases": [
-        "happy",
-        "marriage",
-        "marriage",
-        "ceremony"
+        "marriage ceremony",
+        "happy marriage",
+        "marriage license",
+        "arranged marriage"
       ]
     }
   ]
