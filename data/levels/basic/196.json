@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 196,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-196-001",
@@ -20,31 +20,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "not",
-          "definition": "adv. 不, 非, 未, [计] 非"
+          "definition": "adv. 不、非、未  conj. 並非"
         }
       ],
       "examples": [
         {
-          "en": "She is not coming to the party.",
+          "en": "I am not sure whether the contract was signed yesterday.",
           "highlight": [
             "not"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我不確定那份合約昨天是否已經簽署。"
+          }
+        },
+        {
+          "en": "She is not attending the meeting because she feels unwell.",
+          "highlight": [
+            "not"
+          ],
+          "translations": {
+            "zh-TW": "她因為身體不舒服，所以沒有出席會議。"
+          }
+        },
+        {
+          "en": "The report was not finished by the deadline, which worried the manager.",
+          "highlight": [
+            "not"
+          ],
+          "translations": {
+            "zh-TW": "報告未能在截止日期前完成，這讓經理很擔心。"
           }
         }
       ],
       "synonyms": [
-        "no"
+        "no",
+        "never",
+        "non-"
       ],
       "antonyms": [
-        "yes"
+        "yes",
+        "indeed"
       ],
       "phrases": [
-        "not",
-        "going",
-        "not",
-        "sure"
+        "not only",
+        "not at all",
+        "not yet",
+        "not to mention"
       ]
     },
     {
@@ -59,40 +80,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "noteed",
-        "past_participle": "noteed",
-        "present_participle": "noting",
-        "third_person": "notes"
+        "plural": "notes",
+        "present_3rd": "notes",
+        "past": "noted",
+        "past_participle": "noted",
+        "ing": "noting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "note",
-          "definition": "n. 笔記, 記录, 注解, 票据, 符號, 顯要, 注重, 便笺, 照會, vt. 記录, 注解, 注意"
+          "definition": "n. 筆記、便條、備忘錄、音符  v. 記錄、注意、提及"
         }
       ],
       "examples": [
         {
-          "en": "He took note of the changes.",
+          "en": "Please leave a note on the door if the client visits while I am out.",
           "highlight": [
             "note"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "如果客戶在我外出時來訪，請在門上留一張便條。"
+          }
+        },
+        {
+          "en": "She noted the customer's complaint and promised to follow up the next morning.",
+          "highlight": [
+            "noted"
+          ],
+          "translations": {
+            "zh-TW": "她記下了顧客的投訴，並承諾隔天早上跟進。"
+          }
+        },
+        {
+          "en": "Noting the decline in sales, the director called an urgent team meeting.",
+          "highlight": [
+            "Noting"
+          ],
+          "translations": {
+            "zh-TW": "注意到銷售下滑，主管召開了緊急團隊會議。"
           }
         }
       ],
       "synonyms": [
         "memo",
-        "reminder"
+        "reminder",
+        "record"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "ignore",
+        "disregard"
+      ],
       "phrases": [
-        "take",
-        "note",
-        "note",
-        "down"
+        "take note of",
+        "leave a note",
+        "sticky note",
+        "make a note"
       ]
     },
     {
@@ -111,31 +155,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "nothing",
-          "definition": "n. 无, 不關紧要之事, 零, adv. 毫不, 决不, interj. 什麼也没有, 无"
+          "definition": "pron. 無事、沒有任何東西  adv. 毫不、決不"
         }
       ],
       "examples": [
         {
-          "en": "There is nothing to worry about.",
+          "en": "There is nothing in the fridge, so we should order takeout tonight.",
           "highlight": [
             "nothing"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "冰箱裡什麼都沒有，所以今晚我們應該點外賣。"
+          }
+        },
+        {
+          "en": "She said nothing during the negotiation, which made the other side nervous.",
+          "highlight": [
+            "nothing"
+          ],
+          "translations": {
+            "zh-TW": "她在談判過程中一言不發，這讓對方感到緊張。"
+          }
+        },
+        {
+          "en": "Nothing is more important than the safety of our employees.",
+          "highlight": [
+            "Nothing"
+          ],
+          "translations": {
+            "zh-TW": "沒有什麼比我們員工的安全更重要。"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "zero",
+        "nil",
+        "nada"
+      ],
       "antonyms": [
         "everything",
         "anything"
       ],
       "phrases": [
-        "nothing",
-        "to",
-        "do",
-        "nothing",
-        "much"
+        "nothing to do with",
+        "nothing much",
+        "all or nothing",
+        "come to nothing"
       ]
     },
     {
@@ -150,44 +215,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "noticeed",
-        "past_participle": "noticeed",
-        "present_participle": "noticing",
-        "third_person": "notices"
+        "plural": "notices",
+        "present_3rd": "notices",
+        "past": "noticed",
+        "past_participle": "noticed",
+        "ing": "noticing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "notice",
-          "definition": "n. 注意, 布告, 通知, 预告, 短评, vt. 注意, 通知, 评论, 提及, 關注, vi. 注意"
+          "definition": "n. 注意、公告、通知、預告  v. 注意到、留意、評論"
         }
       ],
       "examples": [
         {
-          "en": "Did you notice the difference?",
+          "en": "Please read the notice on the bulletin board before submitting your application.",
           "highlight": [
             "notice"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "提交申請前，請先閱讀佈告欄上的公告。"
+          }
+        },
+        {
+          "en": "The supervisor noticed a small error in the financial report during the audit.",
+          "highlight": [
+            "noticed"
+          ],
+          "translations": {
+            "zh-TW": "在審計期間，主管注意到財務報表中有一個小錯誤。"
+          }
+        },
+        {
+          "en": "Noticing the smoke from the kitchen, the waiter quickly alerted the manager.",
+          "highlight": [
+            "Noticing"
+          ],
+          "translations": {
+            "zh-TW": "注意到廚房冒出的煙，服務生迅速通知了經理。"
           }
         }
       ],
       "synonyms": [
         "observe",
-        "perceive"
+        "perceive",
+        "detect"
       ],
       "antonyms": [
         "ignore",
         "overlook"
       ],
       "phrases": [
-        "did",
-        "you",
-        "notice",
-        "notice",
-        "the"
+        "give notice",
+        "take notice of",
+        "at short notice",
+        "until further notice"
       ]
     },
     {
@@ -198,44 +282,63 @@
       "toeic_score_min": 200,
       "word": "noticeable",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "noticeables"
+        "comparative": "more noticeable",
+        "superlative": "most noticeable"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "noticeable",
-          "definition": "a. 顯而易见的, 顯著的, 值得注意的"
+          "definition": "adj. 顯而易見的、顯著的、值得注意的"
         }
       ],
       "examples": [
         {
-          "en": "The change was noticeable.",
+          "en": "There has been a noticeable improvement in her English since she started studying every day.",
           "highlight": [
             "noticeable"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "自從她每天學習以來，她的英文有明顯的進步。"
+          }
+        },
+        {
+          "en": "The difference in quality between the two products was more noticeable than the team expected.",
+          "highlight": [
+            "more noticeable"
+          ],
+          "translations": {
+            "zh-TW": "兩款產品在品質上的差異比團隊預期的更為明顯。"
+          }
+        },
+        {
+          "en": "The strangest and most noticeable feature of the building is its bright blue roof.",
+          "highlight": [
+            "most noticeable"
+          ],
+          "translations": {
+            "zh-TW": "這棟建築最奇特也最顯眼的特色，就是它那鮮藍色的屋頂。"
           }
         }
       ],
       "synonyms": [
         "visible",
-        "evident"
+        "evident",
+        "obvious"
       ],
       "antonyms": [
         "invisible",
-        "unnoticed"
+        "unnoticed",
+        "subtle"
       ],
       "phrases": [
-        "noticeable",
-        "change",
-        "noticeable",
-        "improvement"
+        "noticeable change",
+        "noticeable improvement",
+        "noticeable difference"
       ]
     },
     {
@@ -247,47 +350,63 @@
       "word": "novel",
       "pos": [
         "noun",
-        "verb"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "noveled",
-        "past_participle": "noveled",
-        "present_participle": "noveling",
-        "third_person": "novels"
+        "plural": "novels"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "novel",
-          "definition": "n. 小說, 長篇故事, a. 新奇的, 异常的"
+          "definition": "n. 小說、長篇故事  adj. 新奇的、新穎的"
         }
       ],
       "examples": [
         {
-          "en": "She wrote a new novel.",
+          "en": "Her first novel became a bestseller within only three months of publication.",
           "highlight": [
             "novel"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她的第一部小說在出版僅三個月內就成為暢銷書。"
+          }
+        },
+        {
+          "en": "He bought two novels at the airport bookshop to read during the long flight.",
+          "highlight": [
+            "novels"
+          ],
+          "translations": {
+            "zh-TW": "他在機場書店買了兩本小說，以便在漫長的飛行中閱讀。"
+          }
+        },
+        {
+          "en": "The company introduced a novel approach to customer service that impressed the industry.",
+          "highlight": [
+            "novel"
+          ],
+          "translations": {
+            "zh-TW": "公司引入了一種新穎的客服方式，令業界印象深刻。"
           }
         }
       ],
       "synonyms": [
         "book",
-        "story"
+        "story",
+        "innovative"
       ],
       "antonyms": [
         "nonfiction",
-        "reality"
+        "classic",
+        "old"
       ],
       "phrases": [
-        "write",
-        "a",
-        "novel",
-        "new",
-        "novel"
+        "bestselling novel",
+        "novel idea",
+        "novel approach",
+        "write a novel"
       ]
     },
     {
@@ -299,12 +418,9 @@
       "word": "november",
       "pos": [
         "noun",
-        "proper",
-        "noun"
+        "proper noun"
       ],
-      "conjugations": {
-        "plural": "novembers"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
@@ -315,22 +431,42 @@
       ],
       "examples": [
         {
-          "en": "The weather gets colder in November.",
+          "en": "The conference will be held in November to avoid the summer rush.",
           "highlight": [
-            "november"
+            "November"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "會議將在十一月舉行，以避開夏季的旺季。"
+          }
+        },
+        {
+          "en": "Our sales hit a record high last November thanks to the holiday promotion.",
+          "highlight": [
+            "November"
+          ],
+          "translations": {
+            "zh-TW": "拜假日促銷活動之賜，我們去年十一月的銷售創下歷史新高。"
+          }
+        },
+        {
+          "en": "She starts her new job on November 1st and is very excited about it.",
+          "highlight": [
+            "November"
+          ],
+          "translations": {
+            "zh-TW": "她十一月一日就要開始新工作了，對此她感到非常興奮。"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Nov"
+      ],
       "antonyms": [],
       "phrases": [
-        "in",
-        "November",
-        "November",
-        "1st"
+        "in November",
+        "November 1st",
+        "mid-November",
+        "early November"
       ]
     },
     {
@@ -350,33 +486,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "now",
-          "definition": "adv. 现在, 刚才, 目前, n. 现在, a. 现在的, conj. 由于"
+          "definition": "adv. 現在、此刻、目前  conj. 既然、由於"
         }
       ],
       "examples": [
         {
-          "en": "She is leaving now.",
+          "en": "I need to finish this report now, because the deadline is tomorrow morning.",
           "highlight": [
             "now"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我現在需要完成這份報告，因為截止日期是明天早上。"
+          }
+        },
+        {
+          "en": "Right now, the managers are discussing the budget for next year.",
+          "highlight": [
+            "now"
+          ],
+          "translations": {
+            "zh-TW": "此刻，經理們正在討論明年的預算。"
+          }
+        },
+        {
+          "en": "Now that the rain has stopped, we can finally go out for lunch.",
+          "highlight": [
+            "Now"
+          ],
+          "translations": {
+            "zh-TW": "既然雨已經停了，我們終於可以出去吃午餐了。"
           }
         }
       ],
       "synonyms": [
         "currently",
-        "presently"
+        "presently",
+        "nowadays"
       ],
       "antonyms": [
-        "then"
+        "then",
+        "later",
+        "before"
       ],
       "phrases": [
-        "right",
-        "now",
-        "now",
-        "is",
-        "the"
+        "right now",
+        "now that",
+        "from now on",
+        "just now"
       ]
     },
     {
@@ -390,40 +546,57 @@
         "adverb",
         "noun"
       ],
-      "conjugations": {
-        "plural": "nowheres"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "nowhere",
-          "definition": "adv. 无處, 到處都无"
+          "definition": "adv. 無處、到處都沒有  n. 不存在的地方"
         }
       ],
       "examples": [
         {
-          "en": "The keys are nowhere to be found.",
+          "en": "His keys are nowhere to be found, so he must have left them at the office.",
           "highlight": [
             "nowhere"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他的鑰匙到處都找不到，所以他一定是把它們留在辦公室了。"
+          }
+        },
+        {
+          "en": "The small village is in the middle of nowhere, two hours from the nearest city.",
+          "highlight": [
+            "nowhere"
+          ],
+          "translations": {
+            "zh-TW": "這個小村莊位於偏遠地區，距離最近的城市的兩個小時車程。"
+          }
+        },
+        {
+          "en": "Nowhere in the contract does it mention overtime pay for weekend work.",
+          "highlight": [
+            "Nowhere"
+          ],
+          "translations": {
+            "zh-TW": "合約中沒有任何地方提到週末加班的加班費。"
           }
         }
       ],
       "synonyms": [
-        "not",
-        "anywhere"
+        "not anywhere",
+        "no place"
       ],
       "antonyms": [
-        "everywhere"
+        "everywhere",
+        "somewhere"
       ],
       "phrases": [
-        "found",
-        "nowhere",
-        "go",
-        "nowhere"
+        "middle of nowhere",
+        "go nowhere",
+        "nowhere near",
+        "out of nowhere"
       ]
     },
     {
@@ -437,40 +610,57 @@
         "adjective",
         "noun"
       ],
-      "conjugations": {
-        "plural": "nuclears"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "nuclear",
-          "definition": "a. 核子的, 原子能的, 核的, 中心的, [医] 核的"
+          "definition": "adj. 核子的、原子能的、核武的、核心的  n. 核能"
         }
       ],
       "examples": [
         {
-          "en": "They are discussing nuclear energy.",
+          "en": "Many countries are now debating whether to build more nuclear power plants.",
           "highlight": [
             "nuclear"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "許多國家現在都在辯論是否要興建更多核能發電廠。"
+          }
+        },
+        {
+          "en": "The two nations signed a treaty to reduce nuclear weapons over the next decade.",
+          "highlight": [
+            "nuclear"
+          ],
+          "translations": {
+            "zh-TW": "兩國簽署了一項條約，承諾在未來十年內削減核武器。"
+          }
+        },
+        {
+          "en": "She grew up in a nuclear family with her parents and younger brother in Tokyo.",
+          "highlight": [
+            "nuclear"
+          ],
+          "translations": {
+            "zh-TW": "她在東京與父母和弟弟一起，生活在一個核心家庭中。"
           }
         }
       ],
       "synonyms": [
         "atomic",
-        "atomic-powered"
+        "fission"
       ],
       "antonyms": [
-        "non-nuclear"
+        "non-nuclear",
+        "conventional"
       ],
       "phrases": [
-        "nuclear",
-        "power",
-        "nuclear",
-        "energy"
+        "nuclear power",
+        "nuclear family",
+        "nuclear energy",
+        "nuclear weapon"
       ]
     }
   ]
