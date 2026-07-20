@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 202,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-202-001",
@@ -11,48 +11,64 @@
       "toeic_score_min": 500,
       "word": "oppose",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "opposeed",
-        "past_participle": "opposeed",
-        "present_participle": "opposing",
-        "third_person": "opposes"
+        "present_3rd": "opposes",
+        "past": "opposed",
+        "past_participle": "opposed",
+        "ing": "opposing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "oppose",
-          "definition": "vt. 反對, 以...對抗, 抗争, vi. 反對"
+          "definition": "v. 反對、抵抗、抗衡"
         }
       ],
       "examples": [
         {
-          "en": "They oppose the new policy.",
+          "en": "Many employees oppose the new overtime policy because it cuts into family time.",
           "highlight": [
             "oppose"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "許多員工反對新的加班政策，因為這會壓縮家庭時間。"
+          }
+        },
+        {
+          "en": "The manager opposed the budget proposal during yesterday's meeting.",
+          "highlight": [
+            "opposed"
+          ],
+          "translations": {
+            "zh-TW": "經理在昨天的會議中反對了那項預算提案。"
+          }
+        },
+        {
+          "en": "She is opposing the merger because it may lead to layoffs.",
+          "highlight": [
+            "opposing"
+          ],
+          "translations": {
+            "zh-TW": "她正反對這項併購案，因為這可能導致裁員。"
           }
         }
       ],
       "synonyms": [
         "resist",
+        "object to",
         "defy"
       ],
       "antonyms": [
         "support",
-        "accept"
+        "endorse"
       ],
       "phrases": [
-        "oppose",
-        "the",
-        "plan",
-        "strongly",
-        "oppose"
+        "oppose the plan",
+        "strongly oppose",
+        "oppose the proposal"
       ]
     },
     {
@@ -64,7 +80,8 @@
       "word": "opposite",
       "pos": [
         "adjective",
-        "noun"
+        "noun",
+        "preposition"
       ],
       "conjugations": {
         "plural": "opposites"
@@ -74,34 +91,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "opposite",
-          "definition": "a. 相對的, 相反的, 對面的, prep. 對面, n. 對立面"
+          "definition": "adj. 相反的、對面的  n. 對立面、相反事物  prep. 在…的對面"
         }
       ],
       "examples": [
         {
-          "en": "She sat opposite him.",
+          "en": "The two companies are on opposite sides of the market.",
           "highlight": [
             "opposite"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這兩家公司在市場上處於對立的立場。"
+          }
+        },
+        {
+          "en": "The bank is located just opposite the train station.",
+          "highlight": [
+            "opposite"
+          ],
+          "translations": {
+            "zh-TW": "銀行就位於火車站的對面。"
+          }
+        },
+        {
+          "en": "The opposites in the survey show totally different consumer preferences.",
+          "highlight": [
+            "opposites"
+          ],
+          "translations": {
+            "zh-TW": "問卷調查中的對立面顯示出截然不同的消費者偏好。"
           }
         }
       ],
       "synonyms": [
+        "contrasting",
         "facing",
-        "across",
-        "from"
+        "antithetical"
       ],
       "antonyms": [
-        "same",
-        "adjacent"
+        "similar",
+        "identical"
       ],
       "phrases": [
-        "opposite",
-        "direction",
-        "opposite",
-        "side"
+        "opposite side",
+        "opposite direction",
+        "exact opposite",
+        "opposite the station"
       ]
     },
     {
@@ -112,47 +147,62 @@
       "toeic_score_min": 500,
       "word": "opposition",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "oppositioned",
-        "past_participle": "oppositioned",
-        "present_participle": "oppositioning",
-        "third_person": "oppositions"
+        "plural": "oppositions"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "opposition",
-          "definition": "n. 反對, 敌對, 相反, 在野党, [医] 對生, 對向, 反抗, 反對症"
+          "definition": "n. 反對、抵抗、對立"
         }
       ],
       "examples": [
         {
-          "en": "There is strong opposition to the plan.",
+          "en": "There is growing opposition to the new tax law among small business owners.",
           "highlight": [
             "opposition"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "小企業主之中對新稅法的反對聲浪正在升高。"
+          }
+        },
+        {
+          "en": "The board faced strong oppositions from two major shareholders last quarter.",
+          "highlight": [
+            "oppositions"
+          ],
+          "translations": {
+            "zh-TW": "董事會上季度遭遇了兩位大股東的強烈反對。"
+          }
+        },
+        {
+          "en": "The union organized opposition against the proposed wage cuts.",
+          "highlight": [
+            "opposition"
+          ],
+          "translations": {
+            "zh-TW": "工會串聯反對力量，抵制提議的減薪方案。"
           }
         }
       ],
       "synonyms": [
         "resistance",
-        "dissent"
+        "dissent",
+        "objection"
       ],
       "antonyms": [
         "support",
-        "agreement"
+        "approval"
       ],
       "phrases": [
-        "strong",
-        "opposition",
-        "face",
-        "opposition"
+        "strong opposition",
+        "face opposition",
+        "in opposition to",
+        "opposition party"
       ]
     },
     {
@@ -163,48 +213,62 @@
       "toeic_score_min": 500,
       "word": "option",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "optioned",
-        "past_participle": "optioned",
-        "present_participle": "optioning",
-        "third_person": "options"
+        "plural": "options"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "option",
-          "definition": "n. 选择权, 挑选, 选项, [计] 选项"
+          "definition": "n. 選擇、選項、選擇權"
         }
       ],
       "examples": [
         {
-          "en": "You have two options.",
+          "en": "You have three options for shipping: standard, express, and overnight.",
+          "highlight": [
+            "options"
+          ],
+          "translations": {
+            "zh-TW": "您的配送有三種選項：標準、快捷與限時。"
+          }
+        },
+        {
+          "en": "The store offers an option to return items within 30 days.",
           "highlight": [
             "option"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "店家提供 30 天內退貨的選項。"
+          }
+        },
+        {
+          "en": "We considered the option of working remotely for two weeks.",
+          "highlight": [
+            "option"
+          ],
+          "translations": {
+            "zh-TW": "我們曾考慮過遠端工作兩週這個選項。"
           }
         }
       ],
       "synonyms": [
         "choice",
-        "alternative"
+        "alternative",
+        "selection"
       ],
       "antonyms": [
         "obligation",
         "necessity"
       ],
       "phrases": [
-        "have",
-        "an",
-        "option",
-        "choose",
-        "an"
+        "have an option",
+        "choose an option",
+        "stock option",
+        "no other option"
       ]
     },
     {
@@ -223,17 +287,35 @@
         {
           "lang": "zh-TW",
           "lang_word": "or",
-          "definition": "conj. 或, 或者, [计] 或"
+          "definition": "conj. 或、或者、還是"
         }
       ],
       "examples": [
         {
-          "en": "Do you want tea or coffee?",
+          "en": "Would you prefer the morning or afternoon flight?",
           "highlight": [
             "or"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "您比較喜歡早上還是下午的班機？"
+          }
+        },
+        {
+          "en": "Tea or coffee, sir?",
+          "highlight": [
+            "or"
+          ],
+          "translations": {
+            "zh-TW": "先生，請問要茶還是咖啡？"
+          }
+        },
+        {
+          "en": "You can pay by credit card or cash at this counter.",
+          "highlight": [
+            "or"
+          ],
+          "translations": {
+            "zh-TW": "您可以在這個櫃台用信用卡或現金付款。"
           }
         }
       ],
@@ -245,11 +327,10 @@
         "and"
       ],
       "phrases": [
-        "tea",
-        "or",
-        "coffee",
-        "black",
-        "or"
+        "or rather",
+        "more or less",
+        "either or",
+        "rain or shine"
       ]
     },
     {
@@ -271,31 +352,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "orange",
-          "definition": "n. 柑橘, 桔子, 橘色, a. 橘色的"
+          "definition": "n. 橘子、柳橙  adj. 橙色的、橘色的"
         }
       ],
       "examples": [
         {
-          "en": "She peeled the orange.",
+          "en": "She bought a bag of oranges at the morning market.",
+          "highlight": [
+            "oranges"
+          ],
+          "translations": {
+            "zh-TW": "她在早市買了一袋橘子。"
+          }
+        },
+        {
+          "en": "Please paint the warning sign orange so drivers can see it easily.",
           "highlight": [
             "orange"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請把警告標誌漆成橘色，好讓駕駛容易看見。"
+          }
+        },
+        {
+          "en": "I would like a glass of fresh orange juice with my breakfast.",
+          "highlight": [
+            "orange"
+          ],
+          "translations": {
+            "zh-TW": "我想要一杯鮮榨柳橙汁搭配我的早餐。"
           }
         }
       ],
       "synonyms": [
         "citrus",
-        "tangerine"
+        "tangerine",
+        "amber"
       ],
       "antonyms": [],
       "phrases": [
-        "peel",
-        "an",
-        "orange",
-        "orange",
-        "juice"
+        "orange juice",
+        "orange peel",
+        "light orange",
+        "orange color"
       ]
     },
     {
@@ -310,44 +409,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "ordered",
+        "present_3rd": "orders",
+        "past": "ordered",
         "past_participle": "ordered",
-        "present_participle": "ordering",
-        "third_person": "orders"
+        "ing": "ordering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "order",
-          "definition": "n. 次序, 规则, 命令, vi. 命令, 定货, vt. 整理, 命令, 定购, n. 顺序, 阶数, [计] 顺序, 阶数"
+          "definition": "v. 訂購、命令、整理  n. 訂單、順序、命令"
         }
       ],
       "examples": [
         {
-          "en": "She ordered a coffee.",
+          "en": "I would like to order the grilled salmon with a side salad.",
           "highlight": [
             "order"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我想點一份烤鮭魚附配菜沙拉。"
+          }
+        },
+        {
+          "en": "She ordered the team to finish the report before Friday.",
+          "highlight": [
+            "ordered"
+          ],
+          "translations": {
+            "zh-TW": "她命令團隊在週五前完成報告。"
+          }
+        },
+        {
+          "en": "Please confirm your order before we ship the products.",
+          "highlight": [
+            "order"
+          ],
+          "translations": {
+            "zh-TW": "我們出貨前請確認您的訂單。"
           }
         }
       ],
       "synonyms": [
         "command",
-        "direct"
+        "request",
+        "arrange"
       ],
       "antonyms": [
-        "request",
-        "ask"
+        "disorder",
+        "request"
       ],
       "phrases": [
-        "give",
-        "an",
-        "order",
-        "order",
-        "food"
+        "place an order",
+        "order form",
+        "in order",
+        "out of order"
       ]
     },
     {
@@ -358,44 +475,63 @@
       "toeic_score_min": 500,
       "word": "ordinary",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "ordinaries"
+        "comparative": "ordinarier",
+        "superlative": "ordinariest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "ordinary",
-          "definition": "a. 平常的, 普通的, 平凡的, n. 平常的人(或事)"
+          "definition": "adj. 普通的、平常的、平凡的"
         }
       ],
       "examples": [
         {
-          "en": "He led an ordinary life.",
+          "en": "It was just an ordinary Tuesday at the office until the news broke.",
           "highlight": [
             "ordinary"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "那原本只是辦公室裡一個平常的星期二，直到消息傳開。"
+          }
+        },
+        {
+          "en": "The new model looks ordinaries than the previous versions because of cost cuts.",
+          "highlight": [
+            "ordinaries"
+          ],
+          "translations": {
+            "zh-TW": "新的車款因為成本縮減，看起來比舊版更平凡普通。"
+          }
+        },
+        {
+          "en": "This is the ordinariest report we have received this quarter.",
+          "highlight": [
+            "ordinariest"
+          ],
+          "translations": {
+            "zh-TW": "這是我們這個季度收到的最普通不過的報告。"
           }
         }
       ],
       "synonyms": [
         "normal",
-        "usual"
+        "usual",
+        "common"
       ],
       "antonyms": [
         "extraordinary",
         "special"
       ],
       "phrases": [
-        "ordinary",
-        "day",
-        "ordinary",
-        "people"
+        "ordinary day",
+        "ordinary people",
+        "in ordinary",
+        "ordinary course of business"
       ]
     },
     {
@@ -406,36 +542,51 @@
       "toeic_score_min": 500,
       "word": "organization",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "organizationed",
-        "past_participle": "organizationed",
-        "present_participle": "organizationing",
-        "third_person": "organizations"
+        "plural": "organizations"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "organization",
-          "definition": "n. 组织, 結构, 团体, 体制, [医] 组织, 机构, 机化(血栓或坏死组织)"
+          "definition": "n. 組織、機構、團體"
         }
       ],
       "examples": [
         {
-          "en": "She works for a non-profit organization.",
+          "en": "She has been working for an international trade organization since 2019.",
           "highlight": [
             "organization"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她自 2019 年起就在一家國際貿易組織工作。"
+          }
+        },
+        {
+          "en": "Several non-profit organizations will sponsor the charity marathon.",
+          "highlight": [
+            "organizations"
+          ],
+          "translations": {
+            "zh-TW": "幾個非營利組織將贊助這場慈善馬拉松。"
+          }
+        },
+        {
+          "en": "Good organization of the warehouse can save both time and labor costs.",
+          "highlight": [
+            "organization"
+          ],
+          "translations": {
+            "zh-TW": "良好的倉儲組織規劃能同時節省時間與人工成本。"
           }
         }
       ],
       "synonyms": [
         "institution",
+        "association",
         "group"
       ],
       "antonyms": [
@@ -443,10 +594,10 @@
         "chaos"
       ],
       "phrases": [
-        "non-profit",
-        "organization",
-        "large",
-        "organization"
+        "non-profit organization",
+        "business organization",
+        "large organization",
+        "world health organization"
       ]
     },
     {
@@ -457,48 +608,65 @@
       "toeic_score_min": 500,
       "word": "organize",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "organizeed",
-        "past_participle": "organizeed",
-        "present_participle": "organizing",
-        "third_person": "organizes"
+        "present_3rd": "organizes",
+        "past": "organized",
+        "past_participle": "organized",
+        "ing": "organizing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "organize",
-          "definition": "vt. 组织, 有机化, 给予生机, vi. 组织起來"
+          "definition": "v. 組織、籌劃、整理"
         }
       ],
       "examples": [
         {
-          "en": "They organized a meeting.",
+          "en": "We need to organize the files before the auditor arrives next week.",
           "highlight": [
             "organize"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們需要在下週審計員抵達前整理好這些檔案。"
+          }
+        },
+        {
+          "en": "Last year she organized a successful trade show that attracted over two thousand visitors.",
+          "highlight": [
+            "organized"
+          ],
+          "translations": {
+            "zh-TW": "去年她籌辦了一場成功的商展，吸引了超過兩千名訪客。"
+          }
+        },
+        {
+          "en": "He is organizing the relocation of the main office to a new building downtown.",
+          "highlight": [
+            "organizing"
+          ],
+          "translations": {
+            "zh-TW": "他正在籌劃將總辦公室搬到市中心的新大樓。"
           }
         }
       ],
       "synonyms": [
         "arrange",
-        "coordinate"
+        "coordinate",
+        "plan"
       ],
       "antonyms": [
         "disorganize",
-        "disorder"
+        "disrupt"
       ],
       "phrases": [
-        "organize",
-        "a",
-        "meeting",
-        "organize",
-        "an"
+        "organize a meeting",
+        "organize an event",
+        "organize files",
+        "organize a team"
       ]
     }
   ]
