@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 179,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-179-001",
@@ -15,27 +15,45 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "marrieded",
-        "past_participle": "marrieded",
-        "present_participle": "marrieding",
-        "third_person": "marrieds"
+        "past": "married",
+        "past_participle": "married",
+        "ing": "marrying",
+        "present_3rd": "marries"
       },
-      "domain": "general",
+      "domain": "family",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "married",
-          "definition": "a. 已婚的, 婚姻的, [法] 結了婚的, 有配偶的, 夫妇的"
+          "definition": "adj. 已婚的、有配偶的  v. 結婚、嫁娶（marry 的過去式／過去分詞）"
         }
       ],
       "examples": [
         {
-          "en": "They are happily married.",
+          "en": "They have been happily married for over twenty years.",
           "highlight": [
             "married"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他們已經幸福地結婚二十多年了。"
+          }
+        },
+        {
+          "en": "She married her college sweetheart in a small ceremony last summer.",
+          "highlight": [
+            "married"
+          ],
+          "translations": {
+            "zh-TW": "去年夏天她和在大學相戀的男友在一場小型儀式中結婚了。"
+          }
+        },
+        {
+          "en": "The novel's plot centres on a woman who marries into a wealthy shipping family.",
+          "highlight": [
+            "marries"
+          ],
+          "translations": {
+            "zh-TW": "小說情節圍繞著一位嫁入富裕航運家族的女子。"
           }
         }
       ],
@@ -45,13 +63,14 @@
       ],
       "antonyms": [
         "single",
-        "unmarried"
+        "unmarried",
+        "divorced"
       ],
       "phrases": [
-        "married",
-        "couple",
-        "happily",
-        "married"
+        "married couple",
+        "happily married",
+        "get married",
+        "married life"
       ]
     },
     {
@@ -62,31 +81,48 @@
       "toeic_score_min": 200,
       "word": "marry",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "marryed",
-        "past_participle": "marryed",
-        "present_participle": "marrying",
-        "third_person": "marrys"
+        "past": "married",
+        "past_participle": "married",
+        "ing": "marrying",
+        "present_3rd": "marries"
       },
-      "domain": "general",
+      "domain": "family",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "marry",
-          "definition": "vt. 與...結婚, 娶, 嫁, vi. 結婚"
+          "definition": "v. 結婚、娶、嫁、為某人證婚"
         }
       ],
       "examples": [
         {
-          "en": "They plan to marry next year.",
+          "en": "She wants to marry a man who cares deeply about his family.",
           "highlight": [
             "marry"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她想嫁一個深切關心家人的男人。"
+          }
+        },
+        {
+          "en": "He married his business partner in 2010, and they ran the company together for fifteen years.",
+          "highlight": [
+            "married"
+          ],
+          "translations": {
+            "zh-TW": "他在2010年和他的事業夥伴結婚了，兩人一起經營公司十五年。"
+          }
+        },
+        {
+          "en": "My nephew marries next summer, so the whole family is travelling abroad for the wedding.",
+          "highlight": [
+            "marries"
+          ],
+          "translations": {
+            "zh-TW": "我侄子明年夏天要結婚，所以全家人都要出國參加婚禮。"
           }
         }
       ],
@@ -99,10 +135,10 @@
         "separate"
       ],
       "phrases": [
-        "marry",
-        "someone",
-        "marry",
-        "in"
+        "marry someone",
+        "marry into money",
+        "marry for love",
+        "get married"
       ]
     },
     {
@@ -114,43 +150,64 @@
       "word": "mass",
       "pos": [
         "noun",
+        "adjective",
         "verb"
       ],
       "conjugations": {
-        "past_tense": "massed",
+        "plural": "masses",
+        "past": "massed",
         "past_participle": "massed",
-        "present_participle": "massing",
-        "third_person": "masses"
+        "ing": "massing",
+        "present_3rd": "masses"
       },
-      "domain": "general",
+      "domain": "science",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mass",
-          "definition": "n. 块, 大多数, 质量, 大量, 群众, 弥撒, a. 群众的, 大规模的, 整個的, vt. 使集合, 集中, vi. 聚集"
+          "definition": "n. 質量、大量、群眾、彌撒  adj. 大量的、大規模的、群眾的  v. 集合、聚集"
         }
       ],
       "examples": [
         {
-          "en": "The planet has a large mass.",
+          "en": "The mass of an object determines how hard it is to accelerate.",
           "highlight": [
             "mass"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "物體的質量決定了要讓它加速有多困難。"
+          }
+        },
+        {
+          "en": "Citizens massed in the central square to protest against the new tax law.",
+          "highlight": [
+            "massed"
+          ],
+          "translations": {
+            "zh-TW": "市民聚集在中央廣場抗議新稅法。"
+          }
+        },
+        {
+          "en": "The warehouse stores masses of consumer goods that are shipped out every morning.",
+          "highlight": [
+            "masses"
+          ],
+          "translations": {
+            "zh-TW": "倉庫儲存著大量的消費品，每天清晨運出。"
           }
         }
       ],
       "synonyms": [
         "bulk",
-        "quantity"
+        "quantity",
+        "volume"
       ],
       "antonyms": [],
       "phrases": [
-        "large",
-        "mass",
-        "mass",
-        "of"
+        "mass media",
+        "mass production",
+        "body mass",
+        "mass of people"
       ]
     },
     {
@@ -161,44 +218,64 @@
       "toeic_score_min": 200,
       "word": "massive",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "massives"
+        "comparative": "more massive",
+        "superlative": "most massive"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "massive",
-          "definition": "a. 大而重的, 宽大的, 宏伟的, [医] 大块的, 整块的, 大量的"
+          "definition": "adj. 大量的、巨大的、大規模的、嚴重的"
         }
       ],
       "examples": [
         {
-          "en": "The building is massive.",
+          "en": "A massive explosion destroyed the chemical plant early this morning.",
           "highlight": [
             "massive"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "今天清晨一場巨大的爆炸摧毀了化學工廠。"
+          }
+        },
+        {
+          "en": "The container ship is even more massive than the heavy-lift crane the yard built last year.",
+          "highlight": [
+            "more massive"
+          ],
+          "translations": {
+            "zh-TW": "這艘貨櫃船比造船廠去年建造的重型起重機還要巨大。"
+          }
+        },
+        {
+          "en": "The most massive structure in the ancient city still stands after two thousand years.",
+          "highlight": [
+            "most massive"
+          ],
+          "translations": {
+            "zh-TW": "古城中最龐大的建築在兩千年後依然屹立不搖。"
           }
         }
       ],
       "synonyms": [
         "huge",
+        "enormous",
         "immense"
       ],
       "antonyms": [
         "tiny",
-        "small"
+        "small",
+        "minute"
       ],
       "phrases": [
-        "massive",
-        "building",
-        "massive",
-        "impact"
+        "massive scale",
+        "massive change",
+        "massive attack",
+        "massive structure"
       ]
     },
     {
@@ -210,46 +287,68 @@
       "word": "master",
       "pos": [
         "noun",
-        "verb"
+        "verb",
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "mastered",
+        "plural": "masters",
+        "past": "mastered",
         "past_participle": "mastered",
-        "present_participle": "mastering",
-        "third_person": "masters"
+        "ing": "mastering",
+        "present_3rd": "masters"
       },
-      "domain": "general",
+      "domain": "education",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "master",
-          "definition": "n. 主人, 硕士, 大師, 母机, a. 主人的, 主要的, vt. 征服, 控制, 精通"
+          "definition": "n. 大師、專家、碩士、主人  v. 精通、掌控  adj. 主要的、精湛的"
         }
       ],
       "examples": [
         {
-          "en": "She is a master at chess.",
+          "en": "She earned a master's degree in marketing before joining the advertising firm.",
           "highlight": [
             "master"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在加入廣告公司之前她先取得了行銷碩士學位。"
+          }
+        },
+        {
+          "en": "Only a handful of craftspeople have truly mastered the ancient woodblock printing technique.",
+          "highlight": [
+            "mastered"
+          ],
+          "translations": {
+            "zh-TW": "只有極少數的工匠真正精通這項古老的木版印刷技術。"
+          }
+        },
+        {
+          "en": "A new CEO rarely masters the company's full operations within the first quarter.",
+          "highlight": [
+            "masters"
+          ],
+          "translations": {
+            "zh-TW": "新任執行長很少能在第一個季度內完全掌控公司所有的營運。"
           }
         }
       ],
       "synonyms": [
         "expert",
-        "adept"
+        "authority",
+        "maestro"
       ],
       "antonyms": [
         "novice",
-        "apprentice"
+        "apprentice",
+        "beginner"
       ],
       "phrases": [
-        "master",
-        "of",
-        "master",
-        "at"
+        "master plan",
+        "master's degree",
+        "master the skill",
+        "master key"
       ]
     },
     {
@@ -264,43 +363,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "matched",
+        "plural": "matches",
+        "past": "matched",
         "past_participle": "matched",
-        "present_participle": "matching",
-        "third_person": "matchs"
+        "ing": "matching",
+        "present_3rd": "matches"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "match",
-          "definition": "n. 比赛, 火柴, 對手, vt. 使相配, 使比赛, 與...竞争, vi. 結婚, 相配, [计] 比较"
+          "definition": "n. 比賽、對手、相配之物、火柴  v. 配對、相符、與…匹敵"
         }
       ],
       "examples": [
         {
-          "en": "The curtains are a perfect match for the sofa.",
+          "en": "Applicants whose qualifications match the job description will be invited for an interview.",
           "highlight": [
             "match"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "資格符合職位描述的求職者將獲邀面試。"
+          }
+        },
+        {
+          "en": "The gallery matched the vase with a rare bowl from the same dynasty.",
+          "highlight": [
+            "matched"
+          ],
+          "translations": {
+            "zh-TW": "美術館把那個花瓶和同一個朝代的稀有碗盤配對在一起。"
+          }
+        },
+        {
+          "en": "The navy tie is matching the stripes on the suit jacket rather nicely today.",
+          "highlight": [
+            "matching"
+          ],
+          "translations": {
+            "zh-TW": "今天這條深藍色領帶和西裝外套上的條紋搭配得相當好看。"
           }
         }
       ],
       "synonyms": [
         "equal",
-        "peer"
+        "correspond",
+        "fit"
       ],
       "antonyms": [
         "mismatch",
-        "opposition"
+        "clash"
       ],
       "phrases": [
-        "perfect",
-        "match",
-        "match",
-        "for"
+        "perfect match",
+        "match for",
+        "home match",
+        "match the criteria"
       ]
     },
     {
@@ -315,43 +434,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "matchinged",
-        "past_participle": "matchinged",
-        "present_participle": "matchinging",
-        "third_person": "matchings"
+        "past": "matched",
+        "past_participle": "matched",
+        "ing": "matching",
+        "present_3rd": "matches"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "matching",
-          "definition": "a. 相同的, 协调的, [计] 匹配, 對比"
+          "definition": "adj. 相配的、協調的、同色同款的  v. match 的現在分詞形式"
         }
       ],
       "examples": [
         {
-          "en": "They are wearing matching outfits.",
+          "en": "The bride asked the jeweller to show her earrings that match the necklace she already owns.",
+          "highlight": [
+            "match"
+          ],
+          "translations": {
+            "zh-TW": "新娘請珠寶商展示和她已有項鍊相配的耳環。"
+          }
+        },
+        {
+          "en": "The showroom assistant matched every client with a vehicle suited to their daily commute.",
+          "highlight": [
+            "matched"
+          ],
+          "translations": {
+            "zh-TW": "展間助理為每位客戶找到適合日常通勤的車款。"
+          }
+        },
+        {
+          "en": "The hotel staff wore matching uniforms in deep navy blue, which made them easy to spot in the lobby.",
           "highlight": [
             "matching"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "飯店員工穿著同款的深藏青色制服，在大廳裡非常顯眼。"
           }
         }
       ],
       "synonyms": [
         "coordinating",
-        "complementary"
+        "complementary",
+        "pairing"
       ],
       "antonyms": [
         "clashing",
         "contrasting"
       ],
       "phrases": [
-        "matching",
-        "colors",
-        "matching",
-        "outfits"
+        "matching set",
+        "matching outfits",
+        "matching colours",
+        "matching pair"
       ]
     },
     {
@@ -366,41 +504,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "mateed",
-        "past_participle": "mateed",
-        "present_participle": "mating",
-        "third_person": "mates"
+        "plural": "mates",
+        "past": "mated",
+        "past_participle": "mated",
+        "ing": "mating",
+        "present_3rd": "mates"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mate",
-          "definition": "n. 配偶, 對手, 助手, (象棋)将死, vt. 使配對, 使一致, 結伴, (象棋)将死, vi. 成配偶, 紧密配合"
+          "definition": "n. 夥伴、同事、配偶、(船)大副  v. 成為配偶、配對"
         }
       ],
       "examples": [
         {
-          "en": "Birds find a mate during the breeding season.",
+          "en": "Penguins return to the same mate every breeding season for the rest of their lives.",
           "highlight": [
             "mate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "企鵝每個繁殖季都會回到同一個配偶身邊，終生不變。"
+          }
+        },
+        {
+          "en": "The two captive pandas mated successfully after months of careful introductions.",
+          "highlight": [
+            "mated"
+          ],
+          "translations": {
+            "zh-TW": "經過數月細心的安排，這兩隻人工飼養的熊貓成功交配了。"
+          }
+        },
+        {
+          "en": "Mating pairs of swans remain together throughout the nesting season, sharing the duties of raising the young.",
+          "highlight": [
+            "mating"
+          ],
+          "translations": {
+            "zh-TW": "正在交配的天鵝伴侶在築巢季節一直在一起，共同分擔撫育幼鳥的職責。"
           }
         }
       ],
       "synonyms": [
         "partner",
-        "companion"
+        "companion",
+        "spouse"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "stranger"
+      ],
       "phrases": [
-        "find",
-        "a",
-        "mate",
-        "perfect",
-        "mate"
+        "soul mate",
+        "first mate",
+        "classmate",
+        "mate for life"
       ]
     },
     {
@@ -415,40 +574,61 @@
         "adjective"
       ],
       "conjugations": {
-        "plural": "materials"
+        "plural": "materials",
+        "comparative": "more material",
+        "superlative": "most material"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "material",
-          "definition": "n. 材料, 物资, 素材, 布料, 资料, a. 物质的, 肉体的, 重要的"
+          "definition": "n. 材料、原料、物資、布料、素材  adj. 物質的、實質的、重要的"
         }
       ],
       "examples": [
         {
-          "en": "The dress is made of a soft material.",
+          "en": "The factory imports raw material from over thirty countries worldwide.",
           "highlight": [
             "material"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家工廠從全球三十多個國家進口原料。"
+          }
+        },
+        {
+          "en": "All the building materials used in the stadium were certified by independent safety inspectors.",
+          "highlight": [
+            "materials"
+          ],
+          "translations": {
+            "zh-TW": "體育館所使用的全部建材都由獨立的安全檢驗員認證過。"
+          }
+        },
+        {
+          "en": "Of all the proposed changes, the timeline shift is the most material to the project's success.",
+          "highlight": [
+            "most material"
+          ],
+          "translations": {
+            "zh-TW": "在所有提出的變更中，時間表的調整對專案的成功最為關鍵。"
           }
         }
       ],
       "synonyms": [
         "fabric",
-        "substance"
+        "substance",
+        "matter"
       ],
       "antonyms": [
         "immaterial",
-        "non-material"
+        "incidental"
       ],
       "phrases": [
-        "raw",
-        "material",
-        "building",
-        "material"
+        "raw material",
+        "building materials",
+        "reading material",
+        "material cost"
       ]
     },
     {
@@ -459,44 +639,59 @@
       "toeic_score_min": 200,
       "word": "mathematics",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "mathematicsed",
-        "past_participle": "mathematicsed",
-        "present_participle": "mathematicsing",
-        "third_person": "mathematicses"
+        "plural": "mathematics"
       },
-      "domain": "general",
+      "domain": "education",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mathematics",
-          "definition": "n. 数学, [机] 数学"
+          "definition": "n. 數學（不可數，通常簡稱 maths / math）"
         }
       ],
       "examples": [
         {
-          "en": "He is good at mathematics.",
+          "en": "Strong mathematics skills give young engineers a clear advantage in the job market.",
           "highlight": [
             "mathematics"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "紮實的數學能力讓年輕工程師在就業市場上占盡優勢。"
+          }
+        },
+        {
+          "en": "The course covers advanced mathematics, including calculus, linear algebra, and probability theory.",
+          "highlight": [
+            "mathematics"
+          ],
+          "translations": {
+            "zh-TW": "這門課涵蓋高等數學，包括微積分、線性代數以及機率論。"
+          }
+        },
+        {
+          "en": "Her PhD in applied mathematics landed her a research role at the national weather service.",
+          "highlight": [
+            "mathematics"
+          ],
+          "translations": {
+            "zh-TW": "她應用數學的博士學位讓她在國家氣象局獲得了研究職位。"
           }
         }
       ],
       "synonyms": [
         "maths",
+        "math",
         "arithmetic"
       ],
       "antonyms": [],
       "phrases": [
-        "study",
-        "mathematics",
-        "mathematics",
-        "problem"
+        "applied mathematics",
+        "pure mathematics",
+        "mathematics department",
+        "study mathematics"
       ]
     }
   ]
