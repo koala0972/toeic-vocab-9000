@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 177,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-177-001",
@@ -11,48 +11,65 @@
       "toeic_score_min": 200,
       "word": "maintain",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "maintained",
+        "present_3rd": "maintains",
+        "past": "maintained",
         "past_participle": "maintained",
-        "present_participle": "maintaining",
-        "third_person": "maintains"
+        "ing": "maintaining"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "maintain",
-          "definition": "vt. 维持, 维修, 保持, 坚持, 供养, 主张, [化] 维修"
+          "definition": "vt. 維持、保養、保持、堅持、主張"
         }
       ],
       "examples": [
         {
-          "en": "They maintain their car well.",
+          "en": "The company maintains high quality standards for all its products.",
           "highlight": [
-            "maintain"
+            "maintains"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家公司對所有產品都維持著高品質標準。"
+          }
+        },
+        {
+          "en": "She maintained a calm voice even when the customer raised his tone.",
+          "highlight": [
+            "maintained"
+          ],
+          "translations": {
+            "zh-TW": "即使顧客提高音量，她仍維持著平靜的語氣。"
+          }
+        },
+        {
+          "en": "The technician is maintaining the elevator to prevent breakdowns.",
+          "highlight": [
+            "maintaining"
+          ],
+          "translations": {
+            "zh-TW": "技術員正在保養電梯以防止故障。"
           }
         }
       ],
       "synonyms": [
         "preserve",
-        "keep"
+        "keep",
+        "sustain"
       ],
       "antonyms": [
         "neglect",
         "abandon"
       ],
       "phrases": [
-        "maintain",
-        "a",
-        "car",
-        "maintain",
-        "health"
+        "maintain standards",
+        "maintain equipment",
+        "maintain contact",
+        "maintain order"
       ]
     },
     {
@@ -74,33 +91,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "major",
-          "definition": "n. 主修课, 成年人, 陆军少校, a. 主要的, 较多的, 大部分的, 成年的, 严重的, vi. 主修, [计] 主要, 主要刻度"
+          "definition": "a. 主要的、較大的、嚴重的  n. 主修科目、成年人、少校"
         }
       ],
       "examples": [
         {
-          "en": "He played a major role in the project.",
+          "en": "The major cause of the delay was a software glitch.",
           "highlight": [
             "major"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這次延遲的主要原因是一個軟體小故障。"
+          }
+        },
+        {
+          "en": "Engineering is one of the most popular majors at this university.",
+          "highlight": [
+            "majors"
+          ],
+          "translations": {
+            "zh-TW": "工程學是這所大學最受歡迎的主修科目之一。"
+          }
+        },
+        {
+          "en": "She chose to major in business administration.",
+          "highlight": [
+            "major"
+          ],
+          "translations": {
+            "zh-TW": "她選擇主修企業管理。"
           }
         }
       ],
       "synonyms": [
         "significant",
-        "important"
+        "important",
+        "chief"
       ],
       "antonyms": [
         "minor",
         "insignificant"
       ],
       "phrases": [
-        "major",
-        "role",
-        "major",
-        "problem"
+        "major role",
+        "major problem",
+        "major in",
+        "major decision"
       ]
     },
     {
@@ -111,48 +147,62 @@
       "toeic_score_min": 200,
       "word": "majority",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "majorityed",
-        "past_participle": "majorityed",
-        "present_participle": "majoritying",
-        "third_person": "majoritys"
+        "plural": "majorities"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "majority",
-          "definition": "n. 多数, 大半, [计] 多数逻辑"
+          "definition": "n. 多數、大半、過半數"
         }
       ],
       "examples": [
         {
-          "en": "The majority of people agree.",
+          "en": "The majority of employees voted in favor of the new policy.",
           "highlight": [
             "majority"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "大多數員工投票贊成新政策。"
+          }
+        },
+        {
+          "en": "In some democracies, majorities can shift dramatically between elections.",
+          "highlight": [
+            "majorities"
+          ],
+          "translations": {
+            "zh-TW": "在某些民主國家，多數局势在每次選舉之間可能會劇烈變動。"
+          }
+        },
+        {
+          "en": "A clear majority supported the merger during the board meeting.",
+          "highlight": [
+            "majority"
+          ],
+          "translations": {
+            "zh-TW": "在董事會會議上，明顯的多數支持這項合併案。"
           }
         }
       ],
       "synonyms": [
-        "greater",
-        "part",
-        "most"
+        "most",
+        "bulk",
+        "greater part"
       ],
       "antonyms": [
         "minority",
         "few"
       ],
       "phrases": [
-        "majority",
-        "of",
-        "majority",
-        "vote"
+        "majority of",
+        "clear majority",
+        "majority vote",
+        "absolute majority"
       ]
     },
     {
@@ -167,32 +217,51 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "makeed",
-        "past_participle": "makeed",
-        "present_participle": "making",
-        "third_person": "makes"
+        "present_3rd": "makes",
+        "past": "made",
+        "past_participle": "made",
+        "ing": "making"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "make",
-          "definition": "vt. 制造, 安排, 创造, 构成, 使得, 产生, 造成, 整理, 布置, 引起, 到达, 进行, vi. 开始, 前进, 增大, 被制造, 被處理, n. 制造, 构造, 性情"
+          "definition": "vt. 製造、使得、引起、進行  n. 品牌、型號"
         }
       ],
       "examples": [
         {
-          "en": "She likes to make cakes.",
+          "en": "The factory makes about ten thousand smartphones per day.",
           "highlight": [
-            "make"
+            "makes"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這座工廠每天製造大約一萬支智慧型手機。"
+          }
+        },
+        {
+          "en": "She made a reservation at the restaurant for six guests.",
+          "highlight": [
+            "made"
+          ],
+          "translations": {
+            "zh-TW": "她在餐廳預訂了六位客人的位子。"
+          }
+        },
+        {
+          "en": "The team is making steady progress on the new project.",
+          "highlight": [
+            "making"
+          ],
+          "translations": {
+            "zh-TW": "團隊在新專案上正穩定地取得進展。"
           }
         }
       ],
       "synonyms": [
         "create",
+        "produce",
         "build"
       ],
       "antonyms": [
@@ -200,11 +269,10 @@
         "break"
       ],
       "phrases": [
-        "make",
-        "a",
-        "cake",
-        "make",
-        "sure"
+        "make a decision",
+        "make sure",
+        "make progress",
+        "make a reservation"
       ]
     },
     {
@@ -226,35 +294,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "male",
-          "definition": "n. 男人, 雄性動物, a. 男性的, 雄性的, 有力的"
+          "definition": "a. 男性的、雄性的  n. 男性、雄性動物"
         }
       ],
       "examples": [
         {
-          "en": "There is a male lion in the zoo.",
+          "en": "The male candidate impressed the interviewers with his experience.",
           "highlight": [
             "male"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位男性候選人以其經驗令面試官印象深刻。"
+          }
+        },
+        {
+          "en": "Adult males are required to register for the program.",
+          "highlight": [
+            "males"
+          ],
+          "translations": {
+            "zh-TW": "成年男性必須為這項計畫辦理登記。"
+          }
+        },
+        {
+          "en": "A male nurse assisted the patient with his medication.",
+          "highlight": [
+            "male"
+          ],
+          "translations": {
+            "zh-TW": "一位男性護士協助病人使用藥物。"
           }
         }
       ],
       "synonyms": [
         "masculine",
-        "masculine",
-        "gender"
+        "manful"
       ],
       "antonyms": [
         "female",
         "feminine"
       ],
       "phrases": [
-        "male",
-        "and",
-        "female",
-        "male",
-        "student"
+        "male employee",
+        "male voice",
+        "male dominated",
+        "male and female"
       ]
     },
     {
@@ -265,46 +349,59 @@
       "toeic_score_min": 200,
       "word": "mall",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "malled",
-        "past_participle": "malled",
-        "present_participle": "malling",
-        "third_person": "malls"
+        "plural": "malls"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mall",
-          "definition": "n. 林荫路"
+          "definition": "n. 購物中心、林蔭大道"
         }
       ],
       "examples": [
         {
-          "en": "They went to the mall to shop.",
+          "en": "The new mall downtown has over two hundred stores.",
           "highlight": [
             "mall"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "市中心的新購物中心有超過兩百家店鋪。"
+          }
+        },
+        {
+          "en": "Several luxury malls were built near the airport last year.",
+          "highlight": [
+            "malls"
+          ],
+          "translations": {
+            "zh-TW": "去年在機場附近建造了幾座豪華購物中心。"
+          }
+        },
+        {
+          "en": "We usually shop at the mall on weekends to avoid crowds.",
+          "highlight": [
+            "mall"
+          ],
+          "translations": {
+            "zh-TW": "我們通常在週末到購物中心購物以避開人潮。"
           }
         }
       ],
       "synonyms": [
-        "shopping",
-        "center",
-        "plaza"
+        "plaza",
+        "shopping center",
+        "arcade"
       ],
       "antonyms": [],
       "phrases": [
-        "go",
-        "to",
-        "the",
-        "mall",
-        "shopping"
+        "shopping mall",
+        "go to the mall",
+        "mall store",
+        "indoor mall"
       ]
     },
     {
@@ -319,43 +416,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "maned",
-        "past_participle": "maned",
-        "present_participle": "maning",
-        "third_person": "mans"
+        "plural": "men",
+        "present_3rd": "mans",
+        "past": "manned",
+        "past_participle": "manned",
+        "ing": "manning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "man",
-          "definition": "n. 男人, 人类, 人, vt. 為...配备人手, 操纵, 使振奋, [计] 城域网, 手册"
+          "definition": "n. 男人、人、人類  vt. 配備人手、操控、站崗"
         }
       ],
       "examples": [
         {
-          "en": "He is a strong man.",
+          "en": "The man at the front desk will help you check in.",
           "highlight": [
             "man"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "前台的男士會協助您辦理入住手續。"
+          }
+        },
+        {
+          "en": "Three men were hired to load the delivery trucks.",
+          "highlight": [
+            "men"
+          ],
+          "translations": {
+            "zh-TW": "雇用了三名男性來裝載送貨卡車。"
+          }
+        },
+        {
+          "en": "The airline is manning its counters with extra staff for the holiday rush.",
+          "highlight": [
+            "manning"
+          ],
+          "translations": {
+            "zh-TW": "航空公司正為假期旺季在櫃台加派人手。"
           }
         }
       ],
       "synonyms": [
         "gentleman",
-        "guy"
+        "guy",
+        "person"
       ],
       "antonyms": [
         "woman",
         "lady"
       ],
       "phrases": [
-        "strong",
-        "man",
-        "young",
-        "man"
+        "right man",
+        "young man",
+        "man the desk",
+        "businessman"
       ]
     },
     {
@@ -366,48 +483,65 @@
       "toeic_score_min": 200,
       "word": "manage",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "manageed",
-        "past_participle": "manageed",
-        "present_participle": "managing",
-        "third_person": "manages"
+        "present_3rd": "manages",
+        "past": "managed",
+        "past_participle": "managed",
+        "ing": "managing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "manage",
-          "definition": "vi. 處理, vt. 管理, 控制, 维持, 达成, 經营, 運用"
+          "definition": "vt. 管理、控制、經營  vi. 處理、應付、勉力完成"
         }
       ],
       "examples": [
         {
-          "en": "She manages the store.",
+          "en": "She manages a team of fifteen engineers in the R&D department.",
           "highlight": [
-            "manage"
+            "manages"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在研發部門管理一個由十五位工程師組成的團隊。"
+          }
+        },
+        {
+          "en": "He managed to finish the report before the deadline.",
+          "highlight": [
+            "managed"
+          ],
+          "translations": {
+            "zh-TW": "他設法在截止期限前完成了報告。"
+          }
+        },
+        {
+          "en": "The restaurant is managing well despite the staff shortage.",
+          "highlight": [
+            "managing"
+          ],
+          "translations": {
+            "zh-TW": "儘管人手不足，這家餐廳營運得還不錯。"
           }
         }
       ],
       "synonyms": [
         "administer",
-        "control"
+        "handle",
+        "supervise"
       ],
       "antonyms": [
         "neglect",
         "mismanage"
       ],
       "phrases": [
-        "manage",
-        "a",
-        "team",
-        "manage",
-        "the"
+        "manage a team",
+        "manage to do",
+        "manage time",
+        "manage a project"
       ]
     },
     {
@@ -418,46 +552,61 @@
       "toeic_score_min": 200,
       "word": "management",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "managemented",
-        "past_participle": "managemented",
-        "present_participle": "managementing",
-        "third_person": "managements"
+        "plural": "managements"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "management",
-          "definition": "n. 經营, 支配, 管理, [化] 管理處"
+          "definition": "n. 管理、經營、管理階層、資方"
         }
       ],
       "examples": [
         {
-          "en": "Effective management is crucial.",
+          "en": "Effective management is crucial for a company's success.",
           "highlight": [
             "management"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "高效的管理對公司的成功至關重要。"
+          }
+        },
+        {
+          "en": "Several Japanese managements are known for their long-term planning.",
+          "highlight": [
+            "managements"
+          ],
+          "translations": {
+            "zh-TW": "幾家日本企業的管理階層以其長期規劃聞名。"
+          }
+        },
+        {
+          "en": "Senior management will announce the new policy next week.",
+          "highlight": [
+            "management"
+          ],
+          "translations": {
+            "zh-TW": "高階主管將於下週宣布新政策。"
           }
         }
       ],
       "synonyms": [
         "administration",
-        "supervision"
+        "supervision",
+        "direction"
       ],
       "antonyms": [
         "mismanagement"
       ],
       "phrases": [
-        "effective",
-        "management",
-        "management",
-        "skills"
+        "time management",
+        "senior management",
+        "management team",
+        "risk management"
       ]
     },
     {
@@ -468,47 +617,62 @@
       "toeic_score_min": 200,
       "word": "manager",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "managered",
-        "past_participle": "managered",
-        "present_participle": "managering",
-        "third_person": "managers"
+        "plural": "managers"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "manager",
-          "definition": "n. 經理, 管理員, 管理器, [计] 管理器"
+          "definition": "n. 經理、管理員、主管"
         }
       ],
       "examples": [
         {
-          "en": "He is the manager of the team.",
+          "en": "The store manager approved the return without a receipt.",
           "highlight": [
             "manager"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "店經理在沒有收據的情況下批准了退貨。"
+          }
+        },
+        {
+          "en": "Experienced managers often mentor junior staff during onboarding.",
+          "highlight": [
+            "managers"
+          ],
+          "translations": {
+            "zh-TW": "經驗豐富的經理常在新人入職期間指導資淺員工。"
+          }
+        },
+        {
+          "en": "She was promoted to branch manager after only two years.",
+          "highlight": [
+            "manager"
+          ],
+          "translations": {
+            "zh-TW": "她僅僅兩年後就升任分行經理。"
           }
         }
       ],
       "synonyms": [
         "director",
-        "supervisor"
+        "supervisor",
+        "executive"
       ],
       "antonyms": [
         "employee",
         "worker"
       ],
       "phrases": [
-        "team",
-        "manager",
-        "project",
-        "manager"
+        "branch manager",
+        "project manager",
+        "office manager",
+        "report to the manager"
       ]
     }
   ]
