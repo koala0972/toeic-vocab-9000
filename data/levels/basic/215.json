@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 215,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-215-001",
@@ -15,42 +15,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "playered",
+        "plural": "players",
+        "present_3rd": "players",
+        "past": "playered",
         "past_participle": "playered",
-        "present_participle": "playering",
-        "third_person": "players"
+        "ing": "playering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "player",
-          "definition": "n. 竞赛者, 上場队員, 游戏者, 演員, [經] 交易者"
+          "definition": "n. 選手、球員、遊戲者、播放器  v. 扮演、參與"
         }
       ],
       "examples": [
         {
-          "en": "The player scored a goal.",
+          "en": "The young player signed a three-year contract with the team.",
           "highlight": [
             "player"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "那位年輕球員與球隊簽下了三年合約。"
+          }
+        },
+        {
+          "en": "Star players often attract lucrative sponsorship deals.",
+          "highlight": [
+            "players"
+          ],
+          "translations": {
+            "zh-TW": "明星球員經常吸引豐厚的贊助合約。"
+          }
+        },
+        {
+          "en": "She playered her role in the marketing campaign with great enthusiasm.",
+          "highlight": [
+            "playered"
+          ],
+          "translations": {
+            "zh-TW": "她在行銷活動中扮演了自己的角色，充滿熱忱。"
           }
         }
       ],
       "synonyms": [
         "athlete",
+        "competitor",
         "participant"
       ],
       "antonyms": [
         "spectator"
       ],
       "phrases": [
-        "soccer",
-        "player",
-        "basketball",
-        "player"
+        "team player",
+        "star player",
+        "record player",
+        "media player"
       ]
     },
     {
@@ -61,44 +81,63 @@
       "toeic_score_min": 500,
       "word": "pleasant",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "pleasants"
+        "comparative": "pleasanter",
+        "superlative": "pleasantest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pleasant",
-          "definition": "a. 愉快的, 可爱的, 活泼的, 亲切的"
+          "definition": "adj. 令人愉快的、舒適的、友善的"
         }
       ],
       "examples": [
         {
-          "en": "They had a pleasant conversation.",
+          "en": "We had a pleasant dinner with our new clients.",
           "highlight": [
             "pleasant"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們和新客戶共進了一頓愉快的晚餐。"
+          }
+        },
+        {
+          "en": "The weather today is pleasanter than yesterday.",
+          "highlight": [
+            "pleasanter"
+          ],
+          "translations": {
+            "zh-TW": "今天的天氣比昨天更舒適。"
+          }
+        },
+        {
+          "en": "This has been the pleasantest trip I have ever taken.",
+          "highlight": [
+            "pleasantest"
+          ],
+          "translations": {
+            "zh-TW": "這是我經歷過最愉快的一次旅行。"
           }
         }
       ],
       "synonyms": [
+        "agreeable",
         "enjoyable",
-        "pleasing"
+        "delightful"
       ],
       "antonyms": [
         "unpleasant",
-        "displeasing"
+        "disagreeable"
       ],
       "phrases": [
-        "pleasant",
-        "weather",
-        "pleasant",
-        "surprise"
+        "pleasant weather",
+        "pleasant surprise",
+        "pleasant conversation",
+        "pleasant evening"
       ]
     },
     {
@@ -110,46 +149,66 @@
       "word": "please",
       "pos": [
         "verb",
-        "noun"
+        "adverb"
       ],
       "conjugations": {
-        "past_tense": "pleaseed",
-        "past_participle": "pleaseed",
-        "present_participle": "pleasing",
-        "third_person": "pleases"
+        "present_3rd": "pleases",
+        "past": "pleased",
+        "past_participle": "pleased",
+        "ing": "pleasing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "please",
-          "definition": "adv. 請, vt. 使高興, 合...的心意, 取悦, vi. 使人满意, 讨好, 愿意, 敬請"
+          "definition": "adv. 請  v. 使高興、取悅、討好"
         }
       ],
       "examples": [
         {
-          "en": "Her smile pleased him.",
+          "en": "Please send the report by Friday afternoon.",
           "highlight": [
-            "please"
+            "Please"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在週五下午前寄出報告。"
+          }
+        },
+        {
+          "en": "The new product design pleased the marketing team.",
+          "highlight": [
+            "pleased"
+          ],
+          "translations": {
+            "zh-TW": "新產品設計令行銷團隊很滿意。"
+          }
+        },
+        {
+          "en": "Her pleasing personality makes her popular in the office.",
+          "highlight": [
+            "pleasing"
+          ],
+          "translations": {
+            "zh-TW": "她討人喜歡的個性讓她在辦公室很受歡迎。"
           }
         }
       ],
       "synonyms": [
         "satisfy",
-        "delight"
+        "delight",
+        "content"
       ],
       "antonyms": [
         "displease",
-        "annoy"
+        "annoy",
+        "offend"
       ],
       "phrases": [
-        "please",
-        "someone",
-        "please",
-        "yourself"
+        "if you please",
+        "please yourself",
+        "pleased to meet you",
+        "hard to please"
       ]
     },
     {
@@ -164,44 +223,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "pleasureed",
-        "past_participle": "pleasureed",
-        "present_participle": "pleasuring",
-        "third_person": "pleasures"
+        "plural": "pleasures",
+        "present_3rd": "pleasures",
+        "past": "pleasured",
+        "past_participle": "pleasured",
+        "ing": "pleasuring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pleasure",
-          "definition": "n. 快乐, 愉快, 令人高興的事, 娱乐, 希望, v. (使)高興"
+          "definition": "n. 快樂、愉悅、樂事  v. 使高興"
         }
       ],
       "examples": [
         {
-          "en": "It was a pleasure to meet you.",
+          "en": "It was a pleasure to do business with your company.",
           "highlight": [
             "pleasure"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "與貴公司做生意真是一大樂事。"
+          }
+        },
+        {
+          "en": "Simple pleasures like reading a book bring her great comfort.",
+          "highlight": [
+            "pleasures"
+          ],
+          "translations": {
+            "zh-TW": "閱讀一本書這類簡單的樂趣為她帶來極大的慰藉。"
+          }
+        },
+        {
+          "en": "The manager was pleasured by the team's outstanding performance.",
+          "highlight": [
+            "pleasured"
+          ],
+          "translations": {
+            "zh-TW": "團隊出色的表現令經理感到欣慰。"
           }
         }
       ],
       "synonyms": [
         "enjoyment",
-        "delight"
+        "delight",
+        "satisfaction"
       ],
       "antonyms": [
         "displeasure",
         "discomfort"
       ],
       "phrases": [
-        "great",
-        "pleasure",
-        "take",
-        "pleasure",
-        "in"
+        "great pleasure",
+        "take pleasure in",
+        "pleasure trip",
+        "with pleasure"
       ]
     },
     {
@@ -223,35 +301,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "plenty",
-          "definition": "n. 充分, 很多, 丰富, a. 很多的, 足够的, 丰富的"
+          "definition": "n. 豐富、充足  adv. 充分地、足夠"
         }
       ],
       "examples": [
         {
-          "en": "There is plenty of food for everyone.",
+          "en": "There is plenty of time to finish the project.",
           "highlight": [
             "plenty"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "還有充裕的時間可以完成這個專案。"
+          }
+        },
+        {
+          "en": "We had plenty of options to choose from.",
+          "highlight": [
+            "plenty"
+          ],
+          "translations": {
+            "zh-TW": "我們有許多選擇可以挑選。"
+          }
+        },
+        {
+          "en": "The factory has plenty in stock to meet the holiday demand.",
+          "highlight": [
+            "plenty"
+          ],
+          "translations": {
+            "zh-TW": "工廠庫存充足，足以應付假期需求。"
           }
         }
       ],
       "synonyms": [
         "abundance",
-        "a",
-        "lot"
+        "ample",
+        "enough"
       ],
       "antonyms": [
         "scarcity",
         "lack"
       ],
       "phrases": [
-        "plenty",
-        "of",
-        "time",
-        "plenty",
-        "to"
+        "plenty of time",
+        "plenty of room",
+        "plenty more",
+        "plenty good enough"
       ]
     },
     {
@@ -266,43 +361,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "ploted",
-        "past_participle": "ploted",
-        "present_participle": "ploting",
-        "third_person": "plots"
+        "plural": "plots",
+        "present_3rd": "plots",
+        "past": "plotted",
+        "past_participle": "plotted",
+        "ing": "plotting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "plot",
-          "definition": "n. 小块土地, 地區图, 图, 阴谋, 情节, vt. 划分, 绘图, 密谋, vi. 密谋, 策划, [计] 绘制"
+          "definition": "n. 情節、陰謀、小塊土地、圖表  v. 密謀、繪製"
         }
       ],
       "examples": [
         {
-          "en": "They uncovered a plot to overthrow the government.",
+          "en": "The movie's plot kept the audience engaged until the end.",
           "highlight": [
             "plot"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這部電影的情節讓觀眾一路沉浸到結尾。"
+          }
+        },
+        {
+          "en": "The detectives discovered that the suspects had plotted the robbery for months.",
+          "highlight": [
+            "plotted"
+          ],
+          "translations": {
+            "zh-TW": "警探發現嫌犯已密謀這場搶劫好幾個月了。"
+          }
+        },
+        {
+          "en": "She is currently plotting a new strategy to increase sales.",
+          "highlight": [
+            "plotting"
+          ],
+          "translations": {
+            "zh-TW": "她目前正在策劃一項提升銷售额的新策略。"
           }
         }
       ],
       "synonyms": [
         "scheme",
-        "conspiracy"
+        "conspiracy",
+        "plan"
       ],
       "antonyms": [
         "honesty",
         "openness"
       ],
       "phrases": [
-        "plot",
-        "against",
-        "secret",
-        "plot"
+        "plot against",
+        "the plot thickens",
+        "secret plot",
+        "plot twist"
       ]
     },
     {
@@ -317,40 +432,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "pluged",
-        "past_participle": "pluged",
-        "present_participle": "pluging",
-        "third_person": "plugs"
+        "plural": "plugs",
+        "present_3rd": "plugs",
+        "past": "plugged",
+        "past_participle": "plugged",
+        "ing": "plugging"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "plug",
-          "definition": "n. 塞子, 栓, 插頭, vt. 插入, 塞住, 接插頭, vi. 被塞住"
+          "definition": "n. 插頭、塞子  v. 插入、塞住、宣傳"
         }
       ],
       "examples": [
         {
-          "en": "He put the plug back in the sink.",
+          "en": "Please plug the cable into the wall outlet.",
           "highlight": [
             "plug"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請把電纜插到牆壁插座上。"
+          }
+        },
+        {
+          "en": "She plugged the product during her speech at the conference.",
+          "highlight": [
+            "plugged"
+          ],
+          "translations": {
+            "zh-TW": "她在研討會演講中順勢宣傳了這項產品。"
+          }
+        },
+        {
+          "en": "The marketing team is plugging the new app across social media platforms.",
+          "highlight": [
+            "plugging"
+          ],
+          "translations": {
+            "zh-TW": "行銷團隊正在各個社群平台上大力推廣這款新應用程式。"
           }
         }
       ],
       "synonyms": [
         "stopper",
-        "block"
+        "block",
+        "promote"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "unblock",
+        "unplug"
+      ],
       "phrases": [
-        "plug",
-        "in",
-        "electrical",
-        "plug"
+        "plug in",
+        "plug into",
+        "pull the plug",
+        "plug away"
       ]
     },
     {
@@ -372,34 +510,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "plus",
-          "definition": "prep. 加上, 加, 外加, a. 正的, 附加的, n. 正號, 加號, 附加额, 正数, 增益, [计] 正差"
+          "definition": "prep. 加上、外加  n. 加號、附加利益  adj. 正的、額外的"
         }
       ],
       "examples": [
         {
-          "en": "Two plus two equals four.",
+          "en": "The total cost is five hundred dollars plus tax.",
           "highlight": [
             "plus"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "總共是五百美元，外加稅金。"
+          }
+        },
+        {
+          "en": "Speaking a second language is a plus when applying for the job.",
+          "highlight": [
+            "plus"
+          ],
+          "translations": {
+            "zh-TW": "會說第二外語是應徵這份工作的一項加分條件。"
+          }
+        },
+        {
+          "en": "There are several pluses to working from home.",
+          "highlight": [
+            "pluses"
+          ],
+          "translations": {
+            "zh-TW": "在家工作有幾個額外的好處。"
           }
         }
       ],
       "synonyms": [
         "and",
-        "addition"
+        "addition",
+        "bonus"
       ],
       "antonyms": [
         "minus",
         "subtraction"
       ],
       "phrases": [
-        "plus",
-        "sign",
-        "two",
-        "plus",
-        "two"
+        "plus sign",
+        "plus side",
+        "two plus two",
+        "on the plus side"
       ]
     },
     {
@@ -414,41 +570,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "pocketed",
+        "plural": "pockets",
+        "present_3rd": "pockets",
+        "past": "pocketed",
         "past_participle": "pocketed",
-        "present_participle": "pocketing",
-        "third_person": "pockets"
+        "ing": "pocketing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pocket",
-          "definition": "n. 口袋, 钱袋, 钱, 容器, vt. 装...在口袋裡, 隐藏, 抑制, 私吞, 搁置, 击...入袋, a. 袖珍的, 小型的, 压缩的, 金钱上的"
+          "definition": "n. 口袋、財物  v. 私吞、裝入袋中  adj. 袖珍的"
         }
       ],
       "examples": [
         {
-          "en": "He put the keys in his pocket.",
+          "en": "He carefully placed the receipt in his jacket pocket.",
           "highlight": [
             "pocket"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他把收據小心地放進夾克口袋裡。"
+          }
+        },
+        {
+          "en": "The cashier pocketed the difference instead of returning it to the customer.",
+          "highlight": [
+            "pocketed"
+          ],
+          "translations": {
+            "zh-TW": "收銀員把差額私吞，沒有退還給客人。"
+          }
+        },
+        {
+          "en": "Employees caught pocketing company funds will face legal action.",
+          "highlight": [
+            "pocketing"
+          ],
+          "translations": {
+            "zh-TW": "被抓到私吞公司資金的員工將面臨法律追究。"
           }
         }
       ],
       "synonyms": [
+        "pouch",
         "wallet",
-        "pouch"
+        "scoop"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "donate",
+        "give"
+      ],
       "phrases": [
-        "put",
-        "in",
-        "pocket",
-        "deep",
-        "pocket"
+        "out of pocket",
+        "deep pockets",
+        "pocket money",
+        "in pocket"
       ]
     },
     {
@@ -459,45 +637,61 @@
       "toeic_score_min": 500,
       "word": "poem",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "poemed",
-        "past_participle": "poemed",
-        "present_participle": "poeming",
-        "third_person": "poems"
+        "plural": "poems"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "poem",
-          "definition": "n. 诗, 诗般美的事物"
+          "definition": "n. 詩、詩篇、詩般美好之物"
         }
       ],
       "examples": [
         {
-          "en": "She recited a beautiful poem.",
+          "en": "The professor asked the students to analyze a classic poem.",
           "highlight": [
             "poem"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "教授要求學生分析一首經典詩作。"
+          }
+        },
+        {
+          "en": "She has published three poems in the university literary magazine.",
+          "highlight": [
+            "poems"
+          ],
+          "translations": {
+            "zh-TW": "她在校刊上發表了三首詩。"
+          }
+        },
+        {
+          "en": "Many of his poems explore themes of love and loss.",
+          "highlight": [
+            "poems"
+          ],
+          "translations": {
+            "zh-TW": "他的許多詩作探討愛與失去的主題。"
           }
         }
       ],
       "synonyms": [
         "verse",
-        "lyric"
+        "lyric",
+        "rhyme"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "prose"
+      ],
       "phrases": [
-        "write",
-        "a",
-        "poem",
-        "recite",
-        "a"
+        "write a poem",
+        "recite a poem",
+        "love poem",
+        "epic poem"
       ]
     }
   ]
