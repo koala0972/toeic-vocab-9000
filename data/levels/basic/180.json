@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 180,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-180-001",
@@ -15,40 +15,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "mattered",
+        "plural": "matters",
+        "present_3rd": "matters",
+        "past": "mattered",
         "past_participle": "mattered",
-        "present_participle": "mattering",
-        "third_person": "matters"
+        "ing": "mattering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "matter",
-          "definition": "n. 事件, 物质, 原因, 素材, 實体, 重要, vi. 有關系"
+          "definition": "n. 事情、事務、物質  v. 要緊、關係重大"
         }
       ],
       "examples": [
         {
-          "en": "Dark matter makes up most of the universe.",
+          "en": "The board will discuss the matter at tomorrow's meeting.",
           "highlight": [
             "matter"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "董事會將在明天的會議上討論這件事。"
+          }
+        },
+        {
+          "en": "It didn't matter how hard he tried; the deal fell through.",
+          "highlight": [
+            "matter"
+          ],
+          "translations": {
+            "zh-TW": "不管他多麼努力，這筆交易還是破局了。"
+          }
+        },
+        {
+          "en": "Quality matters a great deal in this industry.",
+          "highlight": [
+            "matters"
+          ],
+          "translations": {
+            "zh-TW": "在這個行業中，品質非常重要。"
           }
         }
       ],
       "synonyms": [
-        "substance",
-        "material"
+        "issue",
+        "subject",
+        "concern"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "triviality"
+      ],
       "phrases": [
-        "physical",
-        "matter",
-        "no",
-        "matter"
+        "no matter",
+        "matter of fact",
+        "subject matter",
+        "what's the matter"
       ]
     },
     {
@@ -70,21 +92,40 @@
         {
           "lang": "zh-TW",
           "lang_word": "maximum",
-          "definition": "n. 极點, 最大量, 极大, a. 最高的, 最大的, 最大极限的, [计] 最大值"
+          "definition": "n. 最大量、最高極限  adj. 最高的、最大的"
         }
       ],
       "examples": [
         {
-          "en": "She reached the maximum score.",
+          "en": "The maximum capacity of the venue is five hundred guests.",
           "highlight": [
             "maximum"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這個場地的最大容量是五百位賓客。"
+          }
+        },
+        {
+          "en": "The branches set their own maximums for the daily withdrawal.",
+          "highlight": [
+            "maximums"
+          ],
+          "translations": {
+            "zh-TW": "各分行自行設定每日提款的最高限額。"
+          }
+        },
+        {
+          "en": "Drivers must obey the maximum speed limit on the highway.",
+          "highlight": [
+            "maximum"
+          ],
+          "translations": {
+            "zh-TW": "駕駛人必須遵守高速公路上的最高速限。"
           }
         }
       ],
       "synonyms": [
+        "peak",
         "greatest",
         "highest"
       ],
@@ -93,10 +134,10 @@
         "least"
       ],
       "phrases": [
-        "maximum",
-        "capacity",
-        "maximum",
-        "amount"
+        "maximum capacity",
+        "maximum amount",
+        "maximum limit",
+        "reach the maximum"
       ]
     },
     {
@@ -111,43 +152,59 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "mayed",
-        "past_participle": "mayed",
-        "present_participle": "maying",
-        "third_person": "mays"
+        "plural": "Mays"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "may",
-          "definition": "n. 五月, aux. 愿能, 可以, 愿意"
+          "definition": "aux. 可以、也許  n. 五月"
         }
       ],
       "examples": [
         {
-          "en": "May I come in?",
+          "en": "May I see your membership card, please?",
+          "highlight": [
+            "May"
+          ],
+          "translations": {
+            "zh-TW": "請問可以讓我看一下您的會員卡嗎？"
+          }
+        },
+        {
+          "en": "The new policy may take effect as early as next May.",
           "highlight": [
             "may"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新政策可能最早在明年五月生效。"
+          }
+        },
+        {
+          "en": "All employees, regardless of their Mays of joining, are eligible.",
+          "highlight": [
+            "Mays"
+          ],
+          "translations": {
+            "zh-TW": "所有員工，無論是在哪個五月入職的，都符合資格。"
           }
         }
       ],
       "synonyms": [
         "might",
-        "could"
+        "could",
+        "perhaps"
       ],
       "antonyms": [
         "must",
         "will"
       ],
       "phrases": [
-        "may",
-        "I",
-        "may",
-        "not"
+        "may I",
+        "may not",
+        "may be",
+        "as of May"
       ]
     },
     {
@@ -166,33 +223,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "maybe",
-          "definition": "adv. 也许, 大概, n. 可能性"
+          "definition": "adv. 也許、大概、可能"
         }
       ],
       "examples": [
         {
-          "en": "Maybe we should try a different approach.",
+          "en": "Maybe we should reschedule the conference call.",
+          "highlight": [
+            "Maybe"
+          ],
+          "translations": {
+            "zh-TW": "也許我們應該重新安排這通電話會議。"
+          }
+        },
+        {
+          "en": "The client will maybe confirm the order by Friday.",
           "highlight": [
             "maybe"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "客戶可能會在週五前確認訂單。"
+          }
+        },
+        {
+          "en": "Maybe yes, maybe no—either way we keep moving forward.",
+          "highlight": [
+            "maybe"
+          ],
+          "translations": {
+            "zh-TW": "也許是，也許不是——無論如何我們都會繼續前進。"
           }
         }
       ],
       "synonyms": [
         "perhaps",
-        "possibly"
+        "possibly",
+        "potentially"
       ],
       "antonyms": [
         "certainly",
+        "definitely",
         "surely"
       ],
       "phrases": [
-        "maybe",
-        "yes",
-        "maybe",
-        "no"
+        "maybe later",
+        "maybe not",
+        "maybe yes",
+        "maybe so"
       ]
     },
     {
@@ -203,46 +280,66 @@
       "toeic_score_min": 200,
       "word": "mayor",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "mayored",
+        "plural": "mayors",
+        "present_3rd": "mayors",
+        "past": "mayored",
         "past_participle": "mayored",
-        "present_participle": "mayoring",
-        "third_person": "mayors"
+        "ing": "mayoring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mayor",
-          "definition": "n. 市長, [法] 市長"
+          "definition": "n. 市長、鎮長"
         }
       ],
       "examples": [
         {
-          "en": "The mayor attended the event.",
+          "en": "The mayor unveiled the new public transit plan this morning.",
           "highlight": [
             "mayor"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "市長今天早上公布了新的公共運輸計畫。"
+          }
+        },
+        {
+          "en": "Several mayors from neighboring cities signed the trade agreement.",
+          "highlight": [
+            "mayors"
+          ],
+          "translations": {
+            "zh-TW": "幾位鄰近城市的市長簽署了貿易協定。"
+          }
+        },
+        {
+          "en": "She mayored the small town for eight years before retiring.",
+          "highlight": [
+            "mayored"
+          ],
+          "translations": {
+            "zh-TW": "她擔任了那座小鎮八年的鎮長才退休。"
           }
         }
       ],
       "synonyms": [
-        "city",
-        "head",
-        "municipal",
-        "head"
+        "city head",
+        "chief executive",
+        "chief magistrate"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "constituency",
+        "governor"
+      ],
       "phrases": [
-        "elected",
-        "mayor",
-        "new",
-        "mayor"
+        "elected mayor",
+        "new mayor",
+        "mayor office",
+        "lieutenant mayor"
       ]
     },
     {
@@ -261,31 +358,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "me",
-          "definition": "pron. 我"
+          "definition": "pron. 我（受格）"
         }
       ],
       "examples": [
         {
-          "en": "She gave me a gift.",
+          "en": "Please forward the invoice to me by end of day.",
           "highlight": [
             "me"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在下班前把發票轉寄給我。"
+          }
+        },
+        {
+          "en": "HR told me the benefits package had been updated.",
+          "highlight": [
+            "me"
+          ],
+          "translations": {
+            "zh-TW": "人資告訴我福利方案已經更新了。"
+          }
+        },
+        {
+          "en": "The vendor let me preview the prototype before the launch.",
+          "highlight": [
+            "me"
+          ],
+          "translations": {
+            "zh-TW": "供應商讓我在發表會前預覽原型。"
           }
         }
       ],
       "synonyms": [
         "myself",
-        "I"
+        "mine"
       ],
-      "antonyms": [],
-      "phrases": [
-        "me",
-        "and",
+      "antonyms": [
         "you",
-        "me",
-        "too"
+        "them",
+        "others"
+      ],
+      "phrases": [
+        "send me",
+        "tell me",
+        "give me",
+        "help me"
       ]
     },
     {
@@ -296,45 +414,65 @@
       "toeic_score_min": 200,
       "word": "meal",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "mealed",
+        "plural": "meals",
+        "present_3rd": "meals",
+        "past": "mealed",
         "past_participle": "mealed",
-        "present_participle": "mealing",
-        "third_person": "meals"
+        "ing": "mealing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "meal",
-          "definition": "n. 一餐, 膳食, 粗粉, vi. 进餐"
+          "definition": "n. 一餐、膳食、餐點"
         }
       ],
       "examples": [
         {
-          "en": "We had a delicious meal.",
+          "en": "Lunch is the most important business meal of the day.",
           "highlight": [
             "meal"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "商務午餐是一天中最重要的商務餐點。"
+          }
+        },
+        {
+          "en": "The hotel offers three meals daily, included in the rate.",
+          "highlight": [
+            "meals"
+          ],
+          "translations": {
+            "zh-TW": "飯店每天提供三餐，已包含在房價中。"
+          }
+        },
+        {
+          "en": "Staff who mealed on-site saved time and expense reports.",
+          "highlight": [
+            "mealed"
+          ],
+          "translations": {
+            "zh-TW": "在園區內用餐的員工省下了時間和報帳手續。"
           }
         }
       ],
       "synonyms": [
-        "food",
+        "dish",
+        "course",
         "feast"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "fast"
+      ],
       "phrases": [
-        "have",
-        "a",
-        "meal",
-        "meal",
-        "time"
+        "have a meal",
+        "meal time",
+        "business meal",
+        "square meal"
       ]
     },
     {
@@ -346,35 +484,56 @@
       "word": "mean",
       "pos": [
         "verb",
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "meaned",
-        "past_participle": "meaned",
-        "present_participle": "meaning",
-        "third_person": "means"
+        "plural": "means",
+        "present_3rd": "means",
+        "past": "meant",
+        "past_participle": "meant",
+        "ing": "meaning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mean",
-          "definition": "a. 低劣的, 卑贱的, 简陋的, 吝啬的, 惭愧的, 平均的, 中間的, 普通的, vt. 意谓, 想要, 意欲, 预定, vi. 用意, 有意义, n. 平均数, 中間, 中庸"
+          "definition": "v. 意指、意思是、具有重要意義  adj. 吝嗇的、刻薄的  n. 平均、中間"
         }
       ],
       "examples": [
         {
-          "en": "What do you mean?",
+          "en": "What does this clause in the contract mean?",
           "highlight": [
             "mean"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "合約中這個條款是什麼意思？"
+          }
+        },
+        {
+          "en": "The manager meant to send the report before leaving.",
+          "highlight": [
+            "meant"
+          ],
+          "translations": {
+            "zh-TW": "經理原本打算在離開前把報告寄出。"
+          }
+        },
+        {
+          "en": "She is meaning to raise the issue at the next quarterly review.",
+          "highlight": [
+            "meaning"
+          ],
+          "translations": {
+            "zh-TW": "她打算在下一次季度回顧會議上提出這個問題。"
           }
         }
       ],
       "synonyms": [
         "signify",
+        "indicate",
         "imply"
       ],
       "antonyms": [
@@ -382,11 +541,10 @@
         "confuse"
       ],
       "phrases": [
-        "mean",
-        "to",
-        "what",
-        "do",
-        "you"
+        "mean to",
+        "what do you mean",
+        "mean business",
+        "got means"
       ]
     },
     {
@@ -397,46 +555,61 @@
       "toeic_score_min": 200,
       "word": "meaning",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "meaninged",
-        "past_participle": "meaninged",
-        "present_participle": "meaninging",
-        "third_person": "meanings"
+        "plural": "meanings"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "meaning",
-          "definition": "n. 意义, 含义, 目的, 意图, a. 意味深長的"
+          "definition": "n. 意義、含義、意圖"
         }
       ],
       "examples": [
         {
-          "en": "The meaning of the word is clear.",
+          "en": "The legal jargon obscures the true meaning of the clause.",
           "highlight": [
             "meaning"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "法律術語掩蓋了條款的真正含義。"
+          }
+        },
+        {
+          "en": "A single word can have several meanings in English.",
+          "highlight": [
+            "meanings"
+          ],
+          "translations": {
+            "zh-TW": "一個英文單字可以有多種含義。"
+          }
+        },
+        {
+          "en": "The new CEO shared her vision about the company's meaning.",
+          "highlight": [
+            "meaning"
+          ],
+          "translations": {
+            "zh-TW": "新任執行長分享了對於公司存在意義的願景。"
           }
         }
       ],
       "synonyms": [
         "definition",
-        "sense"
+        "sense",
+        "significance"
       ],
       "antonyms": [
         "meaninglessness"
       ],
       "phrases": [
-        "exact",
-        "meaning",
-        "meaning",
-        "of"
+        "deep meaning",
+        "exact meaning",
+        "meaning of life",
+        "lost its meaning"
       ]
     },
     {
@@ -451,41 +624,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "meansed",
-        "past_participle": "meansed",
-        "present_participle": "meansing",
-        "third_person": "meanses"
+        "plural": "means",
+        "present_3rd": "means",
+        "past": "meant",
+        "past_participle": "meant",
+        "ing": "meaning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "means",
-          "definition": "n. 方法, 手段, 工具, 财产, 收入, [經] 方法, 手段, 工具; 意谓"
+          "definition": "n. 方法、手段、資源、收入  v. mean 的第三人称單數"
         }
       ],
       "examples": [
         {
-          "en": "He found a means to achieve his goal.",
+          "en": "The freight was shipped by railway, an economical means of transport.",
           "highlight": [
             "means"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "貨物經由鐵路運送，這是一種經濟的運輸方式。"
+          }
+        },
+        {
+          "en": "She lives within her means and saves half her salary every month.",
+          "highlight": [
+            "means"
+          ],
+          "translations": {
+            "zh-TW": "她量入為出，每個月將一半薪資存下來。"
+          }
+        },
+        {
+          "en": "The new billing system means clients pay less each quarter.",
+          "highlight": [
+            "means"
+          ],
+          "translations": {
+            "zh-TW": "新的帳單系統讓客戶每季支付的費用更低。"
           }
         }
       ],
       "synonyms": [
         "method",
-        "way"
+        "way",
+        "resources"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "end"
+      ],
       "phrases": [
-        "means",
-        "to",
-        "an",
-        "end",
-        "means"
+        "means to an end",
+        "by all means",
+        "by means of",
+        "within one's means"
       ]
     }
   ]
