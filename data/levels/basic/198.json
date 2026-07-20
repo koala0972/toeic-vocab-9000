@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 198,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-198-001",
@@ -11,44 +11,63 @@
       "toeic_score_min": 200,
       "word": "obvious",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "obviouses"
+        "comparative": "more obvious",
+        "superlative": "most obvious"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "obvious",
-          "definition": "a. 明顯的, 明白的, 顯然的, 平淡无奇的"
+          "definition": "adj. 明顯的、顯而易見的、一目了然的"
         }
       ],
       "examples": [
         {
-          "en": "It was obvious that he was lying.",
+          "en": "It was obvious to everyone that the customer was very upset.",
           "highlight": [
             "obvious"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "每個人都看得出來那位顧客非常生氣。"
+          }
+        },
+        {
+          "en": "The mistake became more obvious after the manager reviewed the invoice.",
+          "highlight": [
+            "more obvious"
+          ],
+          "translations": {
+            "zh-TW": "經理核對發票後，這個錯誤變得更加明顯。"
+          }
+        },
+        {
+          "en": "That is the most obvious solution to reduce shipping costs.",
+          "highlight": [
+            "most obvious"
+          ],
+          "translations": {
+            "zh-TW": "那是最明顯能降低運費的解決方案。"
           }
         }
       ],
       "synonyms": [
         "clear",
-        "evident"
+        "evident",
+        "apparent"
       ],
       "antonyms": [
-        "unclear",
+        "obscure",
         "ambiguous"
       ],
       "phrases": [
-        "obvious",
-        "reason",
-        "obvious",
-        "answer"
+        "obvious reason",
+        "obvious solution",
+        "obvious choice",
+        "obvious mistake"
       ]
     },
     {
@@ -67,32 +86,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "obviously",
-          "definition": "adv. 顯而易见地, 明顯地"
+          "definition": "adv. 顯然地、明顯地、顯而易見地"
         }
       ],
       "examples": [
         {
-          "en": "He is obviously not interested.",
+          "en": "Obviously, the flight delay affected every passenger's schedule.",
+          "highlight": [
+            "Obviously"
+          ],
+          "translations": {
+            "zh-TW": "顯然地，航班延誤影響了每位乘客的行程。"
+          }
+        },
+        {
+          "en": "He obviously didn't read the contract before signing it.",
           "highlight": [
             "obviously"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他顯然沒有先讀合約就簽了名。"
+          }
+        },
+        {
+          "en": "The sales figures obviously improved after the new marketing campaign.",
+          "highlight": [
+            "obviously"
+          ],
+          "translations": {
+            "zh-TW": "新的行銷活動之後，銷售數字明顯改善了。"
           }
         }
       ],
       "synonyms": [
         "clearly",
-        "evidently"
+        "evidently",
+        "plainly"
       ],
       "antonyms": [
-        "unclearly"
+        "obscurely",
+        "vaguely"
       ],
       "phrases": [
-        "obviously",
-        "true",
-        "obviously",
-        "false"
+        "obviously true",
+        "obviously wrong",
+        "obviously tired",
+        "obviously busy"
       ]
     },
     {
@@ -107,41 +146,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "occasioned",
+        "plural": "occasions",
+        "present_3rd": "occasions",
+        "past": "occasioned",
         "past_participle": "occasioned",
-        "present_participle": "occasioning",
-        "third_person": "occasions"
+        "ing": "occasioning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "occasion",
-          "definition": "n. 場合, 時机, 机會, 诱因, 理由, vt. 惹起, 引起"
+          "definition": "n. 場合、時機、特殊事件  v. 引起、造成"
         }
       ],
       "examples": [
         {
-          "en": "They met on the occasion of her birthday.",
+          "en": "We wore formal suits for the occasion of the company's anniversary dinner.",
           "highlight": [
             "occasion"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們穿上正式西裝出席公司週年晚宴這個場合。"
+          }
+        },
+        {
+          "en": "She has attended many special occasions during her diplomatic career.",
+          "highlight": [
+            "occasions"
+          ],
+          "translations": {
+            "zh-TW": "她在外交生涯中出席過許多特殊場合。"
+          }
+        },
+        {
+          "en": "The sudden storm occasioned a delay of three hours at the port.",
+          "highlight": [
+            "occasioned"
+          ],
+          "translations": {
+            "zh-TW": "突如其來的暴風雨導致港口延誤了三個小時。"
           }
         }
       ],
       "synonyms": [
         "event",
-        "instance"
+        "instance",
+        "gathering"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "routine",
+        "habit"
+      ],
       "phrases": [
-        "special",
-        "occasion",
-        "on",
-        "the",
-        "occasion"
+        "special occasion",
+        "on the occasion of",
+        "formal occasion",
+        "rare occasion"
       ]
     },
     {
@@ -152,44 +213,64 @@
       "toeic_score_min": 200,
       "word": "occasional",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "occasionals"
+        "comparative": "more occasional",
+        "superlative": "most occasional"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "occasional",
-          "definition": "a. 偶然的, 临時的, [法] 偶然的, 特殊場合的"
+          "definition": "adj. 偶爾的、非經常的、臨時的"
         }
       ],
       "examples": [
         {
-          "en": "She makes occasional visits to the library.",
+          "en": "She pays occasional visits to the branch office in Osaka.",
           "highlight": [
             "occasional"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她偶爾會去大阪分公司視察。"
+          }
+        },
+        {
+          "en": "His complaints have become more occasional since the new manager arrived.",
+          "highlight": [
+            "more occasional"
+          ],
+          "translations": {
+            "zh-TW": "自從新經理上任後，他的抱怨變得較為偶爾了。"
+          }
+        },
+        {
+          "en": "The HR department holds the most occasional surveys to track employee satisfaction.",
+          "highlight": [
+            "most occasional"
+          ],
+          "translations": {
+            "zh-TW": "人力資源部門會舉行最為零星的調查，以追蹤員工滿意度。"
           }
         }
       ],
       "synonyms": [
         "infrequent",
-        "sporadic"
+        "sporadic",
+        "irregular"
       ],
       "antonyms": [
         "frequent",
-        "regular"
+        "regular",
+        "constant"
       ],
       "phrases": [
-        "occasional",
-        "visit",
-        "occasional",
-        "rain"
+        "occasional visitor",
+        "occasional rain",
+        "occasional work",
+        "occasional drink"
       ]
     },
     {
@@ -208,33 +289,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "occasionally",
-          "definition": "adv. 有時候, 偶而"
+          "definition": "adv. 有時候、偶爾、間或"
         }
       ],
       "examples": [
         {
-          "en": "They occasionally go hiking.",
+          "en": "We occasionally order lunch from the Italian restaurant near the office.",
           "highlight": [
             "occasionally"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們偶爾會從辦公室附近的義大利餐廳訂午餐。"
+          }
+        },
+        {
+          "en": "The printer in the meeting room occasionally jams when the paper is low.",
+          "highlight": [
+            "occasionally"
+          ],
+          "translations": {
+            "zh-TW": "會議室的印表機在紙張不足時偶爾會卡紙。"
+          }
+        },
+        {
+          "en": "She visits clients in Singapore occasionally, usually once every two months.",
+          "highlight": [
+            "occasionally"
+          ],
+          "translations": {
+            "zh-TW": "她偶爾會拜訪新加坡的客戶，通常是每兩個月一次。"
           }
         }
       ],
       "synonyms": [
         "sometimes",
-        "intermittently"
+        "now and then",
+        "from time to time"
       ],
       "antonyms": [
+        "always",
         "frequently",
-        "regularly"
+        "constantly"
       ],
       "phrases": [
-        "occasionally",
-        "visit",
-        "occasionally",
-        "go"
+        "occasionally visit",
+        "occasionally go",
+        "occasionally meet",
+        "occasionally need"
       ]
     },
     {
@@ -245,48 +346,62 @@
       "toeic_score_min": 200,
       "word": "occupation",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "occupationed",
-        "past_participle": "occupationed",
-        "present_participle": "occupationing",
-        "third_person": "occupations"
+        "plural": "occupations"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "occupation",
-          "definition": "n. 职业, 占有, 占有期, 占领, 占领军, [經] 占有, 占用, 职业"
+          "definition": "n. 職業、工作、佔領、佔用"
         }
       ],
       "examples": [
         {
-          "en": "He listed his occupation as a teacher.",
+          "en": "Please state your occupation on the visa application form.",
           "highlight": [
             "occupation"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在簽證申請表上註明您的職業。"
+          }
+        },
+        {
+          "en": "Teaching and nursing are among the most respected occupations in Taiwan.",
+          "highlight": [
+            "occupations"
+          ],
+          "translations": {
+            "zh-TW": "教師和護理是台灣最受尊敬的職業之一。"
+          }
+        },
+        {
+          "en": "The military occupation of the region lasted for nearly two decades.",
+          "highlight": [
+            "occupation"
+          ],
+          "translations": {
+            "zh-TW": "該地區的軍事佔領持續了近二十年。"
           }
         }
       ],
       "synonyms": [
         "job",
-        "profession"
+        "profession",
+        "career"
       ],
       "antonyms": [
         "unemployment",
         "idleness"
       ],
       "phrases": [
-        "current",
-        "occupation",
-        "list",
-        "your",
-        "occupation"
+        "present occupation",
+        "change of occupation",
+        "list occupation",
+        "military occupation"
       ]
     },
     {
@@ -297,48 +412,66 @@
       "toeic_score_min": 200,
       "word": "occupy",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "occupyed",
-        "past_participle": "occupyed",
-        "present_participle": "occupying",
-        "third_person": "occupys"
+        "present_3rd": "occupies",
+        "past": "occupied",
+        "past_participle": "occupied",
+        "ing": "occupying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "occupy",
-          "definition": "vt. 占领, 占(時間、空間等), 住进, 担任, 使从事, 使全神贯注, [法] 占领, 占据, 占有"
+          "definition": "v. 佔據、佔用、居住於、使忙碌"
         }
       ],
       "examples": [
         {
-          "en": "They occupy the apartment on the top floor.",
+          "en": "The new branch office occupies the entire fifteenth floor of the tower.",
           "highlight": [
-            "occupy"
+            "occupies"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新的分公司佔用了塔樓的整個十五樓。"
+          }
+        },
+        {
+          "en": "Protesters occupied the square in front of city hall for three days.",
+          "highlight": [
+            "occupied"
+          ],
+          "translations": {
+            "zh-TW": "抗議民眾佔據市政廳前的廣場長達三天。"
+          }
+        },
+        {
+          "en": "He has been occupying himself with quarterly reports all morning.",
+          "highlight": [
+            "occupying"
+          ],
+          "translations": {
+            "zh-TW": "他整個早上都忙著處理季報。"
           }
         }
       ],
       "synonyms": [
         "inhabit",
-        "reside"
+        "fill",
+        "take up"
       ],
       "antonyms": [
         "vacate",
-        "leave"
+        "leave",
+        "empty"
       ],
       "phrases": [
-        "occupy",
-        "a",
-        "place",
-        "occupy",
-        "the"
+        "occupy space",
+        "occupy time",
+        "occupy a position",
+        "occupy a seat"
       ]
     },
     {
@@ -349,48 +482,66 @@
       "toeic_score_min": 200,
       "word": "occur",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "occured",
-        "past_participle": "occured",
-        "present_participle": "occuring",
-        "third_person": "occurs"
+        "present_3rd": "occurs",
+        "past": "occurred",
+        "past_participle": "occurred",
+        "ing": "occurring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "occur",
-          "definition": "vi. 發生, 被想到, 存在"
+          "definition": "v. 發生、出現、被想到"
         }
       ],
       "examples": [
         {
-          "en": "The event will occur tomorrow.",
+          "en": "System errors rarely occur during off-peak hours.",
           "highlight": [
             "occur"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "系統錯誤在離峰時段很少發生。"
+          }
+        },
+        {
+          "en": "A power outage occurred just as the presentation was about to begin.",
+          "highlight": [
+            "occurred"
+          ],
+          "translations": {
+            "zh-TW": "就在簡報即將開始時發生了停電。"
+          }
+        },
+        {
+          "en": "It occurred to her that she had forgotten to attach the file.",
+          "highlight": [
+            "occurred"
+          ],
+          "translations": {
+            "zh-TW": "她突然想到自己忘了附上檔案。"
           }
         }
       ],
       "synonyms": [
         "happen",
-        "take",
-        "place"
+        "take place",
+        "arise"
       ],
       "antonyms": [
         "cease",
-        "stop"
+        "stop",
+        "halt"
       ],
       "phrases": [
-        "occur",
-        "frequently",
-        "occur",
-        "naturally"
+        "occur to someone",
+        "occur frequently",
+        "occur naturally",
+        "occur regularly"
       ]
     },
     {
@@ -401,46 +552,62 @@
       "toeic_score_min": 200,
       "word": "ocean",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "oceaned",
-        "past_participle": "oceaned",
-        "present_participle": "oceaning",
-        "third_person": "oceans"
+        "plural": "oceans"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "ocean",
-          "definition": "n. 海洋, 广阔, 许多, 一大片, [法] 海洋, 海"
+          "definition": "n. 海洋、大海、廣大"
         }
       ],
       "examples": [
         {
-          "en": "They sailed across the ocean.",
+          "en": "The cargo ship crossed the Pacific Ocean in eighteen days.",
           "highlight": [
             "ocean"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "貨船花了十八天橫渡太平洋。"
+          }
+        },
+        {
+          "en": "The world's oceans cover more than seventy percent of the Earth's surface.",
+          "highlight": [
+            "oceans"
+          ],
+          "translations": {
+            "zh-TW": "世界的海洋覆蓋了地球表面超過百分之七十。"
+          }
+        },
+        {
+          "en": "Find me an ocean freight quote for the containers, please.",
+          "highlight": [
+            "ocean"
+          ],
+          "translations": {
+            "zh-TW": "請幫我查一個海運貨櫃的報價。"
           }
         }
       ],
       "synonyms": [
         "sea",
-        "water"
+        "main",
+        "waters"
       ],
       "antonyms": [
-        "land"
+        "land",
+        "continent"
       ],
       "phrases": [
-        "Atlantic",
-        "Ocean",
-        "vast",
-        "ocean"
+        "ocean freight",
+        "ocean view",
+        "ocean liner",
+        "across the ocean"
       ]
     },
     {
@@ -451,37 +618,57 @@
       "toeic_score_min": 200,
       "word": "o'clock",
       "pos": [
-        "noun"
+        "adverb"
       ],
-      "conjugations": {
-        "plural": "o'clocks"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "o'clock",
-          "definition": "n. ...點钟, 钟頭"
+          "definition": "adv. …點鐘（表示整點時間）"
         }
       ],
       "examples": [
         {
-          "en": "The meeting is at three o'clock.",
+          "en": "The kickoff meeting is scheduled for nine o'clock sharp this morning.",
           "highlight": [
             "o'clock"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "啟動會議排在今天早上九點整。"
+          }
+        },
+        {
+          "en": "Please be at the lobby by two o'clock so we can leave for the airport together.",
+          "highlight": [
+            "o'clock"
+          ],
+          "translations": {
+            "zh-TW": "請兩點前到達大廳，我們才能一起去機場。"
+          }
+        },
+        {
+          "en": "The shop closes at seven o'clock on weekdays and five on weekends.",
+          "highlight": [
+            "o'clock"
+          ],
+          "translations": {
+            "zh-TW": "這家店平日七點打烊，週末五點打烊。"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "sharp",
+        "exactly",
+        "on the dot"
+      ],
       "antonyms": [],
       "phrases": [
-        "three",
-        "o'clock",
-        "one",
-        "o'clock"
+        "nine o'clock",
+        "two o'clock",
+        "by six o'clock",
+        "seven o'clock sharp"
       ]
     }
   ]
