@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 181,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-181-001",
@@ -11,7 +11,8 @@
       "toeic_score_min": 200,
       "word": "meanwhile",
       "pos": [
-        "adverb"
+        "adverb",
+        "noun"
       ],
       "conjugations": {},
       "domain": "general",
@@ -19,34 +20,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "meanwhile",
-          "definition": "n. 其時, 其間, adv. 同時, 于此時"
+          "definition": "adv. 同時、在此期間  n. 其間、其時"
         }
       ],
       "examples": [
         {
-          "en": "Meanwhile, she continued to work.",
+          "en": "Meanwhile, the marketing team prepared the new campaign materials.",
+          "highlight": [
+            "Meanwhile"
+          ],
+          "translations": {
+            "zh-TW": "同時，行銷團隊準備了新的宣傳活動素材。"
+          }
+        },
+        {
+          "en": "The CEO was negotiating the merger; meanwhile, the employees worried about layoffs.",
           "highlight": [
             "meanwhile"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "執行長正在談判併購案；在此期間，員工們擔心裁員。"
+          }
+        },
+        {
+          "en": "Please wait in the lobby in the meanwhile; the doctor will see you shortly.",
+          "highlight": [
+            "meanwhile"
+          ],
+          "translations": {
+            "zh-TW": "請在此期間在大廳等候，醫生很快會為您看診。"
           }
         }
       ],
       "synonyms": [
-        "at",
-        "the",
-        "same",
-        "time",
+        "in the meantime",
+        "at the same time",
         "simultaneously"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "afterward",
+        "later"
+      ],
       "phrases": [
-        "meanwhile",
-        "back",
-        "in",
-        "the",
-        "meanwhile"
+        "in the meanwhile",
+        "meanwhile back",
+        "meanwhile at the office"
       ]
     },
     {
@@ -61,43 +79,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "measureed",
-        "past_participle": "measureed",
-        "present_participle": "measuring",
-        "third_person": "measures"
+        "plural": "measures",
+        "present_3rd": "measures",
+        "past": "measured",
+        "past_participle": "measured",
+        "ing": "measuring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "measure",
-          "definition": "n. 尺寸, 量度器, 量度标准, 测量, 量具, 程度, 范围, 限度, 分寸, 措施, 方法, vt. 测量, 测度, 估量, 权衡, 调节, 拿(自己或自己的力量等)作较量, vi. 度量"
+          "definition": "v. 測量、衡量  n. 措施、尺度、度量單位"
         }
       ],
       "examples": [
         {
-          "en": "Can you measure the length of this table?",
+          "en": "We must measure the conference room before ordering new furniture.",
           "highlight": [
             "measure"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們在訂購新家具前必須先測量會議室。"
+          }
+        },
+        {
+          "en": "The technician measured the temperature of the reactor every hour.",
+          "highlight": [
+            "measured"
+          ],
+          "translations": {
+            "zh-TW": "技術員每小時測量一次反應爐的溫度。"
+          }
+        },
+        {
+          "en": "The government introduced strict measures to prevent another financial crisis.",
+          "highlight": [
+            "measures"
+          ],
+          "translations": {
+            "zh-TW": "政府採取了嚴格的措施以防止另一次金融危機。"
           }
         }
       ],
       "synonyms": [
         "gauge",
-        "quantify"
+        "quantify",
+        "assess"
       ],
       "antonyms": [
         "estimate",
         "guess"
       ],
       "phrases": [
-        "measure",
-        "up",
-        "measure",
-        "out"
+        "measure up",
+        "measure out",
+        "take measures",
+        "unit of measure"
       ]
     },
     {
@@ -108,45 +146,62 @@
       "toeic_score_min": 200,
       "word": "measurement",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "measuremented",
-        "past_participle": "measuremented",
-        "present_participle": "measurementing",
-        "third_person": "measurements"
+        "plural": "measurements"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "measurement",
-          "definition": "n. 尺寸, 度量, 度量单位, [计] 度量, 度量单位"
+          "definition": "n. 測量、度量、尺寸、衡量標準"
         }
       ],
       "examples": [
         {
-          "en": "The measurement was accurate.",
+          "en": "The engineer recorded the measurement of the bridge's load capacity.",
           "highlight": [
             "measurement"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "工程師記錄了橋樑承載量的測量數據。"
+          }
+        },
+        {
+          "en": "Accurate measurements are essential for tailoring a business suit.",
+          "highlight": [
+            "measurements"
+          ],
+          "translations": {
+            "zh-TW": "精確的尺寸測量對訂製西裝而言至關重要。"
+          }
+        },
+        {
+          "en": "The lab uses a reliable measurement system for quality control.",
+          "highlight": [
+            "measurement"
+          ],
+          "translations": {
+            "zh-TW": "實驗室使用可靠的測量系統來進行品質控制。"
           }
         }
       ],
       "synonyms": [
         "dimension",
-        "size"
+        "calculation",
+        "sizing"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "estimate",
+        "approximation"
+      ],
       "phrases": [
-        "accurate",
-        "measurement",
-        "take",
-        "a",
-        "measurement"
+        "take a measurement",
+        "accurate measurement",
+        "measurement unit",
+        "body measurement"
       ]
     },
     {
@@ -157,47 +212,62 @@
       "toeic_score_min": 200,
       "word": "meat",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "meated",
-        "past_participle": "meated",
-        "present_participle": "meating",
-        "third_person": "meats"
+        "plural": "meats"
       },
-      "domain": "general",
+      "domain": "food",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "meat",
-          "definition": "n. 肉, 餐, 食物, [經] 肉类"
+          "definition": "n. 肉、肉類、果肉、實質內容"
         }
       ],
       "examples": [
         {
-          "en": "They eat meat every day.",
+          "en": "The restaurant imports high-quality meat from Australia for its steaks.",
           "highlight": [
             "meat"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家餐廳從澳洲進口高品質的肉品來製作牛排。"
+          }
+        },
+        {
+          "en": "Different meats require different cooking temperatures to be safe.",
+          "highlight": [
+            "meats"
+          ],
+          "translations": {
+            "zh-TW": "不同的肉類需要不同的烹調溫度才能確保安全。"
+          }
+        },
+        {
+          "en": "The negotiators finally got to the meat of the contract after two days of small talk.",
+          "highlight": [
+            "meat"
+          ],
+          "translations": {
+            "zh-TW": "經過兩天的寒暄後，談判代表終談到了合約的實質內容。"
           }
         }
       ],
       "synonyms": [
         "flesh",
-        "protein"
+        "protein",
+        "substance"
       ],
       "antonyms": [
         "vegetable",
-        "plant-based"
+        "vegetarian"
       ],
       "phrases": [
-        "raw",
-        "meat",
-        "red",
-        "meat"
+        "red meat",
+        "white meat",
+        "raw meat",
+        "meat of the matter"
       ]
     },
     {
@@ -208,44 +278,62 @@
       "toeic_score_min": 200,
       "word": "mechanic",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "mechaniced",
-        "past_participle": "mechaniced",
-        "present_participle": "mechanicing",
-        "third_person": "mechanics"
+        "plural": "mechanics"
       },
-      "domain": "general",
+      "domain": "occupation",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mechanic",
-          "definition": "n. 机械工, 技工, a. 手工的"
+          "definition": "n. 機械工、技工、修車工人"
         }
       ],
       "examples": [
         {
-          "en": "The car mechanic fixed the engine.",
+          "en": "The mechanic diagnosed the engine problem in less than ten minutes.",
           "highlight": [
             "mechanic"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "技工在不到十分鐘內就診斷出引擎問題。"
+          }
+        },
+        {
+          "en": " experienced mechanics are in high demand at the new automobile plant.",
+          "highlight": [
+            "mechanics"
+          ],
+          "translations": {
+            "zh-TW": "經驗豐富的修車技工在新建的汽車工廠非常搶手。"
+          }
+        },
+        {
+          "en": "She hired a skilled mechanic to maintain the company's delivery trucks.",
+          "highlight": [
+            "mechanic"
+          ],
+          "translations": {
+            "zh-TW": "她雇用了一位熟練的技工來維護公司的送貨卡車。"
           }
         }
       ],
       "synonyms": [
         "repairman",
-        "technician"
+        "technician",
+        "handyman"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "amateur",
+        "novice"
+      ],
       "phrases": [
-        "auto",
-        "mechanic",
-        "skilled",
-        "mechanic"
+        "auto mechanic",
+        "skilled mechanic",
+        "certified mechanic",
+        "car mechanic"
       ]
     },
     {
@@ -260,40 +348,61 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "mechanicals"
+        "comparative": "more mechanical",
+        "superlative": "most mechanical"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mechanical",
-          "definition": "a. 机械的, 机械性的, 力学的, [医] 机械的, 力学的"
+          "definition": "adj. 機械的、機械性的、力學的、呆板的"
         }
       ],
       "examples": [
         {
-          "en": "The door is operated by a mechanical system.",
+          "en": "The factory's mechanical arm assembles circuit boards around the clock.",
           "highlight": [
             "mechanical"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "工廠的機械臂全天候組裝電路板。"
+          }
+        },
+        {
+          "en": "After years of repetition, his typing became utterly mechanical.",
+          "highlight": [
+            "mechanical"
+          ],
+          "translations": {
+            "zh-TW": "經過多年重複，他的打字動作變得完全機械化了。"
+          }
+        },
+        {
+          "en": "A mechanical failure caused the elevator to stall between the ninth and tenth floors.",
+          "highlight": [
+            "mechanical"
+          ],
+          "translations": {
+            "zh-TW": "機械故障導致電梯卡在九樓與十樓之間。"
           }
         }
       ],
       "synonyms": [
+        "machine-driven",
         "automated",
-        "motorized"
+        "automatic"
       ],
       "antonyms": [
         "manual",
-        "human-powered"
+        "handmade",
+        "human"
       ],
       "phrases": [
-        "mechanical",
-        "engineering",
-        "mechanical",
-        "failure"
+        "mechanical engineering",
+        "mechanical failure",
+        "mechanical system",
+        "mechanical advantage"
       ]
     },
     {
@@ -304,44 +413,60 @@
       "toeic_score_min": 200,
       "word": "media",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
-      "conjugations": {
-        "past_tense": "mediaed",
-        "past_participle": "mediaed",
-        "present_participle": "mediaing",
-        "third_person": "medias"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "communication",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "media",
-          "definition": "n. 媒体, [计] 媒质"
+          "definition": "n. 媒體、媒介、大眾傳播媒體"
         }
       ],
       "examples": [
         {
-          "en": "The news was reported by the media.",
+          "en": "Social media has transformed how companies interact with customers.",
           "highlight": [
             "media"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "社群媒體改變了企業與顧客互動的方式。"
+          }
+        },
+        {
+          "en": "The spokesperson asked the media to respect the family's privacy during the crisis.",
+          "highlight": [
+            "media"
+          ],
+          "translations": {
+            "zh-TW": "發言人請求媒體在危機期間尊重該家庭的隱私。"
+          }
+        },
+        {
+          "en": "Marketing through digital media reaches a younger audience more effectively.",
+          "highlight": [
+            "media"
+          ],
+          "translations": {
+            "zh-TW": "透過數位媒體行銷能更有效地觸及年輕受眾。"
           }
         }
       ],
       "synonyms": [
         "press",
-        "news"
+        "broadcasting",
+        "news outlets"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "private correspondence",
+        "silence"
+      ],
       "phrases": [
-        "mass",
-        "media",
-        "social",
-        "media"
+        "mass media",
+        "social media",
+        "media coverage",
+        "digital media"
       ]
     },
     {
@@ -358,35 +483,57 @@
       "conjugations": {
         "plural": "medicals"
       },
-      "domain": "general",
+      "domain": "healthcare",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "medical",
-          "definition": "n. 医生, 体格检查, a. 医学的, 内科的, 药的"
+          "definition": "adj. 醫學的、醫療的、內科的  n. 健康檢查"
         }
       ],
       "examples": [
         {
-          "en": "She is studying medical science.",
+          "en": "All new employees must pass a medical exam before starting work.",
           "highlight": [
             "medical"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "所有新進員工在開始工作前必須通過健康檢查。"
+          }
+        },
+        {
+          "en": "The company covers medical expenses for work-related injuries.",
+          "highlight": [
+            "medical"
+          ],
+          "translations": {
+            "zh-TW": "公司負擔因工作相關傷害所產生的醫療費用。"
+          }
+        },
+        {
+          "en": "Several medicals were scheduled at the clinic on the same day.",
+          "highlight": [
+            "medicals"
+          ],
+          "translations": {
+            "zh-TW": "診所在同一天安排了數場健康檢查。"
           }
         }
       ],
       "synonyms": [
         "clinical",
+        "healthcare",
         "therapeutic"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "non-medical",
+        "cosmetic"
+      ],
       "phrases": [
-        "medical",
-        "science",
-        "medical",
-        "treatment"
+        "medical insurance",
+        "medical treatment",
+        "medical records",
+        "medical examination"
       ]
     },
     {
@@ -397,44 +544,62 @@
       "toeic_score_min": 200,
       "word": "medicine",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "medicineed",
-        "past_participle": "medicineed",
-        "present_participle": "medicining",
-        "third_person": "medicines"
+        "plural": "medicines"
       },
-      "domain": "general",
+      "domain": "healthcare",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "medicine",
-          "definition": "n. 药, 医学, 内科, vt. 给...用药"
+          "definition": "n. 藥物、醫學、內科、療法"
         }
       ],
       "examples": [
         {
-          "en": "He takes medicine for his allergies.",
+          "en": "Remember to take your medicine after each meal for the next two weeks.",
           "highlight": [
             "medicine"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "記得未來兩週每餐飯後服用藥物。"
+          }
+        },
+        {
+          "en": "The pharmacy stocks both prescription and over-the-counter medicines.",
+          "highlight": [
+            "medicines"
+          ],
+          "translations": {
+            "zh-TW": "這家藥局同時供應處方藥與非處方藥。"
+          }
+        },
+        {
+          "en": "She decided to study medicine after volunteering at the city hospital.",
+          "highlight": [
+            "medicine"
+          ],
+          "translations": {
+            "zh-TW": "在市立醫院擔任志工後，她決定攻讀醫學。"
           }
         }
       ],
       "synonyms": [
+        "medication",
         "drug",
-        "medication"
+        "remedy"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "poison",
+        "toxin"
+      ],
       "phrases": [
-        "take",
-        "medicine",
-        "medicine",
-        "cabinet"
+        "take medicine",
+        "cold medicine",
+        "herbal medicine",
+        "medicine cabinet"
       ]
     },
     {
@@ -449,41 +614,62 @@
         "adjective"
       ],
       "conjugations": {
-        "plural": "mediums"
+        "plural": "mediums",
+        "comparative": "more medium",
+        "superlative": "most medium"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "medium",
-          "definition": "n. 媒体, 方法, 媒介, a. 半生熟的, 中間的, [计] 媒体, 中"
+          "definition": "n. 媒介、方法、中間物  adj. 中等的、中間的、半熟的"
         }
       ],
       "examples": [
         {
-          "en": "The internet is a medium for communication.",
+          "en": "Television remains a powerful advertising medium despite the rise of online streaming.",
           "highlight": [
             "medium"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "儘管線上串流興起，電視仍是有力的廣告媒介。"
+          }
+        },
+        {
+          "en": "Various artistic mediums were showcased at the international exhibition.",
+          "highlight": [
+            "mediums"
+          ],
+          "translations": {
+            "zh-TW": "國際展覽中展示了各種不同的藝術媒介。"
+          }
+        },
+        {
+          "en": "She ordered a medium coffee and a blueberry muffin for her morning break.",
+          "highlight": [
+            "medium"
+          ],
+          "translations": {
+            "zh-TW": "她在上午休息時點了一杯中杯咖啡和一個藍莓瑪芬。"
           }
         }
       ],
       "synonyms": [
         "channel",
-        "means"
+        "means",
+        "intermediate"
       ],
       "antonyms": [
         "extreme",
-        "maximum"
+        "maximum",
+        "minimum"
       ],
       "phrases": [
-        "communication",
-        "medium",
-        "medium",
-        "of",
-        "exchange"
+        "medium of exchange",
+        "communication medium",
+        "medium size",
+        "rare medium well"
       ]
     }
   ]
