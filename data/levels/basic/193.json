@@ -11,44 +11,64 @@
       "toeic_score_min": 200,
       "word": "nervous",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "nervouses"
+        "comparative": "more nervous",
+        "superlative": "most nervous"
       },
-      "domain": "general",
+      "domain": "emotion",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "nervous",
-          "definition": "a. 神經紧张的, 不安的, 神經的, [医] 神經的; 神經质的, 神經過敏的"
+          "definition": "adj. 緊張的、神經質的、不安的"
         }
       ],
       "examples": [
         {
-          "en": "She felt nervous before the exam.",
+          "en": "She felt nervous before her first job interview.",
           "highlight": [
             "nervous"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在第一次求職面試前感到很緊張。"
+          }
+        },
+        {
+          "en": "The longer he waited, the more nervous he became.",
+          "highlight": [
+            "more nervous"
+          ],
+          "translations": {
+            "zh-TW": "他等得越久，就變得越緊張。"
+          }
+        },
+        {
+          "en": "Of all the candidates, she was the most nervous during the panel interview.",
+          "highlight": [
+            "most nervous"
+          ],
+          "translations": {
+            "zh-TW": "在所有應徵者中，她是委員面試時最緊張的一位。"
           }
         }
       ],
       "synonyms": [
         "anxious",
-        "uneasy"
+        "uneasy",
+        "jittery"
       ],
       "antonyms": [
         "calm",
-        "confident"
+        "confident",
+        "relaxed"
       ],
       "phrases": [
-        "feel",
-        "nervous",
-        "nervous",
-        "about"
+        "nervous about",
+        "nervous breakdown",
+        "nervous system",
+        "feel nervous"
       ]
     },
     {
@@ -62,38 +82,58 @@
         "adverb"
       ],
       "conjugations": {},
-      "domain": "general",
+      "domain": "emotion",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "nervously",
-          "definition": "adv. 焦急地；神經质地；提心吊胆地"
+          "definition": "adv. 緊張地、不安地、提心吊膽地"
         }
       ],
       "examples": [
         {
-          "en": "He waited nervously for the results.",
+          "en": "He smiled nervously when the manager asked about the missing report.",
           "highlight": [
             "nervously"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "當經理問起那份遺失的報告時，他緊張地笑了笑。"
+          }
+        },
+        {
+          "en": "The intern typed nervously, afraid of making another mistake.",
+          "highlight": [
+            "nervously"
+          ],
+          "translations": {
+            "zh-TW": "實習生緊張地打字，深怕再犯錯。"
+          }
+        },
+        {
+          "en": "She glanced nervously at the clock, worried about being late for the meeting.",
+          "highlight": [
+            "nervously"
+          ],
+          "translations": {
+            "zh-TW": "她緊張地瞄了時鐘一眼，擔心開會遲到。"
           }
         }
       ],
       "synonyms": [
         "anxiously",
-        "apprehensively"
+        "apprehensively",
+        "jitterily"
       ],
       "antonyms": [
         "calmly",
-        "confidently"
+        "confidently",
+        "composedly"
       ],
       "phrases": [
-        "wait",
-        "nervously",
-        "laugh",
-        "nervously"
+        "smile nervously",
+        "wait nervously",
+        "glance nervously",
+        "laugh nervously"
       ]
     },
     {
@@ -108,41 +148,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "nested",
+        "plural": "nests",
+        "present_3rd": "nests",
+        "past": "nested",
         "past_participle": "nested",
-        "present_participle": "nesting",
-        "third_person": "nests"
+        "ing": "nesting"
       },
-      "domain": "general",
+      "domain": "nature",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "nest",
-          "definition": "n. 巢, 窝, 休息所, 隐匿處, vi. 筑巢, 找鸟巢, vt. 為...设窝, 使套叠, [计] 嵌套"
+          "definition": "n. 巢、窩  v. 築巢、嵌套"
         }
       ],
       "examples": [
         {
-          "en": "The bird built a nest in the tree.",
+          "en": "The eagle built its nest on the cliff above the valley.",
           "highlight": [
             "nest"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "老鷹在山谷上方的懸崖築巢。"
+          }
+        },
+        {
+          "en": "The rare birds nested in the nature reserve last spring.",
+          "highlight": [
+            "nested"
+          ],
+          "translations": {
+            "zh-TW": "去年春天這些罕見的鳥在自然保護區築巢。"
+          }
+        },
+        {
+          "en": "These tables nest inside one another to save storage space.",
+          "highlight": [
+            "nest"
+          ],
+          "translations": {
+            "zh-TW": "這些桌子彼此嵌疊以節省儲存空間。"
           }
         }
       ],
       "synonyms": [
         "burrow",
-        "den"
+        "den",
+        "roost"
       ],
       "antonyms": [],
       "phrases": [
-        "bird's",
-        "nest",
-        "build",
-        "a",
-        "nest"
+        "empty nest",
+        "bird's nest",
+        "nest egg",
+        "nest together"
       ]
     },
     {
@@ -154,45 +213,66 @@
       "word": "net",
       "pos": [
         "noun",
+        "adjective",
         "verb"
       ],
       "conjugations": {
-        "past_tense": "neted",
-        "past_participle": "neted",
-        "present_participle": "neting",
-        "third_person": "nets"
+        "plural": "nets",
+        "present_3rd": "nets",
+        "past": "netted",
+        "past_participle": "netted",
+        "ing": "netting"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "net",
-          "definition": "n. 网, 网状物, 罗网, 净利, 净价, a. 净的, 最终的, vt. 用网捕, 撒网, 净赚, 得到, vi. 编网, [计] 网络, 网络分析程序"
+          "definition": "n. 網、網狀物、淨利  adj. 淨的  v. 淨賺、用網捕捉"
         }
       ],
       "examples": [
         {
-          "en": "He used a net to catch fish.",
+          "en": "The fisherman cast his net into the lake at dawn.",
           "highlight": [
             "net"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "漁夫在黎明時分把網撒入湖中。"
+          }
+        },
+        {
+          "en": "The company netted a record profit of three million dollars last quarter.",
+          "highlight": [
+            "netted"
+          ],
+          "translations": {
+            "zh-TW": "公司上一季度淨賺了三百萬美元的創紀錄利潤。"
+          }
+        },
+        {
+          "en": "Her net income dropped after the new tax policy took effect.",
+          "highlight": [
+            "net"
+          ],
+          "translations": {
+            "zh-TW": "新稅制實施後她的淨所得下降了。"
           }
         }
       ],
       "synonyms": [
         "mesh",
-        "lattice"
+        "snare",
+        "clear"
       ],
       "antonyms": [
-        "solid"
+        "gross"
       ],
       "phrases": [
-        "fishing",
-        "net",
-        "safety",
-        "net"
+        "safety net",
+        "fishing net",
+        "net profit",
+        "net income"
       ]
     },
     {
@@ -207,40 +287,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "networked",
+        "plural": "networks",
+        "present_3rd": "networks",
+        "past": "networked",
         "past_participle": "networked",
-        "present_participle": "networking",
-        "third_person": "networks"
+        "ing": "networking"
       },
-      "domain": "general",
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "network",
-          "definition": "n. 网络, 广播网, 网状物, [计] 网络"
+          "definition": "n. 網絡、廣播網、人脈網  v. 建立人脈、聯網"
         }
       ],
       "examples": [
         {
-          "en": "The company has a large network of suppliers.",
+          "en": "Our company has built a reliable network of suppliers across Asia.",
           "highlight": [
             "network"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們公司在亞洲建立了可靠的供應商網絡。"
+          }
+        },
+        {
+          "en": "She networked with industry leaders at the international conference.",
+          "highlight": [
+            "networked"
+          ],
+          "translations": {
+            "zh-TW": "她在國際會議上與業界領袖建立人脈。"
+          }
+        },
+        {
+          "en": "Networking events are essential for young professionals seeking new opportunities.",
+          "highlight": [
+            "Networking"
+          ],
+          "translations": {
+            "zh-TW": "交流活動對尋求新機會的年輕專業人士而言至關重要。"
           }
         }
       ],
       "synonyms": [
         "system",
-        "web"
+        "web",
+        "grid"
       ],
       "antonyms": [],
       "phrases": [
-        "social",
-        "network",
-        "computer",
-        "network"
+        "social network",
+        "computer network",
+        "networking event",
+        "build a network"
       ]
     },
     {
@@ -259,37 +359,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "never",
-          "definition": "adv. 从不, 决不, 不曾, [法] 永不, 决不, 从來没有"
+          "definition": "adv. 從不、決不、未曾"
         }
       ],
       "examples": [
         {
-          "en": "He never gives up.",
+          "en": "He has never missed a deadline since he joined the team.",
           "highlight": [
             "never"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "自從加入團隊以來，他從未錯過任何截止日期。"
+          }
+        },
+        {
+          "en": "Never before has the company recorded such high sales figures.",
+          "highlight": [
+            "Never"
+          ],
+          "translations": {
+            "zh-TW": "公司從未錄得如此高的銷售數字。"
+          }
+        },
+        {
+          "en": "I would never recommend that restaurant to a business client.",
+          "highlight": [
+            "never"
+          ],
+          "translations": {
+            "zh-TW": "我絕不會把那家餐廳推薦給商務客戶。"
           }
         }
       ],
       "synonyms": [
-        "not",
-        "ever",
-        "at",
-        "no",
-        "time"
+        "not ever",
+        "at no time"
       ],
       "antonyms": [
         "always",
-        "forever"
+        "forever",
+        "constantly"
       ],
       "phrases": [
-        "never",
-        "give",
-        "up",
-        "never",
-        "know"
+        "never again",
+        "never mind",
+        "never give up",
+        "never before"
       ]
     },
     {
@@ -300,44 +415,64 @@
       "toeic_score_min": 200,
       "word": "new",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "news"
+        "comparative": "newer",
+        "superlative": "newest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "new",
-          "definition": "a. 新的, 陌生的, 最近的, 不熟悉的, [法] 新發现的, 新的, 重新开始的"
+          "definition": "adj. 新的、最近的、不熟悉的"
         }
       ],
       "examples": [
         {
-          "en": "She bought a new car.",
+          "en": "She recently joined a new company after working at the old one for ten years.",
           "highlight": [
             "new"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在舊公司工作十年後最近加入了一家新公司。"
+          }
+        },
+        {
+          "en": "This model is newer than the one we bought last year.",
+          "highlight": [
+            "newer"
+          ],
+          "translations": {
+            "zh-TW": "這個款式比我們去年買的更新。"
+          }
+        },
+        {
+          "en": "He is the newest member of the marketing team.",
+          "highlight": [
+            "newest"
+          ],
+          "translations": {
+            "zh-TW": "他是行銷團隊最新的成員。"
           }
         }
       ],
       "synonyms": [
         "recent",
-        "fresh"
+        "fresh",
+        "novel"
       ],
       "antonyms": [
         "old",
-        "ancient"
+        "ancient",
+        "dated"
       ],
       "phrases": [
-        "new",
-        "car",
-        "new",
-        "idea"
+        "new product",
+        "new employee",
+        "brand new",
+        "new arrival"
       ]
     },
     {
@@ -356,33 +491,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "newly",
-          "definition": "adv. 重新, 最近"
+          "definition": "adv. 最近、剛剛、重新地"
         }
       ],
       "examples": [
         {
-          "en": "The newlyweds are happy.",
+          "en": "The newly appointed manager will start next Monday.",
           "highlight": [
             "newly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新任命的經理將於下週一上任。"
+          }
+        },
+        {
+          "en": "Their newly renovated office looks much more professional.",
+          "highlight": [
+            "newly"
+          ],
+          "translations": {
+            "zh-TW": "他們剛翻新的辦公室看起來專業多了。"
+          }
+        },
+        {
+          "en": "Newly hired staff must complete a training program within their first month.",
+          "highlight": [
+            "Newly"
+          ],
+          "translations": {
+            "zh-TW": "新進員工必須在入職的第一個月內完成培訓課程。"
           }
         }
       ],
       "synonyms": [
         "recently",
-        "freshly"
+        "freshly",
+        "lately"
       ],
       "antonyms": [
         "formerly",
         "previously"
       ],
       "phrases": [
-        "newly",
-        "married",
-        "newly",
-        "built"
+        "newly appointed",
+        "newly married",
+        "newly built",
+        "newly hired"
       ]
     },
     {
@@ -393,45 +547,57 @@
       "toeic_score_min": 200,
       "word": "news",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
-      "conjugations": {
-        "past_tense": "newsed",
-        "past_participle": "newsed",
-        "present_participle": "newsing",
-        "third_person": "newses"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "media",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "news",
-          "definition": "n. 新聞, 消息, 报导, [法] 新聞, 消息, 新聞报导"
+          "definition": "n. 新聞、消息、報導"
         }
       ],
       "examples": [
         {
-          "en": "He reads the news every morning.",
+          "en": "He started his day by checking the news on his phone.",
           "highlight": [
             "news"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他早上以查看手機上的新聞展開一天。"
+          }
+        },
+        {
+          "en": "The good news about the contract spread quickly through the office.",
+          "highlight": [
+            "news"
+          ],
+          "translations": {
+            "zh-TW": "關於那份合約的好消息很快傳遍了整個辦公室。"
+          }
+        },
+        {
+          "en": "Breaking news about the merger was announced during the press conference.",
+          "highlight": [
+            "news"
+          ],
+          "translations": {
+            "zh-TW": "關於併購案的突發新聞在記者會上發布。"
           }
         }
       ],
       "synonyms": [
         "information",
-        "report"
+        "report",
+        "update"
       ],
       "antonyms": [],
       "phrases": [
-        "read",
-        "the",
-        "news",
-        "news",
-        "report"
+        "breaking news",
+        "good news",
+        "bad news",
+        "news report"
       ]
     },
     {
@@ -442,45 +608,59 @@
       "toeic_score_min": 200,
       "word": "newspaper",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "newspapered",
-        "past_participle": "newspapered",
-        "present_participle": "newspapering",
-        "third_person": "newspapers"
+        "plural": "newspapers"
       },
-      "domain": "general",
+      "domain": "media",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "newspaper",
-          "definition": "n. 报纸"
+          "definition": "n. 報紙"
         }
       ],
       "examples": [
         {
-          "en": "She works for a newspaper.",
+          "en": "She found a job listing in the local newspaper.",
           "highlight": [
             "newspaper"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在地方報紙上找到一則徵才啟事。"
+          }
+        },
+        {
+          "en": "Several major newspapers covered the launch of the new product.",
+          "highlight": [
+            "newspapers"
+          ],
+          "translations": {
+            "zh-TW": "幾家主要報紙報導了新產品發表的消息。"
+          }
+        },
+        {
+          "en": "He reads the newspaper every morning to stay informed about the market.",
+          "highlight": [
+            "newspaper"
+          ],
+          "translations": {
+            "zh-TW": "他每天早上讀報以掌握市場動態。"
           }
         }
       ],
       "synonyms": [
         "daily",
-        "periodical"
+        "periodical",
+        "gazette"
       ],
       "antonyms": [],
       "phrases": [
-        "daily",
-        "newspaper",
-        "read",
-        "the",
-        "newspaper"
+        "daily newspaper",
+        "local newspaper",
+        "newspaper article",
+        "read the newspaper"
       ]
     }
   ]
