@@ -9,41 +9,62 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 200,
-      "word": "october",
+      "word": "October",
       "pos": [
-        "noun",
-        "proper",
         "noun"
       ],
       "conjugations": {
-        "plural": "octobers"
+        "plural": "Octobers"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "october",
+          "lang_word": "October",
           "definition": "n. 十月"
         }
       ],
       "examples": [
         {
-          "en": "The leaves fall in October.",
+          "en": "We will launch the new product line in October.",
           "highlight": [
-            "october"
+            "October"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們將在十月推出新的產品線。"
+          }
+        },
+        {
+          "en": "The sales figures for the past three Octobers have been surprisingly consistent.",
+          "highlight": [
+            "Octobers"
+          ],
+          "translations": {
+            "zh-TW": "過去三個十月份的銷售數字出乎意料地穩定。"
+          }
+        },
+        {
+          "en": "Every October, the company holds an outdoor team-building retreat in the mountains.",
+          "highlight": [
+            "October"
+          ],
+          "translations": {
+            "zh-TW": "每年十月，公司都會在山上舉辦戶外團隊建設活動。"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "autumn month",
+        "fall month"
+      ],
+      "antonyms": [
+        "April"
+      ],
       "phrases": [
-        "October",
-        "weather",
-        "in",
-        "October"
+        "in October",
+        "mid-October",
+        "late October",
+        "Octoberfest"
       ]
     },
     {
@@ -58,40 +79,62 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "odds"
+        "plural": "odds",
+        "comparative": "odder",
+        "superlative": "oddest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "odd",
-          "definition": "a. 奇数的, 古怪的, 剩余的, 零散的, 各種各樣的, 少量的, n. 奇特的事物, 怪人, [计] 奇数, 奇校验, 光数据数字转换器"
+          "definition": "a. 奇怪的、古怪的、奇數的、零星的  n. 奇數、可能性"
         }
       ],
       "examples": [
         {
-          "en": "He has some odd habits.",
+          "en": "It is odd that the report was submitted without any signatures.",
           "highlight": [
             "odd"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "報告在沒有任何簽名的情況下被提交，這很奇怪。"
+          }
+        },
+        {
+          "en": "The accountant noticed that all the totals were odd numbers, which seemed highly unusual.",
+          "highlight": [
+            "odd"
+          ],
+          "translations": {
+            "zh-TW": "會計師注意到所有的總計都是奇數，這似乎非常不尋常。"
+          }
+        },
+        {
+          "en": "The odds of winning the contract are heavily in our favour.",
+          "highlight": [
+            "odds"
+          ],
+          "translations": {
+            "zh-TW": "贏得合約的可能性對我們非常有利。"
           }
         }
       ],
       "synonyms": [
         "strange",
-        "peculiar"
+        "peculiar",
+        "unusual"
       ],
       "antonyms": [
         "normal",
+        "even",
         "usual"
       ],
       "phrases": [
-        "odd",
-        "behavior",
-        "odd",
-        "number"
+        "odd number",
+        "at odds with",
+        "oddly enough",
+        "odd jobs"
       ]
     },
     {
@@ -110,32 +153,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "oddly",
-          "definition": "adv. 奇怪地"
+          "definition": "adv. 奇怪地、反常地"
         }
       ],
       "examples": [
         {
-          "en": "She was oddly quiet.",
+          "en": "Oddly, the client approved the proposal without requesting any revisions.",
+          "highlight": [
+            "Oddly"
+          ],
+          "translations": {
+            "zh-TW": "奇怪的是，客戶在沒有要求任何修改的情況下批准了這項提案。"
+          }
+        },
+        {
+          "en": "She reacted oddly to the news, remaining completely silent for several minutes.",
           "highlight": [
             "oddly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她對這個消息的反應很奇怪，保持完全沉默了好幾分鐘。"
+          }
+        },
+        {
+          "en": "The system has been behaving oddly ever since the last software update.",
+          "highlight": [
+            "oddly"
+          ],
+          "translations": {
+            "zh-TW": "自從上次軟體更新以來，系統的運作一直很反常。"
           }
         }
       ],
       "synonyms": [
         "strangely",
-        "peculiarly"
+        "peculiarly",
+        "curiously"
       ],
       "antonyms": [
-        "normally"
+        "normally",
+        "typically"
       ],
       "phrases": [
-        "oddly",
-        "enough",
-        "oddly",
-        "quiet"
+        "oddly enough",
+        "act oddly",
+        "behave oddly"
       ]
     },
     {
@@ -154,30 +216,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "of",
-          "definition": "prep. 的, 属于"
+          "definition": "prep. ……的、屬於、關於、由……製成"
         }
       ],
       "examples": [
         {
-          "en": "He is a man of great wisdom.",
+          "en": "The CEO spoke of the company's long-term vision during the annual meeting.",
           "highlight": [
             "of"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "執行長在年會中談到了公司的長期願景。"
+          }
+        },
+        {
+          "en": "A team of engineers will inspect the new factory next week.",
+          "highlight": [
+            "of"
+          ],
+          "translations": {
+            "zh-TW": "一隊工程師下週將檢查新工廠。"
+          }
+        },
+        {
+          "en": "Please send me a copy of the contract by the end of the day.",
+          "highlight": [
+            "of"
+          ],
+          "translations": {
+            "zh-TW": "請在下班前寄給我一份合約副本。"
           }
         }
       ],
       "synonyms": [
-        "belonging",
-        "to"
+        "from",
+        "by"
       ],
       "antonyms": [],
       "phrases": [
-        "man",
-        "of",
-        "part",
-        "of"
+        "because of",
+        "instead of",
+        "kind of",
+        "out of"
       ]
     },
     {
@@ -197,33 +277,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "off",
-          "definition": "a. 關着的, 不再生效的, 處于...境况的, 休假的, 空闲的, adv. 走开, ...掉, ...下, 休息, 出發, 隔断, prep. 離开, 脱落, 不在从事......, 在...之外, vi. 離开, 滚开, vt. 杀死, n. 關闭状态, [计] 關闭, 清屏命令"
+          "definition": "adv. 關閉、離開、不工作  prep. 離開、從……下來"
         }
       ],
       "examples": [
         {
-          "en": "The light is off.",
+          "en": "Please turn off the lights before leaving the office.",
           "highlight": [
             "off"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "離開辦公室前請關燈。"
+          }
+        },
+        {
+          "en": "The manager took a few days off to recover from the flu.",
+          "highlight": [
+            "off"
+          ],
+          "translations": {
+            "zh-TW": "經理請了幾天假來從流感中恢復。"
+          }
+        },
+        {
+          "en": "The plane is scheduled to take off at half past three.",
+          "highlight": [
+            "off"
+          ],
+          "translations": {
+            "zh-TW": "飛機預定在三點半起飛。"
           }
         }
       ],
       "synonyms": [
         "away",
-        "down"
+        "aside"
       ],
       "antonyms": [
-        "on",
-        "toward"
+        "on"
       ],
       "phrases": [
-        "turn",
-        "off",
-        "take",
-        "off"
+        "turn off",
+        "take off",
+        "day off",
+        "get off"
       ]
     },
     {
@@ -234,45 +331,62 @@
       "toeic_score_min": 200,
       "word": "offence",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "offenceed",
-        "past_participle": "offenceed",
-        "present_participle": "offencing",
-        "third_person": "offences"
+        "plural": "offences"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "offence",
-          "definition": "n. 犯罪, 冒犯, 违反, 罪過, 過錯, 攻击, [法] 犯法, 罪過, 過錯"
+          "definition": "n. 犯罪、違法行為、冒犯、觸怒"
         }
       ],
       "examples": [
         {
-          "en": "He was charged with a serious offence.",
+          "en": "He was charged with a serious driving offence last year.",
           "highlight": [
             "offence"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他去年被控一項嚴重的駕駛違規。"
+          }
+        },
+        {
+          "en": "Several minor offences were recorded during the annual safety review.",
+          "highlight": [
+            "offences"
+          ],
+          "translations": {
+            "zh-TW": "在年度安全審查中記錄了幾項輕微的違規行為。"
+          }
+        },
+        {
+          "en": "The new policy caused great offence among the senior staff members.",
+          "highlight": [
+            "offence"
+          ],
+          "translations": {
+            "zh-TW": "新政策在高級職員中引起了強烈的不滿。"
           }
         }
       ],
       "synonyms": [
         "crime",
-        "wrongdoing"
+        "violation",
+        "misdeed"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "compliance",
+        "obedience"
+      ],
       "phrases": [
-        "commit",
-        "an",
-        "offence",
-        "serious",
-        "offence"
+        "criminal offence",
+        "cause offence",
+        "minor offence",
+        "take offence"
       ]
     },
     {
@@ -283,47 +397,66 @@
       "toeic_score_min": 200,
       "word": "offend",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "offended",
+        "present_3rd": "offends",
+        "past": "offended",
         "past_participle": "offended",
-        "present_participle": "offending",
-        "third_person": "offends"
+        "ing": "offending"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "offend",
-          "definition": "v. 犯罪, 冒犯, 违反, 进攻"
+          "definition": "v. 冒犯、觸怒、違犯、犯罪"
         }
       ],
       "examples": [
         {
-          "en": "He didn't mean to offend you.",
+          "en": "His rude remarks offended several colleagues during the meeting.",
+          "highlight": [
+            "offended"
+          ],
+          "translations": {
+            "zh-TW": "他在會議中粗魯的言論冒犯了幾位同事。"
+          }
+        },
+        {
+          "en": "The offending employee was given a formal warning by the HR department.",
+          "highlight": [
+            "offending"
+          ],
+          "translations": {
+            "zh-TW": "犯錯的員工被人資部門給予正式警告。"
+          }
+        },
+        {
+          "en": "The new dress code does not offend any particular cultural group.",
           "highlight": [
             "offend"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新的服裝規定並未冒犯任何特定文化群體。"
           }
         }
       ],
       "synonyms": [
         "insult",
-        "upset"
+        "upset",
+        "displease"
       ],
       "antonyms": [
         "please",
-        "delight"
+        "delight",
+        "appease"
       ],
       "phrases": [
-        "offend",
-        "someone",
-        "deeply",
-        "offend"
+        "offend someone",
+        "deeply offend",
+        "take offence",
+        "be offended by"
       ]
     },
     {
@@ -334,45 +467,62 @@
       "toeic_score_min": 200,
       "word": "offense",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "offenseed",
-        "past_participle": "offenseed",
-        "present_participle": "offensing",
-        "third_person": "offenses"
+        "plural": "offenses"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "offense",
-          "definition": "n. 犯罪, 伤感情, 攻击"
+          "definition": "n. 犯罪、違法行為、冒犯、攻擊"
         }
       ],
       "examples": [
         {
-          "en": "He was arrested for a minor offense.",
+          "en": "The suspect was arrested for a serious offense committed last week.",
           "highlight": [
             "offense"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "嫌疑人因上週犯下的嚴重罪行而被逮捕。"
+          }
+        },
+        {
+          "en": "He has been charged with multiple offenses over the past decade.",
+          "highlight": [
+            "offenses"
+          ],
+          "translations": {
+            "zh-TW": "他在過去十年中被控多項罪行。"
+          }
+        },
+        {
+          "en": "Her remarks caused offense to several members of the board.",
+          "highlight": [
+            "offense"
+          ],
+          "translations": {
+            "zh-TW": "她的言論冒犯了幾位董事會成員。"
           }
         }
       ],
       "synonyms": [
         "crime",
+        "violation",
         "breach"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "compliance",
+        "defense"
+      ],
       "phrases": [
-        "commit",
-        "an",
-        "offense",
-        "minor",
-        "offense"
+        "criminal offense",
+        "minor offense",
+        "commit an offense",
+        "no offense"
       ]
     },
     {
@@ -387,40 +537,62 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "offensives"
+        "plural": "offensives",
+        "comparative": "more offensive",
+        "superlative": "most offensive"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "offensive",
-          "definition": "a. 令人不快的, 侮辱的, 攻击性的, [法] 攻击的, 进攻的, 冒犯的"
+          "definition": "a. 冒犯的、無禮的、攻擊性的  n. 攻勢、進攻"
         }
       ],
       "examples": [
         {
-          "en": "The comment was highly offensive.",
+          "en": "The comedian's offensive jokes made many audience members uncomfortable.",
           "highlight": [
             "offensive"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "那位喜劇演員冒犯的笑話讓許多觀眾感到不自在。"
+          }
+        },
+        {
+          "en": "The most offensive comments were immediately deleted by the moderator.",
+          "highlight": [
+            "most offensive"
+          ],
+          "translations": {
+            "zh-TW": "最具冒犯性的留言立即被版主刪除了。"
+          }
+        },
+        {
+          "en": "The army launched a new offensive along the northern front at dawn.",
+          "highlight": [
+            "offensive"
+          ],
+          "translations": {
+            "zh-TW": "軍隊在黎明時分沿北方戰線發動了新的攻勢。"
           }
         }
       ],
       "synonyms": [
         "insulting",
-        "rude"
+        "rude",
+        "disrespectful"
       ],
       "antonyms": [
         "polite",
-        "pleasing"
+        "pleasant",
+        "courteous"
       ],
       "phrases": [
-        "offensive",
-        "remark",
-        "highly",
-        "offensive"
+        "offensive remark",
+        "highly offensive",
+        "take the offensive",
+        "offensive language"
       ]
     },
     {
@@ -435,44 +607,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "offered",
+        "present_3rd": "offers",
+        "past": "offered",
         "past_participle": "offered",
-        "present_participle": "offering",
-        "third_person": "offers"
+        "ing": "offering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "offer",
-          "definition": "n. 给予(物), 出价, 提議, 意图, 报价, vt. 提供, 出价, 奉献, 试图, 使出现, 演出, vi. 出现, 献祭, 提議, 求婚"
+          "definition": "v. 提供、提出、出價  n. 提議、報價、優惠"
         }
       ],
       "examples": [
         {
-          "en": "She offered him a drink.",
+          "en": "The company will offer a generous severance package to all affected employees.",
           "highlight": [
             "offer"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司將向所有受影響的員工提供優厚的遣散方案。"
+          }
+        },
+        {
+          "en": "She offered to help with the quarterly report, even though it was not her responsibility.",
+          "highlight": [
+            "offered"
+          ],
+          "translations": {
+            "zh-TW": "她主動提出幫忙處理季度報告，即使那不是她的職責。"
+          }
+        },
+        {
+          "en": "The buyer's offer was ten percent below the asking price, so it was politely rejected.",
+          "highlight": [
+            "offer"
+          ],
+          "translations": {
+            "zh-TW": "買方的出價比開價低百分之十，因此被婉拒了。"
           }
         }
       ],
       "synonyms": [
         "propose",
-        "present"
+        "present",
+        "provide"
       ],
       "antonyms": [
         "refuse",
-        "reject"
+        "reject",
+        "withhold"
       ],
       "phrases": [
-        "offer",
-        "help",
-        "offer",
-        "a",
-        "deal"
+        "job offer",
+        "special offer",
+        "make an offer",
+        "offer help"
       ]
     }
   ]
