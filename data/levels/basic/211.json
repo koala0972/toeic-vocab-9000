@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 211,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-211-001",
@@ -19,30 +19,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "personally",
-          "definition": "adv. 亲自地, 個别地, 当面, 就本人而言, 针對個人地"
+          "definition": "adv. 親自地、就個人而言、當面地"
         }
       ],
       "examples": [
         {
-          "en": "I will do it personally.",
+          "en": "I will personally inspect the new factory next Monday.",
           "highlight": [
             "personally"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我下週一會親自去視察新工廠。"
+          }
+        },
+        {
+          "en": "Personally, I think the merger is a wise decision.",
+          "highlight": [
+            "Personally"
+          ],
+          "translations": {
+            "zh-TW": "就我個人而言，我認為這次併購是明智的決定。"
+          }
+        },
+        {
+          "en": "The manager personally apologized to every customer affected by the delay.",
+          "highlight": [
+            "personally"
+          ],
+          "translations": {
+            "zh-TW": "經理親自向每一位因延遲而受影響的顧客致歉。"
           }
         }
       ],
       "synonyms": [
-        "by",
-        "oneself"
+        "directly",
+        "in person"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "indirectly"
+      ],
       "phrases": [
-        "personally",
-        "involved",
-        "personally",
-        "responsible"
+        "personally speaking",
+        "personally responsible",
+        "know someone personally"
       ]
     },
     {
@@ -53,31 +72,48 @@
       "toeic_score_min": 500,
       "word": "persuade",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "persuadeed",
-        "past_participle": "persuadeed",
-        "present_participle": "persuading",
-        "third_person": "persuades"
+        "present_3rd": "persuades",
+        "past": "persuaded",
+        "past_participle": "persuaded",
+        "ing": "persuading"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "persuade",
-          "definition": "vt. 劝, 使相信, 恳求, 敦促, 說服, vi. 劝服, 被說服"
+          "definition": "v. 說服、勸服、使相信"
         }
       ],
       "examples": [
         {
-          "en": "He persuaded me to join.",
+          "en": "She persuaded the board to approve the new marketing budget.",
           "highlight": [
-            "persuade"
+            "persuaded"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她說服董事會批准了新的行銷預算。"
+          }
+        },
+        {
+          "en": "He is persuading investors to support the startup's second round of funding.",
+          "highlight": [
+            "persuading"
+          ],
+          "translations": {
+            "zh-TW": "他正在說服投資人支持這家新創公司的第二輪融資。"
+          }
+        },
+        {
+          "en": "The sales rep persuades clients by showing them case studies and testimonials.",
+          "highlight": [
+            "persuades"
+          ],
+          "translations": {
+            "zh-TW": "業務代表透過展示案例研究與客戶見證來說服客戶。"
           }
         }
       ],
@@ -90,11 +126,9 @@
         "discourage"
       ],
       "phrases": [
-        "persuade",
-        "someone",
-        "try",
-        "to",
-        "persuade"
+        "persuade someone to",
+        "persuade someone of",
+        "persuade someone into"
       ]
     },
     {
@@ -109,27 +143,46 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "phaseed",
-        "past_participle": "phaseed",
-        "present_participle": "phasing",
-        "third_person": "phases"
+        "plural": "phases",
+        "present_3rd": "phases",
+        "past": "phased",
+        "past_participle": "phased",
+        "ing": "phasing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "phase",
-          "definition": "n. 時期, 局面, 方面, 位相, 相, 阶段, vt. 使调整相位, 使定相, 使一致, 逐步执行, 實行, [计] 阶段"
+          "definition": "n. 階段、時期、方面  v. 分階段進行"
         }
       ],
       "examples": [
         {
-          "en": "The project is in its final phase.",
+          "en": "The product launch will enter its final phase next month.",
           "highlight": [
             "phase"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "產品發表下個月將進入最終階段。"
+          }
+        },
+        {
+          "en": "Each of the three phases of the project requires careful coordination.",
+          "highlight": [
+            "phases"
+          ],
+          "translations": {
+            "zh-TW": "專案的三個階段每一個都需要仔細的協調。"
+          }
+        },
+        {
+          "en": "The company is phasing out the old software by the end of the year.",
+          "highlight": [
+            "phasing"
+          ],
+          "translations": {
+            "zh-TW": "公司正在逐步淘汰舊軟體，預計年底前完成。"
           }
         }
       ],
@@ -139,10 +192,10 @@
       ],
       "antonyms": [],
       "phrases": [
-        "final",
-        "phase",
-        "initial",
-        "phase"
+        "phase out",
+        "phase in",
+        "final phase",
+        "initial phase"
       ]
     },
     {
@@ -153,31 +206,45 @@
       "toeic_score_min": 500,
       "word": "phenomenon",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "phenomenoned",
-        "past_participle": "phenomenoned",
-        "present_participle": "phenomenoning",
-        "third_person": "phenomenons"
+        "plural": "phenomena"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "phenomenon",
-          "definition": "n. 现象, 迹象, 表现, 奇迹, 奇才, [化] 现象"
+          "definition": "n. 現象、奇蹟、傑出人才"
         }
       ],
       "examples": [
         {
-          "en": "Lightning is a natural phenomenon.",
+          "en": "The sudden rise of remote work is a remarkable phenomenon in modern business.",
           "highlight": [
             "phenomenon"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "遠距工作的迅速興起是現代商業中一個引人注目的現象。"
+          }
+        },
+        {
+          "en": "The researchers studied several economic phenomena during the recession.",
+          "highlight": [
+            "phenomena"
+          ],
+          "translations": {
+            "zh-TW": "研究人員研究了經濟衰退期間的幾個經濟現象。"
+          }
+        },
+        {
+          "en": "Northern lights are a natural phenomenon that attracts many tourists to Iceland.",
+          "highlight": [
+            "phenomenon"
+          ],
+          "translations": {
+            "zh-TW": "極光是一種自然現象，吸引了許多遊客前往冰島。"
           }
         }
       ],
@@ -187,10 +254,9 @@
       ],
       "antonyms": [],
       "phrases": [
-        "natural",
-        "phenomenon",
-        "strange",
-        "phenomenon"
+        "natural phenomenon",
+        "rare phenomenon",
+        "cultural phenomenon"
       ]
     },
     {
@@ -201,44 +267,57 @@
       "toeic_score_min": 500,
       "word": "philosophy",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "philosophyed",
-        "past_participle": "philosophyed",
-        "present_participle": "philosophying",
-        "third_person": "philosophys"
+        "plural": "philosophies"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "philosophy",
-          "definition": "n. 哲学, 人生观, 哲学思想, 哲理, 基本原理, 见解, 达观, 沉着"
+          "definition": "n. 哲學、人生觀、理念和見解"
         }
       ],
       "examples": [
         {
-          "en": "She studied philosophy in college.",
+          "en": "Our company philosophy puts customer satisfaction above short-term profit.",
           "highlight": [
             "philosophy"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們公司的理念是將顧客滿意度置於短期利潤之上。"
+          }
+        },
+        {
+          "en": "Different cultures have shaped distinct philosophies about work and leisure.",
+          "highlight": [
+            "philosophies"
+          ],
+          "translations": {
+            "zh-TW": "不同的文化對工作與休閒形成了不同的理念。"
+          }
+        },
+        {
+          "en": "He earned a degree in philosophy before pursuing a career in law.",
+          "highlight": [
+            "philosophy"
+          ],
+          "translations": {
+            "zh-TW": "他在攻讀法律之前先取得了哲學學位。"
           }
         }
       ],
       "synonyms": [
-        "theory",
+        "principle",
         "belief"
       ],
       "antonyms": [],
       "phrases": [
-        "study",
-        "philosophy",
-        "moral",
-        "philosophy"
+        "company philosophy",
+        "personal philosophy",
+        "philosophy of life"
       ]
     },
     {
@@ -253,27 +332,46 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "phoneed",
-        "past_participle": "phoneed",
-        "present_participle": "phoning",
-        "third_person": "phones"
+        "plural": "phones",
+        "present_3rd": "phones",
+        "past": "phoned",
+        "past_participle": "phoned",
+        "ing": "phoning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "phone",
-          "definition": "n. 电话, 受话器, 耳机, vt. 打电话给, vi. 打电话"
+          "definition": "n. 電話、電話機  v. 打電話"
         }
       ],
       "examples": [
         {
-          "en": "She answered the phone.",
+          "en": "My phone rang during the board meeting.",
           "highlight": [
             "phone"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我的手機在董事會議期間響了。"
+          }
+        },
+        {
+          "en": "She phoned the supplier to confirm the shipment schedule.",
+          "highlight": [
+            "phoned"
+          ],
+          "translations": {
+            "zh-TW": "她打電話給供應商確認出貨時間表。"
+          }
+        },
+        {
+          "en": "Please stop phoning clients during lunch hours.",
+          "highlight": [
+            "phoning"
+          ],
+          "translations": {
+            "zh-TW": "請不要在午餐時間打電話給客戶。"
           }
         }
       ],
@@ -283,11 +381,10 @@
       ],
       "antonyms": [],
       "phrases": [
-        "answer",
-        "the",
-        "phone",
-        "phone",
-        "call"
+        "answer the phone",
+        "phone call",
+        "phone number",
+        "on the phone"
       ]
     },
     {
@@ -298,31 +395,45 @@
       "toeic_score_min": 500,
       "word": "photo",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "photoed",
-        "past_participle": "photoed",
-        "present_participle": "photoing",
-        "third_person": "photos"
+        "plural": "photos"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "photo",
-          "definition": "n. 相片, 照片, 逼真的描绘, v. 照相, a. 照相的, 摄影用的, 详细記录的, 逼真的, 酷似的"
+          "definition": "n. 照片、相片"
         }
       ],
       "examples": [
         {
-          "en": "He took a photo of the sunset.",
+          "en": "She uploaded a photo of the new office to the company website.",
           "highlight": [
             "photo"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她把新辦公室的照片上傳到公司網站。"
+          }
+        },
+        {
+          "en": "The brochure features several photos of the resort's facilities.",
+          "highlight": [
+            "photos"
+          ],
+          "translations": {
+            "zh-TW": "宣傳手冊展示了度假村設施的數張照片。"
+          }
+        },
+        {
+          "en": "Could you take a photo of our team after the ceremony?",
+          "highlight": [
+            "photo"
+          ],
+          "translations": {
+            "zh-TW": "典禮結束後可以幫我們團隊拍一張照片嗎？"
           }
         }
       ],
@@ -332,11 +443,10 @@
       ],
       "antonyms": [],
       "phrases": [
-        "take",
-        "a",
-        "photo",
-        "photo",
-        "album"
+        "take a photo",
+        "photo album",
+        "passport photo",
+        "photo shoot"
       ]
     },
     {
@@ -351,27 +461,46 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "photocopyed",
-        "past_participle": "photocopyed",
-        "present_participle": "photocopying",
-        "third_person": "photocopys"
+        "plural": "photocopies",
+        "present_3rd": "photocopies",
+        "past": "photocopied",
+        "past_participle": "photocopied",
+        "ing": "photocopying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "photocopy",
-          "definition": "n. 影印, 复印件, v. 影印"
+          "definition": "n. 影印本、影印件  v. 影印、複印"
         }
       ],
       "examples": [
         {
-          "en": "She made a photocopy of the document.",
+          "en": "I need a photocopy of your ID card for the personnel file.",
           "highlight": [
             "photocopy"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我需要你身分證的影印本來歸入人事檔案。"
+          }
+        },
+        {
+          "en": "She photocopied the contract three times for each party at the meeting.",
+          "highlight": [
+            "photocopied"
+          ],
+          "translations": {
+            "zh-TW": "她把合約影印了三份給會議中的每一方。"
+          }
+        },
+        {
+          "en": "The intern is photocopying handouts for this afternoon's training session.",
+          "highlight": [
+            "photocopying"
+          ],
+          "translations": {
+            "zh-TW": "實習生正在影印今天下午培訓課程的講義。"
           }
         }
       ],
@@ -379,13 +508,13 @@
         "xerox",
         "copy"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "original"
+      ],
       "phrases": [
-        "make",
-        "a",
-        "photocopy",
-        "photocopy",
-        "machine"
+        "make a photocopy",
+        "photocopy machine",
+        "certified photocopy"
       ]
     },
     {
@@ -400,27 +529,46 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "photographed",
+        "plural": "photographs",
+        "present_3rd": "photographs",
+        "past": "photographed",
         "past_participle": "photographed",
-        "present_participle": "photographing",
-        "third_person": "photographs"
+        "ing": "photographing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "photograph",
-          "definition": "n. 相片, 照片, 逼真的描绘, v. 照相, 摄影"
+          "definition": "n. 照片、相片  v. 拍攝、攝影"
         }
       ],
       "examples": [
         {
-          "en": "He hung the photograph on the wall.",
+          "en": "The new product photograph appeared on the cover of the catalog.",
           "highlight": [
             "photograph"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新產品的照片登上了型錄的封面。"
+          }
+        },
+        {
+          "en": "He photographed every exhibit at the trade show for the marketing team.",
+          "highlight": [
+            "photographed"
+          ],
+          "translations": {
+            "zh-TW": "他為行銷團隊拍攝了貿易展上的每一個展品。"
+          }
+        },
+        {
+          "en": "She has been photographing historical buildings across the country for ten years.",
+          "highlight": [
+            "photographing"
+          ],
+          "translations": {
+            "zh-TW": "她十年來一直在全國各地拍攝歷史建築。"
           }
         }
       ],
@@ -430,11 +578,9 @@
       ],
       "antonyms": [],
       "phrases": [
-        "hang",
-        "a",
-        "photograph",
-        "digital",
-        "photograph"
+        "take a photograph",
+        "digital photograph",
+        "aerial photograph"
       ]
     },
     {
@@ -445,44 +591,57 @@
       "toeic_score_min": 500,
       "word": "photographer",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "photographered",
-        "past_participle": "photographered",
-        "present_participle": "photographering",
-        "third_person": "photographers"
+        "plural": "photographers"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "photographer",
-          "definition": "n. 摄影師, 摄影者"
+          "definition": "n. 攝影師、攝影者"
         }
       ],
       "examples": [
         {
-          "en": "The photographer captured the moment.",
+          "en": "The photographer took official portraits of the entire executive team.",
           "highlight": [
             "photographer"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位攝影師為整個高階主管團隊拍了官方肖像。"
+          }
+        },
+        {
+          "en": "Several photographers were invited to cover the annual product launch event.",
+          "highlight": [
+            "photographers"
+          ],
+          "translations": {
+            "zh-TW": "幾位攝影師受邀來報導年度產品發表活動。"
+          }
+        },
+        {
+          "en": "She hired a photographer to document the factory expansion for the shareholders.",
+          "highlight": [
+            "photographer"
+          ],
+          "translations": {
+            "zh-TW": "她雇了一位攝影師為股東記錄工廠擴建的過程。"
           }
         }
       ],
       "synonyms": [
-        "camera",
-        "operator"
+        "shutterbug",
+        "lensman"
       ],
       "antonyms": [],
       "phrases": [
-        "professional",
-        "photographer",
-        "wedding",
-        "photographer"
+        "professional photographer",
+        "wedding photographer",
+        "staff photographer"
       ]
     }
   ]
