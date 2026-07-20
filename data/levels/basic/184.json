@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 184,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-184-001",
@@ -15,40 +15,61 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "milds"
+        "plural": "milds",
+        "comparative": "milder",
+        "superlative": "mildest"
       },
-      "domain": "general",
+      "domain": "weather / personality",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mild",
-          "definition": "a. 温和的, 温柔的, 淡味的, 适度的, 輕微的, (肥皂等)软性的, [医] 輕的, 缓和的"
+          "definition": "adj. 溫和的、溫柔的、輕微的；n. 溫和一些的事物"
         }
       ],
       "examples": [
         {
-          "en": "The weather is mild today.",
+          "en": "The weather was mild enough for a picnic in the park.",
           "highlight": [
             "mild"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "天氣夠溫和，可以在公園野餐。"
+          }
+        },
+        {
+          "en": "Her milder tone helped calm the angry customer down.",
+          "highlight": [
+            "milder"
+          ],
+          "translations": {
+            "zh-TW": "她較溫和的語氣幫助安撫了憤怒的顧客。"
+          }
+        },
+        {
+          "en": "This is the mildest winter the region has seen in decades.",
+          "highlight": [
+            "mildest"
+          ],
+          "translations": {
+            "zh-TW": "這是該地區數十年來最溫和的冬天。"
           }
         }
       ],
       "synonyms": [
         "gentle",
-        "moderate"
+        "moderate",
+        "soft"
       ],
       "antonyms": [
         "severe",
-        "intense"
+        "harsh"
       ],
       "phrases": [
-        "mild",
-        "weather",
-        "mild",
-        "taste"
+        "mild weather",
+        "mild temperature",
+        "mild flavor",
+        "mild manner"
       ]
     },
     {
@@ -59,42 +80,58 @@
       "toeic_score_min": 200,
       "word": "mile",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "mileed",
-        "past_participle": "mileed",
-        "present_participle": "miling",
-        "third_person": "miles"
+        "plural": "miles"
       },
-      "domain": "general",
+      "domain": "distance / measurement",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mile",
-          "definition": "n. 英裡, 很大距離, [机] 英裡, 哩"
+          "definition": "n. 英里、哩；很長的距離"
         }
       ],
       "examples": [
         {
-          "en": "They walked a mile to the store.",
+          "en": "The hotel is only a mile from the convention center.",
           "highlight": [
             "mile"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "飯店距離會議中心只有一英里。"
+          }
+        },
+        {
+          "en": "They drove several miles along the coastal highway yesterday.",
+          "highlight": [
+            "miles"
+          ],
+          "translations": {
+            "zh-TW": "他們昨天沿著沿海公路開了好幾英里。"
+          }
+        },
+        {
+          "en": "A mile measures 1,609 meters in the metric system.",
+          "highlight": [
+            "mile"
+          ],
+          "translations": {
+            "zh-TW": "一英里在公制中等於 1,609 公尺。"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "distance",
+        "league"
+      ],
       "antonyms": [],
       "phrases": [
-        "mile",
-        "away",
-        "walk",
-        "a",
-        "mile"
+        "a mile away",
+        "walk a mile",
+        "miles per hour",
+        "go the extra mile"
       ]
     },
     {
@@ -111,38 +148,56 @@
       "conjugations": {
         "plural": "militaries"
       },
-      "domain": "general",
+      "domain": "government / defense",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "military",
-          "definition": "n. 军队, a. 军事的, 军人的, 适于战争的"
+          "definition": "n. 軍隊、武裝力量；adj. 軍事的、軍用的"
         }
       ],
       "examples": [
         {
-          "en": "He is in the military.",
+          "en": "He completed his military service before starting college.",
           "highlight": [
             "military"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他在上大學前完成了兵役。"
+          }
+        },
+        {
+          "en": "The militaries of both nations participated in the joint exercise.",
+          "highlight": [
+            "militaries"
+          ],
+          "translations": {
+            "zh-TW": "兩國軍隊都參加了這次聯合演習。"
+          }
+        },
+        {
+          "en": "She retired from the military after twenty years of distinguished service.",
+          "highlight": [
+            "military"
+          ],
+          "translations": {
+            "zh-TW": "她在軍中服務二十年後光榮退役。"
           }
         }
       ],
       "synonyms": [
-        "armed",
-        "forces",
-        "army"
+        "armed forces",
+        "army",
+        "defense"
       ],
       "antonyms": [
         "civilian"
       ],
       "phrases": [
-        "military",
-        "service",
-        "military",
-        "base"
+        "military service",
+        "military base",
+        "military training",
+        "in the military"
       ]
     },
     {
@@ -157,41 +212,59 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "milked",
+        "plural": "milks",
+        "present_3rd": "milks",
+        "past": "milked",
         "past_participle": "milked",
-        "present_participle": "milking",
-        "third_person": "milks"
+        "ing": "milking"
       },
-      "domain": "general",
+      "domain": "food / agriculture",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "milk",
-          "definition": "n. 奶, 乳状物, vt. 挤乳, 榨取, vi. 产乳"
+          "definition": "n. 牛奶、乳；v. 擠乳、榨取"
         }
       ],
       "examples": [
         {
-          "en": "She drank a glass of milk.",
+          "en": "She drinks a glass of milk every morning for breakfast.",
           "highlight": [
             "milk"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她每天早上喝一杯牛奶當早餐。"
+          }
+        },
+        {
+          "en": "The farmer milked the cows twice a day on the family dairy farm.",
+          "highlight": [
+            "milked"
+          ],
+          "translations": {
+            "zh-TW": "農夫每天在家庭乳牛場擠兩次乳。"
+          }
+        },
+        {
+          "en": "Milking cows by hand is a skill that takes years to master.",
+          "highlight": [
+            "milking"
+          ],
+          "translations": {
+            "zh-TW": "徒手擠乳是一門需要多年才能精通的技藝。"
           }
         }
       ],
       "synonyms": [
         "dairy",
-        "cream"
+        "draught"
       ],
       "antonyms": [],
       "phrases": [
-        "glass",
-        "of",
-        "milk",
-        "fresh",
-        "milk"
+        "glass of milk",
+        "fresh milk",
+        "milk a cow",
+        "milk the truth"
       ]
     },
     {
@@ -202,40 +275,57 @@
       "toeic_score_min": 200,
       "word": "milligram",
       "pos": [
-        "noun",
-        "adjective"
+        "noun"
       ],
       "conjugations": {
         "plural": "milligrams"
       },
-      "domain": "general",
+      "domain": "measurement / medicine",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "milligram",
-          "definition": "n. 毫克, [电] 毫克"
+          "definition": "n. 毫克（千分之一公克，縮寫 mg）"
         }
       ],
       "examples": [
         {
-          "en": "The dosage is 500 milligrams.",
+          "en": "The doctor prescribed a dose of 500 milligrams for the infection.",
+          "highlight": [
+            "milligrams"
+          ],
+          "translations": {
+            "zh-TW": "醫師針對感染開了 500 毫克的劑量。"
+          }
+        },
+        {
+          "en": "Each tablet contains exactly one milligram of the active ingredient.",
           "highlight": [
             "milligram"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "每錠恰含一毫克的有效成分。"
+          }
+        },
+        {
+          "en": "The nutrition label lists sodium content in milligrams per serving.",
+          "highlight": [
+            "milligrams"
+          ],
+          "translations": {
+            "zh-TW": "營養標示以每份的毫克數列出鈉含量。"
           }
         }
       ],
       "synonyms": [
-        "mg"
+        "mg",
+        "milligramme"
       ],
       "antonyms": [],
       "phrases": [
-        "500",
-        "milligrams",
-        "per",
-        "milligram"
+        "500 milligrams",
+        "per milligram",
+        "a few milligrams"
       ]
     },
     {
@@ -246,40 +336,57 @@
       "toeic_score_min": 200,
       "word": "millimetre",
       "pos": [
-        "noun",
-        "adjective"
+        "noun"
       ],
       "conjugations": {
         "plural": "millimetres"
       },
-      "domain": "general",
+      "domain": "measurement / engineering",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "millimetre",
-          "definition": "n. 毫米, [机] 公厘"
+          "definition": "n. 毫米（千分之一公尺，縮寫 mm）"
         }
       ],
       "examples": [
         {
-          "en": "The insect is only a few millimetres long.",
+          "en": "The specifications require a glass plate one millimetre thick.",
           "highlight": [
             "millimetre"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "規格要求玻璃板的厚度為一毫米。"
+          }
+        },
+        {
+          "en": "The prototype component was off by several millimetres and had to be remade.",
+          "highlight": [
+            "millimetres"
+          ],
+          "translations": {
+            "zh-TW": "原型零件偏差了好幾毫米，必須重做。"
+          }
+        },
+        {
+          "en": "Calipers measure narrow gaps down to a fraction of a millimetre.",
+          "highlight": [
+            "millimetre"
+          ],
+          "translations": {
+            "zh-TW": "游標卡尺可量測小於一毫米的間隙。"
           }
         }
       ],
       "synonyms": [
-        "mm"
+        "mm",
+        "millimeter"
       ],
       "antonyms": [],
       "phrases": [
-        "one",
-        "millimetre",
-        "several",
-        "millimetres"
+        "a few millimetres",
+        "one millimetre thick",
+        "per millimetre"
       ]
     },
     {
@@ -291,39 +398,59 @@
       "word": "million",
       "pos": [
         "noun",
-        "adjective"
+        "adjective",
+        "number"
       ],
       "conjugations": {
         "plural": "millions"
       },
-      "domain": "general",
+      "domain": "numbers / business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "million",
-          "definition": "n. 百万, 无数, num. 百万"
+          "definition": "n. 百萬、無數；num. 一百萬的"
         }
       ],
       "examples": [
         {
-          "en": "The population is over a million.",
+          "en": "The startup raised over a million dollars in its first funding round.",
           "highlight": [
             "million"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家新創公司在首輪募資中籌得超過一百萬美元。"
+          }
+        },
+        {
+          "en": "Millions of shoppers visited the online store during the holiday sale.",
+          "highlight": [
+            "millions"
+          ],
+          "translations": {
+            "zh-TW": "節日特賣期間有數百萬名顧客造訪這家線上商店。"
+          }
+        },
+        {
+          "en": "The reports estimated the deal at one million euros, but negotiations continue.",
+          "highlight": [
+            "million"
+          ],
+          "translations": {
+            "zh-TW": "報告估計此交易金額為一百萬歐元，但談判仍在進行。"
           }
         }
       ],
       "synonyms": [
-        "million"
+        "1,000,000",
+        "a thousand thousand"
       ],
       "antonyms": [],
       "phrases": [
-        "one",
-        "million",
-        "millions",
-        "of"
+        "one million",
+        "millions of",
+        "a million dollars",
+        "make millions"
       ]
     },
     {
@@ -338,44 +465,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "minded",
+        "plural": "minds",
+        "present_3rd": "minds",
+        "past": "minded",
         "past_participle": "minded",
-        "present_participle": "minding",
-        "third_person": "minds"
+        "ing": "minding"
       },
-      "domain": "general",
+      "domain": "psychology / cognition",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mind",
-          "definition": "n. 思想, 愿望, 智力, 記忆, 心理, 情绪, 理智, 主意, 心意, vi. 介意, 注意, 留心, vt. 注意, 留意, 专心于, 照看, 介意"
+          "definition": "n. 心智、思想、記憶、理智；v. 介意、留心、照顧"
         }
       ],
       "examples": [
         {
-          "en": "She has a sharp mind.",
+          "en": "She has a sharp mind and solves complex problems quickly.",
           "highlight": [
             "mind"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她思緒敏捷，能迅速解決複雜問題。"
+          }
+        },
+        {
+          "en": "He minded the children while their parents attended the conference.",
+          "highlight": [
+            "minded"
+          ],
+          "translations": {
+            "zh-TW": "孩子們的父母參加會議時，他幫忙照看他們。"
+          }
+        },
+        {
+          "en": "Would you minding if I opened the window for some fresh air? — No, of course not.",
+          "highlight": [
+            "minding"
+          ],
+          "translations": {
+            "zh-TW": "你介意我把窗戶打開透透氣嗎？— 不，當然不會。"
           }
         }
       ],
       "synonyms": [
         "intellect",
-        "brain"
+        "brain",
+        "attention"
       ],
       "antonyms": [
         "body",
-        "physicality"
+        "carelessness"
       ],
       "phrases": [
-        "sharp",
-        "mind",
-        "change",
-        "your",
-        "mind"
+        "sharp mind",
+        "change your mind",
+        "never mind",
+        "mind your step"
       ]
     },
     {
@@ -386,44 +532,68 @@
       "toeic_score_min": 200,
       "word": "mine",
       "pos": [
-        "pronoun"
+        "pronoun",
+        "noun",
+        "verb"
       ],
-      "conjugations": {},
-      "domain": "general",
+      "conjugations": {
+        "plural": "mines",
+        "present_3rd": "mines",
+        "past": "mined",
+        "past_participle": "mined",
+        "ing": "mining"
+      },
+      "domain": "possession / industry",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mine",
-          "definition": "n. 矿, 矿藏, 地雷, vt. 挖掘, 开采, 在...布雷, 破坏, vi. 开矿, 埋设地雷, pron. 我的"
+          "definition": "pron. 我的；n. 礦、礦坑、地雷；v. 採礦、布雷"
         }
       ],
       "examples": [
         {
-          "en": "This book is mine.",
+          "en": "Is this seat mine, or does it belong to someone else?",
           "highlight": [
             "mine"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這個座位是我的，還是別人的？"
+          }
+        },
+        {
+          "en": "The company mined the shallow seam for silver before the vein ran out.",
+          "highlight": [
+            "mined"
+          ],
+          "translations": {
+            "zh-TW": "公司開採了那條淺層礦脈的銀，直到礦脈枯竭為止。"
+          }
+        },
+        {
+          "en": "Mining rare-earth minerals remains central to modern electronics manufacturing.",
+          "highlight": [
+            "mining"
+          ],
+          "translations": {
+            "zh-TW": "稀土礦物的開採仍是現代電子製造業的核心。"
           }
         }
       ],
       "synonyms": [
-        "belonging",
-        "to",
-        "me",
-        "my"
+        "my own",
+        "my property",
+        "pit"
       ],
       "antonyms": [
         "yours",
         "theirs"
       ],
       "phrases": [
-        "mine",
-        "too",
-        "this",
-        "is",
-        "mine"
+        "this is mine",
+        "a gold mine",
+        "mine for gold",
+        "coal mine"
       ]
     },
     {
@@ -440,36 +610,56 @@
       "conjugations": {
         "plural": "minerals"
       },
-      "domain": "general",
+      "domain": "geology / nutrition",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mineral",
-          "definition": "n. 矿物, 无机物, 苏打水, a. 矿物的, 似矿物的"
+          "definition": "n. 礦物、無機物、礦泉水；adj. 礦物的、含礦物的"
         }
       ],
       "examples": [
         {
-          "en": "The rock contains minerals.",
+          "en": "This region is rich in mineral resources and has attracted decades of investment.",
           "highlight": [
             "mineral"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這個地區礦產資源豐富，數十年來吸引了大量投資。"
+          }
+        },
+        {
+          "en": "Nutritionists say trace minerals like iron and zinc are essential to a healthy diet.",
+          "highlight": [
+            "minerals"
+          ],
+          "translations": {
+            "zh-TW": "營養師說鐵和鋅等微量礦物質是健康飲食不可或缺的。"
+          }
+        },
+        {
+          "en": "She prefers mineral water over soft drinks during business lunches.",
+          "highlight": [
+            "mineral"
+          ],
+          "translations": {
+            "zh-TW": "商務午餐時她偏好礦泉水，而非汽水。"
           }
         }
       ],
       "synonyms": [
         "ore",
+        "inorganic",
         "element"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "organic"
+      ],
       "phrases": [
-        "rich",
-        "in",
-        "mineral",
-        "mineral",
-        "water"
+        "mineral water",
+        "rich in minerals",
+        "mineral rights",
+        "mineral resources"
       ]
     }
   ]
