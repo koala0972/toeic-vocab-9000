@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 200,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-200-001",
@@ -11,45 +11,59 @@
       "toeic_score_min": 200,
       "word": "office",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "officeed",
-        "past_participle": "officeed",
-        "present_participle": "officing",
-        "third_person": "offices"
+        "plural": "offices"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "office",
-          "definition": "n. 办公室, 部, 公职, 职责, [化] 办公室"
+          "definition": "n. 辦公室、事務所、營業處"
         }
       ],
       "examples": [
         {
-          "en": "She works in an office downtown.",
+          "en": "Our new office is located in the downtown business district.",
           "highlight": [
             "office"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們的新辦公室位於市中心的商業區。"
+          }
+        },
+        {
+          "en": "The company plans to open branch offices in Tokyo and Seoul next year.",
+          "highlight": [
+            "offices"
+          ],
+          "translations": {
+            "zh-TW": "公司計畫明年在東京和首爾開設分公司。"
+          }
+        },
+        {
+          "en": "He left the office early to attend his daughter's school play.",
+          "highlight": [
+            "office"
+          ],
+          "translations": {
+            "zh-TW": "他提早離開辦公室，去參加女兒的學校戲劇表演。"
           }
         }
       ],
       "synonyms": [
         "workplace",
-        "bureau"
+        "bureau",
+        "agency"
       ],
       "antonyms": [],
       "phrases": [
-        "work",
-        "in",
-        "an",
-        "office",
-        "office"
+        "head office",
+        "branch office",
+        "office building",
+        "post office"
       ]
     },
     {
@@ -60,47 +74,62 @@
       "toeic_score_min": 200,
       "word": "officer",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "officered",
-        "past_participle": "officered",
-        "present_participle": "officering",
-        "third_person": "officers"
+        "plural": "officers"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "officer",
-          "definition": "n. 军官, 主管, 官員, 公务員, vt. 指挥"
+          "definition": "n. 官員、軍官、主管、警官"
         }
       ],
       "examples": [
         {
-          "en": "The officer gave the order.",
+          "en": "The chief financial officer presented the quarterly report to the board.",
           "highlight": [
             "officer"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "財務長向董事會提交了季度報告。"
+          }
+        },
+        {
+          "en": "Several police officers arrived at the scene within five minutes.",
+          "highlight": [
+            "officers"
+          ],
+          "translations": {
+            "zh-TW": "幾名警察在五分鐘內趕到現場。"
+          }
+        },
+        {
+          "en": "She was promoted to senior officer after ten years of dedicated service.",
+          "highlight": [
+            "officer"
+          ],
+          "translations": {
+            "zh-TW": "經過十年的盡心服務，她晉升為高級主管。"
           }
         }
       ],
       "synonyms": [
-        "commander",
-        "chief"
+        "official",
+        "executive",
+        "commander"
       ],
       "antonyms": [
         "subordinate",
         "private"
       ],
       "phrases": [
-        "police",
-        "officer",
-        "army",
-        "officer"
+        "police officer",
+        "chief officer",
+        "company officer",
+        "army officer"
       ]
     },
     {
@@ -115,40 +144,61 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "officials"
+        "plural": "officials",
+        "comparative": "more official",
+        "superlative": "most official"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "official",
-          "definition": "n. 官員, 公务員, 职員, a. 公务的, 官方的, 正式的"
+          "definition": "adj. 官方的、正式的、公務的  n. 官員、公務員"
         }
       ],
       "examples": [
         {
-          "en": "She holds an official position.",
+          "en": "The government will issue an official statement later this afternoon.",
           "highlight": [
             "official"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "政府將在今天下午晚些時候發布官方聲明。"
+          }
+        },
+        {
+          "en": "Senior officials from both countries signed the trade agreement.",
+          "highlight": [
+            "officials"
+          ],
+          "translations": {
+            "zh-TW": "兩國的高級官員簽署了這項貿易協議。"
+          }
+        },
+        {
+          "en": "Wearing a suit makes the invitation look more official than a simple email.",
+          "highlight": [
+            "more official"
+          ],
+          "translations": {
+            "zh-TW": "穿上西裝讓這份邀請看起來比一封普通的電子郵件更正式。"
           }
         }
       ],
       "synonyms": [
         "authorized",
-        "formal"
+        "formal",
+        "approved"
       ],
       "antonyms": [
         "unofficial",
         "informal"
       ],
       "phrases": [
-        "official",
-        "statement",
-        "official",
-        "report"
+        "official statement",
+        "official report",
+        "official business",
+        "government official"
       ]
     },
     {
@@ -162,37 +212,57 @@
         "adverb"
       ],
       "conjugations": {},
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "officially",
-          "definition": "adv. 作為公务員, 职务上, 官方地"
+          "definition": "adv. 官方地、正式地"
         }
       ],
       "examples": [
         {
-          "en": "The policy was officially approved.",
+          "en": "The new highway was officially opened to traffic last Friday.",
           "highlight": [
             "officially"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這條新高速公路已於上週五正式通車。"
+          }
+        },
+        {
+          "en": "She was officially appointed as the regional manager in January.",
+          "highlight": [
+            "officially"
+          ],
+          "translations": {
+            "zh-TW": "她於一月被正式任命為區域經理。"
+          }
+        },
+        {
+          "en": "The two firms officially merged after regulators approved the deal.",
+          "highlight": [
+            "officially"
+          ],
+          "translations": {
+            "zh-TW": "在監管機構批准該交易後，兩家公司正式合併。"
           }
         }
       ],
       "synonyms": [
         "formally",
-        "publicly"
+        "publicly",
+        "authoritatively"
       ],
       "antonyms": [
-        "unofficially"
+        "unofficially",
+        "informally"
       ],
       "phrases": [
-        "officially",
-        "announced",
-        "officially",
-        "declared"
+        "officially open",
+        "officially announced",
+        "officially approved",
+        "officially launched"
       ]
     },
     {
@@ -205,39 +275,62 @@
       "pos": [
         "adverb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "comparative": "oftener",
+        "superlative": "oftenest"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "often",
-          "definition": "adv. 時常, 常常"
+          "definition": "adv. 經常、時常、常常"
         }
       ],
       "examples": [
         {
-          "en": "She visits us often.",
+          "en": "International clients often prefer face-to-face meetings over video calls.",
           "highlight": [
             "often"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "國際客戶經常偏好面對面會議，而非視訊通話。"
+          }
+        },
+        {
+          "en": "She travels to Singapore oftener now that her company has expanded overseas.",
+          "highlight": [
+            "oftener"
+          ],
+          "translations": {
+            "zh-TW": "既然公司已向海外擴展，她現在更頻繁地前往新加坡。"
+          }
+        },
+        {
+          "en": "The oftenest complaint from customers is about slow customer service responses.",
+          "highlight": [
+            "oftenest"
+          ],
+          "translations": {
+            "zh-TW": "顧客最常見的抱怨是客服回覆太慢。"
           }
         }
       ],
       "synonyms": [
         "frequently",
-        "regularly"
+        "regularly",
+        "constantly"
       ],
       "antonyms": [
         "rarely",
-        "seldom"
+        "seldom",
+        "never"
       ],
       "phrases": [
-        "visit",
-        "often",
-        "often",
-        "see"
+        "most often",
+        "very often",
+        "more often than not",
+        "often enough"
       ]
     },
     {
@@ -256,30 +349,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "oh",
-          "definition": "interj. (表示惊讶、恐怖、赞叹)哦"
+          "definition": "interj. 哦、噢（表示驚訝、理解、失望等）"
         }
       ],
       "examples": [
         {
-          "en": "Oh, I didn't see you there!",
+          "en": "Oh, I didn't realize the meeting had been rescheduled to Thursday.",
           "highlight": [
             "oh"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "噢，我沒注意到會議已經改到週四了。"
+          }
+        },
+        {
+          "en": "Oh, that's a wonderful idea — let's try it at the next training session.",
+          "highlight": [
+            "oh"
+          ],
+          "translations": {
+            "zh-TW": "哦，這個主意真棒——我們下次培訓就來試試看。"
+          }
+        },
+        {
+          "en": "Oh, I'm sorry to hear that your flight was cancelled due to the storm.",
+          "highlight": [
+            "oh"
+          ],
+          "translations": {
+            "zh-TW": "哦，很遺憾聽到你的航班因暴風雨而取消。"
           }
         }
       ],
       "synonyms": [
         "ah",
-        "wow"
+        "wow",
+        "oops"
       ],
       "antonyms": [],
       "phrases": [
-        "oh",
-        "no",
-        "oh",
-        "well"
+        "oh no",
+        "oh well",
+        "oh my",
+        "oh dear"
       ]
     },
     {
@@ -294,42 +406,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "oiled",
+        "plural": "oils",
+        "present_3rd": "oils",
+        "past": "oiled",
         "past_participle": "oiled",
-        "present_participle": "oiling",
-        "third_person": "oils"
+        "ing": "oiling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "oil",
-          "definition": "n. 油, 石油, 油画颜料, vt. 涂油于, 使融化成油状, 加油于, vi. 加燃油, 融化"
+          "definition": "n. 油、石油、潤滑油  v. 加油、塗油於"
         }
       ],
       "examples": [
         {
-          "en": "The engine needs oil.",
+          "en": "The factory imports crude oil from several Middle Eastern countries.",
           "highlight": [
             "oil"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家工廠從幾個中東國家進口原油。"
+          }
+        },
+        {
+          "en": "The mechanic oiled the machine parts before reassembling the engine.",
+          "highlight": [
+            "oiled"
+          ],
+          "translations": {
+            "zh-TW": "技工在重新組裝引擎之前，先給機器零件上了油。"
+          }
+        },
+        {
+          "en": "He spent the morning oiling the gears to keep the conveyor running smoothly.",
+          "highlight": [
+            "oiling"
+          ],
+          "translations": {
+            "zh-TW": "他整個早上都在為齒輪上油，以保持輸送帶順暢運轉。"
           }
         }
       ],
       "synonyms": [
         "petroleum",
-        "lubricant"
+        "lubricant",
+        "grease"
       ],
-      "antonyms": [
-        "water"
-      ],
+      "antonyms": [],
       "phrases": [
-        "oil",
-        "spill",
-        "cooking",
-        "oil"
+        "oil spill",
+        "cooking oil",
+        "crude oil",
+        "olive oil"
       ]
     },
     {
@@ -340,44 +470,64 @@
       "toeic_score_min": 200,
       "word": "old",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "olds"
+        "comparative": "older",
+        "superlative": "oldest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "old",
-          "definition": "n. 以前, 往昔, a. 老的, 旧的, 古老的, 年長的, 老练的"
+          "definition": "adj. 老的、年長的、舊的、古老的"
         }
       ],
       "examples": [
         {
-          "en": "He is an old man.",
+          "en": "The old factory was converted into a modern office complex last summer.",
           "highlight": [
             "old"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這座舊工廠去年夏天被改造成現代化的辦公大樓。"
+          }
+        },
+        {
+          "en": "My older brother manages the purchasing department at a multinational firm.",
+          "highlight": [
+            "older"
+          ],
+          "translations": {
+            "zh-TW": "我哥哥在一家跨國公司管理採購部門。"
+          }
+        },
+        {
+          "en": "This is the oldest restaurant in the city, founded in 1923.",
+          "highlight": [
+            "oldest"
+          ],
+          "translations": {
+            "zh-TW": "這是本市最古老的餐廳，創立於 1923 年。"
           }
         }
       ],
       "synonyms": [
         "aged",
-        "elderly"
+        "elderly",
+        "ancient"
       ],
       "antonyms": [
         "young",
-        "new"
+        "new",
+        "modern"
       ],
       "phrases": [
-        "old",
-        "age",
-        "old",
-        "friend"
+        "old age",
+        "old friend",
+        "old-fashioned",
+        "old news"
       ]
     },
     {
@@ -397,33 +547,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "on",
-          "definition": "prep. 在...之上, adv. ...上去, a. 正起作用的, [计] 打开"
+          "definition": "prep. 在……之上、關於、在……時候  adv. 繼續、開啟、進行中"
         }
       ],
       "examples": [
         {
-          "en": "The book is on the table.",
+          "en": "Please leave the contract on the manager's desk before noon.",
           "highlight": [
             "on"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在中午前將合約放在經理的辦公桌上。"
+          }
+        },
+        {
+          "en": "The negotiations are still on, despite the recent disagreement.",
+          "highlight": [
+            "on"
+          ],
+          "translations": {
+            "zh-TW": "儘管最近有分歧，談判仍在進行中。"
+          }
+        },
+        {
+          "en": "She gave a presentation on the impact of artificial intelligence in retail.",
+          "highlight": [
+            "on"
+          ],
+          "translations": {
+            "zh-TW": "她發表了一場關於人工智慧在零售業影響的簡報。"
           }
         }
       ],
       "synonyms": [
         "upon",
-        "over"
+        "onto",
+        "about"
       ],
       "antonyms": [
         "off"
       ],
       "phrases": [
-        "on",
-        "the",
-        "table",
-        "on",
-        "top"
+        "on time",
+        "on schedule",
+        "on sale",
+        "on duty"
       ]
     },
     {
@@ -435,46 +603,59 @@
       "word": "once",
       "pos": [
         "adverb",
-        "noun"
+        "conjunction"
       ],
-      "conjugations": {
-        "plural": "onces"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "once",
-          "definition": "adv. 一次, 曾經, 一旦, conj. 一旦, 一經, n. 一次, a. 从前的"
+          "definition": "adv. 一次、曾經、一旦  conj. 一旦……就……"
         }
       ],
       "examples": [
         {
-          "en": "She called me once.",
+          "en": "We review the safety protocol once a quarter to keep everyone informed.",
           "highlight": [
             "once"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們每季度審查一次安全規範，確保每個人都了解。"
+          }
+        },
+        {
+          "en": "She once worked as a translator for a major law firm in Hong Kong.",
+          "highlight": [
+            "once"
+          ],
+          "translations": {
+            "zh-TW": "她曾經在香港一家大型律師事務所擔任翻譯。"
+          }
+        },
+        {
+          "en": "Once the budget is approved, the team can start hiring new engineers.",
+          "highlight": [
+            "once"
+          ],
+          "translations": {
+            "zh-TW": "一旦預算獲得批准，團隊就能開始招募新的工程師。"
           }
         }
       ],
       "synonyms": [
-        "one",
-        "time",
-        "single",
-        "time"
+        "formerly",
+        "previously",
+        "one time"
       ],
       "antonyms": [
-        "multiple",
-        "times"
+        "never"
       ],
       "phrases": [
-        "once",
-        "a",
-        "day",
-        "once",
-        "again"
+        "once again",
+        "once a week",
+        "at once",
+        "once upon a time"
       ]
     }
   ]
