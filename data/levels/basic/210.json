@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 210,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-210-001",
@@ -11,44 +11,62 @@
       "toeic_score_min": 500,
       "word": "performance",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "performanceed",
-        "past_participle": "performanceed",
-        "present_participle": "performancing",
-        "third_person": "performances"
+        "plural": "performances"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "performance",
-          "definition": "n. 施行, 工作情况, 成绩, 行為, 表现, 演出, [电] 绩效, 性能"
+          "definition": "n. 表現、績效、演出、性能"
         }
       ],
       "examples": [
         {
-          "en": "The performance was outstanding.",
+          "en": "The company's quarterly performance exceeded all expectations.",
           "highlight": [
             "performance"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司本季的績效超出了所有預期。"
+          }
+        },
+        {
+          "en": "Her outstanding performances earned her a promotion last year.",
+          "highlight": [
+            "performances"
+          ],
+          "translations": {
+            "zh-TW": "她過去傑出的各項表現為她去年贏得了一次升遷。"
+          }
+        },
+        {
+          "en": "The live performance attracted over two thousand spectators.",
+          "highlight": [
+            "performance"
+          ],
+          "translations": {
+            "zh-TW": "這場現場演出吸引了超過兩千名觀眾。"
           }
         }
       ],
       "synonyms": [
         "show",
-        "presentation"
+        "presentation",
+        "execution"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "failure",
+        "underperformance"
+      ],
       "phrases": [
-        "excellent",
-        "performance",
-        "live",
-        "performance"
+        "performance review",
+        "high performance",
+        "live performance",
+        "performance indicator"
       ]
     },
     {
@@ -59,44 +77,62 @@
       "toeic_score_min": 500,
       "word": "performer",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "performered",
-        "past_participle": "performered",
-        "present_participle": "performering",
-        "third_person": "performers"
+        "plural": "performers"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "performer",
-          "definition": "n. 表演者, 执行者, 完成者, [法] 执行者, 履行者, 實行者"
+          "definition": "n. 表演者、演出者、執行者"
         }
       ],
       "examples": [
         {
-          "en": "The performer received a standing ovation.",
+          "en": "The young performer captivated the audience with her voice.",
           "highlight": [
             "performer"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位年輕的表演者用她的歌聲迷住了全場觀眾。"
+          }
+        },
+        {
+          "en": "Street performers often draw large crowds in tourist districts.",
+          "highlight": [
+            "performers"
+          ],
+          "translations": {
+            "zh-TW": "街頭藝人常在觀光區吸引大批群眾駐足。"
+          }
+        },
+        {
+          "en": "The lead performer received a standing ovation at the end.",
+          "highlight": [
+            "performer"
+          ],
+          "translations": {
+            "zh-TW": "表演結束時，主角表演者獲得了全場起立鼓掌。"
           }
         }
       ],
       "synonyms": [
         "entertainer",
-        "artist"
+        "artist",
+        "actor"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "spectator",
+        "audience"
+      ],
       "phrases": [
-        "talented",
-        "performer",
-        "street",
-        "performer"
+        "lead performer",
+        "street performer",
+        "solo performer",
+        "talented performer"
       ]
     },
     {
@@ -115,34 +151,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "perhaps",
-          "definition": "adv. 也许, 大概"
+          "definition": "adv. 也許、大概、或許"
         }
       ],
       "examples": [
         {
-          "en": "Perhaps we can go tomorrow.",
+          "en": "Perhaps we should reschedule the meeting to next Tuesday.",
           "highlight": [
             "perhaps"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "也許我們應該把會議改到下週二。"
+          }
+        },
+        {
+          "en": "Perhaps it would be better to send the report by email instead.",
+          "highlight": [
+            "perhaps"
+          ],
+          "translations": {
+            "zh-TW": "或許改用電子郵件寄送報告會更好。"
+          }
+        },
+        {
+          "en": "The package will arrive tomorrow, perhaps even earlier.",
+          "highlight": [
+            "perhaps"
+          ],
+          "translations": {
+            "zh-TW": "包裹明天就會到，搞不好還會更早。"
           }
         }
       ],
       "synonyms": [
         "maybe",
-        "possibly"
+        "possibly",
+        "probably"
       ],
       "antonyms": [
         "certainly",
+        "definitely",
         "surely"
       ],
       "phrases": [
-        "perhaps",
-        "we",
-        "can",
-        "perhaps",
-        "not"
+        "perhaps not",
+        "perhaps so",
+        "more perhaps"
       ]
     },
     {
@@ -153,8 +207,7 @@
       "toeic_score_min": 500,
       "word": "period",
       "pos": [
-        "noun",
-        "adjective"
+        "noun"
       ],
       "conjugations": {
         "plural": "periods"
@@ -164,33 +217,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "period",
-          "definition": "n. 時期, 节段, 节, 句點, 学時, 周期, a. 当時特有的, 過去某段時期的, interj. 就是这话, 就是这麼回事"
+          "definition": "n. 時期、期間、週期、一堂課、句點"
         }
       ],
       "examples": [
         {
-          "en": "It was a difficult period in his life.",
+          "en": "The company experienced rapid growth over a short period.",
           "highlight": [
             "period"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家公司在短期間內經歷了快速成長。"
+          }
+        },
+        {
+          "en": "During peak periods, the call center hires extra staff.",
+          "highlight": [
+            "periods"
+          ],
+          "translations": {
+            "zh-TW": "在尖峰時段，客服中心會額外雇用人手。"
+          }
+        },
+        {
+          "en": "The probationary period for new employees lasts three months.",
+          "highlight": [
+            "period"
+          ],
+          "translations": {
+            "zh-TW": "新進員工的試用期為期三個月。"
           }
         }
       ],
       "synonyms": [
         "time",
-        "duration"
+        "duration",
+        "phase"
       ],
       "antonyms": [
         "moment",
         "instant"
       ],
       "phrases": [
-        "time",
-        "period",
-        "menstrual",
-        "period"
+        "probationary period",
+        "period of time",
+        "peak period",
+        "grace period"
       ]
     },
     {
@@ -201,44 +273,64 @@
       "toeic_score_min": 500,
       "word": "permanent",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "permanents"
+        "comparative": "more permanent",
+        "superlative": "most permanent"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "permanent",
-          "definition": "a. 永久的, 不变的, 固定的, 持久的, n. 烫發, [计] 永久的"
+          "definition": "adj. 永久的、長期的、固定的"
         }
       ],
       "examples": [
         {
-          "en": "They have a permanent residence.",
+          "en": "She was offered a permanent position after the contract ended.",
           "highlight": [
             "permanent"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "合約結束後，她獲得了一份正職工作的邀約。"
+          }
+        },
+        {
+          "en": "A permanent solution is more sustainable than a temporary fix.",
+          "highlight": [
+            "permanent"
+          ],
+          "translations": {
+            "zh-TW": "永久的解決方案比暫時的補救措施更具永續性。"
+          }
+        },
+        {
+          "en": "This is the most permanent structure the city has ever built.",
+          "highlight": [
+            "most permanent"
+          ],
+          "translations": {
+            "zh-TW": "這是這座城市有史以來建造過最堅固恆久的建築。"
           }
         }
       ],
       "synonyms": [
         "everlasting",
-        "enduring"
+        "enduring",
+        "lasting"
       ],
       "antonyms": [
         "temporary",
-        "transient"
+        "transient",
+        "brief"
       ],
       "phrases": [
-        "permanent",
-        "residence",
-        "permanent",
-        "job"
+        "permanent residence",
+        "permanent position",
+        "permanent address",
+        "permanent staff"
       ]
     },
     {
@@ -249,47 +341,63 @@
       "toeic_score_min": 500,
       "word": "permission",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "permissioned",
-        "past_participle": "permissioned",
-        "present_participle": "permissioning",
-        "third_person": "permissions"
+        "plural": "permissions"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "permission",
-          "definition": "n. 许可, 允许, [计] 许可, 认可"
+          "definition": "n. 許可、同意、允許"
         }
       ],
       "examples": [
         {
-          "en": "She gave her permission to leave early.",
+          "en": "You need permission from your manager before booking business travel.",
           "highlight": [
             "permission"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在預訂出差行程前，你需要先取得主管的許可。"
+          }
+        },
+        {
+          "en": "The system grants different permissions to each user role.",
+          "highlight": [
+            "permissions"
+          ],
+          "translations": {
+            "zh-TW": "系統會依據每個使用者角色賦予不同的權限。"
+          }
+        },
+        {
+          "en": "He asked for permission to leave the office early for a doctor's appointment.",
+          "highlight": [
+            "permission"
+          ],
+          "translations": {
+            "zh-TW": "他請求許可提前離開辦公室去就醫。"
           }
         }
       ],
       "synonyms": [
         "consent",
-        "authorization"
+        "authorization",
+        "approval"
       ],
       "antonyms": [
         "refusal",
-        "denial"
+        "denial",
+        "prohibition"
       ],
       "phrases": [
-        "give",
-        "permission",
-        "seek",
-        "permission"
+        "give permission",
+        "seek permission",
+        "planning permission",
+        "written permission"
       ]
     },
     {
@@ -304,43 +412,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "permited",
-        "past_participle": "permited",
-        "present_participle": "permiting",
-        "third_person": "permits"
+        "present_3rd": "permits",
+        "past": "permitted",
+        "past_participle": "permitted",
+        "ing": "permitting",
+        "plural": "permits"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "permit",
-          "definition": "n. 许可证, 许可, 执照, 通行证, vt. 允许, 容许, 可能, 使放手做, vi. 容许, 给以机會, 提供可能"
+          "definition": "v. 允許、許可  n. 許可證、通行證"
         }
       ],
       "examples": [
         {
-          "en": "They were permitted to enter the building.",
+          "en": "The rules do not permit food or drinks inside the laboratory.",
           "highlight": [
             "permit"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "實驗室內的規定不允許攜帶食物或飲料。"
+          }
+        },
+        {
+          "en": "Visitors were permitted to enter only after showing identification.",
+          "highlight": [
+            "permitted"
+          ],
+          "translations": {
+            "zh-TW": "訪客只有在出示身分證明後才獲准進入。"
+          }
+        },
+        {
+          "en": "The city requires a parking permit for all downtown employees.",
+          "highlight": [
+            "permit"
+          ],
+          "translations": {
+            "zh-TW": "市府規定所有市中心工作的員工都需要停車許可證。"
           }
         }
       ],
       "synonyms": [
         "allow",
-        "authorize"
+        "authorize",
+        "grant"
       ],
       "antonyms": [
         "prohibit",
-        "forbid"
+        "forbid",
+        "ban"
       ],
       "phrases": [
-        "permit",
-        "entry",
-        "permit",
-        "access"
+        "parking permit",
+        "work permit",
+        "building permit",
+        "permit entry"
       ]
     },
     {
@@ -351,45 +480,59 @@
       "toeic_score_min": 500,
       "word": "person",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "personed",
-        "past_participle": "personed",
-        "present_participle": "personing",
-        "third_person": "persons"
+        "plural": "persons"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "person",
-          "definition": "n. 人, 人身, 人称, [法] 人, 法人, 人身"
+          "definition": "n. 人、個人、人身"
         }
       ],
       "examples": [
         {
-          "en": "He is a kind person.",
+          "en": "She is the right person to lead the new project team.",
           "highlight": [
             "person"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她是帶領新專案團隊的合適人選。"
+          }
+        },
+        {
+          "en": "Only authorized persons may access the server room.",
+          "highlight": [
+            "persons"
+          ],
+          "translations": {
+            "zh-TW": "只有經過授權的人員才能進入伺服器機房。"
+          }
+        },
+        {
+          "en": "He is a reliable person who always meets his deadlines.",
+          "highlight": [
+            "person"
+          ],
+          "translations": {
+            "zh-TW": "他是個可靠的人，總是能在期限內完成工作。"
           }
         }
       ],
       "synonyms": [
         "individual",
-        "human"
+        "human",
+        "someone"
       ],
       "antonyms": [],
       "phrases": [
-        "kind",
-        "person",
-        "person",
-        "of",
-        "interest"
+        "in person",
+        "person in charge",
+        "missing person",
+        "first person"
       ]
     },
     {
@@ -400,44 +543,64 @@
       "toeic_score_min": 500,
       "word": "personal",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "personals"
+        "comparative": "more personal",
+        "superlative": "most personal"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "personal",
-          "definition": "a. 私人的, 涉及隐私的, 有人性的, 人称的, 亲自的, 身体的, [医] 人的; 個人的, 自身的"
+          "definition": "adj. 私人的、個人的、親自的、涉及隱私的"
         }
       ],
       "examples": [
         {
-          "en": "She shared her personal thoughts.",
+          "en": "Please keep your personal belongings in the locker during the shift.",
           "highlight": [
             "personal"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "上班期間請將私人物品放在置物櫃裡。"
+          }
+        },
+        {
+          "en": "Writing a handwritten note feels more personal than sending an email.",
+          "highlight": [
+            "more personal"
+          ],
+          "translations": {
+            "zh-TW": "手寫便條比寄電子郵件更顯得有個人溫度。"
+          }
+        },
+        {
+          "en": "The manager gave the most personal apology I have ever heard.",
+          "highlight": [
+            "most personal"
+          ],
+          "translations": {
+            "zh-TW": "經理的道歉是我聽過最發自內心的一次。"
           }
         }
       ],
       "synonyms": [
         "private",
-        "intimate"
+        "intimate",
+        "individual"
       ],
       "antonyms": [
         "public",
-        "general"
+        "general",
+        "impersonal"
       ],
       "phrases": [
-        "personal",
-        "opinion",
-        "personal",
-        "space"
+        "personal belongings",
+        "personal opinion",
+        "personal space",
+        "personal data"
       ]
     },
     {
@@ -448,8 +611,7 @@
       "toeic_score_min": 500,
       "word": "personality",
       "pos": [
-        "noun",
-        "adjective"
+        "noun"
       ],
       "conjugations": {
         "plural": "personalities"
@@ -459,30 +621,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "personality",
-          "definition": "n. 個性, 人格, (团体、地方、國家)特有特性, 名人, [医] 人格; 個性"
+          "definition": "n. 個性、人格、名人"
         }
       ],
       "examples": [
         {
-          "en": "She has a cheerful personality.",
+          "en": "Her cheerful personality makes her popular among colleagues.",
           "highlight": [
             "personality"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她開朗的個性讓她在同事之間很受歡迎。"
+          }
+        },
+        {
+          "en": "Different personalities can bring fresh ideas to a team.",
+          "highlight": [
+            "personalities"
+          ],
+          "translations": {
+            "zh-TW": "不同的性格特質能為團隊帶來新的想法。"
+          }
+        },
+        {
+          "en": "The talk show features well-known personalities from sports and entertainment.",
+          "highlight": [
+            "personalities"
+          ],
+          "translations": {
+            "zh-TW": "這個脫口秀邀請了體育與娛樂界的知名人物。"
           }
         }
       ],
       "synonyms": [
         "character",
-        "temperament"
+        "temperament",
+        "nature"
       ],
       "antonyms": [],
       "phrases": [
-        "charming",
-        "personality",
-        "split",
-        "personality"
+        "personality trait",
+        "charming personality",
+        "media personality",
+        "split personality"
       ]
     }
   ]
