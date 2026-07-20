@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 190,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-190-001",
@@ -11,46 +11,61 @@
       "toeic_score_min": 200,
       "word": "musician",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "musicianed",
-        "past_participle": "musicianed",
-        "present_participle": "musicianing",
-        "third_person": "musicians"
+        "plural": "musicians"
       },
-      "domain": "general",
+      "domain": "arts",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "musician",
-          "definition": "n. 音乐家, 乐師, 作曲家"
+          "definition": "n. 音樂家、樂師、作曲家"
         }
       ],
       "examples": [
         {
-          "en": "The musician played beautifully.",
+          "en": "The young musician won a scholarship to study violin in Vienna.",
           "highlight": [
             "musician"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位年輕的音樂家獲得了到維也納學習小提琴的獎學金。"
+          }
+        },
+        {
+          "en": "Several local musicians were hired to perform at the company's annual gala.",
+          "highlight": [
+            "musicians"
+          ],
+          "translations": {
+            "zh-TW": "幾位本地樂師被雇用在公司年度晚會上演出。"
+          }
+        },
+        {
+          "en": "The orchestra's lead musician has toured with celebrated conductors across Europe.",
+          "highlight": [
+            "musician"
+          ],
+          "translations": {
+            "zh-TW": "這個管弦樂團的首席樂師曾與知名指揮家一起到歐洲各地巡演。"
           }
         }
       ],
       "synonyms": [
         "performer",
+        "instrumentalist",
         "artist"
       ],
       "antonyms": [
-        "non-musician"
+        "listener"
       ],
       "phrases": [
-        "professional",
-        "musician",
-        "talented",
-        "musician"
+        "professional musician",
+        "talented musician",
+        "session musician",
+        "street musician"
       ]
     },
     {
@@ -61,46 +76,59 @@
       "toeic_score_min": 200,
       "word": "must",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
-      "conjugations": {
-        "past_tense": "musted",
-        "past_participle": "musted",
-        "present_participle": "musting",
-        "third_person": "musts"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "must",
-          "definition": "n. 必须, 未發酵葡萄汁, 绝對必要的事物, aux. 必须"
+          "definition": "aux. 必須、一定  n. 必不可少的事物"
         }
       ],
       "examples": [
         {
-          "en": "You must finish your homework.",
+          "en": "You must submit the expense report by Friday or it won't be reimbursed.",
           "highlight": [
             "must"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "你必須在星期五之前提交費用報告，否則不予報銷。"
+          }
+        },
+        {
+          "en": "All visitors must wear a badge while inside the research facility.",
+          "highlight": [
+            "must"
+          ],
+          "translations": {
+            "zh-TW": "所有訪客在研究設施內必須佩戴識別證。"
+          }
+        },
+        {
+          "en": "A reliable internet connection is a must for remote workers.",
+          "highlight": [
+            "must"
+          ],
+          "translations": {
+            "zh-TW": "穩定的網路連線是遠端工作者不可或缺的條件。"
           }
         }
       ],
       "synonyms": [
-        "have",
-        "to",
-        "need",
-        "to"
+        "have to",
+        "need to",
+        "ought to"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "optional"
+      ],
       "phrases": [
-        "must",
-        "do",
-        "must",
-        "be"
+        "must do",
+        "must have",
+        "must see",
+        "must read"
       ]
     },
     {
@@ -111,29 +139,43 @@
       "toeic_score_min": 200,
       "word": "my",
       "pos": [
-        "pronoun",
-        "adjective"
+        "pronoun"
       ],
-      "conjugations": {
-        "comparative": "mier",
-        "superlative": "miest"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "my",
-          "definition": "pron. 我的, [医] 迈尔(热容单位)"
+          "definition": "pron. 我的（所有格）"
         }
       ],
       "examples": [
         {
-          "en": "That is my book.",
+          "en": "My flight to Tokyo has been rescheduled to tomorrow morning.",
           "highlight": [
             "my"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我飛往東京的班機已改期到明天早上。"
+          }
+        },
+        {
+          "en": "Please forward my regards to the client when you meet them next week.",
+          "highlight": [
+            "my"
+          ],
+          "translations": {
+            "zh-TW": "下週與客戶見面時，請代我向他們問候。"
+          }
+        },
+        {
+          "en": "My apologies for the delay — the supplier shipped the parts late.",
+          "highlight": [
+            "my"
+          ],
+          "translations": {
+            "zh-TW": "很抱歉耽擱了——供應商晚出貨了零件。"
           }
         }
       ],
@@ -141,13 +183,14 @@
         "mine"
       ],
       "antonyms": [
-        "your"
+        "your",
+        "their"
       ],
       "phrases": [
-        "my",
-        "book",
-        "my",
-        "friend"
+        "my pleasure",
+        "my fault",
+        "my bad",
+        "my treat"
       ]
     },
     {
@@ -166,31 +209,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "myself",
-          "definition": "pron. 我自己, 我亲自, 我独自"
+          "definition": "pron. 我自己、我親自、我獨自"
         }
       ],
       "examples": [
         {
-          "en": "I made it myself.",
+          "en": "I handled the negotiation myself because the senior manager was ill.",
           "highlight": [
             "myself"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "因為資深經理生病，我親自處理了這次談判。"
+          }
+        },
+        {
+          "en": "I prefer to proofread the contract myself before sending it to legal.",
+          "highlight": [
+            "myself"
+          ],
+          "translations": {
+            "zh-TW": "我比較傾向自己先把合約校對過，再送到法務部門。"
+          }
+        },
+        {
+          "en": "I learned to use the new CRM software myself over the weekend.",
+          "highlight": [
+            "myself"
+          ],
+          "translations": {
+            "zh-TW": "週末我自己學會了使用新的客戶關係管理軟體。"
           }
         }
       ],
       "synonyms": [
-        "me"
+        "in person"
       ],
       "antonyms": [
         "yourself"
       ],
       "phrases": [
-        "by",
-        "myself",
-        "for",
-        "myself"
+        "by myself",
+        "for myself",
+        "do it myself",
+        "introduce myself"
       ]
     },
     {
@@ -201,44 +262,63 @@
       "toeic_score_min": 200,
       "word": "mysterious",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "mysteriouses"
+        "comparative": "more mysterious",
+        "superlative": "most mysterious"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mysterious",
-          "definition": "a. 神秘的, 難解的, 不可思議的"
+          "definition": "adj. 神秘的、難以理解的、不可思議的"
         }
       ],
       "examples": [
         {
-          "en": "The disappearance was mysterious.",
+          "en": "The auditor flagged a mysterious transfer of funds that no one could explain.",
           "highlight": [
             "mysterious"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "稽核員標記出一筆誰都無法解釋的神秘資金轉移。"
+          }
+        },
+        {
+          "en": "Investors grew cautious as the start-up's business model became more mysterious.",
+          "highlight": [
+            "more mysterious"
+          ],
+          "translations": {
+            "zh-TW": "隨著這家新創公司的商業模式變得更加撲朔迷離，投資人漸趨謹慎。"
+          }
+        },
+        {
+          "en": "The disappearance of the CFO is the most mysterious case the firm has ever faced.",
+          "highlight": [
+            "most mysterious"
+          ],
+          "translations": {
+            "zh-TW": "財務長的失蹤是這家公司遇過最不可思議的案件。"
           }
         }
       ],
       "synonyms": [
         "enigmatic",
-        "puzzling"
+        "puzzling",
+        "cryptic"
       ],
       "antonyms": [
         "clear",
         "obvious"
       ],
       "phrases": [
-        "mysterious",
-        "disappearance",
-        "mysterious",
-        "person"
+        "mysterious stranger",
+        "mysterious circumstances",
+        "mysterious disappearance",
+        "mysterious package"
       ]
     },
     {
@@ -249,48 +329,62 @@
       "toeic_score_min": 200,
       "word": "mystery",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "mysteryed",
-        "past_participle": "mysteryed",
-        "present_participle": "mysterying",
-        "third_person": "mysterys"
+        "plural": "mysteries"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mystery",
-          "definition": "n. 秘密, 神秘, 奥秘"
+          "definition": "n. 神秘、秘密、謎、難以理解的事物"
         }
       ],
       "examples": [
         {
-          "en": "The case remains a mystery.",
+          "en": "The source of the data leak remains a mystery to the IT department.",
           "highlight": [
             "mystery"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "資料外洩的來源對資訊部門來說仍然是一個謎。"
+          }
+        },
+        {
+          "en": "Detectives are piecing together the mysteries surrounding the CEO's sudden resignation.",
+          "highlight": [
+            "mysteries"
+          ],
+          "translations": {
+            "zh-TW": "偵探們正在拼湊圍繞執行長突然辭職的種種謎團。"
+          }
+        },
+        {
+          "en": "Why the campaign failed to attract customers is one of the marketing world's great mysteries.",
+          "highlight": [
+            "mysteries"
+          ],
+          "translations": {
+            "zh-TW": "為什麼這項活動未能吸引顧客，是行銷界最大的謎題之一。"
           }
         }
       ],
       "synonyms": [
         "puzzle",
-        "enigma"
+        "enigma",
+        "riddle"
       ],
       "antonyms": [
-        "explanation",
-        "solution"
+        "solution",
+        "explanation"
       ],
       "phrases": [
-        "solve",
-        "the",
-        "mystery",
-        "mystery",
-        "novel"
+        "solve a mystery",
+        "mystery novel",
+        "mystery shopper",
+        "mystery shopper"
       ]
     },
     {
@@ -305,43 +399,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "nailed",
+        "plural": "nails",
+        "present_3rd": "nails",
+        "past": "nailed",
         "past_participle": "nailed",
-        "present_participle": "nailing",
-        "third_person": "nails"
+        "ing": "nailing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "nail",
-          "definition": "n. 钉子, 指甲, vt. 用钉钉牢, 使固定, 截住, 揭露"
+          "definition": "n. 釘子、指甲  v. 釘牢、抓緊、確定"
         }
       ],
       "examples": [
         {
-          "en": "He hammered the nail into the wall.",
+          "en": "The carpenter drove a nail into the wooden frame to hang the new sign.",
           "highlight": [
             "nail"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "木匠在木框上釘了一根釘子來懸掛新招牌。"
+          }
+        },
+        {
+          "en": "She nailed the presentation and secured the deal with the key client.",
+          "highlight": [
+            "nailed"
+          ],
+          "translations": {
+            "zh-TW": "她完美地完成了簡報，並與關鍵客戶達成了交易。"
+          }
+        },
+        {
+          "en": "The contractor is nailing down the final cost estimate before signing the contract.",
+          "highlight": [
+            "nailing"
+          ],
+          "translations": {
+            "zh-TW": "承包商正在簽約前敲定最終成本估計。"
           }
         }
       ],
       "synonyms": [
         "spike",
-        "pin"
+        "pin",
+        "fastener"
       ],
       "antonyms": [
-        "screw"
+        "loosen"
       ],
       "phrases": [
-        "hammer",
-        "a",
-        "nail",
-        "nail",
-        "in"
+        "nail down",
+        "hit the nail on the head",
+        "nail polish",
+        "as hard as nails"
       ]
     },
     {
@@ -352,47 +465,64 @@
       "toeic_score_min": 200,
       "word": "naked",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "nakeded",
-        "past_participle": "nakeded",
-        "present_participle": "nakeding",
-        "third_person": "nakeds"
+        "comparative": "naker",
+        "superlative": "nakest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "naked",
-          "definition": "a. 裸体的, 无装饰的, 无保护的, 赤贫的, [医] 裸露的"
+          "definition": "adj. 裸露的、赤裸的、無遮蔽的、不加掩飾的"
         }
       ],
       "examples": [
         {
-          "en": "She was embarrassed to be seen naked.",
+          "en": "The new building stands naked without any landscaping to soften its concrete facade.",
           "highlight": [
             "naked"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這棟新建築沒有任何景觀設計來柔化其混凝土外觀，赤裸裸地矗立著。"
+          }
+        },
+        {
+          "en": "Inspectors found the wires naked and exposed, creating a serious fire hazard.",
+          "highlight": [
+            "naked"
+          ],
+          "translations": {
+            "zh-TW": "稽查員發現電線外露且無絕緣，造成了嚴重的火災隱患。"
+          }
+        },
+        {
+          "en": "The naked truth of the financial report shocked the shareholders at the meeting.",
+          "highlight": [
+            "naked"
+          ],
+          "translations": {
+            "zh-TW": "財務報告中赤裸裸的真相令與會股東震驚。"
           }
         }
       ],
       "synonyms": [
         "bare",
-        "unclothed"
+        "unclothed",
+        "exposed"
       ],
       "antonyms": [
         "clothed",
+        "covered",
         "dressed"
       ],
       "phrases": [
-        "naked",
-        "body",
-        "naked",
-        "eye"
+        "naked eye",
+        "naked truth",
+        "naked ambition",
+        "the naked eye"
       ]
     },
     {
@@ -407,40 +537,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "nameed",
-        "past_participle": "nameed",
-        "present_participle": "naming",
-        "third_person": "names"
+        "plural": "names",
+        "present_3rd": "names",
+        "past": "named",
+        "past_participle": "named",
+        "ing": "naming"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "name",
-          "definition": "n. 名字, 名称, 姓名, 名义, 名誉, 文件名, vt. 命名, 称呼, 任命, 提名, 列举, a. 姓名的, 据以取名的, [计] 名称, 文件名, 姓名"
+          "definition": "n. 名字、名稱、名譽  v. 命名、提名、指定"
         }
       ],
       "examples": [
         {
-          "en": "What's your name?",
+          "en": "Please write the client's name at the top of the purchase order.",
           "highlight": [
             "name"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在採購單頂端寫下客戶的名稱。"
+          }
+        },
+        {
+          "en": "The board named her chief operating officer effective next quarter.",
+          "highlight": [
+            "named"
+          ],
+          "translations": {
+            "zh-TW": "董事會任命她自下季度起擔任營運長。"
+          }
+        },
+        {
+          "en": "The committee is naming a new auditor to review the company's accounts.",
+          "highlight": [
+            "naming"
+          ],
+          "translations": {
+            "zh-TW": "委員會正指定一位新稽核員來審查公司的帳目。"
           }
         }
       ],
       "synonyms": [
+        "title",
         "designation",
-        "title"
+        "identify"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "unknown"
+      ],
       "phrases": [
-        "full",
-        "name",
-        "family",
-        "name"
+        "full name",
+        "family name",
+        "brand name",
+        "name after"
       ]
     },
     {
@@ -455,43 +607,65 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "narrowed",
+        "plural": "narrows",
+        "present_3rd": "narrows",
+        "past": "narrowed",
         "past_participle": "narrowed",
-        "present_participle": "narrowing",
-        "third_person": "narrows"
+        "ing": "narrowing",
+        "comparative": "narrower",
+        "superlative": "narrowest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "narrow",
-          "definition": "n. 狭窄部分, 隘路, a. 狭窄的, 仔细的, 有限的, 勉强的, 狭隘的, 手紧的, vi. 变窄, vt. 使变狭窄"
+          "definition": "adj. 狹窄的、勉強的、狹隘的  v. 變窄、縮小範圍"
         }
       ],
       "examples": [
         {
-          "en": "The street is very narrow.",
+          "en": "The delivery truck couldn't fit through the narrow alley behind the warehouse.",
           "highlight": [
             "narrow"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "送貨卡車無法通過倉庫後方那條狹窄的巷道。"
+          }
+        },
+        {
+          "en": "The company narrowed its profit forecast after a disappointing third quarter.",
+          "highlight": [
+            "narrowed"
+          ],
+          "translations": {
+            "zh-TW": "令人失望的第三季業績之後，公司縮小了其獲利預測。"
+          }
+        },
+        {
+          "en": "Analysts are narrowing the list of candidates to replace the retiring director.",
+          "highlight": [
+            "narrowing"
+          ],
+          "translations": {
+            "zh-TW": "分析師正在縮小可能接替即將退休董事的候選人名單。"
           }
         }
       ],
       "synonyms": [
         "tight",
-        "limited"
+        "limited",
+        "restricted"
       ],
       "antonyms": [
         "wide",
         "broad"
       ],
       "phrases": [
-        "narrow",
-        "street",
-        "narrow",
-        "path"
+        "narrow down",
+        "narrow escape",
+        "narrow street",
+        "narrow margin"
       ]
     }
   ]
