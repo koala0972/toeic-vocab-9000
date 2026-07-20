@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 213,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-213-001",
@@ -15,41 +15,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "pileed",
-        "past_participle": "pileed",
-        "present_participle": "piling",
-        "third_person": "piles"
+        "plural": "piles",
+        "present_3rd": "piles",
+        "past": "piled",
+        "past_participle": "piled",
+        "ing": "piling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pile",
-          "definition": "n. 堆, 大堆, 大厦, 建筑群, 电池, 大量, 桥桩, 软毛, 痔疮, vi. 堆起, 堆积, 积累, 挤, 猛烈攻击, vt. 堆于, 累积, 堆叠, 打桩于, 用桩支撑"
+          "definition": "n. 堆、疊  v. 堆疊、累積"
         }
       ],
       "examples": [
         {
-          "en": "There is a pile of books on the table.",
+          "en": "There is a pile of files on the manager's desk.",
           "highlight": [
             "pile"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理辦公桌上有一堆檔案。"
+          }
+        },
+        {
+          "en": "She piled the boxes neatly against the wall after the delivery.",
+          "highlight": [
+            "piled"
+          ],
+          "translations": {
+            "zh-TW": "送貨後她把箱子整齊地堆靠在牆邊。"
+          }
+        },
+        {
+          "en": "The unpaid invoices have been piling up for three months.",
+          "highlight": [
+            "piling"
+          ],
+          "translations": {
+            "zh-TW": "未支付的發票已經堆積了三個月。"
           }
         }
       ],
       "synonyms": [
         "heap",
-        "stack"
+        "stack",
+        "mound"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "scatter",
+        "spread"
+      ],
       "phrases": [
-        "pile",
-        "of",
-        "clothes",
-        "pile",
-        "up"
+        "pile up",
+        "pile of documents",
+        "a pile of work",
+        "pile on"
       ]
     },
     {
@@ -60,45 +82,59 @@
       "toeic_score_min": 500,
       "word": "pill",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "pilled",
-        "past_participle": "pilled",
-        "present_participle": "pilling",
-        "third_person": "pills"
+        "plural": "pills"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pill",
-          "definition": "n. 药丸, 弹丸, 屈辱, 胡說, v. 做成药丸, 形成丸状, 服药丸, 挫败, 抢劫"
+          "definition": "n. 藥丸、藥片"
         }
       ],
       "examples": [
         {
-          "en": "She took a pill for her headache.",
+          "en": "The doctor told her to take one pill after each meal.",
           "highlight": [
             "pill"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "醫生囑咐她每次飯後吃一顆藥丸。"
+          }
+        },
+        {
+          "en": "He forgot to take his pills before the morning meeting.",
+          "highlight": [
+            "pills"
+          ],
+          "translations": {
+            "zh-TW": "他在晨會前忘了吃藥。"
+          }
+        },
+        {
+          "en": "A bitter pill to swallow is learning that the bonus has been cancelled.",
+          "highlight": [
+            "pill"
+          ],
+          "translations": {
+            "zh-TW": "得知獎金被取消，真是一個難以接受的事實。"
           }
         }
       ],
       "synonyms": [
         "tablet",
-        "capsule"
+        "capsule",
+        "medicine"
       ],
       "antonyms": [],
       "phrases": [
-        "take",
-        "a",
-        "pill",
-        "birth",
-        "control"
+        "take a pill",
+        "birth control pill",
+        "sleeping pill",
+        "a bitter pill"
       ]
     },
     {
@@ -113,40 +149,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "piloted",
+        "plural": "pilots",
+        "present_3rd": "pilots",
+        "past": "piloted",
         "past_participle": "piloted",
-        "present_participle": "piloting",
-        "third_person": "pilots"
+        "ing": "piloting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pilot",
-          "definition": "n. 飞行員, 领航員, 航船者, 导向器, 驾驶仪, 向导, 领导人, vt. 领航, 驾驶, 引导, 试用, a. 引导的, 控制的, 试點的, [计] 引导"
+          "definition": "n. 飛行員、機師  v. 駕駛、試驗、引導"
         }
       ],
       "examples": [
         {
-          "en": "The pilot landed the plane safely.",
+          "en": "The pilot safely landed the plane during a heavy storm.",
           "highlight": [
             "pilot"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "飛行員在大暴雨中安全降落了飛機。"
+          }
+        },
+        {
+          "en": "The airline piloted a new boarding system last month.",
+          "highlight": [
+            "piloted"
+          ],
+          "translations": {
+            "zh-TW": "航空公司上月試行了一套新的登機系統。"
+          }
+        },
+        {
+          "en": "She is piloting a training program for new customer service staff.",
+          "highlight": [
+            "piloting"
+          ],
+          "translations": {
+            "zh-TW": "她正在為新進客服人員試辦一個培訓計畫。"
           }
         }
       ],
       "synonyms": [
-        "aviator",
-        "airman"
+        "fly",
+        "guide",
+        "steer"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "follow"
+      ],
       "phrases": [
-        "experienced",
-        "pilot",
-        "airline",
-        "pilot"
+        "pilot program",
+        "pilot study",
+        "experienced pilot",
+        "pilot project"
       ]
     },
     {
@@ -161,40 +219,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "pined",
-        "past_participle": "pined",
-        "present_participle": "pining",
-        "third_person": "pins"
+        "plural": "pins",
+        "present_3rd": "pins",
+        "past": "pinned",
+        "past_participle": "pinned",
+        "ing": "pinning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pin",
-          "definition": "n. 大頭针, 针, 别针, 栓, 销子, 图钉, 插頭, 管脚, 品(液量单位), vt. 将...用针别住, 钉住, 压住, 牵制, 使不能動, 归罪于, a. 针的, 销子的, 闩的"
+          "definition": "n. 大頭針、別針、胸針  v. 用針別住、固定、按住"
         }
       ],
       "examples": [
         {
-          "en": "She pinned the note to the board.",
+          "en": "She used a pin to attach the name tag to her jacket.",
           "highlight": [
             "pin"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她用一根別針把名牌別在外套上。"
+          }
+        },
+        {
+          "en": "He pinned the meeting agenda to the corkboard by the door.",
+          "highlight": [
+            "pinned"
+          ],
+          "translations": {
+            "zh-TW": "他把會議議程釘在門旁的軟木板上。"
+          }
+        },
+        {
+          "en": "The notice is pinning everyone down to the new policy starting Monday.",
+          "highlight": [
+            "pinning"
+          ],
+          "translations": {
+            "zh-TW": "這則通知要求大家從週一起嚴格遵守新政策。"
           }
         }
       ],
       "synonyms": [
         "needle",
-        "tack"
+        "tack",
+        "clip"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "release"
+      ],
       "phrases": [
-        "safety",
-        "pin",
-        "pin",
-        "down"
+        "safety pin",
+        "pin down",
+        "pin to",
+        "pin number"
       ]
     },
     {
@@ -209,36 +289,57 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "pinks"
+        "plural": "pinks",
+        "comparative": "pinker",
+        "superlative": "pinkest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pink",
-          "definition": "n. 粉红色, 石竹花, 化身, 典范, 頭面人物, 极度, a. 粉红的, 石竹科的, 比较激进的, 脸色發红的, 精致的, 有點下流的, vt. 刺, 扎, 刺痛, 射伤, 使面红耳赤, 使变粉红色, vi. 变粉红色"
+          "definition": "n. 粉紅色  adj. 粉紅色的"
         }
       ],
       "examples": [
         {
-          "en": "She wore a pink dress.",
+          "en": "She wore a pink blouse to the company party.",
           "highlight": [
             "pink"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她穿了一件粉紅色的襯衫參加公司聚會。"
+          }
+        },
+        {
+          "en": "The new uniforms are pinker than the ones we had before.",
+          "highlight": [
+            "pinker"
+          ],
+          "translations": {
+            "zh-TW": "新制服比我們之前的還要更粉紅。"
+          }
+        },
+        {
+          "en": "Of all the folders in the cabinet, hers is the pinkest.",
+          "highlight": [
+            "pinkest"
+          ],
+          "translations": {
+            "zh-TW": "在檔案櫃的所有資料夾中，她的是最粉紅的。"
           }
         }
       ],
       "synonyms": [
-        "rose"
+        "rose",
+        "rose-colored"
       ],
       "antonyms": [],
       "phrases": [
-        "pink",
-        "dress",
-        "pink",
-        "flowers"
+        "pink slip",
+        "in the pink",
+        "pink collar",
+        "pink ribbon"
       ]
     },
     {
@@ -249,31 +350,45 @@
       "toeic_score_min": 500,
       "word": "pint",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "pinted",
-        "past_participle": "pinted",
-        "present_participle": "pinting",
-        "third_person": "pints"
+        "plural": "pints"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pint",
-          "definition": "n. 品脱(干量或液量的单位), [医] 量磅, 品脱"
+          "definition": "n. 品脫（容量單位，約 0.47 公升）"
         }
       ],
       "examples": [
         {
-          "en": "He ordered a pint of beer.",
+          "en": "He ordered a pint of beer at the pub after work.",
           "highlight": [
             "pint"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "下班後他在酒館點了一品脫啤酒。"
+          }
+        },
+        {
+          "en": "The recipe calls for two pints of fresh milk.",
+          "highlight": [
+            "pints"
+          ],
+          "translations": {
+            "zh-TW": "食譜需要兩品脫新鮮牛奶。"
+          }
+        },
+        {
+          "en": "She bought a pint of ice cream to share with the team.",
+          "highlight": [
+            "pint"
+          ],
+          "translations": {
+            "zh-TW": "她買了一品脫冰淇淋和團隊分享。"
           }
         }
       ],
@@ -282,11 +397,10 @@
       ],
       "antonyms": [],
       "phrases": [
-        "pint",
-        "of",
-        "milk",
-        "pint",
-        "of"
+        "pint of beer",
+        "pint of milk",
+        "pint glass",
+        "a pint"
       ]
     },
     {
@@ -301,40 +415,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "pipeed",
-        "past_participle": "pipeed",
-        "present_participle": "piping",
-        "third_person": "pipes"
+        "plural": "pipes",
+        "present_3rd": "pipes",
+        "past": "piped",
+        "past_participle": "piped",
+        "ing": "piping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pipe",
-          "definition": "n. 管, 导管, 输送管, 管状器官, 声帶, 尖细的声音, 烟斗, 笛, 管乐器, vt. 以管输送, 吹哨子, 吹奏, 尖声唱, vi. 吹笛, 尖叫, 吹長哨發令, [计] 管道"
+          "definition": "n. 管子、輸送管、煙斗  v. 以管線輸送、用笛吹奏"
         }
       ],
       "examples": [
         {
-          "en": "The plumber fixed the broken pipe.",
+          "en": "The plumber replaced a leaking pipe under the sink.",
           "highlight": [
             "pipe"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "水管工人更換了水槽下方漏水的管子。"
+          }
+        },
+        {
+          "en": "The company piped natural gas to the new factory site.",
+          "highlight": [
+            "piped"
+          ],
+          "translations": {
+            "zh-TW": "公司將天然氣輸送到新廠區。"
+          }
+        },
+        {
+          "en": "Workers are piping hot water to every floor of the office tower.",
+          "highlight": [
+            "piping"
+          ],
+          "translations": {
+            "zh-TW": "工人正把熱水接到辦公大樓的每一層。"
           }
         }
       ],
       "synonyms": [
         "tube",
-        "conduit"
+        "conduit",
+        "pipeline"
       ],
       "antonyms": [],
       "phrases": [
-        "water",
-        "pipe",
-        "gas",
-        "pipe"
+        "water pipe",
+        "gas pipe",
+        "pipe down",
+        "pipe dream"
       ]
     },
     {
@@ -349,40 +483,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "pitched",
+        "plural": "pitches",
+        "present_3rd": "pitches",
+        "past": "pitched",
         "past_participle": "pitched",
-        "present_participle": "pitching",
-        "third_person": "pitchs"
+        "ing": "pitching"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pitch",
-          "definition": "n. 程度, 坡度, 顶點, 前倾, 倾斜, 投掷, 音高, 螺距, 节距, 摊位, 树脂, 沥青, vt. 投, 掷, 向前倾跌, 扎营, 竭力推销, 為...定调, 定位于, 用沥青涂, vi. 搭帐篷, 投掷, 向前跌, 猛然摔倒, 坠落, 倾斜, [计] 孔距"
+          "definition": "n. 球場、推銷簡報、音高、瀝青  v. 投擲、推銷、搭帳篷"
         }
       ],
       "examples": [
         {
-          "en": "She has perfect pitch.",
+          "en": "The startup founder gave a strong pitch to the investors.",
           "highlight": [
             "pitch"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新創公司創辦人向投資人做了一場有力的推銷簡報。"
+          }
+        },
+        {
+          "en": "He pitched his new software product to the board of directors.",
+          "highlight": [
+            "pitched"
+          ],
+          "translations": {
+            "zh-TW": "他向董事會推銷他的新軟體產品。"
+          }
+        },
+        {
+          "en": "The sales team is pitching to a group of clients this afternoon.",
+          "highlight": [
+            "pitching"
+          ],
+          "translations": {
+            "zh-TW": "業務團隊今天下午正在向一群客戶提案。"
           }
         }
       ],
       "synonyms": [
-        "tone",
-        "timbre"
+        "throw",
+        "toss",
+        "presentation"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "catch"
+      ],
       "phrases": [
-        "perfect",
-        "pitch",
-        "high",
-        "pitch"
+        "sales pitch",
+        "perfect pitch",
+        "pitch in",
+        "pitch deck"
       ]
     },
     {
@@ -397,44 +553,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "pityed",
-        "past_participle": "pityed",
-        "present_participle": "pitying",
-        "third_person": "pitys"
+        "plural": "pities",
+        "present_3rd": "pities",
+        "past": "pitied",
+        "past_participle": "pitied",
+        "ing": "pitying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pity",
-          "definition": "n. 遗憾, 同情, 怜悯, 憾事, 可惜, vt. 同情, 怜悯, vi. 觉得可怜, 有同情心"
+          "definition": "n. 同情、遺憾、可憐  v. 同情、憐憫"
         }
       ],
       "examples": [
         {
-          "en": "He felt pity for the homeless man.",
+          "en": "It is a pity that the conference was cancelled at the last minute.",
           "highlight": [
             "pity"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "很遺憾會議在最後一刻被取消了。"
+          }
+        },
+        {
+          "en": "She pitied the intern who had to work on the holiday.",
+          "highlight": [
+            "pitied"
+          ],
+          "translations": {
+            "zh-TW": "她同情那個得在假日工作的實習生。"
+          }
+        },
+        {
+          "en": "He gave the late delivery driver a pitying look before signing the receipt.",
+          "highlight": [
+            "pitying"
+          ],
+          "translations": {
+            "zh-TW": "簽收前他對遲到的送貨司機投以同情的目光。"
           }
         }
       ],
       "synonyms": [
         "compassion",
-        "sympathy"
+        "sympathy",
+        "sorrow"
       ],
       "antonyms": [
         "indifference",
         "cruelty"
       ],
       "phrases": [
-        "feel",
-        "pity",
-        "out",
-        "of",
-        "pity"
+        "feel pity for",
+        "out of pity",
+        "what a pity",
+        "self-pity"
       ]
     },
     {
@@ -449,43 +624,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "placeed",
-        "past_participle": "placeed",
-        "present_participle": "placing",
-        "third_person": "places"
+        "plural": "places",
+        "present_3rd": "places",
+        "past": "placed",
+        "past_participle": "placed",
+        "ing": "placing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "place",
-          "definition": "n. 地方, 地點, 位置, 住所, 座位, 地位, 處境, 特权, 空間, 余地, 职务, 位, vt. 放置, 寄予, 认出, 评定, 任命, vi. 名次列前"
+          "definition": "n. 地方、位置、職位、名次  v. 放置、安排、下訂單"
         }
       ],
       "examples": [
         {
-          "en": "This is a nice place to live.",
+          "en": "This restaurant is a popular place for business lunches.",
           "highlight": [
             "place"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家餐廳是商業午餐的熱門地點。"
+          }
+        },
+        {
+          "en": "The company placed a large order for new office furniture last week.",
+          "highlight": [
+            "placed"
+          ],
+          "translations": {
+            "zh-TW": "公司上週下了一筆大型訂單訂購新辦公家具。"
+          }
+        },
+        {
+          "en": "She is placing the documents carefully in the archive cabinet.",
+          "highlight": [
+            "placing"
+          ],
+          "translations": {
+            "zh-TW": "她正小心翼翼地把文件放進檔案櫃。"
           }
         }
       ],
       "synonyms": [
         "location",
-        "spot"
+        "spot",
+        "position"
       ],
       "antonyms": [
         "nowhere"
       ],
       "phrases": [
-        "nice",
-        "place",
-        "place",
-        "to",
-        "stay"
+        "take place",
+        "in place of",
+        "place an order",
+        "work place"
       ]
     }
   ]
