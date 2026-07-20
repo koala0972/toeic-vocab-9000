@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 214,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-214-001",
@@ -15,40 +15,61 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "plains"
+        "plural": "plains",
+        "comparative": "plainer",
+        "superlative": "plainest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "plain",
-          "definition": "n. 平原, 草原, 朴實无华的东西, 无格式, a. 简单的, 明白的, 平常的, 不好看的, 朴素的, 清晰的, 普通的, 平坦的, 十足的, adv. 清楚地, 顯然地, [计] 无格式"
+          "definition": "adj. 樸素的、清楚的、純粹的  n. 平原、草原"
         }
       ],
       "examples": [
         {
-          "en": "She wore a plain dress.",
+          "en": "The contract was written in plain English so anyone could understand it.",
           "highlight": [
             "plain"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "合約用淺顯的英文撰寫，任何人都能看懂。"
+          }
+        },
+        {
+          "en": "She preferred plainer packaging without flashy logos or bright colors.",
+          "highlight": [
+            "plainer"
+          ],
+          "translations": {
+            "zh-TW": "她偏好更樸素的包裝，不要搶眼的標誌或鮮豔的色彩。"
+          }
+        },
+        {
+          "en": "The herd of buffalo roamed freely across the vast plains of Africa.",
+          "highlight": [
+            "plains"
+          ],
+          "translations": {
+            "zh-TW": "一群水牛在遼闊的非洲平原上自由漫步。"
           }
         }
       ],
       "synonyms": [
         "simple",
-        "unadorned"
+        "unadorned",
+        "clear"
       ],
       "antonyms": [
         "elaborate",
         "decorated"
       ],
       "phrases": [
-        "plain",
-        "clothes",
-        "plain",
-        "text"
+        "plain English",
+        "plain text",
+        "plain sailing",
+        "vast plains"
       ]
     },
     {
@@ -63,43 +84,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "planed",
-        "past_participle": "planed",
-        "present_participle": "planing",
-        "third_person": "plans"
+        "plural": "plans",
+        "present_3rd": "plans",
+        "past": "planned",
+        "past_participle": "planned",
+        "ing": "planning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "plan",
-          "definition": "n. 计划, 方案, 策略, 方法, 进度表, 程序表, 平面图, 设计图, 轮廓, 示意图, vt. 计划, 设计, 意欲, vi. 订计划"
+          "definition": "n. 計畫、方案、平面圖  v. 計畫、打算、規劃"
         }
       ],
       "examples": [
         {
-          "en": "They made a plan to meet next week.",
+          "en": "We need a clear plan before launching the new product next quarter.",
           "highlight": [
             "plan"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們在下季推出新產品前需要一份清楚的計畫。"
+          }
+        },
+        {
+          "en": "She planned every detail of the conference months in advance.",
+          "highlight": [
+            "planned"
+          ],
+          "translations": {
+            "zh-TW": "她提前好幾個月就規劃了會議的每一個細節。"
+          }
+        },
+        {
+          "en": "They are planning to expand their business into Southeast Asia.",
+          "highlight": [
+            "planning"
+          ],
+          "translations": {
+            "zh-TW": "他們正計畫將業務拓展到東南亞。"
           }
         }
       ],
       "synonyms": [
         "strategy",
-        "scheme"
+        "scheme",
+        "blueprint"
       ],
       "antonyms": [
         "improvisation"
       ],
       "phrases": [
-        "make",
-        "a",
-        "plan",
-        "plan",
-        "ahead"
+        "business plan",
+        "plan ahead",
+        "make a plan",
+        "backup plan"
       ]
     },
     {
@@ -114,40 +154,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "planeed",
-        "past_participle": "planeed",
-        "present_participle": "planing",
-        "third_person": "planes"
+        "plural": "planes",
+        "present_3rd": "planes",
+        "past": "planed",
+        "past_participle": "planed",
+        "ing": "planing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "plane",
-          "definition": "n. 平面, 扁平物, 机翼, 飞机, 水准, 地位, a. 平的, 平面的, vt. 将...刨平, 刨平, 掠過水面, vi. 翱翔, 乘飞机旅行, 刨掉"
+          "definition": "n. 飛機、平面、刨刀  v. 刨平、滑翔"
         }
       ],
       "examples": [
         {
-          "en": "The plane landed safely.",
+          "en": "The plane took off on schedule despite the light rain.",
           "highlight": [
             "plane"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "儘管下著小雨，飛機仍準時起飛。"
+          }
+        },
+        {
+          "en": "Several planes were delayed due to the sudden snowstorm.",
+          "highlight": [
+            "planes"
+          ],
+          "translations": {
+            "zh-TW": "因突如其來的暴風雪，好幾架飛機延誤了。"
+          }
+        },
+        {
+          "en": "The carpenter planed the rough surface of the oak table until it was smooth.",
+          "highlight": [
+            "planed"
+          ],
+          "translations": {
+            "zh-TW": "木匠把橡木桌面粗糙的表面刨平，直到它變得光滑為止。"
           }
         }
       ],
       "synonyms": [
-        "flat",
-        "surface",
-        "level"
+        "aircraft",
+        "airplane",
+        "flat surface"
       ],
       "antonyms": [],
       "phrases": [
-        "airplane",
-        "plane",
-        "ticket"
+        "plane ticket",
+        "board a plane",
+        "by plane",
+        "plane surface"
       ]
     },
     {
@@ -158,46 +218,59 @@
       "toeic_score_min": 500,
       "word": "planet",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "planeted",
-        "past_participle": "planeted",
-        "present_participle": "planeting",
-        "third_person": "planets"
+        "plural": "planets"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "planet",
-          "definition": "n. 行星, 命運星辰, 杰出的人, 重大影響的事"
+          "definition": "n. 行星、地球（the planet）"
         }
       ],
       "examples": [
         {
-          "en": "Earth is the third planet from the sun.",
+          "en": "Mars is the fourth planet from the sun in our solar system.",
           "highlight": [
             "planet"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "火星是我們太陽系中距離太陽第四近的行星。"
+          }
+        },
+        {
+          "en": "Scientists have discovered thousands of planets outside our solar system.",
+          "highlight": [
+            "planets"
+          ],
+          "translations": {
+            "zh-TW": "科學家已經在我們的太陽系外發現了數千顆行星。"
+          }
+        },
+        {
+          "en": "Climate change is arguably the greatest threat facing the planet today.",
+          "highlight": [
+            "planet"
+          ],
+          "translations": {
+            "zh-TW": "氣候變遷可以說是當今地球面臨的最大威脅。"
           }
         }
       ],
       "synonyms": [
-        "celestial",
-        "body",
-        "world"
+        "celestial body",
+        "world",
+        "globe"
       ],
       "antonyms": [],
       "phrases": [
-        "the",
-        "planet",
-        "Mars",
-        "planets",
-        "in"
+        "save the planet",
+        "planet Earth",
+        "outer planets",
+        "planet orbit"
       ]
     },
     {
@@ -208,45 +281,61 @@
       "toeic_score_min": 500,
       "word": "planning",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "planninged",
-        "past_participle": "planninged",
-        "present_participle": "planninging",
-        "third_person": "plannings"
+        "plural": "plannings"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "planning",
-          "definition": "n. 计划的制订, 策划, 设计, 规划, [计] 计划, 规划"
+          "definition": "n. 計畫、規劃、籌劃（动名詞用法）"
         }
       ],
       "examples": [
         {
-          "en": "They are planning a trip to Europe.",
+          "en": "Good planning is the key to a successful product launch.",
           "highlight": [
             "planning"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "良好的規劃是產品成功上市的關鍵。"
+          }
+        },
+        {
+          "en": "The city's urban planning department approved the new subway line last week.",
+          "highlight": [
+            "planning"
+          ],
+          "translations": {
+            "zh-TW": "城市的都市規劃部門上週核准了新的地鐵路線。"
+          }
+        },
+        {
+          "en": "Our careful plannings saved the team from costly rework later in the project.",
+          "highlight": [
+            "plannings"
+          ],
+          "translations": {
+            "zh-TW": "我們仔細的各項規劃，讓團隊在專案後期免於昂貴的重工。"
           }
         }
       ],
       "synonyms": [
+        "organizing",
         "arranging",
-        "organizing"
+        "scheming"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "improvising"
+      ],
       "phrases": [
-        "planning",
-        "a",
-        "trip",
-        "planning",
-        "ahead"
+        "urban planning",
+        "family planning",
+        "event planning",
+        "strategic planning"
       ]
     },
     {
@@ -261,43 +350,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "planted",
+        "plural": "plants",
+        "present_3rd": "plants",
+        "past": "planted",
         "past_participle": "planted",
-        "present_participle": "planting",
-        "third_person": "plants"
+        "ing": "planting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "plant",
-          "definition": "n. 植物, 作物, 工厂, 树枝, 生長, 设施, 成套设备, vt. 種植, 栽培, 播種, 培养, 安置, 殖民于, 使位于, vi. 種植"
+          "definition": "n. 植物、工廠、設備  v. 種植、安置、建立"
         }
       ],
       "examples": [
         {
-          "en": "She watered the plant.",
+          "en": "The new manufacturing plant will create over five hundred jobs in the region.",
           "highlight": [
             "plant"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新的製造工廠將在該地區創造超過五百個工作機會。"
+          }
+        },
+        {
+          "en": "She planted a row of cherry trees along the driveway last spring.",
+          "highlight": [
+            "planted"
+          ],
+          "translations": {
+            "zh-TW": "去年春天她在車道旁種了一排櫻花樹。"
+          }
+        },
+        {
+          "en": "The volunteers are planting vegetables in the community garden this weekend.",
+          "highlight": [
+            "planting"
+          ],
+          "translations": {
+            "zh-TW": "志工們這個週末要在社區花園裡種蔬菜。"
           }
         }
       ],
       "synonyms": [
-        "vegetation",
-        "flora"
+        "factory",
+        "facility",
+        "vegetation"
       ],
       "antonyms": [
         "animal"
       ],
       "phrases": [
-        "water",
-        "a",
-        "plant",
-        "plant",
-        "a"
+        "manufacturing plant",
+        "plant trees",
+        "power plant",
+        "plant a seed"
       ]
     },
     {
@@ -319,30 +427,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "plastic",
-          "definition": "n. 塑料, 可塑体, 可塑性物质, a. 塑料的, 塑造的, 有可塑性的, 造型的, 易受影響的, 有创造力的"
+          "definition": "n. 塑膠、塑膠製品  adj. 塑膠製的、可塑的"
         }
       ],
       "examples": [
         {
-          "en": "The toy is made of plastic.",
+          "en": "The company replaced plastic packaging with biodegradable materials to reduce waste.",
           "highlight": [
             "plastic"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "為了減少廢棄物，公司將塑膠包裝換成可生物分解的材質。"
+          }
+        },
+        {
+          "en": "Many industries rely on durable plastics for automotive and electronic parts.",
+          "highlight": [
+            "plastics"
+          ],
+          "translations": {
+            "zh-TW": "許多產業仰賴耐用的塑膠來製作汽車與電子零件。"
+          }
+        },
+        {
+          "en": "Please separate your plastic bottles from general trash before recycling.",
+          "highlight": [
+            "plastic"
+          ],
+          "translations": {
+            "zh-TW": "回收前請把塑膠瓶與一般垃圾分開。"
           }
         }
       ],
       "synonyms": [
         "polymer",
-        "synthetic"
+        "synthetic",
+        "synthetic resin"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "natural",
+        "organic"
+      ],
       "phrases": [
-        "plastic",
-        "bottle",
-        "plastic",
-        "bag"
+        "plastic bag",
+        "plastic bottle",
+        "plastic surgery",
+        "plastic waste"
       ]
     },
     {
@@ -357,40 +487,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "plateed",
-        "past_participle": "plateed",
-        "present_participle": "plating",
-        "third_person": "plates"
+        "plural": "plates",
+        "present_3rd": "plates",
+        "past": "plated",
+        "past_participle": "plated",
+        "ing": "plating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "plate",
-          "definition": "n. 碟, 盘子, 盆中物, 金属板, 图版, 金银餐具, 印版, 金属牌(照), vt. 镀金, 电镀, 用金属板固定, 给...装钢板, 為...制印版"
+          "definition": "n. 盤子、金屬板、車牌  v. 鍍、電鍍"
         }
       ],
       "examples": [
         {
-          "en": "He ate from a large plate.",
+          "en": "The waiter set a clean plate in front of each guest at the banquet.",
           "highlight": [
             "plate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "服務生在宴會上為每位賓客擺上一只乾淨的盤子。"
+          }
+        },
+        {
+          "en": "She stacked the dirty plates neatly and carried them to the kitchen.",
+          "highlight": [
+            "plates"
+          ],
+          "translations": {
+            "zh-TW": "她把髒盤子整齊疊好，端進廚房。"
+          }
+        },
+        {
+          "en": "The factory plated the metal components with gold to prevent corrosion.",
+          "highlight": [
+            "plated"
+          ],
+          "translations": {
+            "zh-TW": "工廠為金屬零件鍍金以防止腐蝕。"
           }
         }
       ],
       "synonyms": [
         "dish",
-        "saucer"
+        "saucer",
+        "tray"
       ],
       "antonyms": [],
       "phrases": [
-        "dinner",
-        "plate",
-        "large",
-        "plate"
+        "dinner plate",
+        "license plate",
+        "gold-plated",
+        "paper plate"
       ]
     },
     {
@@ -401,44 +551,59 @@
       "toeic_score_min": 500,
       "word": "platform",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "platformed",
-        "past_participle": "platformed",
-        "present_participle": "platforming",
-        "third_person": "platforms"
+        "plural": "platforms"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "platform",
-          "definition": "n. 站台, 月台, 讲台, 论坛, 平台, [计] 平台"
+          "definition": "n. 平台、月台、講台、平台（科技或商業）"
         }
       ],
       "examples": [
         {
-          "en": "They stood on the platform waiting for the train.",
+          "en": "Our company launched a new e-commerce platform last month to reach more customers.",
           "highlight": [
             "platform"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們公司上個月推出新的電商平台，以接觸更多客戶。"
+          }
+        },
+        {
+          "en": "Several digital platforms now offer subscription-based streaming services.",
+          "highlight": [
+            "platforms"
+          ],
+          "translations": {
+            "zh-TW": "目前有幾個數位平台提供訂閱制的串流服務。"
+          }
+        },
+        {
+          "en": "Passengers were asked to wait on platform three for the incoming express train.",
+          "highlight": [
+            "platform"
+          ],
+          "translations": {
+            "zh-TW": "乘客被要求在第三月台等候即將到站的特快列車。"
           }
         }
       ],
       "synonyms": [
         "stage",
-        "base"
+        "base",
+        "system"
       ],
       "antonyms": [],
       "phrases": [
-        "train",
-        "platform",
-        "raised",
-        "platform"
+        "software platform",
+        "train platform",
+        "trading platform",
+        "platform shoes"
       ]
     },
     {
@@ -453,43 +618,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "played",
+        "plural": "plays",
+        "present_3rd": "plays",
+        "past": "played",
         "past_participle": "played",
-        "present_participle": "playing",
-        "third_person": "plays"
+        "ing": "playing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "play",
-          "definition": "n. 游戏, 游玩, 玩笑, 運動, 比赛, 赌博, 跳動, 表演, 剧本, v. 玩, 游戏, 假装, 开玩笑, 比赛, 扮演, 演奏, 演戏, 传摇曳, (使)跳動, [计] 播放"
+          "definition": "v. 玩、演奏、扮演、播放  n. 遊戲、戲劇、比賽"
         }
       ],
       "examples": [
         {
-          "en": "Children love to play outside.",
+          "en": "The orchestra will play a selection of classical pieces at the gala tonight.",
           "highlight": [
             "play"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "樂團今晚將在晚會上演奏一組古典樂曲。"
+          }
+        },
+        {
+          "en": "She played the lead role in the company's promotional video last summer.",
+          "highlight": [
+            "played"
+          ],
+          "translations": {
+            "zh-TW": "去年夏天她在公司的宣傳影片中擔綱主角。"
+          }
+        },
+        {
+          "en": "The children are playing in the park while their parents chat nearby.",
+          "highlight": [
+            "playing"
+          ],
+          "translations": {
+            "zh-TW": "孩子們在公園裡玩耍，父母則在一旁聊天。"
           }
         }
       ],
       "synonyms": [
-        "frolic",
-        "engage"
+        "perform",
+        "participate",
+        "frolic"
       ],
       "antonyms": [
         "work",
         "labor"
       ],
       "phrases": [
-        "play",
-        "games",
-        "play",
-        "outside"
+        "play a role",
+        "play games",
+        "play music",
+        "fair play"
       ]
     }
   ]
