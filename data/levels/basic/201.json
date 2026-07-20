@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 201,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-201-001",
@@ -12,7 +12,8 @@
       "word": "one",
       "pos": [
         "noun",
-        "adjective"
+        "adjective",
+        "pronoun"
       ],
       "conjugations": {
         "plural": "ones"
@@ -22,30 +23,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "one",
-          "definition": "n. 一(個), pron. 一, 任何人, num. 一, 一個, a. 一致的, 完整的"
+          "definition": "num. 一、一個  pron. 某人、任何人  a. 唯一的、同一的"
         }
       ],
       "examples": [
         {
-          "en": "One apple is left.",
+          "en": "Only one applicant submitted the report on time.",
           "highlight": [
             "one"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "只有一名申請人準時提交了報告。"
+          }
+        },
+        {
+          "en": "These old files are mixed with the new ones on the server.",
+          "highlight": [
+            "ones"
+          ],
+          "translations": {
+            "zh-TW": "這些舊檔案和伺服器上的新檔案混在一起。"
+          }
+        },
+        {
+          "en": "One must always confirm the order before shipping it out.",
+          "highlight": [
+            "One"
+          ],
+          "translations": {
+            "zh-TW": "出貨前務必再次確認訂單內容。"
           }
         }
       ],
       "synonyms": [
         "single",
-        "lone"
+        "sole",
+        "unit"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "many",
+        "multiple"
+      ],
       "phrases": [
-        "one",
-        "person",
-        "one",
-        "more"
+        "one of",
+        "one another",
+        "one by one",
+        "at one time"
       ]
     },
     {
@@ -56,45 +79,58 @@
       "toeic_score_min": 500,
       "word": "onion",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "onioned",
-        "past_participle": "onioned",
-        "present_participle": "onioning",
-        "third_person": "onions"
+        "plural": "onions"
       },
-      "domain": "general",
+      "domain": "food",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "onion",
-          "definition": "n. 洋葱, vt. 因洋葱使掉泪"
+          "definition": "n. 洋蔥"
         }
       ],
       "examples": [
         {
-          "en": "Chop the onion finely.",
+          "en": "The chef diced the onion for the soup base.",
           "highlight": [
             "onion"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "主廚把洋蔥切成丁，作為湯底的配料。"
+          }
+        },
+        {
+          "en": "Red onions are milder and better suited to salads.",
+          "highlight": [
+            "onions"
+          ],
+          "translations": {
+            "zh-TW": "紫洋蔥味道較溫和，更適合用在沙拉中。"
+          }
+        },
+        {
+          "en": "She bought a bag of onions at the wholesale market this morning.",
+          "highlight": [
+            "onions"
+          ],
+          "translations": {
+            "zh-TW": "她今天早上在批發市場買了一袋洋蔥。"
           }
         }
       ],
       "synonyms": [
-        "vegetable",
-        "bulb"
+        "bulb",
+        "allium"
       ],
       "antonyms": [],
       "phrases": [
-        "chop",
-        "an",
-        "onion",
-        "onion",
-        "rings"
+        "chop an onion",
+        "onion rings",
+        "spring onion",
+        "tear up over onions"
       ]
     },
     {
@@ -108,42 +144,58 @@
         "adjective",
         "adverb"
       ],
-      "conjugations": {
-        "comparative": "onlineer",
-        "superlative": "onlineest"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "online",
-          "definition": "[计] 联机"
+          "definition": "a. 連線的、線上的  adv. 在網路上、連線地"
         }
       ],
       "examples": [
         {
-          "en": "She is always online.",
+          "en": "Our online store now ships to over thirty countries.",
           "highlight": [
             "online"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們的線上商店現在可出貨到三十多個國家。"
+          }
+        },
+        {
+          "en": "Customers can book the appointment online without calling the office.",
+          "highlight": [
+            "online"
+          ],
+          "translations": {
+            "zh-TW": "顧客可以直接在網路上預約，不必打電話到辦公室。"
+          }
+        },
+        {
+          "en": "The new intern asked whether the system was back online after the maintenance.",
+          "highlight": [
+            "online"
+          ],
+          "translations": {
+            "zh-TW": "新實習生詢問系統在維護後是否已恢復連線。"
           }
         }
       ],
       "synonyms": [
         "connected",
-        "wired"
+        "wired",
+        "internet-based"
       ],
       "antonyms": [
         "offline",
         "disconnected"
       ],
       "phrases": [
-        "online",
-        "shopping",
-        "online",
-        "class"
+        "online shopping",
+        "online banking",
+        "online class",
+        "go online"
       ]
     },
     {
@@ -157,41 +209,58 @@
         "adverb",
         "adjective"
       ],
-      "conjugations": {
-        "comparative": "onlier",
-        "superlative": "onliest"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "only",
-          "definition": "a. 唯一的, 仅有的, 最佳的, adv. 只有, 仅仅, 只能, conj. 但是, 不過"
+          "definition": "adv. 只、僅僅、才  a. 唯一的、僅有的"
         }
       ],
       "examples": [
         {
-          "en": "It's only a matter of time.",
+          "en": "Only the manager can approve purchases over five thousand dollars.",
+          "highlight": [
+            "Only"
+          ],
+          "translations": {
+            "zh-TW": "只有經理才能核准超過五千美元的採購。"
+          }
+        },
+        {
+          "en": "He is the only person in the office who speaks fluent Japanese.",
           "highlight": [
             "only"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他是辦公室裡唯一能說流利日文的人。"
+          }
+        },
+        {
+          "en": "We have only three days left to finish the quarterly report.",
+          "highlight": [
+            "only"
+          ],
+          "translations": {
+            "zh-TW": "我們只剩三天時間完成季度報告。"
           }
         }
       ],
       "synonyms": [
         "solely",
-        "exclusively"
+        "exclusively",
+        "merely"
       ],
       "antonyms": [
-        "more"
+        "all",
+        "everyone"
       ],
       "phrases": [
-        "only",
-        "child",
-        "only",
-        "one"
+        "only child",
+        "if only",
+        "one and only",
+        "only just"
       ]
     },
     {
@@ -210,33 +279,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "onto",
-          "definition": "prep. 在...之上"
+          "definition": "prep. 到…之上、對…有所了解"
         }
       ],
       "examples": [
         {
-          "en": "She climbed onto the roof.",
+          "en": "Please load the boxes onto the truck before noon.",
           "highlight": [
             "onto"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在中午前把箱子搬上卡車。"
+          }
+        },
+        {
+          "en": "She stepped onto the stage and greeted the audience confidently.",
+          "highlight": [
+            "onto"
+          ],
+          "translations": {
+            "zh-TW": "她踏上舞台，自信地向觀眾致意。"
+          }
+        },
+        {
+          "en": "The detective was onto the suspect from the very beginning of the case.",
+          "highlight": [
+            "onto"
+          ],
+          "translations": {
+            "zh-TW": "偵探從案子一開始就盯上了這名嫌犯。"
           }
         }
       ],
       "synonyms": [
         "upon",
-        "over"
+        "on",
+        "atop"
       ],
       "antonyms": [
-        "off"
+        "off",
+        "from"
       ],
       "phrases": [
-        "climb",
-        "onto",
-        "onto",
-        "the",
-        "roof"
+        "hold onto",
+        "get onto",
+        "climb onto",
+        "jump onto"
       ]
     },
     {
@@ -251,43 +339,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "opened",
+        "present_3rd": "opens",
+        "past": "opened",
         "past_participle": "opened",
-        "present_participle": "opening",
-        "third_person": "opens"
+        "ing": "opening"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "open",
-          "definition": "n. 公开, 户外, 空旷, a. 开着的, 开放的, 开阔的, 营业着的, 公开的, 悬而未决的, vt. 打开, 公开, 开放, vi. 展开, 开始, 展现, [计] 打开指令; 打开語句"
+          "definition": "a. 開著的、開放的、營業中的  v. 打開、開始、開放"
         }
       ],
       "examples": [
         {
-          "en": "The door is open.",
+          "en": "The bank is open from nine to five on weekdays.",
           "highlight": [
             "open"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "銀行平日早上九點到下午五點營業。"
+          }
+        },
+        {
+          "en": "She opened the meeting by reviewing last month's sales figures.",
+          "highlight": [
+            "opened"
+          ],
+          "translations": {
+            "zh-TW": "她以回顧上月的銷售數據作為會議的開場。"
+          }
+        },
+        {
+          "en": "The company is opening a new branch in Singapore next quarter.",
+          "highlight": [
+            "opening"
+          ],
+          "translations": {
+            "zh-TW": "公司下季度將在新加坡開設新分公司。"
           }
         }
       ],
       "synonyms": [
+        "unlocked",
         "unblocked",
-        "unlocked"
+        "accessible"
       ],
       "antonyms": [
         "closed",
         "shut"
       ],
       "phrases": [
-        "open",
-        "door",
-        "open",
-        "window"
+        "open door",
+        "open hours",
+        "open an account",
+        "open mind"
       ]
     },
     {
@@ -298,47 +405,65 @@
       "toeic_score_min": 500,
       "word": "operate",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "operateed",
-        "past_participle": "operateed",
-        "present_participle": "operating",
-        "third_person": "operates"
+        "present_3rd": "operates",
+        "past": "operated",
+        "past_participle": "operated",
+        "ing": "operating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "operate",
-          "definition": "v. 操作, 運转, 動手术, 活動"
+          "definition": "v. 操作、運轉、經營、動手術"
         }
       ],
       "examples": [
         {
-          "en": "The machine operates smoothly.",
+          "en": "New employees must learn how to operate the printing machine safely.",
           "highlight": [
             "operate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新進員工必須學習如何安全操作印刷機。"
+          }
+        },
+        {
+          "en": "The factory operated around the clock to meet the holiday demand.",
+          "highlight": [
+            "operated"
+          ],
+          "translations": {
+            "zh-TW": "工廠日夜運轉以應付假期的需求。"
+          }
+        },
+        {
+          "en": "The surgeon is operating on a patient with a rare heart condition.",
+          "highlight": [
+            "operating"
+          ],
+          "translations": {
+            "zh-TW": "外科醫師正在為一名患有罕見心臟疾病的病人動手術。"
           }
         }
       ],
       "synonyms": [
+        "run",
         "function",
-        "work"
+        "manage"
       ],
       "antonyms": [
         "stop",
         "halt"
       ],
       "phrases": [
-        "operate",
-        "machinery",
-        "operate",
-        "efficiently"
+        "operate a machine",
+        "operate on",
+        "operate smoothly",
+        "operating system"
       ]
     },
     {
@@ -349,47 +474,62 @@
       "toeic_score_min": 500,
       "word": "operation",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "operationed",
-        "past_participle": "operationed",
-        "present_participle": "operationing",
-        "third_person": "operations"
+        "plural": "operations"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "operation",
-          "definition": "n. 操作, 動作, 手术, 運算, 作用, 业务, [计] 運算"
+          "definition": "n. 操作、營運、手術、行動"
         }
       ],
       "examples": [
         {
-          "en": "The operation was successful.",
+          "en": "The operation of the new software requires minimal training.",
           "highlight": [
             "operation"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這套新軟體的操作只需要最少的訓練。"
+          }
+        },
+        {
+          "en": "Our overseas operations have grown by twenty percent this year.",
+          "highlight": [
+            "operations"
+          ],
+          "translations": {
+            "zh-TW": "我們在海外的營運今年成長了百分之二十。"
+          }
+        },
+        {
+          "en": "The patient recovered fully after a three-hour operation.",
+          "highlight": [
+            "operation"
+          ],
+          "translations": {
+            "zh-TW": "病患經過三小時的手術後已完全康復。"
           }
         }
       ],
       "synonyms": [
         "procedure",
-        "action"
+        "process",
+        "campaign"
       ],
       "antonyms": [
         "inactivity",
-        "idleness"
+        "shutdown"
       ],
       "phrases": [
-        "successful",
-        "operation",
-        "surgical",
-        "operation"
+        "in operation",
+        "business operations",
+        "surgical operation",
+        "operations manager"
       ]
     },
     {
@@ -400,48 +540,62 @@
       "toeic_score_min": 500,
       "word": "opinion",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "opinioned",
-        "past_participle": "opinioned",
-        "present_participle": "opinioning",
-        "third_person": "opinions"
+        "plural": "opinions"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "opinion",
-          "definition": "n. 意见, 评价, 主张, [經] 意见"
+          "definition": "n. 意見、看法、主張、評價"
         }
       ],
       "examples": [
         {
-          "en": "In my opinion, it's too expensive.",
+          "en": "In my opinion, the proposal needs more market research.",
           "highlight": [
             "opinion"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在我看來，這項提案需要更多的市場調查。"
+          }
+        },
+        {
+          "en": "The board asked the staff to share their opinions on the new policy.",
+          "highlight": [
+            "opinions"
+          ],
+          "translations": {
+            "zh-TW": "董事會請員工對新政策表達各自的看法。"
+          }
+        },
+        {
+          "en": "Legal opinion on the contract was sought before signing it.",
+          "highlight": [
+            "opinion"
+          ],
+          "translations": {
+            "zh-TW": "簽約前已先尋求對這份合約的法律意見。"
           }
         }
       ],
       "synonyms": [
         "view",
-        "belief"
+        "belief",
+        "judgment"
       ],
       "antonyms": [
         "fact",
         "certainty"
       ],
       "phrases": [
-        "in",
-        "my",
-        "opinion",
-        "public",
-        "opinion"
+        "in my opinion",
+        "public opinion",
+        "second opinion",
+        "express an opinion"
       ]
     },
     {
@@ -452,48 +606,62 @@
       "toeic_score_min": 500,
       "word": "opportunity",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "opportunityed",
-        "past_participle": "opportunityed",
-        "present_participle": "opportunitying",
-        "third_person": "opportunitys"
+        "plural": "opportunities"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "opportunity",
-          "definition": "n. 机會, 時机"
+          "definition": "n. 機會、時機、良機"
         }
       ],
       "examples": [
         {
-          "en": "She seized the opportunity.",
+          "en": "The scholarship offers a rare opportunity to study abroad.",
           "highlight": [
             "opportunity"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這筆獎學金提供了出國留學的難得機會。"
+          }
+        },
+        {
+          "en": "Recent trade agreements have created many new opportunities for exporters.",
+          "highlight": [
+            "opportunities"
+          ],
+          "translations": {
+            "zh-TW": "近期的貿易協定為出口商創造了許多新機會。"
+          }
+        },
+        {
+          "en": "She seized the opportunity to present her ideas directly to the CEO.",
+          "highlight": [
+            "opportunity"
+          ],
+          "translations": {
+            "zh-TW": "她把握機會，直接向執行長提出自己的構想。"
           }
         }
       ],
       "synonyms": [
         "chance",
-        "possibility"
+        "opening",
+        "occasion"
       ],
       "antonyms": [
-        "miss",
-        "loss"
+        "setback",
+        "dead end"
       ],
       "phrases": [
-        "great",
-        "opportunity",
-        "seize",
-        "the",
-        "opportunity"
+        "seize the opportunity",
+        "equal opportunity",
+        "business opportunity",
+        "job opportunity"
       ]
     }
   ]
