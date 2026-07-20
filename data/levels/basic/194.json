@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 194,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-194-001",
@@ -12,6 +12,7 @@
       "word": "next",
       "pos": [
         "adjective",
+        "adverb",
         "noun"
       ],
       "conjugations": {
@@ -22,33 +23,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "next",
-          "definition": "n. 下一個, a. 下一個的, 其次的, 贴近的, adv. 然後, 下次, 次于, [计] 近邻干扰"
+          "definition": "adj. 下一個的、緊接在後的、次的  adv. 其次、下次  n. 下一個、下一轮"
         }
       ],
       "examples": [
         {
-          "en": "We'll talk next time.",
+          "en": "The next train to London leaves at nine o'clock.",
           "highlight": [
             "next"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "下一班開往倫敦的火車九點出發。"
+          }
+        },
+        {
+          "en": "Our head office is located in the next building on the left.",
+          "highlight": [
+            "next"
+          ],
+          "translations": {
+            "zh-TW": "我們的總辦公室就在左邊緊接在那棟的下一棟建築裡。"
+          }
+        },
+        {
+          "en": "If you don't finish the report today, we'll do it next week.",
+          "highlight": [
+            "next"
+          ],
+          "translations": {
+            "zh-TW": "如果你今天沒有完成報告，我們下週再做。"
           }
         }
       ],
       "synonyms": [
         "following",
-        "subsequent"
+        "subsequent",
+        "coming"
       ],
       "antonyms": [
         "previous",
         "former"
       ],
       "phrases": [
-        "next",
-        "time",
-        "next",
-        "week"
+        "next time",
+        "next week",
+        "next year",
+        "next to"
       ]
     },
     {
@@ -59,44 +79,64 @@
       "toeic_score_min": 200,
       "word": "nice",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "nices"
+        "comparative": "nicer",
+        "superlative": "nicest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "nice",
-          "definition": "a. 美好的, 和蔼的, 正派的, 做得好的, 精密的, 细微的, 挑剔的, 谨慎的"
+          "definition": "adj. 美好的、和藹的、令人愉快的、體貼的"
         }
       ],
       "examples": [
         {
-          "en": "She is a nice person.",
+          "en": "It is nice to meet you in person after so many emails.",
           "highlight": [
             "nice"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "通了那麼多電子郵件之後，能親自見到您真是令人愉快。"
+          }
+        },
+        {
+          "en": "The new meeting room is nicer than the old one on the third floor.",
+          "highlight": [
+            "nicer"
+          ],
+          "translations": {
+            "zh-TW": "新的會議室比三樓那間舊的更舒適。"
+          }
+        },
+        {
+          "en": "This is the nicest restaurant I have ever visited in this city.",
+          "highlight": [
+            "nicest"
+          ],
+          "translations": {
+            "zh-TW": "這是我在這座城市造訪過最棒的餐廳。"
           }
         }
       ],
       "synonyms": [
         "pleasant",
-        "kind"
+        "kind",
+        "friendly"
       ],
       "antonyms": [
         "mean",
-        "unpleasant"
+        "unpleasant",
+        "nasty"
       ],
       "phrases": [
-        "nice",
-        "person",
-        "nice",
-        "place"
+        "nice to meet you",
+        "nice day",
+        "nice work",
+        "nice try"
       ]
     },
     {
@@ -115,33 +155,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "nicely",
-          "definition": "adv. 漂亮地, 谨慎地, 恰好地"
+          "definition": "adv. 漂亮地、得體地、恰好地、很好地"
         }
       ],
       "examples": [
         {
-          "en": "The job was done nicely.",
+          "en": "The report was nicely formatted and easy to read.",
           "highlight": [
             "nicely"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "報告格式排得很漂亮，閱讀起來很輕鬆。"
+          }
+        },
+        {
+          "en": "She handled the customer complaint nicely without losing her temper.",
+          "highlight": [
+            "nicely"
+          ],
+          "translations": {
+            "zh-TW": "她得體地處理了客訴，沒有發脾氣。"
+          }
+        },
+        {
+          "en": "The new software integrates nicely with our existing system.",
+          "highlight": [
+            "nicely"
+          ],
+          "translations": {
+            "zh-TW": "新軟體與我們現有的系統整合得很順暢。"
           }
         }
       ],
       "synonyms": [
         "pleasantly",
-        "kindly"
+        "well",
+        "neatly"
       ],
       "antonyms": [
         "rudely",
-        "poorly"
+        "poorly",
+        "badly"
       ],
       "phrases": [
-        "done",
-        "nicely",
-        "behave",
-        "nicely"
+        "done nicely",
+        "nicely done",
+        "fit nicely"
       ]
     },
     {
@@ -163,34 +222,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "night",
-          "definition": "n. 夜, 夜晚, 晚上, 黑暗, 夜晚的工作, [法] 夜, 黑夜, 黑暗"
+          "definition": "n. 夜晚、晚上、黑夜  adj. 夜間的"
         }
       ],
       "examples": [
         {
-          "en": "They go out at night.",
+          "en": "We arrived at the hotel late at night after a long flight.",
           "highlight": [
             "night"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "長途飛行之後，我們深夜才抵達飯店。"
+          }
+        },
+        {
+          "en": "He worked several nights last month to finish the project on time.",
+          "highlight": [
+            "nights"
+          ],
+          "translations": {
+            "zh-TW": "上個月他加了幾個晚班，為的就是準時完成專案。"
+          }
+        },
+        {
+          "en": "The night shift starts at ten and ends at six in the morning.",
+          "highlight": [
+            "night"
+          ],
+          "translations": {
+            "zh-TW": "夜班從十點開始，到早上六點結束。"
           }
         }
       ],
       "synonyms": [
+        "evening",
         "darkness",
-        "evening"
+        "nighttime"
       ],
       "antonyms": [
         "day",
-        "daylight"
+        "daylight",
+        "morning"
       ],
       "phrases": [
-        "at",
-        "night",
-        "late",
-        "at",
-        "night"
+        "at night",
+        "good night",
+        "night shift",
+        "late at night"
       ]
     },
     {
@@ -212,27 +290,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "nine",
-          "definition": "num. 九, 九個"
+          "definition": "num. 九、九個  n. 九點、九號"
         }
       ],
       "examples": [
         {
-          "en": "She has nine books.",
+          "en": "The board meeting will begin at nine sharp tomorrow morning.",
           "highlight": [
             "nine"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "董事會議明天早上九點整準時開始。"
+          }
+        },
+        {
+          "en": "She has worked at the company for nine years without a single complaint.",
+          "highlight": [
+            "nine"
+          ],
+          "translations": {
+            "zh-TW": "她在這家公司工作了九年，從未有過一次客訴。"
+          }
+        },
+        {
+          "en": "He rolled a nine on the dice and won the game.",
+          "highlight": [
+            "nine"
+          ],
+          "translations": {
+            "zh-TW": "他擲出了九點，贏得了這場遊戲。"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "niner",
+        "ix"
+      ],
       "antonyms": [],
       "phrases": [
-        "nine",
-        "o'clock",
-        "nine",
-        "years"
+        "nine o'clock",
+        "nine to five",
+        "nine out of ten",
+        "dressed to the nines"
       ]
     },
     {
@@ -254,28 +353,46 @@
         {
           "lang": "zh-TW",
           "lang_word": "nineteen",
-          "definition": "num. 十九, 十九個"
+          "definition": "num. 十九、十九個  n. 十九歲、十九號"
         }
       ],
       "examples": [
         {
-          "en": "He turned nineteen today.",
+          "en": "There were nineteen applicants for the marketing position.",
           "highlight": [
             "nineteen"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這個行銷職位一共有十九位應徵者。"
+          }
+        },
+        {
+          "en": "She turned nineteen last month and moved into her own apartment.",
+          "highlight": [
+            "nineteen"
+          ],
+          "translations": {
+            "zh-TW": "她上個月剛滿十九歲，就搬進了自己的公寓。"
+          }
+        },
+        {
+          "en": "The invoice lists nineteen items that need to be shipped by Friday.",
+          "highlight": [
+            "nineteen"
+          ],
+          "translations": {
+            "zh-TW": "發票上列了十九項商品，必須在週五前出貨。"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "xix"
+      ],
       "antonyms": [],
       "phrases": [
-        "nineteen",
-        "years",
-        "nineteen",
-        "years",
-        "old"
+        "nineteen years old",
+        "nineteen nineties",
+        "nineteen eighties"
       ]
     },
     {
@@ -297,27 +414,47 @@
         {
           "lang": "zh-TW",
           "lang_word": "ninety",
-          "definition": "num. 九十, 九十個"
+          "definition": "num. 九十、九十個  n. 九十年代、九十歲"
         }
       ],
       "examples": [
         {
-          "en": "She counted to ninety.",
+          "en": "The new policy has the support of ninety percent of employees.",
           "highlight": [
             "ninety"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新政策獲得了百分之九十員工的支持。"
+          }
+        },
+        {
+          "en": "My grandmother still drives her own car at ninety years old.",
+          "highlight": [
+            "ninety"
+          ],
+          "translations": {
+            "zh-TW": "我奶奶九十歲了還是自己開車。"
+          }
+        },
+        {
+          "en": "The company was founded in the nineties and grew rapidly.",
+          "highlight": [
+            "nineties"
+          ],
+          "translations": {
+            "zh-TW": "這家公司創立於九零年代，成長十分迅速。"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "xc"
+      ],
       "antonyms": [],
       "phrases": [
-        "ninety",
-        "percent",
-        "ninety",
-        "days"
+        "ninety percent",
+        "ninety days",
+        "ninety degrees",
+        "the nineties"
       ]
     },
     {
@@ -339,17 +476,35 @@
         {
           "lang": "zh-TW",
           "lang_word": "ninth",
-          "definition": "num. 第九, 九分之一"
+          "definition": "num. 第九、九分之一  n. 第九日、第九名"
         }
       ],
       "examples": [
         {
-          "en": "She finished ninth in the race.",
+          "en": "Our branch office is on the ninth floor of the building.",
           "highlight": [
             "ninth"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們的分公司在大樓的九樓。"
+          }
+        },
+        {
+          "en": "He finished ninth in the annual sales competition among two hundred reps.",
+          "highlight": [
+            "ninth"
+          ],
+          "translations": {
+            "zh-TW": "他在兩百位業務員參加的年度銷售競賽中得到第九名。"
+          }
+        },
+        {
+          "en": "About one ninth of the budget has already been spent on marketing.",
+          "highlight": [
+            "ninth"
+          ],
+          "translations": {
+            "zh-TW": "預算中約有九分之一已經花在行銷上了。"
           }
         }
       ],
@@ -358,10 +513,10 @@
       ],
       "antonyms": [],
       "phrases": [
-        "ninth",
-        "place",
-        "ninth",
-        "floor"
+        "ninth floor",
+        "ninth place",
+        "ninth inning",
+        "ninth grade"
       ]
     },
     {
@@ -373,6 +528,7 @@
       "word": "no",
       "pos": [
         "adverb",
+        "adjective",
         "noun"
       ],
       "conjugations": {
@@ -383,31 +539,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "no",
-          "definition": "n. 不, 拒绝, 否决票, a. 没有, 不是, 绝非, adv. 不"
+          "definition": "adv. 不、沒有  adj. 沒有的、不允許的  n. 否定、拒絕、反對票"
         }
       ],
       "examples": [
         {
-          "en": "No, I don't want any.",
+          "en": "No, I'm afraid I cannot attend the meeting tomorrow.",
           "highlight": [
             "no"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "不，恐怕我明天無法出席會議。"
+          }
+        },
+        {
+          "en": "There is no parking available in front of the office building.",
+          "highlight": [
+            "no"
+          ],
+          "translations": {
+            "zh-TW": "辦公大樓前面沒有停車位。"
+          }
+        },
+        {
+          "en": "The committee voted three yeses and four nos on the proposal.",
+          "highlight": [
+            "nos"
+          ],
+          "translations": {
+            "zh-TW": "委員會就這項提案投出了三張贊成票與四張反對票。"
           }
         }
       ],
       "synonyms": [
-        "not"
+        "not",
+        "nay",
+        "negative"
       ],
       "antonyms": [
-        "yes"
+        "yes",
+        "affirmative"
       ],
       "phrases": [
-        "no",
-        "way",
-        "no",
-        "problem"
+        "no way",
+        "no problem",
+        "no longer",
+        "no one"
       ]
     },
     {
@@ -418,41 +595,64 @@
       "toeic_score_min": 200,
       "word": "nobody",
       "pos": [
-        "pronoun"
+        "pronoun",
+        "noun"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "nobodies"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "nobody",
-          "definition": "n. 小人物, 无名小卒, pron. 无人, 没有人"
+          "definition": "pron. 沒有人、無人  n. 無名小卒、不重要的人"
         }
       ],
       "examples": [
         {
-          "en": "Nobody was there.",
+          "en": "Nobody showed up for the training session on Friday afternoon.",
           "highlight": [
             "nobody"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "週五下午的培訓課程沒有一個人出席。"
+          }
+        },
+        {
+          "en": "Nobody was in the office when I arrived at seven this morning.",
+          "highlight": [
+            "nobody"
+          ],
+          "translations": {
+            "zh-TW": "我今早七點到辦公室時，裡面一個人也沒有。"
+          }
+        },
+        {
+          "en": "He started as a nobody in the mailroom and worked his way up to CEO.",
+          "highlight": [
+            "nobody"
+          ],
+          "translations": {
+            "zh-TW": "他從收發室的無名小卒做起，一路攀升到執行長。"
           }
         }
       ],
       "synonyms": [
-        "no",
-        "one"
+        "no one",
+        "none",
+        "nobody else"
       ],
       "antonyms": [
         "someone",
-        "everybody"
+        "everybody",
+        "anybody"
       ],
       "phrases": [
-        "nobody",
-        "knew",
-        "nobody",
-        "cares"
+        "nobody knows",
+        "nobody cares",
+        "nobody else",
+        "a nobody"
       ]
     }
   ]
