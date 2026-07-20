@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 205,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-205-001",
@@ -11,44 +11,62 @@
       "toeic_score_min": 500,
       "word": "owner",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "ownered",
-        "past_participle": "ownered",
-        "present_participle": "ownering",
-        "third_person": "owners"
+        "plural": "owners"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "owner",
-          "definition": "n. 拥有者, 物主, 所有人, [經] 所有者, 物主, 业主"
+          "definition": "n. 擁有者、物主、所有人；業主"
         }
       ],
       "examples": [
         {
-          "en": "She is the owner of the shop.",
+          "en": "The owner of the restaurant greeted every guest at the door.",
           "highlight": [
             "owner"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "餐廳老闆在門口迎接每一位客人。"
+          }
+        },
+        {
+          "en": "Many small business owners struggle to keep up with new tax rules.",
+          "highlight": [
+            "owners"
+          ],
+          "translations": {
+            "zh-TW": "許多小型企業主難以應付新的稅務規定。"
+          }
+        },
+        {
+          "en": "The new owner plans to renovate the entire building by next year.",
+          "highlight": [
+            "owner"
+          ],
+          "translations": {
+            "zh-TW": "新老闆打算在明年之前整修整棟大樓。"
           }
         }
       ],
       "synonyms": [
         "proprietor",
-        "holder"
+        "holder",
+        "possessor"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "tenant",
+        "renter"
+      ],
       "phrases": [
-        "shop",
-        "owner",
-        "property",
-        "owner"
+        "business owner",
+        "property owner",
+        "pet owner",
+        "club owner"
       ]
     },
     {
@@ -59,41 +77,58 @@
       "toeic_score_min": 500,
       "word": "oxygen",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
-      "conjugations": {
-        "past_tense": "oxygened",
-        "past_participle": "oxygened",
-        "present_participle": "oxygening",
-        "third_person": "oxygens"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "science",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "oxygen",
-          "definition": "n. 氧, [化] 氧O-2"
+          "definition": "n. 氧、氧氣"
         }
       ],
       "examples": [
         {
-          "en": "Plants produce oxygen.",
+          "en": "Patients in the emergency room were given oxygen through masks.",
           "highlight": [
             "oxygen"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "急診室的病人透過面罩給予氧氣。"
+          }
+        },
+        {
+          "en": "The cabin crew checked the oxygen supply before every flight.",
+          "highlight": [
+            "oxygen"
+          ],
+          "translations": {
+            "zh-TW": "機組員在每次飛行前都會檢查氧氣供應。"
+          }
+        },
+        {
+          "en": "Mountain climbers carried extra tanks so they could breathe below the summit.",
+          "highlight": [
+            "oxygen"
+          ],
+          "translations": {
+            "zh-TW": "登山客攜帶了額外的氧氣瓶，以便在接近山頂處能呼吸。"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "O2",
+        "gas"
+      ],
+      "antonyms": [
+        "carbon"
+      ],
       "phrases": [
-        "oxygen",
-        "supply",
-        "oxygen",
-        "level"
+        "oxygen supply",
+        "oxygen level",
+        "oxygen tank",
+        "oxygen mask"
       ]
     },
     {
@@ -108,43 +143,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "packed",
+        "plural": "packs",
+        "present_3rd": "packs",
+        "past": "packed",
         "past_participle": "packed",
-        "present_participle": "packing",
-        "third_person": "packs"
+        "ing": "packing"
       },
-      "domain": "general",
+      "domain": "travel",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pack",
-          "definition": "n. 包裹, 一伙, 一副, 背包, 包装, vt. 包装, 捆扎, 塞满, 压紧, 挑选, vi. 包装货物, 挤, 群集, 被包装, [计] 压缩"
+          "definition": "v. 打包、裝箱 n. 包、小盒、一群"
         }
       ],
       "examples": [
         {
-          "en": "She needs to pack her suitcase.",
+          "en": "She always packs a spare charger when she travels for business.",
           "highlight": [
-            "pack"
+            "packs"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她出差時總是會在行李中準備一條備用充電器。"
+          }
+        },
+        {
+          "en": "We packed the last box and handed the keys to the real estate agent.",
+          "highlight": [
+            "packed"
+          ],
+          "translations": {
+            "zh-TW": "我們打包好最後一個紙箱，把鑰匙交給房仲。"
+          }
+        },
+        {
+          "en": "She is packing her suitcases for a two-week trip to London.",
+          "highlight": [
+            "packing"
+          ],
+          "translations": {
+            "zh-TW": "她正在為期兩週的倫敦之行打包行李。"
           }
         }
       ],
       "synonyms": [
-        "prepare",
-        "bundle"
+        "bundle",
+        "wrap",
+        "load"
       ],
       "antonyms": [
-        "unpack"
+        "unpack",
+        "empty"
       ],
       "phrases": [
-        "pack",
-        "a",
-        "bag",
-        "pack",
-        "luggage"
+        "pack a bag",
+        "pack up",
+        "six-pack",
+        "pack your bags"
       ]
     },
     {
@@ -159,41 +214,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "packageed",
-        "past_participle": "packageed",
-        "present_participle": "packaging",
-        "third_person": "packages"
+        "plural": "packages",
+        "present_3rd": "packages",
+        "past": "packaged",
+        "past_participle": "packaged",
+        "ing": "packaging"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "package",
-          "definition": "n. 包裹, 套装软件, 包, 包装用物, 程序包, vt. 包装, 打包, a. 一揽子的, [计] 包, 软件包, 包装"
+          "definition": "n. 包裹、套裝組合 v. 打包、包裝"
         }
       ],
       "examples": [
         {
-          "en": "The package arrived on time.",
+          "en": "The courier left three packages at the front desk this morning.",
+          "highlight": [
+            "packages"
+          ],
+          "translations": {
+            "zh-TW": "快遞今早把三個包裹留在了櫃台。"
+          }
+        },
+        {
+          "en": "All products are packaged in recyclable materials to meet the new regulation.",
+          "highlight": [
+            "packaged"
+          ],
+          "translations": {
+            "zh-TW": "所有產品都以可回收材料包裝，以符合新法規。"
+          }
+        },
+        {
+          "en": "We offer a complete training package that covers customer service skills.",
           "highlight": [
             "package"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們提供完整的培訓套裝，涵蓋客服技巧。"
           }
         }
       ],
       "synonyms": [
         "parcel",
-        "box"
+        "bundle",
+        "set"
       ],
       "antonyms": [],
       "phrases": [
-        "mail",
-        "a",
-        "package",
-        "receive",
-        "a"
+        "package deal",
+        "compensation package",
+        "software package",
+        "send a package"
       ]
     },
     {
@@ -208,41 +282,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "pageed",
-        "past_participle": "pageed",
-        "present_participle": "paging",
-        "third_person": "pages"
+        "plural": "pages",
+        "present_3rd": "pages",
+        "past": "paged",
+        "past_participle": "paged",
+        "ing": "paging"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "page",
-          "definition": "n. 页, 記录, 事件, 专栏, 男侍, vt. 标明...的页数, 翻...的書页, 分页排版, 呼叫, 侍候, vi. 翻書页, 侍侯, [计] 页; 页面"
+          "definition": "n. 頁、頁面 v. 呼叫（以呼叫器）、標明頁數"
         }
       ],
       "examples": [
         {
-          "en": "Please turn to page 20.",
+          "en": "Please turn to page fifty-two of the annual report for detailed figures.",
           "highlight": [
             "page"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請翻到年報第五十二頁查看詳細數據。"
+          }
+        },
+        {
+          "en": "The receptionist paged the manager when the VIP arrived in the lobby.",
+          "highlight": [
+            "paged"
+          ],
+          "translations": {
+            "zh-TW": "VIP 抵達大廳時，櫃台以呼叫器通知經理。"
+          }
+        },
+        {
+          "en": "The manual has two hundred pages of technical instructions.",
+          "highlight": [
+            "pages"
+          ],
+          "translations": {
+            "zh-TW": "這本手冊有兩百頁的技術說明。"
           }
         }
       ],
       "synonyms": [
         "sheet",
-        "leaf"
+        "leaf",
+        "side"
       ],
       "antonyms": [],
       "phrases": [
-        "page",
-        "number",
-        "turn",
-        "the",
-        "page"
+        "home page",
+        "page number",
+        "front page",
+        "turn the page"
       ]
     },
     {
@@ -257,43 +350,64 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "pained",
+        "plural": "pains",
+        "present_3rd": "pains",
+        "past": "pained",
         "past_participle": "pained",
-        "present_participle": "paining",
-        "third_person": "pains"
+        "ing": "paining"
       },
-      "domain": "general",
+      "domain": "health",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pain",
-          "definition": "n. 痛苦, 疼痛, 辛苦, vt. 使痛苦, 痛苦, vi. 作痛, 疼"
+          "definition": "n. 疼痛、痛苦、辛勞 v. 使痛苦"
         }
       ],
       "examples": [
         {
-          "en": "He felt a sharp pain in his leg.",
+          "en": "The athlete reported a sharp pain in his right knee during warm-up.",
           "highlight": [
             "pain"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "運動員在暖身時回報右膝有劇烈疼痛。"
+          }
+        },
+        {
+          "en": "A late tax deadline pains any small business owner during peak season.",
+          "highlight": [
+            "pains"
+          ],
+          "translations": {
+            "zh-TW": "旺季遇上拖延的報稅期限，會讓任何小型企業主感到頭痛。"
+          }
+        },
+        {
+          "en": "It pained him to inform the staff that bonuses would be delayed.",
+          "highlight": [
+            "pained"
+          ],
+          "translations": {
+            "zh-TW": "通知員工獎金將延後發放，讓他心裡很過意不去。"
           }
         }
       ],
       "synonyms": [
         "ache",
-        "discomfort"
+        "agony",
+        "suffering"
       ],
       "antonyms": [
         "pleasure",
-        "comfort"
+        "comfort",
+        "ease"
       ],
       "phrases": [
-        "sharp",
-        "pain",
-        "feel",
-        "pain"
+        "sharp pain",
+        "back pain",
+        "spare no pains",
+        "chest pain"
       ]
     },
     {
@@ -304,44 +418,64 @@
       "toeic_score_min": 500,
       "word": "painful",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "painfuls"
+        "comparative": "more painful",
+        "superlative": "most painful"
       },
-      "domain": "general",
+      "domain": "health",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "painful",
-          "definition": "a. 痛苦的, 困難的, 令人烦恼的, [医] 疼痛的"
+          "definition": "adj. 疼痛的、令人痛苦的、費力的"
         }
       ],
       "examples": [
         {
-          "en": "The injury was very painful.",
+          "en": "The recovery from the surgery was long and painful for the patient.",
           "highlight": [
             "painful"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "病人的手術復原過程漫長且痛苦。"
+          }
+        },
+        {
+          "en": "Resolving the labor dispute was more painful than the CEO had expected.",
+          "highlight": [
+            "more painful"
+          ],
+          "translations": {
+            "zh-TW": "化解勞資糾紛比執行長預期的更加棘手。"
+          }
+        },
+        {
+          "en": "He recalled the most painful moment of his career with remarkable calmness.",
+          "highlight": [
+            "most painful"
+          ],
+          "translations": {
+            "zh-TW": "他回憶起職涯中最痛苦的時刻時，顯得格外平靜。"
           }
         }
       ],
       "synonyms": [
         "aching",
-        "hurting"
+        "agonizing",
+        "distressing"
       ],
       "antonyms": [
         "painless",
-        "comfortable"
+        "comfortable",
+        "soothing"
       ],
       "phrases": [
-        "very",
-        "painful",
-        "painful",
-        "experience"
+        "painful experience",
+        "painful memory",
+        "painful process",
+        "painful decision"
       ]
     },
     {
@@ -356,41 +490,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "painted",
+        "plural": "paints",
+        "present_3rd": "paints",
+        "past": "painted",
         "past_participle": "painted",
-        "present_participle": "painting",
-        "third_person": "paints"
+        "ing": "painting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "paint",
-          "definition": "n. 油漆, 颜料, 绘画作品, 涂漆, vt. 油漆, 绘, 画, 描绘, 装饰, 點缀, vi. 绘画, 涂漆"
+          "definition": "n. 油漆、顏料、畫作 v. 上漆、繪畫"
         }
       ],
       "examples": [
         {
-          "en": "She chose a bright color to paint her room.",
+          "en": "The factory paints its products with a special water-resistant coating.",
           "highlight": [
-            "paint"
+            "paints"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "工廠以特殊的防水塗層為產品上漆。"
+          }
+        },
+        {
+          "en": "He painted the office walls over the weekend to save the decoration budget.",
+          "highlight": [
+            "painted"
+          ],
+          "translations": {
+            "zh-TW": "他在週末把辦公室的牆面油漆好以節省裝潢預算。"
+          }
+        },
+        {
+          "en": "The artist is painting a mural on the side wall of the new hotel.",
+          "highlight": [
+            "painting"
+          ],
+          "translations": {
+            "zh-TW": "畫家正在新飯店的側牆上繪製壁畫。"
           }
         }
       ],
       "synonyms": [
         "color",
-        "coat"
+        "coat",
+        "draw"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "strip",
+        "remove"
+      ],
       "phrases": [
-        "paint",
-        "a",
-        "wall",
-        "paint",
-        "a"
+        "oil paint",
+        "paint a wall",
+        "paintbrush",
+        "wet paint"
       ]
     },
     {
@@ -401,44 +557,59 @@
       "toeic_score_min": 500,
       "word": "painter",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "paintered",
-        "past_participle": "paintered",
-        "present_participle": "paintering",
-        "third_person": "painters"
+        "plural": "painters"
       },
-      "domain": "general",
+      "domain": "arts",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "painter",
-          "definition": "n. 画家, 油漆匠, [机] 油漆匠, 喷漆匠"
+          "definition": "n. 畫家、油漆工"
         }
       ],
       "examples": [
         {
-          "en": "The painter worked on the mural for days.",
+          "en": "The painter finished the ceiling of the conference room in two days.",
           "highlight": [
             "painter"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "油漆工兩天就把會議室的天花板漆完了。"
+          }
+        },
+        {
+          "en": "Several local painters were hired to decorate the entrance of the new mall.",
+          "highlight": [
+            "painters"
+          ],
+          "translations": {
+            "zh-TW": "幾位當地畫家被聘請來為新商場的入口做裝飾。"
+          }
+        },
+        {
+          "en": "A famous painter donated one of her landscapes to the hospital charity auction.",
+          "highlight": [
+            "painter"
+          ],
+          "translations": {
+            "zh-TW": "一位知名畫家捐出一幅風景畫義賣給醫院慈善活動。"
           }
         }
       ],
       "synonyms": [
         "artist",
-        "decorator"
+        "decorator",
+        "artisan"
       ],
       "antonyms": [],
       "phrases": [
-        "famous",
-        "painter",
-        "house",
-        "painter"
+        "house painter",
+        "master painter",
+        "portrait painter",
+        "professional painter"
       ]
     },
     {
@@ -449,45 +620,59 @@
       "toeic_score_min": 500,
       "word": "painting",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "paintinged",
-        "past_participle": "paintinged",
-        "present_participle": "paintinging",
-        "third_person": "paintings"
+        "plural": "paintings"
       },
-      "domain": "general",
+      "domain": "arts",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "painting",
-          "definition": "n. 画, 绘画, 油漆, [化] 涂漆"
+          "definition": "n. 畫作、繪畫、上漆"
         }
       ],
       "examples": [
         {
-          "en": "She admired the painting.",
+          "en": "The gallery acquired a rare painting from the Renaissance period last month.",
           "highlight": [
             "painting"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "畫廊上個月收購了一幅珍貴的文藝復興時期畫作。"
+          }
+        },
+        {
+          "en": "Several of her paintings are on permanent display at the city museum.",
+          "highlight": [
+            "paintings"
+          ],
+          "translations": {
+            "zh-TW": "她的幾幅畫作在城市博物館中永久展出。"
+          }
+        },
+        {
+          "en": "The hotel spent two weeks on painting the lobby to match its new brand identity.",
+          "highlight": [
+            "painting"
+          ],
+          "translations": {
+            "zh-TW": "飯店花了兩週油漆大廳，以配合新的品牌形象。"
           }
         }
       ],
       "synonyms": [
         "artwork",
+        "canvas",
         "picture"
       ],
       "antonyms": [],
       "phrases": [
-        "admire",
-        "a",
-        "painting",
-        "create",
-        "a"
+        "oil painting",
+        "watercolor painting",
+        "classical painting",
+        "painting exhibition"
       ]
     }
   ]
