@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 197,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-197-001",
@@ -15,40 +15,59 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "numbered",
+        "plural": "numbers",
+        "present_3rd": "numbers",
+        "past": "numbered",
         "past_participle": "numbered",
-        "present_participle": "numbering",
-        "third_person": "numbers"
+        "ing": "numbering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "number",
-          "definition": "n. 数, 数字, 数目, 號码, vt. 数, 计算, 共计, vi. 计算, 报数, [计] 数字"
+          "definition": "n. 數字、數目、號碼  v. 編號、總計、達…之多"
         }
       ],
       "examples": [
         {
-          "en": "What's your phone number?",
+          "en": "Please leave your phone number at the front desk.",
           "highlight": [
             "number"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在櫃台留下您的電話號碼。"
+          }
+        },
+        {
+          "en": "The attendees numbered over three hundred at this year's conference.",
+          "highlight": [
+            "numbered"
+          ],
+          "translations": {
+            "zh-TW": "今年研討會的出席人數超過三百人。"
+          }
+        },
+        {
+          "en": "She is numbering the pages of the report before binding it.",
+          "highlight": [
+            "numbering"
+          ],
+          "translations": {
+            "zh-TW": "她正在為報告編頁碼，以便裝訂成冊。"
           }
         }
       ],
       "synonyms": [
         "digit",
-        "figure"
+        "figure",
+        "amount"
       ],
       "antonyms": [],
       "phrases": [
-        "phone",
-        "number",
-        "large",
-        "number"
+        "phone number",
+        "a large number of",
+        "number one"
       ]
     },
     {
@@ -62,41 +81,59 @@
         "adjective"
       ],
       "conjugations": {
-        "comparative": "numerouser",
-        "superlative": "numerousest"
+        "comparative": "more numerous",
+        "superlative": "most numerous"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "numerous",
-          "definition": "a. 很多的, 数目众多的, 多数的, [机] 多数的, 甚多的"
+          "definition": "adj. 眾多的、許多的、數目眾多的"
         }
       ],
       "examples": [
         {
-          "en": "He has numerous friends.",
+          "en": "The company has received numerous complaints about the new policy.",
           "highlight": [
             "numerous"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司收到了許多關於新政策的投訴。"
+          }
+        },
+        {
+          "en": "The errors in this report are even more numerous than in the previous draft.",
+          "highlight": [
+            "more numerous"
+          ],
+          "translations": {
+            "zh-TW": "這份報告的錯誤甚至比前一版還要多。"
+          }
+        },
+        {
+          "en": "Tourists are most numerous during the summer peak season.",
+          "highlight": [
+            "most numerous"
+          ],
+          "translations": {
+            "zh-TW": "夏季旺季期間遊客人數最為眾多。"
           }
         }
       ],
       "synonyms": [
         "many",
-        "several"
+        "several",
+        "countless"
       ],
       "antonyms": [
         "few",
         "limited"
       ],
       "phrases": [
-        "numerous",
-        "occasions",
-        "numerous",
-        "times"
+        "numerous occasions",
+        "numerous times",
+        "too numerous to mention"
       ]
     },
     {
@@ -111,42 +148,61 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "nurseed",
-        "past_participle": "nurseed",
-        "present_participle": "nursing",
-        "third_person": "nurses"
+        "plural": "nurses",
+        "present_3rd": "nurses",
+        "past": "nursed",
+        "past_participle": "nursed",
+        "ing": "nursing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "nurse",
-          "definition": "n. 护士, 保姆, 奶媽, vt. 看护, 照顾, 培养, vi. 喂奶, 看护病人"
+          "definition": "n. 護士、看護  v. 護理、照料、哺育"
         }
       ],
       "examples": [
         {
-          "en": "The nurse took my temperature.",
+          "en": "The nurse checked the patient's blood pressure every two hours.",
           "highlight": [
             "nurse"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "護士每兩小時為病人量一次血壓。"
+          }
+        },
+        {
+          "en": "Several nurses were commended for their dedication during the outbreak.",
+          "highlight": [
+            "nurses"
+          ],
+          "translations": {
+            "zh-TW": "幾位護士因疫情期間的敬業精神而受到表揚。"
+          }
+        },
+        {
+          "en": "He nursed his elderly mother through a long illness.",
+          "highlight": [
+            "nursed"
+          ],
+          "translations": {
+            "zh-TW": "他悉心照料年邁的母親度過了漫長的病痛。"
           }
         }
       ],
       "synonyms": [
         "caregiver",
-        "attendant"
+        "attendant",
+        "caretaker"
       ],
       "antonyms": [
         "patient"
       ],
       "phrases": [
-        "registered",
-        "nurse",
-        "nurse",
-        "practitioner"
+        "registered nurse",
+        "nurse practitioner",
+        "nursing home"
       ]
     },
     {
@@ -157,45 +213,58 @@
       "toeic_score_min": 200,
       "word": "nut",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "nuted",
-        "past_participle": "nuted",
-        "present_participle": "nuting",
-        "third_person": "nuts"
+        "plural": "nuts"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "nut",
-          "definition": "n. 坚果, 核心, 螺帽, [计] Novell NetWare服务器實用程序"
+          "definition": "n. 堅果、螺帽、核心、難題"
         }
       ],
       "examples": [
         {
-          "en": "She cracked a nut open.",
+          "en": "He cracked open a nut and offered me a piece.",
           "highlight": [
             "nut"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他敲開一顆堅果，分了一片給我。"
+          }
+        },
+        {
+          "en": "A handful of mixed nuts makes a healthy afternoon snack.",
+          "highlight": [
+            "nuts"
+          ],
+          "translations": {
+            "zh-TW": "一把綜合堅果是健康的下午茶點心。"
+          }
+        },
+        {
+          "en": "Please tighten the nuts on both sides of the wheel before driving.",
+          "highlight": [
+            "nuts"
+          ],
+          "translations": {
+            "zh-TW": "開車前請先把輪子兩側的螺帽鎖緊。"
           }
         }
       ],
       "synonyms": [
         "kernel",
-        "seed"
+        "seed",
+        "bolt"
       ],
       "antonyms": [],
       "phrases": [
-        "crack",
-        "a",
-        "nut",
-        "eat",
-        "a"
+        "crack a nut",
+        "a tough nut to crack",
+        "mixed nuts"
       ]
     },
     {
@@ -206,48 +275,64 @@
       "toeic_score_min": 200,
       "word": "obey",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "obeyed",
+        "present_3rd": "obeys",
+        "past": "obeyed",
         "past_participle": "obeyed",
-        "present_participle": "obeying",
-        "third_person": "obeys"
+        "ing": "obeying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "obey",
-          "definition": "vt. 服从, 遵从, 顺从, vi. 服从"
+          "definition": "v. 服從、遵守、順從"
         }
       ],
       "examples": [
         {
-          "en": "Children should obey their parents.",
+          "en": "All employees must obey the company's safety regulations.",
           "highlight": [
             "obey"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "所有員工都必須遵守公司的安全規定。"
+          }
+        },
+        {
+          "en": "The driver obeyed the speed limit throughout the entire journey.",
+          "highlight": [
+            "obeyed"
+          ],
+          "translations": {
+            "zh-TW": "駕駛在整趟旅程中都遵守了速限。"
+          }
+        },
+        {
+          "en": "By obeying the instructions carefully, she avoided a serious mistake.",
+          "highlight": [
+            "obeying"
+          ],
+          "translations": {
+            "zh-TW": "因為仔細遵照指示，她避免了一個嚴重的錯誤。"
           }
         }
       ],
       "synonyms": [
         "follow",
-        "comply"
+        "comply",
+        "conform"
       ],
       "antonyms": [
         "disobey",
         "defy"
       ],
       "phrases": [
-        "obey",
-        "the",
-        "law",
-        "obey",
-        "rules"
+        "obey the law",
+        "obey the rules",
+        "obey orders"
       ]
     },
     {
@@ -262,40 +347,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "objected",
+        "plural": "objects",
+        "present_3rd": "objects",
+        "past": "objected",
         "past_participle": "objected",
-        "present_participle": "objecting",
-        "third_person": "objects"
+        "ing": "objecting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "object",
-          "definition": "n. 物体, 目标, 目的, 對象, 宾語, 客体, vi. 反對, 抱反感, vt. 提出...來反對, [计] 對象"
+          "definition": "n. 物體、物品、目標、對象  v. 反對、不贊成"
         }
       ],
       "examples": [
         {
-          "en": "He pointed to the object on the table.",
+          "en": "The museum displayed ancient objects discovered in the ruins.",
           "highlight": [
-            "object"
+            "objects"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "博物館展示了在遺址中發現的古老物件。"
+          }
+        },
+        {
+          "en": "Several shareholders objected to the proposed merger during the meeting.",
+          "highlight": [
+            "objected"
+          ],
+          "translations": {
+            "zh-TW": "幾位股東在會議中反對這項合併提案。"
+          }
+        },
+        {
+          "en": "He is objecting to the new working hours on behalf of the whole team.",
+          "highlight": [
+            "objecting"
+          ],
+          "translations": {
+            "zh-TW": "他正代表整個團隊反對新的工作時間。"
           }
         }
       ],
       "synonyms": [
         "thing",
-        "item"
+        "item",
+        "article"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "agree",
+        "consent"
+      ],
       "phrases": [
-        "unknown",
-        "object",
-        "strange",
-        "object"
+        "object to something",
+        "unknown object",
+        "everyday objects"
       ]
     },
     {
@@ -317,30 +424,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "objective",
-          "definition": "n. 目的, 目标, 宗旨, 宾格, 實物, a. 客观的, 如實的, 无偏见的, 宾格的"
+          "definition": "n. 目標、目的、宗旨  adj. 客觀的、公正的"
         }
       ],
       "examples": [
         {
-          "en": "Her main objective is to improve her skills.",
+          "en": "The main objective of this project is to increase sales by twenty percent.",
           "highlight": [
             "objective"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這個專案的主要目標是將銷售額提升百分之二十。"
+          }
+        },
+        {
+          "en": "The department has set several measurable objectives for the coming quarter.",
+          "highlight": [
+            "objectives"
+          ],
+          "translations": {
+            "zh-TW": "部門為下個季度設定了好幾個可衡量的目標。"
+          }
+        },
+        {
+          "en": "A good journalist must remain objective when covering controversial issues.",
+          "highlight": [
+            "objective"
+          ],
+          "translations": {
+            "zh-TW": "優秀的記者在報導爭議性議題時必須保持客觀。"
           }
         }
       ],
       "synonyms": [
         "goal",
-        "target"
+        "target",
+        "aim"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "subjective",
+        "biased"
+      ],
       "phrases": [
-        "main",
-        "objective",
-        "primary",
-        "objective"
+        "main objective",
+        "primary objective",
+        "objective assessment"
       ]
     },
     {
@@ -351,47 +479,61 @@
       "toeic_score_min": 200,
       "word": "observation",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "observationed",
-        "past_participle": "observationed",
-        "present_participle": "observationing",
-        "third_person": "observations"
+        "plural": "observations"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "observation",
-          "definition": "n. 观察, 注意, 观测, 观察力, [化] 观察"
+          "definition": "n. 觀察、觀測、觀察力、觀察報告"
         }
       ],
       "examples": [
         {
-          "en": "The observation was noted in the report.",
+          "en": "The scientist recorded her observation in a detailed field journal.",
           "highlight": [
             "observation"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "科學家將她的觀察記錄在詳盡的田野筆記裡。"
+          }
+        },
+        {
+          "en": "His observations during the experiment led to a surprising conclusion.",
+          "highlight": [
+            "observations"
+          ],
+          "translations": {
+            "zh-TW": "他在實驗期間的觀察導出了一個令人驚訝的結論。"
+          }
+        },
+        {
+          "en": "The doctor kept the patient under observation for two nights before discharge.",
+          "highlight": [
+            "observation"
+          ],
+          "translations": {
+            "zh-TW": "醫生讓病人留院觀察兩晚才同意出院。"
           }
         }
       ],
       "synonyms": [
         "monitoring",
-        "scrutiny"
+        "scrutiny",
+        "examination"
       ],
       "antonyms": [
         "ignorance",
         "neglect"
       ],
       "phrases": [
-        "close",
-        "observation",
-        "careful",
-        "observation"
+        "under observation",
+        "close observation",
+        "careful observation"
       ]
     },
     {
@@ -402,48 +544,64 @@
       "toeic_score_min": 200,
       "word": "observe",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "observeed",
-        "past_participle": "observeed",
-        "present_participle": "observing",
-        "third_person": "observes"
+        "present_3rd": "observes",
+        "past": "observed",
+        "past_participle": "observed",
+        "ing": "observing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "observe",
-          "definition": "vt. 觉察到, 遵守, 注意到, 庆祝, vi. 注意, 评论"
+          "definition": "v. 觀察、注意到、遵守、慶祝"
         }
       ],
       "examples": [
         {
-          "en": "He observed the changes carefully.",
+          "en": "The quality inspector observes every product on the assembly line.",
           "highlight": [
-            "observe"
+            "observes"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "品管檢驗員會觀察生產線上的每一件產品。"
+          }
+        },
+        {
+          "en": "She observed a sudden drop in temperature shortly before the storm.",
+          "highlight": [
+            "observed"
+          ],
+          "translations": {
+            "zh-TW": "她在暴風雨來襲前不久注意到氣溫突然下降。"
+          }
+        },
+        {
+          "en": "By observing the new rules, the team avoided several potential fines.",
+          "highlight": [
+            "observing"
+          ],
+          "translations": {
+            "zh-TW": "藉由遵守新規定，團隊避免了幾筆可能的罰款。"
           }
         }
       ],
       "synonyms": [
         "watch",
-        "monitor"
+        "monitor",
+        "notice"
       ],
       "antonyms": [
         "overlook",
         "ignore"
       ],
       "phrases": [
-        "observe",
-        "carefully",
-        "observe",
-        "the",
-        "changes"
+        "observe carefully",
+        "observe the rules",
+        "observe a tradition"
       ]
     },
     {
@@ -454,48 +612,64 @@
       "toeic_score_min": 200,
       "word": "obtain",
       "pos": [
-        "verb",
-        "adjective"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "obtained",
+        "present_3rd": "obtains",
+        "past": "obtained",
         "past_participle": "obtained",
-        "present_participle": "obtaining",
-        "third_person": "obtains"
+        "ing": "obtaining"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "obtain",
-          "definition": "vt. 获得, 达到, vi. 流行, 得到公认"
+          "definition": "v. 獲得、取得、達到、通行"
         }
       ],
       "examples": [
         {
-          "en": "She managed to obtain a loan.",
+          "en": " Applicants must obtain a permit before starting construction work.",
           "highlight": [
             "obtain"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "申請人在開始施工前必須先取得許可證。"
+          }
+        },
+        {
+          "en": "The startup finally obtained the funding it needed to expand overseas.",
+          "highlight": [
+            "obtained"
+          ],
+          "translations": {
+            "zh-TW": "這家新創公司終於獲得了擴展海外所需的資金。"
+          }
+        },
+        {
+          "en": "Obtaining accurate data is essential for making sound business decisions.",
+          "highlight": [
+            "Obtaining"
+          ],
+          "translations": {
+            "zh-TW": "取得準確的資料對做出正確的商業決策至關重要。"
           }
         }
       ],
       "synonyms": [
         "acquire",
-        "secure"
+        "secure",
+        "gain"
       ],
       "antonyms": [
         "lose",
         "relinquish"
       ],
       "phrases": [
-        "obtain",
-        "a",
-        "loan",
-        "obtain",
-        "information"
+        "obtain a loan",
+        "obtain information",
+        "obtain permission"
       ]
     }
   ]
