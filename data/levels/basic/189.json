@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 189,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-189-001",
@@ -11,8 +11,6 @@
       "toeic_score_min": 200,
       "word": "ms",
       "pos": [
-        "noun",
-        "proper",
         "noun"
       ],
       "conjugations": {
@@ -23,27 +21,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "ms",
-          "definition": "美國微软公司, [计] 主存储器, 制造系统, 毫秒, 微软公司"
+          "definition": "n. 女士（用於已婚或未婚女性姓名前的稱呼）"
         }
       ],
       "examples": [
         {
-          "en": "Ms. Johnson will attend the meeting.",
+          "en": "Ms. Johnson will lead the negotiation on behalf of our company.",
           "highlight": [
-            "ms"
+            "Ms."
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": " Johnson 女士將代表我們公司主導這場談判。"
+          }
+        },
+        {
+          "en": "Please send the contract to Ms. Chen before the end of the day.",
+          "highlight": [
+            "Ms."
+          ],
+          "translations": {
+            "zh-TW": "請在今日下班前將合約寄給陳女士。"
+          }
+        },
+        {
+          "en": "Two Mses from the marketing department presented the new strategy.",
+          "highlight": [
+            "Mses"
+          ],
+          "translations": {
+            "zh-TW": "行銷部門的兩位女士提出了新的策略。"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "madam",
+        "lady"
+      ],
+      "antonyms": [
+        "Mr."
+      ],
       "phrases": [
-        "Ms.",
-        "Johnson",
-        "dear",
-        "Ms."
+        "Ms. Johnson",
+        "Dear Ms.",
+        "Ms. and Mr."
       ]
     },
     {
@@ -55,43 +75,63 @@
       "word": "much",
       "pos": [
         "adjective",
-        "noun"
+        "adverb",
+        "pronoun"
       ],
       "conjugations": {
-        "plural": "muchs"
+        "comparative": "more",
+        "superlative": "most"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "much",
-          "definition": "n. 大量, 许多, 重要的事, a. 很多的, 重要的, adv. 多, 甚, 几乎"
+          "definition": "a. 大量的  adv. 非常、很大程度上  pron. 大量、許多"
         }
       ],
       "examples": [
         {
-          "en": "There is much to learn.",
+          "en": "There is not much time left before the deadline.",
           "highlight": [
             "much"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "距離截止日期已沒剩多少時間了。"
+          }
+        },
+        {
+          "en": "She earned more this quarter than in the previous two combined.",
+          "highlight": [
+            "more"
+          ],
+          "translations": {
+            "zh-TW": "她本季的所得比前兩季加起來還要多。"
+          }
+        },
+        {
+          "en": "The new policy benefits most of the employees in the department.",
+          "highlight": [
+            "most"
+          ],
+          "translations": {
+            "zh-TW": "新政策讓部門裡大多數的員工受益。"
           }
         }
       ],
       "synonyms": [
         "many",
-        "numerous"
+        "plenty"
       ],
       "antonyms": [
         "little",
         "few"
       ],
       "phrases": [
-        "much",
-        "more",
-        "much",
-        "of"
+        "much more",
+        "so much",
+        "not much",
+        "as much as"
       ]
     },
     {
@@ -106,43 +146,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "muded",
-        "past_participle": "muded",
-        "present_participle": "muding",
-        "third_person": "muds"
+        "plural": "muds",
+        "present_3rd": "muds",
+        "past": "mudded",
+        "past_participle": "mudded",
+        "ing": "mudding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mud",
-          "definition": "n. 泥, 诽谤, vt. 弄脏"
+          "definition": "n. 泥、泥濘  v. 弄髒、沾滿泥巴"
         }
       ],
       "examples": [
         {
-          "en": "The shoes were covered in mud.",
+          "en": "The construction site was covered in thick mud after the heavy rain.",
           "highlight": [
             "mud"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "大雨過後，工地覆蓋著厚厚的泥濘。"
+          }
+        },
+        {
+          "en": "Her boots were mudded from walking through the flooded field.",
+          "highlight": [
+            "mudded"
+          ],
+          "translations": {
+            "zh-TW": "她走過淹水的田地後，靴子上沾滿了泥巴。"
+          }
+        },
+        {
+          "en": "The truck was mudding its way up the dirt road in the storm.",
+          "highlight": [
+            "mudding"
+          ],
+          "translations": {
+            "zh-TW": "在暴風雨中，卡車一路泥濘地爬上泥路。"
           }
         }
       ],
       "synonyms": [
         "sludge",
-        "mire"
+        "mire",
+        "dirt"
       ],
       "antonyms": [
-        "dryness"
+        "clarity",
+        "cleanliness"
       ],
       "phrases": [
-        "covered",
-        "in",
-        "mud",
-        "thick",
-        "mud"
+        "mud puddle",
+        "thick mud",
+        "stick in the mud",
+        "mud mask"
       ]
     },
     {
@@ -153,47 +213,64 @@
       "toeic_score_min": 200,
       "word": "multiply",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "multiplyed",
-        "past_participle": "multiplyed",
-        "present_participle": "multiplying",
-        "third_person": "multiplys"
+        "present_3rd": "multiplies",
+        "past": "multiplied",
+        "past_participle": "multiplied",
+        "ing": "multiplying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "multiply",
-          "definition": "v. 繁殖, 乘, 增加, [计] 乘"
+          "definition": "v. 乘、相乘、增加、繁殖"
         }
       ],
       "examples": [
         {
-          "en": "He learned to multiply numbers in school.",
+          "en": "If you multiply 12 by 7, the result is 84.",
           "highlight": [
             "multiply"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "如果你將 12 乘以 7，結果是 84。"
+          }
+        },
+        {
+          "en": "The company multiplied its revenue fivefold within three years.",
+          "highlight": [
+            "multiplied"
+          ],
+          "translations": {
+            "zh-TW": "該公司在三年內將營收增加了五倍。"
+          }
+        },
+        {
+          "en": "Bacteria are multiplying rapidly in the warm, humid environment.",
+          "highlight": [
+            "multiplying"
+          ],
+          "translations": {
+            "zh-TW": "細菌正在溫暖潮濕的環境中快速繁殖。"
           }
         }
       ],
       "synonyms": [
         "increase",
-        "proliferate"
+        "proliferate",
+        "breed"
       ],
       "antonyms": [
         "decrease",
         "divide"
       ],
       "phrases": [
-        "multiply",
-        "by",
-        "multiply",
-        "numbers"
+        "multiply by",
+        "multiply numbers",
+        "multiply rapidly"
       ]
     },
     {
@@ -205,43 +282,60 @@
       "word": "mum",
       "pos": [
         "noun",
-        "verb"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "mumed",
-        "past_participle": "mumed",
-        "present_participle": "muming",
-        "third_person": "mums"
+        "plural": "mums"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mum",
-          "definition": "n. 菊花, 沉默, a. 沉默的, vi. 演哑剧, interj. 别說话"
+          "definition": "n. 媽媽（英式口語）、菊花  a. 沉默的、不說話的"
         }
       ],
       "examples": [
         {
-          "en": "Mum is cooking dinner.",
+          "en": "My mum always packs me a sandwich for lunch.",
           "highlight": [
             "mum"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我媽媽總是為我準備三明治當午餐。"
+          }
+        },
+        {
+          "en": "The mums in our garden bloomed brilliantly this autumn.",
+          "highlight": [
+            "mums"
+          ],
+          "translations": {
+            "zh-TW": "今年秋天我們花園裡的菊花開得非常燦爛。"
+          }
+        },
+        {
+          "en": "He kept mum about the surprise party to avoid ruining it.",
+          "highlight": [
+            "mum"
+          ],
+          "translations": {
+            "zh-TW": "他對驚喜派對保持沉默，以免破壞了驚喜。"
           }
         }
       ],
       "synonyms": [
         "mom",
-        "mama"
+        "mama",
+        "mother"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "dad"
+      ],
       "phrases": [
-        "loving",
-        "mum",
-        "my",
-        "mum"
+        "keep mum",
+        "my mum",
+        "chrysanthemum mum"
       ]
     },
     {
@@ -256,43 +350,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "murdered",
+        "plural": "murders",
+        "present_3rd": "murders",
+        "past": "murdered",
         "past_participle": "murdered",
-        "present_participle": "murdering",
-        "third_person": "murders"
+        "ing": "murdering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "murder",
-          "definition": "n. 谋杀, vt. 谋杀, 损毁, 破坏, vi. 犯杀人罪"
+          "definition": "n. 謀殺、謀殺案  v. 謀殺、破壞"
         }
       ],
       "examples": [
         {
-          "en": "He was arrested for murder.",
+          "en": "The detective is investigating a brutal murder that occurred downtown.",
           "highlight": [
             "murder"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "警探正在調查一起發生在市中心的殘忍謀殺案。"
+          }
+        },
+        {
+          "en": "The suspect murdered the shop owner during the robbery last night.",
+          "highlight": [
+            "murdered"
+          ],
+          "translations": {
+            "zh-TW": "嫌疑犯昨晚在搶劫過程中謀殺了店主。"
+          }
+        },
+        {
+          "en": "He was charged with murdering two people in cold blood.",
+          "highlight": [
+            "murdering"
+          ],
+          "translations": {
+            "zh-TW": "他被控冷血地謀殺了兩個人。"
           }
         }
       ],
       "synonyms": [
         "homicide",
-        "assassination"
+        "assassination",
+        "kill"
       ],
       "antonyms": [
         "birth",
-        "creation"
+        "rescue"
       ],
       "phrases": [
-        "commit",
-        "murder",
-        "murder",
-        "case"
+        "commit murder",
+        "murder case",
+        "murder mystery",
+        "attempted murder"
       ]
     },
     {
@@ -307,42 +421,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "muscleed",
-        "past_participle": "muscleed",
-        "present_participle": "muscling",
-        "third_person": "muscles"
+        "plural": "muscles",
+        "present_3rd": "muscles",
+        "past": "muscled",
+        "past_participle": "muscled",
+        "ing": "muscling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "muscle",
-          "definition": "n. 肌肉, 臂力, [医] 肌"
+          "definition": "n. 肌肉、力量  v. 用力擠、強行推進"
         }
       ],
       "examples": [
         {
-          "en": "She has strong muscles.",
+          "en": "Regular stretching helps prevent muscle strain during exercise.",
           "highlight": [
             "muscle"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "規律的伸展有助於防止運動時肌肉拉傷。"
+          }
+        },
+        {
+          "en": "She muscled her way through the crowded marketplace with her luggage.",
+          "highlight": [
+            "muscled"
+          ],
+          "translations": {
+            "zh-TW": "她提著行李用力擠過了擁擠的市場。"
+          }
+        },
+        {
+          "en": "The startup is muscling into a market dominated by two giant competitors.",
+          "highlight": [
+            "muscling"
+          ],
+          "translations": {
+            "zh-TW": "這家新創公司正強行打入由兩大巨頭主導的市場。"
           }
         }
       ],
       "synonyms": [
         "sinew",
-        "brawn"
+        "brawn",
+        "strength"
       ],
       "antonyms": [
-        "weakness"
+        "weakness",
+        "fragility"
       ],
       "phrases": [
-        "strong",
-        "muscle",
-        "build",
-        "muscle"
+        "build muscle",
+        "muscle strength",
+        "muscle through",
+        "muscle spasm"
       ]
     },
     {
@@ -353,45 +488,59 @@
       "toeic_score_min": 200,
       "word": "museum",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "museumed",
-        "past_participle": "museumed",
-        "present_participle": "museuming",
-        "third_person": "museums"
+        "plural": "museums"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "museum",
-          "definition": "n. 博物館"
+          "definition": "n. 博物館、美術館"
         }
       ],
       "examples": [
         {
-          "en": "We visited the art museum.",
+          "en": "The newly opened museum features contemporary art from local artists.",
           "highlight": [
             "museum"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這座新開幕的博物館展出本地藝術家的當代藝術作品。"
+          }
+        },
+        {
+          "en": "Several museums in the city offer free admission on the first Sunday of each month.",
+          "highlight": [
+            "museums"
+          ],
+          "translations": {
+            "zh-TW": "市內幾座博物館每月的第一個星期日提供免費入場。"
+          }
+        },
+        {
+          "en": "Our company holds its annual gala at the natural history museum downtown.",
+          "highlight": [
+            "museum"
+          ],
+          "translations": {
+            "zh-TW": "我們公司每年在市中心的自然歷史博物館舉辦年度晚宴。"
           }
         }
       ],
       "synonyms": [
         "gallery",
-        "exhibit"
+        "exhibit hall",
+        "archive"
       ],
       "antonyms": [],
       "phrases": [
-        "visit",
-        "a",
-        "museum",
-        "museum",
-        "exhibit"
+        "art museum",
+        "museum exhibit",
+        "visit a museum",
+        "history museum"
       ]
     },
     {
@@ -402,48 +551,62 @@
       "toeic_score_min": 200,
       "word": "music",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "musiced",
-        "past_participle": "musiced",
-        "present_participle": "musicing",
-        "third_person": "musics"
+        "plural": "musics"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "music",
-          "definition": "n. 音乐, 乐曲"
+          "definition": "n. 音樂、樂曲、樂譜"
         }
       ],
       "examples": [
         {
-          "en": "He enjoys listening to music.",
+          "en": "Soft music played in the background of the restaurant to set a relaxing mood.",
           "highlight": [
             "music"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "餐廳播放著柔和的背景音樂，營造放鬆的氛圍。"
+          }
+        },
+        {
+          "en": "She has been studying classical music since she was six years old.",
+          "highlight": [
+            "music"
+          ],
+          "translations": {
+            "zh-TW": "她從六歲起就開始學習古典音樂。"
+          }
+        },
+        {
+          "en": "The band's music resonated with audiences across three continents.",
+          "highlight": [
+            "music"
+          ],
+          "translations": {
+            "zh-TW": "樂團的音樂在三大洲的聽眾中引起共鳴。"
           }
         }
       ],
       "synonyms": [
         "melody",
-        "harmony"
+        "harmony",
+        "tune"
       ],
       "antonyms": [
         "noise",
         "cacophony"
       ],
       "phrases": [
-        "classical",
-        "music",
-        "listen",
-        "to",
-        "music"
+        "classical music",
+        "listen to music",
+        "sheet music",
+        "background music"
       ]
     },
     {
@@ -458,39 +621,61 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "musicals"
+        "plural": "musicals",
+        "comparative": "more musical",
+        "superlative": "most musical"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "musical",
-          "definition": "n. 音乐片, 音乐舞台剧, a. 音乐的, 声音美妙的, 喜爱音乐的"
+          "definition": "a. 音樂的、悅耳的、喜愛音樂的  n. 音樂劇、歌舞片"
         }
       ],
       "examples": [
         {
-          "en": "She is in a musical mood.",
+          "en": "She comes from a musical family and has played the piano since age five.",
           "highlight": [
             "musical"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她來自音樂世家，五歲起就開始彈鋼琴。"
+          }
+        },
+        {
+          "en": "The Broadway musical attracted record-breaking audiences this season.",
+          "highlight": [
+            "musical"
+          ],
+          "translations": {
+            "zh-TW": "這齣百老匯音樂劇本季吸引了打破紀錄的觀眾人數。"
+          }
+        },
+        {
+          "en": "Among the candidates, her voice was the most musical and expressive.",
+          "highlight": [
+            "most musical"
+          ],
+          "translations": {
+            "zh-TW": "在所有候選人中，她的嗓音最為悅耳且富有表現力。"
           }
         }
       ],
       "synonyms": [
         "melodic",
-        "harmonious"
+        "harmonious",
+        "tuneful"
       ],
       "antonyms": [
-        "non-musical"
+        "toneless",
+        "unmusical"
       ],
       "phrases": [
-        "musical",
-        "talent",
-        "musical",
-        "instrument"
+        "musical instrument",
+        "musical talent",
+        "broadway musical",
+        "musical theater"
       ]
     }
   ]
