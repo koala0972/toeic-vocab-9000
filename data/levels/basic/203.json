@@ -15,43 +15,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "organizeded",
-        "past_participle": "organizeded",
-        "present_participle": "organizeding",
-        "third_person": "organizeds"
+        "plural": "organized",
+        "present_3rd": "organizes",
+        "past": "organized",
+        "past_participle": "organized",
+        "ing": "organizing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "organized",
-          "definition": "a. 有组织的, 组织起來的"
+          "definition": "a. 有條理的、有組織的  v. organize 的過去式/過去分詞"
         }
       ],
       "examples": [
         {
-          "en": "The files were well organized.",
+          "en": "She is an organized assistant who keeps all files neatly labeled.",
           "highlight": [
             "organized"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她是一位有條理的助理，所有檔案都整理得井然有序。"
+          }
+        },
+        {
+          "en": "The manager organized the workshop schedule before sending it to the participants.",
+          "highlight": [
+            "organized"
+          ],
+          "translations": {
+            "zh-TW": "經理在寄給與會者之前就已規劃好工作坊的時程。"
+          }
+        },
+        {
+          "en": "They are organizing a charity event to raise funds for the local hospital.",
+          "highlight": [
+            "organizing"
+          ],
+          "translations": {
+            "zh-TW": "他們正在籌備一場慈善活動，為當地醫院募集 funds。"
           }
         }
       ],
       "synonyms": [
         "systematic",
-        "methodical"
+        "methodical",
+        "structured"
       ],
       "antonyms": [
         "chaotic",
-        "unorganized"
+        "disorganized"
       ],
       "phrases": [
-        "well",
-        "organized",
-        "organized",
-        "person"
+        "well-organized",
+        "organized crime",
+        "organized labor"
       ]
     },
     {
@@ -62,48 +81,61 @@
       "toeic_score_min": 500,
       "word": "origin",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "origined",
-        "past_participle": "origined",
-        "present_participle": "origining",
-        "third_person": "origins"
+        "plural": "origins"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "origin",
-          "definition": "n. 起源, 起因, 出身, 开端, [计] 原點; 起始地址; 信件來源的相關数据"
+          "definition": "n. 起源、起因、出身、源頭"
         }
       ],
       "examples": [
         {
-          "en": "The origin of the word is Latin.",
+          "en": "The detective traced the origin of the anonymous email to a café in Lyon.",
           "highlight": [
             "origin"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "偵探追蹤到那封匿名電子郵件的來源是里昂的一家咖啡館。"
+          }
+        },
+        {
+          "en": "The origins of this custom date back to the seventeenth century.",
+          "highlight": [
+            "origins"
+          ],
+          "translations": {
+            "zh-TW": "這項習俗的起源可追溯到十七世紀。"
+          }
+        },
+        {
+          "en": "Customers should clearly indicate the country of origin on the customs declaration.",
+          "highlight": [
+            "origin"
+          ],
+          "translations": {
+            "zh-TW": "顧客應在報關單上清楚註明原產國。"
           }
         }
       ],
       "synonyms": [
         "source",
-        "root"
+        "root",
+        "beginning"
       ],
       "antonyms": [
         "end",
-        "result"
+        "conclusion"
       ],
       "phrases": [
-        "place",
-        "of",
-        "origin",
-        "country",
-        "of"
+        "country of origin",
+        "place of origin",
+        "origin of life"
       ]
     },
     {
@@ -118,40 +150,60 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "originals"
+        "plural": "originals",
+        "comparative": "more original",
+        "superlative": "most original"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "original",
-          "definition": "a. 最初的, 原始的, 有创意的, n. 原物, 原作"
+          "definition": "a. 最初的、原創的、新穎的  n. 原件、原作"
         }
       ],
       "examples": [
         {
-          "en": "This is an original painting.",
+          "en": "Please submit the original copy of your passport at the registration desk.",
           "highlight": [
             "original"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在報到櫃檯出示您護照的正本。"
+          }
+        },
+        {
+          "en": "The museum restored the painting by combining fragments with the original.",
+          "highlight": [
+            "original"
+          ],
+          "translations": {
+            "zh-TW": "博物館將碎片與原件拼接起來，完成了這幅畫的修復。"
+          }
+        },
+        {
+          "en": "Her design is more original than the other proposals we received this month.",
+          "highlight": [
+            "more original"
+          ],
+          "translations": {
+            "zh-TW": "她的設計比我們這個月收到的其他提案更具原創性。"
           }
         }
       ],
       "synonyms": [
         "first",
-        "initial"
+        "initial",
+        "creative"
       ],
       "antonyms": [
         "fake",
         "imitation"
       ],
       "phrases": [
-        "original",
-        "idea",
-        "original",
-        "painting"
+        "original idea",
+        "original version",
+        "original equipment"
       ]
     },
     {
@@ -170,33 +222,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "originally",
-          "definition": "adv. 本來, 原來, 最初, 就起源而论, 独创地"
+          "definition": "adv. 最初、原本、起初"
         }
       ],
       "examples": [
         {
-          "en": "The building was originally a factory.",
+          "en": "The conference was originally scheduled for April but was moved to June.",
           "highlight": [
             "originally"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這場研討會原本安排在四月，但後來改到六月。"
+          }
+        },
+        {
+          "en": "Originally, the building served as a warehouse before it was converted into offices.",
+          "highlight": [
+            "Originally"
+          ],
+          "translations": {
+            "zh-TW": "這棟建築最初是倉庫，後來才改建成辦公室。"
+          }
+        },
+        {
+          "en": "We originally intended to ship the products by air, but switched to sea freight.",
+          "highlight": [
+            "originally"
+          ],
+          "translations": {
+            "zh-TW": "我們原本打算以空運出貨，但後來改為海運。"
           }
         }
       ],
       "synonyms": [
         "initially",
-        "at",
-        "first"
+        "at first",
+        "originally"
       ],
       "antonyms": [
-        "secondarily"
+        "later",
+        "eventually"
       ],
       "phrases": [
-        "originally",
-        "built",
-        "originally",
-        "intended"
+        "originally planned",
+        "originally built",
+        "originally from"
       ]
     },
     {
@@ -211,41 +281,58 @@
         "pronoun"
       ],
       "conjugations": {
-        "comparative": "otherer",
-        "superlative": "otherest"
+        "plural": "others"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "other",
-          "definition": "a. 其他的, 另外的, 从前的, pron. 其他的, 他人, 另外一個"
+          "definition": "a. 其他的、另外的  pron. 其他的人或事物"
         }
       ],
       "examples": [
         {
-          "en": "She has other plans.",
+          "en": "We have two other candidates to interview before making the final decision.",
           "highlight": [
             "other"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在做最終決定之前，我們還有另外兩位候選人要面試。"
+          }
+        },
+        {
+          "en": "Please ask the others to wait in the lobby until the meeting room is ready.",
+          "highlight": [
+            "others"
+          ],
+          "translations": {
+            "zh-TW": "請讓其他人先在大廳等候，直到會議室準備好為止。"
+          }
+        },
+        {
+          "en": "Some staff prefer morning shifts, while other colleagues work better in the evening.",
+          "highlight": [
+            "other"
+          ],
+          "translations": {
+            "zh-TW": "有些員工偏好早班，而其他同事在傍晚時工作效率更高。"
           }
         }
       ],
       "synonyms": [
         "additional",
-        "alternative"
+        "alternative",
+        "different"
       ],
       "antonyms": [
         "same",
         "identical"
       ],
       "phrases": [
-        "other",
-        "plans",
-        "other",
-        "people"
+        "each other",
+        "other than",
+        "on the other hand"
       ]
     },
     {
@@ -256,7 +343,8 @@
       "toeic_score_min": 500,
       "word": "otherwise",
       "pos": [
-        "adverb"
+        "adverb",
+        "conjunction"
       ],
       "conjugations": {},
       "domain": "general",
@@ -264,33 +352,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "otherwise",
-          "definition": "adv. 否则, 不同地, 别的方式"
+          "definition": "adv. 否則、不然、另外  conj. 否則"
         }
       ],
       "examples": [
         {
-          "en": "We must hurry; otherwise, we'll be late.",
+          "en": "Submit the report by Friday; otherwise, the deadline will be missed.",
           "highlight": [
             "otherwise"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在週五前提交報告，否則將會錯過截止日期。"
+          }
+        },
+        {
+          "en": "We thought the cafeteria would be crowded, but it was quite otherwise this noon.",
+          "highlight": [
+            "otherwise"
+          ],
+          "translations": {
+            "zh-TW": "我們原本以為自助餐廳會很擠，但今天中午情況卻完全相反。"
+          }
+        },
+        {
+          "en": "He insists on paying in cash and refuses any otherwise arranged payment.",
+          "highlight": [
+            "otherwise"
+          ],
+          "translations": {
+            "zh-TW": "他堅持用現金支付，拒絕任何以其他方式安排的付款。"
           }
         }
       ],
       "synonyms": [
         "else",
-        "if",
-        "not"
+        "or else",
+        "differently"
       ],
       "antonyms": [
         "therefore",
         "consequently"
       ],
       "phrases": [
-        "hurry",
-        "up",
-        "otherwise"
+        "or otherwise",
+        "otherwise than",
+        "act otherwise"
       ]
     },
     {
@@ -309,31 +415,46 @@
         {
           "lang": "zh-TW",
           "lang_word": "our",
-          "definition": "pron. 我們的"
+          "definition": "pron. 我們的（we 的所有格）"
         }
       ],
       "examples": [
         {
-          "en": "This is our house.",
+          "en": "Our flight to Tokyo has been delayed by two hours due to bad weather.",
           "highlight": [
             "our"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們飛往東京的班機因天氣不佳延遲了兩個小時。"
+          }
+        },
+        {
+          "en": "Please respect our privacy while we discuss the contract terms.",
+          "highlight": [
+            "our"
+          ],
+          "translations": {
+            "zh-TW": "在我們討論合約條款時，請尊重我們的隱私。"
+          }
+        },
+        {
+          "en": "Our quarterly sales exceeded the target by twelve percent.",
+          "highlight": [
+            "our"
+          ],
+          "translations": {
+            "zh-TW": "本季我們的銷售額超過目標百分之十二。"
           }
         }
       ],
       "synonyms": [
-        "belonging",
-        "to",
-        "us"
+        "belonging to us"
       ],
       "antonyms": [],
       "phrases": [
-        "our",
-        "house",
-        "our",
-        "car"
+        "our company",
+        "our team",
+        "our pleasure"
       ]
     },
     {
@@ -352,30 +473,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "ours",
-          "definition": "pron. 我們的"
+          "definition": "pron. 我們的（we 的物主代名詞）"
         }
       ],
       "examples": [
         {
-          "en": "The decision is ours.",
+          "en": "Their presentation was impressive, but ours received more audience questions.",
           "highlight": [
             "ours"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他們的簡報很精彩，但我們的收到了更多觀眾提問。"
+          }
+        },
+        {
+          "en": "This parking spot is ours, according to the lease agreement.",
+          "highlight": [
+            "ours"
+          ],
+          "translations": {
+            "zh-TW": "依租賃合約，這個停車位是我們的。"
+          }
+        },
+        {
+          "en": "If the shipment is lost, the responsibility is theirs, not ours.",
+          "highlight": [
+            "ours"
+          ],
+          "translations": {
+            "zh-TW": "若貨物遺失，責任在他們那方，而非我們。"
           }
         }
       ],
       "synonyms": [
-        "ourselves"
+        "our one",
+        "our property"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "theirs",
+        "yours"
+      ],
       "phrases": [
-        "decision",
-        "is",
-        "ours",
-        "it's",
-        "ours"
+        "of ours",
+        "a friend of ours",
+        "it's ours"
       ]
     },
     {
@@ -394,29 +535,47 @@
         {
           "lang": "zh-TW",
           "lang_word": "ourselves",
-          "definition": "pron. 我們自己"
+          "definition": "pron. 我們自己、我們親自"
         }
       ],
       "examples": [
         {
-          "en": "We did it ourselves.",
+          "en": "We built the prototype ourselves to save on development costs.",
           "highlight": [
             "ourselves"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "為了節省開發成本，我們自己動手打造了原型。"
+          }
+        },
+        {
+          "en": "After a long negotiation, we found ourselves agreeing to most of the terms.",
+          "highlight": [
+            "ourselves"
+          ],
+          "translations": {
+            "zh-TW": "經過漫長的談判，我們發現自己已同意大部分條款。"
+          }
+        },
+        {
+          "en": "We decorated the new office by ourselves over the weekend.",
+          "highlight": [
+            "ourselves"
+          ],
+          "translations": {
+            "zh-TW": "週末期間我們自己動手佈置了新辦公室。"
           }
         }
       ],
       "synonyms": [
-        "ourselves"
+        "in person",
+        "personally"
       ],
       "antonyms": [],
       "phrases": [
-        "by",
-        "ourselves",
-        "for",
-        "ourselves"
+        "by ourselves",
+        "for ourselves",
+        "between ourselves"
       ]
     },
     {
@@ -436,33 +595,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "out",
-          "definition": "a. 外面的, 熄灭的, 結束的, adv. 在外, 熄灭, 出现, prep. 出自, 離去, 向"
+          "definition": "adv. 在外、出去、熄滅、明顯地  prep. 從…中、離開"
         }
       ],
       "examples": [
         {
-          "en": "She went out to get some fresh air.",
+          "en": "The delivery driver is out on his route and will return by four.",
           "highlight": [
             "out"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "送貨司機正在外送途中，預計四點前會回到公司。"
+          }
+        },
+        {
+          "en": "The hotel front desk pointed out the nearest subway station on the map.",
+          "highlight": [
+            "out"
+          ],
+          "translations": {
+            "zh-TW": "飯店櫃檯在地圖上指出最近的地鐵站位置。"
+          }
+        },
+        {
+          "en": "We ran out of printer paper just before the board meeting started.",
+          "highlight": [
+            "out"
+          ],
+          "translations": {
+            "zh-TW": "就在董事會議開始前，我們用完了列印紙。"
           }
         }
       ],
       "synonyms": [
         "outside",
-        "away"
+        "away",
+        "forth"
       ],
       "antonyms": [
         "in",
         "inside"
       ],
       "phrases": [
-        "go",
-        "out",
-        "out",
-        "of"
+        "go out",
+        "out of order",
+        "run out of"
       ]
     }
   ]
