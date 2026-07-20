@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 191,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-191-001",
@@ -11,41 +11,60 @@
       "toeic_score_min": 200,
       "word": "nation",
       "pos": [
-        "noun",
-        "adjective"
+        "noun"
       ],
       "conjugations": {
         "plural": "nations"
       },
-      "domain": "general",
+      "domain": "politics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "nation",
-          "definition": "n. 國家, 民族, [法] 民族, 國家"
+          "definition": "n. 國家、民族"
         }
       ],
       "examples": [
         {
-          "en": "The nation celebrated its independence day.",
+          "en": "The nation celebrated its fiftieth year of independence with parades and fireworks.",
           "highlight": [
             "nation"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這個國家以遊行和煙火慶祝獨立五十週年。"
+          }
+        },
+        {
+          "en": "Many nations signed the trade agreement to reduce tariffs on agricultural products.",
+          "highlight": [
+            "nations"
+          ],
+          "translations": {
+            "zh-TW": "許多國家簽署了這項貿易協定，以降低農產品的關稅。"
+          }
+        },
+        {
+          "en": "Leaders from the wealthiest nations gathered to discuss global climate policy.",
+          "highlight": [
+            "nations"
+          ],
+          "translations": {
+            "zh-TW": "來自最富裕國家的領袖齊聚一堂，討論全球氣候政策。"
           }
         }
       ],
       "synonyms": [
         "country",
-        "state"
+        "state",
+        "land"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "individual"
+      ],
       "phrases": [
-        "independent",
-        "nation",
-        "strong",
-        "nation"
+        "nation state",
+        "developing nation",
+        "member nations"
       ]
     },
     {
@@ -62,38 +81,56 @@
       "conjugations": {
         "plural": "nationals"
       },
-      "domain": "general",
+      "domain": "politics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "national",
-          "definition": "a. 國家的, 國立的, 全國性的, 民族的, [經] 全國性的, 國家的, 國民的"
+          "definition": "a. 國家的、全國性的、國民的  n. 國民、公民"
         }
       ],
       "examples": [
         {
-          "en": "He works for the national government.",
+          "en": "The prime minister addressed the nation on national television last night.",
           "highlight": [
             "national"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "首相昨晚在全國性電視頻道上對全國人民發表談話。"
+          }
+        },
+        {
+          "en": "Foreign nationals must register with the immigration office within thirty days.",
+          "highlight": [
+            "nationals"
+          ],
+          "translations": {
+            "zh-TW": "外國國民必須在三十天內向移民局辦理登記。"
+          }
+        },
+        {
+          "en": "National holidays often cause a noticeable drop in factory output.",
+          "highlight": [
+            "National"
+          ],
+          "translations": {
+            "zh-TW": "國定假日往往會使工廠產出明顯下降。"
           }
         }
       ],
       "synonyms": [
         "domestic",
-        "federal"
+        "federal",
+        "countrywide"
       ],
       "antonyms": [
         "international",
         "global"
       ],
       "phrases": [
-        "national",
-        "holiday",
-        "national",
-        "news"
+        "national holiday",
+        "national anthem",
+        "national identity"
       ]
     },
     {
@@ -108,6 +145,8 @@
         "noun"
       ],
       "conjugations": {
+        "comparative": "more natural",
+        "superlative": "most natural",
         "plural": "naturals"
       },
       "domain": "general",
@@ -115,33 +154,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "natural",
-          "definition": "n. 白痴, a. 自然的, 自然界的, 本能的, 天然的, 物质的, 正常的, 原始的, 自然数的"
+          "definition": "a. 自然的、天然的、本能的  n. 天才、天生好手"
         }
       ],
       "examples": [
         {
-          "en": "She prefers natural light.",
+          "en": "This shampoo is made from natural ingredients like aloe and honey.",
           "highlight": [
             "natural"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這款洗髮精由蘆薈和蜂蜜等天然成分製成。"
+          }
+        },
+        {
+          "en": "Speaking in front of a crowd feels more natural to her than to most people.",
+          "highlight": [
+            "more natural"
+          ],
+          "translations": {
+            "zh-TW": "對她而言，在群眾面前說話比多數人更覺得自然。"
+          }
+        },
+        {
+          "en": "He is a natural at chess, beating seasoned players after only a few months of practice.",
+          "highlight": [
+            "natural"
+          ],
+          "translations": {
+            "zh-TW": "他是下棋的天生好手，練習幾個月就能擊敗經驗豐富的選手。"
           }
         }
       ],
       "synonyms": [
         "organic",
-        "pure"
+        "innate",
+        "native"
       ],
       "antonyms": [
         "artificial",
-        "man-made"
+        "man-made",
+        "synthetic"
       ],
       "phrases": [
-        "natural",
-        "light",
-        "natural",
-        "beauty"
+        "natural resources",
+        "natural light",
+        "natural disaster"
       ]
     },
     {
@@ -160,32 +218,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "naturally",
-          "definition": "adv. 自然地, 以自然力, 天生地"
+          "definition": "adv. 自然地、天生地、當然"
         }
       ],
       "examples": [
         {
-          "en": "Naturally, she was excited about the news.",
+          "en": "Tourists naturally head to the beach when the weather gets warm.",
           "highlight": [
             "naturally"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "天氣變暖時，觀光客自然會往海邊去。"
+          }
+        },
+        {
+          "en": "She is naturally gifted at languages, picking up Spanish in just one summer.",
+          "highlight": [
+            "naturally"
+          ],
+          "translations": {
+            "zh-TW": "她天生有語言天分，光是一個夏天就學會了西班牙語。"
+          }
+        },
+        {
+          "en": "Naturally, the manager wants to review the contract before signing it.",
+          "highlight": [
+            "Naturally"
+          ],
+          "translations": {
+            "zh-TW": "經理當然想在簽約前先審閱合約。"
           }
         }
       ],
       "synonyms": [
-        "normally",
-        "usually"
+        "of course",
+        "obviously",
+        "instinctively"
       ],
       "antonyms": [
-        "unnaturally"
+        "unnaturally",
+        "artificially"
       ],
       "phrases": [
-        "naturally",
-        "gifted",
-        "naturally",
-        "occurring"
+        "occur naturally",
+        "naturally occurring",
+        "act naturally"
       ]
     },
     {
@@ -196,47 +273,61 @@
       "toeic_score_min": 200,
       "word": "nature",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "natureed",
-        "past_participle": "natureed",
-        "present_participle": "naturing",
-        "third_person": "natures"
+        "plural": "natures"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "nature",
-          "definition": "n. 自然, 大自然, 本性, 性格, 性质, [医] 自然, 大自然; 本性, 性能"
+          "definition": "n. 大自然、自然界、本性、本質"
         }
       ],
       "examples": [
         {
-          "en": "She loves being in nature.",
+          "en": "Many companies now print their reports on paper sourced from nature reserves.",
           "highlight": [
             "nature"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "許多公司現在採用源自自然保護區的紙張來印製報告。"
+          }
+        },
+        {
+          "en": "By nature, she is patient and good at handling difficult customers.",
+          "highlight": [
+            "nature"
+          ],
+          "translations": {
+            "zh-TW": "她本性有耐心，擅長應付難纏的顧客。"
+          }
+        },
+        {
+          "en": "Human natures vary, so a good manager adapts to each team member.",
+          "highlight": [
+            "natures"
+          ],
+          "translations": {
+            "zh-TW": "人的本性各有不同，所以優秀的管理者會因應每位團隊成員調整方式。"
           }
         }
       ],
       "synonyms": [
         "environment",
-        "wilderness"
+        "wilderness",
+        "character"
       ],
       "antonyms": [
-        "urban",
+        "civilization",
         "city"
       ],
       "phrases": [
-        "love",
-        "nature",
-        "nature",
-        "reserve"
+        "human nature",
+        "nature reserve",
+        "second nature"
       ]
     },
     {
@@ -253,36 +344,55 @@
       "conjugations": {
         "plural": "navies"
       },
-      "domain": "general",
+      "domain": "military",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "navy",
-          "definition": "n. 海军, 海军人員, 海军军力, 烟蒂"
+          "definition": "n. 海軍、海軍艦隊  a. 深藍色的"
         }
       ],
       "examples": [
         {
-          "en": "He joined the navy.",
+          "en": "The navy launched a new destroyer to strengthen coastal defense.",
           "highlight": [
             "navy"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "海軍下水了一艘新的驅逐艦，以強化海岸防禦。"
+          }
+        },
+        {
+          "en": "The world's largest navies conduct joint exercises in the Pacific every year.",
+          "highlight": [
+            "navies"
+          ],
+          "translations": {
+            "zh-TW": "全球最大的幾支海軍每年都會在太平洋舉行聯合演習。"
+          }
+        },
+        {
+          "en": "She wore a navy suit to the interview to look professional.",
+          "highlight": [
+            "navy"
+          ],
+          "translations": {
+            "zh-TW": "她穿了一套深藍色西裝去面試，看起來更顯專業。"
           }
         }
       ],
       "synonyms": [
         "fleet",
-        "armada"
+        "armada",
+        "marine force"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "army"
+      ],
       "phrases": [
-        "join",
-        "the",
-        "navy",
-        "navy",
-        "officer"
+        "navy blue",
+        "join the navy",
+        "navy officer"
       ]
     },
     {
@@ -294,7 +404,8 @@
       "word": "near",
       "pos": [
         "adverb",
-        "adjective"
+        "adjective",
+        "preposition"
       ],
       "conjugations": {
         "comparative": "nearer",
@@ -305,34 +416,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "near",
-          "definition": "a. 近的, 近亲的, 近似的, adv. 接近, 亲近, prep. 靠近, 近似于, v. 接近, 走近"
+          "definition": "a. 近的、親近的  adv. 在附近、接近  prep. 靠近、接近"
         }
       ],
       "examples": [
         {
-          "en": "She lives near the school.",
+          "en": "Please drop the package at the locker near the main entrance.",
           "highlight": [
             "near"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請把包裹放到主要入口附近的置物櫃。"
+          }
+        },
+        {
+          "en": "As the deadline drew nearer, the team worked late into the night.",
+          "highlight": [
+            "nearer"
+          ],
+          "translations": {
+            "zh-TW": "隨著截止日期愈來愈近，團隊工作到深夜。"
+          }
+        },
+        {
+          "en": "The nearest subway station is only two blocks from the office.",
+          "highlight": [
+            "nearest"
+          ],
+          "translations": {
+            "zh-TW": "最近的地鐵站距辦公室只有兩個街區。"
           }
         }
       ],
       "synonyms": [
         "close",
+        "nearby",
         "adjacent"
       ],
       "antonyms": [
         "far",
-        "distant"
+        "distant",
+        "remote"
       ],
       "phrases": [
-        "live",
-        "near",
-        "near",
-        "the",
-        "school"
+        "near future",
+        "near miss",
+        "draw near"
       ]
     },
     {
@@ -346,44 +475,58 @@
         "adjective",
         "adverb"
       ],
-      "conjugations": {
-        "comparative": "nearbier",
-        "superlative": "nearbiest"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "nearby",
-          "definition": "a. 附近的, 近旁的, adv. 在附近, 近旁地, prep. 在...附近"
+          "definition": "a. 附近的  adv. 在附近"
         }
       ],
       "examples": [
         {
-          "en": "There is a park nearby.",
+          "en": "We stayed at a nearby hotel during the conference to save commuting time.",
           "highlight": [
             "nearby"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們在會議期間住進附近的飯店，以節省通勤時間。"
+          }
+        },
+        {
+          "en": "If you get hungry, there is a convenience store nearby that is open until midnight.",
+          "highlight": [
+            "nearby"
+          ],
+          "translations": {
+            "zh-TW": "如果肚子餓了，附近有一家便利商店營業到半夜。"
+          }
+        },
+        {
+          "en": "Several nearby restaurants offer delivery to the office for a small fee.",
+          "highlight": [
+            "nearby"
+          ],
+          "translations": {
+            "zh-TW": "附近有幾家餐廳提供外送到辦公室的服務，酌收少許費用。"
           }
         }
       ],
       "synonyms": [
         "close",
-        "by",
-        "near"
+        "near",
+        "neighboring"
       ],
       "antonyms": [
         "far",
-        "away",
-        "distant"
+        "distant",
+        "remote"
       ],
       "phrases": [
-        "park",
-        "nearby",
-        "nearby",
-        "restaurant"
+        "nearby hotel",
+        "nearby restaurant",
+        "nearby area"
       ]
     },
     {
@@ -402,33 +545,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "nearly",
-          "definition": "adv. 几乎, 密切地"
+          "definition": "adv. 幾乎、將近、密切地"
         }
       ],
       "examples": [
         {
-          "en": "He nearly missed the bus.",
+          "en": "The flight was nearly an hour late due to heavy rain over the airport.",
           "highlight": [
             "nearly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "由於機場上空下大雨，班機晚點將近一個小時。"
+          }
+        },
+        {
+          "en": "Nearly all the seats were taken when we arrived at the auditorium.",
+          "highlight": [
+            "Nearly"
+          ],
+          "translations": {
+            "zh-TW": "我們抵達禮堂時，幾乎所有座位都被佔滿了。"
+          }
+        },
+        {
+          "en": "He had nearly finished the report when his computer suddenly crashed.",
+          "highlight": [
+            "nearly"
+          ],
+          "translations": {
+            "zh-TW": "他的報告快要寫完時，電腦突然當機了。"
           }
         }
       ],
       "synonyms": [
         "almost",
-        "virtually"
+        "virtually",
+        "practically"
       ],
       "antonyms": [
         "completely",
-        "entirely"
+        "entirely",
+        "fully"
       ],
       "phrases": [
-        "nearly",
-        "missed",
-        "nearly",
-        "done"
+        "nearly finished",
+        "nearly missed",
+        "nearly there"
       ]
     },
     {
@@ -439,48 +601,63 @@
       "toeic_score_min": 200,
       "word": "neat",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "neated",
-        "past_participle": "neated",
-        "present_participle": "neating",
-        "third_person": "neats"
+        "comparative": "neater",
+        "superlative": "neatest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "neat",
-          "definition": "a. 整洁的, 巧妙的, 匀称的, 简洁的, n. 牛"
+          "definition": "a. 整潔的、整齊的、俐落的"
         }
       ],
       "examples": [
         {
-          "en": "His room is always neat.",
+          "en": "She keeps her desk neat so she can find any document within seconds.",
           "highlight": [
             "neat"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她把辦公桌保持得很整潔，幾秒鐘內就能找到任何文件。"
+          }
+        },
+        {
+          "en": "His handwriting is much neater than mine, even when he writes in a hurry.",
+          "highlight": [
+            "neater"
+          ],
+          "translations": {
+            "zh-TW": "他的字跡比我工整得多，即使匆忙書寫時也是。"
+          }
+        },
+        {
+          "en": "The neatest presentation won the award at this year's design competition.",
+          "highlight": [
+            "neatest"
+          ],
+          "translations": {
+            "zh-TW": "最俐落的簡報贏得了今年設計競賽的獎項。"
           }
         }
       ],
       "synonyms": [
         "tidy",
-        "orderly"
+        "orderly",
+        "trim"
       ],
       "antonyms": [
         "messy",
-        "untidy"
+        "untidy",
+        "disorderly"
       ],
       "phrases": [
-        "neat",
-        "and",
-        "tidy",
-        "keep",
-        "neat"
+        "neat and tidy",
+        "keep neat",
+        "neat handwriting"
       ]
     }
   ]
