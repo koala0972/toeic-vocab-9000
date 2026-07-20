@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 207,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-207-001",
@@ -11,46 +11,64 @@
       "toeic_score_min": 500,
       "word": "participate",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "participateed",
-        "past_participle": "participateed",
-        "present_participle": "participating",
-        "third_person": "participates"
+        "present_3rd": "participates",
+        "past": "participated",
+        "past_participle": "participated",
+        "ing": "participating"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "participate",
-          "definition": "vi. 参加, 分享, 参與, 帶有, vt. 分享, 分担"
+          "definition": "vi. 參加、參與  vt. 分享、分擔"
         }
       ],
       "examples": [
         {
-          "en": "He decided to participate in the race.",
+          "en": "All employees are encouraged to participate in the annual training program.",
           "highlight": [
             "participate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司鼓勵所有員工參加年度培訓計畫。"
+          }
+        },
+        {
+          "en": "She participated in three international conferences last year.",
+          "highlight": [
+            "participated"
+          ],
+          "translations": {
+            "zh-TW": "她去年參加了三場國際研討會。"
+          }
+        },
+        {
+          "en": "The manager is participating in a video call with the Tokyo branch right now.",
+          "highlight": [
+            "participating"
+          ],
+          "translations": {
+            "zh-TW": "經理現在正在和東京分公司進行視訊會議。"
           }
         }
       ],
       "synonyms": [
         "join",
-        "take",
-        "part"
+        "take part",
+        "engage"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "withdraw",
+        "boycott"
+      ],
       "phrases": [
-        "participate",
-        "in",
-        "an",
-        "event",
-        "participate"
+        "participate in",
+        "participate in a meeting",
+        "actively participate"
       ]
     },
     {
@@ -65,40 +83,61 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "particulars"
+        "plural": "particulars",
+        "comparative": "more particular",
+        "superlative": "most particular"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "particular",
-          "definition": "n. 一项(或条、點), 個别项目, 详细說明, a. 特别的, 独有的, 挑剔的, 详盡的"
+          "definition": "adj. 特別的、特定的、講究的  n. 細節、詳情"
         }
       ],
       "examples": [
         {
-          "en": "He paid attention to the particular details.",
+          "en": "Is there any particular restaurant you would like to try for dinner?",
           "highlight": [
             "particular"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "晚餐有沒有什麼特別想試的餐廳？"
+          }
+        },
+        {
+          "en": "Please send me the particulars of the contract before the meeting.",
+          "highlight": [
+            "particulars"
+          ],
+          "translations": {
+            "zh-TW": "請在開會前把合約的細節寄給我。"
+          }
+        },
+        {
+          "en": "She is more particular about quality than about price.",
+          "highlight": [
+            "more particular"
+          ],
+          "translations": {
+            "zh-TW": "她對品質的要求比對價格更講究。"
           }
         }
       ],
       "synonyms": [
         "specific",
-        "certain"
+        "certain",
+        "special"
       ],
       "antonyms": [
         "general",
-        "common"
+        "common",
+        "ordinary"
       ],
       "phrases": [
-        "particular",
-        "interest",
-        "particular",
-        "reason"
+        "in particular",
+        "particular about",
+        "particular interest"
       ]
     },
     {
@@ -117,32 +156,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "particularly",
-          "definition": "adv. 特别, 格外, 尤其, 详细地, 细致地"
+          "definition": "adv. 特別地、尤其、格外"
         }
       ],
       "examples": [
         {
-          "en": "She particularly enjoyed the movie.",
+          "en": "Tourism in this region has declined particularly this winter.",
           "highlight": [
             "particularly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "今年冬天這個地區的觀光業下滑得特別明顯。"
+          }
+        },
+        {
+          "en": "Candidates with TOEIC scores above 800 are particularly welcome to apply.",
+          "highlight": [
+            "particularly"
+          ],
+          "translations": {
+            "zh-TW": "多益成績超過 800 分的應徵者尤為歡迎申請。"
+          }
+        },
+        {
+          "en": "The new policy is particularly useful for small businesses handling exports.",
+          "highlight": [
+            "particularly"
+          ],
+          "translations": {
+            "zh-TW": "新政策對處理出口業務的小型公司特別有用。"
           }
         }
       ],
       "synonyms": [
         "especially",
-        "notably"
+        "notably",
+        "exceptionally"
       ],
       "antonyms": [
-        "generally"
+        "generally",
+        "usually"
       ],
       "phrases": [
-        "particularly",
-        "enjoyed",
-        "particularly",
-        "liked"
+        "particularly important",
+        "particularly useful",
+        "particularly careful"
       ]
     },
     {
@@ -161,33 +219,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "partly",
-          "definition": "adv. 部分地, 在一定程度上"
+          "definition": "adv. 部分地、在某種程度上"
         }
       ],
       "examples": [
         {
-          "en": "The plan is partly finished.",
+          "en": "The delay was partly caused by heavy rain and partly by a signal failure.",
           "highlight": [
             "partly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "誤點部分是因大雨，部分是因號誌故障。"
+          }
+        },
+        {
+          "en": "The company's success is partly due to its strong branding strategy.",
+          "highlight": [
+            "partly"
+          ],
+          "translations": {
+            "zh-TW": "這家公司的成功部分歸功於強勢的品牌策略。"
+          }
+        },
+        {
+          "en": "She was partly responsible for the budget overruns in Q3.",
+          "highlight": [
+            "partly"
+          ],
+          "translations": {
+            "zh-TW": "她對第三季的預算超支要負部分責任。"
           }
         }
       ],
       "synonyms": [
         "somewhat",
-        "partially"
+        "partially",
+        "in part"
       ],
       "antonyms": [
         "completely",
-        "entirely"
+        "entirely",
+        "wholly"
       ],
       "phrases": [
-        "partly",
-        "cloudy",
-        "partly",
-        "true"
+        "partly because",
+        "partly due to",
+        "partly responsible"
       ]
     },
     {
@@ -202,43 +279,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "partnered",
+        "plural": "partners",
+        "present_3rd": "partners",
+        "past": "partnered",
         "past_participle": "partnered",
-        "present_participle": "partnering",
-        "third_person": "partners"
+        "ing": "partnering"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "partner",
-          "definition": "n. 合伙人, 股东, 伙伴, 伴侣, vt. 與...合伙, 组成一對, vi. 做伙伴, 当助手"
+          "definition": "n. 合夥人、夥伴、伴侶  v. 與……合作、結成夥伴"
         }
       ],
       "examples": [
         {
-          "en": "She is his business partner.",
+          "en": "Mr. Chen has been my business partner for over ten years.",
           "highlight": [
             "partner"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "陳先生當我的事業合夥人已經超過十年了。"
+          }
+        },
+        {
+          "en": "Several local partners will attend the product launch next week.",
+          "highlight": [
+            "partners"
+          ],
+          "translations": {
+            "zh-TW": "幾位本地合作夥伴將出席下週的產品發表會。"
+          }
+        },
+        {
+          "en": "Our company partnered with a European firm to develop the new software.",
+          "highlight": [
+            "partnered"
+          ],
+          "translations": {
+            "zh-TW": "我們公司與一家歐洲企業合作開發這套新軟體。"
           }
         }
       ],
       "synonyms": [
-        "colleague",
-        "associate"
+        "associate",
+        "collaborator",
+        "companion"
       ],
       "antonyms": [
         "rival",
-        "opponent"
+        "competitor"
       ],
       "phrases": [
-        "business",
-        "partner",
-        "life",
-        "partner"
+        "business partner",
+        "strategic partner",
+        "partner with"
       ]
     },
     {
@@ -253,43 +349,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "partyed",
-        "past_participle": "partyed",
-        "present_participle": "partying",
-        "third_person": "partys"
+        "plural": "parties",
+        "present_3rd": "parties",
+        "past": "partied",
+        "past_participle": "partied",
+        "ing": "partying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "party",
-          "definition": "n. 宴會, 党, 政党, 团体, 当事人, 聚會, v. 举办聚會"
+          "definition": "n. 派對、聚會、政黨、當事人  v. 開派對、狂歡"
         }
       ],
       "examples": [
         {
-          "en": "They hosted a birthday party.",
+          "en": "The marketing team is hosting a farewell party for Ms. Lee on Friday.",
           "highlight": [
             "party"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "行銷團隊週五要為李小姐舉辦歡送會。"
+          }
+        },
+        {
+          "en": "All parties involved in the contract must sign the revised document.",
+          "highlight": [
+            "parties"
+          ],
+          "translations": {
+            "zh-TW": "合約的所有當事人都必須在修訂後的文件上簽名。"
+          }
+        },
+        {
+          "en": "The interns were partying late at the hotel when the fire alarm went off.",
+          "highlight": [
+            "partying"
+          ],
+          "translations": {
+            "zh-TW": "火警鈴響起時，實習生們正在飯店裡開派對開到很晚。"
           }
         }
       ],
       "synonyms": [
         "celebration",
-        "gathering"
+        "gathering",
+        "function"
       ],
       "antonyms": [
         "work",
-        "task"
+        "meeting"
       ],
       "phrases": [
-        "birthday",
-        "party",
-        "surprise",
-        "party"
+        "birthday party",
+        "farewell party",
+        "third party"
       ]
     },
     {
@@ -304,44 +419,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "passed",
+        "plural": "passes",
+        "present_3rd": "passes",
+        "past": "passed",
         "past_participle": "passed",
-        "present_participle": "passing",
-        "third_person": "passes"
+        "ing": "passing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pass",
-          "definition": "n. 經過, 要隘, 途径, 通行, 护照, 及格, vt. 經過, 越過, 通過, 批准, 度過, 传递, 忽略, vi. 經過, 变化, 流通, 及格, 宣判, 终止, 消逝, 被忽略, 不叫牌, 传递, [计] 遍"
+          "definition": "v. 通過、經過、及格、傳遞  n. 通行證、及格、隘口"
         }
       ],
       "examples": [
         {
-          "en": "She passed the test.",
+          "en": "Only guests with a valid boarding pass can pass through security.",
           "highlight": [
             "pass"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "只有持有效登機證的旅客才能通過安檢。"
+          }
+        },
+        {
+          "en": "She passed the TOEIC exam with a score of 850 on her first attempt.",
+          "highlight": [
+            "passed"
+          ],
+          "translations": {
+            "zh-TW": "她第一次考多益就以 850 分通過。"
+          }
+        },
+        {
+          "en": "The train passing through the station was delayed by twenty minutes.",
+          "highlight": [
+            "passing"
+          ],
+          "translations": {
+            "zh-TW": "經過這站的火車誤點了二十分鐘。"
           }
         }
       ],
       "synonyms": [
-        "move",
-        "go"
+        "go through",
+        "succeed",
+        "move"
       ],
       "antonyms": [
         "fail",
-        "stop"
+        "stop",
+        "block"
       ],
       "phrases": [
-        "pass",
-        "a",
-        "test",
-        "pass",
-        "by"
+        "pass a test",
+        "pass by",
+        "boarding pass"
       ]
     },
     {
@@ -352,47 +486,62 @@
       "toeic_score_min": 500,
       "word": "passage",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "passageed",
-        "past_participle": "passageed",
-        "present_participle": "passaging",
-        "third_person": "passages"
+        "plural": "passages"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "passage",
-          "definition": "n. 通道, 通過, 移居, 航行, 一段, 走廊, vi. 通過, 經過, 航行, 横渡, 争吵, vt. (使)馬以斜横步前进, 使传代"
+          "definition": "n. 通道、走廊、航行、文章段落、通過"
         }
       ],
       "examples": [
         {
-          "en": "The passage was narrow.",
+          "en": "The narrow passage leads to the back entrance of the building.",
           "highlight": [
             "passage"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這條狹窄的通道通往大樓的後門入口。"
+          }
+        },
+        {
+          "en": "The reading test includes three passages taken from business magazines.",
+          "highlight": [
+            "passages"
+          ],
+          "translations": {
+            "zh-TW": "閱讀測驗包含三篇取自商業雜誌的文章段落。"
+          }
+        },
+        {
+          "en": "Book your passage to Osaka early to get the best cabin rates.",
+          "highlight": [
+            "passage"
+          ],
+          "translations": {
+            "zh-TW": "及早預訂往大阪的船票才能拿到最便宜的艙位費。"
           }
         }
       ],
       "synonyms": [
-        "transit",
-        "travel"
+        "corridor",
+        "passageway",
+        "excerpt"
       ],
       "antonyms": [
         "blockage",
-        "barrier"
+        "barrier",
+        "dead end"
       ],
       "phrases": [
-        "narrow",
-        "passage",
-        "safe",
-        "passage"
+        "narrow passage",
+        "safe passage",
+        "book a passage"
       ]
     },
     {
@@ -403,47 +552,62 @@
       "toeic_score_min": 500,
       "word": "passenger",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "passengered",
-        "past_participle": "passengered",
-        "present_participle": "passengering",
-        "third_person": "passengers"
+        "plural": "passengers"
       },
-      "domain": "general",
+      "domain": "travel",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "passenger",
-          "definition": "n. 乘客, 旅客, [經] 乘客, 旅客"
+          "definition": "n. 乘客、旅客"
         }
       ],
       "examples": [
         {
-          "en": "The passenger boarded the bus.",
+          "en": "Each passenger must fasten their seatbelt before takeoff.",
           "highlight": [
             "passenger"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "每位乘客在起飛前都必須繫好安全帶。"
+          }
+        },
+        {
+          "en": "Passengers on flight CI-202 are now invited to board at gate B7.",
+          "highlight": [
+            "passengers"
+          ],
+          "translations": {
+            "zh-TW": "搭乘 CI-202 班機的旅客現在請至 B7 登機門登機。"
+          }
+        },
+        {
+          "en": "The passenger list shows a total of 287 people on board the ship.",
+          "highlight": [
+            "passenger"
+          ],
+          "translations": {
+            "zh-TW": "乘客名單顯示船上總共有 287 人。"
           }
         }
       ],
       "synonyms": [
         "traveler",
-        "rider"
+        "rider",
+        "commuter"
       ],
       "antonyms": [
         "driver",
-        "pilot"
+        "pilot",
+        "crew"
       ],
       "phrases": [
-        "bus",
-        "passenger",
-        "train",
-        "passenger"
+        "passenger seat",
+        "passenger list",
+        "passenger terminal"
       ]
     },
     {
@@ -454,45 +618,63 @@
       "toeic_score_min": 500,
       "word": "passing",
       "pos": [
-        "verb",
+        "adjective",
         "noun"
       ],
       "conjugations": {
-        "past_tense": "passinged",
-        "past_participle": "passinged",
-        "present_participle": "passinging",
-        "third_person": "passings"
+        "plural": "passings"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "passing",
-          "definition": "n. 通過, 逝去, 死, 流逝, a. 經過的, 流逝的, 目前的, 短暂的, 及格的, 仓促的"
+          "definition": "adj. 經過的、短暫的、及格的  n. 經過、流逝、逝去"
         }
       ],
       "examples": [
         {
-          "en": "He nodded in passing.",
+          "en": "She mentioned the merger plan only in passing during the lunch break.",
           "highlight": [
             "passing"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她只是在午休時順帶提到合併計畫。"
+          }
+        },
+        {
+          "en": "The passing of the founder marked a new chapter for the entire company.",
+          "highlight": [
+            "passing"
+          ],
+          "translations": {
+            "zh-TW": "創辦人的逝世為整間公司展開了新的篇章。"
+          }
+        },
+        {
+          "en": "He earned a passing grade on the certification exam after months of study.",
+          "highlight": [
+            "passing"
+          ],
+          "translations": {
+            "zh-TW": "經過幾個月的學習，他取得了認證考試的及格成績。"
           }
         }
       ],
       "synonyms": [
-        "bypassing",
-        "going",
-        "by"
+        "fleeting",
+        "transient",
+        "momentary"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "lasting",
+        "permanent",
+        "enduring"
+      ],
       "phrases": [
-        "in",
-        "passing",
-        "passing",
-        "by"
+        "in passing",
+        "passing grade",
+        "passing interest"
       ]
     }
   ]
