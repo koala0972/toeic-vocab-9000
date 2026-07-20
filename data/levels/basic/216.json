@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 216,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-216-001",
@@ -11,46 +11,61 @@
       "toeic_score_min": 500,
       "word": "poetry",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "poetryed",
-        "past_participle": "poetryed",
-        "present_participle": "poetrying",
-        "third_person": "poetrys"
+        "plural": "poetries"
       },
-      "domain": "general",
+      "domain": "literature",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "poetry",
-          "definition": "n. 诗, 韵文, 诗歌艺术"
+          "definition": "n. 詩、詩歌、詩意"
         }
       ],
       "examples": [
         {
-          "en": "He is studying poetry in college.",
+          "en": "She has been writing poetry since high school.",
           "highlight": [
             "poetry"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她從高中起就一直在寫詩。"
+          }
+        },
+        {
+          "en": "The anthology features modern poetries from across Asia.",
+          "highlight": [
+            "poetries"
+          ],
+          "translations": {
+            "zh-TW": "這本選集收錄了來自亞洲各地的現代詩作。"
+          }
+        },
+        {
+          "en": "His speech had a certain poetry that moved the audience.",
+          "highlight": [
+            "poetry"
+          ],
+          "translations": {
+            "zh-TW": "他的演講帶有某種詩意，感動了在場聽眾。"
           }
         }
       ],
       "synonyms": [
-        "versification",
-        "verse"
+        "verse",
+        "poem",
+        "lyric"
       ],
       "antonyms": [
         "prose"
       ],
       "phrases": [
-        "modern",
-        "poetry",
-        "study",
-        "poetry"
+        "modern poetry",
+        "write poetry",
+        "love poetry",
+        "poetry reading"
       ]
     },
     {
@@ -65,44 +80,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "pointed",
+        "plural": "points",
+        "present_3rd": "points",
+        "past": "pointed",
         "past_participle": "pointed",
-        "present_participle": "pointing",
-        "third_person": "points"
+        "ing": "pointing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "point",
-          "definition": "n. 點, 小数點, 标點, 地點, 要點, 特點, 尖端, 分数, 得分, 穴位, vt. 弄尖, 强调, 指出, 加标點于, 瞄准, vi. 指, 指向, 表明"
+          "definition": "n. 點、要點、分數、尖端  v. 指向、指出"
         }
       ],
       "examples": [
         {
-          "en": "The knife has a sharp point.",
+          "en": "She pointed at the map to show the meeting location.",
+          "highlight": [
+            "pointed"
+          ],
+          "translations": {
+            "zh-TW": "她指著地圖說明會議地點。"
+          }
+        },
+        {
+          "en": "He was pointing out the errors in the report during the meeting.",
+          "highlight": [
+            "pointing"
+          ],
+          "translations": {
+            "zh-TW": "會議中他正指出報告裡的錯誤。"
+          }
+        },
+        {
+          "en": "The manager made a good point about customer service.",
           "highlight": [
             "point"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理對客服提出了一個很好的論點。"
           }
         }
       ],
       "synonyms": [
         "tip",
-        "apex"
+        "issue",
+        "matter"
       ],
       "antonyms": [
-        "base",
-        "blunt"
+        "base"
       ],
       "phrases": [
-        "sharp",
-        "point",
-        "point",
-        "of",
-        "view"
+        "point out",
+        "point of view",
+        "make a point",
+        "to the point"
       ]
     },
     {
@@ -113,46 +146,63 @@
       "toeic_score_min": 500,
       "word": "pointed",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "pointeded",
-        "past_participle": "pointeded",
-        "present_participle": "pointeding",
-        "third_person": "pointeds"
+        "comparative": "more pointed",
+        "superlative": "most pointed"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pointed",
-          "definition": "a. 尖的, 有尖顶的, 锐利的, 率直的, 顯然的"
+          "definition": "adj. 尖的、銳利的、直率的、明顯的"
         }
       ],
       "examples": [
         {
-          "en": "The pencil has a pointed tip.",
+          "en": "She gave a pointed remark about the missed deadline.",
           "highlight": [
             "pointed"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她對錯過期限一事發表了直率的評論。"
+          }
+        },
+        {
+          "en": "His criticism became more pointed after the second failure.",
+          "highlight": [
+            "more pointed"
+          ],
+          "translations": {
+            "zh-TW": "第二次失敗後，他的批評變得更加尖銳。"
+          }
+        },
+        {
+          "en": "The lawyer asked the most pointed questions during the cross-examination.",
+          "highlight": [
+            "most pointed"
+          ],
+          "translations": {
+            "zh-TW": "律師在交叉詢問時提出了最尖銳的問題。"
           }
         }
       ],
       "synonyms": [
         "sharp",
-        "tapered"
+        "direct",
+        "blunt"
       ],
       "antonyms": [
-        "dull"
+        "dull",
+        "vague"
       ],
       "phrases": [
-        "pointed",
-        "end",
-        "pointed",
-        "remark"
+        "pointed remark",
+        "pointed question",
+        "pointed end",
+        "pointed criticism"
       ]
     },
     {
@@ -167,42 +217,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "poisoned",
+        "plural": "poisons",
+        "present_3rd": "poisons",
+        "past": "poisoned",
         "past_participle": "poisoned",
-        "present_participle": "poisoning",
-        "third_person": "poisons"
+        "ing": "poisoning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "poison",
-          "definition": "n. 毒药, 毒, 毒物, 有毒害的事物, vt. 毒害, 毒杀, 使中毒, vi. 放毒, 下毒"
+          "definition": "n. 毒、毒物  v. 毒害、下毒"
         }
       ],
       "examples": [
         {
-          "en": "They found poison in the food.",
+          "en": "The detective discovered poison in the victim's tea.",
           "highlight": [
             "poison"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "偵探在受害者的茶中發現了毒藥。"
+          }
+        },
+        {
+          "en": "Someone had poisoned the well water in the village.",
+          "highlight": [
+            "poisoned"
+          ],
+          "translations": {
+            "zh-TW": "有人下毒於村莊的井水中。"
+          }
+        },
+        {
+          "en": "The factory was fined for poisoning the river with industrial waste.",
+          "highlight": [
+            "poisoning"
+          ],
+          "translations": {
+            "zh-TW": "工廠因用工業廢水汙染河流而被罰款。"
           }
         }
       ],
       "synonyms": [
         "toxin",
-        "venom"
+        "venom",
+        "contaminate"
       ],
       "antonyms": [
-        "antidote"
+        "antidote",
+        "cure"
       ],
       "phrases": [
-        "deadly",
-        "poison",
-        "use",
-        "poison"
+        "deadly poison",
+        "rat poison",
+        "poison the well",
+        "poison control"
       ]
     },
     {
@@ -213,47 +284,63 @@
       "toeic_score_min": 500,
       "word": "poisonous",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "poisonoused",
-        "past_participle": "poisonoused",
-        "present_participle": "poisonousing",
-        "third_person": "poisonouses"
+        "comparative": "more poisonous",
+        "superlative": "most poisonous"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "poisonous",
-          "definition": "a. 有毒的, 恶毒的, 讨厌的, [医] 有毒的"
+          "definition": "adj. 有毒的、惡毒的、有害的"
         }
       ],
       "examples": [
         {
-          "en": "The snake is poisonous.",
+          "en": "Be careful—this mushroom is poisonous.",
           "highlight": [
             "poisonous"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "小心——這朵蘑菇有毒。"
+          }
+        },
+        {
+          "en": "The cobra is one of the most poisonous snakes in the world.",
+          "highlight": [
+            "most poisonous"
+          ],
+          "translations": {
+            "zh-TW": "眼鏡蛇是世上最毒的蛇之一。"
+          }
+        },
+        {
+          "en": "He spread a poisonous rumor about his colleague at the office.",
+          "highlight": [
+            "poisonous"
+          ],
+          "translations": {
+            "zh-TW": "他在辦公室散播關於同事的惡毒謠言。"
           }
         }
       ],
       "synonyms": [
         "toxic",
-        "venomous"
+        "venomous",
+        "harmful"
       ],
       "antonyms": [
         "harmless",
         "safe"
       ],
       "phrases": [
-        "poisonous",
-        "snake",
-        "poisonous",
-        "gas"
+        "poisonous snake",
+        "poisonous gas",
+        "poisonous plant",
+        "poisonous substance"
       ]
     },
     {
@@ -268,40 +355,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "poleed",
-        "past_participle": "poleed",
-        "present_participle": "poling",
-        "third_person": "poles"
+        "plural": "poles",
+        "present_3rd": "poles",
+        "past": "poled",
+        "past_participle": "poled",
+        "ing": "poling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pole",
-          "definition": "n. 波兰人, 极點, 磁极, 电极, 杆, 竿, 相反的极端, vt. 用竿支撑, vi. 撑篙"
+          "definition": "n. 桿、竿、極點、電極  v. 用竿撐"
         }
       ],
       "examples": [
         {
-          "en": "He used a pole to support the tent.",
+          "en": "The telephone poles were damaged by the storm.",
+          "highlight": [
+            "poles"
+          ],
+          "translations": {
+            "zh-TW": "電話桿被暴風雨損壞了。"
+          }
+        },
+        {
+          "en": "He poled the boat slowly down the narrow river.",
+          "highlight": [
+            "poled"
+          ],
+          "translations": {
+            "zh-TW": "他用竿撐著船慢慢沿窄河而下。"
+          }
+        },
+        {
+          "en": "The explorer traveled to the North Pole on a scientific expedition.",
           "highlight": [
             "pole"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "探險家前往北極進行科學考察。"
           }
         }
       ],
       "synonyms": [
         "rod",
-        "post"
+        "post",
+        "extreme"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "center"
+      ],
       "phrases": [
-        "flag",
-        "pole",
-        "fishing",
-        "pole"
+        "flag pole",
+        "North Pole",
+        "South Pole",
+        "telephone pole"
       ]
     },
     {
@@ -316,41 +425,59 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "policeed",
-        "past_participle": "policeed",
-        "present_participle": "policing",
-        "third_person": "polices"
+        "present_3rd": "polices",
+        "past": "policed",
+        "past_participle": "policed",
+        "ing": "policing"
       },
-      "domain": "general",
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "police",
-          "definition": "n. 警察, 警察当局, 治安, vt. 维持治安, 管辖"
+          "definition": "n. 警察、警方  v. 維持治安、巡邏"
         }
       ],
       "examples": [
         {
-          "en": "The police arrested the suspect.",
+          "en": "The police arrived at the scene within five minutes.",
           "highlight": [
             "police"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "警方在五分鐘內趕到現場。"
+          }
+        },
+        {
+          "en": "Security guards policed the entrance throughout the concert.",
+          "highlight": [
+            "policed"
+          ],
+          "translations": {
+            "zh-TW": "演唱會期間保全人員在入口處維持秩序。"
+          }
+        },
+        {
+          "en": "The company is policing its own compliance with the new regulations.",
+          "highlight": [
+            "policing"
+          ],
+          "translations": {
+            "zh-TW": "公司正在自行監督對新法規的遵守情形。"
           }
         }
       ],
       "synonyms": [
-        "law",
-        "enforcement",
-        "cops"
+        "cops",
+        "officers",
+        "law enforcement"
       ],
       "antonyms": [],
       "phrases": [
-        "police",
-        "officer",
-        "police",
-        "station"
+        "police officer",
+        "police station",
+        "police force",
+        "call the police"
       ]
     },
     {
@@ -361,44 +488,59 @@
       "toeic_score_min": 500,
       "word": "policy",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "policyed",
-        "past_participle": "policyed",
-        "present_participle": "policying",
-        "third_person": "policys"
+        "plural": "policies"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "policy",
-          "definition": "n. 政策, 方针, 策略, 保险单, [医] 凭单, 保险单"
+          "definition": "n. 政策、方針、保險單"
         }
       ],
       "examples": [
         {
-          "en": "The company's new policy encourages remote work.",
+          "en": "The company's refund policy states that all sales are final.",
           "highlight": [
             "policy"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司的退款政策規定所有交易皆為最終銷售。"
+          }
+        },
+        {
+          "en": "Several new policies were introduced to improve workplace safety.",
+          "highlight": [
+            "policies"
+          ],
+          "translations": {
+            "zh-TW": "為改善職場安全，公布了數項新政策。"
+          }
+        },
+        {
+          "en": "She renewed her auto insurance policy before the deadline.",
+          "highlight": [
+            "policy"
+          ],
+          "translations": {
+            "zh-TW": "她在期限前續保了汽車保險單。"
           }
         }
       ],
       "synonyms": [
         "strategy",
-        "rule"
+        "guideline",
+        "plan"
       ],
       "antonyms": [],
       "phrases": [
-        "new",
-        "policy",
-        "company",
-        "policy"
+        "company policy",
+        "insurance policy",
+        "privacy policy",
+        "refund policy"
       ]
     },
     {
@@ -413,43 +555,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "polished",
+        "present_3rd": "polishes",
+        "past": "polished",
         "past_participle": "polished",
-        "present_participle": "polishing",
-        "third_person": "polishs"
+        "ing": "polishing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "polish",
-          "definition": "a. 波兰的, n. 波兰人, 上光剂, 光泽, 优雅, vt. 擦亮, 擦去, 使完美, vi. 擦亮, 变得光亮"
+          "definition": "n. 上光劑、光澤  v. 擦亮、潤飾"
         }
       ],
       "examples": [
         {
-          "en": "She used polish to shine her shoes.",
+          "en": "She polished her shoes before the interview.",
+          "highlight": [
+            "polished"
+          ],
+          "translations": {
+            "zh-TW": "面試前她把鞋子擦亮了。"
+          }
+        },
+        {
+          "en": "He spent the whole afternoon polishing his presentation slides.",
+          "highlight": [
+            "polishing"
+          ],
+          "translations": {
+            "zh-TW": "他花了整個下午潤飾簡報投影片。"
+          }
+        },
+        {
+          "en": "The furniture polish gives the wood a beautiful shine.",
           "highlight": [
             "polish"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "家具上光劑讓木材呈現美麗的光澤。"
           }
         }
       ],
       "synonyms": [
         "shine",
-        "gloss"
+        "gloss",
+        "refine"
       ],
       "antonyms": [
         "dull",
         "tarnish"
       ],
       "phrases": [
-        "apply",
-        "polish",
-        "nail",
-        "polish"
+        "nail polish",
+        "shoe polish",
+        "polish up",
+        "furniture polish"
       ]
     },
     {
@@ -460,44 +621,63 @@
       "toeic_score_min": 500,
       "word": "polite",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "polites"
+        "comparative": "politer",
+        "superlative": "politest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "polite",
-          "definition": "a. 有礼貌的, 文雅的, 客气的, 有教养的"
+          "definition": "adj. 有禮貌的、客氣的、文雅的"
         }
       ],
       "examples": [
         {
-          "en": "He is always polite to strangers.",
+          "en": "The receptionist was polite to every visitor.",
           "highlight": [
             "polite"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "接待員對每位訪客都很有禮貌。"
+          }
+        },
+        {
+          "en": "Children should be politer when speaking to adults.",
+          "highlight": [
+            "politer"
+          ],
+          "translations": {
+            "zh-TW": "孩子們和大人說話時應該更有禮貌。"
+          }
+        },
+        {
+          "en": "She is the politest student in the entire class.",
+          "highlight": [
+            "politest"
+          ],
+          "translations": {
+            "zh-TW": "她是全班最有禮貌的學生。"
           }
         }
       ],
       "synonyms": [
         "courteous",
-        "respectful"
+        "respectful",
+        "mannerly"
       ],
       "antonyms": [
         "rude",
         "impolite"
       ],
       "phrases": [
-        "polite",
-        "behavior",
-        "polite",
-        "smile"
+        "polite manner",
+        "polite society",
+        "be polite to",
+        "polite conversation"
       ]
     }
   ]
