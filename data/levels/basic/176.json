@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 176,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-176-001",
@@ -15,33 +15,52 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "lunched",
+        "plural": "lunches",
+        "present_3rd": "lunches",
+        "past": "lunched",
         "past_participle": "lunched",
-        "present_participle": "lunching",
-        "third_person": "lunchs"
+        "ing": "lunching"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "lunch",
-          "definition": "n. 午餐"
+          "definition": "n. 午餐  v. 吃午餐"
         }
       ],
       "examples": [
         {
-          "en": "We have lunch at noon.",
+          "en": "Let's discuss the proposal over lunch tomorrow.",
           "highlight": [
             "lunch"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們明天午午餐時再討論這個提案吧。"
+          }
+        },
+        {
+          "en": "We lunched with the new clients at a downtown restaurant.",
+          "highlight": [
+            "lunched"
+          ],
+          "translations": {
+            "zh-TW": "我們在市區的餐廳和新客戶共進午餐。"
+          }
+        },
+        {
+          "en": "The team is lunching with the supplier to finalize the contract.",
+          "highlight": [
+            "lunching"
+          ],
+          "translations": {
+            "zh-TW": "團隊正在和供應商共進午餐以敲定合約。"
           }
         }
       ],
       "synonyms": [
-        "midday",
-        "meal",
+        "midday meal",
+        "luncheon",
         "brunch"
       ],
       "antonyms": [
@@ -49,10 +68,10 @@
         "supper"
       ],
       "phrases": [
-        "have",
-        "lunch",
-        "lunch",
-        "break"
+        "have lunch",
+        "lunch break",
+        "business lunch",
+        "lunch hour"
       ]
     },
     {
@@ -67,42 +86,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "lunged",
+        "plural": "lungs",
+        "present_3rd": "lunges",
+        "past": "lunged",
         "past_participle": "lunged",
-        "present_participle": "lunging",
-        "third_person": "lungs"
+        "ing": "lunging"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "lung",
-          "definition": "n. 肺, 肺脏, 空地, [医] 肺"
+          "definition": "n. 肺、肺部；v. 猛衝、突然撲向"
         }
       ],
       "examples": [
         {
-          "en": "Smoking is harmful to the lungs.",
+          "en": "A chest X-ray showed fluid in his left lung.",
           "highlight": [
             "lung"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "胸部 X 光顯示他左肺有積水。"
+          }
+        },
+        {
+          "en": "The doctor warned that smoking damages the lungs severely.",
+          "highlight": [
+            "lungs"
+          ],
+          "translations": {
+            "zh-TW": "醫生警告抽菸會對肺部造成嚴重損害。"
+          }
+        },
+        {
+          "en": "The dog lunged at the stranger who knocked on the door.",
+          "highlight": [
+            "lunged"
+          ],
+          "translations": {
+            "zh-TW": "狗朝敲門的陌生人猛撲過去。"
           }
         }
       ],
       "synonyms": [
-        "respiratory",
-        "organ",
-        "pulmonary",
-        "organ"
+        "pulmonary organ",
+        "air sac",
+        "respiratory organ"
       ],
       "antonyms": [],
       "phrases": [
-        "lung",
-        "disease",
-        "lung",
-        "cancer"
+        "lung cancer",
+        "lung disease",
+        "lung capacity",
+        "black lung"
       ]
     },
     {
@@ -117,40 +154,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "machineed",
-        "past_participle": "machineed",
-        "present_participle": "machining",
-        "third_person": "machines"
+        "plural": "machines",
+        "present_3rd": "machines",
+        "past": "machined",
+        "past_participle": "machined",
+        "ing": "machining"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "machine",
-          "definition": "n. 机器, 机械装置, 机构, 自動售货机, 机械般工作的人, vt. 以机器制造"
+          "definition": "n. 機器、機械裝置  v. 以機器加工"
         }
       ],
       "examples": [
         {
-          "en": "The washing machine is broken.",
+          "en": "The factory bought a new packaging machine last month.",
           "highlight": [
             "machine"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "工廠上個月購買了一台新的包裝機器。"
+          }
+        },
+        {
+          "en": "The technician carefully machined the metal parts to precise specifications.",
+          "highlight": [
+            "machined"
+          ],
+          "translations": {
+            "zh-TW": "技術員謹慎地用機器將金屬零件加工到精確規格。"
+          }
+        },
+        {
+          "en": "They are machining the prototype components in the workshop now.",
+          "highlight": [
+            "machining"
+          ],
+          "translations": {
+            "zh-TW": "他們正在工作坊裡以機器加工原型零件。"
           }
         }
       ],
       "synonyms": [
         "device",
+        "appliance",
         "apparatus"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "handmade"
+      ],
       "phrases": [
-        "washing",
-        "machine",
-        "machine",
-        "part"
+        "washing machine",
+        "vending machine",
+        "machine tool",
+        "sewing machine"
       ]
     },
     {
@@ -161,44 +220,59 @@
       "toeic_score_min": 200,
       "word": "machinery",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "machineryed",
-        "past_participle": "machineryed",
-        "present_participle": "machinerying",
-        "third_person": "machinerys"
+        "plural": "machineries"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "machinery",
-          "definition": "n. 机器, 机械装置, 机构, [化] 机械"
+          "definition": "n. 機械（總稱）、機器設備、運作機制"
         }
       ],
       "examples": [
         {
-          "en": "The factory uses advanced machinery.",
+          "en": "The factory upgraded its machinery to boost production efficiency.",
           "highlight": [
             "machinery"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "工廠升級了機器設備以提升生產效率。"
+          }
+        },
+        {
+          "en": "Heavy machinery is essential for major construction projects.",
+          "highlight": [
+            "machinery"
+          ],
+          "translations": {
+            "zh-TW": "重型機械對大型建築工程而言是不可或缺的。"
+          }
+        },
+        {
+          "en": "The legal machineries of international trade are complex and rigid.",
+          "highlight": [
+            "machineries"
+          ],
+          "translations": {
+            "zh-TW": "國際貿易的法律運作機制既複雜又僵化。"
           }
         }
       ],
       "synonyms": [
         "equipment",
-        "tools"
+        "apparatus",
+        "mechanisms"
       ],
       "antonyms": [],
       "phrases": [
-        "heavy",
-        "machinery",
-        "modern",
-        "machinery"
+        "heavy machinery",
+        "machinery of government",
+        "farm machinery",
+        "industrial machinery"
       ]
     },
     {
@@ -209,44 +283,63 @@
       "toeic_score_min": 200,
       "word": "mad",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "mads"
+        "comparative": "madder",
+        "superlative": "maddest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mad",
-          "definition": "a. 疯狂的, 發疯的, 生气的, 愚蠢的, 狂歡的, n. 狂怒"
+          "definition": "adj. 生氣的、憤怒的；瘋狂的、著迷的"
         }
       ],
       "examples": [
         {
-          "en": "She was mad at him.",
+          "en": "The customer was mad about the delayed shipment.",
           "highlight": [
             "mad"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "客戶對於出貨延遲感到非常生氣。"
+          }
+        },
+        {
+          "en": "The client grew madder as no one returned her calls.",
+          "highlight": [
+            "madder"
+          ],
+          "translations": {
+            "zh-TW": "因為沒人回電，這位客戶越來越惱火。"
+          }
+        },
+        {
+          "en": "The crowd was the maddest the security team had ever seen after the cancellation.",
+          "highlight": [
+            "maddest"
+          ],
+          "translations": {
+            "zh-TW": "活動取消後，那群眾是維安團隊見過最憤怒的一次。"
           }
         }
       ],
       "synonyms": [
         "angry",
-        "furious"
+        "furious",
+        "enraged"
       ],
       "antonyms": [
         "calm",
-        "composed"
+        "pleased"
       ],
       "phrases": [
-        "mad",
-        "at",
-        "go",
-        "mad"
+        "mad at",
+        "go mad",
+        "mad about",
+        "like mad"
       ]
     },
     {
@@ -257,45 +350,59 @@
       "toeic_score_min": 200,
       "word": "magazine",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "magazineed",
-        "past_participle": "magazineed",
-        "present_participle": "magazining",
-        "third_person": "magazines"
+        "plural": "magazines"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "magazine",
-          "definition": "n. 杂志, 仓库, 弹盒, 胶卷盒, [计] 卡片箱, 介质装卸程序"
+          "definition": "n. 雜誌、期刊；彈匣；存庫"
         }
       ],
       "examples": [
         {
-          "en": "She read a fashion magazine.",
+          "en": "The interview will be published in a well-known business magazine.",
           "highlight": [
             "magazine"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這次訪談將刊載於知名的商業雜誌。"
+          }
+        },
+        {
+          "en": "Several fashion magazines are displayed in the clinic's waiting room.",
+          "highlight": [
+            "magazines"
+          ],
+          "translations": {
+            "zh-TW": "診所的候診室裡擺放了幾本時尚雜誌。"
+          }
+        },
+        {
+          "en": "She subscribes to an automotive magazine for industry trends.",
+          "highlight": [
+            "magazine"
+          ],
+          "translations": {
+            "zh-TW": "她訂閱了一本汽車雜誌以掌握產業趨勢。"
           }
         }
       ],
       "synonyms": [
         "periodical",
-        "journal"
+        "journal",
+        "publication"
       ],
       "antonyms": [],
       "phrases": [
-        "read",
-        "a",
-        "magazine",
-        "fashion",
-        "magazine"
+        "fashion magazine",
+        "magazine article",
+        "magazine subscription",
+        "monthly magazine"
       ]
     },
     {
@@ -317,34 +424,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "magic",
-          "definition": "n. 魔术, 魔法, a. 魔术的, 有魔力的, 不可思議的"
+          "definition": "n. 魔術、魔法、魔力  adj. 魔法的、有魔力的、神奇的"
         }
       ],
       "examples": [
         {
-          "en": "He believes in magic.",
+          "en": "The children watched the street performer's magic in amazement.",
           "highlight": [
             "magic"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "孩子們驚奇地看著街頭藝人的魔術表演。"
+          }
+        },
+        {
+          "en": "The marketing team used a few magic words to grab customers' attention.",
+          "highlight": [
+            "magic"
+          ],
+          "translations": {
+            "zh-TW": "行銷團隊用了幾個神奇的詞彙來抓住顧客的注意力。"
+          }
+        },
+        {
+          "en": "The show amazed the audience with magics they had never seen before.",
+          "highlight": [
+            "magics"
+          ],
+          "translations": {
+            "zh-TW": "這場表演以觀眾前所未見的魔術令他們驚嘆不已。"
           }
         }
       ],
       "synonyms": [
         "sorcery",
-        "witchcraft"
+        "witchcraft",
+        "wizardry"
       ],
       "antonyms": [
-        "reality",
-        "rationality"
+        "science",
+        "reality"
       ],
       "phrases": [
-        "believe",
-        "in",
-        "magic",
-        "magic",
-        "trick"
+        "magic trick",
+        "magic show",
+        "black magic",
+        "magic touch"
       ]
     },
     {
@@ -359,40 +484,61 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "mailed",
+        "plural": "mails",
+        "present_3rd": "mails",
+        "past": "mailed",
         "past_participle": "mailed",
-        "present_participle": "mailing",
-        "third_person": "mails"
+        "ing": "mailing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mail",
-          "definition": "n. 邮件, 邮政, 邮递, 盔甲, vt. 邮寄, 给...穿盔甲, [计] 邮件"
+          "definition": "n. 郵件、郵政、電子郵件  v. 郵寄、寄送"
         }
       ],
       "examples": [
         {
-          "en": "She received mail from her friend.",
+          "en": "Please forward the contract by registered mail.",
           "highlight": [
             "mail"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請以掛號郵件轉寄這份合約。"
+          }
+        },
+        {
+          "en": "I mailed the invoice to the client yesterday afternoon.",
+          "highlight": [
+            "mailed"
+          ],
+          "translations": {
+            "zh-TW": "我昨天下午已經把發票寄給客戶了。"
+          }
+        },
+        {
+          "en": "The HR department is mailing the offer letters to the new hires.",
+          "highlight": [
+            "mailing"
+          ],
+          "translations": {
+            "zh-TW": "人事部門正在將錄取通知書寄給新進員工。"
           }
         }
       ],
       "synonyms": [
         "post",
-        "letters"
+        "correspondence",
+        "send"
       ],
       "antonyms": [],
       "phrases": [
-        "receive",
-        "mail",
-        "send",
-        "mail"
+        "send mail",
+        "email address",
+        "mail room",
+        "snail mail",
+        "mail order"
       ]
     },
     {
@@ -414,33 +560,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "main",
-          "definition": "n. 主要部分, 干线, 体力, 力量, 主群组, a. 主要的, 重要的, 全力的, [计] 主群组"
+          "definition": "adj. 主要的、最重要的  n. 主要部分、幹線、主管線"
         }
       ],
       "examples": [
         {
-          "en": "The main road is closed.",
+          "en": "The main entrance to the building is on First Street.",
           "highlight": [
             "main"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這棟建築的主要入口在第一街上。"
+          }
+        },
+        {
+          "en": "The factory's mains supply was interrupted during the storm.",
+          "highlight": [
+            "mains"
+          ],
+          "translations": {
+            "zh-TW": "暴風雨期間工廠的主電力供應中斷了。"
+          }
+        },
+        {
+          "en": "Water from the mains was tested for contamination yesterday.",
+          "highlight": [
+            "mains"
+          ],
+          "translations": {
+            "zh-TW": "昨天對來自主管線的水進行了污染檢測。"
           }
         }
       ],
       "synonyms": [
         "primary",
-        "chief"
+        "chief",
+        "principal"
       ],
       "antonyms": [
         "minor",
         "secondary"
       ],
       "phrases": [
-        "main",
-        "road",
-        "main",
-        "idea"
+        "main road",
+        "main idea",
+        "main course",
+        "main entrance",
+        "turn off the mains"
       ]
     },
     {
@@ -459,34 +625,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "mainly",
-          "definition": "adv. 主要地, 大抵"
+          "definition": "adv. 主要地、大部分"
         }
       ],
       "examples": [
         {
-          "en": "He is mainly interested in sports.",
+          "en": "Our customers are mainly from the Asia-Pacific region.",
           "highlight": [
             "mainly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們的客戶主要來自亞太地區。"
+          }
+        },
+        {
+          "en": "Sales dropped mainly because of the global supply shortage.",
+          "highlight": [
+            "mainly"
+          ],
+          "translations": {
+            "zh-TW": "銷售下滑主要是因為全球供應短缺。"
+          }
+        },
+        {
+          "en": "The new tax policy mainly affects large corporations.",
+          "highlight": [
+            "mainly"
+          ],
+          "translations": {
+            "zh-TW": "新的稅制主要影響大型企業。"
           }
         }
       ],
       "synonyms": [
         "chiefly",
-        "mostly"
+        "mostly",
+        "primarily"
       ],
       "antonyms": [
-        "slightly",
-        "marginally"
+        "marginally",
+        "barely"
       ],
       "phrases": [
-        "mainly",
-        "due",
-        "to",
-        "mainly",
-        "because"
+        "mainly because",
+        "mainly due to",
+        "mainly responsible"
       ]
     }
   ]
