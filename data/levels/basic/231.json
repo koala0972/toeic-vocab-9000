@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 231,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-231-001",
@@ -19,30 +19,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "rather",
-          "definition": "adv. 宁可, 稍微, 相当"
+          "definition": "adv. 寧可、相當、反而"
         }
       ],
       "examples": [
         {
-          "en": "I would rather stay home.",
+          "en": "I would rather take the early train to avoid the rush hour.",
           "highlight": [
             "rather"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我寧可搭早班火車，以避開尖峰時段。"
+          }
+        },
+        {
+          "en": "The clients felt the proposal was rather bold, but still worth considering.",
+          "highlight": [
+            "rather"
+          ],
+          "translations": {
+            "zh-TW": "客戶覺得這個提案相當大膽，但仍值得考慮。"
+          }
+        },
+        {
+          "en": "Rather than wait for a reply, she decided to call the supplier directly.",
+          "highlight": [
+            "rather"
+          ],
+          "translations": {
+            "zh-TW": "她與其等待回覆，不如決定直接打電話給供應商。"
           }
         }
       ],
       "synonyms": [
         "preferably",
-        "instead"
+        "instead",
+        "somewhat"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "absolutely"
+      ],
       "phrases": [
-        "rather",
-        "than",
-        "rather",
-        "prefer"
+        "rather than",
+        "would rather",
+        "rather cold"
       ]
     },
     {
@@ -57,29 +77,50 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "raws"
+        "plural": "raws",
+        "comparative": "rawer",
+        "superlative": "rawest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "raw",
-          "definition": "n. 擦伤處, 半成品, a. 生的, 未加工的, 生疏的, 不成熟的, 阴冷的, 刺痛的, 擦掉皮的, vt. 擦伤, [计] 写後读"
+          "definition": "adj. 生的、未加工的、原始的  n. 半成品、擦傷"
         }
       ],
       "examples": [
         {
-          "en": "He ate raw vegetables.",
+          "en": "The chef insisted on using raw vegetables for the salad.",
           "highlight": [
             "raw"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "主廚堅持用生的蔬菜來做沙拉。"
+          }
+        },
+        {
+          "en": "The raw materials were shipped from the port to the factory last week.",
+          "highlight": [
+            "raw"
+          ],
+          "translations": {
+            "zh-TW": "上週原料從港口運送到工廠。"
+          }
+        },
+        {
+          "en": "Her fingers were rawest after a full day of typing the report.",
+          "highlight": [
+            "rawest"
+          ],
+          "translations": {
+            "zh-TW": "整天打報告之後，她的手指紅腫刺痛得最厲害。"
           }
         }
       ],
       "synonyms": [
         "uncooked",
+        "unprocessed",
         "fresh"
       ],
       "antonyms": [
@@ -87,10 +128,9 @@
         "processed"
       ],
       "phrases": [
-        "raw",
-        "meat",
-        "raw",
-        "data"
+        "raw material",
+        "raw data",
+        "raw deal"
       ]
     },
     {
@@ -105,44 +145,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "reached",
+        "plural": "reaches",
+        "present_3rd": "reaches",
+        "past": "reached",
         "past_participle": "reached",
-        "present_participle": "reaching",
-        "third_person": "reachs"
+        "ing": "reaching"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "reach",
-          "definition": "n. 伸出, 延伸, 區域, 范围, 流域, 岬, vt. 到达, 达到, 伸出, 延伸, 影響, vi. 达到, 延伸, 伸出手, 传到"
+          "definition": "v. 到達、達成、伸手拿  n. 範圍、延伸"
         }
       ],
       "examples": [
         {
-          "en": "He reached the top of the mountain.",
+          "en": "We need to reach an agreement before the deadline on Friday.",
           "highlight": [
             "reach"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們需要在週五截止前達成協議。"
+          }
+        },
+        {
+          "en": "The marketing team reached its quarterly sales goal two weeks early.",
+          "highlight": [
+            "reached"
+          ],
+          "translations": {
+            "zh-TW": "行銷團隊提早兩週達到本季銷售目標。"
+          }
+        },
+        {
+          "en": "She was reaching for her phone when the meeting was called to order.",
+          "highlight": [
+            "reaching"
+          ],
+          "translations": {
+            "zh-TW": "宣佈會議開始時，她正伸手要拿手機。"
           }
         }
       ],
       "synonyms": [
         "arrive",
-        "attain"
+        "attain",
+        "achieve"
       ],
       "antonyms": [
         "miss",
-        "lose"
+        "fail"
       ],
       "phrases": [
-        "reach",
-        "a",
-        "goal",
-        "reach",
-        "out"
+        "reach out",
+        "reach a decision",
+        "within reach"
       ]
     },
     {
@@ -153,47 +211,64 @@
       "toeic_score_min": 500,
       "word": "react",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "reacted",
+        "present_3rd": "reacts",
+        "past": "reacted",
         "past_participle": "reacted",
-        "present_participle": "reacting",
-        "third_person": "reacts"
+        "ing": "reacting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "react",
-          "definition": "vi. 起反应, 起作用, 反攻, [医] 应答, 發生反应"
+          "definition": "v. 反應、回應、起化學反應"
         }
       ],
       "examples": [
         {
-          "en": "He reacted angrily.",
+          "en": "Customers usually react to a price increase by buying less.",
           "highlight": [
             "react"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "顧客通常對漲價的反應是買得比較少。"
+          }
+        },
+        {
+          "en": "The manager reacted calmly when the system crashed during the presentation.",
+          "highlight": [
+            "reacted"
+          ],
+          "translations": {
+            "zh-TW": "簡報時系統當機，經理卻冷靜地應對。"
+          }
+        },
+        {
+          "en": "Investors are reacting quickly to news about the new tax policy.",
+          "highlight": [
+            "reacting"
+          ],
+          "translations": {
+            "zh-TW": "投資人對新稅制消息反應很快。"
           }
         }
       ],
       "synonyms": [
         "respond",
-        "reply"
+        "reply",
+        "answer"
       ],
       "antonyms": [
         "ignore",
         "neglect"
       ],
       "phrases": [
-        "react",
-        "quickly",
-        "react",
-        "negatively"
+        "react to",
+        "react quickly",
+        "react negatively"
       ]
     },
     {
@@ -204,44 +279,60 @@
       "toeic_score_min": 500,
       "word": "reaction",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "reactioned",
-        "past_participle": "reactioned",
-        "present_participle": "reactioning",
-        "third_person": "reactions"
+        "plural": "reactions"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "reaction",
-          "definition": "n. 反应, 反作用, 反動, [医] 反应"
+          "definition": "n. 反應、回應、反作用"
         }
       ],
       "examples": [
         {
-          "en": "Her reaction was surprising.",
+          "en": "The customer's reaction to the new design was mostly positive.",
           "highlight": [
             "reaction"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "顧客對新設計的反應大多是正面的。"
+          }
+        },
+        {
+          "en": "Strange reactions from the audience made the speaker nervous.",
+          "highlight": [
+            "reactions"
+          ],
+          "translations": {
+            "zh-TW": "聽眾奇怪的反應讓講者緊張了起來。"
+          }
+        },
+        {
+          "en": "In chemistry class we watched the reaction between vinegar and baking soda.",
+          "highlight": [
+            "reaction"
+          ],
+          "translations": {
+            "zh-TW": "化學課上我們觀察了醋和小蘇打之間的反應。"
           }
         }
       ],
       "synonyms": [
         "response",
-        "reply"
+        "reply",
+        "feedback"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "indifference"
+      ],
       "phrases": [
-        "strong",
-        "reaction",
-        "immediate",
-        "reaction"
+        "immediate reaction",
+        "allergic reaction",
+        "chain reaction"
       ]
     },
     {
@@ -256,44 +347,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "readed",
-        "past_participle": "readed",
-        "present_participle": "reading",
-        "third_person": "reads"
+        "plural": "reads",
+        "present_3rd": "reads",
+        "past": "read",
+        "past_participle": "read",
+        "ing": "reading"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "read",
-          "definition": "v. 读, 阅读, 理解, a. 有学问的, n. 读取, 阅读, [计] 读取"
+          "definition": "v. 閱讀、朗讀、理解  n. 閱讀、讀物"
         }
       ],
       "examples": [
         {
-          "en": "She likes to read books.",
+          "en": "I usually read the news on my tablet before breakfast.",
           "highlight": [
             "read"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我通常在早餐前用平板看新聞。"
+          }
+        },
+        {
+          "en": "She read the contract carefully before signing it.",
+          "highlight": [
+            "read"
+          ],
+          "translations": {
+            "zh-TW": "她在簽約前仔細閱讀了合約。"
+          }
+        },
+        {
+          "en": "He is reading the instruction manual to set up the printer.",
+          "highlight": [
+            "reading"
+          ],
+          "translations": {
+            "zh-TW": "他正在閱讀說明書來安裝印表機。"
           }
         }
       ],
       "synonyms": [
         "peruse",
-        "interpret"
+        "interpret",
+        "study"
       ],
       "antonyms": [
         "write",
         "ignore"
       ],
       "phrases": [
-        "read",
-        "a",
-        "book",
-        "read",
-        "aloud"
+        "read aloud",
+        "read between the lines",
+        "read carefully"
       ]
     },
     {
@@ -304,35 +413,50 @@
       "toeic_score_min": 500,
       "word": "reader",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "readered",
-        "past_participle": "readered",
-        "present_participle": "readering",
-        "third_person": "readers"
+        "plural": "readers"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "reader",
-          "definition": "n. 读者, 读物, 文选, 校對人, 讲師, [计] 阅读程序; 阅读器"
+          "definition": "n. 讀者、閱讀器、讀本"
         }
       ],
       "examples": [
         {
-          "en": "He is an avid reader.",
+          "en": "Every reader of this magazine gets a discount at the bookstore.",
           "highlight": [
             "reader"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這本雜誌的每位讀者都可在書店享折扣。"
+          }
+        },
+        {
+          "en": "Loyal readers often write letters to the editor about their favorite articles.",
+          "highlight": [
+            "readers"
+          ],
+          "translations": {
+            "zh-TW": "忠實讀者常寫信給編輯談論他們喜歡的文章。"
+          }
+        },
+        {
+          "en": "Use a card reader to access the secure area of the office building.",
+          "highlight": [
+            "reader"
+          ],
+          "translations": {
+            "zh-TW": "請用卡片閱讀器進入辦公大樓的管制區域。"
           }
         }
       ],
       "synonyms": [
+        "subscriber",
         "bookworm",
         "bibliophile"
       ],
@@ -341,10 +465,9 @@
         "author"
       ],
       "phrases": [
-        "avid",
-        "reader",
-        "reader's",
-        "choice"
+        "avid reader",
+        "card reader",
+        "e-book reader"
       ]
     },
     {
@@ -359,43 +482,57 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "readinged",
-        "past_participle": "readinged",
-        "present_participle": "readinging",
-        "third_person": "readings"
+        "plural": "readings"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "reading",
-          "definition": "n. 阅读, 知识, 读物, a. 阅读的"
+          "definition": "n. 閱讀、讀物、讀數  v. read 的現在分詞"
         }
       ],
       "examples": [
         {
-          "en": "Reading is a good habit.",
+          "en": "Reading the report aloud helped us catch several small errors.",
+          "highlight": [
+            "Reading"
+          ],
+          "translations": {
+            "zh-TW": "把報告朗讀出來幫我們發現了幾個小錯誤。"
+          }
+        },
+        {
+          "en": "The meter readings are recorded every hour during the experiment.",
+          "highlight": [
+            "readings"
+          ],
+          "translations": {
+            "zh-TW": "實驗期間每小時會記錄一次儀表讀數。"
+          }
+        },
+        {
+          "en": "She finished her reading of the draft contract at midnight.",
           "highlight": [
             "reading"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在半夜完成了合約草稿的閱讀。"
           }
         }
       ],
       "synonyms": [
         "perusal",
-        "literacy"
+        "study",
+        "interpretation"
       ],
       "antonyms": [
-        "writing",
-        "illiteracy"
+        "writing"
       ],
       "phrases": [
-        "enjoy",
-        "reading",
-        "reading",
-        "habit"
+        "reading material",
+        "reading comprehension",
+        "light reading"
       ]
     },
     {
@@ -410,44 +547,64 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "readyed",
-        "past_participle": "readyed",
-        "present_participle": "readying",
-        "third_person": "readys"
+        "plural": "readies",
+        "present_3rd": "readies",
+        "past": "readied",
+        "past_participle": "readied",
+        "ing": "readying",
+        "comparative": "readier",
+        "superlative": "readiest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "ready",
-          "definition": "n. 预备好的状态, 现款, a. 准备好的, 备用的, 可以使用的, adv. 预先, 迅速, vt. 使准备好"
+          "definition": "adj. 準備好的、樂意的、迅速的  v. 準備"
         }
       ],
       "examples": [
         {
-          "en": "She is ready to go.",
+          "en": "The final report is ready for the client's review.",
           "highlight": [
             "ready"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "最終報告已準備好供客戶審核。"
+          }
+        },
+        {
+          "en": "The team readied the conference room before the guests arrived.",
+          "highlight": [
+            "readied"
+          ],
+          "translations": {
+            "zh-TW": "團隊在賓客到達前先把會議室準備好。"
+          }
+        },
+        {
+          "en": "She is readier than ever to take on the new project.",
+          "highlight": [
+            "readier"
+          ],
+          "translations": {
+            "zh-TW": "她比以往都更準備好接下這個新專案。"
           }
         }
       ],
       "synonyms": [
         "prepared",
-        "set"
+        "set",
+        "available"
       ],
       "antonyms": [
         "unprepared",
         "reluctant"
       ],
       "phrases": [
-        "ready",
-        "to",
-        "go",
-        "get",
-        "ready"
+        "ready to go",
+        "get ready",
+        "ready-made"
       ]
     },
     {
@@ -462,40 +619,61 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "reals"
+        "plural": "reals",
+        "comparative": "realer",
+        "superlative": "realest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "real",
-          "definition": "a. 真的, 真實的, 實际的, 實在的, 不動(产)的, 實数的, n. 實数, 现實, adv. 真正地"
+          "definition": "adj. 真實的、實際的、真正的  n. 實數、雷亞爾（巴西貨幣）"
         }
       ],
       "examples": [
         {
-          "en": "The danger is very real.",
+          "en": "The threat of cyber attacks is very real for modern businesses.",
           "highlight": [
             "real"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "對現代企業來說，網路攻擊的威脅非常真實。"
+          }
+        },
+        {
+          "en": "This is the realest concern our customers have raised this year.",
+          "highlight": [
+            "realest"
+          ],
+          "translations": {
+            "zh-TW": "這是今年顧客提出的最實際的疑慮。"
+          }
+        },
+        {
+          "en": "Real estate prices in the city center have gone up sharply this quarter.",
+          "highlight": [
+            "Real"
+          ],
+          "translations": {
+            "zh-TW": "本季市中心房地產價格大幅上漲。"
           }
         }
       ],
       "synonyms": [
         "genuine",
-        "actual"
+        "actual",
+        "true"
       ],
       "antonyms": [
         "fake",
+        "false",
         "unreal"
       ],
       "phrases": [
-        "real",
-        "problem",
-        "real",
-        "danger"
+        "real estate",
+        "real time",
+        "real life"
       ]
     }
   ]
