@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 240,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-240-001",
@@ -11,48 +11,61 @@
       "toeic_score_min": 500,
       "word": "requirement",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "requiremented",
-        "past_participle": "requiremented",
-        "present_participle": "requirementing",
-        "third_person": "requirements"
+        "plural": "requirements"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "requirement",
-          "definition": "n. 需求, 必要条件, 要求, [化] 要求; 合同要求"
+          "definition": "n. 需求、必要條件、規定"
         }
       ],
       "examples": [
         {
-          "en": "Meeting the requirements is essential for the job.",
+          "en": "A valid passport is a requirement for international travel.",
           "highlight": [
             "requirement"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "有效的護照是出國旅行的必要條件。"
+          }
+        },
+        {
+          "en": "Applicants must meet all the requirements before the deadline.",
+          "highlight": [
+            "requirements"
+          ],
+          "translations": {
+            "zh-TW": "申請人必須在截止日期前符合所有需求。"
+          }
+        },
+        {
+          "en": "The new software requirement puzzled the development team.",
+          "highlight": [
+            "requirement"
+          ],
+          "translations": {
+            "zh-TW": "這項新的軟體需求讓開發團隊感到困惑。"
           }
         }
       ],
       "synonyms": [
         "necessity",
-        "prerequisite"
+        "prerequisite",
+        "condition"
       ],
       "antonyms": [
-        "luxury",
-        "nonessential"
+        "option",
+        "luxury"
       ],
       "phrases": [
-        "meet",
-        "the",
-        "requirement",
-        "job",
-        "requirement"
+        "meet the requirements",
+        "job requirement",
+        "minimum requirement"
       ]
     },
     {
@@ -67,44 +80,61 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "rescueed",
-        "past_participle": "rescueed",
-        "present_participle": "rescuing",
-        "third_person": "rescues"
+        "present_3rd": "rescues",
+        "past": "rescued",
+        "past_participle": "rescued",
+        "ing": "rescuing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "rescue",
-          "definition": "n. 援救, 解救, 营救, vt. 援救, 救出, 营救"
+          "definition": "v. 援救、解救、營救  n. 營救行動"
         }
       ],
       "examples": [
         {
-          "en": "The lifeguard rescued the swimmer.",
+          "en": "The lifeguard rescued the struggling swimmer within seconds.",
+          "highlight": [
+            "rescued"
+          ],
+          "translations": {
+            "zh-TW": "救生員在幾秒鐘內救起了那名溺水者。"
+          }
+        },
+        {
+          "en": "She is rescuing stray animals and finding them loving homes.",
+          "highlight": [
+            "rescuing"
+          ],
+          "translations": {
+            "zh-TW": "她正在救助流浪動物，並為牠們尋找溫暖的家。"
+          }
+        },
+        {
+          "en": "The mountain rescue team saved three climbers lost in the blizzard.",
           "highlight": [
             "rescue"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "山難救援隊救出了三名在暴風雪中迷路的登山客。"
           }
         }
       ],
       "synonyms": [
         "save",
-        "recover"
+        "recover",
+        "free"
       ],
       "antonyms": [
         "endanger",
-        "harm"
+        "abandon"
       ],
       "phrases": [
-        "rescue",
-        "mission",
-        "rescue",
-        "the",
-        "hostages"
+        "rescue mission",
+        "come to the rescue",
+        "rescue team"
       ]
     },
     {
@@ -119,43 +149,61 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "researched",
+        "present_3rd": "researches",
+        "past": "researched",
         "past_participle": "researched",
-        "present_participle": "researching",
-        "third_person": "researchs"
+        "ing": "researching"
       },
-      "domain": "general",
+      "domain": "academic",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "research",
-          "definition": "n. 研究, 调查, 考察, vi. 研究, 调查"
+          "definition": "n. 研究、調查  v. 研究、調查"
         }
       ],
       "examples": [
         {
-          "en": "She conducted research on climate change.",
+          "en": "The company invested heavily in market research before launching the product.",
           "highlight": [
             "research"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家公司在推出產品前投入大量資金進行市場研究。"
+          }
+        },
+        {
+          "en": "She researched consumer trends for over six months before writing the report.",
+          "highlight": [
+            "researched"
+          ],
+          "translations": {
+            "zh-TW": "她花了六個多月研究消費趨勢，才撰寫這份報告。"
+          }
+        },
+        {
+          "en": "The scientists are currently researching renewable energy sources.",
+          "highlight": [
+            "researching"
+          ],
+          "translations": {
+            "zh-TW": "科學家們目前正在研究再生能源。"
           }
         }
       ],
       "synonyms": [
         "study",
-        "investigation"
+        "investigation",
+        "analysis"
       ],
       "antonyms": [
         "neglect",
         "ignore"
       ],
       "phrases": [
-        "conduct",
-        "research",
-        "research",
-        "findings"
+        "conduct research",
+        "research findings",
+        "market research"
       ]
     },
     {
@@ -166,44 +214,60 @@
       "toeic_score_min": 500,
       "word": "researcher",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "researchered",
-        "past_participle": "researchered",
-        "present_participle": "researchering",
-        "third_person": "researchers"
+        "plural": "researchers"
       },
-      "domain": "general",
+      "domain": "academic",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "researcher",
-          "definition": "n. 研究人員"
+          "definition": "n. 研究人員、研究員"
         }
       ],
       "examples": [
         {
-          "en": "The researcher published her findings.",
+          "en": "The lead researcher published her findings in a top medical journal.",
           "highlight": [
             "researcher"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "首席研究員將她的研究結果發表在頂尖的醫學期刊上。"
+          }
+        },
+        {
+          "en": "Senior researchers mentor junior staff on proper lab procedures.",
+          "highlight": [
+            "researchers"
+          ],
+          "translations": {
+            "zh-TW": "資深研究員指導新進人員正確的實驗室程序。"
+          }
+        },
+        {
+          "en": "Becoming a skilled researcher requires patience, precision, and curiosity.",
+          "highlight": [
+            "researcher"
+          ],
+          "translations": {
+            "zh-TW": "成為一名優秀的研究員需要耐心、精確與好奇心。"
           }
         }
       ],
       "synonyms": [
         "scientist",
-        "scholar"
+        "scholar",
+        "investigator"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "layperson"
+      ],
       "phrases": [
-        "medical",
-        "researcher",
-        "scientific",
-        "researcher"
+        "medical researcher",
+        "scientific researcher",
+        "lead researcher"
       ]
     },
     {
@@ -214,50 +278,64 @@
       "toeic_score_min": 500,
       "word": "resemble",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "resembleed",
-        "past_participle": "resembleed",
-        "present_participle": "resembling",
-        "third_person": "resembles"
+        "present_3rd": "resembles",
+        "past": "resembled",
+        "past_participle": "resembled",
+        "ing": "resembling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "resemble",
-          "definition": "vt. 相似, 类似"
+          "definition": "v. 相似、類似、像"
         }
       ],
       "examples": [
         {
-          "en": "She resembles her mother.",
+          "en": "The twins resemble each other so closely that even their teachers get confused.",
           "highlight": [
             "resemble"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這對雙胞胎長得太像了，連老師都會認錯。"
+          }
+        },
+        {
+          "en": "As a child, she closely resembled her mother in both appearance and temperament.",
+          "highlight": [
+            "resembled"
+          ],
+          "translations": {
+            "zh-TW": "小時候，她的外貌和性情都非常像她母親。"
+          }
+        },
+        {
+          "en": "The new prototype resembles the original design but with significant upgrades.",
+          "highlight": [
+            "resembles"
+          ],
+          "translations": {
+            "zh-TW": "新的原型機類似原始設計，但進行了重大升級。"
           }
         }
       ],
       "synonyms": [
-        "look",
-        "like",
-        "mirror"
+        "look like",
+        "mirror",
+        "echo"
       ],
       "antonyms": [
         "differ",
-        "from",
         "contrast"
       ],
       "phrases": [
-        "closely",
-        "resemble",
-        "resemble",
-        "each",
-        "other"
+        "closely resemble",
+        "resemble each other",
+        "strongly resemble"
       ]
     },
     {
@@ -268,47 +346,60 @@
       "toeic_score_min": 500,
       "word": "reservation",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "reservationed",
-        "past_participle": "reservationed",
-        "present_participle": "reservationing",
-        "third_person": "reservations"
+        "plural": "reservations"
       },
-      "domain": "general",
+      "domain": "travel",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "reservation",
-          "definition": "n. 保留, 预定, 保留品, 保留地, [經] 预定, 预约, 权益保留"
+          "definition": "n. 預訂、預約、保留"
         }
       ],
       "examples": [
         {
-          "en": "I made a reservation at the restaurant.",
+          "en": "I would like to make a reservation for two at seven o'clock tonight.",
           "highlight": [
             "reservation"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我想預訂今晚七點兩位的位置。"
+          }
+        },
+        {
+          "en": "The hotel confirmed all reservations for the conference attendees last week.",
+          "highlight": [
+            "reservations"
+          ],
+          "translations": {
+            "zh-TW": "飯店上週確認了所有與會者的住房預訂。"
+          }
+        },
+        {
+          "en": "She called the airline to cancel her flight reservation due to a sudden change in schedule.",
+          "highlight": [
+            "reservation"
+          ],
+          "translations": {
+            "zh-TW": "由於行程臨時變動，她打電話給航空公司取消了機位預訂。"
           }
         }
       ],
       "synonyms": [
         "booking",
-        "appointment"
+        "appointment",
+        "arrangement"
       ],
       "antonyms": [
         "cancellation"
       ],
       "phrases": [
-        "make",
-        "a",
-        "reservation",
-        "reservation",
-        "confirmed"
+        "make a reservation",
+        "confirm a reservation",
+        "cancel a reservation"
       ]
     },
     {
@@ -330,33 +421,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "resident",
-          "definition": "n. 居民, 常驻程序, 居住者, 留鸟, a. 居留的, 定居的"
+          "definition": "n. 居民、居住者  adj. 居住的、常駐的"
         }
       ],
       "examples": [
         {
-          "en": "He is a resident of New York.",
+          "en": "Every resident of the apartment building received a notice about the water outage.",
           "highlight": [
             "resident"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公寓大樓的每位住戶都收到了停水通知。"
+          }
+        },
+        {
+          "en": "Local residents gathered at the community center to discuss the new zoning plan.",
+          "highlight": [
+            "residents"
+          ],
+          "translations": {
+            "zh-TW": "當地居民聚集在社區中心討論新的分區計畫。"
+          }
+        },
+        {
+          "en": "She has been a resident physician at the hospital for nearly three years.",
+          "highlight": [
+            "resident"
+          ],
+          "translations": {
+            "zh-TW": "她在這家醫院擔任住院醫師已近三年。"
           }
         }
       ],
       "synonyms": [
         "inhabitant",
-        "occupant"
+        "occupant",
+        "dweller"
       ],
       "antonyms": [
         "visitor",
         "tourist"
       ],
       "phrases": [
-        "permanent",
-        "resident",
-        "local",
-        "resident"
+        "permanent resident",
+        "local resident",
+        "resident assistant"
       ]
     },
     {
@@ -367,47 +476,65 @@
       "toeic_score_min": 500,
       "word": "resist",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "resisted",
+        "present_3rd": "resists",
+        "past": "resisted",
         "past_participle": "resisted",
-        "present_participle": "resisting",
-        "third_person": "resists"
+        "ing": "resisting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "resist",
-          "definition": "v. 抵抗, 耐得住, 抵制, 反抗, n. 防染材料"
+          "definition": "v. 抵抗、抗拒、忍耐"
         }
       ],
       "examples": [
         {
-          "en": "They resisted the temptation to eat junk food.",
+          "en": "The soldiers bravely resisted the enemy attack through the long winter night.",
+          "highlight": [
+            "resisted"
+          ],
+          "translations": {
+            "zh-TW": "士兵們在漫長的冬夜中英勇地抵抗了敵軍的進攻。"
+          }
+        },
+        {
+          "en": "She is resisting the urge to check her phone during the important meeting.",
+          "highlight": [
+            "resisting"
+          ],
+          "translations": {
+            "zh-TW": "在重要會議期間，她正忍住查看手機的衝動。"
+          }
+        },
+        {
+          "en": "Few people can resist the temptation of freshly baked chocolate cookies.",
           "highlight": [
             "resist"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "很少有人能抗拒剛出爐的巧克力餅乾的誘惑。"
           }
         }
       ],
       "synonyms": [
         "withstand",
-        "oppose"
+        "oppose",
+        "endure"
       ],
       "antonyms": [
         "yield",
-        "surrender"
+        "surrender",
+        "comply"
       ],
       "phrases": [
-        "resist",
-        "change",
-        "resist",
-        "temptation"
+        "resist temptation",
+        "resist change",
+        "resist arrest"
       ]
     },
     {
@@ -418,47 +545,61 @@
       "toeic_score_min": 500,
       "word": "resistance",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "resistanceed",
-        "past_participle": "resistanceed",
-        "present_participle": "resistancing",
-        "third_person": "resistances"
+        "plural": "resistances"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "resistance",
-          "definition": "n. 抵抗力, 反抗, 耐力, 阻力, 电阻, [化] 抵抗; 抗性; 阻力; 抗药性; 电阻"
+          "definition": "n. 抵抗、反抗、阻力、電阻"
         }
       ],
       "examples": [
         {
-          "en": "There was strong resistance to the new law.",
+          "en": "The local farmers offered strong resistance to the construction of a new factory.",
           "highlight": [
             "resistance"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "當地農民強烈反對建造新工廠。"
+          }
+        },
+        {
+          "en": "Antibiotic resistances have become a serious global health concern in recent decades.",
+          "highlight": [
+            "resistances"
+          ],
+          "translations": {
+            "zh-TW": "近幾十年來，抗生素的抗藥性已成為全球嚴重的健康問題。"
+          }
+        },
+        {
+          "en": "The resistance offered by the thick wire reduced the current flowing through the circuit.",
+          "highlight": [
+            "resistance"
+          ],
+          "translations": {
+            "zh-TW": "粗電線所產生的電阻降低了流經電路的電流。"
           }
         }
       ],
       "synonyms": [
         "opposition",
-        "defiance"
+        "defiance",
+        "obstruction"
       ],
       "antonyms": [
         "compliance",
         "submission"
       ],
       "phrases": [
-        "strong",
-        "resistance",
-        "resistance",
-        "movement"
+        "strong resistance",
+        "resistance movement",
+        "antibiotic resistance"
       ]
     },
     {
@@ -473,44 +614,61 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "resolveed",
-        "past_participle": "resolveed",
-        "present_participle": "resolving",
-        "third_person": "resolves"
+        "present_3rd": "resolves",
+        "past": "resolved",
+        "past_participle": "resolved",
+        "ing": "resolving"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "resolve",
-          "definition": "vi. 决定, 分解, 决心, vt. 使分解, 解析, 解决, 消除, 决心, n. 决定之事, 决心, 坚决"
+          "definition": "v. 解決、決心、決議  n. 決心、堅決"
         }
       ],
       "examples": [
         {
-          "en": "They resolved their differences.",
+          "en": "The manager resolved the customer complaint within twenty-four hours.",
+          "highlight": [
+            "resolved"
+          ],
+          "translations": {
+            "zh-TW": "經理在二十四小時內解決了客戶的投訴。"
+          }
+        },
+        {
+          "en": "The committee is currently resolving the discrepancies between the two financial reports.",
+          "highlight": [
+            "resolving"
+          ],
+          "translations": {
+            "zh-TW": "委員會目前正在處理兩份財務報表之間的差異。"
+          }
+        },
+        {
+          "en": "Her iron resolve kept the entire team focused during the difficult merger negotiations.",
           "highlight": [
             "resolve"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她堅定不移的決心讓整個團隊在艱難的併購談判中保持專注。"
           }
         }
       ],
       "synonyms": [
         "settle",
-        "solve"
+        "solve",
+        "decide"
       ],
       "antonyms": [
         "complicate",
         "exacerbate"
       ],
       "phrases": [
-        "resolve",
-        "a",
-        "conflict",
-        "resolve",
-        "an"
+        "resolve a conflict",
+        "resolve an issue",
+        "iron resolve"
       ]
     }
   ]
