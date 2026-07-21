@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 220,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-220-001",
@@ -15,40 +15,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "practiceed",
-        "past_participle": "practiceed",
-        "present_participle": "practicing",
-        "third_person": "practices"
+        "plural": "practices",
+        "present_3rd": "practices",
+        "past": "practiced",
+        "past_participle": "practiced",
+        "ing": "practicing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "practice",
-          "definition": "n. 實践, 练习, 實行, 惯例, 习惯, 开业, v. 實践, 實行, 练习, 實习, 业务"
+          "definition": "n. 練習、實行、慣例、（醫生或律師的）業務  v. 練習、實行、執業"
         }
       ],
       "examples": [
         {
-          "en": "Practice makes perfect.",
+          "en": "Daily practice is the key to mastering a new language.",
           "highlight": [
             "practice"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "每日練習是精通一門新語言的關鍵。"
+          }
+        },
+        {
+          "en": "She practiced the piano for three hours before the recital.",
+          "highlight": [
+            "practiced"
+          ],
+          "translations": {
+            "zh-TW": "她在獨奏會前練了三個小時的鋼琴。"
+          }
+        },
+        {
+          "en": "The law firm has been practicing corporate law for over twenty years.",
+          "highlight": [
+            "practicing"
+          ],
+          "translations": {
+            "zh-TW": "這家律師事務所執業企業法已超過二十年。"
           }
         }
       ],
       "synonyms": [
         "rehearsal",
-        "training"
+        "training",
+        "exercise"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "neglect"
+      ],
       "phrases": [
-        "practice",
-        "regularly",
-        "practice",
-        "session"
+        "practice makes perfect",
+        "common practice",
+        "private practice",
+        "put into practice"
       ]
     },
     {
@@ -59,44 +81,63 @@
       "toeic_score_min": 500,
       "word": "precious",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "preciouses"
+        "comparative": "preciouser",
+        "superlative": "precioussest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "precious",
-          "definition": "a. 宝贵的, 珍贵的, 過于精致的, 珍爱的"
+          "definition": "adj. 珍貴的、寶貴的、珍愛的"
         }
       ],
       "examples": [
         {
-          "en": "The ring is very precious to her.",
+          "en": "She kept the precious necklace in a locked drawer.",
           "highlight": [
             "precious"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她把那條珍貴的項鍊鎖在抽屜裡。"
+          }
+        },
+        {
+          "en": "Time is even more precious when deadlines are approaching.",
+          "highlight": [
+            "more precious"
+          ],
+          "translations": {
+            "zh-TW": "當截止日期逼近時，時間更加寶貴。"
+          }
+        },
+        {
+          "en": "Family is the most precious thing in the world to him.",
+          "highlight": [
+            "most precious"
+          ],
+          "translations": {
+            "zh-TW": "家人是他心目中最珍貴的東西。"
           }
         }
       ],
       "synonyms": [
         "valuable",
-        "cherished"
+        "cherished",
+        "dear"
       ],
       "antonyms": [
         "worthless",
         "cheap"
       ],
       "phrases": [
-        "precious",
-        "metals",
-        "precious",
-        "moment"
+        "precious metal",
+        "precious moment",
+        "precious stone",
+        "precious time"
       ]
     },
     {
@@ -107,47 +148,63 @@
       "toeic_score_min": 500,
       "word": "precise",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "preciseed",
-        "past_participle": "preciseed",
-        "present_participle": "precising",
-        "third_person": "precises"
+        "comparative": "more precise",
+        "superlative": "most precise"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "precise",
-          "definition": "a. 精确的, 严谨的, 明确的, [机] 精密的, 正确的"
+          "definition": "adj. 精確的、嚴謹的、明確的"
         }
       ],
       "examples": [
         {
-          "en": "She gave precise instructions.",
+          "en": "The engineer gave precise instructions for assembling the machine.",
           "highlight": [
             "precise"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "工程師對機器組裝給出了精確的指示。"
+          }
+        },
+        {
+          "en": "The second model offers a more precise measurement of temperature.",
+          "highlight": [
+            "more precise"
+          ],
+          "translations": {
+            "zh-TW": "第二款機型提供了更精確的溫度測量。"
+          }
+        },
+        {
+          "en": "This is the most precise translation the team has ever produced.",
+          "highlight": [
+            "most precise"
+          ],
+          "translations": {
+            "zh-TW": "這是該團隊做過最精確的翻譯。"
           }
         }
       ],
       "synonyms": [
         "exact",
-        "accurate"
+        "accurate",
+        "specific"
       ],
       "antonyms": [
         "vague",
         "imprecise"
       ],
       "phrases": [
-        "precise",
-        "measurements",
-        "precise",
-        "timing"
+        "precise measurement",
+        "precise timing",
+        "to be precise",
+        "precise location"
       ]
     },
     {
@@ -158,48 +215,65 @@
       "toeic_score_min": 500,
       "word": "prefer",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "prefered",
-        "past_participle": "prefered",
-        "present_participle": "prefering",
-        "third_person": "prefers"
+        "present_3rd": "prefers",
+        "past": "preferred",
+        "past_participle": "preferred",
+        "ing": "preferring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "prefer",
-          "definition": "vt. 宁可, 较喜歡, 提出, [法] 给予优先权, 优先偿还, 提出"
+          "definition": "v. 比較喜歡、寧可、優先考慮"
         }
       ],
       "examples": [
         {
-          "en": "I prefer coffee over tea.",
+          "en": "I prefer tea to coffee in the morning.",
           "highlight": [
             "prefer"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "早上我比較喜歡喝茶而不是咖啡。"
+          }
+        },
+        {
+          "en": "She preferred to take the train rather than drive in the heavy rain.",
+          "highlight": [
+            "preferred"
+          ],
+          "translations": {
+            "zh-TW": "她寧可搭火車，也不願在傾盆大雨中開車。"
+          }
+        },
+        {
+          "en": "Customers are preferring online banking over visiting branches.",
+          "highlight": [
+            "preferring"
+          ],
+          "translations": {
+            "zh-TW": "顧客越來越偏好線上銀行，而非親自到分行。"
           }
         }
       ],
       "synonyms": [
         "favor",
-        "like"
+        "like better",
+        "opt for"
       ],
       "antonyms": [
         "dislike",
         "reject"
       ],
       "phrases": [
-        "prefer",
-        "tea",
-        "prefer",
-        "to",
-        "do"
+        "prefer to",
+        "prefer A to B",
+        "prefer rather than",
+        "would prefer"
       ]
     },
     {
@@ -210,48 +284,62 @@
       "toeic_score_min": 500,
       "word": "preference",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "preferenceed",
-        "past_participle": "preferenceed",
-        "present_participle": "preferencing",
-        "third_person": "preferences"
+        "plural": "preferences"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "preference",
-          "definition": "n. 偏爱, 优先, 喜爱物, [计] 首选项"
+          "definition": "n. 偏好、優先考慮、偏愛的事物"
         }
       ],
       "examples": [
         {
-          "en": "He has a preference for classical music.",
+          "en": "She has a strong preference for action movies over romantic comedies.",
           "highlight": [
             "preference"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她強烈偏好動作片，勝過浪漫喜劇。"
+          }
+        },
+        {
+          "en": "Please indicate your dietary preferences before the banquet.",
+          "highlight": [
+            "preferences"
+          ],
+          "translations": {
+            "zh-TW": "請在宴會前註明您的飲食偏好。"
+          }
+        },
+        {
+          "en": "The new app allows users to set preferences for notifications.",
+          "highlight": [
+            "preferences"
+          ],
+          "translations": {
+            "zh-TW": "新應用程式讓使用者設定通知的偏好。"
           }
         }
       ],
       "synonyms": [
         "choice",
-        "liking"
+        "liking",
+        "inclination"
       ],
       "antonyms": [
         "dislike",
         "aversion"
       ],
       "phrases": [
-        "personal",
-        "preference",
-        "show",
-        "a",
-        "preference"
+        "personal preference",
+        "show a preference for",
+        "in preference to",
+        "set preferences"
       ]
     },
     {
@@ -262,43 +350,59 @@
       "toeic_score_min": 500,
       "word": "pregnant",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "pregnants"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pregnant",
-          "definition": "a. 怀孕的, 充满的, 思想丰富的, 成果丰硕的, [医] 妊娠的, 有孕的"
+          "definition": "adj. 懷孕的、妊娠的、充滿的"
         }
       ],
       "examples": [
         {
-          "en": "She is six months pregnant.",
+          "en": "She is five months pregnant with her second child.",
           "highlight": [
             "pregnant"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她懷第二個孩子已經五個月了。"
+          }
+        },
+        {
+          "en": "The company offers generous leave for pregnant employees.",
+          "highlight": [
+            "pregnant"
+          ],
+          "translations": {
+            "zh-TW": "公司為懷孕員工提供優渥的假期。"
+          }
+        },
+        {
+          "en": "A pregnant pause fell over the room before the announcement.",
+          "highlight": [
+            "pregnant"
+          ],
+          "translations": {
+            "zh-TW": "宣布之前，房間裡出現了一陣意味深長的沉默。"
           }
         }
       ],
       "synonyms": [
         "expectant",
-        "expecting"
+        "expecting",
+        "with child"
       ],
       "antonyms": [
-        "non-pregnant"
+        "barren"
       ],
       "phrases": [
-        "pregnant",
-        "woman",
-        "pregnant",
-        "with"
+        "pregnant woman",
+        "get pregnant",
+        "pregnant with",
+        "pregnant pause"
       ]
     },
     {
@@ -309,47 +413,62 @@
       "toeic_score_min": 500,
       "word": "preparation",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "preparationed",
-        "past_participle": "preparationed",
-        "present_participle": "preparationing",
-        "third_person": "preparations"
+        "plural": "preparations"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "preparation",
-          "definition": "n. 准备, 预备, 预习, [化] 制剂"
+          "definition": "n. 準備、預備、籌備、（化學或醫學的）製劑"
         }
       ],
       "examples": [
         {
-          "en": "The preparation for the event took weeks.",
+          "en": "Thorough preparation is essential for a successful interview.",
           "highlight": [
             "preparation"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "面試要成功，充分的準備是不可或缺的。"
+          }
+        },
+        {
+          "en": "The preparations for the annual conference began in January.",
+          "highlight": [
+            "preparations"
+          ],
+          "translations": {
+            "zh-TW": "年度研討會的籌備工作從一月就開始了。"
+          }
+        },
+        {
+          "en": "The chef's special preparation of the dish takes two hours.",
+          "highlight": [
+            "preparation"
+          ],
+          "translations": {
+            "zh-TW": "主廚這道菜的特製做法需要兩個小時。"
           }
         }
       ],
       "synonyms": [
         "arrangement",
-        "readiness"
+        "readiness",
+        "planning"
       ],
       "antonyms": [
         "neglect",
-        "ignorance"
+        "carelessness"
       ],
       "phrases": [
-        "preparation",
-        "for",
-        "in",
-        "preparation"
+        "in preparation for",
+        "make preparations",
+        "preparation time",
+        "special preparation"
       ]
     },
     {
@@ -360,49 +479,65 @@
       "toeic_score_min": 500,
       "word": "prepare",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "prepareed",
-        "past_participle": "prepareed",
-        "present_participle": "preparing",
-        "third_person": "prepares"
+        "present_3rd": "prepares",
+        "past": "prepared",
+        "past_participle": "prepared",
+        "ing": "preparing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "prepare",
-          "definition": "vt. 准备, 筹备, 使在思想上有准备, 制造, 调制, vi. 预备"
+          "definition": "v. 準備、籌備、使有心理準備、配製（食物或藥物）"
         }
       ],
       "examples": [
         {
-          "en": "He prepared the meal.",
+          "en": "Students should prepare well in advance of the final exam.",
           "highlight": [
             "prepare"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "學生應該在期末考之前提早做好準備。"
+          }
+        },
+        {
+          "en": "The team prepared a detailed report for the board of directors.",
+          "highlight": [
+            "prepared"
+          ],
+          "translations": {
+            "zh-TW": "團隊為董事會準備了一份詳盡的報告。"
+          }
+        },
+        {
+          "en": "The kitchen is preparing fresh sushi for tonight's guests.",
+          "highlight": [
+            "preparing"
+          ],
+          "translations": {
+            "zh-TW": "廚房正在為今晚的賓客準備新鮮的壽司。"
           }
         }
       ],
       "synonyms": [
-        "get",
-        "ready",
-        "set",
-        "up"
+        "get ready",
+        "arrange",
+        "organize"
       ],
       "antonyms": [
         "neglect",
         "ignore"
       ],
       "phrases": [
-        "prepare",
-        "food",
-        "prepare",
-        "for"
+        "prepare for",
+        "prepare food",
+        "prepare a report",
+        "prepare oneself"
       ]
     },
     {
@@ -413,47 +548,61 @@
       "toeic_score_min": 500,
       "word": "prescription",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "prescriptioned",
-        "past_participle": "prescriptioned",
-        "present_participle": "prescriptioning",
-        "third_person": "prescriptions"
+        "plural": "prescriptions"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "prescription",
-          "definition": "n. 處方, 命令, 指定, [医] 處方, 药方"
+          "definition": "n. 處方、藥方、（法律或規則的）指定、指示"
         }
       ],
       "examples": [
         {
-          "en": "The doctor gave him a prescription.",
+          "en": "The doctor wrote a prescription for the patient's infection.",
           "highlight": [
             "prescription"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "醫師為病人的感染開了處方。"
+          }
+        },
+        {
+          "en": "You can pick up your prescriptions at the pharmacy counter.",
+          "highlight": [
+            "prescriptions"
+          ],
+          "translations": {
+            "zh-TW": "您可以在藥局櫃台領取您的處方藥。"
+          }
+        },
+        {
+          "en": "Some strong painkillers are only available by prescription.",
+          "highlight": [
+            "prescription"
+          ],
+          "translations": {
+            "zh-TW": "某些強效止痛藥只能憑處方購買。"
           }
         }
       ],
       "synonyms": [
-        "medical",
-        "instruction",
-        "doctor's",
-        "note"
+        "medicine",
+        "drug order",
+        "doctor's note"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "over-the-counter"
+      ],
       "phrases": [
-        "doctor's",
-        "prescription",
-        "write",
-        "a",
-        "prescription"
+        "by prescription",
+        "write a prescription",
+        "fill a prescription",
+        "prescription drug"
       ]
     },
     {
@@ -464,47 +613,61 @@
       "toeic_score_min": 500,
       "word": "presence",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "presenceed",
-        "past_participle": "presenceed",
-        "present_participle": "presencing",
-        "third_person": "presences"
+        "plural": "presences"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "presence",
-          "definition": "n. 出席, 面前, 存在, 仪态, 風度, [电] 出现"
+          "definition": "n. 出席、在場、存在、儀態、風度"
         }
       ],
       "examples": [
         {
-          "en": "Your presence is requested at the meeting.",
+          "en": "Your presence is requested at the annual board meeting.",
           "highlight": [
             "presence"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "懇請您出席年度董事會議。"
+          }
+        },
+        {
+          "en": "The manager's calm presence helped the team stay focused during the crisis.",
+          "highlight": [
+            "presence"
+          ],
+          "translations": {
+            "zh-TW": "經理沉穩的風度幫助團隊在危機中保持專注。"
+          }
+        },
+        {
+          "en": "The company has expanded its online presence through social media.",
+          "highlight": [
+            "presence"
+          ],
+          "translations": {
+            "zh-TW": "該公司透過社群媒體擴大了其線上能見度。"
           }
         }
       ],
       "synonyms": [
         "attendance",
-        "existence"
+        "existence",
+        "bearing"
       ],
       "antonyms": [
         "absence"
       ],
       "phrases": [
-        "in",
-        "the",
-        "presence",
-        "of",
-        "your"
+        "in the presence of",
+        "online presence",
+        "presence of mind",
+        "commanding presence"
       ]
     }
   ]
