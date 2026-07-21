@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 239,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-239-001",
@@ -15,44 +15,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "replyed",
-        "past_participle": "replyed",
-        "present_participle": "replying",
-        "third_person": "replys"
+        "plural": "replies",
+        "present_3rd": "replies",
+        "past": "replied",
+        "past_participle": "replied",
+        "ing": "replying"
       },
-      "domain": "general",
+      "domain": "communication",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "reply",
-          "definition": "n. 答复, 回答, 答辩, vi. 答复, 回答, 回击, 反響, 答辩, vt. 回答, [计] 答复"
+          "definition": "n. 回答、回覆  v. 回答、回覆"
         }
       ],
       "examples": [
         {
-          "en": "He did not reply to her question.",
+          "en": "Please reply to this email by Friday so we can finalize the schedule.",
           "highlight": [
             "reply"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在週五前回覆這封電子郵件，以便我們敲定行程。"
+          }
+        },
+        {
+          "en": "She replied to the customer's complaint within twenty-four hours.",
+          "highlight": [
+            "replied"
+          ],
+          "translations": {
+            "zh-TW": "她在二十四小時內回覆了顧客的投訴。"
+          }
+        },
+        {
+          "en": "The manager is replying to all the pending messages right now.",
+          "highlight": [
+            "replying"
+          ],
+          "translations": {
+            "zh-TW": "經理正在回覆所有待處理的訊息。"
           }
         }
       ],
       "synonyms": [
         "respond",
-        "answer"
+        "answer",
+        "acknowledge"
       ],
       "antonyms": [
         "ignore",
-        "question"
+        "disregard"
       ],
       "phrases": [
-        "quick",
-        "reply",
-        "reply",
-        "to",
-        "a"
+        "reply to",
+        "prompt reply",
+        "in reply to",
+        "reply email"
       ]
     },
     {
@@ -63,48 +82,67 @@
       "toeic_score_min": 500,
       "word": "report",
       "pos": [
-        "verb",
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "reported",
+        "plural": "reports",
+        "present_3rd": "reports",
+        "past": "reported",
         "past_participle": "reported",
-        "present_participle": "reporting",
-        "third_person": "reports"
+        "ing": "reporting"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "report",
-          "definition": "n. 报告, 报道, 传說, 案情报告, 爆炸声, 成绩单, vt. 报告, 汇报, 转述, 报道, 揭發, 使报到, vi. 报告, 写报道, 报到, [计] 报告"
+          "definition": "n. 報告、報導  v. 報告、報導、呈報"
         }
       ],
       "examples": [
         {
-          "en": "She reported the incident to the police.",
+          "en": "The quarterly report shows a significant increase in revenue.",
           "highlight": [
             "report"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "季度報告顯示營收大幅成長。"
+          }
+        },
+        {
+          "en": "He reported the broken equipment to the maintenance department immediately.",
+          "highlight": [
+            "reported"
+          ],
+          "translations": {
+            "zh-TW": "他立刻將損壞的設備呈報給維修部門。"
+          }
+        },
+        {
+          "en": "The journalist is reporting on the trade negotiations live from Geneva.",
+          "highlight": [
+            "reporting"
+          ],
+          "translations": {
+            "zh-TW": "這位記者正在日內瓦現場直播貿易談判。"
           }
         }
       ],
       "synonyms": [
-        "describe",
-        "recount"
+        "account",
+        "statement",
+        "document"
       ],
       "antonyms": [
-        "suppress",
-        "hide"
+        "conceal",
+        "suppress"
       ],
       "phrases": [
-        "report",
-        "a",
-        "crime",
-        "report",
-        "findings"
+        "annual report",
+        "report to",
+        "financial report",
+        "report a problem"
       ]
     },
     {
@@ -115,44 +153,61 @@
       "toeic_score_min": 500,
       "word": "reporter",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "reportered",
-        "past_participle": "reportered",
-        "present_participle": "reportering",
-        "third_person": "reporters"
+        "plural": "reporters"
       },
-      "domain": "general",
+      "domain": "media",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "reporter",
-          "definition": "n. 記者, 报告者, [化] 指示器"
+          "definition": "n. 記者、採訪員、新聞從業員"
         }
       ],
       "examples": [
         {
-          "en": "The reporter interviewed the mayor.",
+          "en": "The reporter raised a tough question during the press conference.",
           "highlight": [
             "reporter"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "那位記者在記者會上提出了一個尖銳的問題。"
+          }
+        },
+        {
+          "en": "Several reporters waited outside the courthouse for the verdict.",
+          "highlight": [
+            "reporters"
+          ],
+          "translations": {
+            "zh-TW": "幾位記者在法院外等候判決結果。"
+          }
+        },
+        {
+          "en": "She worked as a reporter for a local newspaper before joining the national TV station.",
+          "highlight": [
+            "reporter"
+          ],
+          "translations": {
+            "zh-TW": "她在加入全國性電視台之前，曾在地方報社擔任記者。"
           }
         }
       ],
       "synonyms": [
         "journalist",
-        "correspondent"
+        "correspondent",
+        "newsman"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "source"
+      ],
       "phrases": [
-        "news",
-        "reporter",
-        "field",
-        "reporter"
+        "field reporter",
+        "news reporter",
+        "investigative reporter",
+        "court reporter"
       ]
     },
     {
@@ -163,49 +218,65 @@
       "toeic_score_min": 500,
       "word": "represent",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "represented",
+        "present_3rd": "represents",
+        "past": "represented",
         "past_participle": "represented",
-        "present_participle": "representing",
-        "third_person": "represents"
+        "ing": "representing"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "represent",
-          "definition": "vt. 表现, 表示, 描绘, 讲述, 代表, 象征, 回忆, 再赠送, 再上演, vi. 提出异議"
+          "definition": "v. 代表、表示、象徵、代理"
         }
       ],
       "examples": [
         {
-          "en": "He was chosen to represent his country.",
+          "en": "Our law firm will represent the plaintiff in the upcoming lawsuit.",
           "highlight": [
             "represent"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們律師事務所將在即將到來的訴訟中代表原告。"
+          }
+        },
+        {
+          "en": "The sales director represented the company at the international trade fair.",
+          "highlight": [
+            "represented"
+          ],
+          "translations": {
+            "zh-TW": "業務總監在國際貿易展上代表公司出席。"
+          }
+        },
+        {
+          "en": "By representing the engineering data visually, the team could spot the trend faster.",
+          "highlight": [
+            "representing"
+          ],
+          "translations": {
+            "zh-TW": "透過以視覺化方式呈現工程數據，團隊能更快發現趨勢。"
           }
         }
       ],
       "synonyms": [
-        "stand",
-        "for",
-        "symbolize"
+        "stand for",
+        "symbolize",
+        "act for"
       ],
       "antonyms": [
         "misrepresent",
         "distort"
       ],
       "phrases": [
-        "represent",
-        "the",
-        "country",
-        "represent",
-        "an"
+        "represent a client",
+        "represent a country",
+        "represent the company",
+        "represent a district"
       ]
     },
     {
@@ -216,44 +287,61 @@
       "toeic_score_min": 500,
       "word": "representation",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "representationed",
-        "past_participle": "representationed",
-        "present_participle": "representationing",
-        "third_person": "representations"
+        "plural": "representations"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "representation",
-          "definition": "n. 表示法, 表现, 陈述, 代表, [计] 表示法指定"
+          "definition": "n. 代表、表示、表現、陳述"
         }
       ],
       "examples": [
         {
-          "en": "The painting is a representation of the artist's feelings.",
+          "en": "The union demanded fair representation on the company's board of directors.",
           "highlight": [
             "representation"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "工會要求在公司董事會中有公平的代表權。"
+          }
+        },
+        {
+          "en": "Legal representations were filed with the court before the deadline.",
+          "highlight": [
+            "representations"
+          ],
+          "translations": {
+            "zh-TW": "法律陳述書已在期限前提交至法院。"
+          }
+        },
+        {
+          "en": "The pie chart provides a clear visual representation of our market share.",
+          "highlight": [
+            "representation"
+          ],
+          "translations": {
+            "zh-TW": "圓餅圖清楚地以視覺化方式呈現我們的市占率。"
           }
         }
       ],
       "synonyms": [
+        "portrayal",
         "depiction",
-        "portrayal"
+        "statement"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "misrepresentation"
+      ],
       "phrases": [
-        "accurate",
-        "representation",
-        "visual",
-        "representation"
+        "accurate representation",
+        "visual representation",
+        "legal representation",
+        "fair representation"
       ]
     },
     {
@@ -270,35 +358,56 @@
       "conjugations": {
         "plural": "representatives"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "representative",
-          "definition": "n. 代表, 众議員, 典型, a. 描写的, 表现的, 代理的, 代表的, 代議制的, 典型的"
+          "definition": "n. 代表、代理人  adj. 典型的、代表的"
         }
       ],
       "examples": [
         {
-          "en": "The representative spoke on behalf of the company.",
+          "en": "The customer service representative handled the refund request efficiently.",
           "highlight": [
             "representative"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "客服代表很有效率地處理了退款要求。"
+          }
+        },
+        {
+          "en": "Sales representatives from various regions attended the annual product launch.",
+          "highlight": [
+            "representatives"
+          ],
+          "translations": {
+            "zh-TW": "來自各區的業務代表出席了年度新產品發表會。"
+          }
+        },
+        {
+          "en": "This survey is representative of the overall consumer satisfaction in the region.",
+          "highlight": [
+            "representative"
+          ],
+          "translations": {
+            "zh-TW": "這項調查足以代表該地區整體的消費者滿意度。"
           }
         }
       ],
       "synonyms": [
         "delegate",
-        "agent"
+        "agent",
+        "spokesperson"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "unrepresentative"
+      ],
       "phrases": [
-        "sales",
-        "representative",
-        "company",
-        "representative"
+        "sales representative",
+        "customer representative",
+        "representative sample",
+        "union representative"
       ]
     },
     {
@@ -309,48 +418,65 @@
       "toeic_score_min": 500,
       "word": "reproduce",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "reproduceed",
-        "past_participle": "reproduceed",
-        "present_participle": "reproducing",
-        "third_person": "reproduces"
+        "present_3rd": "reproduces",
+        "past": "reproduced",
+        "past_participle": "reproduced",
+        "ing": "reproducing"
       },
-      "domain": "general",
+      "domain": "science",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "reproduce",
-          "definition": "v. 繁殖, 再生, 复制, 生殖, [计] 复制"
+          "definition": "v. 繁殖、複製、再生、重現"
         }
       ],
       "examples": [
         {
-          "en": "Scientists can reproduce the results of the experiment.",
+          "en": "Scientists must reproduce the experiment results to confirm the findings.",
           "highlight": [
             "reproduce"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "科學家必須重現實驗結果以確認研究發現。"
+          }
+        },
+        {
+          "en": "The factory reproduced the defect-free components using the updated molds.",
+          "highlight": [
+            "reproduced"
+          ],
+          "translations": {
+            "zh-TW": "工廠使用更新的模具重製了無缺陷的零件。"
+          }
+        },
+        {
+          "en": "The research lab is reproducing a high-quality copy of the rare manuscript.",
+          "highlight": [
+            "reproducing"
+          ],
+          "translations": {
+            "zh-TW": "研究實驗室正在複製這份稀有手稿的高品質副本。"
           }
         }
       ],
       "synonyms": [
         "copy",
-        "duplicate"
+        "duplicate",
+        "replicate"
       ],
       "antonyms": [
         "destroy",
-        "neglect"
+        "originate"
       ],
       "phrases": [
-        "reproduce",
-        "the",
-        "image",
-        "reproduce",
-        "successfully"
+        "reproduce results",
+        "reproduce a document",
+        "reproduce offspring",
+        "reproduce accurately"
       ]
     },
     {
@@ -361,48 +487,62 @@
       "toeic_score_min": 500,
       "word": "reputation",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "reputationed",
-        "past_participle": "reputationed",
-        "present_participle": "reputationing",
-        "third_person": "reputations"
+        "plural": "reputations"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "reputation",
-          "definition": "n. 名誉, 名声, 声望, [法] 名声, 名誉, 公认证据"
+          "definition": "n. 名聲、聲譽、名望"
         }
       ],
       "examples": [
         {
-          "en": "She has a reputation for being very intelligent.",
+          "en": "The restaurant has built a strong reputation for using fresh ingredients.",
           "highlight": [
             "reputation"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家餐廳以使用新鮮食材建立了良好的聲譽。"
+          }
+        },
+        {
+          "en": "The accounting firm's reputations suffered after the financial scandal was exposed.",
+          "highlight": [
+            "reputations"
+          ],
+          "translations": {
+            "zh-TW": "會計事務所的聲譽在財務醜聞曝光後受到損害。"
+          }
+        },
+        {
+          "en": "Maintaining a professional reputation is essential in the consulting industry.",
+          "highlight": [
+            "reputation"
+          ],
+          "translations": {
+            "zh-TW": "在顧問業中，維持專業聲譽是不可或缺的。"
           }
         }
       ],
       "synonyms": [
         "fame",
-        "standing"
+        "standing",
+        "prestige"
       ],
       "antonyms": [
-        "infamy",
-        "anonymity"
+        "disgrace",
+        "infamy"
       ],
       "phrases": [
-        "good",
-        "reputation",
-        "build",
-        "a",
-        "reputation"
+        "good reputation",
+        "build a reputation",
+        "damage one's reputation",
+        "reputation for quality"
       ]
     },
     {
@@ -417,40 +557,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "requested",
+        "plural": "requests",
+        "present_3rd": "requests",
+        "past": "requested",
         "past_participle": "requested",
-        "present_participle": "requesting",
-        "third_person": "requests"
+        "ing": "requesting"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "request",
-          "definition": "n. 請求, 需要, 申請書, vt. 請求, 要求, 邀請, [计] 請求"
+          "definition": "n. 請求、要求、申請  v. 請求、要求"
         }
       ],
       "examples": [
         {
-          "en": "She made a request for more information.",
+          "en": "We received a formal request for additional project documentation.",
           "highlight": [
             "request"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們收到了一份正式的額外專案文件申請。"
+          }
+        },
+        {
+          "en": "The client requested that the delivery date be moved up by one week.",
+          "highlight": [
+            "requested"
+          ],
+          "translations": {
+            "zh-TW": "客戶要求將交貨日期提前一週。"
+          }
+        },
+        {
+          "en": "She is requesting a transfer to the Singapore branch for family reasons.",
+          "highlight": [
+            "requesting"
+          ],
+          "translations": {
+            "zh-TW": "她因為家庭因素正在申請調任新加坡分公司。"
           }
         }
       ],
       "synonyms": [
         "demand",
-        "plea"
+        "plea",
+        "appeal"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "grant",
+        "supply"
+      ],
       "phrases": [
-        "formal",
-        "request",
-        "request",
-        "for"
+        "formal request",
+        "on request",
+        "request form",
+        "by request"
       ]
     },
     {
@@ -461,47 +624,65 @@
       "toeic_score_min": 500,
       "word": "require",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "requireed",
-        "past_participle": "requireed",
-        "present_participle": "requiring",
-        "third_person": "requires"
+        "present_3rd": "requires",
+        "past": "required",
+        "past_participle": "required",
+        "ing": "requiring"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "require",
-          "definition": "vt. 需要, 命令, 要求, [法] 需要, 要求, 命令"
+          "definition": "v. 需要、要求、規定"
         }
       ],
       "examples": [
         {
-          "en": "This task requires a lot of effort.",
+          "en": "This position requires at least three years of relevant experience.",
           "highlight": [
-            "require"
+            "requires"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這個職位要求至少三年的相關工作經驗。"
+          }
+        },
+        {
+          "en": "All applicants were required to submit a portfolio along with their resume.",
+          "highlight": [
+            "required"
+          ],
+          "translations": {
+            "zh-TW": "所有申請者都必須連同履歷一併提交作品集。"
+          }
+        },
+        {
+          "en": "Updating the legacy system is requiring more resources than originally estimated.",
+          "highlight": [
+            "requiring"
+          ],
+          "translations": {
+            "zh-TW": "更新舊系統正在耗用比原先預估更多的資源。"
           }
         }
       ],
       "synonyms": [
         "need",
+        "demand",
         "necessitate"
       ],
       "antonyms": [
         "provide",
-        "yield"
+        "waive"
       ],
       "phrases": [
-        "require",
-        "assistance",
-        "require",
-        "effort"
+        "require attention",
+        "require a permit",
+        "require additional funds",
+        "require skills"
       ]
     }
   ]
