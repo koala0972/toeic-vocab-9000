@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 219,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-219-001",
@@ -15,40 +15,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "poted",
-        "past_participle": "poted",
-        "present_participle": "poting",
-        "third_person": "pots"
+        "plural": "pots",
+        "present_3rd": "pots",
+        "past": "potted",
+        "past_participle": "potted",
+        "ing": "potting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pot",
-          "definition": "n. 盆, 罐, 壶, 坩埚, 奖杯, vt. 装入盆中, 在锅中煮, 随手射击, vi. 随手射击"
+          "definition": "n. 鍋、罐、花盆  v. 把…裝入罐中、栽種（於花盆）"
         }
       ],
       "examples": [
         {
-          "en": "She cooked the soup in a large pot.",
+          "en": "She boiled the pasta in a large pot.",
           "highlight": [
             "pot"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她用一個大鍋煮義大利麵。"
+          }
+        },
+        {
+          "en": "The gardener potted the young fern into fresh soil.",
+          "highlight": [
+            "potted"
+          ],
+          "translations": {
+            "zh-TW": "園丁把幼小的蕨類植物栽種到新的土壤盆裡。"
+          }
+        },
+        {
+          "en": "He spent the afternoon potting succulents for the shop window.",
+          "highlight": [
+            "potting"
+          ],
+          "translations": {
+            "zh-TW": "他整個下午都在為店面櫥窗將多肉植物入盆栽種。"
           }
         }
       ],
       "synonyms": [
         "container",
-        "vessel"
+        "vessel",
+        "pan"
       ],
       "antonyms": [],
       "phrases": [
-        "cooking",
-        "pot",
-        "flower",
-        "pot"
+        "cooking pot",
+        "flower pot",
+        "pot luck",
+        "melt the pot"
       ]
     },
     {
@@ -59,43 +79,58 @@
       "toeic_score_min": 500,
       "word": "potato",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "potatoed",
-        "past_participle": "potatoed",
-        "present_participle": "potatoing",
-        "third_person": "potatos"
+        "plural": "potatoes"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "potato",
-          "definition": "n. 馬铃薯"
+          "definition": "n. 馬鈴薯"
         }
       ],
       "examples": [
         {
-          "en": "He peeled the potato.",
+          "en": "The chef baked a potato for the dinner special.",
           "highlight": [
             "potato"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "主廚為晚餐特餐烤了一顆馬鈴薯。"
+          }
+        },
+        {
+          "en": "They ordered two potatoes with sour cream on the side.",
+          "highlight": [
+            "potatoes"
+          ],
+          "translations": {
+            "zh-TW": "他們點了兩顆馬鈴薯，旁邊附上酸奶油。"
+          }
+        },
+        {
+          "en": "Mashed potatoes are a popular side dish for steak.",
+          "highlight": [
+            "potatoes"
+          ],
+          "translations": {
+            "zh-TW": "馬鈴薯泥是牛排的熱門配菜。"
           }
         }
       ],
       "synonyms": [
-        "spud"
+        "spud",
+        "tuber"
       ],
       "antonyms": [],
       "phrases": [
-        "baked",
-        "potato",
-        "mashed",
-        "potato"
+        "baked potato",
+        "mashed potato",
+        "sweet potato",
+        "couch potato"
       ]
     },
     {
@@ -110,39 +145,61 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "potentials"
+        "plural": "potentials",
+        "comparative": "more potential",
+        "superlative": "most potential"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "potential",
-          "definition": "n. 潜在性, 可能性, 潜力, 潜能, 势, 位, a. 有潜力的, 可能的, 潜在的"
+          "definition": "adj. 潛在的、有可能性的  n. 潛力、潛能"
         }
       ],
       "examples": [
         {
-          "en": "She has a lot of potential.",
+          "en": "The manager sees great potential in the new trainee.",
           "highlight": [
             "potential"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理看到那位新實習生有很大的潛力。"
+          }
+        },
+        {
+          "en": "These three candidates are the potential hires we interviewed.",
+          "highlight": [
+            "potential"
+          ],
+          "translations": {
+            "zh-TW": "這三位候選人是我們面試過的潛在錄用人選。"
+          }
+        },
+        {
+          "en": "We must weigh all the potentials before launching the product.",
+          "highlight": [
+            "potentials"
+          ],
+          "translations": {
+            "zh-TW": "我們必須在推出產品前衡量所有可能的潛在情況。"
           }
         }
       ],
       "synonyms": [
         "latent",
-        "prospective"
+        "prospective",
+        "possible"
       ],
       "antonyms": [
-        "actual"
+        "actual",
+        "realized"
       ],
       "phrases": [
-        "potential",
-        "risk",
-        "potential",
-        "benefit"
+        "potential risk",
+        "potential benefit",
+        "reach one's potential",
+        "untapped potential"
       ]
     },
     {
@@ -161,31 +218,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "potentially",
-          "definition": "adv. 可能地, 潜在地"
+          "definition": "adv. 可能地、潛在地"
         }
       ],
       "examples": [
         {
-          "en": "Potentially, this could be a huge success.",
+          "en": "Potentially, the merger could double our market share.",
           "highlight": [
             "potentially"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這樁併購有可能使我們的市場占有率翻倍。"
+          }
+        },
+        {
+          "en": "The new policy is potentially harmful to small businesses.",
+          "highlight": [
+            "potentially"
+          ],
+          "translations": {
+            "zh-TW": "這項新政策對小型企業可能有危害。"
+          }
+        },
+        {
+          "en": "Potentially costly delays can be avoided with better planning.",
+          "highlight": [
+            "potentially"
+          ],
+          "translations": {
+            "zh-TW": "透過更好的規劃，可以避免可能昂貴的延遲。"
           }
         }
       ],
       "synonyms": [
-        "possibly"
+        "possibly",
+        "conceivably",
+        "perhaps"
       ],
       "antonyms": [
-        "definitely"
+        "definitely",
+        "certainly"
       ],
       "phrases": [
-        "potentially",
-        "dangerous",
-        "potentially",
-        "harmful"
+        "potentially dangerous",
+        "potentially harmful",
+        "potentially useful",
+        "potentially life-threatening"
       ]
     },
     {
@@ -200,41 +278,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "pounded",
+        "plural": "pounds",
+        "present_3rd": "pounds",
+        "past": "pounded",
         "past_participle": "pounded",
-        "present_participle": "pounding",
-        "third_person": "pounds"
+        "ing": "pounding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pound",
-          "definition": "n. 磅, 英镑, 重击, 鱼塘, 拘留所, 兽栏, vt. 强烈打击, 捣烂, 监禁, 關入栏内, vi. 连续重击, 苦干"
+          "definition": "n. 磅（重量單位）、英鎊（貨幣）  v. 連續重擊、搗碎"
         }
       ],
       "examples": [
         {
-          "en": "He weighs about 150 pounds.",
+          "en": "She received five pounds in change after paying with a twenty-pound note.",
           "highlight": [
-            "pound"
+            "pounds"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她用一張二十英鎊紙鈔付款後，找回五英鎊。"
+          }
+        },
+        {
+          "en": "The heavy rain pounded against the office windows all night.",
+          "highlight": [
+            "pounded"
+          ],
+          "translations": {
+            "zh-TW": "整晚大雨連續重打著辦公室的窗戶。"
+          }
+        },
+        {
+          "en": "He could hear his heart pounding as he walked into the interview room.",
+          "highlight": [
+            "pounding"
+          ],
+          "translations": {
+            "zh-TW": "他走進面試室時，可以聽到自己怦怦跳動的心跳聲。"
           }
         }
       ],
       "synonyms": [
-        "lb",
+        "strike",
+        "hammer",
         "weight"
       ],
       "antonyms": [],
       "phrases": [
-        "pound",
-        "of",
-        "weight",
-        "pound",
-        "sterling"
+        "pound sterling",
+        "pound the pavement",
+        "lose a pound",
+        "cost a pretty pound"
       ]
     },
     {
@@ -249,44 +346,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "poured",
+        "plural": "pours",
+        "present_3rd": "pours",
+        "past": "poured",
         "past_participle": "poured",
-        "present_participle": "pouring",
-        "third_person": "pours"
+        "ing": "pouring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pour",
-          "definition": "n. 流出, 倾泻, 骤雨, vt. 倒, 灌, 注, 倾泻, 诉說, 倾吐, vi. 倾泻, 蜂涌而來, 下大雨"
+          "definition": "v. 倒、注入、傾瀉、傾訴  n. 傾倒、大雨"
         }
       ],
       "examples": [
         {
-          "en": "She poured the juice into a glass.",
+          "en": "The barista pours latte art into every cup.",
           "highlight": [
-            "pour"
+            "pours"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "咖啡師為每一杯咖啡都拉花倒入。"
+          }
+        },
+        {
+          "en": "She poured the documents onto the desk and signed them one by one.",
+          "highlight": [
+            "poured"
+          ],
+          "translations": {
+            "zh-TW": "她把文件一股腦倒在桌上，一份一份簽名。"
+          }
+        },
+        {
+          "en": "It was pouring rain when the guests arrived at the reception.",
+          "highlight": [
+            "pouring"
+          ],
+          "translations": {
+            "zh-TW": "賓客抵達招待會時，正下著傾盆大雨。"
           }
         }
       ],
       "synonyms": [
         "stream",
-        "flow"
+        "flow",
+        "gush"
       ],
       "antonyms": [
         "stop",
         "hold"
       ],
       "phrases": [
-        "pour",
-        "a",
-        "drink",
-        "pour",
-        "out"
+        "pour a drink",
+        "pour out",
+        "pouring rain",
+        "pour cold water on"
       ]
     },
     {
@@ -301,40 +417,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "powdered",
+        "plural": "powders",
+        "present_3rd": "powders",
+        "past": "powdered",
         "past_participle": "powdered",
-        "present_participle": "powdering",
-        "third_person": "powders"
+        "ing": "powdering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "powder",
-          "definition": "n. 粉, 粉末, 火药, vt. 搽粉于, 搽粉, 撒粉, 使成粉末, vi. 搽粉, 变成粉末"
+          "definition": "n. 粉、粉末、火藥  v. 搽粉、使成粉末"
         }
       ],
       "examples": [
         {
-          "en": "He sprinkled powder on the cake.",
+          "en": "The spa offered several mineral powders for the facial treatment.",
           "highlight": [
-            "powder"
+            "powders"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "SPA 提供了幾種礦物粉用於臉部保養。"
+          }
+        },
+        {
+          "en": "The gymnast powdered her hands before gripping the bars.",
+          "highlight": [
+            "powdered"
+          ],
+          "translations": {
+            "zh-TW": "體操選手在握槓前先在手上搽了防滑粉。"
+          }
+        },
+        {
+          "en": "She was powdering her nose when the announcement came over the speaker.",
+          "highlight": [
+            "powdering"
+          ],
+          "translations": {
+            "zh-TW": "她正在補妝撲粉時，廣播傳來了通知。"
           }
         }
       ],
       "synonyms": [
         "dust",
-        "particles"
+        "particles",
+        "pulverize"
       ],
       "antonyms": [],
       "phrases": [
-        "face",
-        "powder",
-        "baking",
-        "powder"
+        "face powder",
+        "baking powder",
+        "gunpowder",
+        "powder one's nose"
       ]
     },
     {
@@ -349,43 +485,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "powered",
+        "plural": "powers",
+        "present_3rd": "powers",
+        "past": "powered",
         "past_participle": "powered",
-        "present_participle": "powering",
-        "third_person": "powers"
+        "ing": "powering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "power",
-          "definition": "n. 力, 体力, 力量, 势力, 動力, 权力, 强國, 乘方, 强度, 幂, 功率, vt. 使...有力量, 供以動力, 激励, [计] 乘幂; DOS外部命令:能控制许多电池电源计算机上的电源管理特性"
+          "definition": "n. 力量、權力、動力、電力、強國  v. 供給…動力、驅動"
         }
       ],
       "examples": [
         {
-          "en": "The generator provides power to the building.",
+          "en": "The new CFO has the power to approve budgets up to one million dollars.",
           "highlight": [
             "power"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新任財務長有權核可最高一百萬美元的預算。"
+          }
+        },
+        {
+          "en": "The solar panels powered the entire research station during the expedition.",
+          "highlight": [
+            "powered"
+          ],
+          "translations": {
+            "zh-TW": "太陽能板在整個考察期間為研究站提供全部動力。"
+          }
+        },
+        {
+          "en": "A new engine is powering the latest model of the electric scooters.",
+          "highlight": [
+            "powering"
+          ],
+          "translations": {
+            "zh-TW": "一顆新引擎正驅動最新款的電動滑板車。"
           }
         }
       ],
       "synonyms": [
         "strength",
-        "energy"
+        "energy",
+        "authority"
       ],
       "antonyms": [
         "weakness",
-        "incapacity"
+        "powerlessness"
       ],
       "phrases": [
-        "power",
-        "supply",
-        "power",
-        "source"
+        "power supply",
+        "power source",
+        "come to power",
+        "purchasing power"
       ]
     },
     {
@@ -396,44 +552,63 @@
       "toeic_score_min": 500,
       "word": "powerful",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "powerfuls"
+        "comparative": "more powerful",
+        "superlative": "most powerful"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "powerful",
-          "definition": "a. 有力的, 有权力的, 强大的, [机] 强力的"
+          "definition": "adj. 有力量的、強大的、有權力的"
         }
       ],
       "examples": [
         {
-          "en": "The storm was very powerful.",
+          "en": "The CEO is a powerful figure in the pharmaceutical industry.",
           "highlight": [
             "powerful"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位執行長是製藥產業中具有強大影響力的人物。"
+          }
+        },
+        {
+          "en": "A more powerful processor is needed to run the new graphics software.",
+          "highlight": [
+            "more powerful"
+          ],
+          "translations": {
+            "zh-TW": "需要更強大的處理器才能執行新的繪圖軟體。"
+          }
+        },
+        {
+          "en": "The professor is the most powerful voice on the advisory committee.",
+          "highlight": [
+            "most powerful"
+          ],
+          "translations": {
+            "zh-TW": "這位教授是顧問委員會中最具影響力的聲音。"
           }
         }
       ],
       "synonyms": [
         "strong",
-        "mighty"
+        "mighty",
+        "influential"
       ],
       "antonyms": [
         "weak",
         "powerless"
       ],
       "phrases": [
-        "powerful",
-        "engine",
-        "powerful",
-        "leader"
+        "powerful engine",
+        "powerful leader",
+        "powerful tool",
+        "powerful argument"
       ]
     },
     {
@@ -448,40 +623,61 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "practicals"
+        "plural": "practicals",
+        "comparative": "more practical",
+        "superlative": "most practical"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "practical",
-          "definition": "a. 實际的, 现實的, 實用性的, [法] 事實上的, 實际上的, 接近...的"
+          "definition": "adj. 實用的、實際的、切合實際的  n. 實作課、實務考試"
         }
       ],
       "examples": [
         {
-          "en": "She has a practical approach to problem-solving.",
+          "en": "The team adopted a practical approach to cutting monthly expenses.",
           "highlight": [
             "practical"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "團隊採取了實用的方式來削減每月開支。"
+          }
+        },
+        {
+          "en": "A more practical location for the branch office would be downtown.",
+          "highlight": [
+            "more practical"
+          ],
+          "translations": {
+            "zh-TW": "設立分公司更實際的地點是市中心。"
+          }
+        },
+        {
+          "en": "This compact sedan is the most practical choice for daily commuting.",
+          "highlight": [
+            "most practical"
+          ],
+          "translations": {
+            "zh-TW": "這款小型轎車是日常通勤最實用的選擇。"
           }
         }
       ],
       "synonyms": [
         "realistic",
-        "sensible"
+        "sensible",
+        "useful"
       ],
       "antonyms": [
         "theoretical",
         "impractical"
       ],
       "phrases": [
-        "practical",
-        "solution",
-        "practical",
-        "experience"
+        "practical solution",
+        "practical experience",
+        "practical joke",
+        "practical skills"
       ]
     }
   ]
