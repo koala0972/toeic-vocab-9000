@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 233,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-233-001",
@@ -19,33 +19,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "recently",
-          "definition": "adv. 最近"
+          "definition": "adv. 最近、近來"
         }
       ],
       "examples": [
         {
-          "en": "I recently visited my friend.",
+          "en": "The company recently opened a new branch in Singapore.",
           "highlight": [
             "recently"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司最近在新加坡開設了新的分公司。"
+          }
+        },
+        {
+          "en": "Have you seen Mr. Lee recently? He seems quite busy.",
+          "highlight": [
+            "recently"
+          ],
+          "translations": {
+            "zh-TW": "你最近見到李先生了嗎?他似乎非常忙碌。"
+          }
+        },
+        {
+          "en": "Our sales have improved significantly as of recently.",
+          "highlight": [
+            "recently"
+          ],
+          "translations": {
+            "zh-TW": "我們的銷售額近來有了顯著的改善。"
           }
         }
       ],
       "synonyms": [
         "lately",
-        "just"
+        "newly",
+        "freshly"
       ],
       "antonyms": [
-        "long",
-        "ago"
+        "long ago",
+        "previously"
       ],
       "phrases": [
-        "recently",
-        "arrived",
-        "recently",
-        "discovered"
+        "recently released",
+        "recently announced",
+        "as of recently",
+        "recently developed"
       ]
     },
     {
@@ -56,45 +75,59 @@
       "toeic_score_min": 500,
       "word": "recipe",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "recipeed",
-        "past_participle": "recipeed",
-        "present_participle": "reciping",
-        "third_person": "recipes"
+        "plural": "recipes"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "recipe",
-          "definition": "n. 食谱, 處方, 秘诀, [医] 取(處方頭語), 處方"
+          "definition": "n. 食譜、烹飪法、秘訣"
         }
       ],
       "examples": [
         {
-          "en": "She followed the recipe carefully.",
+          "en": "The chef shared a recipe for traditional Italian pasta.",
           "highlight": [
             "recipe"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "主�師分享了一道傳統義大利麵的食譜。"
+          }
+        },
+        {
+          "en": "She collected hundreds of recipes from around the world.",
+          "highlight": [
+            "recipes"
+          ],
+          "translations": {
+            "zh-TW": "她收藏了來自世界各地數百道食譜。"
+          }
+        },
+        {
+          "en": "Hard work is the best recipe for success in business.",
+          "highlight": [
+            "recipe"
+          ],
+          "translations": {
+            "zh-TW": "努力工作是商業成功的最佳秘訣。"
           }
         }
       ],
       "synonyms": [
-        "instructions",
-        "method"
+        "formula",
+        "method",
+        "instructions"
       ],
       "antonyms": [],
       "phrases": [
-        "cooking",
-        "recipe",
-        "follow",
-        "a",
-        "recipe"
+        "follow a recipe",
+        "secret recipe",
+        "recipe for success",
+        "try a new recipe"
       ]
     },
     {
@@ -105,46 +138,62 @@
       "toeic_score_min": 500,
       "word": "recognition",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "recognitioned",
-        "past_participle": "recognitioned",
-        "present_participle": "recognitioning",
-        "third_person": "recognitions"
+        "plural": "recognitions"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "recognition",
-          "definition": "n. 赞誉, 认得, 识别, 承认, 认可, 认识, [电] 认识"
+          "definition": "n. 認可、承認、讚賞、識別"
         }
       ],
       "examples": [
         {
-          "en": "He earned recognition for his work.",
+          "en": "She received recognition for her outstanding performance.",
           "highlight": [
             "recognition"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她因傑出的表現而獲得讚賞。"
+          }
+        },
+        {
+          "en": "The company gained international recognitions for its innovation.",
+          "highlight": [
+            "recognitions"
+          ],
+          "translations": {
+            "zh-TW": "公司因創新而獲得國際間的多項認可。"
+          }
+        },
+        {
+          "en": "Facial recognition technology is widely used in modern security systems.",
+          "highlight": [
+            "recognition"
+          ],
+          "translations": {
+            "zh-TW": "臉部辨識科技現已廣泛應用於現代安全系統中。"
           }
         }
       ],
       "synonyms": [
         "acknowledgment",
+        "appreciation",
         "identification"
       ],
       "antonyms": [
+        "disregard",
         "ignorance"
       ],
       "phrases": [
-        "gain",
-        "recognition",
-        "public",
-        "recognition"
+        "gain recognition",
+        "public recognition",
+        "in recognition of",
+        "award recognition"
       ]
     },
     {
@@ -155,48 +204,66 @@
       "toeic_score_min": 500,
       "word": "recognize",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "recognizeed",
-        "past_participle": "recognizeed",
-        "present_participle": "recognizing",
-        "third_person": "recognizes"
+        "present_3rd": "recognizes",
+        "past": "recognized",
+        "past_participle": "recognized",
+        "ing": "recognizing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "recognize",
-          "definition": "vt. 认出, 认可, 承认, 公认, 识别, 赏识, vi. 承认, 具結"
+          "definition": "v. 認出、辨識、承認、認可"
         }
       ],
       "examples": [
         {
-          "en": "I recognize her from school.",
+          "en": "I recognize her from the conference we attended last year.",
           "highlight": [
             "recognize"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我認出她是去年我們參加研討會時見過的那位。"
+          }
+        },
+        {
+          "en": "The manager recognized his efforts and promoted him.",
+          "highlight": [
+            "recognized"
+          ],
+          "translations": {
+            "zh-TW": "經理認可了他的努力並將他晉升。"
+          }
+        },
+        {
+          "en": "She is recognizing the importance of teamwork in the project.",
+          "highlight": [
+            "recognizing"
+          ],
+          "translations": {
+            "zh-TW": "她正在體會團隊合作在這個專案中的重要性。"
           }
         }
       ],
       "synonyms": [
         "identify",
-        "know"
+        "acknowledge",
+        "admit"
       ],
       "antonyms": [
-        "misidentify",
-        "overlook"
+        "overlook",
+        "ignore",
+        "misidentify"
       ],
       "phrases": [
-        "recognize",
-        "a",
-        "face",
-        "recognize",
-        "a"
+        "recognize a face",
+        "widely recognized",
+        "recognize the contribution",
+        "officially recognize"
       ]
     },
     {
@@ -207,48 +274,66 @@
       "toeic_score_min": 500,
       "word": "recommend",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "recommended",
+        "present_3rd": "recommends",
+        "past": "recommended",
         "past_participle": "recommended",
-        "present_participle": "recommending",
-        "third_person": "recommends"
+        "ing": "recommending"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "recommend",
-          "definition": "vt. 推荐, 介绍, 劝告, 使受歡迎, 托付, [經] 建議, 推荐"
+          "definition": "v. 推薦、建議、介紹"
         }
       ],
       "examples": [
         {
-          "en": "She recommends this book.",
+          "en": "I recommend this restaurant to all my business partners.",
           "highlight": [
             "recommend"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我向所有商業夥伴推薦這家餐廳。"
+          }
+        },
+        {
+          "en": "The doctor recommended a balanced diet and regular exercise.",
+          "highlight": [
+            "recommended"
+          ],
+          "translations": {
+            "zh-TW": "醫生建議均衡飲食和規律運動。"
+          }
+        },
+        {
+          "en": "Our HR manager is recommending her for the senior position.",
+          "highlight": [
+            "recommending"
+          ],
+          "translations": {
+            "zh-TW": "我們的人資經理正推薦她擔任資深職位。"
           }
         }
       ],
       "synonyms": [
         "suggest",
-        "endorse"
+        "endorse",
+        "advise"
       ],
       "antonyms": [
         "discourage",
-        "disapprove"
+        "disapprove",
+        "oppose"
       ],
       "phrases": [
-        "highly",
-        "recommend",
-        "recommend",
-        "a",
-        "book"
+        "highly recommend",
+        "recommend a product",
+        "recommend someone for",
+        "strongly recommended"
       ]
     },
     {
@@ -263,40 +348,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "recorded",
+        "plural": "records",
+        "present_3rd": "records",
+        "past": "recorded",
         "past_participle": "recorded",
-        "present_participle": "recording",
-        "third_person": "records"
+        "ing": "recording"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "record",
-          "definition": "n. 記录, 履歷, 档案, 审判記录, 最高纪录, 唱片, vt. 記录, 記载, 标明, 将...录音, vi. 記录, 录音, 可被录音, a. 创纪录的, [计] 录制, 記录"
+          "definition": "n. 記錄、檔案、唱片、紀錄  v. 記錄、錄製"
         }
       ],
       "examples": [
         {
-          "en": "He set a new world record.",
+          "en": "The athlete set a new world record at the Olympics.",
           "highlight": [
             "record"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位運動員在奧運創下新的世界紀錄。"
+          }
+        },
+        {
+          "en": "All financial records were kept in the company's database.",
+          "highlight": [
+            "records"
+          ],
+          "translations": {
+            "zh-TW": "所有財務記錄都保存在公司的資料庫中。"
+          }
+        },
+        {
+          "en": "The meeting was recorded for future reference.",
+          "highlight": [
+            "recorded"
+          ],
+          "translations": {
+            "zh-TW": "會議已被錄製下來以供日後參考。"
           }
         }
       ],
       "synonyms": [
         "document",
-        "log"
+        "log",
+        "register"
       ],
       "antonyms": [],
       "phrases": [
-        "world",
-        "record",
-        "record",
-        "holder"
+        "world record",
+        "break a record",
+        "keep a record",
+        "record holder"
       ]
     },
     {
@@ -307,44 +412,59 @@
       "toeic_score_min": 500,
       "word": "recording",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "recordinged",
-        "past_participle": "recordinged",
-        "present_participle": "recordinging",
-        "third_person": "recordings"
+        "plural": "recordings"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "recording",
-          "definition": "a. 記录的, 記录用的, n. 录音"
+          "definition": "n. 錄音、錄影、紀錄作品"
         }
       ],
       "examples": [
         {
-          "en": "She listened to the recording.",
+          "en": "The recording of the conference is available online.",
           "highlight": [
             "recording"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "研討會的錄影可在線上觀看。"
+          }
+        },
+        {
+          "en": "She has produced several recordings of classical music.",
+          "highlight": [
+            "recordings"
+          ],
+          "translations": {
+            "zh-TW": "她已製作了數張古典音樂錄音作品。"
+          }
+        },
+        {
+          "en": "The studio specializes in high-quality audio recording.",
+          "highlight": [
+            "recording"
+          ],
+          "translations": {
+            "zh-TW": "這間錄音室專門製作高品質的音訊錄製。"
           }
         }
       ],
       "synonyms": [
         "taping",
-        "documentation"
+        "track",
+        "audio file"
       ],
       "antonyms": [],
       "phrases": [
-        "audio",
-        "recording",
-        "recording",
-        "studio"
+        "audio recording",
+        "video recording",
+        "recording studio",
+        "make a recording"
       ]
     },
     {
@@ -355,47 +475,66 @@
       "toeic_score_min": 500,
       "word": "recover",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "recovered",
+        "present_3rd": "recovers",
+        "past": "recovered",
         "past_participle": "recovered",
-        "present_participle": "recovering",
-        "third_person": "recovers"
+        "ing": "recovering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "recover",
-          "definition": "vt. 重新获得, 恢复, 复原, 拯救, vi. 痊愈, 复原, 胜诉, [计] 恢复"
+          "definition": "v. 恢復、復原、痊癒、找回"
         }
       ],
       "examples": [
         {
-          "en": "He is expected to recover soon.",
+          "en": "The patient is expected to recover fully within two weeks.",
           "highlight": [
             "recover"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位病人預計兩週內會完全康復。"
+          }
+        },
+        {
+          "en": "The stock market recovered quickly after the sudden drop.",
+          "highlight": [
+            "recovered"
+          ],
+          "translations": {
+            "zh-TW": "股市在突然下跌後迅速回升。"
+          }
+        },
+        {
+          "en": "She is still recovering from the surgery.",
+          "highlight": [
+            "recovering"
+          ],
+          "translations": {
+            "zh-TW": "她仍在手術後復原中。"
           }
         }
       ],
       "synonyms": [
         "heal",
-        "recuperate"
+        "recuperate",
+        "regain"
       ],
       "antonyms": [
         "deteriorate",
-        "worsen"
+        "worsen",
+        "decline"
       ],
       "phrases": [
-        "recover",
-        "from",
-        "recover",
-        "quickly"
+        "recover from",
+        "recover quickly",
+        "fully recover",
+        "recover losses"
       ]
     },
     {
@@ -406,47 +545,63 @@
       "toeic_score_min": 500,
       "word": "recovery",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "recoveryed",
-        "past_participle": "recoveryed",
-        "present_participle": "recoverying",
-        "third_person": "recoverys"
+        "plural": "recoveries"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "recovery",
-          "definition": "n. 恢复, 复原, 痊愈, 重获, [计] 恢复"
+          "definition": "n. 恢復、復原、康復、找回"
         }
       ],
       "examples": [
         {
-          "en": "Her recovery was quick.",
+          "en": "Her recovery amazed the doctors.",
           "highlight": [
             "recovery"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她的康復令醫生們驚訝。"
+          }
+        },
+        {
+          "en": "Economic recoveries often follow severe recessions.",
+          "highlight": [
+            "recoveries"
+          ],
+          "translations": {
+            "zh-TW": "嚴重的經濟衰退後往往會出現經濟復甦。"
+          }
+        },
+        {
+          "en": "The recovery of the stolen items took several months.",
+          "highlight": [
+            "recovery"
+          ],
+          "translations": {
+            "zh-TW": "找回失竊物品花了好幾個月。"
           }
         }
       ],
       "synonyms": [
         "healing",
-        "recuperation"
+        "recuperation",
+        "restoration"
       ],
       "antonyms": [
         "deterioration",
-        "relapse"
+        "relapse",
+        "decline"
       ],
       "phrases": [
-        "speedy",
-        "recovery",
-        "recovery",
-        "time"
+        "economic recovery",
+        "recovery time",
+        "make a recovery",
+        "recovery process"
       ]
     },
     {
@@ -461,44 +616,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "recruited",
+        "plural": "recruits",
+        "present_3rd": "recruits",
+        "past": "recruited",
         "past_participle": "recruited",
-        "present_participle": "recruiting",
-        "third_person": "recruits"
+        "ing": "recruiting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "recruit",
-          "definition": "n. 新兵, 新手, 新會員, 补给品, vt. 恢复, 补充, 充實, 征募, vi. 征募新兵, 复原, 得到补充"
+          "definition": "v. 招募、徵才  n. 新人、新兵"
         }
       ],
       "examples": [
         {
-          "en": "The army recruits new soldiers every year.",
+          "en": "The HR department plans to recruit fifty new employees this quarter.",
           "highlight": [
             "recruit"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "人資部門計畫本季招募五十名新員工。"
+          }
+        },
+        {
+          "en": "The company recruited several top engineers from rival firms.",
+          "highlight": [
+            "recruited"
+          ],
+          "translations": {
+            "zh-TW": "公司從競爭對手那裡招募了幾位頂尖工程師。"
+          }
+        },
+        {
+          "en": "The new recruits will start their training next Monday.",
+          "highlight": [
+            "recruits"
+          ],
+          "translations": {
+            "zh-TW": "新進員工將於下週一開始接受培訓。"
           }
         }
       ],
       "synonyms": [
         "enlist",
-        "hire"
+        "hire",
+        "draft"
       ],
       "antonyms": [
         "dismiss",
-        "fire"
+        "fire",
+        "release"
       ],
       "phrases": [
-        "recruit",
-        "new",
-        "members",
-        "military",
-        "recruit"
+        "recruit new members",
+        "military recruit",
+        "recruiting agency",
+        "fresh recruit"
       ]
     }
   ]
