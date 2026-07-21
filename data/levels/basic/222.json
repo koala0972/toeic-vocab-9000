@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 222,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-222-001",
@@ -11,44 +11,60 @@
       "toeic_score_min": 500,
       "word": "previous",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "previouses"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "previous",
-          "definition": "a. 早先的, 前面的, 過急的, [法] 以前的, 生前的, 前述的"
+          "definition": "a. 先前的、早先的、前一個的"
         }
       ],
       "examples": [
         {
-          "en": "She returned to her previous job.",
+          "en": "The previous manager left the company last December.",
           "highlight": [
             "previous"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "前任經理去年十二月離開了公司。"
+          }
+        },
+        {
+          "en": "In a previous meeting, we discussed the new pricing policy.",
+          "highlight": [
+            "previous"
+          ],
+          "translations": {
+            "zh-TW": "在之前的會議中，我們討論了新的定價政策。"
+          }
+        },
+        {
+          "en": "Please list your previous experience working in retail.",
+          "highlight": [
+            "previous"
+          ],
+          "translations": {
+            "zh-TW": "請列出你先前在零售業工作的經驗。"
           }
         }
       ],
       "synonyms": [
+        "prior",
         "earlier",
-        "prior"
+        "former"
       ],
       "antonyms": [
-        "later",
-        "subsequent"
+        "subsequent",
+        "later"
       ],
       "phrases": [
-        "previous",
-        "job",
-        "previous",
-        "experience"
+        "previous experience",
+        "previous meeting",
+        "previous job",
+        "previous month"
       ]
     },
     {
@@ -67,33 +83,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "previously",
-          "definition": "adv. 先, 先前, 以前, 前, (非正式)過早, 過急, 在前, 在...以前, 在先, [计] 先前地"
+          "definition": "adv. 先前地、以前地、早先地"
         }
       ],
       "examples": [
         {
-          "en": "He was previously married.",
+          "en": "She previously worked as an accountant in a large firm.",
           "highlight": [
             "previously"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她先前在一家大型公司擔任會計師。"
+          }
+        },
+        {
+          "en": "The hotel was previously known as the Grand Plaza.",
+          "highlight": [
+            "previously"
+          ],
+          "translations": {
+            "zh-TW": "這家飯店以前叫做廣場大飯店。"
+          }
+        },
+        {
+          "en": "I have previously mentioned this issue in my report.",
+          "highlight": [
+            "previously"
+          ],
+          "translations": {
+            "zh-TW": "我先前已在報告中提過這個問題。"
           }
         }
       ],
       "synonyms": [
+        "earlier",
         "before",
-        "earlier"
+        "formerly"
       ],
       "antonyms": [
         "later",
-        "after"
+        "afterward"
       ],
       "phrases": [
-        "previously",
-        "mentioned",
-        "previously",
-        "known"
+        "previously mentioned",
+        "previously known",
+        "previously reported",
+        "previously discussed"
       ]
     },
     {
@@ -108,40 +143,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "priceed",
-        "past_participle": "priceed",
-        "present_participle": "pricing",
-        "third_person": "prices"
+        "plural": "prices",
+        "present_3rd": "prices",
+        "past": "priced",
+        "past_participle": "priced",
+        "ing": "pricing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "price",
-          "definition": "n. 价格, 代价, 价值, vt. 定...的价格"
+          "definition": "n. 價格、價錢、代價  v. 為……定價、標價"
         }
       ],
       "examples": [
         {
-          "en": "The price of the book is $20.",
+          "en": "The price of gasoline has risen sharply this year.",
           "highlight": [
             "price"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "今年汽油的價格大幅上漲。"
+          }
+        },
+        {
+          "en": "The contractor priced the materials at over ten thousand dollars.",
+          "highlight": [
+            "priced"
+          ],
+          "translations": {
+            "zh-TW": "承包商將材料的價格定為超過一萬美元。"
+          }
+        },
+        {
+          "en": "The marketing team is pricing the new product for the upcoming launch.",
+          "highlight": [
+            "pricing"
+          ],
+          "translations": {
+            "zh-TW": "行銷團隊正在為即將上市的新產品定價。"
           }
         }
       ],
       "synonyms": [
         "cost",
-        "value"
+        "charge",
+        "rate"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "discount",
+        "bargain"
+      ],
       "phrases": [
-        "high",
-        "price",
-        "price",
-        "tag"
+        "unit price",
+        "price tag",
+        "retail price",
+        "price range"
       ]
     },
     {
@@ -156,44 +214,64 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "prideed",
-        "past_participle": "prideed",
-        "present_participle": "priding",
-        "third_person": "prides"
+        "plural": "prides",
+        "present_3rd": "prides",
+        "past": "prided",
+        "past_participle": "prided",
+        "ing": "priding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pride",
-          "definition": "n. 骄傲, 自尊心, 自豪, 精华, 勇气, vt. 以...自豪"
+          "definition": "n. 驕傲、自豪、自尊心  v. 以……自豪"
         }
       ],
       "examples": [
         {
-          "en": "She felt a great sense of pride.",
+          "en": "She takes great pride in her work as a designer.",
           "highlight": [
             "pride"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她身為設計師，對自己的工作感到非常自豪。"
+          }
+        },
+        {
+          "en": "The company prided itself on delivering high-quality service to every client.",
+          "highlight": [
+            "prided"
+          ],
+          "translations": {
+            "zh-TW": "該公司以為每位客戶提供高品質服務而自豪。"
+          }
+        },
+        {
+          "en": "He is always priding himself on his punctuality, even on rainy days.",
+          "highlight": [
+            "priding"
+          ],
+          "translations": {
+            "zh-TW": "他總是以自己的守時為傲，即使下雨天也不例外。"
           }
         }
       ],
       "synonyms": [
         "self-respect",
-        "dignity"
+        "dignity",
+        "honor"
       ],
       "antonyms": [
         "shame",
-        "disgrace"
+        "disgrace",
+        "humility"
       ],
       "phrases": [
-        "sense",
-        "of",
-        "pride",
-        "pride",
-        "in"
+        "take pride in",
+        "sense of pride",
+        "pride oneself on",
+        "national pride"
       ]
     },
     {
@@ -215,33 +293,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "primary",
-          "definition": "n. 最主要者, 原色, a. 主要的, 初期的, 根本的, 原始的, 首要的, 基本的, [计] 初等量; 主要的; 一次的"
+          "definition": "a. 主要的、首要的、基本的  n. 初選、原色"
         }
       ],
       "examples": [
         {
-          "en": "Their primary concern is safety.",
+          "en": "Safety is the primary concern in every construction project.",
           "highlight": [
             "primary"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "安全是每項建築工程中最主要的考量。"
+          }
+        },
+        {
+          "en": "The candidates competed in several state primaries before the general election.",
+          "highlight": [
+            "primaries"
+          ],
+          "translations": {
+            "zh-TW": "候選人在大選前於幾個州的初選中競爭。"
+          }
+        },
+        {
+          "en": "Her primary goal this year is to expand the business into Southeast Asia.",
+          "highlight": [
+            "primary"
+          ],
+          "translations": {
+            "zh-TW": "她今年的首要目標是將業務拓展到東南亞。"
           }
         }
       ],
       "synonyms": [
         "main",
+        "chief",
         "principal"
       ],
       "antonyms": [
         "secondary",
-        "minor"
+        "minor",
+        "subsidiary"
       ],
       "phrases": [
-        "primary",
-        "concern",
-        "primary",
-        "goal"
+        "primary concern",
+        "primary goal",
+        "primary school",
+        "primary source"
       ]
     },
     {
@@ -263,33 +361,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "principal",
-          "definition": "n. 校長, 首長, 本金, 主犯, 资本, 委托人, a. 主要的, 最重要的, 首要的"
+          "definition": "a. 主要的、最重要的  n. 校長、本金、主要人物"
         }
       ],
       "examples": [
         {
-          "en": "The principal reason for the change is cost.",
+          "en": "The principal reason for the merger was to cut operating costs.",
           "highlight": [
             "principal"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "併購的最主要原因是為了削減營運成本。"
+          }
+        },
+        {
+          "en": "The school principals gathered for a regional conference on curriculum reform.",
+          "highlight": [
+            "principals"
+          ],
+          "translations": {
+            "zh-TW": "各校校長齊聚一堂，參加關於課程改革的區域會議。"
+          }
+        },
+        {
+          "en": "The principal of the loan must be repaid within ten years.",
+          "highlight": [
+            "principal"
+          ],
+          "translations": {
+            "zh-TW": "貸款的本金必須在十年內償還。"
           }
         }
       ],
       "synonyms": [
         "main",
+        "chief",
         "primary"
       ],
       "antonyms": [
         "secondary",
-        "minor"
+        "minor",
+        "subordinate"
       ],
       "phrases": [
-        "principal",
-        "reason",
-        "principal",
-        "office"
+        "principal reason",
+        "principal office",
+        "principal amount",
+        "school principal"
       ]
     },
     {
@@ -300,44 +418,62 @@
       "toeic_score_min": 500,
       "word": "principle",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "principleed",
-        "past_participle": "principleed",
-        "present_participle": "principling",
-        "third_person": "principles"
+        "plural": "principles"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "principle",
-          "definition": "n. 原则, 原理, 主义, [化] 原理"
+          "definition": "n. 原則、原理、道義、準則"
         }
       ],
       "examples": [
         {
-          "en": "He is a man of principle.",
+          "en": "Fairness is a core principle of the company's hiring policy.",
           "highlight": [
             "principle"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公平是公司招聘政策的核心原則。"
+          }
+        },
+        {
+          "en": "The engineer explained the basic principles behind the new cooling system.",
+          "highlight": [
+            "principles"
+          ],
+          "translations": {
+            "zh-TW": "工程師解釋了新冷卻系統背後的基本原理。"
+          }
+        },
+        {
+          "en": "She refused the bribe on principle, even though she needed the money.",
+          "highlight": [
+            "principle"
+          ],
+          "translations": {
+            "zh-TW": "她出於原則拒絕了賄賂，儘管她需要那筆錢。"
           }
         }
       ],
       "synonyms": [
-        "truth",
-        "rule"
+        "rule",
+        "law",
+        "standard"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "exception",
+        "deviation"
+      ],
       "phrases": [
-        "moral",
-        "principle",
-        "basic",
-        "principle"
+        "basic principle",
+        "moral principle",
+        "in principle",
+        "on principle"
       ]
     },
     {
@@ -352,41 +488,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "printed",
+        "plural": "prints",
+        "present_3rd": "prints",
+        "past": "printed",
         "past_participle": "printed",
-        "present_participle": "printing",
-        "third_person": "prints"
+        "ing": "printing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "print",
-          "definition": "n. 打印, 版, 印刷物, 痕迹, 印刷业, 印刷字体, 图片, 印花布, 印章, v. 打印, 印刷, 铭記, 留印記于, 用印刷体写, [计] DOS外部命令:在打印机上打印文件, 可一边打印文件一边执行其他工作"
+          "definition": "v. 列印、印刷、出版  n. 印刷品、印記、印花"
         }
       ],
       "examples": [
         {
-          "en": "They print the newspaper every morning.",
+          "en": "They print the company newsletter every Friday afternoon.",
           "highlight": [
             "print"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他們每個星期五下午列印公司通訊。"
+          }
+        },
+        {
+          "en": "I printed three extra copies of the contract for the clients to sign.",
+          "highlight": [
+            "printed"
+          ],
+          "translations": {
+            "zh-TW": "我額外列印了三份合約供客戶簽署。"
+          }
+        },
+        {
+          "en": "The publishing house has been printing textbooks since 1985.",
+          "highlight": [
+            "printing"
+          ],
+          "translations": {
+            "zh-TW": "這家出版社自 1985 年起就一直在印刷教科書。"
           }
         }
       ],
       "synonyms": [
         "publish",
-        "produce"
+        "produce",
+        "reproduce"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "delete",
+        "erase"
+      ],
       "phrases": [
-        "print",
-        "a",
-        "book",
-        "print",
-        "out"
+        "print out",
+        "print a document",
+        "print preview",
+        "in print"
       ]
     },
     {
@@ -397,44 +555,58 @@
       "toeic_score_min": 500,
       "word": "printer",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "printered",
-        "past_participle": "printered",
-        "present_participle": "printering",
-        "third_person": "printers"
+        "plural": "printers"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "printer",
-          "definition": "n. 印刷工, 打印机, [计] 打印机"
+          "definition": "n. 印表機、印刷機、印刷工人"
         }
       ],
       "examples": [
         {
-          "en": "The printer is out of ink.",
+          "en": "The office printer is out of toner again.",
           "highlight": [
             "printer"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "辦公室的印表機又沒有碳粉了。"
+          }
+        },
+        {
+          "en": "We ordered three new printers for the marketing department last week.",
+          "highlight": [
+            "printers"
+          ],
+          "translations": {
+            "zh-TW": "我們上週為行銷部門訂購了三台新的印表機。"
+          }
+        },
+        {
+          "en": "If the printer jams, please contact the IT support team immediately.",
+          "highlight": [
+            "printer"
+          ],
+          "translations": {
+            "zh-TW": "如果印表機卡紙，請立即聯絡 IT 支援團隊。"
           }
         }
       ],
       "synonyms": [
-        "printing",
-        "machine"
+        "printing device",
+        "printing machine"
       ],
       "antonyms": [],
       "phrases": [
-        "laser",
-        "printer",
-        "inkjet",
-        "printer"
+        "laser printer",
+        "inkjet printer",
+        "printer cartridge",
+        "network printer"
       ]
     },
     {
@@ -456,33 +628,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "prior",
-          "definition": "a. 更重要的, 较早的, 在先的, n. 小隐修院院長, 大隐修院副院長"
+          "definition": "a. 先前的、在先的、優先的  n. 前科、先前的事"
         }
       ],
       "examples": [
         {
-          "en": "She had no prior knowledge of the event.",
+          "en": "Candidates must have at least two years of prior experience in sales.",
           "highlight": [
             "prior"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "候選人必須具備至少兩年的先前銷售經驗。"
+          }
+        },
+        {
+          "en": "The judge reviewed the defendant's priors before setting bail.",
+          "highlight": [
+            "priors"
+          ],
+          "translations": {
+            "zh-TW": "法官在裁定保釋金前審查了被告的前科紀錄。"
+          }
+        },
+        {
+          "en": "Please give us prior notice if you need to cancel the reservation.",
+          "highlight": [
+            "prior"
+          ],
+          "translations": {
+            "zh-TW": "如果您需要取消預約，請事先通知我們。"
           }
         }
       ],
       "synonyms": [
         "previous",
-        "earlier"
+        "earlier",
+        "former"
       ],
       "antonyms": [
         "subsequent",
         "later"
       ],
       "phrases": [
-        "prior",
-        "knowledge",
-        "prior",
-        "to"
+        "prior notice",
+        "prior knowledge",
+        "prior to",
+        "prior experience"
       ]
     }
   ]

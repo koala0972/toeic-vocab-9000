@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 221,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-221-001",
@@ -12,43 +12,67 @@
       "word": "present",
       "pos": [
         "adjective",
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "presents"
+        "plural": "presents",
+        "past": "presented",
+        "past_participle": "presented",
+        "present_3rd": "presents",
+        "ing": "presenting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "present",
-          "definition": "n. 现在, 礼品, 瞄准, a. 现在的, 出席的, vt. 介绍, 引见, 赠送, 提出, 呈现, 上演, vi. 举枪瞄准"
+          "definition": "n. 禮物、現在  a. 出席的、現在的  v. 贈 presents給、提出、呈現"
         }
       ],
       "examples": [
         {
-          "en": "She is present at the meeting.",
+          "en": "All board members were present at the quarterly review.",
           "highlight": [
             "present"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "所有董事會成員都出席了季度檢討會議。"
+          }
+        },
+        {
+          "en": "The manager presented the new marketing strategy to the clients yesterday.",
+          "highlight": [
+            "presented"
+          ],
+          "translations": {
+            "zh-TW": "經理昨天向客戶提出了新的行銷策略。"
+          }
+        },
+        {
+          "en": "She is presenting her research findings at the conference next week.",
+          "highlight": [
+            "presenting"
+          ],
+          "translations": {
+            "zh-TW": "她下週將在會議上發表研究結果。"
           }
         }
       ],
       "synonyms": [
         "current",
-        "existing"
+        "existing",
+        "gift"
       ],
       "antonyms": [
         "absent",
         "missing"
       ],
       "phrases": [
-        "present",
-        "moment",
-        "present",
-        "time"
+        "present moment",
+        "present time",
+        "birthday present",
+        "present a report"
       ]
     },
     {
@@ -59,45 +83,59 @@
       "toeic_score_min": 500,
       "word": "presentation",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "presentationed",
-        "past_participle": "presentationed",
-        "present_participle": "presentationing",
-        "third_person": "presentations"
+        "plural": "presentations"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "presentation",
-          "definition": "n. 赠與, 描述, 介绍, [计] 简报"
+          "definition": "n. 発表、演講、報告、呈現、展示"
         }
       ],
       "examples": [
         {
-          "en": "The presentation was informative.",
+          "en": "The sales presentation was well received by the investors.",
           "highlight": [
             "presentation"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這場銷售報告受到投資者的高度肯定。"
+          }
+        },
+        {
+          "en": "The director reviewed several presentations before choosing the best proposal.",
+          "highlight": [
+            "presentations"
+          ],
+          "translations": {
+            "zh-TW": "主任在選出最佳方案前，審查了好幾份簡報。"
+          }
+        },
+        {
+          "en": "Presentations given on Friday tend to get less audience attention.",
+          "highlight": [
+            "Presentations"
+          ],
+          "translations": {
+            "zh-TW": "週五進行的簡報通常較難吸引聽眾注意。"
           }
         }
       ],
       "synonyms": [
         "demonstration",
-        "display"
+        "display",
+        "speech"
       ],
       "antonyms": [],
       "phrases": [
-        "give",
-        "a",
-        "presentation",
-        "presentation",
-        "skills"
+        "give a presentation",
+        "sales presentation",
+        "presentation skills",
+        "slide presentation"
       ]
     },
     {
@@ -112,43 +150,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "preserveed",
-        "past_participle": "preserveed",
-        "present_participle": "preserving",
-        "third_person": "preserves"
+        "plural": "preserves",
+        "past": "preserved",
+        "past_participle": "preserved",
+        "present_3rd": "preserves",
+        "ing": "preserving"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "preserve",
-          "definition": "vt. 保护, 保持, 保存, 维持, 腌, 禁猎, vi. 加工食品, 禁猎, n. 加工成的食品, 禁猎地, 保护區, 防护物"
+          "definition": "v. 保護、保存、維持、醃製  n. 果醬、禁獵區、加工食品"
         }
       ],
       "examples": [
         {
-          "en": "They work to preserve the environment.",
+          "en": "The company works hard to preserve its reputation in the market.",
           "highlight": [
             "preserve"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司努力維持其在市場上的聲譽。"
+          }
+        },
+        {
+          "en": "The archives were carefully preserved for future generations.",
+          "highlight": [
+            "preserved"
+          ],
+          "translations": {
+            "zh-TW": "這些檔案被妥善保存，供後世子孫使用。"
+          }
+        },
+        {
+          "en": "They are preserving traditional crafts by training young apprentices.",
+          "highlight": [
+            "preserving"
+          ],
+          "translations": {
+            "zh-TW": "他們透過培訓年輕學徒來保存傳統工藝。"
           }
         }
       ],
       "synonyms": [
         "protect",
-        "conserve"
+        "conserve",
+        "maintain"
       ],
       "antonyms": [
         "neglect",
         "harm"
       ],
       "phrases": [
-        "preserve",
-        "nature",
-        "preserve",
-        "food"
+        "preserve nature",
+        "preserve food",
+        "preserve history",
+        "wildlife preserve"
       ]
     },
     {
@@ -159,47 +217,62 @@
       "toeic_score_min": 500,
       "word": "president",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "presidented",
-        "past_participle": "presidented",
-        "present_participle": "presidenting",
-        "third_person": "presidents"
+        "plural": "presidents"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "president",
-          "definition": "n. 总统, 总裁, 董事長, (学院)院長, (大学)校長, 主管人, 主持人, [經] 总經理, 董事長, 总裁"
+          "definition": "n. 總統、總裁、董事長、（大學）校長、會長"
         }
       ],
       "examples": [
         {
-          "en": "The president gave a speech.",
+          "en": "The president addressed the nation regarding the new economic policy.",
           "highlight": [
             "president"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "總統針對新的經濟政策向全國發表談話。"
+          }
+        },
+        {
+          "en": "Several former presidents attended the charity gala last weekend.",
+          "highlight": [
+            "presidents"
+          ],
+          "translations": {
+            "zh-TW": "幾位前總統上週末出席了慈善晚會。"
+          }
+        },
+        {
+          "en": "Presidents of major tech firms will meet to discuss industry regulations.",
+          "highlight": [
+            "Presidents"
+          ],
+          "translations": {
+            "zh-TW": "各大科技公司總裁將開會討論產業規範。"
           }
         }
       ],
       "synonyms": [
         "leader",
-        "head"
+        "head",
+        "chief"
       ],
       "antonyms": [
         "citizen",
         "follower"
       ],
       "phrases": [
-        "elected",
-        "president",
-        "vice",
-        "president"
+        "company president",
+        "vice president",
+        "president of the board",
+        "elected president"
       ]
     },
     {
@@ -214,44 +287,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "pressed",
+        "plural": "presses",
+        "past": "pressed",
         "past_participle": "pressed",
-        "present_participle": "pressing",
-        "third_person": "presses"
+        "present_3rd": "presses",
+        "ing": "pressing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "press",
-          "definition": "n. 压, 揿, 按, 人群, 印刷机, 压力, 出版社, 記者, 报刊, 新聞舆论, 紧迫, vt. 压, 压榨, 紧抱, 逼迫, 推进, 强迫征募, 催逼, vi. 压, 重压, 催促, 拥挤, 奋力前进, 受压"
+          "definition": "n. 壓按、新聞界、壓力、印刷機  v. 壓、按、擠壓、催促、燙平"
         }
       ],
       "examples": [
         {
-          "en": "He pressed the button.",
+          "en": "Please press the green button to confirm your order at the kiosk.",
           "highlight": [
             "press"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在自助機台按下綠色按鈕以確認您的訂單。"
+          }
+        },
+        {
+          "en": "She pressed her shirt carefully before the job interview.",
+          "highlight": [
+            "pressed"
+          ],
+          "translations": {
+            "zh-TW": "面試前她仔細地把襯衫燙平。"
+          }
+        },
+        {
+          "en": "The press has been following the merger negotiations closely.",
+          "highlight": [
+            "press"
+          ],
+          "translations": {
+            "zh-TW": "新聞界一直密切追蹤這場併購協商。"
           }
         }
       ],
       "synonyms": [
         "push",
-        "squeeze"
+        "squeeze",
+        "media"
       ],
       "antonyms": [
         "pull",
         "release"
       ],
       "phrases": [
-        "press",
-        "a",
-        "button",
-        "press",
-        "down"
+        "press a button",
+        "press release",
+        "press conference",
+        "freedom of the press"
       ]
     },
     {
@@ -266,40 +358,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "pressureed",
-        "past_participle": "pressureed",
-        "present_participle": "pressuring",
-        "third_person": "pressures"
+        "plural": "pressures",
+        "past": "pressured",
+        "past_participle": "pressured",
+        "present_3rd": "pressures",
+        "ing": "pressuring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pressure",
-          "definition": "n. 压, 榨, 按, 强制, 压力, 压迫, 压强, vt. 迫使, 使增压, 密封"
+          "definition": "n. 壓力、壓迫、強制  v. 對……施壓、迫使"
         }
       ],
       "examples": [
         {
-          "en": "The pressure of the water was too strong.",
+          "en": "She performs well under pressure and never misses a deadline.",
           "highlight": [
             "pressure"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在壓力下表現出色，從不錯過截止日期。"
+          }
+        },
+        {
+          "en": "Our supplier was pressured into offering a deeper discount last quarter.",
+          "highlight": [
+            "pressured"
+          ],
+          "translations": {
+            "zh-TW": "上個季度我們的供應商被施壓給予更深的折扣。"
+          }
+        },
+        {
+          "en": "Stop pressuring the team to work overtime every weekend.",
+          "highlight": [
+            "pressuring"
+          ],
+          "translations": {
+            "zh-TW": "別再施壓要求團隊每個週末都加班了。"
           }
         }
       ],
       "synonyms": [
         "force",
-        "stress"
+        "stress",
+        "burden"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "ease",
+        "relief"
+      ],
       "phrases": [
-        "high",
-        "pressure",
-        "pressure",
-        "on"
+        "high pressure",
+        "under pressure",
+        "blood pressure",
+        "pressure someone into"
       ]
     },
     {
@@ -318,33 +433,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "presumably",
-          "definition": "adv. 推测上, 大概"
+          "definition": "adv. 據推測、大概、可能"
         }
       ],
       "examples": [
         {
-          "en": "Presumably, he will come to the party.",
+          "en": "Presumably, the shipment will arrive before the holiday weekend.",
+          "highlight": [
+            "Presumably"
+          ],
+          "translations": {
+            "zh-TW": "據推測，這批貨會在連假週末前抵達。"
+          }
+        },
+        {
+          "en": "The CFO is, presumably, aware of the budget shortfall by now.",
           "highlight": [
             "presumably"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "財務長現在大概已經知道預算缺口的事了。"
+          }
+        },
+        {
+          "en": "Presumably the contract renewal will be discussed at tomorrow's board meeting.",
+          "highlight": [
+            "Presumably"
+          ],
+          "translations": {
+            "zh-TW": "合約續簽的事大概會在明天的董事會上討論。"
           }
         }
       ],
       "synonyms": [
         "probably",
-        "likely"
+        "likely",
+        "supposedly"
       ],
       "antonyms": [
         "definitely",
-        "certainly"
+        "certainly",
+        "undoubtedly"
       ],
       "phrases": [
-        "presumably",
-        "true",
-        "presumably",
-        "not"
+        "presumably so",
+        "presumably not",
+        "presumably because"
       ]
     },
     {
@@ -355,48 +489,65 @@
       "toeic_score_min": 500,
       "word": "pretend",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "pretended",
+        "past": "pretended",
         "past_participle": "pretended",
-        "present_participle": "pretending",
-        "third_person": "pretends"
+        "present_3rd": "pretends",
+        "ing": "pretending"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pretend",
-          "definition": "v. 假装, 伪称, 自命, 自称"
+          "definition": "v. 假裝、偽稱、自命、自稱"
         }
       ],
       "examples": [
         {
-          "en": "She pretended to be asleep.",
+          "en": "Don't pretend to understand the contract when you actually have questions.",
           "highlight": [
             "pretend"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "對合約有疑問時，別假裝都聽懂了。"
+          }
+        },
+        {
+          "en": "He pretended to be on the phone to avoid the sales pitch.",
+          "highlight": [
+            "pretended"
+          ],
+          "translations": {
+            "zh-TW": "他假裝在講電話，藉此躲掉那場推銷。"
+          }
+        },
+        {
+          "en": "The children were pretending to run a busy restaurant in the playroom.",
+          "highlight": [
+            "pretending"
+          ],
+          "translations": {
+            "zh-TW": "孩子們在遊戲室裡假裝自己經營一家繁忙的餐廳。"
           }
         }
       ],
       "synonyms": [
         "feign",
-        "fake"
+        "fake",
+        "act"
       ],
       "antonyms": [
-        "truth",
-        "reality"
+        "be honest",
+        "tell truth"
       ],
       "phrases": [
-        "pretend",
-        "to",
-        "sleep",
-        "pretend",
-        "to"
+        "pretend to be",
+        "pretend not to know",
+        "pretend sickness",
+        "make believe"
       ]
     },
     {
@@ -408,9 +559,11 @@
       "word": "pretty",
       "pos": [
         "adjective",
-        "noun"
+        "adverb"
       ],
       "conjugations": {
+        "comparative": "prettier",
+        "superlative": "prettiest",
         "plural": "pretties"
       },
       "domain": "general",
@@ -418,33 +571,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "pretty",
-          "definition": "a. 漂亮的, 优美的, 机灵的, 狡猾的, 恰当的, adv. 相当, 颇"
+          "definition": "a. 漂亮的、優美的  adv. 相當、頗"
         }
       ],
       "examples": [
         {
-          "en": "She has a pretty smile.",
+          "en": "The hotel lobby was decorated with pretty flowers for the conference guests.",
           "highlight": [
             "pretty"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "飯店大廳為與會賓客佈置了漂亮的花卉。"
+          }
+        },
+        {
+          "en": "The new packaging design is prettier than the previous version.",
+          "highlight": [
+            "prettier"
+          ],
+          "translations": {
+            "zh-TW": "新的包裝設計比舊版更漂亮。"
+          }
+        },
+        {
+          "en": "Sales figures this quarter are pretty close to our forecast.",
+          "highlight": [
+            "pretty"
+          ],
+          "translations": {
+            "zh-TW": "本季的銷售數字與預測相當接近。"
           }
         }
       ],
       "synonyms": [
         "attractive",
-        "lovely"
+        "lovely",
+        "fairly"
       ],
       "antonyms": [
         "ugly",
         "unattractive"
       ],
       "phrases": [
-        "pretty",
-        "girl",
-        "pretty",
-        "flower"
+        "pretty good",
+        "pretty much",
+        "pretty face",
+        "pretty penny"
       ]
     },
     {
@@ -455,47 +627,66 @@
       "toeic_score_min": 500,
       "word": "prevent",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "prevented",
+        "past": "prevented",
         "past_participle": "prevented",
-        "present_participle": "preventing",
-        "third_person": "prevents"
+        "present_3rd": "prevents",
+        "ing": "preventing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "prevent",
-          "definition": "v. 预防, 防止, 阻止, 妨碍"
+          "definition": "v. 預防、防止、阻止、妨礙"
         }
       ],
       "examples": [
         {
-          "en": "They worked to prevent accidents.",
+          "en": "Regular maintenance can prevent equipment failures on the production line.",
           "highlight": [
             "prevent"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "定期保養能預防生產線上的設備故障。"
+          }
+        },
+        {
+          "en": "The new policy prevented several conflicts between departments last year.",
+          "highlight": [
+            "prevented"
+          ],
+          "translations": {
+            "zh-TW": "去年新政策避免了幾起部門間的衝突。"
+          }
+        },
+        {
+          "en": "They are installing security cameras to prevent theft in the parking garage.",
+          "highlight": [
+            "preventing"
+          ],
+          "translations": {
+            "zh-TW": "為防止停車場竊案，他們正加裝監視器。"
           }
         }
       ],
       "synonyms": [
         "stop",
-        "hinder"
+        "hinder",
+        "avoid"
       ],
       "antonyms": [
         "allow",
-        "permit"
+        "permit",
+        "enable"
       ],
       "phrases": [
-        "prevent",
-        "from",
-        "prevent",
-        "accidents"
+        "prevent from",
+        "prevent accidents",
+        "prevent disease",
+        "prevent crime"
       ]
     }
   ]
