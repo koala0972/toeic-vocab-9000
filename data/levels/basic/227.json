@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 227,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-227-001",
@@ -11,45 +11,62 @@
       "toeic_score_min": 500,
       "word": "publicity",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "publicityed",
-        "past_participle": "publicityed",
-        "present_participle": "publicitying",
-        "third_person": "publicitys"
+        "plural": "publicities"
       },
-      "domain": "general",
+      "domain": "media",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "publicity",
-          "definition": "n. 名声, 宣传, 公开場合, [經] 宣传, 广告"
+          "definition": "n. 宣傳、公開、關注、曝光"
         }
       ],
       "examples": [
         {
-          "en": "The event received a lot of publicity.",
+          "en": "The new product launch attracted a great deal of publicity.",
           "highlight": [
             "publicity"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新產品發表引起了大量的宣傳。"
+          }
+        },
+        {
+          "en": "The company launched a publicity campaign to improve its image.",
+          "highlight": [
+            "publicity"
+          ],
+          "translations": {
+            "zh-TW": "公司發起了一場宣傳活動來改善形象。"
+          }
+        },
+        {
+          "en": "The publicities surrounding the merger surprised the analysts.",
+          "highlight": [
+            "publicities"
+          ],
+          "translations": {
+            "zh-TW": "圍繞併購案的各種公開聲明令分析師驚訝。"
           }
         }
       ],
       "synonyms": [
-        "media",
-        "attention",
-        "exposure"
+        "promotion",
+        "exposure",
+        "advertising"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "secrecy",
+        "privacy"
+      ],
       "phrases": [
-        "media",
-        "publicity",
-        "gain",
-        "publicity"
+        "publicity campaign",
+        "publicity stunt",
+        "media publicity",
+        "negative publicity"
       ]
     },
     {
@@ -60,47 +77,66 @@
       "toeic_score_min": 500,
       "word": "publish",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "published",
+        "plural": "publishes",
+        "present_3rd": "publishes",
+        "past": "published",
         "past_participle": "published",
-        "present_participle": "publishing",
-        "third_person": "publishs"
+        "ing": "publishing"
       },
-      "domain": "general",
+      "domain": "media",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "publish",
-          "definition": "vt. 出版, 發行, 公开, 發表, 宣传, 公布, vi. 出版, 發行"
+          "definition": "v. 出版、發行、發表、公布"
         }
       ],
       "examples": [
         {
-          "en": "They decided to publish their findings.",
+          "en": "The research team will publish their report next month.",
           "highlight": [
             "publish"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "研究團隊將在下個月發表他們的報告。"
+          }
+        },
+        {
+          "en": "The firm has published over fifty titles since it was founded.",
+          "highlight": [
+            "published"
+          ],
+          "translations": {
+            "zh-TW": "這家公司自成立以來已出版了超過五十種書目。"
+          }
+        },
+        {
+          "en": "She was appointed as the new editor of the publishing house.",
+          "highlight": [
+            "publishing"
+          ],
+          "translations": {
+            "zh-TW": "她被任命為該出版社的新任編輯。"
           }
         }
       ],
       "synonyms": [
         "release",
-        "distribute"
+        "issue",
+        "print"
       ],
       "antonyms": [
+        "conceal",
         "suppress"
       ],
       "phrases": [
-        "publish",
-        "a",
-        "book",
-        "publish",
-        "findings"
+        "publish a book",
+        "publish findings",
+        "publish online",
+        "publishing house"
       ]
     },
     {
@@ -115,43 +151,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "pulled",
+        "plural": "pulls",
+        "present_3rd": "pulls",
+        "past": "pulled",
         "past_participle": "pulled",
-        "present_participle": "pulling",
-        "third_person": "pulls"
+        "ing": "pulling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pull",
-          "definition": "vt. 拉, 拖, 拔, 牵, 撕开, 吸引, vi. 拉, 拖, 拔, 有吸引力, n. 拉, 拖, 拔, 拉力, 牵引力, 划船, 吸引"
+          "definition": "v. 拉、拖、拔、吸引  n. 拉、拉力、吸引力"
         }
       ],
       "examples": [
         {
-          "en": "She pulled the door open.",
+          "en": "The waiter pulled the chair out for the guest.",
+          "highlight": [
+            "pulled"
+          ],
+          "translations": {
+            "zh-TW": "侍者為客人把椅子拉開。"
+          }
+        },
+        {
+          "en": "Don't pull this lever unless there is an emergency.",
           "highlight": [
             "pull"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "除非有緊急狀況，否則不要拉這根控制桿。"
+          }
+        },
+        {
+          "en": "She has been pulling extra shifts to finish the project on time.",
+          "highlight": [
+            "pulling"
+          ],
+          "translations": {
+            "zh-TW": "她為了準時完成專案，一直加班趕工。"
           }
         }
       ],
       "synonyms": [
         "tug",
-        "draw"
+        "draw",
+        "drag"
       ],
       "antonyms": [
         "push",
-        "repel"
+        "shove"
       ],
       "phrases": [
-        "pull",
-        "hard",
-        "pull",
-        "on"
+        "pull out",
+        "pull over",
+        "pull through",
+        "pull a muscle"
       ]
     },
     {
@@ -162,47 +218,66 @@
       "toeic_score_min": 500,
       "word": "punish",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "punished",
+        "plural": "punishes",
+        "present_3rd": "punishes",
+        "past": "punished",
         "past_participle": "punished",
-        "present_participle": "punishing",
-        "third_person": "punishs"
+        "ing": "punishing"
       },
-      "domain": "general",
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "punish",
-          "definition": "vt. 處罚, 惩罚, 严厉對待, vi. 惩罚"
+          "definition": "v. 處罰、懲罰、嚴厲對待"
         }
       ],
       "examples": [
         {
-          "en": "The teacher punished the student for cheating.",
+          "en": "The court will punish violators with heavy fines.",
           "highlight": [
             "punish"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "法院將以高額罰款處罰違規者。"
+          }
+        },
+        {
+          "en": "The firm was punished for failing to disclose its financial records.",
+          "highlight": [
+            "punished"
+          ],
+          "translations": {
+            "zh-TW": "該公司因未公開財務紀錄而受到懲處。"
+          }
+        },
+        {
+          "en": "The punishing deadline left the team with no time to review the proposal.",
+          "highlight": [
+            "punishing"
+          ],
+          "translations": {
+            "zh-TW": "嚴苛的截止期限讓團隊沒有時間檢視提案。"
           }
         }
       ],
       "synonyms": [
         "discipline",
-        "penalize"
+        "penalize",
+        "fine"
       ],
       "antonyms": [
         "reward",
         "pardon"
       ],
       "phrases": [
-        "punish",
-        "severely",
-        "punish",
-        "for"
+        "punish severely",
+        "punish for",
+        "punishing schedule",
+        "punishing pace"
       ]
     },
     {
@@ -213,47 +288,62 @@
       "toeic_score_min": 500,
       "word": "punishment",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "punishmented",
-        "past_participle": "punishmented",
-        "present_participle": "punishmenting",
-        "third_person": "punishments"
+        "plural": "punishments"
       },
-      "domain": "general",
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "punishment",
-          "definition": "n. 處罚, 刑罚, 惩罚, [法] 罚, 處罚, 刑罚"
+          "definition": "n. 處罰、刑罰、懲罰"
         }
       ],
       "examples": [
         {
-          "en": "He received a severe punishment for his crimes.",
+          "en": "The company imposed a harsh punishment on employees who leaked data.",
           "highlight": [
             "punishment"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司對洩漏資料的員工施加嚴厲的懲罰。"
+          }
+        },
+        {
+          "en": "Minor punishments will be listed in the new employee handbook.",
+          "highlight": [
+            "punishments"
+          ],
+          "translations": {
+            "zh-TW": "輕微的處罰將列於新的員工手冊中。"
+          }
+        },
+        {
+          "en": "Capital punishment has been abolished in many European countries.",
+          "highlight": [
+            "punishment"
+          ],
+          "translations": {
+            "zh-TW": "死刑已在許多歐洲國家被廢除。"
           }
         }
       ],
       "synonyms": [
         "penalty",
-        "sanction"
+        "sanction",
+        "discipline"
       ],
       "antonyms": [
         "reward",
         "forgiveness"
       ],
       "phrases": [
-        "severe",
-        "punishment",
-        "deserved",
-        "punishment"
+        "severe punishment",
+        "capital punishment",
+        "corporal punishment",
+        "deserve punishment"
       ]
     },
     {
@@ -268,43 +358,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "purchaseed",
-        "past_participle": "purchaseed",
-        "present_participle": "purchasing",
-        "third_person": "purchases"
+        "plural": "purchases",
+        "present_3rd": "purchases",
+        "past": "purchased",
+        "past_participle": "purchased",
+        "ing": "purchasing"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "purchase",
-          "definition": "n. 购買, 购買品, 紧握, 绞辘, vt. 购買, 赢得, 努力取得, 用滑轮起(锚等)"
+          "definition": "v. 購買、採購  n. 購買、購買物"
         }
       ],
       "examples": [
         {
-          "en": "She purchased a new car.",
+          "en": "Our office plans to purchase new laptops for the design team.",
           "highlight": [
             "purchase"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們辦公室計畫為設計團隊採購新的筆記型電腦。"
+          }
+        },
+        {
+          "en": "She had purchased the tickets online before they sold out.",
+          "highlight": [
+            "purchased"
+          ],
+          "translations": {
+            "zh-TW": "她在票售完之前就在網路上購買好了。"
+          }
+        },
+        {
+          "en": "The purchasing department handles all supplier contracts.",
+          "highlight": [
+            "purchasing"
+          ],
+          "translations": {
+            "zh-TW": "採購部門負責所有供應商合約。"
           }
         }
       ],
       "synonyms": [
         "buy",
-        "acquire"
+        "acquire",
+        "procure"
       ],
       "antonyms": [
         "sell"
       ],
       "phrases": [
-        "purchase",
-        "a",
-        "car",
-        "purchase",
-        "online"
+        "purchase order",
+        "purchasing power",
+        "purchase price",
+        "bulk purchase"
       ]
     },
     {
@@ -315,44 +424,65 @@
       "toeic_score_min": 500,
       "word": "pure",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "pures"
+        "plural": "pures",
+        "comparative": "purer",
+        "superlative": "purest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pure",
-          "definition": "a. 纯的, 纯净的, 纯洁的, 清白的, 完美的, 无瑕的, 抽象的, [医] 的, 纯净的"
+          "definition": "adj. 純的、純淨的、純潔的、完全的"
         }
       ],
       "examples": [
         {
-          "en": "The water is pure and clean.",
+          "en": "This bottle is made of pure glass, not plastic.",
           "highlight": [
             "pure"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這個瓶子是由純玻璃製成，並非塑膠。"
+          }
+        },
+        {
+          "en": "The new filter produces purer water than the old one.",
+          "highlight": [
+            "purer"
+          ],
+          "translations": {
+            "zh-TW": "新的濾水器產出的水比舊的更純淨。"
+          }
+        },
+        {
+          "en": "These are among the purest diamonds ever discovered in the region.",
+          "highlight": [
+            "purest"
+          ],
+          "translations": {
+            "zh-TW": "這些是該地區所發現過最純淨的鑽石之一。"
           }
         }
       ],
       "synonyms": [
         "unmixed",
-        "unadulterated"
+        "unadulterated",
+        "clean"
       ],
       "antonyms": [
         "impure",
-        "mixed"
+        "mixed",
+        "tainted"
       ],
       "phrases": [
-        "pure",
-        "water",
-        "pure",
-        "gold"
+        "pure water",
+        "pure gold",
+        "pure chance",
+        "pure science"
       ]
     },
     {
@@ -363,45 +493,60 @@
       "toeic_score_min": 500,
       "word": "purpose",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "purposeed",
-        "past_participle": "purposeed",
-        "present_participle": "purposing",
-        "third_person": "purposes"
+        "plural": "purposes",
+        "present_3rd": "purposes"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "purpose",
-          "definition": "n. 目的, 意向, 决心, 用途, 效果, 论题, vt. 意欲, 企图, 计划"
+          "definition": "n. 目的、意圖、用途、決心"
         }
       ],
       "examples": [
         {
-          "en": "The purpose of the meeting is to discuss the project.",
+          "en": "The main purpose of this meeting is to finalize the budget.",
           "highlight": [
             "purpose"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這次會議的主要目的是敲定預算。"
+          }
+        },
+        {
+          "en": "Investors considered the purposes behind the restructuring carefully.",
+          "highlight": [
+            "purposes"
+          ],
+          "translations": {
+            "zh-TW": "投資人仔細考量了重組背後的各項目的。"
+          }
+        },
+        {
+          "en": "The training serves a dual purpose: skill-building and team bonding.",
+          "highlight": [
+            "purpose"
+          ],
+          "translations": {
+            "zh-TW": "這項培訓具有雙重目的：培養技能與凝聚團隊。"
           }
         }
       ],
       "synonyms": [
         "goal",
-        "aim"
+        "aim",
+        "objective"
       ],
       "antonyms": [],
       "phrases": [
-        "main",
-        "purpose",
-        "serve",
-        "a",
-        "purpose"
+        "on purpose",
+        "main purpose",
+        "serve a purpose",
+        "all-purpose"
       ]
     },
     {
@@ -412,48 +557,66 @@
       "toeic_score_min": 500,
       "word": "pursue",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "pursueed",
-        "past_participle": "pursueed",
-        "present_participle": "pursuing",
-        "third_person": "pursues"
+        "plural": "pursues",
+        "present_3rd": "pursues",
+        "past": "pursued",
+        "past_participle": "pursued",
+        "ing": "pursuing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pursue",
-          "definition": "vt. 追赶, 追踪, 追随, 追求, 實行, 继续, 从事, vi. 追赶, 继续"
+          "definition": "v. 追求、追趕、繼續、從事"
         }
       ],
       "examples": [
         {
-          "en": "He decided to pursue a career in medicine.",
+          "en": "Many graduates pursue a master's degree to strengthen their résumé.",
           "highlight": [
             "pursue"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "許多畢業生追求碩士學位以強化履歷。"
+          }
+        },
+        {
+          "en": "The legal team pursued the case all the way to the supreme court.",
+          "highlight": [
+            "pursued"
+          ],
+          "translations": {
+            "zh-TW": "法律團隊將案件一路追訴到最高法院。"
+          }
+        },
+        {
+          "en": "She is currently pursuing a career in international finance.",
+          "highlight": [
+            "pursuing"
+          ],
+          "translations": {
+            "zh-TW": "她目前正在從事國際金融方面的事業。"
           }
         }
       ],
       "synonyms": [
         "chase",
-        "follow"
+        "follow",
+        "seek"
       ],
       "antonyms": [
         "abandon",
         "ignore"
       ],
       "phrases": [
-        "pursue",
-        "a",
-        "career",
-        "pursue",
-        "a"
+        "pursue a career",
+        "pursue a degree",
+        "pursue a goal",
+        "pursue legal action"
       ]
     },
     {
@@ -468,43 +631,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "pushed",
+        "plural": "pushes",
+        "present_3rd": "pushes",
+        "past": "pushed",
         "past_participle": "pushed",
-        "present_participle": "pushing",
-        "third_person": "pushs"
+        "ing": "pushing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "push",
-          "definition": "n. 推, 推動, 奋斗, 攻击, 进取心, vt. 推, 推動, 使伸出, 推行, 逼迫, 增加, vi. 推, 推进, 增加, 努力争取"
+          "definition": "v. 推、推動、逼迫、推行  n. 推、推動、進取心"
         }
       ],
       "examples": [
         {
-          "en": "She pushed the door open.",
+          "en": "Please push the cart to the loading dock before noon.",
           "highlight": [
             "push"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在中午前把推車推到裝卸區。"
+          }
+        },
+        {
+          "en": "The sales team pushed the new software aggressively last quarter.",
+          "highlight": [
+            "pushed"
+          ],
+          "translations": {
+            "zh-TW": "業務團隊上季積極地推銷新軟體。"
+          }
+        },
+        {
+          "en": "The CEO is pushing for stricter quality control measures.",
+          "highlight": [
+            "pushing"
+          ],
+          "translations": {
+            "zh-TW": "執行長正極力推動更嚴格的品管措施。"
           }
         }
       ],
       "synonyms": [
         "shove",
-        "thrust"
+        "thrust",
+        "press"
       ],
       "antonyms": [
         "pull",
         "draw"
       ],
       "phrases": [
-        "push",
-        "hard",
-        "push",
-        "forward"
+        "push forward",
+        "push for",
+        "push button",
+        "push back"
       ]
     }
   ]
