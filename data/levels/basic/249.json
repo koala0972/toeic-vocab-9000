@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 249,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-249-001",
@@ -15,40 +15,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "sceneed",
-        "past_participle": "sceneed",
-        "present_participle": "scening",
-        "third_person": "scenes"
+        "plural": "scenes",
+        "past": "scened",
+        "past_participle": "scened",
+        "ing": "scening",
+        "present_3rd": "scenes"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "scene",
-          "definition": "n. 場, 情景, 镜頭, 發生地點, 道具, 布景, 景色, [化] 现場"
+          "definition": "n. 場景、情景、鏡頭、發生地點  v. 實地取景、勘景"
         }
       ],
       "examples": [
         {
-          "en": "The crime scene was cordoned off by the police.",
+          "en": "The detective arrived at the crime scene within ten minutes.",
           "highlight": [
             "scene"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "偵探在十分鐘內抵達了犯罪現場。"
+          }
+        },
+        {
+          "en": "The director scened the entire movie in a small coastal town.",
+          "highlight": [
+            "scened"
+          ],
+          "translations": {
+            "zh-TW": "導演把整部電影的取景安排在一個小沿海城鎮。"
+          }
+        },
+        {
+          "en": "Several scenes from the novel were cut to keep the film under two hours.",
+          "highlight": [
+            "scenes"
+          ],
+          "translations": {
+            "zh-TW": "為了將電影控制在兩小時以內，小說中的好幾個場景被刪去了。"
           }
         }
       ],
       "synonyms": [
+        "setting",
         "location",
-        "setting"
+        "vista"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "backdrop"
+      ],
       "phrases": [
-        "crime",
-        "scene",
-        "movie",
-        "scene"
+        "crime scene",
+        "movie scene",
+        "behind the scenes",
+        "make a scene"
       ]
     },
     {
@@ -63,42 +85,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "scheduleed",
-        "past_participle": "scheduleed",
-        "present_participle": "scheduling",
-        "third_person": "schedules"
+        "plural": "schedules",
+        "past": "scheduled",
+        "past_participle": "scheduled",
+        "ing": "scheduling",
+        "present_3rd": "schedules"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "schedule",
-          "definition": "n. 時間表, 一览表, 计划表, 議事日程, vt. 预定, 编制目录, 制...表, 安排"
+          "definition": "n. 時間表、行程表、議程  v. 排定、預約、安排"
         }
       ],
       "examples": [
         {
-          "en": "He followed his daily schedule strictly.",
+          "en": "The manager posts the weekly schedule every Friday afternoon.",
           "highlight": [
             "schedule"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理每個星期五下午都會公告當週的排班表。"
+          }
+        },
+        {
+          "en": "She scheduled the client meeting for Tuesday at ten in the conference room.",
+          "highlight": [
+            "scheduled"
+          ],
+          "translations": {
+            "zh-TW": "她把客戶會議安排在星期二上午十點的會議室。"
+          }
+        },
+        {
+          "en": "Scheduling too many interviews in one day exhausted the whole recruiting team.",
+          "highlight": [
+            "scheduling"
+          ],
+          "translations": {
+            "zh-TW": "一天排了太多場面試，讓整個招募團隊都筋疲力盡。"
           }
         }
       ],
       "synonyms": [
+        "timetable",
         "agenda",
-        "timetable"
+        "itinerary"
       ],
       "antonyms": [
         "disorganization"
       ],
       "phrases": [
-        "daily",
-        "schedule",
-        "work",
-        "schedule"
+        "tight schedule",
+        "on schedule",
+        "behind schedule",
+        "daily schedule"
       ]
     },
     {
@@ -113,44 +155,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "schemeed",
-        "past_participle": "schemeed",
-        "present_participle": "scheming",
-        "third_person": "schemes"
+        "plural": "schemes",
+        "past": "schemed",
+        "past_participle": "schemed",
+        "ing": "scheming",
+        "present_3rd": "schemes"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "scheme",
-          "definition": "n. 方案, 计划, 组合, 系统, 图解, 诡计, 阴谋, v. 计划, 设计, 图谋, 策划"
+          "definition": "n. 計畫、方案、詭計、陰謀  v. 策劃、圖謀"
         }
       ],
       "examples": [
         {
-          "en": "They devised a scheme to improve sales.",
+          "en": "The government launched a new pension scheme for retired workers.",
           "highlight": [
             "scheme"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "政府為退休勞工推出了一項新的退休金方案。"
+          }
+        },
+        {
+          "en": "They schemed for months to take over the family business.",
+          "highlight": [
+            "schemed"
+          ],
+          "translations": {
+            "zh-TW": "他們圖謀了好幾個月，想要接管家族企業。"
+          }
+        },
+        {
+          "en": "The scheming manager was eventually fired for falsifying expense reports.",
+          "highlight": [
+            "scheming"
+          ],
+          "translations": {
+            "zh-TW": "那位心機深重的經理最後因為偽造費用報告而被開除了。"
           }
         }
       ],
       "synonyms": [
         "plan",
+        "plot",
         "strategy"
       ],
       "antonyms": [
-        "disorder",
+        "honesty",
         "chaos"
       ],
       "phrases": [
-        "implement",
-        "a",
-        "scheme",
-        "design",
-        "a"
+        "pension scheme",
+        "color scheme",
+        "scheme of work",
+        "pyramid scheme"
       ]
     },
     {
@@ -161,44 +222,63 @@
       "toeic_score_min": 500,
       "word": "scary",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "scaries"
+        "comparative": "scarier",
+        "superlative": "scariest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "scary",
-          "definition": "a. 容易受惊的, 胆小的, 提心吊胆的"
+          "definition": "adj. 令人害怕的、恐怖的、嚇人的"
         }
       ],
       "examples": [
         {
-          "en": "The movie was really scary.",
+          "en": "The horror movie was too scary for my little cousin to watch.",
           "highlight": [
             "scary"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "那部恐怖片對我小表弟來說太嚇人，沒辦法看。"
+          }
+        },
+        {
+          "en": "Driving through the mountain tunnel at night is scarier than I expected.",
+          "highlight": [
+            "scarier"
+          ],
+          "translations": {
+            "zh-TW": "晚上開車穿過山間隧道比我想像的更令人害怕。"
+          }
+        },
+        {
+          "en": "Of all the stories the guide told, the haunted castle one was the scariest.",
+          "highlight": [
+            "scariest"
+          ],
+          "translations": {
+            "zh-TW": "在導遊說的所有故事裡，鬧鬼城堡那段最令人毛骨悚然。"
           }
         }
       ],
       "synonyms": [
         "frightening",
-        "terrifying"
+        "terrifying",
+        "creepy"
       ],
       "antonyms": [
         "comforting",
         "soothing"
       ],
       "phrases": [
-        "scary",
-        "movie",
-        "scary",
-        "experience"
+        "scary movie",
+        "scary story",
+        "scary experience",
+        "scary thought"
       ]
     },
     {
@@ -209,44 +289,59 @@
       "toeic_score_min": 500,
       "word": "science",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "scienceed",
-        "past_participle": "scienceed",
-        "present_participle": "sciencing",
-        "third_person": "sciences"
+        "plural": "sciences"
       },
-      "domain": "general",
+      "domain": "education",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "science",
-          "definition": "n. 科学, 学科, 学问, 自然科学, [医] 科学"
+          "definition": "n. 科學、自然科學、學科"
         }
       ],
       "examples": [
         {
-          "en": "She is studying environmental science.",
+          "en": "She decided to study computer science at a university in Tokyo.",
           "highlight": [
             "science"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她決定到東京的一所大學攻讀計算機科學。"
+          }
+        },
+        {
+          "en": "Modern sciences such as biotechnology and robotics are reshaping the job market.",
+          "highlight": [
+            "sciences"
+          ],
+          "translations": {
+            "zh-TW": "生物科技與機器人學等現代科學正在重塑就業市場。"
+          }
+        },
+        {
+          "en": "The course blends hands-on lab work with theory, so students truly grasp the science behind it.",
+          "highlight": [
+            "science"
+          ],
+          "translations": {
+            "zh-TW": "這門課將動手做實驗與理論結合，讓學生真正理解背後的科學原理。"
           }
         }
       ],
       "synonyms": [
+        "discipline",
         "study",
-        "discipline"
+        "field"
       ],
       "antonyms": [],
       "phrases": [
-        "natural",
-        "science",
-        "social",
-        "science"
+        "natural science",
+        "social science",
+        "computer science",
+        "science fair"
       ]
     },
     {
@@ -257,44 +352,60 @@
       "toeic_score_min": 500,
       "word": "scientific",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "scientifics"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "education",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "scientific",
-          "definition": "a. 科学的, 系统的, 符合科学规律的, [计] 科学記数法"
+          "definition": "adj. 科學的、符合科學方法的、有系統的"
         }
       ],
       "examples": [
         {
-          "en": "The research follows scientific methods.",
+          "en": "The team followed a strict scientific approach to test the new material.",
           "highlight": [
             "scientific"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "團隊採用嚴謹的科學方法來測試這種新材料。"
+          }
+        },
+        {
+          "en": "All claims in the report must be backed by scientific evidence, not opinions.",
+          "highlight": [
+            "scientific"
+          ],
+          "translations": {
+            "zh-TW": "報告中所有的論述都必須有科學證據支持，而非個人看法。"
+          }
+        },
+        {
+          "en": "This study is more scientific than the previous one, with larger sample sizes and tighter controls.",
+          "highlight": [
+            "more scientific"
+          ],
+          "translations": {
+            "zh-TW": "這項研究比上一項更科學，樣本數更大、對照也更嚴謹。"
           }
         }
       ],
       "synonyms": [
         "empirical",
-        "methodological"
+        "systematic",
+        "methodical"
       ],
       "antonyms": [
         "unscientific",
         "anecdotal"
       ],
       "phrases": [
-        "scientific",
-        "method",
-        "scientific",
-        "research"
+        "scientific method",
+        "scientific research",
+        "scientific evidence",
+        "scientific notation"
       ]
     },
     {
@@ -305,44 +416,59 @@
       "toeic_score_min": 500,
       "word": "scientist",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "scientisted",
-        "past_participle": "scientisted",
-        "present_participle": "scientisting",
-        "third_person": "scientists"
+        "plural": "scientists"
       },
-      "domain": "general",
+      "domain": "education",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "scientist",
-          "definition": "n. 科学家, [医] 科学家"
+          "definition": "n. 科學家、研究人員"
         }
       ],
       "examples": [
         {
-          "en": "The scientist made an important discovery.",
+          "en": "The scientist spent twenty years researching a cure for the disease.",
           "highlight": [
             "scientist"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位科學家花了二十年研究該疾病的治療方法。"
+          }
+        },
+        {
+          "en": "Many young scientists presented their findings at the international conference.",
+          "highlight": [
+            "scientists"
+          ],
+          "translations": {
+            "zh-TW": "許多年輕科學家在國際研討會上發表了他們的研究成果。"
+          }
+        },
+        {
+          "en": "As a data scientist, she helps the marketing team predict customer behavior.",
+          "highlight": [
+            "scientist"
+          ],
+          "translations": {
+            "zh-TW": "身為資料科學家，她協助行銷團隊預測顧客行為。"
           }
         }
       ],
       "synonyms": [
         "researcher",
-        "academic"
+        "academic",
+        "scholar"
       ],
       "antonyms": [],
       "phrases": [
-        "famous",
-        "scientist",
-        "research",
-        "scientist"
+        "research scientist",
+        "data scientist",
+        "lead scientist",
+        "computer scientist"
       ]
     },
     {
@@ -353,31 +479,43 @@
       "toeic_score_min": 500,
       "word": "scissors",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
-      "conjugations": {
-        "past_tense": "scissorsed",
-        "past_participle": "scissorsed",
-        "present_participle": "scissorsing",
-        "third_person": "scissorses"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "scissors",
-          "definition": "pl. 剪刀, [医] 剪"
+          "definition": "n. 剪刀（複數名詞）"
         }
       ],
       "examples": [
         {
-          "en": "She cut the paper with scissors.",
+          "en": "Could you pass me the scissors on the desk? I need to open this package.",
           "highlight": [
             "scissors"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "可以幫我把桌上的剪刀遞過來嗎？我需要打開這個包裹。"
+          }
+        },
+        {
+          "en": "She always keeps a small pair of scissors in her travel pouch.",
+          "highlight": [
+            "scissors"
+          ],
+          "translations": {
+            "zh-TW": "她總是在旅行袋裡放一把小剪刀。"
+          }
+        },
+        {
+          "en": "These kitchen scissors are sharp enough to cut through chicken bones.",
+          "highlight": [
+            "scissors"
+          ],
+          "translations": {
+            "zh-TW": "這把廚房剪刀鋒利到可以剪斷雞骨頭。"
           }
         }
       ],
@@ -387,11 +525,10 @@
       ],
       "antonyms": [],
       "phrases": [
-        "pair",
-        "of",
-        "scissors",
-        "cut",
-        "with"
+        "pair of scissors",
+        "kitchen scissors",
+        "nail scissors",
+        "paper scissors"
       ]
     },
     {
@@ -406,40 +543,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "scoreed",
-        "past_participle": "scoreed",
-        "present_participle": "scoring",
-        "third_person": "scores"
+        "plural": "scores",
+        "past": "scored",
+        "past_participle": "scored",
+        "ing": "scoring",
+        "present_3rd": "scores"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "score",
-          "definition": "n. 得分, 抓痕, 二十個, 刻痕, 帐目, 乐谱, 起跑线, 终點线, 大量, vt. 刻划, 划线, 获得, 评价, 把...記下, vi. 刻痕, 記分, 得分, [计] 得分"
+          "definition": "n. 分數、得分、樂譜  v. 得分、評分、記分"
         }
       ],
       "examples": [
         {
-          "en": "The final score was 3-2.",
+          "en": "Her TOEIC score improved by almost a hundred points after three months of study.",
           "highlight": [
             "score"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經過三個月的學習，她的多益分數進步了將近一百分。"
+          }
+        },
+        {
+          "en": "He scored the winning goal in the final minute of the match.",
+          "highlight": [
+            "scored"
+          ],
+          "translations": {
+            "zh-TW": "他在比賽最後一分鐘踢進了致勝的一球。"
+          }
+        },
+        {
+          "en": "Scoring consistently high marks requires discipline and regular review.",
+          "highlight": [
+            "Scoring"
+          ],
+          "translations": {
+            "zh-TW": "要持續拿到高分，需要自律以及規律地複習。"
           }
         }
       ],
       "synonyms": [
-        "point",
-        "result"
+        "points",
+        "result",
+        "grade"
       ],
       "antonyms": [],
       "phrases": [
-        "high",
-        "score",
-        "final",
-        "score"
+        "high score",
+        "final score",
+        "test score",
+        "score a goal"
       ]
     },
     {
@@ -454,44 +611,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "scratched",
+        "plural": "scratches",
+        "past": "scratched",
         "past_participle": "scratched",
-        "present_participle": "scratching",
-        "third_person": "scratchs"
+        "ing": "scratching",
+        "present_3rd": "scratches"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "scratch",
-          "definition": "n. 抓痕, 搔, 抓, 擦伤, 刮擦声, 乱写, 零分, 起跑线, vt. 搔, 抓, 挖出, 擦, 刮, 乱涂, 勾抹掉, vi. 搔, 抓, 發刮擦声, 勉强糊口, a. 碰巧的, 凑合的, 打草稿用的, [计] 擦除"
+          "definition": "v. 抓、搔癢、刮傷  n. 抓痕、刮痕、起跑線"
         }
       ],
       "examples": [
         {
-          "en": "He scratched his arm on the branch.",
+          "en": "Please don't scratch the new dining table with your car keys.",
           "highlight": [
             "scratch"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請不要用車鑰匙刮傷新的餐桌。"
+          }
+        },
+        {
+          "en": "The cat scratched the sofa so badly that we had to reupholster it.",
+          "highlight": [
+            "scratched"
+          ],
+          "translations": {
+            "zh-TW": "貓把沙發抓得太嚴重，我們只好重新換布面。"
+          }
+        },
+        {
+          "en": "There are visible scratches on the screen of this second-hand phone.",
+          "highlight": [
+            "scratches"
+          ],
+          "translations": {
+            "zh-TW": "這支二手手機的螢幕上有明顯的刮痕。"
           }
         }
       ],
       "synonyms": [
         "scrape",
-        "mark"
+        "mark",
+        "scuff"
       ],
       "antonyms": [
         "heal",
         "mend"
       ],
       "phrases": [
-        "scratch",
-        "the",
-        "surface",
-        "scratch",
-        "mark"
+        "from scratch",
+        "scratch the surface",
+        "scratch mark",
+        "start from scratch"
       ]
     }
   ]
