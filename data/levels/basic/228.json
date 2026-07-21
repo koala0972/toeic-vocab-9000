@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 228,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-228-001",
@@ -15,43 +15,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "puted",
-        "past_participle": "puted",
-        "present_participle": "puting",
-        "third_person": "puts"
+        "present_3rd": "puts",
+        "past": "put",
+        "past_participle": "put",
+        "ing": "putting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "put",
-          "definition": "vt. 放, 摆, 安置, 移動, 發射, 投掷, 写上, 表达, 使从事, 使受到, 驱使, 赋予, vi. 出發, 航行, 發芽, n. 掷, 股票出售权, 笨蛋, a. 固定不動的, [计] 發送文件"
+          "definition": "v. 放、置、擺、表述  n. 投擲、推桿"
         }
       ],
       "examples": [
         {
-          "en": "He put the book on the table.",
+          "en": "Please put the contract on the manager's desk before noon.",
           "highlight": [
             "put"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在中午前把合約放在經理的桌上。"
+          }
+        },
+        {
+          "en": "She put aside her personal feelings and made an objective decision.",
+          "highlight": [
+            "put"
+          ],
+          "translations": {
+            "zh-TW": "她放下個人情感，做出了客觀的決定。"
+          }
+        },
+        {
+          "en": "The marketing team is putting together a new campaign for the product launch.",
+          "highlight": [
+            "putting"
+          ],
+          "translations": {
+            "zh-TW": "行銷團隊正在為產品發表籌組新的宣傳活動。"
           }
         }
       ],
       "synonyms": [
         "place",
-        "set"
+        "set",
+        "lay"
       ],
       "antonyms": [
         "remove",
         "take"
       ],
       "phrases": [
-        "put",
-        "down",
-        "put",
-        "on"
+        "put off",
+        "put on",
+        "put up with",
+        "put together"
       ]
     },
     {
@@ -62,46 +81,61 @@
       "toeic_score_min": 500,
       "word": "qualification",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "qualificationed",
-        "past_participle": "qualificationed",
-        "present_participle": "qualificationing",
-        "third_person": "qualifications"
+        "plural": "qualifications"
       },
-      "domain": "general",
+      "domain": "employment",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "qualification",
-          "definition": "n. 资格, 条件, 限制, [计] 限定"
+          "definition": "n. 資格、條件、資歷、限制條款"
         }
       ],
       "examples": [
         {
-          "en": "She obtained her teaching qualification last year.",
+          "en": "A master's degree is the minimum qualification for this position.",
           "highlight": [
             "qualification"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "碩士學位是這個職位的最低資格要求。"
+          }
+        },
+        {
+          "en": "Applicants must list all relevant qualifications on their resume.",
+          "highlight": [
+            "qualifications"
+          ],
+          "translations": {
+            "zh-TW": "應徵者必須在履歷上列出所有相關資歷。"
+          }
+        },
+        {
+          "en": "She added a qualification to her statement to clarify the scope of the claim.",
+          "highlight": [
+            "qualification"
+          ],
+          "translations": {
+            "zh-TW": "她在聲明中加上了一項限制條款，以釐清主張的適用範圍。"
           }
         }
       ],
       "synonyms": [
+        "credential",
         "certification",
-        "credential"
+        "requirement"
       ],
       "antonyms": [
         "disqualification"
       ],
       "phrases": [
-        "teaching",
-        "qualification",
-        "qualification",
-        "test"
+        "professional qualification",
+        "teaching qualification",
+        "qualification requirement",
+        "minimum qualification"
       ]
     },
     {
@@ -112,47 +146,63 @@
       "toeic_score_min": 500,
       "word": "qualified",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "qualifieded",
-        "past_participle": "qualifieded",
-        "present_participle": "qualifieding",
-        "third_person": "qualifieds"
+        "comparative": "more qualified",
+        "superlative": "most qualified"
       },
-      "domain": "general",
+      "domain": "employment",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "qualified",
-          "definition": "a. 有资格的, [經] 合格的, 有条件的, 有限制的"
+          "definition": "a. 有資格的、合格的、勝任的、有限制的"
         }
       ],
       "examples": [
         {
-          "en": "He is a qualified electrician.",
+          "en": "We are seeking a qualified accountant with at least five years of experience.",
           "highlight": [
             "qualified"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們正在尋找一位具有至少五年經驗的合格會計師。"
+          }
+        },
+        {
+          "en": "Among the candidates, she is more qualified than anyone else for the senior role.",
+          "highlight": [
+            "more qualified"
+          ],
+          "translations": {
+            "zh-TW": "在所有候選人中，她比其他人都更有資格擔任這個資深職位。"
+          }
+        },
+        {
+          "en": "He is the most qualified engineer the firm has ever hired.",
+          "highlight": [
+            "most qualified"
+          ],
+          "translations": {
+            "zh-TW": "他是這家公司曾聘用過最有資格的工程師。"
           }
         }
       ],
       "synonyms": [
         "certified",
-        "competent"
+        "competent",
+        "eligible"
       ],
       "antonyms": [
         "unqualified",
         "incompetent"
       ],
       "phrases": [
-        "fully",
-        "qualified",
-        "highly",
-        "qualified"
+        "fully qualified",
+        "highly qualified",
+        "qualified candidate",
+        "qualified professional"
       ]
     },
     {
@@ -163,48 +213,64 @@
       "toeic_score_min": 500,
       "word": "qualify",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "qualifyed",
-        "past_participle": "qualifyed",
-        "present_participle": "qualifying",
-        "third_person": "qualifys"
+        "present_3rd": "qualifies",
+        "past": "qualified",
+        "past_participle": "qualified",
+        "ing": "qualifying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "qualify",
-          "definition": "vi. 取得资格, 有资格, vt. 使有资格, 使合格, 限定, 限制, 准予"
+          "definition": "v. 取得資格、使勝任、合格、限制、修飾"
         }
       ],
       "examples": [
         {
-          "en": "He qualifies for the scholarship.",
+          "en": "You must pass two exams to qualify for the promotion.",
           "highlight": [
             "qualify"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "你必須通過兩項考試才能取得升遷資格。"
+          }
+        },
+        {
+          "en": "She qualified as a certified translator after six months of intensive training.",
+          "highlight": [
+            "qualified"
+          ],
+          "translations": {
+            "zh-TW": "經過六個月的密集訓練後，她取得了合格翻譯員的資格。"
+          }
+        },
+        {
+          "en": "The team is currently qualifying for the international tournament in Paris.",
+          "highlight": [
+            "qualifying"
+          ],
+          "translations": {
+            "zh-TW": "這支隊伍目前正在取得巴黎國際錦標賽的參賽資格。"
           }
         }
       ],
       "synonyms": [
-        "meet",
-        "conditions",
-        "be",
-        "eligible"
+        "become eligible",
+        "meet requirements",
+        "certify"
       ],
       "antonyms": [
         "disqualify"
       ],
       "phrases": [
-        "qualify",
-        "for",
-        "qualify",
-        "as"
+        "qualify for",
+        "qualify as",
+        "qualifying round",
+        "qualifying exam"
       ]
     },
     {
@@ -226,32 +292,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "quality",
-          "definition": "n. 品质, 特性, 才能, 质量, a. 优质的, [计] 品质"
+          "definition": "n. 品質、特質、才能  a. 高品質的、優質的"
         }
       ],
       "examples": [
         {
-          "en": "The quality of the product is excellent.",
+          "en": "The factory guarantees the quality of every product before shipment.",
           "highlight": [
             "quality"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "工廠保證每件產品出貨前的品質。"
+          }
+        },
+        {
+          "en": "Leadership and patience are essential qualities for a project manager.",
+          "highlight": [
+            "qualities"
+          ],
+          "translations": {
+            "zh-TW": "領導力與耐心是專案經理必備的特質。"
+          }
+        },
+        {
+          "en": "Customers are willing to pay more for quality goods that last longer.",
+          "highlight": [
+            "quality"
+          ],
+          "translations": {
+            "zh-TW": "顧客願意為更耐用的優質商品支付較高的價格。"
           }
         }
       ],
       "synonyms": [
         "standard",
+        "excellence",
         "grade"
       ],
       "antonyms": [
         "inferiority"
       ],
       "phrases": [
-        "high",
-        "quality",
-        "quality",
-        "control"
+        "high quality",
+        "quality control",
+        "quality assurance",
+        "product quality"
       ]
     },
     {
@@ -262,44 +347,61 @@
       "toeic_score_min": 500,
       "word": "quantity",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "quantityed",
-        "past_participle": "quantityed",
-        "present_participle": "quantitying",
-        "third_person": "quantitys"
+        "plural": "quantities"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "quantity",
-          "definition": "n. 量, 数量, 总量, [计] 数量; 量"
+          "definition": "n. 數量、份量、總量"
         }
       ],
       "examples": [
         {
-          "en": "The quantity of water in the tank is low.",
+          "en": "The supplier provides a large quantity of raw materials each month.",
           "highlight": [
             "quantity"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "供應商每個月提供大量的原料。"
+          }
+        },
+        {
+          "en": "We need to order sufficient quantities of paper for the annual report.",
+          "highlight": [
+            "quantities"
+          ],
+          "translations": {
+            "zh-TW": "我們需要為年度報告訂購足夠數量的紙張。"
+          }
+        },
+        {
+          "en": "Managers must balance quantity and quality when scaling production.",
+          "highlight": [
+            "quantity"
+          ],
+          "translations": {
+            "zh-TW": "主管在擴大生產時必須在數量與品質之間取得平衡。"
           }
         }
       ],
       "synonyms": [
         "amount",
-        "volume"
+        "volume",
+        "supply"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "scarcity"
+      ],
       "phrases": [
-        "large",
-        "quantity",
-        "small",
-        "quantity"
+        "large quantity",
+        "small quantity",
+        "in quantity",
+        "quantity discount"
       ]
     },
     {
@@ -316,36 +418,56 @@
       "conjugations": {
         "plural": "quarters"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "quarter",
-          "definition": "n. 四分之一, 一刻钟, 季度, 地區, vt. 四等分, 肢解, vi. 驻扎, 住宿"
+          "definition": "n. 四分之一、一刻鐘、季度、地區  v. 四等分、駐紮"
         }
       ],
       "examples": [
         {
-          "en": "She gave him a quarter of the apple.",
+          "en": "Revenue rose by a quarter compared with the same period last year.",
           "highlight": [
             "quarter"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "營收較去年同期成長了四分之一。"
+          }
+        },
+        {
+          "en": "The board reviews financial results at the end of every quarter.",
+          "highlight": [
+            "quarter"
+          ],
+          "translations": {
+            "zh-TW": "董事會在每季結束時檢視財務結果。"
+          }
+        },
+        {
+          "en": "Employees gathered in the headquarters' quarters for the year-end meeting.",
+          "highlight": [
+            "quarters"
+          ],
+          "translations": {
+            "zh-TW": "員工聚集在總部的辦公區域參加年終會議。"
           }
         }
       ],
       "synonyms": [
         "fourth",
-        "part"
+        "section",
+        "district"
       ],
       "antonyms": [
         "whole"
       ],
       "phrases": [
-        "quarter",
-        "of",
-        "quarterly"
+        "first quarter",
+        "quarter report",
+        "headquarters",
+        "residential quarter"
       ]
     },
     {
@@ -356,46 +478,61 @@
       "toeic_score_min": 500,
       "word": "queen",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "queened",
-        "past_participle": "queened",
-        "present_participle": "queening",
-        "third_person": "queens"
+        "plural": "queens"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "queen",
-          "definition": "n. 王後, 女王, vt. 立為女王, vi. 做女王"
+          "definition": "n. 女王、王后、出眾的女性"
         }
       ],
       "examples": [
         {
-          "en": "The queen addressed the nation.",
+          "en": "The queen delivered a speech to open the new session of parliament.",
           "highlight": [
             "queen"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "女王發表演說為新一屆國會揭開序幕。"
+          }
+        },
+        {
+          "en": "Historians often compare the reigns of different queens across Europe.",
+          "highlight": [
+            "queens"
+          ],
+          "translations": {
+            "zh-TW": "歷史學家經常比較歐洲不同女王的統治時期。"
+          }
+        },
+        {
+          "en": "She has been the queen of daytime television for over a decade.",
+          "highlight": [
+            "queen"
+          ],
+          "translations": {
+            "zh-TW": "十多年來她一直是日間電視節目的女王。"
           }
         }
       ],
       "synonyms": [
         "monarch",
-        "ruler"
+        "ruler",
+        "sovereign"
       ],
       "antonyms": [
         "king"
       ],
       "phrases": [
-        "queen",
-        "of",
-        "queen's",
-        "speech"
+        "queen of",
+        "beauty queen",
+        "queen mother",
+        "drag queen"
       ]
     },
     {
@@ -410,44 +547,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "questioned",
+        "plural": "questions",
+        "present_3rd": "questions",
+        "past": "questioned",
         "past_participle": "questioned",
-        "present_participle": "questioning",
-        "third_person": "questions"
+        "ing": "questioning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "question",
-          "definition": "n. 问题, 询问, v. 询问, 审问, 怀疑, [计] 询问"
+          "definition": "n. 問題、疑問、議題  v. 詢問、質疑、審問"
         }
       ],
       "examples": [
         {
-          "en": "He asked a difficult question.",
+          "en": "The reporter asked a sharp question about the company's environmental policy.",
           "highlight": [
             "question"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "記者就公司的環保政策提出了一個尖銳的問題。"
+          }
+        },
+        {
+          "en": "During the interview, the panel raised several questions about her experience abroad.",
+          "highlight": [
+            "questions"
+          ],
+          "translations": {
+            "zh-TW": "面試過程中考評委員提出了幾個關於她海外經驗的問題。"
+          }
+        },
+        {
+          "en": "The auditor questioned the accuracy of the figures in the quarterly report.",
+          "highlight": [
+            "questioned"
+          ],
+          "translations": {
+            "zh-TW": "稽核員質疑了季報中數字的準確性。"
           }
         }
       ],
       "synonyms": [
         "query",
-        "inquiry"
+        "inquiry",
+        "doubt"
       ],
       "antonyms": [
         "answer",
         "response"
       ],
       "phrases": [
-        "ask",
-        "a",
-        "question",
-        "question",
-        "time"
+        "ask a question",
+        "open question",
+        "question time",
+        "without question"
       ]
     },
     {
@@ -458,44 +614,63 @@
       "toeic_score_min": 500,
       "word": "quick",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "quicks"
+        "comparative": "quicker",
+        "superlative": "quickest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "quick",
-          "definition": "a. 快的, 迅速的, 敏捷的, 灵敏的, 急速的, adv. 快, n. 新長出的肉, 要害, 核心, 感觉敏锐部位"
+          "definition": "a. 快的、迅速的、敏捷的  adv. 快速地"
         }
       ],
       "examples": [
         {
-          "en": "She made a quick decision.",
+          "en": "Please give me a quick summary of yesterday's meeting.",
           "highlight": [
             "quick"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請給我一份昨天會議的快速摘要。"
+          }
+        },
+        {
+          "en": "Her response was quicker than anyone expected during the negotiation.",
+          "highlight": [
+            "quicker"
+          ],
+          "translations": {
+            "zh-TW": "在談判過程中她的反應比任何人預期的都要快。"
+          }
+        },
+        {
+          "en": "He is the quickest typist in the entire administrative department.",
+          "highlight": [
+            "quickest"
+          ],
+          "translations": {
+            "zh-TW": "他是整個行政部門裡打字最快的人。"
           }
         }
       ],
       "synonyms": [
         "fast",
-        "rapid"
+        "rapid",
+        "swift"
       ],
       "antonyms": [
         "slow",
         "sluggish"
       ],
       "phrases": [
-        "quick",
-        "response",
-        "quick",
-        "decision"
+        "quick response",
+        "quick decision",
+        "quick fix",
+        "quick lunch"
       ]
     }
   ]
