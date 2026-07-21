@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 234,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-234-001",
@@ -11,47 +11,65 @@
       "toeic_score_min": 500,
       "word": "reduce",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "reduceed",
-        "past_participle": "reduceed",
-        "present_participle": "reducing",
-        "third_person": "reduces"
+        "present_3rd": "reduces",
+        "past": "reduced",
+        "past_participle": "reduced",
+        "ing": "reducing"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "reduce",
-          "definition": "vt. 减少, 分解, 降低, 使衰退, 把...分解, 把...归纳, vi. 减少, 减肥, 缩小, [计] 缩小"
+          "definition": "v. 減少、降低、縮減"
         }
       ],
       "examples": [
         {
-          "en": "They aim to reduce costs.",
+          "en": "The company plans to reduce operating costs by fifteen percent this year.",
           "highlight": [
             "reduce"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司計劃今年將營運成本降低百分之十五。"
+          }
+        },
+        {
+          "en": "Sales dropped sharply after they reduced the marketing budget last quarter.",
+          "highlight": [
+            "reduced"
+          ],
+          "translations": {
+            "zh-TW": "上季他們削減行銷預算後,銷售額大幅下滑。"
+          }
+        },
+        {
+          "en": "By reducing waste in the production line, the factory has saved millions.",
+          "highlight": [
+            "reducing"
+          ],
+          "translations": {
+            "zh-TW": "藉由減少生產線上的浪費,工廠已省下數百萬元。"
           }
         }
       ],
       "synonyms": [
         "decrease",
-        "diminish"
+        "diminish",
+        "cut"
       ],
       "antonyms": [
         "increase",
         "expand"
       ],
       "phrases": [
-        "reduce",
-        "waste",
-        "reduce",
-        "cost"
+        "reduce costs",
+        "reduce waste",
+        "reduce risk",
+        "reduce carbon emissions"
       ]
     },
     {
@@ -62,47 +80,62 @@
       "toeic_score_min": 500,
       "word": "reduction",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "reductioned",
-        "past_participle": "reductioned",
-        "present_participle": "reductioning",
-        "third_person": "reductions"
+        "plural": "reductions"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "reduction",
-          "definition": "n. 减少, 缩影, 变化, [化] 还原"
+          "definition": "n. 減少、縮減、降低"
         }
       ],
       "examples": [
         {
-          "en": "There was a reduction in crime rates.",
+          "en": "The store announced a price reduction on all winter clothing.",
           "highlight": [
             "reduction"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家商店宣布所有冬季服飾降价。"
+          }
+        },
+        {
+          "en": "Several tax reductions were introduced to support small businesses last year.",
+          "highlight": [
+            "reductions"
+          ],
+          "translations": {
+            "zh-TW": "去年推出了幾項減稅措施來支持小型企業。"
+          }
+        },
+        {
+          "en": "A significant reduction in staff turnover has improved overall productivity.",
+          "highlight": [
+            "reduction"
+          ],
+          "translations": {
+            "zh-TW": "員工流動率的大幅降低已提升了整體生產力。"
           }
         }
       ],
       "synonyms": [
         "decrease",
-        "cut"
+        "cut",
+        "lowering"
       ],
       "antonyms": [
         "increase",
         "growth"
       ],
       "phrases": [
-        "tax",
-        "reduction",
-        "reduction",
-        "in"
+        "price reduction",
+        "tax reduction",
+        "staff reduction",
+        "significant reduction"
       ]
     },
     {
@@ -113,47 +146,65 @@
       "toeic_score_min": 500,
       "word": "refer",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "refered",
-        "past_participle": "refered",
-        "present_participle": "refering",
-        "third_person": "refers"
+        "present_3rd": "refers",
+        "past": "referred",
+        "past_participle": "referred",
+        "ing": "referring"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "refer",
-          "definition": "vt. 提交, 归诸于, 把...提交, 使求助于, vi. 提到, 涉及, 查阅, 查询, 咨询"
+          "definition": "v. 提及、查閱、將…轉介、涉及"
         }
       ],
       "examples": [
         {
-          "en": "He referred to the manual for instructions.",
+          "en": "Please refer to page twelve of the user manual for detailed instructions.",
           "highlight": [
             "refer"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請查閱使用手冊第十二頁以取得詳細說明。"
+          }
+        },
+        {
+          "en": "The doctor referred the patient to a heart specialist for further examination.",
+          "highlight": [
+            "referred"
+          ],
+          "translations": {
+            "zh-TW": "醫生將病患轉介給心臟科專家做進一步檢查。"
+          }
+        },
+        {
+          "en": "The contract is referring to the terms agreed upon during the initial meeting.",
+          "highlight": [
+            "referring"
+          ],
+          "translations": {
+            "zh-TW": "合約中提及的是最初會議上達成的條款。"
           }
         }
       ],
       "synonyms": [
         "mention",
-        "cite"
+        "cite",
+        "direct"
       ],
       "antonyms": [
         "ignore",
         "overlook"
       ],
       "phrases": [
-        "refer",
-        "to",
-        "refer",
-        "back"
+        "refer to",
+        "refer back",
+        "refer to as",
+        "refer a client"
       ]
     },
     {
@@ -168,43 +219,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "referenceed",
-        "past_participle": "referenceed",
-        "present_participle": "referencing",
-        "third_person": "references"
+        "plural": "references",
+        "present_3rd": "references",
+        "past": "referenced",
+        "past_participle": "referenced",
+        "ing": "referencing"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "reference",
-          "definition": "n. 参考, 索引, 参照, vt. 给...加上参考资料, vt. 引用, vi. 引用, [计] 引用"
+          "definition": "n. 參考、參考資料、推薦信  v. 引用、查閱"
         }
       ],
       "examples": [
         {
-          "en": "She provided a reference for her friend.",
+          "en": "The candidate provided three excellent references from previous employers.",
+          "highlight": [
+            "references"
+          ],
+          "translations": {
+            "zh-TW": "這位求職者提供了三位前任雇主的優秀推薦信。"
+          }
+        },
+        {
+          "en": "Please reference the attached document when completing the application form.",
           "highlight": [
             "reference"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "填寫申請表時請參考附件文件。"
+          }
+        },
+        {
+          "en": "The report referenced several studies on remote work productivity.",
+          "highlight": [
+            "referenced"
+          ],
+          "translations": {
+            "zh-TW": "這份報告引用了數項關於遠距工作效率的研究。"
           }
         }
       ],
       "synonyms": [
         "citation",
-        "source"
+        "source",
+        "recommendation"
       ],
       "antonyms": [
         "disregard",
         "neglect"
       ],
       "phrases": [
-        "reference",
-        "book",
-        "reference",
-        "point"
+        "reference book",
+        "reference letter",
+        "for reference only",
+        "reference number"
       ]
     },
     {
@@ -215,47 +286,65 @@
       "toeic_score_min": 500,
       "word": "reflect",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "reflected",
+        "present_3rd": "reflects",
+        "past": "reflected",
         "past_participle": "reflected",
-        "present_participle": "reflecting",
-        "third_person": "reflects"
+        "ing": "reflecting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "reflect",
-          "definition": "vt. 反射, 反映, 招致, 深思, vi. 被反射, 映出, 深思, 考虑, 指责"
+          "definition": "v. 反映、反射、深思"
         }
       ],
       "examples": [
         {
-          "en": "The mirror reflects light.",
+          "en": "The quarterly report reflects a steady improvement in customer satisfaction.",
           "highlight": [
-            "reflect"
+            "reflects"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "季度報告反映了顧客滿意度的穩定提升。"
+          }
+        },
+        {
+          "en": "The calm lake reflected the mountains perfectly in the early morning light.",
+          "highlight": [
+            "reflected"
+          ],
+          "translations": {
+            "zh-TW": "清晨的光線中,平靜的湖面完美地倒映出群山。"
+          }
+        },
+        {
+          "en": "After reflecting on the feedback, the manager decided to revise the proposal.",
+          "highlight": [
+            "reflecting"
+          ],
+          "translations": {
+            "zh-TW": "深思回饋意見後,經理決定修改提案。"
           }
         }
       ],
       "synonyms": [
         "mirror",
-        "return"
+        "show",
+        "consider"
       ],
       "antonyms": [
         "absorb",
-        "retain"
+        "ignore"
       ],
       "phrases": [
-        "reflect",
-        "light",
-        "reflect",
-        "on"
+        "reflect on",
+        "reflect well on",
+        "reflect light",
+        "reflect changes"
       ]
     },
     {
@@ -270,43 +359,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "reformed",
+        "plural": "reforms",
+        "present_3rd": "reforms",
+        "past": "reformed",
         "past_participle": "reformed",
-        "present_participle": "reforming",
-        "third_person": "reforms"
+        "ing": "reforming"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "reform",
-          "definition": "n. 改革, 改正, 改造, vt. 改革, 改過, 革新, 重整, vi. 革新, 改過"
+          "definition": "n. 改革、革新  v. 改革、改良"
         }
       ],
       "examples": [
         {
-          "en": "They plan to reform the education system.",
+          "en": "The government promised to reform the tax system within two years.",
           "highlight": [
             "reform"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "政府承諾在兩年內改革稅制。"
+          }
+        },
+        {
+          "en": "Several education reforms were introduced to improve teaching quality.",
+          "highlight": [
+            "reforms"
+          ],
+          "translations": {
+            "zh-TW": "推出了幾項教育改革以提升教學品質。"
+          }
+        },
+        {
+          "en": "The reformed criminal has now become a productive member of society.",
+          "highlight": [
+            "reformed"
+          ],
+          "translations": {
+            "zh-TW": "這位改過自新的更生人現在已成為社會上有生產力的一員。"
           }
         }
       ],
       "synonyms": [
         "improve",
-        "amend"
+        "amend",
+        "revise"
       ],
       "antonyms": [
-        "deteriorate",
-        "worsen"
+        "worsen",
+        "deteriorate"
       ],
       "phrases": [
-        "reform",
-        "policy",
-        "reform",
-        "effort"
+        "reform policy",
+        "education reform",
+        "tax reform",
+        "reform effort"
       ]
     },
     {
@@ -317,45 +426,61 @@
       "toeic_score_min": 500,
       "word": "refrigerator",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "refrigeratored",
-        "past_participle": "refrigeratored",
-        "present_participle": "refrigeratoring",
-        "third_person": "refrigerators"
+        "plural": "refrigerators"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "refrigerator",
-          "definition": "n. 电冰箱, 冷藏库, [计] 冷冻机; 致冷器"
+          "definition": "n. 冰箱、冷藏庫"
         }
       ],
       "examples": [
         {
-          "en": "She put the milk in the refrigerator.",
+          "en": "Please store the vaccine in the refrigerator at a temperature between two and eight degrees.",
           "highlight": [
             "refrigerator"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請將疫苗儲存在攝氏二至八度的冰箱內。"
+          }
+        },
+        {
+          "en": "Modern refrigerators come with energy-saving features and smart temperature controls.",
+          "highlight": [
+            "refrigerators"
+          ],
+          "translations": {
+            "zh-TW": "現代冰箱配備節能功能與智慧溫度控制。"
+          }
+        },
+        {
+          "en": "She checked the refrigerator before going shopping to avoid buying duplicate items.",
+          "highlight": [
+            "refrigerator"
+          ],
+          "translations": {
+            "zh-TW": "出門購物前她先檢查冰箱,以免重複購買。"
           }
         }
       ],
       "synonyms": [
         "fridge",
-        "cooler"
+        "cooler",
+        "icebox"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "oven"
+      ],
       "phrases": [
-        "put",
-        "in",
-        "refrigerator",
-        "take",
-        "out"
+        "in the refrigerator",
+        "refrigerator magnet",
+        "refrigerator door",
+        "mini refrigerator"
       ]
     },
     {
@@ -370,44 +495,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "refuseed",
-        "past_participle": "refuseed",
-        "present_participle": "refusing",
-        "third_person": "refuses"
+        "plural": "refuse",
+        "present_3rd": "refuses",
+        "past": "refused",
+        "past_participle": "refused",
+        "ing": "refusing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "refuse",
-          "definition": "vt. 拒绝, 謝绝, vi. 拒绝, n. 废物, a. 扔掉的, 无用的"
+          "definition": "v. 拒絕、回絕  n. 廢物、垃圾"
         }
       ],
       "examples": [
         {
-          "en": "He refused to help.",
+          "en": "The supplier may refuse to deliver goods if payment is delayed beyond thirty days.",
           "highlight": [
             "refuse"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "若付款延遲超過三十天,供應商可能拒絕交貨。"
+          }
+        },
+        {
+          "en": "She refused the job offer because the salary was below her expectations.",
+          "highlight": [
+            "refused"
+          ],
+          "translations": {
+            "zh-TW": "她拒絕了那份工作錄取,因為薪資低於她的期望。"
+          }
+        },
+        {
+          "en": "The residents are refusing to pay rent until the broken heating system is fixed.",
+          "highlight": [
+            "refusing"
+          ],
+          "translations": {
+            "zh-TW": "居民拒絕支付租金,直到故障的暖氣系統修好為止。"
           }
         }
       ],
       "synonyms": [
         "decline",
-        "reject"
+        "reject",
+        "turn down"
       ],
       "antonyms": [
         "accept",
         "agree"
       ],
       "phrases": [
-        "refuse",
-        "help",
-        "refuse",
-        "to",
-        "do"
+        "refuse to do",
+        "refuse an offer",
+        "refuse payment",
+        "household refuse"
       ]
     },
     {
@@ -422,44 +566,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "regarded",
+        "plural": "regards",
+        "present_3rd": "regards",
+        "past": "regarded",
         "past_participle": "regarded",
-        "present_participle": "regarding",
-        "third_person": "regards"
+        "ing": "regarding"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "regard",
-          "definition": "n. 關心, 注意, 尊敬, 關系, 问候, vt. 视為, 注意, 考虑, 和...有關, 看待, vi. 注视, 注意"
+          "definition": "v. 視為、看待、注視  n. 尊敬、問候、注意"
         }
       ],
       "examples": [
         {
-          "en": "She is highly regarded by her peers.",
+          "en": "The new policy regards employee safety as the top priority of the organization.",
           "highlight": [
-            "regard"
+            "regards"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新政策將員工安全視為組織的首要任務。"
+          }
+        },
+        {
+          "en": "She was widely regarded as one of the most talented designers in the industry.",
+          "highlight": [
+            "regarded"
+          ],
+          "translations": {
+            "zh-TW": "她被廣泛認為是業界最具才華的設計師之一。"
+          }
+        },
+        {
+          "en": "Please send my warm regards to your family when you return home.",
+          "highlight": [
+            "regards"
+          ],
+          "translations": {
+            "zh-TW": "返家後請代我向您的家人致上誠摯問候。"
           }
         }
       ],
       "synonyms": [
         "consider",
-        "view"
+        "view",
+        "respect"
       ],
       "antonyms": [
         "ignore",
         "disregard"
       ],
       "phrases": [
-        "regard",
-        "highly",
-        "with",
-        "regard",
-        "to"
+        "regard as",
+        "with regard to",
+        "warm regards",
+        "highly regarded"
       ]
     },
     {
@@ -473,36 +636,54 @@
         "preposition"
       ],
       "conjugations": {},
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "regarding",
-          "definition": "prep. 關于"
+          "definition": "prep. 關於、至於"
         }
       ],
       "examples": [
         {
-          "en": "Regarding your request, we will get back to you.",
+          "en": "Regarding your inquiry about the delivery schedule, we will confirm the details by Friday.",
           "highlight": [
             "regarding"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "關於您詢問的交貨時間表,我們將於週五前確認細節。"
+          }
+        },
+        {
+          "en": "The manager sent an email regarding the upcoming staff training session.",
+          "highlight": [
+            "regarding"
+          ],
+          "translations": {
+            "zh-TW": "經理寄了一封關於即將舉行的員工培訓課程的電子郵件。"
+          }
+        },
+        {
+          "en": "Please contact our customer service regarding any issues with the product.",
+          "highlight": [
+            "regarding"
+          ],
+          "translations": {
+            "zh-TW": "關於產品的任何問題,請聯繫我們的客服部門。"
           }
         }
       ],
       "synonyms": [
         "concerning",
-        "about"
+        "about",
+        "respecting"
       ],
       "antonyms": [],
       "phrases": [
-        "regarding",
-        "your",
-        "inquiry",
-        "regarding",
-        "this"
+        "regarding your request",
+        "regarding this matter",
+        "regarding the issue",
+        "regarding payment"
       ]
     }
   ]
