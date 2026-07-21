@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 223,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-223-001",
@@ -11,46 +11,62 @@
       "toeic_score_min": 500,
       "word": "priority",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "priorityed",
-        "past_participle": "priorityed",
-        "present_participle": "prioritying",
-        "third_person": "prioritys"
+        "plural": "priorities"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "priority",
-          "definition": "n. 优先权, 优先, [计] 优先級"
+          "definition": "n. 優先、優先權、優先事項"
         }
       ],
       "examples": [
         {
-          "en": "Safety is our priority.",
+          "en": "Customer satisfaction is our top priority.",
           "highlight": [
             "priority"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "顧客滿意是我們的首要之務。"
+          }
+        },
+        {
+          "en": "We need to set clear priorities before starting the project.",
+          "highlight": [
+            "priorities"
+          ],
+          "translations": {
+            "zh-TW": "我們在開始專案前必須設定明確的優先順序。"
+          }
+        },
+        {
+          "en": "Safety takes priority over speed in this factory.",
+          "highlight": [
+            "priority"
+          ],
+          "translations": {
+            "zh-TW": "在這座工廠裡，安全優先於速度。"
           }
         }
       ],
       "synonyms": [
         "precedence",
-        "importance"
+        "importance",
+        "preference"
       ],
       "antonyms": [
-        "unimportance"
+        "unimportance",
+        "triviality"
       ],
       "phrases": [
-        "high",
-        "priority",
-        "priority",
-        "list"
+        "top priority",
+        "high priority",
+        "priority list",
+        "give priority to"
       ]
     },
     {
@@ -61,48 +77,62 @@
       "toeic_score_min": 500,
       "word": "prison",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "prisoned",
-        "past_participle": "prisoned",
-        "present_participle": "prisoning",
-        "third_person": "prisons"
+        "plural": "prisons"
       },
-      "domain": "general",
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "prison",
-          "definition": "n. 监狱, 监禁, 拘留所, vt. 监禁"
+          "definition": "n. 監獄、看守所、監禁"
         }
       ],
       "examples": [
         {
-          "en": "He was sent to prison for theft.",
+          "en": "He was sent to prison for embezzlement.",
           "highlight": [
             "prison"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他因挪用公款而被關進監獄。"
+          }
+        },
+        {
+          "en": "Many prisons in the country are overcrowded.",
+          "highlight": [
+            "prisons"
+          ],
+          "translations": {
+            "zh-TW": "這個國家的許多監獄都人滿為患。"
+          }
+        },
+        {
+          "en": "She spent five years in prison for fraud.",
+          "highlight": [
+            "prison"
+          ],
+          "translations": {
+            "zh-TW": "她因詐欺罪在獄中服刑五年。"
           }
         }
       ],
       "synonyms": [
         "jail",
-        "penitentiary"
+        "penitentiary",
+        "lockup"
       ],
       "antonyms": [
         "freedom",
-        "release"
+        "liberty"
       ],
       "phrases": [
-        "sent",
-        "to",
-        "prison",
-        "in",
-        "prison"
+        "send to prison",
+        "in prison",
+        "prison sentence",
+        "escape from prison"
       ]
     },
     {
@@ -113,47 +143,62 @@
       "toeic_score_min": 500,
       "word": "prisoner",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "prisonered",
-        "past_participle": "prisonered",
-        "present_participle": "prisonering",
-        "third_person": "prisoners"
+        "plural": "prisoners"
       },
-      "domain": "general",
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "prisoner",
-          "definition": "n. 囚犯, 犯人, 战俘, [法] 犯人, 囚犯, 扣押犯"
+          "definition": "n. 囚犯、犯人、戰俘"
         }
       ],
       "examples": [
         {
-          "en": "The prisoner escaped from jail.",
+          "en": "The prisoner escaped from jail last night.",
           "highlight": [
             "prisoner"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "那名囚犯昨晚從牢裡逃脫了。"
+          }
+        },
+        {
+          "en": "The guards transferred the prisoners to a higher-security facility.",
+          "highlight": [
+            "prisoners"
+          ],
+          "translations": {
+            "zh-TW": "警衛將囚犯們移送到戒備更森嚴的設施。"
+          }
+        },
+        {
+          "en": "He became a prisoner of war during the conflict.",
+          "highlight": [
+            "prisoner"
+          ],
+          "translations": {
+            "zh-TW": "他在衝突期間成了戰俘。"
           }
         }
       ],
       "synonyms": [
         "inmate",
-        "convict"
+        "convict",
+        "captive"
       ],
       "antonyms": [
-        "free",
-        "person"
+        "free person",
+        "guard"
       ],
       "phrases": [
-        "escaped",
-        "prisoner",
-        "political",
-        "prisoner"
+        "political prisoner",
+        "prisoner of war",
+        "take prisoner",
+        "release a prisoner"
       ]
     },
     {
@@ -168,40 +213,62 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "privates"
+        "plural": "privates",
+        "comparative": "more private",
+        "superlative": "most private"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "private",
-          "definition": "a. 私人的, 秘密的, 私立的, 隐蔽的, n. 士兵, 隐士, 阴部, [计] 私人的"
+          "definition": "adj. 私人的、私有的、私下的  n. 士兵、二等兵"
         }
       ],
       "examples": [
         {
-          "en": "This is a private conversation.",
+          "en": "This is a private conversation between two executives.",
           "highlight": [
             "private"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這是兩位主管之間的私密談話。"
+          }
+        },
+        {
+          "en": "Her office is more private than the open workspace.",
+          "highlight": [
+            "more private"
+          ],
+          "translations": {
+            "zh-TW": "她的辦公室比開放式辦公空間更隱密。"
+          }
+        },
+        {
+          "en": "He was demoted from sergeant to private.",
+          "highlight": [
+            "private"
+          ],
+          "translations": {
+            "zh-TW": "他被從中士降級為二等兵。"
           }
         }
       ],
       "synonyms": [
         "personal",
-        "individual"
+        "confidential",
+        "secret"
       ],
       "antonyms": [
         "public",
-        "shared"
+        "shared",
+        "open"
       ],
       "phrases": [
-        "private",
-        "property",
-        "private",
-        "life"
+        "private property",
+        "private sector",
+        "in private",
+        "private life"
       ]
     },
     {
@@ -220,33 +287,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "probably",
-          "definition": "adv. 大概, 或许"
+          "definition": "adv. 大概、或許、很可能"
         }
       ],
       "examples": [
         {
-          "en": "He will probably arrive late.",
+          "en": "He will probably arrive late due to traffic.",
           "highlight": [
             "probably"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "因為塞車，他大概會遲到。"
+          }
+        },
+        {
+          "en": "The contract will probably be signed next week.",
+          "highlight": [
+            "probably"
+          ],
+          "translations": {
+            "zh-TW": "合約大概會在下週簽署。"
+          }
+        },
+        {
+          "en": "They probably forgot to send the invoice.",
+          "highlight": [
+            "probably"
+          ],
+          "translations": {
+            "zh-TW": "他們大概是忘了寄發票了。"
           }
         }
       ],
       "synonyms": [
         "likely",
-        "possibly"
+        "possibly",
+        "presumably"
       ],
       "antonyms": [
         "unlikely",
-        "improbably"
+        "impossibly"
       ],
       "phrases": [
-        "probably",
-        "true",
-        "probably",
-        "not"
+        "probably not",
+        "most probably",
+        "probably true",
+        "probably will"
       ]
     },
     {
@@ -257,48 +343,63 @@
       "toeic_score_min": 500,
       "word": "problem",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "problemed",
-        "past_participle": "problemed",
-        "present_participle": "probleming",
-        "third_person": "problems"
+        "plural": "problems"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "problem",
-          "definition": "n. 问题, 難题, a. 成问题的, 難處理的"
+          "definition": "n. 問題、難題、毛病"
         }
       ],
       "examples": [
         {
-          "en": "She has a problem with her car.",
+          "en": "She has a problem with her car's engine.",
           "highlight": [
             "problem"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她的車子引擎出了問題。"
+          }
+        },
+        {
+          "en": "We need to solve these problems before the deadline.",
+          "highlight": [
+            "problems"
+          ],
+          "translations": {
+            "zh-TW": "我們必須在期限前解決這些問題。"
+          }
+        },
+        {
+          "en": "The biggest problem is a lack of funding.",
+          "highlight": [
+            "problem"
+          ],
+          "translations": {
+            "zh-TW": "最大的問題是資金不足。"
           }
         }
       ],
       "synonyms": [
         "issue",
-        "difficulty"
+        "difficulty",
+        "trouble"
       ],
       "antonyms": [
         "solution",
-        "ease"
+        "ease",
+        "success"
       ],
       "phrases": [
-        "solve",
-        "a",
-        "problem",
-        "big",
-        "problem"
+        "solve a problem",
+        "no problem",
+        "big problem",
+        "have a problem with"
       ]
     },
     {
@@ -309,44 +410,60 @@
       "toeic_score_min": 500,
       "word": "procedure",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "procedureed",
-        "past_participle": "procedureed",
-        "present_participle": "proceduring",
-        "third_person": "procedures"
+        "plural": "procedures"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "procedure",
-          "definition": "n. 程序, 過程, 手续, [计] 规程; 過程"
+          "definition": "n. 程序、手續、步驟、過程"
         }
       ],
       "examples": [
         {
-          "en": "The procedure is simple and straightforward.",
+          "en": "Please follow the procedure for filing a complaint.",
           "highlight": [
             "procedure"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請依程序提出申訴。"
+          }
+        },
+        {
+          "en": "The company updated all safety procedures last quarter.",
+          "highlight": [
+            "procedures"
+          ],
+          "translations": {
+            "zh-TW": "公司上季更新了所有的安全程序。"
+          }
+        },
+        {
+          "en": "He explained the procedure step by step.",
+          "highlight": [
+            "procedure"
+          ],
+          "translations": {
+            "zh-TW": "他一步步地解釋了這個程序。"
           }
         }
       ],
       "synonyms": [
         "method",
+        "process",
+        "protocol",
         "practice"
       ],
       "antonyms": [],
       "phrases": [
-        "surgical",
-        "procedure",
-        "legal",
-        "procedure"
+        "standard procedure",
+        "surgical procedure",
+        "legal procedure",
+        "follow procedure"
       ]
     },
     {
@@ -357,47 +474,67 @@
       "toeic_score_min": 500,
       "word": "proceed",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "proceeded",
+        "plural": "proceeds",
+        "present_3rd": "proceeds",
+        "past": "proceeded",
         "past_participle": "proceeded",
-        "present_participle": "proceeding",
-        "third_person": "proceeds"
+        "ing": "proceeding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "proceed",
-          "definition": "vi. 继续进行, 进行, 开始, 發出, 起诉, [法] 所得, 收入, 收益"
+          "definition": "v. 繼續進行、開始、著手、前進"
         }
       ],
       "examples": [
         {
-          "en": "He decided to proceed with his plans.",
+          "en": "He decided to proceed with his plans despite the risks.",
           "highlight": [
             "proceed"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他不顧風險決定繼續執行他的計畫。"
+          }
+        },
+        {
+          "en": "The meeting proceeded smoothly without any interruptions.",
+          "highlight": [
+            "proceeded"
+          ],
+          "translations": {
+            "zh-TW": "會議進行得很順利，沒有任何中斷。"
+          }
+        },
+        {
+          "en": "Proceed to the next counter for document verification.",
+          "highlight": [
+            "proceed"
+          ],
+          "translations": {
+            "zh-TW": "請前往下一個櫃檯辦理文件查驗。"
           }
         }
       ],
       "synonyms": [
         "continue",
-        "advance"
+        "advance",
+        "go forward"
       ],
       "antonyms": [
         "stop",
-        "halt"
+        "halt",
+        "cease"
       ],
       "phrases": [
-        "proceed",
-        "with",
-        "proceed",
-        "to"
+        "proceed with",
+        "proceed to",
+        "proceed against",
+        "net proceeds"
       ]
     },
     {
@@ -412,40 +549,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "processed",
+        "plural": "processes",
+        "present_3rd": "processes",
+        "past": "processed",
         "past_participle": "processed",
-        "present_participle": "processing",
-        "third_person": "processes"
+        "ing": "processing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "process",
-          "definition": "n. 程序, 进行, 過程, vt. 加工, 使...接受處理, 對...處置, 對...起诉, a. 經加工的, 有特殊光效的, [计] 进程"
+          "definition": "n. 過程、程序、步驟  v. 處理、加工、審核"
         }
       ],
       "examples": [
         {
-          "en": "The process will take several weeks.",
+          "en": "The hiring process will take several weeks.",
           "highlight": [
             "process"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "招募程序將花上好幾週。"
+          }
+        },
+        {
+          "en": "The system processed the payment within seconds.",
+          "highlight": [
+            "processed"
+          ],
+          "translations": {
+            "zh-TW": "系統在幾秒內就處理好了付款。"
+          }
+        },
+        {
+          "en": "Our team is still processing the refund requests.",
+          "highlight": [
+            "processing"
+          ],
+          "translations": {
+            "zh-TW": "我們團隊仍在處理退款申請。"
           }
         }
       ],
       "synonyms": [
         "procedure",
-        "operation"
+        "operation",
+        "method"
       ],
       "antonyms": [],
       "phrases": [
-        "in",
-        "process",
-        "step-by-step",
-        "process"
+        "in the process of",
+        "processing time",
+        "due process",
+        "step-by-step process"
       ]
     },
     {
@@ -460,43 +617,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "produceed",
-        "past_participle": "produceed",
-        "present_participle": "producing",
-        "third_person": "produces"
+        "plural": "produces",
+        "present_3rd": "produces",
+        "past": "produced",
+        "past_participle": "produced",
+        "ing": "producing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "produce",
-          "definition": "n. 生产品, 物产, 後代, vt. 产生, 生产, 提出, 出示, vi. 生产, 制造"
+          "definition": "v. 生產、製造、產出、提出  n. 農產品、產物"
         }
       ],
       "examples": [
         {
           "en": "The factory produces thousands of cars each year.",
           "highlight": [
+            "produces"
+          ],
+          "translations": {
+            "zh-TW": "這座工廠每年生產數千輛汽車。"
+          }
+        },
+        {
+          "en": "The region produced a record harvest of rice last season.",
+          "highlight": [
+            "produced"
+          ],
+          "translations": {
+            "zh-TW": "該地區上個季節創下稻米豐收紀錄。"
+          }
+        },
+        {
+          "en": "The market sells fresh produce from local farms.",
+          "highlight": [
             "produce"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這個市場販售當地農場的新鮮農產品。"
           }
         }
       ],
       "synonyms": [
         "manufacture",
-        "create"
+        "create",
+        "generate"
       ],
       "antonyms": [
         "consume",
         "destroy"
       ],
       "phrases": [
-        "produce",
-        "goods",
-        "produce",
-        "results"
+        "produce goods",
+        "produce results",
+        "fresh produce",
+        "mass-produce"
       ]
     }
   ]
