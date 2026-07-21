@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 247,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-247-001",
@@ -11,48 +11,62 @@
       "toeic_score_min": 500,
       "word": "safety",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "safetyed",
-        "past_participle": "safetyed",
-        "present_participle": "safetying",
-        "third_person": "safetys"
+        "plural": "safeties"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "safety",
-          "definition": "n. 安全, 保险, 平安, 保安设备, vt. 保护, 防护"
+          "definition": "n. 安全、平安、安全裝置"
         }
       ],
       "examples": [
         {
-          "en": "They ensured the safety of the passengers.",
+          "en": "The company prioritizes workplace safety above all else.",
           "highlight": [
             "safety"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司將職場安全置於一切之上。"
+          }
+        },
+        {
+          "en": "All employees must attend the weekly safety briefings.",
+          "highlight": [
+            "safety"
+          ],
+          "translations": {
+            "zh-TW": "所有員工都必須參加每週的安全簡報。"
+          }
+        },
+        {
+          "en": "The new safeties installed in the elevator were tested yesterday.",
+          "highlight": [
+            "safeties"
+          ],
+          "translations": {
+            "zh-TW": "電梯新安裝的安全裝置昨天已通过測試。"
           }
         }
       ],
       "synonyms": [
         "security",
-        "protection"
+        "protection",
+        "safekeeping"
       ],
       "antonyms": [
         "danger",
         "risk"
       ],
       "phrases": [
-        "health",
-        "and",
-        "safety",
-        "ensure",
-        "safety"
+        "safety first",
+        "workplace safety",
+        "safety equipment",
+        "for safety reasons"
       ]
     },
     {
@@ -67,43 +81,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "sailed",
+        "plural": "sails",
+        "present_3rd": "sails",
+        "past": "sailed",
         "past_participle": "sailed",
-        "present_participle": "sailing",
-        "third_person": "sails"
+        "ing": "sailing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sail",
-          "definition": "n. 帆, 篷, 帆船, 航程, 帆状物, vi. 航行, 启航, 张帆而行, vt. 航行于, 驾船"
+          "definition": "n. 帆、航程、乘船旅行  v. 航行、駕駛帆船"
         }
       ],
       "examples": [
         {
-          "en": "They decided to sail around the world.",
+          "en": "They plan to sail across the Pacific Ocean next summer.",
           "highlight": [
             "sail"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他們計劃明年夏天乘船橫渡太平洋。"
+          }
+        },
+        {
+          "en": "The cargo ship sailed from Shanghai to Los Angeles in two weeks.",
+          "highlight": [
+            "sailed"
+          ],
+          "translations": {
+            "zh-TW": "貨船從上海航行到洛杉磯花了兩週。"
+          }
+        },
+        {
+          "en": "She has sailed across the Atlantic three times.",
+          "highlight": [
+            "sailed"
+          ],
+          "translations": {
+            "zh-TW": "她已經乘船橫渡大西洋三次了。"
           }
         }
       ],
       "synonyms": [
         "navigate",
-        "cruise"
+        "cruise",
+        "voyage"
       ],
       "antonyms": [
         "anchor",
         "dock"
       ],
       "phrases": [
-        "sail",
-        "away",
-        "sail",
-        "around"
+        "set sail",
+        "sail through",
+        "full sail",
+        "sail away"
       ]
     },
     {
@@ -114,44 +148,59 @@
       "toeic_score_min": 500,
       "word": "sailing",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "sailinged",
-        "past_participle": "sailinged",
-        "present_participle": "sailinging",
-        "third_person": "sailings"
+        "plural": "sailings"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sailing",
-          "definition": "n. 航行, 航海术, 启航, a. 航行的"
+          "definition": "n. 航行、航海、啟航"
         }
       ],
       "examples": [
         {
-          "en": "Sailing is his favorite hobby.",
+          "en": "Sailing is a popular leisure activity in coastal towns.",
           "highlight": [
             "sailing"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "航海是沿海城鎮常見的休閒活動。"
+          }
+        },
+        {
+          "en": "The next sailing to the island departs at 9 a.m. tomorrow.",
+          "highlight": [
+            "sailing"
+          ],
+          "translations": {
+            "zh-TW": "下一班前往該島的航班將於明早九點出發。"
+          }
+        },
+        {
+          "en": "There are three daily sailings between the two ports.",
+          "highlight": [
+            "sailings"
+          ],
+          "translations": {
+            "zh-TW": "兩個港口之間每天有三個航班。"
           }
         }
       ],
       "synonyms": [
         "boating",
-        "yachting"
+        "yachting",
+        "navigation"
       ],
       "antonyms": [],
       "phrases": [
-        "sailing",
-        "club",
-        "sailing",
-        "trip"
+        "sailing club",
+        "sailing trip",
+        "plain sailing",
+        "smooth sailing"
       ]
     },
     {
@@ -162,44 +211,60 @@
       "toeic_score_min": 500,
       "word": "salary",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "salaryed",
-        "past_participle": "salaryed",
-        "present_participle": "salarying",
-        "third_person": "salarys"
+        "plural": "salaries"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "salary",
-          "definition": "n. 薪水, vt. 给...加薪"
+          "definition": "n. 薪水、年薪"
         }
       ],
       "examples": [
         {
-          "en": "She received her salary at the end of the month.",
+          "en": "Her monthly salary was deposited directly into her bank account.",
           "highlight": [
             "salary"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她的月薪直接存入銀行帳戶。"
+          }
+        },
+        {
+          "en": "The company offers competitive salaries to attract top talent.",
+          "highlight": [
+            "salaries"
+          ],
+          "translations": {
+            "zh-TW": "公司提供具競爭力的薪水來吸引頂尖人才。"
+          }
+        },
+        {
+          "en": "The salary negotiation went smoothly and both sides reached an agreement.",
+          "highlight": [
+            "salary"
+          ],
+          "translations": {
+            "zh-TW": "薪資談判進行順利，雙方達成協議。"
           }
         }
       ],
       "synonyms": [
         "pay",
-        "earnings"
+        "wages",
+        "earnings",
+        "income"
       ],
       "antonyms": [],
       "phrases": [
-        "monthly",
-        "salary",
-        "annual",
-        "salary"
+        "monthly salary",
+        "annual salary",
+        "salary increase",
+        "base salary"
       ]
     },
     {
@@ -210,46 +275,62 @@
       "toeic_score_min": 500,
       "word": "sale",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "saleed",
-        "past_participle": "saleed",
-        "present_participle": "saling",
-        "third_person": "sales"
+        "plural": "sales"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sale",
-          "definition": "n. 出售, 賣, 拍賣, 销售额, 廉价出售, [經] 賣, 出售; 销售(货)"
+          "definition": "n. 出售、銷售、拍賣、特價活動"
         }
       ],
       "examples": [
         {
-          "en": "The sale of the house was completed.",
+          "en": "The sale of the property was finalized last Friday.",
           "highlight": [
             "sale"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "該物業的出售交易上週五已完成。"
+          }
+        },
+        {
+          "en": "The department store is holding a winter sale this weekend.",
+          "highlight": [
+            "sale"
+          ],
+          "translations": {
+            "zh-TW": "百貨公司本週末舉辦冬季特賣會。"
+          }
+        },
+        {
+          "en": "Black Friday sales reached a record high this year.",
+          "highlight": [
+            "sales"
+          ],
+          "translations": {
+            "zh-TW": "今年黑色星期五的銷售額創下歷史新高。"
           }
         }
       ],
       "synonyms": [
         "deal",
-        "transaction"
+        "transaction",
+        "selling"
       ],
       "antonyms": [
-        "purchase"
+        "purchase",
+        "buying"
       ],
       "phrases": [
-        "for",
-        "sale",
-        "on",
-        "sale"
+        "for sale",
+        "on sale",
+        "sales report",
+        "clearance sale"
       ]
     },
     {
@@ -264,41 +345,59 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "salted",
+        "plural": "salts",
+        "present_3rd": "salts",
+        "past": "salted",
         "past_participle": "salted",
-        "present_participle": "salting",
-        "third_person": "salts"
+        "ing": "salting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "salt",
-          "definition": "n. 盐, 風趣, 刺激, a. 含盐的, 咸的, 風趣的, 辛辣的, vt. 加盐于, 用盐腌"
+          "definition": "n. 鹽、調味料  v. 加鹽、用鹽醃"
         }
       ],
       "examples": [
         {
-          "en": "He added salt to his food.",
+          "en": "A pinch of salt enhances the flavor of the soup.",
           "highlight": [
             "salt"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "一撮鹽能提升湯的風味。"
+          }
+        },
+        {
+          "en": "She salted the eggplant to draw out the bitterness.",
+          "highlight": [
+            "salted"
+          ],
+          "translations": {
+            "zh-TW": "她在茄子上撒鹽以去除苦味。"
+          }
+        },
+        {
+          "en": "The chef is salting the steak right before grilling it.",
+          "highlight": [
+            "salting"
+          ],
+          "translations": {
+            "zh-TW": "主廚在燒烤牛排前正在撒鹽調味。"
           }
         }
       ],
       "synonyms": [
         "seasoning",
-        "spice"
+        "brine"
       ],
       "antonyms": [],
       "phrases": [
-        "pinch",
-        "of",
-        "salt",
-        "salt",
-        "shaker"
+        "pinch of salt",
+        "table salt",
+        "take it with a grain of salt",
+        "salt and pepper"
       ]
     },
     {
@@ -309,43 +408,63 @@
       "toeic_score_min": 500,
       "word": "salty",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "salties"
+        "comparative": "saltier",
+        "superlative": "saltiest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "salty",
-          "definition": "a. 有盐分的, 咸味浓的, 海洋的, 辛辣的, 有經验的"
+          "definition": "adj. 鹹的、含鹽的"
         }
       ],
       "examples": [
         {
-          "en": "The soup was too salty.",
+          "en": "The seafood soup was too salty for my taste.",
           "highlight": [
             "salty"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這海鮮湯對我來說太鹹了。"
+          }
+        },
+        {
+          "en": "The French fries here are saltier than the ones at home.",
+          "highlight": [
+            "saltier"
+          ],
+          "translations": {
+            "zh-TW": "這裡的薯條比家裡做的更鹹。"
+          }
+        },
+        {
+          "en": "He ordered the saltiest dish on the menu, the smoked salmon.",
+          "highlight": [
+            "saltiest"
+          ],
+          "translations": {
+            "zh-TW": "他點了菜單上最鹹的菜色——煙燻鮭魚。"
           }
         }
       ],
       "synonyms": [
         "briny",
-        "saline"
+        "saline",
+        "tangy"
       ],
       "antonyms": [
-        "sweet"
+        "sweet",
+        "bland"
       ],
       "phrases": [
-        "salty",
-        "taste",
-        "too",
-        "salty"
+        "salty taste",
+        "too salty",
+        "salty snacks",
+        "salty water"
       ]
     },
     {
@@ -357,43 +476,61 @@
       "word": "same",
       "pos": [
         "adjective",
-        "noun"
+        "pronoun"
       ],
-      "conjugations": {
-        "plural": "sames"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "same",
-          "definition": "a. 相同的, 同樣的, pron. 相同的人(或事物), adv. 同樣地"
+          "definition": "adj. 相同的、同樣的  pron. 相同的人或事物"
         }
       ],
       "examples": [
         {
-          "en": "They wore the same dress.",
+          "en": "Both candidates had the same qualifications for the position.",
           "highlight": [
             "same"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "兩位候選人擁有相同的任職資格。"
+          }
+        },
+        {
+          "en": "Please send the same document to all department heads.",
+          "highlight": [
+            "same"
+          ],
+          "translations": {
+            "zh-TW": "請將同一份文件寄給所有部門主管。"
+          }
+        },
+        {
+          "en": "The same rules apply to every employee regardless of seniority.",
+          "highlight": [
+            "same"
+          ],
+          "translations": {
+            "zh-TW": "相同的規則適用於每位員工，不分年資。"
           }
         }
       ],
       "synonyms": [
         "identical",
-        "alike"
+        "alike",
+        "equal"
       ],
       "antonyms": [
         "different",
-        "varied"
+        "various",
+        "distinct"
       ],
       "phrases": [
-        "same",
-        "as",
-        "same",
-        "time"
+        "same as",
+        "same time",
+        "all the same",
+        "same here"
       ]
     },
     {
@@ -408,43 +545,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "sampleed",
-        "past_participle": "sampleed",
-        "present_participle": "sampling",
-        "third_person": "samples"
+        "plural": "samples",
+        "present_3rd": "samples",
+        "past": "sampled",
+        "past_participle": "sampled",
+        "ing": "sampling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sample",
-          "definition": "n. 樣品, 范例, 樣本, vt. 抽樣, 尝试, [计] 示例, 字樣"
+          "definition": "n. 樣本、樣品、範例  v. 抽樣、品嘗"
         }
       ],
       "examples": [
         {
-          "en": "He took a sample of the soil.",
+          "en": "The lab technician collected a blood sample from the patient.",
           "highlight": [
             "sample"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "實驗室技術員採集了病人的血液樣本。"
+          }
+        },
+        {
+          "en": "The testers sampled five batches of the new product.",
+          "highlight": [
+            "sampled"
+          ],
+          "translations": {
+            "zh-TW": "測試人員抽樣檢查了五批新產品。"
+          }
+        },
+        {
+          "en": "The researchers are sampling water from several locations along the river.",
+          "highlight": [
+            "sampling"
+          ],
+          "translations": {
+            "zh-TW": "研究人員正從河岸數個地點取樣水質。"
           }
         }
       ],
       "synonyms": [
         "specimen",
-        "example"
+        "example",
+        "swatch"
       ],
-      "antonyms": [
-        "whole",
-        "entirety"
-      ],
+      "antonyms": [],
       "phrases": [
-        "blood",
-        "sample",
-        "sample",
-        "size"
+        "blood sample",
+        "sample size",
+        "free sample",
+        "sample survey"
       ]
     },
     {
@@ -459,40 +613,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "sanded",
+        "plural": "sands",
+        "present_3rd": "sands",
+        "past": "sanded",
         "past_participle": "sanded",
-        "present_participle": "sanding",
-        "third_person": "sands"
+        "ing": "sanding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sand",
-          "definition": "n. 沙, 沙子, 沙滩, 光阴, 生涯, vt. 撒沙, 以沙掩盖"
+          "definition": "n. 沙子、沙灘  v. 用砂紙打磨、磨光"
         }
       ],
       "examples": [
         {
-          "en": "The children played in the sand.",
+          "en": "The children built a castle out of sand on the beach.",
           "highlight": [
             "sand"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "孩子們在沙灘上用沙子堆了一座城堡。"
+          }
+        },
+        {
+          "en": "He sanded the wooden table until the surface was perfectly smooth.",
+          "highlight": [
+            "sanded"
+          ],
+          "translations": {
+            "zh-TW": "他用砂紙打磨木桌，直到表面完全平滑。"
+          }
+        },
+        {
+          "en": "The carpenter is sanding the new bookshelf before applying varnish.",
+          "highlight": [
+            "sanding"
+          ],
+          "translations": {
+            "zh-TW": "木工在上漆前正在打磨新書架。"
           }
         }
       ],
       "synonyms": [
         "grit",
-        "granules"
+        "granules",
+        "gravel"
       ],
       "antonyms": [],
       "phrases": [
-        "sand",
-        "dune",
-        "beach",
-        "sand"
+        "sand dune",
+        "beach sand",
+        "sandpaper",
+        "sands of time"
       ]
     }
   ]
