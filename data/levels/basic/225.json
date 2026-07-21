@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 225,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-225-001",
@@ -15,44 +15,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "promiseed",
-        "past_participle": "promiseed",
-        "present_participle": "promising",
-        "third_person": "promises"
+        "plural": "promises",
+        "present_3rd": "promises",
+        "past": "promised",
+        "past_participle": "promised",
+        "ing": "promising"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "promise",
-          "definition": "n. 诺言, 约定的事情, 有指望, vt. 允诺, 约定, 预示, vi. 允诺, 有前途, 有指望"
+          "definition": "n. 承諾、諾言  v. 承諾、保證、有希望"
         }
       ],
       "examples": [
         {
-          "en": "He made a promise to help her.",
+          "en": "The manager made a promise to review every employee's salary by June.",
           "highlight": [
             "promise"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理承諾在六月前審查每位員工的薪資。"
+          }
+        },
+        {
+          "en": "She promised to deliver the report by Friday, but the deadline has already passed.",
+          "highlight": [
+            "promised"
+          ],
+          "translations": {
+            "zh-TW": "她答應在週五前交出報告，但期限已經過了。"
+          }
+        },
+        {
+          "en": "The new intern is promising, so the director plans to offer her a full-time position.",
+          "highlight": [
+            "promising"
+          ],
+          "translations": {
+            "zh-TW": "這位新實習生很有前途,所以主管打算提供她全職職位。"
           }
         }
       ],
       "synonyms": [
         "pledge",
-        "assurance"
+        "assurance",
+        "commitment"
       ],
       "antonyms": [
-        "break",
-        "denial"
+        "breach",
+        "betrayal"
       ],
       "phrases": [
-        "keep",
-        "a",
-        "promise",
-        "make",
-        "a"
+        "keep a promise",
+        "make a promise",
+        "break a promise",
+        "promise to pay"
       ]
     },
     {
@@ -63,47 +82,65 @@
       "toeic_score_min": 500,
       "word": "promote",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "promoteed",
-        "past_participle": "promoteed",
-        "present_participle": "promoting",
-        "third_person": "promotes"
+        "present_3rd": "promotes",
+        "past": "promoted",
+        "past_participle": "promoted",
+        "ing": "promoting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "promote",
-          "definition": "vt. 促进, 晋升, 创办, 推销, [經] 促进, 推广, 推销"
+          "definition": "v. 推廣、促銷、晉升、促進"
         }
       ],
       "examples": [
         {
-          "en": "They aim to promote education for all.",
+          "en": "The company uses social media influencers to promote its new skincare line.",
           "highlight": [
             "promote"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家公司利用社群媒體網紅來推廣新的護膚產品線。"
+          }
+        },
+        {
+          "en": "After five years of consistent performance, David was promoted to senior account manager.",
+          "highlight": [
+            "promoted"
+          ],
+          "translations": {
+            "zh-TW": "在穩定表現五年後,大衛被晉升為資深客戶經理。"
+          }
+        },
+        {
+          "en": "By promoting healthy eating in the workplace, the HR team reduced employee sick days.",
+          "highlight": [
+            "promoting"
+          ],
+          "translations": {
+            "zh-TW": "透過在職場推廣健康飲食,人資團隊減少了員工請病假的天數。"
           }
         }
       ],
       "synonyms": [
         "advance",
-        "support"
+        "elevate",
+        "endorse"
       ],
       "antonyms": [
         "demote",
         "discourage"
       ],
       "phrases": [
-        "promote",
-        "health",
-        "promote",
-        "to"
+        "promote a product",
+        "promote an employee",
+        "promote health",
+        "promote to manager"
       ]
     },
     {
@@ -114,46 +151,61 @@
       "toeic_score_min": 500,
       "word": "promotion",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "promotioned",
-        "past_participle": "promotioned",
-        "present_participle": "promotioning",
-        "third_person": "promotions"
+        "plural": "promotions"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "promotion",
-          "definition": "n. 晋級, 创建, 增进, [經] 推广, 推销, 促进"
+          "definition": "n. 晉升、促銷、推廣、促進"
         }
       ],
       "examples": [
         {
-          "en": "She received a promotion at work.",
+          "en": "She celebrated her promotion with a family dinner at a fancy restaurant.",
           "highlight": [
             "promotion"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在高級餐廳與家人共進晚餐,慶祝自己的晉升。"
+          }
+        },
+        {
+          "en": "The store offered several promotions during the holiday season to attract more customers.",
+          "highlight": [
+            "promotions"
+          ],
+          "translations": {
+            "zh-TW": "這家商店在假期期間推出了幾項促銷活動,以吸引更多顧客。"
+          }
+        },
+        {
+          "en": "The marketing team is planning a major promotion for the launch of the new smartphone.",
+          "highlight": [
+            "promotion"
+          ],
+          "translations": {
+            "zh-TW": "行銷團隊正在為新款智慧型手機的上市規劃一場大型促銷活動。"
           }
         }
       ],
       "synonyms": [
         "advancement",
-        "raise"
+        "elevation",
+        "campaign"
       ],
       "antonyms": [
         "demotion"
       ],
       "phrases": [
-        "job",
-        "promotion",
-        "sales",
-        "promotion"
+        "job promotion",
+        "sales promotion",
+        "get a promotion",
+        "promotion campaign"
       ]
     },
     {
@@ -168,43 +220,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "proofed",
+        "plural": "proofs",
+        "present_3rd": "proofs",
+        "past": "proofed",
         "past_participle": "proofed",
-        "present_participle": "proofing",
-        "third_person": "proofs"
+        "ing": "proofing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "proof",
-          "definition": "n. 证据, 证明, 试验, 检验, 考验, a. 不能透入的, 证明用的, 防...的, 耐...的, vt. 检验, 试验, 校對, 使不被穿透, [计] 审稿"
+          "definition": "n. 證據、證明、校樣  v. 校對、使防水"
         }
       ],
       "examples": [
         {
-          "en": "We need proof of your identity.",
+          "en": "The bank requires proof of income before approving any mortgage application.",
           "highlight": [
             "proof"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "銀行在核准任何房貸申請前,需要收入證明。"
+          }
+        },
+        {
+          "en": "The editor proofed the manuscript twice before sending it to the printing press.",
+          "highlight": [
+            "proofed"
+          ],
+          "translations": {
+            "zh-TW": "編輯在把手稿送到印刷廠之前校對了兩次。"
+          }
+        },
+        {
+          "en": "All manuscripts go through a strict proofing process to catch spelling and grammar errors.",
+          "highlight": [
+            "proofing"
+          ],
+          "translations": {
+            "zh-TW": "所有手稿都要經過嚴格的校對程序,以找出拼寫和文法錯誤。"
           }
         }
       ],
       "synonyms": [
         "evidence",
+        "verification",
         "confirmation"
       ],
       "antonyms": [
         "disproof"
       ],
       "phrases": [
-        "provide",
-        "proof",
-        "proof",
-        "of",
-        "identity"
+        "proof of identity",
+        "burden of proof",
+        "proof of purchase",
+        "waterproof"
       ]
     },
     {
@@ -215,32 +286,51 @@
       "toeic_score_min": 500,
       "word": "proper",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "propers"
+        "comparative": "properer",
+        "superlative": "properest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "proper",
-          "definition": "a. 适当的, 固有的, 高尚的, 专属的, adv. 完全地, 彻底地"
+          "definition": "adj. 適當的、正確的、正式的、真正的"
         }
       ],
       "examples": [
         {
-          "en": "He wore proper attire for the event.",
+          "en": "All employees must follow the proper procedure when filing a complaint.",
           "highlight": [
             "proper"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "所有員工在提交投訴時,都必須遵循正確的程序。"
+          }
+        },
+        {
+          "en": "With properer equipment, the laboratory could have completed the experiment faster.",
+          "highlight": [
+            "properer"
+          ],
+          "translations": {
+            "zh-TW": "有了更適當的設備,實驗室原本可以更快完成實驗。"
+          }
+        },
+        {
+          "en": "She is the properest candidate for the role because of her extensive experience.",
+          "highlight": [
+            "properest"
+          ],
+          "translations": {
+            "zh-TW": "由於擁有豐富的經驗,她是最適合這個職位的人選。"
           }
         }
       ],
       "synonyms": [
+        "appropriate",
         "suitable",
         "correct"
       ],
@@ -249,10 +339,10 @@
         "incorrect"
       ],
       "phrases": [
-        "proper",
-        "behavior",
-        "proper",
-        "care"
+        "proper procedure",
+        "proper noun",
+        "proper way",
+        "proper conduct"
       ]
     },
     {
@@ -263,45 +353,59 @@
       "toeic_score_min": 500,
       "word": "property",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "propertyed",
-        "past_participle": "propertyed",
-        "present_participle": "propertying",
-        "third_person": "propertys"
+        "plural": "properties"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "property",
-          "definition": "n. 财产, 所有权, 性质, 属性, [计] 属性"
+          "definition": "n. 財產、所有物、房地產、性質"
         }
       ],
       "examples": [
         {
-          "en": "They bought a new property.",
+          "en": "The company acquired a new commercial property downtown for its headquarters.",
           "highlight": [
             "property"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家公司在市中心購置了一處新的商用房地產作為總部。"
+          }
+        },
+        {
+          "en": "The investor now owns several properties across three different cities.",
+          "highlight": [
+            "properties"
+          ],
+          "translations": {
+            "zh-TW": "這位投資人現在在三個不同城市擁有數處房地產。"
+          }
+        },
+        {
+          "en": "Intellectual property rights protect inventors from unauthorized use of their creations.",
+          "highlight": [
+            "property"
+          ],
+          "translations": {
+            "zh-TW": "智慧財產權保護發明人,避免其創作遭到未經授權的使用。"
           }
         }
       ],
       "synonyms": [
-        "real",
+        "asset",
         "estate",
-        "possessions"
+        "possession"
       ],
       "antonyms": [],
       "phrases": [
-        "buy",
-        "property",
-        "property",
-        "value"
+        "intellectual property",
+        "property value",
+        "real property",
+        "private property"
       ]
     },
     {
@@ -316,40 +420,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "proportioned",
+        "plural": "proportions",
+        "present_3rd": "proportions",
+        "past": "proportioned",
         "past_participle": "proportioned",
-        "present_participle": "proportioning",
-        "third_person": "proportions"
+        "ing": "proportioning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "proportion",
-          "definition": "n. 比例, 比率, 均衡, 部分, 面积, vt. 使成比例, 使均衡"
+          "definition": "n. 比例、比率、均衡、部分  v. 使成比例、使均衡"
         }
       ],
       "examples": [
         {
-          "en": "The proportion of women in the workforce has increased.",
+          "en": "A large proportion of the company's revenue comes from overseas sales.",
           "highlight": [
             "proportion"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家公司大部分的營收來自海外銷售。"
+          }
+        },
+        {
+          "en": "The proportions of local and international students in the program have shifted this year.",
+          "highlight": [
+            "proportions"
+          ],
+          "translations": {
+            "zh-TW": "今年該課程中本地學生與國際學生的比例已經有所變動。"
+          }
+        },
+        {
+          "en": "The architect carefully proportioned the rooms so that each space would feel balanced.",
+          "highlight": [
+            "proportioned"
+          ],
+          "translations": {
+            "zh-TW": "建築師仔細調配了各個房間的比例,讓每個空間都顯得均衡。"
           }
         }
       ],
       "synonyms": [
         "ratio",
+        "percentage",
         "share"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "disproportion"
+      ],
       "phrases": [
-        "large",
-        "proportion",
-        "high",
-        "proportion"
+        "in proportion to",
+        "out of proportion",
+        "large proportion",
+        "direct proportion"
       ]
     },
     {
@@ -360,36 +486,51 @@
       "toeic_score_min": 500,
       "word": "proposal",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "proposaled",
-        "past_participle": "proposaled",
-        "present_participle": "proposaling",
-        "third_person": "proposals"
+        "plural": "proposals"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "proposal",
-          "definition": "n. 提議, 计划, 求婚, [經] 提案, 申請, 投标"
+          "definition": "n. 提案、提議、求婚、申請"
         }
       ],
       "examples": [
         {
-          "en": "They accepted the proposal for the new project.",
+          "en": "The committee will review your proposal at the meeting next Tuesday.",
           "highlight": [
             "proposal"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "委員會將在下週二的會議上審查您的提案。"
+          }
+        },
+        {
+          "en": "The company received over fifty proposals from vendors competing for the contract.",
+          "highlight": [
+            "proposals"
+          ],
+          "translations": {
+            "zh-TW": "公司收到了超過五十份競標該合約的廠商提案。"
+          }
+        },
+        {
+          "en": "She accepted his marriage proposal during their vacation in Paris.",
+          "highlight": [
+            "proposal"
+          ],
+          "translations": {
+            "zh-TW": "他們在巴黎度假時,她答應了他的求婚。"
           }
         }
       ],
       "synonyms": [
         "suggestion",
+        "offer",
         "plan"
       ],
       "antonyms": [
@@ -397,10 +538,10 @@
         "refusal"
       ],
       "phrases": [
-        "business",
-        "proposal",
-        "marriage",
-        "proposal"
+        "business proposal",
+        "marriage proposal",
+        "submit a proposal",
+        "project proposal"
       ]
     },
     {
@@ -411,45 +552,65 @@
       "toeic_score_min": 500,
       "word": "propose",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "proposeed",
-        "past_participle": "proposeed",
-        "present_participle": "proposing",
-        "third_person": "proposes"
+        "present_3rd": "proposes",
+        "past": "proposed",
+        "past_participle": "proposed",
+        "ing": "proposing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "propose",
-          "definition": "vt. 计划, 打算, 建議, 提議, 求(婚), vi. 打算, 求婚"
+          "definition": "v. 提議、建議、計畫、求婚"
         }
       ],
       "examples": [
         {
-          "en": "He proposed a new plan.",
+          "en": "The consultant will propose a new strategy to reduce operating costs.",
           "highlight": [
             "propose"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "顧問將提議一項新策略來降低營運成本。"
+          }
+        },
+        {
+          "en": "The board proposed several changes to the company's vacation policy last quarter.",
+          "highlight": [
+            "proposed"
+          ],
+          "translations": {
+            "zh-TW": "董事會上季度對公司的休假政策提出了幾項修改建議。"
+          }
+        },
+        {
+          "en": "By proposing a flexible work schedule, the manager hopes to improve employee retention.",
+          "highlight": [
+            "proposing"
+          ],
+          "translations": {
+            "zh-TW": "透過提議彈性工作時間,主管希望提升員工留任率。"
           }
         }
       ],
       "synonyms": [
         "suggest",
-        "recommend"
+        "recommend",
+        "offer"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "oppose",
+        "reject"
+      ],
       "phrases": [
-        "propose",
-        "a",
-        "solution",
-        "propose",
-        "an"
+        "propose a plan",
+        "propose a solution",
+        "propose a toast",
+        "propose to someone"
       ]
     },
     {
@@ -464,40 +625,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "prospected",
+        "plural": "prospects",
+        "present_3rd": "prospects",
+        "past": "prospected",
         "past_participle": "prospected",
-        "present_participle": "prospecting",
-        "third_person": "prospects"
+        "ing": "prospecting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "prospect",
-          "definition": "n. 景色, 展望, vt. 勘探, 勘察, vi. 勘探, 有前途"
+          "definition": "n. 前景、期望、潛在客戶  v. 勘探、探勘"
         }
       ],
       "examples": [
         {
-          "en": "There is a good prospect for growth.",
+          "en": "Job prospects in the renewable energy sector have improved significantly this year.",
           "highlight": [
-            "prospect"
+            "prospects"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "今年再生能源領域的就業前景已顯著改善。"
+          }
+        },
+        {
+          "en": "The sales team identified over twenty new prospects during the trade show.",
+          "highlight": [
+            "prospects"
+          ],
+          "translations": {
+            "zh-TW": "業務團隊在貿易展期間找到了超過二十位新的潛在客戶。"
+          }
+        },
+        {
+          "en": "The mining company prospected the area for three months before finding a viable gold deposit.",
+          "highlight": [
+            "prospected"
+          ],
+          "translations": {
+            "zh-TW": "這家礦業公司在該區域勘探了三個月,才找到有開採價值的金礦。"
           }
         }
       ],
       "synonyms": [
         "outlook",
-        "expectation"
+        "expectation",
+        "candidate"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "retrospect"
+      ],
       "phrases": [
-        "job",
-        "prospect",
-        "future",
-        "prospect"
+        "job prospects",
+        "future prospect",
+        "sales prospect",
+        "prospect for gold"
       ]
     }
   ]
