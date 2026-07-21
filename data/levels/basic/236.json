@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 236,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-236-001",
@@ -11,48 +11,62 @@
       "toeic_score_min": 500,
       "word": "relation",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "relationed",
-        "past_participle": "relationed",
-        "present_participle": "relationing",
-        "third_person": "relations"
+        "plural": "relations"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "relation",
-          "definition": "n. 關系, 联系, 叙述, 故事, 家属, 亲戚, [计] 關系"
+          "definition": "n. 關係、聯繫、親屬"
         }
       ],
       "examples": [
         {
-          "en": "The relation between the two events is unclear.",
+          "en": "The manager explained the relation between sales and customer satisfaction.",
           "highlight": [
             "relation"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理解釋了銷售額與顧客滿意度之間的關係。"
+          }
+        },
+        {
+          "en": "Diplomatic relations between the two countries were restored last year.",
+          "highlight": [
+            "relations"
+          ],
+          "translations": {
+            "zh-TW": "兩國之間的外交關係於去年恢復。"
+          }
+        },
+        {
+          "en": "She is a distant relation of the company's founder.",
+          "highlight": [
+            "relation"
+          ],
+          "translations": {
+            "zh-TW": "她是公司創辦人的遠房親戚。"
           }
         }
       ],
       "synonyms": [
         "connection",
-        "link"
+        "link",
+        "association"
       ],
       "antonyms": [
         "disconnection",
         "separation"
       ],
       "phrases": [
-        "relation",
-        "between",
-        "in",
-        "relation",
-        "to"
+        "in relation to",
+        "diplomatic relations",
+        "public relations",
+        "business relations"
       ]
     },
     {
@@ -63,47 +77,62 @@
       "toeic_score_min": 500,
       "word": "relationship",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "relationshiped",
-        "past_participle": "relationshiped",
-        "present_participle": "relationshiping",
-        "third_person": "relationships"
+        "plural": "relationships"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "relationship",
-          "definition": "n. 關系, 關联, [医] 關系"
+          "definition": "n. 關係、關聯、感情關係"
         }
       ],
       "examples": [
         {
-          "en": "They have a good relationship.",
+          "en": "They have built a strong relationship with their key suppliers.",
           "highlight": [
             "relationship"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他們與主要供應商建立了穩固的關係。"
+          }
+        },
+        {
+          "en": "Long-term business relationships require mutual trust and respect.",
+          "highlight": [
+            "relationships"
+          ],
+          "translations": {
+            "zh-TW": "長期的商業關係需要互信與尊重。"
+          }
+        },
+        {
+          "en": "Her relationship with her supervisor has improved significantly this year.",
+          "highlight": [
+            "relationship"
+          ],
+          "translations": {
+            "zh-TW": "今年她與主管的關係有了顯著改善。"
           }
         }
       ],
       "synonyms": [
         "connection",
-        "association"
+        "association",
+        "partnership"
       ],
       "antonyms": [
         "disconnection",
-        "separation"
+        "estrangement"
       ],
       "phrases": [
-        "strong",
-        "relationship",
-        "close",
-        "relationship"
+        "business relationship",
+        "strong relationship",
+        "working relationship",
+        "personal relationship"
       ]
     },
     {
@@ -118,6 +147,8 @@
         "noun"
       ],
       "conjugations": {
+        "comparative": "more relative",
+        "superlative": "most relative",
         "plural": "relatives"
       },
       "domain": "general",
@@ -125,34 +156,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "relative",
-          "definition": "n. 亲戚, 關系词, a. 有關系的, 相對的, 比较的"
+          "definition": "adj. 相對的、相關的  n. 親戚、親屬"
         }
       ],
       "examples": [
         {
-          "en": "He is a relative of mine.",
+          "en": "The cost of living is relative to the local economy and wages.",
           "highlight": [
             "relative"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "生活成本與當地經濟和工資水平是相對的。"
+          }
+        },
+        {
+          "en": "Many relatives attended the annual family gathering in Taipei.",
+          "highlight": [
+            "relatives"
+          ],
+          "translations": {
+            "zh-TW": "許多親戚出席了在台北舉行的年度家族聚會。"
+          }
+        },
+        {
+          "en": "Safety is a relative concept depending on the industry you work in.",
+          "highlight": [
+            "relative"
+          ],
+          "translations": {
+            "zh-TW": "安全是個相對的概念，取決於你所從事的行業。"
           }
         }
       ],
       "synonyms": [
         "kin",
-        "family",
-        "member"
+        "comparative",
+        "proportional"
       ],
       "antonyms": [
-        "nonrelative",
+        "absolute",
         "stranger"
       ],
       "phrases": [
-        "close",
-        "relative",
-        "distant",
-        "relative"
+        "close relative",
+        "distant relative",
+        "relative to",
+        "relative advantage"
       ]
     },
     {
@@ -171,33 +220,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "relatively",
-          "definition": "adv. 相對地, 比较地, 相当地, 相關地, [计] 相對地"
+          "definition": "adv. 相對地、比較上地"
         }
       ],
       "examples": [
         {
-          "en": "The task was relatively easy.",
+          "en": "The new software is relatively easy to use compared to the previous version.",
           "highlight": [
             "relatively"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "與前一版相比，這套新軟體相對容易使用。"
+          }
+        },
+        {
+          "en": "Housing prices in this area have remained relatively stable.",
+          "highlight": [
+            "relatively"
+          ],
+          "translations": {
+            "zh-TW": "這個地區的房價一直維持相對穩定。"
+          }
+        },
+        {
+          "en": "The project was completed relatively quickly despite the tight budget.",
+          "highlight": [
+            "relatively"
+          ],
+          "translations": {
+            "zh-TW": "儘管預算緊縮，這項專案還是相對快速地完成了。"
           }
         }
       ],
       "synonyms": [
         "comparatively",
-        "somewhat"
+        "somewhat",
+        "fairly"
       ],
       "antonyms": [
         "absolutely",
         "completely"
       ],
       "phrases": [
-        "relatively",
-        "speaking",
-        "relatively",
-        "easy"
+        "relatively speaking",
+        "relatively easy",
+        "relatively stable",
+        "relatively new"
       ]
     },
     {
@@ -208,48 +276,65 @@
       "toeic_score_min": 500,
       "word": "relax",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "relaxed",
+        "present_3rd": "relaxes",
+        "past": "relaxed",
         "past_participle": "relaxed",
-        "present_participle": "relaxing",
-        "third_person": "relaxs"
+        "ing": "relaxing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "relax",
-          "definition": "vi. 放松, 松懈, 松弛, 变从容, 休息, 休养, vt. 使松弛, 缓和, 使松懈, 使休息"
+          "definition": "v. 放鬆、休息、緩和"
         }
       ],
       "examples": [
         {
-          "en": "She likes to relax after a long day.",
+          "en": "I usually relax by reading a book after work.",
           "highlight": [
             "relax"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "下班後我通常以閱讀一本書來放鬆。"
+          }
+        },
+        {
+          "en": "She relaxed on the beach during her vacation in Kenting.",
+          "highlight": [
+            "relaxed"
+          ],
+          "translations": {
+            "zh-TW": "她在墾丁渡假期間在沙灘上放鬆休息。"
+          }
+        },
+        {
+          "en": "The manager is relaxing the strict dress code for the summer months.",
+          "highlight": [
+            "relaxing"
+          ],
+          "translations": {
+            "zh-TW": "經理正在放寬夏季的嚴格服裝規定。"
           }
         }
       ],
       "synonyms": [
         "unwind",
-        "loosen"
+        "loosen",
+        "rest"
       ],
       "antonyms": [
         "tense",
         "tighten"
       ],
       "phrases": [
-        "relax",
-        "and",
-        "enjoy",
-        "relax",
-        "after"
+        "relax and enjoy",
+        "relax after work",
+        "relax the rules",
+        "relax one's mind"
       ]
     },
     {
@@ -264,44 +349,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "relaxeded",
-        "past_participle": "relaxeded",
-        "present_participle": "relaxeding",
-        "third_person": "relaxeds"
+        "comparative": "more relaxed",
+        "superlative": "most relaxed"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "relaxed",
-          "definition": "a. 松懈的, 不严密的, 不严格的, 放松的, 得到休息的, 随意的, 不拘束的, 自在的"
+          "definition": "adj. 放鬆的、悠閒的、不拘束的"
         }
       ],
       "examples": [
         {
-          "en": "She felt relaxed after the massage.",
+          "en": "The candidates appeared more relaxed during the second interview.",
           "highlight": [
             "relaxed"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "候選人在第二輪面試中顯得較為放鬆。"
+          }
+        },
+        {
+          "en": "She was the most relaxed speaker at the conference.",
+          "highlight": [
+            "relaxed"
+          ],
+          "translations": {
+            "zh-TW": "她是研討會上最從容自在的講者。"
+          }
+        },
+        {
+          "en": "Our office has a relaxed atmosphere on Friday afternoons.",
+          "highlight": [
+            "relaxed"
+          ],
+          "translations": {
+            "zh-TW": "我們辦公室在星期五下午氣氛輕鬆悠閒。"
           }
         }
       ],
       "synonyms": [
         "calm",
-        "at",
-        "ease"
+        "easygoing",
+        "laid-back"
       ],
       "antonyms": [
         "tense",
         "anxious"
       ],
       "phrases": [
-        "feel",
-        "relaxed",
-        "relaxed",
-        "atmosphere"
+        "feel relaxed",
+        "relaxed atmosphere",
+        "relaxed style",
+        "relaxed mood"
       ]
     },
     {
@@ -315,44 +416,58 @@
         "adjective",
         "verb"
       ],
-      "conjugations": {
-        "past_tense": "relaxinged",
-        "past_participle": "relaxinged",
-        "present_participle": "relaxinging",
-        "third_person": "relaxings"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "relaxing",
-          "definition": "a. 令人輕松的"
+          "definition": "adj. 令人放鬆的、使人悠閒的"
         }
       ],
       "examples": [
         {
-          "en": "The music was very relaxing.",
+          "en": "A relaxing weekend getaway is just what I need after this project.",
           "highlight": [
             "relaxing"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這個專案結束後，我正需要一個令人放鬆的週末小旅行。"
+          }
+        },
+        {
+          "en": "Employees are relaxing in the lounge during their lunch break.",
+          "highlight": [
+            "relaxing"
+          ],
+          "translations": {
+            "zh-TW": "員工們正在午休時間於休息室裡放鬆。"
+          }
+        },
+        {
+          "en": "The spa offers a relaxing massage that relieves muscle tension.",
+          "highlight": [
+            "relaxing"
+          ],
+          "translations": {
+            "zh-TW": "這家水療中心提供舒緩肌肉緊繃的放鬆按摩。"
           }
         }
       ],
       "synonyms": [
         "soothing",
-        "calming"
+        "calming",
+        "restful"
       ],
       "antonyms": [
         "stressful",
         "tense"
       ],
       "phrases": [
-        "relaxing",
-        "music",
-        "relaxing",
-        "bath"
+        "relaxing music",
+        "relaxing bath",
+        "relaxing atmosphere",
+        "relaxing holiday"
       ]
     },
     {
@@ -367,44 +482,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "releaseed",
-        "past_participle": "releaseed",
-        "present_participle": "releasing",
-        "third_person": "releases"
+        "present_3rd": "releases",
+        "past": "released",
+        "past_participle": "released",
+        "ing": "releasing",
+        "plural": "releases"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "release",
-          "definition": "n. 释放, 發泄, 豁免, 發行, 释放证書, vt. 释放, 解除, 放松, 豁免, 免除, 發布, 放弃, 讓與, n. 發布, [计] 版本, 發布"
+          "definition": "v. 釋放、發布、解除  n. 發行、釋放、發布的新聞稿"
         }
       ],
       "examples": [
         {
-          "en": "The prisoner was released after serving ten years.",
+          "en": "The company will release its new smartphone next month.",
           "highlight": [
             "release"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家公司將於下個月發布新款智慧型手機。"
+          }
+        },
+        {
+          "en": "The suspect was released on bail pending further investigation.",
+          "highlight": [
+            "released"
+          ],
+          "translations": {
+            "zh-TW": "嫌疑人在進一步調查期間獲准交保釋放。"
+          }
+        },
+        {
+          "en": "The PR department is releasing a statement about the merger this afternoon.",
+          "highlight": [
+            "releasing"
+          ],
+          "translations": {
+            "zh-TW": "公關部門今天下午將發布關於這次合併的聲明。"
           }
         }
       ],
       "synonyms": [
         "free",
-        "liberate"
+        "liberate",
+        "issue"
       ],
       "antonyms": [
         "confine",
-        "restrain"
+        "restrain",
+        "capture"
       ],
       "phrases": [
-        "release",
-        "a",
-        "prisoner",
-        "release",
-        "information"
+        "press release",
+        "release date",
+        "release a statement",
+        "release new products"
       ]
     },
     {
@@ -415,44 +550,63 @@
       "toeic_score_min": 500,
       "word": "relevant",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "relevants"
+        "comparative": "more relevant",
+        "superlative": "most relevant"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "relevant",
-          "definition": "a. 有關联的, 有關系的, 适当的, 相应的, [法] 有關的, 相關的"
+          "definition": "adj. 相關的、切題的、適當的"
         }
       ],
       "examples": [
         {
-          "en": "The information was not relevant to the case.",
+          "en": "Only relevant experience should be included in your resume.",
           "highlight": [
             "relevant"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "履歷中只應列出相關的工作經驗。"
+          }
+        },
+        {
+          "en": "The report is highly relevant to our current marketing strategy.",
+          "highlight": [
+            "relevant"
+          ],
+          "translations": {
+            "zh-TW": "這份報告與我們目前的行銷策略高度相關。"
+          }
+        },
+        {
+          "en": "Please attach all relevant documents before submitting the application.",
+          "highlight": [
+            "relevant"
+          ],
+          "translations": {
+            "zh-TW": "提交申請前請附上所有相關文件。"
           }
         }
       ],
       "synonyms": [
         "applicable",
-        "pertinent"
+        "pertinent",
+        "related"
       ],
       "antonyms": [
         "irrelevant",
         "inappropriate"
       ],
       "phrases": [
-        "relevant",
-        "information",
-        "highly",
-        "relevant"
+        "relevant information",
+        "highly relevant",
+        "relevant experience",
+        "relevant documents"
       ]
     },
     {
@@ -463,48 +617,62 @@
       "toeic_score_min": 500,
       "word": "relief",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "reliefed",
-        "past_participle": "reliefed",
-        "present_participle": "reliefing",
-        "third_person": "reliefs"
+        "plural": "reliefs"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "relief",
-          "definition": "n. 减輕, 解除, 救济, 安慰, 调剂, 浮雕, 换班, (地势的)起伏, [医] 缓减, 减輕, 浮雕(绘画中)"
+          "definition": "n. 解除、輕鬆、寬慰、救濟、救援"
         }
       ],
       "examples": [
         {
-          "en": "He felt a sense of relief after hearing the good news.",
+          "en": "She felt a great sense of relief when the contract was finally signed.",
           "highlight": [
             "relief"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "合約終於簽訂時，她感到如釋重負。"
+          }
+        },
+        {
+          "en": "The government provided financial relief to families affected by the typhoon.",
+          "highlight": [
+            "relief"
+          ],
+          "translations": {
+            "zh-TW": "政府為受到颱風影響的家庭提供經濟救濟。"
+          }
+        },
+        {
+          "en": "Many people have received tax reliefs under the new economic policy.",
+          "highlight": [
+            "reliefs"
+          ],
+          "translations": {
+            "zh-TW": "許多人已在新經濟政策下獲得稅負減免。"
           }
         }
       ],
       "synonyms": [
         "comfort",
-        "alleviation"
+        "alleviation",
+        "assistance"
       ],
       "antonyms": [
         "stress",
         "anxiety"
       ],
       "phrases": [
-        "sense",
-        "of",
-        "relief",
-        "huge",
-        "relief"
+        "sense of relief",
+        "tax relief",
+        "relief supplies",
+        "financial relief"
       ]
     }
   ]
