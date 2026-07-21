@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 230,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-230-001",
@@ -11,44 +11,58 @@
       "toeic_score_min": 500,
       "word": "railway",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "railwayed",
-        "past_participle": "railwayed",
-        "present_participle": "railwaying",
-        "third_person": "railways"
+        "plural": "railways"
       },
-      "domain": "general",
+      "domain": "transportation",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "railway",
-          "definition": "n. 铁路, 轨道, [經] 铁路"
+          "definition": "n. 鐵路、鐵道"
         }
       ],
       "examples": [
         {
-          "en": "They are building a new railway.",
+          "en": "The new railway connects the port to the industrial zone.",
           "highlight": [
             "railway"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這條新鐵路連接港口與工業區。"
+          }
+        },
+        {
+          "en": "Several railways were privatized during the 1990s.",
+          "highlight": [
+            "railways"
+          ],
+          "translations": {
+            "zh-TW": "1990 年代有數條鐵路被民營化。"
+          }
+        },
+        {
+          "en": "The company invests heavily in railway infrastructure across Asia.",
+          "highlight": [
+            "railway"
+          ],
+          "translations": {
+            "zh-TW": "該公司在亞洲大量投資鐵路基礎建設。"
           }
         }
       ],
       "synonyms": [
         "railroad",
-        "track"
+        "track",
+        "line"
       ],
       "antonyms": [],
       "phrases": [
-        "new",
-        "railway",
-        "railway",
-        "station"
+        "railway station",
+        "railway line",
+        "railway network"
       ]
     },
     {
@@ -63,42 +77,61 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "rained",
+        "plural": "rains",
+        "present_3rd": "rains",
+        "past": "rained",
         "past_participle": "rained",
-        "present_participle": "raining",
-        "third_person": "rains"
+        "ing": "raining"
       },
-      "domain": "general",
+      "domain": "weather",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "rain",
-          "definition": "n. 雨, 下雨, 雨天, vi. 下雨, vt. 使大量落下"
+          "definition": "n. 雨 v. 下雨"
         }
       ],
       "examples": [
         {
-          "en": "It started to rain.",
+          "en": "Heavy rain delayed the outdoor product launch by two hours.",
           "highlight": [
             "rain"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "大雨將戶外產品發表會延遲了兩小時。"
+          }
+        },
+        {
+          "en": "It rained all morning, so the team meeting was moved indoors.",
+          "highlight": [
+            "rained"
+          ],
+          "translations": {
+            "zh-TW": "整個上午都在下雨，所以團隊會議改到室內舉行。"
+          }
+        },
+        {
+          "en": "It has been raining since dawn, flooding the construction site.",
+          "highlight": [
+            "raining"
+          ],
+          "translations": {
+            "zh-TW": "從天亮起就一直在下雨，把工地都淹了。"
           }
         }
       ],
       "synonyms": [
-        "precipitation",
-        "drizzle"
+        "drizzle",
+        "downpour",
+        "shower"
       ],
       "antonyms": [
-        "dryness"
+        "drought"
       ],
       "phrases": [
-        "heavy",
-        "rain",
-        "rain",
-        "shower"
+        "heavy rain",
+        "rain forecast",
+        "rain or shine"
       ]
     },
     {
@@ -113,44 +146,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "raiseed",
-        "past_participle": "raiseed",
-        "present_participle": "raising",
-        "third_person": "raises"
+        "present_3rd": "raises",
+        "past": "raised",
+        "past_participle": "raised",
+        "ing": "raising"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "raise",
-          "definition": "n. 上升, 高地, 增高, vt. 升起, 举起, 唤起, 提高, 使出现, 使复活, 提出, 筹集, 饲养"
+          "definition": "v. 舉起、提高、籌集、撫養  n. 加薪"
         }
       ],
       "examples": [
         {
-          "en": "They raised the flag.",
+          "en": "The manager raised the issue during the quarterly review.",
           "highlight": [
-            "raise"
+            "raised"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理在季度回顧會議上提出了這個問題。"
+          }
+        },
+        {
+          "en": "The startup has raised five million dollars in series A funding.",
+          "highlight": [
+            "raised"
+          ],
+          "translations": {
+            "zh-TW": "這家新創公司在 A 輪募資中籌得五百萬美元。"
+          }
+        },
+        {
+          "en": "Raising prices during a recession may drive customers away.",
+          "highlight": [
+            "Raising"
+          ],
+          "translations": {
+            "zh-TW": "在經濟衰退期間調漲價格可能會流失客戶。"
           }
         }
       ],
       "synonyms": [
         "lift",
-        "elevate"
+        "elevate",
+        "increase"
       ],
       "antonyms": [
         "lower",
-        "drop"
+        "drop",
+        "reduce"
       ],
       "phrases": [
-        "raise",
-        "a",
-        "question",
-        "raise",
-        "funds"
+        "raise funds",
+        "raise prices",
+        "raise awareness",
+        "raise a question"
       ]
     },
     {
@@ -165,40 +217,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "rangeed",
-        "past_participle": "rangeed",
-        "present_participle": "ranging",
-        "third_person": "ranges"
+        "plural": "ranges",
+        "present_3rd": "ranges",
+        "past": "ranged",
+        "past_participle": "ranged",
+        "ing": "ranging"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "range",
-          "definition": "n. 排, 行, 山脉, 范围, 行列, 射程, vt. 排列, 归类于, 使并列, 放牧, vi. 平行, 延伸, 漫游, [计] 量程; 范围; 域; 距離"
+          "definition": "n. 範圍、區間、系列  v. 涵蓋、排列"
         }
       ],
       "examples": [
         {
-          "en": "The price range is between $10 and $50.",
+          "en": "The store offers a wide range of electronic products.",
           "highlight": [
             "range"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家商店提供各式各樣的電子產品。"
+          }
+        },
+        {
+          "en": "Salaries ranged from forty to ninety thousand dollars per year.",
+          "highlight": [
+            "ranged"
+          ],
+          "translations": {
+            "zh-TW": "年薪從四萬到九萬美元不等。"
+          }
+        },
+        {
+          "en": "Their services are ranging across logistics, finance, and consulting.",
+          "highlight": [
+            "ranging"
+          ],
+          "translations": {
+            "zh-TW": "他們的服務涵蓋物流、金融與顧問諮詢。"
           }
         }
       ],
       "synonyms": [
         "scope",
-        "extent"
+        "extent",
+        "span"
       ],
       "antonyms": [],
       "phrases": [
-        "price",
-        "range",
-        "wide",
-        "range"
+        "price range",
+        "a wide range of",
+        "range from A to B",
+        "long range"
       ]
     },
     {
@@ -213,40 +285,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "ranked",
+        "plural": "ranks",
+        "present_3rd": "ranks",
+        "past": "ranked",
         "past_participle": "ranked",
-        "present_participle": "ranking",
-        "third_person": "ranks"
+        "ing": "ranking"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "rank",
-          "definition": "n. 等級, 排, 横列, 队伍, 阶級, a. 茂密丛生的, 恶臭的, 十足的, 粗俗的, vt. 排列, 归类于, 把...分等, vi. 列為, 列队, n. 秩, [计] 秩"
+          "definition": "n. 等級、排名  v. 排名、評定"
         }
       ],
       "examples": [
         {
-          "en": "He holds the rank of captain.",
+          "en": "She holds the rank of senior director in the firm.",
           "highlight": [
             "rank"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在公司裡持有資深總監的職級。"
+          }
+        },
+        {
+          "en": "The company ranked third in customer satisfaction last year.",
+          "highlight": [
+            "ranked"
+          ],
+          "translations": {
+            "zh-TW": "該公司去年的顧客滿意度排名第三。"
+          }
+        },
+        {
+          "en": "Ranking employees solely by sales figures can be misleading.",
+          "highlight": [
+            "Ranking"
+          ],
+          "translations": {
+            "zh-TW": "只憑銷售數字為員工排名可能會產生誤導。"
           }
         }
       ],
       "synonyms": [
         "status",
-        "grade"
+        "grade",
+        "position"
       ],
       "antonyms": [],
       "phrases": [
-        "military",
-        "rank",
-        "rank",
-        "higher"
+        "rank and file",
+        "top rank",
+        "rank high",
+        "ranking system"
       ]
     },
     {
@@ -261,40 +353,60 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "rapids"
+        "plural": "rapids",
+        "comparative": "more rapid",
+        "superlative": "most rapid"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "rapid",
-          "definition": "a. 迅速的, 飞快的, 急促的, 陡的, n. 急流"
+          "definition": "adj. 迅速的、快速的  n. 急流"
         }
       ],
       "examples": [
         {
-          "en": "She made rapid progress.",
+          "en": "The country experienced rapid economic growth last decade.",
           "highlight": [
             "rapid"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "該國過去十年經歷了快速的經濟成長。"
+          }
+        },
+        {
+          "en": "Internet banking is more rapid than visiting a branch in person.",
+          "highlight": [
+            "more rapid"
+          ],
+          "translations": {
+            "zh-TW": "網路銀行比親自到分行辦理更為迅速。"
+          }
+        },
+        {
+          "en": "The most rapid response came from the Tokyo office.",
+          "highlight": [
+            "most rapid"
+          ],
+          "translations": {
+            "zh-TW": "回應最迅速的是東京辦公室。"
           }
         }
       ],
       "synonyms": [
         "fast",
-        "swift"
+        "swift",
+        "quick"
       ],
       "antonyms": [
         "slow",
         "sluggish"
       ],
       "phrases": [
-        "rapid",
-        "growth",
-        "rapid",
-        "change"
+        "rapid growth",
+        "rapid change",
+        "rapid response"
       ]
     },
     {
@@ -313,32 +425,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "rapidly",
-          "definition": "adv. 飞快地, 迅速地, 赶紧地"
+          "definition": "adv. 迅速地、快速地"
         }
       ],
       "examples": [
         {
-          "en": "The situation changed rapidly.",
+          "en": "The market for electric vehicles is growing rapidly.",
           "highlight": [
             "rapidly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "電動車市場正快速成長。"
+          }
+        },
+        {
+          "en": "Customer preferences changed rapidly after the new policy.",
+          "highlight": [
+            "rapidly"
+          ],
+          "translations": {
+            "zh-TW": "新政策實施後，顧客偏好迅速改變。"
+          }
+        },
+        {
+          "en": "Technology evolves rapidly, so staff training must keep pace.",
+          "highlight": [
+            "rapidly"
+          ],
+          "translations": {
+            "zh-TW": "科技快速演進，員工訓練必須跟上腳步。"
           }
         }
       ],
       "synonyms": [
         "quickly",
+        "swiftly",
         "speedily"
       ],
       "antonyms": [
-        "slowly"
+        "slowly",
+        "gradually"
       ],
       "phrases": [
-        "rapidly",
-        "growing",
-        "rapidly",
-        "changing"
+        "grow rapidly",
+        "change rapidly",
+        "expand rapidly"
       ]
     },
     {
@@ -349,44 +480,63 @@
       "toeic_score_min": 500,
       "word": "rare",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "rares"
+        "comparative": "rarer",
+        "superlative": "rarest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "rare",
-          "definition": "a. 稀罕的, 罕有的, 珍奇的, 稀薄的, 半熟的, 非常好的, adv. 非常"
+          "definition": "adj. 稀有的、罕見的、珍貴的"
         }
       ],
       "examples": [
         {
-          "en": "It is rare to see such talent.",
+          "en": "It is rare for the CEO to attend entry-level interviews.",
           "highlight": [
             "rare"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "執行長親自出席基層面試的情況很罕見。"
+          }
+        },
+        {
+          "en": "Quality issues are rarer in the new production line.",
+          "highlight": [
+            "rarer"
+          ],
+          "translations": {
+            "zh-TW": "新產線的品質問題更為罕見。"
+          }
+        },
+        {
+          "en": "This manuscript is one of the rarest items in the archive.",
+          "highlight": [
+            "rarest"
+          ],
+          "translations": {
+            "zh-TW": "這份手稿是檔案庫中最珍貴的藏品之一。"
           }
         }
       ],
       "synonyms": [
         "uncommon",
+        "scarce",
         "infrequent"
       ],
       "antonyms": [
         "common",
-        "frequent"
+        "frequent",
+        "ordinary"
       ],
       "phrases": [
-        "rare",
-        "occurrence",
-        "rare",
-        "species"
+        "rare occasion",
+        "rare species",
+        "rare opportunity"
       ]
     },
     {
@@ -405,22 +555,41 @@
         {
           "lang": "zh-TW",
           "lang_word": "rarely",
-          "definition": "adv. 很少地, 罕有地"
+          "definition": "adv. 很少、不常"
         }
       ],
       "examples": [
         {
-          "en": "She rarely goes out.",
+          "en": "She rarely misses a deadline, even under heavy workload.",
           "highlight": [
             "rarely"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "即使工作量繁重，她也極少錯過截止日期。"
+          }
+        },
+        {
+          "en": "The board rarely meets outside scheduled quarterly sessions.",
+          "highlight": [
+            "rarely"
+          ],
+          "translations": {
+            "zh-TW": "董事會很少在排定的季度會議之外召開。"
+          }
+        },
+        {
+          "en": "Discounts on premium memberships are rarely offered to new users.",
+          "highlight": [
+            "rarely"
+          ],
+          "translations": {
+            "zh-TW": "高級會員的折扣極少提供給新用戶。"
           }
         }
       ],
       "synonyms": [
         "seldom",
+        "scarcely",
         "infrequently"
       ],
       "antonyms": [
@@ -428,10 +597,9 @@
         "frequently"
       ],
       "phrases": [
-        "rarely",
-        "seen",
-        "rarely",
-        "happens"
+        "rarely happens",
+        "rarely seen",
+        "rarely used"
       ]
     },
     {
@@ -446,40 +614,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "rateed",
-        "past_participle": "rateed",
-        "present_participle": "rating",
-        "third_person": "rates"
+        "plural": "rates",
+        "present_3rd": "rates",
+        "past": "rated",
+        "past_participle": "rated",
+        "ing": "rating"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "rate",
-          "definition": "n. 比率, 率, 速度, 价格, 费用, 等級, vt. 估价, 认為, 鉴定等級, 责骂, vi. 被评价, 责骂"
+          "definition": "n. 比率、費率、評價  v. 評定、評估"
         }
       ],
       "examples": [
         {
-          "en": "The birth rate is increasing.",
+          "en": "The unemployment rate dropped to three percent this quarter.",
           "highlight": [
             "rate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "本季失業率降至百分之三。"
+          }
+        },
+        {
+          "en": "Analysts rated the company's stock as a strong buy.",
+          "highlight": [
+            "rated"
+          ],
+          "translations": {
+            "zh-TW": "分析師將該公司股票評為強烈買進。"
+          }
+        },
+        {
+          "en": "Credit rating agencies downgraded several firms this year.",
+          "highlight": [
+            "rating"
+          ],
+          "translations": {
+            "zh-TW": "今年信評機構調降了多家公司的評級。"
           }
         }
       ],
       "synonyms": [
+        "pace",
         "speed",
-        "pace"
+        "assess"
       ],
       "antonyms": [],
       "phrases": [
-        "high",
-        "rate",
-        "exchange",
-        "rate"
+        "exchange rate",
+        "interest rate",
+        "rating agency",
+        "at this rate"
       ]
     }
   ]
