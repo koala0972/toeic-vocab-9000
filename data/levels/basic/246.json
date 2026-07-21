@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 246,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-246-001",
@@ -15,44 +15,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "runed",
-        "past_participle": "runed",
-        "present_participle": "runing",
-        "third_person": "runs"
+        "present_3rd": "runs",
+        "past": "ran",
+        "past_participle": "run",
+        "ing": "running"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "run",
-          "definition": "n. 跑, 赛跑, 奔跑, 奔跑的路程, 趋向, 流出, 運转時間, 连续, vi. 跑, 奔跑, 跑步, 赛跑, 竞赛, 行驶, 運转, 进行, 蔓延, vt. 使跑, 参赛, 追究, 驾驶, 开動, 管理, 經营, 使流出, 運行, a. 熔化的, 融化的, 浇铸的, run的過去式和過去分词, [计] 運行"
+          "definition": "v. 跑、奔跑、經營、運作  n. 跑步、連續、一段路程"
         }
       ],
       "examples": [
         {
-          "en": "She runs every morning to stay fit.",
+          "en": "The manager runs the department with great efficiency.",
+          "highlight": [
+            "runs"
+          ],
+          "translations": {
+            "zh-TW": "這位經理以極高的效率經營這個部門。"
+          }
+        },
+        {
+          "en": "She ran to the station but missed the last train.",
+          "highlight": [
+            "ran"
+          ],
+          "translations": {
+            "zh-TW": "她跑着赶到車站，但還是錯過了末班車。"
+          }
+        },
+        {
+          "en": "The water has run dry in the western part of the river.",
           "highlight": [
             "run"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "河流西段的水已經乾涸了。"
           }
         }
       ],
       "synonyms": [
         "sprint",
-        "jog"
+        "jog",
+        "operate"
       ],
       "antonyms": [
         "walk",
         "stroll"
       ],
       "phrases": [
-        "run",
-        "fast",
-        "run",
-        "a",
-        "race"
+        "run a business",
+        "run out of",
+        "run a marathon",
+        "long run"
       ]
     },
     {
@@ -63,44 +81,59 @@
       "toeic_score_min": 500,
       "word": "runner",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "runnered",
-        "past_participle": "runnered",
-        "present_participle": "runnering",
-        "third_person": "runners"
+        "plural": "runners"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "runner",
-          "definition": "n. 跑步者, 赛跑者, 送信人, 走私船, 操作者, 滑槽, [化] 碾碎机; 压碎机"
+          "definition": "n. 跑步者、賽跑選手、送信人"
         }
       ],
       "examples": [
         {
-          "en": "The runner crossed the finish line.",
+          "en": "The runner trained every weekend for the upcoming marathon.",
           "highlight": [
             "runner"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位跑者每個週末都為即將到來的馬拉松進行訓練。"
+          }
+        },
+        {
+          "en": "Three runners collapsed from heat exhaustion during the race.",
+          "highlight": [
+            "runners"
+          ],
+          "translations": {
+            "zh-TW": "比賽期間有三名跑者因中暑昏倒。"
+          }
+        },
+        {
+          "en": "The restaurant hires runners to deliver food in under fifteen minutes.",
+          "highlight": [
+            "runners"
+          ],
+          "translations": {
+            "zh-TW": "餐廳僱用外送員，在十五分鐘內送達食物。"
           }
         }
       ],
       "synonyms": [
         "athlete",
-        "racer"
+        "racer",
+        "messenger"
       ],
       "antonyms": [],
       "phrases": [
-        "marathon",
-        "runner",
-        "professional",
-        "runner"
+        "long-distance runner",
+        "runner-up",
+        "road runner",
+        "front-runner"
       ]
     },
     {
@@ -112,43 +145,57 @@
       "word": "running",
       "pos": [
         "noun",
-        "verb"
+        "adjective"
       ],
-      "conjugations": {
-        "past_tense": "runninged",
-        "past_participle": "runninged",
-        "present_participle": "runninging",
-        "third_person": "runnings"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "running",
-          "definition": "n. 赛跑, 流出, 運转, a. 流動的, 跑着的, 连续的"
+          "definition": "n. 跑步、運轉  a. 流動的、連續的、運轉中的"
         }
       ],
       "examples": [
         {
-          "en": "Running is a great way to stay in shape.",
+          "en": "Running five kilometres a day keeps her energized throughout the shift.",
+          "highlight": [
+            "Running"
+          ],
+          "translations": {
+            "zh-TW": "每天跑步五公里讓她在整個班次中保持精力充沛。"
+          }
+        },
+        {
+          "en": "The company has a running dispute with its main supplier over pricing.",
           "highlight": [
             "running"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司與主要供應商在定價上有一段持續的糾紛。"
+          }
+        },
+        {
+          "en": "There is a brook with running water behind the country house.",
+          "highlight": [
+            "running"
+          ],
+          "translations": {
+            "zh-TW": "鄉間別墅後方有一條流水潺潺的小溪。"
           }
         }
       ],
       "synonyms": [
         "jogging",
-        "racing"
+        "operating",
+        "flowing"
       ],
       "antonyms": [],
       "phrases": [
-        "running",
-        "shoes",
-        "running",
-        "track"
+        "running water",
+        "running shoes",
+        "running cost",
+        "in the running"
       ]
     },
     {
@@ -159,44 +206,60 @@
       "toeic_score_min": 500,
       "word": "rural",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "rurals"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "rural",
-          "definition": "a. 乡下的, 田园的, 乡村風味的, [法] 农村的, 乡村的, 有關农业的"
+          "definition": "a. 鄉村的、農村的、田園的"
         }
       ],
       "examples": [
         {
-          "en": "They live in a rural area.",
+          "en": "Many young families relocate to rural areas in search of cleaner air.",
           "highlight": [
             "rural"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "許多年輕家庭搬到鄉村地區，尋求更乾淨的空氣。"
+          }
+        },
+        {
+          "en": "Rural life offers a slower pace but fewer public amenities.",
+          "highlight": [
+            "Rural"
+          ],
+          "translations": {
+            "zh-TW": "鄉村生活節奏較慢，但公共設施較少。"
+          }
+        },
+        {
+          "en": "The government invested heavily in rural broadband expansion last year.",
+          "highlight": [
+            "rural"
+          ],
+          "translations": {
+            "zh-TW": "政府去年大幅投資於鄉村寬頻網路的擴建。"
           }
         }
       ],
       "synonyms": [
         "countryside",
-        "pastoral"
+        "pastoral",
+        "agrarian"
       ],
       "antonyms": [
         "urban",
-        "city"
+        "metropolitan"
       ],
       "phrases": [
-        "rural",
-        "area",
-        "rural",
-        "life"
+        "rural area",
+        "rural life",
+        "rural development",
+        "rural population"
       ]
     },
     {
@@ -211,43 +274,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "rushed",
+        "present_3rd": "rushes",
+        "past": "rushed",
         "past_participle": "rushed",
-        "present_participle": "rushing",
-        "third_person": "rushs"
+        "ing": "rushing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "rush",
-          "definition": "n. 匆促, 冲进, 急流, 灯心草, vi. 冲, 奔, 闯, 赶紧, 匆促行事, 涌现, vt. 使冲, 匆忙地做, 突袭, 飞跃, 用灯心草做, a. 紧急的"
+          "definition": "v. 衝、急促行事、催促  n. 匆忙、 rush hour 尖峰時段"
         }
       ],
       "examples": [
         {
-          "en": "She rushed to catch the bus.",
+          "en": "Commuters rush to board the 7 a.m. express every morning.",
           "highlight": [
             "rush"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "通勤族每天早上都趕著搭乘七點的快車。"
+          }
+        },
+        {
+          "en": "She rushed the contract review and missed an important clause.",
+          "highlight": [
+            "rushed"
+          ],
+          "translations": {
+            "zh-TW": "她匆忙審閱合約，漏掉了一條重要條款。"
+          }
+        },
+        {
+          "en": "The kids were rushing out the door when the bell rang.",
+          "highlight": [
+            "rushing"
+          ],
+          "translations": {
+            "zh-TW": "鈴聲響起時，孩子們正衝出門口。"
           }
         }
       ],
       "synonyms": [
         "hurry",
-        "dash"
+        "dash",
+        "hasten"
       ],
       "antonyms": [
-        "slow",
-        "delay"
+        "delay",
+        "linger"
       ],
       "phrases": [
-        "rush",
-        "hour",
-        "rush",
-        "to"
+        "rush hour",
+        "rush to judgment",
+        "gold rush",
+        "rush order"
       ]
     },
     {
@@ -262,40 +344,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "sacked",
+        "plural": "sacks",
+        "present_3rd": "sacks",
+        "past": "sacked",
         "past_participle": "sacked",
-        "present_participle": "sacking",
-        "third_person": "sacks"
+        "ing": "sacking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sack",
-          "definition": "n. 麻布袋, 洗劫, vt. 把...装入袋, 洗劫"
+          "definition": "n. 麻布袋、一袋之量、解僱  v. 解僱、洗劫"
         }
       ],
       "examples": [
         {
-          "en": "He carried the potatoes in a sack.",
+          "en": "The factory sacked a hundred workers during the economic downturn.",
+          "highlight": [
+            "sacked"
+          ],
+          "translations": {
+            "zh-TW": "工廠在經濟低迷時期解僱了一百名員工。"
+          }
+        },
+        {
+          "en": "He carried a large sack of flour on his shoulder into the pantry.",
           "highlight": [
             "sack"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他肩上扛著一大袋麵粉走進食品儲藏室。"
+          }
+        },
+        {
+          "en": "Protestors were sacking government buildings when the army arrived.",
+          "highlight": [
+            "sacking"
+          ],
+          "translations": {
+            "zh-TW": "軍隊抵達時，抗議者正在洗劫政府大樓。"
           }
         }
       ],
       "synonyms": [
         "bag",
-        "pouch"
+        "pouch",
+        "fire"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "hire"
+      ],
       "phrases": [
-        "potato",
-        "sack",
-        "sack",
-        "race"
+        "get the sack",
+        "sack of potatoes",
+        "hit the sack",
+        "sack lunch"
       ]
     },
     {
@@ -306,44 +410,63 @@
       "toeic_score_min": 500,
       "word": "sad",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "sads"
+        "comparative": "sadder",
+        "superlative": "saddest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sad",
-          "definition": "a. 忧愁的, 悲哀的"
+          "definition": "a. 悲傷的、難過的、令人遺憾的"
         }
       ],
       "examples": [
         {
-          "en": "She felt sad after hearing the news.",
+          "en": "She felt sad when her best colleague quit without notice.",
           "highlight": [
             "sad"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她最好的同事毫無預警地離職，讓她感到難過。"
+          }
+        },
+        {
+          "en": "News of the accident left everyone sadder than they had been in years.",
+          "highlight": [
+            "sadder"
+          ],
+          "translations": {
+            "zh-TW": "意外事故的消息讓大家比多年來更加悲傷。"
+          }
+        },
+        {
+          "en": "It was the saddest film the jury had screened all season.",
+          "highlight": [
+            "saddest"
+          ],
+          "translations": {
+            "zh-TW": "這是評審團整季看過最令人心碎的電影。"
           }
         }
       ],
       "synonyms": [
         "unhappy",
-        "sorrowful"
+        "sorrowful",
+        "downcast"
       ],
       "antonyms": [
         "happy",
         "joyful"
       ],
       "phrases": [
-        "feel",
-        "sad",
-        "sad",
-        "news"
+        "feel sad",
+        "sad news",
+        "sad truth",
+        "sad ending"
       ]
     },
     {
@@ -362,33 +485,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "sadly",
-          "definition": "adv. 悲痛地, 悲惨地, 悲伤地, 說來遗憾"
+          "definition": "adv. 悲傷地、遺憾地、不幸地"
         }
       ],
       "examples": [
         {
-          "en": "He looked at her sadly.",
+          "en": "She watched sadly as the last box of files was carried out.",
           "highlight": [
             "sadly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她悲傷地看着最後一箱檔案被搬走。"
+          }
+        },
+        {
+          "en": "Sadly, the budget cuts will affect every program next quarter.",
+          "highlight": [
+            "Sadly"
+          ],
+          "translations": {
+            "zh-TW": "遺憾的是，預算削減將在下個季度影響每一項計畫。"
+          }
+        },
+        {
+          "en": "The old craftsman shook his head sadly at the declining quality.",
+          "highlight": [
+            "sadly"
+          ],
+          "translations": {
+            "zh-TW": "老工匠對日益下降的品質難過地搖頭。"
           }
         }
       ],
       "synonyms": [
         "mournfully",
-        "unhappily"
+        "unhappily",
+        "regrettably"
       ],
       "antonyms": [
         "happily",
         "joyfully"
       ],
       "phrases": [
-        "look",
-        "sadly",
-        "sadly",
-        "missed"
+        "shake one's head sadly",
+        "look sadly",
+        "say sadly",
+        "sadly missed"
       ]
     },
     {
@@ -399,47 +541,62 @@
       "toeic_score_min": 500,
       "word": "sadness",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "sadnessed",
-        "past_participle": "sadnessed",
-        "present_participle": "sadnessing",
-        "third_person": "sadnesses"
+        "plural": "sadnesses"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sadness",
-          "definition": "n. 悲哀, 悲伤"
+          "definition": "n. 悲哀、悲傷、難過"
         }
       ],
       "examples": [
         {
-          "en": "Her sadness was obvious.",
+          "en": "A wave of sadness swept through the office when the closure was announced.",
           "highlight": [
             "sadness"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "宣布結束營業時，一股悲傷之情席捲整個辦公室。"
+          }
+        },
+        {
+          "en": "He could not hide his sadness at missing his daughter's graduation.",
+          "highlight": [
+            "sadness"
+          ],
+          "translations": {
+            "zh-TW": "他無法掩飾錯過女兒畢業典禮的難過。"
+          }
+        },
+        {
+          "en": "Sadnesses of that magnitude are difficult for any family to articulate.",
+          "highlight": [
+            "Sadnesses"
+          ],
+          "translations": {
+            "zh-TW": "規模如此之大的悲傷，對任何家庭而言都難以言說。"
           }
         }
       ],
       "synonyms": [
         "sorrow",
-        "grief"
+        "grief",
+        "melancholy"
       ],
       "antonyms": [
         "happiness",
         "joy"
       ],
       "phrases": [
-        "deep",
-        "sadness",
-        "overwhelming",
-        "sadness"
+        "deep sadness",
+        "sense of sadness",
+        "overwhelming sadness",
+        "sadness and joy"
       ]
     },
     {
@@ -454,41 +611,61 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "safes"
+        "plural": "safes",
+        "comparative": "safer",
+        "superlative": "safest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "safe",
-          "definition": "n. 保险箱, 冷藏室, a. 安全的, 可靠的, 平安的, 稳健的, 有把握的"
+          "definition": "a. 安全的、平安的、可靠的  n. 保險箱"
         }
       ],
       "examples": [
         {
-          "en": "The children are safe at home.",
+          "en": "Keep the original contracts in the office safe until the audit.",
           "highlight": [
             "safe"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "將合約正本存放於辦公室保險箱中，直到稽核結束。"
+          }
+        },
+        {
+          "en": "Online banking has become far safer than it was a decade ago.",
+          "highlight": [
+            "safer"
+          ],
+          "translations": {
+            "zh-TW": "網路銀行已比十年前安全得多。"
+          }
+        },
+        {
+          "en": "This route is the safest way to reach the warehouse after dark.",
+          "highlight": [
+            "safest"
+          ],
+          "translations": {
+            "zh-TW": "天黑後走這條路線是前往倉庫最安全的選擇。"
           }
         }
       ],
       "synonyms": [
         "secure",
-        "protected"
+        "protected",
+        "reliable"
       ],
       "antonyms": [
         "unsafe",
         "dangerous"
       ],
       "phrases": [
-        "safe",
-        "and",
-        "sound",
-        "safe",
-        "from"
+        "safe and sound",
+        "safe from",
+        "safe bet",
+        "better safe than sorry"
       ]
     }
   ]
