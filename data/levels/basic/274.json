@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 274,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-274-001",
@@ -15,40 +15,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "storeed",
-        "past_participle": "storeed",
-        "present_participle": "storing",
-        "third_person": "stores"
+        "plural": "stores",
+        "present_3rd": "stores",
+        "past": "stored",
+        "past_participle": "stored",
+        "ing": "storing"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "store",
-          "definition": "n. 商店, 贮藏, 仓库, 备用品, 存储器, vt. 储存, 贮藏, 供给, vi. 贮藏, a. 贮藏的, 现成的, [计] 存储器操作; 存储"
+          "definition": "n. 商店、貯藏、存貨  v. 儲存、藏、保存"
         }
       ],
       "examples": [
         {
-          "en": "She works at a grocery store.",
+          "en": "The convenience store on the corner opens at six in the morning.",
           "highlight": [
             "store"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "轉角的便利商店早上六點開門。"
+          }
+        },
+        {
+          "en": "All customer data must be stored on a secure off-site server.",
+          "highlight": [
+            "stored"
+          ],
+          "translations": {
+            "zh-TW": "所有顧客資料必須儲存在安全的異地伺服器上。"
+          }
+        },
+        {
+          "en": "The warehouse is currently storing seasonal inventory for next quarter.",
+          "highlight": [
+            "storing"
+          ],
+          "translations": {
+            "zh-TW": "倉庫目前正為下個季度存放季節性存貨。"
           }
         }
       ],
       "synonyms": [
         "shop",
-        "market"
+        "keep",
+        "stock"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "consume",
+        "discard"
+      ],
       "phrases": [
-        "department",
-        "store",
-        "grocery",
-        "store"
+        "department store",
+        "store up",
+        "out of stock",
+        "chain store"
       ]
     },
     {
@@ -63,44 +86,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "stormed",
+        "plural": "storms",
+        "present_3rd": "storms",
+        "past": "stormed",
         "past_participle": "stormed",
-        "present_participle": "storming",
-        "third_person": "storms"
+        "ing": "storming"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "storm",
-          "definition": "n. 暴風雨, 骚動, 風波, 風暴, 猛攻, vi. 起風, 猛冲, 怒吼, vt. 猛攻"
+          "definition": "n. 暴風雨、風暴、騷動  v. 猛攻、怒氣沖沖地走"
         }
       ],
       "examples": [
         {
-          "en": "The storm caused a lot of damage.",
+          "en": "A severe storm knocked out power across the entire business district.",
           "highlight": [
             "storm"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "一場猛烈的暴風雨使整個商業區停電。"
+          }
+        },
+        {
+          "en": "Protesters stormed the company headquarters to demand a public apology.",
+          "highlight": [
+            "stormed"
+          ],
+          "translations": {
+            "zh-TW": "抗議者衝進公司總部，要求公開道歉。"
+          }
+        },
+        {
+          "en": "After receiving the rejection email, she stormed out of the boardroom in frustration.",
+          "highlight": [
+            "stormed"
+          ],
+          "translations": {
+            "zh-TW": "收到拒絕郵件後，她氣憤地衝出了會議室。"
           }
         }
       ],
       "synonyms": [
         "tempest",
-        "gale"
+        "attack",
+        "assault"
       ],
       "antonyms": [
         "calm",
         "tranquility"
       ],
       "phrases": [
-        "violent",
-        "storm",
-        "weather",
-        "the",
-        "storm"
+        "storm out",
+        "weather the storm",
+        "storm clouds",
+        "brain storm"
       ]
     },
     {
@@ -111,48 +153,62 @@
       "toeic_score_min": 500,
       "word": "story",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "storyed",
-        "past_participle": "storyed",
-        "present_participle": "storying",
-        "third_person": "storys"
+        "plural": "stories"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "story",
-          "definition": "n. 故事, 小說, 传奇, 描述, 阅歷, 經歷, 层"
+          "definition": "n. 故事、報導、傳聞、樓層"
         }
       ],
       "examples": [
         {
-          "en": "She told a fascinating story.",
+          "en": "The CEO told a compelling story about the company's early struggles during his keynote speech.",
           "highlight": [
             "story"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "執行長在專題演講中，講述了一段關於公司早期奮鬥的動人故事。"
+          }
+        },
+        {
+          "en": "Several success stories from small business owners were featured in the trade magazine.",
+          "highlight": [
+            "stories"
+          ],
+          "translations": {
+            "zh-TW": "貿易雜誌報導了幾位小企業主的成功故事。"
+          }
+        },
+        {
+          "en": "The reporter verified every fact before publishing the front-page story.",
+          "highlight": [
+            "story"
+          ],
+          "translations": {
+            "zh-TW": "記者在刊登頭條報導前，覈實了每一個事實。"
           }
         }
       ],
       "synonyms": [
         "tale",
-        "narrative"
+        "narrative",
+        "report"
       ],
       "antonyms": [
         "fact",
         "reality"
       ],
       "phrases": [
-        "tell",
-        "a",
-        "story",
-        "bedtime",
-        "story"
+        "success story",
+        "bedtime story",
+        "cover story",
+        "tell a story"
       ]
     },
     {
@@ -175,33 +231,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "straight",
-          "definition": "n. 直线, 直, a. 直的, 笔直的, 正直的, 直接的, 连续的, 整齐的, adv. 直接地, 立即, 不断地"
+          "definition": "adj. 直的、誠實的、連續的  adv. 直接、一直、立刻"
         }
       ],
       "examples": [
         {
-          "en": "He walked in a straight line.",
+          "en": "The auditor appreciated the candidate's straight answers during the compliance interview.",
           "highlight": [
             "straight"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "稽核員欣賞候選人在合規面談中直截了當的回答。"
+          }
+        },
+        {
+          "en": "Route five is straighter than the highway and avoids most of the traffic congestion.",
+          "highlight": [
+            "straighter"
+          ],
+          "translations": {
+            "zh-TW": "五號路線比高速公路更直，且能避開大部分壅塞。"
+          }
+        },
+        {
+          "en": "He has worked consecutive night shifts for thirty days - the straightest run the manager had ever seen.",
+          "highlight": [
+            "straightest"
+          ],
+          "translations": {
+            "zh-TW": "他連續上了三十天夜班——這是經理見過最長的連班紀錄。"
           }
         }
       ],
       "synonyms": [
         "direct",
-        "linear"
+        "straightforward",
+        "honest"
       ],
       "antonyms": [
         "crooked",
-        "curved"
+        "curved",
+        "dishonest"
       ],
       "phrases": [
-        "straight",
-        "line",
-        "straight",
-        "path"
+        "straight forward",
+        "straight ahead",
+        "get straight to the point",
+        "straight line"
       ]
     },
     {
@@ -216,44 +292,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "strained",
+        "plural": "strains",
+        "present_3rd": "strains",
+        "past": "strained",
         "past_participle": "strained",
-        "present_participle": "straining",
-        "third_person": "strains"
+        "ing": "straining"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "strain",
-          "definition": "n. 紧张, 拉紧, 张力, 過劳, 扭伤, 血缘, 種, 族, 气质, 曲调, 旋律, 口吻, vt. 使劳累, 拉紧, 過分使用, 扭伤, 滥用, 曲解, 滤, vi. 盡力, 努力, 紧拉, 弯曲, 被滤出"
+          "definition": "v. 拉緊、扭傷、過度使用  n. 壓力、張力、拉傷"
         }
       ],
       "examples": [
         {
-          "en": "He strained to lift the heavy box.",
+          "en": "Rising fuel prices are beginning to strain the company's logistics budget.",
           "highlight": [
             "strain"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "油價上漲開始對公司的物流預算造成壓力。"
+          }
+        },
+        {
+          "en": "She strained her back while lifting a box of shipment records at the archive.",
+          "highlight": [
+            "strained"
+          ],
+          "translations": {
+            "zh-TW": "她在檔案室搬一箱貨運紀錄時閃到了背。"
+          }
+        },
+        {
+          "en": "The negotiator spent weeks straining to bridge the gap between both sides of the dispute.",
+          "highlight": [
+            "straining"
+          ],
+          "translations": {
+            "zh-TW": "談判代表花了數週努力縮小爭議雙方的分歧。"
           }
         }
       ],
       "synonyms": [
-        "exert",
-        "force"
+        "stress",
+        "tension",
+        "injure"
       ],
       "antonyms": [
         "relax",
-        "ease"
+        "ease",
+        "rest"
       ],
       "phrases": [
-        "strain",
-        "a",
-        "muscle",
-        "strain",
-        "to"
+        "strain a muscle",
+        "under strain",
+        "strain relations",
+        "put a strain on"
       ]
     },
     {
@@ -264,44 +360,64 @@
       "toeic_score_min": 500,
       "word": "strange",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "stranges"
+        "comparative": "stranger",
+        "superlative": "strangest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "strange",
-          "definition": "a. 奇怪的, 陌生的, 生疏的, 不熟悉的, 不可思議的, 外行的, 外地的, 异乡的"
+          "definition": "adj. 陌生的、奇怪的、不熟悉的"
         }
       ],
       "examples": [
         {
-          "en": "She had a strange feeling about the place.",
+          "en": "It felt strange to attend a board meeting in casual clothes on a Friday.",
           "highlight": [
             "strange"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "週五穿著休閒服出席董事會議感覺很奇怪。"
+          }
+        },
+        {
+          "en": "The error message grew stranger by the hour until IT finally traced it to a misconfigured firewall.",
+          "highlight": [
+            "stranger"
+          ],
+          "translations": {
+            "zh-TW": "錯誤訊息每過一小時就變得更離奇，直到資訊部門終於查出是防火牆設定錯誤。"
+          }
+        },
+        {
+          "en": "Few clients have ever lodged the strangest complaint the customer-service team had ever received.",
+          "highlight": [
+            "strangest"
+          ],
+          "translations": {
+            "zh-TW": "鮮少有客戶提出客服團隊前所未聞最離奇的申訴。"
           }
         }
       ],
       "synonyms": [
         "unusual",
-        "odd"
+        "odd",
+        "unfamiliar"
       ],
       "antonyms": [
+        "familiar",
         "normal",
-        "familiar"
+        "ordinary"
       ],
       "phrases": [
-        "strange",
-        "feeling",
-        "strange",
-        "place"
+        "strange feeling",
+        "stranger danger",
+        "strange but true",
+        "make strange"
       ]
     },
     {
@@ -320,33 +436,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "strangely",
-          "definition": "adv. 奇妙地, 奇怪地, 不可思議地"
+          "definition": "adv. 奇怪地、不可思議地、異常地"
         }
       ],
       "examples": [
         {
-          "en": "He was strangely calm.",
+          "en": "Strangely, the audit report listed expenses that no one in the department could account for.",
+          "highlight": [
+            "Strangely"
+          ],
+          "translations": {
+            "zh-TW": "奇怪的是，稽核報告列出了部門內無人能解釋的開銷。"
+          }
+        },
+        {
+          "en": "The new hire reacted strangely when asked about his previous employer - he refused to give any details.",
           "highlight": [
             "strangely"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "被問到前雇主時，新進員工反應異常——他拒絕透露任何細節。"
+          }
+        },
+        {
+          "en": "Strangely enough, the most junior analyst spotted the typo that had eluded senior managers for weeks.",
+          "highlight": [
+            "Strangely"
+          ],
+          "translations": {
+            "zh-TW": "說也奇怪，資歷最淺的分析師發現了資深經理幾週來都沒看出的錯字。"
           }
         }
       ],
       "synonyms": [
         "oddly",
+        "curiously",
         "unusually"
       ],
       "antonyms": [
         "normally",
+        "ordinarily",
         "typically"
       ],
       "phrases": [
-        "strangely",
-        "enough",
-        "strangely",
-        "quiet"
+        "strangely enough",
+        "act strangely",
+        "look strangely"
       ]
     },
     {
@@ -357,8 +492,7 @@
       "toeic_score_min": 500,
       "word": "stranger",
       "pos": [
-        "noun",
-        "adjective"
+        "noun"
       ],
       "conjugations": {
         "plural": "strangers"
@@ -368,33 +502,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "stranger",
-          "definition": "n. 陌生人, 門外汉, [法] 局外人, 非当事人, 第三者"
+          "definition": "n. 陌生人、門外漢、外地人"
         }
       ],
       "examples": [
         {
-          "en": "A stranger offered to help.",
+          "en": "A stranger walked into the reception area and asked to see the marketing director.",
           "highlight": [
             "stranger"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "一個陌生人走進接待區，要求見行銷主管。"
+          }
+        },
+        {
+          "en": "The hotel policy requires staff to deny late-night entry to strangers without a key card.",
+          "highlight": [
+            "strangers"
+          ],
+          "translations": {
+            "zh-TW": "飯店規定員工拒絕沒有房卡的陌生人在深夜進入。"
+          }
+        },
+        {
+          "en": "He felt like a stranger in his own office after returning from a two-year overseas assignment.",
+          "highlight": [
+            "stranger"
+          ],
+          "translations": {
+            "zh-TW": "在海外駐外兩年後回來，他對自己的辦公室感到陌生。"
           }
         }
       ],
       "synonyms": [
         "foreigner",
-        "outsider"
+        "outsider",
+        "visitor"
       ],
       "antonyms": [
         "friend",
-        "acquaintance"
+        "acquaintance",
+        "local"
       ],
       "phrases": [
-        "complete",
-        "stranger",
-        "friendly",
-        "stranger"
+        "complete stranger",
+        "perfect stranger",
+        "stranger to",
+        "no stranger to"
       ]
     },
     {
@@ -405,44 +559,61 @@
       "toeic_score_min": 500,
       "word": "strategy",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "strategyed",
-        "past_participle": "strategyed",
-        "present_participle": "strategying",
-        "third_person": "strategys"
+        "plural": "strategies"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "strategy",
-          "definition": "n. 战略, 策略, [經] 战略, 策略"
+          "definition": "n. 策略、戰略、對策"
         }
       ],
       "examples": [
         {
-          "en": "The company's strategy is to expand its market.",
+          "en": "The new CEO outlined a clear strategy for entering the Southeast Asian market.",
           "highlight": [
             "strategy"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新任執行長為進軍東南亞市場規劃了明確的策略。"
+          }
+        },
+        {
+          "en": "Diversification and cost-cutting are two strategies the board is considering to boost profitability.",
+          "highlight": [
+            "strategies"
+          ],
+          "translations": {
+            "zh-TW": "多元化經營與削減成本是董事會正在考慮以提升獲利的兩個策略。"
+          }
+        },
+        {
+          "en": "Without a coherent pricing strategy, the firm will lose ground to its competitors within a year.",
+          "highlight": [
+            "strategy"
+          ],
+          "translations": {
+            "zh-TW": "沒有一致的定價策略，公司將在一年內流失給競爭對手。"
           }
         }
       ],
       "synonyms": [
         "plan",
-        "tactic"
+        "tactic",
+        "approach"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "improvisation"
+      ],
       "phrases": [
-        "business",
-        "strategy",
-        "winning",
-        "strategy"
+        "business strategy",
+        "marketing strategy",
+        "exit strategy",
+        "growth strategy"
       ]
     },
     {
@@ -457,40 +628,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "streamed",
+        "plural": "streams",
+        "present_3rd": "streams",
+        "past": "streamed",
         "past_participle": "streamed",
-        "present_participle": "streaming",
-        "third_person": "streams"
+        "ing": "streaming"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "stream",
-          "definition": "n. 水流, 小河, 流出, 趋势, 人潮, vt. 流出, 流動, 展开, vi. 流, 涌, 飘扬, [计] 流"
+          "definition": "n. 溪流、水流、串流、湧現  v. 串流傳輸、流出"
         }
       ],
       "examples": [
         {
-          "en": "The stream flows into the river.",
+          "en": "The product launch generated a steady stream of customer inquiries throughout the first week.",
           "highlight": [
             "stream"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "產品上市首週，源源不絕的顧客詢問不斷湧入。"
+          }
+        },
+        {
+          "en": "The keynote address was streamed live to employees in twenty-three countries.",
+          "highlight": [
+            "streamed"
+          ],
+          "translations": {
+            "zh-TW": "專題演講向二十三個國家的員工即時串流轉播。"
+          }
+        },
+        {
+          "en": "The analytics dashboard is streaming real-time sales data to the executive floor as transactions occur.",
+          "highlight": [
+            "streaming"
+          ],
+          "translations": {
+            "zh-TW": "分析儀表板在交易發生時，將即時銷售資料串流傳送到主管樓層。"
           }
         }
       ],
       "synonyms": [
         "brook",
-        "creek"
+        "flow",
+        "broadcast"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "trickle",
+        "drip"
+      ],
       "phrases": [
-        "small",
-        "stream",
-        "fast-flowing",
-        "stream"
+        "stream of consciousness",
+        "live stream",
+        "data stream",
+        "main stream"
       ]
     }
   ]
