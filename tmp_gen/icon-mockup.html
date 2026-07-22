@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Icon Variant Mockup — Toeic 單字網站</title>
+<style>
+  :root {
+    --blue: #3b82f6;
+    --gold: #fbbf24;
+    --ink: #1e293b;
+    --bg: #f8fafc;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, "Segoe UI", "Noto Sans TC", system-ui, sans-serif;
+    background: var(--bg);
+    color: var(--ink);
+    padding: 32px 24px 80px;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  h1 {
+    font-size: 22px;
+    letter-spacing: -0.01em;
+    margin-bottom: 4px;
+  }
+  .subtle {
+    font-size: 13px;
+    color: #64748b;
+    margin-bottom: 28px;
+  }
+  .variants {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 18px;
+    margin-bottom: 36px;
+  }
+  .card {
+    background: white;
+    border: 1px solid #e2e8f0;
+    border-radius: 16px;
+    padding: 20px;
+  }
+  .card h2 {
+    font-size: 14px;
+    font-weight: 600;
+    margin: 14px 0 4px;
+  }
+  .card .desc {
+    font-size: 12px;
+    color: #64748b;
+    margin-bottom: 14px;
+    line-height: 1.5;
+  }
+  .icon-row {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    margin-bottom: 14px;
+  }
+  .icon-box {
+    background: #f1f5f9;
+    border-radius: 12px;
+    width: 96px; height: 96px;
+    display: flex; align-items: center; justify-content: center;
+    flex-shrink: 0;
+  }
+  .icon-box.large { width: 128px; height: 128px; border-radius: 22px; }
+  .icon-box svg { display: block; }
+  .label {
+    font-size: 11px;
+    color: #94a3b8;
+    margin-bottom: 4px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  .name-pick {
+    margin-top: 24px;
+  }
+  .name-pick h3 { font-size: 14px; margin-bottom: 10px; }
+  .names {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+  .name-card {
+    border: 1px solid #e2e8f0;
+    border-radius: 10px;
+    padding: 12px 14px;
+    background: white;
+    font-size: 14px;
+  }
+  .name-card strong { display: block; font-weight: 600; margin-bottom: 2px; }
+  .name-card .meta { font-size: 11px; color: #64748b; }
+  .pick-guide {
+    margin-top: 32px;
+    padding: 16px;
+    background: #fefce8;
+    border: 1px solid #fde047;
+    border-radius: 10px;
+    font-size: 13px;
+    line-height: 1.7;
+  }
+  .pick-guide strong { color: #854d0e; }
+</style>
+</head>
+<body>
+  <h1>Icon & 名稱 變體對照</h1>
+  <div class="subtle">三種 icon 風格＋四個名稱提案。請瀏覽後挑一個或告訴我組合。</div>
+
+  <!-- ICONS -->
+  <h2 style="font-size:16px;margin-bottom:14px;">Icon 變體（128 / 96 px）</h2>
+  <div class="variants">
+
+    <!-- VARIANT 1 -->
+    <div class="card">
+      <h2>V1. 經典 E + 9K 徽章</h2>
+      <div class="desc">沿用現有 favicon 風格，藍底 + 白 E + 金徽章。安全感、零變動風險。</div>
+      <div class="icon-row">
+        <div class="icon-box">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="80" height="80">
+            <rect width="64" height="64" rx="14" fill="#3b82f6"/>
+            <text x="32" y="42" text-anchor="middle" font-size="36" font-weight="bold" fill="white"
+                  font-family="Arial, sans-serif" letter-spacing="-2">E</text>
+            <circle cx="48" cy="20" r="6" fill="#fbbf24"/>
+            <text x="48" y="24" text-anchor="middle" font-size="7" font-weight="bold" fill="#1e3a8a"
+                  font-family="Arial, sans-serif">9K</text>
+          </svg>
+        </div>
+      </div>
+      <div class="icon-row">
+        <div class="icon-box large">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="112" height="112">
+            <rect width="64" height="64" rx="14" fill="#3b82f6"/>
+            <text x="32" y="42" text-anchor="middle" font-size="36" font-weight="bold" fill="white"
+                  font-family="Arial, sans-serif" letter-spacing="-2">E</text>
+            <circle cx="48" cy="20" r="6" fill="#fbbf24"/>
+            <text x="48" y="24" text-anchor="middle" font-size="7" font-weight="bold" fill="#1e3a8a"
+                  font-family="Arial, sans-serif">9K</text>
+          </svg>
+        </div>
+      </div>
+    </div>
+
+    <!-- VARIANT 2 -->
+    <div class="card">
+      <h2>V2. ABC 字母磚</h2>
+      <div class="desc">三色字母磚 ABC，學語言直覺。具現代感、辨識度高，跟 Vercel/Coursera 同類 App 排起來不衝突。</div>
+      <div class="icon-row">
+        <div class="icon-box">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="80" height="80">
+            <rect width="64" height="64" rx="14" fill="#0f172a"/>
+            <rect x="9"  y="14" width="14" height="36" rx="3" fill="#ef4444"/>
+            <rect x="25" y="14" width="14" height="36" rx="3" fill="#fbbf24"/>
+            <rect x="41" y="14" width="14" height="36" rx="3" fill="#3b82f6"/>
+            <text x="16" y="38" text-anchor="middle" font-size="13" font-weight="bold" fill="white" font-family="Arial">A</text>
+            <text x="32" y="38" text-anchor="middle" font-size="13" font-weight="bold" fill="white" font-family="Arial">B</text>
+            <text x="48" y="38" text-anchor="middle" font-size="13" font-weight="bold" fill="white" font-family="Arial">C</text>
+          </svg>
+        </div>
+      </div>
+      <div class="icon-row">
+        <div class="icon-box large">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="112" height="112">
+            <rect width="64" height="64" rx="14" fill="#0f172a"/>
+            <rect x="9"  y="14" width="14" height="36" rx="3" fill="#ef4444"/>
+            <rect x="25" y="14" width="14" height="36" rx="3" fill="#fbbf24"/>
+            <rect x="41" y="14" width="14" height="36" rx="3" fill="#3b82f6"/>
+            <text x="16" y="38" text-anchor="middle" font-size="13" font-weight="bold" fill="white" font-family="Arial">A</text>
+            <text x="32" y="38" text-anchor="middle" font-size="13" font-weight="bold" fill="white" font-family="Arial">B</text>
+            <text x="48" y="38" text-anchor="middle" font-size="13" font-weight="bold" fill="white" font-family="Arial">C</text>
+          </svg>
+        </div>
+      </div>
+    </div>
+
+    <!-- VARIANT 3 -->
+    <div class="card">
+      <h2>V3. 書 + T 字品牌徽章</h2>
+      <div class="desc">學術書本 + 大 T(Toeic)。專業、考試暗示強。明暗都有戲。</div>
+      <div class="icon-row">
+        <div class="icon-box">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="80" height="80">
+            <rect width="64" height="64" rx="14" fill="#3b82f6"/>
+            <!-- 書背 -->
+            <rect x="14" y="13" width="22" height="38" rx="2" fill="white"/>
+            <line x1="25" y1="20" x2="25" y2="44" stroke="#3b82f6" stroke-width="1.5"/>
+            <!-- T -->
+            <text x="46" y="42" text-anchor="middle" font-size="28" font-weight="bold" fill="white"
+                  font-family="Georgia, serif">T</text>
+            <!-- 金點 -->
+            <circle cx="50" cy="16" r="4" fill="#fbbf24"/>
+          </svg>
+        </div>
+      </div>
+      <div class="icon-row">
+        <div class="icon-box large">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="112" height="112">
+            <rect width="64" height="64" rx="14" fill="#3b82f6"/>
+            <rect x="14" y="13" width="22" height="38" rx="2" fill="white"/>
+            <line x1="25" y1="20" x2="25" y2="44" stroke="#3b82f6" stroke-width="1.5"/>
+            <text x="46" y="42" text-anchor="middle" font-size="28" font-weight="bold" fill="white"
+                  font-family="Georgia, serif">T</text>
+            <circle cx="50" cy="16" r="4" fill="#fbbf24"/>
+          </svg>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- NAMES -->
+  <h2 style="font-size:16px;margin-bottom:10px;">名稱提案</h2>
+  <div class="names">
+    <div class="name-card">
+      <strong>多益單字寶盒</strong>
+      <span class="meta">short: 多益寶盒</span>
+    </div>
+    <div class="name-card">
+      <strong>多益 9000</strong>
+      <span class="meta">short: 多益9000</span>
+    </div>
+    <div class="name-card">
+      <strong>單字多寶格</strong>
+      <span class="meta">short: 多寶格</span>
+    </div>
+    <div class="name-card">
+      <strong>ToeicLab</strong>
+      <span class="meta">short: ToeicLab</span>
+    </div>
+  </div>
+
+  <div class="pick-guide">
+    <strong>怎麼挑：</strong>
+    <ul style="margin-top:6px; padding-left:18px;">
+      <li>主畫面 icon 上只能顯示 short_name (約 6 字以下易讀) — 太長會被截斷</li>
+      <li>Play Store / App Store 搜尋：用戶輸入「多益」找得到比較重要</li>
+      <li>manifest 的 name 欄是全名；只要用戶在「設定 → 加入主畫面」看得到</li>
+    </ul>
+  </div>
+</body>
+</html>

@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 255,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-255-001",
@@ -14,42 +14,54 @@
         "modal",
         "verb"
       ],
-      "conjugations": {
-        "past_tense": "shalled",
-        "past_participle": "shalled",
-        "present_participle": "shalling",
-        "third_person": "shalls"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "shall",
-          "definition": "aux. 将"
+          "definition": "aux. 將要、會（用於第一人稱表示未來）；應當、必須（表示命令或義務）"
         }
       ],
       "examples": [
         {
-          "en": "I shall return by evening.",
+          "en": "I shall present the quarterly report at tomorrow's meeting.",
           "highlight": [
             "shall"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我將在明天的會議上報告季度業績。"
+          }
+        },
+        {
+          "en": "Shall we proceed with the contract without further delay?",
+          "highlight": [
+            "Shall"
+          ],
+          "translations": {
+            "zh-TW": "我們是否應該不再拖延，直接進行合約簽署？"
+          }
+        },
+        {
+          "en": "The employee shall complete the training program within thirty days of hire.",
+          "highlight": [
+            "shall"
+          ],
+          "translations": {
+            "zh-TW": "員工應在受僱三十天內完成培訓課程。"
           }
         }
       ],
       "synonyms": [
         "will",
-        "should"
+        "should",
+        "must"
       ],
       "antonyms": [],
       "phrases": [
-        "shall",
-        "we",
-        "we",
-        "shall",
-        "see"
+        "shall we",
+        "shall not",
+        "shall return"
       ]
     },
     {
@@ -64,40 +76,60 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "shallows"
+        "plural": "shallows",
+        "comparative": "shallower",
+        "superlative": "shallowest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "shallow",
-          "definition": "n. 水浅的地方, 浅滩, a. 浅的, 肤浅的, v. (使)变浅"
+          "definition": "adj. 淺的、膚淺的  n. 淺灘、淺水處"
         }
       ],
       "examples": [
         {
-          "en": "The water was too shallow for diving.",
+          "en": "The shallow end of the pool is perfect for beginners.",
           "highlight": [
             "shallow"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "泳池的淺水區非常適合初學者。"
+          }
+        },
+        {
+          "en": "Her criticism grew shallower as the argument continued.",
+          "highlight": [
+            "shallower"
+          ],
+          "translations": {
+            "zh-TW": "隨著爭論持續，她的批評變得更加膚淺。"
+          }
+        },
+        {
+          "en": "The ship ran aground in the shallows near the harbour.",
+          "highlight": [
+            "shallows"
+          ],
+          "translations": {
+            "zh-TW": "船隻在港口附近的淺灘擱淺了。"
           }
         }
       ],
       "synonyms": [
         "superficial",
-        "slight"
+        "slight",
+        "surface"
       ],
       "antonyms": [
         "deep",
         "profound"
       ],
       "phrases": [
-        "shallow",
-        "water",
-        "shallow",
-        "end"
+        "shallow water",
+        "shallow end",
+        "shallow breathing"
       ]
     },
     {
@@ -112,44 +144,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "shameed",
-        "past_participle": "shameed",
-        "present_participle": "shaming",
-        "third_person": "shames"
+        "plural": "shames",
+        "present_3rd": "shames",
+        "past": "shamed",
+        "past_participle": "shamed",
+        "ing": "shaming"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "shame",
-          "definition": "n. 羞耻, 羞愧, 耻辱, vt. 使羞愧, 侮辱"
+          "definition": "n. 羞恥、恥辱、遺憾  v. 使羞愧、使丟臉"
         }
       ],
       "examples": [
         {
-          "en": "She felt a deep sense of shame.",
+          "en": "He felt deep shame after failing the client presentation.",
           "highlight": [
             "shame"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他在搞砸客戶簡報後感到深深的羞愧。"
+          }
+        },
+        {
+          "en": "The scandal shamed the company into revising its ethics policy.",
+          "highlight": [
+            "shamed"
+          ],
+          "translations": {
+            "zh-TW": "這樁醜聞使公司羞愧到修訂其道德政策。"
+          }
+        },
+        {
+          "en": "Such shaming tactics in the workplace can lead to serious legal issues.",
+          "highlight": [
+            "shaming"
+          ],
+          "translations": {
+            "zh-TW": "職場中這種羞辱手段可能引發嚴重的法律問題。"
           }
         }
       ],
       "synonyms": [
         "humiliation",
-        "embarrassment"
+        "embarrassment",
+        "disgrace"
       ],
       "antonyms": [
         "pride",
-        "confidence"
+        "honor"
       ],
       "phrases": [
-        "sense",
-        "of",
-        "shame",
-        "feel",
-        "shame"
+        "sense of shame",
+        "what a shame",
+        "shame on you"
       ]
     },
     {
@@ -164,40 +214,59 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "shapeed",
-        "past_participle": "shapeed",
-        "present_participle": "shaping",
-        "third_person": "shapes"
+        "plural": "shapes",
+        "present_3rd": "shapes",
+        "past": "shaped",
+        "past_participle": "shaped",
+        "ing": "shaping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "shape",
-          "definition": "n. 形状, 形态, 外形, 形式, 身材, vt. 定形, 使成形, 塑造, 计划, 使符合, vi. 成形, 形成, 成長, [计] 形状"
+          "definition": "n. 形狀、外形、狀態  v. 塑造、成形、影響"
         }
       ],
       "examples": [
         {
-          "en": "The shape of the object was unusual.",
+          "en": "The unusual shape of the bottle made it stand out on the shelf.",
           "highlight": [
             "shape"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "瓶子獨特的形狀讓它在貨架上格外顯眼。"
+          }
+        },
+        {
+          "en": "The new CEO shaped the company's strategy within her first hundred days.",
+          "highlight": [
+            "shaped"
+          ],
+          "translations": {
+            "zh-TW": "新任執行長在上任百天內就塑造了公司的策略。"
+          }
+        },
+        {
+          "en": "Early experiences are shaping a child's future attitudes toward money.",
+          "highlight": [
+            "shaping"
+          ],
+          "translations": {
+            "zh-TW": "早期經驗正在塑造孩子未來對金錢的態度。"
           }
         }
       ],
       "synonyms": [
         "form",
-        "outline"
+        "outline",
+        "figure"
       ],
       "antonyms": [],
       "phrases": [
-        "shape",
-        "of",
-        "change",
-        "shape"
+        "in good shape",
+        "take shape",
+        "shape up"
       ]
     },
     {
@@ -211,42 +280,57 @@
         "adjective",
         "verb"
       ],
-      "conjugations": {
-        "past_tense": "shapeded",
-        "past_participle": "shapeded",
-        "present_participle": "shapeding",
-        "third_person": "shapeds"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "shaped",
-          "definition": "a. 成某種形状的, 制成一定形状的, 有某種形状的, 合适的, 计划好的, 有目标的, [医] 具形的, 形似的"
+          "definition": "adj. 成某種形狀的、經過塑造的  v. shape 的過去式及過去分詞"
         }
       ],
       "examples": [
         {
-          "en": "The cookies were shaped like stars.",
+          "en": "She presented a well-shaped proposal to the board of directors.",
+          "highlight": [
+            "well-shaped"
+          ],
+          "translations": {
+            "zh-TW": "她向董事會提交了一份架構完善的提案。"
+          }
+        },
+        {
+          "en": "The dough was shaped into small rolls before baking.",
           "highlight": [
             "shaped"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "麵團在烘焙前被塑成小圓麵包的形狀。"
+          }
+        },
+        {
+          "en": "Oddly shaped packages require extra postage for international shipping.",
+          "highlight": [
+            "Oddly shaped"
+          ],
+          "translations": {
+            "zh-TW": "形狀奇特的包裹在國際運送時需要外加郵資。"
           }
         }
       ],
       "synonyms": [
         "formed",
-        "structured"
+        "structured",
+        "molded"
       ],
       "antonyms": [
-        "amorphous"
+        "amorphous",
+        "shapeless"
       ],
       "phrases": [
-        "well-shaped",
-        "oddly",
-        "shaped"
+        "oddly shaped",
+        "pear shaped",
+        "well shaped"
       ]
     },
     {
@@ -261,44 +345,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "shareed",
-        "past_participle": "shareed",
-        "present_participle": "sharing",
-        "third_person": "shares"
+        "plural": "shares",
+        "present_3rd": "shares",
+        "past": "shared",
+        "past_participle": "shared",
+        "ing": "sharing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "share",
-          "definition": "n. 部分, 参與, 一份, 参股, 份额, vt. 均分, 分担, 分享, 分配, 共有, vi. 分享, [计] 共享; DOS外部命令:在网络或多工系统中提供文件共享, 文件锁定及检测磁盘更動和對超過32MB硬盘分區的支持"
+          "definition": "n. 份額、股份、分担  v. 分享、分担、共有"
         }
       ],
       "examples": [
         {
-          "en": "He took his share of the profits.",
+          "en": "Each partner will receive an equal share of the profits.",
           "highlight": [
             "share"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "每位合夥人將獲得等額的利潤分成。"
+          }
+        },
+        {
+          "en": "The two companies shared the cost of developing the new software.",
+          "highlight": [
+            "shared"
+          ],
+          "translations": {
+            "zh-TW": "兩家公司共同分擔了開發新軟體的成本。"
+          }
+        },
+        {
+          "en": "Sharing confidential information with competitors is strictly prohibited.",
+          "highlight": [
+            "Sharing"
+          ],
+          "translations": {
+            "zh-TW": "將機密資訊分享給競爭對手是嚴格禁止的。"
           }
         }
       ],
       "synonyms": [
         "portion",
-        "part"
+        "part",
+        "divide"
       ],
       "antonyms": [
-        "whole",
-        "entirety"
+        "keep",
+        "monopolize"
       ],
       "phrases": [
-        "share",
-        "a",
-        "room",
-        "share",
-        "information"
+        "share price",
+        "market share",
+        "share with"
       ]
     },
     {
@@ -313,40 +415,60 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "sharps"
+        "plural": "sharps",
+        "comparative": "sharper",
+        "superlative": "sharpest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sharp",
-          "definition": "n. 半升音调, 利刃, 骗子, a. 锋利的, 明顯的, 敏锐的, 急剧的, 尖刻的, 严厉的, 刺耳的, 精明的, adv. 锐利地, 急速地"
+          "definition": "adj. 鋒利的、敏銳的、急劇的、刺耳的  n. 利刃、升音記號"
         }
       ],
       "examples": [
         {
-          "en": "The knife was very sharp.",
+          "en": "Use a sharp knife to cut the fabric cleanly.",
           "highlight": [
             "sharp"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "使用鋒利的刀來俐落地裁剪布料。"
+          }
+        },
+        {
+          "en": "Her sharpest criticism was directed at the accounting department.",
+          "highlight": [
+            "sharpest"
+          ],
+          "translations": {
+            "zh-TW": "她最嚴厲的批評指向了會計部門。"
+          }
+        },
+        {
+          "en": "Profit margins grew sharper than analysts had predicted.",
+          "highlight": [
+            "sharper"
+          ],
+          "translations": {
+            "zh-TW": "利潤率的成長比分析師預測的還要急劇。"
           }
         }
       ],
       "synonyms": [
         "keen",
-        "pointed"
+        "pointed",
+        "acute"
       ],
       "antonyms": [
         "dull",
         "blunt"
       ],
       "phrases": [
-        "sharp",
-        "edge",
-        "sharp",
-        "knife"
+        "sharp rise",
+        "sharp turn",
+        "sharp tongue"
       ]
     },
     {
@@ -365,33 +487,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "sharply",
-          "definition": "adv. 锐利地, 严厉地, 厉害地, [經] 剧烈地"
+          "definition": "adv. 急劇地、嚴厲地、敏銳地"
         }
       ],
       "examples": [
         {
-          "en": "The prices rose sharply.",
+          "en": "Oil prices fell sharply after the new reserves were discovered.",
           "highlight": [
             "sharply"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新油田被發現後，油價急劇下跌。"
+          }
+        },
+        {
+          "en": "The manager responded sharply to the employee's repeated mistakes.",
+          "highlight": [
+            "sharply"
+          ],
+          "translations": {
+            "zh-TW": "經理對員工屢次犯錯做出了嚴厲的回應。"
+          }
+        },
+        {
+          "en": "Sales rose sharply in the third quarter, surprising investors.",
+          "highlight": [
+            "sharply"
+          ],
+          "translations": {
+            "zh-TW": "第三季銷售額急劇上升，令投資人意外。"
           }
         }
       ],
       "synonyms": [
         "suddenly",
-        "steeply"
+        "steeply",
+        "abruptly"
       ],
       "antonyms": [
         "gradually",
         "slowly"
       ],
       "phrases": [
-        "sharply",
-        "rise",
-        "sharply",
-        "decline"
+        "sharply rise",
+        "sharply decline",
+        "sharply contrast"
       ]
     },
     {
@@ -406,45 +546,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "shaveed",
-        "past_participle": "shaveed",
-        "present_participle": "shaving",
-        "third_person": "shaves"
+        "plural": "shaves",
+        "present_3rd": "shaves",
+        "past": "shaved",
+        "past_participle": "shaved",
+        "ing": "shaving"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "shave",
-          "definition": "n. 修面, 刮胡子, 幸免, 剃刀, vt. 修面, 剃, 修剪, 掠過, vi. 刮脸, 勉强通過"
+          "definition": "v. 剃、刮（鬍鬚）、修剪  n. 剃鬚、修面"
         }
       ],
       "examples": [
         {
-          "en": "He shaves every morning.",
+          "en": "He shaves every morning before heading to the office.",
           "highlight": [
-            "shave"
+            "shaves"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他每天早上出門上班前都會刮鬍子。"
+          }
+        },
+        {
+          "en": "The barber shaved the groom's beard for the wedding ceremony.",
+          "highlight": [
+            "shaved"
+          ],
+          "translations": {
+            "zh-TW": "理髮師為新郎剃了鬍鬚以參加婚禮。"
+          }
+        },
+        {
+          "en": "Shaving costs can add up quickly when buying premium razors.",
+          "highlight": [
+            "Shaving"
+          ],
+          "translations": {
+            "zh-TW": "購買高級剃刀時，剃鬚成本會迅速累積。"
           }
         }
       ],
       "synonyms": [
         "trim",
-        "cut"
+        "cut",
+        "scrape"
       ],
       "antonyms": [
         "grow",
-        "let",
-        "grow"
+        "lengthen"
       ],
       "phrases": [
-        "shave",
-        "your",
-        "beard",
-        "shave",
-        "off"
+        "shave off",
+        "shave your beard",
+        "close shave"
       ]
     },
     {
@@ -468,28 +625,45 @@
       ],
       "examples": [
         {
-          "en": "She is a talented musician.",
+          "en": "She leads the marketing team with remarkable creativity.",
+          "highlight": [
+            "She"
+          ],
+          "translations": {
+            "zh-TW": "她以出色的創意領導行銷團隊。"
+          }
+        },
+        {
+          "en": "Did she confirm the reservation for the business luncheon?",
           "highlight": [
             "she"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她確認了商務午餐的訂位了嗎？"
+          }
+        },
+        {
+          "en": "The award was given to her, and she accepted with a brief speech.",
+          "highlight": [
+            "she"
+          ],
+          "translations": {
+            "zh-TW": "獎項頒給了她，她發表簡短的感言後接受。"
           }
         }
       ],
       "synonyms": [
-        "female",
-        "her"
+        "her",
+        "female"
       ],
       "antonyms": [
         "he",
         "him"
       ],
       "phrases": [
-        "she",
-        "said",
-        "she",
-        "is"
+        "she said",
+        "she is",
+        "she will"
       ]
     }
   ]
