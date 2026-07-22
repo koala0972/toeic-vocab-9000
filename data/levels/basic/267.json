@@ -14,39 +14,57 @@
         "adverb"
       ],
       "conjugations": {},
-      "domain": "general",
+      "domain": "time",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "soon",
-          "definition": "adv. 不久, 早, 快, 宁可"
+          "definition": "adv. 不久、很快、早"
         }
       ],
       "examples": [
         {
-          "en": "We will leave soon.",
+          "en": "The meeting will start soon, so please take your seats.",
           "highlight": [
             "soon"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "會議很快就要開始了，請各位就座。"
+          }
+        },
+        {
+          "en": "We hope to hear back from the client as soon as possible.",
+          "highlight": [
+            "soon"
+          ],
+          "translations": {
+            "zh-TW": "我們希望能盡快收到客戶的回覆。"
+          }
+        },
+        {
+          "en": "The sooner we submit the proposal, the better our chances.",
+          "highlight": [
+            "sooner"
+          ],
+          "translations": {
+            "zh-TW": "我們越早提交企劃書，機會就越大。"
           }
         }
       ],
       "synonyms": [
         "shortly",
-        "presently"
+        "presently",
+        "before long"
       ],
       "antonyms": [
         "later",
         "eventually"
       ],
       "phrases": [
-        "see",
-        "you",
-        "soon",
-        "come",
-        "soon"
+        "as soon as possible",
+        "see you soon",
+        "the sooner the better",
+        "soon after"
       ]
     },
     {
@@ -61,40 +79,61 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "sores"
+        "plural": "sores",
+        "comparative": "sorer",
+        "superlative": "sorest"
       },
-      "domain": "general",
+      "domain": "health",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sore",
-          "definition": "a. 悲伤的, 痛的, 引起痛苦的, n. 痛處, 溃疡, 疮"
+          "definition": "adj. 疼痛的、酸痛的  n. 痛處、瘡"
         }
       ],
       "examples": [
         {
-          "en": "His muscles are sore after the workout.",
+          "en": "My throat is sore, so I will see a doctor this afternoon.",
           "highlight": [
             "sore"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我的喉嚨很痛，所以今天下午我要去看醫生。"
+          }
+        },
+        {
+          "en": "After running the marathon, her legs were sorer than ever.",
+          "highlight": [
+            "sorer"
+          ],
+          "translations": {
+            "zh-TW": "跑完馬拉松之後，她的腿比以往任何時候都還要酸痛。"
+          }
+        },
+        {
+          "en": "The nurse cleaned the sores on his arm carefully.",
+          "highlight": [
+            "sores"
+          ],
+          "translations": {
+            "zh-TW": "護士仔細地清理他手臂上的傷口。"
           }
         }
       ],
       "synonyms": [
         "painful",
-        "aching"
+        "aching",
+        "tender"
       ],
       "antonyms": [
         "comfortable",
         "painless"
       ],
       "phrases": [
-        "sore",
-        "throat",
-        "sore",
-        "muscles"
+        "sore throat",
+        "sore muscles",
+        "sore loser",
+        "sore point"
       ]
     },
     {
@@ -105,47 +144,63 @@
       "toeic_score_min": 500,
       "word": "sorry",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "sorryed",
-        "past_participle": "sorryed",
-        "present_participle": "sorrying",
-        "third_person": "sorrys"
+        "comparative": "sorrier",
+        "superlative": "sorriest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sorry",
-          "definition": "a. 難過的, 悲哀的, 遗憾的"
+          "definition": "adj. 抱歉的、遺憾的、難過的"
         }
       ],
       "examples": [
         {
-          "en": "I am sorry for your loss.",
+          "en": "I am sorry for the delay in responding to your email.",
           "highlight": [
             "sorry"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "很抱歉延誤了回覆您的電子郵件。"
+          }
+        },
+        {
+          "en": "She felt sorrier about the mistake than anyone else on the team.",
+          "highlight": [
+            "sorrier"
+          ],
+          "translations": {
+            "zh-TW": "她對這個失誤比團隊中任何人都感到更抱歉。"
+          }
+        },
+        {
+          "en": "That was the sorriest excuse I have ever heard in a meeting.",
+          "highlight": [
+            "sorriest"
+          ],
+          "translations": {
+            "zh-TW": "那是我開會以來聽過最糟糕的藉口。"
           }
         }
       ],
       "synonyms": [
         "apologetic",
-        "regretful"
+        "regretful",
+        "remorseful"
       ],
       "antonyms": [
         "unapologetic",
         "indifferent"
       ],
       "phrases": [
-        "feel",
-        "sorry",
-        "so",
-        "sorry"
+        "I am sorry",
+        "feel sorry for",
+        "sorry to bother you",
+        "say sorry"
       ]
     },
     {
@@ -160,40 +215,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "sorted",
+        "plural": "sorts",
+        "present_3rd": "sorts",
+        "past": "sorted",
         "past_participle": "sorted",
-        "present_participle": "sorting",
-        "third_person": "sorts"
+        "ing": "sorting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sort",
-          "definition": "n. 種类, 方式, 品质, 态度, 举止, vt. 分类, 排序, 挑选, vi. 交往, 协调, [计] 排序; DOS外部命令:从标准输入设备接收数据, 整個数据输入完後, 對它以行為单位进行排序, 然後在标准输出设备上输出"
+          "definition": "n. 種類、類型  v. 分類、整理、排序"
         }
       ],
       "examples": [
         {
-          "en": "This is my favorite sort of music.",
+          "en": "This sort of feedback is exactly what we need to improve.",
           "highlight": [
             "sort"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這種類型的回饋正是我們改進所需要的。"
+          }
+        },
+        {
+          "en": "The librarian sorts the returned books by category every morning.",
+          "highlight": [
+            "sorts"
+          ],
+          "translations": {
+            "zh-TW": "圖書館員每天早上將歸還的書籍按類別分類。"
+          }
+        },
+        {
+          "en": "We sorted the applicants into three groups based on experience.",
+          "highlight": [
+            "sorted"
+          ],
+          "translations": {
+            "zh-TW": "我們根據經驗將應徵者分成三組。"
           }
         }
       ],
       "synonyms": [
         "type",
-        "kind"
+        "kind",
+        "category"
       ],
       "antonyms": [],
       "phrases": [
-        "all",
-        "sorts",
-        "sort",
-        "of"
+        "sort of",
+        "all sorts of",
+        "sort out",
+        "sort things out"
       ]
     },
     {
@@ -204,8 +279,7 @@
       "toeic_score_min": 500,
       "word": "soul",
       "pos": [
-        "noun",
-        "adjective"
+        "noun"
       ],
       "conjugations": {
         "plural": "souls"
@@ -215,33 +289,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "soul",
-          "definition": "n. 灵魂, 心灵, 精神, 精髓, 人, 化身, 典型, 鬼魂, a. 黑人的"
+          "definition": "n. 靈魂、心靈、精神、人"
         }
       ],
       "examples": [
         {
-          "en": "He believes in the soul's immortality.",
+          "en": "Many cultures believe the soul lives on after death.",
           "highlight": [
             "soul"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "許多文化相信靈魂在死後仍然存在。"
+          }
+        },
+        {
+          "en": "The charity aims to help lost souls find their way in life.",
+          "highlight": [
+            "souls"
+          ],
+          "translations": {
+            "zh-TW": "這個慈善機構的目標是幫助迷失的人找到人生的方向。"
+          }
+        },
+        {
+          "en": "He poured his soul into building the company from nothing.",
+          "highlight": [
+            "soul"
+          ],
+          "translations": {
+            "zh-TW": "他傾注全部心血，將公司從無到有建立起來。"
           }
         }
       ],
       "synonyms": [
         "spirit",
-        "essence"
+        "essence",
+        "heart"
       ],
       "antonyms": [
         "body",
         "flesh"
       ],
       "phrases": [
-        "soul",
-        "mate",
-        "soul",
-        "searching"
+        "soul mate",
+        "soul searching",
+        "pour one's soul into",
+        "kindred soul"
       ]
     },
     {
@@ -253,47 +346,66 @@
       "word": "sound",
       "pos": [
         "noun",
-        "verb"
+        "verb",
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "sounded",
+        "present_3rd": "sounds",
+        "past": "sounded",
         "past_participle": "sounded",
-        "present_participle": "sounding",
-        "third_person": "sounds"
+        "ing": "sounding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sound",
-          "definition": "n. 声音, 語音, 吵闹, 声调, 聽力范围, 探条, 海峡, a. 健全的, 可靠的, 合理的, 健康的, 彻底的, 资金充實的, adv. 彻底地, 充分地, vi. 發出声音, 回響, 测深, 试探, 聽起來, vt. 使發声, 宣告, 聽诊, 测...深, 试探, [计] 声音"
+          "definition": "n. 聲音  v. 聽起來、發出聲音  adj. 健全的、合理的、可靠的"
         }
       ],
       "examples": [
         {
-          "en": "She heard a strange sound.",
+          "en": "The sound of the alarm woke everyone in the office building.",
           "highlight": [
             "sound"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "警報的聲音把辦公大樓裡的所有人都吵醒了。"
+          }
+        },
+        {
+          "en": "The proposal sounded reasonable, so the board approved it.",
+          "highlight": [
+            "sounded"
+          ],
+          "translations": {
+            "zh-TW": "這項提案聽起來很合理，因此董事會批准了。"
+          }
+        },
+        {
+          "en": "Sounding confident in the interview helped her land the job.",
+          "highlight": [
+            "sounding"
+          ],
+          "translations": {
+            "zh-TW": "在面試中表現出充滿自信的樣子，幫助她獲得了這份工作。"
           }
         }
       ],
       "synonyms": [
         "noise",
-        "tone"
+        "tone",
+        "reliable"
       ],
       "antonyms": [
         "silence",
         "quiet"
       ],
       "phrases": [
-        "make",
-        "a",
-        "sound",
-        "loud",
-        "sound"
+        "sound like",
+        "make a sound",
+        "sound asleep",
+        "sound advice"
       ]
     },
     {
@@ -304,45 +416,59 @@
       "toeic_score_min": 500,
       "word": "soup",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "souped",
-        "past_participle": "souped",
-        "present_participle": "souping",
-        "third_person": "soups"
+        "plural": "soups"
       },
-      "domain": "general",
+      "domain": "food",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "soup",
-          "definition": "n. 汤, 馬力, vt. 加速, 增加馬力"
+          "definition": "n. 湯、羹湯"
         }
       ],
       "examples": [
         {
-          "en": "He made a pot of chicken soup.",
+          "en": "She ordered a bowl of chicken soup for lunch.",
           "highlight": [
             "soup"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她午餐點了一碗雞湯。"
+          }
+        },
+        {
+          "en": "The restaurant offers three different soups every day.",
+          "highlight": [
+            "soups"
+          ],
+          "translations": {
+            "zh-TW": "這家餐廳每天提供三種不同的湯品。"
+          }
+        },
+        {
+          "en": "Hot soup is the perfect comfort food on a cold winter day.",
+          "highlight": [
+            "soup"
+          ],
+          "translations": {
+            "zh-TW": "熱湯是寒冬裡最完美的療癒食物。"
           }
         }
       ],
       "synonyms": [
         "broth",
-        "chowder"
+        "chowder",
+        "bisque"
       ],
       "antonyms": [],
       "phrases": [
-        "bowl",
-        "of",
-        "soup",
-        "hot",
-        "soup"
+        "bowl of soup",
+        "chicken soup",
+        "soup of the day",
+        "from soup to nuts"
       ]
     },
     {
@@ -357,43 +483,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "sourceed",
-        "past_participle": "sourceed",
-        "present_participle": "sourcing",
-        "third_person": "sources"
+        "plural": "sources",
+        "present_3rd": "sources",
+        "past": "sourced",
+        "past_participle": "sourced",
+        "ing": "sourcing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "source",
-          "definition": "n. 來源, 水源, 根源, 原始资料, 源, [计] 來源, 源程序"
+          "definition": "n. 來源、出處、根源  v. 採購、尋找來源"
         }
       ],
       "examples": [
         {
-          "en": "The river is the main source of water for the village.",
+          "en": "The journalist did not reveal the source of the information.",
           "highlight": [
             "source"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "記者不願透露這則消息的來源。"
+          }
+        },
+        {
+          "en": "The company sources its materials from local suppliers.",
+          "highlight": [
+            "sources"
+          ],
+          "translations": {
+            "zh-TW": "這家公司從當地供應商採購原料。"
+          }
+        },
+        {
+          "en": "We sourced the parts overseas to reduce production costs.",
+          "highlight": [
+            "sourced"
+          ],
+          "translations": {
+            "zh-TW": "我們從海外採購零件以降低生產成本。"
           }
         }
       ],
       "synonyms": [
         "origin",
-        "basis"
+        "supplier",
+        "cause"
       ],
       "antonyms": [
         "end",
         "result"
       ],
       "phrases": [
-        "energy",
-        "source",
-        "reliable",
-        "source"
+        "energy source",
+        "reliable source",
+        "primary source",
+        "source of income"
       ]
     },
     {
@@ -405,39 +551,61 @@
       "word": "south",
       "pos": [
         "noun",
-        "adjective"
+        "adjective",
+        "adverb"
       ],
       "conjugations": {
         "plural": "souths"
       },
-      "domain": "general",
+      "domain": "geography",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "south",
-          "definition": "n. 南方, 南, a. 南的, 向南的, adv. 在南方, vi. 转向南方"
+          "definition": "n. 南方、南部  adj. 南方的  adv. 向南方"
         }
       ],
       "examples": [
         {
-          "en": "They traveled south for the winter.",
+          "en": "The company plans to expand its business to the south.",
           "highlight": [
             "south"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司計劃將業務擴展到南部地區。"
+          }
+        },
+        {
+          "en": "They drove twenty miles south to reach the new factory site.",
+          "highlight": [
+            "south"
+          ],
+          "translations": {
+            "zh-TW": "他們向南開了二十英里，抵達新工廠的所在地。"
+          }
+        },
+        {
+          "en": "South Korea and Japan are major trading partners in Asia.",
+          "highlight": [
+            "South"
+          ],
+          "translations": {
+            "zh-TW": "韓國和日本是亞洲的重要貿易夥伴。"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "southward",
+        "southern"
+      ],
       "antonyms": [
         "north"
       ],
       "phrases": [
-        "travel",
-        "south",
-        "head",
-        "south"
+        "head south",
+        "down south",
+        "South Korea",
+        "due south"
       ]
     },
     {
@@ -448,42 +616,58 @@
       "toeic_score_min": 500,
       "word": "southern",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "southerns"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "geography",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "southern",
-          "definition": "n. 南方人, 男風, a. 向南方的, 來自南方的"
+          "definition": "adj. 南方的、朝南的、來自南方的"
         }
       ],
       "examples": [
         {
-          "en": "The southern part of the country is warmer.",
+          "en": "The southern coast is famous for its beautiful beaches.",
           "highlight": [
             "southern"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "南部海岸以美麗的海灘聞名。"
+          }
+        },
+        {
+          "en": "Many tourists visit southern France during the summer.",
+          "highlight": [
+            "southern"
+          ],
+          "translations": {
+            "zh-TW": "許多觀光客在夏天前往法國南部旅遊。"
+          }
+        },
+        {
+          "en": "A southern accent can be charming and distinctive.",
+          "highlight": [
+            "southern"
+          ],
+          "translations": {
+            "zh-TW": "南方口音可以很迷人且獨具特色。"
           }
         }
       ],
       "synonyms": [
-        "southward"
+        "southward",
+        "southerly"
       ],
       "antonyms": [
         "northern"
       ],
       "phrases": [
-        "southern",
-        "region",
-        "southern",
-        "accent"
+        "southern region",
+        "southern accent",
+        "Southern Hemisphere",
+        "southern border"
       ]
     }
   ]
