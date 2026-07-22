@@ -15,40 +15,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "spaceed",
-        "past_participle": "spaceed",
-        "present_participle": "spacing",
-        "third_person": "spaces"
+        "plural": "spaces",
+        "present_3rd": "spaces",
+        "past": "spaced",
+        "past_participle": "spaced",
+        "ing": "spacing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "space",
-          "definition": "n. 位置, 空間, 距離, 太空, 空白, 間隔, (期刊等的)篇幅, vt. 隔开, 分隔, vi. 留間隔, [计] 空白, 空格校验"
+          "definition": "n. 空間、場所、空白、太空  v. 隔開、留間距"
         }
       ],
       "examples": [
         {
-          "en": "There was enough space for everyone.",
+          "en": "We need more space to store the inventory before year-end.",
           "highlight": [
             "space"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "年底前我們需要更多空間來存放庫存。"
+          }
+        },
+        {
+          "en": "The marketing team spaced out the product launches to avoid market overlap.",
+          "highlight": [
+            "spaced"
+          ],
+          "translations": {
+            "zh-TW": "行銷團隊將產品發表的間距拉開，以避免市場重疊。"
+          }
+        },
+        {
+          "en": "Spacing the chairs evenly made the conference room look more professional.",
+          "highlight": [
+            "Spacing"
+          ],
+          "translations": {
+            "zh-TW": "把椅子等距排列讓會議室看起來更專業。"
           }
         }
       ],
       "synonyms": [
+        "room",
         "area",
-        "room"
+        "gap"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "crowd",
+        "crowdedness"
+      ],
       "phrases": [
-        "open",
-        "space",
-        "living",
-        "space"
+        "office space",
+        "parking space",
+        "outer space",
+        "personal space"
       ]
     },
     {
@@ -60,43 +83,67 @@
       "word": "spare",
       "pos": [
         "adjective",
+        "verb",
         "noun"
       ],
       "conjugations": {
-        "plural": "spares"
+        "plural": "spares",
+        "present_3rd": "spares",
+        "past": "spared",
+        "past_participle": "spared",
+        "ing": "sparing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "spare",
-          "definition": "n. 剩余, 备用品, 备件, 备用零件, 备用轮胎, a. 多余的, 备用的, 空闲的, 节约的, 瘦的, vi. 节约, 省掉, 宽恕, vt. 节约, 省用, 剩下, 饶恕, 赦免"
+          "definition": "a. 備用的、多餘的、空閒的  v. 撥出、省去、饒恕  n. 備用品"
         }
       ],
       "examples": [
         {
-          "en": "He keeps a spare key under the mat.",
+          "en": "She always keeps a spare battery in her laptop bag during business trips.",
           "highlight": [
             "spare"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "出差時她總會在筆電包裡放一顆備用電池。"
+          }
+        },
+        {
+          "en": "The manager spared two employees from the night shift to save payroll costs.",
+          "highlight": [
+            "spared"
+          ],
+          "translations": {
+            "zh-TW": "主管讓兩位員工免上夜班，以節省人事成本。"
+          }
+        },
+        {
+          "en": "Sparing no expense on the client dinner impressed the visiting executives.",
+          "highlight": [
+            "Sparing"
+          ],
+          "translations": {
+            "zh-TW": "在客戶晚宴上不惜成本，讓來訪的高階主管印象深刻。"
           }
         }
       ],
       "synonyms": [
         "extra",
-        "backup"
+        "additional",
+        "reserve"
       ],
       "antonyms": [
         "necessary",
-        "needed"
+        "essential"
       ],
       "phrases": [
-        "spare",
-        "time",
-        "spare",
-        "parts"
+        "spare time",
+        "spare parts",
+        "spare tire",
+        "spare no effort"
       ]
     },
     {
@@ -107,47 +154,65 @@
       "toeic_score_min": 500,
       "word": "speak",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "speaked",
-        "past_participle": "speaked",
-        "present_participle": "speaking",
-        "third_person": "speaks"
+        "present_3rd": "speaks",
+        "past": "spoke",
+        "past_participle": "spoken",
+        "ing": "speaking"
       },
-      "domain": "general",
+      "domain": "communication",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "speak",
-          "definition": "vi. 說, 說话, 演說, 發言, vt. 說, 讲, 說出"
+          "definition": "v. 說話、發言、演講、表示意見"
         }
       ],
       "examples": [
         {
-          "en": "She spoke to the manager.",
+          "en": "She speaks three languages fluently, which helps her negotiate with overseas clients.",
           "highlight": [
-            "speak"
+            "speaks"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她流利地說三種語言，這有助於她與海外客戶談判。"
+          }
+        },
+        {
+          "en": "The lawyer spoke on behalf of the defendant during the hearing.",
+          "highlight": [
+            "spoke"
+          ],
+          "translations": {
+            "zh-TW": "律師在聽證會上代表被告發言。"
+          }
+        },
+        {
+          "en": "Having spoken with the supplier, I can confirm delivery will be on schedule.",
+          "highlight": [
+            "spoken"
+          ],
+          "translations": {
+            "zh-TW": "我已與供應商談過，可以確認交貨會準時。"
           }
         }
       ],
       "synonyms": [
         "talk",
-        "converse"
+        "converse",
+        "communicate"
       ],
       "antonyms": [
         "listen",
         "silence"
       ],
       "phrases": [
-        "speak",
-        "clearly",
-        "speak",
-        "loudly"
+        "speak up",
+        "speak out",
+        "so to speak",
+        "speak one's mind"
       ]
     },
     {
@@ -158,47 +223,62 @@
       "toeic_score_min": 500,
       "word": "speaker",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "speakered",
-        "past_participle": "speakered",
-        "present_participle": "speakering",
-        "third_person": "speakers"
+        "plural": "speakers"
       },
-      "domain": "general",
+      "domain": "communication",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "speaker",
-          "definition": "n. 說话人, 讲演者, 發言人, 喇叭, 扬声器, [计] 扬声器"
+          "definition": "n. 演講者、發言人、擴音器、喇叭"
         }
       ],
       "examples": [
         {
-          "en": "The speaker gave an inspiring speech.",
+          "en": "The keynote speaker opened the annual sales conference with an inspiring story.",
           "highlight": [
             "speaker"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "專題演講者以一段激勵人心的故事揭開年度業務會議的序幕。"
+          }
+        },
+        {
+          "en": "Several guest speakers were invited to share their industry insights at the forum.",
+          "highlight": [
+            "speakers"
+          ],
+          "translations": {
+            "zh-TW": "論壇邀請了多位客座講者分享產業見解。"
+          }
+        },
+        {
+          "en": "Turn up the volume on the speakerphone so everyone in the meeting room can hear.",
+          "highlight": [
+            "speaker"
+          ],
+          "translations": {
+            "zh-TW": "把擴音器的音量調大，讓會議室裡每個人都能聽見。"
           }
         }
       ],
       "synonyms": [
         "orator",
-        "lecturer"
+        "lecturer",
+        "presenter"
       ],
       "antonyms": [
-        "audience",
-        "listener"
+        "listener",
+        "audience"
       ],
       "phrases": [
-        "keynote",
-        "speaker",
-        "guest",
-        "speaker"
+        "guest speaker",
+        "keynote speaker",
+        "native speaker",
+        "loudspeaker"
       ]
     },
     {
@@ -220,33 +300,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "special",
-          "definition": "n. 专辑, 专車, 號外, 特别的东西, 负有特别任务的人員, a. 特别的, 专門的, 特殊的, 额外的, 附加的, 特别亲密的"
+          "definition": "a. 特別的、專門的、額外的  n. 特價品、特別節目"
         }
       ],
       "examples": [
         {
-          "en": "She has a special talent for music.",
+          "en": "The HR department prepared a special onboarding packet for new hires.",
           "highlight": [
             "special"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "人資部門為新進員工準備了專屬的入職資料包。"
+          }
+        },
+        {
+          "en": "Today's lunch special includes soup, a main course, and dessert for just eight dollars.",
+          "highlight": [
+            "special"
+          ],
+          "translations": {
+            "zh-TW": "今日午餐特餐包含湯、主菜和甜點，只要八美元。"
+          }
+        },
+        {
+          "en": "The hotel offers weekend specials to attract business travelers on leisure stays.",
+          "highlight": [
+            "specials"
+          ],
+          "translations": {
+            "zh-TW": "飯店推出週末特惠方案，以吸引商務旅客在休閒時段入住。"
           }
         }
       ],
       "synonyms": [
         "unique",
-        "particular"
+        "particular",
+        "exceptional"
       ],
       "antonyms": [
         "ordinary",
         "common"
       ],
       "phrases": [
-        "special",
-        "occasion",
-        "special",
-        "talent"
+        "special offer",
+        "special occasion",
+        "special delivery",
+        "special effect"
       ]
     },
     {
@@ -257,46 +356,61 @@
       "toeic_score_min": 500,
       "word": "species",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "speciesed",
-        "past_participle": "speciesed",
-        "present_participle": "speciesing",
-        "third_person": "specieses"
+        "plural": "species"
       },
-      "domain": "general",
+      "domain": "science",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "species",
-          "definition": "n. 種, 类, 外形, [医] 茶剂; 種"
+          "definition": "n. 物種、種類（生物分類基本單位）"
         }
       ],
       "examples": [
         {
-          "en": "There are many species of birds in the forest.",
+          "en": "This species of pine tree is native to the mountainous regions of Taiwan.",
           "highlight": [
             "species"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這個松樹物種原生於台灣山區。"
+          }
+        },
+        {
+          "en": "Scientists have identified several new species in the coral reef this year.",
+          "highlight": [
+            "species"
+          ],
+          "translations": {
+            "zh-TW": "科學家今年在珊瑚礁中確認了幾個新物種。"
+          }
+        },
+        {
+          "en": "Endangered species are protected under international trade agreements.",
+          "highlight": [
+            "species"
+          ],
+          "translations": {
+            "zh-TW": "瀕危物種受國際貿易協定保護。"
           }
         }
       ],
       "synonyms": [
-        "group",
-        "type"
+        "kind",
+        "type",
+        "variety"
       ],
       "antonyms": [
         "individual"
       ],
       "phrases": [
-        "endangered",
-        "species",
-        "different",
-        "species"
+        "endangered species",
+        "invasive species",
+        "native species",
+        "species diversity"
       ]
     },
     {
@@ -318,33 +432,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "specific",
-          "definition": "n. 特效药, 特性, a. 特殊的, 明确的, 具有特效的, 特定地, 具体地"
+          "definition": "a. 明確的、特定的、具體的  n. 細節、具體事項"
         }
       ],
       "examples": [
         {
-          "en": "He gave a specific answer to the question.",
+          "en": "Please provide a specific time frame for when the shipment will arrive.",
           "highlight": [
             "specific"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請提供貨物抵達的明確時間範圍。"
+          }
+        },
+        {
+          "en": "The contract outlines the specifics of the partnership in clause seven.",
+          "highlight": [
+            "specifics"
+          ],
+          "translations": {
+            "zh-TW": "合約第七條詳細列出合作關係的具體內容。"
+          }
+        },
+        {
+          "en": "Each department head is responsible for a specific set of tasks during the audit.",
+          "highlight": [
+            "specific"
+          ],
+          "translations": {
+            "zh-TW": "每位部門主管在稽核期間負責一組特定任務。"
           }
         }
       ],
       "synonyms": [
         "definite",
-        "particular"
+        "particular",
+        "precise"
       ],
       "antonyms": [
         "general",
         "vague"
       ],
       "phrases": [
-        "specific",
-        "details",
-        "specific",
-        "instructions"
+        "specific details",
+        "specific instructions",
+        "specific requirements",
+        "for a specific purpose"
       ]
     },
     {
@@ -355,48 +488,62 @@
       "toeic_score_min": 500,
       "word": "speech",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "speeched",
-        "past_participle": "speeched",
-        "present_participle": "speeching",
-        "third_person": "speechs"
+        "plural": "speeches"
       },
-      "domain": "general",
+      "domain": "communication",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "speech",
-          "definition": "n. 演讲, 說话, 谈话, 言語, 引語, 民族語言, [医] 言語, 語言"
+          "definition": "n. 演講、發言、言論、說話能力"
         }
       ],
       "examples": [
         {
-          "en": "He gave a wonderful speech.",
+          "en": "The CEO delivered a speech outlining the company's five-year strategy.",
           "highlight": [
             "speech"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "執行長發表演講，概述公司五年策略。"
+          }
+        },
+        {
+          "en": "Several guest speeches were scheduled after the awards ceremony.",
+          "highlight": [
+            "speeches"
+          ],
+          "translations": {
+            "zh-TW": "頒獎典禮後安排了幾場客座演講。"
+          }
+        },
+        {
+          "en": "Freedom of speech is protected by law in many democratic countries.",
+          "highlight": [
+            "speech"
+          ],
+          "translations": {
+            "zh-TW": "言論自由在許多民主國家受法律保障。"
           }
         }
       ],
       "synonyms": [
         "address",
-        "talk"
+        "talk",
+        "oration"
       ],
       "antonyms": [
         "silence",
-        "muteness"
+        "quiet"
       ],
       "phrases": [
-        "make",
-        "a",
-        "speech",
-        "speech",
-        "therapy"
+        "make a speech",
+        "freedom of speech",
+        "speech recognition",
+        "speech therapy"
       ]
     },
     {
@@ -411,43 +558,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "speeded",
-        "past_participle": "speeded",
-        "present_participle": "speeding",
-        "third_person": "speeds"
+        "plural": "speeds",
+        "present_3rd": "speeds",
+        "past": "sped",
+        "past_participle": "sped",
+        "ing": "speeding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "speed",
-          "definition": "n. 速率, 速度, 迅速, vi. 加速, 超速, 快进, vt. 快速传送, 促进, 使加速, [计] 中央處理机速度设置程序"
+          "definition": "n. 速度、速率、迅速  v. 加速、超速"
         }
       ],
       "examples": [
         {
-          "en": "The car was traveling at high speed.",
+          "en": "The new fiber-optic network offers download speeds up to one gigabit per second.",
           "highlight": [
-            "speed"
+            "speeds"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新的光纖網路提供每秒高達一吉比特的下載速度。"
+          }
+        },
+        {
+          "en": "The delivery driver sped through the highway to meet the deadline.",
+          "highlight": [
+            "sped"
+          ],
+          "translations": {
+            "zh-TW": "送貨司機在高速公路上加速行駛以趕上截止時間。"
+          }
+        },
+        {
+          "en": "Police fined him for speeding in a school zone during morning rush hour.",
+          "highlight": [
+            "speeding"
+          ],
+          "translations": {
+            "zh-TW": "警方在上班尖峰時間因他在學校區超速而開罰。"
           }
         }
       ],
       "synonyms": [
         "velocity",
-        "pace"
+        "pace",
+        "rate"
       ],
       "antonyms": [
         "slowness",
-        "sluggishness"
+        "delay"
       ],
       "phrases": [
-        "high",
-        "speed",
-        "speed",
-        "limit"
+        "speed limit",
+        "high-speed",
+        "speed up",
+        "at full speed"
       ]
     },
     {
@@ -462,41 +629,60 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "spelled",
+        "present_3rd": "spells",
+        "past": "spelled",
         "past_participle": "spelled",
-        "present_participle": "spelling",
-        "third_person": "spells"
+        "ing": "spelling",
+        "plural": "spells"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "spell",
-          "definition": "n. 符咒, 魅力, 轮值, 轮班, 工作時間, 一次發作, vt. 拼写, 拼成, 琢磨, 理解, 招致, 轮换, 迷住, vi. 轮换, 拼字"
+          "definition": "v. 拼寫、拼字、招致  n. 一段時間、咒語、輪班"
         }
       ],
       "examples": [
         {
-          "en": "She can spell her name correctly.",
+          "en": "Please spell your full name clearly when leaving a voicemail for the receptionist.",
           "highlight": [
             "spell"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在總機語音信箱留言時，請清楚拼出您的全名。"
+          }
+        },
+        {
+          "en": "The assistant spelled out the new policy changes word by word for the team.",
+          "highlight": [
+            "spelled"
+          ],
+          "translations": {
+            "zh-TW": "助理逐字向團隊解釋新政策變更的內容。"
+          }
+        },
+        {
+          "en": "Spelling errors in the contract could cause legal disputes later on.",
+          "highlight": [
+            "Spelling"
+          ],
+          "translations": {
+            "zh-TW": "合約中的拼字錯誤日後可能引發法律爭議。"
           }
         }
       ],
       "synonyms": [
         "write",
-        "letter"
+        "indicate",
+        "mean"
       ],
       "antonyms": [],
       "phrases": [
-        "spell",
-        "correctly",
-        "spell",
-        "a",
-        "word"
+        "spell out",
+        "spelling bee",
+        "spell check",
+        "a spell of bad weather"
       ]
     }
   ]
