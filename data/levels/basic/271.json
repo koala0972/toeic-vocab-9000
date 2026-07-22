@@ -15,40 +15,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "stageed",
-        "past_participle": "stageed",
-        "present_participle": "staging",
-        "third_person": "stages"
+        "plural": "stages",
+        "present_3rd": "stages",
+        "past": "staged",
+        "past_participle": "staged",
+        "ing": "staging"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "stage",
-          "definition": "n. 阶段, 舞台, 場所, 戏剧, 站, 驿站, 級, 层, 脚手架, vt. 上演, 表演, 筹划, vi. 适于上演, 乘驿車旅行"
+          "definition": "n. 階段、舞台、場所  v. 舉辦、上演、籌劃"
         }
       ],
       "examples": [
         {
-          "en": "The project is in its final stage.",
+          "en": "The project has entered its final stage of development.",
           "highlight": [
             "stage"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "專案已進入最終開發階段。"
+          }
+        },
+        {
+          "en": "The theater company staged a modern adaptation of Shakespeare's play.",
+          "highlight": [
+            "staged"
+          ],
+          "translations": {
+            "zh-TW": "劇團上演了莎士比亞戲劇的現代改編版。"
+          }
+        },
+        {
+          "en": "They are staging a charity concert to raise funds for the local hospital.",
+          "highlight": [
+            "staging"
+          ],
+          "translations": {
+            "zh-TW": "他們正在籌辦一場慈善音樂會，為當地醫院募款。"
           }
         }
       ],
       "synonyms": [
         "phase",
-        "step"
+        "step",
+        "platform"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "conclusion"
+      ],
       "phrases": [
-        "development",
-        "stage",
-        "early",
-        "stage"
+        "final stage",
+        "stage a play",
+        "set the stage",
+        "stage of development"
       ]
     },
     {
@@ -69,31 +91,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "stair",
-          "definition": "n. 梯級, 楼梯, 阶梯"
+          "definition": "n. 樓梯、階梯"
         }
       ],
       "examples": [
         {
-          "en": "She walked up the stairs.",
+          "en": "Each stair in the building is marked with a numbered tread for safety.",
           "highlight": [
             "stair"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "大樓裡的每個階梯都標有編號踏面以策安全。"
+          }
+        },
+        {
+          "en": "She tripped on the stairs while carrying a heavy box of files.",
+          "highlight": [
+            "stairs"
+          ],
+          "translations": {
+            "zh-TW": "她在搬一箱沉重的檔案時在樓梯上絆倒了。"
+          }
+        },
+        {
+          "en": "The emergency stairs must be kept clear at all times during office hours.",
+          "highlight": [
+            "stairs"
+          ],
+          "translations": {
+            "zh-TW": "上班時間緊急樓梯必須隨時保持淨空。"
           }
         }
       ],
       "synonyms": [
-        "steps",
-        "staircase"
+        "step",
+        "staircase",
+        "stairway"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "elevator"
+      ],
       "phrases": [
-        "climb",
-        "the",
-        "stairs",
-        "stair",
-        "railing"
+        "climb the stairs",
+        "go downstairs",
+        "stair railing",
+        "flight of stairs"
       ]
     },
     {
@@ -108,40 +150,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "stamped",
+        "plural": "stamps",
+        "present_3rd": "stamps",
+        "past": "stamped",
         "past_participle": "stamped",
-        "present_participle": "stamping",
-        "third_person": "stamps"
+        "ing": "stamping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "stamp",
-          "definition": "n. 印, 邮票, 打印器, 戳子, 图章, 印花税票, 标志, 特征, 类型, 跺脚, vt. 盖章于, 顿足, 贴上邮票, 铭刻, 捣碎, 扑灭, vi. 捣碎, 跺脚"
+          "definition": "n. 郵票、印章、印記  v. 蓋章、貼郵票、跺腳"
         }
       ],
       "examples": [
         {
-          "en": "He put a stamp on the envelope.",
+          "en": "Please attach a stamp to the envelope before sending the invoice.",
           "highlight": [
             "stamp"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "寄送發票前請在信封上貼上郵票。"
+          }
+        },
+        {
+          "en": "The officer stamped the passport and welcomed the passenger to the country.",
+          "highlight": [
+            "stamped"
+          ],
+          "translations": {
+            "zh-TW": "官員在護照上蓋了章，歡迎旅客來到該國。"
+          }
+        },
+        {
+          "en": "The machine is stamping product codes onto each package on the assembly line.",
+          "highlight": [
+            "stamping"
+          ],
+          "translations": {
+            "zh-TW": "機器正在將產品代碼蓋印到生產線上的每個包裝。"
           }
         }
       ],
       "synonyms": [
         "seal",
-        "sticker"
+        "postage",
+        "imprint"
       ],
       "antonyms": [],
       "phrases": [
-        "postage",
-        "stamp",
-        "stamp",
-        "collection"
+        "postage stamp",
+        "stamp collection",
+        "stamp of approval",
+        "rubber stamp"
       ]
     },
     {
@@ -156,43 +218,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "standed",
-        "past_participle": "standed",
-        "present_participle": "standing",
-        "third_person": "stands"
+        "plural": "stands",
+        "present_3rd": "stands",
+        "past": "stood",
+        "past_participle": "stood",
+        "ing": "standing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "stand",
-          "definition": "n. 站立, 站住, 停顿, 讲台, 看台, 立場, 法院证人席, vi. 站, 立, 坐落, 停滞, 位于, 坚持, 维持原状, vt. 忍受, 使站立, 抵挡"
+          "definition": "v. 站立、位於、忍受  n. 立場、攤位、看台"
         }
       ],
       "examples": [
         {
-          "en": "She stood in line.",
+          "en": "All employees must stand by the company's code of conduct.",
           "highlight": [
             "stand"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "所有員工都必須遵守公司的行為準則。"
+          }
+        },
+        {
+          "en": "She stood in line for nearly an hour to submit the application.",
+          "highlight": [
+            "stood"
+          ],
+          "translations": {
+            "zh-TW": "她排了近一個小時的隊才提交了申請。"
+          }
+        },
+        {
+          "en": "The manager standing by the entrance greeted each guest personally.",
+          "highlight": [
+            "standing"
+          ],
+          "translations": {
+            "zh-TW": "站在入口旁的經理親自迎接每一位賓客。"
           }
         }
       ],
       "synonyms": [
         "upright",
-        "position"
+        "position",
+        "stance"
       ],
       "antonyms": [
         "sit",
         "lie"
       ],
       "phrases": [
-        "stand",
-        "still",
-        "stand",
-        "up"
+        "stand by",
+        "stand for",
+        "stand out",
+        "stand still"
       ]
     },
     {
@@ -214,33 +296,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "standard",
-          "definition": "n. 标准, 规格, 旗, 军旗, 本位, a. 标准的, 合规格的, [计] 标准"
+          "definition": "n. 標準、規格  adj. 標準的、符合規格的"
         }
       ],
       "examples": [
         {
-          "en": "The equipment meets safety standards.",
+          "en": "Our quality control standard meets the international certification requirements.",
           "highlight": [
             "standard"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們的品管標準符合國際認證要求。"
+          }
+        },
+        {
+          "en": "All suppliers must maintain high standards throughout the production process.",
+          "highlight": [
+            "standards"
+          ],
+          "translations": {
+            "zh-TW": "所有供應商在生產過程中都必須保持高標準。"
+          }
+        },
+        {
+          "en": "The standard procedure requires a photocopy of the identification document.",
+          "highlight": [
+            "standard"
+          ],
+          "translations": {
+            "zh-TW": "標準程序要求附上身分證件的影本。"
           }
         }
       ],
       "synonyms": [
         "criterion",
-        "benchmark"
+        "benchmark",
+        "norm"
       ],
       "antonyms": [
         "substandard",
         "inferior"
       ],
       "phrases": [
-        "high",
-        "standard",
-        "quality",
-        "standard"
+        "high standard",
+        "standard procedure",
+        "meet standards",
+        "quality standard"
       ]
     },
     {
@@ -255,41 +356,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "stared",
-        "past_participle": "stared",
-        "present_participle": "staring",
-        "third_person": "stars"
+        "plural": "stars",
+        "present_3rd": "stars",
+        "past": "starred",
+        "past_participle": "starred",
+        "ing": "starring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "star",
-          "definition": "n. 星, 恒星, 星形物, 運气, 明星, vt. 以星状物装饰, 用星號标, 使成為明星, vi. 变成明星"
+          "definition": "n. 星星、明星、星形物  v. 主演、擔任主角"
         }
       ],
       "examples": [
         {
-          "en": "They saw a bright star in the sky.",
+          "en": "The restaurant received its first Michelin star last spring.",
           "highlight": [
             "star"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家餐廳去年春天獲得了第一顆米其林星。"
+          }
+        },
+        {
+          "en": "The film starred a young actor who had previously worked in theater.",
+          "highlight": [
+            "starred"
+          ],
+          "translations": {
+            "zh-TW": "這部電影由一位先前在劇場工作的年輕演員主演。"
+          }
+        },
+        {
+          "en": "She is currently starring in a popular television drama about lawyers.",
+          "highlight": [
+            "starring"
+          ],
+          "translations": {
+            "zh-TW": "她目前正在主演一部關於律師的熱門電視劇。"
           }
         }
       ],
       "synonyms": [
         "celestial",
-        "body",
-        "sun"
+        "lead",
+        "feature"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "extra"
+      ],
       "phrases": [
-        "shooting",
-        "star",
-        "film",
-        "star"
+        "film star",
+        "shooting star",
+        "star role",
+        "five-star hotel"
       ]
     },
     {
@@ -304,44 +426,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "started",
+        "plural": "starts",
+        "present_3rd": "starts",
+        "past": "started",
         "past_participle": "started",
-        "present_participle": "starting",
-        "third_person": "starts"
+        "ing": "starting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "start",
-          "definition": "n. 惊起, 出發, 开端, 起點, 吃惊, 有利条件, vi. 开始, 出發, 启動, 跳起, 吃惊, 出现, 松動, 脱落, 起价, 参赛, vt. 使惊起, 开動, 發動, 启動, 开始, 创办, 提議, 使松動, 使脱落, 起用, [计] 起始"
+          "definition": "v. 開始、出發、啟動  n. 開端、起點"
         }
       ],
       "examples": [
         {
-          "en": "He decided to start his own business.",
+          "en": "Please start the meeting once everyone has signed the attendance sheet.",
           "highlight": [
             "start"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "等大家都簽完出席表後，請開始會議。"
+          }
+        },
+        {
+          "en": "She started a small consulting firm with two colleagues last year.",
+          "highlight": [
+            "started"
+          ],
+          "translations": {
+            "zh-TW": "她去年和兩位同事一起創立了一家小型顧問公司。"
+          }
+        },
+        {
+          "en": "Starting a new job can be both exciting and a little intimidating.",
+          "highlight": [
+            "Starting"
+          ],
+          "translations": {
+            "zh-TW": "開始新工作既令人興奮，也帶點令人畏懼的感覺。"
           }
         }
       ],
       "synonyms": [
         "begin",
-        "commence"
+        "commence",
+        "launch"
       ],
       "antonyms": [
         "finish",
         "end"
       ],
       "phrases": [
-        "start",
-        "a",
-        "project",
-        "start",
-        "the"
+        "start a business",
+        "start off",
+        "fresh start",
+        "start time"
       ]
     },
     {
@@ -356,41 +497,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "stateed",
-        "past_participle": "stateed",
-        "present_participle": "stating",
-        "third_person": "states"
+        "plural": "states",
+        "present_3rd": "states",
+        "past": "stated",
+        "past_participle": "stated",
+        "ing": "stating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "state",
-          "definition": "n. 州, 状态, 情形, 國家, 政府, 领土, 國务, 社會地位, a. 國家的, 正式的, 礼仪用的, 州的, vt. 說明, 陈述, 规定, [计] 状态"
+          "definition": "n. 狀態、州、國家  v. 陳述、說明"
         }
       ],
       "examples": [
         {
-          "en": "The state of the economy is improving.",
+          "en": "The financial state of the company has improved over the last quarter.",
           "highlight": [
             "state"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司的財務狀況在過去一季有所改善。"
+          }
+        },
+        {
+          "en": "The contract clearly stated that all disputes would be resolved through arbitration.",
+          "highlight": [
+            "stated"
+          ],
+          "translations": {
+            "zh-TW": "合約明確說明所有爭議將透過仲裁解決。"
+          }
+        },
+        {
+          "en": "She was on the phone stating the reasons for the shipment delay to the client.",
+          "highlight": [
+            "stating"
+          ],
+          "translations": {
+            "zh-TW": "她正在電話中向客戶說明出貨延遲的原因。"
           }
         }
       ],
       "synonyms": [
         "condition",
-        "situation"
+        "situation",
+        "declare"
       ],
       "antonyms": [],
       "phrases": [
-        "state",
-        "of",
-        "mind",
-        "state",
-        "of"
+        "state of mind",
+        "state of affairs",
+        "state the facts",
+        "state-owned"
       ]
     },
     {
@@ -401,48 +561,62 @@
       "toeic_score_min": 500,
       "word": "statement",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "statemented",
-        "past_participle": "statemented",
-        "present_participle": "statementing",
-        "third_person": "statements"
+        "plural": "statements"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "statement",
-          "definition": "n. 陈述, 指令, 声明, [计] 程序語句; 語句"
+          "definition": "n. 聲明、陳述、結算單"
         }
       ],
       "examples": [
         {
-          "en": "Her statement was clear and concise.",
+          "en": "The CEO issued a statement addressing the recent merger rumors.",
           "highlight": [
             "statement"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "執行長發布了一份聲明，回應近期的併購傳聞。"
+          }
+        },
+        {
+          "en": "Please review the monthly bank statements before tax season begins.",
+          "highlight": [
+            "statements"
+          ],
+          "translations": {
+            "zh-TW": "報稅季開始前，請核對每月的銀行結算單。"
+          }
+        },
+        {
+          "en": "Making a clear statement during the press conference earned the company public trust.",
+          "highlight": [
+            "statement"
+          ],
+          "translations": {
+            "zh-TW": "在記者會上做出清楚的聲明為公司贏得了大眾的信任。"
           }
         }
       ],
       "synonyms": [
         "declaration",
-        "remark"
+        "announcement",
+        "report"
       ],
       "antonyms": [
         "question",
         "inquiry"
       ],
       "phrases": [
-        "make",
-        "a",
-        "statement",
-        "issue",
-        "a"
+        "make a statement",
+        "issue a statement",
+        "financial statement",
+        "bank statement"
       ]
     },
     {
@@ -457,40 +631,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "stationed",
+        "plural": "stations",
+        "present_3rd": "stations",
+        "past": "stationed",
         "past_participle": "stationed",
-        "present_participle": "stationing",
-        "third_person": "stations"
+        "ing": "stationing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "station",
-          "definition": "n. 車站, 站, 局, 驻地, 位置, 身分, 地位, vt. 安置, 配置, 驻扎, [计] 站"
+          "definition": "n. 車站、站、駐地  v. 安置、駐紮"
         }
       ],
       "examples": [
         {
-          "en": "The train arrived at the station.",
+          "en": "Please wait at the information station inside the terminal for assistance.",
           "highlight": [
             "station"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在航廈內的服務台等候協助。"
+          }
+        },
+        {
+          "en": "Security guards were stationed at every entrance throughout the conference.",
+          "highlight": [
+            "stationed"
+          ],
+          "translations": {
+            "zh-TW": "會議期間每個入口都派駐了警衛。"
+          }
+        },
+        {
+          "en": "They are stationing additional staff at the front desk during peak conference hours.",
+          "highlight": [
+            "stationing"
+          ],
+          "translations": {
+            "zh-TW": "他們正在會議尖峰時段於前台安排額外人手。"
           }
         }
       ],
       "synonyms": [
         "stop",
-        "terminal"
+        "terminal",
+        "depot"
       ],
       "antonyms": [],
       "phrases": [
-        "train",
-        "station",
-        "radio",
-        "station"
+        "train station",
+        "police station",
+        "gas station",
+        "radio station"
       ]
     }
   ]
