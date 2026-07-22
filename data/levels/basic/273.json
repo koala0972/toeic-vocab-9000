@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 273,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-273-001",
@@ -15,41 +15,61 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "steped",
-        "past_participle": "steped",
-        "present_participle": "steping",
-        "third_person": "steps"
+        "plural": "steps",
+        "present_3rd": "steps",
+        "past": "stepped",
+        "past_participle": "stepped",
+        "ing": "stepping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "step",
-          "definition": "n. 步骤, 步, 步幅, 脚步声, 踏級, 步伐, 短距離, 步态, 手段, 等級, vt. 踏, 以步测量, 跨步, 使成阶梯状, vi. 跨步, 輕快地走, 跳舞, 踩, 踏上, 行走, [计] 步骤"
+          "definition": "n. 腳步、步伐、步驟、階段  v. 跨步、行走、踩"
         }
       ],
       "examples": [
         {
-          "en": "He took a step forward.",
+          "en": "She took a confident step toward the podium to deliver her presentation.",
           "highlight": [
             "step"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她自信地邁步走向講台發表簡報。"
+          }
+        },
+        {
+          "en": "The manager stepped in to resolve the dispute between the two departments.",
+          "highlight": [
+            "stepped"
+          ],
+          "translations": {
+            "zh-TW": "經理介入解決了兩個部門之間的爭端。"
+          }
+        },
+        {
+          "en": "He is stepping down as CEO at the end of this fiscal year.",
+          "highlight": [
+            "stepping"
+          ],
+          "translations": {
+            "zh-TW": "他將在本會計年度結束時卸任執行長一職。"
           }
         }
       ],
       "synonyms": [
         "stride",
+        "pace",
         "stage"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "stop"
+      ],
       "phrases": [
-        "take",
-        "a",
-        "step",
-        "step",
-        "forward"
+        "step by step",
+        "step forward",
+        "step down"
       ]
     },
     {
@@ -64,43 +84,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "sticked",
-        "past_participle": "sticked",
-        "present_participle": "sticking",
-        "third_person": "sticks"
+        "plural": "sticks",
+        "present_3rd": "sticks",
+        "past": "stuck",
+        "past_participle": "stuck",
+        "ing": "sticking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "stick",
-          "definition": "n. 棍, 棒, 刺, 枯枝, 茎, 条状物, vt. 插进, 刺入, 钉住, 伸出, 粘贴, 停止, vi. 粘住, 停留, 坚持, 陷住, 伸出"
+          "definition": "n. 棍子、樹枝、條狀物  v. 黏住、堅持、卡住、伸出"
         }
       ],
       "examples": [
         {
-          "en": "He picked up a stick from the ground.",
+          "en": "The hockey player broke his stick during the final match.",
           "highlight": [
             "stick"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "曲棍球員在決賽中弄斷了他的球桿。"
+          }
+        },
+        {
+          "en": "The invoice stuck to the bottom of the box and was nearly overlooked.",
+          "highlight": [
+            "stuck"
+          ],
+          "translations": {
+            "zh-TW": "發票黏在箱子底部，差點被忽略。"
+          }
+        },
+        {
+          "en": "She is sticking to the original budget despite pressure from the board.",
+          "highlight": [
+            "sticking"
+          ],
+          "translations": {
+            "zh-TW": "儘管董事會施壓，她仍堅持原本的預算。"
           }
         }
       ],
       "synonyms": [
-        "twig",
-        "branch"
+        "adhere",
+        "cling",
+        "twig"
       ],
       "antonyms": [
-        "log",
-        "trunk"
+        "loosen",
+        "detach"
       ],
       "phrases": [
-        "walking",
-        "stick",
-        "glue",
-        "stick"
+        "stick to",
+        "stick out",
+        "stick with"
       ]
     },
     {
@@ -115,40 +154,61 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "stiffs"
+        "plural": "stiffs",
+        "comparative": "stiffer",
+        "superlative": "stiffest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "stiff",
-          "definition": "a. 坚硬的, 严厉的, 呆板的, 生硬的, 刚强的, 强烈的, 粘的, 稠的, 艰難的, n. 死尸, 醉鬼, 钞票, vt. 不肯付...小费"
+          "definition": "adj. 僵硬的、生硬的、困難的、嚴厲的  n. 死屍、小費"
         }
       ],
       "examples": [
         {
-          "en": "The clothes were stiff from drying in the sun.",
+          "en": "The new collar on his shirt felt stiff after the dry cleaning.",
           "highlight": [
             "stiff"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "乾洗後他襯衫的新領子摸起來很僵硬。"
+          }
+        },
+        {
+          "en": "The competition this year is stiffer than we initially expected.",
+          "highlight": [
+            "stiffer"
+          ],
+          "translations": {
+            "zh-TW": "今年的競爭比我們原先預期的更加激烈。"
+          }
+        },
+        {
+          "en": "The committee imposed the stiffest penalty allowed under company policy.",
+          "highlight": [
+            "stiffest"
+          ],
+          "translations": {
+            "zh-TW": "委員會依公司政策施加了最嚴厲的懲處。"
           }
         }
       ],
       "synonyms": [
         "rigid",
-        "inflexible"
+        "inflexible",
+        "firm"
       ],
       "antonyms": [
         "flexible",
-        "pliable"
+        "pliable",
+        "loose"
       ],
       "phrases": [
-        "stiff",
-        "neck",
-        "stiff",
-        "competition"
+        "stiff competition",
+        "stiff neck",
+        "stiff price"
       ]
     },
     {
@@ -171,33 +231,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "still",
-          "definition": "n. 蒸馏室, 寂静, 剧照, v. 蒸馏, (使)平静, (使)静止, a. 静止的, 不動的, 静寂的, 不起泡的, 静物摄影的, adv. 仍然, 更, 静止地, conj. 然而, 但是"
+          "definition": "adj. 靜止的、不動的、寂靜的  adv. 仍然、然而  n. 蒸餾器、劇照"
         }
       ],
       "examples": [
         {
-          "en": "The lake was still in the early morning.",
+          "en": "The office was still at seven in the morning before anyone arrived.",
           "highlight": [
             "still"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "早上七點辦公室仍然一片寂靜，還沒有人到。"
+          }
+        },
+        {
+          "en": "The factory floor grew stiller as the afternoon shift was reduced.",
+          "highlight": [
+            "stiller"
+          ],
+          "translations": {
+            "zh-TW": "隨著下午班次縮編，工廠廠房變得更安靜了。"
+          }
+        },
+        {
+          "en": "The lake was stillest at dawn, before the morning breeze picked up.",
+          "highlight": [
+            "stillest"
+          ],
+          "translations": {
+            "zh-TW": "黎明時分湖面最為平靜，清晨微風尚未吹起。"
           }
         }
       ],
       "synonyms": [
         "motionless",
-        "quiet"
+        "quiet",
+        "calm"
       ],
       "antonyms": [
         "moving",
-        "noisy"
+        "noisy",
+        "active"
       ],
       "phrases": [
-        "sit",
-        "still",
-        "stand",
-        "still"
+        "sit still",
+        "stand still",
+        "still life"
       ]
     },
     {
@@ -212,43 +291,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "stinged",
-        "past_participle": "stinged",
-        "present_participle": "stinging",
-        "third_person": "stings"
+        "plural": "stings",
+        "present_3rd": "stings",
+        "past": "stung",
+        "past_participle": "stung",
+        "ing": "stinging"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sting",
-          "definition": "n. 叮, 刺痛, 刺激, 讽刺, vt. 叮, 刺痛, 刺激, 使苦恼, vi. 叮, 刺痛"
+          "definition": "n. 螫刺、刺痛、刺激  v. 螫、刺痛、使苦惱"
         }
       ],
       "examples": [
         {
-          "en": "The bee sting was painful.",
+          "en": "A bee sting on her arm left a red mark throughout the afternoon.",
           "highlight": [
             "sting"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她手臂上的蜜蜂螫傷整個下午都留著紅印。"
+          }
+        },
+        {
+          "en": "The remark from the client stung more than she cared to admit.",
+          "highlight": [
+            "stung"
+          ],
+          "translations": {
+            "zh-TW": "客戶的那番話帶來的刺痛感，比她願意承認的還要深。"
+          }
+        },
+        {
+          "en": "The wasp's stinging sensation lasted for nearly an hour.",
+          "highlight": [
+            "stinging"
+          ],
+          "translations": {
+            "zh-TW": "黃蜂螫刺的刺痛感持續了將近一個小時。"
           }
         }
       ],
       "synonyms": [
         "prick",
-        "bite"
+        "bite",
+        "pierce"
       ],
       "antonyms": [
         "soothe",
         "comfort"
       ],
       "phrases": [
-        "bee",
-        "sting",
-        "sting",
-        "of"
+        "bee sting",
+        "sting operation",
+        "take the sting out"
       ]
     },
     {
@@ -263,41 +361,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "stired",
-        "past_participle": "stired",
-        "present_participle": "stiring",
-        "third_person": "stirs"
+        "plural": "stirs",
+        "present_3rd": "stirs",
+        "past": "stirred",
+        "past_participle": "stirred",
+        "ing": "stirring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "stir",
-          "definition": "n. 骚動, 轰動, 搅動, 监狱, vt. 移動, 摇動, 激起, 惹起, 搅拌, vi. 走動, 传播, 搅拌"
+          "definition": "n. 騷動、轟動、攪拌  v. 攪拌、激起、惹起"
         }
       ],
       "examples": [
         {
-          "en": "She stirred the soup.",
+          "en": "Please stir the soup gently to keep it from sticking to the bottom.",
           "highlight": [
             "stir"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請輕輕攪拌湯以免黏在鍋底。"
+          }
+        },
+        {
+          "en": "The merger has stirred up considerable interest among investors.",
+          "highlight": [
+            "stirred"
+          ],
+          "translations": {
+            "zh-TW": "這樁併購案在投資人之間引起了相當大的關注。"
+          }
+        },
+        {
+          "en": "His stirring speech inspired the entire sales team to exceed their targets.",
+          "highlight": [
+            "stirring"
+          ],
+          "translations": {
+            "zh-TW": "他那場激勵人心的演講鼓舞了整個業務團隊超越目標。"
           }
         }
       ],
       "synonyms": [
         "mix",
-        "blend"
+        "blend",
+        "agitate"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "calm",
+        "settle"
+      ],
       "phrases": [
-        "stir",
-        "the",
-        "pot",
-        "stir",
-        "the"
+        "stir up",
+        "stir the pot",
+        "stir fry"
       ]
     },
     {
@@ -312,43 +431,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "stocked",
+        "plural": "stocks",
+        "present_3rd": "stocks",
+        "past": "stocked",
         "past_participle": "stocked",
-        "present_participle": "stocking",
-        "third_person": "stocks"
+        "ing": "stocking"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "stock",
-          "definition": "n. 树干, 祖先, 血统, 原料, 备料, 库存, 牲畜, 股票, 股份, 保留剧目, a. 存货的, 常备的, 平凡的, 普通的, 股票的, 保留剧目的, 繁殖用的, vt. 装把手于, 进货, 备有, 放牧, vi. 出新芽, 备货, 囤积"
+          "definition": "n. 庫存、存貨、股票、股份、家畜  v. 進貨、備有、儲備"
         }
       ],
       "examples": [
         {
-          "en": "The store has a large stock of goods.",
+          "en": "The warehouse keeps a large stock of spare parts for emergency orders.",
           "highlight": [
             "stock"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "倉庫備有大量零件庫存以應付緊急訂單。"
+          }
+        },
+        {
+          "en": "The retailer stocked up on inventory before the holiday shopping season.",
+          "highlight": [
+            "stocked"
+          ],
+          "translations": {
+            "zh-TW": "零售商在假期購物季前大量進貨備足庫存。"
+          }
+        },
+        {
+          "en": "She is stocking the shelves with new merchandise at the moment.",
+          "highlight": [
+            "stocking"
+          ],
+          "translations": {
+            "zh-TW": "她此刻正把新商品上架到貨架上。"
           }
         }
       ],
       "synonyms": [
         "inventory",
-        "supply"
+        "supply",
+        "shares"
       ],
       "antonyms": [
-        "depletion",
-        "lack"
+        "shortage",
+        "depletion"
       ],
       "phrases": [
-        "in",
-        "stock",
-        "stock",
-        "market"
+        "in stock",
+        "out of stock",
+        "stock market"
       ]
     },
     {
@@ -363,40 +501,59 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "stomached",
+        "plural": "stomachs",
+        "present_3rd": "stomachs",
+        "past": "stomached",
         "past_participle": "stomached",
-        "present_participle": "stomaching",
-        "third_person": "stomachs"
+        "ing": "stomaching"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "stomach",
-          "definition": "n. 胃, 食欲, 欲望, 肚子, vt. 吃下, 忍受"
+          "definition": "n. 胃、腹部、食慾  v. 忍受、承受"
         }
       ],
       "examples": [
         {
-          "en": "He felt a pain in his stomach.",
+          "en": "The doctor asked about the pain in his stomach after the meal.",
           "highlight": [
             "stomach"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "醫生詢問了他飯後胃部疼痛的情形。"
+          }
+        },
+        {
+          "en": "The new recruit could barely stomach the harsh criticism from his supervisor.",
+          "highlight": [
+            "stomach"
+          ],
+          "translations": {
+            "zh-TW": "新進員工幾乎無法忍受主管嚴厲的批評。"
+          }
+        },
+        {
+          "en": "The seasoned negotiators were stomaching the long delay without complaint.",
+          "highlight": [
+            "stomaching"
+          ],
+          "translations": {
+            "zh-TW": "經驗豐富的談判代表們默默忍受著漫長的延宕，毫無怨言。"
           }
         }
       ],
       "synonyms": [
         "abdomen",
-        "belly"
+        "belly",
+        "endure"
       ],
       "antonyms": [],
       "phrases": [
-        "upset",
-        "stomach",
-        "empty",
-        "stomach"
+        "upset stomach",
+        "empty stomach",
+        "butterflies in stomach"
       ]
     },
     {
@@ -411,41 +568,59 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "stoneed",
-        "past_participle": "stoneed",
-        "present_participle": "stoning",
-        "third_person": "stones"
+        "plural": "stones",
+        "present_3rd": "stones",
+        "past": "stoned",
+        "past_participle": "stoned",
+        "ing": "stoning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "stone",
-          "definition": "n. 石頭, 宝石, 果核, 纪念碑, 結石, vt. 投扔石子, 铺石頭, a. 石的, 石制的, 完全的"
+          "definition": "n. 石頭、寶石、果核  v. 向…投擲石頭、去核"
         }
       ],
       "examples": [
         {
-          "en": "The path was covered with stones.",
+          "en": "The garden path was paved with smooth river stones.",
           "highlight": [
-            "stone"
+            "stones"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "花園小徑用光滑的河石鋪成。"
+          }
+        },
+        {
+          "en": "The angry crowd stoned the runaway vehicle to force it to a halt.",
+          "highlight": [
+            "stoned"
+          ],
+          "translations": {
+            "zh-TW": "憤怒的人群向失控的車輛投擲石頭迫使它停下來。"
+          }
+        },
+        {
+          "en": "The chef is stoning cherries for the new dessert menu.",
+          "highlight": [
+            "stoning"
+          ],
+          "translations": {
+            "zh-TW": "主廚正在為新的甜點菜單去除櫻桃的果核。"
           }
         }
       ],
       "synonyms": [
         "rock",
-        "pebble"
+        "pebble",
+        "boulder"
       ],
       "antonyms": [],
       "phrases": [
-        "throw",
-        "a",
-        "stone",
-        "stone",
-        "wall"
+        "stone wall",
+        "precious stone",
+        "set in stone"
       ]
     },
     {
@@ -460,43 +635,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "stoped",
-        "past_participle": "stoped",
-        "present_participle": "stoping",
-        "third_person": "stops"
+        "plural": "stops",
+        "present_3rd": "stops",
+        "past": "stopped",
+        "past_participle": "stopped",
+        "ing": "stopping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "stop",
-          "definition": "n. 停止, 車站, 逗留, 填塞, 障碍, (風琴的)音栓, vi. 停止, 被塞住, vt. 塞住, 堵塞, 阻止, 击落, 停止, 终止, 断绝"
+          "definition": "n. 停止、車站、終點站  v. 停止、阻止、終止"
         }
       ],
       "examples": [
         {
-          "en": "He stopped at the red light.",
+          "en": "The bus stop is located just outside the main office building.",
           "highlight": [
             "stop"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公車站位於主要辦公大樓的外面。"
+          }
+        },
+        {
+          "en": "Production stopped abruptly when the machinery malfunctioned.",
+          "highlight": [
+            "stopped"
+          ],
+          "translations": {
+            "zh-TW": "機器故障時生產突然停止了。"
+          }
+        },
+        {
+          "en": "The auditor is stopping the shipment until the quality issues are resolved.",
+          "highlight": [
+            "stopping"
+          ],
+          "translations": {
+            "zh-TW": "稽核員正在攔截該批貨物，直到品質問題解決為止。"
           }
         }
       ],
       "synonyms": [
         "halt",
-        "cease"
+        "cease",
+        "end"
       ],
       "antonyms": [
         "start",
-        "go"
+        "begin",
+        "continue"
       ],
       "phrases": [
-        "stop",
-        "sign",
-        "stop",
-        "working"
+        "stop sign",
+        "bus stop",
+        "stop by"
       ]
     }
   ]
