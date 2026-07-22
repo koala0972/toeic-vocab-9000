@@ -57,7 +57,7 @@ export const metadata: Metadata = {
 export const viewport = {
   width: 'device-width',
   initialScale: 1,
-  themeColor: '#3b82f6',
+  themeColor: '#9453d5',
 };
 
 export default function RootLayout({
@@ -68,12 +68,13 @@ export default function RootLayout({
   return (
     <html lang="zh-TW">
       <head>
-        <link rel="icon" href="/icon.svg" type="image/svg+xml" />
         <link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png" />
+        <link rel="icon" type="image/png" sizes="512x512" href="/icon-512.png" />
         <link rel="apple-touch-icon" href="/icon-192.png" />
         <link rel="apple-touch-icon" sizes="152x152" href="/icon-192.png" />
         <link rel="apple-touch-icon" sizes="180x180" href="/icon-192.png" />
-        <meta name="theme-color" content="#3b82f6" />
+        <link rel="apple-touch-icon" sizes="1024x1024" href="/icon-1024.png" />
+        <meta name="theme-color" content="#9453d5" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-title" content="ToeicHub" />
         <meta name="apple-mobile-web-app-status-bar-style" content="default" />
