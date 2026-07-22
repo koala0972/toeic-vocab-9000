@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 260,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-260-001",
@@ -19,33 +19,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "similarly",
-          "definition": "adv. 相像地, 类似于"
+          "definition": "adv. 相似地、類似地、同樣地"
         }
       ],
       "examples": [
         {
-          "en": "The twins were dressed similarly.",
+          "en": "The two companies are similarly structured, with flat management hierarchies.",
           "highlight": [
             "similarly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這兩家公司的架構相似，都採用扁平的管理層級。"
+          }
+        },
+        {
+          "en": "Similarly, the Tokyo branch reported a decline in quarterly sales.",
+          "highlight": [
+            "Similarly"
+          ],
+          "translations": {
+            "zh-TW": "同樣地，東京分公司也回報了季度營收下滑。"
+          }
+        },
+        {
+          "en": "The new interns were treated similarly to the full-time staff during training.",
+          "highlight": [
+            "similarly"
+          ],
+          "translations": {
+            "zh-TW": "在培訓期間，新進實習生受到與全職員工相似的待遇。"
           }
         }
       ],
       "synonyms": [
         "likewise",
-        "correspondingly"
+        "correspondingly",
+        "comparably"
       ],
       "antonyms": [
         "differently",
-        "contrarily"
+        "dissimilarly"
       ],
       "phrases": [
-        "similarly",
-        "dressed",
-        "similarly",
-        "affected"
+        "similarly situated",
+        "similarly affected",
+        "treat similarly"
       ]
     },
     {
@@ -56,44 +74,62 @@
       "toeic_score_min": 500,
       "word": "simple",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "simples"
+        "comparative": "simpler",
+        "superlative": "simplest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "simple",
-          "definition": "a. 简单的, 普通的, 朴素的, 单纯的, 绝對的, 初級的, 原始的, 迟钝的, n. 出身低微者, 傻子"
+          "definition": "adj. 簡單的、樸素的、單純的"
         }
       ],
       "examples": [
         {
-          "en": "The instructions were simple to follow.",
+          "en": "The user interface is simple enough for beginners to navigate without help.",
           "highlight": [
             "simple"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這個使用者介面夠簡單，初學者不用協助也能順利操作。"
+          }
+        },
+        {
+          "en": "Could you give me a simpler explanation of the new tax policy?",
+          "highlight": [
+            "simpler"
+          ],
+          "translations": {
+            "zh-TW": "你能給我更簡單的新稅制說明嗎？"
+          }
+        },
+        {
+          "en": "This is the simplest way to file the expense report online.",
+          "highlight": [
+            "simplest"
+          ],
+          "translations": {
+            "zh-TW": "這是在線上提交費用報告最簡單的方法。"
           }
         }
       ],
       "synonyms": [
         "easy",
-        "straightforward"
+        "straightforward",
+        "uncomplicated"
       ],
       "antonyms": [
         "complex",
-        "difficult"
+        "complicated"
       ],
       "phrases": [
-        "simple",
-        "task",
-        "simple",
-        "solution"
+        "simple solution",
+        "simple task",
+        "keep it simple"
       ]
     },
     {
@@ -112,33 +148,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "simply",
-          "definition": "adv. 简单地, 只是, 简直, 简朴地, 坦白地"
+          "definition": "adv. 簡單地、只是、簡直、樸素地"
         }
       ],
       "examples": [
         {
-          "en": "He simply nodded in agreement.",
+          "en": "He simply forgot the meeting and went home early.",
           "highlight": [
             "simply"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他就是忘了開會，早早回家去了。"
+          }
+        },
+        {
+          "en": "The results were simply astonishing, far exceeding the client's expectations.",
+          "highlight": [
+            "simply"
+          ],
+          "translations": {
+            "zh-TW": "結果簡直令人驚訝，遠超客戶的期待。"
+          }
+        },
+        {
+          "en": "Simply put, we won't launch until every critical bug is fixed.",
+          "highlight": [
+            "Simply"
+          ],
+          "translations": {
+            "zh-TW": "簡單來說，在所有嚴重錯誤修好之前我們不會上線。"
           }
         }
       ],
       "synonyms": [
-        "plainly",
-        "merely"
+        "merely",
+        "just",
+        "plainly"
       ],
       "antonyms": [
         "complicatedly",
         "elaborately"
       ],
       "phrases": [
-        "simply",
-        "put",
-        "simply",
-        "because"
+        "simply put",
+        "simply because",
+        "simply the best"
       ]
     },
     {
@@ -150,7 +204,8 @@
       "word": "since",
       "pos": [
         "conjunction",
-        "preposition"
+        "preposition",
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
@@ -158,33 +213,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "since",
-          "definition": "prep. 自...以後, 自...以來, adv. 自那時以後, conj. 既然, 自...以後, 自...以來"
+          "definition": "prep. 自從、自…以來  conj. 自從、既然  adv. 自那時起"
         }
       ],
       "examples": [
         {
-          "en": "Since it was raining, we stayed indoors.",
+          "en": "I have worked at this firm since 2018 without any major complaints.",
           "highlight": [
             "since"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我從 2018 年起就在這間公司工作，沒有什麼大抱怨。"
+          }
+        },
+        {
+          "en": "Since the budget was cut, we had to postpone the marketing campaign.",
+          "highlight": [
+            "Since"
+          ],
+          "translations": {
+            "zh-TW": "既然預算被砍了，我們只好延後行銷活動。"
+          }
+        },
+        {
+          "en": "He left the company in March and hasn't found a new job since.",
+          "highlight": [
+            "since"
+          ],
+          "translations": {
+            "zh-TW": "他在三月離開公司，自那時起還沒找到新工作。"
           }
         }
       ],
       "synonyms": [
         "because",
-        "as"
+        "as",
+        "given that"
       ],
       "antonyms": [
         "until",
         "before"
       ],
       "phrases": [
-        "since",
-        "then",
-        "ever",
-        "since"
+        "since then",
+        "ever since",
+        "long since"
       ]
     },
     {
@@ -195,44 +268,62 @@
       "toeic_score_min": 500,
       "word": "sincere",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "sinceres"
+        "comparative": "sincerer",
+        "superlative": "sincerest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sincere",
-          "definition": "a. 诚實的, 正直的, 真挚的, 纯净的"
+          "definition": "adj. 誠懇的、真誠的、由衷的"
         }
       ],
       "examples": [
         {
-          "en": "He gave a sincere apology.",
+          "en": "The manager gave a sincere apology to the customers affected by the delay.",
           "highlight": [
             "sincere"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理向受延誤影響的顧客致上誠懇的歉意。"
+          }
+        },
+        {
+          "en": "Her tone grew sincerer as she explained the challenges the team had faced.",
+          "highlight": [
+            "sincerer"
+          ],
+          "translations": {
+            "zh-TW": "隨著她說明團隊所面臨的挑戰，語氣變得更加真誠。"
+          }
+        },
+        {
+          "en": "Please accept my sincerest congratulations on your promotion.",
+          "highlight": [
+            "sincerest"
+          ],
+          "translations": {
+            "zh-TW": "請接受我最誠摯的恭賀，祝你升職。"
           }
         }
       ],
       "synonyms": [
-        "honest",
-        "genuine"
+        "genuine",
+        "earnest",
+        "heartfelt"
       ],
       "antonyms": [
         "insincere",
-        "dishonest"
+        "hollow"
       ],
       "phrases": [
-        "sincere",
-        "apology",
-        "sincere",
-        "effort"
+        "sincere apology",
+        "sincere thanks",
+        "sincere effort"
       ]
     },
     {
@@ -251,33 +342,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "sincerely",
-          "definition": "adv. 真诚地"
+          "definition": "adv. 真誠地、由衷地、誠懇地"
         }
       ],
       "examples": [
         {
-          "en": "Thank you sincerely for your help.",
+          "en": "I sincerely believe that this merger will benefit both companies.",
           "highlight": [
             "sincerely"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我真誠地相信這項併購會讓兩家公司都受益。"
+          }
+        },
+        {
+          "en": "We sincerely apologize for the inconvenience caused by the system outage.",
+          "highlight": [
+            "sincerely"
+          ],
+          "translations": {
+            "zh-TW": "我們為系統當機所造成的不便真誠致歉。"
+          }
+        },
+        {
+          "en": "Yours sincerely, Jane Lee, Director of Human Resources.",
+          "highlight": [
+            "sincerely"
+          ],
+          "translations": {
+            "zh-TW": "謹此，人力資源部主管 李珍"
           }
         }
       ],
       "synonyms": [
         "genuinely",
-        "earnestly"
+        "earnestly",
+        "wholeheartedly"
       ],
       "antonyms": [
-        "insincerely"
+        "insincerely",
+        "falsely"
       ],
       "phrases": [
-        "thank",
-        "you",
-        "sincerely",
-        "sincerely",
-        "yours"
+        "yours sincerely",
+        "sincerely yours",
+        "sincerely hope"
       ]
     },
     {
@@ -292,41 +401,58 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "singed",
-        "past_participle": "singed",
-        "present_participle": "singing",
-        "third_person": "sings"
+        "present_3rd": "sings",
+        "past": "sang",
+        "past_participle": "sung",
+        "ing": "singing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sing",
-          "definition": "vi. 唱, 唱歌, 演唱, 鸣, 啼, vt. 唱, 歌颂, n. 嗖嗖声"
+          "definition": "v. 唱、演唱、歌頌  n. 嗖嗖聲"
         }
       ],
       "examples": [
         {
-          "en": "She loves to sing in the shower.",
+          "en": "She loves to sing folk songs at the company's annual talent show.",
           "highlight": [
             "sing"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她喜歡在公司年度才藝表演上唱民謠。"
+          }
+        },
+        {
+          "en": "The choir sang three songs at the charity gala last weekend.",
+          "highlight": [
+            "sang"
+          ],
+          "translations": {
+            "zh-TW": "合唱團上週末在慈善晚宴上唱了三首歌。"
+          }
+        },
+        {
+          "en": "The national anthem has been sung at every opening ceremony since 1995.",
+          "highlight": [
+            "sung"
+          ],
+          "translations": {
+            "zh-TW": "自 1995 年起，每場開幕儀式都會唱國歌。"
           }
         }
       ],
       "synonyms": [
         "chant",
-        "croon"
+        "croon",
+        "hum"
       ],
       "antonyms": [],
       "phrases": [
-        "sing",
-        "a",
-        "song",
-        "sing",
-        "loudly"
+        "sing a song",
+        "sing along",
+        "sing praises"
       ]
     },
     {
@@ -337,44 +463,58 @@
       "toeic_score_min": 500,
       "word": "singer",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "singered",
-        "past_participle": "singered",
-        "present_participle": "singering",
-        "third_person": "singers"
+        "plural": "singers"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "singer",
-          "definition": "n. 歌手"
+          "definition": "n. 歌手、演唱者、聲樂家"
         }
       ],
       "examples": [
         {
-          "en": "The singer performed on stage.",
+          "en": "The singer signed a three-year contract with a major record label.",
           "highlight": [
             "singer"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位歌手與一家大型唱片公司簽了三年合約。"
+          }
+        },
+        {
+          "en": "Several local singers were invited to perform at the city's music festival.",
+          "highlight": [
+            "singers"
+          ],
+          "translations": {
+            "zh-TW": "多位本地歌手受邀在城市的音樂節上演出。"
+          }
+        },
+        {
+          "en": "As a backing singer, she toured with the band across Asia for two years.",
+          "highlight": [
+            "singer"
+          ],
+          "translations": {
+            "zh-TW": "作為合音歌手，她隨樂團在亞洲巡演了兩年。"
           }
         }
       ],
       "synonyms": [
         "vocalist",
-        "performer"
+        "performer",
+        "soloist"
       ],
       "antonyms": [],
       "phrases": [
-        "famous",
-        "singer",
-        "lead",
-        "singer"
+        "lead singer",
+        "backing singer",
+        "professional singer"
       ]
     },
     {
@@ -396,33 +536,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "single",
-          "definition": "a. 单身的, 单程的, 单一的, 個别的, 孤独的, 专一的, n. 一個, 单打, 单程票, vt. 选出, vi. 击出一垒打, [计] 单精度型"
+          "definition": "adj. 單一的、單身的、單程的  n. 單打、單程票、單曲"
         }
       ],
       "examples": [
         {
-          "en": "He is a single man.",
+          "en": "Not a single customer has filed a complaint about the new product.",
           "highlight": [
             "single"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "沒有半個顧客對新產品提出投訴。"
+          }
+        },
+        {
+          "en": "The hotel offers a discount for singles traveling alone during the off-season.",
+          "highlight": [
+            "singles"
+          ],
+          "translations": {
+            "zh-TW": "這家飯店在淡季為獨自旅行的單人房旅客提供折扣。"
+          }
+        },
+        {
+          "en": "We need a single copy of the report printed on company letterhead.",
+          "highlight": [
+            "single"
+          ],
+          "translations": {
+            "zh-TW": "我們需要一份用公司信紙印的報告副本。"
           }
         }
       ],
       "synonyms": [
         "one",
-        "sole"
+        "sole",
+        "individual"
       ],
       "antonyms": [
         "married",
         "multiple"
       ],
       "phrases": [
-        "single",
-        "room",
-        "single",
-        "person"
+        "single room",
+        "single out",
+        "single ticket"
       ]
     },
     {
@@ -437,43 +595,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "sinked",
-        "past_participle": "sinked",
-        "present_participle": "sinking",
-        "third_person": "sinks"
+        "present_3rd": "sinks",
+        "past": "sank",
+        "past_participle": "sunk",
+        "ing": "sinking",
+        "plural": "sinks"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sink",
-          "definition": "n. 藏垢的場所, 沟渠, 污水槽, vi. 下沉, 沉没, 下陷, 减弱, 衰退, 消沉, 堕落, 渗透, vt. 使低落, 使下沉, 陷于, 投入(资金等), 挖掘"
+          "definition": "v. 下沉、沉沒、下陷、衰落  n. 水槽、洗碗槽"
         }
       ],
       "examples": [
         {
-          "en": "The ship sank to the bottom of the ocean.",
+          "en": "The cargo ship began to sink after hitting a submerged reef.",
           "highlight": [
             "sink"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "貨輪撞上水下暗礁後開始下沉。"
+          }
+        },
+        {
+          "en": "Profits sank by twenty percent in the third quarter alone.",
+          "highlight": [
+            "sank"
+          ],
+          "translations": {
+            "zh-TW": "光是第三季度，利潤就下滑了百分之二十。"
+          }
+        },
+        {
+          "en": "Thousands of dollars have been sunk into the renovation project.",
+          "highlight": [
+            "sunk"
+          ],
+          "translations": {
+            "zh-TW": "已有數千美元投入了這項翻修計畫。"
           }
         }
       ],
       "synonyms": [
         "submerge",
-        "descend"
+        "descend",
+        "plunge"
       ],
       "antonyms": [
         "rise",
         "float"
       ],
       "phrases": [
-        "sink",
-        "into",
-        "sink",
-        "beneath"
+        "sink in",
+        "sink or swim",
+        "kitchen sink"
       ]
     }
   ]
