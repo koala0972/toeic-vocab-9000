@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 261,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-261-001",
@@ -21,30 +21,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "sir",
-          "definition": "n. 先生, 阁下"
+          "definition": "n. 先生、閣下（對男性的尊稱）"
         }
       ],
       "examples": [
         {
-          "en": "Excuse me, sir.",
+          "en": "Excuse me, sir, your table is ready.",
           "highlight": [
             "sir"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "先生不好意思，您的桌位已經準備好了。"
+          }
+        },
+        {
+          "en": "The hotel staff addressed every male guest as sir throughout his stay.",
+          "highlight": [
+            "sir"
+          ],
+          "translations": {
+            "zh-TW": "飯店人員在這位男賓客住宿期間，一律以「先生」稱呼他。"
+          }
+        },
+        {
+          "en": "Thank you, sirs, for attending tonight's banquet.",
+          "highlight": [
+            "sirs"
+          ],
+          "translations": {
+            "zh-TW": "感謝諸位先生出席今晚的宴會。"
           }
         }
       ],
       "synonyms": [
         "gentleman",
-        "mister"
+        "mister",
+        "lord"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "madam"
+      ],
       "phrases": [
-        "yes",
-        "sir",
-        "no",
-        "sir"
+        "dear sir",
+        "yes sir",
+        "sir john"
       ]
     },
     {
@@ -59,42 +79,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "sistered",
+        "plural": "sisters",
+        "present_3rd": "sisters",
+        "past": "sistered",
         "past_participle": "sistered",
-        "present_participle": "sistering",
-        "third_person": "sisters"
+        "ing": "sistering"
       },
-      "domain": "general",
+      "domain": "family",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sister",
-          "definition": "n. 姐妹, 姐, 妹, 护士, 修女, vt. 姐妹般對待"
+          "definition": "n. 姊妹、姐姐、妹妹  v. 像姊妹般對待"
         }
       ],
       "examples": [
         {
-          "en": "Her sister is a doctor.",
+          "en": "My sister works as an accountant at a downtown firm.",
           "highlight": [
             "sister"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我姊姊在市中心的會計事務所擔任會計師。"
+          }
+        },
+        {
+          "en": "The two companies sistered each other through the merger, sharing staff and resources.",
+          "highlight": [
+            "sistered"
+          ],
+          "translations": {
+            "zh-TW": "這兩家公司在併購過程中如姊妹般互相扶持，共享人力與資源。"
+          }
+        },
+        {
+          "en": "She has been sistering the new interns, helping them settle into the office.",
+          "highlight": [
+            "sistering"
+          ],
+          "translations": {
+            "zh-TW": "她一直像姊姊一樣照顧新進實習生，幫助他們融入辦公室環境。"
           }
         }
       ],
       "synonyms": [
         "sibling",
-        "relative"
+        "relative",
+        "kin"
       ],
       "antonyms": [
         "brother"
       ],
       "phrases": [
-        "younger",
-        "sister",
-        "older",
-        "sister"
+        "older sister",
+        "younger sister",
+        "sister company",
+        "sister city"
       ]
     },
     {
@@ -109,43 +149,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "sited",
-        "past_participle": "sited",
-        "present_participle": "siting",
-        "third_person": "sits"
+        "plural": "sits",
+        "present_3rd": "sits",
+        "past": "sat",
+        "past_participle": "sat",
+        "ing": "sitting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sit",
-          "definition": "vi. 坐, 就座, 坐落, vt. 使就座, 骑, n. 坐, 衣服合身"
+          "definition": "v. 坐、就座、位於  n. 坐、合身"
         }
       ],
       "examples": [
         {
-          "en": "Please sit down.",
+          "en": "Please sit down and make yourself comfortable while I fetch the manager.",
           "highlight": [
             "sit"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請先坐下休息一下，我去請經理過來。"
+          }
+        },
+        {
+          "en": "We sat in the lobby for nearly an hour before the interview started.",
+          "highlight": [
+            "sat"
+          ],
+          "translations": {
+            "zh-TW": "我們在大廳坐了將近一個小時，面試才開始。"
+          }
+        },
+        {
+          "en": "She is sitting by the window, reviewing the contract notes.",
+          "highlight": [
+            "sitting"
+          ],
+          "translations": {
+            "zh-TW": "她正坐在窗邊，審閱合約的備忘內容。"
           }
         }
       ],
       "synonyms": [
         "perch",
-        "seat"
+        "seat",
+        "rest"
       ],
       "antonyms": [
         "stand",
         "rise"
       ],
       "phrases": [
-        "sit",
-        "down",
-        "sit",
-        "up"
+        "sit down",
+        "sit up",
+        "sit back",
+        "sit in"
       ]
     },
     {
@@ -160,39 +220,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "siteed",
-        "past_participle": "siteed",
-        "present_participle": "siting",
-        "third_person": "sites"
+        "plural": "sites",
+        "present_3rd": "sites",
+        "past": "sited",
+        "past_participle": "sited",
+        "ing": "siting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "site",
-          "definition": "n. 位置, 場所, 地點, vt. 给...择址"
+          "definition": "n. 地點、場所、網站  v. 為……選址"
         }
       ],
       "examples": [
         {
-          "en": "The site of the new school has been chosen.",
+          "en": "The company launched a new site to showcase its product catalog.",
           "highlight": [
             "site"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家公司推出了新網站，用來展示產品目錄。"
+          }
+        },
+        {
+          "en": "The new warehouse was sited near the harbor to reduce shipping costs.",
+          "highlight": [
+            "sited"
+          ],
+          "translations": {
+            "zh-TW": "新倉庫設在港口附近，以降低運輸成本。"
+          }
+        },
+        {
+          "en": "Engineers are still siting the factory along the river for easier access.",
+          "highlight": [
+            "siting"
+          ],
+          "translations": {
+            "zh-TW": "工程師仍在為工廠沿河選址，以便取水作業。"
           }
         }
       ],
       "synonyms": [
         "location",
-        "place"
+        "place",
+        "venue"
       ],
       "antonyms": [],
       "phrases": [
-        "construction",
-        "site",
-        "website"
+        "construction site",
+        "web site",
+        "site map",
+        "on site"
       ]
     },
     {
@@ -203,8 +284,7 @@
       "toeic_score_min": 500,
       "word": "situation",
       "pos": [
-        "noun",
-        "adjective"
+        "noun"
       ],
       "conjugations": {
         "plural": "situations"
@@ -214,30 +294,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "situation",
-          "definition": "n. 情形, 境遇, 位置, [医] 情境, 處境"
+          "definition": "n. 情況、局勢、處境"
         }
       ],
       "examples": [
         {
-          "en": "The situation is under control.",
+          "en": "The manager assessed the situation before making a final decision.",
           "highlight": [
             "situation"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理在做最終決定前，先評估了整個情況。"
+          }
+        },
+        {
+          "en": "In critical situations, the team must follow the emergency protocol strictly.",
+          "highlight": [
+            "situations"
+          ],
+          "translations": {
+            "zh-TW": "在緊急情況下，團隊必須嚴格遵守應變程序。"
+          }
+        },
+        {
+          "en": "Many clients experienced similar situations during the recent system outage.",
+          "highlight": [
+            "situations"
+          ],
+          "translations": {
+            "zh-TW": "在最近的系統當機期間，許多客戶遭遇了類似的狀況。"
           }
         }
       ],
       "synonyms": [
         "circumstance",
-        "condition"
+        "condition",
+        "state"
       ],
       "antonyms": [],
       "phrases": [
-        "dangerous",
-        "situation",
-        "current",
-        "situation"
+        "current situation",
+        "dangerous situation",
+        "financial situation",
+        "situation room"
       ]
     },
     {
@@ -252,38 +351,55 @@
         "adjective"
       ],
       "conjugations": {
-        "plural": "sixs"
+        "plural": "sixes"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "six",
-          "definition": "num. 六, 六個"
+          "definition": "num. 六、六個"
         }
       ],
       "examples": [
         {
-          "en": "There are six apples in the basket.",
+          "en": "The training program lasts six weeks, including two weeks of fieldwork.",
           "highlight": [
             "six"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "培訓課程為期六週，其中包含兩週的實地訓練。"
+          }
+        },
+        {
+          "en": "She rolled a six on the dice to win the office board game tournament.",
+          "highlight": [
+            "six"
+          ],
+          "translations": {
+            "zh-TW": "她在辦公室桌遊競賽中擲出六點獲勝。"
+          }
+        },
+        {
+          "en": "The committee voted six to three in favor of the new policy.",
+          "highlight": [
+            "six"
+          ],
+          "translations": {
+            "zh-TW": "委員會以六比三的票數通過了新政策。"
           }
         }
       ],
       "synonyms": [
-        "half",
-        "a",
-        "dozen"
+        "half dozen",
+        "sextet"
       ],
       "antonyms": [],
       "phrases": [
-        "six",
-        "years",
-        "six",
-        "times"
+        "six months",
+        "six years",
+        "six times",
+        "at sixes and sevens"
       ]
     },
     {
@@ -305,27 +421,45 @@
         {
           "lang": "zh-TW",
           "lang_word": "sixteen",
-          "definition": "num. 十六, 十六個"
+          "definition": "num. 十六、十六個"
         }
       ],
       "examples": [
         {
-          "en": "She turned sixteen last month.",
+          "en": "The shop hires part-time staff who are at least sixteen years old.",
           "highlight": [
             "sixteen"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家店僱用至少滿十六歲的兼職員工。"
+          }
+        },
+        {
+          "en": "All sixteen participants passed the safety training last week.",
+          "highlight": [
+            "sixteen"
+          ],
+          "translations": {
+            "zh-TW": "上週所有十六位學員都通過了安全培訓。"
+          }
+        },
+        {
+          "en": "She ordered sixteen new laptops for the marketing department.",
+          "highlight": [
+            "sixteen"
+          ],
+          "translations": {
+            "zh-TW": "她為行銷部門訂購了十六台新筆記型電腦。"
           }
         }
       ],
       "synonyms": [],
       "antonyms": [],
       "phrases": [
-        "sweet",
-        "sixteen",
-        "age",
-        "sixteen"
+        "sweet sixteen",
+        "sixteen years",
+        "at sixteen",
+        "sixteen hundred"
       ]
     },
     {
@@ -347,27 +481,45 @@
         {
           "lang": "zh-TW",
           "lang_word": "sixth",
-          "definition": "num. 第六, 六分之一"
+          "definition": "num. 第六  n. 六分之一"
         }
       ],
       "examples": [
         {
-          "en": "He finished in sixth place.",
+          "en": "He will present the quarterly report at the sixth meeting of the year.",
           "highlight": [
             "sixth"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他將在年度第六次會議上提出季度報告。"
+          }
+        },
+        {
+          "en": "The applicant finished sixth out of two hundred candidates in the aptitude test.",
+          "highlight": [
+            "sixth"
+          ],
+          "translations": {
+            "zh-TW": "這名應試者在性向測驗的兩百名候選人中排名第六。"
+          }
+        },
+        {
+          "en": "Nearly five sixths of the budget has been spent on research and development.",
+          "highlight": [
+            "sixths"
+          ],
+          "translations": {
+            "zh-TW": "預算中近六分之五已用於研發。"
           }
         }
       ],
       "synonyms": [],
       "antonyms": [],
       "phrases": [
-        "sixth",
-        "place",
-        "sixth",
-        "grade"
+        "sixth place",
+        "sixth grade",
+        "sixth sense",
+        "at the sixth hour"
       ]
     },
     {
@@ -378,8 +530,8 @@
       "toeic_score_min": 500,
       "word": "sixtieth",
       "pos": [
-        "adjective",
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "sixtieths"
@@ -389,27 +541,45 @@
         {
           "lang": "zh-TW",
           "lang_word": "sixtieth",
-          "definition": "num. 第六十, 六十分之一"
+          "definition": "num. 第六十  n. 六十分之一"
         }
       ],
       "examples": [
         {
-          "en": "He celebrated his sixtieth birthday.",
+          "en": "The company celebrated its sixtieth anniversary with a gala dinner.",
           "highlight": [
             "sixtieth"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司以一場盛宴慶祝創立六十週年。"
+          }
+        },
+        {
+          "en": "She was promoted to senior manager on her sixtieth birthday.",
+          "highlight": [
+            "sixtieth"
+          ],
+          "translations": {
+            "zh-TW": "她在六十歲生日當天晉升為資深經理。"
+          }
+        },
+        {
+          "en": "Only one sixtieth of the annual revenue is allocated to charity donations.",
+          "highlight": [
+            "sixtieth"
+          ],
+          "translations": {
+            "zh-TW": "年收入中只有六十分之一撥作慈善捐款。"
           }
         }
       ],
       "synonyms": [],
       "antonyms": [],
       "phrases": [
-        "sixtieth",
-        "anniversary",
-        "sixtieth",
-        "place"
+        "sixtieth anniversary",
+        "sixtieth birthday",
+        "sixtieth place",
+        "one sixtieth"
       ]
     },
     {
@@ -431,27 +601,45 @@
         {
           "lang": "zh-TW",
           "lang_word": "sixty",
-          "definition": "num. 六十, 六十個"
+          "definition": "num. 六十、六十個"
         }
       ],
       "examples": [
         {
-          "en": "There are sixty seconds in a minute.",
+          "en": "The workweek in this firm is sixty hours during peak season.",
           "highlight": [
             "sixty"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家公司在旺季每週工時為六十小時。"
+          }
+        },
+        {
+          "en": "The hotel has sixty rooms, each equipped with broadband internet.",
+          "highlight": [
+            "sixty"
+          ],
+          "translations": {
+            "zh-TW": "這家飯店有六十間客房，每間都配有寬頻網路。"
+          }
+        },
+        {
+          "en": "Many employees in their sixties prefer part-time consulting roles.",
+          "highlight": [
+            "sixties"
+          ],
+          "translations": {
+            "zh-TW": "許多年過六十的員工較偏好兼職顧問工作。"
           }
         }
       ],
       "synonyms": [],
       "antonyms": [],
       "phrases": [
-        "sixty",
-        "minutes",
-        "sixty",
-        "years"
+        "sixty minutes",
+        "sixty years",
+        "sixty seconds",
+        "in the sixties"
       ]
     }
   ]
