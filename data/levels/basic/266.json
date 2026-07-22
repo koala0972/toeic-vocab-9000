@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 266,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-266-001",
@@ -14,40 +14,57 @@
         "pronoun",
         "adjective"
       ],
-      "conjugations": {
-        "comparative": "someer",
-        "superlative": "someest"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "some",
-          "definition": "pron. 一些, 一部分, 若干, adv. 大约, a. 一些的, 少许的, 某一的"
+          "definition": "pron. 一些、若干  adj. 某個、一些的"
         }
       ],
       "examples": [
         {
-          "en": "She needs some help with her homework.",
+          "en": "We invited some friends to the meeting.",
           "highlight": [
             "some"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們邀請了一些朋友來開會。"
+          }
+        },
+        {
+          "en": "Some people prefer flexible working hours.",
+          "highlight": [
+            "some"
+          ],
+          "translations": {
+            "zh-TW": "有些人偏好彈性的工作時間。"
+          }
+        },
+        {
+          "en": "He spent some time reviewing the contract before signing.",
+          "highlight": [
+            "some"
+          ],
+          "translations": {
+            "zh-TW": "他花了一些時間在簽約前審閱合約。"
           }
         }
       ],
       "synonyms": [
         "several",
-        "a",
-        "few"
+        "a few",
+        "certain"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "none"
+      ],
       "phrases": [
-        "some",
-        "people",
-        "some",
-        "time"
+        "some time",
+        "some people",
+        "some more",
+        "some other day"
       ]
     },
     {
@@ -66,30 +83,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "somebody",
-          "definition": "n. 了不起的人, 大人物, pron. 有人, 某人"
+          "definition": "pron. 有人、某人  n. 重要的人物"
         }
       ],
       "examples": [
         {
-          "en": "Somebody left their umbrella.",
+          "en": "Somebody left a folder on the conference table.",
           "highlight": [
             "somebody"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "有人把資料夾留在會議桌上。"
+          }
+        },
+        {
+          "en": "If somebody calls, tell them I will call back later.",
+          "highlight": [
+            "somebody"
+          ],
+          "translations": {
+            "zh-TW": "如果有人來電，告訴他們我稍後回電。"
+          }
+        },
+        {
+          "en": "He thinks he is somebody just because he got promoted.",
+          "highlight": [
+            "somebody"
+          ],
+          "translations": {
+            "zh-TW": "他以為自己升職就是個了不起的人物。"
           }
         }
       ],
       "synonyms": [
-        "anyone",
-        "someone"
+        "someone",
+        "anybody",
+        "anyone"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "nobody",
+        "no one"
+      ],
       "phrases": [
-        "somebody",
-        "help",
-        "somebody",
-        "else"
+        "somebody else",
+        "ask somebody",
+        "let somebody know",
+        "somebody special"
       ]
     },
     {
@@ -108,33 +147,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "somehow",
-          "definition": "adv. 不知何故"
+          "definition": "adv. 不知怎麼地、以某種方式"
         }
       ],
       "examples": [
         {
-          "en": "We'll get there somehow.",
+          "en": "Somehow we managed to finish the report on time.",
           "highlight": [
             "somehow"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們不知怎麼地設法準時完成了報告。"
+          }
+        },
+        {
+          "en": "We need to solve this problem somehow before the deadline.",
+          "highlight": [
+            "somehow"
+          ],
+          "translations": {
+            "zh-TW": "在截止日期之前，我們需要以某種方式解決這個問題。"
+          }
+        },
+        {
+          "en": "She somehow lost her badge on the way to the office.",
+          "highlight": [
+            "somehow"
+          ],
+          "translations": {
+            "zh-TW": "她不知怎麼地在去辦公室的路上弄丟了識別證。"
           }
         }
       ],
       "synonyms": [
-        "in",
-        "some",
-        "way",
-        "by",
-        "any"
+        "in some way",
+        "by some means",
+        "one way or another"
       ],
       "antonyms": [],
       "phrases": [
-        "somehow",
-        "manage",
-        "somehow",
-        "get"
+        "manage somehow",
+        "get done somehow",
+        "somehow or other"
       ]
     },
     {
@@ -153,17 +207,35 @@
         {
           "lang": "zh-TW",
           "lang_word": "someone",
-          "definition": "pron. 有人, 某人"
+          "definition": "pron. 有人、某人"
         }
       ],
       "examples": [
         {
-          "en": "Someone is at the door.",
+          "en": "Someone is waiting for you at the front desk.",
           "highlight": [
             "someone"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "有人在櫃台等你。"
+          }
+        },
+        {
+          "en": "Please ask someone from the IT department to fix the printer.",
+          "highlight": [
+            "someone"
+          ],
+          "translations": {
+            "zh-TW": "請找資訊部門的人來修理印表機。"
+          }
+        },
+        {
+          "en": "Every successful project needs someone who can lead the team.",
+          "highlight": [
+            "someone"
+          ],
+          "translations": {
+            "zh-TW": "每個成功的專案都需要一個能領導團隊的人。"
           }
         }
       ],
@@ -171,12 +243,15 @@
         "somebody",
         "anyone"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "nobody",
+        "no one"
+      ],
       "phrases": [
-        "someone",
-        "special",
-        "someone",
-        "new"
+        "someone else",
+        "trust someone",
+        "someone special",
+        "ask someone"
       ]
     },
     {
@@ -187,8 +262,7 @@
       "toeic_score_min": 500,
       "word": "something",
       "pos": [
-        "pronoun",
-        "noun"
+        "pronoun"
       ],
       "conjugations": {
         "plural": "somethings"
@@ -198,33 +272,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "something",
-          "definition": "pron. 某事, 某物"
+          "definition": "pron. 某事、某物  n. 重要的事物"
         }
       ],
       "examples": [
         {
-          "en": "I need something to eat.",
+          "en": "I need something to drink after that long presentation.",
           "highlight": [
             "something"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在那場冗長的簡報之後，我需要點東西喝。"
+          }
+        },
+        {
+          "en": "She said something about rescheduling the client meeting.",
+          "highlight": [
+            "something"
+          ],
+          "translations": {
+            "zh-TW": "她提到關於重新安排客戶會議的某件事。"
+          }
+        },
+        {
+          "en": "The new product launch is really something — sales tripled in a week.",
+          "highlight": [
+            "something"
+          ],
+          "translations": {
+            "zh-TW": "新產品的發表真的很了不起——一週內銷量就成長三倍。"
           }
         }
       ],
       "synonyms": [
         "anything",
-        "object"
+        "a thing"
       ],
       "antonyms": [
         "nothing"
       ],
       "phrases": [
-        "something",
-        "to",
-        "eat",
-        "something",
-        "else"
+        "something else",
+        "something to say",
+        "or something",
+        "make something of"
       ]
     },
     {
@@ -243,34 +334,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "sometimes",
-          "definition": "adv. 有時, 時常, 往往"
+          "definition": "adv. 有時候、偶爾"
         }
       ],
       "examples": [
         {
-          "en": "Sometimes I go for a walk.",
+          "en": "Sometimes remote workers feel disconnected from the team.",
           "highlight": [
             "sometimes"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "遠端工作者有時候會感覺與團隊脫節。"
+          }
+        },
+        {
+          "en": "Our boss sometimes holds meetings outside office hours.",
+          "highlight": [
+            "sometimes"
+          ],
+          "translations": {
+            "zh-TW": "老闆有時候會在下班時間開會。"
+          }
+        },
+        {
+          "en": "I sometimes take the train instead of driving to the city.",
+          "highlight": [
+            "sometimes"
+          ],
+          "translations": {
+            "zh-TW": "我有時候搭火車而不開車進城。"
           }
         }
       ],
       "synonyms": [
         "occasionally",
-        "at",
-        "times"
+        "at times",
+        "now and then"
       ],
       "antonyms": [
         "always",
         "never"
       ],
       "phrases": [
-        "sometimes",
-        "we",
-        "sometimes",
-        "go"
+        "sometimes happen",
+        "sometimes feel",
+        "sometimes do",
+        "sometimes called"
       ]
     },
     {
@@ -289,33 +398,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "somewhat",
-          "definition": "n. 某物, 几分, adv. 多少, 几分"
+          "definition": "adv. 有點、稍微"
         }
       ],
       "examples": [
         {
-          "en": "The movie was somewhat interesting.",
+          "en": "The deadline is somewhat tight, but we can make it.",
           "highlight": [
             "somewhat"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "截止日期有點緊，但我們做得到。"
+          }
+        },
+        {
+          "en": "I was somewhat disappointed by the candidate's performance in the interview.",
+          "highlight": [
+            "somewhat"
+          ],
+          "translations": {
+            "zh-TW": "我對那位候選人在面試中的表現有點失望。"
+          }
+        },
+        {
+          "en": "Their prices are somewhat higher than the competitor's.",
+          "highlight": [
+            "somewhat"
+          ],
+          "translations": {
+            "zh-TW": "他們的價格比競爭對手稍微高一點。"
           }
         }
       ],
       "synonyms": [
         "slightly",
-        "moderately"
+        "moderately",
+        "rather"
       ],
       "antonyms": [
         "completely",
-        "entirely"
+        "entirely",
+        "utterly"
       ],
       "phrases": [
-        "somewhat",
-        "agree",
-        "somewhat",
-        "difficult"
+        "somewhat difficult",
+        "somewhat disappointed",
+        "somewhat higher"
       ]
     },
     {
@@ -328,40 +456,59 @@
       "pos": [
         "adverb"
       ],
-      "conjugations": {},
+      "conjugations": {
+        "plural": "somewheres"
+      },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "somewhere",
-          "definition": "adv. 到某處, 在某處"
+          "definition": "adv. 在某處、到某處"
         }
       ],
       "examples": [
         {
-          "en": "He lives somewhere near here.",
+          "en": "We should meet somewhere quiet to discuss the proposal.",
           "highlight": [
             "somewhere"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們應該在某個安靜的地方見面討論這份提案。"
+          }
+        },
+        {
+          "en": "I left my notes somewhere between the office and the train station.",
+          "highlight": [
+            "somewhere"
+          ],
+          "translations": {
+            "zh-TW": "我把筆記留在辦公室和火車站之間的某個地方了。"
+          }
+        },
+        {
+          "en": "If you don't want to eat at the hotel, let's go somewhere else.",
+          "highlight": [
+            "somewhere"
+          ],
+          "translations": {
+            "zh-TW": "如果你不想在飯店用餐，我們去別的地方吧。"
           }
         }
       ],
       "synonyms": [
         "anywhere",
-        "in",
-        "some",
-        "place"
+        "some place",
+        "here and there"
       ],
       "antonyms": [
         "nowhere"
       ],
       "phrases": [
-        "somewhere",
-        "else",
-        "somewhere",
-        "around"
+        "somewhere else",
+        "get somewhere",
+        "out somewhere",
+        "go somewhere"
       ]
     },
     {
@@ -372,46 +519,61 @@
       "toeic_score_min": 500,
       "word": "son",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "soned",
-        "past_participle": "soned",
-        "present_participle": "soning",
-        "third_person": "sons"
+        "plural": "sons"
       },
-      "domain": "general",
+      "domain": "family",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "son",
-          "definition": "n. 兒子, 女婿, 子孙, [法] 兒子, 女婿, 养子"
+          "definition": "n. 兒子、子孫"
         }
       ],
       "examples": [
         {
-          "en": "He is proud of his son.",
+          "en": "Her son just started his first year of college.",
           "highlight": [
             "son"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她的兒子剛開始大一的生活。"
+          }
+        },
+        {
+          "en": "Both sons help out in the family business on weekends.",
+          "highlight": [
+            "sons"
+          ],
+          "translations": {
+            "zh-TW": "兩個兒子週末都會到家族企業幫忙。"
+          }
+        },
+        {
+          "en": "He is proud to pass the company on to his son.",
+          "highlight": [
+            "son"
+          ],
+          "translations": {
+            "zh-TW": "他很自豪能把公司交給兒子。"
           }
         }
       ],
       "synonyms": [
         "boy",
-        "offspring"
+        "offspring",
+        "heir"
       ],
       "antonyms": [
         "daughter"
       ],
       "phrases": [
-        "proud",
-        "son",
-        "youngest",
-        "son"
+        "son of",
+        "eldest son",
+        "youngest son",
+        "like father like son"
       ]
     },
     {
@@ -422,45 +584,59 @@
       "toeic_score_min": 500,
       "word": "song",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "songed",
-        "past_participle": "songed",
-        "present_participle": "songing",
-        "third_person": "songs"
+        "plural": "songs"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "song",
-          "definition": "n. 歌, 曲, 鸣声, 歌唱, 歌曲, 诗歌"
+          "definition": "n. 歌曲、歌唱"
         }
       ],
       "examples": [
         {
-          "en": "She sang a beautiful song.",
+          "en": "That song became popular after it was used in a car commercial.",
           "highlight": [
             "song"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "那首歌在被用於汽車廣告後變得很受歡迎。"
+          }
+        },
+        {
+          "en": "The band played three new songs at the festival.",
+          "highlight": [
+            "songs"
+          ],
+          "translations": {
+            "zh-TW": "樂團在音樂祭上表演了三首新歌。"
+          }
+        },
+        {
+          "en": "Her latest song has topped the streaming charts for two weeks.",
+          "highlight": [
+            "song"
+          ],
+          "translations": {
+            "zh-TW": "她最新的歌曲已經連續兩週登上串流排行榜榜首。"
           }
         }
       ],
       "synonyms": [
         "melody",
-        "tune"
+        "tune",
+        "anthem"
       ],
       "antonyms": [],
       "phrases": [
-        "sing",
-        "a",
-        "song",
-        "love",
-        "song"
+        "sing a song",
+        "love song",
+        "theme song",
+        "hit song"
       ]
     }
   ]
