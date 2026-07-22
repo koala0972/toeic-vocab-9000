@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 277,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-277-001",
@@ -15,6 +15,8 @@
         "noun"
       ],
       "conjugations": {
+        "comparative": "stupider",
+        "superlative": "stupidest",
         "plural": "stupids"
       },
       "domain": "general",
@@ -22,33 +24,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "stupid",
-          "definition": "a. 愚蠢的, 麻木的"
+          "definition": "a. 愚蠢的、笨的  n. 笨蛋、蠢事"
         }
       ],
       "examples": [
         {
-          "en": "That was a stupid mistake.",
+          "en": "It was stupid of him to leave his laptop unlocked in the café.",
           "highlight": [
             "stupid"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他把筆記型電腦放在咖啡館沒上鎖，真是愚蠢。"
+          }
+        },
+        {
+          "en": "That was the stupidest mistake the new accountant has ever made.",
+          "highlight": [
+            "stupidest"
+          ],
+          "translations": {
+            "zh-TW": "那是新會計犯過最愚蠢的錯誤。"
+          }
+        },
+        {
+          "en": "I felt stupider after reading the confusing contract twice.",
+          "highlight": [
+            "stupider"
+          ],
+          "translations": {
+            "zh-TW": "把那份令人困惑的合約讀了兩遍之後，我覺得更糊塗了。"
           }
         }
       ],
       "synonyms": [
         "foolish",
-        "unintelligent"
+        "unintelligent",
+        "senseless"
       ],
       "antonyms": [
         "intelligent",
-        "smart"
+        "smart",
+        "clever"
       ],
       "phrases": [
-        "stupid",
-        "idea",
-        "stupid",
-        "decision"
+        "stupid mistake",
+        "stupid idea",
+        "feel stupid",
+        "stupid decision"
       ]
     },
     {
@@ -63,43 +85,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "styleed",
-        "past_participle": "styleed",
-        "present_participle": "styling",
-        "third_person": "styles"
+        "plural": "styles",
+        "present_3rd": "styles",
+        "past": "styled",
+        "past_participle": "styled",
+        "ing": "styling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "style",
-          "definition": "n. 風格, 時尚, 文体, 風度, 字体, 类型, vt. 称呼, (根据新款式)设计, 使合潮流, n. 風格, 樣式, [计] 風格, 樣式"
+          "definition": "n. 風格、款式、時尚  vt. 設計、造型"
         }
       ],
       "examples": [
         {
-          "en": "She has a unique style of writing.",
+          "en": "The hotel lobby was styled in a modern minimalist fashion.",
           "highlight": [
-            "style"
+            "styled"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "飯店大廳被設計成現代極簡的風格。"
+          }
+        },
+        {
+          "en": "She styles her hair differently for every business meeting.",
+          "highlight": [
+            "styles"
+          ],
+          "translations": {
+            "zh-TW": "她為每一場商務會議做不同的髮型。"
+          }
+        },
+        {
+          "en": "The stylist is styling the model for tomorrow's photo shoot.",
+          "highlight": [
+            "styling"
+          ],
+          "translations": {
+            "zh-TW": "造型師正在為模特兒做造型，為明天的拍照做準備。"
           }
         }
       ],
       "synonyms": [
+        "fashion",
         "manner",
         "mode"
       ],
       "antonyms": [
-        "disorganization",
-        "chaos"
+        "plainness",
+        "addresslessness"
       ],
       "phrases": [
-        "fashion",
-        "style",
-        "unique",
-        "style"
+        "hair style",
+        "life style",
+        "in style",
+        "personal style"
       ]
     },
     {
@@ -111,46 +153,67 @@
       "word": "subject",
       "pos": [
         "noun",
-        "verb"
+        "verb",
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "subjected",
+        "plural": "subjects",
+        "present_3rd": "subjects",
+        "past": "subjected",
         "past_participle": "subjected",
-        "present_participle": "subjecting",
-        "third_person": "subjects"
+        "ing": "subjecting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "subject",
-          "definition": "n. 科目, 主题, 臣民, 主語, 题目, (事物的)經受者, 学科, 受治疗者, 原因, 理由, a. 服从的, 易患...的, 隶属的, 受支配的, adv. 在...条件下, vt. 使隶属, 使受到, [计] 主题, 主体"
+          "definition": "n. 主題、科目、受試者  vt. 使服從、使遭受  a. 易受…的"
         }
       ],
       "examples": [
         {
-          "en": "The subject of the lecture was history.",
+          "en": "Please keep the discussion on subject during the meeting.",
           "highlight": [
             "subject"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "開會時請討論要保持在主題上。"
+          }
+        },
+        {
+          "en": "The employees were subjected to a lengthy bonus policy review.",
+          "highlight": [
+            "subjected"
+          ],
+          "translations": {
+            "zh-TW": "員工們被要求經歷一場冗長的紅利政策審查。"
+          }
+        },
+        {
+          "en": "The court is subjecting the evidence to careful examination.",
+          "highlight": [
+            "subjecting"
+          ],
+          "translations": {
+            "zh-TW": "法庭正對證據進行仔細的審查。"
           }
         }
       ],
       "synonyms": [
         "topic",
-        "theme"
+        "theme",
+        "issue"
       ],
       "antonyms": [
         "object",
-        "unrelated"
+        "unrelated matter"
       ],
       "phrases": [
-        "main",
-        "subject",
-        "study",
-        "subject"
+        "subject line",
+        "subject matter",
+        "on subject",
+        "subject to change"
       ]
     },
     {
@@ -165,44 +228,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "submited",
-        "past_participle": "submited",
-        "present_participle": "submiting",
-        "third_person": "submits"
+        "plural": "submits",
+        "present_3rd": "submits",
+        "past": "submitted",
+        "past_participle": "submitted",
+        "ing": "submitting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "submit",
-          "definition": "vt. 使服从, 使受到, 委托, 提交, 认為, vi. 屈服, 服从"
+          "definition": "vt. 提交、呈遞  vi. 屈服、服從"
         }
       ],
       "examples": [
         {
-          "en": "He had to submit to his boss's decision.",
+          "en": "You must submit your expense report by Friday afternoon.",
           "highlight": [
             "submit"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "你必須在週五下午前提交費用報告。"
+          }
+        },
+        {
+          "en": "She has submitted the final draft to the editorial team.",
+          "highlight": [
+            "submitted"
+          ],
+          "translations": {
+            "zh-TW": "她已經把最終稿提交給編輯團隊了。"
+          }
+        },
+        {
+          "en": "Submitting the application online is faster than mailing it.",
+          "highlight": [
+            "Submitting"
+          ],
+          "translations": {
+            "zh-TW": "線上提交申請比郵寄更快。"
           }
         }
       ],
       "synonyms": [
+        "present",
         "yield",
         "surrender"
       ],
       "antonyms": [
         "resist",
-        "defy"
+        "defy",
+        "withdraw"
       ],
       "phrases": [
-        "submit",
-        "a",
-        "report",
-        "submit",
-        "to"
+        "submit a report",
+        "submit an application",
+        "submit to",
+        "submit for approval"
       ]
     },
     {
@@ -213,44 +296,61 @@
       "toeic_score_min": 500,
       "word": "subsequent",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "subsequents"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "subsequent",
-          "definition": "a. 後來的, 接下去的, [經] 後來的"
+          "definition": "a. 後來的、隨後的、接續的"
         }
       ],
       "examples": [
         {
-          "en": "The subsequent events were unexpected.",
+          "en": "Subsequent reports confirmed our initial prediction about sales growth.",
+          "highlight": [
+            "Subsequent"
+          ],
+          "translations": {
+            "zh-TW": "後來的報告證實了我們最初對銷售成長的預測。"
+          }
+        },
+        {
+          "en": "The subsequent meeting resolved the issues raised in the first session.",
           "highlight": [
             "subsequent"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "隨後的會議解決了第一場會議提出的問題。"
+          }
+        },
+        {
+          "en": "Any subsequent modifications to the contract require board approval.",
+          "highlight": [
+            "subsequent"
+          ],
+          "translations": {
+            "zh-TW": "合約的任何後續修改都需要董事會的批准。"
           }
         }
       ],
       "synonyms": [
         "following",
-        "ensuing"
+        "ensuing",
+        "later"
       ],
       "antonyms": [
+        "previous",
         "preceding",
-        "previous"
+        "earlier"
       ],
       "phrases": [
-        "subsequent",
-        "chapter",
-        "subsequent",
-        "development"
+        "subsequent events",
+        "subsequent meeting",
+        "subsequent to",
+        "subsequent decision"
       ]
     },
     {
@@ -269,33 +369,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "subsequently",
-          "definition": "adv. 後來, 随後"
+          "definition": "adv. 後來、隨後、接著"
         }
       ],
       "examples": [
         {
-          "en": "He subsequently apologized for his mistake.",
+          "en": "The product was launched in March and subsequently became a best-seller.",
           "highlight": [
             "subsequently"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這款產品三月上市，隨後成為暢銷商品。"
+          }
+        },
+        {
+          "en": "He subsequently apologized for the tone of his email.",
+          "highlight": [
+            "subsequently"
+          ],
+          "translations": {
+            "zh-TW": "他後來為了電子郵件的語氣道了歉。"
+          }
+        },
+        {
+          "en": "The audit found errors; subsequently, the company revised its accounts.",
+          "highlight": [
+            "subsequently"
+          ],
+          "translations": {
+            "zh-TW": "稽核發現錯誤，於是公司隨後修正了帳目。"
           }
         }
       ],
       "synonyms": [
+        "later",
         "afterward",
-        "later"
+        "then"
       ],
       "antonyms": [
         "previously",
+        "earlier",
         "before"
       ],
       "phrases": [
-        "subsequently",
-        "found",
-        "subsequently",
-        "realized"
+        "subsequently found",
+        "subsequently realized",
+        "subsequently moved",
+        "and subsequently"
       ]
     },
     {
@@ -306,44 +426,59 @@
       "toeic_score_min": 500,
       "word": "substance",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "substanceed",
-        "past_participle": "substanceed",
-        "present_participle": "substancing",
-        "third_person": "substances"
+        "plural": "substances"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "substance",
-          "definition": "n. 物质, 實质, 主旨, 资产, 本质, 牢固, [化] 物质"
+          "definition": "n. 物質、實質、主旨、根據"
         }
       ],
       "examples": [
         {
-          "en": "Water is a substance essential for life.",
+          "en": "The chemist analyzed the unknown substance found at the factory.",
           "highlight": [
             "substance"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "化學家分析在工廠發現的不明物質。"
+          }
+        },
+        {
+          "en": "Several harmful substances were detected in the river samples.",
+          "highlight": [
+            "substances"
+          ],
+          "translations": {
+            "zh-TW": "在河川樣本中檢測出數種有害物質。"
+          }
+        },
+        {
+          "en": "His argument lacks substance and will not convince the board.",
+          "highlight": [
+            "substance"
+          ],
+          "translations": {
+            "zh-TW": "他的論點缺乏實質內容，無法說服董事會。"
           }
         }
       ],
       "synonyms": [
         "material",
-        "matter"
+        "matter",
+        "content"
       ],
       "antonyms": [],
       "phrases": [
-        "chemical",
-        "substance",
-        "toxic",
-        "substance"
+        "chemical substance",
+        "harmful substance",
+        "in substance",
+        "controlled substance"
       ]
     },
     {
@@ -354,44 +489,64 @@
       "toeic_score_min": 500,
       "word": "substantial",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "substantials"
+        "comparative": "more substantial",
+        "superlative": "most substantial"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "substantial",
-          "definition": "n. 重要材料(或事物), 有實际价值的东西, a. 實质上的, 物质的, 有内容的, 結實的"
+          "definition": "a. 大量的、可觀的、實質的、堅固的"
         }
       ],
       "examples": [
         {
-          "en": "She received a substantial raise.",
+          "en": "The company made a substantial profit this quarter.",
           "highlight": [
             "substantial"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司本季創造了可觀的利潤。"
+          }
+        },
+        {
+          "en": "The second contract was more substantial than the original draft.",
+          "highlight": [
+            "more substantial"
+          ],
+          "translations": {
+            "zh-TW": "第二份合約比原稿更實質。"
+          }
+        },
+        {
+          "en": "This report contains the most substantial evidence in the case.",
+          "highlight": [
+            "most substantial"
+          ],
+          "translations": {
+            "zh-TW": "這份報告包含了本案中最具實質的證據。"
           }
         }
       ],
       "synonyms": [
         "considerable",
-        "significant"
+        "significant",
+        "sizeable"
       ],
       "antonyms": [
         "insignificant",
-        "trivial"
+        "trivial",
+        "minor"
       ],
       "phrases": [
-        "substantial",
-        "amount",
-        "substantial",
-        "evidence"
+        "substantial amount",
+        "substantial evidence",
+        "substantial sum",
+        "substantial improvement"
       ]
     },
     {
@@ -410,33 +565,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "substantially",
-          "definition": "adv. 實质上, 本质上, 大体上"
+          "definition": "adv. 實質上、大幅地、基本上"
         }
       ],
       "examples": [
         {
-          "en": "The building was substantially damaged.",
+          "en": "The new policy substantially reduced the company's operating costs.",
           "highlight": [
             "substantially"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新政策大幅降低了公司的營運成本。"
+          }
+        },
+        {
+          "en": "Revenue grew substantially after the marketing campaign launched.",
+          "highlight": [
+            "substantially"
+          ],
+          "translations": {
+            "zh-TW": "行銷活動推出後，營收大幅成長。"
+          }
+        },
+        {
+          "en": "The two proposals are substantially similar in their core structure.",
+          "highlight": [
+            "substantially"
+          ],
+          "translations": {
+            "zh-TW": "兩份提案在核心結構上基本相似。"
           }
         }
       ],
       "synonyms": [
         "greatly",
-        "significantly"
+        "significantly",
+        "considerably"
       ],
       "antonyms": [
         "slightly",
-        "marginally"
+        "marginally",
+        "barely"
       ],
       "phrases": [
-        "substantially",
-        "increase",
-        "substantially",
-        "improve"
+        "substantially increase",
+        "substantially improve",
+        "substantially reduce",
+        "substantially similar"
       ]
     },
     {
@@ -451,44 +626,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "substituteed",
-        "past_participle": "substituteed",
-        "present_participle": "substituting",
-        "third_person": "substitutes"
+        "plural": "substitutes",
+        "present_3rd": "substitutes",
+        "past": "substituted",
+        "past_participle": "substituted",
+        "ing": "substituting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "substitute",
-          "definition": "n. 代理, 代理人, 代用品, 代替者, 代替物, vt. 代替, vi. 替代, 取代, 代用, a. 代替的, 代用的, 代用品的, [计] 置换; 替代"
+          "definition": "n. 代替者、代用品  vt. 代替、取代  vi. 替代"
         }
       ],
       "examples": [
         {
-          "en": "He was a substitute teacher.",
+          "en": "We need to find a substitute for the lead presenter today.",
           "highlight": [
             "substitute"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們今天得找一位主講人的替代者。"
+          }
+        },
+        {
+          "en": "The chef substituted olive oil for butter in the recipe.",
+          "highlight": [
+            "substituted"
+          ],
+          "translations": {
+            "zh-TW": "主廚在食譜中以橄欖油取代奶油。"
+          }
+        },
+        {
+          "en": "She is substituting for the manager while he is on vacation.",
+          "highlight": [
+            "substituting"
+          ],
+          "translations": {
+            "zh-TW": "她在經理休假時代理他的職務。"
           }
         }
       ],
       "synonyms": [
         "replacement",
-        "alternate"
+        "alternate",
+        "stand-in"
       ],
       "antonyms": [
         "original",
         "primary"
       ],
       "phrases": [
-        "substitute",
-        "for",
-        "act",
-        "as",
-        "a"
+        "substitute for",
+        "substitute teacher",
+        "substitute player",
+        "substitute product"
       ]
     }
   ]
