@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 252,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-252-001",
@@ -11,44 +11,61 @@
       "toeic_score_min": 500,
       "word": "selection",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "selectioned",
-        "past_participle": "selectioned",
-        "present_participle": "selectioning",
-        "third_person": "selections"
+        "plural": "selections"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "selection",
-          "definition": "n. 选择, 选文, 精选品, [医] 选择, 淘汰"
+          "definition": "n. 選擇、挑選、精選品、選拔"
         }
       ],
       "examples": [
         {
-          "en": "The selection process was rigorous.",
+          "en": "The store offers a wide selection of office supplies for corporate clients.",
           "highlight": [
             "selection"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家店為企業客戶提供種類繁多的辦公用品供選擇。"
+          }
+        },
+        {
+          "en": "The manager reviewed the candidates' selections before the final interview round.",
+          "highlight": [
+            "selections"
+          ],
+          "translations": {
+            "zh-TW": "經理在最終面試前審查了候選人的各項選擇紀錄。"
+          }
+        },
+        {
+          "en": "Careful selection of suppliers is critical to maintaining product quality.",
+          "highlight": [
+            "selection"
+          ],
+          "translations": {
+            "zh-TW": "謹慎挑選供應商對維持產品品質至關重要。"
           }
         }
       ],
       "synonyms": [
         "choice",
-        "pick"
+        "pick",
+        "option"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "rejection"
+      ],
       "phrases": [
-        "wide",
-        "selection",
-        "selection",
-        "process"
+        "selection process",
+        "wide selection",
+        "natural selection",
+        "selection criteria"
       ]
     },
     {
@@ -63,37 +80,58 @@
         "adjective"
       ],
       "conjugations": {
-        "plural": "selfs"
+        "plural": "selves"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "self",
-          "definition": "n. 自己, 自我, 本性, 本质, 私心, 本人, vt. 使近亲繁殖, 使自花授精, vi. 自花授精, a. 同一的"
+          "definition": "n. 自我、自己、本性  a. 自己的、本身的"
         }
       ],
       "examples": [
         {
-          "en": "She has a strong sense of self.",
+          "en": "A strong sense of self helps professionals navigate difficult workplace decisions.",
           "highlight": [
             "self"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "強烈的自我意識有助於專業人士在職場上做出困難的決定。"
+          }
+        },
+        {
+          "en": "The team members held a self-assessment meeting before the annual review.",
+          "highlight": [
+            "self"
+          ],
+          "translations": {
+            "zh-TW": "團隊成員在年度績效考核前召開了自我評估會議。"
+          }
+        },
+        {
+          "en": "Employees are encouraged to reflect on their professional selves during training.",
+          "highlight": [
+            "selves"
+          ],
+          "translations": {
+            "zh-TW": "公司鼓勵員工在培訓期間反思自己的職業自我。"
           }
         }
       ],
       "synonyms": [
         "identity",
-        "individuality"
+        "individuality",
+        "ego"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "other"
+      ],
       "phrases": [
-        "sense",
-        "of",
-        "self",
-        "self-esteem"
+        "sense of self",
+        "self-confidence",
+        "self-employed",
+        "self-service"
       ]
     },
     {
@@ -108,44 +146,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "selled",
-        "past_participle": "selled",
-        "present_participle": "selling",
-        "third_person": "sells"
+        "plural": "sells",
+        "present_3rd": "sells",
+        "past": "sold",
+        "past_participle": "sold",
+        "ing": "selling"
       },
-      "domain": "general",
+      "domain": "commerce",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sell",
-          "definition": "vt. 賣, 背叛, 销售, 出賣, vi. 賣, 销售, n. 賣, 推销术, 失望"
+          "definition": "v. 賣、銷售、推銷  n. 銷售、推銷"
         }
       ],
       "examples": [
         {
-          "en": "They decided to sell their car.",
+          "en": "The company sells software subscriptions to businesses across Asia.",
           "highlight": [
-            "sell"
+            "sells"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家公司向亞洲各地的企業銷售軟體訂閱服務。"
+          }
+        },
+        {
+          "en": "They sold their old factory equipment at a reasonable price before relocating.",
+          "highlight": [
+            "sold"
+          ],
+          "translations": {
+            "zh-TW": "他們在搬遷前以合理的價格賣掉了舊廠房設備。"
+          }
+        },
+        {
+          "en": "The sales team has been selling the new product line for over six months.",
+          "highlight": [
+            "selling"
+          ],
+          "translations": {
+            "zh-TW": "業務團隊推銷新產品線已經超過半年了。"
           }
         }
       ],
       "synonyms": [
         "vend",
-        "market"
+        "market",
+        "retail"
       ],
       "antonyms": [
         "buy",
         "purchase"
       ],
       "phrases": [
-        "sell",
-        "a",
-        "car",
-        "sell",
-        "online"
+        "sell out",
+        "sell off",
+        "best-selling",
+        "hard sell"
       ]
     },
     {
@@ -156,44 +213,59 @@
       "toeic_score_min": 500,
       "word": "semester",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "semestered",
-        "past_participle": "semestered",
-        "present_participle": "semestering",
-        "third_person": "semesters"
+        "plural": "semesters"
       },
-      "domain": "general",
+      "domain": "education",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "semester",
-          "definition": "n. 学期"
+          "definition": "n. 學期、半學年"
         }
       ],
       "examples": [
         {
-          "en": "The fall semester starts in September.",
+          "en": "The fall semester begins in late August and ends before Christmas.",
           "highlight": [
             "semester"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "秋季學期從八月底開始,聖誕節前結束。"
+          }
+        },
+        {
+          "en": "International students must complete two full semesters before applying for an internship.",
+          "highlight": [
+            "semesters"
+          ],
+          "translations": {
+            "zh-TW": "國際學生必須完成兩個完整學期才能申請實習。"
+          }
+        },
+        {
+          "en": "She plans to study abroad during the spring semester of her junior year.",
+          "highlight": [
+            "semester"
+          ],
+          "translations": {
+            "zh-TW": "她計畫在大三的春季學期出國留學。"
           }
         }
       ],
       "synonyms": [
         "term",
-        "period"
+        "session",
+        "half-year"
       ],
       "antonyms": [],
       "phrases": [
-        "fall",
-        "semester",
-        "spring",
-        "semester"
+        "fall semester",
+        "spring semester",
+        "semester break",
+        "summer semester"
       ]
     },
     {
@@ -204,48 +276,66 @@
       "toeic_score_min": 500,
       "word": "send",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "sended",
-        "past_participle": "sended",
-        "present_participle": "sending",
-        "third_person": "sends"
+        "plural": "sends",
+        "present_3rd": "sends",
+        "past": "sent",
+        "past_participle": "sent",
+        "ing": "sending"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "send",
-          "definition": "vt. 發送, 使进入, 寄, 派遣, 發射, 使陷于, vi. 寄信, 派人, 播送, n. (船的)上升運動, [计] 發送"
+          "definition": "v. 寄送、發送、派遣、傳送"
         }
       ],
       "examples": [
         {
-          "en": "She sent a letter to her friend.",
+          "en": "Please send the revised contract to the client by Friday afternoon.",
           "highlight": [
             "send"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在週五下午前將修改後的合約寄給客戶。"
+          }
+        },
+        {
+          "en": "The assistant sent the meeting agenda to all participants last night.",
+          "highlight": [
+            "sent"
+          ],
+          "translations": {
+            "zh-TW": "助理昨晚已將會議議程發送給所有與會者。"
+          }
+        },
+        {
+          "en": "Our system sends an automatic confirmation email after each successful booking.",
+          "highlight": [
+            "sends"
+          ],
+          "translations": {
+            "zh-TW": "我們的系統在每次成功預約後會自動寄送確認電子郵件。"
           }
         }
       ],
       "synonyms": [
         "dispatch",
-        "deliver"
+        "deliver",
+        "transmit"
       ],
       "antonyms": [
         "receive",
         "accept"
       ],
       "phrases": [
-        "send",
-        "a",
-        "letter",
-        "send",
-        "an"
+        "send out",
+        "send off",
+        "send for",
+        "send back"
       ]
     },
     {
@@ -267,33 +357,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "senior",
-          "definition": "n. 年長者, 资深者, 毕业班学生, a. 年長的, 高級的, 资深的"
+          "definition": "a. 資深的、年長的、高級的  n. 資深者、大四學生、長輩"
         }
       ],
       "examples": [
         {
-          "en": "The senior members of the team took charge.",
+          "en": "The senior manager approved the budget increase after reviewing all proposals.",
           "highlight": [
             "senior"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "資深經理在審查所有提案後批准了預算的增加。"
+          }
+        },
+        {
+          "en": "Many seniors prefer to continue working part-time well past retirement age.",
+          "highlight": [
+            "seniors"
+          ],
+          "translations": {
+            "zh-TW": "許多年長者偏好在退休年齡後繼續兼職工作。"
+          }
+        },
+        {
+          "en": "As the senior partner, Mr. Lee has the final say on major investment decisions.",
+          "highlight": [
+            "senior"
+          ],
+          "translations": {
+            "zh-TW": "身為資深合夥人,李先生對重大投資決策有最終決定權。"
           }
         }
       ],
       "synonyms": [
         "elder",
-        "experienced"
+        "experienced",
+        "veteran"
       ],
       "antonyms": [
         "junior",
         "younger"
       ],
       "phrases": [
-        "senior",
-        "citizen",
-        "senior",
-        "member"
+        "senior citizen",
+        "senior partner",
+        "senior manager",
+        "senior high school"
       ]
     },
     {
@@ -308,41 +417,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "senseed",
-        "past_participle": "senseed",
-        "present_participle": "sensing",
-        "third_person": "senses"
+        "plural": "senses",
+        "present_3rd": "senses",
+        "past": "sensed",
+        "past_participle": "sensed",
+        "ing": "sensing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sense",
-          "definition": "n. 感应, 感觉, 感官, 意识, 观念, 情理, 知觉, 理智, vt. 感觉, 觉察, 检测, [计] 阅读; 检测"
+          "definition": "n. 感覺、感官、意識、理智、意義  v. 感覺到、察覺"
         }
       ],
       "examples": [
         {
-          "en": "He has a good sense of humor.",
+          "en": "Good leaders have a strong sense of timing when launching new products.",
           "highlight": [
             "sense"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "優秀的領導者在推出新產品時有很強的時機判斷力。"
+          }
+        },
+        {
+          "en": "The analyst sensed an opportunity in the Southeast Asian market before competitors did.",
+          "highlight": [
+            "sensed"
+          ],
+          "translations": {
+            "zh-TW": "分析師在競爭對手之前就察覺到東南亞市場的商機。"
+          }
+        },
+        {
+          "en": "Investors sense growing uncertainty in the market despite strong quarterly earnings.",
+          "highlight": [
+            "sense"
+          ],
+          "translations": {
+            "zh-TW": "儘管季度獲利強勁,投資人仍察覺到市場日益增加的不確定性。"
           }
         }
       ],
       "synonyms": [
         "perception",
+        "feeling",
         "awareness"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "insensitivity"
+      ],
       "phrases": [
-        "sense",
-        "of",
-        "humor",
-        "sense",
-        "of"
+        "sense of humor",
+        "sense of urgency",
+        "make sense",
+        "common sense"
       ]
     },
     {
@@ -353,44 +483,63 @@
       "toeic_score_min": 500,
       "word": "sensible",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "sensibles"
+        "comparative": "more sensible",
+        "superlative": "most sensible"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sensible",
-          "definition": "a. 有感觉的, 敏感的, 明智的, [医] 可感觉的"
+          "definition": "a. 明智的、合理的、切合實際的"
         }
       ],
       "examples": [
         {
-          "en": "It was a sensible decision.",
+          "en": "The committee made a sensible decision to delay the product launch until testing finished.",
           "highlight": [
             "sensible"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "委員會做出明智的決定,將產品發表延後到測試完成後。"
+          }
+        },
+        {
+          "en": "It would be more sensible to invest gradually rather than committing all funds at once.",
+          "highlight": [
+            "more sensible"
+          ],
+          "translations": {
+            "zh-TW": "逐步投資會比一次投入所有資金更為合理。"
+          }
+        },
+        {
+          "en": "Analysts agreed this was the most sensible approach given the current market volatility.",
+          "highlight": [
+            "most sensible"
+          ],
+          "translations": {
+            "zh-TW": "分析師一致認為,在當前市場波動下這是最明智的做法。"
           }
         }
       ],
       "synonyms": [
-        "wise",
-        "prudent"
+        "rational",
+        "practical",
+        "judicious"
       ],
       "antonyms": [
         "foolish",
         "imprudent"
       ],
       "phrases": [
-        "sensible",
-        "decision",
-        "sensible",
-        "choice"
+        "sensible choice",
+        "sensible decision",
+        "sensible price",
+        "sensible investment"
       ]
     },
     {
@@ -401,44 +550,63 @@
       "toeic_score_min": 500,
       "word": "sensitive",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "sensitives"
+        "comparative": "more sensitive",
+        "superlative": "most sensitive"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sensitive",
-          "definition": "a. 敏感的, 易感的, 灵敏的, 感光的, [机] 敏感的, 灵敏的, 感度高的"
+          "definition": "a. 敏感的、靈敏的、體貼的、易受影響的"
         }
       ],
       "examples": [
         {
-          "en": "She is very sensitive to criticism.",
+          "en": "Customer service staff must be sensitive to clients from diverse cultural backgrounds.",
           "highlight": [
             "sensitive"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "客服人員必須體貼來自不同文化背景的客戶。"
+          }
+        },
+        {
+          "en": "This particular issue is more sensitive than the others and must be handled carefully.",
+          "highlight": [
+            "more sensitive"
+          ],
+          "translations": {
+            "zh-TW": "這個特定的議題比其他議題更為敏感,必須謹慎處理。"
+          }
+        },
+        {
+          "en": "Medical equipment contains highly sensitive components that should not be exposed to dust.",
+          "highlight": [
+            "sensitive"
+          ],
+          "translations": {
+            "zh-TW": "醫療設備含有極度精密的零件,不應暴露於灰塵中。"
           }
         }
       ],
       "synonyms": [
-        "responsive",
-        "reactive"
+        "receptive",
+        "delicate",
+        "responsive"
       ],
       "antonyms": [
         "insensitive",
-        "unresponsive"
+        "indifferent"
       ],
       "phrases": [
-        "highly",
-        "sensitive",
-        "sensitive",
-        "to"
+        "sensitive data",
+        "highly sensitive",
+        "sensitive to",
+        "sensitive issue"
       ]
     },
     {
@@ -453,40 +621,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "sentenceed",
-        "past_participle": "sentenceed",
-        "present_participle": "sentencing",
-        "third_person": "sentences"
+        "plural": "sentences",
+        "present_3rd": "sentences",
+        "past": "sentenced",
+        "past_participle": "sentenced",
+        "ing": "sentencing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sentence",
-          "definition": "n. 句子, 命题, 宣判, vt. 宣判, 判决, [计] 句子"
+          "definition": "n. 句子、判決  v. 宣判、判處"
         }
       ],
       "examples": [
         {
-          "en": "He wrote a complex sentence.",
+          "en": "Each sentence in the contract should be reviewed carefully before signing.",
           "highlight": [
             "sentence"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "合約中的每一句話在簽署前都應該仔細審閱。"
+          }
+        },
+        {
+          "en": "The court sentenced the former executive to three years for corporate fraud.",
+          "highlight": [
+            "sentenced"
+          ],
+          "translations": {
+            "zh-TW": "法庭因企業詐欺罪判處前任主管三年徒刑。"
+          }
+        },
+        {
+          "en": "The judge is currently sentencing defendants involved in the high-profile case.",
+          "highlight": [
+            "sentencing"
+          ],
+          "translations": {
+            "zh-TW": "法官目前正在對捲入這起備受矚目案件的被告宣判。"
           }
         }
       ],
       "synonyms": [
         "phrase",
-        "clause"
+        "judgment",
+        "verdict"
       ],
       "antonyms": [],
       "phrases": [
-        "complete",
-        "sentence",
-        "complex",
-        "sentence"
+        "complete sentence",
+        "complex sentence",
+        "prison sentence",
+        "death sentence"
       ]
     }
   ]
