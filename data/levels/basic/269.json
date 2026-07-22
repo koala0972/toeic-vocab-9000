@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 269,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-269-001",
@@ -15,43 +15,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "spended",
-        "past_participle": "spended",
-        "present_participle": "spending",
-        "third_person": "spends"
+        "present_3rd": "spends",
+        "past": "spent",
+        "past_participle": "spent",
+        "ing": "spending"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "spend",
-          "definition": "vt. 花费, 浪费, 度過, 消耗, 消磨, vi. 花费, 用盡"
+          "definition": "v. 花費（金錢、時間）、度過、消耗  n. 開銷、經費"
         }
       ],
       "examples": [
         {
-          "en": "They spend a lot of money on travel.",
+          "en": "We usually spend about twenty minutes reviewing the weekly report.",
           "highlight": [
             "spend"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們通常花大約二十分鐘審查每週報告。"
+          }
+        },
+        {
+          "en": "The company spent a fortune upgrading its security system last year.",
+          "highlight": [
+            "spent"
+          ],
+          "translations": {
+            "zh-TW": "公司去年花了一大筆錢升級它的安全系統。"
+          }
+        },
+        {
+          "en": "Spending too much time on social media can hurt your productivity.",
+          "highlight": [
+            "Spending"
+          ],
+          "translations": {
+            "zh-TW": "花太多時間在社群媒體上會損害你的生產力。"
           }
         }
       ],
       "synonyms": [
         "expend",
-        "disburse"
+        "pay out",
+        "use up"
       ],
       "antonyms": [
         "save",
         "conserve"
       ],
       "phrases": [
-        "spend",
-        "money",
-        "spend",
-        "time"
+        "spend time",
+        "spend money",
+        "spend effort",
+        "spend the night"
       ]
     },
     {
@@ -66,41 +85,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "spiceed",
-        "past_participle": "spiceed",
-        "present_participle": "spicing",
-        "third_person": "spices"
+        "plural": "spices",
+        "present_3rd": "spices",
+        "past": "spiced",
+        "past_participle": "spiced",
+        "ing": "spicing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "spice",
-          "definition": "n. 香料, 药料, 香气, 调味品, 情趣, 少许, vt. 加香料, 使添趣味"
+          "definition": "n. 香料、調味品、情趣  v. 加香料於、使增添趣味"
         }
       ],
       "examples": [
         {
-          "en": "Add some spice to the dish.",
+          "en": "A pinch of spice can completely transform a bland dish.",
           "highlight": [
             "spice"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "一小撮香料就能讓清淡的菜餚徹底改觀。"
+          }
+        },
+        {
+          "en": "The market stall displayed dozens of spices from India and Morocco.",
+          "highlight": [
+            "spices"
+          ],
+          "translations": {
+            "zh-TW": "市場攤位展示了數十種來自印度和摩洛哥的香料。"
+          }
+        },
+        {
+          "en": "The chef spiced the stew with cinnamon and cloves before serving it.",
+          "highlight": [
+            "spiced"
+          ],
+          "translations": {
+            "zh-TW": "廚師在上菜前用肉桂和丁香為燉菜調味。"
           }
         }
       ],
       "synonyms": [
         "seasoning",
-        "flavor"
+        "flavor",
+        "herb"
       ],
       "antonyms": [],
       "phrases": [
-        "add",
-        "spice",
-        "blend",
-        "of",
-        "spices"
+        "spice rack",
+        "add spice to",
+        "variety is the spice of life",
+        "blend of spices"
       ]
     },
     {
@@ -111,44 +149,63 @@
       "toeic_score_min": 500,
       "word": "spicy",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "spicies"
+        "comparative": "spicier",
+        "superlative": "spiciest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "spicy",
-          "definition": "a. 香的, 多香料的, 辛辣的, 下流的"
+          "definition": "adj. 辛辣的、香味濃的、刺激的"
         }
       ],
       "examples": [
         {
-          "en": "The food is very spicy.",
+          "en": "The Thai green curry was delicious but a bit spicy for my taste.",
           "highlight": [
             "spicy"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這道泰式綠咖哩很美味，但對我的口味來說有點辣。"
+          }
+        },
+        {
+          "en": "This salsa is much spicier than the one we ordered last week.",
+          "highlight": [
+            "spicier"
+          ],
+          "translations": {
+            "zh-TW": "這款莎莎醬比我們上週點的那個辣得多。"
+          }
+        },
+        {
+          "en": "His friends dared him to try the spiciest ramen on the menu.",
+          "highlight": [
+            "spiciest"
+          ],
+          "translations": {
+            "zh-TW": "朋友們慫恿他試試菜單上最辣的拉麵。"
           }
         }
       ],
       "synonyms": [
         "hot",
-        "seasoned"
+        "piquant",
+        "zesty"
       ],
       "antonyms": [
         "bland",
         "mild"
       ],
       "phrases": [
-        "spicy",
-        "food",
-        "spicy",
-        "flavor"
+        "spicy food",
+        "spicy flavor",
+        "spicy sauce",
+        "spicy taste"
       ]
     },
     {
@@ -159,43 +216,59 @@
       "toeic_score_min": 500,
       "word": "spider",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "spidered",
-        "past_participle": "spidered",
-        "present_participle": "spidering",
-        "third_person": "spiders"
+        "plural": "spiders"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "spider",
-          "definition": "n. 蜘蛛, 设圈套者, [化] 星形轮"
+          "definition": "n. 蜘蛛、設圈套者、星形輪"
         }
       ],
       "examples": [
         {
-          "en": "There is a spider on the wall.",
+          "en": "A tiny spider crawled across the bathroom ceiling this morning.",
           "highlight": [
             "spider"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "今天早上有一隻小蜘蛛爬過浴室的天花板。"
+          }
+        },
+        {
+          "en": "During the hike we saw several spiders spinning webs between the branches.",
+          "highlight": [
+            "spiders"
+          ],
+          "translations": {
+            "zh-TW": "健行途中我們看見好幾隻蜘蛛在樹枝間結網。"
+          }
+        },
+        {
+          "en": "The IT team used an automated spider to index every page on the company website.",
+          "highlight": [
+            "spider"
+          ],
+          "translations": {
+            "zh-TW": "IT 團隊使用自動爬蟲程式為公司網站的每個頁面建立索引。"
           }
         }
       ],
       "synonyms": [
-        "arachnid"
+        "arachnid",
+        "crawler",
+        "bot"
       ],
       "antonyms": [],
       "phrases": [
-        "spider",
-        "web",
-        "spider",
-        "bite"
+        "spider web",
+        "spider bite",
+        "spider crab",
+        "web spider"
       ]
     },
     {
@@ -210,44 +283,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "spined",
-        "past_participle": "spined",
-        "present_participle": "spining",
-        "third_person": "spins"
+        "present_3rd": "spins",
+        "past": "spun",
+        "past_participle": "spun",
+        "ing": "spinning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "spin",
-          "definition": "n. 旋转, 自旋, 疾驰, 情绪低落, vt. 纺织, 纺, 使旋转, 编造, vi. 纺纱, 吐丝, 作茧, 結网, 旋转, 自旋, 疾驰"
+          "definition": "v. 旋轉、紡（紗）、編造（故事）  n. 旋轉、自旋、疾馳"
         }
       ],
       "examples": [
         {
-          "en": "The dancer spun gracefully.",
+          "en": "The marketing team will spin the bad news into a positive story.",
           "highlight": [
             "spin"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "行銷團隊會把這個壞消息扭轉成正向的故事。"
+          }
+        },
+        {
+          "en": "The wheel spun rapidly before coming to a halt at the winning slot.",
+          "highlight": [
+            "spun"
+          ],
+          "translations": {
+            "zh-TW": "輪盤快速旋轉後停在了中獎的格子上。"
+          }
+        },
+        {
+          "en": "Spinning cotton into thread was the village's main industry for centuries.",
+          "highlight": [
+            "Spinning"
+          ],
+          "translations": {
+            "zh-TW": "將棉花紡成紗線幾世紀以來都是這座村莊的主要產業。"
           }
         }
       ],
       "synonyms": [
         "twirl",
-        "rotate"
+        "rotate",
+        "whirl"
       ],
       "antonyms": [
         "stop",
-        "still"
+        "halt"
       ],
       "phrases": [
-        "spin",
-        "around",
-        "spin",
-        "a",
-        "wheel"
+        "spin around",
+        "spin off",
+        "spin a tale",
+        "spin out of control"
       ]
     },
     {
@@ -258,8 +349,7 @@
       "toeic_score_min": 500,
       "word": "spirit",
       "pos": [
-        "noun",
-        "adjective"
+        "noun"
       ],
       "conjugations": {
         "plural": "spirits"
@@ -269,33 +359,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "spirit",
-          "definition": "n. 精神, 心灵, 灵魂, 态度, 志气, 人格, 情绪, 心情, 烈酒, vt. 诱拐, 鼓励, 鼓舞"
+          "definition": "n. 精神、心靈、靈魂、態度、士氣、烈酒"
         }
       ],
       "examples": [
         {
-          "en": "He has a strong spirit.",
+          "en": "Despite the setback, the team never lost its competitive spirit.",
           "highlight": [
             "spirit"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "儘管遇到挫折，團隊從未失去競爭的精神。"
+          }
+        },
+        {
+          "en": "The volunteers' spirits rose when they saw how many people showed up to help.",
+          "highlight": [
+            "spirits"
+          ],
+          "translations": {
+            "zh-TW": "當志工們看到有這麼多人前來幫忙時，士氣大振。"
+          }
+        },
+        {
+          "en": "A glass of spirit after dinner is a tradition in this mountain village.",
+          "highlight": [
+            "spirit"
+          ],
+          "translations": {
+            "zh-TW": "晚餐後喝一杯烈酒是這座山村的一項傳統。"
           }
         }
       ],
       "synonyms": [
         "soul",
-        "essence"
+        "essence",
+        "mood"
       ],
       "antonyms": [
         "body",
         "flesh"
       ],
       "phrases": [
-        "indomitable",
-        "spirit",
-        "community",
-        "spirit"
+        "team spirit",
+        "in good spirits",
+        "break the spirit",
+        "free spirit"
       ]
     },
     {
@@ -317,33 +426,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "spiritual",
-          "definition": "a. 精神上的, 神圣的, 崇高的, 高尚的, 鬼的, 招魂术的, n. 有關教會的事"
+          "definition": "adj. 精神上的、心靈的、宗教的  n. 聖歌、黑人靈歌"
         }
       ],
       "examples": [
         {
-          "en": "She is on a spiritual journey.",
+          "en": "Many people find a sense of purpose through spiritual practices like meditation.",
           "highlight": [
             "spiritual"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "許多人透過冥想等靈性修行找到目標感。"
+          }
+        },
+        {
+          "en": "He has become more spiritually aware as he grows older, attending weekly services now.",
+          "highlight": [
+            "spiritually"
+          ],
+          "translations": {
+            "zh-TW": "隨著年紀增長，他變得更注重靈性生活，現在每週都參加禮拜。"
+          }
+        },
+        {
+          "en": "The African American spirituals sung by the choir moved everyone in the audience to tears.",
+          "highlight": [
+            "spirituals"
+          ],
+          "translations": {
+            "zh-TW": "合唱團演唱的非裔美國人靈歌讓在場聽眾感動落淚。"
           }
         }
       ],
       "synonyms": [
         "religious",
-        "ethereal"
+        "sacred",
+        "inner"
       ],
       "antonyms": [
         "material",
-        "physical"
+        "physical",
+        "worldly"
       ],
       "phrases": [
-        "spiritual",
-        "leader",
-        "spiritual",
-        "growth"
+        "spiritual growth",
+        "spiritual leader",
+        "spiritual journey",
+        "spiritual well-being"
       ]
     },
     {
@@ -358,44 +487,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "spiteed",
-        "past_participle": "spiteed",
-        "present_participle": "spiting",
-        "third_person": "spites"
+        "plural": "spites",
+        "present_3rd": "spites",
+        "past": "spited",
+        "past_participle": "spited",
+        "ing": "spiting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "spite",
-          "definition": "n. 恶意, 怨恨, 使人烦恼的事物, vt. 故意刁難, 欺侮"
+          "definition": "n. 惡意、怨恨  v. 故意刁難、洩憤"
         }
       ],
       "examples": [
         {
-          "en": "He did it out of spite.",
+          "en": "He refused to sign the contract out of sheer spite toward the new manager.",
           "highlight": [
             "spite"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他出於對新任經理純粹的惡意，拒絕簽署合約。"
+          }
+        },
+        {
+          "en": "The rival candidate spited his opponent by leaking an embarrassing memo to the press.",
+          "highlight": [
+            "spited"
+          ],
+          "translations": {
+            "zh-TW": "競爭對手把一份令人難堪的備忘錄洩漏給媒體，藉以報復他的對手。"
+          }
+        },
+        {
+          "en": "Spiting your colleagues will only damage your own reputation in the long run.",
+          "highlight": [
+            "Spiting"
+          ],
+          "translations": {
+            "zh-TW": "長遠來看，故意刁難同事只會損害你自己的名聲。"
           }
         }
       ],
       "synonyms": [
         "malice",
-        "bitterness"
+        "bitterness",
+        "grudge"
       ],
       "antonyms": [
         "kindness",
         "goodwill"
       ],
       "phrases": [
-        "out",
-        "of",
-        "spite",
-        "with",
-        "spite"
+        "out of spite",
+        "in spite of",
+        "cut off your nose to spite your face",
+        "bear a spite"
       ]
     },
     {
@@ -410,44 +558,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "splited",
-        "past_participle": "splited",
-        "present_participle": "spliting",
-        "third_person": "splits"
+        "present_3rd": "splits",
+        "past": "split",
+        "past_participle": "split",
+        "ing": "splitting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "split",
-          "definition": "n. 劈开, 裂片, 裂缝, 分裂, 派系, 派别, 柳条, a. 劈开的, vi. 分離, 分开, 裂开, 被劈开, vt. 劈开, 切开, 使分裂, 使分離, [计] 拆分"
+          "definition": "v. 劈開、分裂、分攤  n. 裂縫、分歧、分工"
         }
       ],
       "examples": [
         {
-          "en": "She split the log in two.",
+          "en": "The board decided to split the project into three smaller phases.",
           "highlight": [
             "split"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "董事會決定把這個專案分成三個較小的階段。"
+          }
+        },
+        {
+          "en": "After hours of debate, the committee finally split the budget evenly across all departments.",
+          "highlight": [
+            "split"
+          ],
+          "translations": {
+            "zh-TW": "經過數小時辯論，委員會終於將預算在所有部門之間均分。"
+          }
+        },
+        {
+          "en": "Splitting the team into two shifts improved our response time significantly.",
+          "highlight": [
+            "Splitting"
+          ],
+          "translations": {
+            "zh-TW": "將團隊分成兩班輪值大幅提升了我們的回應速度。"
           }
         }
       ],
       "synonyms": [
         "divide",
-        "separate"
+        "separate",
+        "cleave"
       ],
       "antonyms": [
         "join",
-        "unite"
+        "unite",
+        "merge"
       ],
       "phrases": [
-        "split",
-        "the",
-        "difference",
-        "split",
-        "apart"
+        "split the difference",
+        "split up",
+        "split second",
+        "split decision"
       ]
     },
     {
@@ -462,44 +629,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "spoiled",
+        "plural": "spoils",
+        "present_3rd": "spoils",
+        "past": "spoiled",
         "past_participle": "spoiled",
-        "present_participle": "spoiling",
-        "third_person": "spoils"
+        "ing": "spoiling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "spoil",
-          "definition": "n. 战利品, 赃物, 奖品, 变质, 次品, vt. 损坏, 破坏, 溺爱, vi. 腐坏, 掠夺"
+          "definition": "v. 損壞、寵壞、破壞、（食物）變質  n. 戰利品、贓物"
         }
       ],
       "examples": [
         {
-          "en": "The rain spoiled the picnic.",
+          "en": "Leaving the milk out overnight will eventually spoil it before breakfast.",
           "highlight": [
             "spoil"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "把牛奶放在外面過夜，早餐前就會變質。"
+          }
+        },
+        {
+          "en": "Heavy rain spoiled the outdoor wedding reception they had planned for months.",
+          "highlight": [
+            "spoiled"
+          ],
+          "translations": {
+            "zh-TW": "大雨毀了他們籌備數月的戶外婚禮招待會。"
+          }
+        },
+        {
+          "en": "Grandparents enjoy spoiling their grandchildren with gifts whenever they visit.",
+          "highlight": [
+            "spoiling"
+          ],
+          "translations": {
+            "zh-TW": "祖父母每次來訪時都喜歡用禮物寵壞孫子女。"
           }
         }
       ],
       "synonyms": [
         "ruin",
-        "damage"
+        "damage",
+        "indulge"
       ],
       "antonyms": [
         "improve",
-        "enhance"
+        "enhance",
+        "preserve"
       ],
       "phrases": [
-        "spoil",
-        "the",
-        "surprise",
-        "spoil",
-        "the"
+        "spoil the surprise",
+        "spoil the fun",
+        "spoil a child",
+        "spoils of war"
       ]
     }
   ]
