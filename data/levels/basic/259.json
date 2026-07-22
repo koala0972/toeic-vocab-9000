@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 259,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-259-001",
@@ -15,41 +15,59 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "signaled",
+        "plural": "signals",
+        "present_3rd": "signals",
+        "past": "signaled",
         "past_participle": "signaled",
-        "present_participle": "signaling",
-        "third_person": "signals"
+        "ing": "signaling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "signal",
-          "definition": "n. 信號, 暗號, 近因, 导火线, vt. 向...作信號, 标志, 用信號通知, vi. 發信號, a. 作為信號的, 顯著的, [计] 信號"
+          "definition": "n. 信號、暗號  v. 發信號、示意"
         }
       ],
       "examples": [
         {
-          "en": "She gave him a signal to start.",
+          "en": "The manager gave a clear signal to begin the presentation.",
           "highlight": [
             "signal"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理發出了明確的信號，示意開始簡報。"
+          }
+        },
+        {
+          "en": "The company signaled its intention to expand into the Asian market.",
+          "highlight": [
+            "signaled"
+          ],
+          "translations": {
+            "zh-TW": "這家公司示意了它進軍亞洲市場的意圖。"
+          }
+        },
+        {
+          "en": "The red light on the dashboard is signaling a problem with the engine.",
+          "highlight": [
+            "signaling"
+          ],
+          "translations": {
+            "zh-TW": "儀表板上的紅燈正示意引擎出了問題。"
           }
         }
       ],
       "synonyms": [
         "gesture",
-        "cue"
+        "cue",
+        "indication"
       ],
       "antonyms": [],
       "phrases": [
-        "give",
-        "a",
-        "signal",
-        "signal",
-        "to"
+        "send a signal",
+        "traffic signal",
+        "signal fire"
       ]
     },
     {
@@ -60,45 +78,57 @@
       "toeic_score_min": 500,
       "word": "signature",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "signatureed",
-        "past_participle": "signatureed",
-        "present_participle": "signaturing",
-        "third_person": "signatures"
+        "plural": "signatures"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "signature",
-          "definition": "n. 签字, 识别标志, 调號, [计] 签名附件"
+          "definition": "n. 簽名、署名"
         }
       ],
       "examples": [
         {
-          "en": "He wrote his signature at the bottom of the page.",
+          "en": "Please put your signature at the bottom of the contract.",
           "highlight": [
             "signature"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在合約底部簽名。"
+          }
+        },
+        {
+          "en": "The bank collected over fifty signatures on the petition this morning.",
+          "highlight": [
+            "signatures"
+          ],
+          "translations": {
+            "zh-TW": "銀行今早就收集了超過五十個連署簽名。"
+          }
+        },
+        {
+          "en": "Every assistant's signature must be verified before the document is filed.",
+          "highlight": [
+            "signature"
+          ],
+          "translations": {
+            "zh-TW": "每位助理的簽名都必須在文件歸檔前被核實。"
           }
         }
       ],
       "synonyms": [
         "autograph",
-        "name"
+        "signing"
       ],
       "antonyms": [],
       "phrases": [
-        "write",
-        "a",
-        "signature",
-        "signature",
-        "dish"
+        "put your signature",
+        "digital signature",
+        "signature dish"
       ]
     },
     {
@@ -109,44 +139,62 @@
       "toeic_score_min": 500,
       "word": "significant",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "significants"
+        "comparative": "more significant",
+        "superlative": "most significant"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "significant",
-          "definition": "a. 重要的, 有效的, 有含义的, 暗示的, 值得注意的"
+          "definition": "adj. 重要的、意義重大的"
         }
       ],
       "examples": [
         {
-          "en": "The project made a significant impact.",
+          "en": "The report shows a significant increase in sales this quarter.",
           "highlight": [
             "significant"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "報告顯示本季度銷售量有顯著的增加。"
+          }
+        },
+        {
+          "en": "The new policy is even more significant than the previous one for small businesses.",
+          "highlight": [
+            "more significant"
+          ],
+          "translations": {
+            "zh-TW": "對小型企業而言，新政策比舊政策更為重要。"
+          }
+        },
+        {
+          "en": "Winning the contract was the most significant achievement of his career.",
+          "highlight": [
+            "most significant"
+          ],
+          "translations": {
+            "zh-TW": "贏得這份合約是他職業生涯中最重大的成就。"
           }
         }
       ],
       "synonyms": [
         "important",
-        "noteworthy"
+        "noteworthy",
+        "substantial"
       ],
       "antonyms": [
         "insignificant",
         "trivial"
       ],
       "phrases": [
-        "significant",
-        "change",
-        "significant",
-        "difference"
+        "significant change",
+        "significant difference",
+        "significant impact"
       ]
     },
     {
@@ -165,32 +213,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "significantly",
-          "definition": "adv. 值得注目地；意味深長地"
+          "definition": "adv. 顯著地、大幅地"
         }
       ],
       "examples": [
         {
-          "en": "Her health has improved significantly.",
+          "en": "Production costs have dropped significantly since the new machines arrived.",
           "highlight": [
             "significantly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "自從新機器到貨以來，生產成本已顯著下降。"
+          }
+        },
+        {
+          "en": "The weather has changed significantly since we arrived this morning.",
+          "highlight": [
+            "significantly"
+          ],
+          "translations": {
+            "zh-TW": "自從我們今早抵達後，天氣已大幅改變。"
+          }
+        },
+        {
+          "en": "Customer satisfaction improved significantly after the staff training program.",
+          "highlight": [
+            "significantly"
+          ],
+          "translations": {
+            "zh-TW": "在員工培訓計畫之後，顧客滿意度顯著提升。"
           }
         }
       ],
       "synonyms": [
         "considerably",
-        "notably"
+        "notably",
+        "remarkably"
       ],
       "antonyms": [
         "insignificantly"
       ],
       "phrases": [
-        "increase",
-        "significantly",
-        "significantly",
-        "better"
+        "decrease significantly",
+        "increase significantly",
+        "differ significantly"
       ]
     },
     {
@@ -205,43 +271,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "silenceed",
-        "past_participle": "silenceed",
-        "present_participle": "silencing",
-        "third_person": "silences"
+        "plural": "silences",
+        "present_3rd": "silences",
+        "past": "silenced",
+        "past_participle": "silenced",
+        "ing": "silencing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "silence",
-          "definition": "n. 沉默, 无声, 静寂, 湮没, 无声息, vt. 使缄默, interj. 安静"
+          "definition": "n. 沉默、無聲  v. 使沉默"
         }
       ],
       "examples": [
         {
-          "en": "There was complete silence in the room.",
+          "en": "There was complete silence in the conference room before the CEO spoke.",
           "highlight": [
             "silence"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在執行長開口之前，會議室裡一片寂靜。"
+          }
+        },
+        {
+          "en": "The lawyer silenced the witness with a single sharp question.",
+          "highlight": [
+            "silenced"
+          ],
+          "translations": {
+            "zh-TW": "律師用一個尖銳的問題讓證人安靜下來。"
+          }
+        },
+        {
+          "en": "Critics accused the government of silencing journalists who reported the truth.",
+          "highlight": [
+            "silencing"
+          ],
+          "translations": {
+            "zh-TW": "評論人士指責政府壓制報導真相的記者。"
           }
         }
       ],
       "synonyms": [
         "quiet",
-        "stillness"
+        "stillness",
+        "hush"
       ],
       "antonyms": [
         "noise",
         "sound"
       ],
       "phrases": [
-        "complete",
-        "silence",
-        "awkward",
-        "silence"
+        "break the silence",
+        "complete silence",
+        "silence is golden"
       ]
     },
     {
@@ -252,44 +337,62 @@
       "toeic_score_min": 500,
       "word": "silent",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "silents"
+        "comparative": "more silent",
+        "superlative": "most silent"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "silent",
-          "definition": "a. 沉默的, 安静的, 无声的, 静止的, [医] 静止的, 无症状的"
+          "definition": "adj. 沉默的、無聲的"
         }
       ],
       "examples": [
         {
-          "en": "The house was silent at night.",
+          "en": "The audience remained silent throughout the emotional speech.",
           "highlight": [
             "silent"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在整場動人的演講中，觀眾保持沉默。"
+          }
+        },
+        {
+          "en": "The western suburbs are more silent at night than the downtown area.",
+          "highlight": [
+            "more silent"
+          ],
+          "translations": {
+            "zh-TW": "西郊在夜晚比市中心更為安靜。"
+          }
+        },
+        {
+          "en": "The mountain trail was the most silent place she had ever visited.",
+          "highlight": [
+            "most silent"
+          ],
+          "translations": {
+            "zh-TW": "這條山路是她造訪過最寂靜的地方。"
           }
         }
       ],
       "synonyms": [
         "mute",
-        "soundless"
+        "soundless",
+        "quiet"
       ],
       "antonyms": [
         "loud",
         "noisy"
       ],
       "phrases": [
-        "silent",
-        "night",
-        "silent",
-        "film"
+        "silent film",
+        "silent night",
+        "remain silent"
       ]
     },
     {
@@ -311,30 +414,47 @@
         {
           "lang": "zh-TW",
           "lang_word": "silk",
-          "definition": "n. 丝, 绸, 绸锻类, 丝织品, a. 丝的, 丝织的"
+          "definition": "n. 絲、絲綢  adj. 絲的、絲織的"
         }
       ],
       "examples": [
         {
-          "en": "She wore a beautiful silk dress.",
+          "en": "She wore a beautiful silk gown to the awards ceremony.",
           "highlight": [
             "silk"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她穿了一件美麗的絲綢禮服出席頒獎典禮。"
+          }
+        },
+        {
+          "en": "The factory imports fine silks from China and Italy every season.",
+          "highlight": [
+            "silks"
+          ],
+          "translations": {
+            "zh-TW": "工廠每季都從中國與義大利進口上等的絲綢。"
+          }
+        },
+        {
+          "en": "The Silk Road was a major trade route connecting Asia and Europe.",
+          "highlight": [
+            "silk"
+          ],
+          "translations": {
+            "zh-TW": "絲路是一條連接亞洲與歐洲的重要貿易路線。"
           }
         }
       ],
       "synonyms": [
-        "thread",
+        "satin",
         "fabric"
       ],
       "antonyms": [],
       "phrases": [
-        "pure",
-        "silk",
-        "silk",
-        "scarf"
+        "silk scarf",
+        "pure silk",
+        "Silk Road"
       ]
     },
     {
@@ -349,40 +469,60 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "sillies"
+        "plural": "sillies",
+        "comparative": "sillier",
+        "superlative": "silliest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "silly",
-          "definition": "a. 愚蠢的, 糊涂的"
+          "definition": "adj. 愚蠢的、可笑的  n. 傻瓜"
         }
       ],
       "examples": [
         {
-          "en": "He felt silly wearing the clown costume.",
+          "en": "It would be silly to quit your job before having another offer ready.",
           "highlight": [
             "silly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在找到下一份工作之前就辭職可真是有夠愚蠢的。"
+          }
+        },
+        {
+          "en": "The boy's excuse for being late was sillier than the one he told last week.",
+          "highlight": [
+            "sillier"
+          ],
+          "translations": {
+            "zh-TW": "男孩這次的遲到藉口比上週的更荒唐。"
+          }
+        },
+        {
+          "en": "Wearing a swimsuit to a business meeting was the silliest mistake he ever made.",
+          "highlight": [
+            "silliest"
+          ],
+          "translations": {
+            "zh-TW": "穿泳衣去參加商務會議是他犯過最可笑的錯誤。"
           }
         }
       ],
       "synonyms": [
         "foolish",
-        "absurd"
+        "absurd",
+        "ridiculous"
       ],
       "antonyms": [
         "wise",
         "sensible"
       ],
       "phrases": [
-        "silly",
-        "mistake",
-        "feel",
-        "silly"
+        "feel silly",
+        "silly mistake",
+        "silly season"
       ]
     },
     {
@@ -404,17 +544,35 @@
         {
           "lang": "zh-TW",
           "lang_word": "silver",
-          "definition": "n. 银, 银币, 银器, a. 银的, 银制的, 银器的, vt. 镀银, vi. 变银白色"
+          "definition": "n. 銀、銀幣  adj. 銀的、銀色的"
         }
       ],
       "examples": [
         {
-          "en": "She wore a silver necklace.",
+          "en": "She wore a silver necklace to the interview so she would look polished.",
           "highlight": [
             "silver"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她戴了一條銀項鍊去面試，以顯得端莊。"
+          }
+        },
+        {
+          "en": "The museum displays ancient silks and silvers dating back to the Tang Dynasty.",
+          "highlight": [
+            "silvers"
+          ],
+          "translations": {
+            "zh-TW": "博物館展出可追溯至唐代的古代絲綢與銀器。"
+          }
+        },
+        {
+          "en": "The necklace was solid silver, far more valuable than the wooden box it came in.",
+          "highlight": [
+            "silver"
+          ],
+          "translations": {
+            "zh-TW": "這條項鍊是純銀製的，比裝著它的木盒珍貴得多。"
           }
         }
       ],
@@ -426,10 +584,9 @@
         "gold"
       ],
       "phrases": [
-        "silver",
-        "coin",
-        "silver",
-        "lining"
+        "silver lining",
+        "silver coin",
+        "silver screen"
       ]
     },
     {
@@ -440,8 +597,7 @@
       "toeic_score_min": 500,
       "word": "similar",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
         "plural": "similars"
@@ -451,33 +607,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "similar",
-          "definition": "a. 相似的, 类似的, n. 相似的东西"
+          "definition": "adj. 相似的、類似的"
         }
       ],
       "examples": [
         {
-          "en": "The two cars are similar in size.",
+          "en": "The two job offers are similar in salary but differ in benefits.",
           "highlight": [
             "similar"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這兩份工作邀請薪資相近，但福利不同。"
+          }
+        },
+        {
+          "en": "The candidate's skill set matches closely, suggesting the two profiles are similar.",
+          "highlight": [
+            "similar"
+          ],
+          "translations": {
+            "zh-TW": "候選人的技能組合相當接近，顯示這兩份經歷很相似。"
+          }
+        },
+        {
+          "en": "We hired him because his background is similar to that of our top performers.",
+          "highlight": [
+            "similar"
+          ],
+          "translations": {
+            "zh-TW": "我們錄用他是因為他的背景與公司的頂尖員工相似。"
           }
         }
       ],
       "synonyms": [
         "alike",
-        "resembling"
+        "resembling",
+        "comparable"
       ],
       "antonyms": [
         "different",
         "dissimilar"
       ],
       "phrases": [
-        "similar",
-        "to",
-        "look",
-        "similar"
+        "similar to",
+        "similar in color",
+        "remarkably similar"
       ]
     }
   ]
