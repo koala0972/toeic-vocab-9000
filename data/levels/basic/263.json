@@ -15,44 +15,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "sliceed",
-        "past_participle": "sliceed",
-        "present_participle": "slicing",
-        "third_person": "slices"
+        "plural": "slices",
+        "present_3rd": "slices",
+        "past": "sliced",
+        "past_participle": "sliced",
+        "ing": "slicing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "slice",
-          "definition": "n. 薄的切片, 一部分, 菜刀, vt. 切成薄片, 切下, vi. 切, [计] 片"
+          "definition": "n. 薄片、一片  v. 切成薄片、割開"
         }
       ],
       "examples": [
         {
-          "en": "She cut a slice of bread.",
+          "en": "Would you like another slice of roast beef?",
           "highlight": [
             "slice"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "你想要再來一片烤牛肉嗎？"
+          }
+        },
+        {
+          "en": "The chef sliced the salmon paper-thin for the sashimi platter.",
+          "highlight": [
+            "sliced"
+          ],
+          "translations": {
+            "zh-TW": "主廚把鮭魚切成幾乎透明的薄片，做成生魚片拼盤。"
+          }
+        },
+        {
+          "en": "She is slicing fresh strawberries to garnish the dessert.",
+          "highlight": [
+            "slicing"
+          ],
+          "translations": {
+            "zh-TW": "她正在切新鮮草莓，用來裝飾甜點。"
           }
         }
       ],
       "synonyms": [
         "piece",
-        "portion"
+        "portion",
+        "cut"
       ],
       "antonyms": [
         "whole",
         "chunk"
       ],
       "phrases": [
-        "slice",
-        "of",
-        "pizza",
-        "slice",
-        "of"
+        "slice of cake",
+        "slice of bread",
+        "slice through"
       ]
     },
     {
@@ -67,43 +85,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "slideed",
-        "past_participle": "slideed",
-        "present_participle": "sliding",
-        "third_person": "slides"
+        "plural": "slides",
+        "present_3rd": "slides",
+        "past": "slid",
+        "past_participle": "slid",
+        "ing": "sliding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "slide",
-          "definition": "n. 滑, 滑道, 山崩, 雪崩, 幻灯片, vt. 使滑動, 偷偷放入, vi. 滑動, 滑落, 不知不觉陷入, 偷偷地走"
+          "definition": "v. 滑動、悄悄移動  n. 幻燈片、滑梯、滑行"
         }
       ],
       "examples": [
         {
-          "en": "The children like to slide down the hill.",
+          "en": "Please advance to the next slide in your presentation.",
           "highlight": [
             "slide"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請切換到簡報的下一張幻燈片。"
+          }
+        },
+        {
+          "en": "The currency slid to a record low after the central bank cut interest rates.",
+          "highlight": [
+            "slid"
+          ],
+          "translations": {
+            "zh-TW": "央行調降利率後，該貨幣跌至歷史新低。"
+          }
+        },
+        {
+          "en": "The warehouse doors slide open automatically when a truck approaches.",
+          "highlight": [
+            "slide"
+          ],
+          "translations": {
+            "zh-TW": "卡車靠近時，倉庫大門會自動向兩側滑開。"
           }
         }
       ],
       "synonyms": [
         "glide",
-        "slip"
+        "slip",
+        "skid"
       ],
       "antonyms": [
         "stick",
         "adhere"
       ],
       "phrases": [
-        "slide",
-        "down",
-        "slide",
-        "away"
+        "slide show",
+        "let things slide",
+        "sliding door"
       ]
     },
     {
@@ -118,40 +155,61 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "slights"
+        "plural": "slights",
+        "comparative": "slighter",
+        "superlative": "slightest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "slight",
-          "definition": "n. 輕蔑, 怠慢, a. 輕微的, 纤细的, 脆弱的, 苗条的, vt. 輕视, 忽略, 怠慢"
+          "definition": "adj. 輕微的、細微的  n. 輕蔑、怠慢  v. 冷落"
         }
       ],
       "examples": [
         {
-          "en": "There was a slight change in the plan.",
+          "en": "There was a slight delay in shipping due to the storm.",
           "highlight": [
             "slight"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "因暴風雨的緣故，出貨有些微延遲。"
+          }
+        },
+        {
+          "en": "Her promotion came as the slighted employee filed a formal complaint.",
+          "highlight": [
+            "slighted"
+          ],
+          "translations": {
+            "zh-TW": "在她升職的同時，那位感到被冷落的員工提出了正式申訴。"
+          }
+        },
+        {
+          "en": "Not the slightest detail escapes our quality assurance team.",
+          "highlight": [
+            "slightest"
+          ],
+          "translations": {
+            "zh-TW": "再細微的細節也逃不過我們的品保團隊。"
           }
         }
       ],
       "synonyms": [
         "small",
-        "minor"
+        "minor",
+        "modest"
       ],
       "antonyms": [
         "large",
-        "significant"
+        "significant",
+        "considerable"
       ],
       "phrases": [
-        "slight",
-        "difference",
-        "slight",
-        "chance"
+        "slight change",
+        "slight delay",
+        "not the slightest"
       ]
     },
     {
@@ -170,34 +228,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "slightly",
-          "definition": "adv. 些微地, 苗条地"
+          "definition": "adv. 稍微、些微地"
         }
       ],
       "examples": [
         {
-          "en": "She was slightly injured in the accident.",
+          "en": "The hotel room smelled slightly of smoke despite the non-smoking policy.",
           "highlight": [
             "slightly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "儘管標榜禁菸，這間客房還是有淡淡的菸味。"
+          }
+        },
+        {
+          "en": "Sales figures rose slightly compared with the previous quarter.",
+          "highlight": [
+            "slightly"
+          ],
+          "translations": {
+            "zh-TW": "與前一季相比，銷售數字微幅上升。"
+          }
+        },
+        {
+          "en": "The candidate felt slightly nervous before the group interview.",
+          "highlight": [
+            "slightly"
+          ],
+          "translations": {
+            "zh-TW": "求職者在團體面試前感到有些緊張。"
           }
         }
       ],
       "synonyms": [
-        "a",
-        "little",
-        "somewhat"
+        "somewhat",
+        "a little",
+        "moderately"
       ],
       "antonyms": [
         "considerably",
         "significantly"
       ],
       "phrases": [
-        "slightly",
-        "higher",
-        "slightly",
-        "better"
+        "slightly higher",
+        "slightly delayed",
+        "slightly different"
       ]
     },
     {
@@ -212,44 +287,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "sliped",
-        "past_participle": "sliped",
-        "present_participle": "sliping",
-        "third_person": "slips"
+        "plural": "slips",
+        "present_3rd": "slips",
+        "past": "slipped",
+        "past_participle": "slipped",
+        "ing": "slipping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "slip",
-          "definition": "n. 滑, 滑行, 事故, 溜, 差錯, 滑台, 下降, 插条, 後裔, 板条, 瘦長的年輕人, vi. 滑動, 滑倒, 失足, 溜走, 滑落, 犯錯, 变坏, vt. 使滑動, 滑過, 摆脱, 闪开, 塞入, 从...取接枝, a. 滑動的, 滑移的, 活络的, 有活結的, [计] 串行线接口协議"
+          "definition": "v. 滑倒、溜走、悄悄放進  n. 差錯、紙條、滑倒"
         }
       ],
       "examples": [
         {
-          "en": "He slipped on the wet floor.",
+          "en": "Be careful not to slip on the freshly mopped lobby floor.",
           "highlight": [
             "slip"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "小心別在大廳剛拖過的地板上滑倒。"
+          }
+        },
+        {
+          "en": "The confidential memo slipped out before the board could review it.",
+          "highlight": [
+            "slipped"
+          ],
+          "translations": {
+            "zh-TW": "機密備忘錄在董事會審查前就外洩了。"
+          }
+        },
+        {
+          "en": "Profits are slipping despite strong holiday sales, the CFO warned.",
+          "highlight": [
+            "slipping"
+          ],
+          "translations": {
+            "zh-TW": "財務長警告，儘管假期銷售暢旺，利潤卻在下滑。"
           }
         }
       ],
       "synonyms": [
+        "slide",
         "fall",
-        "stumble"
+        "glide"
       ],
       "antonyms": [
         "stand",
-        "remain"
+        "grip",
+        "catch"
       ],
       "phrases": [
-        "slip",
-        "and",
-        "fall",
-        "slip",
-        "away"
+        "slip of paper",
+        "slip of the tongue",
+        "let it slip"
       ]
     },
     {
@@ -264,43 +358,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "slopeed",
-        "past_participle": "slopeed",
-        "present_participle": "sloping",
-        "third_person": "slopes"
+        "plural": "slopes",
+        "present_3rd": "slopes",
+        "past": "sloped",
+        "past_participle": "sloped",
+        "ing": "sloping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "slope",
-          "definition": "n. 倾斜, 斜坡, 斜率, 扛枪姿势, vt. 使倾斜, 弄斜, 扛, vi. 倾斜, 走, 逃走"
+          "definition": "n. 斜坡、坡度  v. 傾斜、有坡度"
         }
       ],
       "examples": [
         {
-          "en": "They climbed up the slope.",
+          "en": "The new hotel was built on a gentle slope overlooking the bay.",
           "highlight": [
             "slope"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新建的旅館蓋在俯瞰海灣的緩坡上。"
+          }
+        },
+        {
+          "en": "The hiking trail sloped sharply upward after the river crossing.",
+          "highlight": [
+            "sloped"
+          ],
+          "translations": {
+            "zh-TW": "過河之後，登山步道陡然向上傾斜。"
+          }
+        },
+        {
+          "en": "The roof slopes at thirty degrees so rainwater drains toward the gutter.",
+          "highlight": [
+            "slopes"
+          ],
+          "translations": {
+            "zh-TW": "屋頂傾斜三十度，讓雨水排向排水溝。"
           }
         }
       ],
       "synonyms": [
         "incline",
-        "hill"
+        "hill",
+        "gradient"
       ],
       "antonyms": [
         "flat",
         "level"
       ],
       "phrases": [
-        "steep",
-        "slope",
-        "gentle",
-        "slope"
+        "steep slope",
+        "gentle slope",
+        "ski slope"
       ]
     },
     {
@@ -315,43 +428,65 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "slowed",
+        "plural": "slows",
+        "present_3rd": "slows",
+        "past": "slowed",
         "past_participle": "slowed",
-        "present_participle": "slowing",
-        "third_person": "slows"
+        "ing": "slowing",
+        "comparative": "slower",
+        "superlative": "slowest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "slow",
-          "definition": "a. 慢的, 缓慢的, 迟缓的, 迟钝的, 冷漠的, 落後的, adv. 慢地, 迟缓地, v. (使)慢下來"
+          "definition": "adj. 慢的、遲緩的  v.（使）慢下來  adv. 慢地"
         }
       ],
       "examples": [
         {
-          "en": "The car was moving slow.",
+          "en": "Internet in the conference room was painfully slow during the webinar.",
           "highlight": [
             "slow"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "視訊研討會期間，會議室的網路慢得令人受不了。"
+          }
+        },
+        {
+          "en": "The factory slowed production after component deliveries were delayed.",
+          "highlight": [
+            "slowed"
+          ],
+          "translations": {
+            "zh-TW": "零件交期延誤後，工廠放慢了生產速度。"
+          }
+        },
+        {
+          "en": "Economic growth is slowing across most developed economies this year.",
+          "highlight": [
+            "slowing"
+          ],
+          "translations": {
+            "zh-TW": "今年多數已開發經濟體的成長都在放緩。"
           }
         }
       ],
       "synonyms": [
         "leisurely",
-        "unhurried"
+        "unhurried",
+        "gradual"
       ],
       "antonyms": [
         "fast",
-        "quick"
+        "quick",
+        "rapid"
       ],
       "phrases": [
-        "slow",
-        "speed",
-        "slow",
-        "down"
+        "slow down",
+        "slow but sure",
+        "slow motion"
       ]
     },
     {
@@ -370,35 +505,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "slowly",
-          "definition": "adv. 慢慢地, 迟缓地"
+          "definition": "adv. 慢慢地、緩慢地"
         }
       ],
       "examples": [
         {
-          "en": "He walked slowly down the path.",
+          "en": "The elevator descended slowly with the freight inside.",
           "highlight": [
             "slowly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "電梯載著貨物緩緩下降。"
+          }
+        },
+        {
+          "en": "Customer trust builds slowly but lasts for years once established.",
+          "highlight": [
+            "slowly"
+          ],
+          "translations": {
+            "zh-TW": "顧客的信任累積得慢，但一旦建立就能維持多年。"
+          }
+        },
+        {
+          "en": "She read the contract slowly to catch every clause before signing.",
+          "highlight": [
+            "slowly"
+          ],
+          "translations": {
+            "zh-TW": "她簽約前慢慢讀完合約，不放過任何條款。"
           }
         }
       ],
       "synonyms": [
         "gradually",
-        "bit",
-        "by",
-        "bit"
+        "steadily",
+        "gently"
       ],
       "antonyms": [
         "quickly",
-        "swiftly"
+        "swiftly",
+        "rapidly"
       ],
       "phrases": [
-        "walk",
-        "slowly",
-        "move",
-        "slowly"
+        "read slowly",
+        "walk slowly",
+        "move slowly"
       ]
     },
     {
@@ -413,40 +565,61 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "smalls"
+        "plural": "smalls",
+        "comparative": "smaller",
+        "superlative": "smallest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "small",
-          "definition": "a. 小的, 少的, 小型的, 低微的, 小气的, 细微的, adv. 些微地, n. 狭小部分"
+          "definition": "adj. 小的、少量的、小型的  n. 小的部分、小件物品"
         }
       ],
       "examples": [
         {
-          "en": "She bought a small car.",
+          "en": "Our startup started as a small office with just three employees.",
           "highlight": [
             "small"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們的新創公司剛起步時只是一間小辦公室，三名員工而已。"
+          }
+        },
+        {
+          "en": "A smaller batch size lets us maintain tighter quality control.",
+          "highlight": [
+            "smaller"
+          ],
+          "translations": {
+            "zh-TW": "較小的批次量讓我們能更嚴格地把關品質。"
+          }
+        },
+        {
+          "en": "Even the smallest suggestion from staff is reviewed by management.",
+          "highlight": [
+            "smallest"
+          ],
+          "translations": {
+            "zh-TW": "就算員工提出的是最小的建議，管理層也會加以審閱。"
           }
         }
       ],
       "synonyms": [
         "little",
-        "tiny"
+        "tiny",
+        "minor"
       ],
       "antonyms": [
         "large",
-        "big"
+        "big",
+        "huge"
       ],
       "phrases": [
-        "small",
-        "size",
-        "small",
-        "amount"
+        "small business",
+        "small talk",
+        "small change"
       ]
     },
     {
@@ -461,43 +634,65 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "smarted",
+        "plural": "smarts",
+        "present_3rd": "smarts",
+        "past": "smarted",
         "past_participle": "smarted",
-        "present_participle": "smarting",
-        "third_person": "smarts"
+        "ing": "smarting",
+        "comparative": "smarter",
+        "superlative": "smartest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "smart",
-          "definition": "a. 聪明的, 漂亮的, 刺痛的, 剧烈的, 敏捷的, 巧妙的, 伶俐的, 潇洒的, n. 刺痛, 痛苦, vi. 刺痛"
+          "definition": "adj. 聰明的、時髦的、俐落的  v. 刺痛  n. 刺痛、機智"
         }
       ],
       "examples": [
         {
-          "en": "He is very smart for his age.",
+          "en": "She wore a smart navy suit to the client pitch.",
           "highlight": [
             "smart"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她穿著俐落的深藍色西裝出席客戶提案。"
+          }
+        },
+        {
+          "en": "It was the smartest decision the board made all year, the CEO later admitted.",
+          "highlight": [
+            "smartest"
+          ],
+          "translations": {
+            "zh-TW": "執行長後來承認，那是董事會全年最明智的決定。"
+          }
+        },
+        {
+          "en": "His wrist was still smarting from the repetitive typing strain.",
+          "highlight": [
+            "smarting"
+          ],
+          "translations": {
+            "zh-TW": "長時間重複打字造成的拉傷，讓他的手腕仍在隱隱刺痛。"
           }
         }
       ],
       "synonyms": [
         "intelligent",
-        "clever"
+        "clever",
+        "stylish"
       ],
       "antonyms": [
         "dull",
-        "foolish"
+        "foolish",
+        "scruffy"
       ],
       "phrases": [
-        "smart",
-        "move",
-        "smart",
-        "kid"
+        "smart move",
+        "smart phone",
+        "street-smart"
       ]
     }
   ]
