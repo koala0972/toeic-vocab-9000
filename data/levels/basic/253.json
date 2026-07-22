@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 253,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-253-001",
@@ -15,43 +15,62 @@
         "adjective"
       ],
       "conjugations": {
-        "past_tense": "separateed",
-        "past_participle": "separateed",
-        "present_participle": "separating",
-        "third_person": "separates"
+        "present_3rd": "separates",
+        "past": "separated",
+        "past_participle": "separated",
+        "ing": "separating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "separate",
-          "definition": "n. 独立件, 抽印本, a. 分开的, 各别的, 单独的, 分隔的, vi. 分开, 隔开, 分居, vt. 使分離, 使分开, 區分, 使分居"
+          "definition": "v. 分開、隔開、區分  adj. 分開的、各自的、單獨的"
         }
       ],
       "examples": [
         {
-          "en": "They agreed to go their separate ways.",
+          "en": "The company decided to separate the two departments to improve efficiency.",
           "highlight": [
             "separate"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司決定將這兩個部門分開，以提升效率。"
+          }
+        },
+        {
+          "en": "She separated the documents into three folders before the audit.",
+          "highlight": [
+            "separated"
+          ],
+          "translations": {
+            "zh-TW": "她在稽核前將文件分成三個資料夾。"
+          }
+        },
+        {
+          "en": "The manager is separating the invoices by date to reconcile the accounts.",
+          "highlight": [
+            "separating"
+          ],
+          "translations": {
+            "zh-TW": "經理正依日期將發票分開以便核對帳目。"
           }
         }
       ],
       "synonyms": [
         "divide",
-        "detach"
+        "detach",
+        "isolate"
       ],
       "antonyms": [
         "join",
         "unite"
       ],
       "phrases": [
-        "separate",
-        "ways",
-        "separate",
-        "rooms"
+        "separate ways",
+        "separate rooms",
+        "go separate ways",
+        "separate account"
       ]
     },
     {
@@ -70,33 +89,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "separately",
-          "definition": "adv. [表]分开, 不相连, 分隔, 分離, 不同, 单独, 独立, 各自, 各别, 脱離肉体, 灵魂, [计] 分離地"
+          "definition": "adv. 分別地、單獨地、各自地"
         }
       ],
       "examples": [
         {
-          "en": "They arrived separately.",
+          "en": "Please send the contract and the invoice separately to avoid confusion.",
           "highlight": [
             "separately"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請將合約與發票分開寄送以避免混淆。"
+          }
+        },
+        {
+          "en": "The two candidates were interviewed separately by the hiring committee.",
+          "highlight": [
+            "separately"
+          ],
+          "translations": {
+            "zh-TW": "兩位候選人分別接受了招聘委員會的面試。"
+          }
+        },
+        {
+          "en": "Each department's budget is tracked separately in the accounting system.",
+          "highlight": [
+            "separately"
+          ],
+          "translations": {
+            "zh-TW": "每個部門的預算在會計系統中是分開追蹤的。"
           }
         }
       ],
       "synonyms": [
         "individually",
-        "singly"
+        "singly",
+        "apart"
       ],
       "antonyms": [
         "together",
         "jointly"
       ],
       "phrases": [
-        "arrive",
-        "separately",
-        "live",
-        "separately"
+        "pack separately",
+        "pay separately",
+        "priced separately",
+        "billed separately"
       ]
     },
     {
@@ -122,22 +160,43 @@
       ],
       "examples": [
         {
-          "en": "School starts in September.",
+          "en": "The new fiscal year begins in September.",
           "highlight": [
-            "september"
+            "September"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新的會計年度從九月開始。"
+          }
+        },
+        {
+          "en": "We have visited the Tokyo branch every September for the last five years.",
+          "highlight": [
+            "Septembers"
+          ],
+          "translations": {
+            "zh-TW": "過去五年我們每年九月都會參訪東京分公司。"
+          }
+        },
+        {
+          "en": "By late September, the hotel had already finished its autumn renovation.",
+          "highlight": [
+            "September"
+          ],
+          "translations": {
+            "zh-TW": "到了九月下旬，飯店已完成秋季的翻新工程。"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sep",
+        "Sept"
+      ],
       "antonyms": [],
       "phrases": [
-        "early",
-        "September",
-        "in",
-        "September"
+        "early September",
+        "mid-September",
+        "late September",
+        "in September"
       ]
     },
     {
@@ -148,44 +207,63 @@
       "toeic_score_min": 500,
       "word": "serious",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "seriouses"
+        "comparative": "more serious",
+        "superlative": "most serious"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "serious",
-          "definition": "a. 严肃的, 认真的, 重要的, 严重的, [电] 严重的"
+          "definition": "adj. 嚴肅的、認真的、嚴重的、重要的"
         }
       ],
       "examples": [
         {
-          "en": "He is a serious student.",
+          "en": "The manager gave a serious warning about the repeated safety violations.",
           "highlight": [
             "serious"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理針對屢次違反安全規定提出了嚴肅的警告。"
+          }
+        },
+        {
+          "en": "The defect turned out to be more serious than the engineers first reported.",
+          "highlight": [
+            "more serious"
+          ],
+          "translations": {
+            "zh-TW": "這個缺陷比工程師最初報告的還要嚴重。"
+          }
+        },
+        {
+          "en": "Data breach was rated the most serious risk facing the firm this year.",
+          "highlight": [
+            "most serious"
+          ],
+          "translations": {
+            "zh-TW": "資料外洩被評為今年公司面臨最嚴重的風險。"
           }
         }
       ],
       "synonyms": [
         "solemn",
-        "grave"
+        "grave",
+        "earnest"
       ],
       "antonyms": [
         "frivolous",
         "trivial"
       ],
       "phrases": [
-        "serious",
-        "issue",
-        "serious",
-        "problem"
+        "serious issue",
+        "serious problem",
+        "take seriously",
+        "serious matter"
       ]
     },
     {
@@ -204,33 +282,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "seriously",
-          "definition": "adv. 严肃地, 认真地, 严重地"
+          "definition": "adv. 嚴肅地、認真地、嚴重地"
         }
       ],
       "examples": [
         {
-          "en": "She looked at him seriously.",
+          "en": "The client took the proposal seriously and requested a follow-up meeting.",
           "highlight": [
             "seriously"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "客戶認真地看待這份提案，並要求安排後續會議。"
+          }
+        },
+        {
+          "en": "We are seriously considering relocating the warehouse to reduce shipping costs.",
+          "highlight": [
+            "seriously"
+          ],
+          "translations": {
+            "zh-TW": "我們正認真考慮將倉庫遷址，以降低運輸成本。"
+          }
+        },
+        {
+          "en": "The CEO spoke seriously about the budget shortfall during the town hall.",
+          "highlight": [
+            "seriously"
+          ],
+          "translations": {
+            "zh-TW": "執行長在全員大會上嚴肅地談論了預算短少的問題。"
           }
         }
       ],
       "synonyms": [
         "earnestly",
-        "gravely"
+        "gravely",
+        "sincerely"
       ],
       "antonyms": [
         "lightly",
         "frivolously"
       ],
       "phrases": [
-        "taken",
-        "seriously",
-        "speak",
-        "seriously"
+        "take seriously",
+        "seriously ill",
+        "seriously injured",
+        "think seriously"
       ]
     },
     {
@@ -245,44 +342,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "serveed",
-        "past_participle": "serveed",
-        "present_participle": "serving",
-        "third_person": "serves"
+        "present_3rd": "serves",
+        "past": "served",
+        "past_participle": "served",
+        "ing": "serving"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "serve",
-          "definition": "vt. 可作...用, 服务, 經歷, 招待, 供应, 送交, 對待, vi. 服务, 服役, 侍应, 适合, 有用, 开球, n. 發球, 轮到發球"
+          "definition": "v. 服務、供應、任職、送達  n. 發球"
         }
       ],
       "examples": [
         {
-          "en": "He served in the military.",
+          "en": "The new restaurant will serve both lunch and dinner from next month.",
           "highlight": [
             "serve"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這間新餐廳從下月起將同時供應午餐與晚餐。"
+          }
+        },
+        {
+          "en": "She served as the project manager for three years before transferring.",
+          "highlight": [
+            "served"
+          ],
+          "translations": {
+            "zh-TW": "她在調職前擔任專案經理三年。"
+          }
+        },
+        {
+          "en": "The waiter is serving the appetizers to the guests in the banquet hall.",
+          "highlight": [
+            "serving"
+          ],
+          "translations": {
+            "zh-TW": "服務生正在宴會廳為賓客送上開胃菜。"
           }
         }
       ],
       "synonyms": [
         "assist",
-        "attend"
+        "attend",
+        "provide"
       ],
       "antonyms": [
         "neglect",
         "ignore"
       ],
       "phrases": [
-        "serve",
-        "food",
-        "serve",
-        "in",
-        "the"
+        "serve food",
+        "serve a purpose",
+        "serve time",
+        "serve on a committee"
       ]
     },
     {
@@ -297,43 +412,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "serviceed",
-        "past_participle": "serviceed",
-        "present_participle": "servicing",
-        "third_person": "services"
+        "plural": "services",
+        "present_3rd": "services",
+        "past": "serviced",
+        "past_participle": "serviced",
+        "ing": "servicing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "service",
-          "definition": "n. 服务, 贡献, 雇佣, 公职, 服役, 功劳, 仪式, 送达, 行政部門, vt. 保养, 维修, a. 武装部队的, 服务性的, 仆人的, 耐用的, [计] 服务, 业务"
+          "definition": "n. 服務、維修、公共事業  v. 保養、維修"
         }
       ],
       "examples": [
         {
-          "en": "The restaurant has excellent service.",
+          "en": "Customer service is the most important value of this company.",
           "highlight": [
             "service"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "客戶服務是這家公司最重要的核心價值。"
+          }
+        },
+        {
+          "en": "The company added several new services to its online platform this quarter.",
+          "highlight": [
+            "services"
+          ],
+          "translations": {
+            "zh-TW": "公司本季在線上平台新增了幾項新服務。"
+          }
+        },
+        {
+          "en": "The technician is servicing the elevator before the inspection deadline.",
+          "highlight": [
+            "servicing"
+          ],
+          "translations": {
+            "zh-TW": "技術員正趕在檢查期限前維修電梯。"
           }
         }
       ],
       "synonyms": [
         "aid",
-        "assistance"
+        "assistance",
+        "maintenance"
       ],
       "antonyms": [
         "disservice",
         "neglect"
       ],
       "phrases": [
-        "customer",
-        "service",
-        "service",
-        "industry"
+        "customer service",
+        "service industry",
+        "room service",
+        "public service"
       ]
     },
     {
@@ -344,44 +479,59 @@
       "toeic_score_min": 500,
       "word": "session",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "sessioned",
-        "past_participle": "sessioned",
-        "present_participle": "sessioning",
-        "third_person": "sessions"
+        "plural": "sessions"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "session",
-          "definition": "n. 期間, 开庭期, 會議, 学期, [计] 會话, 對话, 會晤, 通用任务程序"
+          "definition": "n. 會議、會期、一段活動期間"
         }
       ],
       "examples": [
         {
-          "en": "The committee held a special session.",
+          "en": "The board held a special session to discuss the merger proposal.",
           "highlight": [
             "session"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "董事會召開了一次特別會議來討論合併案。"
+          }
+        },
+        {
+          "en": "All three training sessions must be completed before the certification exam.",
+          "highlight": [
+            "sessions"
+          ],
+          "translations": {
+            "zh-TW": "三堂培訓課程都必須在認證考試前完成。"
+          }
+        },
+        {
+          "en": "During the bargaining session, both sides reached a compromise on wages.",
+          "highlight": [
+            "session"
+          ],
+          "translations": {
+            "zh-TW": "在協商會議中，雙方就薪資問題達成妥協。"
           }
         }
       ],
       "synonyms": [
         "meeting",
-        "gathering"
+        "gathering",
+        "sitting"
       ],
       "antonyms": [],
       "phrases": [
-        "court",
-        "session",
-        "special",
-        "session"
+        "special session",
+        "training session",
+        "brainstorming session",
+        "question and answer session"
       ]
     },
     {
@@ -396,44 +546,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "seted",
-        "past_participle": "seted",
-        "present_participle": "seting",
-        "third_person": "sets"
+        "plural": "sets",
+        "present_3rd": "sets",
+        "past": "set",
+        "past_participle": "set",
+        "ing": "setting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "set",
-          "definition": "n. 日落, 同伙, 组合, 集合, 装置, vt. 放, 安置, 放置, 设定, 使凝結, 點燃, 确定, 點缀, 使就位, 树立, 分配, 调整, vi. 日落, 凝固, 定型, 搁住, 結果, 适合, a. 决心的, 规定的, 故意的, 持久的, 固定的, 老套的, 准备好的, [计] 设置; DOS内部命令:改变或顯示分配给环境变量的值"
+          "definition": "v. 設定、放置、安排  n. 一組、一套、裝置"
         }
       ],
       "examples": [
         {
-          "en": "He set the book on the table.",
+          "en": "The team set a deadline of Friday for the final report.",
           "highlight": [
             "set"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "團隊將最終報告的期限定在週五。"
+          }
+        },
+        {
+          "en": "She has set up three new accounts for the retail clients this week.",
+          "highlight": [
+            "set"
+          ],
+          "translations": {
+            "zh-TW": "她本週已為零售客戶設置了三個新帳戶。"
+          }
+        },
+        {
+          "en": "The projector is setting a new brightness level before the presentation.",
+          "highlight": [
+            "setting"
+          ],
+          "translations": {
+            "zh-TW": "投影機正在簡報前調整到新的亮度設定。"
           }
         }
       ],
       "synonyms": [
         "place",
-        "position"
+        "position",
+        "establish"
       ],
       "antonyms": [
         "remove",
         "unset"
       ],
       "phrases": [
-        "set",
-        "the",
-        "table",
-        "set",
-        "a"
+        "set up",
+        "set a goal",
+        "set a deadline",
+        "set the table"
       ]
     },
     {
@@ -444,48 +613,65 @@
       "toeic_score_min": 500,
       "word": "settle",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "settleed",
-        "past_participle": "settleed",
-        "present_participle": "settling",
-        "third_person": "settles"
+        "present_3rd": "settles",
+        "past": "settled",
+        "past_participle": "settled",
+        "ing": "settling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "settle",
-          "definition": "n. 有背長椅, vt. 决定, 整理, 安放, 使定居, 使平静, 支付, 安排, 解决, 結算, vi. 停留, 下陷, 沉淀, 澄清, 安下心來, 結清, 定居, 安家"
+          "definition": "v. 解決、結算、定居、安頓"
         }
       ],
       "examples": [
         {
-          "en": "They settled their differences.",
+          "en": "Both parties agreed to settle the dispute out of court.",
           "highlight": [
             "settle"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "雙方同意在庭外解決這項爭議。"
+          }
+        },
+        {
+          "en": "The invoice was settled within thirty days, in line with the contract.",
+          "highlight": [
+            "settled"
+          ],
+          "translations": {
+            "zh-TW": "這張發票已在三十天內結清，符合合約規定。"
+          }
+        },
+        {
+          "en": "The HR manager is settling the new hires into their desks before orientation.",
+          "highlight": [
+            "settling"
+          ],
+          "translations": {
+            "zh-TW": "人資經理正協助新進員工在職前訓練前安頓好座位。"
           }
         }
       ],
       "synonyms": [
         "resolve",
-        "agree"
+        "decide",
+        "pay"
       ],
       "antonyms": [
         "prolong",
         "unsettle"
       ],
       "phrases": [
-        "settle",
-        "a",
-        "dispute",
-        "settle",
-        "down"
+        "settle down",
+        "settle a dispute",
+        "settle an account",
+        "settle in"
       ]
     }
   ]
