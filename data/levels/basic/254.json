@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 254,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-254-001",
@@ -12,40 +12,60 @@
       "word": "several",
       "pos": [
         "adjective",
-        "noun"
+        "pronoun"
       ],
-      "conjugations": {
-        "plural": "severals"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "several",
-          "definition": "a. 几個的, 一些的, 各自的, pron. 几個"
+          "definition": "adj. 幾個的、數個的、各自的  pron. 幾個、數個"
         }
       ],
       "examples": [
         {
-          "en": "He has several friends in the city.",
+          "en": "The manager received several proposals from different vendors before making a decision.",
           "highlight": [
             "several"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理在做決定前收到了幾家不同供應商的提案。"
+          }
+        },
+        {
+          "en": "Several of the applicants were invited for a second interview last week.",
+          "highlight": [
+            "several"
+          ],
+          "translations": {
+            "zh-TW": "上週有幾位應徵者被邀請參加第二次面試。"
+          }
+        },
+        {
+          "en": "The company opened several new branches in Asia to expand its market reach.",
+          "highlight": [
+            "several"
+          ],
+          "translations": {
+            "zh-TW": "公司在亞洲開設了幾個新分公司以擴大市場觸及。"
           }
         }
       ],
       "synonyms": [
         "few",
-        "some"
+        "some",
+        "various"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "none",
+        "single"
+      ],
       "phrases": [
-        "several",
-        "times",
-        "several",
-        "people"
+        "several times",
+        "several people",
+        "several reasons",
+        "several options"
       ]
     },
     {
@@ -56,44 +76,63 @@
       "toeic_score_min": 500,
       "word": "severe",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "severes"
+        "comparative": "severer",
+        "superlative": "severest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "severe",
-          "definition": "a. 严格的, 尖锐的, 严肃的, 严重的, 严厉的, 朴素的, [法] 严厉的, 苛刻的, 严重的"
+          "definition": "adj. 嚴重的、嚴厲的、嚴格的、嚴峻的"
         }
       ],
       "examples": [
         {
-          "en": "The storm caused severe damage.",
+          "en": "The storm caused severe damage to the warehouse and disrupted shipments for a week.",
           "highlight": [
             "severe"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "暴風雨對倉庫造成嚴重損害，並使貨運中斷了一週。"
+          }
+        },
+        {
+          "en": "The penalty was severer than the company had expected, prompting an immediate appeal.",
+          "highlight": [
+            "severer"
+          ],
+          "translations": {
+            "zh-TW": "罰款比公司預期的更嚴厲，促使他們立即提出申訴。"
+          }
+        },
+        {
+          "en": "The severest drought in decades forced the factory to halt production temporarily.",
+          "highlight": [
+            "severest"
+          ],
+          "translations": {
+            "zh-TW": "數十年來最嚴重的乾旱迫使工廠暫停生產。"
           }
         }
       ],
       "synonyms": [
         "harsh",
-        "strict"
+        "strict",
+        "grave"
       ],
       "antonyms": [
         "mild",
         "lenient"
       ],
       "phrases": [
-        "severe",
-        "weather",
-        "severe",
-        "punishment"
+        "severe weather",
+        "severe punishment",
+        "severe damage",
+        "severe pain"
       ]
     },
     {
@@ -112,33 +151,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "severely",
-          "definition": "adv. 严格, 尖锐, 严肃, 严重, 严厉, 朴素"
+          "definition": "adv. 嚴重地、嚴厲地、嚴格地"
         }
       ],
       "examples": [
         {
-          "en": "She was severely injured in the accident.",
+          "en": "The factory was severely damaged by the earthquake and had to close for months.",
           "highlight": [
             "severely"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "工廠在地震中受到嚴重損壞，不得不關閉數月。"
+          }
+        },
+        {
+          "en": "The auditor severely criticized the company's accounting practices in the annual report.",
+          "highlight": [
+            "severely"
+          ],
+          "translations": {
+            "zh-TW": "稽核員在年報中嚴厲批評了公司的會計做法。"
+          }
+        },
+        {
+          "en": "Profits fell severely last quarter, forcing the board to reconsider the budget.",
+          "highlight": [
+            "severely"
+          ],
+          "translations": {
+            "zh-TW": "上季利潤嚴重下滑，迫使董事會重新考慮預算。"
           }
         }
       ],
       "synonyms": [
-        "intensely",
-        "gravely"
+        "gravely",
+        "seriously",
+        "harshly"
       ],
       "antonyms": [
         "mildly",
-        "leniently"
+        "slightly"
       ],
       "phrases": [
-        "severely",
-        "damaged",
-        "severely",
-        "criticized"
+        "severely damaged",
+        "severely criticized",
+        "severely injured"
       ]
     },
     {
@@ -149,48 +206,65 @@
       "toeic_score_min": 500,
       "word": "sew",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "sewed",
-        "past_participle": "sewed",
-        "present_participle": "sewing",
-        "third_person": "sews"
+        "present_3rd": "sews",
+        "past": "sewed",
+        "past_participle": "sewn",
+        "ing": "sewing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sew",
-          "definition": "vt. 缝纫, 缝合, 缝, vi. 缝纫"
+          "definition": "v. 縫紉、縫合、縫製"
         }
       ],
       "examples": [
         {
-          "en": "She learned to sew from her grandmother.",
+          "en": "The tailor promised to sew the custom suit within two weeks for the client's wedding.",
           "highlight": [
             "sew"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "裁縫師承諾在兩週內為客戶的婚禮縫製訂製西裝。"
+          }
+        },
+        {
+          "en": "She sewed a name tag onto each employee's uniform before the grand opening.",
+          "highlight": [
+            "sewed"
+          ],
+          "translations": {
+            "zh-TW": "她在開幕前把姓名牌縫到每位員工的制服上。"
+          }
+        },
+        {
+          "en": "The factory is sewing a new line of dresses for the upcoming spring collection.",
+          "highlight": [
+            "sewing"
+          ],
+          "translations": {
+            "zh-TW": "工廠正在縫製新系列洋裝，為即將到來的春季系列做準備。"
           }
         }
       ],
       "synonyms": [
         "stitch",
-        "mend"
+        "mend",
+        "tailor"
       ],
       "antonyms": [
         "tear",
         "rip"
       ],
       "phrases": [
-        "sew",
-        "clothes",
-        "sew",
-        "a",
-        "button"
+        "sew a button",
+        "sew clothes",
+        "sew up",
+        "sew together"
       ]
     },
     {
@@ -201,44 +275,59 @@
       "toeic_score_min": 500,
       "word": "sewing",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "sewinged",
-        "past_participle": "sewinged",
-        "present_participle": "sewinging",
-        "third_person": "sewings"
+        "plural": "sewings"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sewing",
-          "definition": "n. 缝制品, 缝纫"
+          "definition": "n. 縫紉、縫製物、針線活"
         }
       ],
       "examples": [
         {
-          "en": "Sewing is a useful skill.",
+          "en": "Sewing has become a popular hobby among office workers seeking a creative outlet.",
           "highlight": [
             "sewing"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "縫紉已成為辦公室上班族尋求創意出口的熱門嗜好。"
+          }
+        },
+        {
+          "en": "The factory's sewings are inspected by hand before being shipped to retailers.",
+          "highlight": [
+            "sewings"
+          ],
+          "translations": {
+            "zh-TW": "工廠的縫製品在出貨給零售商前都會經過手工檢查。"
+          }
+        },
+        {
+          "en": "She enrolled in a sewing class to learn how to make her own curtains.",
+          "highlight": [
+            "sewing"
+          ],
+          "translations": {
+            "zh-TW": "她報名了縫紉課程，學習如何製作自己的窗簾。"
           }
         }
       ],
       "synonyms": [
         "needlework",
-        "tailoring"
+        "tailoring",
+        "stitching"
       ],
       "antonyms": [],
       "phrases": [
-        "sewing",
-        "machine",
-        "sewing",
-        "kit"
+        "sewing machine",
+        "sewing kit",
+        "sewing class",
+        "sewing room"
       ]
     },
     {
@@ -249,44 +338,57 @@
       "toeic_score_min": 500,
       "word": "sex",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "sexed",
-        "past_participle": "sexed",
-        "present_participle": "sexing",
-        "third_person": "sexs"
+        "plural": "sexes"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sex",
-          "definition": "n. 性别, 性欲, vt. 區别...的性别, 引起...的性欲"
+          "definition": "n. 性別、性、性行為"
         }
       ],
       "examples": [
         {
-          "en": "They discussed the differences between sex and gender.",
+          "en": "The survey asked participants to indicate their sex for demographic analysis.",
           "highlight": [
             "sex"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "問卷要求受訪者填寫性別以進行人口統計分析。"
+          }
+        },
+        {
+          "en": "The company ensures equal pay across both sexes to promote workplace fairness.",
+          "highlight": [
+            "sexes"
+          ],
+          "translations": {
+            "zh-TW": "公司確保兩個性別之間的同酬，以促進職場公平。"
+          }
+        },
+        {
+          "en": "The HR handbook clearly prohibits discrimination on the basis of sex or gender identity.",
+          "highlight": [
+            "sex"
+          ],
+          "translations": {
+            "zh-TW": "人事手冊明確禁止基於性別或性別認同的歧視。"
           }
         }
       ],
       "synonyms": [
-        "gender",
-        "category"
+        "gender"
       ],
       "antonyms": [],
       "phrases": [
-        "sex",
-        "differences",
-        "opposite",
-        "sex"
+        "the fair sex",
+        "opposite sex",
+        "sex discrimination",
+        "sex education"
       ]
     },
     {
@@ -297,44 +399,59 @@
       "toeic_score_min": 500,
       "word": "sexual",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "sexuals"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sexual",
-          "definition": "a. 性的, 性别的, [医] 性的; 性欲的"
+          "definition": "adj. 性的、性別的、兩性的"
         }
       ],
       "examples": [
         {
-          "en": "The film explores sexual relationships.",
+          "en": "The company introduced a new policy to prevent sexual harassment in the workplace.",
           "highlight": [
             "sexual"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司推出新政策以防止職場性騷擾。"
+          }
+        },
+        {
+          "en": "The documentary explored sexual discrimination in traditionally male-dominated industries.",
+          "highlight": [
+            "sexual"
+          ],
+          "translations": {
+            "zh-TW": "這部紀錄片探討了傳統上由男性主導的行業中的性別歧視。"
+          }
+        },
+        {
+          "en": "All employees must complete sexual harassment awareness training each year.",
+          "highlight": [
+            "sexual"
+          ],
+          "translations": {
+            "zh-TW": "所有員工每年都必須完成性騷擾意識培訓。"
           }
         }
       ],
       "synonyms": [
-        "erotic",
-        "intimate"
+        "intimate",
+        "erotic"
       ],
       "antonyms": [
-        "nonsexual",
-        "platonic"
+        "platonic",
+        "asexual"
       ],
       "phrases": [
-        "sexual",
-        "behavior",
-        "sexual",
-        "health"
+        "sexual harassment",
+        "sexual orientation",
+        "sexual health",
+        "sexual discrimination"
       ]
     },
     {
@@ -349,44 +466,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "shadeed",
-        "past_participle": "shadeed",
-        "present_participle": "shading",
-        "third_person": "shades"
+        "present_3rd": "shades",
+        "past": "shaded",
+        "past_participle": "shaded",
+        "ing": "shading",
+        "plural": "shades"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "shade",
-          "definition": "n. 荫, 阴暗, 遮光物, 灯罩, 帘, 浓淡, 微量, 底纹, vi. 渐变, vt. 使阴暗, 使渐变, 遮蔽, 微减, [计] 底纹"
+          "definition": "n. 蔭涼處、陰影、色度、遮光物  v. 遮蔽、使陰暗"
         }
       ],
       "examples": [
         {
-          "en": "We sat in the shade of a large tree.",
+          "en": "The tourists rested in the shade of a large tree after walking for hours.",
           "highlight": [
             "shade"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "遊客走了幾個小時後在大樹的蔭涼處休息。"
+          }
+        },
+        {
+          "en": "The factory windows were shaded to protect workers from the afternoon sun.",
+          "highlight": [
+            "shaded"
+          ],
+          "translations": {
+            "zh-TW": "工廠的窗戶裝上了遮陽設施，以保護工人免受午後陽光照射。"
+          }
+        },
+        {
+          "en": "The designer is shading the product model to show how it looks under different lighting.",
+          "highlight": [
+            "shading"
+          ],
+          "translations": {
+            "zh-TW": "設計師正在為產品模型做陰影處理，以展示在不同光線下的效果。"
           }
         }
       ],
       "synonyms": [
+        "shadow",
         "shelter",
-        "cover"
+        "tint"
       ],
       "antonyms": [
         "sunlight",
         "brightness"
       ],
       "phrases": [
-        "in",
-        "the",
-        "shade",
-        "shade",
-        "of"
+        "in the shade",
+        "a shade of",
+        "shades of color",
+        "lamp shade"
       ]
     },
     {
@@ -401,44 +537,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "shadowed",
+        "present_3rd": "shadows",
+        "past": "shadowed",
         "past_participle": "shadowed",
-        "present_participle": "shadowing",
-        "third_person": "shadows"
+        "ing": "shadowing",
+        "plural": "shadows"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "shadow",
-          "definition": "n. 阴影, 荫, 影子, 影像, 阴暗, 幽灵, 少许, 隐蔽處, 庇护, vt. 遮蔽, 使朦胧, 预示, 尾随, vi. 渐变, 变阴暗, [计] 阴影"
+          "definition": "n. 影子、陰影、暗處  v. 跟蹤、尾隨"
         }
       ],
       "examples": [
         {
-          "en": "His shadow followed him closely.",
+          "en": "The new employee spent a week shadowing a senior manager to learn the workflow.",
           "highlight": [
-            "shadow"
+            "shadowing"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新員工花了一週時間跟著資深經理見習，以學習工作流程。"
+          }
+        },
+        {
+          "en": "The security guard shadowed the suspicious visitor until he left the building.",
+          "highlight": [
+            "shadowed"
+          ],
+          "translations": {
+            "zh-TW": "保全人員尾隨那位可疑訪客，直到他離開大樓為止。"
+          }
+        },
+        {
+          "en": "The long shadows at dusk stretched across the parking lot as staff headed home.",
+          "highlight": [
+            "shadows"
+          ],
+          "translations": {
+            "zh-TW": "黃昏時長長的影子橫越停車場，員工們陸續回家。"
           }
         }
       ],
       "synonyms": [
         "silhouette",
-        "outline"
+        "shade",
+        "trail"
       ],
       "antonyms": [
         "light",
         "illumination"
       ],
       "phrases": [
-        "cast",
-        "a",
-        "shadow",
-        "shadow",
-        "of"
+        "cast a shadow",
+        "without a shadow of doubt",
+        "shadow someone",
+        "eye shadow"
       ]
     },
     {
@@ -453,44 +608,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "shakeed",
-        "past_participle": "shakeed",
-        "present_participle": "shaking",
-        "third_person": "shakes"
+        "present_3rd": "shakes",
+        "past": "shook",
+        "past_participle": "shaken",
+        "ing": "shaking",
+        "plural": "shakes"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "shake",
-          "definition": "n. 摇動, 震動, vt. 摇動, 動摇, 使震動, 挥舞, vi. 震動, 發抖, 動摇"
+          "definition": "v. 搖動、震動、發抖、動搖  n. 搖動、震動、奶昔"
         }
       ],
       "examples": [
         {
-          "en": "He shook with fear.",
+          "en": "The two executives shook hands after signing the partnership agreement.",
           "highlight": [
-            "shake"
+            "shook"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "兩位主管在簽署合作協議後握手。"
+          }
+        },
+        {
+          "en": "The sudden drop in sales has shaken the board's confidence in the new strategy.",
+          "highlight": [
+            "shaken"
+          ],
+          "translations": {
+            "zh-TW": "銷售額的突然下滑動搖了董事會對新策略的信心。"
+          }
+        },
+        {
+          "en": "The manager is shaking hands with the new clients before the tour of the factory.",
+          "highlight": [
+            "shaking"
+          ],
+          "translations": {
+            "zh-TW": "經理正在與新客戶握手，隨後將帶他們參觀工廠。"
           }
         }
       ],
       "synonyms": [
         "tremble",
-        "quiver"
+        "quiver",
+        "shudder"
       ],
       "antonyms": [
         "steady",
         "calm"
       ],
       "phrases": [
-        "shake",
-        "hands",
-        "shake",
-        "with",
-        "fear"
+        "shake hands",
+        "shake up",
+        "milk shake",
+        "shake with fear"
       ]
     }
   ]
