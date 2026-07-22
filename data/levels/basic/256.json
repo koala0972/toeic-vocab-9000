@@ -1,144 +1,184 @@
 {
+  "cefr": "A2",
   "level": 256,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-256-001",
-      "level": 256,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
       "word": "sheet",
       "pos": [
         "noun",
         "verb"
       ],
       "conjugations": {
-        "past_tense": "sheeted",
+        "plural": "sheets",
+        "present_3rd": "sheets",
+        "past": "sheeted",
         "past_participle": "sheeted",
-        "present_participle": "sheeting",
-        "third_person": "sheets"
+        "ing": "sheeting"
       },
-      "domain": "general",
+      "domain": "office",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sheet",
-          "definition": "n. 床单, 张, 纸张, 印刷品, 裹尸布, 薄片, vt. 盖上被单, 遍布, vi. 大片落下, a. 片状的, 成薄片的, [计] 工作表"
+          "definition": "n. 床單、一張（紙）、表格  v. 鋪蓋、覆蓋"
         }
       ],
       "examples": [
         {
-          "en": "He pulled the sheet over the bed.",
+          "en": "Please fill out this sheet and return it to the receptionist.",
           "highlight": [
             "sheet"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請填寫這張表格並交回給櫃檯人員。"
+          }
+        },
+        {
+          "en": "The accountant printed three sheets of the quarterly report.",
+          "highlight": [
+            "sheets"
+          ],
+          "translations": {
+            "zh-TW": "會計師列印了三張季度報告。"
+          }
+        },
+        {
+          "en": "The boat was sheeted with canvas to protect it from the storm.",
+          "highlight": [
+            "sheeted"
+          ],
+          "translations": {
+            "zh-TW": "船身覆蓋了帆布以抵擋暴風雨。"
           }
         }
       ],
       "synonyms": [
         "bedspread",
-        "layer"
+        "layer",
+        "page"
       ],
       "antonyms": [],
       "phrases": [
-        "clean",
-        "sheet",
-        "sheet",
-        "of",
-        "paper"
+        "sheet of paper",
+        "balance sheet",
+        "clean sheet"
       ]
     },
     {
       "id": "A2-256-002",
-      "level": 256,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
       "word": "shelf",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "shelfed",
-        "past_participle": "shelfed",
-        "present_participle": "shelfing",
-        "third_person": "shelfs"
+        "plural": "shelves"
       },
-      "domain": "general",
+      "domain": "storage",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "shelf",
-          "definition": "n. 架子, 搁板, [化] 架子"
+          "definition": "n. 架子、擱板"
         }
       ],
       "examples": [
         {
-          "en": "She placed the book on the shelf.",
+          "en": "The clerk placed the folder on the top shelf of the cabinet.",
           "highlight": [
             "shelf"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "職員把資料夾放在櫃子的最上層架子上。"
+          }
+        },
+        {
+          "en": "The library shelves were rearranged during the renovation.",
+          "highlight": [
+            "shelves"
+          ],
+          "translations": {
+            "zh-TW": "圖書館的書架在整修期間被重新排列。"
+          }
+        },
+        {
+          "en": "Please return the merchandise shelf to its original position.",
+          "highlight": [
+            "shelf"
+          ],
+          "translations": {
+            "zh-TW": "請把商品陳列架歸回原位。"
           }
         }
       ],
       "synonyms": [
         "ledge",
-        "board"
+        "rack",
+        "bracket"
       ],
       "antonyms": [],
       "phrases": [
-        "wooden",
-        "shelf",
-        "book",
-        "shelf"
+        "bookshelf",
+        "on the shelf",
+        "top shelf"
       ]
     },
     {
       "id": "A2-256-003",
-      "level": 256,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
       "word": "shell",
       "pos": [
         "noun",
         "verb"
       ],
       "conjugations": {
-        "past_tense": "shelled",
+        "plural": "shells",
+        "present_3rd": "shells",
+        "past": "shelled",
         "past_participle": "shelled",
-        "present_participle": "shelling",
-        "third_person": "shells"
+        "ing": "shelling"
       },
-      "domain": "general",
+      "domain": "nature",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "shell",
-          "definition": "n. 贝壳, 壳, 外形, 炮弹, vt. 去壳, 脱落, 炮轰, vi. 剥落, 脱壳, [计] 外壳; DOS内部命令:指定命令行處理程序"
+          "definition": "n. 貝殼、外殼、砲彈  v. 去殼、轟擊"
         }
       ],
       "examples": [
         {
-          "en": "The turtle's shell is very hard.",
+          "en": "The children collected colourful shells along the beach.",
           "highlight": [
-            "shell"
+            "shells"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "孩子們在沙灘上收集了色彩繽紛的貝殼。"
+          }
+        },
+        {
+          "en": "She shelled the peanuts while watching the evening news.",
+          "highlight": [
+            "shelled"
+          ],
+          "translations": {
+            "zh-TW": "她一邊看晚間新聞一邊剝花生殼。"
+          }
+        },
+        {
+          "en": "The factory had been shelling nuts for export all summer.",
+          "highlight": [
+            "shelling"
+          ],
+          "translations": {
+            "zh-TW": "整個夏天工廠都在為出口剝坚果殼。"
           }
         }
       ],
       "synonyms": [
-        "carapace",
-        "casing"
+        "casing",
+        "husk",
+        "carapace"
       ],
       "antonyms": [
         "core",
@@ -146,48 +186,64 @@
       ],
       "phrases": [
         "seashell",
-        "turtle",
-        "shell"
+        "shell out",
+        "nutshell"
       ]
     },
     {
       "id": "A2-256-004",
-      "level": 256,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
       "word": "shelter",
       "pos": [
         "noun",
         "verb"
       ],
       "conjugations": {
-        "past_tense": "sheltered",
+        "plural": "shelters",
+        "present_3rd": "shelters",
+        "past": "sheltered",
         "past_participle": "sheltered",
-        "present_participle": "sheltering",
-        "third_person": "shelters"
+        "ing": "sheltering"
       },
-      "domain": "general",
+      "domain": "safety",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "shelter",
-          "definition": "n. 庇护所, 避難所, 庇护, 隐蔽處, 掩蔽, vt. 庇护, 保护, 隐匿, vi. 躲避"
+          "definition": "n. 庇護所、避難所  v. 庇護、躲避"
         }
       ],
       "examples": [
         {
-          "en": "They found shelter under a tree.",
+          "en": "The embassy provided shelter to several foreign journalists.",
           "highlight": [
             "shelter"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "大使館為幾位外國記者提供了庇護。"
+          }
+        },
+        {
+          "en": "The non-profit organization shelters homeless families during winter.",
+          "highlight": [
+            "shelters"
+          ],
+          "translations": {
+            "zh-TW": "這家非營利組織在冬季收容無家可歸的家庭。"
+          }
+        },
+        {
+          "en": "The refugees had been sheltering in the abandoned warehouse for weeks.",
+          "highlight": [
+            "sheltering"
+          ],
+          "translations": {
+            "zh-TW": "難民們已在廢棄倉庫裡躲避了好幾週。"
           }
         }
       ],
       "synonyms": [
         "refuge",
+        "haven",
         "protection"
       ],
       "antonyms": [
@@ -195,246 +251,311 @@
         "endangerment"
       ],
       "phrases": [
-        "take",
-        "shelter",
-        "provide",
-        "shelter"
+        "take shelter",
+        "shelter from the storm",
+        "bomb shelter"
       ]
     },
     {
       "id": "A2-256-005",
-      "level": 256,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
       "word": "shift",
       "pos": [
         "verb",
         "noun"
       ],
       "conjugations": {
-        "past_tense": "shifted",
+        "plural": "shifts",
+        "present_3rd": "shifts",
+        "past": "shifted",
         "past_participle": "shifted",
-        "present_participle": "shifting",
-        "third_person": "shifts"
+        "ing": "shifting"
       },
-      "domain": "general",
+      "domain": "work",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "shift",
-          "definition": "n. 变化, 移動, 轮班, 手段, 应急办法, 移位, vt. 替换, 转移, 改变, 推卸, 变速, vi. 转换, 移動, 转变, 推托, 变速, [计] DOS内部命令:该命令可将批處理参数向左移動一個位置"
+          "definition": "n. 輪班、轉變  v. 轉移、改變"
         }
       ],
       "examples": [
         {
-          "en": "He shifted the box to the other side of the room.",
+          "en": "The manager shifted the meeting to next Tuesday due to a scheduling conflict.",
+          "highlight": [
+            "shifted"
+          ],
+          "translations": {
+            "zh-TW": "由於行程衝突，經理把會議改到下週二。"
+          }
+        },
+        {
+          "en": "She works the night shift at the semiconductor factory.",
           "highlight": [
             "shift"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在半導體工廠上大夜班。"
+          }
+        },
+        {
+          "en": "Consumer demand has been shifting toward electric vehicles.",
+          "highlight": [
+            "shifting"
+          ],
+          "translations": {
+            "zh-TW": "消費者需求一直朝向電動車轉變。"
           }
         }
       ],
       "synonyms": [
         "move",
-        "transfer"
+        "transfer",
+        "relocate"
       ],
       "antonyms": [
         "stay",
         "remain"
       ],
       "phrases": [
-        "shift",
-        "gears",
-        "shift",
-        "position"
+        "night shift",
+        "shift gears",
+        "shift work"
       ]
     },
     {
       "id": "A2-256-006",
-      "level": 256,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
       "word": "shine",
       "pos": [
         "verb",
         "noun"
       ],
       "conjugations": {
-        "past_tense": "shineed",
-        "past_participle": "shineed",
-        "present_participle": "shining",
-        "third_person": "shines"
+        "plural": "shines",
+        "present_3rd": "shines",
+        "past": "shone",
+        "past_participle": "shone",
+        "ing": "shining"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "shine",
-          "definition": "n. 光泽, 阳光, vt. 使發光, vi. 照耀, 發光, 發亮"
+          "definition": "n. 光澤  v. 照耀、發光、擦亮"
         }
       ],
       "examples": [
         {
-          "en": "The sun was shining brightly.",
+          "en": "The morning sun shone through the conference room windows.",
           "highlight": [
-            "shine"
+            "shone"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "晨光穿過會議室的窗戶照了進來。"
+          }
+        },
+        {
+          "en": "The janitor shines the marble floor every evening before closing.",
+          "highlight": [
+            "shines"
+          ],
+          "translations": {
+            "zh-TW": "管理員每天傍晚關門前都會把大理石地板擦得發亮。"
+          }
+        },
+        {
+          "en": "The new car's paint was shining under the showroom lights.",
+          "highlight": [
+            "shining"
+          ],
+          "translations": {
+            "zh-TW": "新車的車漆在展間燈光下閃閃發亮。"
           }
         }
       ],
       "synonyms": [
         "glow",
-        "radiate"
+        "radiate",
+        "polish"
       ],
       "antonyms": [
         "dim",
         "dull"
       ],
       "phrases": [
-        "shine",
-        "brightly",
-        "shine",
-        "on"
+        "shine bright",
+        "shine up to",
+        "take a shine to"
       ]
     },
     {
       "id": "A2-256-007",
-      "level": 256,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
       "word": "shiny",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "shinies"
+        "comparative": "shinier",
+        "superlative": "shiniest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "shiny",
-          "definition": "a. 有光泽的, 發光的, 辉煌的, 磨光的, 磨损的"
+          "definition": "a. 閃亮的、有光澤的"
         }
       ],
       "examples": [
         {
-          "en": "Her hair was shiny and smooth.",
+          "en": "The investor presented a shiny new business plan to the board.",
           "highlight": [
             "shiny"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "投資人向董事會提出了一份嶄新的商業計畫。"
+          }
+        },
+        {
+          "en": "Her hair looked shinier after switching to the new conditioner.",
+          "highlight": [
+            "shinier"
+          ],
+          "translations": {
+            "zh-TW": "換了新的護髮乳後，她的頭髮看起來更閃亮。"
+          }
+        },
+        {
+          "en": "This is the shiniest finish we have ever applied in our workshop.",
+          "highlight": [
+            "shiniest"
+          ],
+          "translations": {
+            "zh-TW": "這是我們工作室做過最閃亮的表面處理。"
           }
         }
       ],
       "synonyms": [
         "gleaming",
-        "glossy"
+        "glossy",
+        "polished"
       ],
       "antonyms": [
         "dull",
         "matte"
       ],
       "phrases": [
-        "shiny",
-        "hair",
-        "shiny",
-        "surface"
+        "shiny hair",
+        "shiny surface",
+        "shiny new toy"
       ]
     },
     {
       "id": "A2-256-008",
-      "level": 256,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
       "word": "ship",
       "pos": [
         "noun",
         "verb"
       ],
       "conjugations": {
-        "past_tense": "shiped",
-        "past_participle": "shiped",
-        "present_participle": "shiping",
-        "third_person": "ships"
+        "plural": "ships",
+        "present_3rd": "ships",
+        "past": "shipped",
+        "past_participle": "shipped",
+        "ing": "shipping"
       },
-      "domain": "general",
+      "domain": "logistics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "ship",
-          "definition": "n. 船, 舰, vt. 以船運送, 装船, 運送, vi. 上船, 乘船"
+          "definition": "n. 船、艦  v. 運送、出貨"
         }
       ],
       "examples": [
         {
-          "en": "The ship sailed across the ocean.",
+          "en": "The cargo ship departed from the harbour at dawn.",
           "highlight": [
             "ship"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "貨船在黎明時分駛離港口。"
+          }
+        },
+        {
+          "en": "The online retailer shipped the order within 24 hours.",
+          "highlight": [
+            "shipped"
+          ],
+          "translations": {
+            "zh-TW": "線上零售商在 24 小時內就出貨了。"
+          }
+        },
+        {
+          "en": "The logistics company has been shipping the components by air freight.",
+          "highlight": [
+            "shipping"
+          ],
+          "translations": {
+            "zh-TW": "物流公司一直透過空運運送這些零件。"
           }
         }
       ],
       "synonyms": [
         "vessel",
-        "boat"
+        "boat",
+        "dispatch"
       ],
-      "antonyms": [
-        "raft",
-        "dinghy"
-      ],
+      "antonyms": [],
       "phrases": [
-        "cargo",
-        "ship",
-        "cruise",
-        "ship"
+        "cargo ship",
+        "ship out",
+        "free shipping"
       ]
     },
     {
       "id": "A2-256-009",
-      "level": 256,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
       "word": "shirt",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "shirted",
-        "past_participle": "shirted",
-        "present_participle": "shirting",
-        "third_person": "shirts"
+        "plural": "shirts"
       },
-      "domain": "general",
+      "domain": "clothing",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "shirt",
-          "definition": "n. 衬衫, 内衣, 汗衫"
+          "definition": "n. 襯衫、上衣"
         }
       ],
       "examples": [
         {
-          "en": "He wore a blue shirt.",
+          "en": "The employees are required to wear a collared shirt in the office.",
           "highlight": [
             "shirt"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "員工在辦公室必須穿著有領襯衫。"
+          }
+        },
+        {
+          "en": "He packed three shirts for his week-long business trip.",
+          "highlight": [
+            "shirts"
+          ],
+          "translations": {
+            "zh-TW": "他為期一週的出差準備了三件襯衫。"
+          }
+        },
+        {
+          "en": "The tailor noted that this shirt fits perfectly across the shoulders.",
+          "highlight": [
+            "shirt"
+          ],
+          "translations": {
+            "zh-TW": "裁縫師注意到這件襯衫在肩膀處非常合身。"
           }
         }
       ],
@@ -447,61 +568,75 @@
         "trousers"
       ],
       "phrases": [
-        "button-down",
-        "shirt",
-        "dress",
-        "shirt"
+        "dress shirt",
+        "t-shirt",
+        "polo shirt"
       ]
     },
     {
       "id": "A2-256-010",
-      "level": 256,
-      "tier": "basic",
-      "cefr": "A2",
-      "toeic_score_min": 500,
       "word": "shock",
       "pos": [
         "noun",
         "verb"
       ],
       "conjugations": {
-        "past_tense": "shocked",
+        "plural": "shocks",
+        "present_3rd": "shocks",
+        "past": "shocked",
         "past_participle": "shocked",
-        "present_participle": "shocking",
-        "third_person": "shocks"
+        "ing": "shocking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "shock",
-          "definition": "n. 震動, 冲突, 震惊, 冲击, 突击, 禾束堆, 休克, 長毛狗, vt. 使震動, 使休克, 使受电击, 震惊得, vi. 震動, 吓人, a. 蓬乱浓密的"
+          "definition": "n. 震驚、休克、衝擊  v. 使震驚、使震動"
         }
       ],
       "examples": [
         {
-          "en": "The news came as a shock.",
+          "en": "The sudden resignation of the CEO came as a shock to all employees.",
           "highlight": [
             "shock"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "執行長突然辭職的消息令所有員工震驚。"
+          }
+        },
+        {
+          "en": "Shareholders were shocked by the unexpected drop in quarterly profits.",
+          "highlight": [
+            "shocked"
+          ],
+          "translations": {
+            "zh-TW": "股東們對季度利潤意外下滑感到震驚。"
+          }
+        },
+        {
+          "en": "The audit revealed a shocking amount of undocumented expenses.",
+          "highlight": [
+            "shocking"
+          ],
+          "translations": {
+            "zh-TW": "審計揭露了數量驚人的未列帳支出。"
           }
         }
       ],
       "synonyms": [
         "surprise",
-        "astonish"
+        "astonish",
+        "startle"
       ],
       "antonyms": [
         "expectation",
         "predictability"
       ],
       "phrases": [
-        "culture",
-        "shock",
-        "electric",
-        "shock"
+        "culture shock",
+        "electric shock",
+        "in shock"
       ]
     }
   ]
