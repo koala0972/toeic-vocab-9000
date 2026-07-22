@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 258,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-258-001",
@@ -14,42 +14,58 @@
         "modal",
         "verb"
       ],
-      "conjugations": {
-        "past_tense": "shoulded",
-        "past_participle": "shoulded",
-        "present_participle": "shoulding",
-        "third_person": "shoulds"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "should",
-          "definition": "aux. 应该, 将要"
+          "definition": "aux. 應該、應當、將會（表示義務、建議或推測）"
         }
       ],
       "examples": [
         {
-          "en": "You should study for the exam.",
+          "en": "You should review the contract thoroughly before signing it.",
           "highlight": [
             "should"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "你應該在簽署前仔細審閱合約。"
+          }
+        },
+        {
+          "en": "The report should be on your desk by tomorrow morning.",
+          "highlight": [
+            "should"
+          ],
+          "translations": {
+            "zh-TW": "報告明天早上應該會在您桌上。"
+          }
+        },
+        {
+          "en": "He should have informed the supervisor about the delay earlier.",
+          "highlight": [
+            "should"
+          ],
+          "translations": {
+            "zh-TW": "他早該將延誤一事通知主管了。"
           }
         }
       ],
       "synonyms": [
-        "ought",
-        "to",
-        "must"
+        "ought to",
+        "must",
+        "had better"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "shouldn't",
+        "must not"
+      ],
       "phrases": [
-        "should",
-        "do",
-        "should",
-        "be"
+        "should have",
+        "should be",
+        "should do",
+        "should not"
       ]
     },
     {
@@ -64,41 +80,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "shouldered",
+        "plural": "shoulders",
+        "present_3rd": "shoulders",
+        "past": "shouldered",
         "past_participle": "shouldered",
-        "present_participle": "shouldering",
-        "third_person": "shoulders"
+        "ing": "shouldering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "shoulder",
-          "definition": "n. 肩, 肩膀, 衣肩, vt. 肩负, 负担, 担任, vi. 用肩推挤"
+          "definition": "n. 肩膀、肩部  v. 承擔、肩負（責任）；用肩推擠"
         }
       ],
       "examples": [
         {
-          "en": "He dislocated his shoulder playing football.",
+          "en": "She carried a heavy laptop bag on her right shoulder all the way to the office.",
           "highlight": [
             "shoulder"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她一路把沉重的筆電 bag 背在右肩上走到辦公室。"
+          }
+        },
+        {
+          "en": "The manager shouldered the blame for the team's missed deadline.",
+          "highlight": [
+            "shouldered"
+          ],
+          "translations": {
+            "zh-TW": "經理為團隊錯過死線一事扛下了責任。"
+          }
+        },
+        {
+          "en": "He is shouldering two new projects while his colleague is on maternity leave.",
+          "highlight": [
+            "shouldering"
+          ],
+          "translations": {
+            "zh-TW": "同事休產假期間，他正肩負兩個新專案。"
           }
         }
       ],
       "synonyms": [
-        "joint",
-        "upper",
-        "arm"
+        "upper arm",
+        "bear",
+        "carry"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "shift",
+        "avoid"
+      ],
       "phrases": [
-        "shoulder",
-        "pain",
-        "shoulder",
-        "bag"
+        "shoulder the blame",
+        "shoulder responsibility",
+        "shoulder to shoulder",
+        "shoulder bag"
       ]
     },
     {
@@ -113,43 +151,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "shouted",
+        "plural": "shouts",
+        "present_3rd": "shouts",
+        "past": "shouted",
         "past_participle": "shouted",
-        "present_participle": "shouting",
-        "third_person": "shouts"
+        "ing": "shouting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "shout",
-          "definition": "n. 呼喊, 喊声, vi. 呼喊, 喊叫, 嚷, vt. 高喊"
+          "definition": "v. 大喊、叫喊  n. 大喊、叫聲"
         }
       ],
       "examples": [
         {
-          "en": "He shouted for help.",
+          "en": "Please don't shout across the open-plan office during client calls.",
           "highlight": [
             "shout"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請勿在與客戶通話時於開放式辦公室內大聲喊叫。"
+          }
+        },
+        {
+          "en": "The angry customer shouted at the receptionist about the overcharge.",
+          "highlight": [
+            "shouted"
+          ],
+          "translations": {
+            "zh-TW": "憤怒的顧客就多收費用一事對接待員大叫。"
+          }
+        },
+        {
+          "en": "Two staff were shouting at each other in the hallway until HR intervened.",
+          "highlight": [
+            "shouting"
+          ],
+          "translations": {
+            "zh-TW": "兩名員工在走廊裡互相叫罵，直到人資介入為止。"
           }
         }
       ],
       "synonyms": [
         "yell",
-        "scream"
+        "scream",
+        "call out"
       ],
       "antonyms": [
         "whisper",
         "murmur"
       ],
       "phrases": [
-        "shout",
-        "loudly",
-        "shout",
-        "for"
+        "shout for help",
+        "shout at",
+        "shout loudly",
+        "shout down"
       ]
     },
     {
@@ -164,44 +222,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "showed",
-        "past_participle": "showed",
-        "present_participle": "showing",
-        "third_person": "shows"
+        "plural": "shows",
+        "present_3rd": "shows",
+        "past": "showed",
+        "past_participle": "shown",
+        "ing": "showing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "show",
-          "definition": "n. 顯示, 表现, 展览, 賣弄, 炫耀, 外观, 演出, 洋相, vt. 表示, 顯示, 展现, 陈列, 演出, 表明, 指出, 帶领, vi. 露面, 顯现, 演出, [计] 顯示"
+          "definition": "v. 展示、顯示、帶領  n. 節目、展覽、表演"
         }
       ],
       "examples": [
         {
-          "en": "She showed her true feelings.",
+          "en": "The sales assistant is showing a newer model to the customer right now.",
           "highlight": [
-            "show"
+            "showing"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "銷售助理目前正在向顧客介紹一款較新的機型。"
+          }
+        },
+        {
+          "en": "The quarterly figures showed a steady improvement over last year.",
+          "highlight": [
+            "showed"
+          ],
+          "translations": {
+            "zh-TW": "季度數據顯示較去年有穩定的成長。"
+          }
+        },
+        {
+          "en": "She has shown impressive leadership since taking over the department.",
+          "highlight": [
+            "shown"
+          ],
+          "translations": {
+            "zh-TW": "自從接手部門以來，她已展現出令人讚嘆的領導力。"
           }
         }
       ],
       "synonyms": [
         "display",
-        "exhibit"
+        "exhibit",
+        "demonstrate"
       ],
       "antonyms": [
         "hide",
         "conceal"
       ],
       "phrases": [
-        "show",
-        "emotion",
-        "show",
-        "a",
-        "film"
+        "show around",
+        "show up",
+        "on show",
+        "show up on time"
       ]
     },
     {
@@ -216,43 +293,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "showered",
+        "plural": "showers",
+        "present_3rd": "showers",
+        "past": "showered",
         "past_participle": "showered",
-        "present_participle": "showering",
-        "third_person": "showers"
+        "ing": "showering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "shower",
-          "definition": "n. 阵雨, 淋浴, 一阵, 展出者, 顯示者, vi. 淋浴, 下阵雨, vt. 淋湿, 倾注"
+          "definition": "n. 淋浴、陣雨  v. 淋浴、陣雨般落下"
         }
       ],
       "examples": [
         {
-          "en": "We got caught in a shower.",
+          "en": "There's a small shower in the executive suite of the hotel.",
           "highlight": [
             "shower"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "飯店的行政套房裡有一間小型淋浴間。"
+          }
+        },
+        {
+          "en": "It showered briefly during our morning team-building event in the park.",
+          "highlight": [
+            "showered"
+          ],
+          "translations": {
+            "zh-TW": "早上在公園團建活動期間短暫下了陣雨。"
+          }
+        },
+        {
+          "en": "The conference room windows were showering with light from the sunset.",
+          "highlight": [
+            "showering"
+          ],
+          "translations": {
+            "zh-TW": "會議室窗戶因夕陽而灑落一片光影。"
           }
         }
       ],
       "synonyms": [
         "rainfall",
-        "drizzle"
+        "drizzle",
+        "downpour"
       ],
       "antonyms": [
-        "drought"
+        "drought",
+        "dry spell"
       ],
       "phrases": [
-        "take",
-        "a",
-        "shower",
-        "shower",
-        "of"
+        "take a shower",
+        "baby shower",
+        "shower of rain",
+        "shower with"
       ]
     },
     {
@@ -267,44 +364,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "shuted",
-        "past_participle": "shuted",
-        "present_participle": "shuting",
-        "third_person": "shuts"
+        "plural": "shuts",
+        "present_3rd": "shuts",
+        "past": "shut",
+        "past_participle": "shut",
+        "ing": "shutting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "shut",
-          "definition": "n. 關闭, vt. 關上, 闭起, 幽禁, 合拢, 轧住, vi. 關上, 停止营业"
+          "definition": "v. 關上、封閉、停止營業  n. 關閉（常用於片語）"
         }
       ],
       "examples": [
         {
-          "en": "He shut the door.",
+          "en": "Please shut the conference door so the team can record the webinar quietly.",
           "highlight": [
             "shut"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請關上會議室門，團隊才能安靜地錄製網路研討會。"
+          }
+        },
+        {
+          "en": "The small bookstore shut down last month after failing to renew the lease.",
+          "highlight": [
+            "shut"
+          ],
+          "translations": {
+            "zh-TW": "那家小書店因未能續約租約，於上個月結束營業。"
+          }
+        },
+        {
+          "en": "We are shutting the office for two days over the company retreat.",
+          "highlight": [
+            "shutting"
+          ],
+          "translations": {
+            "zh-TW": "公司員工旅遊期間，我們將關閉辦公室兩天。"
           }
         }
       ],
       "synonyms": [
         "close",
-        "seal"
+        "seal",
+        "fasten"
       ],
       "antonyms": [
         "open",
         "uncover"
       ],
       "phrases": [
-        "shut",
-        "the",
-        "door",
-        "shut",
-        "the"
+        "shut down",
+        "shut up",
+        "shut off",
+        "shut the door"
       ]
     },
     {
@@ -326,33 +442,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "sick",
-          "definition": "n. 病人, a. 不舒服, 有病的, 恶心的, 厌恶的, 渴望的, 病态的, vt. 呕吐, 追击, 使(狗)去攻击"
+          "definition": "adj. 生病的、不舒服的、噁心的、厭倦的  n. 病人（口語）"
         }
       ],
       "examples": [
         {
-          "en": "She is feeling sick today.",
+          "en": "Two team members called in sick on the deadline day, leaving us shorthanded.",
           "highlight": [
             "sick"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "兩名團隊成員在死線當天請病假，導致我們人手不足。"
+          }
+        },
+        {
+          "en": "The peculiar smell of the long flight made her feel sick before boarding.",
+          "highlight": [
+            "sick"
+          ],
+          "translations": {
+            "zh-TW": "漫長航班的奇怪氣味讓她在登機前就已感到噁心。"
+          }
+        },
+        {
+          "en": "She was heartily sick of taking notes every time the same routine meeting happened.",
+          "highlight": [
+            "sick"
+          ],
+          "translations": {
+            "zh-TW": "她對每次同一種例行會議都要作筆記已經徹底感到厭煩。"
           }
         }
       ],
       "synonyms": [
         "ill",
-        "unwell"
+        "unwell",
+        "nauseated"
       ],
       "antonyms": [
         "healthy",
         "well"
       ],
       "phrases": [
-        "feel",
-        "sick",
-        "get",
-        "sick"
+        "call in sick",
+        "sick leave",
+        "feel sick",
+        "sick of"
       ]
     },
     {
@@ -367,44 +502,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "sideed",
-        "past_participle": "sideed",
-        "present_participle": "siding",
-        "third_person": "sides"
+        "plural": "sides",
+        "present_3rd": "sides",
+        "past": "sided",
+        "past_participle": "sided",
+        "ing": "siding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "side",
-          "definition": "n. 旁边, 侧, 方面, 胁, 侧边, 血统, a. 旁的, 侧的, 次要的, vt. 同意, 支持, vi. 支持, 赞助"
+          "definition": "n. 側面、旁邊、方面、立場  v. 支持、站在⋯的一邊"
         }
       ],
       "examples": [
         {
-          "en": "He stood by her side.",
+          "en": "Please park on the left side of the building near the loading dock.",
           "highlight": [
             "side"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請將車停在靠近裝卸區的建築物左側。"
+          }
+        },
+        {
+          "en": "Both sides have finally reached a compromise after two weeks of negotiation.",
+          "highlight": [
+            "sides"
+          ],
+          "translations": {
+            "zh-TW": "兩方在兩週協商後終於達成妥協。"
+          }
+        },
+        {
+          "en": "The union sided with the workers when the layoffs were announced.",
+          "highlight": [
+            "sided"
+          ],
+          "translations": {
+            "zh-TW": "宣布裁員時，工會選擇站在勞工那一邊。"
           }
         }
       ],
       "synonyms": [
         "edge",
-        "part"
+        "flank",
+        "aspect"
       ],
       "antonyms": [
         "center",
         "middle"
       ],
       "phrases": [
-        "side",
-        "of",
-        "the",
-        "road",
-        "side"
+        "side effect",
+        "side by side",
+        "on the side",
+        "take sides"
       ]
     },
     {
@@ -419,43 +573,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "sighted",
+        "plural": "sights",
+        "present_3rd": "sights",
+        "past": "sighted",
         "past_participle": "sighted",
-        "present_participle": "sighting",
-        "third_person": "sights"
+        "ing": "sighting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sight",
-          "definition": "n. 景观, 视力, 眼界, 阅读, 见解, 意见, vt. 看见, 瞄准, vi. 瞄准, 观看, a. 即席的, 见票即付的"
+          "definition": "n. 視力、視野、景象  v. 看見、發現（尤指遠處事物）"
         }
       ],
       "examples": [
         {
-          "en": "He lost his sight in the accident.",
+          "en": "The new safety signs should be kept clearly within sight at all times.",
           "highlight": [
             "sight"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新的安全標示應隨時保持在視線清晰範圍內。"
+          }
+        },
+        {
+          "en": "The pilot sighted the runway lights just before the storm rolled in.",
+          "highlight": [
+            "sighted"
+          ],
+          "translations": {
+            "zh-TW": "在暴風雨逼近之前，飛行員正好看到跑道燈光。"
+          }
+        },
+        {
+          "en": "We are still waiting for our boat captain to conduct a sighting of the dolphins nearby.",
+          "highlight": [
+            "sighting"
+          ],
+          "translations": {
+            "zh-TW": "我們仍在等船長確認附近海豚的蹤跡。"
           }
         }
       ],
       "synonyms": [
         "vision",
-        "view"
+        "view",
+        "glimpse"
       ],
       "antonyms": [
-        "blindness"
+        "blindness",
+        "obscurity"
       ],
       "phrases": [
-        "clear",
-        "sight",
-        "line",
-        "of",
-        "sight"
+        "line of sight",
+        "at first sight",
+        "out of sight",
+        "sight of"
       ]
     },
     {
@@ -470,42 +644,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "signed",
+        "plural": "signs",
+        "present_3rd": "signs",
+        "past": "signed",
         "past_participle": "signed",
-        "present_participle": "signing",
-        "third_person": "signs"
+        "ing": "signing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sign",
-          "definition": "n. 符號, 招牌, 征兆, 正负號, 手势, vt. 签名, 打手势表达, vi. 签名, [计] 正负號; 符號; 符號字符"
+          "definition": "n. 標誌、招牌、徵兆、手勢  v. 簽名、簽署、示意"
         }
       ],
       "examples": [
         {
-          "en": "The dark clouds are a sign of rain.",
+          "en": "The new exit sign is cleaner and easier to see from across the hall.",
           "highlight": [
             "sign"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新的出口標誌更清晰，從走廊另一側也看得很清楚。"
+          }
+        },
+        {
+          "en": "The client signed the final contract on the spot during our visit last week.",
+          "highlight": [
+            "signed"
+          ],
+          "translations": {
+            "zh-TW": "客戶在上週我們拜訪時當場簽下了最終合約。"
+          }
+        },
+        {
+          "en": "The agent is signing three new lease agreements this afternoon before the deadline.",
+          "highlight": [
+            "signing"
+          ],
+          "translations": {
+            "zh-TW": "經紀人今天下午將在截止前簽署三份新租約。"
           }
         }
       ],
       "synonyms": [
         "indication",
-        "symbol"
+        "symbol",
+        "mark"
       ],
       "antonyms": [
-        "obscurity"
+        "obscurity",
+        "doubt"
       ],
       "phrases": [
-        "warning",
-        "sign",
-        "sign",
-        "up"
+        "warning sign",
+        "sign up",
+        "sign language",
+        "vital signs"
       ]
     }
   ]
