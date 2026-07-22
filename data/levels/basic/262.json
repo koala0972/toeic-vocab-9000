@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 262,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-262-001",
@@ -15,40 +15,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "sizeed",
-        "past_participle": "sizeed",
-        "present_participle": "sizing",
-        "third_person": "sizes"
+        "plural": "sizes",
+        "present_3rd": "sizes",
+        "past": "sized",
+        "past_participle": "sized",
+        "ing": "sizing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "size",
-          "definition": "n. 大小, 尺寸, 规模, 尺码, 能力, 浆料, vt. 上浆, 依大小排列, vi. 可比拟, a. 一定大小的, 一定尺寸的"
+          "definition": "n. 大小、尺寸、尺碼、規模  v. 依大小分類、按尺寸處理"
         }
       ],
       "examples": [
         {
-          "en": "What size is your shirt?",
+          "en": "What size shirt do you need for the company uniform?",
           "highlight": [
             "size"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司制服你需要什麼尺寸的衬衫？"
+          }
+        },
+        {
+          "en": "The warehouse staff sized the packages before shipping them overseas.",
+          "highlight": [
+            "sized"
+          ],
+          "translations": {
+            "zh-TW": "倉庫員工在將包裹海運到海外之前先按尺寸分類。"
+          }
+        },
+        {
+          "en": "We are sizing the new office space to fit twenty employees.",
+          "highlight": [
+            "sizing"
+          ],
+          "translations": {
+            "zh-TW": "我們正在規劃新辦公室的尺寸以容納二十名員工。"
           }
         }
       ],
       "synonyms": [
         "dimension",
-        "magnitude"
+        "scale",
+        "measure"
       ],
       "antonyms": [],
       "phrases": [
-        "large",
-        "size",
-        "small",
-        "size"
+        "size up",
+        "large size",
+        "small size",
+        "plus size"
       ]
     },
     {
@@ -59,44 +79,64 @@
       "toeic_score_min": 500,
       "word": "skilful",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "skilfuls"
+        "comparative": "more skilful",
+        "superlative": "most skilful"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "skilful",
-          "definition": "a. 灵巧的, 熟练的, 制作精巧的"
+          "definition": "adj. 靈巧的、熟練的、技術精湛的"
         }
       ],
       "examples": [
         {
-          "en": "She is a skilful artist.",
+          "en": "The skilful negotiator closed the deal within an hour.",
           "highlight": [
             "skilful"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位熟練的談判者在一小時內就完成了交易。"
+          }
+        },
+        {
+          "en": "Her presentation was more skilful than her colleague's, so the client chose her plan.",
+          "highlight": [
+            "more skilful"
+          ],
+          "translations": {
+            "zh-TW": "她的簡報比同事更精湛，所以客戶選擇了她的方案。"
+          }
+        },
+        {
+          "en": "He is the most skilful surgeon in this hospital.",
+          "highlight": [
+            "most skilful"
+          ],
+          "translations": {
+            "zh-TW": "他是這家醫院裡技術最精湛的外科醫生。"
           }
         }
       ],
       "synonyms": [
         "adept",
-        "proficient"
+        "proficient",
+        "expert"
       ],
       "antonyms": [
         "unskilled",
-        "inept"
+        "inept",
+        "clumsy"
       ],
       "phrases": [
-        "skilful",
-        "performance",
-        "skilful",
-        "handling"
+        "skilful hands",
+        "skilful at",
+        "skilful negotiation",
+        "skilful handling"
       ]
     },
     {
@@ -115,33 +155,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "skilfully",
-          "definition": "adv. 熟练地（等于skillfully）"
+          "definition": "adv. 熟練地、靈巧地、巧妙地"
         }
       ],
       "examples": [
         {
-          "en": "He completed the task skilfully.",
+          "en": "The technician skilfully repaired the broken printer within ten minutes.",
           "highlight": [
             "skilfully"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "技術員在十分鐘內熟練地修好了故障的印表機。"
+          }
+        },
+        {
+          "en": "She handled the customer complaint skilfully, so the issue was settled peacefully.",
+          "highlight": [
+            "skilfully"
+          ],
+          "translations": {
+            "zh-TW": "她巧妙地處理了顧客投訴，問題因此和平解決。"
+          }
+        },
+        {
+          "en": "The chef skilfully plated the dessert before the banquet started.",
+          "highlight": [
+            "skilfully"
+          ],
+          "translations": {
+            "zh-TW": "廚師在宴會開始前靈巧地擺盤了甜點。"
           }
         }
       ],
       "synonyms": [
         "expertly",
-        "proficiently"
+        "proficiently",
+        "adeptly"
       ],
       "antonyms": [
         "clumsily",
+        "awkwardly",
         "poorly"
       ],
       "phrases": [
-        "skilfully",
-        "executed",
-        "skilfully",
-        "done"
+        "skilfully done",
+        "skilfully executed",
+        "skilfully handled",
+        "skilfully crafted"
       ]
     },
     {
@@ -152,48 +212,62 @@
       "toeic_score_min": 500,
       "word": "skill",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "skilled",
-        "past_participle": "skilled",
-        "present_participle": "skilling",
-        "third_person": "skills"
+        "plural": "skills"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "skill",
-          "definition": "n. 技术, 技巧, 技能, 熟练, 熟练工人, [化] 技能"
+          "definition": "n. 技能、技巧、熟練、技藝"
         }
       ],
       "examples": [
         {
-          "en": "Her skill in cooking is impressive.",
+          "en": "Communication skill is essential for every sales representative.",
           "highlight": [
             "skill"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "溝通技巧對每位業務代表來說都是不可或缺的。"
+          }
+        },
+        {
+          "en": "The company is looking for candidates with strong leadership skills.",
+          "highlight": [
+            "skills"
+          ],
+          "translations": {
+            "zh-TW": "公司正在尋找具備強烈領導技能的候選人。"
+          }
+        },
+        {
+          "en": "Her skill in handling difficult clients impressed the manager.",
+          "highlight": [
+            "skill"
+          ],
+          "translations": {
+            "zh-TW": "她應對難纏客戶的技巧令經理印象深刻。"
           }
         }
       ],
       "synonyms": [
         "expertise",
-        "ability"
+        "ability",
+        "proficiency"
       ],
       "antonyms": [
         "incompetence",
         "ineptitude"
       ],
       "phrases": [
-        "develop",
-        "a",
-        "skill",
-        "learn",
-        "a"
+        "develop a skill",
+        "learn a skill",
+        "communication skill",
+        "skill set"
       ]
     },
     {
@@ -204,44 +278,61 @@
       "toeic_score_min": 500,
       "word": "skilled",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "skilleds"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "skilled",
-          "definition": "a. 熟练的, [經] 熟练的, 有技能的"
+          "definition": "adj. 熟練的、有技能的、需要技能的"
         }
       ],
       "examples": [
         {
-          "en": "He is skilled in carpentry.",
+          "en": "The factory employs many skilled workers to operate the machinery.",
           "highlight": [
             "skilled"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家工廠僱用許多熟練工人來操作機械。"
+          }
+        },
+        {
+          "en": "She became skilled at using spreadsheet software after three months of training.",
+          "highlight": [
+            "skilled"
+          ],
+          "translations": {
+            "zh-TW": "經過三個月的培訓,她變得擅長使用試算表軟體。"
+          }
+        },
+        {
+          "en": "Skilled labor is hard to find in this region.",
+          "highlight": [
+            "Skilled"
+          ],
+          "translations": {
+            "zh-TW": "這個地區很難找到熟練勞工。"
           }
         }
       ],
       "synonyms": [
         "trained",
-        "experienced"
+        "experienced",
+        "qualified"
       ],
       "antonyms": [
         "unskilled",
-        "untrained"
+        "untrained",
+        "inexperienced"
       ],
       "phrases": [
-        "skilled",
-        "labor",
-        "skilled",
-        "worker"
+        "skilled labor",
+        "skilled worker",
+        "skilled at",
+        "skilled in"
       ]
     },
     {
@@ -256,40 +347,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "skined",
-        "past_participle": "skined",
-        "present_participle": "skining",
-        "third_person": "skins"
+        "plural": "skins",
+        "present_3rd": "skins",
+        "past": "skinned",
+        "past_participle": "skinned",
+        "ing": "skinning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "skin",
-          "definition": "n. 皮肤, 皮, vt. 剥皮, 在...植皮, vi. 長皮, 愈合, 蜕皮"
+          "definition": "n. 皮膚、皮、果皮  v. 剝皮、去皮"
         }
       ],
       "examples": [
         {
-          "en": "His skin is very sensitive.",
+          "en": "This lotion will keep your skin soft during the dry winter months.",
           "highlight": [
             "skin"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這款乳液能在乾燥的冬季保持你的皮膚柔軟。"
+          }
+        },
+        {
+          "en": "He skinned his knee when he tripped on the office stairs.",
+          "highlight": [
+            "skinned"
+          ],
+          "translations": {
+            "zh-TW": "他在辦公室樓梯絆倒時擦破了膝蓋的皮。"
+          }
+        },
+        {
+          "en": "The chef is skinning the apples for the pie filling.",
+          "highlight": [
+            "skinning"
+          ],
+          "translations": {
+            "zh-TW": "廚師正在削蘋果皮以製作派餡。"
           }
         }
       ],
       "synonyms": [
         "dermis",
-        "epidermis"
+        "peel",
+        "hide"
       ],
       "antonyms": [],
       "phrases": [
-        "dry",
-        "skin",
-        "skin",
-        "care"
+        "dry skin",
+        "skin care",
+        "skin deep",
+        "skin allergy"
       ]
     },
     {
@@ -304,37 +415,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "skirted",
+        "plural": "skirts",
+        "present_3rd": "skirts",
+        "past": "skirted",
         "past_participle": "skirted",
-        "present_participle": "skirting",
-        "third_person": "skirts"
+        "ing": "skirting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "skirt",
-          "definition": "n. 裙子, 下摆, 边缘, 郊區, vt. 位于...边缘, 绕過, 回避, vi. 位于边缘"
+          "definition": "n. 裙子、邊緣、郊區  v. 繞過、回避、位於邊緣"
         }
       ],
       "examples": [
         {
-          "en": "She wore a red skirt.",
+          "en": "She wore a black skirt to the job interview.",
           "highlight": [
             "skirt"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她穿了一條黑色裙子去面試。"
+          }
+        },
+        {
+          "en": "The manager skirted the question about the company's profit decline.",
+          "highlight": [
+            "skirted"
+          ],
+          "translations": {
+            "zh-TW": "經理回避了有關公司利潤下降的問題。"
+          }
+        },
+        {
+          "en": "The new highway is skirting the residential area to reduce noise.",
+          "highlight": [
+            "skirting"
+          ],
+          "translations": {
+            "zh-TW": "新公路繞過住宅區以減少噪音。"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "avoid",
+        "bypass",
+        "edge"
+      ],
+      "antonyms": [
+        "confront",
+        "face"
+      ],
       "phrases": [
-        "short",
-        "skirt",
-        "long",
-        "skirt"
+        "short skirt",
+        "long skirt",
+        "skirt around",
+        "skirt the issue"
       ]
     },
     {
@@ -345,31 +482,45 @@
       "toeic_score_min": 500,
       "word": "sky",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "skyed",
-        "past_participle": "skyed",
-        "present_participle": "skying",
-        "third_person": "skys"
+        "plural": "skies"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sky",
-          "definition": "n. 天空, 天色, 天堂, vt. 击向空中, 挂在高處, vi. 高涨"
+          "definition": "n. 天空、天色、天堂"
         }
       ],
       "examples": [
         {
-          "en": "The sky is clear today.",
+          "en": "The sky was clear when we flew to Tokyo last week.",
           "highlight": [
             "sky"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "上週我們飛往東京時天空很晴朗。"
+          }
+        },
+        {
+          "en": "Cloudy skies delayed the delivery flight by two hours.",
+          "highlight": [
+            "skies"
+          ],
+          "translations": {
+            "zh-TW": "多雲的天空讓貨運班機延誤了兩個小時。"
+          }
+        },
+        {
+          "en": "The hotel rooftop offers a view of the night sky over the city.",
+          "highlight": [
+            "sky"
+          ],
+          "translations": {
+            "zh-TW": "飯店頂樓可以欣賞城市上方的夜空景色。"
           }
         }
       ],
@@ -382,10 +533,10 @@
         "earth"
       ],
       "phrases": [
-        "clear",
-        "sky",
-        "night",
-        "sky"
+        "clear sky",
+        "night sky",
+        "blue sky",
+        "sky high"
       ]
     },
     {
@@ -400,43 +551,64 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "sleeped",
-        "past_participle": "sleeped",
-        "present_participle": "sleeping",
-        "third_person": "sleeps"
+        "plural": "sleeps",
+        "present_3rd": "sleeps",
+        "past": "slept",
+        "past_participle": "slept",
+        "ing": "sleeping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sleep",
-          "definition": "n. 睡眠, 静止, 昏迷, 麻木, 長眠, 冬眠, vi. 睡觉, 睡眠, 静止, vt. 睡"
+          "definition": "n. 睡眠、休息  v. 睡覺、睡眠"
         }
       ],
       "examples": [
         {
-          "en": "He needs eight hours of sleep.",
+          "en": "Try to get enough sleep before the early morning meeting.",
           "highlight": [
             "sleep"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "清晨開會前盡量獲得充足的睡眠。"
+          }
+        },
+        {
+          "en": "The baby slept through the entire flight without crying.",
+          "highlight": [
+            "slept"
+          ],
+          "translations": {
+            "zh-TW": "嬰兒在整趟航程中睡覺,沒有哭鬧。"
+          }
+        },
+        {
+          "en": "She is sleeping in the break room because she worked late last night.",
+          "highlight": [
+            "sleeping"
+          ],
+          "translations": {
+            "zh-TW": "她正在休息室睡覺,因為昨晚加班到很晚。"
           }
         }
       ],
       "synonyms": [
         "rest",
-        "slumber"
+        "slumber",
+        "nap"
       ],
       "antonyms": [
         "wakefulness",
-        "consciousness"
+        "consciousness",
+        "awake"
       ],
       "phrases": [
-        "deep",
-        "sleep",
-        "sleep",
-        "well"
+        "deep sleep",
+        "sleep well",
+        "get some sleep",
+        "sleep disorder"
       ]
     },
     {
@@ -451,39 +623,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "sleeveed",
-        "past_participle": "sleeveed",
-        "present_participle": "sleeving",
-        "third_person": "sleeves"
+        "plural": "sleeves",
+        "present_3rd": "sleeves",
+        "past": "sleeved",
+        "past_participle": "sleeved",
+        "ing": "sleeving"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sleeve",
-          "definition": "n. 袖子, 套管, vt. 缝上袖子"
+          "definition": "n. 袖子、套管、唱片套  v. 為...裝袖、套上護套"
         }
       ],
       "examples": [
         {
-          "en": "He rolled up his sleeves.",
+          "en": "He rolled up his sleeves before starting the factory work.",
+          "highlight": [
+            "sleeves"
+          ],
+          "translations": {
+            "zh-TW": "他在開始工廠工作前捲起了袖子。"
+          }
+        },
+        {
+          "en": "The new uniform features a short-sleeved shirt for summer.",
+          "highlight": [
+            "sleeved"
+          ],
+          "translations": {
+            "zh-TW": "新制服採用夏季短袖衬衫。"
+          }
+        },
+        {
+          "en": "She keep her ID badge in a clear plastic sleeve at work.",
           "highlight": [
             "sleeve"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在工作時把識別證放在透明塑膠套裡。"
           }
         }
       ],
       "synonyms": [
-        "cuff"
+        "cuff",
+        "cover",
+        "sheath"
       ],
       "antonyms": [],
       "phrases": [
-        "long",
-        "sleeve",
-        "short",
-        "sleeve"
+        "long sleeve",
+        "short sleeve",
+        "roll up sleeves",
+        "have up one's sleeve"
       ]
     }
   ]
