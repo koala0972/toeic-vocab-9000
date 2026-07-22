@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 279,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-279-001",
@@ -15,39 +15,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "sugared",
+        "plural": "sugars",
+        "present_3rd": "sugars",
+        "past": "sugared",
         "past_participle": "sugared",
-        "present_participle": "sugaring",
-        "third_person": "sugars"
+        "ing": "sugaring"
       },
-      "domain": "general",
+      "domain": "food",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sugar",
-          "definition": "n. 糖, 糖块, 甜言蜜語, vt. 加糖于, 使甜蜜, 粉饰, 美化, vi. 制成糖"
+          "definition": "n. 糖、糖塊  v. 加糖於、使甜蜜"
         }
       ],
       "examples": [
         {
-          "en": "She added sugar to her tea.",
+          "en": "Could you pass the sugar for my coffee, please?",
           "highlight": [
             "sugar"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請把糖遞給我加咖啡好嗎？"
+          }
+        },
+        {
+          "en": "She sugared the strawberries just before serving them.",
+          "highlight": [
+            "sugared"
+          ],
+          "translations": {
+            "zh-TW": "她在上桌前才給草莓撒上糖。"
+          }
+        },
+        {
+          "en": "Many processed foods add too much sugaring to extend shelf life.",
+          "highlight": [
+            "sugaring"
+          ],
+          "translations": {
+            "zh-TW": "許多加工食品加入過多糖化處理以延長保存期限。"
           }
         }
       ],
       "synonyms": [
-        "sweetener"
+        "sweetener",
+        "sucrose",
+        "glucose"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "bitterness"
+      ],
       "phrases": [
-        "granulated",
-        "sugar",
-        "brown",
-        "sugar"
+        "brown sugar",
+        "sugar cane",
+        "sugar substitute",
+        "sugar coating"
       ]
     },
     {
@@ -58,45 +81,65 @@
       "toeic_score_min": 500,
       "word": "suggest",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "suggested",
+        "present_3rd": "suggests",
+        "past": "suggested",
         "past_participle": "suggested",
-        "present_participle": "suggesting",
-        "third_person": "suggests"
+        "ing": "suggesting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "suggest",
-          "definition": "vt. 提議, 建議, 促成, 暗示, 启發, 使人想起, [法] 建議, 提出, 提議"
+          "definition": "v. 提議、建議、暗示"
         }
       ],
       "examples": [
         {
-          "en": "He suggested a new approach.",
+          "en": "I suggest we schedule the meeting for Tuesday morning.",
           "highlight": [
             "suggest"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我建議把會議安排在星期二早上。"
+          }
+        },
+        {
+          "en": "She suggested a different vendor after reviewing three proposals.",
+          "highlight": [
+            "suggested"
+          ],
+          "translations": {
+            "zh-TW": "她在審閱三份提案後建議了不同的供應商。"
+          }
+        },
+        {
+          "en": "He has been suggesting improvements to the workflow all quarter.",
+          "highlight": [
+            "suggesting"
+          ],
+          "translations": {
+            "zh-TW": "整季他一直對工作流程提出改善建議。"
           }
         }
       ],
       "synonyms": [
         "propose",
-        "recommend"
+        "recommend",
+        "advise"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "dictate",
+        "impose"
+      ],
       "phrases": [
-        "suggest",
-        "a",
-        "solution",
-        "suggest",
-        "otherwise"
+        "suggest a meeting",
+        "suggest a solution",
+        "strongly suggest",
+        "suggest changes"
       ]
     },
     {
@@ -107,45 +150,62 @@
       "toeic_score_min": 500,
       "word": "suggestion",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "suggestioned",
-        "past_participle": "suggestioned",
-        "present_participle": "suggestioning",
-        "third_person": "suggestions"
+        "plural": "suggestions"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "suggestion",
-          "definition": "n. 提議, 意见, [医] 暗示"
+          "definition": "n. 提議、建議、暗示"
         }
       ],
       "examples": [
         {
-          "en": "Her suggestion was well received.",
+          "en": "Her suggestion to shorten the approval process saved us two weeks.",
           "highlight": [
             "suggestion"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她縮短審核流程的建議為我們省下了兩週。"
+          }
+        },
+        {
+          "en": "We received seventeen suggestions after the staff survey closed.",
+          "highlight": [
+            "suggestions"
+          ],
+          "translations": {
+            "zh-TW": "員工問卷結束後我們收到了十七則建議。"
+          }
+        },
+        {
+          "en": "Any further suggestion would be welcome before the Friday deadline.",
+          "highlight": [
+            "suggestion"
+          ],
+          "translations": {
+            "zh-TW": "在週五截止前，歡迎提出任何進一步的建議。"
           }
         }
       ],
       "synonyms": [
         "proposal",
-        "recommendation"
+        "recommendation",
+        "tip"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "demand",
+        "directive"
+      ],
       "phrases": [
-        "make",
-        "a",
-        "suggestion",
-        "helpful",
-        "suggestion"
+        "make a suggestion",
+        "helpful suggestion",
+        "suggestion box",
+        "take a suggestion"
       ]
     },
     {
@@ -160,43 +220,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "suited",
+        "plural": "suits",
+        "present_3rd": "suits",
+        "past": "suited",
         "past_participle": "suited",
-        "present_participle": "suiting",
-        "third_person": "suits"
+        "ing": "suiting"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "suit",
-          "definition": "n. 套装, 诉讼, 請求, 起诉, 套, 组, vt. 适合, 使适应, vi. 合适, 相称"
+          "definition": "n. 西裝、套裝、訴訟  v. 適合、合身"
         }
       ],
       "examples": [
         {
-          "en": "He wore a black suit to the meeting.",
+          "en": "He wore a navy suit to the client presentation.",
           "highlight": [
             "suit"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他穿著深藍色西裝出席客戶簡報。"
+          }
+        },
+        {
+          "en": "Two suits were filed against the company last month.",
+          "highlight": [
+            "suits"
+          ],
+          "translations": {
+            "zh-TW": "上個月有兩件訴訟被提起控告該公司。"
+          }
+        },
+        {
+          "en": "Does the new schedule suit your team's availability?",
+          "highlight": [
+            "suit"
+          ],
+          "translations": {
+            "zh-TW": "新的排程適合你們團隊的時間嗎？"
           }
         }
       ],
       "synonyms": [
         "outfit",
-        "attire"
+        "fit",
+        "match"
       ],
       "antonyms": [
         "mismatch",
         "clash"
       ],
       "phrases": [
-        "business",
-        "suit",
-        "suit",
-        "jacket"
+        "business suit",
+        "suit jacket",
+        "lawsuit",
+        "suit someone's needs"
       ]
     },
     {
@@ -207,47 +287,63 @@
       "toeic_score_min": 500,
       "word": "suitable",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "suitableed",
-        "past_participle": "suitableed",
-        "present_participle": "suitabling",
-        "third_person": "suitables"
+        "comparative": "more suitable",
+        "superlative": "most suitable"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "suitable",
-          "definition": "a. 适当的, 相配的, [法] 合适的, 适宜的, 适当的"
+          "definition": "adj. 適合的、恰當的"
         }
       ],
       "examples": [
         {
-          "en": "The dress is suitable for the occasion.",
+          "en": "This venue is suitable for up to eighty guests.",
           "highlight": [
             "suitable"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這個場地最多可容納八十位賓客。"
+          }
+        },
+        {
+          "en": "The larger conference room is more suitable for training sessions.",
+          "highlight": [
+            "more suitable"
+          ],
+          "translations": {
+            "zh-TW": "較大的會議室更適合用來辦培訓。"
+          }
+        },
+        {
+          "en": "The auditorium is the most suitable space for the annual ceremony.",
+          "highlight": [
+            "most suitable"
+          ],
+          "translations": {
+            "zh-TW": "禮堂是最適合舉辦年度典禮的空間。"
           }
         }
       ],
       "synonyms": [
         "appropriate",
-        "fitting"
+        "fitting",
+        "proper"
       ],
       "antonyms": [
         "unsuitable",
         "inappropriate"
       ],
       "phrases": [
-        "suitable",
-        "for",
-        "suitable",
-        "time"
+        "suitable for",
+        "suitable candidate",
+        "suitable time",
+        "highly suitable"
       ]
     },
     {
@@ -258,45 +354,59 @@
       "toeic_score_min": 500,
       "word": "suitcase",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "suitcaseed",
-        "past_participle": "suitcaseed",
-        "present_participle": "suitcasing",
-        "third_person": "suitcases"
+        "plural": "suitcases"
       },
-      "domain": "general",
+      "domain": "travel",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "suitcase",
-          "definition": "n. 手提箱"
+          "definition": "n. 手提箱、行李箱"
         }
       ],
       "examples": [
         {
-          "en": "She packed her clothes in a suitcase.",
+          "en": "She packed her suitcase the night before the business trip.",
           "highlight": [
             "suitcase"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在出差前一晚打包好行李箱。"
+          }
+        },
+        {
+          "en": "(passengers are limited to) two suitcases on international flights.",
+          "highlight": [
+            "suitcases"
+          ],
+          "translations": {
+            "zh-TW": "國際航班乘客限帶兩件行李箱。"
+          }
+        },
+        {
+          "en": "His damaged suitcase was replaced by the airline within three days.",
+          "highlight": [
+            "suitcase"
+          ],
+          "translations": {
+            "zh-TW": "他損壞的行李箱在三天內由航空公司更換。"
           }
         }
       ],
       "synonyms": [
         "luggage",
-        "bag"
+        "baggage",
+        "case"
       ],
       "antonyms": [],
       "phrases": [
-        "pack",
-        "a",
-        "suitcase",
-        "carry",
-        "a"
+        "pack a suitcase",
+        "carry-on suitcase",
+        "suitcase handle",
+        "suitcase size"
       ]
     },
     {
@@ -311,43 +421,61 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "suiteded",
-        "past_participle": "suiteded",
-        "present_participle": "suiteding",
-        "third_person": "suiteds"
+        "past": "suited",
+        "past_participle": "suited",
+        "ing": "suiting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "suited",
-          "definition": "a. 适合的"
+          "definition": "adj. 適合的、勝任的  v. suit 的過去式／過去分詞"
         }
       ],
       "examples": [
         {
-          "en": "She is well suited for the job.",
+          "en": "She is well suited to lead the new project team.",
           "highlight": [
             "suited"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她非常適合帶領新的專案團隊。"
+          }
+        },
+        {
+          "en": "The venue suited our needs perfectly for the product launch.",
+          "highlight": [
+            "suited"
+          ],
+          "translations": {
+            "zh-TW": "這個場地完美符合我們產品發表會的需求。"
+          }
+        },
+        {
+          "en": "Candidates who have suited the role before tend to adapt faster.",
+          "highlight": [
+            "suited"
+          ],
+          "translations": {
+            "zh-TW": "先前曾擔任此職務的人選往往適應得更快。"
           }
         }
       ],
       "synonyms": [
         "appropriate",
-        "fitting"
+        "fitting",
+        "qualified"
       ],
       "antonyms": [
         "unsuited",
-        "inappropriate"
+        "unqualified"
       ],
       "phrases": [
-        "well",
-        "suited",
-        "suited",
-        "for"
+        "well suited",
+        "suited for",
+        "suited to",
+        "best suited"
       ]
     },
     {
@@ -362,32 +490,52 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "sumed",
-        "past_participle": "sumed",
-        "present_participle": "suming",
-        "third_person": "sums"
+        "plural": "sums",
+        "present_3rd": "sums",
+        "past": "summed",
+        "past_participle": "summed",
+        "ing": "summing"
       },
-      "domain": "general",
+      "domain": "finance",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sum",
-          "definition": "n. 总数, 总和, 金额, 概要, 顶點, vt. 总计, 概括, vi. 合计, [计] 系统實用程序和维护"
+          "definition": "n. 總數、金額、概要  v. 合計、總結"
         }
       ],
       "examples": [
         {
-          "en": "The sum of 2 and 3 is 5.",
+          "en": "A large sum was invested in the new regional office.",
           "highlight": [
             "sum"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "一大筆金額被投資於新的區域辦公室。"
+          }
+        },
+        {
+          "en": "The receipts sum to four hundred and twenty dollars.",
+          "highlight": [
+            "sum"
+          ],
+          "translations": {
+            "zh-TW": "收據合計為四百二十美元。"
+          }
+        },
+        {
+          "en": "Summing the quarterly figures took the accountant most of the afternoon.",
+          "highlight": [
+            "summing"
+          ],
+          "translations": {
+            "zh-TW": "會計師花了大半個下午才把季度數字彙總完。"
           }
         }
       ],
       "synonyms": [
         "total",
+        "amount",
         "aggregate"
       ],
       "antonyms": [
@@ -395,10 +543,10 @@
         "fraction"
       ],
       "phrases": [
-        "sum",
-        "total",
-        "sum",
-        "of"
+        "sum of money",
+        "sum total",
+        "lump sum",
+        "sum up"
       ]
     },
     {
@@ -410,46 +558,62 @@
       "word": "summary",
       "pos": [
         "noun",
-        "verb"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "summaryed",
-        "past_participle": "summaryed",
-        "present_participle": "summarying",
-        "third_person": "summarys"
+        "plural": "summaries"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "summary",
-          "definition": "n. 摘要, 概要, a. 摘要的, 简略的, [计] 摘要; 概要"
+          "definition": "n. 摘要、概要  adj. 簡略的、即決的"
         }
       ],
       "examples": [
         {
-          "en": "He gave a brief summary of the report.",
+          "en": "Please send me a one-page summary before the board meeting.",
           "highlight": [
             "summary"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在董事會前寄給我一頁摘要。"
+          }
+        },
+        {
+          "en": "The meeting minutes and quarterly summaries are filed in the shared drive.",
+          "highlight": [
+            "summaries"
+          ],
+          "translations": {
+            "zh-TW": "會議紀錄與季度摘要都存放在共用硬碟。"
+          }
+        },
+        {
+          "en": "A summary dismissal shocked the entire sales team last week.",
+          "highlight": [
+            "summary"
+          ],
+          "translations": {
+            "zh-TW": "上週一場即決解雇令整個業務團隊震驚。"
           }
         }
       ],
       "synonyms": [
         "overview",
-        "synopsis"
+        "synopsis",
+        "abstract"
       ],
       "antonyms": [
         "detail",
         "elaboration"
       ],
       "phrases": [
-        "brief",
-        "summary",
-        "summary",
-        "report"
+        "brief summary",
+        "summary report",
+        "executive summary",
+        "summary dismissal"
       ]
     },
     {
@@ -464,42 +628,61 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "summered",
+        "plural": "summers",
+        "present_3rd": "summers",
+        "past": "summered",
         "past_participle": "summered",
-        "present_participle": "summering",
-        "third_person": "summers"
+        "ing": "summering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "summer",
-          "definition": "n. 夏季, 全盛時期, vi. 避暑, 過夏天, [计] 加法器"
+          "definition": "n. 夏天、夏季  v. 避暑、過夏"
         }
       ],
       "examples": [
         {
-          "en": "We go on vacation every summer.",
+          "en": "Our internship program runs every summer for twelve weeks.",
           "highlight": [
             "summer"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們的實習計畫每年夏天進行十二週。"
+          }
+        },
+        {
+          "en": "She has summered in Geneva for the past three years while finishing her MBA.",
+          "highlight": [
+            "summered"
+          ],
+          "translations": {
+            "zh-TW": "過去三年她在日內瓦避暑，同時完成 MBA 學業。"
+          }
+        },
+        {
+          "en": "Many students are summering at tech startups this year.",
+          "highlight": [
+            "summering"
+          ],
+          "translations": {
+            "zh-TW": "今年許多學生在科技新創公司過暑假。"
           }
         }
       ],
       "synonyms": [
-        "warm",
-        "season"
+        "warm season",
+        "summertime"
       ],
       "antonyms": [
         "winter"
       ],
       "phrases": [
-        "hot",
-        "summer",
-        "summer",
-        "vacation"
+        "summer vacation",
+        "summer internship",
+        "summer camp",
+        "late summer"
       ]
     }
   ]
