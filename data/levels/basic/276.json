@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 276,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-276-001",
@@ -15,43 +15,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "stripeed",
-        "past_participle": "stripeed",
-        "present_participle": "striping",
-        "third_person": "stripes"
+        "plural": "stripes",
+        "present_3rd": "stripes",
+        "past": "striped",
+        "past_participle": "striped",
+        "ing": "striping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "stripe",
-          "definition": "n. 斑纹, 条纹, [医] 纹, 条纹"
+          "definition": "n. 條紋、斑紋  v. 在…上加條紋"
         }
       ],
       "examples": [
         {
-          "en": "The shirt has blue and white stripes.",
+          "en": "The referee wore a shirt with black and white stripes.",
+          "highlight": [
+            "stripes"
+          ],
+          "translations": {
+            "zh-TW": "裁判穿著一件黑白條紋的襯衫。"
+          }
+        },
+        {
+          "en": "The painter striped the wall with pale blue lines to make the room look taller.",
+          "highlight": [
+            "striped"
+          ],
+          "translations": {
+            "zh-TW": "油漆工在牆面上畫了淡藍色條紋，讓房間看起來更高。"
+          }
+        },
+        {
+          "en": "A single red stripe runs down the side of the company's delivery vans.",
           "highlight": [
             "stripe"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司送貨車的側面有一條紅色條紋。"
           }
         }
       ],
       "synonyms": [
         "band",
-        "line"
+        "line",
+        "streak"
       ],
       "antonyms": [
-        "block",
-        "spot"
+        "solid",
+        "plain"
       ],
       "phrases": [
-        "bold",
         "stripes",
-        "narrow",
-        "stripes"
+        "vertical stripe",
+        "diagonal stripe",
+        "stars and stripes"
       ]
     },
     {
@@ -66,44 +86,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "strokeed",
-        "past_participle": "strokeed",
-        "present_participle": "stroking",
-        "third_person": "strokes"
+        "plural": "strokes",
+        "present_3rd": "strokes",
+        "past": "stroked",
+        "past_participle": "stroked",
+        "ing": "stroking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "stroke",
-          "definition": "n. 笔划, 打, 中風, 抚, 摩, 冲程, vt. 划尾桨, 抚, 摩, 划去, [计] 笔划"
+          "definition": "n. 中風、一筆、撫摸  v. 撫摸、劃槳"
         }
       ],
       "examples": [
         {
-          "en": "He received a stroke on the shoulder.",
+          "en": "The doctor warned that high stress can increase the risk of a stroke.",
           "highlight": [
             "stroke"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "醫生警告壓力過大會增加中風的風險。"
+          }
+        },
+        {
+          "en": "She gently stroked the cat while it purred on her lap.",
+          "highlight": [
+            "stroked"
+          ],
+          "translations": {
+            "zh-TW": "貓在她腿上呼嚕作響時，她溫柔地撫摸牠。"
+          }
+        },
+        {
+          "en": "He finished the painting with a few quick strokes of the brush.",
+          "highlight": [
+            "strokes"
+          ],
+          "translations": {
+            "zh-TW": "他運筆如飛，幾筆之間便完成了這幅畫。"
           }
         }
       ],
       "synonyms": [
-        "blow",
-        "hit"
-      ],
-      "antonyms": [
         "caress",
-        "stroke"
+        "blow",
+        "movement"
       ],
+      "antonyms": [],
       "phrases": [
-        "a",
-        "stroke",
-        "of",
-        "luck",
-        "brush"
+        "heat stroke",
+        "stroke of luck",
+        "brush stroke",
+        "at one stroke"
       ]
     },
     {
@@ -114,44 +150,63 @@
       "toeic_score_min": 500,
       "word": "strong",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "strongs"
+        "comparative": "stronger",
+        "superlative": "strongest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "strong",
-          "definition": "a. 强壮的, 坚固的, 坚强的, 强烈的, 有力的, 优良的, adv. 强劲地, 有力地, 猛烈地"
+          "definition": "adj. 強壯的、堅固的、強烈的、有力的"
         }
       ],
       "examples": [
         {
-          "en": "He is a strong man.",
+          "en": "The company showed a strong recovery after the recession.",
           "highlight": [
             "strong"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司的業績在經濟衰退後強勁復甦。"
+          }
+        },
+        {
+          "en": "This year's sales were stronger than the analysts had predicted.",
+          "highlight": [
+            "stronger"
+          ],
+          "translations": {
+            "zh-TW": "今年的銷售表現比分析師預測的還要強勁。"
+          }
+        },
+        {
+          "en": "She is the strongest candidate for the project manager position.",
+          "highlight": [
+            "strongest"
+          ],
+          "translations": {
+            "zh-TW": "她是專案經理職位最有競爭力的候選人。"
           }
         }
       ],
       "synonyms": [
         "powerful",
-        "sturdy"
+        "sturdy",
+        "robust"
       ],
       "antonyms": [
         "weak",
         "feeble"
       ],
       "phrases": [
-        "strong",
-        "arm",
-        "strong",
-        "support"
+        "strong support",
+        "strong wind",
+        "strong coffee",
+        "strong point"
       ]
     },
     {
@@ -170,33 +225,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "strongly",
-          "definition": "adv. 强有力地, 坚强地, 激烈地"
+          "definition": "adv. 強烈地、堅決地、有力地"
         }
       ],
       "examples": [
         {
-          "en": "She strongly believes in her cause.",
+          "en": "The manager strongly recommended updating the security software.",
           "highlight": [
             "strongly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理強烈建議更新安全軟體。"
+          }
+        },
+        {
+          "en": "She felt strongly that the new policy would harm the team's morale.",
+          "highlight": [
+            "strongly"
+          ],
+          "translations": {
+            "zh-TW": "她堅信新政策會損害團隊士氣。"
+          }
+        },
+        {
+          "en": "The union strongly opposed the proposed wage cuts during the negotiation.",
+          "highlight": [
+            "strongly"
+          ],
+          "translations": {
+            "zh-TW": "工會在談判過程中強烈反對削減工資的提案。"
           }
         }
       ],
       "synonyms": [
         "forcefully",
-        "firmly"
+        "firmly",
+        "vehemently"
       ],
       "antonyms": [
         "weakly",
         "mildly"
       ],
       "phrases": [
-        "strongly",
-        "agree",
-        "strongly",
-        "support"
+        "strongly suggest",
+        "strongly support",
+        "strongly oppose",
+        "feel strongly"
       ]
     },
     {
@@ -211,43 +285,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "structureed",
-        "past_participle": "structureed",
-        "present_participle": "structuring",
-        "third_person": "structures"
+        "plural": "structures",
+        "present_3rd": "structures",
+        "past": "structured",
+        "past_participle": "structured",
+        "ing": "structuring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "structure",
-          "definition": "n. 結构, 构造, 建筑物, vt. 构成, 组织"
+          "definition": "n. 結構、構造、建築物  v. 組織、安排"
         }
       ],
       "examples": [
         {
-          "en": "The structure of the building is solid.",
+          "en": "The structure of the new department was designed to improve communication.",
           "highlight": [
             "structure"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新部門的結構是為改善內部溝通而設計的。"
+          }
+        },
+        {
+          "en": "The consultant structured the deal to minimize tax liabilities for both sides.",
+          "highlight": [
+            "structured"
+          ],
+          "translations": {
+            "zh-TW": "顧問把這筆交易安排得讓雙方的稅務負擔降到最低。"
+          }
+        },
+        {
+          "en": "Several wooden structures were damaged during the typhoon last weekend.",
+          "highlight": [
+            "structures"
+          ],
+          "translations": {
+            "zh-TW": "上週末的颱風造成幾棟木造建築受損。"
           }
         }
       ],
       "synonyms": [
         "framework",
-        "organization"
+        "organization",
+        "system"
       ],
       "antonyms": [
         "disorganization",
         "chaos"
       ],
       "phrases": [
-        "organizational",
-        "structure",
-        "skeletal",
-        "structure"
+        "company structure",
+        "organizational structure",
+        "social structure",
+        "basic structure"
       ]
     },
     {
@@ -262,44 +356,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "struggleed",
-        "past_participle": "struggleed",
-        "present_participle": "struggling",
-        "third_person": "struggles"
+        "plural": "struggles",
+        "present_3rd": "struggles",
+        "past": "struggled",
+        "past_participle": "struggled",
+        "ing": "struggling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "struggle",
-          "definition": "n. 斗争, 努力, 奋斗, vi. 努力, 奋斗, 挣扎"
+          "definition": "v. 奮鬥、掙扎、努力  n. 鬥爭、努力"
         }
       ],
       "examples": [
         {
-          "en": "They struggled to lift the heavy box.",
+          "en": "Many small businesses struggle to stay profitable in their first year.",
           "highlight": [
             "struggle"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "許多小型企業在第一年都難以維持獲利。"
+          }
+        },
+        {
+          "en": "The startup struggled with cash flow problems before securing new funding.",
+          "highlight": [
+            "struggled"
+          ],
+          "translations": {
+            "zh-TW": "這家新創公司在獲得新資金前，一直為現金流問題所苦。"
+          }
+        },
+        {
+          "en": "After months of struggling with the software, the team finally completed the migration.",
+          "highlight": [
+            "struggling"
+          ],
+          "translations": {
+            "zh-TW": "團隊與軟體奮鬥了數月之後，終於完成了系統遷移。"
           }
         }
       ],
       "synonyms": [
         "fight",
-        "battle"
+        "battle",
+        "strive"
       ],
       "antonyms": [
         "surrender",
-        "give",
-        "up"
+        "yield"
       ],
       "phrases": [
-        "struggle",
-        "with",
-        "struggle",
-        "to"
+        "struggle with",
+        "struggle to",
+        "power struggle",
+        "internal struggle"
       ]
     },
     {
@@ -310,48 +423,62 @@
       "toeic_score_min": 500,
       "word": "student",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "studented",
-        "past_participle": "studented",
-        "present_participle": "studenting",
-        "third_person": "students"
+        "plural": "students"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "student",
-          "definition": "n. 学生, 研究者, 学者"
+          "definition": "n. 學生、研究者"
         }
       ],
       "examples": [
         {
-          "en": "She is a diligent student.",
+          "en": "The student raised a thoughtful question during the economics lecture.",
           "highlight": [
             "student"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這名學生在經濟學課堂上提出了一個值得思考的問題。"
+          }
+        },
+        {
+          "en": "International students must submit their visa documents by the end of May.",
+          "highlight": [
+            "students"
+          ],
+          "translations": {
+            "zh-TW": "國際學生必須在五月底前提交簽證文件。"
+          }
+        },
+        {
+          "en": "Every student in the program is assigned a personal academic advisor.",
+          "highlight": [
+            "student"
+          ],
+          "translations": {
+            "zh-TW": "該課程的每一位學生都會分配到一位專屬的學業指導老師。"
           }
         }
       ],
       "synonyms": [
         "learner",
-        "pupil"
+        "pupil",
+        "scholar"
       ],
       "antonyms": [
         "teacher",
         "instructor"
       ],
       "phrases": [
-        "high",
-        "school",
-        "student",
-        "university",
-        "student"
+        "student loan",
+        "exchange student",
+        "graduate student",
+        "full-time student"
       ]
     },
     {
@@ -362,44 +489,59 @@
       "toeic_score_min": 500,
       "word": "studio",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "studioed",
-        "past_participle": "studioed",
-        "present_participle": "studioing",
-        "third_person": "studios"
+        "plural": "studios"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "studio",
-          "definition": "n. 工作室, 画室, 演播室, 电影制片厂"
+          "definition": "n. 工作室、畫室、攝影棚、錄音室"
         }
       ],
       "examples": [
         {
-          "en": "He rented a studio for his paintings.",
+          "en": "The photographer rented a small studio near the city center.",
           "highlight": [
             "studio"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "攝影師在市中心附近租了一間小工作室。"
+          }
+        },
+        {
+          "en": "Several film studios are investing in virtual production technology.",
+          "highlight": [
+            "studios"
+          ],
+          "translations": {
+            "zh-TW": "好幾家電影公司正在投資虛擬製作技術。"
+          }
+        },
+        {
+          "en": "The band booked a recording studio for three days to finish their album.",
+          "highlight": [
+            "studio"
+          ],
+          "translations": {
+            "zh-TW": "樂團預訂了錄音室三天，以完成專輯的錄製。"
           }
         }
       ],
       "synonyms": [
         "workshop",
-        "atelier"
+        "atelier",
+        "workroom"
       ],
       "antonyms": [],
       "phrases": [
-        "art",
-        "studio",
-        "recording",
-        "studio"
+        "art studio",
+        "recording studio",
+        "studio apartment",
+        "film studio"
       ]
     },
     {
@@ -414,43 +556,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "studyed",
-        "past_participle": "studyed",
-        "present_participle": "studying",
-        "third_person": "studys"
+        "plural": "studies",
+        "present_3rd": "studies",
+        "past": "studied",
+        "past_participle": "studied",
+        "ing": "studying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "study",
-          "definition": "n. 学习, 研究, 学科, 论文, 求学, 書房, 试作, vt. 学习, 读書, 研究, 考虑, 计划, vi. 学习, 思索"
+          "definition": "n. 學習、研究、書房  v. 學習、研究、考慮"
         }
       ],
       "examples": [
         {
-          "en": "He studies hard for his exams.",
+          "en": "A recent study shows that flexible working hours boost employee productivity.",
           "highlight": [
             "study"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "近期的一項研究顯示，彈性工時能提升員工的生產力。"
+          }
+        },
+        {
+          "en": "She studied international business at university before joining the trading firm.",
+          "highlight": [
+            "studied"
+          ],
+          "translations": {
+            "zh-TW": "她在大學主修國際商務，畢業後加入了貿易公司。"
+          }
+        },
+        {
+          "en": "He has been studying Korean every evening after work for the past six months.",
+          "highlight": [
+            "studying"
+          ],
+          "translations": {
+            "zh-TW": "過去半年來，他每天下班後都在學韓文。"
           }
         }
       ],
       "synonyms": [
         "learn",
-        "research"
+        "research",
+        "examine"
       ],
       "antonyms": [
         "neglect",
         "ignore"
       ],
       "phrases": [
-        "study",
-        "hard",
-        "study",
-        "abroad"
+        "study hard",
+        "study abroad",
+        "case study",
+        "field of study"
       ]
     },
     {
@@ -465,40 +627,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "stuffed",
+        "plural": "stuffs",
+        "present_3rd": "stuffs",
+        "past": "stuffed",
         "past_participle": "stuffed",
-        "present_participle": "stuffing",
-        "third_person": "stuffs"
+        "ing": "stuffing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "stuff",
-          "definition": "n. 原料, 要素, 东西, 材料, 素质, 织品, 废物, 废话, vt. 装填, vi. 狼吞虎咽"
+          "definition": "n. 東西、材料、物品  v. 塞滿、填滿"
         }
       ],
       "examples": [
         {
-          "en": "She put all her stuff in a box.",
+          "en": "Please move your stuff off the meeting table before the client arrives.",
           "highlight": [
             "stuff"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "客戶抵達前，請把你放在會議桌上的東西收走。"
+          }
+        },
+        {
+          "en": "She stuffed all the brochures into her bag and rushed to the trade show.",
+          "highlight": [
+            "stuffed"
+          ],
+          "translations": {
+            "zh-TW": "她把所有宣傳手冊塞進提袋後，便趕往商展會場。"
+          }
+        },
+        {
+          "en": "The warehouse staff were stuffing products into boxes all night to meet the deadline.",
+          "highlight": [
+            "stuffing"
+          ],
+          "translations": {
+            "zh-TW": "為了趕上截止期限，倉庫人員整晚把產品塞進包裝箱。"
           }
         }
       ],
       "synonyms": [
         "things",
-        "belongings"
+        "belongings",
+        "material"
       ],
       "antonyms": [],
       "phrases": [
-        "pack",
-        "stuff",
-        "random",
-        "stuff"
+        "pack stuff",
+        "stuff like that",
+        "tough stuff",
+        "stuff in"
       ]
     }
   ]
