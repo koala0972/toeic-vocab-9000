@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 275,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-275-001",
@@ -15,40 +15,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "streeted",
+        "plural": "streets",
+        "present_3rd": "streets",
+        "past": "streeted",
         "past_participle": "streeted",
-        "present_participle": "streeting",
-        "third_person": "streets"
+        "ing": "streeting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "street",
-          "definition": "n. 街道, 馬路, 街區, a. 街道的"
+          "definition": "n. 街道、馬路  v. 在街上遊蕩"
         }
       ],
       "examples": [
         {
-          "en": "She lives on Maple Street.",
+          "en": "Our office is located on a busy street downtown.",
           "highlight": [
             "street"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們的辦公室位於市中心一條繁忙的街上。"
+          }
+        },
+        {
+          "en": "The company streeted its new product through major retail chains.",
+          "highlight": [
+            "streeted"
+          ],
+          "translations": {
+            "zh-TW": "公司透過主要零售通路鋪貨上市了新產品。"
+          }
+        },
+        {
+          "en": "Many shops line the streets of the old quarter.",
+          "highlight": [
+            "streets"
+          ],
+          "translations": {
+            "zh-TW": "許多商店林立在舊城區的街道兩旁。"
           }
         }
       ],
       "synonyms": [
         "road",
-        "avenue"
+        "avenue",
+        "boulevard"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "alley"
+      ],
       "phrases": [
-        "main",
-        "street",
-        "street",
-        "name"
+        "street name",
+        "street corner",
+        "main street",
+        "street vendor"
       ]
     },
     {
@@ -59,36 +81,51 @@
       "toeic_score_min": 500,
       "word": "strength",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "strengthed",
-        "past_participle": "strengthed",
-        "present_participle": "strengthing",
-        "third_person": "strengths"
+        "plural": "strengths"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "strength",
-          "definition": "n. 力量, 實力, 强度, 浓度, 人数, 抵抗力, [化] 强度"
+          "definition": "n. 力量、實力、強度"
         }
       ],
       "examples": [
         {
-          "en": "He has great physical strength.",
+          "en": "Her main strength is problem-solving under pressure.",
           "highlight": [
             "strength"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她最大的長處是在壓力下解決問題。"
+          }
+        },
+        {
+          "en": "The team's strengths complement each other well.",
+          "highlight": [
+            "strengths"
+          ],
+          "translations": {
+            "zh-TW": "團隊成員各自的長處彼此互補得很好。"
+          }
+        },
+        {
+          "en": "The bridge must maintain its strength even during an earthquake.",
+          "highlight": [
+            "strength"
+          ],
+          "translations": {
+            "zh-TW": "這座橋即使在地震時也必須保持其結構強度。"
           }
         }
       ],
       "synonyms": [
         "power",
+        "might",
         "vigor"
       ],
       "antonyms": [
@@ -96,10 +133,10 @@
         "frailty"
       ],
       "phrases": [
-        "build",
-        "strength",
-        "inner",
-        "strength"
+        "build strength",
+        "inner strength",
+        "strength of character",
+        "from strength to strength"
       ]
     },
     {
@@ -114,43 +151,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "stressed",
+        "plural": "stresses",
+        "present_3rd": "stresses",
+        "past": "stressed",
         "past_participle": "stressed",
-        "present_participle": "stressing",
-        "third_person": "stresses"
+        "ing": "stressing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "stress",
-          "definition": "n. 压力, 紧迫, 强调, 重音, 重點, 应力, vt. 加压力于, 着重, 重读"
+          "definition": "n. 壓力、緊張、強調  v. 強調、加壓力於"
         }
       ],
       "examples": [
         {
-          "en": "She is under a lot of stress at work.",
+          "en": "Long working hours put enormous stress on employees.",
           "highlight": [
             "stress"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "長工時給員工帶來極大的壓力。"
+          }
+        },
+        {
+          "en": "The manager stressed the importance of punctuality at the meeting.",
+          "highlight": [
+            "stressed"
+          ],
+          "translations": {
+            "zh-TW": "經理在會議中強調了守時的重要性。"
+          }
+        },
+        {
+          "en": "Stop stressing about the deadline and start writing the report.",
+          "highlight": [
+            "stressing"
+          ],
+          "translations": {
+            "zh-TW": "別再為截止日期焦慮了，開始寫報告吧。"
           }
         }
       ],
       "synonyms": [
+        "pressure",
         "tension",
-        "pressure"
+        "emphasis"
       ],
       "antonyms": [
         "relaxation",
         "calm"
       ],
       "phrases": [
-        "high",
-        "stress",
-        "stress",
-        "level"
+        "under stress",
+        "stress out",
+        "lay stress on",
+        "stress level"
       ]
     },
     {
@@ -165,43 +222,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "stretched",
+        "plural": "stretches",
+        "present_3rd": "stretches",
+        "past": "stretched",
         "past_participle": "stretched",
-        "present_participle": "stretching",
-        "third_person": "stretchs"
+        "ing": "stretching"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "stretch",
-          "definition": "n. 伸展, 张开, 连绵, 一段路, 一段時間, a. 可伸缩的, 弹性的, vt. 伸展, 张开, 曲解, 使過度伸展, vi. 伸展, 延伸, [计] 伸展"
+          "definition": "v. 伸展、延伸、拉長  n. 一段時間或距離"
         }
       ],
       "examples": [
         {
-          "en": "She stretched before her workout.",
+          "en": "He stretches for ten minutes before every workout.",
           "highlight": [
-            "stretch"
+            "stretches"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他每次運動前都會伸展十分鐘。"
+          }
+        },
+        {
+          "en": "She stretched her arms and yawned after the long flight.",
+          "highlight": [
+            "stretched"
+          ],
+          "translations": {
+            "zh-TW": "她在長途飛行後伸了伸懶腰、打了個哈欠。"
+          }
+        },
+        {
+          "en": "Stretching regularly helps prevent back injuries at work.",
+          "highlight": [
+            "stretching"
+          ],
+          "translations": {
+            "zh-TW": "規律伸展有助於預防工作中背部受傷。"
           }
         }
       ],
       "synonyms": [
         "extend",
-        "lengthen"
+        "lengthen",
+        "reach"
       ],
       "antonyms": [
         "shrink",
         "shorten"
       ],
       "phrases": [
-        "stretch",
-        "out",
-        "stretch",
-        "muscles"
+        "stretch out",
+        "stretch muscles",
+        "at a stretch",
+        "stretch the truth"
       ]
     },
     {
@@ -212,44 +289,63 @@
       "toeic_score_min": 500,
       "word": "strict",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "stricts"
+        "comparative": "stricter",
+        "superlative": "strictest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "strict",
-          "definition": "a. 严厉的, 绝對的, 详盡的, 严格的, 精确的, [法] 严格的, 精确的, 绝對的"
+          "definition": "adj. 嚴格的、嚴厲的、精確的"
         }
       ],
       "examples": [
         {
-          "en": "The teacher is very strict.",
+          "en": "The company has a strict policy on data security.",
           "highlight": [
             "strict"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司對資料安全訂有嚴格的政策。"
+          }
+        },
+        {
+          "en": "Our new manager is stricter than the previous one about deadlines.",
+          "highlight": [
+            "stricter"
+          ],
+          "translations": {
+            "zh-TW": "我們的新經理對截止日期的要求比前任更嚴格。"
+          }
+        },
+        {
+          "en": "She is the strictest teacher I have ever had, but also the fairest.",
+          "highlight": [
+            "strictest"
+          ],
+          "translations": {
+            "zh-TW": "她是我遇過最嚴格的老師，但也是最公平的一位。"
           }
         }
       ],
       "synonyms": [
         "rigid",
-        "severe"
+        "severe",
+        "harsh"
       ],
       "antonyms": [
         "lenient",
         "flexible"
       ],
       "phrases": [
-        "strict",
-        "teacher",
-        "strict",
-        "rules"
+        "strict rules",
+        "strict confidence",
+        "strictly speaking",
+        "strict parent"
       ]
     },
     {
@@ -268,33 +364,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "strictly",
-          "definition": "adv. 严格地, 确實地"
+          "definition": "adv. 嚴格地、確實地"
         }
       ],
       "examples": [
         {
-          "en": "This rule must be strictly followed.",
+          "en": "These figures are strictly confidential and for internal use only.",
           "highlight": [
             "strictly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這些數據屬機密，僅限內部使用。"
+          }
+        },
+        {
+          "en": "Smoking is strictly prohibited inside the building at all times.",
+          "highlight": [
+            "strictly"
+          ],
+          "translations": {
+            "zh-TW": "建築物內任何時間都嚴禁吸菸。"
+          }
+        },
+        {
+          "en": "Strictly speaking, the contract takes effect on the first of the month.",
+          "highlight": [
+            "strictly"
+          ],
+          "translations": {
+            "zh-TW": "嚴格說來，合約自每月一日起生效。"
           }
         }
       ],
       "synonyms": [
         "rigorously",
-        "sternly"
+        "firmly",
+        "exactly"
       ],
       "antonyms": [
         "loosely",
         "leniently"
       ],
       "phrases": [
-        "strictly",
-        "speaking",
-        "strictly",
-        "enforced"
+        "strictly speaking",
+        "strictly enforced",
+        "strictly confidential",
+        "strictly business"
       ]
     },
     {
@@ -309,44 +424,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "strikeed",
-        "past_participle": "strikeed",
-        "present_participle": "striking",
-        "third_person": "strikes"
+        "plural": "strikes",
+        "present_3rd": "strikes",
+        "past": "struck",
+        "past_participle": "struck",
+        "ing": "striking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "strike",
-          "definition": "n. 罢工, 打击, 殴打, vt. 打, 撞击, 冲击, 侵袭, 取消, 結算, 打掉, 罢工, 刺透, 使生根, 遇见, vi. 打, 打击, 抓, 罢工, 搏動, 触礁, 敲, 響, 穿透, 打動"
+          "definition": "v. 打擊、敲響、罷工  n. 罷工、打擊"
         }
       ],
       "examples": [
         {
-          "en": "He struck the ball with his bat.",
+          "en": "The workers threaten to strike if their wages are not raised.",
           "highlight": [
             "strike"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "工人揚言若不調薪就要罷工。"
+          }
+        },
+        {
+          "en": "The clock struck twelve just as the guests arrived.",
+          "highlight": [
+            "struck"
+          ],
+          "translations": {
+            "zh-TW": "鐘剛敲響十二下時，賓客們正好抵達。"
+          }
+        },
+        {
+          "en": "Striking a balance between work and family is never easy.",
+          "highlight": [
+            "striking"
+          ],
+          "translations": {
+            "zh-TW": "在工作與家庭間取得平衡從來都不容易。"
           }
         }
       ],
       "synonyms": [
         "hit",
-        "knock"
+        "knock",
+        "attack"
       ],
       "antonyms": [
-        "caress",
-        "tap"
+        "miss",
+        "caress"
       ],
       "phrases": [
-        "strike",
-        "a",
-        "match",
-        "strike",
-        "hard"
+        "strike a deal",
+        "strike a match",
+        "go on strike",
+        "strike force"
       ]
     },
     {
@@ -357,44 +491,60 @@
       "toeic_score_min": 500,
       "word": "striking",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "strikings"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "striking",
-          "definition": "a. 醒目的, 惊人的, 打击的, 罢工的, [法] 罢工的, 罢市的, 罢课的"
+          "definition": "adj. 引人注目的、顯著的、驚人的"
         }
       ],
       "examples": [
         {
-          "en": "She wore a striking red dress.",
+          "en": "Her presentation made a striking impression on the investors.",
           "highlight": [
             "striking"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她的簡報給投資人留下深刻的印象。"
+          }
+        },
+        {
+          "en": "The most striking feature of the report is its attention to detail.",
+          "highlight": [
+            "striking"
+          ],
+          "translations": {
+            "zh-TW": "這份報告最引人注目的特色在於對細節的講究。"
+          }
+        },
+        {
+          "en": "The striking contrast between the two brands confused many consumers.",
+          "highlight": [
+            "striking"
+          ],
+          "translations": {
+            "zh-TW": "兩個品牌之間鮮明的對比讓許多消費者感到困惑。"
           }
         }
       ],
       "synonyms": [
         "noticeable",
-        "dramatic"
+        "dramatic",
+        "remarkable"
       ],
       "antonyms": [
         "ordinary",
         "plain"
       ],
       "phrases": [
-        "striking",
-        "contrast",
-        "striking",
-        "resemblance"
+        "striking contrast",
+        "striking resemblance",
+        "striking feature",
+        "striking example"
       ]
     },
     {
@@ -409,41 +559,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "stringed",
-        "past_participle": "stringed",
-        "present_participle": "stringing",
-        "third_person": "strings"
+        "plural": "strings",
+        "present_3rd": "strings",
+        "past": "strung",
+        "past_participle": "strung",
+        "ing": "stringing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "string",
-          "definition": "n. 线, 细绳, 一串, 字符串, vt. 串起, 成串, 收紧, 缚, 扎, vi. 成一串, [计] 字符串, 串"
+          "definition": "n. 細繩、一串、字串  v. 綁紮、串起"
         }
       ],
       "examples": [
         {
-          "en": "He tied the package with string.",
+          "en": "He tied the parcel with a piece of string.",
           "highlight": [
             "string"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他用一段細繩把包裹綁好。"
+          }
+        },
+        {
+          "en": "The chefs strung garlic bulbs together and hung them in the kitchen.",
+          "highlight": [
+            "strung"
+          ],
+          "translations": {
+            "zh-TW": "廚師們把大蒜一串串綁好，掛在廚房裡。"
+          }
+        },
+        {
+          "en": "The company has been stringing along its suppliers for months.",
+          "highlight": [
+            "stringing"
+          ],
+          "translations": {
+            "zh-TW": "這家公司幾個月來一直在敷衍供應商。"
           }
         }
       ],
       "synonyms": [
         "cord",
-        "thread"
+        "thread",
+        "rope"
       ],
       "antonyms": [],
       "phrases": [
-        "piece",
-        "of",
-        "string",
-        "string",
-        "theory"
+        "piece of string",
+        "string theory",
+        "pull strings",
+        "string along"
       ]
     },
     {
@@ -458,43 +627,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "striped",
-        "past_participle": "striped",
-        "present_participle": "striping",
-        "third_person": "strips"
+        "plural": "strips",
+        "present_3rd": "strips",
+        "past": "stripped",
+        "past_participle": "stripped",
+        "ing": "stripping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "strip",
-          "definition": "n. 長条, 条状, 帶, 脱衣舞, vt. 脱衣, 被剥去, 剥夺, 拆卸, vi. 脱衣服"
+          "definition": "v. 剝去、脫衣、拆卸  n. 長條、帶狀物"
         }
       ],
       "examples": [
         {
-          "en": "He stripped the old paint from the wall.",
+          "en": "The factory strips old computers for reusable parts.",
           "highlight": [
-            "strip"
+            "strips"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "工廠拆解舊電腦以回收可用零件。"
+          }
+        },
+        {
+          "en": "He stripped the wallpaper off the entire room in one afternoon.",
+          "highlight": [
+            "stripped"
+          ],
+          "translations": {
+            "zh-TW": "他一個下午就把整個房間的壁紙撕掉。"
+          }
+        },
+        {
+          "en": "Stripping paint from antique furniture requires great care.",
+          "highlight": [
+            "stripping"
+          ],
+          "translations": {
+            "zh-TW": "為古董家具去除舊漆需要非常小心。"
           }
         }
       ],
       "synonyms": [
         "peel",
-        "remove"
+        "remove",
+        "deprive"
       ],
       "antonyms": [
         "cover",
         "wrap"
       ],
       "phrases": [
-        "strip",
-        "away",
-        "strip",
-        "off"
+        "strip away",
+        "strip off",
+        "strip down",
+        "landing strip"
       ]
     }
   ]
