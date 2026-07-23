@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 287,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-287-001",
@@ -15,40 +15,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "thanked",
+        "plural": "thanks",
+        "present_3rd": "thanks",
+        "past": "thanked",
         "past_participle": "thanked",
-        "present_participle": "thanking",
-        "third_person": "thanks"
+        "ing": "thanking"
       },
-      "domain": "general",
+      "domain": "communication",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "thank",
-          "definition": "n. 謝意, 感謝, vt. 謝謝, 感謝"
+          "definition": "v. 感謝、道謝  n. 感謝、謝意"
         }
       ],
       "examples": [
         {
-          "en": "I want to thank you for your help.",
+          "en": "I want to thank you for your prompt reply to our inquiry.",
           "highlight": [
             "thank"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我想感謝您迅速回覆我們的詢問。"
+          }
+        },
+        {
+          "en": "The client thanked the team for delivering the project ahead of schedule.",
+          "highlight": [
+            "thanked"
+          ],
+          "translations": {
+            "zh-TW": "客戶感謝團隊提前完成了這個專案。"
+          }
+        },
+        {
+          "en": "Thanking every participant in person showed the manager's genuine appreciation.",
+          "highlight": [
+            "Thanking"
+          ],
+          "translations": {
+            "zh-TW": "親自感謝每一位參與者，展現了經理真誠的謝意。"
           }
         }
       ],
       "synonyms": [
+        "appreciate",
         "acknowledge",
-        "appreciate"
+        "gratitude"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "blame",
+        "criticize"
+      ],
       "phrases": [
-        "thank",
-        "you",
-        "thank",
-        "goodness"
+        "thank you",
+        "thank goodness",
+        "thank someone for",
+        "thank you note"
       ]
     },
     {
@@ -60,43 +83,62 @@
       "word": "thanks",
       "pos": [
         "noun",
-        "verb"
+        "interjection"
       ],
       "conjugations": {
-        "past_tense": "thanksed",
-        "past_participle": "thanksed",
-        "present_participle": "thanksing",
-        "third_person": "thankses"
+        "plural": "thanks"
       },
-      "domain": "general",
+      "domain": "communication",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "thanks",
-          "definition": "n. 感謝, 謝意, 謝忱, interj. 謝謝, 謝謝你"
+          "definition": "n. 感謝、謝意  interj. 謝謝、多謝"
         }
       ],
       "examples": [
         {
-          "en": "Thanks for the gift.",
+          "en": "Thanks to the new policy, employee turnover has dropped significantly.",
+          "highlight": [
+            "Thanks"
+          ],
+          "translations": {
+            "zh-TW": "多虧了新政策，員工流動率大幅下降了。"
+          }
+        },
+        {
+          "en": "Please accept our thanks for your continued support of our products.",
           "highlight": [
             "thanks"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請接受我們對您持續支持本公司產品的感謝。"
+          }
+        },
+        {
+          "en": "She sent a formal letter of thanks to the partners who sponsored the event.",
+          "highlight": [
+            "thanks"
+          ],
+          "translations": {
+            "zh-TW": "她寄了一封正式的感謝函給贊助活動的合作夥伴。"
           }
         }
       ],
       "synonyms": [
         "gratitude",
-        "appreciation"
+        "appreciation",
+        "acknowledgment"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "ingratitude",
+        "complaint"
+      ],
       "phrases": [
-        "special",
-        "thanks",
-        "many",
-        "thanks"
+        "thanks to",
+        "many thanks",
+        "give thanks",
+        "special thanks"
       ]
     },
     {
@@ -108,7 +150,8 @@
       "word": "that",
       "pos": [
         "pronoun",
-        "conjunction"
+        "conjunction",
+        "determiner"
       ],
       "conjugations": {},
       "domain": "general",
@@ -116,30 +159,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "that",
-          "definition": "a. 那, 那個, conj. 以致, 因為, pron. 那, adv. 那麼, 那樣"
+          "definition": "pron. 那、那個  conj. 以致、使得  det. 那個  adv. 那樣、那麼"
         }
       ],
       "examples": [
         {
-          "en": "That is a beautiful painting.",
+          "en": "That is the proposal we submitted to the board last week.",
+          "highlight": [
+            "That"
+          ],
+          "translations": {
+            "zh-TW": "那就是我們上週提交給董事會的提案。"
+          }
+        },
+        {
+          "en": "The report that the consultant submitted confirmed our initial findings.",
           "highlight": [
             "that"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "顧問所提交的報告證實了我們最初的發現。"
+          }
+        },
+        {
+          "en": "The manager emphasized that punctuality is essential in this department.",
+          "highlight": [
+            "that"
+          ],
+          "translations": {
+            "zh-TW": "經理強調在這個部門中準時是不可或缺的。"
           }
         }
       ],
       "synonyms": [
+        "which",
         "this",
-        "it"
+        "those"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "this"
+      ],
       "phrases": [
-        "that",
-        "book",
-        "that",
-        "one"
+        "that is",
+        "so that",
+        "in that",
+        "that said"
       ]
     },
     {
@@ -150,8 +214,7 @@
       "toeic_score_min": 500,
       "word": "the",
       "pos": [
-        "definite",
-        "article"
+        "definite article"
       ],
       "conjugations": {},
       "domain": "general",
@@ -159,27 +222,45 @@
         {
           "lang": "zh-TW",
           "lang_word": "the",
-          "definition": "art. 那"
+          "definition": "art. 這、那（定冠詞，用於特指某人或事物）"
         }
       ],
       "examples": [
         {
-          "en": "The book on the table is mine.",
+          "en": "The report on the quarterly earnings will be released next Monday.",
+          "highlight": [
+            "The"
+          ],
+          "translations": {
+            "zh-TW": "有關季度盈餘的報告將於下週一發布。"
+          }
+        },
+        {
+          "en": "Please sign at the bottom of the contract before submitting it.",
           "highlight": [
             "the"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在提交合約前於底部簽名。"
+          }
+        },
+        {
+          "en": "The more we invest in training, the better our service quality becomes.",
+          "highlight": [
+            "the"
+          ],
+          "translations": {
+            "zh-TW": "我們在培訓上投資越多，服務品質就變得越好。"
           }
         }
       ],
       "synonyms": [],
       "antonyms": [],
       "phrases": [
-        "the",
-        "same",
-        "the",
-        "book"
+        "the same",
+        "the more the more",
+        "the rest",
+        "the other"
       ]
     },
     {
@@ -190,44 +271,59 @@
       "toeic_score_min": 500,
       "word": "theatre",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "theatreed",
-        "past_participle": "theatreed",
-        "present_participle": "theatring",
-        "third_person": "theatres"
+        "plural": "theatres"
       },
-      "domain": "general",
+      "domain": "entertainment",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "theatre",
-          "definition": "n. 戏院, 电影院, 剧場, 全体观众, 戏剧, 戏剧效果, 阶梯式讲堂, 場所"
+          "definition": "n. 劇院、電影院、戲劇、階梯式講堂"
         }
       ],
       "examples": [
         {
-          "en": "They went to the theatre to watch a play.",
+          "en": "The company reserved a private box at the theatre for its VIP clients.",
           "highlight": [
             "theatre"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司為貴賓客戶在劇院預訂了包廂。"
+          }
+        },
+        {
+          "en": "Several new theatres opened downtown as part of the city's cultural revival.",
+          "highlight": [
+            "theatres"
+          ],
+          "translations": {
+            "zh-TW": "作為城市文化復興計畫的一部分，市中心開設了幾家新的劇院。"
+          }
+        },
+        {
+          "en": "The marketing team took their overseas clients to the theatre after the signing ceremony.",
+          "highlight": [
+            "theatre"
+          ],
+          "translations": {
+            "zh-TW": "簽約儀式結束後，行銷團隊帶海外客戶去劇院看表演。"
           }
         }
       ],
       "synonyms": [
         "playhouse",
-        "stage"
+        "cinema",
+        "auditorium"
       ],
       "antonyms": [],
       "phrases": [
-        "movie",
-        "theatre",
-        "theatre",
-        "play"
+        "movie theatre",
+        "theatre of operations",
+        "lecture theatre",
+        "live theatre"
       ]
     },
     {
@@ -246,27 +342,45 @@
         {
           "lang": "zh-TW",
           "lang_word": "their",
-          "definition": "pron. 他們的"
+          "definition": "det. 他們的、她們的、它們的"
         }
       ],
       "examples": [
         {
-          "en": "It is their house.",
+          "en": "All employees must keep their workspaces clean and organized.",
           "highlight": [
             "their"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "所有員工都必須保持自己的工作空間整潔有序。"
+          }
+        },
+        {
+          "en": "The company raised their dividend by five percent this year.",
+          "highlight": [
+            "their"
+          ],
+          "translations": {
+            "zh-TW": "公司今年將股息提高了百分之五。"
+          }
+        },
+        {
+          "en": "Several suppliers lowered their prices to remain competitive in the market.",
+          "highlight": [
+            "their"
+          ],
+          "translations": {
+            "zh-TW": "幾家供應商降低了價格，以在市場上保持競爭力。"
           }
         }
       ],
       "synonyms": [],
       "antonyms": [],
       "phrases": [
-        "their",
-        "own",
-        "their",
-        "decision"
+        "their own",
+        "their best",
+        "in their opinion",
+        "their behalf"
       ]
     },
     {
@@ -285,28 +399,47 @@
         {
           "lang": "zh-TW",
           "lang_word": "theirs",
-          "definition": "pron. 他們的"
+          "definition": "pron. 他們的（所有物）、她們的、它們的"
         }
       ],
       "examples": [
         {
-          "en": "The decision is theirs to make.",
+          "en": "This office is ours, and the one across the hall is theirs.",
           "highlight": [
             "theirs"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這間辦公室是我們的，走廊對面那間是他們的。"
+          }
+        },
+        {
+          "en": "Our approach focuses on quality, whereas theirs emphasizes speed.",
+          "highlight": [
+            "theirs"
+          ],
+          "translations": {
+            "zh-TW": "我們的做法著重品質，而他們的做法強調速度。"
+          }
+        },
+        {
+          "en": "The decision to expand overseas is theirs to make, not ours.",
+          "highlight": [
+            "theirs"
+          ],
+          "translations": {
+            "zh-TW": "是否拓展海外市場是他們的決定，不是我們的。"
           }
         }
       ],
       "synonyms": [],
-      "antonyms": [],
-      "phrases": [
-        "theirs",
-        "and",
+      "antonyms": [
         "ours",
-        "the",
-        "fault"
+        "mine"
+      ],
+      "phrases": [
+        "of theirs",
+        "a friend of theirs",
+        "theirs alone"
       ]
     },
     {
@@ -325,27 +458,45 @@
         {
           "lang": "zh-TW",
           "lang_word": "them",
-          "definition": "pron. 他們, 她們, 它們"
+          "definition": "pron. 他們、她們、它們（受格）"
         }
       ],
       "examples": [
         {
-          "en": "I saw them at the park.",
+          "en": "The HR department sent them the updated employee handbook last Friday.",
           "highlight": [
             "them"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "人力資源部上週五寄給了他們更新後的員工手冊。"
+          }
+        },
+        {
+          "en": "Please review the contract and return it to them by the end of the week.",
+          "highlight": [
+            "them"
+          ],
+          "translations": {
+            "zh-TW": "請審閱合約，並於本週末前歸還給他們。"
+          }
+        },
+        {
+          "en": "We invited them to the product launch, but only two of the executives attended.",
+          "highlight": [
+            "them"
+          ],
+          "translations": {
+            "zh-TW": "我們邀請了他們參加產品發表會，但只有兩位主管出席。"
           }
         }
       ],
       "synonyms": [],
       "antonyms": [],
       "phrases": [
-        "see",
-        "them",
-        "help",
-        "them"
+        "with them",
+        "help them",
+        "tell them",
+        "between them"
       ]
     },
     {
@@ -356,44 +507,59 @@
       "toeic_score_min": 500,
       "word": "theme",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "themeed",
-        "past_participle": "themeed",
-        "present_participle": "theming",
-        "third_person": "themes"
+        "plural": "themes"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "theme",
-          "definition": "n. 主题, 话题, 题目"
+          "definition": "n. 主題、話題、題目、主旋律"
         }
       ],
       "examples": [
         {
-          "en": "The theme of the conference is sustainability.",
+          "en": "The theme of this year's conference is innovation in digital marketing.",
           "highlight": [
             "theme"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "今年研討會的主題是數位行銷的創新。"
+          }
+        },
+        {
+          "en": "Several recurring themes emerged from the customer feedback survey.",
+          "highlight": [
+            "themes"
+          ],
+          "translations": {
+            "zh-TW": "從顧客意見調查中浮現出幾個反覆出現的主題。"
+          }
+        },
+        {
+          "en": "The marketing team chose a holiday theme for the company's year-end campaign.",
+          "highlight": [
+            "theme"
+          ],
+          "translations": {
+            "zh-TW": "行銷團隊為公司的年終活動選定了節慶主題。"
           }
         }
       ],
       "synonyms": [
         "topic",
-        "subject"
+        "subject",
+        "motif"
       ],
       "antonyms": [],
       "phrases": [
-        "central",
-        "theme",
-        "main",
-        "theme"
+        "central theme",
+        "main theme",
+        "theme park",
+        "recurring theme"
       ]
     },
     {
@@ -412,27 +578,45 @@
         {
           "lang": "zh-TW",
           "lang_word": "themselves",
-          "definition": "pron. 他們自己, 她們自己, 它們自己"
+          "definition": "pron. 他們自己、她們自己、它們自己（反身代名詞）"
         }
       ],
       "examples": [
         {
-          "en": "They made the decision themselves.",
+          "en": "The interns decorated the office themselves without any outside help.",
           "highlight": [
             "themselves"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "實習生們自己動手裝飾辦公室，沒有借助任何外來協助。"
+          }
+        },
+        {
+          "en": "The board members introduced themselves to the new CFO at the luncheon.",
+          "highlight": [
+            "themselves"
+          ],
+          "translations": {
+            "zh-TW": "董事們在午餐會上向新任財務長自我介紹。"
+          }
+        },
+        {
+          "en": "The company prides itself on letting employees manage their projects themselves.",
+          "highlight": [
+            "themselves"
+          ],
+          "translations": {
+            "zh-TW": "該公司引以為傲的是讓員工自行管理自己的專案。"
           }
         }
       ],
       "synonyms": [],
       "antonyms": [],
       "phrases": [
-        "by",
-        "themselves",
-        "for",
-        "themselves"
+        "by themselves",
+        "for themselves",
+        "in themselves",
+        "enjoy themselves"
       ]
     }
   ]
