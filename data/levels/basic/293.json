@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 293,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-293-001",
@@ -15,40 +15,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "titleed",
-        "past_participle": "titleed",
-        "present_participle": "titling",
-        "third_person": "titles"
+        "plural": "titles",
+        "present_3rd": "titles",
+        "past": "titled",
+        "past_participle": "titled",
+        "ing": "titling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "title",
-          "definition": "n. 頭衔, 名称, 标题, 書名, 扉页, 权利, 资格, 冠军, 字幕, vt. 授予頭衔, 加标题于, [计] 标题"
+          "definition": "n. 標題、頭銜、冠軍、所有權  v. 賦予頭銜、加上標題"
         }
       ],
       "examples": [
         {
-          "en": "The book's title is 'War and Peace'.",
+          "en": "The title of the report should be concise and professional.",
           "highlight": [
             "title"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這份報告的標題應該簡潔且專業。"
+          }
+        },
+        {
+          "en": "She was titled Employee of the Year for her outstanding performance.",
+          "highlight": [
+            "titled"
+          ],
+          "translations": {
+            "zh-TW": "她因優異的表現被授予年度最佳員工的頭銜。"
+          }
+        },
+        {
+          "en": "He is currently titling the new chapters of the training manual.",
+          "highlight": [
+            "titling"
+          ],
+          "translations": {
+            "zh-TW": "他目前正在為訓練手冊的新章節命名。"
           }
         }
       ],
       "synonyms": [
         "heading",
-        "caption"
+        "headline",
+        "championship"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "subtitle"
+      ],
       "phrases": [
-        "book",
-        "title",
-        "job",
-        "title"
+        "job title",
+        "title page",
+        "title role",
+        "professional title"
       ]
     },
     {
@@ -60,8 +82,7 @@
       "word": "to",
       "pos": [
         "preposition",
-        "infinitive",
-        "marker"
+        "infinitive marker"
       ],
       "conjugations": {},
       "domain": "general",
@@ -69,22 +90,41 @@
         {
           "lang": "zh-TW",
           "lang_word": "to",
-          "definition": "prep. 到, 向, 趋于, adv. 向前"
+          "definition": "prep. 到、向、前往  adv.（門）關著、向前  inf. 不定式標記"
         }
       ],
       "examples": [
         {
-          "en": "He went to the store.",
+          "en": "Please send the invoice to the accounting department by Friday.",
           "highlight": [
             "to"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在週五前將發票寄送至會計部門。"
+          }
+        },
+        {
+          "en": "The manager decided to extend the deadline for the team.",
+          "highlight": [
+            "to"
+          ],
+          "translations": {
+            "zh-TW": "經理決定為團隊延長截止日期。"
+          }
+        },
+        {
+          "en": "Push the door to before leaving the office.",
+          "highlight": [
+            "to"
+          ],
+          "translations": {
+            "zh-TW": "離開辦公室前請順手把門關上。"
           }
         }
       ],
       "synonyms": [
         "toward",
+        "into",
         "until"
       ],
       "antonyms": [
@@ -92,10 +132,10 @@
         "away"
       ],
       "phrases": [
-        "go",
-        "to",
-        "come",
-        "to"
+        "go to",
+        "from ... to",
+        "to the point",
+        "to date"
       ]
     },
     {
@@ -110,40 +150,58 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "todaies"
+        "plural": "todays"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "today",
-          "definition": "n. 今天, 当今, 现在, adv. 今天, 当今"
+          "definition": "n. 今天  adv. 今天"
         }
       ],
       "examples": [
         {
-          "en": "What are you doing today?",
+          "en": "The meeting is scheduled to begin at nine today.",
           "highlight": [
             "today"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "會議預定於今天九點開始。"
+          }
+        },
+        {
+          "en": "Today's agenda includes a review of the quarterly sales figures.",
+          "highlight": [
+            "today's"
+          ],
+          "translations": {
+            "zh-TW": "今天的議程包含審查季度銷售數字。"
+          }
+        },
+        {
+          "en": "The todays of her busy career often blur together into a single memory.",
+          "highlight": [
+            "todays"
+          ],
+          "translations": {
+            "zh-TW": "她忙碌生涯中無數個「今天」常常模糊成同一個回憶。"
           }
         }
       ],
       "synonyms": [
-        "now",
-        "this",
-        "day"
+        "nowadays",
+        "this day"
       ],
       "antonyms": [
-        "yesterday"
+        "yesterday",
+        "tomorrow"
       ],
       "phrases": [
-        "today's",
-        "news",
-        "today",
-        "morning"
+        "today's news",
+        "business today",
+        "as of today",
+        "today only"
       ]
     },
     {
@@ -158,40 +216,61 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "toeed",
-        "past_participle": "toeed",
-        "present_participle": "toing",
-        "third_person": "toes"
+        "plural": "toes",
+        "present_3rd": "toes",
+        "past": "toed",
+        "past_participle": "toed",
+        "ing": "toeing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "toe",
-          "definition": "n. 足趾, 趾部, 脚趾, vt. 以趾踏触, 用脚尖走, vi. 動脚尖"
+          "definition": "n. 腳趾、鞋頭、輪胎花紋  v. 用足尖觸碰、斜行"
         }
       ],
       "examples": [
         {
-          "en": "He stubbed his toe on the door.",
+          "en": "Wear steel-toe boots when working in the warehouse to protect your toes.",
+          "highlight": [
+            "toes"
+          ],
+          "translations": {
+            "zh-TW": "在倉庫工作時請穿鋼頭靴以保護腳趾。"
+          }
+        },
+        {
+          "en": "The steel toe of his work boot protected his foot from the falling crate.",
           "highlight": [
             "toe"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他工作靴的鋼頭保護了他的腳，免於被掉落的木箱砸傷。"
+          }
+        },
+        {
+          "en": "The safety inspector toed the line carefully along the edge of the platform.",
+          "highlight": [
+            "toed"
+          ],
+          "translations": {
+            "zh-TW": "安全檢查員小心翼翼地沿著平台邊緣踩線行走。"
           }
         }
       ],
       "synonyms": [
-        "digit"
+        "digit",
+        "ferrule"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "heel"
+      ],
       "phrases": [
-        "stub",
-        "your",
-        "toe",
-        "big",
-        "toe"
+        "big toe",
+        "toe the line",
+        "stub your toe",
+        "steel-toe boots"
       ]
     },
     {
@@ -211,34 +290,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "together",
-          "definition": "adv. 一起, 共同, 彼此"
+          "definition": "adv. 一起、共同、同時  prep. 一起"
         }
       ],
       "examples": [
         {
-          "en": "They worked together on the project.",
+          "en": "The marketing and sales teams worked together on the new campaign.",
           "highlight": [
             "together"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "行銷與業務團隊共同合作推動新活動。"
+          }
+        },
+        {
+          "en": "Please put the shipment forms together before the courier arrives.",
+          "highlight": [
+            "together"
+          ],
+          "translations": {
+            "zh-TW": "請在快遞到達前把出貨單據整理在一起。"
+          }
+        },
+        {
+          "en": "Together with the regional manager, the director approved the 2026 budget.",
+          "highlight": [
+            "together"
+          ],
+          "translations": {
+            "zh-TW": "區域經理與總監一同批准了 2026 年的預算。"
           }
         }
       ],
       "synonyms": [
         "jointly",
-        "in",
-        "concert"
+        "cooperatively",
+        "collectively"
       ],
       "antonyms": [
         "separately",
         "apart"
       ],
       "phrases": [
-        "work",
-        "together",
-        "live",
-        "together"
+        "work together",
+        "put together",
+        "get together",
+        "go together with"
       ]
     },
     {
@@ -253,40 +350,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "toileted",
+        "plural": "toilets",
+        "present_3rd": "toilets",
+        "past": "toileted",
         "past_participle": "toileted",
-        "present_participle": "toileting",
-        "third_person": "toilets"
+        "ing": "toileting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "toilet",
-          "definition": "n. 厕所, 梳妆, vi. 梳妆, 打扮, 上厕所, vt. 给...梳妆打扮"
+          "definition": "n. 馬桶、廁所、梳妝  v. 梳妝打扮、如廁"
         }
       ],
       "examples": [
         {
-          "en": "The restroom is equipped with a modern toilet.",
+          "en": "The public toilets in this station are cleaned every two hours.",
+          "highlight": [
+            "toilets"
+          ],
+          "translations": {
+            "zh-TW": "這座車站的公共廁所每兩小時清潔一次。"
+          }
+        },
+        {
+          "en": "The hotel room includes a modern toilet with a self-closing lid.",
           "highlight": [
             "toilet"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這間飯店客房配有一座附自動閉蓋的現代化馬桶。"
+          }
+        },
+        {
+          "en": "She toileted quickly and returned to the meeting without delay.",
+          "highlight": [
+            "toileted"
+          ],
+          "translations": {
+            "zh-TW": "她迅速如廁後隨即返回會議，沒有任何耽擱。"
           }
         }
       ],
       "synonyms": [
         "lavatory",
-        "restroom"
+        "restroom",
+        "washroom"
       ],
       "antonyms": [],
       "phrases": [
-        "toilet",
-        "paper",
-        "public",
-        "toilet"
+        "toilet paper",
+        "public toilet",
+        "toilet seat",
+        "flush the toilet"
       ]
     },
     {
@@ -297,44 +414,57 @@
       "toeic_score_min": 500,
       "word": "tomato",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "tomatoed",
-        "past_participle": "tomatoed",
-        "present_participle": "tomatoing",
-        "third_person": "tomatos"
+        "plural": "tomatoes"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tomato",
-          "definition": "n. 番茄, 西红柿"
+          "definition": "n. 番茄、西紅柿"
         }
       ],
       "examples": [
         {
-          "en": "She added tomato to the salad.",
+          "en": "Add one ripe tomato to the salad for extra color and flavor.",
           "highlight": [
             "tomato"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在沙拉中加入一顆成熟的番茄以增添色澤與風味。"
+          }
+        },
+        {
+          "en": "The supplier delivered twenty crates of fresh tomatoes to the restaurant.",
+          "highlight": [
+            "tomatoes"
+          ],
+          "translations": {
+            "zh-TW": "供應商送了二十箱新鮮番茄到餐廳。"
+          }
+        },
+        {
+          "en": "Tomato sauce is a key ingredient in many Italian pasta dishes.",
+          "highlight": [
+            "tomato"
+          ],
+          "translations": {
+            "zh-TW": "番茄醬是許多義大利麵菜餚的關鍵食材。"
           }
         }
       ],
       "synonyms": [
-        "fruit",
-        "veggie"
+        "love apple"
       ],
       "antonyms": [],
       "phrases": [
-        "ripe",
-        "tomato",
-        "tomato",
-        "sauce"
+        "tomato sauce",
+        "ripe tomato",
+        "tomato juice",
+        "cherry tomato"
       ]
     },
     {
@@ -356,35 +486,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "tomorrow",
-          "definition": "n. 明天, 未來, adv. 明天, 未來地"
+          "definition": "n. 明天、未來  adv. 明天"
         }
       ],
       "examples": [
         {
-          "en": "We will meet tomorrow.",
+          "en": "The board meeting will be held tomorrow morning at ten.",
           "highlight": [
             "tomorrow"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "董事會會議將於明天上午十點舉行。"
+          }
+        },
+        {
+          "en": "Tomorrow's flight to Tokyo has been delayed by two hours due to weather.",
+          "highlight": [
+            "tomorrow's"
+          ],
+          "translations": {
+            "zh-TW": "明天飛往東京的班機因天氣因素延誤兩小時。"
+          }
+        },
+        {
+          "en": "We should not sacrifice too many tomorrows for short-term gains today.",
+          "highlight": [
+            "tomorrows"
+          ],
+          "translations": {
+            "zh-TW": "我們不該為了眼前的短期利益而犧牲太多個明天。"
           }
         }
       ],
       "synonyms": [
-        "next",
-        "day",
-        "following",
-        "day"
+        "next day",
+        "the following day"
       ],
       "antonyms": [
-        "yesterday"
+        "yesterday",
+        "today"
       ],
       "phrases": [
-        "see",
-        "you",
-        "tomorrow",
-        "tomorrow",
-        "morning"
+        "tomorrow morning",
+        "see you tomorrow",
+        "tomorrow's news",
+        "tomorrow and tomorrow"
       ]
     },
     {
@@ -395,45 +541,61 @@
       "toeic_score_min": 500,
       "word": "ton",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "toned",
-        "past_participle": "toned",
-        "present_participle": "toning",
-        "third_person": "tons"
+        "plural": "tons"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "ton",
-          "definition": "n. 吨, [經] 吨"
+          "definition": "n. 噸、大量、时髦高級"
         }
       ],
       "examples": [
         {
-          "en": "The shipment weighs a ton.",
+          "en": "The factory produced over five hundred tons of steel last quarter.",
+          "highlight": [
+            "tons"
+          ],
+          "translations": {
+            "zh-TW": "該工廠上季度生產了超過五百噸的鋼材。"
+          }
+        },
+        {
+          "en": "One ton of wheat was shipped to the port for export to Asia.",
           "highlight": [
             "ton"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "一噸小麥已運往港口出口至亞洲。"
+          }
+        },
+        {
+          "en": "The report indicated a ton of paperwork would be required for the merger.",
+          "highlight": [
+            "ton"
+          ],
+          "translations": {
+            "zh-TW": "報告指出這項併購案需要處理堆積如山的文書工作。"
           }
         }
       ],
       "synonyms": [
-        "weight",
+        "tonne",
+        "load",
         "mass"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "ounce"
+      ],
       "phrases": [
-        "weigh",
-        "a",
-        "ton",
-        "metric",
-        "ton"
+        "metric ton",
+        "weigh a ton",
+        "tons of",
+        "a ton of"
       ]
     },
     {
@@ -448,41 +610,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "toneed",
-        "past_participle": "toneed",
-        "present_participle": "toning",
-        "third_person": "tones"
+        "plural": "tones",
+        "present_3rd": "tones",
+        "past": "toned",
+        "past_participle": "toned",
+        "ing": "toning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tone",
-          "definition": "n. 音调, 音质, 語调, 語气, 色调, 气氛, 状况, 思想状态, vt. 给...定色调, 增强, 使...的声调和谐, 定音调, vi. 颜色调和, [计] 双音频"
+          "definition": "n. 語氣、音調、色調、氛圍  v. 使柔和、定調、增強"
         }
       ],
       "examples": [
         {
-          "en": "The tone of the conversation was serious.",
+          "en": "The manager's tone during the negotiation was calm and professional.",
           "highlight": [
             "tone"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理在談判過程中的語氣沉穩且專業。"
+          }
+        },
+        {
+          "en": "He toned down his criticism after realizing the team had worked overtime.",
+          "highlight": [
+            "toned"
+          ],
+          "translations": {
+            "zh-TW": "在發現團隊加班趕工後，他緩和了批評的語氣。"
+          }
+        },
+        {
+          "en": "She is toning her presentation slides with a more neutral color palette.",
+          "highlight": [
+            "toning"
+          ],
+          "translations": {
+            "zh-TW": "她正以更中性的色調來調整簡報投影片的色系。"
           }
         }
       ],
       "synonyms": [
         "manner",
-        "mood"
+        "mood",
+        "pitch"
       ],
       "antonyms": [],
       "phrases": [
-        "tone",
-        "of",
-        "voice",
-        "tone",
-        "down"
+        "tone of voice",
+        "tone down",
+        "set the tone",
+        "muscle tone"
       ]
     }
   ]
