@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 283,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-283-001",
@@ -15,40 +15,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "tableed",
-        "past_participle": "tableed",
-        "present_participle": "tabling",
-        "third_person": "tables"
+        "plural": "tables",
+        "present_3rd": "tables",
+        "past": "tabled",
+        "past_participle": "tabled",
+        "ing": "tabling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "table",
-          "definition": "n. 桌子, 餐桌, 工作台, 铭文, 表格, 表, 高原, 平地层, vt. 搁置, 嵌合, 制表, 把...列入議事日程, [计] 表格, 模拟運算表"
+          "definition": "n. 桌子、表格、目錄  v. 擱置（議案）、列入議程"
         }
       ],
       "examples": [
         {
-          "en": "They sat around the dining table.",
+          "en": "Please leave the contract on the table by noon.",
           "highlight": [
             "table"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請在中午前把合約留在會議桌上。"
+          }
+        },
+        {
+          "en": "The manager tabled the proposal until next quarter.",
+          "highlight": [
+            "tabled"
+          ],
+          "translations": {
+            "zh-TW": "經理把這項提案擱置到下個季度再討論。"
+          }
+        },
+        {
+          "en": "She is tabling the agenda items for tomorrow's meeting.",
+          "highlight": [
+            "tabling"
+          ],
+          "translations": {
+            "zh-TW": "她正在為明天的會議編排議程項目。"
           }
         }
       ],
       "synonyms": [
         "desk",
-        "stand"
+        "surface",
+        "schedule"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "withdraw"
+      ],
       "phrases": [
-        "dining",
-        "table",
-        "coffee",
-        "table"
+        "dining table",
+        "table of contents",
+        "on the table",
+        "round-table"
       ]
     },
     {
@@ -59,44 +81,58 @@
       "toeic_score_min": 500,
       "word": "tablet",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "tableted",
-        "past_participle": "tableted",
-        "present_participle": "tableting",
-        "third_person": "tablets"
+        "plural": "tablets"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tablet",
-          "definition": "n. 平板, 門牌, 笔記簿, 碑, 匾, 药片, [化] 片剂"
+          "definition": "n. 平板電腦、藥片、石碑"
         }
       ],
       "examples": [
         {
-          "en": "He bought a new tablet for reading books.",
+          "en": "He takes a tablet every morning to manage his blood pressure.",
           "highlight": [
             "tablet"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他每天早上服用一顆藥片來控制血壓。"
+          }
+        },
+        {
+          "en": "Two tablets a day are recommended after meals.",
+          "highlight": [
+            "tablets"
+          ],
+          "translations": {
+            "zh-TW": "建議每日三餐飯後服用兩顆藥片。"
+          }
+        },
+        {
+          "en": "Waiters now take orders on a tablet instead of paper notes.",
+          "highlight": [
+            "tablet"
+          ],
+          "translations": {
+            "zh-TW": "服務生現在改用平板電腦點餐，不再用紙本筆記。"
           }
         }
       ],
       "synonyms": [
         "pad",
-        "device"
+        "slate",
+        "pill"
       ],
       "antonyms": [],
       "phrases": [
-        "digital",
-        "tablet",
-        "tablet",
-        "computer"
+        "tablet computer",
+        "clay tablet",
+        "take a tablet"
       ]
     },
     {
@@ -111,44 +147,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "tackleed",
-        "past_participle": "tackleed",
-        "present_participle": "tackling",
-        "third_person": "tackles"
+        "plural": "tackles",
+        "present_3rd": "tackles",
+        "past": "tackled",
+        "past_participle": "tackled",
+        "ing": "tackling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tackle",
-          "definition": "n. 工具, 复滑車, 滑車, 装备, 扭倒, vt. 固定, 處理, 抓住, vi. 扭倒"
+          "definition": "v. 處理、應對、擒抱  n. 用具、滑車、擒抱"
         }
       ],
       "examples": [
         {
-          "en": "He tackled the problem with determination.",
+          "en": "We must tackle the supply chain issues before the holiday season.",
           "highlight": [
             "tackle"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們必須在假期旺季前處理好供應鏈問題。"
+          }
+        },
+        {
+          "en": "The team tackled the urgent request within two hours.",
+          "highlight": [
+            "tackled"
+          ],
+          "translations": {
+            "zh-TW": "團隊在兩小時內就完成了這項緊急需求。"
+          }
+        },
+        {
+          "en": "She is tackling three projects at the same time this month.",
+          "highlight": [
+            "tackling"
+          ],
+          "translations": {
+            "zh-TW": "這個月她同時在處理三個專案。"
           }
         }
       ],
       "synonyms": [
         "address",
-        "confront"
+        "confront",
+        "handle"
       ],
       "antonyms": [
         "neglect",
         "avoid"
       ],
       "phrases": [
-        "tackle",
-        "a",
-        "problem",
-        "tackle",
-        "an"
+        "tackle a problem",
+        "tackle an issue",
+        "fishing tackle"
       ]
     },
     {
@@ -163,43 +217,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "tailed",
+        "plural": "tails",
+        "present_3rd": "tails",
+        "past": "tailed",
         "past_participle": "tailed",
-        "present_participle": "tailing",
-        "third_person": "tails"
+        "ing": "tailing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tail",
-          "definition": "n. 尾部, 後部, 辫子, 随員, 特务, 燕尾服, 踪迹, 限定继承(权), a. 在後面的, 从後面而來的, 限定继承的, 尾部的, 後部的, vt. 為...装尾, 附于其後, 尾随, 使搭牢, 跟踪, 监视, vi. 跟踪, 船尾搁浅"
+          "definition": "n. 尾巴、尾部、尾隨者  v. 跟蹤、尾隨"
         }
       ],
       "examples": [
         {
-          "en": "The dog wagged its tail.",
+          "en": "The long tail of the comet was visible for several nights.",
           "highlight": [
             "tail"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這顆彗星長長的尾巴連續好幾個夜晚都清晰可見。"
+          }
+        },
+        {
+          "en": "The detective tailed the suspect for three blocks before making the arrest.",
+          "highlight": [
+            "tailed"
+          ],
+          "translations": {
+            "zh-TW": "偵探尾隨嫌犯走了三個街區才動手逮捕。"
+          }
+        },
+        {
+          "en": "The report is tailing off as the deadline approaches.",
+          "highlight": [
+            "tailing"
+          ],
+          "translations": {
+            "zh-TW": "隨著截止日期逼近，這份報告的進度正逐漸收尾。"
           }
         }
       ],
       "synonyms": [
         "rear",
-        "appendage"
+        "end",
+        "follow"
       ],
       "antonyms": [
         "head",
-        "front"
+        "lead"
       ],
       "phrases": [
-        "wagging",
-        "tail",
-        "long",
-        "tail"
+        "tail off",
+        "long tail",
+        "turn tail",
+        "tail light"
       ]
     },
     {
@@ -214,44 +288,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "takeed",
-        "past_participle": "takeed",
-        "present_participle": "taking",
-        "third_person": "takes"
+        "present_3rd": "takes",
+        "past": "took",
+        "past_participle": "taken",
+        "ing": "taking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "take",
-          "definition": "vt. 拿, 取, 抓, 帶领, 获得, 就座, 接受, 吃, 吸引, 采取, 乘, 需要, 花费, vi. 吃掉對方棋子, 抓住, 起作用, 依法获得财产, n. 拿, 取, 收成, 奏效"
+          "definition": "v. 拿取、帶領、花費、接受、搭乘  n. 收入、拍攝次數"
         }
       ],
       "examples": [
         {
-          "en": "Please take this to the kitchen.",
+          "en": "Please take a seat while the receptionist calls your number.",
           "highlight": [
             "take"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請先入座，櫃檯人員會叫您的號碼。"
+          }
+        },
+        {
+          "en": "She took the early train to attend the conference in Tokyo.",
+          "highlight": [
+            "took"
+          ],
+          "translations": {
+            "zh-TW": "她搭了早班火車前往東京參加會議。"
+          }
+        },
+        {
+          "en": "The new policy has been taken seriously by every department.",
+          "highlight": [
+            "taken"
+          ],
+          "translations": {
+            "zh-TW": "新政策已被每個部門認真看待。"
           }
         }
       ],
       "synonyms": [
         "grab",
-        "seize"
+        "seize",
+        "accept"
       ],
       "antonyms": [
         "give",
         "release"
       ],
       "phrases": [
-        "take",
-        "a",
-        "break",
-        "take",
-        "a"
+        "take a break",
+        "take care of",
+        "take part in",
+        "take place"
       ]
     },
     {
@@ -262,47 +354,62 @@
       "toeic_score_min": 500,
       "word": "talent",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "talented",
-        "past_participle": "talented",
-        "present_participle": "talenting",
-        "third_person": "talents"
+        "plural": "talents"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "talent",
-          "definition": "n. 天才, 才能, 有才干的人, 天资"
+          "definition": "n. 天賦、才能、人才"
         }
       ],
       "examples": [
         {
-          "en": "She has a talent for painting.",
+          "en": "The company is investing in young talent to drive future growth.",
           "highlight": [
             "talent"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司正在投資年輕人才，以推動未來的成長。"
+          }
+        },
+        {
+          "en": "Her many talents make her an ideal candidate for the manager role.",
+          "highlight": [
+            "talents"
+          ],
+          "translations": {
+            "zh-TW": "她的多項才能使她成為經理職位的理想人選。"
+          }
+        },
+        {
+          "en": "The HR team recruits globally to find the best talent available.",
+          "highlight": [
+            "talent"
+          ],
+          "translations": {
+            "zh-TW": "人資團隊在全球招募，以網羅最優秀的人才。"
           }
         }
       ],
       "synonyms": [
         "ability",
-        "skill"
+        "skill",
+        "gift"
       ],
       "antonyms": [
         "incompetence",
         "ineptitude"
       ],
       "phrases": [
-        "natural",
-        "talent",
-        "raw",
-        "talent"
+        "natural talent",
+        "talent pool",
+        "talent show",
+        "hidden talent"
       ]
     },
     {
@@ -317,43 +424,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "talked",
+        "plural": "talks",
+        "present_3rd": "talks",
+        "past": "talked",
         "past_participle": "talked",
-        "present_participle": "talking",
-        "third_person": "talks"
+        "ing": "talking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "talk",
-          "definition": "n. 谈话, 交谈, 會谈, 讲话, 演讲, 空谈, 谣言, 方言, 語言, vi. 讲话, 演讲, 說话, 谈话, 交流, 闲聊, 說闲话, vt. 讲, 說, 讨论, 谈论, [计] 對话类, 聊天"
+          "definition": "v. 談話、交談、討論  n. 談話、演講、會談"
         }
       ],
       "examples": [
         {
-          "en": "They talked for hours.",
+          "en": "Let's talk about the quarterly budget before the board meeting.",
           "highlight": [
             "talk"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們在董事會議前先討論一下季度預算吧。"
+          }
+        },
+        {
+          "en": "The two CEOs talked for over an hour about the merger.",
+          "highlight": [
+            "talked"
+          ],
+          "translations": {
+            "zh-TW": "兩位執行長就合併案交談了超過一個小時。"
+          }
+        },
+        {
+          "en": "She is talking to the supplier about the delivery delay.",
+          "highlight": [
+            "talking"
+          ],
+          "translations": {
+            "zh-TW": "她正在和供應商洽談出貨延遲的問題。"
           }
         }
       ],
       "synonyms": [
         "speak",
-        "converse"
+        "converse",
+        "discuss"
       ],
       "antonyms": [
         "silence",
         "quiet"
       ],
       "phrases": [
-        "talk",
-        "to",
-        "talk",
-        "about"
+        "talk to",
+        "talk about",
+        "give a talk",
+        "small talk"
       ]
     },
     {
@@ -364,44 +491,63 @@
       "toeic_score_min": 500,
       "word": "tall",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "talls"
+        "comparative": "taller",
+        "superlative": "tallest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tall",
-          "definition": "a. 高的, 長的, 夸大的, adv. 夸大地"
+          "definition": "adj. 高的、身材修長的、（數量）大的"
         }
       ],
       "examples": [
         {
-          "en": "He is very tall for his age.",
+          "en": "He is tall enough to reach the top shelf without a ladder.",
           "highlight": [
             "tall"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他夠高，不用梯子就能拿到最上層的架子。"
+          }
+        },
+        {
+          "en": "The new office tower is taller than every building on this block.",
+          "highlight": [
+            "taller"
+          ],
+          "translations": {
+            "zh-TW": "這棟新辦公大樓比這條街上所有建築都還要高。"
+          }
+        },
+        {
+          "en": "Mount Fuji is the tallest peak most Japanese climb in their lifetime.",
+          "highlight": [
+            "tallest"
+          ],
+          "translations": {
+            "zh-TW": "富士山是大多數日本人一生中攀登過的最高的山峰。"
           }
         }
       ],
       "synonyms": [
         "high",
-        "towering"
+        "towering",
+        "lofty"
       ],
       "antonyms": [
         "short",
         "low"
       ],
       "phrases": [
-        "tall",
-        "building",
-        "tall",
-        "person"
+        "tall building",
+        "tall order",
+        "tall tale",
+        "stand tall"
       ]
     },
     {
@@ -416,40 +562,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "tanked",
+        "plural": "tanks",
+        "present_3rd": "tanks",
+        "past": "tanked",
         "past_participle": "tanked",
-        "present_participle": "tanking",
-        "third_person": "tanks"
+        "ing": "tanking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tank",
-          "definition": "n. 槽, 箱, 柜, 罐, 池塘, 储水池, 坦克, vt. 储于箱中"
+          "definition": "n. 儲水槽、油箱、坦克  v. 儲存、（業績）大幅下滑"
         }
       ],
       "examples": [
         {
-          "en": "The tank is full of water.",
+          "en": "The factory stores chemicals in a stainless steel tank.",
           "highlight": [
             "tank"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "工廠把化學品儲存在不銹鋼槽裡。"
+          }
+        },
+        {
+          "en": "Sales tanked after the recall announcement last month.",
+          "highlight": [
+            "tanked"
+          ],
+          "translations": {
+            "zh-TW": "上個月發布召回公告後，銷量大幅下滑。"
+          }
+        },
+        {
+          "en": "Several oil tanks leaked during the earthquake last night.",
+          "highlight": [
+            "tanks"
+          ],
+          "translations": {
+            "zh-TW": "昨晚地震期間有幾座儲油槽出現滲漏。"
           }
         }
       ],
       "synonyms": [
         "reservoir",
-        "container"
+        "container",
+        "vessel"
       ],
       "antonyms": [],
       "phrases": [
-        "gas",
-        "tank",
-        "water",
-        "tank"
+        "gas tank",
+        "water tank",
+        "think tank",
+        "tank top"
       ]
     },
     {
@@ -464,41 +630,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "taped",
-        "past_participle": "taped",
-        "present_participle": "taping",
-        "third_person": "taps"
+        "plural": "taps",
+        "present_3rd": "taps",
+        "past": "tapped",
+        "past_participle": "tapped",
+        "ing": "tapping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tap",
-          "definition": "n. 輕打, 水龙頭, vt. 輕打, 輕敲, 敲打出, 选择, 装上嘴子, 使流出, 开發, 分接, 向...乞讨, vi. 輕叩, 輕拍, 啪塔啪塔地走, [计] 接頭"
+          "definition": "n. 水龍頭、輕拍、輕敲  v. 輕拍、開發、竊聽"
         }
       ],
       "examples": [
         {
-          "en": "Turn off the tap after use.",
+          "en": "Please turn off the tap fully to avoid wasting water.",
           "highlight": [
             "tap"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請把水龍頭完全關緊，避免浪費水。"
+          }
+        },
+        {
+          "en": "The teacher tapped the screen to show the next slide.",
+          "highlight": [
+            "tapped"
+          ],
+          "translations": {
+            "zh-TW": "老師輕觸螢幕以顯示下一張投影片。"
+          }
+        },
+        {
+          "en": "Someone has been tapping the company phone line for weeks.",
+          "highlight": [
+            "tapping"
+          ],
+          "translations": {
+            "zh-TW": "有人竊聽公司電話線已經好幾個星期了。"
           }
         }
       ],
       "synonyms": [
         "faucet",
-        "spigot"
+        "knock",
+        "pat"
       ],
       "antonyms": [],
       "phrases": [
-        "turn",
-        "on",
-        "the",
-        "tap",
-        "close"
+        "turn on the tap",
+        "tap into",
+        "tap water",
+        "tap on"
       ]
     }
   ]
