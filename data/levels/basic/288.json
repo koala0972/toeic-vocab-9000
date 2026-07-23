@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 288,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-288-001",
@@ -19,35 +19,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "then",
-          "definition": "adv. 然後, 当時, conj. 然後, 当時, n. 那時"
+          "definition": "adv. 那時、然後、當時 conj. 既然、那麼"
         }
       ],
       "examples": [
         {
-          "en": "I was younger then.",
+          "en": "We finished the meeting, and then everyone headed to the cafeteria.",
           "highlight": [
             "then"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們開完會，然後大家都去了自助餐廳。"
+          }
+        },
+        {
+          "en": "I was a college student then and could not afford a car.",
+          "highlight": [
+            "then"
+          ],
+          "translations": {
+            "zh-TW": "我那時還是個大學生，買不起車。"
+          }
+        },
+        {
+          "en": "If you want the promotion, then you had better finish the report tonight.",
+          "highlight": [
+            "then"
+          ],
+          "translations": {
+            "zh-TW": "既然你想升職，那麼你最好今晚把報告寫完。"
           }
         }
       ],
       "synonyms": [
-        "at",
-        "that",
-        "time",
-        "in",
-        "those"
+        "afterwards",
+        "next",
+        "at that time"
       ],
       "antonyms": [
         "now"
       ],
       "phrases": [
-        "back",
-        "then",
-        "even",
-        "then"
+        "back then",
+        "even then",
+        "from then on",
+        "now and then"
       ]
     },
     {
@@ -58,48 +74,62 @@
       "toeic_score_min": 500,
       "word": "theory",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "theoryed",
-        "past_participle": "theoryed",
-        "present_participle": "theorying",
-        "third_person": "theorys"
+        "plural": "theories"
       },
-      "domain": "general",
+      "domain": "science",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "theory",
-          "definition": "n. 理论, 学說, 原理, 意见, 推测, [化] 理论"
+          "definition": "n. 理論、學說、推測"
         }
       ],
       "examples": [
         {
-          "en": "His theory about the universe is fascinating.",
+          "en": "Her theory explains why customers abandon their shopping carts online.",
           "highlight": [
             "theory"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她的理論解釋了顧客為何在線上購物時放棄結帳。"
+          }
+        },
+        {
+          "en": "Several competing theories were proposed at last year's marketing conference.",
+          "highlight": [
+            "theories"
+          ],
+          "translations": {
+            "zh-TW": "去年的行銷研討會上提出了幾個互相競爭的理論。"
+          }
+        },
+        {
+          "en": "In theory the plan looks perfect, but in practice it is full of risks.",
+          "highlight": [
+            "theory"
+          ],
+          "translations": {
+            "zh-TW": "理論上這個計畫看起來很完美，實際上卻充滿風險。"
           }
         }
       ],
       "synonyms": [
         "hypothesis",
-        "concept"
+        "concept",
+        "idea"
       ],
       "antonyms": [
         "fact",
-        "reality"
+        "practice"
       ],
       "phrases": [
-        "scientific",
-        "theory",
-        "theory",
-        "of",
-        "relativity"
+        "in theory",
+        "scientific theory",
+        "theory of relativity",
+        "conspiracy theory"
       ]
     },
     {
@@ -119,37 +149,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "there",
-          "definition": "adv. 在那裡"
+          "definition": "adv. 在那裡、到那裡 pron. 那個地方"
         }
       ],
       "examples": [
         {
-          "en": "She is over there.",
+          "en": "The new branch office is over there, next to the subway station.",
           "highlight": [
             "there"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新分公司就在那裡，地鐵站旁邊。"
+          }
+        },
+        {
+          "en": "There are still a few seats left in the conference hall.",
+          "highlight": [
+            "there"
+          ],
+          "translations": {
+            "zh-TW": "會議廳裡還剩下幾個座位。"
+          }
+        },
+        {
+          "en": "I have been there twice on business trips this year.",
+          "highlight": [
+            "there"
+          ],
+          "translations": {
+            "zh-TW": "今年我出差到過那裡兩次。"
           }
         }
       ],
       "synonyms": [
-        "here",
-        "in",
-        "that",
-        "place"
+        "yonder",
+        "at that place"
       ],
       "antonyms": [
-        "here",
-        "in",
-        "this",
-        "place"
+        "here"
       ],
       "phrases": [
-        "over",
-        "there",
-        "there",
-        "is"
+        "over there",
+        "there is",
+        "there are",
+        "out there"
       ]
     },
     {
@@ -160,8 +203,7 @@
       "toeic_score_min": 500,
       "word": "therefore",
       "pos": [
-        "adverb",
-        "conjunction"
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
@@ -169,34 +211,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "therefore",
-          "definition": "adv. 因此, 所以"
+          "definition": "adv. 因此、所以"
         }
       ],
       "examples": [
         {
-          "en": "He was late; therefore, he missed the bus.",
+          "en": "Sales dropped sharply last quarter; therefore the board cut the marketing budget.",
           "highlight": [
             "therefore"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "上季度銷售大幅下滑，因此董事會刪減了行銷預算。"
+          }
+        },
+        {
+          "en": "He did not pass the language test and was therefore not offered the overseas post.",
+          "highlight": [
+            "therefore"
+          ],
+          "translations": {
+            "zh-TW": "他沒有通過語言測試，因此沒有獲派海外職位。"
+          }
+        },
+        {
+          "en": "The deadline was moved up, so we must therefore finish the design today.",
+          "highlight": [
+            "therefore"
+          ],
+          "translations": {
+            "zh-TW": "截止日期提前了，所以我們必須今天完成設計。"
           }
         }
       ],
       "synonyms": [
         "thus",
-        "hence"
+        "hence",
+        "consequently"
       ],
-      "antonyms": [
-        "because",
-        "since"
-      ],
+      "antonyms": [],
       "phrases": [
-        "therefore",
-        "they",
-        "concluded",
-        "and",
-        "therefore"
+        "and therefore",
+        "I therefore conclude",
+        "therefore concluded"
       ]
     },
     {
@@ -210,40 +266,56 @@
         "pronoun",
         "adjective"
       ],
-      "conjugations": {
-        "comparative": "theseer",
-        "superlative": "theseest"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "these",
-          "definition": "pron. 这些"
+          "definition": "pron. 這些 adj. 這些的"
         }
       ],
       "examples": [
         {
-          "en": "These are my friends.",
+          "en": "These are the invoices that need the manager's signature.",
           "highlight": [
             "these"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這些是需要經理簽名的發票。"
+          }
+        },
+        {
+          "en": "Please review these documents before the audit next Monday.",
+          "highlight": [
+            "these"
+          ],
+          "translations": {
+            "zh-TW": "請在下週一稽核前審閱這些文件。"
+          }
+        },
+        {
+          "en": "I prefer these ones to the samples you sent last month.",
+          "highlight": [
+            "these"
+          ],
+          "translations": {
+            "zh-TW": "比起你上個月寄來的樣品，我比較喜歡這些。"
           }
         }
       ],
       "synonyms": [
-        "those",
-        "these",
-        "ones"
+        "these ones",
+        "the following"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "those"
+      ],
       "phrases": [
-        "these",
-        "days",
-        "these",
-        "ones"
+        "these days",
+        "these ones",
+        "one of these days",
+        "in these times"
       ]
     },
     {
@@ -262,30 +334,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "they",
-          "definition": "pron. 他們, 它們"
+          "definition": "pron. 他們、她們、它們"
         }
       ],
       "examples": [
         {
-          "en": "They are coming to the party.",
+          "en": "They promised to deliver the goods by Friday morning.",
           "highlight": [
             "they"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他們答應星期五早上前把貨送達。"
+          }
+        },
+        {
+          "en": "They are the only supplier that meets our quality standards.",
+          "highlight": [
+            "they"
+          ],
+          "translations": {
+            "zh-TW": "他們是唯一符合我們品質標準的供應商。"
+          }
+        },
+        {
+          "en": "I called the clients, but they had already signed with a rival firm.",
+          "highlight": [
+            "they"
+          ],
+          "translations": {
+            "zh-TW": "我打電話給那些客戶，但他們已經跟競爭對手簽約了。"
           }
         }
       ],
       "synonyms": [
-        "those",
-        "people"
+        "those people",
+        "the folks"
       ],
       "antonyms": [],
       "phrases": [
-        "they",
-        "are",
-        "they",
-        "have"
+        "they say",
+        "they are",
+        "they have",
+        "as they say"
       ]
     },
     {
@@ -296,44 +386,63 @@
       "toeic_score_min": 500,
       "word": "thick",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "thicks"
+        "comparative": "thicker",
+        "superlative": "thickest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "thick",
-          "definition": "a. 厚的, 粗壮的, 浓的, 迟钝的, 浑浊的, 多雾的, 過分的, 口齿不清的, adv. 厚地, 密地, 浓浓地, n. 最浓處, 最厚處, 最密集處, [计] 暗, 粗线"
+          "definition": "adj. 厚的、粗的、濃的、密集的"
         }
       ],
       "examples": [
         {
-          "en": "The book has thick pages.",
+          "en": "The catalog is quite thick, but the sales figures inside are worth reading.",
           "highlight": [
             "thick"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這本型錄相當厚，但裡面的銷售數字值得一讀。"
+          }
+        },
+        {
+          "en": "The fog was thicker this morning, so several flights were delayed.",
+          "highlight": [
+            "thicker"
+          ],
+          "translations": {
+            "zh-TW": "今早霧更濃，所以有幾個航班延誤了。"
+          }
+        },
+        {
+          "en": "Winter is the thickest season for online retail in this country.",
+          "highlight": [
+            "thickest"
+          ],
+          "translations": {
+            "zh-TW": "冬天是這個國家線上零售最繁忙的季節。"
           }
         }
       ],
       "synonyms": [
         "dense",
-        "bulky"
+        "heavy",
+        "chunky"
       ],
       "antonyms": [
         "thin",
-        "narrow"
+        "slim"
       ],
       "phrases": [
-        "thick",
-        "book",
-        "thick",
-        "hair"
+        "thick fog",
+        "thick file",
+        "thick and fast",
+        "through thick and thin"
       ]
     },
     {
@@ -344,46 +453,61 @@
       "toeic_score_min": 500,
       "word": "thickness",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "thicknessed",
-        "past_participle": "thicknessed",
-        "present_participle": "thicknessing",
-        "third_person": "thicknesses"
+        "plural": "thicknesses"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "thickness",
-          "definition": "n. 厚度, 密度, 愚钝, 含混不清, [医] 厚度"
+          "definition": "n. 厚度、濃密、層"
         }
       ],
       "examples": [
         {
-          "en": "The wall's thickness is 20 cm.",
+          "en": "The thickness of the glass determines how much weight the shelf can hold.",
           "highlight": [
             "thickness"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "玻璃的厚度決定了層架能承受多少重量。"
+          }
+        },
+        {
+          "en": "We measured the thicknesses of three materials before placing the order.",
+          "highlight": [
+            "thicknesses"
+          ],
+          "translations": {
+            "zh-TW": "我們在下訂前測量了三種材料的厚度。"
+          }
+        },
+        {
+          "en": "A coating of unusual thickness protects the equipment from rust.",
+          "highlight": [
+            "thickness"
+          ],
+          "translations": {
+            "zh-TW": "一層異常厚的塗層保護設備不被鏽蝕。"
           }
         }
       ],
       "synonyms": [
         "depth",
-        "width"
+        "density",
+        "consistency"
       ],
       "antonyms": [
         "thinness"
       ],
       "phrases": [
-        "overall",
-        "thickness",
-        "wall",
-        "thickness"
+        "wall thickness",
+        "overall thickness",
+        "standard thickness",
+        "in thickness"
       ]
     },
     {
@@ -394,45 +518,59 @@
       "toeic_score_min": 500,
       "word": "thief",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "thiefed",
-        "past_participle": "thiefed",
-        "present_participle": "thiefing",
-        "third_person": "thiefs"
+        "plural": "thieves"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "thief",
-          "definition": "n. 小偷, 贼, [化] 取樣"
+          "definition": "n. 小偷、竊賊"
         }
       ],
       "examples": [
         {
-          "en": "The thief was caught by the police.",
+          "en": "A thief broke into the warehouse and stole two laptops.",
           "highlight": [
             "thief"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "一名小偷闖入倉庫偷走了兩台筆電。"
+          }
+        },
+        {
+          "en": "The thieves were caught on the security camera leaving through the back door.",
+          "highlight": [
+            "thieves"
+          ],
+          "translations": {
+            "zh-TW": "監視器拍到那些竊賊從後門離開。"
+          }
+        },
+        {
+          "en": "The store installed new alarms to stop repeat thief incidents.",
+          "highlight": [
+            "thief"
+          ],
+          "translations": {
+            "zh-TW": "店家安裝了新的警鈴以防止小偷事件重演。"
           }
         }
       ],
       "synonyms": [
         "robber",
-        "burglar"
+        "burglar",
+        "pickpocket"
       ],
       "antonyms": [],
       "phrases": [
-        "catch",
-        "the",
-        "thief",
-        "petty",
-        "thief"
+        "catch a thief",
+        "petty thief",
+        "art thief",
+        "stop thief"
       ]
     },
     {
@@ -447,43 +585,66 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "thined",
-        "past_participle": "thined",
-        "present_participle": "thining",
-        "third_person": "thins"
+        "plural": "thins",
+        "present_3rd": "thins",
+        "past": "thinned",
+        "past_participle": "thinned",
+        "ing": "thinning",
+        "comparative": "thinner",
+        "superlative": "thinnest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "thin",
-          "definition": "a. 薄的, 细的, 瘦的, 稀疏的, 稀薄的, 淡的, 弱的, 空洞的, vt. 使变薄, 使变细, 使稀少, 使淡, vi. 变薄, 变细, 变少, 变淡, adv. 薄地, 稀疏地, 微弱地, n. 细小部分"
+          "definition": "adj. 薄的、細的、瘦的、稀疏的 v. 變薄、使稀少"
         }
       ],
       "examples": [
         {
-          "en": "He has a thin build.",
+          "en": "This notebook is too thin for a full quarter of meeting notes.",
           "highlight": [
             "thin"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這本筆記本太薄，裝不下一整季的會議紀錄。"
+          }
+        },
+        {
+          "en": "The company thinned its workforce after losing the biggest contract.",
+          "highlight": [
+            "thinned"
+          ],
+          "translations": {
+            "zh-TW": "公司失去最大合約後裁減了人力。"
+          }
+        },
+        {
+          "en": "Profit margins are thinning as raw material costs keep rising.",
+          "highlight": [
+            "thinning"
+          ],
+          "translations": {
+            "zh-TW": "隨著原物料成本持續上漲，利潤空間正在變薄。"
           }
         }
       ],
       "synonyms": [
         "slim",
-        "lean"
+        "lean",
+        "slender"
       ],
       "antonyms": [
+        "thick",
         "fat",
-        "thick"
+        "stout"
       ],
       "phrases": [
-        "thin",
-        "air",
-        "thin",
-        "layer"
+        "thin air",
+        "thin layer",
+        "thin out",
+        "thin margin"
       ]
     }
   ]
