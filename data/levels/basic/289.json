@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 289,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-289-001",
@@ -11,42 +11,58 @@
       "toeic_score_min": 500,
       "word": "thing",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "thinged",
-        "past_participle": "thinged",
-        "present_participle": "thinging",
-        "third_person": "things"
+        "plural": "things"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "thing",
-          "definition": "n. 事物, 东西, 物, 用品, 事, 事件, 情况, 行為, 特征"
+          "definition": "n. 事物、東西、事情"
         }
       ],
       "examples": [
         {
-          "en": "What is that thing on the table?",
+          "en": "The most important thing in a negotiation is to listen carefully.",
           "highlight": [
             "thing"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "談判中最重要的事情就是仔細聆聽。"
+          }
+        },
+        {
+          "en": "She packed her things and headed to the airport for the business trip.",
+          "highlight": [
+            "things"
+          ],
+          "translations": {
+            "zh-TW": "她收拾好物品，動身前往機場出差。"
+          }
+        },
+        {
+          "en": "One good thing about working from home is the time you save on commuting.",
+          "highlight": [
+            "one good thing"
+          ],
+          "translations": {
+            "zh-TW": "在家工作的一個好處就是節省通車時間。"
           }
         }
       ],
       "synonyms": [
         "object",
-        "item"
+        "item",
+        "matter"
       ],
       "antonyms": [],
       "phrases": [
-        "something",
-        "anything"
+        "first thing",
+        "the real thing",
+        "all sorts of things"
       ]
     },
     {
@@ -57,47 +73,65 @@
       "toeic_score_min": 500,
       "word": "think",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "thinked",
-        "past_participle": "thinked",
-        "present_participle": "thinking",
-        "third_person": "thinks"
+        "present_3rd": "thinks",
+        "past": "thought",
+        "past_participle": "thought",
+        "ing": "thinking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "think",
-          "definition": "vt. 想, 考虑, 想起, 想像, 打算, 认為, vi. 思考, 料想, n. 想法, a. 思想的"
+          "definition": "v. 認為、思考、考量"
         }
       ],
       "examples": [
         {
-          "en": "I think you are right.",
+          "en": "I think we should review the contract one more time before signing.",
           "highlight": [
             "think"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我認為簽約前應該再審視一次合約。"
+          }
+        },
+        {
+          "en": "She thought carefully before giving her presentation to the board.",
+          "highlight": [
+            "thought"
+          ],
+          "translations": {
+            "zh-TW": "她向董事會簡報前仔細思考過。"
+          }
+        },
+        {
+          "en": "We are thinking about expanding our business into Southeast Asia.",
+          "highlight": [
+            "thinking"
+          ],
+          "translations": {
+            "zh-TW": "我們正在考慮將業務擴展到東南亞。"
           }
         }
       ],
       "synonyms": [
         "believe",
-        "consider"
+        "consider",
+        "suppose"
       ],
       "antonyms": [
         "doubt",
         "disbelieve"
       ],
       "phrases": [
-        "think",
-        "about",
-        "think",
-        "of"
+        "think about",
+        "think over",
+        "think twice",
+        "think aloud"
       ]
     },
     {
@@ -119,31 +153,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "thinking",
-          "definition": "n. 思考, 思想, a. 思考的, 有理性的"
+          "definition": "n. 思考、想法  adj. 有思考能力的、理性的"
         }
       ],
       "examples": [
         {
-          "en": "Her thinking is very logical.",
+          "en": "Her clear thinking helped the team solve the crisis quickly.",
           "highlight": [
             "thinking"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她清晰的思路幫助團隊迅速化解危機。"
+          }
+        },
+        {
+          "en": "Modern thinking in management emphasizes employee well-being over output.",
+          "highlight": [
+            "modern thinking"
+          ],
+          "translations": {
+            "zh-TW": "現代管理思維重視員工福祉勝過產出。"
+          }
+        },
+        {
+          "en": "A thinking manager questions every assumption before making a decision.",
+          "highlight": [
+            "A thinking manager"
+          ],
+          "translations": {
+            "zh-TW": "有思辨力的主管在做決策前會質疑每個假設。"
           }
         }
       ],
       "synonyms": [
         "reasoning",
         "thought",
-        "process"
+        "judgment"
       ],
       "antonyms": [],
       "phrases": [
-        "positive",
-        "thinking",
-        "critical",
-        "thinking"
+        "critical thinking",
+        "positive thinking",
+        "lateral thinking"
       ]
     },
     {
@@ -165,17 +216,35 @@
         {
           "lang": "zh-TW",
           "lang_word": "third",
-          "definition": "num. 第三, 三分之一, [机] 第三; 第三的"
+          "definition": "adj. 第三的、三分之一的  n. 第三、三分之一"
         }
       ],
       "examples": [
         {
-          "en": "He finished in third place.",
+          "en": "This is the third time the client has asked to reschedule the meeting.",
           "highlight": [
             "third"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這是客戶第三次要求重新安排會議時間。"
+          }
+        },
+        {
+          "en": "A third of the staff chose to work remotely after the policy change.",
+          "highlight": [
+            "a third"
+          ],
+          "translations": {
+            "zh-TW": "政策改變後，三分之一的員工選擇遠距工作。"
+          }
+        },
+        {
+          "en": "Our branch ranked third in total sales across the region last year.",
+          "highlight": [
+            "third in total sales"
+          ],
+          "translations": {
+            "zh-TW": "去年我們分公司在區域總銷售排名第三。"
           }
         }
       ],
@@ -188,10 +257,9 @@
         "second"
       ],
       "phrases": [
-        "third",
-        "place",
-        "third",
-        "time"
+        "third place",
+        "third party",
+        "third quarter"
       ]
     },
     {
@@ -202,44 +270,62 @@
       "toeic_score_min": 500,
       "word": "thirsty",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "thirsties"
+        "comparative": "thirstier",
+        "superlative": "thirstiest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "thirsty",
-          "definition": "a. 口渴的, 渴望的, 干燥的"
+          "definition": "adj. 口渴的、渴望的"
         }
       ],
       "examples": [
         {
-          "en": "He was very thirsty after the run.",
+          "en": "After a long field visit, the sales team was tired and thirsty.",
           "highlight": [
             "thirsty"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "長時間外出訪查後，業務團隊又累又渴。"
+          }
+        },
+        {
+          "en": "She grew thirstier the longer the customer meeting dragged on.",
+          "highlight": [
+            "thirstier"
+          ],
+          "translations": {
+            "zh-TW": "客戶會議拖得越久，她越覺得口渴。"
+          }
+        },
+        {
+          "en": "The thirstiest markets for electric vehicles are still in Northern Europe.",
+          "highlight": [
+            "The thirstiest"
+          ],
+          "translations": {
+            "zh-TW": "電動車最殷切的市場仍在北歐。"
           }
         }
       ],
       "synonyms": [
         "parched",
-        "dry"
+        "dry",
+        "eager"
       ],
       "antonyms": [
         "hydrated",
         "quenched"
       ],
       "phrases": [
-        "thirsty",
-        "work",
-        "feel",
-        "thirsty"
+        "thirsty for",
+        "thirsty work",
+        "feel thirsty"
       ]
     },
     {
@@ -261,31 +347,47 @@
         {
           "lang": "zh-TW",
           "lang_word": "thirteen",
-          "definition": "num. 十三, 十三個"
+          "definition": "num. 十三、十三個"
         }
       ],
       "examples": [
         {
-          "en": "There are thirteen apples in the basket.",
+          "en": "There are thirteen candidates shortlisted for the marketing position.",
           "highlight": [
             "thirteen"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "共有十三位候選人入圍行銷職缺。"
+          }
+        },
+        {
+          "en": "Her team has closed thirteen deals this quarter alone.",
+          "highlight": [
+            "thirteen"
+          ],
+          "translations": {
+            "zh-TW": "她的團隊光在本季就完成了十三筆交易。"
+          }
+        },
+        {
+          "en": "Touch down on floor thirteen and turn left at the reception desk.",
+          "highlight": [
+            "thirteen"
+          ],
+          "translations": {
+            "zh-TW": "到十三樓出電梯後，在櫃檯處左轉。"
           }
         }
       ],
       "synonyms": [
-        "number",
-        "13"
+        "13",
+        "a dozen plus one"
       ],
       "antonyms": [],
       "phrases": [
-        "thirteen",
-        "years",
-        "old",
-        "thirteen",
-        "items"
+        "thirteen years",
+        "thirteen items",
+        "thirteen floors"
       ]
     },
     {
@@ -307,30 +409,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "thirtieth",
-          "definition": "num. 第三十, 三十分之一"
+          "definition": "adj. 第三十的、三十分之一的  n. 第三十、三十分之一"
         }
       ],
       "examples": [
         {
-          "en": "She is celebrating her thirtieth birthday.",
+          "en": "The company will celebrate its thirtieth anniversary next spring.",
           "highlight": [
             "thirtieth"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司明年春天將歡慶成立三十週年。"
+          }
+        },
+        {
+          "en": "Today marks our thirtieth consecutive quarter of profit growth.",
+          "highlight": [
+            "thirtieth consecutive quarter"
+          ],
+          "translations": {
+            "zh-TW": "今天是我們連續第三十季獲利成長。"
+          }
+        },
+        {
+          "en": "She was the thirtieth person in line when the store opened at dawn.",
+          "highlight": [
+            "the thirtieth person"
+          ],
+          "translations": {
+            "zh-TW": "店門清晨開啟時，她是排在第三十位的顧客。"
           }
         }
       ],
       "synonyms": [
-        "number",
-        "30"
+        "30th"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "first"
+      ],
       "phrases": [
-        "thirtieth",
-        "birthday",
-        "thirtieth",
-        "anniversary"
+        "thirtieth anniversary",
+        "thirtieth birthday",
+        "thirtieth edition"
       ]
     },
     {
@@ -352,31 +472,47 @@
         {
           "lang": "zh-TW",
           "lang_word": "thirty",
-          "definition": "num. 三十, 三十個"
+          "definition": "num. 三十、三十個  n. 三十年代、三十幾歲"
         }
       ],
       "examples": [
         {
-          "en": "There are thirty students in the class.",
+          "en": "The training session is scheduled to last about thirty minutes.",
           "highlight": [
             "thirty"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "培訓課程預計進行約三十分鐘。"
+          }
+        },
+        {
+          "en": "Applicants should have at least thirty days of hands-on experience.",
+          "highlight": [
+            "at least thirty"
+          ],
+          "translations": {
+            "zh-TW": "申請人應至少具備三十天的實作經驗。"
+          }
+        },
+        {
+          "en": "Many of our senior managers are in their thirties and lead by example.",
+          "highlight": [
+            "thirties"
+          ],
+          "translations": {
+            "zh-TW": "我們許多主管正值三十多歲，以身作則帶領團隊。"
           }
         }
       ],
       "synonyms": [
-        "number",
-        "30"
+        "30",
+        "thirty units"
       ],
       "antonyms": [],
       "phrases": [
-        "thirty",
-        "years",
-        "old",
-        "thirty",
-        "pieces"
+        "thirty days",
+        "in their thirties",
+        "thirty percent"
       ]
     },
     {
@@ -396,34 +532,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "this",
-          "definition": "pron. 这, 本, a. 这, 本, adv. 这麼"
+          "definition": "pron. 這、這個  det. 這、本  adv. 這樣、如此"
         }
       ],
       "examples": [
         {
-          "en": "This is my favorite book.",
+          "en": "This is the final draft of the quarterly report for your review.",
           "highlight": [
-            "this"
+            "This"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這是季度報告的最終稿，請您過目。"
+          }
+        },
+        {
+          "en": "In this case, we recommend extending the warranty by one year.",
+          "highlight": [
+            "this case"
+          ],
+          "translations": {
+            "zh-TW": "在這種情況下，我們建議將保固延長一年。"
+          }
+        },
+        {
+          "en": "This morning the supplier confirmed the shipment will arrive on Friday.",
+          "highlight": [
+            "This morning"
+          ],
+          "translations": {
+            "zh-TW": "今天早上供應商確認貨品將於週五送達。"
           }
         }
       ],
       "synonyms": [
-        "this",
-        "one",
-        "this",
-        "here"
+        "this one",
+        "the present"
       ],
       "antonyms": [
         "that"
       ],
       "phrases": [
-        "this",
-        "one",
-        "this",
-        "time"
+        "this one",
+        "this time",
+        "this morning",
+        "this year"
       ]
     },
     {
@@ -434,44 +586,63 @@
       "toeic_score_min": 500,
       "word": "thorough",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "thoroughs"
+        "comparative": "more thorough",
+        "superlative": "most thorough"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "thorough",
-          "definition": "a. 十分的, 彻底的"
+          "definition": "adj. 徹底的、全面的、周密的"
         }
       ],
       "examples": [
         {
-          "en": "The report was thorough.",
+          "en": "The auditor did a thorough review of the company's financial records.",
           "highlight": [
             "thorough"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "稽核員對公司的財務紀錄進行了徹底審查。"
+          }
+        },
+        {
+          "en": "A more thorough background check reduced the hiring risk significantly.",
+          "highlight": [
+            "more thorough"
+          ],
+          "translations": {
+            "zh-TW": "更為周密的背景調查大幅降低了僱用風險。"
+          }
+        },
+        {
+          "en": "She is the most thorough analyst we have ever worked with on due diligence.",
+          "highlight": [
+            "the most thorough"
+          ],
+          "translations": {
+            "zh-TW": "她是我們在盡職調查中合作過最詳盡的分析師。"
           }
         }
       ],
       "synonyms": [
         "comprehensive",
-        "detailed"
+        "detailed",
+        "exhaustive"
       ],
       "antonyms": [
         "partial",
-        "superficial"
+        "superficial",
+        "cursory"
       ],
       "phrases": [
-        "thorough",
-        "investigation",
-        "thorough",
-        "understanding"
+        "thorough investigation",
+        "thorough understanding",
+        "thorough review"
       ]
     }
   ]
