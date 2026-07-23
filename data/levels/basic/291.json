@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 291,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-291-001",
@@ -20,33 +20,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "through",
-          "definition": "adv. 穿越, 从頭至尾, 到底, 因為, prep. 經過, 穿過, a. 對穿的, 直达的, 完結的"
+          "definition": "prep. 穿過、通過、經過  adv. 從頭到尾、徹底地"
         }
       ],
       "examples": [
         {
-          "en": "The train went through the tunnel.",
+          "en": "The train passed through the tunnel without stopping.",
           "highlight": [
             "through"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "火車沒有停靠，直接穿過了隧道。"
+          }
+        },
+        {
+          "en": "She read through the entire contract before signing it.",
+          "highlight": [
+            "through"
+          ],
+          "translations": {
+            "zh-TW": "她在簽字前從頭到尾讀完整份合約。"
+          }
+        },
+        {
+          "en": "We made it through the difficult quarter thanks to cost cutting.",
+          "highlight": [
+            "through"
+          ],
+          "translations": {
+            "zh-TW": "多虧了削減成本，我們熬過了那個艱困的季度。"
           }
         }
       ],
       "synonyms": [
         "across",
-        "past"
+        "past",
+        "via"
       ],
       "antonyms": [
-        "around",
-        "past"
+        "around"
       ],
       "phrases": [
-        "go",
-        "through",
-        "look",
-        "through"
+        "go through",
+        "look through",
+        "get through",
+        "through and through"
       ]
     },
     {
@@ -66,34 +84,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "throughout",
-          "definition": "adv. 到處, 贯穿全部地, 自始至终, prep. 遍及, 在各處, [计] 吞吐量"
+          "definition": "prep. 遍及、在⋯⋯各處  adv. 自始至終、到處"
         }
       ],
       "examples": [
         {
-          "en": "He traveled throughout Europe.",
+          "en": "The company has offices throughout Asia.",
           "highlight": [
             "throughout"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家公司在亞洲各地都設有辦事處。"
+          }
+        },
+        {
+          "en": "Prices remained stable throughout the year.",
+          "highlight": [
+            "throughout"
+          ],
+          "translations": {
+            "zh-TW": "物價在這一整年裡保持穩定。"
+          }
+        },
+        {
+          "en": "She remained calm throughout the negotiation.",
+          "highlight": [
+            "throughout"
+          ],
+          "translations": {
+            "zh-TW": "她在整個談判過程中始終保持冷靜。"
           }
         }
       ],
       "synonyms": [
         "everywhere",
-        "all",
-        "over"
+        "all over",
+        "around"
       ],
       "antonyms": [
         "nowhere"
       ],
       "phrases": [
-        "throughout",
-        "the",
-        "year",
-        "throughout",
-        "the"
+        "throughout the year",
+        "throughout the country",
+        "throughout the world"
       ]
     },
     {
@@ -108,44 +142,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "throwed",
-        "past_participle": "throwed",
-        "present_participle": "throwing",
-        "third_person": "throws"
+        "plural": "throws",
+        "present_3rd": "throws",
+        "past": "threw",
+        "past_participle": "thrown",
+        "ing": "throwing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "throw",
-          "definition": "vt. 投, 掷, 抛, 發射, 摔下, 匆匆穿上(或脱下), 抛弃, 摆脱, vi. 丢, 掷, 抛, n. 投掷, 掷骰子, 冒险"
+          "definition": "v. 投、擲、拋、丟  n. 投擲、一次投擲的距離"
         }
       ],
       "examples": [
         {
-          "en": "She threw the ball to him.",
+          "en": "He threw the documents on the desk and walked out.",
           "highlight": [
-            "throw"
+            "threw"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他把文件甩在桌上就走了出去。"
+          }
+        },
+        {
+          "en": "The damaged goods have been thrown away.",
+          "highlight": [
+            "thrown"
+          ],
+          "translations": {
+            "zh-TW": "受損的貨品已被丟棄。"
+          }
+        },
+        {
+          "en": "She is throwing a party to celebrate the new contract.",
+          "highlight": [
+            "throwing"
+          ],
+          "translations": {
+            "zh-TW": "她正在籌辦一場派對來慶祝新合約的簽訂。"
           }
         }
       ],
       "synonyms": [
         "toss",
-        "hurl"
+        "hurl",
+        "fling"
       ],
       "antonyms": [
         "catch",
         "keep"
       ],
       "phrases": [
-        "throw",
-        "a",
-        "ball",
-        "throw",
-        "away"
+        "throw away",
+        "throw a party",
+        "throw light on",
+        "throw up"
       ]
     },
     {
@@ -160,40 +213,59 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "thumbed",
+        "plural": "thumbs",
+        "present_3rd": "thumbs",
+        "past": "thumbed",
         "past_participle": "thumbed",
-        "present_participle": "thumbing",
-        "third_person": "thumbs"
+        "ing": "thumbing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "thumb",
-          "definition": "n. 拇指, vt. 以拇指拨弄, 笨拙地摆弄, 用拇指翻旧, 迅速翻阅, 作搭車手势"
+          "definition": "n. 拇指  v. 用拇指翻動、搭便車"
         }
       ],
       "examples": [
         {
-          "en": "She gave a thumbs-up to show her approval.",
+          "en": "He gave a thumbs-up to show his approval.",
+          "highlight": [
+            "thumbs-up"
+          ],
+          "translations": {
+            "zh-TW": "他竪起大拇指表示贊同。"
+          }
+        },
+        {
+          "en": "She thumbed through the report during the train ride.",
+          "highlight": [
+            "thumbed"
+          ],
+          "translations": {
+            "zh-TW": "她在搭火車時快速翻閱了那份報告。"
+          }
+        },
+        {
+          "en": "The rule of thumb is to reply within 24 hours.",
           "highlight": [
             "thumb"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經驗法則是在 24 小時內回覆。"
           }
         }
       ],
       "synonyms": [
         "digit",
-        "appendage"
+        "finger"
       ],
       "antonyms": [],
       "phrases": [
-        "thumbs",
-        "up",
-        "green",
-        "thumb"
+        "thumbs-up",
+        "rule of thumb",
+        "green thumb",
+        "thumb through"
       ]
     },
     {
@@ -202,39 +274,59 @@
       "tier": "basic",
       "cefr": "A2",
       "toeic_score_min": 500,
-      "word": "thursday",
+      "word": "Thursday",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "thursdaies"
+        "plural": "Thursdays"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "thursday",
-          "definition": "n. 星期四"
+          "lang_word": "Thursday",
+          "definition": "n. 星期四、週四"
         }
       ],
       "examples": [
         {
-          "en": "We have a meeting on Thursday.",
+          "en": "The department meeting is scheduled for Thursday morning.",
           "highlight": [
-            "thursday"
+            "Thursday"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "部門會議安排在星期四上午。"
+          }
+        },
+        {
+          "en": "She works late on Thursdays to finish the weekly report.",
+          "highlight": [
+            "Thursdays"
+          ],
+          "translations": {
+            "zh-TW": "她每週四都加班完成週報。"
+          }
+        },
+        {
+          "en": "We expect the shipment to arrive this Thursday.",
+          "highlight": [
+            "Thursday"
+          ],
+          "translations": {
+            "zh-TW": "我們預期貨物會在本週四送達。"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Thurs"
+      ],
       "antonyms": [],
       "phrases": [
-        "Thursday",
-        "morning",
-        "on",
-        "Thursday"
+        "on Thursday",
+        "Thursday morning",
+        "this Thursday",
+        "Thursday afternoon"
       ]
     },
     {
@@ -253,32 +345,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "thus",
-          "definition": "adv. 如此, 因此, 到如此程度, [医] 乳香"
+          "definition": "adv. 因此、如此、從而"
         }
       ],
       "examples": [
         {
-          "en": "He didn't study, thus he failed the exam.",
+          "en": "Sales dropped sharply; thus, the company cut its forecast.",
           "highlight": [
             "thus"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "營收大幅下滑，因此公司下修了預測。"
+          }
+        },
+        {
+          "en": "The new policy was implemented, thus reducing overhead costs.",
+          "highlight": [
+            "thus"
+          ],
+          "translations": {
+            "zh-TW": "新政策已實施，從而降低了營運成本。"
+          }
+        },
+        {
+          "en": "Thus far, no complaints have been received from customers.",
+          "highlight": [
+            "thus"
+          ],
+          "translations": {
+            "zh-TW": "到目前為止，尚未收到任何顧客的投訴。"
           }
         }
       ],
       "synonyms": [
         "therefore",
-        "hence"
+        "hence",
+        "accordingly"
       ],
-      "antonyms": [
-        "because",
-        "since"
-      ],
+      "antonyms": [],
       "phrases": [
-        "thus",
-        "far",
-        "thusly"
+        "thus far",
+        "thus creating",
+        "and thus"
       ]
     },
     {
@@ -293,40 +401,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "ticketed",
+        "plural": "tickets",
+        "present_3rd": "tickets",
+        "past": "ticketed",
         "past_participle": "ticketed",
-        "present_participle": "ticketing",
-        "third_person": "tickets"
+        "ing": "ticketing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "ticket",
-          "definition": "n. 票, 券, 車票, 标签, 入場券, 证明書, vt. 加标签于, 為...购票"
+          "definition": "n. 票、車票、入場券、罰單  v. 開罰單、加標籤"
         }
       ],
       "examples": [
         {
-          "en": "She bought a ticket for the concert.",
+          "en": "She bought a one-way ticket to Tokyo for the business trip.",
           "highlight": [
             "ticket"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她買了一張去東京出差的單程機票。"
+          }
+        },
+        {
+          "en": "The delivery truck was ticketed for parking in a loading zone.",
+          "highlight": [
+            "ticketed"
+          ],
+          "translations": {
+            "zh-TW": "那輛貨車因停在裝卸區而被開了罰單。"
+          }
+        },
+        {
+          "en": "The airline's ticketing system crashed during the holiday rush.",
+          "highlight": [
+            "ticketing"
+          ],
+          "translations": {
+            "zh-TW": "航空公司的購票系統在假日高峰期當機了。"
           }
         }
       ],
       "synonyms": [
         "pass",
-        "stub"
+        "voucher",
+        "coupon"
       ],
       "antonyms": [],
       "phrases": [
-        "train",
-        "ticket",
-        "parking",
-        "ticket"
+        "train ticket",
+        "parking ticket",
+        "plane ticket",
+        "buy a ticket"
       ]
     },
     {
@@ -341,43 +469,65 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "tidyed",
-        "past_participle": "tidyed",
-        "present_participle": "tidying",
-        "third_person": "tidys"
+        "plural": "tidies",
+        "present_3rd": "tidies",
+        "past": "tidied",
+        "past_participle": "tidied",
+        "ing": "tidying",
+        "comparative": "tidier",
+        "superlative": "tidiest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tidy",
-          "definition": "n. 椅子的背罩, 装杂物的容器, a. 整齐的, 有条理的, vt. 弄整齐, 收拾, 整理, vi. 整理, 收拾"
+          "definition": "adj. 整齊的、有條理的  v. 整理、收拾"
         }
       ],
       "examples": [
         {
-          "en": "Her room is always tidy.",
+          "en": "Please keep your workspace tidy before clients arrive.",
           "highlight": [
             "tidy"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "客戶到達前，請保持您的工作區整齊。"
+          }
+        },
+        {
+          "en": "She tidied the conference room after the meeting ended.",
+          "highlight": [
+            "tidied"
+          ],
+          "translations": {
+            "zh-TW": "會議結束後她把會議室收拾整齊。"
+          }
+        },
+        {
+          "en": "Her desk is the tidiest one in the whole office.",
+          "highlight": [
+            "tidiest"
+          ],
+          "translations": {
+            "zh-TW": "她的辦公桌是全辦公室裡最整齊的。"
           }
         }
       ],
       "synonyms": [
         "neat",
-        "orderly"
+        "orderly",
+        "trim"
       ],
       "antonyms": [
         "untidy",
         "messy"
       ],
       "phrases": [
-        "keep",
-        "tidy",
-        "tidy",
-        "up"
+        "keep tidy",
+        "tidy up",
+        "tidy away",
+        "tidy room"
       ]
     },
     {
@@ -392,44 +542,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "tieed",
-        "past_participle": "tieed",
-        "present_participle": "tiing",
-        "third_person": "ties"
+        "plural": "ties",
+        "present_3rd": "ties",
+        "past": "tied",
+        "past_participle": "tied",
+        "ing": "tying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tie",
-          "definition": "n. 帶子, 线, 鞋帶, 领帶, 领結, 關系, 束缚, 平局, 不分胜负, vt. 系, 打結, 扎, 约束, 與...成平局, vi. 結合, 打結, 不分胜负"
+          "definition": "v. 繫、綁、打結、與⋯⋯平手  n. 領帶、繫帶、平局、關係"
         }
       ],
       "examples": [
         {
-          "en": "He tied the package with string.",
+          "en": "He tied his shoelaces before heading to the client meeting.",
           "highlight": [
-            "tie"
+            "tied"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他在去見客戶前繫好鞋帶。"
+          }
+        },
+        {
+          "en": "The two candidates tied for first place in the sales contest.",
+          "highlight": [
+            "tied"
+          ],
+          "translations": {
+            "zh-TW": "兩位候選人在業績競賽中並列第一。"
+          }
+        },
+        {
+          "en": "She is tying the ribbon around the gift box now.",
+          "highlight": [
+            "tying"
+          ],
+          "translations": {
+            "zh-TW": "她正在把緞帶繫在禮盒上。"
           }
         }
       ],
       "synonyms": [
         "bind",
-        "fasten"
+        "fasten",
+        "attach"
       ],
       "antonyms": [
         "untie",
-        "unfasten"
+        "unfasten",
+        "loosen"
       ],
       "phrases": [
-        "tie",
-        "a",
-        "knot",
-        "tie",
-        "together"
+        "tie a knot",
+        "tie up",
+        "tie the knot",
+        "necktie"
       ]
     },
     {
@@ -441,46 +611,64 @@
       "word": "tight",
       "pos": [
         "adjective",
-        "verb"
+        "adverb"
       ],
       "conjugations": {
-        "past_tense": "tighted",
-        "past_participle": "tighted",
-        "present_participle": "tighting",
-        "third_person": "tights"
+        "comparative": "tighter",
+        "superlative": "tightest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tight",
-          "definition": "a. 紧的, 密封的, 吝啬的, 严厉的, adv. 紧紧地"
+          "definition": "adj. 緊的、牢固的、嚴格的、資金緊張的  adv. 緊緊地"
         }
       ],
       "examples": [
         {
-          "en": "The lid was on tight.",
+          "en": "The deadline for this project is very tight.",
           "highlight": [
             "tight"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這個專案的截止時間非常緊迫。"
+          }
+        },
+        {
+          "en": "Money has been tighter this quarter due to rising costs.",
+          "highlight": [
+            "tighter"
+          ],
+          "translations": {
+            "zh-TW": "由於成本上升，本季資金更吃緊了。"
+          }
+        },
+        {
+          "en": "Keep the lid tight to prevent the contents from spilling.",
+          "highlight": [
+            "tight"
+          ],
+          "translations": {
+            "zh-TW": "把蓋子蓋緊以防止內容物灑出。"
           }
         }
       ],
       "synonyms": [
         "secure",
-        "fast"
+        "firm",
+        "strict"
       ],
       "antonyms": [
         "loose",
-        "slack"
+        "slack",
+        "relaxed"
       ],
       "phrases": [
-        "tight",
-        "grip",
-        "tight",
-        "fit"
+        "tight deadline",
+        "tight budget",
+        "tighten up",
+        "sit tight"
       ]
     }
   ]
