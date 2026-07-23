@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 297,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-297-001",
@@ -11,44 +11,66 @@
       "toeic_score_min": 500,
       "word": "translate",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "translateed",
-        "past_participle": "translateed",
-        "present_participle": "translating",
-        "third_person": "translates"
+        "plural": "translates",
+        "present_3rd": "translates",
+        "past": "translated",
+        "past_participle": "translated",
+        "ing": "translating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "translate",
-          "definition": "vt. 翻译, 解释, 转化, 转变為, 调動, vi. 翻译, 被译, [计] 转换"
+          "definition": "v. 翻譯、轉化、解釋"
         }
       ],
       "examples": [
         {
-          "en": "He translated the book from French to English.",
+          "en": "She translates legal documents from English to Japanese for a Tokyo law firm.",
           "highlight": [
-            "translate"
+            "translates"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她為東京一家律師事務所將英文法律文件翻譯成日文。"
+          }
+        },
+        {
+          "en": "The interpreter translated the CEO's speech simultaneously during the conference.",
+          "highlight": [
+            "translated"
+          ],
+          "translations": {
+            "zh-TW": "會議期間，口譯員同步翻譯了執行長的演講。"
+          }
+        },
+        {
+          "en": "He is translating the marketing brochure into three European languages.",
+          "highlight": [
+            "translating"
+          ],
+          "translations": {
+            "zh-TW": "他正在將行銷手冊翻譯成三種歐洲語言。"
           }
         }
       ],
       "synonyms": [
         "interpret",
-        "convert"
+        "convert",
+        "render"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "misinterpret",
+        "confuse"
+      ],
       "phrases": [
-        "translate",
-        "into",
-        "translate",
-        "from"
+        "translate into",
+        "translate from",
+        "machine translation",
+        "lost in translation"
       ]
     },
     {
@@ -59,44 +81,62 @@
       "toeic_score_min": 500,
       "word": "translation",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "translationed",
-        "past_participle": "translationed",
-        "present_participle": "translationing",
-        "third_person": "translations"
+        "plural": "translations"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "translation",
-          "definition": "n. 翻译, 译文, 转化, 调任, 平移, 转译, [计] 转换"
+          "definition": "n. 翻譯、譯文、轉換"
         }
       ],
       "examples": [
         {
-          "en": "The translation of the novel took a year.",
+          "en": "The translation of the novel took two years and won a literary award.",
           "highlight": [
             "translation"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這本小說的翻譯花了兩年時間，並獲得文學獎。"
+          }
+        },
+        {
+          "en": "Professional translations of technical manuals require specialized vocabulary.",
+          "highlight": [
+            "translations"
+          ],
+          "translations": {
+            "zh-TW": "技術手冊的專業翻譯需要專業詞彙。"
+          }
+        },
+        {
+          "en": "The company offers free translation services for international clients on request.",
+          "highlight": [
+            "translation"
+          ],
+          "translations": {
+            "zh-TW": "該公司應國際客戶要求提供免費翻譯服務。"
           }
         }
       ],
       "synonyms": [
         "interpretation",
+        "rendering",
         "conversion"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "original",
+        "source text"
+      ],
       "phrases": [
-        "accurate",
-        "translation",
-        "translation",
-        "service"
+        "accurate translation",
+        "poor translation",
+        "in translation",
+        "translation agency"
       ]
     },
     {
@@ -110,41 +150,61 @@
         "adjective"
       ],
       "conjugations": {
-        "comparative": "transparenter",
-        "superlative": "transparentest"
+        "comparative": "more transparent",
+        "superlative": "most transparent"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "transparent",
-          "definition": "a. 透明的, 顯然的, 清晰的, [计] 透明"
+          "definition": "adj. 透明的、清晰的、明確的"
         }
       ],
       "examples": [
         {
-          "en": "The glass is transparent.",
+          "en": "The company's pricing policy is transparent, with no hidden fees for customers.",
           "highlight": [
             "transparent"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "該公司的定價政策透明，對客戶沒有隱藏費用。"
+          }
+        },
+        {
+          "en": "A more transparent management style helped rebuild employee trust after the scandal.",
+          "highlight": [
+            "more transparent"
+          ],
+          "translations": {
+            "zh-TW": "更透明的管理風格有助於在醜聞後重建員工的信任。"
+          }
+        },
+        {
+          "en": "This is the most transparent report the audit team has produced in five years.",
+          "highlight": [
+            "most transparent"
+          ],
+          "translations": {
+            "zh-TW": "這是稽核團隊五年來提出最透明的報告。"
           }
         }
       ],
       "synonyms": [
         "clear",
-        "see-through"
+        "see-through",
+        "obvious"
       ],
       "antonyms": [
         "opaque",
-        "cloudy"
+        "cloudy",
+        "vague"
       ],
       "phrases": [
-        "transparent",
-        "glass",
-        "transparent",
-        "policy"
+        "transparent pricing",
+        "transparent process",
+        "fully transparent",
+        "transparent glass"
       ]
     },
     {
@@ -159,40 +219,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "transported",
+        "plural": "transports",
+        "present_3rd": "transports",
+        "past": "transported",
         "past_participle": "transported",
-        "present_participle": "transporting",
-        "third_person": "transports"
+        "ing": "transporting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "transport",
-          "definition": "n. 運输, 運输工具, 激動, 狂喜, 流放犯, vt. 传送, 運输, 流放, [计] 传送"
+          "definition": "n. 運輸、交通工具  v. 運送、運輸"
         }
       ],
       "examples": [
         {
-          "en": "They transport goods by truck.",
+          "en": "The logistics company transports fresh produce to supermarkets every morning.",
           "highlight": [
-            "transport"
+            "transports"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家物流公司每天早上將生鮮農產品運送到超市。"
+          }
+        },
+        {
+          "en": "Millions of barrels of oil were transported across the ocean by tanker ships.",
+          "highlight": [
+            "transported"
+          ],
+          "translations": {
+            "zh-TW": "數百萬桶石油由油輪運送越過海洋。"
+          }
+        },
+        {
+          "en": "The firm is transporting construction materials to the site overnight to avoid traffic.",
+          "highlight": [
+            "transporting"
+          ],
+          "translations": {
+            "zh-TW": "該公司夜間運送建材到工地以避開交通壅塞。"
           }
         }
       ],
       "synonyms": [
         "carry",
-        "convey"
+        "convey",
+        "ship"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "hold",
+        "keep"
+      ],
       "phrases": [
-        "transport",
-        "goods",
-        "transport",
-        "passengers"
+        "public transport",
+        "transport goods",
+        "transport system",
+        "means of transport"
       ]
     },
     {
@@ -203,41 +286,59 @@
       "toeic_score_min": 500,
       "word": "transportation",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "transportationed",
-        "past_participle": "transportationed",
-        "present_participle": "transportationing",
-        "third_person": "transportations"
+        "plural": "transportations"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "transportation",
-          "definition": "n. 運输, 输送, 交通車辆, [經] 運转, 運输, 運输费"
+          "definition": "n. 運輸、交通、運送"
         }
       ],
       "examples": [
         {
-          "en": "Public transportation is efficient in the city.",
+          "en": "Public transportation in Tokyo is efficient, punctual, and covers the entire city.",
           "highlight": [
             "transportation"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "東京的大眾運輸高效、準時，涵蓋整座城市。"
+          }
+        },
+        {
+          "en": "Transportation costs have risen sharply due to higher fuel prices this quarter.",
+          "highlight": [
+            "Transportation"
+          ],
+          "translations": {
+            "zh-TW": "由於本季油價上漲，運輸成本大幅攀升。"
+          }
+        },
+        {
+          "en": "The factory relocated closer to the port to reduce transportation expenses.",
+          "highlight": [
+            "transportation"
+          ],
+          "translations": {
+            "zh-TW": "工廠遷至港口附近以降低運輸費用。"
           }
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "transit",
+        "shipping",
+        "conveyance"
+      ],
       "antonyms": [],
       "phrases": [
-        "public",
-        "transportation",
-        "transportation",
-        "system"
+        "public transportation",
+        "transportation costs",
+        "transportation system",
+        "means of transportation"
       ]
     },
     {
@@ -252,44 +353,64 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "traped",
-        "past_participle": "traped",
-        "present_participle": "traping",
-        "third_person": "traps"
+        "plural": "traps",
+        "present_3rd": "traps",
+        "past": "trapped",
+        "past_participle": "trapped",
+        "ing": "trapping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "trap",
-          "definition": "n. 圈套, 陷阱, 诡计, 存水弯, vi. 设圈套, 设陷阱, vt. 诱捕, 诱骗, 抓住, 使受限制, [计] 俘获; 陷井"
+          "definition": "n. 陷阱、圈套  v. 誘捕、使陷入"
         }
       ],
       "examples": [
         {
-          "en": "The hunter set a trap for the fox.",
+          "en": "The salesperson set a trap by offering a deal too good to be true.",
           "highlight": [
             "trap"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "業務員設下陷阱，提出好到令人難以置信的交易。"
+          }
+        },
+        {
+          "en": "Several workers were trapped in the elevator when the power failed during the storm.",
+          "highlight": [
+            "trapped"
+          ],
+          "translations": {
+            "zh-TW": "暴風雨期間停電，數名工人被困在電梯裡。"
+          }
+        },
+        {
+          "en": "The detective is trapping suspects by recording their phone conversations.",
+          "highlight": [
+            "trapping"
+          ],
+          "translations": {
+            "zh-TW": "偵探正透過錄音通話內容來誘捕嫌疑人。"
           }
         }
       ],
       "synonyms": [
         "snare",
-        "lure"
+        "lure",
+        "pitfall"
       ],
       "antonyms": [
         "release",
-        "free"
+        "free",
+        "liberate"
       ],
       "phrases": [
-        "mouse",
-        "trap",
-        "fall",
-        "into",
-        "a"
+        "fall into a trap",
+        "set a trap",
+        "tourist trap",
+        "trap door"
       ]
     },
     {
@@ -304,43 +425,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "traveled",
+        "plural": "travels",
+        "present_3rd": "travels",
+        "past": "traveled",
         "past_participle": "traveled",
-        "present_participle": "traveling",
-        "third_person": "travels"
+        "ing": "traveling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "travel",
-          "definition": "n. 旅行, 游歷, 行进, vi. 旅行, 行进, 移動, 被传播, vt. 旅行, 通過, 使移動"
+          "definition": "n. 旅行、遊歷  v. 旅行、行進"
         }
       ],
       "examples": [
         {
-          "en": "She loves to travel around the world.",
+          "en": "She travels to Singapore every month for regional sales meetings.",
           "highlight": [
-            "travel"
+            "travels"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她每個月出差到新加坡參加區域銷售會議。"
+          }
+        },
+        {
+          "en": "The delegation traveled to five European countries in ten days last summer.",
+          "highlight": [
+            "traveled"
+          ],
+          "translations": {
+            "zh-TW": "去年夏天，代表團在十天內走訪了五個歐洲國家。"
+          }
+        },
+        {
+          "en": "He is traveling on business when the merger announcement was made public.",
+          "highlight": [
+            "traveling"
+          ],
+          "translations": {
+            "zh-TW": "合併消息公布時，他正在出差途中。"
           }
         }
       ],
       "synonyms": [
         "journey",
-        "voyage"
+        "voyage",
+        "commute"
       ],
       "antonyms": [
         "stay",
         "remain"
       ],
       "phrases": [
-        "travel",
-        "abroad",
-        "travel",
-        "plans"
+        "travel abroad",
+        "travel expenses",
+        "travel agent",
+        "business travel"
       ]
     },
     {
@@ -351,47 +492,63 @@
       "toeic_score_min": 500,
       "word": "traveller",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "travellered",
-        "past_participle": "travellered",
-        "present_participle": "travellering",
-        "third_person": "travellers"
+        "plural": "travellers"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "traveller",
-          "definition": "n. 旅行者, [經] 旅行商"
+          "definition": "n. 旅行者、旅客"
         }
       ],
       "examples": [
         {
-          "en": "The traveller shared his stories.",
+          "en": "The frequent traveller had enough miles to upgrade to first class on the flight.",
           "highlight": [
             "traveller"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位常客旅客的里程數足以將該航班升等至頭等艙。"
+          }
+        },
+        {
+          "en": "Business travellers can use the airport lounge while waiting for connecting flights.",
+          "highlight": [
+            "travellers"
+          ],
+          "translations": {
+            "zh-TW": "商務旅客可以在機場貴賓室等待轉機。"
+          }
+        },
+        {
+          "en": "Each traveller must present a valid passport before boarding the international ferry.",
+          "highlight": [
+            "traveller"
+          ],
+          "translations": {
+            "zh-TW": "每位旅客登上海際渡輪前須出示有效護照。"
           }
         }
       ],
       "synonyms": [
         "tourist",
-        "visitor"
+        "visitor",
+        "passenger"
       ],
       "antonyms": [
         "resident",
-        "homebody"
+        "homebody",
+        "local"
       ],
       "phrases": [
-        "frequent",
-        "traveller",
-        "fellow",
-        "traveller"
+        "frequent traveller",
+        "business traveller",
+        "fellow traveller",
+        "solo traveller"
       ]
     },
     {
@@ -406,44 +563,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "treated",
+        "plural": "treats",
+        "present_3rd": "treats",
+        "past": "treated",
         "past_participle": "treated",
-        "present_participle": "treating",
-        "third_person": "treats"
+        "ing": "treating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "treat",
-          "definition": "n. 宴請, 款待, vt. 视為, 對待, 论述, 治疗, 款待, vi. 讨论, 谈判, 作东"
+          "definition": "n. 款待、樂事  v. 對待、治療、處理"
         }
       ],
       "examples": [
         {
-          "en": "He treats everyone with respect.",
+          "en": "The manager treats every employee fairly regardless of seniority or background.",
           "highlight": [
-            "treat"
+            "treats"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理公平對待每位員工，無論年資或背景。"
+          }
+        },
+        {
+          "en": "The client was treated to a welcome dinner at a five-star restaurant downtown.",
+          "highlight": [
+            "treated"
+          ],
+          "translations": {
+            "zh-TW": "客戶被招待到市中心一家五星級餐廳享用迎賓晚餐。"
+          }
+        },
+        {
+          "en": "The doctor is treating the patient with a new experimental therapy for arthritis.",
+          "highlight": [
+            "treating"
+          ],
+          "translations": {
+            "zh-TW": "醫生正以新的實驗療法治療該病人的關節炎。"
           }
         }
       ],
       "synonyms": [
         "handle",
-        "deal",
-        "with"
+        "deal with",
+        "cure"
       ],
       "antonyms": [
         "mistreat",
-        "ignore"
+        "ignore",
+        "neglect"
       ],
       "phrases": [
-        "treat",
-        "well",
-        "treat",
-        "fairly"
+        "treat someone to",
+        "treat fairly",
+        "medical treat",
+        "treat with respect"
       ]
     },
     {
@@ -454,47 +631,62 @@
       "toeic_score_min": 500,
       "word": "treatment",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "treatmented",
-        "past_participle": "treatmented",
-        "present_participle": "treatmenting",
-        "third_person": "treatments"
+        "plural": "treatments"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "treatment",
-          "definition": "n. 治疗, 待遇, 處理, [医] 疗法, 治疗; 處理"
+          "definition": "n. 治療、待遇、處理方式"
         }
       ],
       "examples": [
         {
-          "en": "The treatment was effective.",
+          "en": "The medical treatment requires three months of weekly sessions at the clinic.",
           "highlight": [
             "treatment"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這項醫療治療需要在診所進行三個月、每週一次的療程。"
+          }
+        },
+        {
+          "en": "Several new treatments for skin cancer have been approved by the health authority.",
+          "highlight": [
+            "treatments"
+          ],
+          "translations": {
+            "zh-TW": "衛生主管機關已核准數種治療皮膚癌的新療法。"
+          }
+        },
+        {
+          "en": "Customers complained about unfair treatment from the store's return policy staff.",
+          "highlight": [
+            "treatment"
+          ],
+          "translations": {
+            "zh-TW": "顧客投訴該店退貨政策的員工對他們待遇不公。"
           }
         }
       ],
       "synonyms": [
         "care",
-        "therapy"
+        "therapy",
+        "handling"
       ],
       "antonyms": [
         "neglect",
         "disregard"
       ],
       "phrases": [
-        "medical",
-        "treatment",
-        "special",
-        "treatment"
+        "medical treatment",
+        "special treatment",
+        "unfair treatment",
+        "cancer treatment"
       ]
     }
   ]
