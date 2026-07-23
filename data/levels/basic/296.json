@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 296,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-296-001",
@@ -15,40 +15,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "tracked",
+        "plural": "tracks",
+        "present_3rd": "tracks",
+        "past": "tracked",
         "past_participle": "tracked",
-        "present_participle": "tracking",
-        "third_person": "tracks"
+        "ing": "tracking"
       },
-      "domain": "general",
+      "domain": "logistics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "track",
-          "definition": "n. 轨迹, 足迹, 径迹, 小道, 轨道, 磁轨, 途径, vt. 循路而行, 追踪, 通過, 用纤拉, vi. 追踪, 留下足迹, 沿轨道運行, [计] 跟踪"
+          "definition": "n. 軌道、路線、足跡、追蹤  v. 追蹤、追查、監測"
         }
       ],
       "examples": [
         {
-          "en": "They followed a narrow track through the woods.",
+          "en": "The courier company lets you track your package in real time.",
           "highlight": [
             "track"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家快遞公司讓你能即時追蹤包裹的配送狀態。"
+          }
+        },
+        {
+          "en": "The logistics team tracked every shipment from the warehouse to the customer.",
+          "highlight": [
+            "tracked"
+          ],
+          "translations": {
+            "zh-TW": "物流團隊追蹤了每一件從倉庫送到客戶手中的貨物。"
+          }
+        },
+        {
+          "en": "The new software is tracking delivery times to identify bottlenecks.",
+          "highlight": [
+            "tracking"
+          ],
+          "translations": {
+            "zh-TW": "新軟體正在追蹤配送時間，以找出作業流程中的瓶頸。"
           }
         }
       ],
       "synonyms": [
-        "path",
-        "trail"
+        "trace",
+        "monitor",
+        "follow"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "ignore",
+        "lose"
+      ],
       "phrases": [
-        "dirt",
-        "track",
-        "race",
-        "track"
+        "track record",
+        "keep track of",
+        "track down",
+        "on the right track"
       ]
     },
     {
@@ -63,40 +86,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "tradeed",
-        "past_participle": "tradeed",
-        "present_participle": "trading",
-        "third_person": "trades"
+        "plural": "trades",
+        "present_3rd": "trades",
+        "past": "traded",
+        "past_participle": "traded",
+        "ing": "trading"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "trade",
-          "definition": "n. 贸易, 商业, 交易, 生意, 职业, 顾客, 信風, vi. 进行交易, 做買賣, 經商, 對换, 购物, vt. 用...进行交换"
+          "definition": "n. 貿易、交易、行業  v. 交易、買賣、經商"
         }
       ],
       "examples": [
         {
-          "en": "The trade between the two countries increased.",
+          "en": "Free trade between the two nations has boosted exports significantly.",
           "highlight": [
             "trade"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "兩國之間的自由貿易大幅提升了出口量。"
+          }
+        },
+        {
+          "en": "The company traded its surplus equipment for additional warehouse space.",
+          "highlight": [
+            "traded"
+          ],
+          "translations": {
+            "zh-TW": "公司用多餘的設備換取了額外的倉庫空間。"
+          }
+        },
+        {
+          "en": "Our firm has been trading with Asian suppliers for over a decade.",
+          "highlight": [
+            "trading"
+          ],
+          "translations": {
+            "zh-TW": "我們公司與亞洲供應商的貿易往來已超過十年。"
           }
         }
       ],
       "synonyms": [
         "commerce",
-        "exchange"
+        "exchange",
+        "deal"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "boycott",
+        "embargo"
+      ],
       "phrases": [
-        "international",
-        "trade",
-        "trade",
-        "agreements"
+        "international trade",
+        "trade agreement",
+        "trade show",
+        "fair trade"
       ]
     },
     {
@@ -107,44 +153,60 @@
       "toeic_score_min": 500,
       "word": "trading",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
-      "conjugations": {
-        "past_tense": "tradinged",
-        "past_participle": "tradinged",
-        "present_participle": "tradinging",
-        "third_person": "tradings"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "finance",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "trading",
-          "definition": "[經] 交易"
+          "definition": "n. 交易、買賣（尤指金融商品或證券的）"
         }
       ],
       "examples": [
         {
-          "en": "He is involved in trading stocks.",
+          "en": "Online trading has grown rapidly among retail investors.",
           "highlight": [
             "trading"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "線上交易在散戶投資人之間迅速成長。"
+          }
+        },
+        {
+          "en": "Day trading involves buying and selling securities within the same session.",
+          "highlight": [
+            "trading"
+          ],
+          "translations": {
+            "zh-TW": "當沖交易是指在同一個交易日內買進並賣出證券。"
+          }
+        },
+        {
+          "en": "Insider trading is strictly prohibited by financial regulators.",
+          "highlight": [
+            "trading"
+          ],
+          "translations": {
+            "zh-TW": "內線交易受到金融監管機關的嚴格禁止。"
           }
         }
       ],
       "synonyms": [
-        "business",
-        "commerce"
+        "dealing",
+        "exchange",
+        "transaction"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "investment",
+        "holding"
+      ],
       "phrases": [
-        "stock",
-        "trading",
-        "trading",
-        "platform"
+        "trading day",
+        "trading platform",
+        "insider trading",
+        "trading volume"
       ]
     },
     {
@@ -158,41 +220,61 @@
         "adjective"
       ],
       "conjugations": {
-        "comparative": "traditionaler",
-        "superlative": "traditionalest"
+        "comparative": "more traditional",
+        "superlative": "most traditional"
       },
-      "domain": "general",
+      "domain": "culture",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "traditional",
-          "definition": "a. 传统的, 惯例的, [經] 传统的, 惯例的"
+          "definition": "adj. 傳統的、慣例的、因襲的"
         }
       ],
       "examples": [
         {
-          "en": "They have traditional values.",
+          "en": "The bank offers both online banking and traditional teller services.",
           "highlight": [
             "traditional"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家銀行同時提供線上銀行與傳統櫃員服務。"
+          }
+        },
+        {
+          "en": "Customers in rural areas tend to be more traditional in their payment habits.",
+          "highlight": [
+            "more traditional"
+          ],
+          "translations": {
+            "zh-TW": "鄉村地區的客戶在付款習慣上往往更趨傳統。"
+          }
+        },
+        {
+          "en": "Japanese business etiquette remains the most traditional in the region.",
+          "highlight": [
+            "most traditional"
+          ],
+          "translations": {
+            "zh-TW": "日本的商務禮儀仍是該地區中最為傳統的。"
           }
         }
       ],
       "synonyms": [
         "conventional",
-        "customary"
+        "customary",
+        "classic"
       ],
       "antonyms": [
         "modern",
-        "contemporary"
+        "contemporary",
+        "innovative"
       ],
       "phrases": [
-        "traditional",
-        "clothing",
-        "traditional",
-        "music"
+        "traditional values",
+        "traditional market",
+        "traditional medicine",
+        "traditional method"
       ]
     },
     {
@@ -211,30 +293,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "traditionally",
-          "definition": "adv. 传统上；传說上；习惯上"
+          "definition": "adv. 傳統上、習慣上、向來"
         }
       ],
       "examples": [
         {
-          "en": "Traditionally, the festival is held in spring.",
+          "en": "Traditionally, companies release their annual reports in the first quarter.",
           "highlight": [
             "traditionally"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "傳統上，公司會在第一季發布年度報告。"
+          }
+        },
+        {
+          "en": "The retail sector has traditionally relied on holiday sales for most of its revenue.",
+          "highlight": [
+            "traditionally"
+          ],
+          "translations": {
+            "zh-TW": "零售業向來依賴節慶銷售作為營收的主要來源。"
+          }
+        },
+        {
+          "en": "Traditionally grown tea commands a higher price than mass-produced varieties.",
+          "highlight": [
+            "traditionally"
+          ],
+          "translations": {
+            "zh-TW": "以傳統方式栽種的茶葉，其售價高於量產茶葉。"
           }
         }
       ],
       "synonyms": [
         "typically",
-        "usually"
+        "usually",
+        "customarily"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "unusually",
+        "innovatively"
+      ],
       "phrases": [
-        "traditionally",
-        "known",
-        "traditionally",
-        "made"
+        "traditionally prepared",
+        "traditionally made",
+        "traditionally known"
       ]
     },
     {
@@ -249,40 +352,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "trafficed",
-        "past_participle": "trafficed",
-        "present_participle": "trafficing",
-        "third_person": "traffics"
+        "plural": "traffics",
+        "present_3rd": "traffics",
+        "past": "trafficked",
+        "past_participle": "trafficked",
+        "ing": "trafficking"
       },
-      "domain": "general",
+      "domain": "transportation",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "traffic",
-          "definition": "n. 交通, 通行, 運输, 交通量, 贸易, 交易, 交往, 通信量, vi. 交易, 做買賣, vt. 用...作交换, [计] 通信量, 传输量"
+          "definition": "n. 交通、交通流量、來往  v. 非法交易（尤指違禁品）"
         }
       ],
       "examples": [
         {
-          "en": "The traffic was heavy this morning.",
+          "en": "Rush-hour traffic in the city center delayed the delivery trucks.",
           "highlight": [
             "traffic"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "市區的尖峰時段交通讓送貨卡車延誤了。"
+          }
+        },
+        {
+          "en": "The website traffics in pirated software and counterfeit goods.",
+          "highlight": [
+            "traffics"
+          ],
+          "translations": {
+            "zh-TW": "這個網站專門從事盜版軟體與仿冒品的不法交易。"
+          }
+        },
+        {
+          "en": "The cartel was caught trafficking illegal goods across the border.",
+          "highlight": [
+            "trafficking"
+          ],
+          "translations": {
+            "zh-TW": "該犯罪集團因在邊界走私非法貨物被查獲。"
           }
         }
       ],
       "synonyms": [
         "congestion",
-        "vehicles"
+        "movement",
+        "flow"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "tranquility",
+        "emptiness"
+      ],
       "phrases": [
-        "heavy",
-        "traffic",
-        "traffic",
-        "jam"
+        "traffic jam",
+        "heavy traffic",
+        "traffic flow",
+        "web traffic"
       ]
     },
     {
@@ -297,40 +423,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "trained",
+        "plural": "trains",
+        "present_3rd": "trains",
+        "past": "trained",
         "past_participle": "trained",
-        "present_participle": "training",
-        "third_person": "trains"
+        "ing": "training"
       },
-      "domain": "general",
+      "domain": "transportation",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "train",
-          "definition": "n. 火車, 列車, 行列, 長队, 一连串的後果, 顺序, vt. 训练, 教育, 對准, vi. 受训练, 锻炼"
+          "definition": "n. 火車、列車  v. 訓練、培訓、培養"
         }
       ],
       "examples": [
         {
-          "en": "She took the train to the city.",
+          "en": "Many commuters take the train to work to avoid highway congestion.",
           "highlight": [
             "train"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "許多通勤族搭火車上班以避開高速公路的壅塞。"
+          }
+        },
+        {
+          "en": "The human resources department trained 50 new hires last month.",
+          "highlight": [
+            "trained"
+          ],
+          "translations": {
+            "zh-TW": "人資部門上個月培訓了 50 名新進員工。"
+          }
+        },
+        {
+          "en": "The senior engineer is training the interns on safety protocols.",
+          "highlight": [
+            "training"
+          ],
+          "translations": {
+            "zh-TW": "資深工程師正在指導實習生熟悉安全作業流程。"
           }
         }
       ],
       "synonyms": [
         "locomotive",
-        "railway"
+        "railway",
+        "coach"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "neglect",
+        "ignore"
+      ],
       "phrases": [
-        "train",
-        "station",
-        "train",
-        "ride"
+        "train station",
+        "train ride",
+        "train staff",
+        "freight train"
       ]
     },
     {
@@ -341,47 +490,60 @@
       "toeic_score_min": 500,
       "word": "training",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
-      "conjugations": {
-        "past_tense": "traininged",
-        "past_participle": "traininged",
-        "present_participle": "traininging",
-        "third_person": "trainings"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "human resources",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "training",
-          "definition": "n. 训练, 培养, [医] 训练"
+          "definition": "n. 培訓、訓練、在職教育"
         }
       ],
       "examples": [
         {
-          "en": "The training for the new job starts next week.",
+          "en": "All new employees must complete a two-week training program.",
           "highlight": [
             "training"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "所有新進員工都必須完成為期兩週的培訓課程。"
+          }
+        },
+        {
+          "en": "Customer service training improved the company's satisfaction ratings.",
+          "highlight": [
+            "training"
+          ],
+          "translations": {
+            "zh-TW": "客服培訓提升了公司的客戶滿意度評分。"
+          }
+        },
+        {
+          "en": "On-the-job training is often more practical than classroom lectures.",
+          "highlight": [
+            "training"
+          ],
+          "translations": {
+            "zh-TW": "在職培訓往往比課堂講授更為實用。"
           }
         }
       ],
       "synonyms": [
         "instruction",
+        "coaching",
         "preparation"
       ],
       "antonyms": [
         "neglect",
-        "ignorance"
+        "unpreparedness"
       ],
       "phrases": [
-        "job",
-        "training",
-        "training",
-        "program"
+        "training program",
+        "on-the-job training",
+        "training session",
+        "staff training"
       ]
     },
     {
@@ -396,43 +558,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "transfered",
-        "past_participle": "transfered",
-        "present_participle": "transfering",
-        "third_person": "transfers"
+        "plural": "transfers",
+        "present_3rd": "transfers",
+        "past": "transferred",
+        "past_participle": "transferred",
+        "ing": "transferring"
       },
-      "domain": "general",
+      "domain": "finance",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "transfer",
-          "definition": "n. 迁移, 移動, 传递, 转讓, 转移, 過户, 汇兑, 换車, vt. 使转移, 调转, 调任, 改变, 传递, 转讓, vi. 转移, 转学, 转职, 换車, [计] 传送"
+          "definition": "v. 轉移、調動、轉讓、匯款  n. 轉移、調任、轉帳、換車"
         }
       ],
       "examples": [
         {
-          "en": "They transferred the money to her account.",
+          "en": "Please transfer the funds to the supplier's account by Friday.",
           "highlight": [
             "transfer"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請於週五前將款項轉入供應商的帳戶。"
+          }
+        },
+        {
+          "en": "The manager was transferred to the Osaka branch last September.",
+          "highlight": [
+            "transferred"
+          ],
+          "translations": {
+            "zh-TW": "那位經理去年九月被調任到大阪分公司。"
+          }
+        },
+        {
+          "en": "The bank is currently transferring client records to a new database system.",
+          "highlight": [
+            "transferring"
+          ],
+          "translations": {
+            "zh-TW": "銀行目前正在將客戶資料轉移到新的資料庫系統。"
           }
         }
       ],
       "synonyms": [
         "move",
-        "relocate"
+        "relocate",
+        "shift"
       ],
       "antonyms": [
         "retain",
-        "keep"
+        "keep",
+        "hold"
       ],
       "phrases": [
-        "transfer",
-        "funds",
-        "transfer",
-        "data"
+        "bank transfer",
+        "transfer funds",
+        "wire transfer",
+        "transfer to another account"
       ]
     },
     {
@@ -447,44 +630,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "transformed",
+        "plural": "transforms",
+        "present_3rd": "transforms",
+        "past": "transformed",
         "past_participle": "transformed",
-        "present_participle": "transforming",
-        "third_person": "transforms"
+        "ing": "transforming"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "transform",
-          "definition": "vt. 使转换, 改变, 改造, 使...变形, vi. 改变, 转化, 变换, [计] 变换"
+          "definition": "v. 轉變、改造、使變形  n. 變換（數學）"
         }
       ],
       "examples": [
         {
-          "en": "The caterpillar transformed into a butterfly.",
+          "en": "Digital technology can transform how businesses serve their customers.",
           "highlight": [
             "transform"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "數位科技能徹底改變企業服務客戶的方式。"
+          }
+        },
+        {
+          "en": "The acquisition transformed a small startup into a global enterprise.",
+          "highlight": [
+            "transformed"
+          ],
+          "translations": {
+            "zh-TW": "這樁收購案把一家小型新創公司轉變為全球性企業。"
+          }
+        },
+        {
+          "en": "Remote work is transforming the way modern companies operate.",
+          "highlight": [
+            "transforming"
+          ],
+          "translations": {
+            "zh-TW": "遠距工作正在改變現代企業的運作方式。"
           }
         }
       ],
       "synonyms": [
         "change",
-        "convert"
+        "convert",
+        "alter"
       ],
       "antonyms": [
         "preserve",
-        "maintain"
+        "maintain",
+        "keep"
       ],
       "phrases": [
-        "transform",
-        "completely",
-        "transform",
-        "the",
-        "industry"
+        "transform completely",
+        "transform the industry",
+        "business transformation",
+        "digital transform"
       ]
     }
   ]
