@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 295,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-295-001",
@@ -15,40 +15,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "touched",
+        "plural": "touches",
+        "present_3rd": "touches",
+        "past": "touched",
         "past_participle": "touched",
-        "present_participle": "touching",
-        "third_person": "touchs"
+        "ing": "touching"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "touch",
-          "definition": "n. 触觉, 碰, 触, 机灵, 輕触, 格调, 少许, 缺點, 弹力, vt. 接触, 触摸, 触及, 使接触, 达到, 涉及, 影響到, 使輕度受害, 感動, vi. 触摸, 接近, 涉及, 提到"
+          "definition": "n. 觸摸、碰觸、少許  v. 觸摸、接觸、感動"
         }
       ],
       "examples": [
         {
-          "en": "He reached out to touch the flower.",
+          "en": "Please do not touch the paintings in the gallery.",
           "highlight": [
             "touch"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請勿觸碰畫廊裡的畫作。"
+          }
+        },
+        {
+          "en": "The manager touched the screen to confirm the order.",
+          "highlight": [
+            "touched"
+          ],
+          "translations": {
+            "zh-TW": "經理觸碰螢幕確認訂單。"
+          }
+        },
+        {
+          "en": "Her speech was deeply touching and moved everyone in the room.",
+          "highlight": [
+            "touching"
+          ],
+          "translations": {
+            "zh-TW": "她的演講非常感人，感動了在場的每一個人。"
           }
         }
       ],
       "synonyms": [
         "feel",
-        "contact"
+        "contact",
+        "reach"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "avoid",
+        "release"
+      ],
       "phrases": [
-        "touch",
-        "screen",
-        "touch",
-        "base"
+        "touch screen",
+        "keep in touch",
+        "touch base",
+        "touch and go"
       ]
     },
     {
@@ -63,40 +86,62 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "toughs"
+        "plural": "toughs",
+        "comparative": "tougher",
+        "superlative": "toughest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tough",
-          "definition": "n. 恶棍, a. 强硬的, 艰苦的, 坚固的, 坚韧的, 粗暴的, 咬不動的"
+          "definition": "a. 堅強的、艱難的、強硬的  n. 惡棍"
         }
       ],
       "examples": [
         {
-          "en": "He is a tough competitor.",
+          "en": "The new employee is tough and handles pressure well.",
           "highlight": [
             "tough"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這位新員工很堅強，能妥善處理壓力。"
+          }
+        },
+        {
+          "en": "This year's exam was tougher than last year's.",
+          "highlight": [
+            "tougher"
+          ],
+          "translations": {
+            "zh-TW": "今年的考試比去年更艱難。"
+          }
+        },
+        {
+          "en": "She is the toughest negotiator in the company.",
+          "highlight": [
+            "toughest"
+          ],
+          "translations": {
+            "zh-TW": "她是公司裡最強硬的談判者。"
           }
         }
       ],
       "synonyms": [
         "strong",
-        "resilient"
+        "resilient",
+        "hard"
       ],
       "antonyms": [
         "weak",
-        "fragile"
+        "fragile",
+        "soft"
       ],
       "phrases": [
-        "tough",
-        "job",
-        "tough",
-        "time"
+        "tough job",
+        "tough time",
+        "tough decision",
+        "get tough"
       ]
     },
     {
@@ -111,40 +156,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "toured",
+        "plural": "tours",
+        "present_3rd": "tours",
+        "past": "toured",
         "past_participle": "toured",
-        "present_participle": "touring",
-        "third_person": "tours"
+        "ing": "touring"
       },
-      "domain": "general",
+      "domain": "travel",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tour",
-          "definition": "n. 旅游, 观光旅行, 任期, vi. 旅行, 周游, 巡回, vt. 周游, 观光, 游歷, 使巡回演出"
+          "definition": "n. 旅行、觀光、巡迴  v. 旅遊、巡迴"
         }
       ],
       "examples": [
         {
-          "en": "They went on a tour of the city.",
+          "en": "We joined a guided tour of the museum.",
           "highlight": [
             "tour"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們參加了博物館的導覽行程。"
+          }
+        },
+        {
+          "en": "The band toured Europe last summer.",
+          "highlight": [
+            "toured"
+          ],
+          "translations": {
+            "zh-TW": "這個樂團去年夏天到歐洲巡迴演出。"
+          }
+        },
+        {
+          "en": "They are touring the factory to learn about production.",
+          "highlight": [
+            "touring"
+          ],
+          "translations": {
+            "zh-TW": "他們正在參觀工廠以了解生產流程。"
           }
         }
       ],
       "synonyms": [
         "trip",
-        "journey"
+        "journey",
+        "excursion"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "stay",
+        "rest"
+      ],
       "phrases": [
-        "guided",
-        "tour",
-        "city",
-        "tour"
+        "guided tour",
+        "city tour",
+        "tour group",
+        "on tour"
       ]
     },
     {
@@ -161,38 +229,57 @@
       "conjugations": {
         "plural": "tourists"
       },
-      "domain": "general",
+      "domain": "travel",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tourist",
-          "definition": "n. 观光客, 旅行者, a. 旅游的"
+          "definition": "n. 觀光客、旅行者  a. 觀光的"
         }
       ],
       "examples": [
         {
-          "en": "The tourist took pictures of the landmarks.",
+          "en": "A tourist asked me for directions to the station.",
           "highlight": [
             "tourist"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "一位觀光客向我問路前往車站。"
+          }
+        },
+        {
+          "en": "Tourists flock to the beach during summer.",
+          "highlight": [
+            "tourists"
+          ],
+          "translations": {
+            "zh-TW": "夏天時觀光客蜂擁至海灘。"
+          }
+        },
+        {
+          "en": "The hotel offers a special discount for tourist groups.",
+          "highlight": [
+            "tourist"
+          ],
+          "translations": {
+            "zh-TW": "這家飯店為觀光團體提供特別折扣。"
           }
         }
       ],
       "synonyms": [
         "traveler",
-        "visitor"
+        "visitor",
+        "sightseer"
       ],
       "antonyms": [
         "resident",
         "local"
       ],
       "phrases": [
-        "tourist",
-        "attractions",
-        "tourist",
-        "destination"
+        "tourist attraction",
+        "tourist destination",
+        "tourist visa",
+        "tourist season"
       ]
     },
     {
@@ -212,36 +299,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "towards",
-          "definition": "prep. 向, 對于, 為了"
+          "definition": "prep. 朝向、對於、為了"
         }
       ],
       "examples": [
         {
-          "en": "She walked towards the door.",
+          "en": "She walked towards the exit after the meeting.",
           "highlight": [
             "towards"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "會議結束後她朝出口走去。"
+          }
+        },
+        {
+          "en": "The company is working towards a more sustainable future.",
+          "highlight": [
+            "towards"
+          ],
+          "translations": {
+            "zh-TW": "公司正朝著更永續的未來邁進。"
+          }
+        },
+        {
+          "en": "He saved money towards a new laptop for work.",
+          "highlight": [
+            "towards"
+          ],
+          "translations": {
+            "zh-TW": "他存錢為了買一台工作用的新筆電。"
           }
         }
       ],
       "synonyms": [
-        "in",
-        "the",
-        "direction",
-        "of"
+        "toward",
+        "approaching"
       ],
       "antonyms": [
-        "away",
-        "from"
+        "away from"
       ],
       "phrases": [
-        "towards",
-        "the",
-        "end",
-        "move",
-        "towards"
+        "towards the end",
+        "move towards",
+        "contribute towards",
+        "attitude towards"
       ]
     },
     {
@@ -256,41 +357,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "toweled",
+        "plural": "towels",
+        "present_3rd": "towels",
+        "past": "toweled",
         "past_participle": "toweled",
-        "present_participle": "toweling",
-        "third_person": "towels"
+        "ing": "toweling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "towel",
-          "definition": "n. 手巾, 毛巾, v. 擦干身子"
+          "definition": "n. 毛巾、手巾  v. 用毛巾擦乾"
         }
       ],
       "examples": [
         {
-          "en": "He dried his hands with a towel.",
+          "en": "Please put the used towel in the laundry basket.",
           "highlight": [
             "towel"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請將用過的毛巾放進洗衣籃。"
+          }
+        },
+        {
+          "en": "The hotel provides fresh towels for every guest.",
+          "highlight": [
+            "towels"
+          ],
+          "translations": {
+            "zh-TW": "這家飯店為每位客人提供乾淨的毛巾。"
+          }
+        },
+        {
+          "en": "She was toweling her hair when the phone rang.",
+          "highlight": [
+            "toweling"
+          ],
+          "translations": {
+            "zh-TW": "電話響起時她正在用毛巾擦頭髮。"
           }
         }
       ],
       "synonyms": [
-        "drying",
         "cloth",
-        "wipe"
+        "wipe",
+        "rag"
       ],
       "antonyms": [],
       "phrases": [
-        "bath",
-        "towel",
-        "beach",
-        "towel"
+        "bath towel",
+        "beach towel",
+        "paper towel",
+        "throw in the towel"
       ]
     },
     {
@@ -305,40 +425,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "towered",
+        "plural": "towers",
+        "present_3rd": "towers",
+        "past": "towered",
         "past_participle": "towered",
-        "present_participle": "towering",
-        "third_person": "towers"
+        "ing": "towering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tower",
-          "definition": "n. 塔, 高楼, 堡垒, vi. 高耸, 翱翔"
+          "definition": "n. 塔、高樓  v. 高聳、屹立"
         }
       ],
       "examples": [
         {
-          "en": "The Eiffel Tower is in Paris.",
+          "en": "The office tower has fifty floors.",
           "highlight": [
             "tower"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這棟辦公大樓有五十層樓。"
+          }
+        },
+        {
+          "en": "The new skyscraper towers over the surrounding buildings.",
+          "highlight": [
+            "towers"
+          ],
+          "translations": {
+            "zh-TW": "這棟新摩天大樓高聳於周圍的建築物之上。"
+          }
+        },
+        {
+          "en": "Construction workers were towering above the city.",
+          "highlight": [
+            "towering"
+          ],
+          "translations": {
+            "zh-TW": "建築工人聳立在城市的高處。"
           }
         }
       ],
       "synonyms": [
         "spire",
-        "steeple"
+        "steeple",
+        "skyscraper"
       ],
       "antonyms": [],
       "phrases": [
-        "watch",
-        "tower",
-        "radio",
-        "tower"
+        "watch tower",
+        "radio tower",
+        "tower block",
+        "tower above"
       ]
     },
     {
@@ -349,42 +489,61 @@
       "toeic_score_min": 500,
       "word": "town",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "towned",
-        "past_participle": "towned",
-        "present_participle": "towning",
-        "third_person": "towns"
+        "plural": "towns"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "town",
-          "definition": "n. 城镇, 市, 镇, [法] 城镇, 城市, 闹市"
+          "definition": "n. 城鎮、市鎮、鬧區"
         }
       ],
       "examples": [
         {
-          "en": "The town is small but charming.",
+          "en": "Our company opened a new branch in a small town.",
           "highlight": [
             "town"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們公司在一個小鎮開了新分店。"
+          }
+        },
+        {
+          "en": "Several towns in the region have grown rapidly thanks to tourism.",
+          "highlight": [
+            "towns"
+          ],
+          "translations": {
+            "zh-TW": "拜觀光之賜，這個地區的幾個城鎮迅速發展。"
+          }
+        },
+        {
+          "en": "He drove into town to attend the business conference.",
+          "highlight": [
+            "town"
+          ],
+          "translations": {
+            "zh-TW": "他開車進城參加商務會議。"
           }
         }
       ],
       "synonyms": [
         "city",
-        "municipality"
+        "municipality",
+        "settlement"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "countryside",
+        "village"
+      ],
       "phrases": [
-        "town",
-        "center",
+        "town center",
+        "out of town",
+        "go to town",
         "hometown"
       ]
     },
@@ -400,40 +559,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "toyed",
+        "plural": "toys",
+        "present_3rd": "toys",
+        "past": "toyed",
         "past_participle": "toyed",
-        "present_participle": "toying",
-        "third_person": "toys"
+        "ing": "toying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "toy",
-          "definition": "n. 玩具, 小玩艺兒, 小型的东西, 消遣, a. 供玩耍的, 作為玩具的, vi. 玩弄, 戏弄, 调情"
+          "definition": "n. 玩具、小玩意  v. 玩弄、隨便對待"
         }
       ],
       "examples": [
         {
-          "en": "The child played with a toy car.",
+          "en": "The store sells educational toys for young children.",
           "highlight": [
-            "toy"
+            "toys"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這家店販售適合幼兒的教育玩具。"
+          }
+        },
+        {
+          "en": "He toyed with the idea of starting his own business.",
+          "highlight": [
+            "toyed"
+          ],
+          "translations": {
+            "zh-TW": "他曾隨興考慮過自己創業的念頭。"
+          }
+        },
+        {
+          "en": "Stop toying with that pen and focus on the report.",
+          "highlight": [
+            "toying"
+          ],
+          "translations": {
+            "zh-TW": "別再玩弄那支筆了，專心寫報告。"
           }
         }
       ],
       "synonyms": [
         "plaything",
-        "doll"
+        "game",
+        "amusement"
       ],
       "antonyms": [],
       "phrases": [
-        "toy",
-        "store",
-        "toy",
-        "car"
+        "toy store",
+        "toy car",
+        "toy with",
+        "toy box"
       ]
     },
     {
@@ -448,32 +627,52 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "traceed",
-        "past_participle": "traceed",
-        "present_participle": "tracing",
-        "third_person": "traces"
+        "plural": "traces",
+        "present_3rd": "traces",
+        "past": "traced",
+        "past_participle": "traced",
+        "ing": "tracing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "trace",
-          "definition": "n. 痕迹, 踪迹, 微量, 迹线, 缰绳, vt. 追踪, 回溯, 描绘, vi. 追溯, 沿路走"
+          "definition": "n. 痕跡、蹤跡、微量  v. 追蹤、追溯、描繪"
         }
       ],
       "examples": [
         {
-          "en": "The detective traced the suspect's movements.",
+          "en": "The IT team can trace every login to the system.",
           "highlight": [
             "trace"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "IT 團隊可以追蹤系統的每一次登入。"
+          }
+        },
+        {
+          "en": "The auditor traced the missing funds to a wrong account.",
+          "highlight": [
+            "traced"
+          ],
+          "translations": {
+            "zh-TW": "稽核員追蹤到那筆遺失的款項轉入了錯誤的帳戶。"
+          }
+        },
+        {
+          "en": "The detective is tracing the suspect's phone records.",
+          "highlight": [
+            "tracing"
+          ],
+          "translations": {
+            "zh-TW": "偵探正在追查嫌疑犯的通聯紀錄。"
           }
         }
       ],
       "synonyms": [
         "follow",
+        "track",
         "investigate"
       ],
       "antonyms": [
@@ -481,11 +680,10 @@
         "neglect"
       ],
       "phrases": [
-        "trace",
-        "back",
-        "trace",
-        "the",
-        "source"
+        "trace back",
+        "without a trace",
+        "trace the source",
+        "leave a trace"
       ]
     }
   ]
