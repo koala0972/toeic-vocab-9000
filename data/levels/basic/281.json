@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 281,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-281-001",
@@ -15,44 +15,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "surrounded",
+        "plural": "surrounds",
+        "present_3rd": "surrounds",
+        "past": "surrounded",
         "past_participle": "surrounded",
-        "present_participle": "surrounding",
-        "third_person": "surrounds"
+        "ing": "surrounding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "surround",
-          "definition": "vt. 包围, 环绕, 围绕, n. 围绕物"
+          "definition": "v. 包圍、環繞  n. 圍繞物"
         }
       ],
       "examples": [
         {
-          "en": "Trees surround the house.",
+          "en": "Tall trees surround the company headquarters.",
           "highlight": [
             "surround"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "高大的樹木環繞著公司總部。"
+          }
+        },
+        {
+          "en": "Police surrounded the building before the negotiation began.",
+          "highlight": [
+            "surrounded"
+          ],
+          "translations": {
+            "zh-TW": "在談判開始之前，警方已經包圍了這棟建築。"
+          }
+        },
+        {
+          "en": "The surrounding neighborhood is undergoing rapid development.",
+          "highlight": [
+            "surrounding"
+          ],
+          "translations": {
+            "zh-TW": "周邊的社區正在快速發展中。"
           }
         }
       ],
       "synonyms": [
         "enclose",
-        "encircle"
+        "encircle",
+        "encompass"
       ],
       "antonyms": [
         "release",
         "free"
       ],
       "phrases": [
-        "surround",
-        "completely",
-        "surround",
-        "the",
-        "area"
+        "surround yourself with",
+        "surround sound",
+        "surround the area"
       ]
     },
     {
@@ -74,30 +92,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "surrounding",
-          "definition": "n. 环境, a. 周围的"
+          "definition": "adj. 周圍的、附近的  n. 環境（常用複數 surroundings）"
         }
       ],
       "examples": [
         {
-          "en": "The surrounding area is beautiful.",
+          "en": "The surrounding area offers a variety of restaurants and shops.",
           "highlight": [
             "surrounding"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "附近的區域提供各種餐廳和商店。"
+          }
+        },
+        {
+          "en": "The hotel is known for its elegant surroundings and attentive service.",
+          "highlight": [
+            "surroundings"
+          ],
+          "translations": {
+            "zh-TW": "這家飯店以優雅的環境和細心的服務聞名。"
+          }
+        },
+        {
+          "en": "A comfortable surrounding helps employees focus on their work.",
+          "highlight": [
+            "surrounding"
+          ],
+          "translations": {
+            "zh-TW": "舒適的環境有助於員工專注於工作。"
           }
         }
       ],
       "synonyms": [
         "encompassing",
-        "encompassing"
+        "encircling",
+        "neighboring"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "distant",
+        "remote"
+      ],
       "phrases": [
-        "surrounding",
-        "environment",
-        "surrounding",
-        "community"
+        "surrounding area",
+        "surrounding environment",
+        "surrounding community",
+        "pleasant surroundings"
       ]
     },
     {
@@ -112,41 +152,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "surveyed",
+        "plural": "surveys",
+        "present_3rd": "surveys",
+        "past": "surveyed",
         "past_participle": "surveyed",
-        "present_participle": "surveying",
-        "third_person": "surveys"
+        "ing": "surveying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "survey",
-          "definition": "n. 纵览, 视察, 测量, 俯瞰, 调查, vt. 审视, 视察, 俯瞰, 通盘考虑, vi. 测量土地"
+          "definition": "n. 調查、問卷、測量  v. 調查、審視、測量"
         }
       ],
       "examples": [
         {
-          "en": "They conducted a survey of consumer preferences.",
+          "en": "The company conducted a survey to measure customer satisfaction.",
           "highlight": [
             "survey"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司進行了一項調查來衡量顧客滿意度。"
+          }
+        },
+        {
+          "en": "The research team surveyed over five hundred employees last month.",
+          "highlight": [
+            "surveyed"
+          ],
+          "translations": {
+            "zh-TW": "研究團隊上個月調查了超過五百名員工。"
+          }
+        },
+        {
+          "en": "Surveying the damaged warehouse took the insurance team two full days.",
+          "highlight": [
+            "surveying"
+          ],
+          "translations": {
+            "zh-TW": "勘查受損的倉庫花了保險團隊整整兩天的時間。"
           }
         }
       ],
       "synonyms": [
         "poll",
+        "questionnaire",
         "study"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "guess",
+        "speculation"
+      ],
       "phrases": [
-        "conduct",
-        "a",
-        "survey",
-        "survey",
-        "results"
+        "conduct a survey",
+        "survey results",
+        "customer satisfaction survey",
+        "land survey"
       ]
     },
     {
@@ -157,48 +219,65 @@
       "toeic_score_min": 500,
       "word": "survive",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "surviveed",
-        "past_participle": "surviveed",
-        "present_participle": "surviving",
-        "third_person": "survives"
+        "present_3rd": "survives",
+        "past": "survived",
+        "past_participle": "survived",
+        "ing": "surviving"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "survive",
-          "definition": "vt. 比...活得長, 生存, 生还, 幸免于, vi. 活下來, 幸存"
+          "definition": "v. 生存、存活、倖免於難、比……活得長"
         }
       ],
       "examples": [
         {
-          "en": "He managed to survive the accident.",
+          "en": "A small business rarely survives its first five years without solid planning.",
           "highlight": [
-            "survive"
+            "survives"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "沒有周全的計畫，小企業很少能熬過頭五年。"
+          }
+        },
+        {
+          "en": "Only three companies survived the economic crisis without layoffs.",
+          "highlight": [
+            "survived"
+          ],
+          "translations": {
+            "zh-TW": "只有三家公司在不裁員的情況下熬過了經濟危機。"
+          }
+        },
+        {
+          "en": "Many small shops are surviving on online sales during the pandemic.",
+          "highlight": [
+            "surviving"
+          ],
+          "translations": {
+            "zh-TW": "疫情期間，許多小店靠著線上銷售維持營運。"
           }
         }
       ],
       "synonyms": [
         "endure",
-        "persist"
+        "persist",
+        "withstand"
       ],
       "antonyms": [
         "perish",
         "succumb"
       ],
       "phrases": [
-        "survive",
-        "an",
-        "accident",
-        "survive",
-        "the"
+        "survive an accident",
+        "survive the crisis",
+        "survive on",
+        "barely survive"
       ]
     },
     {
@@ -213,44 +292,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "suspected",
+        "plural": "suspects",
+        "present_3rd": "suspects",
+        "past": "suspected",
         "past_participle": "suspected",
-        "present_participle": "suspecting",
-        "third_person": "suspects"
+        "ing": "suspecting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "suspect",
-          "definition": "n. 被怀疑者, 嫌疑犯, a. 令人怀疑的, 不可信的, 可疑的, v. 怀疑, 猜想"
+          "definition": "v. 懷疑、猜想  n. 嫌疑犯、可疑人物  adj. 可疑的"
         }
       ],
       "examples": [
         {
-          "en": "I suspect she is lying.",
+          "en": "The manager suspects that someone leaked the confidential report.",
           "highlight": [
-            "suspect"
+            "suspects"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "經理懷疑有人洩露了機密報告。"
+          }
+        },
+        {
+          "en": "Security suspected the new employee of stealing company property.",
+          "highlight": [
+            "suspected"
+          ],
+          "translations": {
+            "zh-TW": "安保人員懷疑新進員工偷竊公司財物。"
+          }
+        },
+        {
+          "en": "Police are still suspecting foul play in the disappearance of the documents.",
+          "highlight": [
+            "suspecting"
+          ],
+          "translations": {
+            "zh-TW": "警方仍懷疑文件失蹤一事涉及不法行為。"
           }
         }
       ],
       "synonyms": [
         "doubt",
-        "suppose"
+        "suppose",
+        "mistrust"
       ],
       "antonyms": [
         "trust",
         "believe"
       ],
       "phrases": [
-        "suspect",
-        "a",
-        "crime",
-        "suspect",
-        "someone"
+        "prime suspect",
+        "suspect someone of",
+        "suspect foul play",
+        "main suspect"
       ]
     },
     {
@@ -265,43 +363,64 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "suspicioned",
+        "plural": "suspicions",
+        "present_3rd": "suspicions",
+        "past": "suspicioned",
         "past_participle": "suspicioned",
-        "present_participle": "suspicioning",
-        "third_person": "suspicions"
+        "ing": "suspicioning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "suspicion",
-          "definition": "n. 怀疑, 觉察, 嫌疑, [法] 怀疑, 疑心, 嫌疑"
+          "definition": "n. 懷疑、嫌疑、疑心  v.（口語）懷疑"
         }
       ],
       "examples": [
         {
-          "en": "There was a suspicion of foul play.",
+          "en": "The auditor raised a suspicion about the company's financial records.",
           "highlight": [
             "suspicion"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "稽核員對公司的財務紀錄提出了懷疑。"
+          }
+        },
+        {
+          "en": "He was held under suspicion for three weeks before being cleared.",
+          "highlight": [
+            "suspicion"
+          ],
+          "translations": {
+            "zh-TW": "他在被洗清嫌疑之前，受到懷疑長達三週。"
+          }
+        },
+        {
+          "en": "Her suspicions grew when the receipts did not match the bank statements.",
+          "highlight": [
+            "suspicions"
+          ],
+          "translations": {
+            "zh-TW": "當收據與銀行對帳單不符時，她的疑心加深了。"
           }
         }
       ],
       "synonyms": [
         "mistrust",
-        "doubt"
+        "doubt",
+        "misgiving"
       ],
       "antonyms": [
         "certainty",
-        "confidence"
+        "confidence",
+        "trust"
       ],
       "phrases": [
-        "strong",
-        "suspicion",
-        "under",
-        "suspicion"
+        "under suspicion",
+        "raise suspicion",
+        "above suspicion",
+        "strong suspicion"
       ]
     },
     {
@@ -312,44 +431,64 @@
       "toeic_score_min": 500,
       "word": "suspicious",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "suspiciouses"
+        "comparative": "more suspicious",
+        "superlative": "most suspicious"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "suspicious",
-          "definition": "a. 可疑的, 多疑的, 怀疑的, [法] 怀疑的, 令人怀疑的, 可疑的"
+          "definition": "adj. 可疑的、令人起疑的、多疑的"
         }
       ],
       "examples": [
         {
-          "en": "He was suspicious of her motives.",
+          "en": "The bank blocked the account after noticing several suspicious transactions.",
           "highlight": [
             "suspicious"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "銀行在發現數筆可疑交易後凍結了該帳戶。"
+          }
+        },
+        {
+          "en": "The manager grew more suspicious as the employee kept avoiding direct questions.",
+          "highlight": [
+            "more suspicious"
+          ],
+          "translations": {
+            "zh-TW": "隨著員工一直迴避直接提問，經理變得更加起疑。"
+          }
+        },
+        {
+          "en": "The most suspicious part of the report was the missing signature page.",
+          "highlight": [
+            "most suspicious"
+          ],
+          "translations": {
+            "zh-TW": "報告中最可疑的部分是缺失的簽名頁。"
           }
         }
       ],
       "synonyms": [
         "distrustful",
-        "wary"
+        "wary",
+        "questionable"
       ],
       "antonyms": [
         "trusting",
-        "gullible"
+        "gullible",
+        "credible"
       ],
       "phrases": [
-        "suspicious",
-        "behavior",
-        "suspicious",
-        "mind"
+        "suspicious behavior",
+        "suspicious of someone",
+        "suspicious activity",
+        "highly suspicious"
       ]
     },
     {
@@ -364,44 +503,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "swallowed",
+        "plural": "swallows",
+        "present_3rd": "swallows",
+        "past": "swallowed",
         "past_participle": "swallowed",
-        "present_participle": "swallowing",
-        "third_person": "swallows"
+        "ing": "swallowing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "swallow",
-          "definition": "n. 燕子, 吞咽, 喉, vt. 咽, 淹没, 吞没, 耗盡, 輕信, 忍受, 抑制, vi. 吞下, 咽下"
+          "definition": "v. 吞下、嚥下、忍氣吞聲、輕信  n. 燕子、一口"
         }
       ],
       "examples": [
         {
-          "en": "She swallowed the pill with water.",
+          "en": "She swallowed the medicine quickly before the meeting started.",
+          "highlight": [
+            "swallowed"
+          ],
+          "translations": {
+            "zh-TW": "她在會議開始前迅速吞下了藥。"
+          }
+        },
+        {
+          "en": "He had to swallow his pride and apologize to the client.",
           "highlight": [
             "swallow"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他不得不忍氣吞聲並向客戶道歉。"
+          }
+        },
+        {
+          "en": "Swallowing food too fast can cause serious discomfort during work hours.",
+          "highlight": [
+            "Swallowing"
+          ],
+          "translations": {
+            "zh-TW": "吃東西吃太快在工作時間會造成嚴重的不適。"
           }
         }
       ],
       "synonyms": [
         "ingest",
-        "gulp"
+        "gulp",
+        "consume"
       ],
       "antonyms": [
         "spit",
-        "expel"
+        "expel",
+        "vomit"
       ],
       "phrases": [
-        "swallow",
-        "the",
-        "pill",
-        "swallow",
-        "hard"
+        "swallow one's pride",
+        "swallow the pill",
+        "a bitter pill to swallow",
+        "swallow hard"
       ]
     },
     {
@@ -416,44 +575,62 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "sweared",
-        "past_participle": "sweared",
-        "present_participle": "swearing",
-        "third_person": "swears"
+        "present_3rd": "swears",
+        "past": "swore",
+        "past_participle": "sworn",
+        "ing": "swearing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "swear",
-          "definition": "vt. 發誓, 咒骂, 使宣誓, vi. 發誓, 诅咒, n. 诅咒, 誓言"
+          "definition": "v. 發誓、宣誓、咒罵  n. 誓言"
         }
       ],
       "examples": [
         {
-          "en": "He swore to tell the truth.",
+          "en": "New employees must swear an oath of confidentiality before accessing client data.",
           "highlight": [
             "swear"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新進員工在存取客戶資料前必須宣誓保密。"
+          }
+        },
+        {
+          "en": "The witness swore to tell the whole truth in the courtroom yesterday.",
+          "highlight": [
+            "swore"
+          ],
+          "translations": {
+            "zh-TW": "證人昨天在法庭上發誓說出全部實情。"
+          }
+        },
+        {
+          "en": "The manager was swearing at the broken printer when his team walked in.",
+          "highlight": [
+            "swearing"
+          ],
+          "translations": {
+            "zh-TW": "團隊走進來時，經理正對著壞掉的印表機咒罵。"
           }
         }
       ],
       "synonyms": [
         "vow",
-        "promise"
+        "promise",
+        "pledge"
       ],
       "antonyms": [
         "deny",
         "break"
       ],
       "phrases": [
-        "swear",
-        "an",
-        "oath",
-        "swear",
-        "in"
+        "swear an oath",
+        "swear in",
+        "swear to tell the truth",
+        "swear word"
       ]
     },
     {
@@ -468,43 +645,64 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "sweated",
+        "plural": "sweats",
+        "present_3rd": "sweats",
+        "past": "sweated",
         "past_participle": "sweated",
-        "present_participle": "sweating",
-        "third_person": "sweats"
+        "ing": "sweating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sweat",
-          "definition": "n. 汗, 汗水, 水珠, 焦急, vi. 出汗, 渗出, 冒出水气, 結水珠, 烦恼, 懊恼, vt. 使出汗, 流出, 榨出, 使汗流浃背"
+          "definition": "n. 汗水、焦急  v. 出汗、焦慮、辛苦工作"
         }
       ],
       "examples": [
         {
-          "en": "He was sweating from the heat.",
+          "en": "After three hours in the warehouse, sweat soaked through his uniform.",
           "highlight": [
             "sweat"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在倉庫待了三個小時後，汗水浸透了他的制服。"
+          }
+        },
+        {
+          "en": "The team sweated through the weekend to finish the quarterly report on time.",
+          "highlight": [
+            "sweated"
+          ],
+          "translations": {
+            "zh-TW": "團隊整個週末拚命工作，只為了準時完成季度報告。"
+          }
+        },
+        {
+          "en": "He was sweating heavily before the big presentation to the board of directors.",
+          "highlight": [
+            "sweating"
+          ],
+          "translations": {
+            "zh-TW": "在向董事會做重要簡報之前，他滿頭大汗。"
           }
         }
       ],
       "synonyms": [
         "perspiration",
-        "moisture"
+        "toil",
+        "perspire"
       ],
       "antonyms": [
-        "dryness"
+        "dryness",
+        "rest"
       ],
       "phrases": [
-        "break",
-        "into",
-        "a",
-        "sweat",
-        "cold"
+        "break into a sweat",
+        "sweat it out",
+        "no sweat",
+        "cold sweat",
+        "sweat over"
       ]
     }
   ]
