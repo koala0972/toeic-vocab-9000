@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 290,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-290-001",
@@ -19,33 +19,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "thoroughly",
-          "definition": "adv. 彻底地, 绝對地, 透彻地, 详盡地, 周到地, 完全地, 完善地, 全面地"
+          "definition": "adv. 徹底地、完全地、詳盡地、周到地"
         }
       ],
       "examples": [
         {
-          "en": "She thoroughly enjoyed the movie.",
+          "en": "The auditor thoroughly examined the company's financial records.",
           "highlight": [
             "thoroughly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "稽核員徹底地檢查了公司的財務紀錄。"
+          }
+        },
+        {
+          "en": "Make sure the hotel room is thoroughly cleaned before the guests arrive.",
+          "highlight": [
+            "thoroughly"
+          ],
+          "translations": {
+            "zh-TW": "務必在客人抵達前，將飯店房間徹底打掃乾淨。"
+          }
+        },
+        {
+          "en": "The committee thoroughly discussed the proposal before making a decision.",
+          "highlight": [
+            "thoroughly"
+          ],
+          "translations": {
+            "zh-TW": "委員會在做出決定前，詳盡地討論了這項提案。"
           }
         }
       ],
       "synonyms": [
         "completely",
-        "utterly"
+        "utterly",
+        "exhaustively"
       ],
       "antonyms": [
         "partially",
-        "incompletely"
+        "superficially"
       ],
       "phrases": [
-        "thoroughly",
-        "examine",
-        "thoroughly",
-        "clean"
+        "thoroughly enjoy",
+        "thoroughly examine",
+        "thoroughly clean",
+        "thoroughly investigate"
       ]
     },
     {
@@ -56,7 +75,8 @@
       "toeic_score_min": 500,
       "word": "though",
       "pos": [
-        "conjunction"
+        "conjunction",
+        "adverb"
       ],
       "conjugations": {},
       "domain": "general",
@@ -64,31 +84,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "though",
-          "definition": "adv. 然而, 可是, conj. 虽然, 纵然"
+          "definition": "conj. 雖然、縱然  adv. 然而、不過"
         }
       ],
       "examples": [
         {
-          "en": "Though it was raining, we went out.",
+          "en": "Though the project was delayed, we still met our annual target.",
           "highlight": [
             "though"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "雖然專案延遲了，我們仍達成了年度目標。"
+          }
+        },
+        {
+          "en": "The negotiations were tough; we reached an agreement, though.",
+          "highlight": [
+            "though"
+          ],
+          "translations": {
+            "zh-TW": "談判過程很艱辛，不過我們最終還是達成了協議。"
+          }
+        },
+        {
+          "en": "She accepted the offer, though she had some reservations about the terms.",
+          "highlight": [
+            "though"
+          ],
+          "translations": {
+            "zh-TW": "她接受了這份錄取通知，雖然對條件還有些疑慮。"
           }
         }
       ],
       "synonyms": [
         "although",
-        "even",
-        "though"
+        "nevertheless",
+        "yet"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "because",
+        "since"
+      ],
       "phrases": [
-        "even",
-        "though",
-        "as",
-        "though"
+        "even though",
+        "as though",
+        "though it may seem",
+        "just though"
       ]
     },
     {
@@ -103,40 +144,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "thoughted",
-        "past_participle": "thoughted",
-        "present_participle": "thoughting",
-        "third_person": "thoughts"
+        "past": "thought",
+        "past_participle": "thought",
+        "ing": "thinking",
+        "present_3rd": "thinks"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "thought",
-          "definition": "n. 想法, 思想, 思维, 關心, 挂念, think的過去式和過去分词"
+          "definition": "n. 想法、思想、念頭  v. think 的過去式與過去分詞"
         }
       ],
       "examples": [
         {
-          "en": "She had a sudden thought.",
+          "en": "She had a sudden thought about how to improve the marketing strategy.",
           "highlight": [
             "thought"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她突然對如何改善行銷策略有了想法。"
+          }
+        },
+        {
+          "en": "When the manager entered the room, everyone stopped talking to gather their thoughts.",
+          "highlight": [
+            "thoughts"
+          ],
+          "translations": {
+            "zh-TW": "當經理走進會議室時，大家都停下交談以集中思緒。"
+          }
+        },
+        {
+          "en": "The director thought carefully before approving the new budget plan.",
+          "highlight": [
+            "thought"
+          ],
+          "translations": {
+            "zh-TW": "主管在批准新預算計畫前，仔細地思考了一番。"
           }
         }
       ],
       "synonyms": [
         "idea",
-        "notion"
+        "notion",
+        "reflection"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "forgetfulness",
+        "oblivion"
+      ],
       "phrases": [
-        "deep",
-        "thought",
-        "random",
-        "thought"
+        "deep in thought",
+        "on second thought",
+        "food for thought",
+        "gather one's thoughts"
       ]
     },
     {
@@ -158,30 +221,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "thousand",
-          "definition": "num. 千, a. 成千的, 许多的, n. 许许多多"
+          "definition": "num. 一千  n. 數以千計、許許多多"
         }
       ],
       "examples": [
         {
-          "en": "There were a thousand people at the concert.",
+          "en": "The company invested a thousand dollars into the new advertising campaign.",
           "highlight": [
             "thousand"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司投資了一千美元於新的廣告活動。"
+          }
+        },
+        {
+          "en": "Thousands of customers visited the store during the grand opening sale.",
+          "highlight": [
+            "thousands"
+          ],
+          "translations": {
+            "zh-TW": "盛大開幕期間，數以千計的顧客造訪了這間店。"
+          }
+        },
+        {
+          "en": "The factory produces over a thousand units per day to meet demand.",
+          "highlight": [
+            "thousand"
+          ],
+          "translations": {
+            "zh-TW": "為了滿足需求，工廠每天生產超過一千個單位的產品。"
           }
         }
       ],
       "synonyms": [
-        "number",
-        "1000"
+        "1000",
+        "a grand",
+        "millennium"
       ],
       "antonyms": [],
       "phrases": [
-        "thousand",
-        "dollars",
-        "thousand",
-        "times"
+        "a thousand dollars",
+        "thousands of people",
+        "one in a thousand",
+        "thousands of times"
       ]
     },
     {
@@ -196,41 +278,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "threaded",
+        "plural": "threads",
+        "past": "threaded",
         "past_participle": "threaded",
-        "present_participle": "threading",
-        "third_person": "threads"
+        "ing": "threading",
+        "present_3rd": "threads"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "thread",
-          "definition": "n. 线, 丝, 纤维, 线索, vt. 穿线于, 穿過, 通過, 用线穿成, vi. 穿過, [计] 线索, 线程"
+          "definition": "n. 線、絲、線索、脈絡  v. 穿線於、穿過"
         }
       ],
       "examples": [
         {
-          "en": "She used a needle and thread to sew the button.",
+          "en": "The tailor used a strong thread to sew the uniform together.",
           "highlight": [
             "thread"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "裁縫師用堅韌的線把制服縫合在一起。"
+          }
+        },
+        {
+          "en": "Be sure to check the latest threads on the forum to follow the project updates.",
+          "highlight": [
+            "threads"
+          ],
+          "translations": {
+            "zh-TW": "務必查看論壇上最新的討論串，以掌握專案的更新資訊。"
+          }
+        },
+        {
+          "en": "She threaded the needle carefully and began mending the curtain.",
+          "highlight": [
+            "threaded"
+          ],
+          "translations": {
+            "zh-TW": "她小心翼翼地穿好針線，開始修補窗簾。"
           }
         }
       ],
       "synonyms": [
         "fiber",
-        "strand"
+        "strand",
+        "cord"
       ],
       "antonyms": [],
       "phrases": [
-        "needle",
-        "and",
-        "thread",
-        "lose",
-        "the"
+        "needle and thread",
+        "lose the thread",
+        "thread of hope",
+        "thread the needle"
       ]
     },
     {
@@ -245,43 +346,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "threated",
+        "plural": "threats",
+        "past": "threated",
         "past_participle": "threated",
-        "present_participle": "threating",
-        "third_person": "threats"
+        "ing": "threading"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "threat",
-          "definition": "n. 恐吓, 恶兆, 威胁, [經] 威胁"
+          "definition": "n. 威脅、恐嚇、凶兆、構成危險的事物"
         }
       ],
       "examples": [
         {
-          "en": "The threat was taken seriously by the police.",
+          "en": "The company received a serious threat against its headquarters.",
           "highlight": [
             "threat"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司收到針對總部的嚴重威脅。"
+          }
+        },
+        {
+          "en": "Rising interest rates pose a real threat to small businesses.",
+          "highlight": [
+            "threat"
+          ],
+          "translations": {
+            "zh-TW": "升息對小型企業構成實質的威脅。"
+          }
+        },
+        {
+          "en": "Multiple threats were reported to the security team last week.",
+          "highlight": [
+            "threats"
+          ],
+          "translations": {
+            "zh-TW": "上週向安保團隊通報了數起威脅事件。"
           }
         }
       ],
       "synonyms": [
         "menace",
-        "warning"
+        "warning",
+        "danger"
       ],
       "antonyms": [
         "promise",
-        "assurance"
+        "assurance",
+        "safeguard"
       ],
       "phrases": [
-        "serious",
-        "threat",
-        "threat",
-        "to"
+        "serious threat",
+        "under threat",
+        "threat to security",
+        "empty threat"
       ]
     },
     {
@@ -292,47 +413,66 @@
       "toeic_score_min": 500,
       "word": "threaten",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "threatened",
+        "past": "threatened",
         "past_participle": "threatened",
-        "present_participle": "threatening",
-        "third_person": "threatens"
+        "ing": "threatening",
+        "present_3rd": "threatens"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "threaten",
-          "definition": "vt. 恐吓, 威胁, 预示...的凶兆, vi. 威胁, 恫吓, 可能來临"
+          "definition": "vt. 威脅、恐嚇、預示…的凶兆  vi. 威脅、可能來臨"
         }
       ],
       "examples": [
         {
-          "en": "He threatened to call the police.",
+          "en": "The customer threatened to leave a negative review if his complaint was not resolved.",
+          "highlight": [
+            "threatened"
+          ],
+          "translations": {
+            "zh-TW": "顧客揚言如果他的投訴未獲解決，就要留下負評。"
+          }
+        },
+        {
+          "en": "The dark clouds threaten to rain on the outdoor event this afternoon.",
           "highlight": [
             "threaten"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "烏雲密布，下午的戶外活動恐將下雨。"
+          }
+        },
+        {
+          "en": "The new regulation threatens to disrupt supply chains across the industry.",
+          "highlight": [
+            "threatens"
+          ],
+          "translations": {
+            "zh-TW": "新法規恐將打亂整個產業的供應鏈。"
           }
         }
       ],
       "synonyms": [
         "intimidate",
-        "bully"
+        "bully",
+        "endanger"
       ],
       "antonyms": [
         "comfort",
-        "reassure"
+        "reassure",
+        "protect"
       ],
       "phrases": [
-        "threaten",
-        "with",
-        "threaten",
-        "to"
+        "threaten to do",
+        "threaten with",
+        "threaten to sue",
+        "threaten jobs"
       ]
     },
     {
@@ -343,44 +483,61 @@
       "toeic_score_min": 500,
       "word": "threatening",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "threatenings"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "threatening",
-          "definition": "a. 胁迫的, 危险的, [法] 威胁的, 恐吓的, 危险的"
+          "definition": "adj. 威脅的、恐嚇的、危險的、險惡的"
         }
       ],
       "examples": [
         {
-          "en": "She received a threatening letter.",
+          "en": "The employee received a threatening email from an anonymous sender.",
           "highlight": [
             "threatening"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "員工收到一封來自匿名寄件者的恐嚇電子郵件。"
+          }
+        },
+        {
+          "en": "Her threatening behavior led the manager to call security immediately.",
+          "highlight": [
+            "threatening"
+          ],
+          "translations": {
+            "zh-TW": "她威脅性的行為讓經理立刻通報保全。"
+          }
+        },
+        {
+          "en": "The threatening weather forced the airline to cancel all afternoon flights.",
+          "highlight": [
+            "threatening"
+          ],
+          "translations": {
+            "zh-TW": "惡劣的天氣迫使航空公司取消所有下午的航班。"
           }
         }
       ],
       "synonyms": [
         "menacing",
-        "intimidating"
+        "intimidating",
+        "ominous"
       ],
       "antonyms": [
         "comforting",
-        "reassuring"
+        "reassuring",
+        "welcoming"
       ],
       "phrases": [
-        "threatening",
-        "behavior",
-        "threatening",
-        "letter"
+        "threatening letter",
+        "threatening behavior",
+        "threatening tone",
+        "threatening weather"
       ]
     },
     {
@@ -402,30 +559,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "three",
-          "definition": "num. 三, 三個"
+          "definition": "num. 三、三個  n. 三歲、三點"
         }
       ],
       "examples": [
         {
-          "en": "There are three books on the table.",
+          "en": "The company will hire three new sales representatives next quarter.",
           "highlight": [
             "three"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司下季度將招聘三名新的業務代表。"
+          }
+        },
+        {
+          "en": "The first three applicants will be interviewed tomorrow morning.",
+          "highlight": [
+            "three"
+          ],
+          "translations": {
+            "zh-TW": "前三位應徵者將於明天上午進行面試。"
+          }
+        },
+        {
+          "en": "The students lined up in threes before entering the auditorium.",
+          "highlight": [
+            "threes"
+          ],
+          "translations": {
+            "zh-TW": "學生們三人一排排好隊，再進入禮堂。"
           }
         }
       ],
       "synonyms": [
-        "number",
-        "3"
+        "trio",
+        "triplet",
+        "ternary"
       ],
       "antonyms": [],
       "phrases": [
-        "three",
-        "times",
-        "three",
-        "years"
+        "three times",
+        "three years",
+        "three of us",
+        "rule of three"
       ]
     },
     {
@@ -436,45 +612,59 @@
       "toeic_score_min": 500,
       "word": "throat",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "throated",
-        "past_participle": "throated",
-        "present_participle": "throating",
-        "third_person": "throats"
+        "plural": "throats"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "throat",
-          "definition": "n. 咽喉, 喉咙, 嗓音, vt. 用喉音說, 开沟于"
+          "definition": "n. 喉嚨、咽喉、嗓音、窄道"
         }
       ],
       "examples": [
         {
-          "en": "He has a sore throat.",
+          "en": "The receptionist cleared her throat before answering the phone.",
           "highlight": [
             "throat"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "櫃檯人員在接電話前清了清喉嚨。"
+          }
+        },
+        {
+          "en": "The doctor says my sore throat will improve after a few days of rest.",
+          "highlight": [
+            "throat"
+          ],
+          "translations": {
+            "zh-TW": "醫生說我的喉嚨痛在休息幾天後就會好轉。"
+          }
+        },
+        {
+          "en": "The cold weather caused many employees to suffer from sore throats.",
+          "highlight": [
+            "throats"
+          ],
+          "translations": {
+            "zh-TW": "天氣寒冷使得許多員工喉嚨痛。"
           }
         }
       ],
       "synonyms": [
         "gullet",
-        "windpipe"
+        "windpipe",
+        "pharynx"
       ],
       "antonyms": [],
       "phrases": [
-        "sore",
-        "throat",
-        "clear",
-        "your",
-        "throat"
+        "sore throat",
+        "clear your throat",
+        "cut throat",
+        "stuck in your throat"
       ]
     }
   ]
