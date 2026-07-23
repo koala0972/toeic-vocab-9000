@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 298,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-298-001",
@@ -15,40 +15,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "treeed",
-        "past_participle": "treeed",
-        "present_participle": "treing",
-        "third_person": "trees"
+        "plural": "trees",
+        "present_3rd": "trees",
+        "past": "treed",
+        "past_participle": "treed",
+        "ing": "treeing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tree",
-          "definition": "n. 树, 木料, 树状物, vt. 把...赶上树, [计] 树; DOS外部命令:顯示指定磁盘驱動器的目录結构"
+          "definition": "n. 樹、樹木  v. 把（動物）追上樹、追捕"
         }
       ],
       "examples": [
         {
-          "en": "The tree in the garden is very old.",
+          "en": "The old tree in the courtyard provides shade for the whole office building.",
           "highlight": [
             "tree"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "院子裡那棵老樹為整棟辦公大樓提供遮蔭。"
+          }
+        },
+        {
+          "en": "The hounds treed the raccoon within minutes of starting the hunt.",
+          "highlight": [
+            "treed"
+          ],
+          "translations": {
+            "zh-TW": "獵犬在開始狩獵幾分鐘內就把浣熊追上了樹。"
+          }
+        },
+        {
+          "en": "Several rare trees were planted along the new boulevard last spring.",
+          "highlight": [
+            "trees"
+          ],
+          "translations": {
+            "zh-TW": "去年春天，幾棵稀有樹木沿著新林蔭大道種下。"
           }
         }
       ],
       "synonyms": [
         "plant",
-        "shrub"
+        "shrub",
+        "sapling"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "stump"
+      ],
       "phrases": [
-        "tree",
-        "trunk",
-        "fruit",
-        "tree"
+        "family tree",
+        "tree trunk",
+        "Christmas tree",
+        "branch of a tree"
       ]
     },
     {
@@ -63,40 +85,62 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "trended",
+        "plural": "trends",
+        "present_3rd": "trends",
+        "past": "trended",
         "past_participle": "trended",
-        "present_participle": "trending",
-        "third_person": "trends"
+        "ing": "trending"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "trend",
-          "definition": "n. 趋势, 倾向, 走向, vi. 倾向, 转向, [计] 趋势"
+          "definition": "n. 趨勢、走向、流行  v. 傾向、流行"
         }
       ],
       "examples": [
         {
-          "en": "There is a trend towards using renewable energy.",
+          "en": "There is a growing trend towards remote work in the tech industry.",
           "highlight": [
             "trend"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "科技業中遠端工作的趨勢日益增長。"
+          }
+        },
+        {
+          "en": "After the merger, customer satisfaction trended upward for three consecutive quarters.",
+          "highlight": [
+            "trended"
+          ],
+          "translations": {
+            "zh-TW": "併購之後，顧客滿意度連續三季呈現上升趨勢。"
+          }
+        },
+        {
+          "en": "Mobile payment has been trending on social media since the new app launched.",
+          "highlight": [
+            "trending"
+          ],
+          "translations": {
+            "zh-TW": "新應用程式上線以來，行動支付一直在社群媒體上發燒。"
           }
         }
       ],
       "synonyms": [
         "tendency",
-        "direction"
+        "direction",
+        "movement"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "stagnation"
+      ],
       "phrases": [
-        "current",
-        "trend",
-        "fashion",
-        "trend"
+        "market trend",
+        "set a trend",
+        "trending topic",
+        "upward trend"
       ]
     },
     {
@@ -108,43 +152,66 @@
       "word": "trial",
       "pos": [
         "noun",
+        "adjective",
         "verb"
       ],
       "conjugations": {
-        "past_tense": "trialed",
+        "plural": "trials",
+        "present_3rd": "trials",
+        "past": "trialed",
         "past_participle": "trialed",
-        "present_participle": "trialing",
-        "third_person": "trials"
+        "ing": "trialing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "trial",
-          "definition": "n. 审判, 试验, 艰苦, 麻烦事, 考验, a. 审讯的, 试验性的"
+          "definition": "n. 審判、試驗、試用  a. 試驗性的、試用的  v. 試用、測試"
         }
       ],
       "examples": [
         {
-          "en": "The trial lasted for several weeks.",
+          "en": "The free trial lasts for fourteen days before any charges apply.",
           "highlight": [
             "trial"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "免費試用為期十四天，之後才會收費。"
+          }
+        },
+        {
+          "en": "The company trialed the new software with a small team before rolling it out company-wide.",
+          "highlight": [
+            "trialed"
+          ],
+          "translations": {
+            "zh-TW": "公司在全面推行前，先讓一個小團隊試用了新軟體。"
+          }
+        },
+        {
+          "en": "Several clinical trials were conducted before the drug received official approval.",
+          "highlight": [
+            "trials"
+          ],
+          "translations": {
+            "zh-TW": "該藥物在獲得官方核准前進行了多項臨床試驗。"
           }
         }
       ],
       "synonyms": [
-        "case",
+        "test",
+        "experiment",
         "hearing"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "certainty"
+      ],
       "phrases": [
-        "court",
-        "trial",
-        "trial",
-        "period"
+        "free trial",
+        "trial period",
+        "clinical trial",
+        "trial and error"
       ]
     },
     {
@@ -155,44 +222,58 @@
       "toeic_score_min": 500,
       "word": "triangle",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "triangleed",
-        "past_participle": "triangleed",
-        "present_participle": "triangling",
-        "third_person": "triangles"
+        "plural": "triangles"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "triangle",
-          "definition": "n. 三角形, 三個一组, 三角關系, [医] 三角, 三角形"
+          "definition": "n. 三角形、三角關係"
         }
       ],
       "examples": [
         {
-          "en": "They drew a triangle on the board.",
+          "en": "The chef arranged the sandwiches in a neat triangle on the platter.",
           "highlight": [
             "triangle"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "主廚把三明治整齊地排成三角形放在大盤上。"
+          }
+        },
+        {
+          "en": "The architect used several triangles in the bridge design for maximum strength.",
+          "highlight": [
+            "triangles"
+          ],
+          "translations": {
+            "zh-TW": "建築師在橋樑設計中使用多個三角形以達到最大強度。"
+          }
+        },
+        {
+          "en": "Bermuda Triangle legends have fascinated travellers and writers for decades.",
+          "highlight": [
+            "triangle"
+          ],
+          "translations": {
+            "zh-TW": "百慕達三角洲的傳說數十年來令旅人與作家著迷不已。"
           }
         }
       ],
       "synonyms": [
-        "three-sided",
-        "figure"
+        "three-sided shape",
+        "trigon"
       ],
       "antonyms": [],
       "phrases": [
-        "right",
-        "triangle",
-        "equilateral",
-        "triangle"
+        "Bermuda Triangle",
+        "right triangle",
+        "love triangle",
+        "equilateral triangle"
       ]
     },
     {
@@ -207,44 +288,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "tricked",
+        "plural": "tricks",
+        "present_3rd": "tricks",
+        "past": "tricked",
         "past_participle": "tricked",
-        "present_participle": "tricking",
-        "third_person": "tricks"
+        "ing": "tricking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "trick",
-          "definition": "n. 诡计, 欺诈, 谋略, 恶作剧, 习惯, 决窍, vt. 愚弄, 欺骗, 装饰, vi. 哄骗, 戏弄, a. 有决窍的, 特技的, 欺诈的, 漂亮的, 靠不住的"
+          "definition": "n. 詭計、訣竅、把戲  v. 欺騙、哄騙"
         }
       ],
       "examples": [
         {
-          "en": "He played a trick on his friend.",
+          "en": "The magician performed a card trick that left the audience speechless.",
           "highlight": [
             "trick"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "魔術師表演的紙牌把戲讓觀眾目瞪口呆。"
+          }
+        },
+        {
+          "en": "The scammer tricked elderly customers into paying for services they never received.",
+          "highlight": [
+            "tricked"
+          ],
+          "translations": {
+            "zh-TW": "詐騙客哄騙年長顧客為从沒接受的服務付錢。"
+          }
+        },
+        {
+          "en": "There's a simple trick to remembering everyone's name at networking events.",
+          "highlight": [
+            "trick"
+          ],
+          "translations": {
+            "zh-TW": "在社交場合記住每個人名字有個簡單的訣竅。"
           }
         }
       ],
       "synonyms": [
         "deception",
-        "ruse"
+        "ruse",
+        "gimmick"
       ],
       "antonyms": [
         "honesty",
         "sincerity"
       ],
       "phrases": [
-        "play",
-        "a",
-        "trick",
-        "trick",
-        "someone"
+        "play a trick",
+        "trick or treat",
+        "trade trick",
+        "magic trick"
       ]
     },
     {
@@ -259,43 +359,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "triped",
-        "past_participle": "triped",
-        "present_participle": "triping",
-        "third_person": "trips"
+        "plural": "trips",
+        "present_3rd": "trips",
+        "past": "tripped",
+        "past_participle": "tripped",
+        "ing": "tripping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "trip",
-          "definition": "n. 旅行, 绊倒, 摔倒, 失足, 差錯, 旅程, vt. 使跌倒, 使犯錯, 使失败, vi. 輕快地走, 绊倒, 失误, 犯錯, 結巴, 旅行, 远足"
+          "definition": "n. 旅行、絆倒  v. 絆倒、出差、輕快地走"
         }
       ],
       "examples": [
         {
-          "en": "They went on a trip to the mountains.",
+          "en": "We are planning a business trip to Singapore next month.",
           "highlight": [
             "trip"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們正計畫下個月到新加坡出差。"
+          }
+        },
+        {
+          "en": "The warehouse worker tripped over a loose cable and twisted his ankle.",
+          "highlight": [
+            "tripped"
+          ],
+          "translations": {
+            "zh-TW": "倉庫工人被鬆脫的電纜絆倒，扭傷了腳踝。"
+          }
+        },
+        {
+          "en": "Several international trips were cancelled after the airline announced flight restrictions.",
+          "highlight": [
+            "trips"
+          ],
+          "translations": {
+            "zh-TW": "航空公司宣布航班限制後，數趟國際行程被取消。"
           }
         }
       ],
       "synonyms": [
         "journey",
-        "tour"
+        "tour",
+        "outing"
       ],
       "antonyms": [
         "stay",
-        "remain"
+        "rest"
       ],
       "phrases": [
-        "business",
-        "trip",
-        "day",
-        "trip"
+        "business trip",
+        "day trip",
+        "round trip",
+        "trip over"
       ]
     },
     {
@@ -306,41 +426,60 @@
       "toeic_score_min": 500,
       "word": "tropical",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "tropicals"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tropical",
-          "definition": "a. 热帶的, 热情的, [医] 热帶的"
+          "definition": "a. 熱帶的、酷熱的"
         }
       ],
       "examples": [
         {
-          "en": "The island has a tropical climate.",
+          "en": "The resort boasts a tropical climate perfect for year-round swimming.",
           "highlight": [
             "tropical"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這座度假村擁有適合全年游泳的熱帶氣候。"
+          }
+        },
+        {
+          "en": "Tropical fruits like mangoes and papayas are now sold in most supermarkets.",
+          "highlight": [
+            "tropical"
+          ],
+          "translations": {
+            "zh-TW": "芒果、木瓜等熱帶水果如今在大多數超市都買得到。"
+          }
+        },
+        {
+          "en": "A tropical storm is approaching the coast, and residents are advised to stay indoors.",
+          "highlight": [
+            "tropical"
+          ],
+          "translations": {
+            "zh-TW": "熱帶風暴正逼近海岸，居民被建議待在室內。"
           }
         }
       ],
       "synonyms": [
         "equatorial",
-        "hot"
+        "hot",
+        "sweltering"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "polar",
+        "arctic"
+      ],
       "phrases": [
-        "tropical",
-        "island",
-        "tropical",
-        "rainforest"
+        "tropical climate",
+        "tropical storm",
+        "tropical fruit",
+        "tropical rainforest"
       ]
     },
     {
@@ -355,44 +494,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "troubleed",
-        "past_participle": "troubleed",
-        "present_participle": "troubling",
-        "third_person": "troubles"
+        "plural": "troubles",
+        "present_3rd": "troubles",
+        "past": "troubled",
+        "past_participle": "troubled",
+        "ing": "troubling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "trouble",
-          "definition": "n. 烦恼, 麻烦, 困難, 動乱, 故障, vt. 困扰, 麻烦, 使烦恼, 折磨, vi. 烦恼, 费心"
+          "definition": "n. 麻煩、困難、煩惱  v. 使煩惱、困擾、麻煩"
         }
       ],
       "examples": [
         {
-          "en": "He is having trouble with his car.",
+          "en": "Contact customer service if you have any trouble logging into your account.",
           "highlight": [
             "trouble"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "若登入帳號遇到任何困難，請聯絡客服。"
+          }
+        },
+        {
+          "en": "The recent drop in sales troubled the board of directors enough to call an emergency meeting.",
+          "highlight": [
+            "troubled"
+          ],
+          "translations": {
+            "zh-TW": "近期銷售下滑讓董事會十分憂心，因而召開緊急會議。"
+          }
+        },
+        {
+          "en": "What's troubling you today? You seem distracted during the meeting.",
+          "highlight": [
+            "troubling"
+          ],
+          "translations": {
+            "zh-TW": "今天什麼事困擾著你？開會時你看起來心不在焉。"
           }
         }
       ],
       "synonyms": [
         "difficulty",
-        "problem"
+        "problem",
+        "worry"
       ],
       "antonyms": [
         "ease",
         "peace"
       ],
       "phrases": [
-        "have",
-        "trouble",
-        "get",
-        "into",
-        "trouble"
+        "in trouble",
+        "have trouble",
+        "get into trouble",
+        "troublemaker"
       ]
     },
     {
@@ -403,45 +561,57 @@
       "toeic_score_min": 500,
       "word": "trousers",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
-      "conjugations": {
-        "past_tense": "trousersed",
-        "past_participle": "trousersed",
-        "present_participle": "trousersing",
-        "third_person": "trouserses"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "trousers",
-          "definition": "pl. 裤子, 長裤"
+          "definition": "n. 長褲、褲子（複數）"
         }
       ],
       "examples": [
         {
-          "en": "He wore a pair of trousers.",
+          "en": "He bought a new pair of trousers for the job interview.",
           "highlight": [
             "trousers"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他為求職面試買了一條新長褲。"
+          }
+        },
+        {
+          "en": "These trousers are too tight around the waist; I'll need a larger size.",
+          "highlight": [
+            "trousers"
+          ],
+          "translations": {
+            "zh-TW": "這條長褲腰部太緊了；我需要大一號的尺寸。"
+          }
+        },
+        {
+          "en": "All employees must wear black trousers as part of the company uniform.",
+          "highlight": [
+            "trousers"
+          ],
+          "translations": {
+            "zh-TW": "所有員工必須穿著黑色長褲作為公司制服的一部分。"
           }
         }
       ],
       "synonyms": [
         "pants",
-        "slacks"
+        "slacks",
+        "bottoms"
       ],
       "antonyms": [],
       "phrases": [
-        "pair",
-        "of",
-        "trousers",
-        "wear",
-        "trousers"
+        "pair of trousers",
+        "wear the trousers",
+        "dress trousers",
+        "cargo trousers"
       ]
     },
     {
@@ -456,40 +626,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "trucked",
+        "plural": "trucks",
+        "present_3rd": "trucks",
+        "past": "trucked",
         "past_participle": "trucked",
-        "present_participle": "trucking",
-        "third_person": "trucks"
+        "ing": "trucking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "truck",
-          "definition": "n. 卡車, 货車, 對...进行交易, 來往, 實物工资, (供应市場的)蔬菜, 废物, 废话, vt. 對...进行交易, 交往, 以卡車運输, vi. 驾驶卡車, 以物易物"
+          "definition": "n. 卡車、貨車  v. 以卡車運送、駕駛卡車"
         }
       ],
       "examples": [
         {
-          "en": "The truck carried heavy loads.",
+          "en": "The delivery truck arrived thirty minutes earlier than scheduled.",
           "highlight": [
             "truck"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "送貨卡車比預定時間早三十分鐘抵達。"
+          }
+        },
+        {
+          "en": "The supplier trucked the construction materials across three states overnight.",
+          "highlight": [
+            "trucked"
+          ],
+          "translations": {
+            "zh-TW": "供應商連夜用卡車把建材運送過三個州。"
+          }
+        },
+        {
+          "en": "Several new trucks were added to the fleet to handle rising holiday orders.",
+          "highlight": [
+            "trucks"
+          ],
+          "translations": {
+            "zh-TW": "為應付假日訂單增加，車隊新增了好幾輛新卡車。"
           }
         }
       ],
       "synonyms": [
         "lorry",
+        "van",
         "vehicle"
       ],
       "antonyms": [],
       "phrases": [
-        "delivery",
-        "truck",
-        "truck",
-        "driver"
+        "delivery truck",
+        "truck driver",
+        "dump truck",
+        "pick-up truck"
       ]
     }
   ]
