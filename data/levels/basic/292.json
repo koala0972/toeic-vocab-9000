@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 292,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-292-001",
@@ -19,33 +19,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "tightly",
-          "definition": "adv. 紧紧地, 坚固地"
+          "definition": "adv. 緊緊地、牢固地"
         }
       ],
       "examples": [
         {
-          "en": "She held the rope tightly.",
+          "en": "She held the rope tightly to keep from falling.",
           "highlight": [
             "tightly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她緊緊抓住繩子，以免掉下來。"
+          }
+        },
+        {
+          "en": "The screws were fastened tightly to the wall.",
+          "highlight": [
+            "tightly"
+          ],
+          "translations": {
+            "zh-TW": "螺絲被牢牢地固定在牆上。"
+          }
+        },
+        {
+          "en": "He packed the fragile glasses tightly in bubble wrap.",
+          "highlight": [
+            "tightly"
+          ],
+          "translations": {
+            "zh-TW": "他把易碎的玻璃杯用氣泡紙緊緊包好。"
           }
         }
       ],
       "synonyms": [
         "securely",
-        "firmly"
+        "firmly",
+        "closely"
       ],
       "antonyms": [
         "loosely",
         "slackly"
       ],
       "phrases": [
-        "hold",
-        "tightly",
-        "fasten",
-        "tightly"
+        "hold tightly",
+        "fasten tightly",
+        "tightly packed",
+        "bind tightly"
       ]
     },
     {
@@ -65,31 +84,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "till",
-          "definition": "prep. 直到, 在...以前, 迄, conj. 直到...為止, vt. 耕種, n. 放钱的抽屉, 备用现金, 冰碛"
+          "definition": "prep. 直到……為止  conj. 直到……為止"
         }
       ],
       "examples": [
         {
-          "en": "We waited till the end of the movie.",
+          "en": "We waited till the end of the meeting.",
           "highlight": [
             "till"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們一直等到會議結束。"
+          }
+        },
+        {
+          "en": "The store stays open till midnight on weekends.",
+          "highlight": [
+            "till"
+          ],
+          "translations": {
+            "zh-TW": "這家店週末營業到午夜。"
+          }
+        },
+        {
+          "en": "Please keep this confidential till further notice.",
+          "highlight": [
+            "till"
+          ],
+          "translations": {
+            "zh-TW": "在接到進一步通知之前，請對此事保密。"
           }
         }
       ],
       "synonyms": [
-        "until"
+        "until",
+        "up to"
       ],
       "antonyms": [
-        "since"
+        "since",
+        "from"
       ],
       "phrases": [
-        "till",
-        "now",
-        "till",
-        "then"
+        "till now",
+        "till then",
+        "from dawn till dusk",
+        "till further notice"
       ]
     },
     {
@@ -104,40 +143,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "timeed",
-        "past_participle": "timeed",
-        "present_participle": "timing",
-        "third_person": "times"
+        "plural": "times",
+        "present_3rd": "times",
+        "past": "timed",
+        "past_participle": "timed",
+        "ing": "timing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "time",
-          "definition": "n. 時間, 時侯, 時机, 時期, 期限, 次数, 节拍, 暂停, 规定時間, vt. 测定...的時間, 記录...的時間, 计時, 定時, a. 時間的, 記時的, 定時的, 定期的, 分期的, [计] DOS内部命令:用于顯示或设定系统的時間"
+          "definition": "n. 時間、時刻、時期、次數  v. 計時、測定……的時間"
         }
       ],
       "examples": [
         {
-          "en": "Time flies when you're having fun.",
+          "en": "Time is money in the business world.",
           "highlight": [
             "time"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "在商業世界裡，時間就是金錢。"
+          }
+        },
+        {
+          "en": "She timed the runners during the marathon.",
+          "highlight": [
+            "timed"
+          ],
+          "translations": {
+            "zh-TW": "她在馬拉松期間為跑者計時。"
+          }
+        },
+        {
+          "en": "He is timing the presentation to keep it under ten minutes.",
+          "highlight": [
+            "timing"
+          ],
+          "translations": {
+            "zh-TW": "他正在為簡報計時，以確保在十分鐘以內。"
           }
         }
       ],
       "synonyms": [
         "duration",
-        "period"
+        "period",
+        "occasion"
       ],
       "antonyms": [],
       "phrases": [
-        "save",
-        "time",
-        "waste",
-        "time"
+        "save time",
+        "waste time",
+        "on time",
+        "take time"
       ]
     },
     {
@@ -152,40 +211,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "timetableed",
-        "past_participle": "timetableed",
-        "present_participle": "timetabling",
-        "third_person": "timetables"
+        "plural": "timetables",
+        "present_3rd": "timetables",
+        "past": "timetabled",
+        "past_participle": "timetabled",
+        "ing": "timetabling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "timetable",
-          "definition": "n. 時間表"
+          "definition": "n. 時刻表、時間表  v. 排入時間表、安排時程"
         }
       ],
       "examples": [
         {
-          "en": "Check the timetable for train departures.",
+          "en": "Check the timetable for the next train to London.",
           "highlight": [
             "timetable"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "查一下時間表，看看下一班往倫敦的火車。"
+          }
+        },
+        {
+          "en": "The manager timetabled the weekly meetings for Monday mornings.",
+          "highlight": [
+            "timetabled"
+          ],
+          "translations": {
+            "zh-TW": "經理把每週會議排在週一早上。"
+          }
+        },
+        {
+          "en": "She is timetabling all interviews into a single afternoon.",
+          "highlight": [
+            "timetabling"
+          ],
+          "translations": {
+            "zh-TW": "她正在把所有面試排進同一個下午的時程中。"
           }
         }
       ],
       "synonyms": [
         "schedule",
-        "agenda"
+        "agenda",
+        "itinerary"
       ],
       "antonyms": [],
       "phrases": [
-        "daily",
-        "timetable",
-        "school",
-        "timetable"
+        "train timetable",
+        "school timetable",
+        "daily timetable",
+        "bus timetable"
       ]
     },
     {
@@ -196,44 +275,59 @@
       "toeic_score_min": 500,
       "word": "tin",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "tined",
-        "past_participle": "tined",
-        "present_participle": "tining",
-        "third_person": "tins"
+        "plural": "tins"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tin",
-          "definition": "n. 锡, 馬口铁, 罐頭, vt. 在...镀锡于, a. 锡制的, [计] tin阅读程序"
+          "definition": "n. 錫、馬口鐵、罐頭、金屬容器"
         }
       ],
       "examples": [
         {
-          "en": "The can is made of tin.",
+          "en": "The cookies come in a decorative tin.",
           "highlight": [
             "tin"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "餅乾裝在裝飾用的馬口鐵罐裡。"
+          }
+        },
+        {
+          "en": "She bought several tins of paint for the renovation.",
+          "highlight": [
+            "tins"
+          ],
+          "translations": {
+            "zh-TW": "她為裝修買了好幾罐油漆。"
+          }
+        },
+        {
+          "en": "Tin is commonly used to coat other metals to prevent corrosion.",
+          "highlight": [
+            "tin"
+          ],
+          "translations": {
+            "zh-TW": "錫常被用來鍍在其他金屬上以防止腐蝕。"
           }
         }
       ],
       "synonyms": [
         "metal",
-        "container"
+        "container",
+        "canister"
       ],
       "antonyms": [],
       "phrases": [
-        "tin",
-        "can",
-        "tin",
-        "foil"
+        "tin can",
+        "tin foil",
+        "biscuit tin",
+        "tin roof"
       ]
     },
     {
@@ -244,44 +338,64 @@
       "toeic_score_min": 500,
       "word": "tiny",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "tinies"
+        "comparative": "tinier",
+        "superlative": "tiniest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tiny",
-          "definition": "a. 很少的, 微小的"
+          "definition": "adj. 微小的、極小的"
         }
       ],
       "examples": [
         {
-          "en": "She held a tiny kitten in her hand.",
+          "en": "She held a tiny kitten in her arms.",
           "highlight": [
             "tiny"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她懷裡抱著一隻小貓。"
+          }
+        },
+        {
+          "en": "The apartment is tiny, but it fits their needs perfectly.",
+          "highlight": [
+            "tiny"
+          ],
+          "translations": {
+            "zh-TW": "這間公寓很小，但完全符合他們的需求。"
+          }
+        },
+        {
+          "en": "He noticed a tiny crack in the windshield.",
+          "highlight": [
+            "tiny"
+          ],
+          "translations": {
+            "zh-TW": "他注意到擋風玻璃上有一條微小的裂紋。"
           }
         }
       ],
       "synonyms": [
         "small",
-        "little"
+        "little",
+        "minute"
       ],
       "antonyms": [
         "large",
-        "big"
+        "huge",
+        "gigantic"
       ],
       "phrases": [
-        "tiny",
-        "house",
-        "tiny",
-        "insect"
+        "tiny house",
+        "tiny insect",
+        "tiny bit",
+        "tiny crack"
       ]
     },
     {
@@ -296,44 +410,64 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "tiped",
-        "past_participle": "tiped",
-        "present_participle": "tiping",
-        "third_person": "tips"
+        "plural": "tips",
+        "present_3rd": "tips",
+        "past": "tipped",
+        "past_participle": "tipped",
+        "ing": "tipping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tip",
-          "definition": "n. 顶, 尖端, 梢, 末端, 倾斜, 垃圾場, 小费, 輕击, 指點, 秘密消息, vt. 装顶端, 使倾斜, 使翻倒, 泄露, 告诫, 暗示, 给...小费, 輕击, vi. 倾斜, 翻倒, 倾覆, 踮脚走, 给小费, [计] 终端接口處理器, 提示, 技巧"
+          "definition": "n. 尖端、小費、建議、提示  v. 給小費、傾斜、傾覆"
         }
       ],
       "examples": [
         {
-          "en": "He put the tip of the pen on the paper.",
+          "en": "He left a generous tip for the waiter.",
           "highlight": [
             "tip"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他給了服務生豐厚的小費。"
+          }
+        },
+        {
+          "en": "She tipped the delivery driver five dollars.",
+          "highlight": [
+            "tipped"
+          ],
+          "translations": {
+            "zh-TW": "她給了外送司機五美元的小費。"
+          }
+        },
+        {
+          "en": "The canoe tipped over when the wind suddenly changed direction.",
+          "highlight": [
+            "tipped"
+          ],
+          "translations": {
+            "zh-TW": "風向突然改變時，獨木舟翻了。"
           }
         }
       ],
       "synonyms": [
         "point",
-        "end"
+        "end",
+        "gratuity",
+        "hint"
       ],
       "antonyms": [
         "base",
         "bottom"
       ],
       "phrases": [
-        "tip",
-        "of",
-        "the",
-        "iceberg",
-        "tip"
+        "tip of the iceberg",
+        "leave a tip",
+        "tip over",
+        "handy tip"
       ]
     },
     {
@@ -348,43 +482,64 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "tireed",
-        "past_participle": "tireed",
-        "present_participle": "tiring",
-        "third_person": "tires"
+        "plural": "tires",
+        "present_3rd": "tires",
+        "past": "tired",
+        "past_participle": "tired",
+        "ing": "tiring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tire",
-          "definition": "n. 轮胎, 頭饰, vt. 使疲倦, 使厌烦, 打扮, vi. 疲劳, 厌倦"
+          "definition": "v. 使疲倦、使厭倦  n. 輪胎"
         }
       ],
       "examples": [
         {
-          "en": "He tires easily after running.",
+          "en": "Long meetings tire everyone in the office.",
           "highlight": [
             "tire"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "漫長的會議讓辦公室裡的人都感到疲倦。"
+          }
+        },
+        {
+          "en": "The mechanic replaced the front tires of the car.",
+          "highlight": [
+            "tires"
+          ],
+          "translations": {
+            "zh-TW": "技師更換了車子的前輪胎。"
+          }
+        },
+        {
+          "en": "The long hike tired the children, so they rested by the lake.",
+          "highlight": [
+            "tired"
+          ],
+          "translations": {
+            "zh-TW": "長途健行讓孩子們累了，所以他們在湖邊休息。"
           }
         }
       ],
       "synonyms": [
         "weary",
-        "exhaust"
+        "exhaust",
+        "fatigue"
       ],
       "antonyms": [
         "energize",
-        "refresh"
+        "refresh",
+        "renew"
       ],
       "phrases": [
-        "get",
-        "tired",
-        "feel",
-        "tired"
+        "get tired",
+        "flat tire",
+        "tire out",
+        "spare tire"
       ]
     },
     {
@@ -395,47 +550,64 @@
       "toeic_score_min": 500,
       "word": "tired",
       "pos": [
-        "adjective",
-        "verb"
+        "adjective"
       ],
       "conjugations": {
-        "past_tense": "tireded",
-        "past_participle": "tireded",
-        "present_participle": "tireding",
-        "third_person": "tireds"
+        "comparative": "more tired",
+        "superlative": "most tired"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tired",
-          "definition": "a. 疲累的, 疲乏的, 厌倦的"
+          "definition": "adj. 疲累的、疲倦的、厭倦的"
         }
       ],
       "examples": [
         {
-          "en": "She felt tired after a long day.",
+          "en": "She felt tired after working overtime all week.",
           "highlight": [
             "tired"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "整週加班之後，她感到很疲倦。"
+          }
+        },
+        {
+          "en": "He was more tired than usual after the long flight.",
+          "highlight": [
+            "tired"
+          ],
+          "translations": {
+            "zh-TW": "長途飛行後，他比平常更累。"
+          }
+        },
+        {
+          "en": "The tired workers finally headed home at midnight.",
+          "highlight": [
+            "tired"
+          ],
+          "translations": {
+            "zh-TW": "疲憊的工人們終於在午夜回家。"
           }
         }
       ],
       "synonyms": [
         "weary",
-        "exhausted"
+        "exhausted",
+        "fatigued"
       ],
       "antonyms": [
         "energetic",
+        "refreshed",
         "rested"
       ],
       "phrases": [
-        "tired",
-        "eyes",
-        "tired",
-        "body"
+        "feel tired",
+        "get tired",
+        "tired of",
+        "tired out"
       ]
     },
     {
@@ -446,44 +618,64 @@
       "toeic_score_min": 500,
       "word": "tiring",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "tirings"
+        "comparative": "more tiring",
+        "superlative": "most tiring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tiring",
-          "definition": "a. 引起疲劳的, 累人的, [医] 轮箍术(髌骨骨折時)"
+          "definition": "adj. 令人疲倦的、累人的"
         }
       ],
       "examples": [
         {
-          "en": "Moving can be a tiring process.",
+          "en": "Moving to a new apartment can be a tiring process.",
           "highlight": [
             "tiring"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "搬到新公寓可能是個累人的過程。"
+          }
+        },
+        {
+          "en": "The mountain hike was more tiring than they expected.",
+          "highlight": [
+            "tiring"
+          ],
+          "translations": {
+            "zh-TW": "這次登山健行比他們預期的還要累人。"
+          }
+        },
+        {
+          "en": "She found the repetitive paperwork the most tiring part of her job.",
+          "highlight": [
+            "tiring"
+          ],
+          "translations": {
+            "zh-TW": "她覺得重複的文書工作是工作中最令人疲累的部分。"
           }
         }
       ],
       "synonyms": [
         "exhausting",
-        "draining"
+        "draining",
+        "fatiguing"
       ],
       "antonyms": [
         "refreshing",
+        "relaxing",
         "easy"
       ],
       "phrases": [
-        "tiring",
-        "work",
-        "tiring",
-        "day"
+        "tiring work",
+        "tiring day",
+        "tiring journey",
+        "tiring task"
       ]
     }
   ]
