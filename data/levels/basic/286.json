@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 286,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-286-001",
@@ -11,44 +11,62 @@
       "toeic_score_min": 500,
       "word": "tendency",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "tendencyed",
-        "past_participle": "tendencyed",
-        "present_participle": "tendencying",
-        "third_person": "tendencys"
+        "plural": "tendencies"
       },
-      "domain": "general",
+      "domain": "behavior",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tendency",
-          "definition": "n. 趋向, 倾向, [医] 趋向, 趋势"
+          "definition": "n. 傾向、趨勢、癖好"
         }
       ],
       "examples": [
         {
-          "en": "There is a tendency to avoid risks.",
+          "en": "There is a growing tendency among consumers to shop online.",
           "highlight": [
             "tendency"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "消費者上網購物的傾向日益增加。"
+          }
+        },
+        {
+          "en": "The manager noticed several tendencies in the sales data over the past quarter.",
+          "highlight": [
+            "tendencies"
+          ],
+          "translations": {
+            "zh-TW": "經理注意到過去一季的銷售數據中出現了幾個趨勢。"
+          }
+        },
+        {
+          "en": "His tendency to arrive late has become a serious problem for the team.",
+          "highlight": [
+            "tendency"
+          ],
+          "translations": {
+            "zh-TW": "他老是遲到的傾向已經成了團隊的一個嚴重問題。"
           }
         }
       ],
       "synonyms": [
+        "inclination",
         "propensity",
-        "inclination"
+        "lean"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "reluctance",
+        "unwillingness"
+      ],
       "phrases": [
-        "natural",
-        "tendency",
-        "strong",
-        "tendency"
+        "natural tendency",
+        "show a tendency",
+        "have a tendency to",
+        "growing tendency"
       ]
     },
     {
@@ -63,40 +81,61 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "tenses"
+        "plural": "tenses",
+        "comparative": "tenser",
+        "superlative": "tensest"
       },
-      "domain": "general",
+      "domain": "emotion",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tense",
-          "definition": "a. 紧张的, 拉紧的, v. (使)紧张, (使)拉紧, n. 時态"
+          "definition": "a. 緊張的、拉緊的  n. 時態"
         }
       ],
       "examples": [
         {
-          "en": "He felt tense before the exam.",
+          "en": "The atmosphere in the meeting room was tense before the announcement.",
           "highlight": [
             "tense"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "宣布消息之前，會議室裡的氣氛很緊張。"
+          }
+        },
+        {
+          "en": "The negotiation became tenser as both sides refused to compromise.",
+          "highlight": [
+            "tenser"
+          ],
+          "translations": {
+            "zh-TW": "由於雙方都不肯讓步，談判變得更加緊張。"
+          }
+        },
+        {
+          "en": "The teacher explained the difference between the past and present tenses.",
+          "highlight": [
+            "tenses"
+          ],
+          "translations": {
+            "zh-TW": "老師解釋了過去式與現在式時態的差別。"
           }
         }
       ],
       "synonyms": [
-        "taut",
-        "tight"
+        "nervous",
+        "anxious",
+        "taut"
       ],
       "antonyms": [
         "relaxed",
-        "loose"
+        "calm"
       ],
       "phrases": [
-        "tense",
-        "muscles",
-        "feel",
-        "tense"
+        "tense atmosphere",
+        "tense situation",
+        "past tense",
+        "feel tense"
       ]
     },
     {
@@ -107,48 +146,62 @@
       "toeic_score_min": 500,
       "word": "tension",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "tensioned",
-        "past_participle": "tensioned",
-        "present_participle": "tensioning",
-        "third_person": "tensions"
+        "plural": "tensions"
       },
-      "domain": "general",
+      "domain": "emotion",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tension",
-          "definition": "n. 紧张, 不安, 拉紧, 张力, 压力, 电压, vt. 拉紧, 使紧张"
+          "definition": "n. 緊張、張力、壓力"
         }
       ],
       "examples": [
         {
-          "en": "The tension in the rope was high.",
+          "en": "The tension between the two departments finally eased after the new policy was announced.",
           "highlight": [
             "tension"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新政策宣布後，兩個部門之間的緊張關係終於緩和了。"
+          }
+        },
+        {
+          "en": "Political tensions between the two nations have risen sharply this year.",
+          "highlight": [
+            "tensions"
+          ],
+          "translations": {
+            "zh-TW": "兩國之間的政治緊張局勢今年急遽升高。"
+          }
+        },
+        {
+          "en": "Proper stretching can reduce muscle tension after a long day at the desk.",
+          "highlight": [
+            "tension"
+          ],
+          "translations": {
+            "zh-TW": "在辦公桌前坐了一整天後，適當的伸展可以減輕肌肉的緊繃。"
           }
         }
       ],
       "synonyms": [
         "strain",
-        "stress"
+        "stress",
+        "pressure"
       ],
       "antonyms": [
         "relaxation",
         "ease"
       ],
       "phrases": [
-        "high",
-        "tension",
-        "tension",
-        "in",
-        "the"
+        "ease tension",
+        "muscle tension",
+        "political tension",
+        "high tension"
       ]
     },
     {
@@ -163,41 +216,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "tented",
+        "plural": "tents",
+        "present_3rd": "tents",
+        "past": "tented",
         "past_participle": "tented",
-        "present_participle": "tenting",
-        "third_person": "tents"
+        "ing": "tenting"
       },
-      "domain": "general",
+      "domain": "outdoor",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tent",
-          "definition": "n. 帐篷, 帷幕, 住處, 塞条, 塞子, vi. 住帐蓬, 宿营, 暂時居住, vt. 用帐篷遮盖, 使住帐篷, 用塞条嵌入"
+          "definition": "n. 帳篷  v. 紮營、用帳篷遮蓋"
         }
       ],
       "examples": [
         {
-          "en": "They set up a tent in the campsite.",
+          "en": "The festival organizer reserved a large tent for the outdoor exhibition.",
           "highlight": [
             "tent"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "活動主辦單位為戶外展覽預訂了一頂大帳篷。"
+          }
+        },
+        {
+          "en": "Several exhibitors tented the open courtyard to protect their products from the rain.",
+          "highlight": [
+            "tented"
+          ],
+          "translations": {
+            "zh-TW": "幾位參展商在露天庭院搭起帳篷以保護產品不被雨淋。"
+          }
+        },
+        {
+          "en": "Tenting the venue in advance kept the ceremony running smoothly despite the storm.",
+          "highlight": [
+            "Tenting"
+          ],
+          "translations": {
+            "zh-TW": "事先為會場搭好帳篷，讓典禮在暴風雨中仍順利進行。"
           }
         }
       ],
       "synonyms": [
         "canopy",
-        "shelter"
+        "shelter",
+        "pavilion"
       ],
       "antonyms": [],
       "phrases": [
-        "camping",
-        "tent",
-        "set",
-        "up",
-        "a"
+        "pitch a tent",
+        "tent city",
+        "circus tent",
+        "tent pole"
       ]
     },
     {
@@ -212,40 +284,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "termed",
+        "plural": "terms",
+        "present_3rd": "terms",
+        "past": "termed",
         "past_participle": "termed",
-        "present_participle": "terming",
-        "third_person": "terms"
+        "ing": "terming"
       },
-      "domain": "general",
+      "domain": "contract",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "term",
-          "definition": "n. 术語, 专有名词, 期限, 学期, 任期, 条件, 价钱, 關系, 地位, 项, 界石, vt. 称, 呼, [计] 检索词; 项"
+          "definition": "n. 期限、學期、條款、術語  v. 稱為、把…叫作"
         }
       ],
       "examples": [
         {
-          "en": "The term 'biodiversity' is often used by scientists.",
+          "en": "The lease term for the new office is three years.",
           "highlight": [
             "term"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新辦公室的租賃期限為三年。"
+          }
+        },
+        {
+          "en": "Both companies agreed to revise the payment terms before signing the contract.",
+          "highlight": [
+            "terms"
+          ],
+          "translations": {
+            "zh-TW": "兩家公司在簽約前同意修改付款條款。"
+          }
+        },
+        {
+          "en": "The report termed the new regulation a major turning point for the industry.",
+          "highlight": [
+            "termed"
+          ],
+          "translations": {
+            "zh-TW": "報告將這項新法規稱為該產業的重大轉捩點。"
           }
         }
       ],
       "synonyms": [
-        "expression",
+        "period",
+        "condition",
         "phrase"
       ],
       "antonyms": [],
       "phrases": [
-        "technical",
-        "term",
-        "term",
-        "paper"
+        "long term",
+        "in terms of",
+        "term of contract",
+        "come to terms with"
       ]
     },
     {
@@ -256,44 +348,63 @@
       "toeic_score_min": 500,
       "word": "terrible",
       "pos": [
-        "adjective",
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "terribles"
+        "comparative": "more terrible",
+        "superlative": "most terrible"
       },
-      "domain": "general",
+      "domain": "quality",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "terrible",
-          "definition": "a. 可怕的, 令人恐惧的, 极坏的"
+          "definition": "a. 可怕的、糟糕的、令人不快的"
         }
       ],
       "examples": [
         {
-          "en": "The weather was terrible yesterday.",
+          "en": "The flight was delayed for six hours due to terrible weather.",
           "highlight": [
             "terrible"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "由於惡劣的天氣，航班延誤了六個小時。"
+          }
+        },
+        {
+          "en": "Customer complaints rose sharply after the terrible product launch last month.",
+          "highlight": [
+            "terrible"
+          ],
+          "translations": {
+            "zh-TW": "上個月糟糕的產品發表會後，顧客投訴急遽增加。"
+          }
+        },
+        {
+          "en": "That was the most terrible service I have ever experienced at a hotel.",
+          "highlight": [
+            "most terrible"
+          ],
+          "translations": {
+            "zh-TW": "那是我住過的飯店中體驗過最糟糕的服務。"
           }
         }
       ],
       "synonyms": [
-        "horrible",
-        "dreadful"
+        "awful",
+        "dreadful",
+        "horrible"
       ],
       "antonyms": [
         "wonderful",
         "excellent"
       ],
       "phrases": [
-        "terrible",
-        "accident",
-        "terrible",
-        "news"
+        "terrible weather",
+        "terrible news",
+        "feel terrible",
+        "terrible mistake"
       ]
     },
     {
@@ -307,37 +418,57 @@
         "adverb"
       ],
       "conjugations": {},
-      "domain": "general",
+      "domain": "degree",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "terribly",
-          "definition": "adv. 可怕地, 甚為, 非常"
+          "definition": "adv. 非常、極度、可怕地"
         }
       ],
       "examples": [
         {
-          "en": "He was terribly sorry for the mistake.",
+          "en": "I am terribly sorry for the delay in responding to your email.",
           "highlight": [
             "terribly"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "對於迟迟未回覆您的電子郵件，我感到非常抱歉。"
+          }
+        },
+        {
+          "en": "The shipping fee has increased terribly over the past few months.",
+          "highlight": [
+            "terribly"
+          ],
+          "translations": {
+            "zh-TW": "過去幾個月來運費大幅地增加了。"
+          }
+        },
+        {
+          "en": "The new intern is terribly shy, but her work is excellent.",
+          "highlight": [
+            "terribly"
+          ],
+          "translations": {
+            "zh-TW": "那位新來的實習生非常害羞，但她的工作表現很出色。"
           }
         }
       ],
       "synonyms": [
         "awfully",
-        "extremely"
+        "extremely",
+        "very"
       ],
       "antonyms": [
-        "wonderfully"
+        "slightly",
+        "barely"
       ],
       "phrases": [
-        "terribly",
-        "wrong",
-        "terribly",
-        "afraid"
+        "terribly sorry",
+        "terribly wrong",
+        "terribly expensive",
+        "terribly afraid"
       ]
     },
     {
@@ -352,40 +483,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "tested",
+        "plural": "tests",
+        "present_3rd": "tests",
+        "past": "tested",
         "past_participle": "tested",
-        "present_participle": "testing",
-        "third_person": "tests"
+        "ing": "testing"
       },
-      "domain": "general",
+      "domain": "evaluation",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "test",
-          "definition": "n. 测试, 试验, 化验, 检验, 考验, 甲壳, vt. 测试, 试验, 化验, vi. 接受测验, 进行测试"
+          "definition": "n. 測試、考試、試驗  v. 測試、檢驗"
         }
       ],
       "examples": [
         {
-          "en": "She passed the driving test.",
+          "en": "All applicants must pass a language test before the interview.",
           "highlight": [
             "test"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "所有求職者在面試前都必須通過語言測試。"
+          }
+        },
+        {
+          "en": "The company tested the new software for three months before launching it.",
+          "highlight": [
+            "tested"
+          ],
+          "translations": {
+            "zh-TW": "公司在推出新軟體前測試了三個月。"
+          }
+        },
+        {
+          "en": "Testing the product with real users revealed several usability issues.",
+          "highlight": [
+            "Testing"
+          ],
+          "translations": {
+            "zh-TW": "請真實使用者測試產品後，發現了幾個易用性問題。"
           }
         }
       ],
       "synonyms": [
         "exam",
-        "trial"
+        "trial",
+        "assessment"
       ],
       "antonyms": [],
       "phrases": [
-        "test",
-        "score",
-        "blood",
-        "test"
+        "take a test",
+        "pass the test",
+        "blood test",
+        "stress test"
       ]
     },
     {
@@ -400,41 +551,60 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "texted",
+        "plural": "texts",
+        "present_3rd": "texts",
+        "past": "texted",
         "past_participle": "texted",
-        "present_participle": "texting",
-        "third_person": "texts"
+        "ing": "texting"
       },
-      "domain": "general",
+      "domain": "communication",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "text",
-          "definition": "n. 文本, 正文, 课文, 主题, 圣經文句, 乐谱, [计] 电文; 文本; 正文"
+          "definition": "n. 文字、簡訊、課文  v. 傳簡訊"
         }
       ],
       "examples": [
         {
-          "en": "She sent a text message.",
+          "en": "Please send the meeting agenda as a text attachment.",
           "highlight": [
             "text"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請將會議議程以文字附件的形式寄出。"
+          }
+        },
+        {
+          "en": "She texted her colleague to confirm the time of the client call.",
+          "highlight": [
+            "texted"
+          ],
+          "translations": {
+            "zh-TW": "她傳簡訊給同事，確認致電客戶的時間。"
+          }
+        },
+        {
+          "en": "Texting while driving is strictly prohibited in most countries.",
+          "highlight": [
+            "Texting"
+          ],
+          "translations": {
+            "zh-TW": "在大多數國家，開車時傳簡訊是被嚴格禁止的。"
           }
         }
       ],
       "synonyms": [
+        "message",
         "document",
         "script"
       ],
       "antonyms": [],
       "phrases": [
-        "read",
-        "the",
-        "text",
-        "write",
-        "a"
+        "text message",
+        "send a text",
+        "text book",
+        "full text"
       ]
     },
     {
@@ -449,32 +619,50 @@
         "preposition"
       ],
       "conjugations": {},
-      "domain": "general",
+      "domain": "comparison",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "than",
-          "definition": "conj. 比, 除...外, prep. 比"
+          "definition": "conj. 比、除…之外  prep. 比"
         }
       ],
       "examples": [
         {
-          "en": "He is taller than his brother.",
+          "en": "Sales this quarter are higher than the same period last year.",
           "highlight": [
             "than"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "本季的銷售額高於去年同期。"
+          }
+        },
+        {
+          "en": "Nothing is more important to the company than customer satisfaction.",
+          "highlight": [
+            "than"
+          ],
+          "translations": {
+            "zh-TW": "對公司而言，沒有什麼比顧客滿意度更重要。"
+          }
+        },
+        {
+          "en": "She would rather work late than miss the deadline.",
+          "highlight": [
+            "than"
+          ],
+          "translations": {
+            "zh-TW": "她寧願加班也不願錯過截止日期。"
           }
         }
       ],
       "synonyms": [],
       "antonyms": [],
       "phrases": [
-        "bigger",
-        "than",
-        "better",
-        "than"
+        "better than",
+        "rather than",
+        "more than",
+        "other than"
       ]
     }
   ]
