@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 285,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-285-001",
@@ -17,38 +17,57 @@
       "conjugations": {
         "plural": "technicals"
       },
-      "domain": "general",
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "technical",
-          "definition": "a. 技术上的, 专門的, 工业的, 严格根据法律的, [化] 技巧"
+          "definition": "a. 技術的、專門的、工業的"
         }
       ],
       "examples": [
         {
-          "en": "He has technical skills.",
+          "en": "The engineer explained the technical problem to the new intern.",
           "highlight": [
             "technical"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "工程師向新實習生解釋了那個技術問題。"
+          }
+        },
+        {
+          "en": "Applicants must pass a technical interview before being hired.",
+          "highlight": [
+            "technical"
+          ],
+          "translations": {
+            "zh-TW": "求職者必須通過技術面試才能被錄用。"
+          }
+        },
+        {
+          "en": "The report's technicals impressed the board of directors.",
+          "highlight": [
+            "technicals"
+          ],
+          "translations": {
+            "zh-TW": "報告中的技術細節讓董事會印象深刻。"
           }
         }
       ],
       "synonyms": [
-        "scientific",
-        "specialized"
+        "specialized",
+        "technological",
+        "scientific"
       ],
       "antonyms": [
-        "non-technical",
-        "simple"
+        "general",
+        "non-technical"
       ],
       "phrases": [
-        "technical",
-        "knowledge",
-        "technical",
-        "problem"
+        "technical skills",
+        "technical support",
+        "technical problem",
+        "technical analysis"
       ]
     },
     {
@@ -59,44 +78,62 @@
       "toeic_score_min": 500,
       "word": "technique",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "techniqueed",
-        "past_participle": "techniqueed",
-        "present_participle": "techniquing",
-        "third_person": "techniques"
+        "plural": "techniques"
       },
-      "domain": "general",
+      "domain": "method",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "technique",
-          "definition": "n. 技巧, 技术, 方法, [化] 工艺方法; 技巧"
+          "definition": "n. 技巧、技術、方法"
         }
       ],
       "examples": [
         {
-          "en": "Her technique in painting is unique.",
+          "en": "Her presentation technique in the debate won the audience over.",
           "highlight": [
             "technique"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她在辯論中的表達技巧贏得了聽眾的支持。"
+          }
+        },
+        {
+          "en": "Modern sales techniques rely on building trust rather than pressure.",
+          "highlight": [
+            "techniques"
+          ],
+          "translations": {
+            "zh-TW": "現代的銷售技巧仰賴建立信任而非施加壓力。"
+          }
+        },
+        {
+          "en": "Various textbook editing techniques have been improving student comprehension.",
+          "highlight": [
+            "techniques"
+          ],
+          "translations": {
+            "zh-TW": "各種教科書編輯技巧一直都在提升學生的理解力。"
           }
         }
       ],
       "synonyms": [
         "method",
-        "skill"
+        "skill",
+        "approach"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "clumsiness",
+        "incompetence"
+      ],
       "phrases": [
-        "effective",
-        "technique",
-        "unique",
-        "technique"
+        "effective technique",
+        "unique technique",
+        "improve technique",
+        "adopt new techniques"
       ]
     },
     {
@@ -107,44 +144,62 @@
       "toeic_score_min": 500,
       "word": "technology",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "technologyed",
-        "past_participle": "technologyed",
-        "present_participle": "technologying",
-        "third_person": "technologys"
+        "plural": "technologies"
       },
-      "domain": "general",
+      "domain": "innovation",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "technology",
-          "definition": "n. 技术, 工业技术, 术語, [医] 技术学, 工艺学"
+          "definition": "n. 科技、技術、工業技術"
         }
       ],
       "examples": [
         {
-          "en": "Advances in technology are rapid.",
+          "en": "Information technology has transformed the way businesses operate globally.",
           "highlight": [
             "technology"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "資訊科技已經改變了企業在全球營運的方式。"
+          }
+        },
+        {
+          "en": "Renewable technologies are attracting more government funding each year.",
+          "highlight": [
+            "technologies"
+          ],
+          "translations": {
+            "zh-TW": "再生能源科技每年都吸引更多政府資金投入。"
+          }
+        },
+        {
+          "en": "The company invested heavily in technology to stay ahead of competitors.",
+          "highlight": [
+            "technology"
+          ],
+          "translations": {
+            "zh-TW": "公司大量投資科技以保持領先競爭對手的優勢。"
           }
         }
       ],
       "synonyms": [
         "innovation",
-        "machinery"
+        "machinery",
+        "applied science"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "tradition",
+        "antiquated method"
+      ],
       "phrases": [
-        "modern",
-        "technology",
-        "new",
-        "technology"
+        "modern technology",
+        "information technology",
+        "develop new technologies",
+        "technology sector"
       ]
     },
     {
@@ -159,41 +214,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "telephoneed",
-        "past_participle": "telephoneed",
-        "present_participle": "telephoning",
-        "third_person": "telephones"
+        "plural": "telephones",
+        "present_3rd": "telephones",
+        "past": "telephoned",
+        "past_participle": "telephoned",
+        "ing": "telephoning"
       },
-      "domain": "general",
+      "domain": "communication",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "telephone",
-          "definition": "n. 电话, 电话机, v. 打电话"
+          "definition": "n. 電話、電話機  v. 打電話"
         }
       ],
       "examples": [
         {
-          "en": "She called him on the telephone.",
+          "en": "Please leave your telephone number with the receptionist.",
           "highlight": [
             "telephone"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請將您的電話號碼留給櫃台人員。"
+          }
+        },
+        {
+          "en": "She telephoned the client to confirm the meeting schedule.",
+          "highlight": [
+            "telephoned"
+          ],
+          "translations": {
+            "zh-TW": "她打電話給客戶確認會議時間。"
+          }
+        },
+        {
+          "en": "Telephoning during office hours is more efficient than emailing back and forth.",
+          "highlight": [
+            "Telephoning"
+          ],
+          "translations": {
+            "zh-TW": "辦公時間內打電話比往返電子郵件更有效率。"
           }
         }
       ],
       "synonyms": [
         "phone",
-        "handset"
+        "call",
+        "ring"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "letter",
+        "telegram"
+      ],
       "phrases": [
-        "answer",
-        "the",
-        "telephone",
-        "telephone",
-        "call"
+        "telephone number",
+        "answer the telephone",
+        "telephone call",
+        "telephone directory"
       ]
     },
     {
@@ -204,44 +281,61 @@
       "toeic_score_min": 500,
       "word": "television",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "televisioned",
-        "past_participle": "televisioned",
-        "present_participle": "televisioning",
-        "third_person": "televisions"
+        "plural": "televisions"
       },
-      "domain": "general",
+      "domain": "media",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "television",
-          "definition": "n. 电视, [电] 电视"
+          "definition": "n. 電視、電視機"
         }
       ],
       "examples": [
         {
-          "en": "She watched her favorite show on television.",
+          "en": "The company launched its new product with a television advertisement.",
           "highlight": [
             "television"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司透過電視廣告推出新產品。"
+          }
+        },
+        {
+          "en": "Several televisions in the showroom displayed the latest models.",
+          "highlight": [
+            "televisions"
+          ],
+          "translations": {
+            "zh-TW": "展示間裡好幾台電視展示著最新型號。"
+          }
+        },
+        {
+          "en": "She prefers streaming services over traditional television.",
+          "highlight": [
+            "television"
+          ],
+          "translations": {
+            "zh-TW": "比起傳統電視，她更偏好串流服務。"
           }
         }
       ],
       "synonyms": [
         "TV",
+        "broadcast",
         "screen"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "radio"
+      ],
       "phrases": [
-        "watch",
-        "television",
-        "television",
-        "program"
+        "watch television",
+        "television program",
+        "television commercial",
+        "color television"
       ]
     },
     {
@@ -252,48 +346,65 @@
       "toeic_score_min": 500,
       "word": "tell",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "telled",
-        "past_participle": "telled",
-        "present_participle": "telling",
-        "third_person": "tells"
+        "present_3rd": "tells",
+        "past": "told",
+        "past_participle": "told",
+        "ing": "telling"
       },
-      "domain": "general",
+      "domain": "communication",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tell",
-          "definition": "vt. 告诉, 說, 吩咐, 断定, 知道, vi. 讲述, 泄密, 告發, 表明"
+          "definition": "v. 告訴、分辨、吩咐"
         }
       ],
       "examples": [
         {
-          "en": "Can you tell me the time?",
+          "en": "Please tell the supplier that the order will be delayed by two days.",
           "highlight": [
             "tell"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "請告訴供應商訂單將延遲兩天。"
+          }
+        },
+        {
+          "en": "The manager told the team that the deadline had been moved up.",
+          "highlight": [
+            "told"
+          ],
+          "translations": {
+            "zh-TW": "經理告訴團隊截止日期已經提前了。"
+          }
+        },
+        {
+          "en": "She is telling the new employee about the company dress code.",
+          "highlight": [
+            "telling"
+          ],
+          "translations": {
+            "zh-TW": "她正在告訴新進員工公司的服裝規定。"
           }
         }
       ],
       "synonyms": [
         "inform",
+        "notify",
         "communicate"
       ],
       "antonyms": [
-        "listen",
-        "receive"
+        "conceal",
+        "hide"
       ],
       "phrases": [
-        "tell",
-        "a",
-        "story",
-        "tell",
-        "the"
+        "tell a story",
+        "tell the truth",
+        "tell apart",
+        "tell someone about"
       ]
     },
     {
@@ -304,48 +415,62 @@
       "toeic_score_min": 500,
       "word": "temperature",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "temperatureed",
-        "past_participle": "temperatureed",
-        "present_participle": "temperaturing",
-        "third_person": "temperatures"
+        "plural": "temperatures"
       },
-      "domain": "general",
+      "domain": "science",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "temperature",
-          "definition": "n. 温度, 發烧, 热度, [化] 温度"
+          "definition": "n. 溫度、體溫、發燒"
         }
       ],
       "examples": [
         {
-          "en": "The temperature dropped suddenly.",
+          "en": "The warehouse temperature must be kept below 25 degrees for the medicine.",
           "highlight": [
             "temperature"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "倉庫溫度必須保持在 25 度以下以存放藥品。"
+          }
+        },
+        {
+          "en": "Outdoor temperatures dropped below freezing overnight.",
+          "highlight": [
+            "temperatures"
+          ],
+          "translations": {
+            "zh-TW": "戶外氣溫一夜之間降至冰點以下。"
+          }
+        },
+        {
+          "en": "The doctor took the patient's temperature before the examination.",
+          "highlight": [
+            "temperature"
+          ],
+          "translations": {
+            "zh-TW": "醫生在檢查前量了病人的體溫。"
           }
         }
       ],
       "synonyms": [
         "heat",
-        "warmth"
+        "warmth",
+        "fever"
       ],
       "antonyms": [
         "cold",
         "coolness"
       ],
       "phrases": [
-        "high",
-        "temperature",
-        "measure",
-        "the",
-        "temperature"
+        "high temperature",
+        "take temperature",
+        "room temperature",
+        "body temperature"
       ]
     },
     {
@@ -359,27 +484,46 @@
         "adverb"
       ],
       "conjugations": {},
-      "domain": "general",
+      "domain": "time",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "temporarily",
-          "definition": "adv. 暂時, 一時, 临時"
+          "definition": "adv. 暫時地、臨時地"
         }
       ],
       "examples": [
         {
-          "en": "He is working temporarily until a permanent job is available.",
+          "en": "The office is temporarily closed for renovation.",
           "highlight": [
             "temporarily"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "辦公室暫時關閉以便整修。"
+          }
+        },
+        {
+          "en": "The website was temporarily unavailable due to server maintenance.",
+          "highlight": [
+            "temporarily"
+          ],
+          "translations": {
+            "zh-TW": "因為伺服器維護，網站曾暫時無法使用。"
+          }
+        },
+        {
+          "en": "The elevator is temporarily out of service; please use the stairs.",
+          "highlight": [
+            "temporarily"
+          ],
+          "translations": {
+            "zh-TW": "電梯暫時故障，請走樓梯。"
           }
         }
       ],
       "synonyms": [
         "briefly",
+        "for now",
         "transiently"
       ],
       "antonyms": [
@@ -387,10 +531,9 @@
         "indefinitely"
       ],
       "phrases": [
-        "temporarily",
-        "unavailable",
-        "temporarily",
-        "closed"
+        "temporarily unavailable",
+        "temporarily closed",
+        "temporarily suspended"
       ]
     },
     {
@@ -405,40 +548,61 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "temporaries"
+        "plural": "temporaries",
+        "comparative": "more temporary",
+        "superlative": "most temporary"
       },
-      "domain": "general",
+      "domain": "time",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "temporary",
-          "definition": "a. 暂時的, 临時的, n. 临時工, 临時雇員, [计] 临時"
+          "definition": "a. 暫時的、臨時的  n. 臨時工"
         }
       ],
       "examples": [
         {
-          "en": "This is just a temporary solution.",
+          "en": "The company hired temporary workers for the holiday season.",
           "highlight": [
             "temporary"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "公司在旺季僱用了臨時工。"
+          }
+        },
+        {
+          "en": "This contract is more temporary than the one we signed last year.",
+          "highlight": [
+            "more temporary"
+          ],
+          "translations": {
+            "zh-TW": "這份合約比我們去年簽的那份更為臨時。"
+          }
+        },
+        {
+          "en": "He worked as a temporary in the marketing department for six months.",
+          "highlight": [
+            "temporary"
+          ],
+          "translations": {
+            "zh-TW": "他在行銷部門做了六個月的臨時工。"
           }
         }
       ],
       "synonyms": [
         "short-term",
-        "interim"
+        "interim",
+        "provisional"
       ],
       "antonyms": [
         "permanent",
         "lasting"
       ],
       "phrases": [
-        "temporary",
-        "job",
-        "temporary",
-        "fix"
+        "temporary job",
+        "temporary fix",
+        "temporary worker",
+        "temporary solution"
       ]
     },
     {
@@ -449,47 +613,65 @@
       "toeic_score_min": 500,
       "word": "tend",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "tended",
+        "present_3rd": "tends",
+        "past": "tended",
         "past_participle": "tended",
-        "present_participle": "tending",
-        "third_person": "tends"
+        "ing": "tending"
       },
-      "domain": "general",
+      "domain": "tendency",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tend",
-          "definition": "vi. 走向, 有某種的倾向, 易于, 照顾, 注意, vt. 照料, 护理"
+          "definition": "v. 傾向於、照料、照顧"
         }
       ],
       "examples": [
         {
-          "en": "He tends to forget things easily.",
+          "en": "Small businesses tend to focus on local customers.",
           "highlight": [
             "tend"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "小型企業往往專注於本地客戶。"
+          }
+        },
+        {
+          "en": "The gardener tended the garden carefully throughout the summer.",
+          "highlight": [
+            "tended"
+          ],
+          "translations": {
+            "zh-TW": "園丁整個夏天都悉心照料花園。"
+          }
+        },
+        {
+          "en": "She is tending to the needs of several clients at once.",
+          "highlight": [
+            "tending"
+          ],
+          "translations": {
+            "zh-TW": "她同時在照料幾位客戶的需求。"
           }
         }
       ],
       "synonyms": [
         "incline",
-        "lean"
+        "lean",
+        "care for"
       ],
       "antonyms": [
         "neglect",
-        "disregard"
+        "ignore"
       ],
       "phrases": [
-        "tend",
-        "to",
-        "tend",
-        "towards"
+        "tend to",
+        "tend towards",
+        "tend the garden",
+        "tend to someone"
       ]
     }
   ]
