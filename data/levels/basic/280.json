@@ -1,7 +1,7 @@
 {
+  "cefr": "A2",
   "level": 280,
   "tier": "basic",
-  "cefr": "A2",
   "words": [
     {
       "id": "A2-280-001",
@@ -15,40 +15,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "suned",
-        "past_participle": "suned",
-        "present_participle": "suning",
-        "third_person": "suns"
+        "plural": "suns",
+        "present_3rd": "suns",
+        "past": "sunned",
+        "past_participle": "sunned",
+        "ing": "sunning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sun",
-          "definition": "n. 太阳, 日, 日光, 阳光, vt. 晒, vi. 晒太阳"
+          "definition": "n. 太陽、陽光  v. 曬太陽"
         }
       ],
       "examples": [
         {
-          "en": "The sun is shining brightly.",
+          "en": "The sun rose over the harbor just as the cargo ship set sail.",
           "highlight": [
             "sun"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "太陽升起於港口上空時，貨船正好啟航。"
+          }
+        },
+        {
+          "en": "Tourists sunned themselves on the deck of the cruise liner all afternoon.",
+          "highlight": [
+            "sunned"
+          ],
+          "translations": {
+            "zh-TW": "遊客整個下午都在郵輪甲板上做日光浴。"
+          }
+        },
+        {
+          "en": "She has been sunning by the hotel pool since early morning.",
+          "highlight": [
+            "sunning"
+          ],
+          "translations": {
+            "zh-TW": "她從一大清早就在飯店泳池旁做日光浴。"
           }
         }
       ],
       "synonyms": [
+        "sunlight",
         "star",
-        "sunlight"
+        "sunshine"
       ],
-      "antonyms": [],
+      "antonyms": [
+        "moon",
+        "shade"
+      ],
       "phrases": [
-        "sun",
-        "rise",
-        "sun",
-        "set"
+        "sun rise",
+        "sun set",
+        "sun bathe",
+        "morning sun"
       ]
     },
     {
@@ -62,34 +85,57 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "sundaies"
+        "plural": "Sundays"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sunday",
-          "definition": "n. 星期日, a. 星期日的, 业余的, vi. 度星期日"
+          "definition": "n. 星期日、週日  adv. 在星期日"
         }
       ],
       "examples": [
         {
-          "en": "We have a family dinner every Sunday.",
+          "en": "We have a family dinner every Sunday after church.",
           "highlight": [
-            "sunday"
+            "Sunday"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我們每個星期日做完禮拜後都會舉行家庭聚餐。"
+          }
+        },
+        {
+          "en": "Most shops are closed on Sundays during the winter.",
+          "highlight": [
+            "Sundays"
+          ],
+          "translations": {
+            "zh-TW": "大多數店家在冬季的週日都不營業。"
+          }
+        },
+        {
+          "en": "Next Sunday we will launch the new marketing campaign, so please prepare the brochures.",
+          "highlight": [
+            "Sunday"
+          ],
+          "translations": {
+            "zh-TW": "下週日我們將啟動新的行銷活動，請準備好宣傳手冊。"
           }
         }
       ],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "Sabbath",
+        "Lord's Day"
+      ],
+      "antonyms": [
+        "weekday"
+      ],
       "phrases": [
-        "next",
-        "Sunday",
-        "last",
-        "Sunday"
+        "Sunday morning",
+        "last Sunday",
+        "next Sunday",
+        "Sunday school"
       ]
     },
     {
@@ -104,40 +150,61 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "superiors"
+        "plural": "superiors",
+        "comparative": "more superior",
+        "superlative": "most superior"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "superior",
-          "definition": "n. 長者, 占优势的人, 上級, a. 上級的, 出众的, 高傲的"
+          "definition": "a. 優越的、上級的  n. 上司、長官"
         }
       ],
       "examples": [
         {
-          "en": "He has a superior position in the company.",
+          "en": "Their customer service is clearly superior to that of competitors.",
           "highlight": [
             "superior"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "他們的客服顯然優於競爭對手。"
+          }
+        },
+        {
+          "en": "This model is more superior in performance but far more expensive too.",
+          "highlight": [
+            "more superior"
+          ],
+          "translations": {
+            "zh-TW": "這個型號在效能上更出色，但價格也高出許多。"
+          }
+        },
+        {
+          "en": "She reported the budget shortfall directly to her superiors at headquarters.",
+          "highlight": [
+            "superiors"
+          ],
+          "translations": {
+            "zh-TW": "她直接向總部的上司報告了預算短缺的情形。"
           }
         }
       ],
       "synonyms": [
         "better",
-        "higher"
+        "higher",
+        "excellent"
       ],
       "antonyms": [
         "inferior",
         "lower"
       ],
       "phrases": [
-        "superior",
-        "quality",
-        "superior",
-        "officer"
+        "superior quality",
+        "superior officer",
+        "superior to",
+        "superior court"
       ]
     },
     {
@@ -152,44 +219,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "supplyed",
-        "past_participle": "supplyed",
-        "present_participle": "supplying",
-        "third_person": "supplys"
+        "plural": "supplies",
+        "present_3rd": "supplies",
+        "past": "supplied",
+        "past_participle": "supplied",
+        "ing": "supplying"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "supply",
-          "definition": "n. 补给, 供给, 供应品, vt. 补给, 供给, 提供, 补充, vi. 替代"
+          "definition": "n. 供應、補給品  v. 供應、提供"
         }
       ],
       "examples": [
         {
-          "en": "They supply the town with water.",
+          "en": "The factory supplies components to three major automakers in the region.",
           "highlight": [
-            "supply"
+            "supplies"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "這間工廠為該區三家主要汽車製造商供應零件。"
+          }
+        },
+        {
+          "en": "Last month the warehouse supplied over ten thousand units without a single defect.",
+          "highlight": [
+            "supplied"
+          ],
+          "translations": {
+            "zh-TW": "上個月倉庫供應了超過一萬件產品，沒有任何瑕疵。"
+          }
+        },
+        {
+          "en": "By supplying fresh produce daily, the farm has won a long-term contract with the hotel chain.",
+          "highlight": [
+            "supplying"
+          ],
+          "translations": {
+            "zh-TW": "由於每天供應新鮮農產品，這座農場贏得了與該連鎖飯店的長期合約。"
           }
         }
       ],
       "synonyms": [
         "provide",
-        "furnish"
+        "furnish",
+        "deliver"
       ],
       "antonyms": [
-        "withdraw",
-        "take"
+        "withhold",
+        "deplete"
       ],
       "phrases": [
-        "supply",
-        "chain",
-        "supply",
-        "and",
-        "demand"
+        "supply chain",
+        "supply and demand",
+        "in short supply",
+        "office supplies"
       ]
     },
     {
@@ -204,43 +290,63 @@
         "noun"
       ],
       "conjugations": {
-        "past_tense": "supported",
+        "plural": "supports",
+        "present_3rd": "supports",
+        "past": "supported",
         "past_participle": "supported",
-        "present_participle": "supporting",
-        "third_person": "supports"
+        "ing": "supporting"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "support",
-          "definition": "n. 支持, 支撑, 援助, 供养, 支撑物, vt. 支援, 支撑, 帮助, 支持, 忍受, 供养, 证實, [计] 後援; 支持"
+          "definition": "n. 支持、支援  v. 支持、協助"
         }
       ],
       "examples": [
         {
-          "en": "The bridge supports heavy traffic.",
+          "en": "The new supervisor supports flexible working hours for all team members.",
           "highlight": [
-            "support"
+            "supports"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新任主管支持全體團隊成員採用彈性工時。"
+          }
+        },
+        {
+          "en": "The company supported the charity event with a generous donation last year.",
+          "highlight": [
+            "supported"
+          ],
+          "translations": {
+            "zh-TW": "該公司去年以一筆慷慨的捐款支持了這項慈善活動。"
+          }
+        },
+        {
+          "en": "By supporting local suppliers, the retailer has strengthened community goodwill.",
+          "highlight": [
+            "supporting"
+          ],
+          "translations": {
+            "zh-TW": "透過支持在地供應商，這家零售商已加深了社區民眾的好感。"
           }
         }
       ],
       "synonyms": [
+        "back",
         "uphold",
-        "back"
+        "endorse"
       ],
       "antonyms": [
         "oppose",
         "undermine"
       ],
       "phrases": [
-        "emotional",
-        "support",
-        "financial",
-        "support"
+        "customer support",
+        "support staff",
+        "support team",
+        "financial support"
       ]
     },
     {
@@ -251,47 +357,62 @@
       "toeic_score_min": 500,
       "word": "supporter",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
       "conjugations": {
-        "past_tense": "supportered",
-        "past_participle": "supportered",
-        "present_participle": "supportering",
-        "third_person": "supporters"
+        "plural": "supporters"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "supporter",
-          "definition": "n. 支持者, 後盾, 迫随者, 护身织物, [法] 支持者, 赡养者, 抚养者"
+          "definition": "n. 支持者、擁護者"
         }
       ],
       "examples": [
         {
-          "en": "He is a strong supporter of the team.",
+          "en": "She is a loyal supporter of the local soccer team.",
           "highlight": [
             "supporter"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "她是當地足球隊的忠實支持者。"
+          }
+        },
+        {
+          "en": "Thousands of supporters gathered outside the stadium before the final match.",
+          "highlight": [
+            "supporters"
+          ],
+          "translations": {
+            "zh-TW": "決賽前夕，數千名支持者聚集在體育館外。"
+          }
+        },
+        {
+          "en": "As a long-time supporter of the arts, he donates to the museum every quarter.",
+          "highlight": [
+            "supporter"
+          ],
+          "translations": {
+            "zh-TW": "作為長期的藝術支持者，他每季都會捐款給這座美術館。"
           }
         }
       ],
       "synonyms": [
         "advocate",
-        "backer"
+        "backer",
+        "fan"
       ],
       "antonyms": [
         "opponent",
         "detractor"
       ],
       "phrases": [
-        "loyal",
-        "supporter",
-        "ardent",
-        "supporter"
+        "loyal supporter",
+        "ardent supporter",
+        "supporter of",
+        "club supporter"
       ]
     },
     {
@@ -302,48 +423,65 @@
       "toeic_score_min": 500,
       "word": "suppose",
       "pos": [
-        "verb",
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "past_tense": "supposeed",
-        "past_participle": "supposeed",
-        "present_participle": "supposing",
-        "third_person": "supposes"
+        "present_3rd": "supposes",
+        "past": "supposed",
+        "past_participle": "supposed",
+        "ing": "supposing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "suppose",
-          "definition": "vt. 推想, 假设, 以為, 想像, 假定, vi. 料想"
+          "definition": "v. 假設、推想、認為"
         }
       ],
       "examples": [
         {
-          "en": "I suppose you're right.",
+          "en": "I suppose the meeting will be postponed again due to the storm.",
           "highlight": [
             "suppose"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "我想暴風雨的緣故，會議大概又會延期。"
+          }
+        },
+        {
+          "en": "The manager supposed the report was finished, but it had not even been started.",
+          "highlight": [
+            "supposed"
+          ],
+          "translations": {
+            "zh-TW": "經理以為報告已完成，但根本還沒開始動筆。"
+          }
+        },
+        {
+          "en": "Supposing the shipment arrives late, how will we handle the client deadline?",
+          "highlight": [
+            "Supposing"
+          ],
+          "translations": {
+            "zh-TW": "假如貨物晚到，我們要如何應付客戶的截稿期限？"
           }
         }
       ],
       "synonyms": [
         "assume",
-        "presume"
+        "presume",
+        "guess"
       ],
       "antonyms": [
         "know",
         "prove"
       ],
       "phrases": [
-        "I",
-        "suppose",
-        "so",
-        "suppose",
-        "wrongly"
+        "be supposed to",
+        "I suppose so",
+        "suppose not",
+        "suppose that"
       ]
     },
     {
@@ -355,46 +493,63 @@
       "word": "sure",
       "pos": [
         "adjective",
-        "verb"
+        "adverb"
       ],
       "conjugations": {
-        "past_tense": "sureed",
-        "past_participle": "sureed",
-        "present_participle": "suring",
-        "third_person": "sures"
+        "comparative": "surer",
+        "superlative": "surest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sure",
-          "definition": "a. 确信, 必然的, 必定的, adv. 当然, 确實地, 无疑地"
+          "definition": "a. 確定的、有把握的  adv. 當然、的確"
         }
       ],
       "examples": [
         {
-          "en": "I am sure of my decision.",
+          "en": "Are you sure this invoice matches the order on file?",
           "highlight": [
             "sure"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "你確定這張發票與檔案上的訂單相符嗎？"
+          }
+        },
+        {
+          "en": "After double-checking the figures, she felt surer about presenting them to the client.",
+          "highlight": [
+            "surer"
+          ],
+          "translations": {
+            "zh-TW": "再次核對數字後，她對向客戶簡報更有把握了。"
+          }
+        },
+        {
+          "en": "He is one of the surest negotiators the firm has ever employed.",
+          "highlight": [
+            "surest"
+          ],
+          "translations": {
+            "zh-TW": "他是這家公司有史以來最可靠的談判專家之一。"
           }
         }
       ],
       "synonyms": [
         "certain",
-        "confident"
+        "confident",
+        "positive"
       ],
       "antonyms": [
         "unsure",
         "doubtful"
       ],
       "phrases": [
-        "sure",
-        "thing",
-        "sure",
-        "of"
+        "make sure",
+        "sure thing",
+        "for sure",
+        "be sure of"
       ]
     },
     {
@@ -413,33 +568,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "surely",
-          "definition": "adv. 的确地, 安全地, [經] 保证, 保证人, 保证金"
+          "definition": "adv. 確實地、必定地、想必"
         }
       ],
       "examples": [
         {
-          "en": "Surely you can't be serious?",
+          "en": "Surely you read the contract before signing it, didn't you?",
+          "highlight": [
+            "Surely"
+          ],
+          "translations": {
+            "zh-TW": "你簽約前想必一定看過合約內容吧？"
+          }
+        },
+        {
+          "en": "The new policy will surely reduce operating costs over the next quarter.",
           "highlight": [
             "surely"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "新政策下一季一定會降低營運成本。"
+          }
+        },
+        {
+          "en": "Surely the board will approve the budget increase, given the strong revenue growth.",
+          "highlight": [
+            "Surely"
+          ],
+          "translations": {
+            "zh-TW": "鑑於營收大幅成長，董事會想必會批准預算追加。"
           }
         }
       ],
       "synonyms": [
         "certainly",
-        "definitely"
+        "definitely",
+        "undoubtedly"
       ],
       "antonyms": [
-        "doubtfully"
+        "doubtfully",
+        "uncertainly"
       ],
       "phrases": [
-        "surely",
-        "not",
-        "surely",
-        "you",
-        "jest"
+        "surely not",
+        "slowly but surely",
+        "most surely",
+        "surely enough"
       ]
     },
     {
@@ -454,43 +628,63 @@
         "verb"
       ],
       "conjugations": {
-        "past_tense": "surfaceed",
-        "past_participle": "surfaceed",
-        "present_participle": "surfacing",
-        "third_person": "surfaces"
+        "plural": "surfaces",
+        "present_3rd": "surfaces",
+        "past": "surfaced",
+        "past_participle": "surfaced",
+        "ing": "surfacing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "surface",
-          "definition": "n. 面, 表面, 水面, 外表, 平面, a. 表面的, 外观的, 肤浅的, 水面上的, vt. 使成平面, 使浮出水面, vi. 浮出水面, 呈现, 在地面上工作"
+          "definition": "n. 表面、外觀  v. 浮出水面、顯露"
         }
       ],
       "examples": [
         {
-          "en": "The surface of the table was smooth.",
+          "en": "The surface of the conference table felt cool and smooth to the touch.",
           "highlight": [
             "surface"
           ],
           "translations": {
-            "zh-TW": "(尚未翻譯 - 之後 LLM 補)"
+            "zh-TW": "會議桌的表面摸起來涼涼的、十分平滑。"
+          }
+        },
+        {
+          "en": "Several issues surfaced during the annual audit that had gone unnoticed for months.",
+          "highlight": [
+            "surfaced"
+          ],
+          "translations": {
+            "zh-TW": "年度稽核時浮現了好幾個多月來被忽略的問題。"
+          }
+        },
+        {
+          "en": "New evidence is surfacing about the supplier's accounting practices.",
+          "highlight": [
+            "surfacing"
+          ],
+          "translations": {
+            "zh-TW": "關於該供應商會計作法的新證據正逐一浮現。"
           }
         }
       ],
       "synonyms": [
         "exterior",
-        "face"
+        "face",
+        "appearance"
       ],
       "antonyms": [
         "interior",
         "inside"
       ],
       "phrases": [
-        "surface",
-        "area",
-        "smooth",
-        "surface"
+        "surface area",
+        "smooth surface",
+        "on the surface",
+        "surface mail"
       ]
     }
   ]
