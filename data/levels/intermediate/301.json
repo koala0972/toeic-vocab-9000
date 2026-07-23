@@ -17,18 +17,57 @@
       "conjugations": {
         "plural": "misters"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mister",
-          "definition": "n. 先生"
+          "definition": "n. 先生（用於稱呼男性，書面常縮寫為 Mr.）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Good morning, Mister Lee, your appointment is scheduled for ten o'clock.",
+          "highlight": [
+            "Mister"
+          ],
+          "translations": {
+            "zh-TW": "早安，李先生，您的預約排在十點鐘。"
+          }
+        },
+        {
+          "en": "The misters from the accounting department will join the audit meeting tomorrow.",
+          "highlight": [
+            "misters"
+          ],
+          "translations": {
+            "zh-TW": "會計部的幾位先生明天會一起參加稽核會議。"
+          }
+        },
+        {
+          "en": "Please address the letter to Mister David Chen, Purchasing Manager.",
+          "highlight": [
+            "Mister"
+          ],
+          "translations": {
+            "zh-TW": "這封信請寄給採購經理陳大衛先生。"
+          }
+        }
+      ],
+      "synonyms": [
+        "sir",
+        "gentleman",
+        "Mr."
+      ],
+      "antonyms": [
+        "madam",
+        "miss"
+      ],
+      "phrases": [
+        "Mister Right",
+        "mister president",
+        "good morning mister"
+      ]
     },
     {
       "id": "B1-301-002",
@@ -44,18 +83,57 @@
       "conjugations": {
         "plural": "memos"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "memo",
-          "definition": "n. 備忘录, [經] 備忘录"
+          "definition": "n. 備忘錄、便箋（memorandum 的簡寫，公司內部短篇公文）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "She typed a memo reminding all staff to submit expense reports by Friday.",
+          "highlight": [
+            "memo"
+          ],
+          "translations": {
+            "zh-TW": "她打了一份備忘錄，提醒全體員工在週五前提交 費用報告。"
+          }
+        },
+        {
+          "en": "The manager printed three memos and left them on each team member's desk.",
+          "highlight": [
+            "memos"
+          ],
+          "translations": {
+            "zh-TW": "經理印了三份便箋，分別放在每位組員的桌上。"
+          }
+        },
+        {
+          "en": "Please cc me on any memo regarding the new overtime policy.",
+          "highlight": [
+            "memo"
+          ],
+          "translations": {
+            "zh-TW": "任何關於新加班規定的備忘錄，請順便副本給我。"
+          }
+        }
+      ],
+      "synonyms": [
+        "note",
+        "memorandum",
+        "reminder"
+      ],
+      "antonyms": [
+        "formal report"
+      ],
+      "phrases": [
+        "staff memo",
+        "internal memo",
+        "write a memo",
+        "memo template"
+      ]
     },
     {
       "id": "B1-301-003",
@@ -66,23 +144,67 @@
       "word": "fax",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "faxs"
+        "plural": "faxes",
+        "present_3rd": "faxes",
+        "past": "faxed",
+        "past_participle": "faxed",
+        "ing": "faxing"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "fax",
-          "definition": "n. 傳真, vt. 發傳真, [計] 傳真系统; 傳真"
+          "definition": "n. 傳真、傳真機  v. 傳真發送（文件）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Please send the signed contract by fax to our office in Taipei.",
+          "highlight": [
+            "fax"
+          ],
+          "translations": {
+            "zh-TW": "請用傳真把簽好的合約發到我們台北辦公室。"
+          }
+        },
+        {
+          "en": "She faxed the purchase order to the supplier before the end of business hours.",
+          "highlight": [
+            "faxed"
+          ],
+          "translations": {
+            "zh-TW": "她在下班前把採購單傳真給了供應商。"
+          }
+        },
+        {
+          "en": "The office faxes over fifty documents every morning during tax season.",
+          "highlight": [
+            "faxes"
+          ],
+          "translations": {
+            "zh-TW": "報稅季期間，辦公室每天早上傳真超過五十份文件。"
+          }
+        }
+      ],
+      "synonyms": [
+        "transmit",
+        "send",
+        "telecopy"
+      ],
+      "antonyms": [
+        "receive"
+      ],
+      "phrases": [
+        "fax machine",
+        "fax number",
+        "by fax",
+        "send a fax"
+      ]
     },
     {
       "id": "B1-301-004",
@@ -93,23 +215,61 @@
       "word": "sometime",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adverb",
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "sometimes"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sometime",
-          "definition": "a. 以前的, 某一時間的, adv. 改天, 來日"
+          "definition": "adv. 某個時候、改天  a. 以前的、曾經的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Let's schedule a meeting sometime next week to discuss the rebranding plan.",
+          "highlight": [
+            "sometime"
+          ],
+          "translations": {
+            "zh-TW": "我們下週找個時間開個會，討論品牌重塑的計畫。"
+          }
+        },
+        {
+          "en": "Our sometime partner, Apex Logistics, rebranded last year and now operates under a new name.",
+          "highlight": [
+            "sometime"
+          ],
+          "translations": {
+            "zh-TW": "我們以前的合作夥伴 Apex 物流去年重新品牌化，現在改用新名稱營運。"
+          }
+        },
+        {
+          "en": "The CEO said he would sometime review the proposal if his schedule allowed.",
+          "highlight": [
+            "sometime"
+          ],
+          "translations": {
+            "zh-TW": "執行長說如果行程允許的話，他改天會審閱那份提案。"
+          }
+        }
+      ],
+      "synonyms": [
+        "eventually",
+        "one day",
+        "somewhen"
+      ],
+      "antonyms": [
+        "never",
+        "immediately"
+      ],
+      "phrases": [
+        "sometime soon",
+        "sometime next week",
+        "sometime today"
+      ]
     },
     {
       "id": "B1-301-005",
@@ -125,18 +285,59 @@
       "conjugations": {
         "plural": "supervisors"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "supervisor",
-          "definition": "n. 管理者, 監督者, 指導者, 視導員, [計] 管理程序"
+          "definition": "n. 主管、監督人、指導者"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "My supervisor expects every report submitted before the monthly closing date.",
+          "highlight": [
+            "supervisor"
+          ],
+          "translations": {
+            "zh-TW": "我的主管要求每份報告都要在月底結帳日前繳交。"
+          }
+        },
+        {
+          "en": "All supervisors in the plant must attend the new compliance training this quarter.",
+          "highlight": [
+            "supervisors"
+          ],
+          "translations": {
+            "zh-TW": "廠內所有主管本季都必須參加新的法規遵循培訓。"
+          }
+        },
+        {
+          "en": "Talk to your supervisor before approving overtime for the interns.",
+          "highlight": [
+            "supervisor"
+          ],
+          "translations": {
+            "zh-TW": "在核准實習生的加班之前，請先和你的主管談過。"
+          }
+        }
+      ],
+      "synonyms": [
+        "manager",
+        "overseer",
+        "director",
+        "boss"
+      ],
+      "antonyms": [
+        "subordinate",
+        "trainee"
+      ],
+      "phrases": [
+        "shift supervisor",
+        "plant supervisor",
+        "direct supervisor",
+        "report to a supervisor"
+      ]
     },
     {
       "id": "B1-301-006",
@@ -147,23 +348,68 @@
       "word": "refund",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "refunds"
+        "plural": "refunds",
+        "present_3rd": "refunds",
+        "past": "refunded",
+        "past_participle": "refunded",
+        "ing": "refunding"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "refund",
-          "definition": "n. 偿还, vt. 付还, 偿还借款, vi. 归还, 偿还"
+          "definition": "n. 退款、退還金額  v. 退還（款項）、退款"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The customer demanded a full refund because the laptop arrived with a cracked screen.",
+          "highlight": [
+            "refund"
+          ],
+          "translations": {
+            "zh-TW": "顧客要求全額退款，因為筆電送到時螢幕碎裂了。"
+          }
+        },
+        {
+          "en": "We refunded the registration fee to everyone whose flight was cancelled by the airline.",
+          "highlight": [
+            "refunded"
+          ],
+          "translations": {
+            "zh-TW": "我們把報名費退還給所有因航空公司取消航班而受影響的人。"
+          }
+        },
+        {
+          "en": "The store refunds purchases within thirty days as long as the receipt is shown.",
+          "highlight": [
+            "refunds"
+          ],
+          "translations": {
+            "zh-TW": "只要出示收據，店家在三十天內都會辦理退款。"
+          }
+        }
+      ],
+      "synonyms": [
+        "repay",
+        "reimburse",
+        "return"
+      ],
+      "antonyms": [
+        "charge",
+        "bill"
+      ],
+      "phrases": [
+        "full refund",
+        "issue a refund",
+        "process a refund",
+        "refund policy"
+      ]
     },
     {
       "id": "B1-301-007",
@@ -179,18 +425,58 @@
       "conjugations": {
         "plural": "workshops"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "workshop",
-          "definition": "n. 工場, 車間, 研讨會, [計] 讨论會; 專题研究組"
+          "definition": "n. 研討會、工作坊（小型實作課程）; 工廠、工場"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Our HR department is hosting a workshop on cross-cultural communication next Thursday.",
+          "highlight": [
+            "workshop"
+          ],
+          "translations": {
+            "zh-TW": "我們人資部下週四要辦一場關於跨文化溝通的工作坊。"
+          }
+        },
+        {
+          "en": "Participants who attend all five workshops receive a certificate of completion.",
+          "highlight": [
+            "workshops"
+          ],
+          "translations": {
+            "zh-TW": "參加全部五場研討會的學員可獲頒結業證書。"
+          }
+        },
+        {
+          "en": "The furniture maker expanded his workshop to meet rising export orders.",
+          "highlight": [
+            "workshop"
+          ],
+          "translations": {
+            "zh-TW": "那位家具師傅擴建了工場，以應付不斷增加的出口訂單。"
+          }
+        }
+      ],
+      "synonyms": [
+        "seminar",
+        "training session",
+        "studio",
+        "factory"
+      ],
+      "antonyms": [
+        "lecture hall"
+      ],
+      "phrases": [
+        "training workshop",
+        "hands-on workshop",
+        "workshop facilitator",
+        "attend a workshop"
+      ]
     },
     {
       "id": "B1-301-008",
@@ -201,7 +487,9 @@
       "word": "downtown",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective",
+        "adverb"
       ],
       "conjugations": {
         "plural": "downtowns"
@@ -211,13 +499,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "downtown",
-          "definition": "n. 市中心區, a. 市中心的, adv. 往闹市區"
+          "definition": "n. 市中心、商業區  a. 市中心的  adv. 往（或在）市中心"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Our new flagship store is located in downtown Tokyo, near the main subway station.",
+          "highlight": [
+            "downtown"
+          ],
+          "translations": {
+            "zh-TW": "我們的新旗艦店位於東京市中心，靠近主要地鐵站。"
+          }
+        },
+        {
+          "en": "Rents in several downtowns have doubled since the high-speed rail opened.",
+          "highlight": [
+            "downtowns"
+          ],
+          "translations": {
+            "zh-TW": "高鐵通車後，幾個市中心的租金已經翻了一倍。"
+          }
+        },
+        {
+          "en": "She commutes downtown every morning and stops for coffee near her office.",
+          "highlight": [
+            "downtown"
+          ],
+          "translations": {
+            "zh-TW": "她每天早上通勤到市中心，會在辦公室附近停下來買杯咖啡。"
+          }
+        }
+      ],
+      "synonyms": [
+        "city center",
+        "business district",
+        "town center"
+      ],
+      "antonyms": [
+        "suburb",
+        "outskirts"
+      ],
+      "phrases": [
+        "downtown area",
+        "head downtown",
+        "downtown office",
+        "live downtown"
+      ]
     },
     {
       "id": "B1-301-009",
@@ -233,18 +561,58 @@
       "conjugations": {
         "plural": "deadlines"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "deadline",
-          "definition": "n. 最後期限, 截止期限, [經] 截止日期"
+          "definition": "n. 截止日期、最後期限"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The deadline for submitting the annual budget proposal is the end of this month.",
+          "highlight": [
+            "deadline"
+          ],
+          "translations": {
+            "zh-TW": "年度預算提案的截止日期是這個月底。"
+          }
+        },
+        {
+          "en": "Missing two deadlines in a row will trigger a formal performance review.",
+          "highlight": [
+            "deadlines"
+          ],
+          "translations": {
+            "zh-TW": "連續兩次錯過截止日期，將會啟動正式的績效評估。"
+          }
+        },
+        {
+          "en": "Can we push the deadline back to next Wednesday so the legal team can review the contract?",
+          "highlight": [
+            "deadline"
+          ],
+          "translations": {
+            "zh-TW": "我們可以把截止日期延到下週三嗎？這樣法務團隊才有時間審閱合約。"
+          }
+        }
+      ],
+      "synonyms": [
+        "due date",
+        "cutoff",
+        "time limit"
+      ],
+      "antonyms": [
+        "extension",
+        "grace period"
+      ],
+      "phrases": [
+        "meet a deadline",
+        "miss a deadline",
+        "extend the deadline",
+        "tight deadline"
+      ]
     },
     {
       "id": "B1-301-010",
@@ -255,24 +623,68 @@
       "word": "invoice",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "invoices"
+        "plural": "invoices",
+        "present_3rd": "invoices",
+        "past": "invoiced",
+        "past_participle": "invoiced",
+        "ing": "invoicing"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "invoice",
-          "definition": "n. 發票, 發貨單, v. 开發票, 記清單"
+          "definition": "n. 發票、請款單  v. 開立發票、請款"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Please attach the original invoice when you ship the goods to our warehouse.",
+          "highlight": [
+            "invoice"
+          ],
+          "translations": {
+            "zh-TW": "把貨品出貨到我們倉庫時，請附上正本發票。"
+          }
+        },
+        {
+          "en": "The vendor invoiced us twice for the same batch of office supplies by mistake.",
+          "highlight": [
+            "invoiced"
+          ],
+          "translations": {
+            "zh-TW": "供應商失誤，把同一批辦公用品開了兩次發票給我們。"
+          }
+        },
+        {
+          "en": "Our accounting system invoices clients automatically on the first day of each month.",
+          "highlight": [
+            "invoices"
+          ],
+          "translations": {
+            "zh-TW": "我們的會計系統每月一號會自動向客戶開立發票。"
+          }
+        }
+      ],
+      "synonyms": [
+        "bill",
+        "receipt",
+        "statement"
+      ],
+      "antonyms": [
+        "credit note",
+        "refund slip"
+      ],
+      "phrases": [
+        "issue an invoice",
+        "pay an invoice",
+        "overdue invoice",
+        "proforma invoice"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
