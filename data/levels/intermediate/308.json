@@ -1,7 +1,7 @@
 {
+  "cefr": "B1",
   "level": 308,
   "tier": "intermediate",
-  "cefr": "B1",
   "words": [
     {
       "id": "B1-308-001",
@@ -10,25 +10,65 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "unreal",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "unreals"
+        "comparative": "unrealler",
+        "superlative": "unreallest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "unreal",
-          "definition": "a. 假的, 虚構的, 不真實的, 幻想的"
+          "definition": "a. 不真實的、虛構的、幻想的；誇張的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The graphics in the new game looked so real that they felt almost unreal.",
+          "highlight": [
+            "unreal"
+          ],
+          "translations": {
+            "zh-TW": "新遊戲的畫面逼真得讓人覺得簡直像不真實的場景。"
+          }
+        },
+        {
+          "en": "Investors dismissed the startup's projections as unrealler than reality, demanding hard data.",
+          "highlight": [
+            "unrealler"
+          ],
+          "translations": {
+            "zh-TW": "投資人認為新創公司的預測比現實更不切實際，要求他們提出具體數據。"
+          }
+        },
+        {
+          "en": "That product launch was the unreallest success story the team had ever seen.",
+          "highlight": [
+            "unreallest"
+          ],
+          "translations": {
+            "zh-TW": "那場產品發表會是團隊見過最不真實的成功故事。"
+          }
+        }
+      ],
+      "synonyms": [
+        "unbelievable",
+        "incredible",
+        "fantastic"
+      ],
+      "antonyms": [
+        "real",
+        "authentic"
+      ],
+      "phrases": [
+        "seem unreal",
+        "unreal world",
+        "unreal engine",
+        "feel unreal"
+      ]
     },
     {
       "id": "B1-308-002",
@@ -37,25 +77,63 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "distractor",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "distractors"
       },
-      "domain": "general",
+      "domain": "education",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "distractor",
-          "definition": "n. 錯误選择；诱導答案"
+          "definition": "n. （測驗中的）干擾選項、誘答選項；使人分心的事物"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The multiple-choice test included several clever distractors to challenge the candidates.",
+          "highlight": [
+            "distractor"
+          ],
+          "translations": {
+            "zh-TW": "這份選擇題測驗包含了幾個巧妙的干擾選項來挑戰考生。"
+          }
+        },
+        {
+          "en": "Test designers must ensure each distractor is plausible but clearly incorrect.",
+          "highlight": [
+            "distractor"
+          ],
+          "translations": {
+            "zh-TW": "命題人員必須確保每個誘答選項看似合理卻明顯錯誤。"
+          }
+        },
+        {
+          "en": "Smart distractors in the reading section often trick students who skim too quickly.",
+          "highlight": [
+            "distractors"
+          ],
+          "translations": {
+            "zh-TW": "閱讀測驗中高明的干擾選項常常絆倒閱讀過快的學生。"
+          }
+        }
+      ],
+      "synonyms": [
+        "diversion",
+        "distraction",
+        "decoy"
+      ],
+      "antonyms": [
+        "correct answer",
+        "key"
+      ],
+      "phrases": [
+        "plausible distractor",
+        "test distractor",
+        "multiple-choice distractor"
+      ]
     },
     {
       "id": "B1-308-003",
@@ -64,25 +142,68 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "expire",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "expires"
+        "present_3rd": "expires",
+        "past": "expired",
+        "past_participle": "expired",
+        "ing": "expiring"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "expire",
-          "definition": "vi. 期滿, 呼气, 断气, vt. 呼出"
+          "definition": "v. 期滿、到期；失效；屆滿"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Your corporate credit card will expire at the end of this month.",
+          "highlight": [
+            "expire"
+          ],
+          "translations": {
+            "zh-TW": "您的公司信用卡將於本月底到期。"
+          }
+        },
+        {
+          "en": "The supplier's offer expired before we could submit the purchase order.",
+          "highlight": [
+            "expired"
+          ],
+          "translations": {
+            "zh-TW": "供應商的報價在我們送出採購單前就已經失效了。"
+          }
+        },
+        {
+          "en": "The contract is expiring next quarter, so legal is drafting a renewal.",
+          "highlight": [
+            "expiring"
+          ],
+          "translations": {
+            "zh-TW": "合約將於下季到期，因此法務部門正在草擬續約。"
+          }
+        }
+      ],
+      "synonyms": [
+        "lapse",
+        "run out",
+        "terminate"
+      ],
+      "antonyms": [
+        "renew",
+        "extend",
+        "begin"
+      ],
+      "phrases": [
+        "expire soon",
+        "expire date",
+        "contract expires",
+        "membership expires"
+      ]
     },
     {
       "id": "B1-308-004",
@@ -91,25 +212,61 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "folder",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "folders"
       },
-      "domain": "general",
+      "domain": "office",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "folder",
-          "definition": "n. 文件夹, 折紙機, 折叠式書本, 卷宗, [計] 文件夹"
+          "definition": "n. 資料夾、卷宗；電腦資料夾"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Please file these invoices in the blue folder on the cabinet.",
+          "highlight": [
+            "folder"
+          ],
+          "translations": {
+            "zh-TW": "請將這些發票歸檔放在櫃子裡的藍色資料夾中。"
+          }
+        },
+        {
+          "en": "Create a new folder for each client to keep the paperwork organized.",
+          "highlight": [
+            "folder"
+          ],
+          "translations": {
+            "zh-TW": "為每位客戶建立一個新資料夾以保持文件井然有序。"
+          }
+        },
+        {
+          "en": "Shared folders on the company server let the team access files remotely.",
+          "highlight": [
+            "folders"
+          ],
+          "translations": {
+            "zh-TW": "公司伺服器上的共用資料夾讓團隊可以遠端存取檔案。"
+          }
+        }
+      ],
+      "synonyms": [
+        "directory",
+        "binder",
+        "file"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "shared folder",
+        "create a folder",
+        "folder structure",
+        "file folder"
+      ]
     },
     {
       "id": "B1-308-005",
@@ -118,25 +275,67 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "renovate",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "renovates"
+        "present_3rd": "renovates",
+        "past": "renovated",
+        "past_participle": "renovated",
+        "ing": "renovating"
       },
-      "domain": "general",
+      "domain": "real-estate",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "renovate",
-          "definition": "vt. 更新, 革新, 刷新, 修复, 使恢复活力"
+          "definition": "v. 翻修、整修、更新"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The hotel plans to renovate all guest rooms before the peak season begins.",
+          "highlight": [
+            "renovate"
+          ],
+          "translations": {
+            "zh-TW": "飯店計畫在旺季開始前翻修所有客房。"
+          }
+        },
+        {
+          "en": "They renovated the old warehouse into a modern co-working space last year.",
+          "highlight": [
+            "renovated"
+          ],
+          "translations": {
+            "zh-TW": "他們去年把舊倉庫整修成一個現代化的共同工作空間。"
+          }
+        },
+        {
+          "en": "The office is currently renovating the lobby to improve visitor experience.",
+          "highlight": [
+            "renovating"
+          ],
+          "translations": {
+            "zh-TW": "辦公室目前正翻修大廳以提升訪客體驗。"
+          }
+        }
+      ],
+      "synonyms": [
+        "remodel",
+        "restore",
+        "refurbish"
+      ],
+      "antonyms": [
+        "demolish",
+        "ruin"
+      ],
+      "phrases": [
+        "renovate a building",
+        "renovate the office",
+        "fully renovated",
+        "newly renovated"
+      ]
     },
     {
       "id": "B1-308-006",
@@ -145,25 +344,66 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "sunny",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "sunnies"
+        "comparative": "sunnier",
+        "superlative": "sunniest"
       },
-      "domain": "general",
+      "domain": "weather",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sunny",
-          "definition": "a. 阳光充足的, 乐觀的, 快乐的, 像太阳的"
+          "definition": "a. 陽光充足的、晴朗的；開朗的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The forecast calls for a sunny afternoon, perfect for the outdoor product launch.",
+          "highlight": [
+            "sunny"
+          ],
+          "translations": {
+            "zh-TW": "天氣預報指出午後將是晴朗的好天氣，非常適合戶外產品發表會。"
+          }
+        },
+        {
+          "en": "Record sales tend to be sunnier in the summer months for ice cream vendors.",
+          "highlight": [
+            "sunnier"
+          ],
+          "translations": {
+            "zh-TW": "對冰淇淋供應商而言，夏季的銷售業績通常更加亮眼。"
+          }
+        },
+        {
+          "en": "Our sunniest quarter on record was last year thanks to the holiday campaign.",
+          "highlight": [
+            "sunniest"
+          ],
+          "translations": {
+            "zh-TW": "受惠於節慶行銷活動，去年創下我們有紀錄以來最亮眼的季度。"
+          }
+        }
+      ],
+      "synonyms": [
+        "bright",
+        "cheerful",
+        "clear"
+      ],
+      "antonyms": [
+        "cloudy",
+        "gloomy",
+        "overcast"
+      ],
+      "phrases": [
+        "sunny day",
+        "sunny side up",
+        "sunny outlook",
+        "sunny weather"
+      ]
     },
     {
       "id": "B1-308-007",
@@ -172,25 +412,65 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "calendar",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "calendars"
+        "present_3rd": "calendars",
+        "past": "calendared",
+        "past_participle": "calendared",
+        "ing": "calendar"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "calendar",
-          "definition": "n. 日歷, 日程表, vt. 列入表中, [計] 日歷"
+          "definition": "n. 行事曆、日程表  v. 排入日程、記入行事曆"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Please check the team calendar before scheduling any client meetings.",
+          "highlight": [
+            "calendar"
+          ],
+          "translations": {
+            "zh-TW": "安排任何客戶會議前，請務必先查看團隊的行事曆。"
+          }
+        },
+        {
+          "en": "The assistant calendared all the quarterly reviews while the manager was on vacation.",
+          "highlight": [
+            "calendared"
+          ],
+          "translations": {
+            "zh-TW": "助理趁經理休假時，把所有的季度審查會議都排入了行事曆。"
+          }
+        },
+        {
+          "en": "Quarterly reviews are already calendared to keep the team aligned throughout the year.",
+          "highlight": [
+            "calendared"
+          ],
+          "translations": {
+            "zh-TW": "季度審查會議早已排入日程，讓團隊全年步調一致。"
+          }
+        }
+      ],
+      "synonyms": [
+        "schedule",
+        "agenda",
+        "timetable"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "shared calendar",
+        "calendar year",
+        "calendar month",
+        "schedule on the calendar"
+      ]
     },
     {
       "id": "B1-308-008",
@@ -199,25 +479,61 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "donation",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "donations"
       },
-      "domain": "general",
+      "domain": "charity",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "donation",
-          "definition": "n. 捐赠物, 捐款, 捐赠, [經] 赠品, 捐款, 捐赠"
+          "definition": "n. 捐贈物、捐款、捐獻"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The company made a generous donation to the local children's hospital.",
+          "highlight": [
+            "donation"
+          ],
+          "translations": {
+            "zh-TW": "公司向當地的兒童醫院捐出了一筆慷慨的款項。"
+          }
+        },
+        {
+          "en": "All donations received this month will support the disaster relief fund.",
+          "highlight": [
+            "donations"
+          ],
+          "translations": {
+            "zh-TW": "本月收到的所有捐款將用於援助災後重建基金。"
+          }
+        },
+        {
+          "en": "Employees are encouraged to match customer donations during the year-end campaign.",
+          "highlight": [
+            "donations"
+          ],
+          "translations": {
+            "zh-TW": "公司鼓勵員工在年終活動期間一起響應客戶的捐款。"
+          }
+        }
+      ],
+      "synonyms": [
+        "contribution",
+        "gift",
+        "grant"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "make a donation",
+        "charitable donation",
+        "blood donation",
+        "donation drive"
+      ]
     },
     {
       "id": "B1-308-009",
@@ -226,25 +542,67 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "snack",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "snacks"
+        "plural": "snacks",
+        "past": "snacked",
+        "past_participle": "snacked",
+        "ing": "snacking"
       },
-      "domain": "general",
+      "domain": "food",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "snack",
-          "definition": "n. 小吃, 點心, 快餐, vi. 吃零食, 吃快餐"
+          "definition": "n. 點心、零食  v. 吃點心、吃零食"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The break room offers free snacks and coffee for employees during the afternoon.",
+          "highlight": [
+            "snacks"
+          ],
+          "translations": {
+            "zh-TW": "休息室在下午為員工提供免費零食和咖啡。"
+          }
+        },
+        {
+          "en": "Delegates snacked on sandwiches while networking at the conference reception.",
+          "highlight": [
+            "snacked"
+          ],
+          "translations": {
+            "zh-TW": "代表們在研討會招待會上一邊社交一邊吃三明治。"
+          }
+        },
+        {
+          "en": "Snacking during long meetings helps the team stay alert and focused.",
+          "highlight": [
+            "snacking"
+          ],
+          "translations": {
+            "zh-TW": "在漫長的會議中吃點零食有助團隊保持機警和專注。"
+          }
+        }
+      ],
+      "synonyms": [
+        "treat",
+        "bite",
+        "nibble"
+      ],
+      "antonyms": [
+        "meal"
+      ],
+      "phrases": [
+        "snack bar",
+        "light snack",
+        "snack break",
+        "snack on something"
+      ]
     },
     {
       "id": "B1-308-010",
@@ -253,26 +611,65 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "warehouse",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "warehouses"
+        "plural": "warehouses",
+        "past": "warehoused",
+        "past_participle": "warehoused",
+        "ing": "warehousing"
       },
-      "domain": "general",
+      "domain": "logistics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "warehouse",
-          "definition": "n. 仓库, 貨栈, 大商店, vt. 储入仓库"
+          "definition": "n. 倉庫、貨棧  v. 儲入倉庫、存放"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The new warehouse can store up to ten thousand pallets of inventory.",
+          "highlight": [
+            "warehouse"
+          ],
+          "translations": {
+            "zh-TW": "新倉庫最多可存放一萬個庫存托盤。"
+          }
+        },
+        {
+          "en": "Several regional warehouses were opened to shorten delivery times to customers.",
+          "highlight": [
+            "warehouses"
+          ],
+          "translations": {
+            "zh-TW": "公司設立了幾座區域倉庫以縮短送達客戶的時間。"
+          }
+        },
+        {
+          "en": "Excess stock is warehoused off-site until the seasonal demand returns.",
+          "highlight": [
+            "warehoused"
+          ],
+          "translations": {
+            "zh-TW": "過剩的庫存會先寄存於外部倉庫，待季節需求回升再放出。"
+          }
+        }
+      ],
+      "synonyms": [
+        "storehouse",
+        "depot",
+        "storage"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "warehouse space",
+        "distribution warehouse",
+        "warehouse worker",
+        "warehouse management"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
