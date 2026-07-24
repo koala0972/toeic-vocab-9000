@@ -1,7 +1,7 @@
 {
+  "cefr": "B1",
   "level": 316,
   "tier": "intermediate",
-  "cefr": "B1",
   "words": [
     {
       "id": "B1-316-001",
@@ -10,25 +10,67 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "verify",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "verifies"
+        "present_3rd": "verifies",
+        "past": "verified",
+        "past_participle": "verified",
+        "ing": "verifying"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "verify",
-          "definition": "vt. 證明, 查證, 證實, 檢驗, 校驗, [計] 校驗, 檢驗; DOS內部命令:設定寫入磁盘時是否驗證寫入的正確性"
+          "definition": "v. 核實、查證、證實"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The bank will verify your identity before opening the new account.",
+          "highlight": [
+            "verify"
+          ],
+          "translations": {
+            "zh-TW": "銀行在開立新帳戶前會先核實您的身分。"
+          }
+        },
+        {
+          "en": "Our warehouse manager verified the shipment numbers against the delivery manifest.",
+          "highlight": [
+            "verified"
+          ],
+          "translations": {
+            "zh-TW": "我們的倉庫主管已對照出貨單核實了這批貨物的數量。"
+          }
+        },
+        {
+          "en": "The receptionist is verifying the visitor credentials at the front desk.",
+          "highlight": [
+            "verifying"
+          ],
+          "translations": {
+            "zh-TW": "櫃台接待員正在前台核實訪客的證件。"
+          }
+        }
+      ],
+      "synonyms": [
+        "confirm",
+        "authenticate",
+        "check"
+      ],
+      "antonyms": [
+        "contradict",
+        "disprove"
+      ],
+      "phrases": [
+        "verify identity",
+        "verify information",
+        "verify the claim",
+        "verify a document"
+      ]
     },
     {
       "id": "B1-316-002",
@@ -37,25 +79,61 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "automobile",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "automobiles"
       },
-      "domain": "general",
+      "domain": "transportation",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "automobile",
-          "definition": "n. 汽車, [機] 汽車"
+          "definition": "n. 汽車"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The dealer showcased a fuel-efficient automobile at the year-end fair.",
+          "highlight": [
+            "automobile"
+          ],
+          "translations": {
+            "zh-TW": "經銷商在年終展銷會上展示了一輛省油的汽車。"
+          }
+        },
+        {
+          "en": "The rental fleet includes compact cars and luxury automobiles.",
+          "highlight": [
+            "automobiles"
+          ],
+          "translations": {
+            "zh-TW": "租車車隊涵蓋緊湊型車與豪華汽車。"
+          }
+        },
+        {
+          "en": "Automobile sales dropped sharply during the economic downturn last quarter.",
+          "highlight": [
+            "Automobile"
+          ],
+          "translations": {
+            "zh-TW": "上一季經濟低迷期間汽車銷量急遽下滑。"
+          }
+        }
+      ],
+      "synonyms": [
+        "car",
+        "vehicle",
+        "motorcar"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "automobile industry",
+        "automobile insurance",
+        "automobile manufacturer",
+        "rental automobile"
+      ]
     },
     {
       "id": "B1-316-003",
@@ -64,25 +142,61 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "courier",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "couriers"
       },
-      "domain": "general",
+      "domain": "logistics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "courier",
-          "definition": "n. 送快信的人, 伴游服務員, [法] 信使, 送急件者"
+          "definition": "n. 快遞員、信使、專遞服務"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The courier delivered the signed contracts to the client's office by noon.",
+          "highlight": [
+            "courier"
+          ],
+          "translations": {
+            "zh-TW": "快遞員在中午前把簽好的合約送達客戶辦公室。"
+          }
+        },
+        {
+          "en": "Two new couriers were hired to handle the seasonal delivery surge.",
+          "highlight": [
+            "couriers"
+          ],
+          "translations": {
+            "zh-TW": "公司新聘了兩名快遞員，以應付季節性的送件高峰。"
+          }
+        },
+        {
+          "en": "We recommend using a tracked courier service for important documents.",
+          "highlight": [
+            "courier"
+          ],
+          "translations": {
+            "zh-TW": "重要文件我們建議使用具追蹤功能的快遞服務寄送。"
+          }
+        }
+      ],
+      "synonyms": [
+        "messenger",
+        "delivery person",
+        "dispatcher"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "courier service",
+        "send by courier",
+        "same-day courier",
+        "international courier"
+      ]
     },
     {
       "id": "B1-316-004",
@@ -91,25 +205,66 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "incomplete",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "incompletes"
+        "comparative": "more incomplete",
+        "superlative": "most incomplete"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "incomplete",
-          "definition": "a. 不完全的, 未完成的, 不完善的, [機] 不完全的"
+          "definition": "adj. 不完整的、未完成的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The online application was rejected because the form was incomplete.",
+          "highlight": [
+            "incomplete"
+          ],
+          "translations": {
+            "zh-TW": "線上申請因表格填寫不完整而遭退件。"
+          }
+        },
+        {
+          "en": "A more incomplete report only makes it harder for the board to decide.",
+          "highlight": [
+            "incomplete"
+          ],
+          "translations": {
+            "zh-TW": "報告越是殘缺不全，董事會越難做出決定。"
+          }
+        },
+        {
+          "en": "Submitting the most incomplete draft among the teams cost them the contract.",
+          "highlight": [
+            "incomplete"
+          ],
+          "translations": {
+            "zh-TW": "在各團隊中提交了最不完整的草稿，讓他們錯失了合約。"
+          }
+        }
+      ],
+      "synonyms": [
+        "partial",
+        "unfinished",
+        "fragmentary"
+      ],
+      "antonyms": [
+        "complete",
+        "whole",
+        "entire"
+      ],
+      "phrases": [
+        "incomplete application",
+        "incomplete documentation",
+        "incomplete data",
+        "leave incomplete"
+      ]
     },
     {
       "id": "B1-316-005",
@@ -118,25 +273,61 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "questionnaire",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "questionnaires"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "questionnaire",
-          "definition": "n. 調查表, 问卷, [經] 調查表"
+          "definition": "n. 問卷、調查表"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Before your first consultation, please fill out the screening questionnaire online.",
+          "highlight": [
+            "questionnaire"
+          ],
+          "translations": {
+            "zh-TW": "首次諮詢前，請先在線上填寫這份篩選問卷。"
+          }
+        },
+        {
+          "en": "Researchers distributed printed questionnaires to five hundred participants at the trade fair.",
+          "highlight": [
+            "questionnaires"
+          ],
+          "translations": {
+            "zh-TW": "研究人員在展銷會場發放紙本問卷給五百位參與者。"
+          }
+        },
+        {
+          "en": "The HR questionnaire takes about fifteen minutes to complete on a smartphone.",
+          "highlight": [
+            "questionnaire"
+          ],
+          "translations": {
+            "zh-TW": "人事問卷以智慧型手機填寫大約需要十五分鐘。"
+          }
+        }
+      ],
+      "synonyms": [
+        "survey",
+        "form",
+        "poll"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "fill out a questionnaire",
+        "survey questionnaire",
+        "feedback questionnaire",
+        "customer questionnaire"
+      ]
     },
     {
       "id": "B1-316-006",
@@ -145,25 +336,66 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "dock",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "docks"
+        "plural": "docks",
+        "present_3rd": "docks",
+        "past": "docked",
+        "past_participle": "docked",
+        "ing": "docking"
       },
-      "domain": "general",
+      "domain": "logistics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dock",
-          "definition": "n. 码頭, 船坞, 被告席, 尾巴的骨肉部分, vt. 使靠码頭, 使(船)进港, 剪短, vi. 进港"
+          "definition": "n. 碼頭、月台  v. 靠碼頭、停泊"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The cargo ship arrived at the dock early Monday for loading.",
+          "highlight": [
+            "dock"
+          ],
+          "translations": {
+            "zh-TW": "貨輪在週一清晨抵達碼頭準備裝載。"
+          }
+        },
+        {
+          "en": "Two freighters docked at the western pier during the night shift.",
+          "highlight": [
+            "docked"
+          ],
+          "translations": {
+            "zh-TW": "夜班時段有兩艘貨船停泊在西側碼頭。"
+          }
+        },
+        {
+          "en": "Customs officers are docking the containers for inspection before release.",
+          "highlight": [
+            "docking"
+          ],
+          "translations": {
+            "zh-TW": "海關人員正將貨櫃移至碼頭區進行放行前的查驗。"
+          }
+        }
+      ],
+      "synonyms": [
+        "pier",
+        "wharf",
+        "quay"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "loading dock",
+        "dock at the pier",
+        "dock worker",
+        "container dock"
+      ]
     },
     {
       "id": "B1-316-007",
@@ -172,25 +404,62 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "lately",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
-      "conjugations": {
-        "plural": "latelies"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "lately",
-          "definition": "adv. 近來, 最近"
+          "definition": "adv. 最近、近來"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Lately, our sales team has struggled to meet the monthly revenue target.",
+          "highlight": [
+            "Lately"
+          ],
+          "translations": {
+            "zh-TW": "近來我們業務團隊一直難以達成月度營收目標。"
+          }
+        },
+        {
+          "en": "Have you noticed the new payment terms the vendor introduced lately?",
+          "highlight": [
+            "lately"
+          ],
+          "translations": {
+            "zh-TW": "您有注意到供應商最近推出的新付款條件嗎？"
+          }
+        },
+        {
+          "en": "Suppliers have been raising raw-material prices a lot more lately than last year.",
+          "highlight": [
+            "lately"
+          ],
+          "translations": {
+            "zh-TW": "比起去年，供應商近期大幅調高了原物料價格。"
+          }
+        }
+      ],
+      "synonyms": [
+        "recently",
+        "of late",
+        "latterly"
+      ],
+      "antonyms": [
+        "previously",
+        "formerly"
+      ],
+      "phrases": [
+        "not feeling well lately",
+        "lately updated",
+        "quite busy lately",
+        "haven't seen lately"
+      ]
     },
     {
       "id": "B1-316-008",
@@ -199,25 +468,63 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "presenter",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "presenters"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "presenter",
-          "definition": "n. 節目主持人, 奉献者, 提出者, [法] 告發者, 提出者, 推荐者"
+          "definition": "n. 簡報者、主持人、提案人"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The presenter opened the annual product launch with a market overview slide.",
+          "highlight": [
+            "presenter"
+          ],
+          "translations": {
+            "zh-TW": "簡報者以一張市場概覽投影片揭開年度產品發表的序幕。"
+          }
+        },
+        {
+          "en": "Both presenters shared the stage and took turns answering investor questions.",
+          "highlight": [
+            "presenters"
+          ],
+          "translations": {
+            "zh-TW": "兩位主持人共用舞台，輪流回答投資人的提問。"
+          }
+        },
+        {
+          "en": "A skilled presenter can turn dry financial data into a compelling story.",
+          "highlight": [
+            "presenter"
+          ],
+          "translations": {
+            "zh-TW": "一位優秀的簡報者能把枯燥的財務資料化作引人入勝的故事。"
+          }
+        }
+      ],
+      "synonyms": [
+        "speaker",
+        "host",
+        "lecturer"
+      ],
+      "antonyms": [
+        "audience"
+      ],
+      "phrases": [
+        "guest presenter",
+        "lead presenter",
+        "seasoned presenter",
+        "presenter notes"
+      ]
     },
     {
       "id": "B1-316-009",
@@ -226,25 +533,62 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "seldom",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
-      "conjugations": {
-        "plural": "seldoms"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "seldom",
-          "definition": "a. 不常的, 稀少的, adv. 很少, 不常"
+          "definition": "adv. 很少、不常"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Seldom does the CEO join entry-level interviews, but today is the exception.",
+          "highlight": [
+            "Seldom"
+          ],
+          "translations": {
+            "zh-TW": "執行長很少親自參與基層職位面試，但今天是例外。"
+          }
+        },
+        {
+          "en": "Our warehouse seldom runs out of raw materials during off-peak months.",
+          "highlight": [
+            "seldom"
+          ],
+          "translations": {
+            "zh-TW": "我們倉庫在淡季月份很少出現原物料耗盡的情況。"
+          }
+        },
+        {
+          "en": "Senior analysts seldom make such basic forecasting errors in their weekly reports.",
+          "highlight": [
+            "seldom"
+          ],
+          "translations": {
+            "zh-TW": "資深分析師在每週報告中很少犯這種基本預測錯誤。"
+          }
+        }
+      ],
+      "synonyms": [
+        "rarely",
+        "scarcely",
+        "infrequently"
+      ],
+      "antonyms": [
+        "often",
+        "frequently"
+      ],
+      "phrases": [
+        "seldom seen",
+        "seldom happens",
+        "seldom used",
+        "seldom if ever"
+      ]
     },
     {
       "id": "B1-316-010",
@@ -253,26 +597,61 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "carrier",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "carriers"
       },
-      "domain": "general",
+      "domain": "logistics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "carrier",
-          "definition": "n. 運送者, 郵递員, 帶菌者, [計] 載波"
+          "definition": "n. 貨運公司、電信業者、運輸商、帶菌者"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The preferred carrier guarantees next-day delivery for orders placed before 5 p.m.",
+          "highlight": [
+            "carrier"
+          ],
+          "translations": {
+            "zh-TW": "這家指定貨運公司保證下午五點前的訂單隔日送達。"
+          }
+        },
+        {
+          "en": "Several major carriers extended coverage to the remote island last summer, improving last-mile logistics.",
+          "highlight": [
+            "carriers"
+          ],
+          "translations": {
+            "zh-TW": "去年夏天多家大型貨運公司將服務範圍延伸至偏遠島嶼，改善了最後一哩的物流配送。"
+          }
+        },
+        {
+          "en": "Choosing the right carrier can significantly reduce international shipping costs.",
+          "highlight": [
+            "carrier"
+          ],
+          "translations": {
+            "zh-TW": "選對貨運業者能大幅降低國際運輸成本。"
+          }
+        }
+      ],
+      "synonyms": [
+        "shipper",
+        "transporter",
+        "freight forwarder"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "shipping carrier",
+        "low-cost carrier",
+        "mail carrier",
+        "career as a carrier"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
