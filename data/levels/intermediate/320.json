@@ -10,25 +10,66 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "urgent",
-      "phonetic": "",
+      "phonetic": "ˈɜːrdʒənt",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "urgents"
+        "comparative": "more urgent",
+        "superlative": "most urgent"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "urgent",
-          "definition": "a. 紧急的, 急迫的, 催逼的, [經] 紧急的, 急迫的"
+          "definition": "adj. 緊急的、急迫的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The manager sent an urgent email asking everyone to attend the meeting immediately.",
+          "highlight": [
+            "urgent"
+          ],
+          "translations": {
+            "zh-TW": "經理發了一封緊急的電子郵件，要求所有人立刻出席會議。"
+          }
+        },
+        {
+          "en": "As the deadline approached, the request became more urgent than ever.",
+          "highlight": [
+            "more urgent"
+          ],
+          "translations": {
+            "zh-TW": "隨著截止日期逼近，這項要求變得比以往更加急迫。"
+          }
+        },
+        {
+          "en": "Of all the issues on the agenda, the budget cut was the most urgent.",
+          "highlight": [
+            "most urgent"
+          ],
+          "translations": {
+            "zh-TW": "在議程的所有議題中，預算縮減是最為緊急的。"
+          }
+        }
+      ],
+      "synonyms": [
+        "pressing",
+        "critical",
+        "imperative"
+      ],
+      "antonyms": [
+        "minor",
+        "unimportant"
+      ],
+      "phrases": [
+        "urgent need",
+        "urgent matter",
+        "urgent message",
+        "urgent care"
+      ]
     },
     {
       "id": "B1-320-002",
@@ -37,25 +78,70 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "delete",
-      "phonetic": "",
+      "phonetic": "dɪˈliːt",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "deletes"
+        "plural": "deletes",
+        "present_3rd": "deletes",
+        "past": "deleted",
+        "past_participle": "deleted",
+        "ing": "deleting"
       },
-      "domain": "general",
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "delete",
-          "definition": "vt. 删除, [計] 删除"
+          "definition": "v. 刪除、消除"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Please delete the old files from the shared folder before Friday.",
+          "highlight": [
+            "delete"
+          ],
+          "translations": {
+            "zh-TW": "請在週五前將共享資料夾中的舊檔案刪除。"
+          }
+        },
+        {
+          "en": "The system automatically deleted the draft after thirty days of inactivity.",
+          "highlight": [
+            "deleted"
+          ],
+          "translations": {
+            "zh-TW": "系統在三十天無活動後自動刪除了那份草稿。"
+          }
+        },
+        {
+          "en": "She is deleting duplicate entries to clean up the customer database.",
+          "highlight": [
+            "deleting"
+          ],
+          "translations": {
+            "zh-TW": "她正在刪除重複的項目，以清理客戶資料庫。"
+          }
+        }
+      ],
+      "synonyms": [
+        "remove",
+        "erase",
+        "cancel"
+      ],
+      "antonyms": [
+        "add",
+        "keep",
+        "insert"
+      ],
+      "phrases": [
+        "delete a file",
+        "delete account",
+        "delete data",
+        "permanently delete"
+      ]
     },
     {
       "id": "B1-320-003",
@@ -64,25 +150,67 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "illogical",
-      "phonetic": "",
+      "phonetic": "ɪˈlɒdʒɪkl",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "illogicals"
+        "comparative": "more illogical",
+        "superlative": "most illogical"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "illogical",
-          "definition": "a. 不合逻辑的, 无缘由的, [法] 不合逻辑的, 无条理的, 說不通的"
+          "definition": "adj. 不合邏輯的、說不通的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The inspector found it illogical that the report listed expenses without receipts.",
+          "highlight": [
+            "illogical"
+          ],
+          "translations": {
+            "zh-TW": "稽查員覺得這份報告列出開支卻沒有收據，完全不合邏輯。"
+          }
+        },
+        {
+          "en": "Rejecting a qualified candidate for being too experienced is more illogical than rejecting one for being inexperienced.",
+          "highlight": [
+            "more illogical"
+          ],
+          "translations": {
+            "zh-TW": "因求職者經驗過於豐富而拒絕他，比因經驗不足而拒絕更加說不通。"
+          }
+        },
+        {
+          "en": "Of all the decisions the committee made, cutting training budgets to boost productivity was the most illogical.",
+          "highlight": [
+            "most illogical"
+          ],
+          "translations": {
+            "zh-TW": "在委員會所有決策中，削減培訓預算來提升生產力最為不合邏輯。"
+          }
+        }
+      ],
+      "synonyms": [
+        "irrational",
+        "unreasonable",
+        "inconsistent"
+      ],
+      "antonyms": [
+        "logical",
+        "rational",
+        "reasonable"
+      ],
+      "phrases": [
+        "illogical argument",
+        "illogical conclusion",
+        "illogical reasoning",
+        "completely illogical"
+      ]
     },
     {
       "id": "B1-320-004",
@@ -91,25 +219,63 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "textbook",
-      "phonetic": "",
+      "phonetic": "ˈtekstbʊk",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "textbooks"
       },
-      "domain": "general",
+      "domain": "education",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "textbook",
-          "definition": "n. 教科書"
+          "definition": "n. 教科書、課本  adj. 典型的、標準的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The professor asked every student to bring the assigned textbook to the first lecture.",
+          "highlight": [
+            "textbook"
+          ],
+          "translations": {
+            "zh-TW": "教授要求每位學生在第一堂課帶來指定的教科書。"
+          }
+        },
+        {
+          "en": "The school bookstore ordered two hundred textbooks for the new finance course.",
+          "highlight": [
+            "textbooks"
+          ],
+          "translations": {
+            "zh-TW": "學校書店為新的財務課程訂購了兩百本教科書。"
+          }
+        },
+        {
+          "en": "Her presentation was a textbook example of how to pitch a product to investors.",
+          "highlight": [
+            "textbook"
+          ],
+          "translations": {
+            "zh-TW": "她的簡報是向投資人推銷產品的標準範例。"
+          }
+        }
+      ],
+      "synonyms": [
+        "course book",
+        "manual",
+        "primer"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "textbook example",
+        "textbook case",
+        "textbook publisher",
+        "read a textbook"
+      ]
     },
     {
       "id": "B1-320-005",
@@ -118,25 +284,62 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "cabin",
-      "phonetic": "",
+      "phonetic": "ˈkæbɪn",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "cabins"
       },
-      "domain": "general",
+      "domain": "travel",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cabin",
-          "definition": "n. 小屋, 客舱, vt. 關在小屋"
+          "definition": "n. 小木屋、（船或飛機的）艙房"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The company retreat was held at a wooden cabin near the lake.",
+          "highlight": [
+            "cabin"
+          ],
+          "translations": {
+            "zh-TW": "公司團建活動在湖邊的一間木造小屋舉行。"
+          }
+        },
+        {
+          "en": "First-class cabins on this airline feature lie-flat seats and privacy partitions.",
+          "highlight": [
+            "cabins"
+          ],
+          "translations": {
+            "zh-TW": "這家航空公司的頭等艙房配備可平躺的座椅與隔屏。"
+          }
+        },
+        {
+          "en": "The conductor walked through the cabin to check tickets before departure.",
+          "highlight": [
+            "cabin"
+          ],
+          "translations": {
+            "zh-TW": "列車長在開車前走過整節車廂查票。"
+          }
+        }
+      ],
+      "synonyms": [
+        "hut",
+        "cottage",
+        "compartment"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "cabin crew",
+        "cabin baggage",
+        "log cabin",
+        "economy cabin"
+      ]
     },
     {
       "id": "B1-320-006",
@@ -145,25 +348,64 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "conductor",
-      "phonetic": "",
+      "phonetic": "kənˈdʌktər",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "conductors"
       },
-      "domain": "general",
+      "domain": "transportation",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "conductor",
-          "definition": "n. 領導者, 指挥者, 售票員, 向導, [化] 導体"
+          "definition": "n. （火車）列車長、指揮家、導體"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The conductor punched my ticket and announced the next station in three languages.",
+          "highlight": [
+            "conductor"
+          ],
+          "translations": {
+            "zh-TW": "列車長在我的車票上剪了洞，並以三種語言播報下一站。"
+          }
+        },
+        {
+          "en": "Both conductors on the express train were praised for their courteous service.",
+          "highlight": [
+            "conductors"
+          ],
+          "translations": {
+            "zh-TW": "這班快車上的兩位列車長都因有禮的服務而受到表揚。"
+          }
+        },
+        {
+          "en": "Copper is widely used as a conductor because it allows electricity to pass through with little resistance.",
+          "highlight": [
+            "conductor"
+          ],
+          "translations": {
+            "zh-TW": "銅被廣泛用作導體，因為它讓電流通過時的電阻很小。"
+          }
+        }
+      ],
+      "synonyms": [
+        "director",
+        "guard",
+        "leader"
+      ],
+      "antonyms": [
+        "insulator"
+      ],
+      "phrases": [
+        "train conductor",
+        "orchestra conductor",
+        "good conductor",
+        "bus conductor"
+      ]
     },
     {
       "id": "B1-320-007",
@@ -172,25 +414,62 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "inspector",
-      "phonetic": "",
+      "phonetic": "ɪnˈspektər",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "inspectors"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "inspector",
-          "definition": "n. 檢查員, 巡視員, [化] 檢查員"
+          "definition": "n. 稽查員、檢查員、巡視員"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The safety inspector visited the factory to check whether fire exits were clearly marked.",
+          "highlight": [
+            "inspector"
+          ],
+          "translations": {
+            "zh-TW": "安全稽查員視察了工廠，檢查消防逃生出口是否標示清楚。"
+          }
+        },
+        {
+          "en": "Health inspectors closed three restaurants after finding serious hygiene violations.",
+          "highlight": [
+            "inspectors"
+          ],
+          "translations": {
+            "zh-TW": "衛生檢查員在發現嚴重的衛生違規後，勒令三家餐廳停業。"
+          }
+        },
+        {
+          "en": "An inspector from the tax office will review the company's records next week.",
+          "highlight": [
+            "inspector"
+          ],
+          "translations": {
+            "zh-TW": "稅務局的稽查員下週將審查這家公司的帳冊。"
+          }
+        }
+      ],
+      "synonyms": [
+        "examiner",
+        "auditor",
+        "investigator"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "safety inspector",
+        "health inspector",
+        "tax inspector",
+        "chief inspector"
+      ]
     },
     {
       "id": "B1-320-008",
@@ -199,25 +478,70 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "intern",
-      "phonetic": "",
+      "phonetic": "ˈɪntɜːrn",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "interns"
+        "plural": "interns",
+        "present_3rd": "interns",
+        "past": "interned",
+        "past_participle": "interned",
+        "ing": "interning"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "intern",
-          "definition": "n. 實习生, 被拘留者, vi. 作實习醫師(教師、實习生), vt. 拘留, 扣留"
+          "definition": "n. 實習生  v. 實習、拘留"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The marketing department hired a new intern for the summer program.",
+          "highlight": [
+            "intern"
+          ],
+          "translations": {
+            "zh-TW": "行銷部門為暑期計畫招募了一位新的實習生。"
+          }
+        },
+        {
+          "en": "Three interns completed their training and received letters of recommendation.",
+          "highlight": [
+            "interns"
+          ],
+          "translations": {
+            "zh-TW": "三位實習生完成了培訓，並收到推薦信。"
+          }
+        },
+        {
+          "en": "She has been interning at the law firm to gain hands-on experience before graduation.",
+          "highlight": [
+            "interning"
+          ],
+          "translations": {
+            "zh-TW": "她一直在那間律師事務所實習，以便在畢業前累積實務經驗。"
+          }
+        }
+      ],
+      "synonyms": [
+        "trainee",
+        "apprentice",
+        "beginner"
+      ],
+      "antonyms": [
+        "veteran",
+        "expert"
+      ],
+      "phrases": [
+        "summer intern",
+        "paid intern",
+        "internship program",
+        "intern position"
+      ]
     },
     {
       "id": "B1-320-009",
@@ -226,25 +550,65 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "confirmation",
-      "phonetic": "",
+      "phonetic": "ˌkɒnfərˈmeɪʃn",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "confirmations"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "confirmation",
-          "definition": "n. 證實, 證明, 批準, 確認, [計] 確認"
+          "definition": "n. 確認、證實、批准"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Please wait for the email confirmation before booking your flight.",
+          "highlight": [
+            "confirmation"
+          ],
+          "translations": {
+            "zh-TW": "在訂機票之前，請等候電子郵件確認。"
+          }
+        },
+        {
+          "en": "The bank sent two confirmations for each transfer exceeding ten thousand dollars.",
+          "highlight": [
+            "confirmations"
+          ],
+          "translations": {
+            "zh-TW": "銀行針對每筆超過一萬美元的轉帳，都會寄出兩份確認通知。"
+          }
+        },
+        {
+          "en": "Oral confirmation of the deal was not enough; the client demanded a signed contract.",
+          "highlight": [
+            "confirmation"
+          ],
+          "translations": {
+            "zh-TW": "僅口頭確認這筆交易是不夠的；客戶要求一份簽署過的合約。"
+          }
+        }
+      ],
+      "synonyms": [
+        "verification",
+        "validation",
+        "approval"
+      ],
+      "antonyms": [
+        "denial",
+        "rejection"
+      ],
+      "phrases": [
+        "booking confirmation",
+        "confirmation email",
+        "order confirmation",
+        "confirmation number"
+      ]
     },
     {
       "id": "B1-320-010",
@@ -253,26 +617,65 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "expertise",
-      "phonetic": "",
+      "phonetic": "ˌekspɜːrˈtiːz",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "expertises"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "expertise",
-          "definition": "n. 專家意见, 專門技術, [法] 專門知识, 專家意见"
+          "definition": "n. 專業知識、專門技術"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The consultancy was hired for its expertise in cross-border tax law.",
+          "highlight": [
+            "expertise"
+          ],
+          "translations": {
+            "zh-TW": "這家顧問公司是因其在跨境稅法的專業知識而被聘用的。"
+          }
+        },
+        {
+          "en": "Different teams bring different expertises, so the project benefits from cross-functional collaboration.",
+          "highlight": [
+            "expertises"
+          ],
+          "translations": {
+            "zh-TW": "不同團隊帶來不同的專業技術，因此專案能受惠於跨部門協作。"
+          }
+        },
+        {
+          "en": "Her technical expertise allowed the startup to launch the product three months ahead of schedule.",
+          "highlight": [
+            "expertise"
+          ],
+          "translations": {
+            "zh-TW": "她的技術專長讓這家新創公司比原定計畫提早三個月推出產品。"
+          }
+        }
+      ],
+      "synonyms": [
+        "proficiency",
+        "specialty",
+        "know-how"
+      ],
+      "antonyms": [
+        "inexperience",
+        "amateurism"
+      ],
+      "phrases": [
+        "technical expertise",
+        "professional expertise",
+        "demonstrate expertise",
+        "area of expertise"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
