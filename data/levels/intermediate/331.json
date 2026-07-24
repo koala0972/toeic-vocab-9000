@@ -1,7 +1,7 @@
 {
+  "cefr": "B1",
   "level": 331,
   "tier": "intermediate",
-  "cefr": "B1",
   "words": [
     {
       "id": "B1-331-001",
@@ -12,23 +12,61 @@
       "word": "afterward",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
-      "conjugations": {
-        "plural": "afterwards"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "afterward",
-          "definition": "adv. 然後, 後來"
+          "definition": "adv. 之後、後來、然後"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "We finished the budget review, and afterward the manager treated us to lunch.",
+          "highlight": [
+            "afterward"
+          ],
+          "translations": {
+            "zh-TW": "我們完成預算審查，之後經理請我們吃午餐。"
+          }
+        },
+        {
+          "en": "The keynote speaker signed books afterward for nearly an hour.",
+          "highlight": [
+            "afterward"
+          ],
+          "translations": {
+            "zh-TW": "專題演講者後來花了將近一小時為讀者簽書。"
+          }
+        },
+        {
+          "en": "Please send the invoice afterward so the accounting team can process it on Monday.",
+          "highlight": [
+            "afterward"
+          ],
+          "translations": {
+            "zh-TW": "請稍後再寄出發票，這樣會計團隊才能在週一處理。"
+          }
+        }
+      ],
+      "synonyms": [
+        "later",
+        "afterwards",
+        "subsequently"
+      ],
+      "antonyms": [
+        "beforehand",
+        "earlier"
+      ],
+      "phrases": [
+        "shortly afterward",
+        "soon afterward",
+        "long afterward",
+        "afterward on"
+      ]
     },
     {
       "id": "B1-331-002",
@@ -49,13 +87,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "apology",
-          "definition": "n. 道歉, 辩護, [法] 道歉, 謝罪, 辩解者"
+          "definition": "n. 道歉、歉意"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The hotel manager issued a formal apology after guests reported moldy rooms.",
+          "highlight": [
+            "apology"
+          ],
+          "translations": {
+            "zh-TW": "飯店經理在房客反映房間發霉後，正式致歉。"
+          }
+        },
+        {
+          "en": "Please accept our apologies for the delayed shipment; a replacement is on its way.",
+          "highlight": [
+            "apologies"
+          ],
+          "translations": {
+            "zh-TW": "我們對出貨延遲深感歉意，替換品已經在運送途中。"
+          }
+        },
+        {
+          "en": "A handwritten apology is far more convincing than a generic email to a long-standing client.",
+          "highlight": [
+            "apology"
+          ],
+          "translations": {
+            "zh-TW": "對長期客戶而言，一封親手寫的致歉信遠比千篇一律的電子郵件來得有誠意。"
+          }
+        }
+      ],
+      "synonyms": [
+        "excuse",
+        "regret",
+        "acknowledgment"
+      ],
+      "antonyms": [
+        "accusation",
+        "complaint"
+      ],
+      "phrases": [
+        "make an apology",
+        "accept an apology",
+        "demand an apology",
+        "letter of apology"
+      ]
     },
     {
       "id": "B1-331-003",
@@ -66,23 +144,67 @@
       "word": "assemble",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "assembles"
+        "present_3rd": "assembles",
+        "past": "assembled",
+        "past_participle": "assembled",
+        "ing": "assembling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "assemble",
-          "definition": "vt. 集合, 收集, 裝配, vi. 集合, [計] 汇编"
+          "definition": "v. 集合、聚集、裝配、組裝"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Staff assemble every morning in the lobby for a five-minute briefing.",
+          "highlight": [
+            "assemble"
+          ],
+          "translations": {
+            "zh-TW": "員工每天早上在大廳集合進行五分鐘的簡報。"
+          }
+        },
+        {
+          "en": "The engineering team assembled the prototype overnight and ran tests at dawn.",
+          "highlight": [
+            "assembled"
+          ],
+          "translations": {
+            "zh-TW": "工程團隊徹夜組裝出原型機，並在清晨進行測試。"
+          }
+        },
+        {
+          "en": "While the workers were assembling the stage, a heavy storm rolled in and damaged the lighting rigs.",
+          "highlight": [
+            "assembling"
+          ],
+          "translations": {
+            "zh-TW": "當工人們正在搭設舞台時，一場暴風雨來襲，損壞了燈光設備。"
+          }
+        }
+      ],
+      "synonyms": [
+        "gather",
+        "collect",
+        "put together"
+      ],
+      "antonyms": [
+        "disperse",
+        "dismantle",
+        "disassemble"
+      ],
+      "phrases": [
+        "assemble a team",
+        "assemble a product",
+        "assemble data",
+        "assemble the crew"
+      ]
     },
     {
       "id": "B1-331-004",
@@ -98,18 +220,58 @@
       "conjugations": {
         "plural": "boardrooms"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "boardroom",
-          "definition": "n. 會議室, 證券交换場所"
+          "definition": "n. 董事會議室、會議室"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The CFO reserved the largest boardroom for the quarterly strategy session.",
+          "highlight": [
+            "boardroom"
+          ],
+          "translations": {
+            "zh-TW": "財務長預訂了最大的董事會議室來舉行季度策略會議。"
+          }
+        },
+        {
+          "en": "Several luxury boardrooms on the top floor feature panoramic views of the harbor.",
+          "highlight": [
+            "boardrooms"
+          ],
+          "translations": {
+            "zh-TW": "頂樓的幾間豪華會議室享有港灣的全景視野。"
+          }
+        },
+        {
+          "en": "An hour-long boardroom debate ended with a unanimous vote to expand into Southeast Asia.",
+          "highlight": [
+            "boardroom"
+          ],
+          "translations": {
+            "zh-TW": "在會議室裡長達一小時的辯論，最終以一致表決通過進軍東南亞而作結。"
+          }
+        }
+      ],
+      "synonyms": [
+        "meeting room",
+        "conference room",
+        "executive suite"
+      ],
+      "antonyms": [
+        "open office",
+        "hallway"
+      ],
+      "phrases": [
+        "boardroom meeting",
+        "boardroom drama",
+        "boardroom decision",
+        "reserve the boardroom"
+      ]
     },
     {
       "id": "B1-331-005",
@@ -120,23 +282,68 @@
       "word": "carpenter",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "carpenters"
+        "plural": "carpenters",
+        "present_3rd": "carpenters",
+        "past": "carpentered",
+        "past_participle": "carpentered",
+        "ing": "carpentering"
       },
-      "domain": "general",
+      "domain": "trades",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "carpenter",
-          "definition": "n. 木匠"
+          "definition": "n. 木匠、木工  v. 做木工、以木工製作"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The carpenter sanded the oak table until it gleamed under the showroom lights.",
+          "highlight": [
+            "carpenter"
+          ],
+          "translations": {
+            "zh-TW": "木匠將橡木桌打磨到在展示間燈光下閃閃發亮。"
+          }
+        },
+        {
+          "en": "Skilled carpenters are in short supply, so the contractor raised hourly rates to attract applicants.",
+          "highlight": [
+            "carpenters"
+          ],
+          "translations": {
+            "zh-TW": "技術純熟的木匠供不應求，承包商因此調高時薪以吸引求職者。"
+          }
+        },
+        {
+          "en": "He carpentered a custom bookshelf for the new branch office over the weekend.",
+          "highlight": [
+            "carpentered"
+          ],
+          "translations": {
+            "zh-TW": "他在週末替新成立的分公司親手打造了一個訂製書架。"
+          }
+        }
+      ],
+      "synonyms": [
+        "woodworker",
+        "joiner",
+        "cabinetmaker"
+      ],
+      "antonyms": [
+        "demolisher",
+        "wrecker"
+      ],
+      "phrases": [
+        "hire a carpenter",
+        "master carpenter",
+        "carpenter tools",
+        "carpenter's square"
+      ]
     },
     {
       "id": "B1-331-006",
@@ -152,18 +359,58 @@
       "conjugations": {
         "plural": "caterers"
       },
-      "domain": "general",
+      "domain": "hospitality",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "caterer",
-          "definition": "n. 備办食物者, 備办宴席者"
+          "definition": "n. 承包筵席者、外燴業者"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The caterer arrived two hours early to set up the buffet for the award gala.",
+          "highlight": [
+            "caterer"
+          ],
+          "translations": {
+            "zh-TW": "外燴業者提早兩小時到場，為頒獎晚宴準備自助餐。"
+          }
+        },
+        {
+          "en": "Compare at least three caterers before signing the contract for the corporate retreat.",
+          "highlight": [
+            "caterers"
+          ],
+          "translations": {
+            "zh-TW": "在為公司旅遊簽約前，至少比較三家外燴業者。"
+          }
+        },
+        {
+          "en": "A reliable caterer can adjust the menu on short notice to accommodate dietary restrictions.",
+          "highlight": [
+            "caterer"
+          ],
+          "translations": {
+            "zh-TW": "可靠的外燴業者能臨時調整菜單，以符合賓客的飲食限制。"
+          }
+        }
+      ],
+      "synonyms": [
+        "food service provider",
+        "banquet provider",
+        "catering company"
+      ],
+      "antonyms": [
+        "self-catering",
+        "potluck"
+      ],
+      "phrases": [
+        "hire a caterer",
+        "caterer menu",
+        "professional caterer",
+        "wedding caterer"
+      ]
     },
     {
       "id": "B1-331-007",
@@ -174,23 +421,67 @@
       "word": "classify",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "classifies"
+        "present_3rd": "classifies",
+        "past": "classified",
+        "past_participle": "classified",
+        "ing": "classifying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "classify",
-          "definition": "vt. 分类, 归类, 分等, [建] 分类, 分級, 分粒"
+          "definition": "v. 分類、歸類、分級"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Librarians classify every new book before shelving it according to the Dewey system.",
+          "highlight": [
+            "classify"
+          ],
+          "translations": {
+            "zh-TW": "圖書館員依杜威分類法將每本新書歸類後才上架。"
+          }
+        },
+        {
+          "en": "The customs officer classified the shipment as electronic components, which triggered an inspection.",
+          "highlight": [
+            "classified"
+          ],
+          "translations": {
+            "zh-TW": "海關人員將該批貨物歸類為電子零件，因而觸發查驗程序。"
+          }
+        },
+        {
+          "en": "When classifying the invoices, the intern accidentally mixed travel expenses with office supplies.",
+          "highlight": [
+            "classifying"
+          ],
+          "translations": {
+            "zh-TW": "實習生在歸類發票時，不小心把差旅費跟辦公用品混在一起了。"
+          }
+        }
+      ],
+      "synonyms": [
+        "categorize",
+        "sort",
+        "group"
+      ],
+      "antonyms": [
+        "mix up",
+        "confuse",
+        "jumble"
+      ],
+      "phrases": [
+        "classify as",
+        "classify by category",
+        "classify documents",
+        "classify information"
+      ]
     },
     {
       "id": "B1-331-008",
@@ -206,18 +497,58 @@
       "conjugations": {
         "plural": "consultations"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "consultation",
-          "definition": "n. 請教, 咨询, 磋商會, [醫] 會診"
+          "definition": "n. 諮詢、協商、會診"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The legal team offered a free consultation to startups drafting their first contracts.",
+          "highlight": [
+            "consultation"
+          ],
+          "translations": {
+            "zh-TW": "法務團隊為草擬首份合約的新創公司提供免費諮詢。"
+          }
+        },
+        {
+          "en": "Three follow-up consultations were scheduled after the merger talks stalled last week.",
+          "highlight": [
+            "consultations"
+          ],
+          "translations": {
+            "zh-TW": "上週合併談判陷入僵局後，已安排了三場後續協商。"
+          }
+        },
+        {
+          "en": "A 30-minute consultation with a tax accountant saved the bakery thousands of dollars this quarter.",
+          "highlight": [
+            "consultation"
+          ],
+          "translations": {
+            "zh-TW": "本季與稅務會計師的三十分鐘諮詢，為這家烘焙坊省下數千元。"
+          }
+        }
+      ],
+      "synonyms": [
+        "advice",
+        "discussion",
+        "counseling"
+      ],
+      "antonyms": [
+        "decree",
+        "directive"
+      ],
+      "phrases": [
+        "in consultation with",
+        "free consultation",
+        "consultation fee",
+        "schedule a consultation"
+      ]
     },
     {
       "id": "B1-331-009",
@@ -228,23 +559,65 @@
       "word": "durable",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "durables"
+        "comparative": "more durable",
+        "superlative": "most durable"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "durable",
-          "definition": "a. 持久的, 耐用的"
+          "definition": "adj. 耐用的、持久的、堅固的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "These durable laptop cases survived a five-day trade show without a scratch.",
+          "highlight": [
+            "durable"
+          ],
+          "translations": {
+            "zh-TW": "這些耐用筆電外殼在為期五天的展覽中毫髮無傷。"
+          }
+        },
+        {
+          "en": "Titanium frames are more durable than aluminum, but they cost nearly twice as much.",
+          "highlight": [
+            "more durable"
+          ],
+          "translations": {
+            "zh-TW": "鈦金屬框比鋁合金更耐用，但價格幾乎貴了一倍。"
+          }
+        },
+        {
+          "en": "Among the fabrics tested, linen proved the most durable for hotel curtains under harsh sunlight.",
+          "highlight": [
+            "most durable"
+          ],
+          "translations": {
+            "zh-TW": "在受測的布料中，亞麻被證實是飯店窗簾在強烈日照下最持久的選擇。"
+          }
+        }
+      ],
+      "synonyms": [
+        "sturdy",
+        "long-lasting",
+        "tough"
+      ],
+      "antonyms": [
+        "fragile",
+        "delicate",
+        "flimsy"
+      ],
+      "phrases": [
+        "durable goods",
+        "highly durable",
+        "durable material",
+        "durable construction"
+      ]
     },
     {
       "id": "B1-331-010",
@@ -255,24 +628,68 @@
       "word": "malfunction",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "malfunctions"
+        "plural": "malfunctions",
+        "present_3rd": "malfunctions",
+        "past": "malfunctioned",
+        "past_participle": "malfunctioned",
+        "ing": "malfunctioning"
       },
-      "domain": "general",
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "malfunction",
-          "definition": "n. 故障, 失灵, 疾病, vi. 發生故障, 不起作用, [計] 故障"
+          "definition": "n. 故障、失靈  v. 發生故障、運作失常"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A sudden malfunction in the payment gateway stalled online orders for nearly two hours.",
+          "highlight": [
+            "malfunction"
+          ],
+          "translations": {
+            "zh-TW": "支付系統突然故障，讓線上訂單停擺了近兩小時。"
+          }
+        },
+        {
+          "en": "Recurring malfunctions in the elevator prompted the building manager to replace the entire control board.",
+          "highlight": [
+            "malfunctions"
+          ],
+          "translations": {
+            "zh-TW": "電梯反覆故障，促使大樓管理員更換了整片控制板。"
+          }
+        },
+        {
+          "en": "The cash register malfunctioned during the lunch rush, so the staff switched to manual receipts.",
+          "highlight": [
+            "malfunctioned"
+          ],
+          "translations": {
+            "zh-TW": "收銀機在午餐尖峰時刻發生故障，員工只好改用手開收據。"
+          }
+        }
+      ],
+      "synonyms": [
+        "breakdown",
+        "failure",
+        "fault"
+      ],
+      "antonyms": [
+        "smooth operation",
+        "functioning"
+      ],
+      "phrases": [
+        "equipment malfunction",
+        "system malfunction",
+        "malfunction report",
+        "diagnose a malfunction"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
