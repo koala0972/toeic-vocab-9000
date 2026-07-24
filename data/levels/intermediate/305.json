@@ -1,7 +1,7 @@
 {
+  "cefr": "B1",
   "level": 305,
   "tier": "intermediate",
-  "cefr": "B1",
   "words": [
     {
       "id": "B1-305-001",
@@ -12,23 +12,65 @@
       "word": "merchandise",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "merchandises"
+        "plural": "merchandises",
+        "present_3rd": "merchandises",
+        "past": "merchandised",
+        "past_participle": "merchandised",
+        "ing": "merchandising"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "merchandise",
-          "definition": "n. 商品, 貨物, v. 交易, 買賣"
+          "definition": "n. 商品、貨物  v. 推銷、經銷商品"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "All merchandise in the warehouse must be inventoried before the end of the quarter.",
+          "highlight": [
+            "merchandise"
+          ],
+          "translations": {
+            "zh-TW": "倉庫裡所有商品必須在季末前完成盤點。"
+          }
+        },
+        {
+          "en": "The supplier merchandised the new product line through major retail chains last summer.",
+          "highlight": [
+            "merchandised"
+          ],
+          "translations": {
+            "zh-TW": "去年夏天供應商透過主要零售連鎖店經銷新產品線。"
+          }
+        },
+        {
+          "en": "Effective merchandising helped the boutique double its sales within a year.",
+          "highlight": [
+            "merchandising"
+          ],
+          "translations": {
+            "zh-TW": "有效的商品陳列與推銷讓這家精品店在一年內業績翻倍。"
+          }
+        }
+      ],
+      "synonyms": [
+        "goods",
+        "commodities",
+        "products"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "merchandise trade",
+        "general merchandise",
+        "defective merchandise",
+        "merchandise return"
+      ]
     },
     {
       "id": "B1-305-002",
@@ -44,18 +86,55 @@
       "conjugations": {
         "plural": "receptionists"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "receptionist",
-          "definition": "n. 接待員"
+          "definition": "n. 接待員、櫃檯人員、行政助理"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The receptionist greeted every visitor with a warm smile and a visitor badge.",
+          "highlight": [
+            "receptionist"
+          ],
+          "translations": {
+            "zh-TW": "接待員以親切的微笑和訪客證迎接每位訪客。"
+          }
+        },
+        {
+          "en": "Two receptionists share the front desk during peak conference season.",
+          "highlight": [
+            "receptionists"
+          ],
+          "translations": {
+            "zh-TW": "在會議旺季期間，兩名接待員共同輪值前台。"
+          }
+        },
+        {
+          "en": "The receptionist's duties include answering calls, scheduling appointments, and sorting incoming mail.",
+          "highlight": [
+            "receptionist's"
+          ],
+          "translations": {
+            "zh-TW": "接待員的職責包含接聽電話、安排預約以及分類收到的郵件。"
+          }
+        }
+      ],
+      "synonyms": [
+        "front desk clerk",
+        "greeter",
+        "desk attendant"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "front desk receptionist",
+        "hotel receptionist",
+        "medical receptionist",
+        "receptionist desk"
+      ]
     },
     {
       "id": "B1-305-003",
@@ -71,18 +150,57 @@
       "conjugations": {
         "plural": "identifications"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "identification",
-          "definition": "n. 识别, 身份證明, 認同, [化] 鉴定; 鉴别; 鉴别法; 認證"
+          "definition": "n. 身分證明、識別、鑑定"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Please present a valid form of identification before entering the secured facility.",
+          "highlight": [
+            "identification"
+          ],
+          "translations": {
+            "zh-TW": "請出示有效的身分證明文件後再進入安全管制區域。"
+          }
+        },
+        {
+          "en": "The customs officer required multiple identifications to verify the shipment's origin.",
+          "highlight": [
+            "identifications"
+          ],
+          "translations": {
+            "zh-TW": "海關人員要求多項身分證明以核實該批貨物的來源。"
+          }
+        },
+        {
+          "en": "Employee identification cards must be worn visibly within corporate headquarters at all times.",
+          "highlight": [
+            "identification"
+          ],
+          "translations": {
+            "zh-TW": "員工識別證在公司總部內必須隨時配戴於顯眼處。"
+          }
+        }
+      ],
+      "synonyms": [
+        "ID",
+        "credentials",
+        "proof of identity"
+      ],
+      "antonyms": [
+        "anonymity"
+      ],
+      "phrases": [
+        "identification card",
+        "identification document",
+        "photo identification",
+        "proper identification"
+      ]
     },
     {
       "id": "B1-305-004",
@@ -98,18 +216,55 @@
       "conjugations": {
         "plural": "coupons"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "coupon",
-          "definition": "n. 息票, 赠券, [經] 息票, 利息單, 联票"
+          "definition": "n. 優惠券、折價券、息票"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The discount coupon expires at the end of this month, so use it soon.",
+          "highlight": [
+            "coupon"
+          ],
+          "translations": {
+            "zh-TW": "這張優惠券本月底到期，請盡快使用。"
+          }
+        },
+        {
+          "en": "Loyalty members receive exclusive coupons during seasonal promotional events.",
+          "highlight": [
+            "coupons"
+          ],
+          "translations": {
+            "zh-TW": "會員於季節性促銷活動期間會收到專屬的優惠券。"
+          }
+        },
+        {
+          "en": "Redeem this coupon at any participating branch to enjoy a 20 percent discount on your purchase.",
+          "highlight": [
+            "coupon"
+          ],
+          "translations": {
+            "zh-TW": "於任一參與活動的分店兌換此優惠券即可享購物八折優惠。"
+          }
+        }
+      ],
+      "synonyms": [
+        "voucher",
+        "discount ticket",
+        "gift certificate"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "discount coupon",
+        "coupon code",
+        "clip coupons",
+        "redeem a coupon"
+      ]
     },
     {
       "id": "B1-305-005",
@@ -120,23 +275,66 @@
       "word": "depart",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "departs"
+        "present_3rd": "departs",
+        "past": "departed",
+        "past_participle": "departed",
+        "ing": "departing"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "depart",
-          "definition": "vi. 離开, 出發, 背離, 违反, 去世"
+          "definition": "v. 出發、離開、啟程"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The delegation will depart for Tokyo immediately after the closing ceremony.",
+          "highlight": [
+            "depart"
+          ],
+          "translations": {
+            "zh-TW": "代表團將在閉幕典禮後立即啟程前往東京。"
+          }
+        },
+        {
+          "en": "The flight departed on schedule despite the heavy morning fog at the airport.",
+          "highlight": [
+            "departed"
+          ],
+          "translations": {
+            "zh-TW": "儘管機場早上濃霧瀰漫，班機仍準時起飛。"
+          }
+        },
+        {
+          "en": "Passengers departing from Terminal 2 should proceed to gate B12 for boarding.",
+          "highlight": [
+            "departing"
+          ],
+          "translations": {
+            "zh-TW": "從第二航廈出發的旅客請前往 B12 登機門登機。"
+          }
+        }
+      ],
+      "synonyms": [
+        "leave",
+        "set off",
+        "head out"
+      ],
+      "antonyms": [
+        "arrive",
+        "stay"
+      ],
+      "phrases": [
+        "depart from",
+        "depart for",
+        "departing flight",
+        "depart on time"
+      ]
     },
     {
       "id": "B1-305-006",
@@ -147,23 +345,66 @@
       "word": "reschedule",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "reschedules"
+        "present_3rd": "reschedules",
+        "past": "rescheduled",
+        "past_participle": "rescheduled",
+        "ing": "rescheduling"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "reschedule",
-          "definition": "[計] 重安排, 重調度, [化] 修訂計劃"
+          "definition": "v. 重新安排時間、改期"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Due to the manager's sudden illness, we need to reschedule tomorrow's strategy meeting.",
+          "highlight": [
+            "reschedule"
+          ],
+          "translations": {
+            "zh-TW": "由於經理突然生病，我們必須重新安排明天的策略會議時間。"
+          }
+        },
+        {
+          "en": "The contractor rescheduled the site inspection twice because of severe weather warnings.",
+          "highlight": [
+            "rescheduled"
+          ],
+          "translations": {
+            "zh-TW": "承包商因為惡劣天氣警報，兩度將現場勘查改期。"
+          }
+        },
+        {
+          "en": "Rescheduling client appointments at short notice may damage the firm's reputation.",
+          "highlight": [
+            "Rescheduling"
+          ],
+          "translations": {
+            "zh-TW": "在短時間內重新安排客戶預約可能損害公司的聲譽。"
+          }
+        }
+      ],
+      "synonyms": [
+        "postpone",
+        "rearrange",
+        "defer"
+      ],
+      "antonyms": [
+        "keep",
+        "maintain"
+      ],
+      "phrases": [
+        "reschedule a meeting",
+        "reschedule debt",
+        "reschedule a flight",
+        "reschedule homework"
+      ]
     },
     {
       "id": "B1-305-007",
@@ -179,18 +420,55 @@
       "conjugations": {
         "plural": "tactics"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tactic",
-          "definition": "n. 一项战術, 一条策略, a. 战術的, 顺序的, 排列的"
+          "definition": "n. 戰術、策略、手段，複數 tactics 指戰術學"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Offering free shipping proved to be an effective sales tactic during the holiday season.",
+          "highlight": [
+            "tactic"
+          ],
+          "translations": {
+            "zh-TW": "提供免運費在假期期間被證明是一項有效的銷售策略。"
+          }
+        },
+        {
+          "en": "Negotiation tactics taught in the workshop helped the team secure a better contract.",
+          "highlight": [
+            "tactics"
+          ],
+          "translations": {
+            "zh-TW": "工作坊中傳授的談判技巧幫助團隊爭取到更有利的合約。"
+          }
+        },
+        {
+          "en": "The marketing manager's tactic of bundling slow-moving items boosted overall revenue.",
+          "highlight": [
+            "tactic"
+          ],
+          "translations": {
+            "zh-TW": "行銷經理將滯銷商品組合銷售的策略提升了整體營收。"
+          }
+        }
+      ],
+      "synonyms": [
+        "strategy",
+        "maneuver",
+        "approach"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "delaying tactic",
+        "scare tactic",
+        "marketing tactics",
+        "tactical advantage"
+      ]
     },
     {
       "id": "B1-305-008",
@@ -206,18 +484,57 @@
       "conjugations": {
         "plural": "renovations"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "renovation",
-          "definition": "n. 革新, 刷新, 修理, [化] 改建"
+          "definition": "n. 翻修、整修、改建"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The hotel will remain closed for renovation until the end of the fiscal year.",
+          "highlight": [
+            "renovation"
+          ],
+          "translations": {
+            "zh-TW": "飯店將持續關閉整修直到會計年度結束。"
+          }
+        },
+        {
+          "en": "Extensive renovations to the flagship store included new lighting and wider aisles.",
+          "highlight": [
+            "renovations"
+          ],
+          "translations": {
+            "zh-TW": "旗艦店的大規模整修包含更新照明與加寬走道。"
+          }
+        },
+        {
+          "en": "The office renovation project is scheduled to begin right after the summer sales campaign.",
+          "highlight": [
+            "renovation"
+          ],
+          "translations": {
+            "zh-TW": "辦公室翻修工程預計在夏季促銷活動結束後動工。"
+          }
+        }
+      ],
+      "synonyms": [
+        "remodel",
+        "restoration",
+        "refurbishment"
+      ],
+      "antonyms": [
+        "deterioration"
+      ],
+      "phrases": [
+        "home renovation",
+        "office renovation",
+        "under renovation",
+        "building renovation"
+      ]
     },
     {
       "id": "B1-305-009",
@@ -228,23 +545,67 @@
       "word": "upgrade",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "upgrades"
+        "plural": "upgrades",
+        "present_3rd": "upgrades",
+        "past": "upgraded",
+        "past_participle": "upgraded",
+        "ing": "upgrading"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "upgrade",
-          "definition": "n. 上坡, 升級, 上升, adv. 往上, vt. 使升級, 提升, 改良品種, vi. 升級, [計] 升級"
+          "definition": "n. 升級、提升  v. 升級、改良、提升（品質或等級）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Frequent flyers can use accumulated miles to request a cabin upgrade at check-in.",
+          "highlight": [
+            "upgrade"
+          ],
+          "translations": {
+            "zh-TW": "常旅客可在登機時使用累積的里程數要求升等艙位。"
+          }
+        },
+        {
+          "en": "The IT department upgraded the entire server fleet to improve system reliability last weekend.",
+          "highlight": [
+            "upgraded"
+          ],
+          "translations": {
+            "zh-TW": "資訊部門上週末將整組伺服器升級以提升系統穩定度。"
+          }
+        },
+        {
+          "en": "Upgrading to a premium subscription unlocks advanced analytics and priority customer support.",
+          "highlight": [
+            "Upgrading"
+          ],
+          "translations": {
+            "zh-TW": "升級至高級訂閱可解鎖進階分析功能與優先客戶支援。"
+          }
+        }
+      ],
+      "synonyms": [
+        "improve",
+        "enhance",
+        "modernize"
+      ],
+      "antonyms": [
+        "downgrade"
+      ],
+      "phrases": [
+        "software upgrade",
+        "upgrade to",
+        "upgrade plan",
+        "upgrade path"
+      ]
     },
     {
       "id": "B1-305-010",
@@ -255,24 +616,66 @@
       "word": "precede",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "precedes"
+        "present_3rd": "precedes",
+        "past": "preceded",
+        "past_participle": "preceded",
+        "ing": "preceding"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "precede",
-          "definition": "vt. 在...之前, 优于, 较...优先, vi. 在前面"
+          "definition": "v. 在…之前、先於、位於…之前"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A brief agenda will precede the main presentation to outline the key discussion topics.",
+          "highlight": [
+            "precede"
+          ],
+          "translations": {
+            "zh-TW": "簡短的議程將在主要簡報之前進行，以概述討論重點。"
+          }
+        },
+        {
+          "en": "The keynote speaker preceded the panel discussion and set the tone for the afternoon.",
+          "highlight": [
+            "preceded"
+          ],
+          "translations": {
+            "zh-TW": "專題演講者先於座談會發言，為下午的活動奠定基調。"
+          }
+        },
+        {
+          "en": "In the preceding quarter, the company reported record profits before slower growth resumed.",
+          "highlight": [
+            "preceding"
+          ],
+          "translations": {
+            "zh-TW": "在前一季公司創下獲利新高，之後成長才趨緩。"
+          }
+        }
+      ],
+      "synonyms": [
+        "go before",
+        "lead",
+        "intro"
+      ],
+      "antonyms": [
+        "follow",
+        "succeed"
+      ],
+      "phrases": [
+        "precede by",
+        "preceding chapter",
+        "precede with",
+        "preceding event"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
