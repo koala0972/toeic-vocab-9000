@@ -1,7 +1,7 @@
 {
+  "cefr": "B1",
   "level": 317,
   "tier": "intermediate",
-  "cefr": "B1",
   "words": [
     {
       "id": "B1-317-001",
@@ -12,23 +12,66 @@
       "word": "designate",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "designates"
+        "present_3rd": "designates",
+        "past": "designated",
+        "past_participle": "designated",
+        "ing": "designating"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "designate",
-          "definition": "vt. 指定, 指明, 稱呼, a. 已選出而未上任的"
+          "definition": "v. 指定、指派、標明"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The board will designate a new safety officer before the annual inspection.",
+          "highlight": [
+            "designate"
+          ],
+          "translations": {
+            "zh-TW": "董事會將在年度檢查前指定一位新的安全主管。"
+          }
+        },
+        {
+          "en": "Last quarter the committee designated funds for staff training across all branches.",
+          "highlight": [
+            "designated"
+          ],
+          "translations": {
+            "zh-TW": "上季度委員會指定了撥款，用於所有分公司的員工培訓。"
+          }
+        },
+        {
+          "en": "The HR team is designating replacement directors for three vacant positions.",
+          "highlight": [
+            "designating"
+          ],
+          "translations": {
+            "zh-TW": "人事團隊正在為三個空缺職位指派代理董事。"
+          }
+        }
+      ],
+      "synonyms": [
+        "appoint",
+        "assign",
+        "name"
+      ],
+      "antonyms": [
+        "dismiss",
+        "remove"
+      ],
+      "phrases": [
+        "designate a representative",
+        "designate funds",
+        "designate an area",
+        "designate someone to"
+      ]
     },
     {
       "id": "B1-317-002",
@@ -39,23 +82,63 @@
       "word": "exclusive",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {
-        "plural": "exclusives"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "exclusive",
-          "definition": "a. 排外的, 独占的, 唯一的, [計] 独占的"
+          "definition": "adj. 獨家的、排外的、專屬的  n. 獨家報導、專營商品"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Our magazine secured an exclusive interview with the retiring CEO.",
+          "highlight": [
+            "exclusive"
+          ],
+          "translations": {
+            "zh-TW": "我們雜誌取得了與即將退休執行長的獨家專訪。"
+          }
+        },
+        {
+          "en": "The two boutiques carry exclusives that cannot be ordered from any other retailer.",
+          "highlight": [
+            "exclusives"
+          ],
+          "translations": {
+            "zh-TW": "這兩家精品店經銷的專營商品無法從任何其他零售商訂購。"
+          }
+        },
+        {
+          "en": "Membership benefits are exclusive to subscribers of the premium annual plan.",
+          "highlight": [
+            "exclusive"
+          ],
+          "translations": {
+            "zh-TW": "會員福利僅限高級年度方案的訂戶享有。"
+          }
+        }
+      ],
+      "synonyms": [
+        "sole",
+        "restricted",
+        "private"
+      ],
+      "antonyms": [
+        "inclusive",
+        "shared",
+        "common"
+      ],
+      "phrases": [
+        "exclusive deal",
+        "exclusive rights",
+        "exclusive interview",
+        "mutually exclusive"
+      ]
     },
     {
       "id": "B1-317-003",
@@ -71,18 +154,55 @@
       "conjugations": {
         "plural": "groceries"
       },
-      "domain": "general",
+      "domain": "daily life",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "grocery",
-          "definition": "n. 食品雜貨店, 食品雜貨業"
+          "definition": "n. 雜貨店、食品雜貨（常用複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "A new grocery opened on the corner of Fifth Avenue last month.",
+          "highlight": [
+            "grocery"
+          ],
+          "translations": {
+            "zh-TW": "上個月第五大道轉角開了一家新的雜貨店。"
+          }
+        },
+        {
+          "en": "We have to buy groceries for the staff kitchen before the team meeting tomorrow.",
+          "highlight": [
+            "groceries"
+          ],
+          "translations": {
+            "zh-TW": "我們明天團隊會議前必須為員工廚房購買食品雜貨。"
+          }
+        },
+        {
+          "en": "Rising transportation costs drove grocery prices higher across the region this year.",
+          "highlight": [
+            "grocery"
+          ],
+          "translations": {
+            "zh-TW": "今年運輸成本上升推動了該地區食品雜貨價格上漲。"
+          }
+        }
+      ],
+      "synonyms": [
+        "supermarket",
+        "market",
+        "provisions"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "grocery store",
+        "grocery list",
+        "buy groceries",
+        "grocery bag"
+      ]
     },
     {
       "id": "B1-317-004",
@@ -96,20 +216,57 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "memorandums"
+        "plural": "memoranda"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "memorandum",
-          "definition": "n. 備忘录, 外交備忘录, 交易備忘录, [經] 備忘录, 便笺, 便函"
+          "definition": "n. 備忘錄、便箋、內部通知"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The director circulated a memorandum outlining the new overtime policy.",
+          "highlight": [
+            "memorandum"
+          ],
+          "translations": {
+            "zh-TW": "主管傳閱了一份概述新加班政策的備忘錄。"
+          }
+        },
+        {
+          "en": "Government memoranda on tariff changes are typically released before the budget speech.",
+          "highlight": [
+            "memoranda"
+          ],
+          "translations": {
+            "zh-TW": "關於關稅變更的政府備忘錄通常在預算演說前發布。"
+          }
+        },
+        {
+          "en": "Please attach the memorandum of understanding to the partnership agreement file.",
+          "highlight": [
+            "memorandum"
+          ],
+          "translations": {
+            "zh-TW": "請將合作備忘錄附在合夥協議檔案中。"
+          }
+        }
+      ],
+      "synonyms": [
+        "memo",
+        "note",
+        "communication"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "memorandum of understanding",
+        "issue a memorandum",
+        "internal memorandum",
+        "circulate a memorandum"
+      ]
     },
     {
       "id": "B1-317-005",
@@ -125,18 +282,55 @@
       "conjugations": {
         "plural": "photocopiers"
       },
-      "domain": "general",
+      "domain": "office",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "photocopier",
-          "definition": "n. 影印機, 摄影复制機"
+          "definition": "n. 影印機"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The new photocopier on the second floor can scan documents directly to email.",
+          "highlight": [
+            "photocopier"
+          ],
+          "translations": {
+            "zh-TW": "二樓那台新影印機可以直接掃描文件到電子郵件。"
+          }
+        },
+        {
+          "en": "Maintenance photocopiers in Annex B were replaced under the lease agreement last week.",
+          "highlight": [
+            "photocopiers"
+          ],
+          "translations": {
+            "zh-TW": "B 棟備用影印機已在上週的租賃協議下完成更換。"
+          }
+        },
+        {
+          "en": "If the photocopier jams again, please call the service desk instead of fixing it yourself.",
+          "highlight": [
+            "photocopier"
+          ],
+          "translations": {
+            "zh-TW": "如果影印機再次卡紙，請致電服務台，不要自行修理。"
+          }
+        }
+      ],
+      "synonyms": [
+        "copier",
+        "copy machine",
+        "duplicator"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "break the photocopier",
+        "lease a photocopier",
+        "photocopier paper",
+        "photocopier toner"
+      ]
     },
     {
       "id": "B1-317-006",
@@ -152,18 +346,55 @@
       "conjugations": {
         "plural": "suites"
       },
-      "domain": "general",
+      "domain": "travel",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "suite",
-          "definition": "n. 隨員, 套房, (一)組, (一)套, 組曲, 继之而來的事, [電] 程序組"
+          "definition": "n. 套房、套件、一組配套家具"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The executive booked a suite overlooking the harbor for the visiting clients.",
+          "highlight": [
+            "suite"
+          ],
+          "translations": {
+            "zh-TW": "主管為來訪客戶訂了一間俯瞰港景的套房。"
+          }
+        },
+        {
+          "en": "The hotel chain renovated all suites on the top floor for premium business travelers.",
+          "highlight": [
+            "suites"
+          ],
+          "translations": {
+            "zh-TW": "該連鎖酒店為高級商務旅客翻新了頂樓所有套房。"
+          }
+        },
+        {
+          "en": "Our company purchased a software suite that bundles email, spreadsheet, and presentation tools.",
+          "highlight": [
+            "suite"
+          ],
+          "translations": {
+            "zh-TW": "我們公司購買了一套整合電子郵件、試算表和簡報工具的軟體套件。"
+          }
+        }
+      ],
+      "synonyms": [
+        "apartment",
+        "set",
+        "package"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "executive suite",
+        "honeymoon suite",
+        "software suite",
+        "office suite"
+      ]
     },
     {
       "id": "B1-317-007",
@@ -179,7 +410,7 @@
       "conjugations": {
         "plural": "bookstores"
       },
-      "domain": "general",
+      "domain": "daily life",
       "translations": [
         {
           "lang": "zh-TW",
@@ -187,10 +418,46 @@
           "definition": "n. 書店"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "An independent bookstore downtown hosts a reading club on Saturday mornings.",
+          "highlight": [
+            "bookstore"
+          ],
+          "translations": {
+            "zh-TW": "市中心一家獨立書店每週六早上舉辦讀書會。"
+          }
+        },
+        {
+          "en": "Chain bookstores near campus offer student discounts throughout the semester.",
+          "highlight": [
+            "bookstores"
+          ],
+          "translations": {
+            "zh-TW": "校園附近的連鎖書店在整個學期都有學生折扣。"
+          }
+        },
+        {
+          "en": "She closed her bookstore at nine and walked to the subway station.",
+          "highlight": [
+            "bookstore"
+          ],
+          "translations": {
+            "zh-TW": "她在九點關閉了書店，然後步行到地鐵站。"
+          }
+        }
+      ],
+      "synonyms": [
+        "bookshop",
+        "bookstall"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "used bookstore",
+        "college bookstore",
+        "online bookstore",
+        "open a bookstore"
+      ]
     },
     {
       "id": "B1-317-008",
@@ -201,23 +468,66 @@
       "word": "cater",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "caters"
+        "present_3rd": "caters",
+        "past": "catered",
+        "past_participle": "catered",
+        "ing": "catering"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cater",
-          "definition": "v. 提供饮食及服務, 投合, 迎合"
+          "definition": "v. 提供餐飲服務、迎合、滿足需求"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "We will cater the launch reception with both vegetarian and seafood options.",
+          "highlight": [
+            "cater"
+          ],
+          "translations": {
+            "zh-TW": "發表會的接待酒會我們將提供素食和海鮮兩種餐點。"
+          }
+        },
+        {
+          "en": "The local firm catered three investor lunches during the conference week.",
+          "highlight": [
+            "catered"
+          ],
+          "translations": {
+            "zh-TW": "會議週期間，當地公司為三場投資人午餐提供了餐飲服務。"
+          }
+        },
+        {
+          "en": "Our catering division is catering two corporate events on the same evening.",
+          "highlight": [
+            "catering"
+          ],
+          "translations": {
+            "zh-TW": "我們的餐飲部門在同一晚承辦兩場企業活動。"
+          }
+        }
+      ],
+      "synonyms": [
+        "provide",
+        "serve",
+        "supply"
+      ],
+      "antonyms": [
+        "refuse",
+        "deny"
+      ],
+      "phrases": [
+        "cater to",
+        "cater an event",
+        "cater for",
+        "catering service"
+      ]
     },
     {
       "id": "B1-317-009",
@@ -228,23 +538,59 @@
       "word": "dental",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {
-        "plural": "dentals"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "healthcare",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dental",
-          "definition": "a. 牙齿的, [醫] 牙的, 齿的, 齿音, 齿音字母"
+          "definition": "adj. 牙齒的、牙科的  n. 齒音、齒音字母"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The company dental plan covers two check-ups per year for full-time employees.",
+          "highlight": [
+            "dental"
+          ],
+          "translations": {
+            "zh-TW": "公司牙科保險計劃為全職員工每年提供兩次檢查。"
+          }
+        },
+        {
+          "en": "Her dental bills last year exceeded the maximum annual reimbursement.",
+          "highlight": [
+            "dental"
+          ],
+          "translations": {
+            "zh-TW": "去年她的牙科帳單超過了年度最高報銷限額。"
+          }
+        },
+        {
+          "en": "Linguists describe t and d as dentals because the tongue touches the upper teeth.",
+          "highlight": [
+            "dentals"
+          ],
+          "translations": {
+            "zh-TW": "語言學家將 t 和 d 描述為齒音，因為發音時舌頭抵住上排牙齒。"
+          }
+        }
+      ],
+      "synonyms": [
+        "tooth",
+        "oral",
+        "dental-related"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "dental insurance",
+        "dental care",
+        "dental clinic",
+        "dental hygiene"
+      ]
     },
     {
       "id": "B1-317-010",
@@ -265,14 +611,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "duration",
-          "definition": "n. 持续時間, 持续, [計] 持续時間"
+          "definition": "n. 持續時間、期間"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The lease specifies the duration of the rental as twelve months from the signing date.",
+          "highlight": [
+            "duration"
+          ],
+          "translations": {
+            "zh-TW": "租約載明租賃期間自簽約日起為期十二個月。"
+          }
+        },
+        {
+          "en": "Flight durations vary depending on weather conditions over the Pacific.",
+          "highlight": [
+            "durations"
+          ],
+          "translations": {
+            "zh-TW": "飛行持續時間視太平洋上空的天氣狀況而異。"
+          }
+        },
+        {
+          "en": "For the duration of the training program, participants must remain on site.",
+          "highlight": [
+            "duration"
+          ],
+          "translations": {
+            "zh-TW": "在培訓課程期間，學員必須留在現場。"
+          }
+        }
+      ],
+      "synonyms": [
+        "length",
+        "period",
+        "span"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "for the duration",
+        "duration of stay",
+        "duration of contract",
+        "short duration"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
