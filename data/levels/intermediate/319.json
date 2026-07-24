@@ -1,7 +1,7 @@
 {
+  "cefr": "B1",
   "level": 319,
   "tier": "intermediate",
-  "cefr": "B1",
   "words": [
     {
       "id": "B1-319-001",
@@ -10,25 +10,65 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "cab",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "cabs"
+        "plural": "cabs",
+        "present_3rd": "cabs",
+        "past": "cabbed",
+        "past_participle": "cabbed",
+        "ing": "cabbing"
       },
-      "domain": "general",
+      "domain": "transport",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cab",
-          "definition": "n. 出租車, 出租汽車, 出租馬車, vi. 乘出租馬車(或汽車)"
+          "definition": "n. 計程車、出租車  v. 搭乘計程車"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Please call a cab to take me to the airport by 7 a.m.",
+          "highlight": [
+            "cab"
+          ],
+          "translations": {
+            "zh-TW": "請叫一輛計程車，早上七點前載我去機場。"
+          }
+        },
+        {
+          "en": "Several cabs were waiting outside the hotel lobby for the conference attendees.",
+          "highlight": [
+            "cabs"
+          ],
+          "translations": {
+            "zh-TW": "幾輛計程車在飯店大廳外等候研討會的出席者。"
+          }
+        },
+        {
+          "en": "She cabbed across the city rather than navigate the unfamiliar subway system.",
+          "highlight": [
+            "cabbed"
+          ],
+          "translations": {
+            "zh-TW": "她搭計程車穿越市區，而不願在不熟悉的地鐵系統裡摸索。"
+          }
+        }
+      ],
+      "synonyms": [
+        "taxi",
+        "taxicab"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "cab driver",
+        "hail a cab",
+        "call a cab",
+        "cab fare"
+      ]
     },
     {
       "id": "B1-319-002",
@@ -37,25 +77,61 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "correspondence",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "correspondences"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "correspondence",
-          "definition": "n. 相符, 通信, 信件, [醫] 對應, 相對"
+          "definition": "n. 書信往來、通信、信件、相符、一致"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The executive assistant manages all correspondence between the two branch offices.",
+          "highlight": [
+            "correspondence"
+          ],
+          "translations": {
+            "zh-TW": "執行助理負責處理兩個分公司之間所有的書信往來。"
+          }
+        },
+        {
+          "en": "The legal department keeps correspondences on file for at least seven years.",
+          "highlight": [
+            "correspondences"
+          ],
+          "translations": {
+            "zh-TW": "法務部門將各類信件至少歸檔保存七年。"
+          }
+        },
+        {
+          "en": "There was a strong correspondence between sales figures and marketing expenditures.",
+          "highlight": [
+            "correspondence"
+          ],
+          "translations": {
+            "zh-TW": "銷售數字與行銷支出之間有高度的相關性。"
+          }
+        }
+      ],
+      "synonyms": [
+        "mail",
+        "letters",
+        "communication"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "business correspondence",
+        "keep correspondence on file",
+        "by correspondence",
+        "correspondence course"
+      ]
     },
     {
       "id": "B1-319-003",
@@ -64,7 +140,6 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "ladder",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
@@ -76,13 +151,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "ladder",
-          "definition": "n. 梯, 梯状物, 發迹的途径, vi. 袜子抽丝, 成名"
+          "definition": "n. 梯子、階梯、晉升途徑、（絲襪的）抽絲"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The maintenance worker climbed a ladder to replace the burnt-out ceiling light.",
+          "highlight": [
+            "ladder"
+          ],
+          "translations": {
+            "zh-TW": "維修工人爬上梯子，更換壞掉的吸頂燈。"
+          }
+        },
+        {
+          "en": "Several ladders were positioned around the construction site for emergency exit.",
+          "highlight": [
+            "ladders"
+          ],
+          "translations": {
+            "zh-TW": "工地周圍擺放了幾座梯子，作為緊急出口使用。"
+          }
+        },
+        {
+          "en": "She hopes to move up the corporate ladder within the next two years.",
+          "highlight": [
+            "ladder"
+          ],
+          "translations": {
+            "zh-TW": "她希望在兩年內沿著企業晉升階梯更上一層樓。"
+          }
+        }
+      ],
+      "synonyms": [
+        "steps",
+        "staircase",
+        "gradation"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "corporate ladder",
+        "climb the ladder",
+        "career ladder",
+        "ladder of success"
+      ]
     },
     {
       "id": "B1-319-004",
@@ -91,25 +203,65 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "buffet",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "buffets"
+        "plural": "buffets",
+        "present_3rd": "buffets",
+        "past": "buffeted",
+        "past_participle": "buffeted",
+        "ing": "buffeting"
       },
-      "domain": "general",
+      "domain": "dining",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "buffet",
-          "definition": "n. 自助餐, 小賣部, 碗橱, 殴打, 冲击, vt. 連续打, 冲击, 搏斗, vi. 奋斗"
+          "definition": "n. 自助餐、餐檯  v. 連續打擊、衝擊"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The hotel offers a breakfast buffet with both Western and Asian dishes.",
+          "highlight": [
+            "buffet"
+          ],
+          "translations": {
+            "zh-TW": "這家飯店提供西式與中式菜色俱備的早餐自助餐。"
+          }
+        },
+        {
+          "en": "Several dinner buffets at the resort were included in the package price.",
+          "highlight": [
+            "buffets"
+          ],
+          "translations": {
+            "zh-TW": "套裝方案價格已包含度假村內數場晚餐自助餐。"
+          }
+        },
+        {
+          "en": "The small vessel was buffeted by strong winds during the overnight crossing.",
+          "highlight": [
+            "buffeted"
+          ],
+          "translations": {
+            "zh-TW": "這艘小船在夜間橫渡時受到強風不斷的衝擊。"
+          }
+        }
+      ],
+      "synonyms": [
+        "smorgasbord",
+        "spread"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "buffet dinner",
+        "all-you-can-eat buffet",
+        "buffet style",
+        "buffet table"
+      ]
     },
     {
       "id": "B1-319-005",
@@ -118,25 +270,65 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "defective",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "defectives"
+        "comparative": "more defective",
+        "superlative": "most defective"
       },
-      "domain": "general",
+      "domain": "product",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "defective",
-          "definition": "a. 有缺陷的, 欠缺的, n. 有缺陷的人, 不完全变化词"
+          "definition": "adj. 有缺陷的、不完美的、故障的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Customers may return any defective product within 30 days for a full refund.",
+          "highlight": [
+            "defective"
+          ],
+          "translations": {
+            "zh-TW": "顧客可在三十天內退回任何有缺陷的商品，獲得全額退款。"
+          }
+        },
+        {
+          "en": "The second batch of parts was even more defective than the first delivery.",
+          "highlight": [
+            "more defective"
+          ],
+          "translations": {
+            "zh-TW": "第二批零件的瑕疵情況比第一次出貨還要嚴重。"
+          }
+        },
+        {
+          "en": "Inspectors identified the most defective samples before shipment to the client.",
+          "highlight": [
+            "most defective"
+          ],
+          "translations": {
+            "zh-TW": "檢驗員在出貨給客戶之前，先挑出瑕疵最嚴重的樣品。"
+          }
+        }
+      ],
+      "synonyms": [
+        "flawed",
+        "faulty",
+        "imperfect"
+      ],
+      "antonyms": [
+        "perfect",
+        "intact"
+      ],
+      "phrases": [
+        "defective product",
+        "defective merchandise",
+        "defective item",
+        "defective goods"
+      ]
     },
     {
       "id": "B1-319-006",
@@ -145,19 +337,60 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "ice cream",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "ice creams"
       },
-      "domain": "general",
-      "translations": [],
-      "examples": [],
-      "synonyms": [],
+      "domain": "food",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "ice cream",
+          "definition": "n. 冰淇淋、雪糕"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The conference break featured coffee and ice cream for the attendees.",
+          "highlight": [
+            "ice cream"
+          ],
+          "translations": {
+            "zh-TW": "研討會休息時間為出席者供應咖啡與冰淇淋。"
+          }
+        },
+        {
+          "en": "The hotel restaurant offers a selection of ice creams made with local fruit.",
+          "highlight": [
+            "ice creams"
+          ],
+          "translations": {
+            "zh-TW": "飯店餐廳供應一系列以當地水果製成的冰淇淋。"
+          }
+        },
+        {
+          "en": "Sales of ice cream tend to peak during the summer travel season.",
+          "highlight": [
+            "ice cream"
+          ],
+          "translations": {
+            "zh-TW": "冰淇淋的銷售通常在夏季旅遊旺季達到高峰。"
+          }
+        }
+      ],
+      "synonyms": [
+        "gelato",
+        "sundae"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "ice cream cone",
+        "ice cream parlor",
+        "vanilla ice cream",
+        "ice cream sundae"
+      ]
     },
     {
       "id": "B1-319-007",
@@ -166,25 +399,69 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "leak",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "leaks"
+        "plural": "leaks",
+        "present_3rd": "leaks",
+        "past": "leaked",
+        "past_participle": "leaked",
+        "ing": "leaking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "leak",
-          "definition": "n. 漏洞, 漏處, 漏出, 泄漏, vi. 漏, 泄漏, vt. 使渗漏"
+          "definition": "n. 漏洞、洩漏、漏水處  v. 漏、洩漏"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A leak in the warehouse roof damaged several cartons of inventory.",
+          "highlight": [
+            "leak"
+          ],
+          "translations": {
+            "zh-TW": "倉庫屋頂的一處漏水損壞了好幾箱庫存品。"
+          }
+        },
+        {
+          "en": "The technician confirmed that several pipes had leaked during the cold snap.",
+          "highlight": [
+            "leaked"
+          ],
+          "translations": {
+            "zh-TW": "技術員確認有幾條管線在寒流期間發生滲漏。"
+          }
+        },
+        {
+          "en": "The union accused management of leaking sensitive salary data to rival firms.",
+          "highlight": [
+            "leaking"
+          ],
+          "translations": {
+            "zh-TW": "工會指控管理層把敏感的薪資資料洩漏給競爭對手。"
+          }
+        }
+      ],
+      "synonyms": [
+        "seep",
+        "drip",
+        "disclose"
+      ],
+      "antonyms": [
+        "conceal",
+        "seal"
+      ],
+      "phrases": [
+        "gas leak",
+        "oil leak",
+        "leak information",
+        "leak detector"
+      ]
     },
     {
       "id": "B1-319-008",
@@ -193,25 +470,63 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "occupancy",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "occupancies"
       },
-      "domain": "general",
+      "domain": "hospitality",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "occupancy",
-          "definition": "n. 占有, 居住, 占用, [法] 占据, 据有, 占用"
+          "definition": "n. 入住率、佔用、居住"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The hotel reported record-high occupancy during the holiday weekend.",
+          "highlight": [
+            "occupancy"
+          ],
+          "translations": {
+            "zh-TW": "這家飯店在連假週末創下入住率的新高紀錄。"
+          }
+        },
+        {
+          "en": "Office occupancies in the financial district have declined since the new remote policy.",
+          "highlight": [
+            "occupancies"
+          ],
+          "translations": {
+            "zh-TW": "自從新的遠距政策實施後，金融區的辦公室使用率已下降。"
+          }
+        },
+        {
+          "en": "The lease clearly specifies the maximum occupancy allowed for each unit.",
+          "highlight": [
+            "occupancy"
+          ],
+          "translations": {
+            "zh-TW": "租約明確載明每個單位的最高居住人數。"
+          }
+        }
+      ],
+      "synonyms": [
+        "tenancy",
+        "use",
+        "inhabitance"
+      ],
+      "antonyms": [
+        "vacancy"
+      ],
+      "phrases": [
+        "occupancy rate",
+        "maximum occupancy",
+        "single occupancy",
+        "double occupancy"
+      ]
     },
     {
       "id": "B1-319-009",
@@ -220,25 +535,64 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "proficiency",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "proficiencies"
       },
-      "domain": "general",
+      "domain": "education",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "proficiency",
-          "definition": "n. 精通, 熟练, 精练"
+          "definition": "n. 精通、熟練、能力"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Job applicants must demonstrate proficiency in at least one foreign language.",
+          "highlight": [
+            "proficiency"
+          ],
+          "translations": {
+            "zh-TW": "求職者必須展現至少一種外語的精通能力。"
+          }
+        },
+        {
+          "en": "The new training program measures proficiencies across five technical skills.",
+          "highlight": [
+            "proficiencies"
+          ],
+          "translations": {
+            "zh-TW": "新的培訓計畫評量五項技術技能的熟練程度。"
+          }
+        },
+        {
+          "en": "She reached professional proficiency in Spanish after two years abroad.",
+          "highlight": [
+            "proficiency"
+          ],
+          "translations": {
+            "zh-TW": "她在國外住了兩年之後，西班牙語達到專業熟練程度。"
+          }
+        }
+      ],
+      "synonyms": [
+        "competence",
+        "mastery",
+        "expertise"
+      ],
+      "antonyms": [
+        "incompetence",
+        "amateurism"
+      ],
+      "phrases": [
+        "language proficiency",
+        "proficiency test",
+        "proficiency level",
+        "demonstrate proficiency"
+      ]
     },
     {
       "id": "B1-319-010",
@@ -247,26 +601,64 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "renewal",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "renewals"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "renewal",
-          "definition": "n. 更新, 革新, 复興, 恢复, 修补, 补充, 继续, 重訂, 重申, 续借, [經] 更新, 换新, 重申"
+          "definition": "n. 更新、續約、恢復、革新"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The renewal of your software license must be completed before the end of May.",
+          "highlight": [
+            "renewal"
+          ],
+          "translations": {
+            "zh-TW": "您的軟體授權續約必須在五月底前完成。"
+          }
+        },
+        {
+          "en": "Membership renewals dropped sharply after the annual fee was raised.",
+          "highlight": [
+            "renewals"
+          ],
+          "translations": {
+            "zh-TW": "年費調漲之後，會員續約人數急遽下滑。"
+          }
+        },
+        {
+          "en": "The city launched an urban renewal project to revitalize the old commercial district.",
+          "highlight": [
+            "renewal"
+          ],
+          "translations": {
+            "zh-TW": "市政府推動一項都市更新計畫，要讓老舊的商業區重獲生機。"
+          }
+        }
+      ],
+      "synonyms": [
+        "continuation",
+        "extension",
+        "restoration"
+      ],
+      "antonyms": [
+        "cancellation",
+        "expiration"
+      ],
+      "phrases": [
+        "contract renewal",
+        "license renewal",
+        "urban renewal",
+        "renewal date"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
