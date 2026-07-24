@@ -1,7 +1,7 @@
 {
+  "cefr": "B1",
   "level": 314,
   "tier": "intermediate",
-  "cefr": "B1",
   "words": [
     {
       "id": "B1-314-001",
@@ -12,23 +12,62 @@
       "word": "alike",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "adverb"
       ],
-      "conjugations": {
-        "plural": "alikes"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "alike",
-          "definition": "a. 相似的, 同樣的, adv. 一樣, 以同樣的方式"
+          "definition": "a. 相似的、同樣的  adv. 同樣地、以相同方式"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The two branch offices look remarkably alike in layout and branding.",
+          "highlight": [
+            "alike"
+          ],
+          "translations": {
+            "zh-TW": "兩家分公司在格局與品牌形象上看起來非常相似。"
+          }
+        },
+        {
+          "en": "All employees, regardless of rank, are treated alike under the new company policy.",
+          "highlight": [
+            "alike"
+          ],
+          "translations": {
+            "zh-TW": "根據公司新政策，所有員工不論職位高低都受到相同對待。"
+          }
+        },
+        {
+          "en": "The twins dress alike and often finish each other's sentences during meetings.",
+          "highlight": [
+            "alike"
+          ],
+          "translations": {
+            "zh-TW": "那對雙胞胎穿著相似，開會時經常接完對方的話。"
+          }
+        }
+      ],
+      "synonyms": [
+        "similar",
+        "identical",
+        "comparable"
+      ],
+      "antonyms": [
+        "different",
+        "unlike"
+      ],
+      "phrases": [
+        "look alike",
+        "treat alike",
+        "dress alike",
+        "all alike"
+      ]
     },
     {
       "id": "B1-314-002",
@@ -39,23 +78,67 @@
       "word": "picnic",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "picnics"
+        "plural": "picnics",
+        "present_3rd": "picnics",
+        "past": "picnicked",
+        "past_participle": "picnicked",
+        "ing": "picnicking"
       },
-      "domain": "general",
+      "domain": "leisure",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "picnic",
-          "definition": "n. 野餐, 远足, 愉快的經歷, vi. 去野餐, 远足"
+          "definition": "n. 野餐、愉快的經歷  v. 去野餐"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Our team is planning a picnic in the park this Saturday to celebrate the project launch.",
+          "highlight": [
+            "picnic"
+          ],
+          "translations": {
+            "zh-TW": "我們團隊計畫這週六在公園舉辦野餐，慶祝專案上線。"
+          }
+        },
+        {
+          "en": "The company organized several picnics last summer to boost employee morale.",
+          "highlight": [
+            "picnics"
+          ],
+          "translations": {
+            "zh-TW": "去年夏天公司舉辦了幾次野餐活動來提升員工士氣。"
+          }
+        },
+        {
+          "en": "They picnicked by the lake after the half-day training concluded.",
+          "highlight": [
+            "picnicked"
+          ],
+          "translations": {
+            "zh-TW": "半天培訓結束後，他們在湖邊野餐。"
+          }
+        }
+      ],
+      "synonyms": [
+        "outing",
+        "excursion",
+        "barbecue"
+      ],
+      "antonyms": [
+        "formal dinner"
+      ],
+      "phrases": [
+        "picnic basket",
+        "picnic area",
+        "no picnic",
+        "company picnic"
+      ]
     },
     {
       "id": "B1-314-003",
@@ -71,18 +154,57 @@
       "conjugations": {
         "plural": "refreshments"
       },
-      "domain": "general",
+      "domain": "hospitality",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "refreshment",
-          "definition": "n. 點心, 起提神作用的事物, 精神爽快"
+          "definition": "n. 茶點、點心、提神之物"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Refreshments will be served during the morning break in the conference lobby.",
+          "highlight": [
+            "Refreshments"
+          ],
+          "translations": {
+            "zh-TW": "上午休息時間將在會議大廳供應茶點。"
+          }
+        },
+        {
+          "en": "The hotel offers complimentary refreshments to guests in the executive lounge.",
+          "highlight": [
+            "refreshments"
+          ],
+          "translations": {
+            "zh-TW": "飯店在行政酒廊為住客提供免費茶點。"
+          }
+        },
+        {
+          "en": "Light refreshments such as coffee, tea, and sandwiches are included in the registration fee.",
+          "highlight": [
+            "refreshments"
+          ],
+          "translations": {
+            "zh-TW": "報名費已包含咖啡、茶和三明治等簡單茶點。"
+          }
+        }
+      ],
+      "synonyms": [
+        "snacks",
+        "beverages",
+        "treats"
+      ],
+      "antonyms": [
+        "main meal"
+      ],
+      "phrases": [
+        "light refreshments",
+        "refreshment stand",
+        "refreshment break",
+        "serving refreshments"
+      ]
     },
     {
       "id": "B1-314-004",
@@ -93,23 +215,60 @@
       "word": "administrative",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "administratives"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "administrative",
-          "definition": "a. 管理的, 行政的, [法] 行政的, 管理的, 遗產管理的"
+          "definition": "a. 行政的、管理的、後勤的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "She handles administrative duties such as scheduling, filing, and coordinating meetings.",
+          "highlight": [
+            "administrative"
+          ],
+          "translations": {
+            "zh-TW": "她負責排程、歸檔與協調會議等行政工作。"
+          }
+        },
+        {
+          "en": "The administrative cost of running the program exceeded our original budget estimate.",
+          "highlight": [
+            "administrative"
+          ],
+          "translations": {
+            "zh-TW": "執行該計畫的行政成本超出了原本的預算預估。"
+          }
+        },
+        {
+          "en": "All administrative staff are required to complete the new compliance training by Friday.",
+          "highlight": [
+            "administrative"
+          ],
+          "translations": {
+            "zh-TW": "所有行政人員必須在週五前完成新的合規培訓。"
+          }
+        }
+      ],
+      "synonyms": [
+        "managerial",
+        "clerical",
+        "executive"
+      ],
+      "antonyms": [
+        "operational"
+      ],
+      "phrases": [
+        "administrative duties",
+        "administrative cost",
+        "administrative staff",
+        "administrative work"
+      ]
     },
     {
       "id": "B1-314-005",
@@ -120,23 +279,66 @@
       "word": "authorize",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "authorizes"
+        "present_3rd": "authorizes",
+        "past": "authorized",
+        "past_participle": "authorized",
+        "ing": "authorizing"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "authorize",
-          "definition": "vt. 授权, 批準, 委托, [經] 授权, 委任, 認可"
+          "definition": "v. 授權、批准、委託"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Only the regional director can authorize purchases exceeding fifty thousand dollars.",
+          "highlight": [
+            "authorize"
+          ],
+          "translations": {
+            "zh-TW": "只有區域總監可以批准超過五萬美元的採購案。"
+          }
+        },
+        {
+          "en": "The manager authorized my overtime request after reviewing the project deadline.",
+          "highlight": [
+            "authorized"
+          ],
+          "translations": {
+            "zh-TW": "經理審視專案截止日期後批准了我的加班申請。"
+          }
+        },
+        {
+          "en": "Authorizing payments without a matching invoice would violate company policy.",
+          "highlight": [
+            "Authorizing"
+          ],
+          "translations": {
+            "zh-TW": "沒有對應發票就授權付款會違反公司規定。"
+          }
+        }
+      ],
+      "synonyms": [
+        "approve",
+        "sanction",
+        "permit"
+      ],
+      "antonyms": [
+        "forbid",
+        "prohibit"
+      ],
+      "phrases": [
+        "authorize payment",
+        "authorize access",
+        "fully authorized",
+        "authorize a transaction"
+      ]
     },
     {
       "id": "B1-314-006",
@@ -152,7 +354,7 @@
       "conjugations": {
         "plural": "sofas"
       },
-      "domain": "general",
+      "domain": "furniture",
       "translations": [
         {
           "lang": "zh-TW",
@@ -160,10 +362,47 @@
           "definition": "n. 沙發"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "A leather sofa and two armchairs were delivered to the new branch office this morning.",
+          "highlight": [
+            "sofa"
+          ],
+          "translations": {
+            "zh-TW": "今早一張皮沙發和兩張扶手椅送到了新分公司。"
+          }
+        },
+        {
+          "en": "The showroom displays over twenty sofas in various styles and price ranges.",
+          "highlight": [
+            "sofas"
+          ],
+          "translations": {
+            "zh-TW": "展示間陳列了二十多款不同風格與價位的沙發。"
+          }
+        },
+        {
+          "en": "The reception area features a modern sofa where visitors can wait comfortably.",
+          "highlight": [
+            "sofa"
+          ],
+          "translations": {
+            "zh-TW": "接待區擺放了一張現代風格的沙發，訪客可以舒適等候。"
+          }
+        }
+      ],
+      "synonyms": [
+        "couch",
+        "settee",
+        "loveseat"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "sofa bed",
+        "leather sofa",
+        "sofa cushion",
+        "sectional sofa"
+      ]
     },
     {
       "id": "B1-314-007",
@@ -174,23 +413,65 @@
       "word": "accommodate",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "accommodates"
+        "present_3rd": "accommodates",
+        "past": "accommodated",
+        "past_participle": "accommodated",
+        "ing": "accommodating"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "accommodate",
-          "definition": "vt. 使适應, 調和, 通融, 容纳, 向...提供, vi. 适應"
+          "definition": "v. 容納、提供住宿、配合、通融"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The new conference hall can accommodate up to three hundred attendees.",
+          "highlight": [
+            "accommodate"
+          ],
+          "translations": {
+            "zh-TW": "新的會議廳可容納多達三百位與會者。"
+          }
+        },
+        {
+          "en": "The hotel accommodated our late check-in request without charging an extra fee.",
+          "highlight": [
+            "accommodated"
+          ],
+          "translations": {
+            "zh-TW": "飯店通融了我們延後入住的請求，並未加收費用。"
+          }
+        },
+        {
+          "en": "Accommodating the client's tight schedule required shifting two meetings to next week.",
+          "highlight": [
+            "Accommodating"
+          ],
+          "translations": {
+            "zh-TW": "為配合客戶緊湊的行程，我們把兩場會議移到下週。"
+          }
+        }
+      ],
+      "synonyms": [
+        "house",
+        "lodge",
+        "adapt"
+      ],
+      "antonyms": [
+        "displace"
+      ],
+      "phrases": [
+        "accommodate up to",
+        "accommodate requests",
+        "accommodate needs",
+        "accommodate guests"
+      ]
     },
     {
       "id": "B1-314-008",
@@ -201,23 +482,64 @@
       "word": "affordable",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "affordables"
+        "comparative": "more affordable",
+        "superlative": "most affordable"
       },
-      "domain": "general",
+      "domain": "economics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "affordable",
-          "definition": "[計] 普及型"
+          "definition": "a. 負擔得起的、價格合理的、平價的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The airline offers affordable fares for early bookings made at least two months ahead.",
+          "highlight": [
+            "affordable"
+          ],
+          "translations": {
+            "zh-TW": "該航空公司為至少提前兩個月預訂的機票提供平價票價。"
+          }
+        },
+        {
+          "en": "Finding affordable housing near downtown remains a challenge for many young professionals.",
+          "highlight": [
+            "affordable"
+          ],
+          "translations": {
+            "zh-TW": "在市中心附近找到負擔得起的住房對許多年輕專業人士而言仍是挑戰。"
+          }
+        },
+        {
+          "en": "The mid-range model is more affordable and still covers most of our team's needs.",
+          "highlight": [
+            "more affordable"
+          ],
+          "translations": {
+            "zh-TW": "中階機型更平價，仍能滿足我們團隊大部分的需求。"
+          }
+        }
+      ],
+      "synonyms": [
+        "inexpensive",
+        "economical",
+        "reasonable"
+      ],
+      "antonyms": [
+        "expensive",
+        "costly"
+      ],
+      "phrases": [
+        "affordable prices",
+        "affordable housing",
+        "affordable care",
+        "affordable option"
+      ]
     },
     {
       "id": "B1-314-009",
@@ -228,23 +550,65 @@
       "word": "commute",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
       "conjugations": {
-        "plural": "commutes"
+        "plural": "commutes",
+        "present_3rd": "commutes",
+        "past": "commuted",
+        "past_participle": "commuted",
+        "ing": "commuting"
       },
-      "domain": "general",
+      "domain": "travel",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "commute",
-          "definition": "vt. 交换, 折偿, 减輕, vi. 代偿, 經常乘車來往"
+          "definition": "v. 通勤、減刑  n. 通勤路程"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "More employees now commute by train instead of driving to the office.",
+          "highlight": [
+            "commute"
+          ],
+          "translations": {
+            "zh-TW": "現在更多員工搭火車通勤，而不再自己開車上班。"
+          }
+        },
+        {
+          "en": "She has commuted between Taipei and Hsinchu for the past three years.",
+          "highlight": [
+            "commuted"
+          ],
+          "translations": {
+            "zh-TW": "過去三年她一直往返通勤於台北和新竹之間。"
+          }
+        },
+        {
+          "en": "Commuting during rush hour adds at least forty minutes to her daily schedule.",
+          "highlight": [
+            "Commuting"
+          ],
+          "translations": {
+            "zh-TW": "尖峰時段通勤會讓她每天的行程至少多出四十分鐘。"
+          }
+        }
+      ],
+      "synonyms": [
+        "travel",
+        "shuttle",
+        "journey"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "commute time",
+        "daily commute",
+        "commute to work",
+        "long commute"
+      ]
     },
     {
       "id": "B1-314-010",
@@ -255,24 +619,68 @@
       "word": "coordinate",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb",
+        "noun",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "coordinates"
+        "plural": "coordinates",
+        "present_3rd": "coordinates",
+        "past": "coordinated",
+        "past_participle": "coordinated",
+        "ing": "coordinating"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "coordinate",
-          "definition": "n. 同等的人(或物), 坐標, a. 同等的, 并列的, v. (使)协調"
+          "definition": "v. 協調、整合  n. 座標  a. 同等的、並列的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Our team will coordinate the logistics for next month's trade exhibition.",
+          "highlight": [
+            "coordinate"
+          ],
+          "translations": {
+            "zh-TW": "我們團隊將協調下個月商業展的後勤事宜。"
+          }
+        },
+        {
+          "en": "She coordinated the schedules of three departments to avoid overlapping meetings.",
+          "highlight": [
+            "coordinated"
+          ],
+          "translations": {
+            "zh-TW": "她協調了三個部門的時程，避免會議時間重疊。"
+          }
+        },
+        {
+          "en": "Coordinating with external vendors requires clear deadlines and written agreements.",
+          "highlight": [
+            "Coordinating"
+          ],
+          "translations": {
+            "zh-TW": "與外部廠商協調需要明確的截止日期和書面協議。"
+          }
+        }
+      ],
+      "synonyms": [
+        "organize",
+        "harmonize",
+        "synchronize"
+      ],
+      "antonyms": [
+        "disrupt"
+      ],
+      "phrases": [
+        "coordinate with",
+        "coordinate efforts",
+        "coordinate activities",
+        "coordinate schedules"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
