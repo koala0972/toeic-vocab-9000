@@ -12,23 +12,67 @@
       "word": "brake",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "brakes"
+        "plural": "brakes",
+        "present_3rd": "brakes",
+        "past": "braked",
+        "past_participle": "braked",
+        "ing": "braking"
       },
-      "domain": "general",
+      "domain": "transport",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "brake",
-          "definition": "n. 刹車, 阻碍, 丛林, v. 刹車"
+          "definition": "n.煞車、制動器  v.煞車、減速"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The driver slammed on the brake when a pedestrian suddenly stepped into the crosswalk.",
+          "highlight": [
+            "brake"
+          ],
+          "translations": {
+            "zh-TW": "當行人突然走上人行穿越道時，駕駛猛踩煞車。"
+          }
+        },
+        {
+          "en": "The new fleet is equipped with disc brakes that perform reliably on wet roads.",
+          "highlight": [
+            "brakes"
+          ],
+          "translations": {
+            "zh-TW": "新車隊配備的碟煞在濕滑路面上依然可靠。"
+          }
+        },
+        {
+          "en": "The truck braked sharply to avoid the cargo that had fallen off the flatbed ahead.",
+          "highlight": [
+            "braked"
+          ],
+          "translations": {
+            "zh-TW": "卡車緊急煞車，以免撞上前方從平板車掉落的貨物。"
+          }
+        }
+      ],
+      "synonyms": [
+        "decelerate",
+        "stop",
+        "halt"
+      ],
+      "antonyms": [
+        "accelerate"
+      ],
+      "phrases": [
+        "apply the brake",
+        "brake pad",
+        "emergency brake",
+        "brake fluid"
+      ]
     },
     {
       "id": "B1-333-002",
@@ -44,18 +88,55 @@
       "conjugations": {
         "plural": "coordinators"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "coordinator",
-          "definition": "n. 协調者, 同等的人或物, [化] 协調器"
+          "definition": "n.協調者、統籌人員（負責整合各部門或活動的人）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The event coordinator confirmed the venue setup and catering schedule by Friday.",
+          "highlight": [
+            "coordinator"
+          ],
+          "translations": {
+            "zh-TW": "活動統籌人員在週五前確認了場地佈置與餐飲時程。"
+          }
+        },
+        {
+          "en": "Two coordinators were assigned to manage the logistics for the overseas product launch.",
+          "highlight": [
+            "coordinators"
+          ],
+          "translations": {
+            "zh-TW": "兩位統籌人員被指派負責海外產品發表的後勤作業。"
+          }
+        },
+        {
+          "en": "Please contact the program coordinator if your registration confirmation has not arrived.",
+          "highlight": [
+            "coordinator"
+          ],
+          "translations": {
+            "zh-TW": "若您尚未收到報名確認函，請聯絡計畫協調人員。"
+          }
+        }
+      ],
+      "synonyms": [
+        "organizer",
+        "facilitator",
+        "manager"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "event coordinator",
+        "project coordinator",
+        "logistics coordinator",
+        "program coordinator"
+      ]
     },
     {
       "id": "B1-333-003",
@@ -66,23 +147,64 @@
       "word": "costly",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "costlies"
+        "comparative": "costlier",
+        "superlative": "costliest"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "costly",
-          "definition": "a. 昂贵的, 奢华的, 費用大的"
+          "definition": "adj.昂貴的、代價高的（可用於金錢或負面後果）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Recalling the defective batch proved to be a costly mistake for the manufacturer.",
+          "highlight": [
+            "costly"
+          ],
+          "translations": {
+            "zh-TW": "回收瑕疵批次對製造商而言是個代價高昂的錯誤。"
+          }
+        },
+        {
+          "en": "Upgrading the legacy IT system is costlier than the board originally estimated.",
+          "highlight": [
+            "costlier"
+          ],
+          "translations": {
+            "zh-TW": "升級舊有資訊系統的花費比董事會原先預估的更昂貴。"
+          }
+        },
+        {
+          "en": "The costliest hurricane in the company's history forced three warehouses to close.",
+          "highlight": [
+            "costliest"
+          ],
+          "translations": {
+            "zh-TW": "公司史上代價最慘重的颶風迫使三座倉庫關閉。"
+          }
+        }
+      ],
+      "synonyms": [
+        "expensive",
+        "pricey",
+        "dear"
+      ],
+      "antonyms": [
+        "cheap",
+        "inexpensive"
+      ],
+      "phrases": [
+        "costly mistake",
+        "costly repair",
+        "costly delay",
+        "costly venture"
+      ]
     },
     {
       "id": "B1-333-004",
@@ -93,23 +215,66 @@
       "word": "equip",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "equips"
+        "present_3rd": "equips",
+        "past": "equipped",
+        "past_participle": "equipped",
+        "ing": "equipping"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "equip",
-          "definition": "vt. 裝備, 配備, [機] 設備, 裝置"
+          "definition": "v.裝備、配備（使某人或某物具備所需工具或技能）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The lab equips each technician with a calibrated multimeter before field assignments.",
+          "highlight": [
+            "equips"
+          ],
+          "translations": {
+            "zh-TW": "實驗室會在技術人員外勤前，為每人配備一支校準過的三用電表。"
+          }
+        },
+        {
+          "en": "The regional office was equipped with videoconferencing tools to support remote meetings.",
+          "highlight": [
+            "equipped"
+          ],
+          "translations": {
+            "zh-TW": "分公司辦公室已配備視訊會議設備，以支援遠距會議。"
+          }
+        },
+        {
+          "en": "Equipping the warehouse with automated sorting conveyors doubled its daily throughput.",
+          "highlight": [
+            "Equipping"
+          ],
+          "translations": {
+            "zh-TW": "為倉庫裝設自動分揀輸送帶後，每日處理量提高了一倍。"
+          }
+        }
+      ],
+      "synonyms": [
+        "furnish",
+        " outfit",
+        "supply"
+      ],
+      "antonyms": [
+        "strip",
+        "divest"
+      ],
+      "phrases": [
+        "equip with",
+        "equip for",
+        "well-equipped",
+        "equip staff"
+      ]
     },
     {
       "id": "B1-333-005",
@@ -125,18 +290,55 @@
       "conjugations": {
         "plural": "excursions"
       },
-      "domain": "general",
+      "domain": "travel",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "excursion",
-          "definition": "n. 远足, 游览圆, 短程旅行, [醫] 移動, 離轨, 逸出"
+          "definition": "n.短程旅行、遊覽（通常為休閒或教育性質的一日行程）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The conference package includes a half-day excursion to the nearby heritage village.",
+          "highlight": [
+            "excursion"
+          ],
+          "translations": {
+            "zh-TW": "研討會方案包含一趟前往鄰近文化村莊的半天遊覽。"
+          }
+        },
+        {
+          "en": "Travel agents reported strong bookings for weekend excursions during the autumn foliage season.",
+          "highlight": [
+            "excursions"
+          ],
+          "translations": {
+            "zh-TW": "旅行社反映秋季賞楓期間的週末短程旅行訂位熱絡。"
+          }
+        },
+        {
+          "en": "The school's annual excursion to the science museum was postponed due to heavy rain.",
+          "highlight": [
+            "excursion"
+          ],
+          "translations": {
+            "zh-TW": "學校一年一度前往科學博物館的戶外教學因大雨延期。"
+          }
+        }
+      ],
+      "synonyms": [
+        "outing",
+        "trip",
+        "expedition"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "shore excursion",
+        "day excursion",
+        "group excursion",
+        "excursion fare"
+      ]
     },
     {
       "id": "B1-333-006",
@@ -147,23 +349,63 @@
       "word": "graphic",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
       "conjugations": {
         "plural": "graphics"
       },
-      "domain": "general",
+      "domain": "design",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "graphic",
-          "definition": "a. 生動的, 轮廓分明的, 绘画似的, 圖解的, [計] 圖形的"
+          "definition": "adj.圖形的、形象的  n.圖像、圖形設計（複數常指電腦繪圖或圖表）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The brochure uses a clear graphic layout to highlight each product's specifications.",
+          "highlight": [
+            "graphic"
+          ],
+          "translations": {
+            "zh-TW": "宣傳手冊採用清晰的圖形版面來標示每項產品的規格。"
+          }
+        },
+        {
+          "en": "High-resolution graphics make the new dashboard easier for executives to interpret at a glance.",
+          "highlight": [
+            "graphics"
+          ],
+          "translations": {
+            "zh-TW": "高解析度的圖像讓新的儀表板更方便主管一眼判讀。"
+          }
+        },
+        {
+          "en": "The agency submitted a graphic mockup alongside the written campaign proposal.",
+          "highlight": [
+            "graphic"
+          ],
+          "translations": {
+            "zh-TW": "代理商隨書面企劃一起提交了一份圖像版示意稿。"
+          }
+        }
+      ],
+      "synonyms": [
+        "visual",
+        "pictorial",
+        "illustrated"
+      ],
+      "antonyms": [
+        "textual"
+      ],
+      "phrases": [
+        "graphic design",
+        "graphic designer",
+        "computer graphics",
+        "graphic organizer"
+      ]
     },
     {
       "id": "B1-333-007",
@@ -184,13 +426,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "inexperience",
-          "definition": "n. 无經驗, 不熟练"
+          "definition": "n.缺乏經驗、生疏（導致判斷或表現不如熟手）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The intern's inexperience showed when she struggled to draft the press release on deadline.",
+          "highlight": [
+            "inexperience"
+          ],
+          "translations": {
+            "zh-TW": "實習生在趕截稿時間撰寫新聞稿時的吃力，顯露了她經驗不足。"
+          }
+        },
+        {
+          "en": "Mentoring programs help reduce costly errors caused by the inexperience of new hires.",
+          "highlight": [
+            "inexperience"
+          ],
+          "translations": {
+            "zh-TW": "導師制度有助於減少新進員工因經驗不足而犯的昂貴錯誤。"
+          }
+        },
+        {
+          "en": "His inexperience in negotiating led the supplier to insist on less favorable payment terms.",
+          "highlight": [
+            "inexperience"
+          ],
+          "translations": {
+            "zh-TW": "他在談判方面的生疏，讓供應商堅持了較不優惠的付款條件。"
+          }
+        }
+      ],
+      "synonyms": [
+        "noviceness",
+        "greenness",
+        "immaturity"
+      ],
+      "antonyms": [
+        "experience",
+        "expertise"
+      ],
+      "phrases": [
+        "due to inexperience",
+        "inexperience in",
+        "show inexperience",
+        "lack of experience"
+      ]
     },
     {
       "id": "B1-333-008",
@@ -201,23 +483,65 @@
       "word": "lengthy",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "lengthies"
+        "comparative": "lengthier",
+        "superlative": "lengthiest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "lengthy",
-          "definition": "a. 冗長的, 漫長的"
+          "definition": "adj.冗長的、漫長的（指時間或篇幅過長）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "After a lengthy review process, the loan application was finally approved by the credit committee.",
+          "highlight": [
+            "lengthy"
+          ],
+          "translations": {
+            "zh-TW": "經過漫長的審核流程後，授信委員會終於核准了這筆貸款申請。"
+          }
+        },
+        {
+          "en": "The lengthiest contract clause governs how confidential information must be handled after termination.",
+          "highlight": [
+            "lengthiest"
+          ],
+          "translations": {
+            "zh-TW": "合約中最冗長的條文，規範了終止合約後機密資訊的處理方式。"
+          }
+        },
+        {
+          "en": "Shareholders grew impatient as the CEO's explanation grew lengthier with each passing minute.",
+          "highlight": [
+            "lengthier"
+          ],
+          "translations": {
+            "zh-TW": "隨著執行長的解釋每過一分鐘就愈顯冗長，股東們逐漸失去耐心。"
+          }
+        }
+      ],
+      "synonyms": [
+        "prolonged",
+        "extended",
+        "drawn-out"
+      ],
+      "antonyms": [
+        "brief",
+        "concise",
+        "short"
+      ],
+      "phrases": [
+        "lengthy process",
+        "lengthy discussion",
+        "lengthy report",
+        "lengthy delay"
+      ]
     },
     {
       "id": "B1-333-009",
@@ -238,13 +562,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "librarian",
-          "definition": "n. 圖書館員, 圖書管理員, [計] 程序库管理程序; 程序库生成程序"
+          "definition": "n.圖書館員（負責館藏管理、協助讀者查詢資料）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The senior librarian helped the visiting researcher locate rare annual reports from the 1990s.",
+          "highlight": [
+            "librarian"
+          ],
+          "translations": {
+            "zh-TW": "資深圖書館員協助來訪的研究員找到了1990年代的罕見年報。"
+          }
+        },
+        {
+          "en": "Two librarians were hired to catalogue the archives that were bequeathed to the university.",
+          "highlight": [
+            "librarians"
+          ],
+          "translations": {
+            "zh-TW": "館方增聘了兩位圖書館員，為遺贈給大學的檔案進行編目。"
+          }
+        },
+        {
+          "en": "Consult with the reference librarian before submitting interlibrary loan requests for foreign-language titles.",
+          "highlight": [
+            "librarian"
+          ],
+          "translations": {
+            "zh-TW": "送出外語書的館際互借申請前，請先諮詢參考諮詢館員。"
+          }
+        }
+      ],
+      "synonyms": [
+        "archivist",
+        "curator",
+        "cataloger"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "school librarian",
+        "reference librarian",
+        "chief librarian",
+        "ask a librarian"
+      ]
     },
     {
       "id": "B1-333-010",
@@ -255,7 +616,8 @@
       "word": "meantime",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adverb"
       ],
       "conjugations": {
         "plural": "meantimes"
@@ -265,14 +627,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "meantime",
-          "definition": "n. 間隔時間, 其時, adv. 其間"
+          "definition": "n.其間、在此期間  adv.同時（常用於 in the meantime 表示「在此期間」）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "In the meantime, the sales team should continue following up on the pending quotes.",
+          "highlight": [
+            "meantime"
+          ],
+          "translations": {
+            "zh-TW": "在此期間，業務團隊應繼續追蹤尚未回覆的報價單。"
+          }
+        },
+        {
+          "en": "Meantime, please inform the logistics department that the shipment has been delayed at customs.",
+          "highlight": [
+            "Meantime"
+          ],
+          "translations": {
+            "zh-TW": "同時，請通知物流部門該批貨在海關遭到延遲。"
+          }
+        },
+        {
+          "en": "We appreciate your patience in the meantime while our engineers resolve the server outage.",
+          "highlight": [
+            "meantime"
+          ],
+          "translations": {
+            "zh-TW": "在工程師處理伺服器中斷問題的這段期間，感謝您的耐心。"
+          }
+        }
+      ],
+      "synonyms": [
+        "interim",
+        "interval",
+        "meanwhile"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "in the meantime",
+        "meantime action",
+        "meantime measures",
+        "during the meantime"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
