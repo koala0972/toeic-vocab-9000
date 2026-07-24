@@ -1,7 +1,7 @@
 {
+  "cefr": "B1",
   "level": 307,
   "tier": "intermediate",
-  "cefr": "B1",
   "words": [
     {
       "id": "B1-307-001",
@@ -10,25 +10,63 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "attendee",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "attendees"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "attendee",
-          "definition": "[計] 出席人, 参加者, 被照顾者, 被服務者"
+          "definition": "n. 出席者、參加者、與會者"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Each attendee must register at the front desk before entering the conference hall.",
+          "highlight": [
+            "attendee"
+          ],
+          "translations": {
+            "zh-TW": "每位出席者必須先在服務台完成報到，才能進入會議廳。"
+          }
+        },
+        {
+          "en": "All attendees received a welcome kit containing the agenda and a name badge.",
+          "highlight": [
+            "attendees"
+          ],
+          "translations": {
+            "zh-TW": "所有與會者都收到了一份歡迎包，裡面有議程和名牌。"
+          }
+        },
+        {
+          "en": "The number of attendees exceeded our expectations, so we had to add extra chairs.",
+          "highlight": [
+            "attendees"
+          ],
+          "translations": {
+            "zh-TW": "出席人數超過我們的預期，所以我們得臨時增加椅子。"
+          }
+        }
+      ],
+      "synonyms": [
+        "participant",
+        "guest",
+        "member"
+      ],
+      "antonyms": [
+        "absentee"
+      ],
+      "phrases": [
+        "conference attendee",
+        "attendee list",
+        "registered attendee",
+        "event attendee"
+      ]
     },
     {
       "id": "B1-307-002",
@@ -37,25 +75,69 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "cruise",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "cruises"
+        "plural": "cruises",
+        "present_3rd": "cruises",
+        "past": "cruised",
+        "past_participle": "cruised",
+        "ing": "cruising"
       },
-      "domain": "general",
+      "domain": "travel",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cruise",
-          "definition": "n. 巡航, 巡弋, 漫游, v. 巡航, 巡弋, 漫游"
+          "definition": "n. 郵輪度假、巡航  v. 巡航、乘船遊覽、平穩行駛"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "We booked a Caribbean cruise for our tenth wedding anniversary.",
+          "highlight": [
+            "cruise"
+          ],
+          "translations": {
+            "zh-TW": "我們預訂了一趟加勒比海郵輪之旅，慶祝結婚十週年。"
+          }
+        },
+        {
+          "en": "The ship cruised along the Alaskan coastline for seven breathtaking days.",
+          "highlight": [
+            "cruised"
+          ],
+          "translations": {
+            "zh-TW": "這艘船沿著阿拉斯加海岸巡航了七天，沿途風景令人屏息。"
+          }
+        },
+        {
+          "en": "Cruising at a steady speed helps reduce fuel consumption on long highway trips.",
+          "highlight": [
+            "Cruising"
+          ],
+          "translations": {
+            "zh-TW": "在高速公路長途行駛時，以穩定速度巡航有助於降低油耗。"
+          }
+        }
+      ],
+      "synonyms": [
+        "voyage",
+        "sail",
+        "tour"
+      ],
+      "antonyms": [
+        "anchor",
+        "moor"
+      ],
+      "phrases": [
+        "cruise ship",
+        "cruise line",
+        "luxury cruise",
+        "cruise control"
+      ]
     },
     {
       "id": "B1-307-003",
@@ -64,19 +146,61 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "café",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "cafés"
       },
-      "domain": "general",
-      "translations": [],
-      "examples": [],
-      "synonyms": [],
+      "domain": "daily life",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "café",
+          "definition": "n. 咖啡館、小餐館、露天咖啡座"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The new café on the corner serves the best espresso in the district.",
+          "highlight": [
+            "café"
+          ],
+          "translations": {
+            "zh-TW": "轉角那家新開的咖啡館供應這一區最棒的義式濃縮咖啡。"
+          }
+        },
+        {
+          "en": "Several cafés along the riverside offer outdoor seating in the summer.",
+          "highlight": [
+            "cafés"
+          ],
+          "translations": {
+            "zh-TW": "河濱有幾家咖啡館在夏季提供露天座位。"
+          }
+        },
+        {
+          "en": "We agreed to meet at a quiet café near her office to discuss the contract.",
+          "highlight": [
+            "café"
+          ],
+          "translations": {
+            "zh-TW": "我們約在她辦公室附近一家安靜的咖啡館討論合約事宜。"
+          }
+        }
+      ],
+      "synonyms": [
+        "coffeehouse",
+        "coffee shop",
+        "bistro"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "café latte",
+        "street café",
+        "internet café",
+        "café culture"
+      ]
     },
     {
       "id": "B1-307-004",
@@ -85,25 +209,64 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "comprehension",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "comprehensions"
       },
-      "domain": "general",
+      "domain": "education",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "comprehension",
-          "definition": "n. 理解, 包含"
+          "definition": "n. 理解力、理解、領悟"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Reading short articles every day can gradually improve your listening comprehension.",
+          "highlight": [
+            "comprehension"
+          ],
+          "translations": {
+            "zh-TW": "每天閱讀短篇文章，能逐渐提升你的聽力理解能力。"
+          }
+        },
+        {
+          "en": "The TOEIC test includes a section that measures reading comprehension in business contexts.",
+          "highlight": [
+            "comprehension"
+          ],
+          "translations": {
+            "zh-TW": "多益測驗包含一個評量商務情境閱讀理解的 section。"
+          }
+        },
+        {
+          "en": "Her comprehension of the legal document was impressive for someone without a law degree.",
+          "highlight": [
+            "comprehension"
+          ],
+          "translations": {
+            "zh-TW": "她對這份法律文件的理解力令人印象深刻，更何況她並沒有法律學位。"
+          }
+        }
+      ],
+      "synonyms": [
+        "understanding",
+        "grasp",
+        "perception"
+      ],
+      "antonyms": [
+        "misunderstanding",
+        "confusion"
+      ],
+      "phrases": [
+        "reading comprehension",
+        "listening comprehension",
+        "beyond comprehension",
+        "comprehension skills"
+      ]
     },
     {
       "id": "B1-307-005",
@@ -112,25 +275,61 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "medication",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "medications"
       },
-      "domain": "general",
+      "domain": "health",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "medication",
-          "definition": "n. 藥物治疗, 藥物處理, 醫藥, [醫] 藥疗法, 投藥法"
+          "definition": "n. 藥物、藥物治療、處方藥"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The doctor prescribed a new medication to lower his blood pressure.",
+          "highlight": [
+            "medication"
+          ],
+          "translations": {
+            "zh-TW": "醫生開了一種新藥來降低他的血壓。"
+          }
+        },
+        {
+          "en": "Some over-the-counter medications can interact with prescription drugs, so always check labels.",
+          "highlight": [
+            "medications"
+          ],
+          "translations": {
+            "zh-TW": "部分成藥會與處方藥產生交互作用，因此務必詳閱標示。"
+          }
+        },
+        {
+          "en": "She forgot to pack her medication before boarding the flight to Tokyo.",
+          "highlight": [
+            "medication"
+          ],
+          "translations": {
+            "zh-TW": "登上飛往東京的班機前，她忘了把藥物放進隨身行李。"
+          }
+        }
+      ],
+      "synonyms": [
+        "medicine",
+        "drug",
+        "prescription"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "take medication",
+        "prescription medication",
+        "side effect of medication",
+        "stop medication"
+      ]
     },
     {
       "id": "B1-307-006",
@@ -138,26 +337,70 @@
       "tier": "intermediate",
       "cefr": "B1",
       "toeic_score_min": 650,
-      "word": "renew",
-      "phonetic": "",
+      "word": "tenant",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "renews"
+        "plural": "tenants",
+        "present_3rd": "tenants",
+        "past": "tenanted",
+        "past_participle": "tenanted",
+        "ing": "tenanting"
       },
-      "domain": "general",
+      "domain": "real estate",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "renew",
-          "definition": "vt. 使更新, 使恢复, 复興, 修补, 补充, 继续, 重訂, 重申, 续借, vi. 更新, 重新开始"
+          "lang_word": "tenant",
+          "definition": "n. 房客、承租人、租戶  v. 租借、居住"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The new tenant signed a one-year lease for the apartment on Park Street.",
+          "highlight": [
+            "tenant"
+          ],
+          "translations": {
+            "zh-TW": "新房客簽了一份為期一年的租約，承租公園街上的公寓。"
+          }
+        },
+        {
+          "en": "All tenants must pay the rent by the fifth of every month.",
+          "highlight": [
+            "tenants"
+          ],
+          "translations": {
+            "zh-TW": "所有房客必須在每月五號前繳交房租。"
+          }
+        },
+        {
+          "en": "The commercial building has been tenanted by a major financial firm since 2019.",
+          "highlight": [
+            "tenanted"
+          ],
+          "translations": {
+            "zh-TW": "這棟商業大樓自 2019 年起便由一家大型金融公司承租。"
+          }
+        }
+      ],
+      "synonyms": [
+        "renter",
+        "lessee",
+        "occupant"
+      ],
+      "antonyms": [
+        "landlord",
+        "owner"
+      ],
+      "phrases": [
+        "tenant agreement",
+        "sub-tenant",
+        "commercial tenant",
+        "tenant rights"
+      ]
     },
     {
       "id": "B1-307-007",
@@ -165,26 +408,69 @@
       "tier": "intermediate",
       "cefr": "B1",
       "toeic_score_min": 650,
-      "word": "tenant",
-      "phonetic": "",
+      "word": "renew",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "tenants"
+        "present_3rd": "renews",
+        "past": "renewed",
+        "past_participle": "renewed",
+        "ing": "renewing"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "tenant",
-          "definition": "n. 承租人, 房客, 居住者, vt. 租借, [計] 占据者"
+          "lang_word": "renew",
+          "definition": "v. 更新、續訂、恢復、續借、重新開始"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "You have to renew your driver's license before it expires next month.",
+          "highlight": [
+            "renew"
+          ],
+          "translations": {
+            "zh-TW": "你的駕照下個月到期，必須在那之前辦理更新。"
+          }
+        },
+        {
+          "en": "The company renewed its software subscription for another three years.",
+          "highlight": [
+            "renewed"
+          ],
+          "translations": {
+            "zh-TW": "公司將軟體訂閱續約了三年。"
+          }
+        },
+        {
+          "en": "Renewing your gym membership online only takes a couple of minutes.",
+          "highlight": [
+            "Renewing"
+          ],
+          "translations": {
+            "zh-TW": "在線上續訂健身房會員只需要幾分鐘。"
+          }
+        }
+      ],
+      "synonyms": [
+        "refresh",
+        "extend",
+        "restore"
+      ],
+      "antonyms": [
+        "expire",
+        "cancel",
+        "terminate"
+      ],
+      "phrases": [
+        "renew a contract",
+        "renew a subscription",
+        "renew a passport",
+        "renew a license"
+      ]
     },
     {
       "id": "B1-307-008",
@@ -193,25 +479,68 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "mini",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "minis"
+        "plural": "minis",
+        "comparative": "minier",
+        "superlative": "miniest"
       },
-      "domain": "general",
+      "domain": "daily life",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mini",
-          "definition": "n. 同类中的極小者, 微型汽車, 超短裙, a. 微型的"
+          "definition": "n. 超短裙、迷你型物品  a. 迷你的、微型的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "She bought a cute mini to wear at the summer barbecue party.",
+          "highlight": [
+            "mini"
+          ],
+          "translations": {
+            "zh-TW": "她買了一件可愛的超短裙，準備在夏季烤肉派對上穿。"
+          }
+        },
+        {
+          "en": "The store sells miniskirts in a variety of colors and patterns.",
+          "highlight": [
+            "miniskirts"
+          ],
+          "translations": {
+            "zh-TW": "這家店販售各種顏色和花樣的迷你裙。"
+          }
+        },
+        {
+          "en": "I prefer the mini version because it fits easily in my handbag.",
+          "highlight": [
+            "mini"
+          ],
+          "translations": {
+            "zh-TW": "我比較喜歡迷你款，因為它很容易放進我的手提包。"
+          }
+        }
+      ],
+      "synonyms": [
+        "miniature",
+        "tiny",
+        "small"
+      ],
+      "antonyms": [
+        "maxi",
+        "large",
+        "oversized"
+      ],
+      "phrases": [
+        "mini skirt",
+        "mini cooper",
+        "mini fridge",
+        "mini tablet"
+      ]
     },
     {
       "id": "B1-307-009",
@@ -220,25 +549,70 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "inconvenience",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "inconveniences"
+        "plural": "inconveniences",
+        "present_3rd": "inconveniences",
+        "past": "inconvenienced",
+        "past_participle": "inconvenienced",
+        "ing": "inconveniencing"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "inconvenience",
-          "definition": "n. 不便, 困難, vt. 使感不便, 使感困難"
+          "definition": "n. 不便、麻煩、困擾  v. 使不便、打擾、造成麻煩"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "We apologize for any inconvenience caused by the unexpected maintenance work.",
+          "highlight": [
+            "inconvenience"
+          ],
+          "translations": {
+            "zh-TW": "對於突如其來的維修工程所造成的不便，我們深感抱歉。"
+          }
+        },
+        {
+          "en": "Guests who were inconvenienced by the power outage will receive a full refund.",
+          "highlight": [
+            "inconvenienced"
+          ],
+          "translations": {
+            "zh-TW": "因停電而受到影響的旅客，將獲得全額退款。"
+          }
+        },
+        {
+          "en": "Inconveniencing a customer with poor service can damage a brand's reputation quickly.",
+          "highlight": [
+            "Inconveniencing"
+          ],
+          "translations": {
+            "zh-TW": "糟糕的服務讓顧客感到不便，可能會迅速損害品牌的聲譽。"
+          }
+        }
+      ],
+      "synonyms": [
+        "trouble",
+        "bother",
+        "nuisance"
+      ],
+      "antonyms": [
+        "convenience",
+        "ease",
+        "comfort"
+      ],
+      "phrases": [
+        "cause inconvenience",
+        "apologize for the inconvenience",
+        "sorry for the inconvenience",
+        "unexpected inconvenience"
+      ]
     },
     {
       "id": "B1-307-010",
@@ -247,26 +621,66 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "banquet",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "banquets"
+        "plural": "banquets",
+        "present_3rd": "banquets",
+        "past": "banqueted",
+        "past_participle": "banqueted",
+        "ing": "banqueting"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "banquet",
-          "definition": "n. 宴會"
+          "definition": "n. 宴會、盛宴  v. 設宴款待、參加宴會"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The company held a grand banquet to celebrate its 25th anniversary.",
+          "highlight": [
+            "banquet"
+          ],
+          "translations": {
+            "zh-TW": "公司舉辦了一場盛大的宴會，慶祝成立二十五週年。"
+          }
+        },
+        {
+          "en": "The hotel specializes in hosting wedding banquets and corporate dinners.",
+          "highlight": [
+            "banquets"
+          ],
+          "translations": {
+            "zh-TW": "這家飯店專門承接婚宴和企業餐會。"
+          }
+        },
+        {
+          "en": "The delegation was banqueted by the mayor upon their arrival in the city.",
+          "highlight": [
+            "banqueted"
+          ],
+          "translations": {
+            "zh-TW": "代表團抵達這座城市時，市長設宴款待了他們。"
+          }
+        }
+      ],
+      "synonyms": [
+        "feast",
+        "gala",
+        "dinner"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "banquet hall",
+        "banquet dinner",
+        "state banquet",
+        "wedding banquet"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
