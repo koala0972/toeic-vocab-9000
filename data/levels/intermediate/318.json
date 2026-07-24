@@ -1,7 +1,8 @@
 {
   "level": 318,
-  "tier": "intermediate",
   "cefr": "B1",
+  "tier": "intermediate",
+  "_skeleton": false,
   "words": [
     {
       "id": "B1-318-001",
@@ -12,23 +13,65 @@
       "word": "lounge",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "lounges"
+        "plural": "lounges",
+        "present_3rd": "lounges",
+        "past": "lounged",
+        "past_participle": "lounged",
+        "ing": "lounging"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "lounge",
-          "definition": "n. 闲逛, 休闲室, 長沙發, vi. 闲混, (懒洋洋地)躺, vt. 闲混"
+          "definition": "n. 休息室、等候室  v. 懶洋洋地躺、閒蕩"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "GoldCard members are invited to wait in the airport lounge before boarding.",
+          "highlight": [
+            "lounge"
+          ],
+          "translations": {
+            "zh-TW": "金卡會員可於登機前在機場貴賓室等候。"
+          }
+        },
+        {
+          "en": "Business lounges on the fourteenth floor offer complimentary coffee for hotel guests.",
+          "highlight": [
+            "lounges"
+          ],
+          "translations": {
+            "zh-TW": "十四樓的商務休息室為飯店住客提供免費咖啡。"
+          }
+        },
+        {
+          "en": "Several passengers lounged on the soft sofas, scrolling through their phones.",
+          "highlight": [
+            "lounged"
+          ],
+          "translations": {
+            "zh-TW": "幾名旅客懶洋洋地靠在柔軟的沙發上滑手機。"
+          }
+        }
+      ],
+      "synonyms": [
+        "waiting room",
+        "sitting room",
+        "lobby"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "airport lounge",
+        "business lounge",
+        "VIP lounge",
+        "lounge chair"
+      ]
     },
     {
       "id": "B1-318-002",
@@ -44,18 +87,54 @@
       "conjugations": {
         "plural": "patrons"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "patron",
-          "definition": "n. 赞助人, 顾客, 保護人, [法] 保護人, 庇護人, 赞助人"
+          "definition": "n. 顧客、主顧、贊助人、庇護人"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The cafe offers a ten percent discount to its regular patrons.",
+          "highlight": [
+            "patrons"
+          ],
+          "translations": {
+            "zh-TW": "這間咖啡館給常客九折優惠。"
+          }
+        },
+        {
+          "en": "A wealthy patron sponsored the young artist's first exhibition downtown.",
+          "highlight": [
+            "patron"
+          ],
+          "translations": {
+            "zh-TW": "一位富有的贊助人資助了那位年輕藝術家在市區的首場展覽。"
+          }
+        },
+        {
+          "en": "Patron loyalty programs help restaurants retain diners through seasonal promotions.",
+          "highlight": [
+            "Patron"
+          ],
+          "translations": {
+            "zh-TW": "顧客忠誠計畫協助餐廳透過季節性促銷留住食客。"
+          }
+        }
+      ],
+      "synonyms": [
+        "customer",
+        "client",
+        "sponsor"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "regular patron",
+        "patron of the arts",
+        "patron saint"
+      ]
     },
     {
       "id": "B1-318-003",
@@ -66,23 +145,63 @@
       "word": "productive",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "productives"
+        "comparative": "more productive",
+        "superlative": "most productive"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "productive",
-          "definition": "a. 能生產的, 有生產價值的, 多產的, [醫] 產出性的, 產生性的"
+          "definition": "adj. 生產力高的、有效率的、多產的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Marrisa had a productive afternoon, finishing three reports before the deadline.",
+          "highlight": [
+            "productive"
+          ],
+          "translations": {
+            "zh-TW": "瑪麗莎度過了一個生產力旺盛的下午，在截止前完成了三份報告。"
+          }
+        },
+        {
+          "en": "The new workflow is more productive than the old one, cutting review time in half.",
+          "highlight": [
+            "more productive"
+          ],
+          "translations": {
+            "zh-TW": "新的作業流程比舊流程更具效率，審核時間減半。"
+          }
+        },
+        {
+          "en": "Tuesday morning is considered the most productive period in this office.",
+          "highlight": [
+            "most productive"
+          ],
+          "translations": {
+            "zh-TW": "週二上午被視為這間辦公室效率最高的時段。"
+          }
+        }
+      ],
+      "synonyms": [
+        "efficient",
+        "fruitful",
+        "effective"
+      ],
+      "antonyms": [
+        "unproductive",
+        "inefficient"
+      ],
+      "phrases": [
+        "productive meeting",
+        "highly productive",
+        "productive output"
+      ]
     },
     {
       "id": "B1-318-004",
@@ -93,23 +212,64 @@
       "word": "stack",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "stacks"
+        "plural": "stacks",
+        "present_3rd": "stacks",
+        "past": "stacked",
+        "past_participle": "stacked",
+        "ing": "stacking"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "stack",
-          "definition": "n. 堆叠, 堆, 大量, 書库, 枪架, 烟囱, 堆積, 存贮栈, vt. 堆積, 堆滿, 暗中對...做手脚, vi. 堆起, [計] 堆積, 堆栈"
+          "definition": "n. 一疊、一堆  v. 堆疊、整齊地放置"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "A stack of invoices sits on the accountant's desk, awaiting approval.",
+          "highlight": [
+            "stack"
+          ],
+          "translations": {
+            "zh-TW": "會計桌上放著一疊發票，等待核可。"
+          }
+        },
+        {
+          "en": "The warehouse contains several large stacks of shipping cartons for the spring launch.",
+          "highlight": [
+            "stacks"
+          ],
+          "translations": {
+            "zh-TW": "倉庫裡放著幾大堆春季新品上市的出貨紙箱。"
+          }
+        },
+        {
+          "en": "Gary stacked the catalogues neatly on the shelf before closing the store.",
+          "highlight": [
+            "stacked"
+          ],
+          "translations": {
+            "zh-TW": "蓋瑞打烊前將型錄整齊地堆放在架上。"
+          }
+        }
+      ],
+      "synonyms": [
+        "pile",
+        "heap",
+        "bundle"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "a stack of paper",
+        "stack the shelves",
+        "stack the odds"
+      ]
     },
     {
       "id": "B1-318-005",
@@ -120,23 +280,64 @@
       "word": "delegate",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "delegates"
+        "plural": "delegates",
+        "present_3rd": "delegates",
+        "past": "delegated",
+        "past_participle": "delegated",
+        "ing": "delegating"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "delegate",
-          "definition": "n. 代表, vt. 委派...為代表"
+          "definition": "n. 代表、委員  v. 委派、授權"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Each branch sends one delegate to the annual trade conference.",
+          "highlight": [
+            "delegate"
+          ],
+          "translations": {
+            "zh-TW": "每個分公司派一名代表出席年度貿易大會。"
+          }
+        },
+        {
+          "en": "More than two hundred delegates registered for this year's summit in Singapore.",
+          "highlight": [
+            "delegates"
+          ],
+          "translations": {
+            "zh-TW": "超過兩百名代表報名參加今年在新加坡舉行的高峰會。"
+          }
+        },
+        {
+          "en": "An effective manager delegates routine tasks to junior staff to focus on strategy.",
+          "highlight": [
+            "delegates"
+          ],
+          "translations": {
+            "zh-TW": "有效率的經理會把例行事務委派給基層員工，以便專注於策略。"
+          }
+        }
+      ],
+      "synonyms": [
+        "representative",
+        "deputy",
+        "assign"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "delegate authority",
+        "delegate a task",
+        "elected delegate"
+      ]
     },
     {
       "id": "B1-318-006",
@@ -152,18 +353,57 @@
       "conjugations": {
         "plural": "salespersons"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "salesperson",
-          "definition": "n. 售貨員"
+          "definition": "n. 售貨員、業務員、銷售人員"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The salesperson demonstrated how the new vacuum cleaner works.",
+          "highlight": [
+            "salesperson"
+          ],
+          "translations": {
+            "zh-TW": "業務員示範了新型吸塵器的運作方式。"
+          }
+        },
+        {
+          "en": "Experienced salespersons often earn commissions on top of their base salary.",
+          "highlight": [
+            "salespersons"
+          ],
+          "translations": {
+            "zh-TW": "資深業務員除底薪外通常還可獲得佣金。"
+          }
+        },
+        {
+          "en": "A top-performing salesperson closed five deals during the holiday weekend.",
+          "highlight": [
+            "salesperson"
+          ],
+          "translations": {
+            "zh-TW": "一名頂尖業務員在連假期間成交了五筆生意。"
+          }
+        }
+      ],
+      "synonyms": [
+        "sales rep",
+        "sales agent",
+        "seller"
+      ],
+      "antonyms": [
+        "customer",
+        "buyer"
+      ],
+      "phrases": [
+        "experienced salesperson",
+        "top salesperson",
+        "retail salesperson"
+      ]
     },
     {
       "id": "B1-318-007",
@@ -179,18 +419,53 @@
       "conjugations": {
         "plural": "calculators"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "calculator",
-          "definition": "n. 計算者, 計算器, [計] 計算器"
+          "definition": "n. 計算機、計算器"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Use the calculator on your phone to split the bill evenly.",
+          "highlight": [
+            "calculator"
+          ],
+          "translations": {
+            "zh-TW": "用手機上的計算機把帳單平均分攤。"
+          }
+        },
+        {
+          "en": "Office calculators with printing functions remain popular among accountants.",
+          "highlight": [
+            "calculators"
+          ],
+          "translations": {
+            "zh-TW": "具備列印功能的辦公計算機在會計師之間仍受歡迎。"
+          }
+        },
+        {
+          "en": "The financial calculator app helps freelancers estimate their quarterly taxes.",
+          "highlight": [
+            "calculator"
+          ],
+          "translations": {
+            "zh-TW": "這款財務計算機應用程式協助自由工作者估算季度稅額。"
+          }
+        }
+      ],
+      "synonyms": [
+        "adding machine",
+        "reckoner"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "pocket calculator",
+        "financial calculator",
+        "scientific calculator"
+      ]
     },
     {
       "id": "B1-318-008",
@@ -206,18 +481,57 @@
       "conjugations": {
         "plural": "completions"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "completion",
-          "definition": "n. 完成, [經] 完井, 結束, 完工"
+          "definition": "n. 完成、完工、結束"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Upon completion of the training, staff receive a certificate of attendance.",
+          "highlight": [
+            "completion"
+          ],
+          "translations": {
+            "zh-TW": "完成培訓後，員工會獲發出席證書。"
+          }
+        },
+        {
+          "en": "Successful project completions are celebrated at the monthly team meeting.",
+          "highlight": [
+            "completions"
+          ],
+          "translations": {
+            "zh-TW": "成功完成的專案會在每月團隊會議上表揚。"
+          }
+        },
+        {
+          "en": "The completion date for the new headquarters has been pushed back to December.",
+          "highlight": [
+            "completion"
+          ],
+          "translations": {
+            "zh-TW": "新總部的完工日期已順延至十二月。"
+          }
+        }
+      ],
+      "synonyms": [
+        "finish",
+        "accomplishment",
+        "fulfillment"
+      ],
+      "antonyms": [
+        "incompletion",
+        "failure"
+      ],
+      "phrases": [
+        "completion date",
+        "upon completion",
+        "expected completion"
+      ]
     },
     {
       "id": "B1-318-009",
@@ -228,23 +542,67 @@
       "word": "defect",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "defects"
+        "plural": "defects",
+        "present_3rd": "defects",
+        "past": "defected",
+        "past_participle": "defected",
+        "ing": "defecting"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "defect",
-          "definition": "n. 缺點, [醫] 缺损, 缺陷"
+          "definition": "n. 缺陷、瑕疵、缺點  v. 叛逃、投靠另一方"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Each product is inspected for defects before leaving the factory.",
+          "highlight": [
+            "defects"
+          ],
+          "translations": {
+            "zh-TW": "每件產品出廠前都會檢查是否有瑕疵。"
+          }
+        },
+        {
+          "en": "A manufacturing defect caused the recall of three thousand air conditioners.",
+          "highlight": [
+            "defect"
+          ],
+          "translations": {
+            "zh-TW": "一處製造缺陷導致三千台冷氣被召回。"
+          }
+        },
+        {
+          "en": "The scientist defected to a rival firm, taking years of research with him.",
+          "highlight": [
+            "defected"
+          ],
+          "translations": {
+            "zh-TW": "該科學家投靠了競爭對手公司，帶走了多年的研究成果。"
+          }
+        }
+      ],
+      "synonyms": [
+        "flaw",
+        "fault",
+        "imperfection"
+      ],
+      "antonyms": [
+        "perfection",
+        "merit"
+      ],
+      "phrases": [
+        "defect rate",
+        "manufacturing defect",
+        "product defect"
+      ]
     },
     {
       "id": "B1-318-010",
@@ -255,24 +613,65 @@
       "word": "omit",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "omits"
+        "present_3rd": "omits",
+        "past": "omitted",
+        "past_participle": "omitted",
+        "ing": "omitting"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "omit",
-          "definition": "vt. 省略, 删除, 疏忽, 遗漏, [化] 省略"
+          "definition": "v. 省略、遺漏、疏忽"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Please do not omit the invoice number when submitting the expense claim.",
+          "highlight": [
+            "omit"
+          ],
+          "translations": {
+            "zh-TW": "申請報帳時，請勿遺漏發票號碼。"
+          }
+        },
+        {
+          "en": "The revised contract omits several clauses that caused confusion last quarter.",
+          "highlight": [
+            "omits"
+          ],
+          "translations": {
+            "zh-TW": "修訂後的合約省略了幾條上季引發混淆的條款。"
+          }
+        },
+        {
+          "en": "Janet was criticized for omitting key figures from the quarterly earnings report.",
+          "highlight": [
+            "omitting"
+          ],
+          "translations": {
+            "zh-TW": "珮妮因在季度財報中遺漏關鍵數字而遭到批評。"
+          }
+        }
+      ],
+      "synonyms": [
+        "leave out",
+        "exclude",
+        "skip"
+      ],
+      "antonyms": [
+        "include",
+        "add"
+      ],
+      "phrases": [
+        "omit a detail",
+        "omit a section",
+        "omit from the report"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
