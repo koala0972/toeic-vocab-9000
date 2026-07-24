@@ -12,23 +12,64 @@
       "word": "cloudy",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "cloudies"
+        "comparative": "cloudier",
+        "superlative": "cloudiest"
       },
-      "domain": "general",
+      "domain": "weather",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cloudy",
-          "definition": "a. 多云的, 有愁容的, 云的, 浑浊的, [建] (混)浊的"
+          "definition": "a. 多雲的、陰天的、混濁的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The weather forecast says it will be cloudy tomorrow morning.",
+          "highlight": [
+            "cloudy"
+          ],
+          "translations": {
+            "zh-TW": "天氣預報說明天早上會是多雲的天氣。"
+          }
+        },
+        {
+          "en": "It grew cloudier as the afternoon progressed, ruining our outdoor event.",
+          "highlight": [
+            "cloudier"
+          ],
+          "translations": {
+            "zh-TW": "隨著午后推進，天色變得更陰沉，破壞了我們的戶外活動。"
+          }
+        },
+        {
+          "en": "November is often the cloudiest month of the year in this region.",
+          "highlight": [
+            "cloudiest"
+          ],
+          "translations": {
+            "zh-TW": "在這個地區，十一月通常是一年之中最多雲的月份。"
+          }
+        }
+      ],
+      "synonyms": [
+        "overcast",
+        "gloomy",
+        "hazy"
+      ],
+      "antonyms": [
+        "clear",
+        "sunny"
+      ],
+      "phrases": [
+        "cloudy sky",
+        "cloudy day",
+        "cloudy weather",
+        "partly cloudy"
+      ]
     },
     {
       "id": "B1-312-002",
@@ -44,18 +85,57 @@
       "conjugations": {
         "plural": "shoppers"
       },
-      "domain": "general",
+      "domain": "commerce",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "shopper",
-          "definition": "n. 購物者, [經] 顾客, 購物的人"
+          "definition": "n. 購物者、顧客"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The department store offers a loyalty card to every regular shopper.",
+          "highlight": [
+            "shopper"
+          ],
+          "translations": {
+            "zh-TW": "百貨公司為每一位常客提供會員卡。"
+          }
+        },
+        {
+          "en": "Holiday shoppers crowded the mall searching for last-minute gifts.",
+          "highlight": [
+            "shoppers"
+          ],
+          "translations": {
+            "zh-TW": "假日購物人潮擠滿商場，尋找最後一刻的禮物。"
+          }
+        },
+        {
+          "en": "Online shoppers appreciate the convenience of free returns within 30 days.",
+          "highlight": [
+            "shoppers"
+          ],
+          "translations": {
+            "zh-TW": "線上購物者喜歡三十天內免費退貨的便利性。"
+          }
+        }
+      ],
+      "synonyms": [
+        "customer",
+        "buyer",
+        "consumer"
+      ],
+      "antonyms": [
+        "seller"
+      ],
+      "phrases": [
+        "regular shopper",
+        "window shopper",
+        "holiday shopper",
+        "online shopper"
+      ]
     },
     {
       "id": "B1-312-003",
@@ -66,23 +146,67 @@
       "word": "tag",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "tags"
+        "plural": "tags",
+        "present_3rd": "tags",
+        "past": "tagged",
+        "past_participle": "tagged",
+        "ing": "tagging"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tag",
-          "definition": "n. 標签, 附属物, 碎片, 結束語, 口頭禅, 附加語, 浑名, 標記, 標記符, vt. 附以签条, 尾隨, 添饰, 起浑名, 連接, vi. 紧紧跟隨, [計] 標記"
+          "definition": "n. 標籤、附加物  v. 加標籤、尾隨"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Each product must have a price tag clearly displayed on the shelf.",
+          "highlight": [
+            "tag"
+          ],
+          "translations": {
+            "zh-TW": "每件商品必須在貨架上清楚標示價格標籤。"
+          }
+        },
+        {
+          "en": "The warehouse staff tagged every carton before shipping it out.",
+          "highlight": [
+            "tagged"
+          ],
+          "translations": {
+            "zh-TW": "倉庫員工在出貨前為每個紙箱貼上標籤。"
+          }
+        },
+        {
+          "en": "Tagging inventory electronically speeds up the tracking process.",
+          "highlight": [
+            "tagging"
+          ],
+          "translations": {
+            "zh-TW": "以電子方式為庫存加標籤能加快追蹤流程。"
+          }
+        }
+      ],
+      "synonyms": [
+        "label",
+        "marker",
+        "ticket"
+      ],
+      "antonyms": [
+        "detach"
+      ],
+      "phrases": [
+        "price tag",
+        "name tag",
+        "luggage tag",
+        "tag along"
+      ]
     },
     {
       "id": "B1-312-004",
@@ -98,18 +222,56 @@
       "conjugations": {
         "plural": "announcers"
       },
-      "domain": "general",
+      "domain": "media",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "announcer",
-          "definition": "n. 節目報告員, 宣告者"
+          "definition": "n. 廣播員、節目主持人、宣告者"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The station hired a new announcer for the morning news program.",
+          "highlight": [
+            "announcer"
+          ],
+          "translations": {
+            "zh-TW": "電台為晨間新聞節目聘僱了一位新的廣播員。"
+          }
+        },
+        {
+          "en": "Sports announcers must speak clearly even during tense moments.",
+          "highlight": [
+            "announcers"
+          ],
+          "translations": {
+            "zh-TW": "體育播報員即使在緊張時刻也必須口齒清晰。"
+          }
+        },
+        {
+          "en": "The train announcer apologized for the delay in both languages.",
+          "highlight": [
+            "announcer"
+          ],
+          "translations": {
+            "zh-TW": "火車站廣播員以兩種語言為誤點致歉。"
+          }
+        }
+      ],
+      "synonyms": [
+        "broadcaster",
+        "host",
+        "presenter"
+      ],
+      "antonyms": [
+        "listener"
+      ],
+      "phrases": [
+        "radio announcer",
+        "news announcer",
+        "public address announcer"
+      ]
     },
     {
       "id": "B1-312-005",
@@ -120,23 +282,67 @@
       "word": "audit",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "audits"
+        "plural": "audits",
+        "present_3rd": "audits",
+        "past": "audited",
+        "past_participle": "audited",
+        "ing": "auditing"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "audit",
-          "definition": "n. 審計, 查帐, vt. 查(帐), 旁聽, vi. 查賬, [計] 查帐; 審查; 檢查"
+          "definition": "n. 審計、查帳  v. 審核、旁聽"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The finance department scheduled an annual audit for the end of March.",
+          "highlight": [
+            "audit"
+          ],
+          "translations": {
+            "zh-TW": "財務部門安排在三月底進行年度審計。"
+          }
+        },
+        {
+          "en": "External auditors audited our accounts and found no major discrepancies.",
+          "highlight": [
+            "audited"
+          ],
+          "translations": {
+            "zh-TW": "外部審計員查核了我們的帳目，未發現重大差異。"
+          }
+        },
+        {
+          "en": "Auditing internal processes regularly helps prevent fraud.",
+          "highlight": [
+            "auditing"
+          ],
+          "translations": {
+            "zh-TW": "定期審核內部流程有助於防止舞弊。"
+          }
+        }
+      ],
+      "synonyms": [
+        "inspect",
+        "examine",
+        "review"
+      ],
+      "antonyms": [
+        "ignore"
+      ],
+      "phrases": [
+        "annual audit",
+        "tax audit",
+        "internal audit",
+        "audit report"
+      ]
     },
     {
       "id": "B1-312-006",
@@ -152,18 +358,57 @@
       "conjugations": {
         "plural": "contractors"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "contractor",
-          "definition": "n. 立契約的人, 承包商, [化] 承包者; 承包工廠"
+          "definition": "n. 承包商、立契約的人"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The company hired a contractor to renovate the main office lobby.",
+          "highlight": [
+            "contractor"
+          ],
+          "translations": {
+            "zh-TW": "公司聘僱承包商翻新老辦公室大廳。"
+          }
+        },
+        {
+          "en": "Independent contractors must handle their own taxes and insurance.",
+          "highlight": [
+            "contractors"
+          ],
+          "translations": {
+            "zh-TW": "獨立承包商必須自行處理稅務與保險。"
+          }
+        },
+        {
+          "en": "The government awarded the bridge project to the lowest bidding contractor.",
+          "highlight": [
+            "contractor"
+          ],
+          "translations": {
+            "zh-TW": "政府將橋樑工程標案判給出價最低的承包商。"
+          }
+        }
+      ],
+      "synonyms": [
+        "builder",
+        "subcontractor",
+        "vendor"
+      ],
+      "antonyms": [
+        "client"
+      ],
+      "phrases": [
+        "general contractor",
+        "independent contractor",
+        "subcontractor",
+        "construction contractor"
+      ]
     },
     {
       "id": "B1-312-007",
@@ -179,18 +424,55 @@
       "conjugations": {
         "plural": "passwords"
       },
-      "domain": "general",
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "password",
-          "definition": "n. 密码, 口令, 通行手段, [計] 口令"
+          "definition": "n. 密碼、通行口令"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Please create a strong password using at least eight characters.",
+          "highlight": [
+            "password"
+          ],
+          "translations": {
+            "zh-TW": "請使用至少八個字元創建一個強度高的密碼。"
+          }
+        },
+        {
+          "en": "Employees must change their passwords every ninety days for security.",
+          "highlight": [
+            "passwords"
+          ],
+          "translations": {
+            "zh-TW": "員工為了安全必須每九十天更改一次密碼。"
+          }
+        },
+        {
+          "en": "Forgetting your password requires a reset via the registered email.",
+          "highlight": [
+            "password"
+          ],
+          "translations": {
+            "zh-TW": "忘記密碼時，需透過註冊的電子郵件進行重設。"
+          }
+        }
+      ],
+      "synonyms": [
+        "passcode",
+        "access code",
+        "PIN"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "strong password",
+        "reset password",
+        "password protection",
+        "forgot password"
+      ]
     },
     {
       "id": "B1-312-008",
@@ -201,23 +483,66 @@
       "word": "prohibit",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "prohibits"
+        "present_3rd": "prohibits",
+        "past": "prohibited",
+        "past_participle": "prohibited",
+        "ing": "prohibiting"
       },
-      "domain": "general",
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "prohibit",
-          "definition": "vt. 禁止, 阻止, [經] 禁止"
+          "definition": "v. 禁止、阻止"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Company policy prohibits employees from sharing confidential data.",
+          "highlight": [
+            "prohibits"
+          ],
+          "translations": {
+            "zh-TW": "公司政策禁止員工分享機密資料。"
+          }
+        },
+        {
+          "en": "Smoking was prohibited inside the building after the new regulation took effect.",
+          "highlight": [
+            "prohibited"
+          ],
+          "translations": {
+            "zh-TW": "新規定生效後，建築物內禁止吸菸。"
+          }
+        },
+        {
+          "en": "Prohibiting mobile phones during meetings improves overall focus.",
+          "highlight": [
+            "Prohibiting"
+          ],
+          "translations": {
+            "zh-TW": "會議期間禁止使用手機能提升整體專注力。"
+          }
+        }
+      ],
+      "synonyms": [
+        "forbid",
+        "ban",
+        "prevent"
+      ],
+      "antonyms": [
+        "allow",
+        "permit"
+      ],
+      "phrases": [
+        "prohibit from",
+        "strictly prohibited",
+        "prohibit smoking",
+        "prohibit entry"
+      ]
     },
     {
       "id": "B1-312-009",
@@ -228,23 +553,64 @@
       "word": "terminal",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "terminals"
       },
-      "domain": "general",
+      "domain": "transport",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "terminal",
-          "definition": "n. 终端機, 终點, 末端, 極限, 终點站, a. 终點的, 定期的, 致死的, 結尾的, 末端的, 晚期的, [計] 终端; 终端設備"
+          "definition": "n. 航廈、終點站、終端機  a. 末端的、晚期的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Passengers should go to Terminal 2 for all international departures.",
+          "highlight": [
+            "Terminal"
+          ],
+          "translations": {
+            "zh-TW": "旅客所有國際線航班應前往第二航廈。"
+          }
+        },
+        {
+          "en": "Several airport terminals were renovated ahead of the tourism season.",
+          "highlight": [
+            "terminals"
+          ],
+          "translations": {
+            "zh-TW": "幾座機場航廈在觀光旺季前完成了翻新。"
+          }
+        },
+        {
+          "en": "The patient was diagnosed with a terminal illness and required hospice care.",
+          "highlight": [
+            "terminal"
+          ],
+          "translations": {
+            "zh-TW": "病人被診斷出罹患末期疾病，需要安寧照護。"
+          }
+        }
+      ],
+      "synonyms": [
+        "end",
+        "station",
+        "depot"
+      ],
+      "antonyms": [
+        "origin",
+        "start"
+      ],
+      "phrases": [
+        "airport terminal",
+        "bus terminal",
+        "terminal illness",
+        "terminal building"
+      ]
     },
     {
       "id": "B1-312-010",
@@ -258,21 +624,59 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "weekdaies"
+        "plural": "weekdays"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "weekday",
-          "definition": "n. 周日, 平日, [計] 工作日"
+          "definition": "n. 工作日、平日（週一至週五）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The office opens at nine every weekday except national holidays.",
+          "highlight": [
+            "weekday"
+          ],
+          "translations": {
+            "zh-TW": "辦公室每個工作日除了國定假日外，皆於九點開門。"
+          }
+        },
+        {
+          "en": "Trains run more frequently on weekdays than on weekends.",
+          "highlight": [
+            "weekdays"
+          ],
+          "translations": {
+            "zh-TW": "火車在平日比週末班次更密集。"
+          }
+        },
+        {
+          "en": "Hotels often offer lower rates for weekday stays compared to weekends.",
+          "highlight": [
+            "weekday"
+          ],
+          "translations": {
+            "zh-TW": "飯店的平日住宿費率往往比週末便宜。"
+          }
+        }
+      ],
+      "synonyms": [
+        "workday",
+        "business day"
+      ],
+      "antonyms": [
+        "weekend",
+        "holiday"
+      ],
+      "phrases": [
+        "every weekday",
+        "weekday morning",
+        "weekday service",
+        "weekday rate"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
