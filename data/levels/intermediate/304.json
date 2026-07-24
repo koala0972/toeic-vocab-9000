@@ -10,25 +10,66 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "preview",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "previews"
+        "plural": "previews",
+        "present_3rd": "previews",
+        "past": "previewed",
+        "past_participle": "previewed",
+        "ing": "previewing"
       },
-      "domain": "general",
+      "domain": "media",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "preview",
-          "definition": "n. 事先查看, 預览, vt. 事先查看, 預演, [計] 預览"
+          "definition": "n. 預覽、試映、事先查看  v. 預覽、試映、預先審查"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The marketing team previewed the new commercial before the client presentation.",
+          "highlight": [
+            "previewed"
+          ],
+          "translations": {
+            "zh-TW": "行銷團隊在向客戶簡報前先預覽了新的廣告影片。"
+          }
+        },
+        {
+          "en": "Subscribers get a sneak preview of next month's magazine issue.",
+          "highlight": [
+            "preview"
+          ],
+          "translations": {
+            "zh-TW": "訂閱者可以搶先預覽下個月的雜誌內容。"
+          }
+        },
+        {
+          "en": "The studio is previewing the film for focus groups this weekend.",
+          "highlight": [
+            "previewing"
+          ],
+          "translations": {
+            "zh-TW": "片商這個週末正為焦點群體試映這部電影。"
+          }
+        }
+      ],
+      "synonyms": [
+        "sneak peek",
+        "screening",
+        "trailer"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "preview before release",
+        "sneak preview",
+        "preview screening",
+        "press preview"
+      ]
     },
     {
       "id": "B1-304-002",
@@ -37,25 +78,62 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "attendant",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "attendants"
       },
-      "domain": "general",
+      "domain": "service",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "attendant",
-          "definition": "n. 隨从, 侍者, 出席者, a. 侍候的, 伴隨的, 出席的, 在場的"
+          "definition": "n. 服務員、接待員、隨行人員  adj. 伴隨的、附帶的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The parking attendant will hand you the keys when you return.",
+          "highlight": [
+            "attendant"
+          ],
+          "translations": {
+            "zh-TW": "停車場服務員會在你取車時把鑰匙交給你。"
+          }
+        },
+        {
+          "en": "Flight attendants demonstrated the safety procedures before takeoff.",
+          "highlight": [
+            "attendants"
+          ],
+          "translations": {
+            "zh-TW": "空服員在起飛前示範了安全事故程序。"
+          }
+        },
+        {
+          "en": "Every structural innovation comes with attendant risks that engineers must mitigate.",
+          "highlight": [
+            "attendant"
+          ],
+          "translations": {
+            "zh-TW": "每一項結構創新都伴隨著工程師必須化解的相應風險。"
+          }
+        }
+      ],
+      "synonyms": [
+        "server",
+        "usher",
+        "caregiver"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "flight attendant",
+        "parking attendant",
+        "attendant circumstances",
+        "attendant responsibilities"
+      ]
     },
     {
       "id": "B1-304-003",
@@ -64,25 +142,64 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "subscription",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "subscriptions"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "subscription",
-          "definition": "n. 捐献, 訂金, 訂阅, 签署, 同意, [化] 訂購"
+          "definition": "n. 訂閱、訂購、會員訂閱制"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "You can cancel your monthly subscription anytime through the account settings.",
+          "highlight": [
+            "subscription"
+          ],
+          "translations": {
+            "zh-TW": "你可以隨時透過帳戶設定取消月度訂閱。"
+          }
+        },
+        {
+          "en": "Corporate subscriptions to industry newsletters are tax-deductible.",
+          "highlight": [
+            "subscriptions"
+          ],
+          "translations": {
+            "zh-TW": "企業訂閱產業電子報的費用可以抵稅。"
+          }
+        },
+        {
+          "en": "The law firm requests validated subscriptions before granting archive access.",
+          "highlight": [
+            "subscriptions"
+          ],
+          "translations": {
+            "zh-TW": "律師事務所要求驗證有效的訂閱狀態後才會開放典藏存取。"
+          }
+        }
+      ],
+      "synonyms": [
+        "membership",
+        "enrollment",
+        "sign-up"
+      ],
+      "antonyms": [
+        "cancellation",
+        "unsubscription"
+      ],
+      "phrases": [
+        "subscription fee",
+        "cancel subscription",
+        "subscription model",
+        "annual subscription"
+      ]
     },
     {
       "id": "B1-304-004",
@@ -91,25 +208,65 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "manual",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "manuals"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "manual",
-          "definition": "n. 手册, 指南, a. 手的, 手動的, 手工的, 体力的, [計] 人工的, 手動的"
+          "definition": "n. 手冊、說明書、操作指南  adj. 手動的、人工的、體力的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Every new employee receives an employee manual covering company policies.",
+          "highlight": [
+            "manual"
+          ],
+          "translations": {
+            "zh-TW": "每位新進員工都會收到一本涵蓋公司政策的員工手冊。"
+          }
+        },
+        {
+          "en": "The customer support rep referenced the user manuals to resolve the query.",
+          "highlight": [
+            "manuals"
+          ],
+          "translations": {
+            "zh-TW": "客服人員查閱了使用者說明書來解決這個問題。"
+          }
+        },
+        {
+          "en": "Warehouse staff must complete manual data entry into the tracking spreadsheet.",
+          "highlight": [
+            "manual"
+          ],
+          "translations": {
+            "zh-TW": "倉庫人員必須以手動方式將資料輸入追蹤試算表。"
+          }
+        }
+      ],
+      "synonyms": [
+        "handbook",
+        "guide",
+        "instruction"
+      ],
+      "antonyms": [
+        "automatic",
+        "automated"
+      ],
+      "phrases": [
+        "user manual",
+        "manual labor",
+        "manual process",
+        "training manual"
+      ]
     },
     {
       "id": "B1-304-005",
@@ -118,9 +275,9 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "oval",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "ovals"
@@ -130,13 +287,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "oval",
-          "definition": "n. 椭圆形, a. 卵形的, 椭圆形的"
+          "definition": "n. 橢圓形、卵形  adj. 橢圓形的、卵形的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The conference room features an oval table ideal for collaborative meetings.",
+          "highlight": [
+            "oval"
+          ],
+          "translations": {
+            "zh-TW": "會議室配有一張橢圓形會議桌，非常適合協作型會議。"
+          }
+        },
+        {
+          "en": "Several exhibition ovals framed designer logos in glass display cases.",
+          "highlight": [
+            "ovals"
+          ],
+          "translations": {
+            "zh-TW": "幾個橢圓形展框將設計師品牌標誌鑲嵌在玻璃展示櫃中。"
+          }
+        },
+        {
+          "en": "The investor badge features an oval portrait of the recipient.",
+          "highlight": [
+            "oval"
+          ],
+          "translations": {
+            "zh-TW": "投資者徽章上印有持有人的橢圓形肖像。"
+          }
+        }
+      ],
+      "synonyms": [
+        "ellipse",
+        "egg-shaped"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "oval shape",
+        "oval table",
+        "oval office",
+        "oval face"
+      ]
     },
     {
       "id": "B1-304-006",
@@ -145,25 +338,66 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "inventory",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "inventories"
+        "plural": "inventories",
+        "present_3rd": "inventories",
+        "past": "inventoried",
+        "past_participle": "inventoried",
+        "ing": "inventorying"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "inventory",
-          "definition": "n. 详細目录, 存貨清單, vt. 列入详細目录, 清點存貨, [計] 存貨清單"
+          "definition": "n. 存貨、清單、盤點  v. 盤點、列入存貨清單"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The warehouse manager inventories the stock every quarter.",
+          "highlight": [
+            "inventories"
+          ],
+          "translations": {
+            "zh-TW": "倉庫經理每季都會盤點庫存。"
+          }
+        },
+        {
+          "en": "During transit the team inventoried each crate and logged discrepancies.",
+          "highlight": [
+            "inventoried"
+          ],
+          "translations": {
+            "zh-TW": "運送途中，團隊盤點了每個板條箱並記錄了差異。"
+          }
+        },
+        {
+          "en": "The auditor is currently inventorying the office supplies for the annual report.",
+          "highlight": [
+            "inventorying"
+          ],
+          "translations": {
+            "zh-TW": "稽核人員目前正在盤點辦公用品，以供年度報告使用。"
+          }
+        }
+      ],
+      "synonyms": [
+        "stock",
+        "catalog",
+        "stocktake"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "inventory management",
+        "take inventory",
+        "inventory turnover",
+        "out of inventory"
+      ]
     },
     {
       "id": "B1-304-007",
@@ -172,25 +406,68 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "contradict",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "contradicts"
+        "present_3rd": "contradicts",
+        "past": "contradicted",
+        "past_participle": "contradicted",
+        "ing": "contradicting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "contradict",
-          "definition": "vt. 反驳, 與...抵触, 與...矛盾, vi. 反驳"
+          "definition": "v. 反駁、與……矛盾、牴觸"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The witness contradicted the suspect's alibi during cross-examination.",
+          "highlight": [
+            "contradicted"
+          ],
+          "translations": {
+            "zh-TW": "證人在交叉詰問時反駁了嫌疑人的不在場證明。"
+          }
+        },
+        {
+          "en": "The CFO's report contradicts last month's revenue figures.",
+          "highlight": [
+            "contradicts"
+          ],
+          "translations": {
+            "zh-TW": "財務長的報告與上個月的營收數字相互矛盾。"
+          }
+        },
+        {
+          "en": "Two board members spent the meeting contradicting each other on strategy.",
+          "highlight": [
+            "contradicting"
+          ],
+          "translations": {
+            "zh-TW": "兩名董事在會議中就策略方針互相反駁。"
+          }
+        }
+      ],
+      "synonyms": [
+        "refute",
+        "dispute",
+        "oppose"
+      ],
+      "antonyms": [
+        "confirm",
+        "agree",
+        "corroborate"
+      ],
+      "phrases": [
+        "contradict oneself",
+        "contradict the evidence",
+        "contradict a statement",
+        "flatly contradict"
+      ]
     },
     {
       "id": "B1-304-008",
@@ -199,7 +476,6 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "inference",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
@@ -211,13 +487,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "inference",
-          "definition": "n. 推论, [法] 推论, 推理, 推断"
+          "definition": "n. 推論、推斷、推理"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Based on declining sales, a reasonable inference is that demand has softened.",
+          "highlight": [
+            "inference"
+          ],
+          "translations": {
+            "zh-TW": "根據銷量下滑，合理的推論是需求已經轉弱。"
+          }
+        },
+        {
+          "en": "Analysts drew several inferences from the unexpected surge in applications.",
+          "highlight": [
+            "inferences"
+          ],
+          "translations": {
+            "zh-TW": "分析師從申請量意外暴增中得出了幾項推論。"
+          }
+        },
+        {
+          "en": "A faulty inference can mislead an entire market research team.",
+          "highlight": [
+            "inference"
+          ],
+          "translations": {
+            "zh-TW": "一個錯誤的推論可能誤導整個市場研究團隊。"
+          }
+        }
+      ],
+      "synonyms": [
+        "deduction",
+        "conclusion",
+        "implication"
+      ],
+      "antonyms": [
+        "fact",
+        "evidence"
+      ],
+      "phrases": [
+        "draw an inference",
+        "make inferences",
+        "logical inference",
+        "statistical inference"
+      ]
     },
     {
       "id": "B1-304-009",
@@ -226,25 +542,63 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "cellphone",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "cellphones"
       },
-      "domain": "general",
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cellphone",
-          "definition": "n. 蜂窝式便携无線電话；大哥大"
+          "definition": "n. 手機、行動電話"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Employees must silence their cellphones during client meetings.",
+          "highlight": [
+            "cellphones"
+          ],
+          "translations": {
+            "zh-TW": "員工在與客戶開會時必須將手機靜音。"
+          }
+        },
+        {
+          "en": "The rental policy permits one cellphone per consultant during travel.",
+          "highlight": [
+            "cellphone"
+          ],
+          "translations": {
+            "zh-TW": "租賃政策允許每位顧問出差時攜帶一支手機。"
+          }
+        },
+        {
+          "en": "Lost cellphones should be reported to IT support within 24 hours.",
+          "highlight": [
+            "cellphones"
+          ],
+          "translations": {
+            "zh-TW": "遺失的手機應在 24 小時內通報 IT 支援部門。"
+          }
+        }
+      ],
+      "synonyms": [
+        "mobile phone",
+        "smartphone",
+        "handset"
+      ],
+      "antonyms": [
+        "landline"
+      ],
+      "phrases": [
+        "cellphone plan",
+        "cellphone charger",
+        "cellphone signal",
+        "cellphone contract"
+      ]
     },
     {
       "id": "B1-304-010",
@@ -253,26 +607,71 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "compact",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "compacts"
+        "plural": "compacts",
+        "present_3rd": "compacts",
+        "past": "compacted",
+        "past_participle": "compacted",
+        "ing": "compacting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "compact",
-          "definition": "a. 紧凑的, 紧密的, 简洁的, vt. 使紧密結合, 压缩, vi. 变坚實"
+          "definition": "adj. 緊湊的、小巧的、簡潔的  n. 粉盒、小型車、協定  v. 壓縮、使緊密結合"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The compact design of the new laptop suits frequent business travelers.",
+          "highlight": [
+            "compact"
+          ],
+          "translations": {
+            "zh-TW": "新款筆記型電腦的緊湊設計非常適合經常出差的人士。"
+          }
+        },
+        {
+          "en": "Waste management compacted the recyclables before shipping them off.",
+          "highlight": [
+            "compacted"
+          ],
+          "translations": {
+            "zh-TW": "廢棄物管理部門在出貨前先壓縮了可回收物。"
+          }
+        },
+        {
+          "en": "Sales of compact hybrids outpaced full-size sedans this quarter.",
+          "highlight": [
+            "compacts"
+          ],
+          "translations": {
+            "zh-TW": "本季小型油電複合動力車的銷量超越了全尺寸轎車。"
+          }
+        }
+      ],
+      "synonyms": [
+        "condensed",
+        "concise",
+        "compressed"
+      ],
+      "antonyms": [
+        "bulky",
+        "spacious",
+        "expansive"
+      ],
+      "phrases": [
+        "compact camera",
+        "compact car",
+        "powder compact",
+        "compact size"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
