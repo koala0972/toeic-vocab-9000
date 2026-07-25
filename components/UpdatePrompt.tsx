@@ -21,13 +21,11 @@ export default function UpdatePrompt() {
       }
     };
 
-    // 註冊時若有更新，安裝中 service worker 已就位
     const checkActive = async () => {
       try {
         const reg = await navigator.serviceWorker.getRegistration();
         if (!reg) return;
         if (reg.waiting) onUpdate(reg);
-        // 監聽新進場的 worker
         reg.addEventListener('updatefound', () => {
           const sw = reg.installing;
           if (!sw) return;
@@ -42,6 +40,19 @@ export default function UpdatePrompt() {
       }
     };
     checkActive();
+
+    // 備援：每 15 秒 poll 一次 reg.waiting
+    // (handle case where update already finished before listener attached)
+    const pollTimer = setInterval(async () => {
+      try {
+        const reg = await navigator.serviceWorker.getRegistration();
+        if (reg?.waiting) onUpdate(reg);
+      } catch (e) {
+        // ignore
+      }
+    }, 15000);
+
+    return () => clearInterval(pollTimer);
   }, []);
 
   if (!waitingWorker || dismissed) return null;

@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import Script from 'next/script';
 import './globals.css';
+import UpdatePrompt from '@/components/UpdatePrompt';
 
 const SITE_URL = 'https://english-learning-three-gamma.vercel.app';
 
@@ -103,6 +104,7 @@ export default function RootLayout({
       </head>
       <body className="bg-slate-50 text-slate-900 min-h-screen">
         {children}
+        <UpdatePrompt />
         <Script id="sw-register" src="/sw-register.js" strategy="afterInteractive" />
       </body>
     </html>
