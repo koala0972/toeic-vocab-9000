@@ -1,7 +1,7 @@
 {
+  "cefr": "B1",
   "level": 338,
   "tier": "intermediate",
-  "cefr": "B1",
   "words": [
     {
       "id": "B1-338-001",
@@ -12,23 +12,64 @@
       "word": "icy",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "icies"
+        "comparative": "icier",
+        "superlative": "iciest"
       },
-      "domain": "general",
+      "domain": "weather",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "icy",
-          "definition": "a. 冰的, 冰冷的, 冷淡的, 滑溜的"
+          "definition": "a. 冰冷的、結冰的；冷淡的、不友善的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The driver slowed down because the road was icy and dangerous.",
+          "highlight": [
+            "icy"
+          ],
+          "translations": {
+            "zh-TW": "駕駛放慢了速度，因為路面結冰又危險。"
+          }
+        },
+        {
+          "en": "The receptionist gave the visitor an icier welcome than the previous guests had received.",
+          "highlight": [
+            "icier"
+          ],
+          "translations": {
+            "zh-TW": "接待員給這名訪客的招呼，比之前幾位客人得到的更冷淡。"
+          }
+        },
+        {
+          "en": "January was the iciest month on record, with temperatures dropping well below zero.",
+          "highlight": [
+            "iciest"
+          ],
+          "translations": {
+            "zh-TW": "一月是有紀錄以來最冰冷的一個月，氣溫遠降至零度以下。"
+          }
+        }
+      ],
+      "synonyms": [
+        "frosty",
+        "freezing",
+        "glacial"
+      ],
+      "antonyms": [
+        "warm",
+        "friendly"
+      ],
+      "phrases": [
+        "icy road",
+        "icy stare",
+        "icy conditions",
+        "icy tone"
+      ]
     },
     {
       "id": "B1-338-002",
@@ -39,23 +80,64 @@
       "word": "irregular",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "irregulars"
+        "comparative": "more irregular",
+        "superlative": "most irregular"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "irregular",
-          "definition": "n. 不規則物, 不合規格之物, a. 不規則的, 不整齐的, 不合法的"
+          "definition": "a. 不規則的、不整齊的；不定期的、不規律的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The auditor flagged several irregular expense reports for further review.",
+          "highlight": [
+            "irregular"
+          ],
+          "translations": {
+            "zh-TW": "稽核人員標記了幾份不規則的支出報告，以供進一步審查。"
+          }
+        },
+        {
+          "en": "Her heartbeat became more irregular after the intense marathon, concern      ing the medical team.",
+          "highlight": [
+            "more irregular"
+          ],
+          "translations": {
+            "zh-TW": "激烈的馬拉松過後，她的心跳變得更不規律，令醫療團隊擔憂。"
+          }
+        },
+        {
+          "en": "This is the most irregular schedule the airline has ever published in its forty-year history.",
+          "highlight": [
+            "most irregular"
+          ],
+          "translations": {
+            "zh-TW": "這是該航空公司在四十年歷史中公布過最不規律的班表。"
+          }
+        }
+      ],
+      "synonyms": [
+        "uneven",
+        "inconsistent",
+        "abnormal"
+      ],
+      "antonyms": [
+        "regular",
+        "consistent"
+      ],
+      "phrases": [
+        "irregular heartbeat",
+        "irregular verb",
+        "irregular hours",
+        "irregular pattern"
+      ]
     },
     {
       "id": "B1-338-003",
@@ -66,23 +148,68 @@
       "word": "login",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "logins"
+        "plural": "logins",
+        "present_3rd": "logins",
+        "past": "logined",
+        "past_participle": "logined",
+        "ing": "logining"
       },
-      "domain": "general",
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "login",
-          "definition": "[計] 注册(程序), 登記, 用戶注册程序"
+          "definition": "n. 登入、登錄  v. 登入系統"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Please enter your login credentials to access the company portal.",
+          "highlight": [
+            "login"
+          ],
+          "translations": {
+            "zh-TW": "請輸入您的登入憑證以存取公司入口網站。"
+          }
+        },
+        {
+          "en": "The system recorded over five thousand logins within the first hour of the product launch.",
+          "highlight": [
+            "logins"
+          ],
+          "translations": {
+            "zh-TW": "系統紀錄到產品上線第一小時內就有超過五千次登入。"
+          }
+        },
+        {
+          "en": "She has logined to the platform from three different cities this week alone.",
+          "highlight": [
+            "logined"
+          ],
+          "translations": {
+            "zh-TW": "光是本週她就從三個不同城市登入過該平台。"
+          }
+        }
+      ],
+      "synonyms": [
+        "sign-in",
+        "log-on",
+        "authentication"
+      ],
+      "antonyms": [
+        "logout",
+        "sign-off"
+      ],
+      "phrases": [
+        "login credentials",
+        "login page",
+        "login failed",
+        "login ID"
+      ]
     },
     {
       "id": "B1-338-004",
@@ -93,23 +220,64 @@
       "word": "managerial",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "managerials"
+        "comparative": "more managerial",
+        "superlative": "most managerial"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "managerial",
-          "definition": "a. 管理的, [經] 管理上的, 經營上的"
+          "definition": "a. 管理的、經營上的；經理的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The new hire lacks the managerial experience required to lead a team of twenty.",
+          "highlight": [
+            "managerial"
+          ],
+          "translations": {
+            "zh-TW": "這位新進人員缺乏帶領二十人團隊所需的管理經驗。"
+          }
+        },
+        {
+          "en": "Her approach to the project was more managerial than technical, focusing on timelines and budgets.",
+          "highlight": [
+            "more managerial"
+          ],
+          "translations": {
+            "zh-TW": "她對這個專案的做法更偏向管理而非技術，著重於時程與預算。"
+          }
+        },
+        {
+          "en": "The CEO is the most managerial figure in the company, overseeing every division directly.",
+          "highlight": [
+            "most managerial"
+          ],
+          "translations": {
+            "zh-TW": "執行長是公司中最具管理色彩的人物，直接督導每一個部門。"
+          }
+        }
+      ],
+      "synonyms": [
+        "executive",
+        "administrative",
+        "supervisory"
+      ],
+      "antonyms": [
+        "subordinate",
+        "junior"
+      ],
+      "phrases": [
+        "managerial position",
+        "managerial skills",
+        "managerial role",
+        "managerial duties"
+      ]
     },
     {
       "id": "B1-338-005",
@@ -130,13 +298,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "necessity",
-          "definition": "n. 需要, 必需品, 必然, [法] 必要性, 必然性, 必要"
+          "definition": "n. 必要性、需要；必需品"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A reliable internet connection has become a necessity for remote workers.",
+          "highlight": [
+            "necessity"
+          ],
+          "translations": {
+            "zh-TW": "穩定的網路連線已成為遠端工作者的必需品。"
+          }
+        },
+        {
+          "en": "Food, water, and shelter are basic necessities that every government must secure.",
+          "highlight": [
+            "necessities"
+          ],
+          "translations": {
+            "zh-TW": "食物、水和住所是每個政府都必須確保的基本必需品。"
+          }
+        },
+        {
+          "en": "Out of necessity, the small startup adopted open-source software to cut costs.",
+          "highlight": [
+            "necessity"
+          ],
+          "translations": {
+            "zh-TW": "出於需要，這家小新創公司採用了開源軟體來削減成本。"
+          }
+        }
+      ],
+      "synonyms": [
+        "need",
+        "requirement",
+        "essential"
+      ],
+      "antonyms": [
+        "luxury",
+        "option"
+      ],
+      "phrases": [
+        "basic necessity",
+        "of necessity",
+        "necessity is the mother of invention",
+        "daily necessities"
+      ]
     },
     {
       "id": "B1-338-006",
@@ -152,18 +360,57 @@
       "conjugations": {
         "plural": "planners"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "planner",
-          "definition": "n. 計劃者, 設計者, 安排者, [機] 刨床機"
+          "definition": "n. 計畫者、規劃者；行事曆、記事本"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The city planner presented a new zoning proposal to the council.",
+          "highlight": [
+            "planner"
+          ],
+          "translations": {
+            "zh-TW": "城市規劃師向議會提出了新的分區提案。"
+          }
+        },
+        {
+          "en": "Wedding planners often charge a percentage of the total event budget.",
+          "highlight": [
+            "planners"
+          ],
+          "translations": {
+            "zh-TW": "婚禮統籌師通常收取活動總預算的一定百分比作為費用。"
+          }
+        },
+        {
+          "en": "She wrote every deadline in her planner so nothing would slip through the cracks.",
+          "highlight": [
+            "planner"
+          ],
+          "translations": {
+            "zh-TW": "她把每個截止日期都寫進記事本，這樣就不會有任何遺漏。"
+          }
+        }
+      ],
+      "synonyms": [
+        "organizer",
+        "strategist",
+        "scheduler"
+      ],
+      "antonyms": [
+        "improviser"
+      ],
+      "phrases": [
+        "financial planner",
+        "event planner",
+        "urban planner",
+        "daily planner"
+      ]
     },
     {
       "id": "B1-338-007",
@@ -179,18 +426,57 @@
       "conjugations": {
         "plural": "programmers"
       },
-      "domain": "general",
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "programmer",
-          "definition": "n. 程序員, [計] 程序設計員; 程序員"
+          "definition": "n. 程式設計師、程式開發人員"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The lead programmer fixed the critical bug before the morning release.",
+          "highlight": [
+            "programmer"
+          ],
+          "translations": {
+            "zh-TW": "首席程式設計師在早上的發布前修好了那個關鍵錯誤。"
+          }
+        },
+        {
+          "en": "Many freelance programmers now bid on projects through online platforms.",
+          "highlight": [
+            "programmers"
+          ],
+          "translations": {
+            "zh-TW": "許多接案的程式設計師現在透過線上平台競標專案。"
+          }
+        },
+        {
+          "en": "A skilled programmer can spot performance issues just by reading the code.",
+          "highlight": [
+            "programmer"
+          ],
+          "translations": {
+            "zh-TW": "熟練的程式設計師光讀程式碼就能看出效能問題。"
+          }
+        }
+      ],
+      "synonyms": [
+        "developer",
+        "coder",
+        "software engineer"
+      ],
+      "antonyms": [
+        "end user"
+      ],
+      "phrases": [
+        "computer programmer",
+        "programmer analyst",
+        "junior programmer",
+        "systems programmer"
+      ]
     },
     {
       "id": "B1-338-008",
@@ -201,23 +487,63 @@
       "word": "proofread",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "proofreads"
+        "present_3rd": "proofreads",
+        "past": "proofread",
+        "past_participle": "proofread",
+        "ing": "proofreading"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "proofread",
-          "definition": "vt. 校正, 校對"
+          "definition": "v. 校對、校閱"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Please proofread the contract carefully before signing it.",
+          "highlight": [
+            "proofread"
+          ],
+          "translations": {
+            "zh-TW": "簽署前請仔細校對合約內容。"
+          }
+        },
+        {
+          "en": "She proofread every page of the annual report twice to catch any typographical errors.",
+          "highlight": [
+            "proofread"
+          ],
+          "translations": {
+            "zh-TW": "她把年報的每一頁都校對了兩次，以找出任何印刷錯誤。"
+          }
+        },
+        {
+          "en": "Proofreading the manuscript took longer than writing it, but the publisher demanded perfection.",
+          "highlight": [
+            "Proofreading"
+          ],
+          "translations": {
+            "zh-TW": "校對文稿花的時間比撰寫還長，但出版社要求完美。"
+          }
+        }
+      ],
+      "synonyms": [
+        "check",
+        "edit",
+        "review"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "proofread a document",
+        "carefully proofread",
+        "proofread for errors",
+        "proofread and edit"
+      ]
     },
     {
       "id": "B1-338-009",
@@ -233,18 +559,55 @@
       "conjugations": {
         "plural": "recruiters"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "recruiter",
-          "definition": "n. 招聘人員, 征兵人員"
+          "definition": "n. 招募人員、徵才顧問"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The recruiter interviewed over forty candidates in a single week.",
+          "highlight": [
+            "recruiter"
+          ],
+          "translations": {
+            "zh-TW": "這位招募人員在一週內面試了超過四十位候選人。"
+          }
+        },
+        {
+          "en": "External recruiters are often hired to fill senior executive positions quickly.",
+          "highlight": [
+            "recruiters"
+          ],
+          "translations": {
+            "zh-TW": "外部招募顧問經常被聘來快速補齊高階主管職缺。"
+          }
+        },
+        {
+          "en": "A good recruiter knows how to sell the company culture to top talent.",
+          "highlight": [
+            "recruiter"
+          ],
+          "translations": {
+            "zh-TW": "優秀的招募人員懂得如何向頂尖人才推銷公司文化。"
+          }
+        }
+      ],
+      "synonyms": [
+        "headhunter",
+        "talent scout",
+        "hiring agent"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "executive recruiter",
+        "technical recruiter",
+        "military recruiter",
+        "staffing recruiter"
+      ]
     },
     {
       "id": "B1-338-010",
@@ -265,14 +628,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "remainder",
-          "definition": "n. 剩余物, 其他人, 残余, 余数, v. 削價出售(圖書), a. 剩余的, 出售削價剩書的, [計] 余数"
+          "definition": "n. 剩餘物、其餘部分；餘數"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The remainder of the budget will be allocated to marketing next quarter.",
+          "highlight": [
+            "remainder"
+          ],
+          "translations": {
+            "zh-TW": "剩餘的預算將於下季分配給行銷部門。"
+          }
+        },
+        {
+          "en": "The bookstore sold the remainders of last year's catalog at half price.",
+          "highlight": [
+            "remainders"
+          ],
+          "translations": {
+            "zh-TW": "書店以半價出清去年目錄的剩書。"
+          }
+        },
+        {
+          "en": "Divide seventeen by five and the remainder is two.",
+          "highlight": [
+            "remainder"
+          ],
+          "translations": {
+            "zh-TW": "十七除以五，餘數為二。"
+          }
+        }
+      ],
+      "synonyms": [
+        "residue",
+        "leftover",
+        "remainder"
+      ],
+      "antonyms": [
+        "whole",
+        "entirety"
+      ],
+      "phrases": [
+        "the remainder of",
+        "remainder theorem",
+        "book remainder",
+        "remainder mark"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
