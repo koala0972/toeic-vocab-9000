@@ -12,23 +12,68 @@
       "word": "remodel",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
       "conjugations": {
-        "plural": "remodels"
+        "plural": "remodels",
+        "present_3rd": "remodels",
+        "past": "remodeled",
+        "past_participle": "remodeled",
+        "ing": "remodeling"
       },
-      "domain": "general",
+      "domain": "construction",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "remodel",
-          "definition": "vt. 改造, 改型, 改变"
+          "definition": "vt. 重新塑造、改建、改造  n. 改建工程"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "We plan to remodel the office lobby before the client visits next month.",
+          "highlight": [
+            "remodel"
+          ],
+          "translations": {
+            "zh-TW": "我們打算在下個月客戶來訪之前重新裝修辦公室大廳。"
+          }
+        },
+        {
+          "en": "The contractor remodeled the kitchen, replacing every cabinet and countertop within two weeks.",
+          "highlight": [
+            "remodeled"
+          ],
+          "translations": {
+            "zh-TW": "承包商改建了廚房，在兩週內更換了每個櫥櫃和檯面。"
+          }
+        },
+        {
+          "en": "Remodeling the warehouse will cost more than building a new one from scratch.",
+          "highlight": [
+            "remodeling"
+          ],
+          "translations": {
+            "zh-TW": "改建倉庫的花費會比從零開始蓋一座新的還要多。"
+          }
+        }
+      ],
+      "synonyms": [
+        "renovate",
+        "refurbish",
+        "redo"
+      ],
+      "antonyms": [
+        "demolish",
+        "ruin"
+      ],
+      "phrases": [
+        "remodel a kitchen",
+        "remodel an office",
+        "home remodeling",
+        "remodel project"
+      ]
     },
     {
       "id": "B1-337-002",
@@ -42,20 +87,57 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "statisticses"
+        "plural": "statistics"
       },
-      "domain": "general",
+      "domain": "data",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "statistics",
-          "definition": "n. 统計學, 统計资料, [計] 统計信息"
+          "definition": "n. 統計學、統計資料、統計數字"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The marketing team relies on statistics to measure the success of each campaign.",
+          "highlight": [
+            "statistics"
+          ],
+          "translations": {
+            "zh-TW": "行銷團隊依賴統計數字來衡量每次活動的成效。"
+          }
+        },
+        {
+          "en": "According to recent statistics, online sales have grown by thirty percent this quarter.",
+          "highlight": [
+            "statistics"
+          ],
+          "translations": {
+            "zh-TW": "根據最近的統計資料，本季線上銷售成長了百分之三十。"
+          }
+        },
+        {
+          "en": "She passed the statistics exam with the highest score in her department.",
+          "highlight": [
+            "statistics"
+          ],
+          "translations": {
+            "zh-TW": "她以部門最高的成績通過了統計學考試。"
+          }
+        }
+      ],
+      "synonyms": [
+        "data",
+        "figures",
+        "numbers"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "vital statistics",
+        "statistics show",
+        "official statistics",
+        "compile statistics"
+      ]
     },
     {
       "id": "B1-337-003",
@@ -66,23 +148,62 @@
       "word": "unlimited",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "unlimiteds"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "unlimited",
-          "definition": "a. 无限的, 不受限制的, 无条件的, [經] 无限的, 不定的"
+          "definition": "a. 無限的、不受限制的、無條件的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Premium members enjoy unlimited access to every course on the platform.",
+          "highlight": [
+            "unlimited"
+          ],
+          "translations": {
+            "zh-TW": "高級會員可無限制地使用平台上的每一門課程。"
+          }
+        },
+        {
+          "en": "The company promised an unlimited budget for the research phase of the project.",
+          "highlight": [
+            "unlimited"
+          ],
+          "translations": {
+            "zh-TW": "公司承諾為專案的研究階段提供無上限的預算。"
+          }
+        },
+        {
+          "en": "An unlimited data plan sounds attractive, but most users barely exceed ten gigabytes a month.",
+          "highlight": [
+            "unlimited"
+          ],
+          "translations": {
+            "zh-TW": "無限流量方案聽起來很吸引人，但多數用戶每月用不到十吉咖位元組。"
+          }
+        }
+      ],
+      "synonyms": [
+        "boundless",
+        "unrestricted",
+        "infinite"
+      ],
+      "antonyms": [
+        "limited",
+        "restricted",
+        "finite"
+      ],
+      "phrases": [
+        "unlimited access",
+        "unlimited liability",
+        "unlimited data plan",
+        "unlimited storage"
+      ]
     },
     {
       "id": "B1-337-004",
@@ -98,18 +219,55 @@
       "conjugations": {
         "plural": "zoos"
       },
-      "domain": "general",
+      "domain": "leisure",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "zoo",
-          "definition": "n. 動物园"
+          "definition": "n. 動物園"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The school arranged a field trip to the city zoo for all third graders.",
+          "highlight": [
+            "zoo"
+          ],
+          "translations": {
+            "zh-TW": "學校為所有三年級學生安排了去市立動物園的校外教學。"
+          }
+        },
+        {
+          "en": "Several zoos in the region cooperate on a breeding program for endangered pandas.",
+          "highlight": [
+            "zoos"
+          ],
+          "translations": {
+            "zh-TW": "該地區的幾座動物園合作進行瀕危熊貓的繁殖計畫。"
+          }
+        },
+        {
+          "en": "Working at a zoo requires patience, extensive training, and a genuine love for animals.",
+          "highlight": [
+            "zoo"
+          ],
+          "translations": {
+            "zh-TW": "在動物園工作需要耐心、廣泛的訓練，以及對動物真誠的熱愛。"
+          }
+        }
+      ],
+      "synonyms": [
+        "menagerie",
+        "wildlife park",
+        "animal park"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "petting zoo",
+        "zoo keeper",
+        "city zoo",
+        "zoo animals"
+      ]
     },
     {
       "id": "B1-337-005",
@@ -120,23 +278,70 @@
       "word": "alert",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "alerts"
+        "plural": "alerts",
+        "present_3rd": "alerts",
+        "past": "alerted",
+        "past_participle": "alerted",
+        "ing": "alerting"
       },
-      "domain": "general",
+      "domain": "security",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "alert",
-          "definition": "a. 警觉的, 灵敏的, 留心的, n. 警報, vt. 使警觉, 通知, 使意识到"
+          "definition": "a. 警覺的、機敏的  n. 警報、警戒  vt. 警告、通知"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The IT department sent an alert the moment the server detected unusual login attempts.",
+          "highlight": [
+            "alert"
+          ],
+          "translations": {
+            "zh-TW": "伺服器偵測到異常登入嘗試的那一刻，資訊部門就發出了警報。"
+          }
+        },
+        {
+          "en": "The security guard alerted the manager about a suspicious package left near the entrance.",
+          "highlight": [
+            "alerted"
+          ],
+          "translations": {
+            "zh-TW": "保全人員通知經理，入口附近留有一個可疑包裹。"
+          }
+        },
+        {
+          "en": "Alerting passengers to gate changes is the airline staff's top priority during delays.",
+          "highlight": [
+            "alerting"
+          ],
+          "translations": {
+            "zh-TW": "在航班延誤期間，通知乘客登機門變更是航空地勤人員的首要任務。"
+          }
+        }
+      ],
+      "synonyms": [
+        "alarm",
+        "warning",
+        "vigilant"
+      ],
+      "antonyms": [
+        "unaware",
+        "inattentive",
+        "asleep"
+      ],
+      "phrases": [
+        "on the alert",
+        "raise the alert",
+        "alert system",
+        "stay alert"
+      ]
     },
     {
       "id": "B1-337-006",
@@ -152,18 +357,55 @@
       "conjugations": {
         "plural": "auditoriums"
       },
-      "domain": "general",
+      "domain": "events",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "auditorium",
-          "definition": "n. 聽众席, 礼堂, [醫] 大讲堂, 大會堂"
+          "definition": "n. 觀眾席、禮堂、大會堂"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The annual shareholders meeting will be held in the main auditorium on the ground floor.",
+          "highlight": [
+            "auditorium"
+          ],
+          "translations": {
+            "zh-TW": "年度股東大會將在一樓的主禮堂舉行。"
+          }
+        },
+        {
+          "en": "Two new auditoriums were added to the convention center to accommodate larger conferences.",
+          "highlight": [
+            "auditoriums"
+          ],
+          "translations": {
+            "zh-TW": "會議中心增建了兩座新禮堂，以容納更大型的研討會。"
+          }
+        },
+        {
+          "en": "Please find your seat quickly because the auditorium will be darkened in five minutes.",
+          "highlight": [
+            "auditorium"
+          ],
+          "translations": {
+            "zh-TW": "請迅速就座，因為禮堂將在五分鐘後熄燈。"
+          }
+        }
+      ],
+      "synonyms": [
+        "hall",
+        "theater",
+        "assembly hall"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "school auditorium",
+        "main auditorium",
+        "auditorium seating",
+        "auditorium acoustics"
+      ]
     },
     {
       "id": "B1-337-007",
@@ -174,23 +416,67 @@
       "word": "deduct",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "deducts"
+        "present_3rd": "deducts",
+        "past": "deducted",
+        "past_participle": "deducted",
+        "ing": "deducting"
       },
-      "domain": "general",
+      "domain": "finance",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "deduct",
-          "definition": "vt. 扣除, 减去, [經] 扣除, 减去, 折扣"
+          "definition": "vt. 扣除、減去、折抵"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The payroll system will deduct taxes and insurance premiums from each paycheck automatically.",
+          "highlight": [
+            "deduct"
+          ],
+          "translations": {
+            "zh-TW": "薪資系統會自動從每張薪資單中扣除稅金和保險費。"
+          }
+        },
+        {
+          "en": "Management deducted the damaged equipment cost from the contractor's final invoice.",
+          "highlight": [
+            "deducted"
+          ],
+          "translations": {
+            "zh-TW": "管理層從承包商的最終發票中扣除了損壞設備的費用。"
+          }
+        },
+        {
+          "en": "Deducting business expenses correctly requires careful record keeping throughout the year.",
+          "highlight": [
+            "deducting"
+          ],
+          "translations": {
+            "zh-TW": "正確扣抵業務支出需要一整年仔細保存紀錄。"
+          }
+        }
+      ],
+      "synonyms": [
+        "subtract",
+        "withhold",
+        "take off"
+      ],
+      "antonyms": [
+        "add",
+        "increase",
+        "augment"
+      ],
+      "phrases": [
+        "deduct from",
+        "tax deductible",
+        "deduct expenses",
+        "deduct an amount"
+      ]
     },
     {
       "id": "B1-337-008",
@@ -206,18 +492,59 @@
       "conjugations": {
         "plural": "disruptions"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "disruption",
-          "definition": "n. 分裂, 崩溃, 瓦解"
+          "definition": "n. 中斷、擾亂、分裂、瓦解"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A power outage caused major disruption to the supply chain last weekend.",
+          "highlight": [
+            "disruption"
+          ],
+          "translations": {
+            "zh-TW": "上週末的停電對供應鏈造成了嚴重的中斷。"
+          }
+        },
+        {
+          "en": "Flight disruptions stranded hundreds of passengers at the airport for more than ten hours.",
+          "highlight": [
+            "disruptions"
+          ],
+          "translations": {
+            "zh-TW": "航班大亂讓數百名乘客受困機場超過十個小時。"
+          }
+        },
+        {
+          "en": "The CEO described the new technology as a disruption that would reshape the entire industry.",
+          "highlight": [
+            "disruption"
+          ],
+          "translations": {
+            "zh-TW": "執行長將這項新技術描述為將重塑整個產業的破壞性創新。"
+          }
+        }
+      ],
+      "synonyms": [
+        "interruption",
+        "disturbance",
+        "upheaval"
+      ],
+      "antonyms": [
+        "continuity",
+        "stability",
+        "order"
+      ],
+      "phrases": [
+        "cause disruption",
+        "supply chain disruption",
+        "business disruption",
+        "minimize disruption"
+      ]
     },
     {
       "id": "B1-337-009",
@@ -233,18 +560,55 @@
       "conjugations": {
         "plural": "electricians"
       },
-      "domain": "general",
+      "domain": "trades",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "electrician",
-          "definition": "n. 電學家, 電气技師, 電工, [化] 電工; 電气工人"
+          "definition": "n. 電工、電氣技師"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "We hired a licensed electrician to install additional power outlets in the new conference room.",
+          "highlight": [
+            "electrician"
+          ],
+          "translations": {
+            "zh-TW": "我們雇了一位有執照的電工在新會議室裡安裝額外的電源插座。"
+          }
+        },
+        {
+          "en": "Several electricians were called in after lightning damaged the building's wiring.",
+          "highlight": [
+            "electricians"
+          ],
+          "translations": {
+            "zh-TW": "閃電損壞了建築物的線路之後，幾位電工被請來處理。"
+          }
+        },
+        {
+          "en": "Becoming a certified electrician takes about four years of classroom study and apprenticeship.",
+          "highlight": [
+            "electrician"
+          ],
+          "translations": {
+            "zh-TW": "成為一名有證照的電工大約需要四年的課堂學習與學徒實習。"
+          }
+        }
+      ],
+      "synonyms": [
+        "electrical worker",
+        "wiring specialist",
+        "linesman"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "licensed electrician",
+        "call an electrician",
+        "electrician apprenticeship",
+        "certified electrician"
+      ]
     },
     {
       "id": "B1-337-010",
@@ -260,19 +624,58 @@
       "conjugations": {
         "plural": "graduations"
       },
-      "domain": "general",
+      "domain": "education",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "graduation",
-          "definition": "n. 毕業, 得學位, 分劃, 刻度, 分等級, [醫] 刻度, 分度, 毕業"
+          "definition": "n. 畢業、畢業典禮、得學位"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "After graduation, she plans to work as an intern at a multinational consulting firm.",
+          "highlight": [
+            "graduation"
+          ],
+          "translations": {
+            "zh-TW": "畢業之後，她計畫到一家跨國顧問公司實習。"
+          }
+        },
+        {
+          "en": "Universities schedule spring graduations in late May and fall graduations in early December.",
+          "highlight": [
+            "graduations"
+          ],
+          "translations": {
+            "zh-TW": "各大學將春季畢業典禮安排在五月底，秋季畢業典禮安排在十二月初。"
+          }
+        },
+        {
+          "en": "The graduation rate of the engineering program rose to ninety percent this year.",
+          "highlight": [
+            "graduation"
+          ],
+          "translations": {
+            "zh-TW": "今年工程學程的畢業率上升到了百分之九十。"
+          }
+        }
+      ],
+      "synonyms": [
+        "commencement",
+        "convocation",
+        "degree completion"
+      ],
+      "antonyms": [
+        "enrollment",
+        "matriculation"
+      ],
+      "phrases": [
+        "graduation ceremony",
+        "graduation rate",
+        "after graduation",
+        "graduation cap"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
