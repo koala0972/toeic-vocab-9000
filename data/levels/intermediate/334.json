@@ -1,7 +1,7 @@
 {
+  "cefr": "B1",
   "level": 334,
   "tier": "intermediate",
-  "cefr": "B1",
   "words": [
     {
       "id": "B1-334-001",
@@ -12,23 +12,68 @@
       "word": "merge",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
       "conjugations": {
-        "plural": "merges"
+        "plural": "merges",
+        "present_3rd": "merges",
+        "past": "merged",
+        "past_participle": "merged",
+        "ing": "merging"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "merge",
-          "definition": "vt. 使合并, 使消失, 吞没, vi. 合并, 渐渐消失, [計] 合并"
+          "definition": "v. 合併、融合  n. 合併、匯流（資料處理）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The board decided to merge the two subsidiaries to cut overhead costs.",
+          "highlight": [
+            "merge"
+          ],
+          "translations": {
+            "zh-TW": "董事會決定將兩家子公司合併，以降低營運成本。"
+          }
+        },
+        {
+          "en": "After the firms merged, redundant departments were gradually phased out.",
+          "highlight": [
+            "merged"
+          ],
+          "translations": {
+            "zh-TW": "兩家公司合併後，重疊的部門被逐步裁撤。"
+          }
+        },
+        {
+          "en": "Our developers are merging the customer databases without disrupting service.",
+          "highlight": [
+            "merging"
+          ],
+          "translations": {
+            "zh-TW": "我們的開發團隊正在合併客戶資料庫，全程不中斷服務。"
+          }
+        }
+      ],
+      "synonyms": [
+        "combine",
+        "unite",
+        "integrate"
+      ],
+      "antonyms": [
+        "split",
+        "separate"
+      ],
+      "phrases": [
+        "merge with",
+        "merge into",
+        "merge companies",
+        "traffic merge"
+      ]
     },
     {
       "id": "B1-334-002",
@@ -44,18 +89,57 @@
       "conjugations": {
         "plural": "pharmacists"
       },
-      "domain": "general",
+      "domain": "healthcare",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pharmacist",
-          "definition": "n. 藥師, 藥品商, 藥商, 藥劑師, [醫] 藥師, 調劑員, 藥商"
+          "definition": "n. 藥師、藥劑師"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The pharmacist checked the prescription for potential drug interactions before dispensing it.",
+          "highlight": [
+            "pharmacist"
+          ],
+          "translations": {
+            "zh-TW": "藥師在調劑前先核對處方，確認藥物是否有交互作用。"
+          }
+        },
+        {
+          "en": "Hospital pharmacists often counsel patients on how to take their medications safely.",
+          "highlight": [
+            "pharmacists"
+          ],
+          "translations": {
+            "zh-TW": "醫院的藥師經常指導病人如何安全用藥。"
+          }
+        },
+        {
+          "en": "To become a licensed pharmacist, she completed a six-year pharmacy program and passed the national exam.",
+          "highlight": [
+            "pharmacist"
+          ],
+          "translations": {
+            "zh-TW": "為取得執業藥師資格，她完成六年藥學課程並通過國家考試。"
+          }
+        }
+      ],
+      "synonyms": [
+        "druggist",
+        "apothecary",
+        "chemist"
+      ],
+      "antonyms": [
+        "patient"
+      ],
+      "phrases": [
+        "licensed pharmacist",
+        "hospital pharmacist",
+        "ask the pharmacist",
+        "pharmacist consultation"
+      ]
     },
     {
       "id": "B1-334-003",
@@ -71,18 +155,54 @@
       "conjugations": {
         "plural": "pizzas"
       },
-      "domain": "general",
+      "domain": "food",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pizza",
-          "definition": "n. 比萨饼"
+          "definition": "n. 披薩、義式脆餅"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The team ordered three large pizzas for the lunch meeting.",
+          "highlight": [
+            "pizzas"
+          ],
+          "translations": {
+            "zh-TW": "團隊為午餐會議點了三大份披薩。"
+          }
+        },
+        {
+          "en": "Pizza is the most popular takeout item among office workers on overtime shifts.",
+          "highlight": [
+            "Pizza"
+          ],
+          "translations": {
+            "zh-TW": "披薩是加班上班族最熱門的外帶餐點。"
+          }
+        },
+        {
+          "en": "We always grab a slice of pepperoni pizza from the café downstairs before the weekly review.",
+          "highlight": [
+            "pizza"
+          ],
+          "translations": {
+            "zh-TW": "每週例行檢討前，我們都會到樓下咖啡店買一片義大利辣香腸披薩。"
+          }
+        }
+      ],
+      "synonyms": [
+        "pie",
+        "flatbread"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "pizza delivery",
+        "pizza parlor",
+        "order a pizza",
+        "pizza slice"
+      ]
     },
     {
       "id": "B1-334-004",
@@ -98,18 +218,58 @@
       "conjugations": {
         "plural": "resignations"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "resignation",
-          "definition": "n. 辞职, 辞呈, 聽从, [經] 辞职"
+          "definition": "n. 辭職、辭呈；順從、聽任"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The CFO submitted her resignation, effective at the end of the fiscal quarter.",
+          "highlight": [
+            "resignation"
+          ],
+          "translations": {
+            "zh-TW": "財務長提交辭呈，自本會計季度結束時生效。"
+          }
+        },
+        {
+          "en": "A wave of resignations followed the announcement of the new performance policy.",
+          "highlight": [
+            "resignations"
+          ],
+          "translations": {
+            "zh-TW": "新績效政策公告後，隨之而來的是一波辭職潮。"
+          }
+        },
+        {
+          "en": "He accepted the relocation order with resignation, knowing there was no room to negotiate.",
+          "highlight": [
+            "resignation"
+          ],
+          "translations": {
+            "zh-TW": "他無奈地接受調職命令，心知沒有協商空間。"
+          }
+        }
+      ],
+      "synonyms": [
+        "departure",
+        "quit",
+        "step-down"
+      ],
+      "antonyms": [
+        "appointment",
+        "hiring"
+      ],
+      "phrases": [
+        "submit resignation",
+        "letter of resignation",
+        "accept resignation",
+        "mass resignation"
+      ]
     },
     {
       "id": "B1-334-005",
@@ -125,18 +285,58 @@
       "conjugations": {
         "plural": "reviewers"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "reviewer",
-          "definition": "n. 评论者, 書评作者, 评论家, 劇评家, 報刊评论家"
+          "definition": "n. 評論者、審查者、評審"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The reviewer praised the proposal but asked for more financial detail before approval.",
+          "highlight": [
+            "reviewer"
+          ],
+          "translations": {
+            "zh-TW": "審查人員稱讚這份提案，但要求在核准前補充更多財務細節。"
+          }
+        },
+        {
+          "en": "Two external reviewers were hired to evaluate the research paper objectively.",
+          "highlight": [
+            "reviewers"
+          ],
+          "translations": {
+            "zh-TW": "兩位外部評審受聘，以客觀角度評估這篇研究論文。"
+          }
+        },
+        {
+          "en": "The product reviewer compared three flagship smartphones and ranked them by camera quality.",
+          "highlight": [
+            "reviewer"
+          ],
+          "translations": {
+            "zh-TW": "產品評論員比較了三款旗艦手機，並依相機品質排名。"
+          }
+        }
+      ],
+      "synonyms": [
+        "critic",
+        "evaluator",
+        "assessor"
+      ],
+      "antonyms": [
+        "author",
+        "creator"
+      ],
+      "phrases": [
+        "peer reviewer",
+        "product reviewer",
+        "book reviewer",
+        "external reviewer"
+      ]
     },
     {
       "id": "B1-334-006",
@@ -147,23 +347,68 @@
       "word": "terminate",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "terminates"
+        "present_3rd": "terminates",
+        "past": "terminated",
+        "past_participle": "terminated",
+        "ing": "terminating"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "terminate",
-          "definition": "a. 有結尾的, (可)結束的, vi. 結束, 终止, 滿期, vt. 使停止, 使結束, 使终止, [計] 终止"
+          "definition": "v. 終止、結束、解雇  a. 有結尾的、終結的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Either party may terminate the contract with thirty days' written notice.",
+          "highlight": [
+            "terminate"
+          ],
+          "translations": {
+            "zh-TW": "任一方皆可提前三十天書面通知終止合約。"
+          }
+        },
+        {
+          "en": "The company terminated her employment after repeated violations of the code of conduct.",
+          "highlight": [
+            "terminated"
+          ],
+          "translations": {
+            "zh-TW": "在她屢次違反行為準則之後，公司終止了她的僱用關係。"
+          }
+        },
+        {
+          "en": "HR is in the process of terminating the lease on the unused warehouse space.",
+          "highlight": [
+            "terminating"
+          ],
+          "translations": {
+            "zh-TW": "人資部門正在辦理終止那處閒置倉庫的租約。"
+          }
+        }
+      ],
+      "synonyms": [
+        "end",
+        "cease",
+        "discontinue"
+      ],
+      "antonyms": [
+        "begin",
+        "initiate",
+        "renew"
+      ],
+      "phrases": [
+        "terminate contract",
+        "terminate employment",
+        "terminate session",
+        "terminate lease"
+      ]
     },
     {
       "id": "B1-334-007",
@@ -174,23 +419,65 @@
       "word": "unfamiliar",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "unfamiliars"
+        "comparative": "more unfamiliar",
+        "superlative": "most unfamiliar"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "unfamiliar",
-          "definition": "a. 不熟悉的"
+          "definition": "a. 不熟悉的、陌生的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The new manager felt uneasy in an unfamiliar corporate culture during her first week.",
+          "highlight": [
+            "unfamiliar"
+          ],
+          "translations": {
+            "zh-TW": "新任經理第一週面對陌生的企業文化，感到不太自在。"
+          }
+        },
+        {
+          "en": "Branching into the European market proved more unfamiliar than the executive team had expected.",
+          "highlight": [
+            "more unfamiliar"
+          ],
+          "translations": {
+            "zh-TW": "進軍歐洲市場的高層團隊發現，當地市場比預期更為陌生。"
+          }
+        },
+        {
+          "en": "Among the interns, the Japanese accounting software was the most unfamiliar tool to operate.",
+          "highlight": [
+            "most unfamiliar"
+          ],
+          "translations": {
+            "zh-TW": "對所有實習生而言，那套日本會計軟體是最不熟悉的工具。"
+          }
+        }
+      ],
+      "synonyms": [
+        "unknown",
+        "strange",
+        "foreign"
+      ],
+      "antonyms": [
+        "familiar",
+        "known",
+        "acquainted"
+      ],
+      "phrases": [
+        "unfamiliar with",
+        "unfamiliar territory",
+        "unfamiliar term",
+        "look unfamiliar"
+      ]
     },
     {
       "id": "B1-334-008",
@@ -201,23 +488,61 @@
       "word": "adjacent",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "adjacents"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "adjacent",
-          "definition": "a. 毗連的, 邻近的, 連接的, [機] 相邻的, 邻位的, 交界的"
+          "definition": "a. 鄰近的、毗連的、相鄰的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Our Paris office is adjacent to the main railway station, so commuting is convenient.",
+          "highlight": [
+            "adjacent"
+          ],
+          "translations": {
+            "zh-TW": "我們巴黎辦公室與主要火車站相鄰，通勤十分方便。"
+          }
+        },
+        {
+          "en": "The adjacent building was bought by the same investor and converted into a wellness center.",
+          "highlight": [
+            "adjacent"
+          ],
+          "translations": {
+            "zh-TW": "毗鄰的那棟建築被同一投資人買下，改建成健康中心。"
+          }
+        },
+        {
+          "en": "Delegates sat in the room adjacent to the conference hall to review draft proposals.",
+          "highlight": [
+            "adjacent"
+          ],
+          "translations": {
+            "zh-TW": "代表們坐在會議廳旁的房間裡，檢視提案草稿。"
+          }
+        }
+      ],
+      "synonyms": [
+        "neighboring",
+        "adjoining",
+        "next to"
+      ],
+      "antonyms": [
+        "distant",
+        "remote"
+      ],
+      "phrases": [
+        "adjacent to",
+        "adjacent room",
+        "adjacent building",
+        "adjacent county"
+      ]
     },
     {
       "id": "B1-334-009",
@@ -228,23 +553,69 @@
       "word": "alternate",
       "phonetic": "",
       "pos": [
+        "verb",
+        "adjective",
         "noun"
       ],
       "conjugations": {
-        "plural": "alternates"
+        "plural": "alternates",
+        "present_3rd": "alternates",
+        "past": "alternated",
+        "past_participle": "alternated",
+        "ing": "alternating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "alternate",
-          "definition": "a. 交替的, 轮流的, 間隔的, v. 轮流, (使)交替"
+          "definition": "v. 交替、輪流  a. 交替的、輪流的  n. 替代人選"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The two shifts alternate every two weeks to keep production running around the clock.",
+          "highlight": [
+            "alternate"
+          ],
+          "translations": {
+            "zh-TW": "兩個班次每兩週輪替一次，以維持全天候生產。"
+          }
+        },
+        {
+          "en": "The union and management alternated between negotiation sessions and cooling-off breaks.",
+          "highlight": [
+            "alternated"
+          ],
+          "translations": {
+            "zh-TW": "工會與資方在協商會議和冷卻期的休息之間交替進行。"
+          }
+        },
+        {
+          "en": "On alternate Thursdays, the marketing team reviews campaign metrics with the executive board.",
+          "highlight": [
+            "alternate"
+          ],
+          "translations": {
+            "zh-TW": "每隔一個週四，行銷團隊會與執行董事會檢視活動成效數據。"
+          }
+        }
+      ],
+      "synonyms": [
+        "rotate",
+        "swap",
+        "switch"
+      ],
+      "antonyms": [
+        "continue",
+        "maintain"
+      ],
+      "phrases": [
+        "alternate between",
+        "alternate shifts",
+        "alternate route",
+        "alternate member"
+      ]
     },
     {
       "id": "B1-334-010",
@@ -255,24 +626,68 @@
       "word": "escort",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "escorts"
+        "plural": "escorts",
+        "present_3rd": "escorts",
+        "past": "escorted",
+        "past_participle": "escorted",
+        "ing": "escorting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "escort",
-          "definition": "n. 護送者, 護卫者, 護航舰, vt. 護卫, 護送"
+          "definition": "n. 護送者、護衛、陪同人員  v. 護送、陪同"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A security escort accompanied the VIP delegates from the lobby to the boardroom.",
+          "highlight": [
+            "escort"
+          ],
+          "translations": {
+            "zh-TW": "一名保全護衛陪同貴賓代表從大廳前往董事會議室。"
+          }
+        },
+        {
+          "en": "The assistant escorted the visiting auditors through each department for the inspection.",
+          "highlight": [
+            "escorted"
+          ],
+          "translations": {
+            "zh-TW": "助理陪同來訪的稽核人員逐一巡視每個部門。"
+          }
+        },
+        {
+          "en": "Reception staff are escorting job applicants to the interview suite on the fourteenth floor.",
+          "highlight": [
+            "escorting"
+          ],
+          "translations": {
+            "zh-TW": "櫃檯人員正陪同應徵者前往十四樓的面試室。"
+          }
+        }
+      ],
+      "synonyms": [
+        "accompany",
+        "guide",
+        "usher"
+      ],
+      "antonyms": [
+        "abandon",
+        "desert"
+      ],
+      "phrases": [
+        "escort service",
+        "security escort",
+        "escort to",
+        "armed escort"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
