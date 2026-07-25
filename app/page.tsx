@@ -11,6 +11,7 @@ import {
 } from '@/lib/storage';
 import { DataManager } from '@/components/DataManager';
 import InstallButton from '@/components/InstallButton';
+import UpdatePrompt from '@/components/UpdatePrompt';
 
 const SUPPORTED_LANGS = [
   { code: 'zh-TW', label: '🇹🇼 繁體中文' },
@@ -129,6 +130,7 @@ export default function Home() {
         v0.2 · IndexedDB 本機儲存 + JSON 備份匯出/匯入
       </footer>
       <InstallButton />
+      <UpdatePrompt />
     </main>
   );
 }

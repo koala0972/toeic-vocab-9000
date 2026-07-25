@@ -14,6 +14,7 @@ const STATIC_CACHE = `toeichub-static-${VERSION}`;
 
 const PRECACHE = [
   '/',
+  '/offline.html',
   '/icon-192.png',
   '/icon-512.png',
   '/icon-512-maskable.png',
@@ -114,6 +115,12 @@ async function networkFirst(req) {
   } catch (e) {
     const hit = await cache.match(req);
     if (hit) return hit;
+    // 沒 cache: 對於 HTML 請求, 給離線頁
+    if (isHtmlRequest(req, req.headers.get('Accept'))) {
+      const offlinePage = await cache.match('/offline.html') ||
+        (await caches.open(STATIC_CACHE)).match('/offline.html');
+      if (offlinePage) return offlinePage;
+    }
     return new Response('', { status: 504, statusText: 'Offline' });
   }
 }

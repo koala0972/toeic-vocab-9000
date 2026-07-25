@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#9453d5">
+  <title>離線 · ToeicHub</title>
+  <link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png">
+  <style>
+    * { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; min-height: 100vh; }
+    body {
+      font-family: -apple-system, "Segoe UI", "Noto Sans TC", system-ui, sans-serif;
+      background: linear-gradient(135deg, #9453d5, #5d38c8);
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+    }
+    .card {
+      max-width: 420px;
+      background: rgba(255,255,255,0.10);
+      backdrop-filter: blur(6px);
+      border: 1px solid rgba(255,255,255,0.20);
+      border-radius: 24px;
+      padding: 32px 24px;
+      text-align: center;
+    }
+    .emoji { font-size: 64px; margin-bottom: 12px; }
+    h1 { font-size: 22px; margin: 0 0 8px; font-weight: 700; }
+    p { font-size: 14px; line-height: 1.6; opacity: 0.95; margin: 0 0 16px; }
+    ul { font-size: 13px; text-align: left; opacity: 0.85; padding-left: 20px; line-height: 1.7; margin: 0 0 24px; }
+    a.btn {
+      display: inline-block;
+      background: white;
+      color: #5d38c8;
+      padding: 12px 24px;
+      border-radius: 12px;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    a.btn:hover { background: #f3e8ff; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="emoji" aria-hidden="true">📡</div>
+    <h1>目前離線中</h1>
+    <p>您目前沒有網路連線，以下情況仍可以使用：</p>
+    <ul>
+      <li>看您之前瀏覽過的關卡內容</li>
+      <li>複習已收藏的單字</li>
+      <li>查看學習進度</li>
+    </ul>
+    <p>連上網路後可看到完整功能。</p>
+    <a class="btn" href="/">回首頁</a>
+  </div>
+</body>
+</html>
