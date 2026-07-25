@@ -10,6 +10,7 @@ import {
   migrateFromLocalStorage,
 } from '@/lib/storage';
 import { DataManager } from '@/components/DataManager';
+import InstallButton from '@/components/InstallButton';
 
 const SUPPORTED_LANGS = [
   { code: 'zh-TW', label: '🇹🇼 繁體中文' },
@@ -127,6 +128,7 @@ export default function Home() {
       <footer className="mt-10 text-xs text-slate-400 text-center">
         v0.2 · IndexedDB 本機儲存 + JSON 備份匯出/匯入
       </footer>
+      <InstallButton />
     </main>
   );
 }
