@@ -22,13 +22,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "lunchtime",
-          "definition": "n. 午餐時間"
+          "definition": "n. 午餐時間、午休時段"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The cafeteria is usually crowded during lunchtime, so I prefer to eat at my desk.",
+          "highlight": [
+            "lunchtime"
+          ],
+          "translations": {
+            "zh-TW": "午休時間自助餐廳通常很擠，所以我喜歡在座位上用餐。"
+          }
+        },
+        {
+          "en": "We often schedule client meetings in the morning to avoid conflicting with employees' lunchtimes.",
+          "highlight": [
+            "lunchtimes"
+          ],
+          "translations": {
+            "zh-TW": "我們經常在上午安排客戶會議，以避免和員工的午休時段衝突。"
+          }
+        },
+        {
+          "en": "If you arrive at the restaurant before lunchtime, you will not have to wait for a table.",
+          "highlight": [
+            "lunchtime"
+          ],
+          "translations": {
+            "zh-TW": "如果你在午餐時間之前抵達餐廳，就不必等位子。"
+          }
+        }
+      ],
+      "synonyms": [
+        "noon break",
+        "midday meal",
+        "lunch hour"
+      ],
+      "antonyms": [
+        "dinnertime"
+      ],
+      "phrases": [
+        "at lunchtime",
+        "during lunchtime",
+        "lunchtime meeting",
+        "lunchtime break"
+      ]
     },
     {
       "id": "B1-342-002",
@@ -44,18 +83,59 @@
       "conjugations": {
         "plural": "payrolls"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "payroll",
-          "definition": "n. 工资名單, 饷金名單, 發放的工资總額, [計] 工资表, 工资單"
+          "definition": "n. 薪資名冊、在職員工名單、薪資總額"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The company added twelve new engineers to the payroll after winning the government contract.",
+          "highlight": [
+            "payroll"
+          ],
+          "translations": {
+            "zh-TW": "公司在贏得政府合約後，將十二名新工程師加入了薪資名冊。"
+          }
+        },
+        {
+          "en": "Many small businesses outsource their payrolls to a third-party accounting firm to reduce paperwork.",
+          "highlight": [
+            "payrolls"
+          ],
+          "translations": {
+            "zh-TW": "許多小型企業將薪資作業外包給第三方會計事務所，以減少文書工作。"
+          }
+        },
+        {
+          "en": "The HR director must verify that every temporary worker is off the payroll before the end of the fiscal year.",
+          "highlight": [
+            "payroll"
+          ],
+          "translations": {
+            "zh-TW": "人資主管必須確認每位臨時工都在會計年度結束前從薪資名冊中移除。"
+          }
+        }
+      ],
+      "synonyms": [
+        "wage list",
+        "salary register",
+        "employee roster"
+      ],
+      "antonyms": [
+        "layoff",
+        "dismissal"
+      ],
+      "phrases": [
+        "on the payroll",
+        "off the payroll",
+        "payroll tax",
+        "process payroll",
+        "payroll department"
+      ]
     },
     {
       "id": "B1-342-003",
@@ -66,23 +146,63 @@
       "word": "pharmaceutical",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
       "conjugations": {
         "plural": "pharmaceuticals"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pharmaceutical",
-          "definition": "a. 藥學的, 制藥的, 藥用的, 藥物的, 藥劑師的, 藥師的, n. 藥品, 成藥, 藥劑"
+          "definition": "adj. 製藥的、藥學的  n. 藥品、製藥公司"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The pharmaceutical company invested heavily in research to develop a new vaccine.",
+          "highlight": [
+            "pharmaceutical"
+          ],
+          "translations": {
+            "zh-TW": "這家製藥公司投入大量資金研發新疫苗。"
+          }
+        },
+        {
+          "en": "Strict regulations govern how pharmaceuticals are labeled before they reach consumers.",
+          "highlight": [
+            "pharmaceuticals"
+          ],
+          "translations": {
+            "zh-TW": "在藥品送達消費者之前，有嚴格的法規規範其標示方式。"
+          }
+        },
+        {
+          "en": "Demand for generic pharmaceutical products has risen sharply as hospitals try to cut costs.",
+          "highlight": [
+            "pharmaceutical"
+          ],
+          "translations": {
+            "zh-TW": "隨著醫院設法降低成本，學名藥品的需求大幅上升。"
+          }
+        }
+      ],
+      "synonyms": [
+        "medicinal",
+        "drug",
+        "pharma"
+      ],
+      "antonyms": [
+        "non-medical"
+      ],
+      "phrases": [
+        "pharmaceutical company",
+        "pharmaceutical industry",
+        "pharmaceutical products",
+        "generic pharmaceuticals"
+      ]
     },
     {
       "id": "B1-342-004",
@@ -93,23 +213,64 @@
       "word": "plausible",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "plausibles"
+        "comparative": "more plausible",
+        "superlative": "most plausible"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "plausible",
-          "definition": "a. 貌似真實的, 貌似合理的, 說得煞有其事的, [法] 花言巧語的, 似乎有理的"
+          "definition": "adj. 似乎合理的、貌似可信的、說得通的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The detective concluded that the suspect's alibi was plausible, but he needed more evidence.",
+          "highlight": [
+            "plausible"
+          ],
+          "translations": {
+            "zh-TW": "刑警認定嫌犯的不在場證明似乎合理，但仍需要更多證據。"
+          }
+        },
+        {
+          "en": "After reviewing the data, the analyst's explanation seemed more plausible than the manager's forecast.",
+          "highlight": [
+            "more plausible"
+          ],
+          "translations": {
+            "zh-TW": "在檢視數據後，分析師的解釋似乎比經理的預測更為可信。"
+          }
+        },
+        {
+          "en": "Among the three proposals, the consultant's was the most plausible and required the least capital.",
+          "highlight": [
+            "most plausible"
+          ],
+          "translations": {
+            "zh-TW": "在三份提案當中，顧問的提案最為合理，所需資金也最少。"
+          }
+        }
+      ],
+      "synonyms": [
+        "believable",
+        "credible",
+        "reasonable"
+      ],
+      "antonyms": [
+        "implausible",
+        "unlikely"
+      ],
+      "phrases": [
+        "plausible explanation",
+        "plausible reason",
+        "plausible scenario",
+        "highly plausible"
+      ]
     },
     {
       "id": "B1-342-005",
@@ -120,23 +281,65 @@
       "word": "premium",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "premiums"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "premium",
-          "definition": "n. 額外补贴, 奖金, 奖赏, 保险費, [醫] 保险費"
+          "definition": "n. 保險費、額外費用、贈品  adj. 高級的、溢價的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Healthy customers under thirty typically pay a lower premium for life insurance.",
+          "highlight": [
+            "premium"
+          ],
+          "translations": {
+            "zh-TW": "三十歲以下的健康客戶壽險保費通常較低。"
+          }
+        },
+        {
+          "en": "The airline noticed that travelers were willing to pay a premium for direct flights during peak season.",
+          "highlight": [
+            "premium"
+          ],
+          "translations": {
+            "zh-TW": "航空公司注意到，旅客在旺季願意付較高費用換取直飛航班。"
+          }
+        },
+        {
+          "en": "Annual premiums for commercial property insurance have risen sharply this quarter.",
+          "highlight": [
+            "premiums"
+          ],
+          "translations": {
+            "zh-TW": "本季商用不動產保險的年度保費大幅上漲。"
+          }
+        }
+      ],
+      "synonyms": [
+        "bonus",
+        "extra cost",
+        "high-quality"
+      ],
+      "antonyms": [
+        "discount",
+        "standard"
+      ],
+      "phrases": [
+        "insurance premium",
+        "pay a premium",
+        "premium quality",
+        "annual premium",
+        "at a premium"
+      ]
     },
     {
       "id": "B1-342-006",
@@ -147,23 +350,64 @@
       "word": "safely",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
       "conjugations": {
-        "plural": "safelies"
+        "comparative": "more safely",
+        "superlative": "most safely"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "safely",
-          "definition": "adv. 安全地, 確實地"
+          "definition": "adv. 安全地、無危險地、穩妥地"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The delivery driver ensured the fragile equipment was safely secured before leaving the warehouse.",
+          "highlight": [
+            "safely"
+          ],
+          "translations": {
+            "zh-TW": "送貨司機確認易碎設備已穩妥固定後，才駛離倉庫。"
+          }
+        },
+        {
+          "en": " Employees who handle hazardous chemicals must store them more safely than supplies kept on regular shelves.",
+          "highlight": [
+            "more safely"
+          ],
+          "translations": {
+            "zh-TW": "處理危險化學品的員工，必須比一般貨架上的物品更安全地存放這些物質。"
+          }
+        },
+        {
+          "en": "Of all the proposed routes, the one through the tunnel was judged most safely by the logistics team.",
+          "highlight": [
+            "most safely"
+          ],
+          "translations": {
+            "zh-TW": "在所有提議的路線中，物流團隊評估穿越隧道的那條最為安全。"
+          }
+        }
+      ],
+      "synonyms": [
+        "securely",
+        "without risk",
+        "soundly"
+      ],
+      "antonyms": [
+        "dangerously",
+        "recklessly"
+      ],
+      "phrases": [
+        "arrive safely",
+        "safely stored",
+        "safely delivered",
+        "travel safely"
+      ]
     },
     {
       "id": "B1-342-007",
@@ -174,23 +418,66 @@
       "word": "simplify",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "simplifies"
+        "present_3rd": "simplifies",
+        "past": "simplified",
+        "past_participle": "simplified",
+        "ing": "simplifying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "simplify",
-          "definition": "vt. 單一化, 简單化"
+          "definition": "v. 簡化、使簡明、使更容易"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The IT department released a new app to simplify the expense-reporting process for staff.",
+          "highlight": [
+            "simplify"
+          ],
+          "translations": {
+            "zh-TW": "IT 部門推出了一款新應用程式，以簡化員工的費用申報流程。"
+          }
+        },
+        {
+          "en": "A good presentation simplifies complex data so that senior managers can make quick decisions.",
+          "highlight": [
+            "simplifies"
+          ],
+          "translations": {
+            "zh-TW": "好的簡報會簡化複雜的數據，讓高階主管能快速做出決策。"
+          }
+        },
+        {
+          "en": "By simplifying the supply chain last year, the manufacturer cut delivery times by twenty percent.",
+          "highlight": [
+            "simplifying"
+          ],
+          "translations": {
+            "zh-TW": "去年藉由簡化供應鏈，製造商將交貨時間縮短了百分之二十。"
+          }
+        }
+      ],
+      "synonyms": [
+        "streamline",
+        "clarify",
+        "make easier"
+      ],
+      "antonyms": [
+        "complicate",
+        "confuse"
+      ],
+      "phrases": [
+        "simplify the process",
+        "simplify procedures",
+        "simplify data",
+        "simplify operations"
+      ]
     },
     {
       "id": "B1-342-008",
@@ -206,18 +493,59 @@
       "conjugations": {
         "plural": "specialties"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "specialty",
-          "definition": "n. 專業, 專長, 特產, 特制品, 特性, 特點, a. 專門的, 独立的"
+          "definition": "n. 專長、特產、專業領域、招牌商品"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Tax law has long been the specialty of this consulting firm, which serves clients nationwide.",
+          "highlight": [
+            "specialty"
+          ],
+          "translations": {
+            "zh-TW": "稅法一直是這家顧問公司的專長，其客戶遍及全國。"
+          }
+        },
+        {
+          "en": "The bakery offers several seasonal specialties, including chestnut tarts and strawberry shortcake.",
+          "highlight": [
+            "specialties"
+          ],
+          "translations": {
+            "zh-TW": "這家烘焙坊提供多種季節限定招牌商品，包括栗子塔和草莓蛋糕。"
+          }
+        },
+        {
+          "en": "Finding a doctor whose specialty matches your condition can shorten the time to a correct diagnosis.",
+          "highlight": [
+            "specialty"
+          ],
+          "translations": {
+            "zh-TW": "找到專長符合你病情的醫師，可以縮短獲得正確診斷的時間。"
+          }
+        }
+      ],
+      "synonyms": [
+        "expertise",
+        "specialty",
+        "signature product"
+      ],
+      "antonyms": [
+        "general knowledge",
+        "amateur"
+      ],
+      "phrases": [
+        "house specialty",
+        "medical specialty",
+        "regional specialty",
+        "specialty store",
+        "chef's specialty"
+      ]
     },
     {
       "id": "B1-342-009",
@@ -233,18 +561,58 @@
       "conjugations": {
         "plural": "techs"
       },
-      "domain": "general",
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tech",
-          "definition": "n. 技術學院或學校"
+          "definition": "n. 科技業、技術、科技產品、技術人員"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The startup has attracted many investors because it operates in the fast-growing tech sector.",
+          "highlight": [
+            "tech"
+          ],
+          "translations": {
+            "zh-TW": "這家新創公司因為經營快速成長的科技業而吸引了許多投資人。"
+          }
+        },
+        {
+          "en": "Experienced techs are in high demand at hospitals that upgrade their scanning equipment every few years.",
+          "highlight": [
+            "techs"
+          ],
+          "translations": {
+            "zh-TW": "每幾年就會升級掃描設備的醫院，對經驗豐富的技術人員需求很高。"
+          }
+        },
+        {
+          "en": "Adopting new tech can boost productivity, but staff need proper training to use it effectively.",
+          "highlight": [
+            "tech"
+          ],
+          "translations": {
+            "zh-TW": "採用新科技可以提升生產力，但員工需要適當的培訓才能有效使用。"
+          }
+        }
+      ],
+      "synonyms": [
+        "technology",
+        "IT",
+        "technician"
+      ],
+      "antonyms": [
+        "low-tech"
+      ],
+      "phrases": [
+        "high tech",
+        "tech industry",
+        "tech company",
+        "tech support",
+        "tech sector"
+      ]
     },
     {
       "id": "B1-342-010",
@@ -255,24 +623,61 @@
       "word": "unspecified",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "unspecifieds"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "unspecified",
-          "definition": "a. 未特别指出的, 未特别提到的"
+          "definition": "adj. 未指明的、未具體說明的、未指定的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The tender notice mentioned an unspecified sum for the renovation of the office tower.",
+          "highlight": [
+            "unspecified"
+          ],
+          "translations": {
+            "zh-TW": "招標公告提到一筆未具體說明的金額，用於辦公大樓的翻修。"
+          }
+        },
+        {
+          "en": "When the shipping date is unspecified, customers often call to confirm the expected arrival window.",
+          "highlight": [
+            "unspecified"
+          ],
+          "translations": {
+            "zh-TW": "當出貨日期未指明時，顧客通常會來電確認預計抵達的時段。"
+          }
+        },
+        {
+          "en": "The press release stated that the partnership would last for an unspecified period before being renewed.",
+          "highlight": [
+            "unspecified"
+          ],
+          "translations": {
+            "zh-TW": "新聞稿指出，該合作關係將持續未指明的期限後再行續約。"
+          }
+        }
+      ],
+      "synonyms": [
+        "unmentioned",
+        "unstated",
+        "vague"
+      ],
+      "antonyms": [
+        "specified",
+        "stated"
+      ],
+      "phrases": [
+        "unspecified amount",
+        "unspecified period",
+        "unspecified reasons",
+        "remain unspecified"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
