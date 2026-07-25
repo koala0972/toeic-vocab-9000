@@ -64,14 +64,9 @@ export default function AffiliatePopup({ open, onClose, trigger }: AffiliatePopu
       {/* Card */}
       <div className="relative w-full max-w-3xl rounded-2xl bg-white shadow-2xl overflow-hidden animate-in fade-in zoom-in-95">
         <div className="flex items-center justify-between border-b border-slate-100 p-5">
-          <div>
-            <h2 id="affiliate-title" className="text-lg font-bold text-slate-800">
-              推薦給你的學習資源
-            </h2>
-            <p className="text-xs text-slate-500 mt-0.5">
-              完成關卡的實用工具 · 點擊為你誠摯推薦
-            </p>
-          </div>
+          <h2 id="affiliate-title" className="text-lg font-bold text-slate-800">
+            推薦給你的學習資源
+          </h2>
           <button
             ref={closeRef}
             onClick={onClose}
@@ -104,7 +99,6 @@ export default function AffiliatePopup({ open, onClose, trigger }: AffiliatePopu
                 <div className="text-sm font-semibold text-slate-800 leading-tight line-clamp-2">
                   {sku.title}
                 </div>
-                <div className="text-xs text-slate-500 mt-1 line-clamp-1">{sku.subtitle}</div>
                 <div className="text-[11px] text-violet-600 group-hover:underline mt-2 inline-flex items-center gap-1">
                   查看詳情 <span aria-hidden="true">→</span>
                 </div>
