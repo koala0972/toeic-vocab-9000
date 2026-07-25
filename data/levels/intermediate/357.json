@@ -1,7 +1,7 @@
 {
+  "cefr": "B1",
   "level": 357,
   "tier": "intermediate",
-  "cefr": "B1",
   "words": [
     {
       "id": "B1-357-001",
@@ -12,23 +12,66 @@
       "word": "founder",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "founders"
+        "plural": "founders",
+        "present_3rd": "founders",
+        "past": "foundered",
+        "past_participle": "foundered",
+        "ing": "foundering"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "founder",
-          "definition": "n. 創立者, 建立者, vt. 使沉没, 使摔倒, 弄跛, 浸水, 破坏, vi. 沉没, 摔到, 变跛, 倒塌, 失败"
+          "definition": "n. 創辦人、創立者  v. （計畫）失敗、垮掉；（船）沉沒"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The founder of the company still serves on the board of directors.",
+          "highlight": [
+            "founder"
+          ],
+          "translations": {
+            "zh-TW": "公司的創辦人仍在董事會中任職。"
+          }
+        },
+        {
+          "en": "Without fresh capital, the startup foundered within its first year.",
+          "highlight": [
+            "foundered"
+          ],
+          "translations": {
+            "zh-TW": "由於缺乏新資金，這家新創公司在第一年內就失敗收場。"
+          }
+        },
+        {
+          "en": "Several founders were invited to share their entrepreneurial journey at the summit.",
+          "highlight": [
+            "founders"
+          ],
+          "translations": {
+            "zh-TW": "幾位創辦人受邀在高峰會上分享他們的創業歷程。"
+          }
+        }
+      ],
+      "synonyms": [
+        "creator",
+        "establisher",
+        "originator"
+      ],
+      "antonyms": [
+        "destroyer"
+      ],
+      "phrases": [
+        "company founder",
+        "co-founder",
+        "founding member"
+      ]
     },
     {
       "id": "B1-357-002",
@@ -39,23 +82,64 @@
       "word": "fundraise",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "fundraises"
+        "present_3rd": "fundraises",
+        "past": "fundraised",
+        "past_participle": "fundraised",
+        "ing": "fundraising"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "fundraise",
-          "definition": "n. 募捐"
+          "definition": "v. 募款、籌募資金"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The charity plans to fundraise for a new children's hospital next month.",
+          "highlight": [
+            "fundraise"
+          ],
+          "translations": {
+            "zh-TW": "這家慈善機構計畫下個月為新的兒童醫院募款。"
+          }
+        },
+        {
+          "en": "Last year they fundraised over two million dollars for disaster relief.",
+          "highlight": [
+            "fundraised"
+          ],
+          "translations": {
+            "zh-TW": "去年他們為災難救援籌募了超過兩百萬美元。"
+          }
+        },
+        {
+          "en": "She has been fundraising for the arts council since spring.",
+          "highlight": [
+            "fundraising"
+          ],
+          "translations": {
+            "zh-TW": "她從春天起就一直在為藝術委員會募款。"
+          }
+        }
+      ],
+      "synonyms": [
+        "solicit",
+        "canvas",
+        "campaign"
+      ],
+      "antonyms": [
+        "spend"
+      ],
+      "phrases": [
+        "fundraise for",
+        "fundraising event",
+        "fundraising campaign"
+      ]
     },
     {
       "id": "B1-357-003",
@@ -69,20 +153,58 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "graphicses"
+        "plural": "graphics"
       },
-      "domain": "general",
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "graphics",
-          "definition": "n. 制圖法, 制圖學, 圖解算法, 圖形顯示, [計] 圖形; DOS外部命令:打印圖形方式下的屏幕內容"
+          "definition": "n. 圖像、圖形、繪圖學"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The graphics in this presentation need to be updated before the client meeting.",
+          "highlight": [
+            "graphics"
+          ],
+          "translations": {
+            "zh-TW": "這份簡報裡的圖像在客戶會議前需要更新。"
+          }
+        },
+        {
+          "en": "Our design team produces high-quality graphics for marketing campaigns.",
+          "highlight": [
+            "graphics"
+          ],
+          "translations": {
+            "zh-TW": "我們的設計團隊為行銷活動製作高品質的圖像。"
+          }
+        },
+        {
+          "en": "Better graphics help users navigate the dashboard more intuitively.",
+          "highlight": [
+            "graphics"
+          ],
+          "translations": {
+            "zh-TW": "更好的圖形幫助使用者更直覺地操作儀表板。"
+          }
+        }
+      ],
+      "synonyms": [
+        "imagery",
+        "visuals",
+        "illustrations"
+      ],
+      "antonyms": [
+        "text"
+      ],
+      "phrases": [
+        "graphics card",
+        "graphics design",
+        "computer graphics"
+      ]
     },
     {
       "id": "B1-357-004",
@@ -93,23 +215,63 @@
       "word": "handy",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "handies"
+        "comparative": "handier",
+        "superlative": "handiest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "handy",
-          "definition": "a. 便利的, 敏捷的, 容易取得的, [化] 便于使用的; 易操作的"
+          "definition": "a. 方便的、好用的、手邊的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Keep a calculator handy when reviewing the financial statements.",
+          "highlight": [
+            "handy"
+          ],
+          "translations": {
+            "zh-TW": "審查財務報表時，手邊要備好計算機。"
+          }
+        },
+        {
+          "en": "A wireless mouse is handier than a trackpad for long spreadsheets.",
+          "highlight": [
+            "handier"
+          ],
+          "translations": {
+            "zh-TW": "處理冗長的試算表時，無線滑鼠比觸控板更方便。"
+          }
+        },
+        {
+          "en": "This multi-tool is the handiest gadget I keep in my desk drawer.",
+          "highlight": [
+            "handiest"
+          ],
+          "translations": {
+            "zh-TW": "這個多功能工具是我放在辦公桌抽屜裡最實用的小工具。"
+          }
+        }
+      ],
+      "synonyms": [
+        "convenient",
+        "useful",
+        "practical"
+      ],
+      "antonyms": [
+        "cumbersome",
+        "inconvenient"
+      ],
+      "phrases": [
+        "come in handy",
+        "handyman",
+        "handy tip"
+      ]
     },
     {
       "id": "B1-357-005",
@@ -120,23 +282,63 @@
       "word": "hazardous",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "hazardouses"
+        "comparative": "more hazardous",
+        "superlative": "most hazardous"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "hazardous",
-          "definition": "a. 危险的, 冒险的, 碰運气的, [法] 危险的, 冒险的, 碰運气的"
+          "definition": "a. 危險的、有害的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Workers must wear protective gear when handling hazardous materials.",
+          "highlight": [
+            "hazardous"
+          ],
+          "translations": {
+            "zh-TW": "工作人員處理危險物質時必須穿戴防護裝備。"
+          }
+        },
+        {
+          "en": "Driving on ice is more hazardous than driving in heavy rain.",
+          "highlight": [
+            "more hazardous"
+          ],
+          "translations": {
+            "zh-TW": "在結冰路面開車比在大雨中開車更危險。"
+          }
+        },
+        {
+          "en": "Asbestos removal is one of the most hazardous jobs in construction.",
+          "highlight": [
+            "most hazardous"
+          ],
+          "translations": {
+            "zh-TW": "石棉清除是建築業中最危險的工作之一。"
+          }
+        }
+      ],
+      "synonyms": [
+        "dangerous",
+        "risky",
+        "perilous"
+      ],
+      "antonyms": [
+        "safe",
+        "harmless"
+      ],
+      "phrases": [
+        "hazardous waste",
+        "hazardous materials",
+        "hazardous conditions"
+      ]
     },
     {
       "id": "B1-357-006",
@@ -157,13 +359,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "healthcare",
-          "definition": "n. 醫疗保健；卫生保健；健康護理, 健康服務"
+          "definition": "n. 醫療保健、健康照護"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The government increased the healthcare budget for rural areas this year.",
+          "highlight": [
+            "healthcare"
+          ],
+          "translations": {
+            "zh-TW": "政府今年增加了鄉村地區的醫療保健預算。"
+          }
+        },
+        {
+          "en": "Many companies now offer healthcare benefits as part of the package.",
+          "highlight": [
+            "healthcare"
+          ],
+          "translations": {
+            "zh-TW": "許多公司現在將醫療保健福利納入薪酬方案的一部分。"
+          }
+        },
+        {
+          "en": "Rising healthcare costs remain a major concern for retirees.",
+          "highlight": [
+            "healthcare"
+          ],
+          "translations": {
+            "zh-TW": "不斷上升的醫療保健成本仍是退休族的一大隱憂。"
+          }
+        }
+      ],
+      "synonyms": [
+        "medical care",
+        "health services"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "healthcare provider",
+        "healthcare system",
+        "healthcare costs"
+      ]
     },
     {
       "id": "B1-357-007",
@@ -184,13 +421,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "humidity",
-          "definition": "n. 湿气, 潮湿, 湿度, [計] 湿度"
+          "definition": "n. 濕度、潮濕"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "High humidity in the warehouse can damage sensitive electronics.",
+          "highlight": [
+            "humidity"
+          ],
+          "translations": {
+            "zh-TW": "倉庫裡的高濕度可能損壞精密的電子產品。"
+          }
+        },
+        {
+          "en": "The server room maintains low humidity to prevent equipment corrosion.",
+          "highlight": [
+            "humidity"
+          ],
+          "translations": {
+            "zh-TW": "機房維持低濕度以防止設備腐蝕。"
+          }
+        },
+        {
+          "en": "Adjusting indoor humidities improves comfort and productivity in offices.",
+          "highlight": [
+            "humidities"
+          ],
+          "translations": {
+            "zh-TW": "調節室內濕度能提升辦公室的舒適度與生產力。"
+          }
+        }
+      ],
+      "synonyms": [
+        "moisture",
+        "dampness"
+      ],
+      "antonyms": [
+        "dryness",
+        "aridity"
+      ],
+      "phrases": [
+        "relative humidity",
+        "high humidity",
+        "humidity level"
+      ]
     },
     {
       "id": "B1-357-008",
@@ -201,23 +476,63 @@
       "word": "influential",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "influentials"
+        "comparative": "more influential",
+        "superlative": "most influential"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "influential",
-          "definition": "a. 有影响的, 有势力的"
+          "definition": "a. 有影響力的、有權勢的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "She is an influential voice in the renewable energy sector.",
+          "highlight": [
+            "influential"
+          ],
+          "translations": {
+            "zh-TW": "她是再生能源領域中很有影響力的人士。"
+          }
+        },
+        {
+          "en": "Customer reviews are more influential than ads for online shoppers.",
+          "highlight": [
+            "more influential"
+          ],
+          "translations": {
+            "zh-TW": "對線上購物者而言，顧客評論比廣告更具影響力。"
+          }
+        },
+        {
+          "en": "The magazine named her one of the most influential CEOs under forty.",
+          "highlight": [
+            "most influential"
+          ],
+          "translations": {
+            "zh-TW": "這份雜誌將她評為四十歲以下最具影響力的執行長之一。"
+          }
+        }
+      ],
+      "synonyms": [
+        "powerful",
+        "prominent",
+        "significant"
+      ],
+      "antonyms": [
+        "powerless",
+        "obscure"
+      ],
+      "phrases": [
+        "influential figure",
+        "influential role",
+        "highly influential"
+      ]
     },
     {
       "id": "B1-357-009",
@@ -228,23 +543,61 @@
       "word": "nationwide",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "adverb"
       ],
-      "conjugations": {
-        "plural": "nationwides"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "nationwide",
-          "definition": "a. 全國性的, [法] 全國的, 全國范圍的"
+          "definition": "a. 全國性的  adv. 遍及全國地"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The bank launched a nationwide campaign to promote digital wallets.",
+          "highlight": [
+            "nationwide"
+          ],
+          "translations": {
+            "zh-TW": "這家銀行發起了全國性的活動來推廣數位錢包。"
+          }
+        },
+        {
+          "en": "The new tax policy applies nationwide starting next quarter.",
+          "highlight": [
+            "nationwide"
+          ],
+          "translations": {
+            "zh-TW": "新稅制將從下季起在全國實施。"
+          }
+        },
+        {
+          "en": "A nationwide shortage of truck drivers has delayed shipments.",
+          "highlight": [
+            "nationwide"
+          ],
+          "translations": {
+            "zh-TW": "全國性的卡車司機短缺已延誤了貨物配送。"
+          }
+        }
+      ],
+      "synonyms": [
+        "national",
+        "countrywide",
+        "across the country"
+      ],
+      "antonyms": [
+        "local",
+        "regional"
+      ],
+      "phrases": [
+        "nationwide network",
+        "nationwide survey",
+        "nationwide chain"
+      ]
     },
     {
       "id": "B1-357-010",
@@ -255,24 +608,64 @@
       "word": "pad",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "pads"
+        "plural": "pads",
+        "present_3rd": "pads",
+        "past": "padded",
+        "past_participle": "padded",
+        "ing": "padding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pad",
-          "definition": "n. 填补, 衬垫, 印色盒, 路, vt. 填补, 走, 夸大, vi. 步行, [計] 焊接點; 包裝配/拆卸"
+          "definition": "n. 墊子、便箋簿  v. 填補、襯墊"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "She jotted the meeting time on a sticky pad beside her monitor.",
+          "highlight": [
+            "pad"
+          ],
+          "translations": {
+            "zh-TW": "她在螢幕旁的便條紙上記下了開會時間。"
+          }
+        },
+        {
+          "en": "The courier padded the glassware with bubble wrap before shipping.",
+          "highlight": [
+            "padded"
+          ],
+          "translations": {
+            "zh-TW": "快遞員在出貨前用氣泡紙把玻璃器皿包墊好。"
+          }
+        },
+        {
+          "en": "Inspectors found the invoice padded with extra charges not agreed upon.",
+          "highlight": [
+            "padded"
+          ],
+          "translations": {
+            "zh-TW": "稽核人員發現發票被灌入未經同意的額外費用。"
+          }
+        }
+      ],
+      "synonyms": [
+        "cushion",
+        "tablet",
+        "notepad"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "mouse pad",
+        "launch pad",
+        "pad the bill"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
