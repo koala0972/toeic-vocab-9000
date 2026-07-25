@@ -1,7 +1,7 @@
 {
+  "cefr": "B1",
   "level": 352,
   "tier": "intermediate",
-  "cefr": "B1",
   "words": [
     {
       "id": "B1-352-001",
@@ -10,25 +10,66 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "diagnose",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "diagnoses"
+        "present_3rd": "diagnoses",
+        "past": "diagnosed",
+        "past_participle": "diagnosed",
+        "ing": "diagnosing"
       },
-      "domain": "general",
+      "domain": "medicine",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "diagnose",
-          "definition": "v. 診断"
+          "definition": "v. 診斷、判斷（疾病或問題的成因）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The doctor will diagnose the patient based on the blood test results.",
+          "highlight": [
+            "diagnose"
+          ],
+          "translations": {
+            "zh-TW": "醫生會根據血液檢查的結果來診斷這位病人。"
+          }
+        },
+        {
+          "en": "The mechanic diagnosed the engine problem within ten minutes.",
+          "highlight": [
+            "diagnosed"
+          ],
+          "translations": {
+            "zh-TW": "技師在十分鐘內就找出了引擎的故障原因。"
+          }
+        },
+        {
+          "en": "Diagnosing network issues requires specialized software and experience.",
+          "highlight": [
+            "diagnosing"
+          ],
+          "translations": {
+            "zh-TW": "診斷網路問題需要專門的軟體與經驗。"
+          }
+        }
+      ],
+      "synonyms": [
+        "identify",
+        "determine",
+        "detect"
+      ],
+      "antonyms": [
+        "misdiagnose"
+      ],
+      "phrases": [
+        "diagnose a disease",
+        "diagnose a problem",
+        "correctly diagnose",
+        "misdiagnose a condition"
+      ]
     },
     {
       "id": "B1-352-002",
@@ -37,25 +78,69 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "discontinue",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "discontinues"
+        "present_3rd": "discontinues",
+        "past": "discontinued",
+        "past_participle": "discontinued",
+        "ing": "discontinuing"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "discontinue",
-          "definition": "vi. 中断, 终止, 停止, vt. 使中止"
+          "definition": "v. 中止、停止（生產或供應）；不再繼續"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The publisher will discontinue the magazine after the December issue.",
+          "highlight": [
+            "discontinue"
+          ],
+          "translations": {
+            "zh-TW": "出版商將在十二月號之後停刊這本雜誌。"
+          }
+        },
+        {
+          "en": "The manufacturer discontinued this model two years ago due to low sales.",
+          "highlight": [
+            "discontinued"
+          ],
+          "translations": {
+            "zh-TW": "因為銷量不佳，製造商在兩年前就停產了這款型號。"
+          }
+        },
+        {
+          "en": "Discontinuing the service will affect approximately two thousand subscribers.",
+          "highlight": [
+            "discontinuing"
+          ],
+          "translations": {
+            "zh-TW": "停止這項服務將影響大約兩千名訂閱者。"
+          }
+        }
+      ],
+      "synonyms": [
+        "cease",
+        "stop",
+        "halt",
+        "terminate"
+      ],
+      "antonyms": [
+        "continue",
+        "resume",
+        "maintain"
+      ],
+      "phrases": [
+        "discontinue a product",
+        "discontinue service",
+        "discontinued item",
+        "discontinue payments"
+      ]
     },
     {
       "id": "B1-352-003",
@@ -64,25 +149,59 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "dishwasher",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "dishwashers"
       },
-      "domain": "general",
+      "domain": "household",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dishwasher",
-          "definition": "n. 洗碗機, 洗碗工"
+          "definition": "n. 洗碗機；洗碗工"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The landlord installed a new dishwasher in the apartment last week.",
+          "highlight": [
+            "dishwasher"
+          ],
+          "translations": {
+            "zh-TW": "房東上週在公寓裡安裝了一台新的洗碗機。"
+          }
+        },
+        {
+          "en": "Restaurant owners prefer commercial dishwashers that can clean racks in two minutes.",
+          "highlight": [
+            "dishwashers"
+          ],
+          "translations": {
+            "zh-TW": "餐廳老闆偏好能在兩分鐘內清洗一整架餐具的商用洗碗機。"
+          }
+        },
+        {
+          "en": "Loading the dishwasher properly helps the dishes come out spotless.",
+          "highlight": [
+            "dishwasher"
+          ],
+          "translations": {
+            "zh-TW": "正確地擺放洗碗機裡的餐具，才能讓洗出來的餐具一塵不染。"
+          }
+        }
+      ],
+      "synonyms": [
+        "dishwashing machine"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "install a dishwasher",
+        "dishwasher detergent",
+        "load the dishwasher",
+        "commercial dishwasher"
+      ]
     },
     {
       "id": "B1-352-004",
@@ -91,25 +210,65 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "drought",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "droughts"
       },
-      "domain": "general",
+      "domain": "weather",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "drought",
-          "definition": "n. 干旱, 缺乏"
+          "definition": "n. 乾旱；長期缺乏"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The severe drought destroyed nearly half of the region's wheat crop this year.",
+          "highlight": [
+            "drought"
+          ],
+          "translations": {
+            "zh-TW": "嚴重的乾旱今年摧毁了該區將近一半的小麥收成。"
+          }
+        },
+        {
+          "en": "Climate experts warn that prolonged droughts will become more frequent in the coming decades.",
+          "highlight": [
+            "droughts"
+          ],
+          "translations": {
+            "zh-TW": "氣候專家警告，未來數十年長期乾旱將變得更加頻繁。"
+          }
+        },
+        {
+          "en": "Water rationing was introduced after the drought entered its third month.",
+          "highlight": [
+            "drought"
+          ],
+          "translations": {
+            "zh-TW": "在乾旱進入第三個月後，當局開始實施限水措施。"
+          }
+        }
+      ],
+      "synonyms": [
+        "dry spell",
+        "dryness",
+        "aridity"
+      ],
+      "antonyms": [
+        "flood",
+        "rainfall",
+        "abundance"
+      ],
+      "phrases": [
+        "severe drought",
+        "drought conditions",
+        "drought-resistant crops",
+        "end a drought"
+      ]
     },
     {
       "id": "B1-352-005",
@@ -118,25 +277,69 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "economize",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "economizes"
+        "present_3rd": "economizes",
+        "past": "economized",
+        "past_participle": "economized",
+        "ing": "economizing"
       },
-      "domain": "general",
+      "domain": "finance",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "economize",
-          "definition": "v. 節約, 節省, 有效地利用"
+          "definition": "v. 節約、節省開支；有效地利用資源"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Families can economize on groceries by planning meals around weekly sales.",
+          "highlight": [
+            "economize"
+          ],
+          "translations": {
+            "zh-TW": "家庭若依照每週特價來規劃餐點，就能在食品雜貨上節省開支。"
+          }
+        },
+        {
+          "en": "Our department economized by switching to digital documents instead of printing.",
+          "highlight": [
+            "economized"
+          ],
+          "translations": {
+            "zh-TW": "我們部門改用電子文件取代列印，藉此節省開支。"
+          }
+        },
+        {
+          "en": "Economizing on energy helps both the household budget and the environment.",
+          "highlight": [
+            "economizing"
+          ],
+          "translations": {
+            "zh-TW": "在能源上節約，對家庭預算與環境雙方都有幫助。"
+          }
+        }
+      ],
+      "synonyms": [
+        "save",
+        "conserve",
+        "cut back",
+        "scrimp"
+      ],
+      "antonyms": [
+        "waste",
+        "splurge",
+        "overspend"
+      ],
+      "phrases": [
+        "economize on expenses",
+        "economize on fuel",
+        "economize on electricity",
+        "economize by doing"
+      ]
     },
     {
       "id": "B1-352-006",
@@ -145,19 +348,60 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "entrée",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "entrées"
       },
-      "domain": "general",
-      "translations": [],
-      "examples": [],
-      "synonyms": [],
+      "domain": "dining",
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "entrée",
+          "definition": "n.（美式）主菜；（英式）入場權；進入"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The restaurant's signature entrée is grilled salmon with lemon butter sauce.",
+          "highlight": [
+            "entrée"
+          ],
+          "translations": {
+            "zh-TW": "這家餐廳的招牌主菜是用檸檬奶油醬汁調味的烤鮭魚。"
+          }
+        },
+        {
+          "en": "The new menu features three vegetarian entrées priced under twenty dollars.",
+          "highlight": [
+            "entrées"
+          ],
+          "translations": {
+            "zh-TW": "新菜單有三道二十美元以下的素食主菜。"
+          }
+        },
+        {
+          "en": "My friends ordered the steak entrée while I chose roasted vegetable pasta.",
+          "highlight": [
+            "entrée"
+          ],
+          "translations": {
+            "zh-TW": "我的朋友們點了牛排主菜，而我選了烤蔬菜義大利麵。"
+          }
+        }
+      ],
+      "synonyms": [
+        "main course",
+        "main dish"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "signature entrée",
+        "vegetarian entrée",
+        "entrée course",
+        "order an entrée"
+      ]
     },
     {
       "id": "B1-352-007",
@@ -166,25 +410,60 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "firework",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "fireworks"
       },
-      "domain": "general",
+      "domain": "celebration",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "firework",
-          "definition": "n. 烟火具, 烟火, 烟火信號弹, 焰火, 激情的表現"
+          "definition": "n. 煙火（常複數）；激情或憤怒的表現"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "A firework malfunction injured three spectators during the festival's opening ceremony.",
+          "highlight": [
+            "firework"
+          ],
+          "translations": {
+            "zh-TW": "在節慶開幕典禮上，一發煙火失靈導致三名觀眾受傷。"
+          }
+        },
+        {
+          "en": "The city will launch a fireworks display over the harbor at midnight on New Year's Eve.",
+          "highlight": [
+            "fireworks"
+          ],
+          "translations": {
+            "zh-TW": "跨年夜午夜，城市將在港灣上方施放煙火秀。"
+          }
+        },
+        {
+          "en": "Homemade fireworks are illegal in most states due to safety concerns.",
+          "highlight": [
+            "fireworks"
+          ],
+          "translations": {
+            "zh-TW": "基於安全考量，自製煙火在大多數州都是違法的。"
+          }
+        }
+      ],
+      "synonyms": [
+        "pyrotechnics",
+        "sparkler"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "fireworks display",
+        "set off fireworks",
+        "watch fireworks",
+        "fireworks show"
+      ]
     },
     {
       "id": "B1-352-008",
@@ -193,25 +472,66 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "freight",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "freights"
+        "plural": "freights",
+        "present_3rd": "freights",
+        "past": "freighted",
+        "past_participle": "freighted",
+        "ing": "freighting"
       },
-      "domain": "general",
+      "domain": "logistics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "freight",
-          "definition": "n. 船貨, 運費, 貨運, vt. 裝貨, 使充滿, 以貨運運送, 租(或出租)(船等)"
+          "definition": "n. 貨運、運費、貨物  v. 以貨運運送"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The logistics company ships freight by rail to reduce transportation costs.",
+          "highlight": [
+            "freight"
+          ],
+          "translations": {
+            "zh-TW": "這家物流公司靠鐵路運送貨物以降低運輸成本。"
+          }
+        },
+        {
+          "en": "Ocean freight rates have risen sharply due to increased demand and port congestion.",
+          "highlight": [
+            "freight"
+          ],
+          "translations": {
+            "zh-TW": "由於需求增加以及港口壅塞，海運運費已大幅上漲。"
+          }
+        },
+        {
+          "en": "The supplier freighted the heavy machinery to the factory site last week.",
+          "highlight": [
+            "freighted"
+          ],
+          "translations": {
+            "zh-TW": "供應商上週以貨運方式把重型機具運送到了工廠工地。"
+          }
+        }
+      ],
+      "synonyms": [
+        "cargo",
+        "shipment",
+        "goods"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "freight train",
+        "freight charges",
+        "air freight",
+        "freight forwarder"
+      ]
     },
     {
       "id": "B1-352-009",
@@ -220,25 +540,57 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "gallon",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "gallons"
       },
-      "domain": "general",
+      "domain": "measurement",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "gallon",
-          "definition": "n. 加仑, [醫] 加仑"
+          "definition": "n. 加侖（液量單位，美制約 3.785 公升）"
         }
       ],
-      "examples": [],
+      "examples": [
+        {
+          "en": "The price of a gallon of gasoline has dropped by nearly forty cents this month.",
+          "highlight": [
+            "gallon"
+          ],
+          "translations": {
+            "zh-TW": "本月一加侖汽油的價格下跌了將近四十美分。"
+          }
+        },
+        {
+          "en": "The recipe calls for two gallons of milk to make enough custard for the banquet.",
+          "highlight": [
+            "gallons"
+          ],
+          "translations": {
+            "zh-TW": "食譜需要兩加侖的牛奶，才能做出宴會所需的足夠量卡士達醬。"
+          }
+        },
+        {
+          "en": "Farmers pump thousands of gallons of water from the reservoir to irrigate the fields daily.",
+          "highlight": [
+            "gallons"
+          ],
+          "translations": {
+            "zh-TW": "農民每天從水庫抽取數千加侖的水來灌溉農田。"
+          }
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "a gallon of milk",
+        "gallon of gas",
+        "half-gallon",
+        "miles per gallon"
+      ]
     },
     {
       "id": "B1-352-010",
@@ -247,26 +599,61 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "gardener",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "gardeners"
       },
-      "domain": "general",
+      "domain": "occupation",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "gardener",
-          "definition": "n. 园丁, 花匠, 园艺家"
+          "definition": "n. 園丁、花匠；園藝愛好者"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The estate hired a full-time gardener to maintain the gardens and orchards.",
+          "highlight": [
+            "gardener"
+          ],
+          "translations": {
+            "zh-TW": "莊園聘請了一位全職園丁來維護花園與果園。"
+          }
+        },
+        {
+          "en": "Many home gardeners grow tomatoes and herbs on their apartment balconies.",
+          "highlight": [
+            "gardeners"
+          ],
+          "translations": {
+            "zh-TW": "許多家庭園藝愛好者會在公寓陽台上種番茄與香草。"
+          }
+        },
+        {
+          "en": "An experienced gardener can identify plant diseases just by looking at the leaves.",
+          "highlight": [
+            "gardener"
+          ],
+          "translations": {
+            "zh-TW": "經驗豐富的園丁光看葉子就能判斷出植物的病害。"
+          }
+        }
+      ],
+      "synonyms": [
+        "landscaper",
+        "horticulturist",
+        "groundskeeper"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "hire a gardener",
+        "master gardener",
+        "home gardener",
+        "gardener's gloves"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
