@@ -1,7 +1,7 @@
 {
+  "cefr": "B1",
   "level": 343,
   "tier": "intermediate",
-  "cefr": "B1",
   "words": [
     {
       "id": "B1-343-001",
@@ -10,25 +10,66 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "adhere",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "adheres"
+        "present_3rd": "adheres",
+        "past": "adhered",
+        "past_participle": "adhered",
+        "ing": "adhering"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "adhere",
-          "definition": "vi. 依附, 粘着, 坚持, 追隨, 拥護, vt. 使粘附"
+          "definition": "v. 遵守、堅持、依附、黏著"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "All employees must adhere to the company's safety guidelines.",
+          "highlight": [
+            "adhere"
+          ],
+          "translations": {
+            "zh-TW": "所有員工都必須遵守公司的安全規範。"
+          }
+        },
+        {
+          "en": "The supplier adhered strictly to the delivery schedule specified in the contract.",
+          "highlight": [
+            "adhered"
+          ],
+          "translations": {
+            "zh-TW": "供應商嚴格遵守了合約中規定的交付時程。"
+          }
+        },
+        {
+          "en": "By adhering to international quality standards, the firm secured several overseas orders.",
+          "highlight": [
+            "adhering"
+          ],
+          "translations": {
+            "zh-TW": "由於遵守國際品質標準，該公司獲得了幾筆海外訂單。"
+          }
+        }
+      ],
+      "synonyms": [
+        "comply",
+        "conform",
+        "stick"
+      ],
+      "antonyms": [
+        "deviate",
+        "disobey"
+      ],
+      "phrases": [
+        "adhere to",
+        "adhere strictly",
+        "adhere to the rules"
+      ]
     },
     {
       "id": "B1-343-002",
@@ -37,25 +78,69 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "bankrupt",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "bankrupts"
+        "plural": "bankrupts",
+        "present_3rd": "bankrupts",
+        "past": "bankrupted",
+        "past_participle": "bankrupted",
+        "ing": "bankrupting"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bankrupt",
-          "definition": "n. 破產者, a. 破產的, vt. 使破產"
+          "definition": "adj. 破產的  n. 破產者  v. 使破產"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The retail chain went bankrupt after suffering losses for three consecutive years.",
+          "highlight": [
+            "bankrupt"
+          ],
+          "translations": {
+            "zh-TW": "這家零售連鎖店連續三年虧損後宣告破產。"
+          }
+        },
+        {
+          "en": "Several local bankrupts were forced to sell their assets at a steep discount.",
+          "highlight": [
+            "bankrupts"
+          ],
+          "translations": {
+            "zh-TW": "幾位當地的破產者被迫以大幅折扣出售資產。"
+          }
+        },
+        {
+          "en": "Reckless expansion bankrupted the once-profitable firm within two years.",
+          "highlight": [
+            "bankrupted"
+          ],
+          "translations": {
+            "zh-TW": "魯莽的擴張在兩年內使這家曾經獲利的公司破產。"
+          }
+        }
+      ],
+      "synonyms": [
+        "insolvent",
+        "broke",
+        "ruined"
+      ],
+      "antonyms": [
+        "solvent",
+        "wealthy"
+      ],
+      "phrases": [
+        "go bankrupt",
+        "declare bankruptcy",
+        "bankrupt company"
+      ]
     },
     {
       "id": "B1-343-003",
@@ -64,25 +149,68 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "caution",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "cautions"
+        "plural": "cautions",
+        "present_3rd": "cautions",
+        "past": "cautioned",
+        "past_participle": "cautioned",
+        "ing": "cautioning"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "caution",
-          "definition": "n. 小心, 慎重, 警示, vt. 警告, [計] 警告"
+          "definition": "n. 小心、謹慎、警告  v. 警告、提醒"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Investors should exercise caution when trading volatile emerging-market currencies.",
+          "highlight": [
+            "caution"
+          ],
+          "translations": {
+            "zh-TW": "投資人交易波動劇烈的新興市場貨幣時應當謹慎。"
+          }
+        },
+        {
+          "en": "The auditor cautioned the board that revenue figures might be overstated.",
+          "highlight": [
+            "cautioned"
+          ],
+          "translations": {
+            "zh-TW": "查帳員提醒董事會，營收數字可能被高估了。"
+          }
+        },
+        {
+          "en": "Cautioning clients against speculative trades is part of the advisor's duty.",
+          "highlight": [
+            "cautioning"
+          ],
+          "translations": {
+            "zh-TW": "提醒客戶避免投機性交易是顧問的職責之一。"
+          }
+        }
+      ],
+      "synonyms": [
+        "warning",
+        "prudence",
+        "warn"
+      ],
+      "antonyms": [
+        "recklessness",
+        "carelessness"
+      ],
+      "phrases": [
+        "exercise caution",
+        "with caution",
+        "caution sign"
+      ]
     },
     {
       "id": "B1-343-004",
@@ -91,25 +219,68 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "clip",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "clips"
+        "plural": "clips",
+        "present_3rd": "clips",
+        "past": "clipped",
+        "past_participle": "clipped",
+        "ing": "clipping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "clip",
-          "definition": "n. 修剪, 夹子, 回形针, 剪下來的東西, vt. 修剪, 痛打, 夹牢, 剪報, vi. 剪報"
+          "definition": "n. 夾子、影片片段、修剪  v. 修剪、夾住"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Please attach a paper clip to the contract before submitting it to the legal department.",
+          "highlight": [
+            "clip"
+          ],
+          "translations": {
+            "zh-TW": "把合約送到法務部門之前，請先用迴紋針夾好。"
+          }
+        },
+        {
+          "en": "The marketing team clipped the newspaper articles mentioning the new product launch.",
+          "highlight": [
+            "clipped"
+          ],
+          "translations": {
+            "zh-TW": "行銷團隊剪下了所有提及新產品發表的報紙文章。"
+          }
+        },
+        {
+          "en": "She spent the afternoon clipping news sections for the quarterly press review.",
+          "highlight": [
+            "clipping"
+          ],
+          "translations": {
+            "zh-TW": "她整個下午都在剪輯新聞版面，準備季度媒體回顧。"
+          }
+        }
+      ],
+      "synonyms": [
+        "fastener",
+        "cut",
+        "snip"
+      ],
+      "antonyms": [
+        "release",
+        "attach"
+      ],
+      "phrases": [
+        "paper clip",
+        "clip together",
+        "video clip"
+      ]
     },
     {
       "id": "B1-343-005",
@@ -118,25 +289,67 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "comply",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "complies"
+        "present_3rd": "complies",
+        "past": "complied",
+        "past_participle": "complied",
+        "ing": "complying"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "comply",
-          "definition": "vi. 顺从, 依从, [法] 遵守, 承诺, 照做"
+          "definition": "v. 遵守、順從、配合"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Factories must comply with strict environmental regulations to keep operating.",
+          "highlight": [
+            "comply"
+          ],
+          "translations": {
+            "zh-TW": "工廠必須遵守嚴格的環保法規才能繼續營運。"
+          }
+        },
+        {
+          "en": "The manufacturer complied with every clause of the export contract without delay.",
+          "highlight": [
+            "complied"
+          ],
+          "translations": {
+            "zh-TW": "製造商毫不遲延地遵守了出口合約中的每一項條款。"
+          }
+        },
+        {
+          "en": "By complying with data-privacy laws, the bank avoided hefty fines last year.",
+          "highlight": [
+            "complying"
+          ],
+          "translations": {
+            "zh-TW": "由於遵守資料隱私法規，該銀行去年避免了巨額罰款。"
+          }
+        }
+      ],
+      "synonyms": [
+        "obey",
+        "conform",
+        "accede"
+      ],
+      "antonyms": [
+        "disobey",
+        "resist",
+        "violate"
+      ],
+      "phrases": [
+        "comply with",
+        "comply fully",
+        "comply strictly"
+      ]
     },
     {
       "id": "B1-343-006",
@@ -145,7 +358,6 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "diner",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
@@ -157,13 +369,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "diner",
-          "definition": "n. 用餐者"
+          "definition": "n. 用餐者、餐車式餐廳"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The hotel restaurant can seat over two hundred diners during peak dinner hours.",
+          "highlight": [
+            "diners"
+          ],
+          "translations": {
+            "zh-TW": "飯店餐廳在晚餐尖峰時段可容納兩百多位用餐者。"
+          }
+        },
+        {
+          "en": "A regular diner at this cafe always orders the chef's special salad.",
+          "highlight": [
+            "diner"
+          ],
+          "translations": {
+            "zh-TW": "這家咖啡館的一位常客總是點主廚特製沙拉。"
+          }
+        },
+        {
+          "en": "Late-night diners appreciate the round-the-clock service offered by motorway rest stops.",
+          "highlight": [
+            "diners"
+          ],
+          "translations": {
+            "zh-TW": "深夜用餐的客人很喜歡高速公路休息站提供的全天候服務。"
+          }
+        }
+      ],
+      "synonyms": [
+        "patron",
+        "customer",
+        "guest"
+      ],
+      "antonyms": [
+        "chef",
+        "server"
+      ],
+      "phrases": [
+        "diner menu",
+        "roadside diner",
+        "diner club"
+      ]
     },
     {
       "id": "B1-343-007",
@@ -172,25 +423,69 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "duplicate",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "duplicates"
+        "plural": "duplicates",
+        "present_3rd": "duplicates",
+        "past": "duplicated",
+        "past_participle": "duplicated",
+        "ing": "duplicating"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "duplicate",
-          "definition": "n. 副本, 复本, 复制品, a. 复制的, 二重的, vt. 复制, 使加倍, [計] 复制"
+          "definition": "n. 副本、複製品  v. 複製、使加倍  adj. 完全相同的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Please keep a duplicate of the signed invoice in case the original is lost.",
+          "highlight": [
+            "duplicate"
+          ],
+          "translations": {
+            "zh-TW": "請保留已簽署發票的副本，以防正本遺失。"
+          }
+        },
+        {
+          "en": "The assistant duplicated the report and distributed copies to all department heads.",
+          "highlight": [
+            "duplicated"
+          ],
+          "translations": {
+            "zh-TW": "助理複製了報告，並分發副本給所有部門主管。"
+          }
+        },
+        {
+          "en": "Duplicating confidential files onto personal devices violates company policy.",
+          "highlight": [
+            "duplicating"
+          ],
+          "translations": {
+            "zh-TW": "把機密檔案複製到個人裝置上違反了公司政策。"
+          }
+        }
+      ],
+      "synonyms": [
+        "copy",
+        "replica",
+        "reproduce"
+      ],
+      "antonyms": [
+        "original",
+        "unique"
+      ],
+      "phrases": [
+        "duplicate copy",
+        "in duplicate",
+        "duplicate payment"
+      ]
     },
     {
       "id": "B1-343-008",
@@ -199,25 +494,65 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "eager",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "eagers"
+        "comparative": "eagerer",
+        "superlative": "eagerest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "eager",
-          "definition": "a. 热心的, 渴望的, 热望的"
+          "definition": "adj. 渴望的、熱切的、急切的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The new graduate was eager to prove herself in her first marketing role.",
+          "highlight": [
+            "eager"
+          ],
+          "translations": {
+            "zh-TW": "這位新鮮人急於在自己的第一份行銷工作中證明實力。"
+          }
+        },
+        {
+          "en": "Investors grew eagerer than ever to back the startup after its record-breaking quarter.",
+          "highlight": [
+            "eagerer"
+          ],
+          "translations": {
+            "zh-TW": "在該新創公司締造破紀錄的季度表現後，投資人比以往更加迫不及待想投資。"
+          }
+        },
+        {
+          "en": "Among the candidates, she showed the eagerest appetite for learning the new inventory system.",
+          "highlight": [
+            "eagerest"
+          ],
+          "translations": {
+            "zh-TW": "在所有候選人之中，她展現出最熱切的學習新庫存系統的意願。"
+          }
+        }
+      ],
+      "synonyms": [
+        "keen",
+        "enthusiastic",
+        "anxious"
+      ],
+      "antonyms": [
+        "reluctant",
+        "indifferent",
+        "apathetic"
+      ],
+      "phrases": [
+        "eager to",
+        "eager for",
+        "eager beaver"
+      ]
     },
     {
       "id": "B1-343-009",
@@ -226,25 +561,63 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "economist",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "economists"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "economist",
-          "definition": "n. 經济學者, 經济家, [經] 經济學家"
+          "definition": "n. 經濟學家、經濟學者"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A senior economist at the central bank forecast steady GDP growth for the coming year.",
+          "highlight": [
+            "economist"
+          ],
+          "translations": {
+            "zh-TW": "中央銀行的資深經濟學家預測來年 GDP 將穩定成長。"
+          }
+        },
+        {
+          "en": "Leading economists disagree on whether the interest-rate hike will cool housing prices.",
+          "highlight": [
+            "economists"
+          ],
+          "translations": {
+            "zh-TW": "頂尖經濟學家對於升息能否抑制房價看法不一。"
+          }
+        },
+        {
+          "en": "The chief economist briefed reporters on the latest unemployment figures.",
+          "highlight": [
+            "economist"
+          ],
+          "translations": {
+            "zh-TW": "首席經濟學家向記者簡報了最新的失業數據。"
+          }
+        }
+      ],
+      "synonyms": [
+        "analyst",
+        "scholar",
+        "researcher"
+      ],
+      "antonyms": [
+        "layperson",
+        "amateur"
+      ],
+      "phrases": [
+        "chief economist",
+        "labor economist",
+        "economist forecast"
+      ]
     },
     {
       "id": "B1-343-010",
@@ -253,7 +626,6 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "embassy",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
@@ -265,14 +637,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "embassy",
-          "definition": "n. 大使館, 大使館全体人員, [經] 大使館"
+          "definition": "n. 大使館、使館人員"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The new ambassador presented her credentials to the host country's embassy last week.",
+          "highlight": [
+            "embassy"
+          ],
+          "translations": {
+            "zh-TW": "新任大使上週向駐在國的大使館遞交了到任國書。"
+          }
+        },
+        {
+          "en": "Several embassies issued travel advisories following the unexpected civil unrest.",
+          "highlight": [
+            "embassies"
+          ],
+          "translations": {
+            "zh-TW": "突如其來的社會動盪之後，幾個大使館發布了旅遊警示。"
+          }
+        },
+        {
+          "en": "The embassy staff assisted citizens who had lost their passports abroad.",
+          "highlight": [
+            "embassy"
+          ],
+          "translations": {
+            "zh-TW": "大使館人員協助了在海外遺失護照的公民。"
+          }
+        }
+      ],
+      "synonyms": [
+        "legation",
+        "consulate",
+        "mission"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "embassy staff",
+        "foreign embassy",
+        "at the embassy"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
