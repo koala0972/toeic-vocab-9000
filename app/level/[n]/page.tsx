@@ -17,12 +17,10 @@ import {
   migrateFromLocalStorage,
   getFavorites,
   setFavorites,
-  getAffiliateLastShownAt,
   setAffiliateLastShownAt,
   type FavoriteEntry,
 } from '@/lib/storage';
 import AffiliatePopup from '@/components/AffiliatePopup';
-import { AFFILIATE_THROTTLE_MS } from '@/lib/affiliates';
 
 type LevelPageLang = Exclude<LangCode, 'en'>;
 
@@ -102,26 +100,23 @@ export default function LevelPage() {
       setIdx(idx + 1);
     } else {
       // 最後一題 → 彈出聯盟推薦 + 跳下一關
-      void tryShowAffiliate(`level:${n}`);
+      void triggerAffiliate(`level:${n}`);
       const next = n + 1;
       if (next <= 900) window.location.href = `/level/${next}`;
     }
   }, [data, idx, n]);
 
-  /** 30 天節流: 檢查 last shown; 過期就顯示並更新時間戳 */
-  const tryShowAffiliate = useCallback(async (trigger: string) => {
+  /** 顯示彈窗 (不帶節流限制) */
+  const showAffiliatePop = useCallback(async (trigger: string) => {
     try {
-      const last = await getAffiliateLastShownAt();
-      const now = Date.now();
-      if (last && now - new Date(last).getTime() < AFFILIATE_THROTTLE_MS) return;
-      await setAffiliateLastShownAt(new Date(now).toISOString());
+      await setAffiliateLastShownAt(new Date().toISOString());
       setShowAffiliate(true);
       // eslint-disable-next-line no-console
       console.debug('[affiliate] shown', { trigger });
     } catch (e) {
       // IDB error — silently skip
       // eslint-disable-next-line no-console
-      console.debug('[affiliate] throttle check failed', e);
+      console.debug('[affiliate] show failed', e);
     }
   }, []);
   const goPrev = useCallback(() => {

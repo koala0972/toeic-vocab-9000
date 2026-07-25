@@ -117,9 +117,9 @@ export default function AffiliatePopup({ open, onClose, trigger }: AffiliatePopu
           <button
             onClick={onClose}
             className="hover:text-slate-600"
-            aria-label="不再顯示"
+            aria-label="關閉推薦"
           >
-            30 天內不再顯示
+            關閉推薦
           </button>
         </div>
       </div>
