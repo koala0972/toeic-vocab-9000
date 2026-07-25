@@ -196,6 +196,26 @@ export async function setLastBackupAt(iso: string): Promise<void> {
   await put('lastBackupAt', iso);
 }
 
+// ─────────────── Affiliate popup throttling ───────────────
+
+export async function getAffiliateLastShownAt(): Promise<string | null> {
+  return (await get<string>('affiliateLastShownAt')) ?? null;
+}
+
+export async function setAffiliateLastShownAt(iso: string): Promise<void> {
+  await put('affiliateLastShownAt', iso);
+}
+
+export async function getAffiliateClickCount(): Promise<number> {
+  return (await get<number>('affiliateClickCount')) ?? 0;
+}
+
+export async function incrAffiliateClickCount(): Promise<number> {
+  const next = ((await get<number>('affiliateClickCount')) ?? 0) + 1;
+  await put('affiliateClickCount', next);
+  return next;
+}
+
 // ─────────────── localStorage 一次性遷移 ───────────────
 
 const LEGACY_KEYS = ['lang', 'rate', 'progress', 'favorites'] as const;

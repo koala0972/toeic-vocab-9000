@@ -9,7 +9,6 @@ import type { VocabularyEntry } from '@/lib/types';
 import type { LangCode } from '@/lib/lang';
 import { speak, stopSpeak } from '@/lib/speech';
 import {
-  getLang,
   setLang as setLangPersist,
   getRate,
   setRate as setRatePersist,
@@ -17,8 +16,12 @@ import {
   migrateFromLocalStorage,
   getFavorites,
   setFavorites,
+  getAffiliateLastShownAt,
+  setAffiliateLastShownAt,
   type FavoriteEntry,
 } from '@/lib/storage';
+import AffiliatePopup from '@/components/AffiliatePopup';
+import { AFFILIATE_THROTTLE_MS } from '@/lib/affiliates';
 
 type LevelPageLang = Exclude<LangCode, 'en'>;
 

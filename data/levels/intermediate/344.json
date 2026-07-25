@@ -12,23 +12,64 @@
       "word": "informative",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "informatives"
+        "comparative": "more informative",
+        "superlative": "most informative"
       },
-      "domain": "general",
+      "domain": "communication",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "informative",
-          "definition": "a. 提供消息的, 见聞廣博的"
+          "definition": "a. 提供有用資訊的；增進見聞的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The brochure turned out to be highly informative about the new tax regulations.",
+          "highlight": [
+            "informative"
+          ],
+          "translations": {
+            "zh-TW": "這本手冊對新稅制提供了非常有用的資訊。"
+          }
+        },
+        {
+          "en": "Compared to the previous report, this one is more informative about market trends.",
+          "highlight": [
+            "more informative"
+          ],
+          "translations": {
+            "zh-TW": "和上一份報告相比，這份對市場趨勢提供了更豐富的資訊。"
+          }
+        },
+        {
+          "en": "The keynote was rated the most informative session at the annual conference.",
+          "highlight": [
+            "most informative"
+          ],
+          "translations": {
+            "zh-TW": "這場專題演講被評為年會中最具資訊價值的場次。"
+          }
+        }
+      ],
+      "synonyms": [
+        "instructive",
+        "enlightening",
+        "educational"
+      ],
+      "antonyms": [
+        "uninformative",
+        "unhelpful"
+      ],
+      "phrases": [
+        "informative article",
+        "informative presentation",
+        "highly informative",
+        "informative brochure"
+      ]
     },
     {
       "id": "B1-344-002",
@@ -39,23 +80,65 @@
       "word": "kit",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "kits"
+        "plural": "kits",
+        "present_3rd": "kits",
+        "past": "kitted",
+        "past_participle": "kitted",
+        "ing": "kitting"
       },
-      "domain": "general",
+      "domain": "equipment",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "kit",
-          "definition": "n. 裝備, 工具箱, 成套工具, [計] 成套部件; 成套零件"
+          "definition": "n. 成套工具；配套元件；裝備  v. 為……配備裝備"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Every employee receives a starter kit containing a laptop, badge, and ID manual.",
+          "highlight": [
+            "kit"
+          ],
+          "translations": {
+            "zh-TW": "每位新進員工都會收到一份起始套件，內含筆電、識別證和手冊。"
+          }
+        },
+        {
+          "en": "The maintenance teams kitted themselves out with the latest diagnostic tools before the audit.",
+          "highlight": [
+            "kitted"
+          ],
+          "translations": {
+            "zh-TW": "維修團隊在稽核前為自己配備了最新的診斷工具。"
+          }
+        },
+        {
+          "en": "All technicians are currently kitting out the new production line for the launch.",
+          "highlight": [
+            "kitting"
+          ],
+          "translations": {
+            "zh-TW": "所有技術人員正為新生產線配備設備以迎接上線。"
+          }
+        }
+      ],
+      "synonyms": [
+        "set",
+        "equipment",
+        "gear"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "first-aid kit",
+        "tool kit",
+        "kit out",
+        "survival kit"
+      ]
     },
     {
       "id": "B1-344-003",
@@ -66,23 +149,60 @@
       "word": "locally",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
-      "conjugations": {
-        "plural": "locallies"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "geography",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "locally",
-          "definition": "adv. 地方性地, 局部性地, 在当地"
+          "definition": "adv. 在當地；本地地；局部地"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The company prefers to source its ingredients locally to support nearby farmers.",
+          "highlight": [
+            "locally"
+          ],
+          "translations": {
+            "zh-TW": "公司偏好就近採購原料，以支持當地農民。"
+          }
+        },
+        {
+          "en": "Customers can browse products that are locally produced through the regional catalog.",
+          "highlight": [
+            "locally"
+          ],
+          "translations": {
+            "zh-TW": "顧客可透過區域型錄瀏覽本地生產的商品。"
+          }
+        },
+        {
+          "en": "The chain decided to hire locally for each branch to strengthen community ties.",
+          "highlight": [
+            "locally"
+          ],
+          "translations": {
+            "zh-TW": "該連鎖企業決定各分店在當地招募員工，以強化社區連結。"
+          }
+        }
+      ],
+      "synonyms": [
+        "regionally",
+        "domestically"
+      ],
+      "antonyms": [
+        "nationally",
+        "globally"
+      ],
+      "phrases": [
+        "locally sourced",
+        "locally produced",
+        "locally grown",
+        "hire locally"
+      ]
     },
     {
       "id": "B1-344-004",
@@ -93,23 +213,65 @@
       "word": "mentor",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "mentors"
+        "plural": "mentors",
+        "present_3rd": "mentors",
+        "past": "mentored",
+        "past_participle": "mentored",
+        "ing": "mentoring"
       },
-      "domain": "general",
+      "domain": "career",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mentor",
-          "definition": "n. 指導者, 良師益友"
+          "definition": "n. 導師；良師  v. 指導；擔任……的導師"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Each new hire is paired with a mentor during the first six months.",
+          "highlight": [
+            "mentor"
+          ],
+          "translations": {
+            "zh-TW": "每位新人都會在前六個月被安排一位導師。"
+          }
+        },
+        {
+          "en": "The senior manager mentored several interns who later became full-time analysts.",
+          "highlight": [
+            "mentored"
+          ],
+          "translations": {
+            "zh-TW": "這位資深經理指導過幾位實習生，他們後來都成為正職分析師。"
+          }
+        },
+        {
+          "en": "She is mentoring a group of junior engineers through the certification process.",
+          "highlight": [
+            "mentoring"
+          ],
+          "translations": {
+            "zh-TW": "她正帶領一群初級工程師準備認證考試。"
+          }
+        }
+      ],
+      "synonyms": [
+        "guide",
+        "tutor",
+        "coach"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "mentor program",
+        "mentorship",
+        "mentor a newcomer",
+        "assigned mentor"
+      ]
     },
     {
       "id": "B1-344-005",
@@ -120,23 +282,66 @@
       "word": "nominate",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "nominates"
+        "present_3rd": "nominates",
+        "past": "nominated",
+        "past_participle": "nominated",
+        "ing": "nominating"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "nominate",
-          "definition": "vt. 提名, 任命, 命名, [法] 提名...為候選人, 指定, 推荐"
+          "definition": "vt. 提名；任命；指派"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The board plans to nominate a new chairperson at next month's meeting.",
+          "highlight": [
+            "nominate"
+          ],
+          "translations": {
+            "zh-TW": "董事會計畫在下個月的會議中提名新任主席。"
+          }
+        },
+        {
+          "en": "She was nominated for the innovation award after launching three successful products.",
+          "highlight": [
+            "nominated"
+          ],
+          "translations": {
+            "zh-TW": "她在推出三款成功產品後被提名為創新獎候選人。"
+          }
+        },
+        {
+          "en": "Committee members are currently nominating candidates for next year's leadership role.",
+          "highlight": [
+            "nominating"
+          ],
+          "translations": {
+            "zh-TW": "委員們正為明年的領導職位列舉候選人。"
+          }
+        }
+      ],
+      "synonyms": [
+        "appoint",
+        "designate",
+        "recommend"
+      ],
+      "antonyms": [
+        "dismiss",
+        "remove"
+      ],
+      "phrases": [
+        "nominate someone for",
+        "nominate a candidate",
+        "nominate as chair",
+        "self-nominate"
+      ]
     },
     {
       "id": "B1-344-006",
@@ -147,23 +352,66 @@
       "word": "opt",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "opts"
+        "present_3rd": "opts",
+        "past": "opted",
+        "past_participle": "opted",
+        "ing": "opting"
       },
-      "domain": "general",
+      "domain": "choice",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "opt",
-          "definition": "vi. 選择"
+          "definition": "vi. 選擇；抉擇"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Many employees opt for the flexible work schedule to balance family responsibilities.",
+          "highlight": [
+            "opt"
+          ],
+          "translations": {
+            "zh-TW": "許多員工選擇彈性工時，以兼顧家庭責任。"
+          }
+        },
+        {
+          "en": "Last year the firm opted out of the voluntary insurance scheme to reduce costs.",
+          "highlight": [
+            "opted"
+          ],
+          "translations": {
+            "zh-TW": "去年公司為了降低成本，選擇退出了自願保險方案。"
+          }
+        },
+        {
+          "en": "Customers are opting into the premium tier to access priority support.",
+          "highlight": [
+            "opting"
+          ],
+          "translations": {
+            "zh-TW": "顧客正陸續選擇升級至高級方案，以享有優先客服。"
+          }
+        }
+      ],
+      "synonyms": [
+        "choose",
+        "select",
+        "pick"
+      ],
+      "antonyms": [
+        "reject",
+        "decline"
+      ],
+      "phrases": [
+        "opt for",
+        "opt out of",
+        "opt in",
+        "opt to do something"
+      ]
     },
     {
       "id": "B1-344-007",
@@ -174,23 +422,68 @@
       "word": "parade",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "parades"
+        "plural": "parades",
+        "present_3rd": "parades",
+        "past": "paraded",
+        "past_participle": "paraded",
+        "ing": "parading"
       },
-      "domain": "general",
+      "domain": "event",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "parade",
-          "definition": "n. 游行, 炫耀, 阅兵, v. 游行, 炫耀, (使)列隊行进"
+          "definition": "n. 遊行；閱兵；展示  v. 遊行；列隊行進；展示"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The annual holiday parade drew thousands of spectators to the downtown district.",
+          "highlight": [
+            "parade"
+          ],
+          "translations": {
+            "zh-TW": "一年一度的假日遊行吸引了數千名觀眾來到市中心。"
+          }
+        },
+        {
+          "en": "Employees paraded through the lobby to celebrate the company's tenth anniversary.",
+          "highlight": [
+            "paraded"
+          ],
+          "translations": {
+            "zh-TW": "員工們列隊走過大廳，慶祝公司成立十週年。"
+          }
+        },
+        {
+          "en": "Protesters are parading along Main Street to demand stricter environmental regulations.",
+          "highlight": [
+            "parading"
+          ],
+          "translations": {
+            "zh-TW": "抗議群眾正沿著主街遊行，要求更嚴格的環境法規。"
+          }
+        }
+      ],
+      "synonyms": [
+        "march",
+        "procession",
+        "display"
+      ],
+      "antonyms": [
+        "hide",
+        "conceal"
+      ],
+      "phrases": [
+        "parade through",
+        "holiday parade",
+        "parade ground",
+        "parade one's skills"
+      ]
     },
     {
       "id": "B1-344-008",
@@ -206,18 +499,57 @@
       "conjugations": {
         "plural": "physicians"
       },
-      "domain": "general",
+      "domain": "healthcare",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "physician",
-          "definition": "n. 醫師, 內科醫師, 解除痛苦者, [醫] 主治醫師"
+          "definition": "n. 醫師；內科醫師"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The clinic assigns each patient a primary care physician for ongoing treatment.",
+          "highlight": [
+            "physician"
+          ],
+          "translations": {
+            "zh-TW": "診所會為每位病人指定一位主治醫師進行持續治療。"
+          }
+        },
+        {
+          "en": "Several experienced physicians were hired to expand the new cardiology department.",
+          "highlight": [
+            "physicians"
+          ],
+          "translations": {
+            "zh-TW": "幾位資深醫師被聘任以擴編新的心臟科部門。"
+          }
+        },
+        {
+          "en": "All physicians on staff must renew their certifications every two years.",
+          "highlight": [
+            "physicians"
+          ],
+          "translations": {
+            "zh-TW": "院內所有醫師每兩年必須重新認證執照。"
+          }
+        }
+      ],
+      "synonyms": [
+        "doctor",
+        "medical practitioner",
+        "clinician"
+      ],
+      "antonyms": [
+        "patient"
+      ],
+      "phrases": [
+        "attending physician",
+        "primary care physician",
+        "physician assistant",
+        "consulting physician"
+      ]
     },
     {
       "id": "B1-344-009",
@@ -233,18 +565,54 @@
       "conjugations": {
         "plural": "postages"
       },
-      "domain": "general",
+      "domain": "mail",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "postage",
-          "definition": "n. 郵资, [經] 郵費, 郵资"
+          "definition": "n. 郵資；郵費"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The invoice includes postage for delivery to overseas addresses.",
+          "highlight": [
+            "postage"
+          ],
+          "translations": {
+            "zh-TW": "這份發票包含寄送海外地址的郵資。"
+          }
+        },
+        {
+          "en": "Online orders over fifty dollars qualify for free postages within the country.",
+          "highlight": [
+            "postages"
+          ],
+          "translations": {
+            "zh-TW": "線上訂單滿五十美元即可享有國內免郵資優惠。"
+          }
+        },
+        {
+          "en": "Customers should verify postages on the courier's tracking site before pickup.",
+          "highlight": [
+            "postages"
+          ],
+          "translations": {
+            "zh-TW": "取件前，顧客應在物流業者的追蹤網站上核對郵資。"
+          }
+        }
+      ],
+      "synonyms": [
+        "mail cost",
+        "shipping fee"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "postage paid",
+        "postage due",
+        "prepaid postage",
+        "postage stamp"
+      ]
     },
     {
       "id": "B1-344-010",
@@ -255,24 +623,64 @@
       "word": "recreational",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "recreationals"
+        "comparative": "more recreational",
+        "superlative": "most recreational"
       },
-      "domain": "general",
+      "domain": "leisure",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "recreational",
-          "definition": "a. 消遣的, 娱乐的"
+          "definition": "a. 休閒的；娛樂的；消遣的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The resort offers a wide range of recreational activities for guests of all ages.",
+          "highlight": [
+            "recreational"
+          ],
+          "translations": {
+            "zh-TW": "度假村提供多樣的休閒活動，適合各年齡層的旅客。"
+          }
+        },
+        {
+          "en": "The new community center is more recreational than the old one, with courts and a pool.",
+          "highlight": [
+            "more recreational"
+          ],
+          "translations": {
+            "zh-TW": "新的社區中心比舊的更具休閒功能，設有球場和泳池。"
+          }
+        },
+        {
+          "en": "Lakeview Park has been voted the most recreational spot in the city for families.",
+          "highlight": [
+            "most recreational"
+          ],
+          "translations": {
+            "zh-TW": "湖景公園被評選為全市最適合親子休閒的地點。"
+          }
+        }
+      ],
+      "synonyms": [
+        "leisure",
+        "amateur",
+        "pastime"
+      ],
+      "antonyms": [
+        "professional",
+        "occupational"
+      ],
+      "phrases": [
+        "recreational facilities",
+        "recreational activities",
+        "recreational vehicle",
+        "for recreational purposes"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
