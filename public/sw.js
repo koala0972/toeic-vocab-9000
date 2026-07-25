@@ -8,7 +8,7 @@
  * 注意: Next.js build 出的 _next/static/* JS 我們也想 cache (PWA 標準)
  */
 
-const VERSION = 'v1';
+const VERSION = 'v2';
 const RUNTIME_CACHE = `toeichub-runtime-${VERSION}`;
 const STATIC_CACHE = `toeichub-static-${VERSION}`;
 
