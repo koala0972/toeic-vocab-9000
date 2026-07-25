@@ -100,7 +100,7 @@ export default function LevelPage() {
       setIdx(idx + 1);
     } else {
       // 最後一題 → 彈出聯盟推薦 + 跳下一關
-      void triggerAffiliate(`level:${n}`);
+      void showAffiliatePop(`level:${n}`);
       const next = n + 1;
       if (next <= 900) window.location.href = `/level/${next}`;
     }
