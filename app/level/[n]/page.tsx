@@ -9,6 +9,7 @@ import type { VocabularyEntry } from '@/lib/types';
 import type { LangCode } from '@/lib/lang';
 import { speak, stopSpeak } from '@/lib/speech';
 import {
+  getLang,
   setLang as setLangPersist,
   getRate,
   setRate as setRatePersist,
@@ -43,6 +44,7 @@ export default function LevelPage() {
   const [lang, setLang] = useState<LevelPageLang>('zh-TW');
   const [rate, setRate] = useState<number>(1.0);
   const [showAnswer, setShowAnswer] = useState(true);
+  const [showAffiliate, setShowAffiliate] = useState(false);
 
   // 載入關卡資料
   useEffect(() => {
@@ -99,11 +101,29 @@ export default function LevelPage() {
     if (idx + 1 < data.words.length) {
       setIdx(idx + 1);
     } else {
-      // 最後一題 → 跳下一關
+      // 最後一題 → 彈出聯盟推薦 + 跳下一關
+      void tryShowAffiliate(`level:${n}`);
       const next = n + 1;
       if (next <= 900) window.location.href = `/level/${next}`;
     }
   }, [data, idx, n]);
+
+  /** 30 天節流: 檢查 last shown; 過期就顯示並更新時間戳 */
+  const tryShowAffiliate = useCallback(async (trigger: string) => {
+    try {
+      const last = await getAffiliateLastShownAt();
+      const now = Date.now();
+      if (last && now - new Date(last).getTime() < AFFILIATE_THROTTLE_MS) return;
+      await setAffiliateLastShownAt(new Date(now).toISOString());
+      setShowAffiliate(true);
+      // eslint-disable-next-line no-console
+      console.debug('[affiliate] shown', { trigger });
+    } catch (e) {
+      // IDB error — silently skip
+      // eslint-disable-next-line no-console
+      console.debug('[affiliate] throttle check failed', e);
+    }
+  }, []);
   const goPrev = useCallback(() => {
     setIdx((i) => Math.max(0, i - 1));
   }, []);
@@ -260,6 +280,11 @@ export default function LevelPage() {
         </button>
       </div>
 
+      <AffiliatePopup
+        open={showAffiliate}
+        onClose={() => setShowAffiliate(false)}
+        trigger={`level:${n}`}
+      />
     </main>
   );
 }
