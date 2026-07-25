@@ -17,18 +17,58 @@
       "conjugations": {
         "plural": "spouses"
       },
-      "domain": "general",
+      "domain": "family",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "spouse",
-          "definition": "n. 配偶"
+          "definition": "n. 配偶（指丈夫或妻子）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Employees may add a spouse to their health insurance plan at no extra cost.",
+          "highlight": [
+            "spouse"
+          ],
+          "translations": {
+            "zh-TW": "員工可以免費將配偶加入自己的健康保險計畫。"
+          }
+        },
+        {
+          "en": "Both spouses must sign the joint tax return before it can be submitted.",
+          "highlight": [
+            "spouses"
+          ],
+          "translations": {
+            "zh-TW": "兩位配偶都必須在聯合報稅單上簽名後才能送出。"
+          }
+        },
+        {
+          "en": "The company offers paid leave to an employee whose spouse is hospitalized.",
+          "highlight": [
+            "spouse"
+          ],
+          "translations": {
+            "zh-TW": "公司提供帶薪休假給配偶住院的員工。"
+          }
+        }
+      ],
+      "synonyms": [
+        "partner",
+        "mate",
+        "husband or wife"
+      ],
+      "antonyms": [
+        "single",
+        "bachelor"
+      ],
+      "phrases": [
+        "spouse visa",
+        "surviving spouse",
+        "spouse benefit",
+        "spousal support"
+      ]
     },
     {
       "id": "B1-355-002",
@@ -39,23 +79,67 @@
       "word": "subtract",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "subtracts"
+        "plural": "subtracts",
+        "present_3rd": "subtracts",
+        "past": "subtracted",
+        "past_participle": "subtracted",
+        "ing": "subtracting"
       },
-      "domain": "general",
+      "domain": "math",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "subtract",
-          "definition": "vt. 减去, 扣掉, 减少, vi. 做减法, [計] 减"
+          "definition": "v. 減去、扣除（從總數中拿掉一部分）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Please subtract the shipping fee from the total before issuing the invoice.",
+          "highlight": [
+            "subtract"
+          ],
+          "translations": {
+            "zh-TW": "開立發票前，請從總額中扣除運費。"
+          }
+        },
+        {
+          "en": "The accountant subtracted all allowable expenses and reported the net profit.",
+          "highlight": [
+            "subtracted"
+          ],
+          "translations": {
+            "zh-TW": "會計扣除所有可認列的費用後，申報了淨利。"
+          }
+        },
+        {
+          "en": "By subtracting taxes from gross revenue, the firm arrived at its operating income.",
+          "highlight": [
+            "subtracting"
+          ],
+          "translations": {
+            "zh-TW": "公司從毛收入中扣除稅金後，得出了營業所得。"
+          }
+        }
+      ],
+      "synonyms": [
+        "deduct",
+        "take away",
+        "minus"
+      ],
+      "antonyms": [
+        "add",
+        "increase"
+      ],
+      "phrases": [
+        "subtract from",
+        "subtract the cost",
+        "subtract taxes",
+        "net after subtracting"
+      ]
     },
     {
       "id": "B1-355-003",
@@ -66,23 +150,67 @@
       "word": "vend",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "vends"
+        "plural": "vends",
+        "present_3rd": "vends",
+        "past": "vended",
+        "past_participle": "vended",
+        "ing": "vending"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "vend",
-          "definition": "v. 出售, 从事贩賣"
+          "definition": "v. 出售、販賣（尤指透過機器或小規模通路）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The shop vends organic coffee beans sourced from small farms in Latin America.",
+          "highlight": [
+            "vends"
+          ],
+          "translations": {
+            "zh-TW": "這家店販售來自拉丁美洲小農場的有機咖啡豆。"
+          }
+        },
+        {
+          "en": "Until last year the company vended its products only through catalogues.",
+          "highlight": [
+            "vended"
+          ],
+          "translations": {
+            "zh-TW": "直到去年為止，這家公司只透過型錄販售產品。"
+          }
+        },
+        {
+          "en": "Vending machines in the lobby vend snacks and drinks around the clock.",
+          "highlight": [
+            "vending"
+          ],
+          "translations": {
+            "zh-TW": "大廳的自動販賣機全天候販售零食和飲料。"
+          }
+        }
+      ],
+      "synonyms": [
+        "sell",
+        "offer",
+        "market"
+      ],
+      "antonyms": [
+        "buy",
+        "purchase"
+      ],
+      "phrases": [
+        "vend products",
+        "vend tickets",
+        "vending machine",
+        "vending service"
+      ]
     },
     {
       "id": "B1-355-004",
@@ -98,18 +226,58 @@
       "conjugations": {
         "plural": "yogas"
       },
-      "domain": "general",
+      "domain": "health",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "yoga",
-          "definition": "n. 瑜珈"
+          "definition": "n. 瑜珈（融合呼吸、體位與冥想的身心鍛鍊）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The corporate wellness program now includes yoga sessions every Tuesday at noon.",
+          "highlight": [
+            "yoga"
+          ],
+          "translations": {
+            "zh-TW": "企業員工健康計畫現在每週二中午提供瑜珈課程。"
+          }
+        },
+        {
+          "en": "Several different yogas are taught at the studio, from restorative to power flow.",
+          "highlight": [
+            "yogas"
+          ],
+          "translations": {
+            "zh-TW": "這間工作室教授好幾種不同的瑜珈，從修復瑜珈到動力流瑜珈都有。"
+          }
+        },
+        {
+          "en": "After a stressful quarter, the manager took up yoga to improve her focus and sleep.",
+          "highlight": [
+            "yoga"
+          ],
+          "translations": {
+            "zh-TW": "在壓力沈重的一季之後，經理開始練瑜珈來提升專注力與睡眠。"
+          }
+        }
+      ],
+      "synonyms": [
+        "stretching",
+        "meditation practice",
+        "mindfulness"
+      ],
+      "antonyms": [
+        "stress",
+        "tension"
+      ],
+      "phrases": [
+        "yoga class",
+        "yoga mat",
+        "practice yoga",
+        "yoga instructor"
+      ]
     },
     {
       "id": "B1-355-005",
@@ -120,23 +288,64 @@
       "word": "advisory",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
       "conjugations": {
         "plural": "advisories"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "advisory",
-          "definition": "a. 顾问的, 咨询的, 劝告的, [法] 劝告的, 忠告的, 咨询的"
+          "definition": "adj. 顧問的、諮詢的  n. 警告、諮詢意見"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "She sits on the advisory board that reviews the firm's long-term strategy each quarter.",
+          "highlight": [
+            "advisory"
+          ],
+          "translations": {
+            "zh-TW": "她擔任顧問委員會成員，每季審查公司的長期策略。"
+          }
+        },
+        {
+          "en": "The weather service issued travel advisories for mountain roads before the storm arrived.",
+          "highlight": [
+            "advisories"
+          ],
+          "translations": {
+            "zh-TW": "氣象單位在暴風雨來襲前，對山區道路發布了旅遊警示。"
+          }
+        },
+        {
+          "en": "An advisory role let the retired CFO keep mentoring younger executives without full duties.",
+          "highlight": [
+            "advisory"
+          ],
+          "translations": {
+            "zh-TW": "顧問一職讓退休的財務長能繼續指導年輕主管，而不必負擔全部職責。"
+          }
+        }
+      ],
+      "synonyms": [
+        "consultative",
+        "counseling",
+        "advisory board"
+      ],
+      "antonyms": [
+        "directive",
+        "mandatory"
+      ],
+      "phrases": [
+        "advisory board",
+        "advisory service",
+        "travel advisory",
+        "advisory role"
+      ]
     },
     {
       "id": "B1-355-006",
@@ -147,23 +356,64 @@
       "word": "authentic",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "authentics"
+        "comparative": "more authentic",
+        "superlative": "most authentic"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "authentic",
-          "definition": "a. 可靠的, 可信的, 真正的, [法] 被認證的, 確認的, 可信的"
+          "definition": "adj. 真正的、可信的、原汁原味的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The customs officer confirmed that the documents were authentic before clearing the shipment.",
+          "highlight": [
+            "authentic"
+          ],
+          "translations": {
+            "zh-TW": "海關人員確認文件是真品後才放行這批貨物。"
+          }
+        },
+        {
+          "en": "Diners say the chef's recipe is more authentic than any other restaurant in the district.",
+          "highlight": [
+            "more authentic"
+          ],
+          "translations": {
+            "zh-TW": "饕客說主廚的食譜比這區任何一家餐廳都更道地。"
+          }
+        },
+        {
+          "en": "The museum displays the most authentic example of a Ming dynasty vase in existence.",
+          "highlight": [
+            "most authentic"
+          ],
+          "translations": {
+            "zh-TW": "這座博物館展出了現存最具真實性的明代花瓶範例。"
+          }
+        }
+      ],
+      "synonyms": [
+        "genuine",
+        "real",
+        "original"
+      ],
+      "antonyms": [
+        "fake",
+        "counterfeit"
+      ],
+      "phrases": [
+        "authentic product",
+        "authentic cuisine",
+        "authentic experience",
+        "authentic signature"
+      ]
     },
     {
       "id": "B1-355-007",
@@ -179,18 +429,58 @@
       "conjugations": {
         "plural": "bakeries"
       },
-      "domain": "general",
+      "domain": "food",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bakery",
-          "definition": "n. 面包店"
+          "definition": "n. 麵包店、烘焙坊"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A new bakery opened across from the train station and sells fresh bread every morning.",
+          "highlight": [
+            "bakery"
+          ],
+          "translations": {
+            "zh-TW": "車站對面新開了一家麵包店，每天早上都賣新鮮麵包。"
+          }
+        },
+        {
+          "en": "Several artisan bakeries in the neighborhood have won awards for their sourdough loaves.",
+          "highlight": [
+            "bakeries"
+          ],
+          "translations": {
+            "zh-TW": "這一帶有好幾家手工烘焙坊，因其酸種麵包而屢獲大獎。"
+          }
+        },
+        {
+          "en": "The hotel orders its breakfast pastries from a local bakery to guarantee daily freshness.",
+          "highlight": [
+            "bakery"
+          ],
+          "translations": {
+            "zh-TW": "飯店向當地一家麵包店訂購早餐糕點，以確保每天的鮮度。"
+          }
+        }
+      ],
+      "synonyms": [
+        "bakehouse",
+        "pastry shop",
+        "bread shop"
+      ],
+      "antonyms": [
+        "grocery",
+        "supermarket"
+      ],
+      "phrases": [
+        "bakery department",
+        "local bakery",
+        "bakery product",
+        "bakery counter"
+      ]
     },
     {
       "id": "B1-355-008",
@@ -206,18 +496,58 @@
       "conjugations": {
         "plural": "cartons"
       },
-      "domain": "general",
+      "domain": "packaging",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "carton",
-          "definition": "n. 硬紙盒, 紙板箱, [化] 卡紙"
+          "definition": "n. 紙盒、紙箱（用於包裝飲料或商品）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Please stack each milk carton with the label facing outward on the shelf.",
+          "highlight": [
+            "carton"
+          ],
+          "translations": {
+            "zh-TW": "請把每個牛奶紙盒以標籤朝外的方式堆放在貨架上。"
+          }
+        },
+        {
+          "en": "The shipping clerk ordered two hundred cartons of printer paper for the new office.",
+          "highlight": [
+            "cartons"
+          ],
+          "translations": {
+            "zh-TW": "運務員為新辦公室訂購了兩百箱列印紙。"
+          }
+        },
+        {
+          "en": "A damaged carton was returned to the supplier and replaced at no charge.",
+          "highlight": [
+            "carton"
+          ],
+          "translations": {
+            "zh-TW": "一個受損的紙箱已退回供應商，並免費換新。"
+          }
+        }
+      ],
+      "synonyms": [
+        "box",
+        "container",
+        "package"
+      ],
+      "antonyms": [
+        "bulk",
+        "loose goods"
+      ],
+      "phrases": [
+        "milk carton",
+        "carton of cigarettes",
+        "egg carton",
+        "shipping carton"
+      ]
     },
     {
       "id": "B1-355-009",
@@ -238,13 +568,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "compartment",
-          "definition": "n. 分隔間, 卧車包房, 防水舱隔, [醫] 隔室, 隔間"
+          "definition": "n. 隔間、分隔艙（用於分開存放物品的小空間）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Keep your laptop in the overhead compartment during takeoff and landing.",
+          "highlight": [
+            "compartment"
+          ],
+          "translations": {
+            "zh-TW": "起飛與降落時，請將筆電放在頭頂的置物艙內。"
+          }
+        },
+        {
+          "en": "The freezer has separate compartments for meat, vegetables, and prepared meals.",
+          "highlight": [
+            "compartments"
+          ],
+          "translations": {
+            "zh-TW": "冷凍庫有分隔的空間，分別存放肉類、蔬菜和做好的餐點。"
+          }
+        },
+        {
+          "en": "Each compartment in the storage cabinet is labeled with the part number and lot date.",
+          "highlight": [
+            "compartment"
+          ],
+          "translations": {
+            "zh-TW": "儲物櫃的每個隔間都標有料號和批號日期。"
+          }
+        }
+      ],
+      "synonyms": [
+        "section",
+        "chamber",
+        "cubicle"
+      ],
+      "antonyms": [
+        "open space",
+        "whole"
+      ],
+      "phrases": [
+        "glove compartment",
+        "storage compartment",
+        "engine compartment",
+        "compartment divider"
+      ]
     },
     {
       "id": "B1-355-010",
@@ -255,24 +625,64 @@
       "word": "compatible",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "compatibles"
+        "comparative": "more compatible",
+        "superlative": "most compatible"
       },
-      "domain": "general",
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "compatible",
-          "definition": "a. 能共處的, 可并立的, 适合的, [計] 相容的; 兼容的"
+          "definition": "adj. 相容的、能共處的（可一起運作或搭配）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Make sure the new printer is compatible with the office network before you order it.",
+          "highlight": [
+            "compatible"
+          ],
+          "translations": {
+            "zh-TW": "下訂前請確認新印表機與辦公室網路相容。"
+          }
+        },
+        {
+          "en": "Version 5 of the software is more compatible with older operating systems than the update.",
+          "highlight": [
+            "more compatible"
+          ],
+          "translations": {
+            "zh-TW": "第五版軟體比更新版更相容於舊款作業系統。"
+          }
+        },
+        {
+          "en": "The vendor guarantees its most compatible adapter works with all major smartphone models.",
+          "highlight": [
+            "most compatible"
+          ],
+          "translations": {
+            "zh-TW": "廠商保證其最具相容性的轉接器可搭配所有主要手機型號使用。"
+          }
+        }
+      ],
+      "synonyms": [
+        "interchangeable",
+        "workable",
+        "suitable"
+      ],
+      "antonyms": [
+        "incompatible",
+        "conflicting"
+      ],
+      "phrases": [
+        "compatible with",
+        "compatible device",
+        "compatible software",
+        "backward compatible"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
