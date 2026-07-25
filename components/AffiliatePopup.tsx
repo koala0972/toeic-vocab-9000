@@ -39,14 +39,12 @@ export default function AffiliatePopup({ open, onClose, trigger }: AffiliatePopu
 
   if (!open) return null;
 
-  const handleClick = async (id: string, url: string) => {
+  const handleClick = (e: React.MouseEvent, id: string, url: string) => {
+    // 讓 <a target="_blank"> 正常開新分頁, 再記一次點擊
     void incrAffiliateClickCount();
-    // Open in new tab. rel includes safe attrs for SEO/privacy.
-    const win = window.open(url, '_blank', 'noopener,noreferrer');
-    // Some browsers block popup; fallback to same-tab navigation
-    if (!win) window.location.href = url;
     // eslint-disable-next-line no-console
     console.debug('[affiliate] click', { id, url, trigger });
+    // 不阻止預設行為, 讓瀏覽器自然在新分頁打開
   };
 
   return (
@@ -86,9 +84,12 @@ export default function AffiliatePopup({ open, onClose, trigger }: AffiliatePopu
 
         <div className="grid grid-cols-2 md:grid-cols-4 gap-3 p-5">
           {AFFILIATE_SKUS.map((sku) => (
-            <button
+            <a
               key={sku.id}
-              onClick={() => handleClick(sku.id, sku.url)}
+              href={sku.url}
+              target="_blank"
+              rel="noopener nofollow sponsored"
+              onClick={(e) => handleClick(e, sku.id, sku.url)}
               className="group text-left rounded-xl border border-slate-200 hover:border-violet-300 hover:shadow-md transition-all overflow-hidden bg-white"
               aria-label={sku.aria}
             >
@@ -108,19 +109,8 @@ export default function AffiliatePopup({ open, onClose, trigger }: AffiliatePopu
                   查看詳情 <span aria-hidden="true">→</span>
                 </div>
               </div>
-            </button>
+            </a>
           ))}
-        </div>
-
-        <div className="px-5 py-3 border-t border-slate-100 flex items-center justify-between text-[11px] text-slate-400">
-          <span>Powered by 你在地推薦</span>
-          <button
-            onClick={onClose}
-            className="hover:text-slate-600"
-            aria-label="關閉推薦"
-          >
-            關閉推薦
-          </button>
         </div>
       </div>
     </div>
