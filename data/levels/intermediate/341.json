@@ -1,7 +1,7 @@
 {
+  "cefr": "B1",
   "level": 341,
   "tier": "intermediate",
-  "cefr": "B1",
   "words": [
     {
       "id": "B1-341-001",
@@ -10,25 +10,64 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "colorful",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "colorfuls"
+        "comparative": "more colorful",
+        "superlative": "most colorful"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "colorful",
-          "definition": "a. 华美的, 富有色彩的, 有趣的"
+          "definition": "a. 色彩鮮豔的、多彩的、生動有趣的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The marketing team designed a colorful brochure to attract trade show attendees.",
+          "highlight": [
+            "colorful"
+          ],
+          "translations": {
+            "zh-TW": "行銷團隊設計了一份色彩鮮豔的宣傳手冊來吸引貿易展覽的參觀者。"
+          }
+        },
+        {
+          "en": "The new assistant's presentation was even more colorful than the previous one.",
+          "highlight": [
+            "more colorful"
+          ],
+          "translations": {
+            "zh-TW": "新助理的簡報比前一場更加生動有趣。"
+          }
+        },
+        {
+          "en": "The festival featured the most colorful parade displays in the city's recent history.",
+          "highlight": [
+            "most colorful"
+          ],
+          "translations": {
+            "zh-TW": "這場慶典展出了該市近年來最色彩繽紛的遊行陣容。"
+          }
+        }
+      ],
+      "synonyms": [
+        "vivid",
+        "bright",
+        "vibrant"
+      ],
+      "antonyms": [
+        "dull",
+        "drab"
+      ],
+      "phrases": [
+        "colorful language",
+        "colorful design",
+        "colorful personality"
+      ]
     },
     {
       "id": "B1-341-002",
@@ -37,25 +76,66 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "compensate",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "compensates"
+        "present_3rd": "compensates",
+        "past": "compensated",
+        "past_participle": "compensated",
+        "ing": "compensating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "compensate",
-          "definition": "v. 偿还, 补偿, 付報酬"
+          "definition": "v. 補償、賠償、抵消、報酬"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The company must compensate employees for any overtime they work on weekends.",
+          "highlight": [
+            "compensate"
+          ],
+          "translations": {
+            "zh-TW": "公司必須補償員工週末加班的時數。"
+          }
+        },
+        {
+          "en": "The airline compensated passengers with vouchers after the flight was delayed by six hours.",
+          "highlight": [
+            "compensated"
+          ],
+          "translations": {
+            "zh-TW": "航班延誤六小時後,航空公司以折價券補償乘客。"
+          }
+        },
+        {
+          "en": "By compensating for the loss of skilled workers, the firm hired temporary contractors.",
+          "highlight": [
+            "compensating"
+          ],
+          "translations": {
+            "zh-TW": "為了彌補技術工人的流失,公司聘雇了臨時承包商。"
+          }
+        }
+      ],
+      "synonyms": [
+        "reimburse",
+        "repay",
+        "make up for"
+      ],
+      "antonyms": [
+        "owe",
+        "withhold"
+      ],
+      "phrases": [
+        "compensate for",
+        "compensate someone for",
+        "compensation package"
+      ]
     },
     {
       "id": "B1-341-003",
@@ -64,9 +144,9 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "editorial",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "editorials"
@@ -76,13 +156,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "editorial",
-          "definition": "n. 社论, 评论, a. 编辑的, 主笔的, 社论的"
+          "definition": "n. 社論、評論  a. 編輯的、社論的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The newspaper published a sharp editorial criticizing the mayor's new tax policy.",
+          "highlight": [
+            "editorial"
+          ],
+          "translations": {
+            "zh-TW": "該報發表了一篇措辭犀利的社論,批評市長新的稅收政策。"
+          }
+        },
+        {
+          "en": "Several editorials appeared this week urging voters to support the referendum.",
+          "highlight": [
+            "editorials"
+          ],
+          "translations": {
+            "zh-TW": "本週出現了幾篇社論,敦促選民支持這項公投。"
+          }
+        },
+        {
+          "en": "The editorial team worked late to finalize the autumn magazine issue.",
+          "highlight": [
+            "editorial"
+          ],
+          "translations": {
+            "zh-TW": "編輯團隊工作到深夜,為秋季雜誌的付印做最後定稿。"
+          }
+        }
+      ],
+      "synonyms": [
+        "opinion piece",
+        "commentary",
+        "op-ed"
+      ],
+      "antonyms": [
+        "news report"
+      ],
+      "phrases": [
+        "editorial board",
+        "editorial page",
+        "editorial decision",
+        "editorial calendar"
+      ]
     },
     {
       "id": "B1-341-004",
@@ -91,7 +210,6 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "effectiveness",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
@@ -103,13 +221,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "effectiveness",
-          "definition": "n. 效力, [經] 有效性, 能行性"
+          "definition": "n. 效力、有效性、成效"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Managers must regularly review the effectiveness of their training programs.",
+          "highlight": [
+            "effectiveness"
+          ],
+          "translations": {
+            "zh-TW": "管理者必須定期檢視其培訓方案的成效。"
+          }
+        },
+        {
+          "en": "The effectivenesses of two competing marketing strategies were compared in a controlled study.",
+          "highlight": [
+            "effectivenesses"
+          ],
+          "translations": {
+            "zh-TW": "在一項對照研究中,兩種競爭行銷策略的有效性被拿來比較。"
+          }
+        },
+        {
+          "en": "By measuring the campaign's effectiveness, the team identified which ads performed best.",
+          "highlight": [
+            "effectiveness"
+          ],
+          "translations": {
+            "zh-TW": "透過衡量這次活動的成效,團隊找出了表現最好的廣告。"
+          }
+        }
+      ],
+      "synonyms": [
+        "efficacy",
+        "impact",
+        "performance"
+      ],
+      "antonyms": [
+        "ineffectiveness",
+        "failure"
+      ],
+      "phrases": [
+        "cost effectiveness",
+        "measure effectiveness",
+        "effectiveness rate",
+        "operational effectiveness"
+      ]
     },
     {
       "id": "B1-341-005",
@@ -118,25 +276,67 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "facilitate",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "facilitates"
+        "present_3rd": "facilitates",
+        "past": "facilitated",
+        "past_participle": "facilitated",
+        "ing": "facilitating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "facilitate",
-          "definition": "vt. 使容易, 促进, 帮助, [法] 使容易, 使便利, 推进"
+          "definition": "v. 促進、使便利、協助、推動"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A good manager will facilitate communication between departments to avoid misalignment.",
+          "highlight": [
+            "facilitate"
+          ],
+          "translations": {
+            "zh-TW": "優秀的管理者會促進部門之間的溝通,以避免目標不一致。"
+          }
+        },
+        {
+          "en": "The new software facilitated a 30% reduction in customer service response times.",
+          "highlight": [
+            "facilitated"
+          ],
+          "translations": {
+            "zh-TW": "新軟體使得客服回應時間縮短了三成。"
+          }
+        },
+        {
+          "en": "By facilitating the merger negotiations, the consultant helped both sides reach a deal.",
+          "highlight": [
+            "facilitating"
+          ],
+          "translations": {
+            "zh-TW": "這位顧問協助推動併購談判,協助雙方達成協議。"
+          }
+        }
+      ],
+      "synonyms": [
+        "ease",
+        "assist",
+        "expedite"
+      ],
+      "antonyms": [
+        "hinder",
+        "obstruct"
+      ],
+      "phrases": [
+        "facilitate a meeting",
+        "facilitate discussion",
+        "facilitate change",
+        "facilitate trade"
+      ]
     },
     {
       "id": "B1-341-006",
@@ -145,7 +345,6 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "firefighter",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
@@ -157,13 +356,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "firefighter",
-          "definition": "n. <美>消防隊員"
+          "definition": "n. 消防員"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A trained firefighter must respond calmly to emergencies regardless of the danger.",
+          "highlight": [
+            "firefighter"
+          ],
+          "translations": {
+            "zh-TW": "受過訓練的消防員無論面臨多大危險,都必須冷靜應對緊急狀況。"
+          }
+        },
+        {
+          "en": "Several firefighters worked overnight to bring the warehouse blaze under control.",
+          "highlight": [
+            "firefighters"
+          ],
+          "translations": {
+            "zh-TW": "幾名消防員徹夜工作,才將倉庫火勢控制住。"
+          }
+        },
+        {
+          "en": "The city honored the firefighter who rescued three people from a collapsed building.",
+          "highlight": [
+            "firefighter"
+          ],
+          "translations": {
+            "zh-TW": "市政當局表揚了那位從倒塌建築中救出三人的消防員。"
+          }
+        }
+      ],
+      "synonyms": [
+        "fireman",
+        "rescuer",
+        "first responder"
+      ],
+      "antonyms": [
+        "arsonist"
+      ],
+      "phrases": [
+        "firefighter training",
+        "volunteer firefighter",
+        "firefighter safety",
+        "firefighter gear"
+      ]
     },
     {
       "id": "B1-341-007",
@@ -172,7 +410,6 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "gasoline",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
@@ -184,13 +421,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "gasoline",
-          "definition": "n. 汽油, [化] 汽油"
+          "definition": "n. 汽油"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Higher gasoline prices forced the logistics company to renegotiate delivery contracts.",
+          "highlight": [
+            "gasoline"
+          ],
+          "translations": {
+            "zh-TW": "汽油價格上漲迫使這家物流公司重新談判配送合約。"
+          }
+        },
+        {
+          "en": "Different gasolines on the market contain additives that affect engine performance.",
+          "highlight": [
+            "gasolines"
+          ],
+          "translations": {
+            "zh-TW": "市面上的不同汽油含有不同添加劑,會影響引擎性能。"
+          }
+        },
+        {
+          "en": "The mechanic advised switching to a higher-grade gasoline to reduce fuel system deposits.",
+          "highlight": [
+            "gasoline"
+          ],
+          "translations": {
+            "zh-TW": "技師建議改用較高品質的汽油,以減少燃料系統積碳。"
+          }
+        }
+      ],
+      "synonyms": [
+        "petrol",
+        "fuel",
+        "gas"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "gasoline prices",
+        "unleaded gasoline",
+        "gasoline station",
+        "gasoline consumption"
+      ]
     },
     {
       "id": "B1-341-008",
@@ -199,25 +473,65 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "inappropriate",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "inappropriates"
+        "comparative": "more inappropriate",
+        "superlative": "most inappropriate"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "inappropriate",
-          "definition": "a. 不适当的, 不相稱的"
+          "definition": "a. 不適當的、不相稱的、不合宜的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Wearing jeans to a job interview is generally considered inappropriate in conservative industries.",
+          "highlight": [
+            "inappropriate"
+          ],
+          "translations": {
+            "zh-TW": "在保守的產業中,穿牛仔褲去面試通常被視為不適當。"
+          }
+        },
+        {
+          "en": "His remarks during the meeting were even more inappropriate than the previous complaint.",
+          "highlight": [
+            "more inappropriate"
+          ],
+          "translations": {
+            "zh-TW": "他在會議中的言論比先前那次申訴更加不得體。"
+          }
+        },
+        {
+          "en": "Forwarding confidential client data to an outside address is among the most inappropriate actions in this office.",
+          "highlight": [
+            "most inappropriate"
+          ],
+          "translations": {
+            "zh-TW": "將機密客戶資料轉寄到外部信箱,是本辦公室中最不適當的行為之一。"
+          }
+        }
+      ],
+      "synonyms": [
+        "unsuitable",
+        "improper",
+        "unseemly"
+      ],
+      "antonyms": [
+        "appropriate",
+        "suitable"
+      ],
+      "phrases": [
+        "inappropriate behavior",
+        "inappropriate content",
+        "inappropriate remark",
+        "deemed inappropriate"
+      ]
     },
     {
       "id": "B1-341-009",
@@ -226,7 +540,6 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "landlord",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
@@ -238,13 +551,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "landlord",
-          "definition": "n. 房東, 地主, [經] 業主, 地主, 房東"
+          "definition": "n. 房東、地主、業主"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The landlord agreed to repair the leaking roof before the new tenants moved in.",
+          "highlight": [
+            "landlord"
+          ],
+          "translations": {
+            "zh-TW": "房東同意在新房客入住前修好漏水的屋頂。"
+          }
+        },
+        {
+          "en": "Several landlords in the district raised rents after the subway line was extended.",
+          "highlight": [
+            "landlords"
+          ],
+          "translations": {
+            "zh-TW": "捷運線延伸後,該區的多位房東調漲了房租。"
+          }
+        },
+        {
+          "en": "The tenant filed a complaint because the landlord refused to return the security deposit.",
+          "highlight": [
+            "landlord"
+          ],
+          "translations": {
+            "zh-TW": "租戶提出申訴,因為房東拒絕退還押金。"
+          }
+        }
+      ],
+      "synonyms": [
+        "property owner",
+        "lessor",
+        "proprietor"
+      ],
+      "antonyms": [
+        "tenant",
+        "lessee"
+      ],
+      "phrases": [
+        "landlord and tenant",
+        "commercial landlord",
+        "landlord rights",
+        "landlord insurance"
+      ]
     },
     {
       "id": "B1-341-010",
@@ -253,7 +606,6 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "layout",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
@@ -265,14 +617,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "layout",
-          "definition": "n. 布局, 陈列, 規劃圖, 頁面布局, 版面编排, [計] 頁面布局, 版面"
+          "definition": "n. 版面配置、佈局、規劃圖"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The designer presented a clean layout for the company's new product catalog.",
+          "highlight": [
+            "layout"
+          ],
+          "translations": {
+            "zh-TW": "設計師為公司的新產品型錄提出了一個清爽的版面配置。"
+          }
+        },
+        {
+          "en": "Several layouts were tested before the team settled on the final website design.",
+          "highlight": [
+            "layouts"
+          ],
+          "translations": {
+            "zh-TW": "團隊測試了好幾個版面,才敲定最終的網站設計。"
+          }
+        },
+        {
+          "en": "Factory managers redesigned the assembly line layout to improve worker productivity.",
+          "highlight": [
+            "layout"
+          ],
+          "translations": {
+            "zh-TW": "工廠主管重新規劃了裝配線的佈局,以提升員工生產力。"
+          }
+        }
+      ],
+      "synonyms": [
+        "arrangement",
+        "design",
+        "configuration"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "page layout",
+        "office layout",
+        "layout design",
+        "store layout"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
