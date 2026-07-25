@@ -12,23 +12,66 @@
       "word": "paraphrase",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "paraphrases"
+        "plural": "paraphrases",
+        "present_3rd": "paraphrases",
+        "past": "paraphrased",
+        "past_participle": "paraphrased",
+        "ing": "paraphrasing"
       },
-      "domain": "general",
+      "domain": "communication",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "paraphrase",
-          "definition": "n. 释义, 解述, 改寫, vt. 改寫, 解述, vi. 释义, 意译"
+          "definition": "n. 改寫、意釋  v. 改寫、用不同字句表達"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Can you paraphrase the contract clause so the client understands it more easily?",
+          "highlight": [
+            "paraphrase"
+          ],
+          "translations": {
+            "zh-TW": "你能把合約條款改寫一下，讓客戶更容易理解嗎？"
+          }
+        },
+        {
+          "en": "The lawyer paraphrased the legal jargon into plain English during the meeting.",
+          "highlight": [
+            "paraphrased"
+          ],
+          "translations": {
+            "zh-TW": "律師在會議中把法律術語改寫成淺顯的英文。"
+          }
+        },
+        {
+          "en": "Paraphrasing the original text without citing the source may still count as plagiarism.",
+          "highlight": [
+            "Paraphrasing"
+          ],
+          "translations": {
+            "zh-TW": "改寫原文而未註明出處仍可能構成抄襲。"
+          }
+        }
+      ],
+      "synonyms": [
+        "rephrase",
+        "reword",
+        "restate"
+      ],
+      "antonyms": [
+        "quote"
+      ],
+      "phrases": [
+        "paraphrase a sentence",
+        "paraphrase the passage",
+        "close paraphrase"
+      ]
     },
     {
       "id": "B1-358-002",
@@ -44,18 +87,57 @@
       "conjugations": {
         "plural": "placements"
       },
-      "domain": "general",
+      "domain": "employment",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "placement",
-          "definition": "n. 放置, 布置, 工作安排, 编班, 定位球, [計] 放置"
+          "definition": "n. 安置、配置、（工作、實習的）安排、安置服務"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The agency offers job placement services for new graduates.",
+          "highlight": [
+            "placement"
+          ],
+          "translations": {
+            "zh-TW": "該機構為應屆畢業生提供就業安置服務。"
+          }
+        },
+        {
+          "en": "She completed a summer placement at an accounting firm in Tokyo.",
+          "highlight": [
+            "placement"
+          ],
+          "translations": {
+            "zh-TW": "她在東京一家會計事務所完成了暑期實習安排。"
+          }
+        },
+        {
+          "en": "Product placements in TV dramas have become a major marketing channel.",
+          "highlight": [
+            "placements"
+          ],
+          "translations": {
+            "zh-TW": "電視劇中的產品置入已成為重要的行銷管道。"
+          }
+        }
+      ],
+      "synonyms": [
+        "assignment",
+        "positioning",
+        "position"
+      ],
+      "antonyms": [
+        "removal"
+      ],
+      "phrases": [
+        "job placement",
+        "product placement",
+        "placement test",
+        "internship placement"
+      ]
     },
     {
       "id": "B1-358-003",
@@ -66,23 +148,59 @@
       "word": "postal",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "postals"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "mail",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "postal",
-          "definition": "a. 郵政的, 郵局的, [經] 郵政的"
+          "definition": "adj. 郵政的、郵局的、郵寄的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The postal service has been delayed by severe weather this week.",
+          "highlight": [
+            "postal"
+          ],
+          "translations": {
+            "zh-TW": "本週因惡劣天氣，郵政服務有所延誤。"
+          }
+        },
+        {
+          "en": "Please send the documents via postal mail rather than email for security reasons.",
+          "highlight": [
+            "postal"
+          ],
+          "translations": {
+            "zh-TW": "基於安全考量，請以郵寄方式而非電子郵件寄送文件。"
+          }
+        },
+        {
+          "en": "The postal ballot option allows citizens abroad to vote without returning home.",
+          "highlight": [
+            "postal"
+          ],
+          "translations": {
+            "zh-TW": "郵寄投票選項讓海外公民不必返國也能投票。"
+          }
+        }
+      ],
+      "synonyms": [
+        "mail",
+        "correspondence"
+      ],
+      "antonyms": [
+        "electronic"
+      ],
+      "phrases": [
+        "postal service",
+        "postal code",
+        "postal mail",
+        "postal ballot"
+      ]
     },
     {
       "id": "B1-358-004",
@@ -98,18 +216,57 @@
       "conjugations": {
         "plural": "renters"
       },
-      "domain": "general",
+      "domain": "housing",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "renter",
-          "definition": "n. 承租人, 佃戶, 出租人, [經] 租赁人, 租戶, 出租人"
+          "definition": "n. 承租人、租客、租戶"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The renter must pay a security deposit before moving into the apartment.",
+          "highlight": [
+            "renter"
+          ],
+          "translations": {
+            "zh-TW": "租客在搬進公寓前必須支付押金。"
+          }
+        },
+        {
+          "en": "Many renters in the city struggle to keep up with rising monthly payments.",
+          "highlight": [
+            "renters"
+          ],
+          "translations": {
+            "zh-TW": "城裡許多租客難以應付持續上漲的每月租金。"
+          }
+        },
+        {
+          "en": "As a renter, you are responsible for any damage caused during the lease period.",
+          "highlight": [
+            "renter"
+          ],
+          "translations": {
+            "zh-TW": "身為租客，您必須對租期內造成的任何損壞負責。"
+          }
+        }
+      ],
+      "synonyms": [
+        "tenant",
+        "lessee"
+      ],
+      "antonyms": [
+        "landlord",
+        "owner"
+      ],
+      "phrases": [
+        "renter insurance",
+        "first-time renter",
+        "renter agreement",
+        "long-term renter"
+      ]
     },
     {
       "id": "B1-358-005",
@@ -123,20 +280,56 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "repairpersons"
+        "plural": "repairpeople"
       },
-      "domain": "general",
+      "domain": "service",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "repairperson",
-          "definition": "n. 修理工"
+          "definition": "n. 維修技師、修理工人（男女皆適用）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "A repairperson from the building management fixed the broken elevator.",
+          "highlight": [
+            "repairperson"
+          ],
+          "translations": {
+            "zh-TW": "大樓管理處派來的維修技師修好了故障的電梯。"
+          }
+        },
+        {
+          "en": "The hotel contracts repairpeople to service rooms within 24 hours of a complaint.",
+          "highlight": [
+            "repairpeople"
+          ],
+          "translations": {
+            "zh-TW": "該飯店與維修技師簽約，在客訴後 24 小時內完成房間檢修。"
+          }
+        },
+        {
+          "en": "When hiring a repairperson, always ask for a written estimate before approving the work.",
+          "highlight": [
+            "repairperson"
+          ],
+          "translations": {
+            "zh-TW": "僱用維修技師時，務必在同意施工前索取書面估價單。"
+          }
+        }
+      ],
+      "synonyms": [
+        "technician",
+        "handyman",
+        "maintenance worker"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "call a repairperson",
+        "certified repairperson",
+        "appliance repairperson"
+      ]
     },
     {
       "id": "B1-358-006",
@@ -152,18 +345,55 @@
       "conjugations": {
         "plural": "restrooms"
       },
-      "domain": "general",
+      "domain": "facility",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "restroom",
-          "definition": "n. 洗手間；休息室；更衣室；厕所"
+          "definition": "n. 洗手間、公共廁所（美式用法）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Excuse me, could you tell me where the restroom is?",
+          "highlight": [
+            "restroom"
+          ],
+          "translations": {
+            "zh-TW": "不好意思，請問洗手間在哪裡？"
+          }
+        },
+        {
+          "en": "The restrooms on the second floor are being renovated this week.",
+          "highlight": [
+            "restrooms"
+          ],
+          "translations": {
+            "zh-TW": "二樓的洗手間本週正在整修。"
+          }
+        },
+        {
+          "en": "The restaurant keeps its restroom spotlessly clean to impress customers.",
+          "highlight": [
+            "restroom"
+          ],
+          "translations": {
+            "zh-TW": "這家餐廳把洗手間保持得一塵不染，藉此打動顧客。"
+          }
+        }
+      ],
+      "synonyms": [
+        "bathroom",
+        "toilet",
+        "washroom"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "public restroom",
+        "restroom break",
+        "restroom sign",
+        "men's restroom"
+      ]
     },
     {
       "id": "B1-358-007",
@@ -174,23 +404,61 @@
       "word": "silently",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
-      "conjugations": {
-        "plural": "silentlies"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "manner",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "silently",
-          "definition": "adv. 默默地, 静静地"
+          "definition": "adv. 默默地、無聲地、靜靜地"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "She silently corrected the error before the manager noticed it.",
+          "highlight": [
+            "silently"
+          ],
+          "translations": {
+            "zh-TW": "她在主管發現前默默地修正了錯誤。"
+          }
+        },
+        {
+          "en": "The audience listened silently as the CEO announced the layoffs.",
+          "highlight": [
+            "silently"
+          ],
+          "translations": {
+            "zh-TW": "執行長宣布裁員時，聽眾靜靜地聆聽。"
+          }
+        },
+        {
+          "en": "He has silently disagreed with the new policy since it was introduced.",
+          "highlight": [
+            "silently"
+          ],
+          "translations": {
+            "zh-TW": "自新政策推出以來，他一直默默不認同。"
+          }
+        }
+      ],
+      "synonyms": [
+        "quietly",
+        "mute",
+        "wordlessly"
+      ],
+      "antonyms": [
+        "loudly",
+        "vocally"
+      ],
+      "phrases": [
+        "sit silently",
+        "silently agree",
+        "read silently",
+        "weep silently"
+      ]
     },
     {
       "id": "B1-358-008",
@@ -206,18 +474,54 @@
       "conjugations": {
         "plural": "spas"
       },
-      "domain": "general",
+      "domain": "leisure",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "spa",
-          "definition": "n. 矿泉, 温泉浴場, 矿泉治疗地, [計] 软件出版者协會"
+          "definition": "n. 水療中心、溫泉浴場、養生會館"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The hotel spa offers massages, facials, and hot stone treatments.",
+          "highlight": [
+            "spa"
+          ],
+          "translations": {
+            "zh-TW": "飯店的水療中心提供按摩、臉部護理與熱石療程。"
+          }
+        },
+        {
+          "en": "Many luxury spas now require reservations at least two weeks in advance.",
+          "highlight": [
+            "spas"
+          ],
+          "translations": {
+            "zh-TW": "許多頂級水療中心現在要求至少兩週前預約。"
+          }
+        },
+        {
+          "en": "She treated herself to a spa day after finishing the year-end report.",
+          "highlight": [
+            "spa"
+          ],
+          "translations": {
+            "zh-TW": "她在完成年終報告後，犒賞自己一整天的水療放鬆。"
+          }
+        }
+      ],
+      "synonyms": [
+        "wellness center",
+        "hot spring"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "spa treatment",
+        "spa day",
+        "luxury spa",
+        "hot spring spa"
+      ]
     },
     {
       "id": "B1-358-009",
@@ -233,18 +537,54 @@
       "conjugations": {
         "plural": "spreadsheets"
       },
-      "domain": "general",
+      "domain": "office",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "spreadsheet",
-          "definition": "n. 空白表格程序, 電子制表软件, 電子数据表, [計] 電子表格"
+          "definition": "n. 電子試算表、試算表軟體（如 Excel）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "I exported the sales figures to a spreadsheet for further analysis.",
+          "highlight": [
+            "spreadsheet"
+          ],
+          "translations": {
+            "zh-TW": "我把銷售數據匯出到試算表中做進一步分析。"
+          }
+        },
+        {
+          "en": "Our accounting team maintains several spreadsheets to track quarterly expenses.",
+          "highlight": [
+            "spreadsheets"
+          ],
+          "translations": {
+            "zh-TW": "我們會計團隊維護好幾份試算表來追蹤每季開支。"
+          }
+        },
+        {
+          "en": "The spreadsheet automatically recalculates totals whenever a cell changes.",
+          "highlight": [
+            "spreadsheet"
+          ],
+          "translations": {
+            "zh-TW": "只要儲存格一變動，這份試算表就會自動重新計算總額。"
+          }
+        }
+      ],
+      "synonyms": [
+        "worksheet",
+        "ledger"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "spreadsheet program",
+        "excel spreadsheet",
+        "spreadsheet formula",
+        "open a spreadsheet"
+      ]
     },
     {
       "id": "B1-358-010",
@@ -260,19 +600,53 @@
       "conjugations": {
         "plural": "staplers"
       },
-      "domain": "general",
+      "domain": "office",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "stapler",
-          "definition": "n. 主要物產商, 把羊毛分級的人, 訂書機, [經] 主要商品批發商"
+          "definition": "n. 釘書機、釘書針裝訂器"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Could you pass me the stapler so I can bind these contracts?",
+          "highlight": [
+            "stapler"
+          ],
+          "translations": {
+            "zh-TW": "可以把釘書機遞給我嗎？我需要把這些合約裝訂起來。"
+          }
+        },
+        {
+          "en": "Electric staplers can be a real time-saver in a busy office.",
+          "highlight": [
+            "staplers"
+          ],
+          "translations": {
+            "zh-TW": "電動釘書機在繁忙的辦公室能省下不少時間。"
+          }
+        },
+        {
+          "en": "The stapler on her desk has been jamming since last week.",
+          "highlight": [
+            "stapler"
+          ],
+          "translations": {
+            "zh-TW": "她桌上的釘書機從上週起就一直卡釘。"
+          }
+        }
+      ],
+      "synonyms": [
+        "stapling machine"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "desktop stapler",
+        "electric stapler",
+        "heavy-duty stapler",
+        "stapler remover"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
