@@ -80,6 +80,39 @@ export async function speak(opts: SpeakOpts): Promise<void> {
   window.speechSynthesis.speak(u);
 }
 
+/**
+ * Speak 並回傳這段語音的實際持續時間 (ms).
+ * 用於「英文唸完停同樣長度」這類需要量測的功能.
+ */
+export function speakWithDuration(opts: SpeakOpts): Promise<number> {
+  return new Promise((resolve) => {
+    if (typeof window === 'undefined' || !('speechSynthesis' in window)) {
+      resolve(0); return;
+    }
+    if (window.speechSynthesis.speaking) window.speechSynthesis.cancel();
+    getVoices().then((voices) => {
+      const chosen = pickBestVoice(voices, opts.lang);
+      const u = new SpeechSynthesisUtterance(opts.text);
+      if (chosen) u.voice = chosen;
+      u.lang = chosen?.lang ?? opts.lang;
+      u.rate = opts.rate ?? 1.0;
+      u.pitch = opts.pitch ?? 1.0;
+      currentUtter = u;
+      let startedAt = 0;
+      let resolved = false;
+      const finish = (dur: number) => {
+        if (!resolved) { resolved = true; resolve(dur); }
+      };
+      u.onstart = () => { startedAt = Date.now(); };
+      u.onend = () => { finish(Date.now() - startedAt); };
+      u.onerror = () => { finish(0); };
+      // 安全網: 30s 仍未 end, 視為結束
+      setTimeout(() => finish(Date.now() - startedAt || 0), 30000);
+      window.speechSynthesis.speak(u);
+    });
+  });
+}
+
 export function stopSpeak() {
   if (typeof window === 'undefined' || !('speechSynthesis' in window)) return;
   window.speechSynthesis.cancel();

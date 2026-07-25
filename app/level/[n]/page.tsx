@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState, useCallback } from 'react';
+import { useEffect, useState, useCallback, useRef } from 'react';
 import Link from 'next/link';
 import { useParams, useSearchParams } from 'next/navigation';
 import { WordCard } from '@/components/WordCard';
@@ -8,6 +8,7 @@ import { VoiceButton } from '@/components/VoiceButton';
 import type { VocabularyEntry } from '@/lib/types';
 import type { LangCode } from '@/lib/lang';
 import { speak, stopSpeak } from '@/lib/speech';
+import { startRepeatPlay, stopRepeatPlay } from '@/lib/repeat-play';
 import {
   getLang,
   setLang as setLangPersist,
@@ -43,6 +44,8 @@ export default function LevelPage() {
   const [rate, setRate] = useState<number>(1.0);
   const [showAnswer, setShowAnswer] = useState(true);
   const [showAffiliate, setShowAffiliate] = useState(false);
+  const [repeatPlaying, setRepeatPlaying] = useState(false);
+  const repeatStopRef = useRef<null | (() => void)>(null);
 
   // 載入關卡資料
   useEffect(() => {
@@ -90,6 +93,9 @@ export default function LevelPage() {
 
   const goNext = useCallback(() => {
     if (!data) return;
+    repeatStopRef.current?.();
+    repeatStopRef.current = null;
+    setRepeatPlaying(false);
     setIdx((i) => (i + 1 < data.words.length ? i + 1 : i));
     // 到最後一題不自動跳關 (由按鈕觸發)
   }, [data]);
@@ -129,6 +135,9 @@ export default function LevelPage() {
   }, [data, n]);
 
   const goPrev = useCallback(() => {
+    repeatStopRef.current?.();
+    repeatStopRef.current = null;
+    setRepeatPlaying(false);
     setIdx((i) => Math.max(0, i - 1));
   }, []);
   const toggleAnswer = useCallback(() => setShowAnswer(s => !s), []);
@@ -152,6 +161,26 @@ export default function LevelPage() {
     await speak({ lang: 'en', text: entry.word, rate });
   }, [data, idx, rate]);
 
+  // 「重覆播放」: 切換開始 / 停止
+  const toggleRepeatPlay = useCallback(() => {
+    if (!data) return;
+    if (repeatPlaying) {
+      repeatStopRef.current?.();
+      repeatStopRef.current = null;
+      setRepeatPlaying(false);
+    } else {
+      const entry = data.words[idx];
+      const stop = startRepeatPlay(entry, lang, rate, (running) => {
+        if (!running) {
+          setRepeatPlaying(false);
+          repeatStopRef.current = null;
+        }
+      });
+      repeatStopRef.current = stop;
+      setRepeatPlaying(true);
+    }
+  }, [data, idx, lang, rate, repeatPlaying]);
+
   // 鍵盤快捷鍵
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
@@ -170,7 +199,10 @@ export default function LevelPage() {
     return () => window.removeEventListener('keydown', onKey);
   }, [speakCurrent, goNextOrLevel, toggleAnswer, toggleCurrentFavorite]);
 
-  useEffect(() => () => stopSpeak(), []);
+  useEffect(() => () => {
+    stopRepeatPlay();
+    stopSpeak();
+  }, []);
 
   if (error) {
     return (
@@ -276,8 +308,14 @@ export default function LevelPage() {
         >
           ← 上一題
         </button>
-        <button onClick={() => speakCurrent()} className="px-4 py-2 rounded bg-orange-500 text-white hover:bg-orange-600">
-          🔊 再聽一次
+        <button
+          onClick={toggleRepeatPlay}
+          className={repeatPlaying
+            ? "px-4 py-2 rounded bg-red-500 text-white hover:bg-red-600 animate-pulse"
+            : "px-4 py-2 rounded bg-orange-500 text-white hover:bg-orange-600"}
+          aria-pressed={repeatPlaying}
+        >
+          {repeatPlaying ? '⏹ 停止重覆播放' : '🔁 重覆播放'}
         </button>
         <button onClick={goNextOrLevel} className="px-4 py-2 rounded bg-blue-600 text-white hover:bg-blue-700">
           {idx + 1 < data.words.length ? '下一題 →' : '下一關 →'}
