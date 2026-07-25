@@ -99,14 +99,12 @@ export default function LevelPage() {
     if (idx + 1 < data.words.length) {
       setIdx(idx + 1);
     } else {
-      // 最後一題 → 彈出聯盟推薦 + 跳下一關
-      void showAffiliatePop(`level:${n}`);
       const next = n + 1;
       if (next <= 900) window.location.href = `/level/${next}`;
     }
   }, [data, idx, n]);
 
-  /** 顯示彈窗 (不帶節流限制) */
+  /** 顯示彈窗 (不帶節流 — 每關可彈) */
   const showAffiliatePop = useCallback(async (trigger: string) => {
     try {
       await setAffiliateLastShownAt(new Date().toISOString());
@@ -119,6 +117,17 @@ export default function LevelPage() {
       console.debug('[affiliate] show failed', e);
     }
   }, []);
+
+  // 進關 2 秒後彈出聯盟推薦 (L 1 與 L 1+ 都彈)
+  useEffect(() => {
+    if (!data) return;
+    const t = setTimeout(() => {
+      void showAffiliatePop(`level:${n}:enter`);
+    }, 2000);
+    return () => clearTimeout(t);
+    // 進/離開關或切換 data 時重設
+  }, [data, n]);
+
   const goPrev = useCallback(() => {
     setIdx((i) => Math.max(0, i - 1));
   }, []);
