@@ -1,7 +1,7 @@
 {
+  "cefr": "B1",
   "level": 382,
   "tier": "intermediate",
-  "cefr": "B1",
   "words": [
     {
       "id": "B1-382-001",
@@ -10,25 +10,64 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "layoff",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "layoffs"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "layoff",
-          "definition": "n. 临時解雇, 操作停止, 活動停止期間"
+          "definition": "n. 臨時解雇、裁員  (活動、操作等的) 停止期間"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The company announced a layoff of two hundred factory workers due to declining sales.",
+          "highlight": [
+            "layoff"
+          ],
+          "translations": {
+            "zh-TW": "由於銷售下滑，公司宣布臨時解雇兩百名工廠員工。"
+          }
+        },
+        {
+          "en": "Several layoffs were avoided after the union agreed to a temporary wage cut.",
+          "highlight": [
+            "layoffs"
+          ],
+          "translations": {
+            "zh-TW": "在工會同意暫時減薪之後，避免了幾波裁員。"
+          }
+        },
+        {
+          "en": "She was called back to work after a six-month layoff at the auto plant.",
+          "highlight": [
+            "layoff"
+          ],
+          "translations": {
+            "zh-TW": "在汽車廠歷經六個月的停工期後，她被召回上班。"
+          }
+        }
+      ],
+      "synonyms": [
+        "dismissal",
+        "redundancy",
+        "termination"
+      ],
+      "antonyms": [
+        "hire",
+        "recruitment"
+      ],
+      "phrases": [
+        "mass layoff",
+        "temporary layoff",
+        "layoff notice",
+        "avoid layoffs"
+      ]
     },
     {
       "id": "B1-382-002",
@@ -37,25 +76,67 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "lightweight",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "lightweights"
+        "plural": "lightweights",
+        "comparative": "more lightweight",
+        "superlative": "most lightweight"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "lightweight",
-          "definition": "n. 不到平均重量的人/物, 輕量級, 无足輕重的人, 性格不够强的人, a. 平均重量以下的, 重量輕的, [計] 輕便的, 輕量的"
+          "definition": "n. 輕量級選手、無足輕重的人  a. 重量輕的、輕便的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The new laptop is remarkably lightweight, making it ideal for business travelers.",
+          "highlight": [
+            "lightweight"
+          ],
+          "translations": {
+            "zh-TW": "這款新筆記型電腦異常輕便，非常適合商務旅客。"
+          }
+        },
+        {
+          "en": "He competed as a lightweight in the regional boxing championship.",
+          "highlight": [
+            "lightweight"
+          ],
+          "translations": {
+            "zh-TW": "他以輕量級選手的身分參加區域拳擊錦標賽。"
+          }
+        },
+        {
+          "en": "This jacket is the most lightweight option in our winter catalogue.",
+          "highlight": [
+            "most lightweight"
+          ],
+          "translations": {
+            "zh-TW": "這件外套是我們冬季目錄中最輕便的選擇。"
+          }
+        }
+      ],
+      "synonyms": [
+        "portable",
+        "featherlight",
+        "light"
+      ],
+      "antonyms": [
+        "heavyweight",
+        "bulky"
+      ],
+      "phrases": [
+        "lightweight champion",
+        "lightweight material",
+        "lightweight jacket",
+        "lightweight division"
+      ]
     },
     {
       "id": "B1-382-003",
@@ -64,25 +145,70 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "merit",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "merits"
+        "plural": "merits",
+        "present_3rd": "merits",
+        "past": "merited",
+        "past_participle": "merited",
+        "ing": "meriting"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "merit",
-          "definition": "n. 优點, 功绩, 價值, 功過, 真相, vt. 值得, vi. 應受"
+          "definition": "n. 優點、價值、功績  v. 值得、應受"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Each proposal will be evaluated on its own merit rather than the presenter's seniority.",
+          "highlight": [
+            "merit"
+          ],
+          "translations": {
+            "zh-TW": "每項提案將依其本身價值來評估，而非取決於提案人的資歷。"
+          }
+        },
+        {
+          "en": "The committee discussed the merits of the two pricing strategies for over an hour.",
+          "highlight": [
+            "merits"
+          ],
+          "translations": {
+            "zh-TW": "委員會花了一個多小時討論這兩種定價策略的優點。"
+          }
+        },
+        {
+          "en": "Her outstanding contribution to the project merited a promotion and a substantial bonus.",
+          "highlight": [
+            "merited"
+          ],
+          "translations": {
+            "zh-TW": "她對專案的傑出貢獻值得獲得升遷與一筆優渥的獎金。"
+          }
+        }
+      ],
+      "synonyms": [
+        "value",
+        "worth",
+        "virtue"
+      ],
+      "antonyms": [
+        "fault",
+        "demerit",
+        "flaw"
+      ],
+      "phrases": [
+        "merit-based",
+        "merit pay",
+        "on its own merits",
+        "merit increase"
+      ]
     },
     {
       "id": "B1-382-004",
@@ -91,25 +217,61 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "necklace",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "necklaces"
       },
-      "domain": "general",
+      "domain": "retail",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "necklace",
-          "definition": "n. 项链"
+          "definition": "n. 項鍊、項圈"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "She wore a pearl necklace to the company's annual gala.",
+          "highlight": [
+            "necklace"
+          ],
+          "translations": {
+            "zh-TW": "她在公司年度晚宴上佩戴了一串珍珠項鍊。"
+          }
+        },
+        {
+          "en": "The jeweler displayed dozens of gold necklaces in the showroom window.",
+          "highlight": [
+            "necklaces"
+          ],
+          "translations": {
+            "zh-TW": "珠寶商在展示櫥窗裡陳列了數十條金項鍊。"
+          }
+        },
+        {
+          "en": "He bought the necklace as an anniversary gift for his wife.",
+          "highlight": [
+            "necklace"
+          ],
+          "translations": {
+            "zh-TW": "他買了這條項鍊作為送給妻子的結婚週年禮物。"
+          }
+        }
+      ],
+      "synonyms": [
+        "chain",
+        "pendant",
+        "choker"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "pearl necklace",
+        "diamond necklace",
+        "gold necklace",
+        "wear a necklace"
+      ]
     },
     {
       "id": "B1-382-005",
@@ -118,25 +280,67 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "needy",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "needies"
+        "plural": "needies",
+        "comparative": "needier",
+        "superlative": "neediest"
       },
-      "domain": "general",
+      "domain": "social",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "needy",
-          "definition": "a. 贫穷的, 贫困的, 生活艰苦的"
+          "definition": "a. 貧困的、生活艱苦的、缺乏生活必需品的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The charity provides food and shelter for needy families in the community.",
+          "highlight": [
+            "needy"
+          ],
+          "translations": {
+            "zh-TW": "這個慈善機構為社區裡貧困的家庭提供食物和住所。"
+          }
+        },
+        {
+          "en": "Rural areas were needier than the government report had suggested.",
+          "highlight": [
+            "needier"
+          ],
+          "translations": {
+            "zh-TW": "鄉村地區比政府報告所顯示的更為貧困。"
+          }
+        },
+        {
+          "en": "The foundation focuses its donations on the neediest children in the region.",
+          "highlight": [
+            "neediest"
+          ],
+          "translations": {
+            "zh-TW": "基金會將捐款重點放在該地區最貧困的兒童身上。"
+          }
+        }
+      ],
+      "synonyms": [
+        "poor",
+        "destitute",
+        "impoverished"
+      ],
+      "antonyms": [
+        "wealthy",
+        "affluent",
+        "prosperous"
+      ],
+      "phrases": [
+        "needy families",
+        "needy children",
+        "the needy",
+        "help the needy"
+      ]
     },
     {
       "id": "B1-382-006",
@@ -145,25 +349,67 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "overpay",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "overpaies"
+        "present_3rd": "overpays",
+        "past": "overpaid",
+        "past_participle": "overpaid",
+        "ing": "overpaying"
       },
-      "domain": "general",
+      "domain": "finance",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "overpay",
-          "definition": "vt. 多付, 多给報酬, vi. 付得過多"
+          "definition": "v. 多付、付得過多、溢付"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Many home buyers overpay for properties during a housing boom.",
+          "highlight": [
+            "overpay"
+          ],
+          "translations": {
+            "zh-TW": "在房地產熱潮期間，許多購屋者會以過高價格買房。"
+          }
+        },
+        {
+          "en": "The auditor discovered that the firm had overpaid its suppliers by nearly fifty thousand dollars.",
+          "highlight": [
+            "overpaid"
+          ],
+          "translations": {
+            "zh-TW": "審計人員發現該公司向供應商多付了近五萬美元。"
+          }
+        },
+        {
+          "en": "By overpaying her taxes throughout the year, she receives a large refund every spring.",
+          "highlight": [
+            "overpaying"
+          ],
+          "translations": {
+            "zh-TW": "由於全年多繳了稅款，她每年春天都會收到一筆大額退稅。"
+          }
+        }
+      ],
+      "synonyms": [
+        "overcharge",
+        "excess pay",
+        "overcompensate"
+      ],
+      "antonyms": [
+        "underpay",
+        "save"
+      ],
+      "phrases": [
+        "overpay for",
+        "overpay taxes",
+        "overpay a bill",
+        "overpay employees"
+      ]
     },
     {
       "id": "B1-382-007",
@@ -172,25 +418,61 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "pamphlet",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "pamphlets"
       },
-      "domain": "general",
+      "domain": "publishing",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pamphlet",
-          "definition": "n. 小册子, 活頁文選"
+          "definition": "n. 小冊子、傳單、活頁文宣"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The clinic distributes a pamphlet explaining the new vaccination schedule.",
+          "highlight": [
+            "pamphlet"
+          ],
+          "translations": {
+            "zh-TW": "診所發放了一本小冊子，說明新的疫苗接種時程。"
+          }
+        },
+        {
+          "en": "Tourist pamphlets are available at the hotel front desk free of charge.",
+          "highlight": [
+            "pamphlets"
+          ],
+          "translations": {
+            "zh-TW": "飯店櫃檯備有旅遊簡介手冊，供旅客免費索取。"
+          }
+        },
+        {
+          "en": "She authored a political pamphlet that influenced public opinion before the election.",
+          "highlight": [
+            "pamphlet"
+          ],
+          "translations": {
+            "zh-TW": "她撰寫了一本政治小冊子，在選前影響了輿論。"
+          }
+        }
+      ],
+      "synonyms": [
+        "booklet",
+        "leaflet",
+        "brochure"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "distribute a pamphlet",
+        "informational pamphlet",
+        "political pamphlet",
+        "pamphlet rack"
+      ]
     },
     {
       "id": "B1-382-008",
@@ -199,25 +481,66 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "partial",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "partials"
+        "comparative": "more partial",
+        "superlative": "most partial"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "partial",
-          "definition": "a. 部分的, 偏袒的, 偏爱的, n. 分音"
+          "definition": "a. 部分的、不完全的、偏袒的、偏愛的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The report offers only a partial explanation of the sudden drop in revenue.",
+          "highlight": [
+            "partial"
+          ],
+          "translations": {
+            "zh-TW": "這份報告只對營收驟降提供了部分解釋。"
+          }
+        },
+        {
+          "en": "The manager seemed more partial to candidates who had studied abroad.",
+          "highlight": [
+            "more partial"
+          ],
+          "translations": {
+            "zh-TW": "經理似乎更偏愛曾留學海外的應徵者。"
+          }
+        },
+        {
+          "en": "Customers who cancel early are entitled to a partial refund of the booking fee.",
+          "highlight": [
+            "partial"
+          ],
+          "translations": {
+            "zh-TW": "提前取消的客戶可獲得訂位手續費的部分退款。"
+          }
+        }
+      ],
+      "synonyms": [
+        "incomplete",
+        "fractional",
+        "biased"
+      ],
+      "antonyms": [
+        "complete",
+        "full",
+        "impartial"
+      ],
+      "phrases": [
+        "partial payment",
+        "partial refund",
+        "partial to",
+        "partial success"
+      ]
     },
     {
       "id": "B1-382-009",
@@ -226,25 +549,68 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "penalize",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "penalizes"
+        "present_3rd": "penalizes",
+        "past": "penalized",
+        "past_participle": "penalized",
+        "ing": "penalizing"
       },
-      "domain": "general",
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "penalize",
-          "definition": "vt. 處刑, 對...處罚(刑), 使不利, [法] 處罚, 對...處以刑事惩罚"
+          "definition": "v. 處罰、懲罰、使處於不利地位"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The new tax law penalizes companies that move production overseas.",
+          "highlight": [
+            "penalizes"
+          ],
+          "translations": {
+            "zh-TW": "新稅法懲罰將生產線移往海外的公司。"
+          }
+        },
+        {
+          "en": "Three players were penalized for unsportsmanlike conduct during the match.",
+          "highlight": [
+            "penalized"
+          ],
+          "translations": {
+            "zh-TW": "三名選手因比賽中的不當行為而遭到判罰。"
+          }
+        },
+        {
+          "en": "Critics argue that penalizing late submissions discourages careful work.",
+          "highlight": [
+            "penalizing"
+          ],
+          "translations": {
+            "zh-TW": "批評者認為，對延遲提交施以懲罰會扼殺細緻的工作態度。"
+          }
+        }
+      ],
+      "synonyms": [
+        "punish",
+        "discipline",
+        "fine"
+      ],
+      "antonyms": [
+        "reward",
+        "compensate",
+        "encourage"
+      ],
+      "phrases": [
+        "penalize for",
+        "penalize behavior",
+        "heavy penalty",
+        "penalize late payments"
+      ]
     },
     {
       "id": "B1-382-010",
@@ -253,26 +619,67 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "pollute",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "pollutes"
+        "present_3rd": "pollutes",
+        "past": "polluted",
+        "past_participle": "polluted",
+        "ing": "polluting"
       },
-      "domain": "general",
+      "domain": "environment",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pollute",
-          "definition": "vt. 污染, 弄脏, 玷污, [化] 污染"
+          "definition": "v. 污染、弄髒、玷污"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Heavy industry continues to pollute the river despite repeated warnings.",
+          "highlight": [
+            "pollute"
+          ],
+          "translations": {
+            "zh-TW": "儘管屢次警告，重工業仍持續污染這條河流。"
+          }
+        },
+        {
+          "en": "The factory polluted the air for decades before stricter regulations took effect.",
+          "highlight": [
+            "polluted"
+          ],
+          "translations": {
+            "zh-TW": "在更嚴格的法規生效前，那座工廠污染空氣長達數十年。"
+          }
+        },
+        {
+          "en": "Companies caught polluting groundwater now face steep fines and mandatory cleanup.",
+          "highlight": [
+            "polluting"
+          ],
+          "translations": {
+            "zh-TW": "被查獲污染地下水的公司如今面臨高額罰款與強制清理。"
+          }
+        }
+      ],
+      "synonyms": [
+        "contaminate",
+        "taint",
+        "foul"
+      ],
+      "antonyms": [
+        "cleanse",
+        "purify"
+      ],
+      "phrases": [
+        "pollute the air",
+        "pollute water",
+        "pollute the environment",
+        "heavily polluted"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
