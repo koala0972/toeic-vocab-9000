@@ -1,7 +1,7 @@
 {
+  "cefr": "B1",
   "level": 383,
   "tier": "intermediate",
-  "cefr": "B1",
   "words": [
     {
       "id": "B1-383-001",
@@ -12,23 +12,66 @@
       "word": "prescribe",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "prescribes"
+        "present_3rd": "prescribes",
+        "past": "prescribed",
+        "past_participle": "prescribed",
+        "ing": "prescribing"
       },
-      "domain": "general",
+      "domain": "medicine; law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "prescribe",
-          "definition": "v. 規定, 指定, 嘱咐, 开處方"
+          "definition": "v. 開立處方、規定、指定"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The doctor prescribed a course of antibiotics for the infection.",
+          "highlight": [
+            "prescribed"
+          ],
+          "translations": {
+            "zh-TW": "醫生為這次感染開立了一個療程的抗生素。"
+          }
+        },
+        {
+          "en": "The regulations prescribe that all employees must complete safety training annually.",
+          "highlight": [
+            "prescribe"
+          ],
+          "translations": {
+            "zh-TW": "法規規定所有員工每年皆須完成安全訓練。"
+          }
+        },
+        {
+          "en": "She has been prescribing a low-sodium diet to her cardiac patients for over a decade.",
+          "highlight": [
+            "prescribing"
+          ],
+          "translations": {
+            "zh-TW": "她十多年來一直為心臟病患者開立低鈉飲食的處方。"
+          }
+        }
+      ],
+      "synonyms": [
+        "recommend",
+        "stipulate",
+        "mandate"
+      ],
+      "antonyms": [
+        "prohibit",
+        "forbid"
+      ],
+      "phrases": [
+        "prescribe medication",
+        "prescribe a course of action",
+        "prescribe rules",
+        "legally prescribed"
+      ]
     },
     {
       "id": "B1-383-002",
@@ -39,23 +82,62 @@
       "word": "probable",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {
-        "plural": "probables"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "probable",
-          "definition": "a. 很可能的, 大概的, 可信的, n. 很有希望的候選人, 很可能的事情"
+          "definition": "adj. 很可能的、大概的  n. 很有希望的候選人"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Given the strong quarterly results, a dividend increase is highly probable.",
+          "highlight": [
+            "probable"
+          ],
+          "translations": {
+            "zh-TW": "考量到亮眼的季度業績，提高股利 highly probable（很可能）。"
+          }
+        },
+        {
+          "en": "Analysts listed her among the probables to succeed the current CEO.",
+          "highlight": [
+            "probables"
+          ],
+          "translations": {
+            "zh-TW": "分析師把她列入接任現任執行長的熱門候選人之中。"
+          }
+        },
+        {
+          "en": "It is probable that the shipment will arrive late due to port congestion.",
+          "highlight": [
+            "probable"
+          ],
+          "translations": {
+            "zh-TW": "因港口壅塞，貨物很可能延遲抵達。"
+          }
+        }
+      ],
+      "synonyms": [
+        "likely",
+        "plausible",
+        "feasible"
+      ],
+      "antonyms": [
+        "improbable",
+        "unlikely"
+      ],
+      "phrases": [
+        "highly probable",
+        "probable cause",
+        "probable outcome",
+        "more than probable"
+      ]
     },
     {
       "id": "B1-383-003",
@@ -66,23 +148,61 @@
       "word": "prominent",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "prominents"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "prominent",
-          "definition": "a. 卓越的, 顯著的, 突出的, 凸出的"
+          "definition": "adj. 卓越的、顯著的、突出的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A prominent local banker will deliver the keynote address at the trade summit.",
+          "highlight": [
+            "prominent"
+          ],
+          "translations": {
+            "zh-TW": "一位知名的本地銀行家將在貿易高峰會發表主題演講。"
+          }
+        },
+        {
+          "en": "Her prominent cheekbones and elegant posture made her a natural fit for the brand campaign.",
+          "highlight": [
+            "prominent"
+          ],
+          "translations": {
+            "zh-TW": "她突出的顴骨與優雅的儀態讓她成為品牌活動的天然人選。"
+          }
+        },
+        {
+          "en": "The article gave prominent coverage to the merger talks between the two airlines.",
+          "highlight": [
+            "prominent"
+          ],
+          "translations": {
+            "zh-TW": "該報導對兩家航空公司的合併談判給予了顯著的篇幅。"
+          }
+        }
+      ],
+      "synonyms": [
+        "notable",
+        "distinguished",
+        "eminent"
+      ],
+      "antonyms": [
+        "obscure",
+        "insignificant"
+      ],
+      "phrases": [
+        "prominent figure",
+        "prominent role",
+        "prominent position",
+        "prominent feature"
+      ]
     },
     {
       "id": "B1-383-004",
@@ -98,18 +218,57 @@
       "conjugations": {
         "plural": "rainfalls"
       },
-      "domain": "general",
+      "domain": "weather; environment",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "rainfall",
-          "definition": "n. 降雨, 降雨量, [經] 降雨量"
+          "definition": "n. 降雨、降雨量"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Annual rainfall in the coastal region averages about 2,000 millimetres.",
+          "highlight": [
+            "rainfall"
+          ],
+          "translations": {
+            "zh-TW": "沿海地區的年降雨量平均約 2,000 毫米。"
+          }
+        },
+        {
+          "en": "Heavy rainfalls over the weekend flooded several rural roads and delayed deliveries.",
+          "highlight": [
+            "rainfalls"
+          ],
+          "translations": {
+            "zh-TW": "週末的大雨淹沒了多條鄉間道路，導致送貨延遲。"
+          }
+        },
+        {
+          "en": "Insurers assess crop risk partly by studying historical rainfall patterns.",
+          "highlight": [
+            "rainfall"
+          ],
+          "translations": {
+            "zh-TW": "保險業者部分依據歷史降雨形態來評估農作物的風險。"
+          }
+        }
+      ],
+      "synonyms": [
+        "precipitation",
+        "downpour",
+        "rainstorm"
+      ],
+      "antonyms": [
+        "drought"
+      ],
+      "phrases": [
+        "annual rainfall",
+        "heavy rainfall",
+        "rainfall pattern",
+        "record rainfall"
+      ]
     },
     {
       "id": "B1-383-005",
@@ -125,18 +284,58 @@
       "conjugations": {
         "plural": "relocations"
       },
-      "domain": "general",
+      "domain": "human-resources; real-estate",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "relocation",
-          "definition": "n. 再布置, 变换布置, [經] 重新安置"
+          "definition": "n. 重新安置、搬遷"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The company offers a generous relocation package to transferred employees.",
+          "highlight": [
+            "relocation"
+          ],
+          "translations": {
+            "zh-TW": "公司為調任員工提供優渥的搬遷補助方案。"
+          }
+        },
+        {
+          "en": "Multiple relocations over the past year have left the team exhausted and short-staffed.",
+          "highlight": [
+            "relocations"
+          ],
+          "translations": {
+            "zh-TW": "過去一年間的多次搬遷讓團隊疲憊不堪且人手不足。"
+          }
+        },
+        {
+          "en": "Her relocation to the Singapore office takes effect at the start of next quarter.",
+          "highlight": [
+            "relocation"
+          ],
+          "translations": {
+            "zh-TW": "她調往新加坡辦公室的搬遷將於下季初生效。"
+          }
+        }
+      ],
+      "synonyms": [
+        "move",
+        "transfer",
+        "resettlement"
+      ],
+      "antonyms": [
+        "stay",
+        "settlement"
+      ],
+      "phrases": [
+        "relocation package",
+        "relocation expenses",
+        "office relocation",
+        "employee relocation"
+      ]
     },
     {
       "id": "B1-383-006",
@@ -152,18 +351,58 @@
       "conjugations": {
         "plural": "residences"
       },
-      "domain": "general",
+      "domain": "real-estate; legal",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "residence",
-          "definition": "n. 住宅, 居留, 驻扎, 居住期間, [醫] 住房"
+          "definition": "n. 住宅、住所、居住"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Proof of residence, such as a utility bill, is required to open a local bank account.",
+          "highlight": [
+            "residence"
+          ],
+          "translations": {
+            "zh-TW": "開立當地銀行帳戶須提供如水電費帳單等居住證明。"
+          }
+        },
+        {
+          "en": "Several luxury residences along the riverfront were rezoned for mixed commercial use.",
+          "highlight": [
+            "residences"
+          ],
+          "translations": {
+            "zh-TW": "河濱數棟豪華住宅被重新劃分為商住混合用途。"
+          }
+        },
+        {
+          "en": "She has taken up residence in Taipei while overseeing the Asia-Pacific project.",
+          "highlight": [
+            "residence"
+          ],
+          "translations": {
+            "zh-TW": "她在台北定居，同時負責亞太專案的監督。"
+          }
+        }
+      ],
+      "synonyms": [
+        "home",
+        "dwelling",
+        "abode"
+      ],
+      "antonyms": [
+        "office",
+        "workplace"
+      ],
+      "phrases": [
+        "proof of residence",
+        "take up residence",
+        "permanent residence",
+        "official residence"
+      ]
     },
     {
       "id": "B1-383-007",
@@ -174,23 +413,66 @@
       "word": "retrieve",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "retrieves"
+        "present_3rd": "retrieves",
+        "past": "retrieved",
+        "past_participle": "retrieved",
+        "ing": "retrieving"
       },
-      "domain": "general",
+      "domain": "it; data",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "retrieve",
-          "definition": "vt. 取回, 挽回, 弥补, 恢复, 补偿, 回忆, 檢索, vi. 找回猎物, n. 取回, 恢复, 救险球, [計] 檢索"
+          "definition": "v. 取回、檢索、挽回"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The backup system retrieves archived files within seconds of a request.",
+          "highlight": [
+            "retrieves"
+          ],
+          "translations": {
+            "zh-TW": "備份系統在收到請求後數秒內即可檢索出歸檔檔案。"
+          }
+        },
+        {
+          "en": "He retrieved the deleted proposal from the shared drive just before the client meeting.",
+          "highlight": [
+            "retrieved"
+          ],
+          "translations": {
+            "zh-TW": "他在客戶會議前及時從共享磁碟取回了被刪除的提案。"
+          }
+        },
+        {
+          "en": "Retrieving data from legacy systems remains the biggest bottleneck in the migration project.",
+          "highlight": [
+            "Retrieving"
+          ],
+          "translations": {
+            "zh-TW": "從舊系統中檢索資料仍是此次遷移專案最大的瓶頸。"
+          }
+        }
+      ],
+      "synonyms": [
+        "recover",
+        "fetch",
+        "reclaim"
+      ],
+      "antonyms": [
+        "lose",
+        "discard"
+      ],
+      "phrases": [
+        "retrieve data",
+        "retrieve information",
+        "retrieve a document",
+        "retrieve lost files"
+      ]
     },
     {
       "id": "B1-383-008",
@@ -206,18 +488,58 @@
       "conjugations": {
         "plural": "riders"
       },
-      "domain": "general",
+      "domain": "transport; insurance",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "rider",
-          "definition": "n. 骑手, (文件後的)附件, 扶手, [化] 游码"
+          "definition": "n. 騎士、乘客、保單附加條款"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The delivery rider confirmed the package would arrive before noon.",
+          "highlight": [
+            "rider"
+          ],
+          "translations": {
+            "zh-TW": "外送騎士確認包裹會在中午前送達。"
+          }
+        },
+        {
+          "en": "Transit ridership has surged since the new monthly pass was introduced.",
+          "highlight": [
+            "riders"
+          ],
+          "translations": {
+            "zh-TW": "自從推出新的月票方案後，大眾運輸的乘客人數大幅增加。"
+          }
+        },
+        {
+          "en": "The legal team appended a rider to the contract clarifying penalty clauses for late delivery.",
+          "highlight": [
+            "rider"
+          ],
+          "translations": {
+            "zh-TW": "法務團隊在合約中附加了一項條款，釐對延遲交貨的罰則。"
+          }
+        }
+      ],
+      "synonyms": [
+        "passenger",
+        "cyclist",
+        "addendum"
+      ],
+      "antonyms": [
+        "driver",
+        "pedestrian"
+      ],
+      "phrases": [
+        "delivery rider",
+        "insurance rider",
+        "contract rider",
+        "frequent riders"
+      ]
     },
     {
       "id": "B1-383-009",
@@ -233,18 +555,57 @@
       "conjugations": {
         "plural": "rugs"
       },
-      "domain": "general",
+      "domain": "home; furnishing",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "rug",
-          "definition": "n. 小块地毯, 揭露某人"
+          "definition": "n. 小地毯、毛毯"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A hand-woven Persian rug anchors the seating area in the hotel lobby.",
+          "highlight": [
+            "rug"
+          ],
+          "translations": {
+            "zh-TW": "一條手工編織的波斯地毯為飯店大廳的座位區定調。"
+          }
+        },
+        {
+          "en": "The boutique layered several smaller rugs to add texture and warmth to the showroom.",
+          "highlight": [
+            "rugs"
+          ],
+          "translations": {
+            "zh-TW": "這家精品店疊鋪了好幾條小地毯，為展示間增添層次與溫暖感。"
+          }
+        },
+        {
+          "en": "He bought the rug at auction as a long-term investment in traditional craftsmanship.",
+          "highlight": [
+            "rug"
+          ],
+          "translations": {
+            "zh-TW": "他在拍賣會上買下這條地毯，作為對傳統工藝的長期投資。"
+          }
+        }
+      ],
+      "synonyms": [
+        "carpet",
+        "mat",
+        "blanket"
+      ],
+      "antonyms": [
+        "bare floor"
+      ],
+      "phrases": [
+        "area rug",
+        "pull the rug out",
+        "Persian rug",
+        "rug cleaner"
+      ]
     },
     {
       "id": "B1-383-010",
@@ -258,21 +619,60 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "salespeoples"
+        "plural": "salespeople"
       },
-      "domain": "general",
+      "domain": "sales; commerce",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "salespeople",
-          "definition": "n. 售貨員,店員"
+          "definition": "n. 銷售人員、業務員"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Experienced salespeople can anticipate client objections before they are even voiced.",
+          "highlight": [
+            "salespeople"
+          ],
+          "translations": {
+            "zh-TW": "資深的業務員能在客戶提出反對意見前先行預見。"
+          }
+        },
+        {
+          "en": "The dealership hired ten new salespeople to handle the year-end promotional rush.",
+          "highlight": [
+            "salespeople"
+          ],
+          "translations": {
+            "zh-TW": "車商新聘了十名業務員以應付年終促銷的旺季。"
+          }
+        },
+        {
+          "en": "The firm's top salespeople were honoured at the annual awards gala last Friday.",
+          "highlight": [
+            "salespeople"
+          ],
+          "translations": {
+            "zh-TW": "公司頂尖的業務員在上週五的年度頒獎晚會上獲表揚。"
+          }
+        }
+      ],
+      "synonyms": [
+        "salespersons",
+        "sales representatives",
+        "sales reps"
+      ],
+      "antonyms": [
+        "buyers",
+        "customers"
+      ],
+      "phrases": [
+        "sales team",
+        "sales force",
+        "salespeople compensation",
+        "field salespeople"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
