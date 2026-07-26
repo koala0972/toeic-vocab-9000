@@ -1,7 +1,7 @@
 {
+  "cefr": "B1",
   "level": 386,
   "tier": "intermediate",
-  "cefr": "B1",
   "words": [
     {
       "id": "B1-386-001",
@@ -10,25 +10,63 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "biography",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "biographies"
       },
-      "domain": "general",
+      "domain": "publishing",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "biography",
-          "definition": "n. 傳記"
+          "definition": "n. 傳記、人物生平"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The journalist is writing a biography of the company's founder.",
+          "highlight": [
+            "biography"
+          ],
+          "translations": {
+            "zh-TW": "那位記者正在撰寫該公司創辦人的傳記。"
+          }
+        },
+        {
+          "en": "Several biographies of the CEO were published after his retirement.",
+          "highlight": [
+            "biographies"
+          ],
+          "translations": {
+            "zh-TW": "執行長退休後出版了幾本關於他的傳記。"
+          }
+        },
+        {
+          "en": "Biography sections in bookstores have grown steadily over the past decade.",
+          "highlight": [
+            "Biography"
+          ],
+          "translations": {
+            "zh-TW": "書店的傳記區在過去十年間穩定成長。"
+          }
+        }
+      ],
+      "synonyms": [
+        "life story",
+        "memoir",
+        "autobiography"
+      ],
+      "antonyms": [
+        "fiction"
+      ],
+      "phrases": [
+        "biography of",
+        "authorized biography",
+        "biography section",
+        "write a biography"
+      ]
     },
     {
       "id": "B1-386-002",
@@ -37,25 +75,60 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "broom",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "brooms"
       },
-      "domain": "general",
+      "domain": "household",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "broom",
-          "definition": "n. 扫帚, 金雀花, vt. 扫除"
+          "definition": "n. 掃帚、掃把"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Please grab a broom and sweep the warehouse floor before the inspection.",
+          "highlight": [
+            "broom"
+          ],
+          "translations": {
+            "zh-TW": "查核前請拿掃帚把倉庫地板清掃乾淨。"
+          }
+        },
+        {
+          "en": "The janitorial staff replaced all the worn brooms last quarter.",
+          "highlight": [
+            "brooms"
+          ],
+          "translations": {
+            "zh-TW": "清潔人員上季度更換了所有磨損的掃帚。"
+          }
+        },
+        {
+          "en": "A new broom sweeps clean, as the new manager quickly reorganized the team.",
+          "highlight": [
+            "broom"
+          ],
+          "translations": {
+            "zh-TW": "新官上任三把火——新經理很快就重組了團隊。"
+          }
+        }
+      ],
+      "synonyms": [
+        "sweeper",
+        "brush"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "new broom",
+        "broom closet",
+        "broom and dustpan",
+        "jump the broom"
+      ]
     },
     {
       "id": "B1-386-003",
@@ -64,25 +137,59 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "cheeseburger",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "cheeseburgers"
       },
-      "domain": "general",
+      "domain": "food",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cheeseburger",
-          "definition": "n. 干酪汉堡包"
+          "definition": "n. 芝士漢堡、起司漢堡"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "I'd like a cheeseburger and a small coffee, please.",
+          "highlight": [
+            "cheeseburger"
+          ],
+          "translations": {
+            "zh-TW": "您好，我想要一個起司漢堡和一杯小杯咖啡。"
+          }
+        },
+        {
+          "en": "The restaurant sold over five hundred cheeseburgers during the lunch rush.",
+          "highlight": [
+            "cheeseburgers"
+          ],
+          "translations": {
+            "zh-TW": "這家餐廳在午餐尖峰時段賣出了超過五百個起司漢堡。"
+          }
+        },
+        {
+          "en": "Cheeseburger combos now come with a free upsize on weekdays.",
+          "highlight": [
+            "Cheeseburger"
+          ],
+          "translations": {
+            "zh-TW": "平日起司漢堡套餐現在免費升級大份。"
+          }
+        }
+      ],
+      "synonyms": [
+        "cheeseburger sandwich"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "cheeseburger combo",
+        "double cheeseburger",
+        "bacon cheeseburger",
+        "order a cheeseburger"
+      ]
     },
     {
       "id": "B1-386-004",
@@ -91,25 +198,65 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "chilly",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "chillies"
+        "comparative": "chillier",
+        "superlative": "chilliest"
       },
-      "domain": "general",
+      "domain": "weather",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "chilly",
-          "definition": "a. 寒冷的, 冷淡的, 不友好的, [建] 番椒, 冷"
+          "definition": "adj. 寒冷的、冷淡的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "It turned chilly after sunset, so the outdoor event was moved inside.",
+          "highlight": [
+            "chilly"
+          ],
+          "translations": {
+            "zh-TW": "日落後天氣變冷，戶外活動因此移到室內舉行。"
+          }
+        },
+        {
+          "en": "November mornings are noticeably chillier than October ones.",
+          "highlight": [
+            "chillier"
+          ],
+          "translations": {
+            "zh-TW": "十一月的早晨明顯比十月更冷。"
+          }
+        },
+        {
+          "en": "The receptionist gave the latecomer the chilliest welcome I've ever seen.",
+          "highlight": [
+            "chilliest"
+          ],
+          "translations": {
+            "zh-TW": "櫃台接待員給那位遲到者的招呼冷淡到令人驚訝。"
+          }
+        }
+      ],
+      "synonyms": [
+        "cold",
+        "cool",
+        "frosty"
+      ],
+      "antonyms": [
+        "warm",
+        "hot"
+      ],
+      "phrases": [
+        "chilly morning",
+        "chilly reception",
+        "chilly weather",
+        "chilly relationship"
+      ]
     },
     {
       "id": "B1-386-005",
@@ -118,25 +265,61 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "circus",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "circuses"
       },
-      "domain": "general",
+      "domain": "entertainment",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "circus",
-          "definition": "n. 馬戏团, 馬戏, 竞技場"
+          "definition": "n. 馬戲團、喧鬧場面"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The traveling circus set up its tent in the parking lot behind the mall.",
+          "highlight": [
+            "circus"
+          ],
+          "translations": {
+            "zh-TW": "巡迴馬戲團在購物中心後方的停車場搭起了帳篷。"
+          }
+        },
+        {
+          "en": "Circuses across the country have struggled to attract younger audiences.",
+          "highlight": [
+            "Circuses"
+          ],
+          "translations": {
+            "zh-TW": "全國各地的馬戲團一直難以吸引年輕觀眾。"
+          }
+        },
+        {
+          "en": "Negotiations turned into a media circus after the press leak.",
+          "highlight": [
+            "circus"
+          ],
+          "translations": {
+            "zh-TW": "媒體洩密後，談判變成了一場媒體炒作的鬧劇。"
+          }
+        }
+      ],
+      "synonyms": [
+        "fair",
+        "spectacle",
+        "festival"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "media circus",
+        "circus tent",
+        "circus performer",
+        "three-ring circus"
+      ]
     },
     {
       "id": "B1-386-006",
@@ -145,25 +328,69 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "compliment",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "compliments"
+        "plural": "compliments",
+        "present_3rd": "compliments",
+        "past": "complimented",
+        "past_participle": "complimented",
+        "ing": "complimenting"
       },
-      "domain": "general",
+      "domain": "communication",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "compliment",
-          "definition": "n. 稱赞, 恭维, 敬意, vt. 稱赞, 褒扬, 恭维"
+          "definition": "n. 讚美、恭維  v. 讚美、恭維"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The client paid me a compliment on the revised proposal.",
+          "highlight": [
+            "compliment"
+          ],
+          "translations": {
+            "zh-TW": "客戶對我修改過的提案給予了讚美。"
+          }
+        },
+        {
+          "en": "The director complimented the team on finishing the project ahead of schedule.",
+          "highlight": [
+            "complimented"
+          ],
+          "translations": {
+            "zh-TW": "主管稱讚團隊提前完成了專案。"
+          }
+        },
+        {
+          "en": "She is always complimenting her staff in front of visitors.",
+          "highlight": [
+            "complimenting"
+          ],
+          "translations": {
+            "zh-TW": "她總是在訪客面前稱讚她的員工。"
+          }
+        }
+      ],
+      "synonyms": [
+        "praise",
+        "flatter",
+        "commendation"
+      ],
+      "antonyms": [
+        "criticism",
+        "insult"
+      ],
+      "phrases": [
+        "pay a compliment",
+        "backhanded compliment",
+        "compliment on",
+        "return the compliment"
+      ]
     },
     {
       "id": "B1-386-007",
@@ -172,25 +399,61 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "consignment",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "consignments"
       },
-      "domain": "general",
+      "domain": "commerce",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "consignment",
-          "definition": "n. 委托, [經] 委托, 寄銷, 寄銷品"
+          "definition": "n. 寄銷、託售貨品、託運貨物"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "A new consignment of office chairs arrived at the warehouse this morning.",
+          "highlight": [
+            "consignment"
+          ],
+          "translations": {
+            "zh-TW": "今早有一批新的辦公椅寄銷品送達倉庫。"
+          }
+        },
+        {
+          "en": "Two consignments were delayed at customs and missed the launch event.",
+          "highlight": [
+            "consignments"
+          ],
+          "translations": {
+            "zh-TW": "兩批託運貨物在海關耽擱，錯過了發表會。"
+          }
+        },
+        {
+          "en": "Consignment terms let retailers return unsold goods after ninety days.",
+          "highlight": [
+            "Consignment"
+          ],
+          "translations": {
+            "zh-TW": "寄銷條款允許零售商在九十天後退回未售出的商品。"
+          }
+        }
+      ],
+      "synonyms": [
+        "shipment",
+        "delivery",
+        "batch"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "on consignment",
+        "consignment store",
+        "consignment note",
+        "consignment goods"
+      ]
     },
     {
       "id": "B1-386-008",
@@ -199,25 +462,64 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "continental",
-      "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
       "conjugations": {
         "plural": "continentals"
       },
-      "domain": "general",
+      "domain": "geography",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "continental",
-          "definition": "a. 大陆的, 洲的, n. 欧洲大陆人"
+          "definition": "adj. 大陸的、歐洲大陸的  n. 歐洲大陸人"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The hotel offers a continental breakfast with pastries and fresh fruit.",
+          "highlight": [
+            "continental"
+          ],
+          "translations": {
+            "zh-TW": "這家飯店提供含糕點和新鮮水果的歐陸式早餐。"
+          }
+        },
+        {
+          "en": "Continental flights between the two hubs were suspended during the storm.",
+          "highlight": [
+            "Continental"
+          ],
+          "translations": {
+            "zh-TW": "風暴期間兩個樞紐之間的大陸航線暫停營運。"
+          }
+        },
+        {
+          "en": "Many continentals prefer espresso over drip coffee.",
+          "highlight": [
+            "continentals"
+          ],
+          "translations": {
+            "zh-TW": "許多歐洲大陸人比起滴漏式咖啡更喜歡濃縮咖啡。"
+          }
+        }
+      ],
+      "synonyms": [
+        "mainland",
+        "European"
+      ],
+      "antonyms": [
+        "island",
+        "overseas"
+      ],
+      "phrases": [
+        "continental breakfast",
+        "continental drift",
+        "continental shelf",
+        "continental airline"
+      ]
     },
     {
       "id": "B1-386-009",
@@ -226,25 +528,68 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "copyright",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "copyrights"
+        "plural": "copyrights",
+        "present_3rd": "copyrights",
+        "past": "copyrighted",
+        "past_participle": "copyrighted",
+        "ing": "copyrighting"
       },
-      "domain": "general",
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "copyright",
-          "definition": "n. 版权, 著作权, [法] 著作权"
+          "definition": "n. 著作權、版權  v. 取得版權  adj. 受版權保護的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The publisher holds the copyright on the author's first three novels.",
+          "highlight": [
+            "copyright"
+          ],
+          "translations": {
+            "zh-TW": "出版社持有該作者前三部小說的著作權。"
+          }
+        },
+        {
+          "en": "The designer copyrighted the new logo before launching the brand.",
+          "highlight": [
+            "copyrighted"
+          ],
+          "translations": {
+            "zh-TW": "設計師在品牌上線前為新標誌取得了版權。"
+          }
+        },
+        {
+          "en": "All images on this site are copyrighted and may not be reused.",
+          "highlight": [
+            "copyrighted"
+          ],
+          "translations": {
+            "zh-TW": "本網站所有圖片均受版權保護，不得另行使用。"
+          }
+        }
+      ],
+      "synonyms": [
+        "intellectual property",
+        "rights"
+      ],
+      "antonyms": [
+        "public domain"
+      ],
+      "phrases": [
+        "copyright law",
+        "copyright infringement",
+        "copyright holder",
+        "all rights reserved"
+      ]
     },
     {
       "id": "B1-386-010",
@@ -253,26 +598,67 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "demolish",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "demolishs"
+        "present_3rd": "demolishes",
+        "past": "demolished",
+        "past_participle": "demolished",
+        "ing": "demolishing"
       },
-      "domain": "general",
+      "domain": "construction",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "demolish",
-          "definition": "vt. 毁坏, 破坏, 粉碎"
+          "definition": "v. 拆毀、徹底摧毀"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The city plans to demolish the abandoned factory next spring.",
+          "highlight": [
+            "demolish"
+          ],
+          "translations": {
+            "zh-TW": "市府計畫明年春天拆毀這座廢棄工廠。"
+          }
+        },
+        {
+          "en": "The old bridge was demolished to make room for the new highway.",
+          "highlight": [
+            "demolished"
+          ],
+          "translations": {
+            "zh-TW": "舊橋被拆毀以騰出空間興建新高速公路。"
+          }
+        },
+        {
+          "en": "Crews are demolishing the damaged wing of the hotel this week.",
+          "highlight": [
+            "demolishing"
+          ],
+          "translations": {
+            "zh-TW": "工程團隊本週正在拆除飯店受損的側翼。"
+          }
+        }
+      ],
+      "synonyms": [
+        "destroy",
+        "raze",
+        "tear down"
+      ],
+      "antonyms": [
+        "build",
+        "construct"
+      ],
+      "phrases": [
+        "demolish a building",
+        "demolish an argument",
+        "demolition crew",
+        "demolition order"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
