@@ -1,7 +1,7 @@
 {
+  "cefr": "B1",
   "level": 387,
   "tier": "intermediate",
-  "cefr": "B1",
   "words": [
     {
       "id": "B1-387-001",
@@ -10,25 +10,65 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "departmental",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "departmentals"
+        "comparative": "more departmental",
+        "superlative": "most departmental"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "departmental",
-          "definition": "a. 部門的, 各部的, 分科的"
+          "definition": "a. 部門的、各部門的、分科的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Each branch office follows its own departmental policy for expense approvals.",
+          "highlight": [
+            "departmental"
+          ],
+          "translations": {
+            "zh-TW": "每個分公司都遵循各自的部門支出核准政策。"
+          }
+        },
+        {
+          "en": "When budgets tightened, a more departmental breakdown of marketing costs was required.",
+          "highlight": [
+            "more departmental"
+          ],
+          "translations": {
+            "zh-TW": "預算緊縮時，更深入的部門級別行銷成本分析成為必要。"
+          }
+        },
+        {
+          "en": "The most departmental review the team has ever conducted revealed hidden hiring costs.",
+          "highlight": [
+            "most departmental"
+          ],
+          "translations": {
+            "zh-TW": "團隊做過最詳細的部門級別審查暴露了隱藏的招募成本。"
+          }
+        }
+      ],
+      "synonyms": [
+        "divisional",
+        "sectional",
+        "organizational"
+      ],
+      "antonyms": [
+        "companywide",
+        "organization-wide"
+      ],
+      "phrases": [
+        "departmental policy",
+        "departmental budget",
+        "departmental meeting",
+        "departmental restructuring"
+      ]
     },
     {
       "id": "B1-387-002",
@@ -37,25 +77,67 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "devastate",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "devastates"
+        "present_3rd": "devastates",
+        "past": "devastated",
+        "past_participle": "devastated",
+        "ing": "devastating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "devastate",
-          "definition": "vt. 毁坏, [法] 使荒废, 毁灭, 掠夺"
+          "definition": "v. 毀壞、使荒廢、徹底破壞"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The Category 5 hurricane devastates coastal towns every few decades.",
+          "highlight": [
+            "devastates"
+          ],
+          "translations": {
+            "zh-TW": "五級颶風每隔幾十年就會摧毀沿海城鎮。"
+          }
+        },
+        {
+          "en": "The wildfire devastated more than 50,000 acres of managed timberland last summer.",
+          "highlight": [
+            "devastated"
+          ],
+          "translations": {
+            "zh-TW": "去年夏天，那場野火毀壞了超過五萬英畝的林地。"
+          }
+        },
+        {
+          "en": "A devastating earthquake last year has left the supply chain still recovering.",
+          "highlight": [
+            "devastating"
+          ],
+          "translations": {
+            "zh-TW": "去年那場毀滅性的地震讓供應鏈至今仍在復原。"
+          }
+        }
+      ],
+      "synonyms": [
+        "destroy",
+        "ruin",
+        "ravage"
+      ],
+      "antonyms": [
+        "rebuild",
+        "restore"
+      ],
+      "phrases": [
+        "devastate the economy",
+        "devastating flood",
+        "devastated region",
+        "devastating impact"
+      ]
     },
     {
       "id": "B1-387-003",
@@ -64,25 +146,64 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "diagnostic",
-      "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
       "conjugations": {
         "plural": "diagnostics"
       },
-      "domain": "general",
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "diagnostic",
-          "definition": "a. 診断的, 有助于診断的, 特征的, n. 診断, 病的征候, 診断法, [計] 診断的"
+          "definition": "a. 診斷的、用於判斷的  n. 診斷程式、診斷法"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The IT department runs a diagnostic test on every server before the morning shift begins.",
+          "highlight": [
+            "diagnostic"
+          ],
+          "translations": {
+            "zh-TW": "IT 部門在早班開始前會對每台伺服器執行診斷測試。"
+          }
+        },
+        {
+          "en": "A diagnostic ran for only three minutes before the software flagged a memory fault.",
+          "highlight": [
+            "diagnostic"
+          ],
+          "translations": {
+            "zh-TW": "診斷程式只跑了三分鐘，軟體就標記出記憶體故障。"
+          }
+        },
+        {
+          "en": "Vehicle diagnostics now produce a PDF report that mechanics review within minutes.",
+          "highlight": [
+            "diagnostics"
+          ],
+          "translations": {
+            "zh-TW": "如今車輛診斷會產出一份 PDF 報告，技工在數分鐘內即可檢閱。"
+          }
+        }
+      ],
+      "synonyms": [
+        "analytical",
+        "investigative",
+        "troubleshooting"
+      ],
+      "antonyms": [
+        "symptomatic"
+      ],
+      "phrases": [
+        "diagnostic test",
+        "diagnostic tool",
+        "diagnostic report",
+        "run diagnostics"
+      ]
     },
     {
       "id": "B1-387-004",
@@ -91,25 +212,67 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "disable",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "disables"
+        "present_3rd": "disables",
+        "past": "disabled",
+        "past_participle": "disabled",
+        "ing": "disabling"
       },
-      "domain": "general",
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "disable",
-          "definition": "vt. 使失去能力, 使残废, (律)使无资格, [計] 使无效, 禁止, 關闭"
+          "definition": "v. 使失去能力、停用、關閉、使無效"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The new security policy automatically disables inactive accounts after ninety days.",
+          "highlight": [
+            "disables"
+          ],
+          "translations": {
+            "zh-TW": "新的安全政策會自動停用九十天未登入的帳號。"
+          }
+        },
+        {
+          "en": "The administrator disabled guest access before deploying the updated firmware.",
+          "highlight": [
+            "disabled"
+          ],
+          "translations": {
+            "zh-TW": "管理員在部署更新版韌體前，先停用了訪客存取權限。"
+          }
+        },
+        {
+          "en": "A disabling injury ended her competitive career but opened the door to coaching.",
+          "highlight": [
+            "disabling"
+          ],
+          "translations": {
+            "zh-TW": "一場使她失去行動能力的傷勢結束了她的競技生涯，卻為她開啟了教練之路。"
+          }
+        }
+      ],
+      "synonyms": [
+        "deactivate",
+        "turn off",
+        "shut down"
+      ],
+      "antonyms": [
+        "enable",
+        "activate"
+      ],
+      "phrases": [
+        "disable an account",
+        "disable notifications",
+        "disabled access",
+        "disable a feature"
+      ]
     },
     {
       "id": "B1-387-005",
@@ -118,25 +281,61 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "donut",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "donuts"
       },
-      "domain": "general",
+      "domain": "food",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "donut",
-          "definition": "[醫] 電子回旋加速器环状真空室, 同步加速器环状真空室"
+          "definition": "n. 甜甜圈、油炸圈餅"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "A box of fresh donut holes remained at the back of the conference room after the client meeting.",
+          "highlight": [
+            "donut"
+          ],
+          "translations": {
+            "zh-TW": "客戶會議結束後，會議室後方還剩下一盒新鮮的甜甜圈球。"
+          }
+        },
+        {
+          "en": "The cafe stocks six different donuts each morning, all of which sell out by noon.",
+          "highlight": [
+            "donuts"
+          ],
+          "translations": {
+            "zh-TW": "這家咖啡館每天早上備有六種不同的甜甜圈，全部都在中午前售完。"
+          }
+        },
+        {
+          "en": "Marketing now runs a donut-and-coffee promo every Friday to drive foot traffic.",
+          "highlight": [
+            "donut"
+          ],
+          "translations": {
+            "zh-TW": "行銷部現在每週五推出甜甜圈加咖啡的促銷活動，以帶動來客量。"
+          }
+        }
+      ],
+      "synonyms": [
+        "doughnut",
+        "fried ring",
+        "pastry"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "doughnut shop",
+        "donut box",
+        "glazed donut",
+        "donut chart"
+      ]
     },
     {
       "id": "B1-387-006",
@@ -145,25 +344,61 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "doorman",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "doormans"
+        "plural": "doormen"
       },
-      "domain": "general",
+      "domain": "service",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "doorman",
-          "definition": "n. 看門人"
+          "definition": "n. 門房、門僮、看門人"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The doorman of the boutique hotel has greeted guests by name for over two decades.",
+          "highlight": [
+            "doorman"
+          ],
+          "translations": {
+            "zh-TW": "這家精品飯店的門房已經超過二十年，都會用名字稱呼客人來迎接。"
+          }
+        },
+        {
+          "en": "Five experienced doormen take turns covering the main entrance throughout the day.",
+          "highlight": [
+            "doormen"
+          ],
+          "translations": {
+            "zh-TW": "五位資深門房全天輪班守著大門入口。"
+          }
+        },
+        {
+          "en": "The luxury apartment building lists a doorman among its main selling points.",
+          "highlight": [
+            "doorman"
+          ],
+          "translations": {
+            "zh-TW": "這棟豪華公寓將「有門房」列為主要賣點之一。"
+          }
+        }
+      ],
+      "synonyms": [
+        "porter",
+        "concierge",
+        "gatekeeper"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "hotel doorman",
+        "full-time doorman",
+        "uniformed doorman",
+        "doorman building"
+      ]
     },
     {
       "id": "B1-387-007",
@@ -172,25 +407,62 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "electronically",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
-      "conjugations": {
-        "plural": "electronicallies"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "electronically",
-          "definition": "adv. 電子地"
+          "definition": "adv. 電子地、以電子方式"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Applicants may submit all visa documents electronically through the consulate portal.",
+          "highlight": [
+            "electronically"
+          ],
+          "translations": {
+            "zh-TW": "申請人可透過領事館入口網站以電子方式提交所有簽證文件。"
+          }
+        },
+        {
+          "en": "The convention center now collects attendance data electronically rather than via paper forms.",
+          "highlight": [
+            "electronically"
+          ],
+          "translations": {
+            "zh-TW": "會議中心現在以電子方式收集出席資料，不再使用紙本表單。"
+          }
+        },
+        {
+          "en": "Transferring funds electronically generally clears within one business day.",
+          "highlight": [
+            "electronically"
+          ],
+          "translations": {
+            "zh-TW": "以電子方式轉帳通常會在一個工作天內完成清算。"
+          }
+        }
+      ],
+      "synonyms": [
+        "digitally",
+        "via computer",
+        "online"
+      ],
+      "antonyms": [
+        "manually",
+        "by hand"
+      ],
+      "phrases": [
+        "electronically sign",
+        "submit electronically",
+        "electronically stored",
+        "electronically controlled"
+      ]
     },
     {
       "id": "B1-387-008",
@@ -199,25 +471,67 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "elevate",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "elevates"
+        "present_3rd": "elevates",
+        "past": "elevated",
+        "past_participle": "elevated",
+        "ing": "elevating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "elevate",
-          "definition": "vt. 举起, 提拔, 鼓舞"
+          "definition": "v. 舉起、提升、提拔、使升高"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The promotion elevates Mr. Tanaka to the position of regional sales director.",
+          "highlight": [
+            "elevates"
+          ],
+          "translations": {
+            "zh-TW": "這次升遷將田中先生提升為區域業務總監。"
+          }
+        },
+        {
+          "en": "The board elevated her to executive vice president after a decade of strong performance.",
+          "highlight": [
+            "elevated"
+          ],
+          "translations": {
+            "zh-TW": "董事會在十年的優異表現後，將她提拔為執行副總裁。"
+          }
+        },
+        {
+          "en": "Coaching new hires can be an elevating experience for senior employees as well.",
+          "highlight": [
+            "elevating"
+          ],
+          "translations": {
+            "zh-TW": "指導新進員工對資深員工而言也可能是一種提升自我的經驗。"
+          }
+        }
+      ],
+      "synonyms": [
+        "promote",
+        "raise",
+        "lift"
+      ],
+      "antonyms": [
+        "demote",
+        "lower"
+      ],
+      "phrases": [
+        "elevate to a position",
+        "elevating experience",
+        "elevated platform",
+        "elevate standards"
+      ]
     },
     {
       "id": "B1-387-009",
@@ -226,25 +540,63 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "engagement",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "engagements"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "engagement",
-          "definition": "n. 诺言, 約會, 婚約, 交战, [醫] 衔接"
+          "definition": "n. 約會、聘約、訂婚、客戶參與度、交戰"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Building long-term client engagement is now a core KPI for every account manager.",
+          "highlight": [
+            "engagement"
+          ],
+          "translations": {
+            "zh-TW": "建立長期的客戶參與度現在是每位業務經理的核心績效指標。"
+          }
+        },
+        {
+          "en": "The chief surgeon's speaking engagements take her to three conferences this quarter.",
+          "highlight": [
+            "engagements"
+          ],
+          "translations": {
+            "zh-TW": "這位主治外科醫師本季的演講行程將帶她參加三場研討會。"
+          }
+        },
+        {
+          "en": "Our consulting engagement with the retailer was extended for another six months.",
+          "highlight": [
+            "engagement"
+          ],
+          "translations": {
+            "zh-TW": "我們與該零售商的顧問委託合約又延長了六個月。"
+          }
+        }
+      ],
+      "synonyms": [
+        "appointment",
+        "booking",
+        "involvement"
+      ],
+      "antonyms": [
+        "disengagement"
+      ],
+      "phrases": [
+        "customer engagement",
+        "speaking engagement",
+        "consulting engagement",
+        "engagement ring"
+      ]
     },
     {
       "id": "B1-387-010",
@@ -253,26 +605,64 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "enrollment",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "enrollments"
       },
-      "domain": "general",
+      "domain": "education",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "enrollment",
-          "definition": "n. 登記, 注册, 入伍, [經] 登記, 注册"
+          "definition": "n. 註冊、登記、入學人數、入伍"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Enrollment in the online MBA program has tripled over the past three semesters.",
+          "highlight": [
+            "Enrollment"
+          ],
+          "translations": {
+            "zh-TW": "線上 MBA 課程的註冊人數在過去三個學期成長了三倍。"
+          }
+        },
+        {
+          "en": "New enrollments for the spring semester must be confirmed before December 1st.",
+          "highlight": [
+            "enrollments"
+          ],
+          "translations": {
+            "zh-TW": "春季班的註冊新生必須在十二月一日前完成確認。"
+          }
+        },
+        {
+          "en": "Visitors to the enrollment desk receive a printed campus map and a welcome packet.",
+          "highlight": [
+            "enrollment"
+          ],
+          "translations": {
+            "zh-TW": "前往報名處的訪客會收到一份印刷版校園地圖和歡迎包。"
+          }
+        }
+      ],
+      "synonyms": [
+        "registration",
+        "signup",
+        "admission"
+      ],
+      "antonyms": [
+        "withdrawal",
+        "cancellation"
+      ],
+      "phrases": [
+        "enrollment period",
+        "enrollment fee",
+        "open enrollment",
+        "enrollment deadline"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
