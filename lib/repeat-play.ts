@@ -36,7 +36,12 @@ let runningRef: { stop: boolean; handler?: RepeatHanlder } | null = null;
 function buildSegments(entry: VocabularyEntry, lang: Exclude<LangCode, 'en'>): Segment[] {
   const segs: Segment[] = [];
 
-  // 1. 中文解釋: lang_word + definition, 不停
+  // 1. 英文單字先念, 念完停
+  if (entry.word) {
+    segs.push({ lang: 'en', text: entry.word, pauseAfterSelf: true });
+  }
+
+  // 2. 中文解釋: lang_word + definition, 不停
   const tr = entry.translations.find(t => t.lang === lang)
           ?? entry.translations.find(t => t.lang === 'zh-TW');
   if (tr) {
@@ -46,11 +51,6 @@ function buildSegments(entry: VocabularyEntry, lang: Exclude<LangCode, 'en'>): S
     if (zhText.trim()) {
       segs.push({ lang, text: zhText, pauseAfterSelf: false });
     }
-  }
-
-  // 2. 英文單字, 念完停
-  if (entry.word) {
-    segs.push({ lang: 'en', text: entry.word, pauseAfterSelf: true });
   }
 
   // 3. 每個例句: 中文翻譯 (不停) → 英文 (停)
