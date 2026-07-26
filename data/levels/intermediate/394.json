@@ -12,7 +12,8 @@
       "word": "daytime",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "daytimes"
@@ -22,13 +23,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "daytime",
-          "definition": "n. 白天, 日間"
+          "definition": "n. 白天、日間  adj. 日間的、白天的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The call center operates only during daytime hours to reduce labor costs.",
+          "highlight": [
+            "daytime"
+          ],
+          "translations": {
+            "zh-TW": "客服中心只在白天時段營運，以降低人事成本。"
+          }
+        },
+        {
+          "en": "Daytimes in summer are extremely long in northern Europe.",
+          "highlight": [
+            "daytimes"
+          ],
+          "translations": {
+            "zh-TW": "北歐夏季的日間時間非常長。"
+          }
+        },
+        {
+          "en": "The daytime temperature in the warehouse often exceeds 32 degrees Celsius.",
+          "highlight": [
+            "daytime"
+          ],
+          "translations": {
+            "zh-TW": "倉庫白天的氣溫經常超過攝氏32度。"
+          }
+        }
+      ],
+      "synonyms": [
+        "daylight",
+        "day",
+        "sunlight"
+      ],
+      "antonyms": [
+        "nighttime",
+        "night"
+      ],
+      "phrases": [
+        "daytime hours",
+        "daytime temperature",
+        "daytime television"
+      ]
     },
     {
       "id": "B1-394-002",
@@ -39,23 +79,70 @@
       "word": "discard",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
       "conjugations": {
-        "plural": "discards"
+        "plural": "discards",
+        "present_3rd": "discards",
+        "past": "discarded",
+        "past_participle": "discarded",
+        "ing": "discarding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "discard",
-          "definition": "vt. 丢弃, 抛弃, vi. 垫牌, n. 垫牌, 抛弃"
+          "definition": "v. 丟棄、廢棄、摒棄  n. 廢棄物、被丟棄的東西"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Please discard the confidential documents in the shredder, not the recycling bin.",
+          "highlight": [
+            "discard"
+          ],
+          "translations": {
+            "zh-TW": "請將機密文件丟入碎紙機銷毀，不要丟到資源回收桶。"
+          }
+        },
+        {
+          "en": "The audit revealed that several expired contracts had been discarded without authorization.",
+          "highlight": [
+            "discarded"
+          ],
+          "translations": {
+            "zh-TW": "審計發現有幾份過期合約未經授權就被丟棄了。"
+          }
+        },
+        {
+          "en": "Discarding outdated inventory helped the warehouse recover valuable floor space.",
+          "highlight": [
+            "Discarding"
+          ],
+          "translations": {
+            "zh-TW": "廢棄過時的庫存讓倉庫騰出了寶貴的空間。"
+          }
+        }
+      ],
+      "synonyms": [
+        "dispose of",
+        "jettison",
+        "throw away",
+        "scrap"
+      ],
+      "antonyms": [
+        "keep",
+        "retain",
+        "preserve"
+      ],
+      "phrases": [
+        "discard pile",
+        "discard pile",
+        "discard outdated files",
+        "discard a draft"
+      ]
     },
     {
       "id": "B1-394-003",
@@ -66,23 +153,61 @@
       "word": "drastically",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
-      "conjugations": {
-        "plural": "drasticallies"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "drastically",
-          "definition": "adv. 激烈地, 彻底地"
+          "definition": "adv. 激烈地、徹底地、大幅地"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Sales dropped drastically after the competitor launched its new product.",
+          "highlight": [
+            "drastically"
+          ],
+          "translations": {
+            "zh-TW": "競爭對手推出新產品後，銷售量大幅下滑。"
+          }
+        },
+        {
+          "en": "The company drastically reduced its travel budget to weather the recession.",
+          "highlight": [
+            "drastically"
+          ],
+          "translations": {
+            "zh-TW": "公司為了度過不景氣，大幅縮減差旅預算。"
+          }
+        },
+        {
+          "en": "Profit margins have changed drastically since the new tariff policy took effect.",
+          "highlight": [
+            "drastically"
+          ],
+          "translations": {
+            "zh-TW": "自從新關稅政策實施以來，利潤率出現了劇烈變動。"
+          }
+        }
+      ],
+      "synonyms": [
+        "severely",
+        "radically",
+        "considerably"
+      ],
+      "antonyms": [
+        "slightly",
+        "marginally",
+        "moderately"
+      ],
+      "phrases": [
+        "drastically reduced",
+        "drastically changed",
+        "drastically cut"
+      ]
     },
     {
       "id": "B1-394-004",
@@ -93,23 +218,68 @@
       "word": "erase",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "erases"
+        "present_3rd": "erases",
+        "past": "erased",
+        "past_participle": "erased",
+        "ing": "erasing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "erase",
-          "definition": "vt. 抹去, 擦掉, [計] 清洗; 擦除; 抹除; DOS內部命令:从磁盘上删除一個或多個文件"
+          "definition": "v. 抹去、擦掉、清除（資料、記憶等）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Please erase the saved password from this shared workstation before logging out.",
+          "highlight": [
+            "erase"
+          ],
+          "translations": {
+            "zh-TW": "登出前請將這台共用工作站上儲存的密碼清除掉。"
+          }
+        },
+        {
+          "en": "The technician erased all data from the hard drive before returning the leased laptop.",
+          "highlight": [
+            "erased"
+          ],
+          "translations": {
+            "zh-TW": "技術員在歸還租賃筆電前，已將硬碟上的所有資料抹除。"
+          }
+        },
+        {
+          "en": "Erasing a single line in the master spreadsheet shifted every formula below it.",
+          "highlight": [
+            "Erasing"
+          ],
+          "translations": {
+            "zh-TW": "在主試算表中刪除一行，就會讓下方所有的公式位移。"
+          }
+        }
+      ],
+      "synonyms": [
+        "delete",
+        "remove",
+        "wipe",
+        "eliminate"
+      ],
+      "antonyms": [
+        "keep",
+        "record",
+        "preserve"
+      ],
+      "phrases": [
+        "erase data",
+        "erase a memory",
+        "erase a file",
+        "erase history"
+      ]
     },
     {
       "id": "B1-394-005",
@@ -130,13 +300,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "explorer",
-          "definition": "n. 探险家, 探測者, 勘探器, [醫] 探察器"
+          "definition": "n. 探險家、勘探者、（瀏覽器等）探索工具"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The exhibit honors a famous explorer who mapped the Antarctic coastline.",
+          "highlight": [
+            "explorer"
+          ],
+          "translations": {
+            "zh-TW": "展覽紀念一位繪製南極海岸線地圖的著名探險家。"
+          }
+        },
+        {
+          "en": "Early explorers relied on star charts to navigate uncharted waters.",
+          "highlight": [
+            "explorers"
+          ],
+          "translations": {
+            "zh-TW": "早期的探險家靠星圖在未知水域中導航。"
+          }
+        },
+        {
+          "en": "The default file explorer in the new operating system supports tabbed browsing.",
+          "highlight": [
+            "explorer"
+          ],
+          "translations": {
+            "zh-TW": "新作業系統的預設檔案總管支援分頁瀏覽。"
+          }
+        }
+      ],
+      "synonyms": [
+        "discoverer",
+        "pioneer",
+        "voyager"
+      ],
+      "antonyms": [
+        "settler",
+        "inhabitant"
+      ],
+      "phrases": [
+        "file explorer",
+        "internet explorer",
+        "famous explorer",
+        "space explorer"
+      ]
     },
     {
       "id": "B1-394-006",
@@ -147,23 +357,66 @@
       "word": "factual",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "factuals"
+        "comparative": "more factual",
+        "superlative": "most factual"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "factual",
-          "definition": "a. 事實的, 實际的, [法] 事實的, 與事實有關的, 實际的"
+          "definition": "adj. 事實的、真實的、根據事實的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The journalist was praised for sticking to a factual account of the merger talks.",
+          "highlight": [
+            "factual"
+          ],
+          "translations": {
+            "zh-TW": "這位記者因堅持對併購談判作如實報導而受到讚揚。"
+          }
+        },
+        {
+          "en": "The second draft was more factual than the first, citing specific revenue figures.",
+          "highlight": [
+            "more factual"
+          ],
+          "translations": {
+            "zh-TW": "第二版草稿比第一版更符合事實，引用了具體的營收數據。"
+          }
+        },
+        {
+          "en": "Of all the proposals, the audit team's was the most factual and best supported by evidence.",
+          "highlight": [
+            "most factual"
+          ],
+          "translations": {
+            "zh-TW": "所有提案中，稽核小組的最貼近事實，也最有證據支持。"
+          }
+        }
+      ],
+      "synonyms": [
+        "true",
+        "accurate",
+        "objective",
+        "verifiable"
+      ],
+      "antonyms": [
+        "fictional",
+        "false",
+        "inaccurate"
+      ],
+      "phrases": [
+        "factual information",
+        "factual error",
+        "factual basis",
+        "factual accuracy"
+      ]
     },
     {
       "id": "B1-394-007",
@@ -184,13 +437,54 @@
         {
           "lang": "zh-TW",
           "lang_word": "fixture",
-          "definition": "n. 固定(状态), 固定物, 設備, [計] 夹具"
+          "definition": "n. 固定裝置、固定物、（運動聯賽的）預定赛事"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The lighting fixture in the conference room produced a harsh glare on the projector screen.",
+          "highlight": [
+            "fixture"
+          ],
+          "translations": {
+            "zh-TW": "會議室的燈具在投影幕上產生刺眼的反光。"
+          }
+        },
+        {
+          "en": "Shelving units and ceiling fixtures are considered permanent and stay with the building.",
+          "highlight": [
+            "fixtures"
+          ],
+          "translations": {
+            "zh-TW": "層架與天花板固定裝置屬於永久性設備，會隨建物留下。"
+          }
+        },
+        {
+          "en": "The store has been a fixture of the neighborhood for over thirty years.",
+          "highlight": [
+            "fixture"
+          ],
+          "translations": {
+            "zh-TW": "這家店已是這個社區三十多年來的固定地標。"
+          }
+        }
+      ],
+      "synonyms": [
+        "fitting",
+        "installations",
+        "attachment",
+        "landmark"
+      ],
+      "antonyms": [
+        "loose item",
+        "movable"
+      ],
+      "phrases": [
+        "lighting fixture",
+        "permanent fixture",
+        "bathroom fixtures",
+        "fixture list"
+      ]
     },
     {
       "id": "B1-394-008",
@@ -203,21 +497,56 @@
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "footwears"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "footwear",
-          "definition": "n. 鞋类, 靴类"
+          "definition": "n. 鞋類、足部穿著（總稱）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "This factory supplies protective footwear to construction firms across the region.",
+          "highlight": [
+            "footwear"
+          ],
+          "translations": {
+            "zh-TW": "這家工廠為全區的營建公司供應防護鞋。"
+          }
+        },
+        {
+          "en": "Sales of luxury footwear surged during the year-end shopping season.",
+          "highlight": [
+            "footwear"
+          ],
+          "translations": {
+            "zh-TW": "年底購物季期間，精品鞋類的銷量大幅攀升。"
+          }
+        },
+        {
+          "en": "Staff entering the lab must change into clean footwear stored by the entrance.",
+          "highlight": [
+            "footwear"
+          ],
+          "translations": {
+            "zh-TW": "進入實驗室的人員必須換上放在入口處的潔淨鞋。"
+          }
+        }
+      ],
+      "synonyms": [
+        "shoes",
+        "boots",
+        "footgear"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "protective footwear",
+        "footwear industry",
+        "sports footwear",
+        "footwear brand"
+      ]
     },
     {
       "id": "B1-394-009",
@@ -238,13 +567,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "gymnasium",
-          "definition": "n. 健身房, 体育館, [醫] 体育館, 健身室, 運動場"
+          "definition": "n. 體育館、健身房"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The annual shareholders' meeting will be held in the company gymnasium.",
+          "highlight": [
+            "gymnasium"
+          ],
+          "translations": {
+            "zh-TW": "年度股東大會將在公司體育館舉行。"
+          }
+        },
+        {
+          "en": "Several new gymnasiums were built to accommodate the growing number of employees.",
+          "highlight": [
+            "gymnasiums"
+          ],
+          "translations": {
+            "zh-TW": "為了容納日益增加的員工，興建了好幾座新健身房。"
+          }
+        },
+        {
+          "en": "Members can access the gymnasium free of charge between 6 a.m. and 10 p.m.",
+          "highlight": [
+            "gymnasium"
+          ],
+          "translations": {
+            "zh-TW": "會員可在早上六點到晚上十點之間免費使用健身房。"
+          }
+        }
+      ],
+      "synonyms": [
+        "gym",
+        "sports hall",
+        "fitness center"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "school gymnasium",
+        "company gymnasium",
+        "indoor gymnasium",
+        "gymnasium floor"
+      ]
     },
     {
       "id": "B1-394-010",
@@ -255,24 +621,58 @@
       "word": "hereby",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
-      "conjugations": {
-        "plural": "herebies"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "hereby",
-          "definition": "adv. 因此, 据此"
+          "definition": "adv. 茲、特此、藉此"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The company hereby confirms that all outstanding invoices have been settled in full.",
+          "highlight": [
+            "hereby"
+          ],
+          "translations": {
+            "zh-TW": "本公司特此確認所有未結清的發票均已全額支付完畢。"
+          }
+        },
+        {
+          "en": "I hereby authorize the bank to debit the monthly rent from my business account.",
+          "highlight": [
+            "hereby"
+          ],
+          "translations": {
+            "zh-TW": "本人茲授權銀行從我的商業帳戶扣繳每月租金。"
+          }
+        },
+        {
+          "en": "By signing below, the parties hereby agree to the terms outlined in section 4.",
+          "highlight": [
+            "hereby"
+          ],
+          "translations": {
+            "zh-TW": "雙方於下方簽署，即特此同意第4條所載之條款。"
+          }
+        }
+      ],
+      "synonyms": [
+        "by this",
+        "by means of this",
+        "thus"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "hereby confirm",
+        "hereby authorize",
+        "hereby agree",
+        "hereby declare"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
