@@ -1,7 +1,7 @@
 {
+  "cefr": "B1",
   "level": 364,
   "tier": "intermediate",
-  "cefr": "B1",
   "words": [
     {
       "id": "B1-364-001",
@@ -12,23 +12,65 @@
       "word": "crane",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "cranes"
+        "plural": "cranes",
+        "present_3rd": "cranes",
+        "past": "craned",
+        "past_participle": "craned",
+        "ing": "craning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "crane",
-          "definition": "n. 鹤, 起重機, vt. 伸颈, 起重機起吊, vi. 伸颈看, 迟疑"
+          "definition": "n. 鶴；起重機、吊車  v. 伸長脖子（張望）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "A tower crane lifted the steel beams onto the roof of the new office building.",
+          "highlight": [
+            "crane"
+          ],
+          "translations": {
+            "zh-TW": "塔式起重機把鋼樑吊到新辦公大樓的屋頂上。"
+          }
+        },
+        {
+          "en": "Several cranes were brought in to expand the container terminal at the port.",
+          "highlight": [
+            "cranes"
+          ],
+          "translations": {
+            "zh-TW": "港口調來好幾部吊車，擴建貨櫃碼頭。"
+          }
+        },
+        {
+          "en": "She craned her neck to read the departure board above the crowded gate.",
+          "highlight": [
+            "craned"
+          ],
+          "translations": {
+            "zh-TW": "她伸長脖子，想看清楚那擁擠登機門上方的航班時刻表。"
+          }
+        }
+      ],
+      "synonyms": [
+        "derrick",
+        "hoist",
+        "winch"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "crane truck",
+        "tower crane",
+        "crane operator",
+        "crane one's neck"
+      ]
     },
     {
       "id": "B1-364-002",
@@ -44,18 +86,55 @@
       "conjugations": {
         "plural": "dealerships"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dealership",
-          "definition": "n. 代理权, 經銷权, [法] 商品經銷特许权, 代理商"
+          "definition": "n. 經銷商、代理商（特指汽車或機械產品的授權銷售門市）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "He visited a Honda dealership downtown to test-drive the latest sedan.",
+          "highlight": [
+            "dealership"
+          ],
+          "translations": {
+            "zh-TW": "他到市中心的本田經銷商試駕最新的房車。"
+          }
+        },
+        {
+          "en": "The firm closed three underperforming dealerships in the southern region last quarter.",
+          "highlight": [
+            "dealerships"
+          ],
+          "translations": {
+            "zh-TW": "公司上季關閉了南部三家業績不佳的經銷門市。"
+          }
+        },
+        {
+          "en": "A franchise dealership must meet the manufacturer's branding and service standards.",
+          "highlight": [
+            "dealership"
+          ],
+          "translations": {
+            "zh-TW": "加盟經銷商必須符合製造商的品牌與服務標準。"
+          }
+        }
+      ],
+      "synonyms": [
+        "distributor",
+        "agent",
+        "agency"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "car dealership",
+        "franchise dealership",
+        "dealership network",
+        "open a dealership"
+      ]
     },
     {
       "id": "B1-364-003",
@@ -66,23 +145,62 @@
       "word": "dependable",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
         "plural": "dependables"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dependable",
-          "definition": "a. 可信任的, 可靠的, 可信赖的"
+          "definition": "a. 可靠的、值得信賴的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Our supplier has proven to be a dependable partner for over ten years.",
+          "highlight": [
+            "dependable"
+          ],
+          "translations": {
+            "zh-TW": "我們的供應商十年來都證明是個可靠的合作夥伴。"
+          }
+        },
+        {
+          "en": "The new TIMS software is even more dependable than the previous version, with zero downtime.",
+          "highlight": [
+            "dependable"
+          ],
+          "translations": {
+            "zh-TW": "新的 TIMS 軟體比舊版更可靠，零停機時間。"
+          }
+        },
+        {
+          "en": "Of all the clerks, she has been the most dependable at handling rush-hour deliveries.",
+          "highlight": [
+            "dependable"
+          ],
+          "translations": {
+            "zh-TW": "在所有職員當中，面對尖峰時間的配送任務，她一直是最靠得住的。"
+          }
+        }
+      ],
+      "synonyms": [
+        "reliable",
+        "trustworthy",
+        "steady"
+      ],
+      "antonyms": [
+        "unreliable",
+        "fickle"
+      ],
+      "phrases": [
+        "dependable source",
+        "dependable partner",
+        "dependable service"
+      ]
     },
     {
       "id": "B1-364-004",
@@ -93,23 +211,68 @@
       "word": "disconnect",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
       "conjugations": {
-        "plural": "disconnects"
+        "plural": "disconnects",
+        "present_3rd": "disconnects",
+        "past": "disconnected",
+        "past_participle": "disconnected",
+        "ing": "disconnecting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "disconnect",
-          "definition": "vt. 使分離, 使不相連, 拆开, vi. 断开, [計] 断开"
+          "definition": "v. 斷開、切斷連結  n. 斷線、脫節、不銜接"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Please disconnect the printer from the network before you run the firmware update.",
+          "highlight": [
+            "disconnect"
+          ],
+          "translations": {
+            "zh-TW": "請先將印表機與網路斷開，再執行韌體更新。"
+          }
+        },
+        {
+          "en": "The VPN disconnected twice during the video call, freezing the screen.",
+          "highlight": [
+            "disconnected"
+          ],
+          "translations": {
+            "zh-TW": "視訊會議期間 VPN 斷線了兩次，造成畫面凍結。"
+          }
+        },
+        {
+          "en": "There is a clear disconnect between the marketing claims and the actual product quality.",
+          "highlight": [
+            "disconnect"
+          ],
+          "translations": {
+            "zh-TW": "行銷宣稱和實際產品品質之間存在明顯的脫節。"
+          }
+        }
+      ],
+      "synonyms": [
+        "detach",
+        "sever",
+        "unplug"
+      ],
+      "antonyms": [
+        "connect",
+        "attach"
+      ],
+      "phrases": [
+        "disconnect call",
+        "disconnect notice",
+        "disconnect the power",
+        "network disconnect"
+      ]
     },
     {
       "id": "B1-364-005",
@@ -120,23 +283,67 @@
       "word": "dispose",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "disposes"
+        "plural": "disposes",
+        "present_3rd": "disposes",
+        "past": "disposed",
+        "past_participle": "disposed",
+        "ing": "disposing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dispose",
-          "definition": "vt. 處理, 排列, 布置, vi. 處置"
+          "definition": "v. 處理、丟棄；布置、排列（常搭配 of）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Factories must dispose of chemical waste according to strict environmental regulations.",
+          "highlight": [
+            "dispose"
+          ],
+          "translations": {
+            "zh-TW": "工廠必須依照嚴格的環保法規處理化學廢棄物。"
+          }
+        },
+        {
+          "en": "The liquidator disposed of the remaining inventory and closed the warehouse last month.",
+          "highlight": [
+            "disposed"
+          ],
+          "translations": {
+            "zh-TW": "清算人上月已把剩餘存貨處理掉，並關閉了倉庫。"
+          }
+        },
+        {
+          "en": "His outspoken style disposed the board to reject the proposal almost immediately.",
+          "highlight": [
+            "disposed"
+          ],
+          "translations": {
+            "zh-TW": "他直言不諱的作風，使得董事會幾乎立即排斥了那項提案。"
+          }
+        }
+      ],
+      "synonyms": [
+        "get rid of",
+        "discard",
+        "eliminate"
+      ],
+      "antonyms": [
+        "keep",
+        "retain"
+      ],
+      "phrases": [
+        "dispose of",
+        "dispose of waste",
+        "dispose of assets",
+        "at someone's disposal"
+      ]
     },
     {
       "id": "B1-364-006",
@@ -147,23 +354,67 @@
       "word": "disrupt",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "disrupts"
+        "plural": "disrupts",
+        "present_3rd": "disrupts",
+        "past": "disrupted",
+        "past_participle": "disrupted",
+        "ing": "disrupting"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "disrupt",
-          "definition": "a. 分裂的, 中断的, vt. 使分裂, 使瓦解"
+          "definition": "v. 擾亂、打斷、使中斷"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The typhoon will likely disrupt shipping schedules along the coast next week.",
+          "highlight": [
+            "disrupt"
+          ],
+          "translations": {
+            "zh-TW": "颱風可能會在下週打亂沿海的貨運時程。"
+          }
+        },
+        {
+          "en": "Last weekend's power outage disrupted production at three semiconductor plants.",
+          "highlight": [
+            "disrupted"
+          ],
+          "translations": {
+            "zh-TW": "上週末的停電中斷了三家半導體廠的生產。"
+          }
+        },
+        {
+          "en": "Ride-sharing apps are disrupting the traditional taxi industry in many major cities.",
+          "highlight": [
+            "disrupting"
+          ],
+          "translations": {
+            "zh-TW": "叫車應用程式正在許多大城市顛覆傳統計程車產業。"
+          }
+        }
+      ],
+      "synonyms": [
+        "interrupt",
+        "disturb",
+        "upset"
+      ],
+      "antonyms": [
+        "stabilize",
+        "restore"
+      ],
+      "phrases": [
+        "disrupt the market",
+        "disrupt supply chain",
+        "disrupt operations",
+        "disruptive innovation"
+      ]
     },
     {
       "id": "B1-364-007",
@@ -174,23 +425,64 @@
       "word": "dynamic",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
       "conjugations": {
         "plural": "dynamics"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dynamic",
-          "definition": "a. 動态的, 有活力的, 有力的, 動力的, 不断变化的, n. 動力, 動态, [計] 動态的"
+          "definition": "a. 動態的、有活力的  n. 動力、互動關係、動態"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The software industry is highly dynamic, with new frameworks released almost every month.",
+          "highlight": [
+            "dynamic"
+          ],
+          "translations": {
+            "zh-TW": "軟體業非常變動快速的，幾乎每個月都會推出新框架。"
+          }
+        },
+        {
+          "en": "Team dynamics improved significantly after the new project manager joined last spring.",
+          "highlight": [
+            "dynamics"
+          ],
+          "translations": {
+            "zh-TW": "自從新專案經理去年春天加入後，團隊的互動氣氛明顯改善。"
+          }
+        },
+        {
+          "en": "Her dynamic presentation style helped the startup secure a second round of funding.",
+          "highlight": [
+            "dynamic"
+          ],
+          "translations": {
+            "zh-TW": "她充滿活力的簡報風格，協助那家新創公司拿到了第二輪融資。"
+          }
+        }
+      ],
+      "synonyms": [
+        "energetic",
+        "vigorous",
+        "active"
+      ],
+      "antonyms": [
+        "static",
+        "stagnant"
+      ],
+      "phrases": [
+        "dynamic pricing",
+        "team dynamics",
+        "dynamic environment",
+        "dynamic market"
+      ]
     },
     {
       "id": "B1-364-008",
@@ -201,23 +493,69 @@
       "word": "freelance",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "freelances"
+        "plural": "freelances",
+        "present_3rd": "freelances",
+        "past": "freelanced",
+        "past_participle": "freelanced",
+        "ing": "freelancing"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "freelance",
-          "definition": "n. 自由作家, 自由投稿, 自由职業者, a. 自由投稿的"
+          "definition": "a. 自由接案的  n. 自由工作者  v. 做自由撰稿／接案工作"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "She works as a freelance translator, taking on contracts from several publishing houses.",
+          "highlight": [
+            "freelance"
+          ],
+          "translations": {
+            "zh-TW": "她是一名自由譯者，接洽好幾家出版社的合約。"
+          }
+        },
+        {
+          "en": "After ten years in-house, he freelanced for various ad agencies before opening his own studio.",
+          "highlight": [
+            "freelanced"
+          ],
+          "translations": {
+            "zh-TW": "在正職待了十年之後，他以自由接案方式服務各家廣告公司，才開設自己的工作室。"
+          }
+        },
+        {
+          "en": "Freelancing lets designers set their own hours, but income can be irregular month to month.",
+          "highlight": [
+            "freelancing"
+          ],
+          "translations": {
+            "zh-TW": "自由接案讓設計師可以自己安排工作時數，但每月收入可能不穩定。"
+          }
+        }
+      ],
+      "synonyms": [
+        "self-employed",
+        "independent",
+        "contractor"
+      ],
+      "antonyms": [
+        "salaried",
+        "full-time"
+      ],
+      "phrases": [
+        "freelance writer",
+        "freelance work",
+        "freelance contract",
+        "work freelance"
+      ]
     },
     {
       "id": "B1-364-009",
@@ -228,23 +566,65 @@
       "word": "grill",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "grills"
+        "plural": "grills",
+        "present_3rd": "grills",
+        "past": "grilled",
+        "past_participle": "grilled",
+        "ing": "grilling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "grill",
-          "definition": "n. 烤架, 鐵格子, 烤肉, v. 烧, 烤, 严加盘问, 给...裝栅栏"
+          "definition": "n. 烤架、烤肉  v. 烤；嚴厲盤問"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The hotel restaurant added a new indoor grill so guests can watch the chef cook their steak.",
+          "highlight": [
+            "grill"
+          ],
+          "translations": {
+            "zh-TW": "飯店餐廳新增了一座室內烤爐，客人可以近距離觀看主廚煎烤牛排。"
+          }
+        },
+        {
+          "en": "The interviewers grilled the candidate for forty minutes on her past audit experience.",
+          "highlight": [
+            "grilled"
+          ],
+          "translations": {
+            "zh-TW": "面試官嚴厲地盤問了應徵者四十分鐘，逐一檢視她過去的稽核經歷。"
+          }
+        },
+        {
+          "en": "Grilling vegetables with a little olive oil brings out their natural sweetness.",
+          "highlight": [
+            "grilling"
+          ],
+          "translations": {
+            "zh-TW": "用少許橄欖油燒烤蔬菜，會帶出它們天然的甜味。"
+          }
+        }
+      ],
+      "synonyms": [
+        "roast",
+        "barbecue",
+        "interrogate"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "gas grill",
+        "grill cheese",
+        "grill a witness",
+        "on the grill"
+      ]
     },
     {
       "id": "B1-364-010",
@@ -255,7 +635,7 @@
       "word": "habitual",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
         "plural": "habituals"
@@ -265,14 +645,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "habitual",
-          "definition": "a. 习惯的, 惯常的, 平常的, [法] 习惯的, 以习惯為常業的, 惯常的"
+          "definition": "a. 習慣性的、慣常的、平常的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Habitual tardiness is the most common reason for warnings in this warehouse.",
+          "highlight": [
+            "habitual"
+          ],
+          "translations": {
+            "zh-TW": "習慣性遲到是這座倉庫發出警告最常見的原因。"
+          }
+        },
+        {
+          "en": "He is a habitual coffee drinker who orders a fresh cup before every morning meeting.",
+          "highlight": [
+            "habitual"
+          ],
+          "translations": {
+            "zh-TW": "他是個習慣喝咖啡的人，每天早晨開會前都會點一杯現煮的。"
+          }
+        },
+        {
+          "en": "The judge raised the sentence because the defendant was a habitual offender.",
+          "highlight": [
+            "habitual"
+          ],
+          "translations": {
+            "zh-TW": "法官加重了刑度，因為被告是個慣犯。"
+          }
+        }
+      ],
+      "synonyms": [
+        "customary",
+        "routine",
+        "regular"
+      ],
+      "antonyms": [
+        "occasional",
+        "unusual"
+      ],
+      "phrases": [
+        "habitual behavior",
+        "habitual offender",
+        "habitual lateness",
+        "habitual liar"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
