@@ -1,7 +1,7 @@
 {
+  "cefr": "B1",
   "level": 385,
   "tier": "intermediate",
-  "cefr": "B1",
   "words": [
     {
       "id": "B1-385-001",
@@ -12,23 +12,59 @@
       "word": "whoever",
       "phonetic": "",
       "pos": [
-        "noun"
+        "pronoun"
       ],
-      "conjugations": {
-        "plural": "whoevers"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "whoever",
-          "definition": "pron. 任何人, 无论誰"
+          "definition": "pron. 無論誰、任何……的人；到底是誰（引導名詞子句）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Whoever leaves the office last must turn off the air conditioner.",
+          "highlight": [
+            "whoever"
+          ],
+          "translations": {
+            "zh-TW": "無論誰最後離開辦公室，都必須關掉冷氣。"
+          }
+        },
+        {
+          "en": "We will hire whoever the committee recommends for the accounting role.",
+          "highlight": [
+            "whoever"
+          ],
+          "translations": {
+            "zh-TW": "我們將聘請委員會推薦的任何人擔任會計職位。"
+          }
+        },
+        {
+          "en": "Whoever sent this anonymous complaint should come forward and explain.",
+          "highlight": [
+            "whoever"
+          ],
+          "translations": {
+            "zh-TW": "寄出這封匿名投訴的人應該主動出面說明。"
+          }
+        }
+      ],
+      "synonyms": [
+        "anyone",
+        "whatever person",
+        "no matter who"
+      ],
+      "antonyms": [
+        "nobody"
+      ],
+      "phrases": [
+        "whoever it may concern",
+        "whoever you are",
+        "whoever is responsible"
+      ]
     },
     {
       "id": "B1-385-002",
@@ -39,23 +75,68 @@
       "word": "wrinkle",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "wrinkles"
+        "plural": "wrinkles",
+        "present_3rd": "wrinkles",
+        "past": "wrinkled",
+        "past_participle": "wrinkled",
+        "ing": "wrinkling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "wrinkle",
-          "definition": "n. 皱纹, 妙計, 方法, 技巧, vi. 起皱, vt. 使起皱纹"
+          "definition": "n. 皺紋、褶皺  v.（使）起皺、起皺紋"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Tanya noticed a fine wrinkle near her left eye during the makeup consultation.",
+          "highlight": [
+            "wrinkle"
+          ],
+          "translations": {
+            "zh-TW": "Tanya 在化妝諮詢時注意到左眼附近有一條細紋。"
+          }
+        },
+        {
+          "en": "The hot iron wrinkled his new cotton shirt within five minutes of wearing it.",
+          "highlight": [
+            "wrinkled"
+          ],
+          "translations": {
+            "zh-TW": "熨斗的高溫讓他穿上不到五分鐘的新棉質襯衫就起了皺褶。"
+          }
+        },
+        {
+          "en": "These silk pillowcases prevent the fabric from wrinkling overnight.",
+          "highlight": [
+            "wrinkling"
+          ],
+          "translations": {
+            "zh-TW": "這些絲質枕套能防止布料在夜間起皺。"
+          }
+        }
+      ],
+      "synonyms": [
+        "crease",
+        "fold",
+        "furrow"
+      ],
+      "antonyms": [
+        "smooth",
+        "flatten"
+      ],
+      "phrases": [
+        "wrinkle cream",
+        "wrinkle-free",
+        "wrinkle-resistant",
+        "iron out the wrinkles"
+      ]
     },
     {
       "id": "B1-385-003",
@@ -76,13 +157,54 @@
         {
           "lang": "zh-TW",
           "lang_word": "accuracy",
-          "definition": "n. 精確, 正確, [計] 準確度"
+          "definition": "n. 準確度、精確性；正確無誤"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The auditor questioned the accuracy of the revenue figures in the quarterly report.",
+          "highlight": [
+            "accuracy"
+          ],
+          "translations": {
+            "zh-TW": "稽核員對季度報告中營收數字的準確性提出質疑。"
+          }
+        },
+        {
+          "en": "Engineers tested the accuracies of three translation models before selecting one.",
+          "highlight": [
+            "accuracies"
+          ],
+          "translations": {
+            "zh-TW": "工程師在選用前測試了三個翻譯模型的準確度。"
+          }
+        },
+        {
+          "en": "Please double-check your entries for accuracy before submitting the expense form.",
+          "highlight": [
+            "accuracy"
+          ],
+          "translations": {
+            "zh-TW": "請在提交費用申請單前再次核對所填資料的正確性。"
+          }
+        }
+      ],
+      "synonyms": [
+        "precision",
+        "exactness",
+        "correctness"
+      ],
+      "antonyms": [
+        "inaccuracy",
+        "error",
+        "mistake"
+      ],
+      "phrases": [
+        "accuracy rate",
+        "with accuracy",
+        "high accuracy",
+        "test the accuracy"
+      ]
     },
     {
       "id": "B1-385-004",
@@ -93,23 +215,60 @@
       "word": "anyhow",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
-      "conjugations": {
-        "plural": "anyhows"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "anyhow",
-          "definition": "adv. 无论如何, 至少"
+          "definition": "adv. 無論如何、不管怎樣；隨便地、雜亂地"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The flight was delayed three hours, but anyhow we made it to the keynote on time.",
+          "highlight": [
+            "anyhow"
+          ],
+          "translations": {
+            "zh-TW": "航班延誤了三小時，但無論如何我們還是準時趕上專題演講。"
+          }
+        },
+        {
+          "en": "I hadn't prepared a speech, but anyhow the client invited me to share a few remarks, so I improvised.",
+          "highlight": [
+            "anyhow"
+          ],
+          "translations": {
+            "zh-TW": "我原本沒準備演講，但不管怎樣客戶還是邀我說幾句，我就即興發言了。"
+          }
+        },
+        {
+          "en": "His desk was piled anyhow with contracts and receipts, yet he always found what he needed.",
+          "highlight": [
+            "anyhow"
+          ],
+          "translations": {
+            "zh-TW": "他的辦公桌上雜亂地堆滿合約與收據，但他總能找到需要的東西。"
+          }
+        }
+      ],
+      "synonyms": [
+        "anyway",
+        "regardless",
+        "in any case"
+      ],
+      "antonyms": [
+        " orderly",
+        "systematically"
+      ],
+      "phrases": [
+        "anyhow versus anyway",
+        "queue anyhow",
+        "toss anyhow"
+      ]
     },
     {
       "id": "B1-385-005",
@@ -125,18 +284,58 @@
       "conjugations": {
         "plural": "appetizers"
       },
-      "domain": "general",
+      "domain": "food",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "appetizer",
-          "definition": "n. 开胃食品, 吊胃口的東西, [醫] 开胃劑"
+          "definition": "n. 開胃菜、前菜；引起食欲之物"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The restaurant served a complimentary shrimp cocktail as an appetizer.",
+          "highlight": [
+            "appetizer"
+          ],
+          "translations": {
+            "zh-TW": "餐廳招待了一份鮮蝦雞尾酒作為開胃菜。"
+          }
+        },
+        {
+          "en": "Guests mingled around the buffet table sampling assorted appetizers before the banquet.",
+          "highlight": [
+            "appetizers"
+          ],
+          "translations": {
+            "zh-TW": "賓客們在宴會開始前聚在自助餐桌旁品嚐各式開胃小點。"
+          }
+        },
+        {
+          "en": "The menu lists three vegetarian appetizers paired with house-made dipping sauces.",
+          "highlight": [
+            "appetizers"
+          ],
+          "translations": {
+            "zh-TW": "菜單上列有三款素食開胃菜，搭配餐廳自製的蘸醬。"
+          }
+        }
+      ],
+      "synonyms": [
+        "starter",
+        "hors d'oeuvre",
+        "first course"
+      ],
+      "antonyms": [
+        "dessert",
+        "main course"
+      ],
+      "phrases": [
+        " Appetizer platter",
+        "finger appetizer",
+        "order an appetizer",
+        "appetizer menu"
+      ]
     },
     {
       "id": "B1-385-006",
@@ -147,23 +346,67 @@
       "word": "arc",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "arcs"
+        "plural": "arcs",
+        "present_3rd": "arcs",
+        "past": "arced",
+        "past_participle": "arced",
+        "ing": "arcing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "arc",
-          "definition": "n. 弧, 弧形, 弓形, 弧光, [化] 弧"
+          "definition": "n. 弧線、弧形；故事弧、發展軌跡  v. 形成弧線移動"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The bridge spans the river in a graceful arc that has become a city landmark.",
+          "highlight": [
+            "arc"
+          ],
+          "translations": {
+            "zh-TW": "這座橫跨河面的優美弧形橋樑已成為城市地標。"
+          }
+        },
+        {
+          "en": "The electrician watched as the damaged transformer arced and tripped the safety breaker.",
+          "highlight": [
+            "arced"
+          ],
+          "translations": {
+            "zh-TW": "電技員注視著故障的變壓器產生弧光放電並跳脫安全斷路器。"
+          }
+        },
+        {
+          "en": "A stray current arcing between the rails delayed trains for nearly twenty minutes.",
+          "highlight": [
+            "arcing"
+          ],
+          "translations": {
+            "zh-TW": "鐵軌間電流弧光跳動使得列車誤點近二十分鐘。"
+          }
+        }
+      ],
+      "synonyms": [
+        "curve",
+        "bow",
+        "trajectory"
+      ],
+      "antonyms": [
+        "straight line"
+      ],
+      "phrases": [
+        "story arc",
+        "arc lamp",
+        "arc welder",
+        "lightning arc"
+      ]
     },
     {
       "id": "B1-385-007",
@@ -174,23 +417,68 @@
       "word": "audition",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "auditions"
+        "plural": "auditions",
+        "present_3rd": "auditions",
+        "past": "auditioned",
+        "past_participle": "auditioned",
+        "ing": "auditioning"
       },
-      "domain": "general",
+      "domain": "entertainment",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "audition",
-          "definition": "n. 聽, 聽力, 試聽, [計] 審計命令"
+          "definition": "n. 試鏡、試演、試音  v. 參加試演、對（某人）試演"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Over two hundred dancers showed up for the chorus audition on Saturday morning.",
+          "highlight": [
+            "audition"
+          ],
+          "translations": {
+            "zh-TW": "週六早上有兩百多位舞者出席了合唱團的試演。"
+          }
+        },
+        {
+          "en": "She auditioned for the lead role three times before winning the part.",
+          "highlight": [
+            "auditioned"
+          ],
+          "translations": {
+            "zh-TW": "她試鏡了三次才拿到主角的位置。"
+          }
+        },
+        {
+          "en": "Producers are auditioning child actors for the new family sitcom pilot.",
+          "highlight": [
+            "auditioning"
+          ],
+          "translations": {
+            "zh-TW": "製作人正在為新的家庭情境喜劇試鏡童星。"
+          }
+        }
+      ],
+      "synonyms": [
+        "tryout",
+        "screen test",
+        "casting call"
+      ],
+      "antonyms": [
+        "hire",
+        "dismissal"
+      ],
+      "phrases": [
+        "audition for a role",
+        "callback audition",
+        "open audition",
+        "dance audition"
+      ]
     },
     {
       "id": "B1-385-008",
@@ -201,23 +489,68 @@
       "word": "backpack",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "backpacks"
+        "plural": "backpacks",
+        "present_3rd": "backpacks",
+        "past": "backpacked",
+        "past_participle": "backpacked",
+        "ing": "backpacking"
       },
-      "domain": "general",
+      "domain": "travel",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "backpack",
-          "definition": "n. 远足用的背包；双肩背包, 背包"
+          "definition": "n. 雙肩背包、後背包  v. 背著背包旅行"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Make sure your backpack fits within the airline's under-seat dimensions.",
+          "highlight": [
+            "backpack"
+          ],
+          "translations": {
+            "zh-TW": "請確認你的後背包符合航空公司座椅下方的尺寸限制。"
+          }
+        },
+        {
+          "en": "Students left their backpacks at the cloakroom before entering the lab.",
+          "highlight": [
+            "backpacks"
+          ],
+          "translations": {
+            "zh-TW": "學生在進入實驗室前把背包寄放在衣帽間。"
+          }
+        },
+        {
+          "en": "They backpacked through Southeast Asia for three months on a tight budget.",
+          "highlight": [
+            "backpacked"
+          ],
+          "translations": {
+            "zh-TW": "他們以緊縮預算在東南亞背包旅行了三個月。"
+          }
+        }
+      ],
+      "synonyms": [
+        "rucksack",
+        "knapsack",
+        "bookbag"
+      ],
+      "antonyms": [
+        "suitcase",
+        "briefcase"
+      ],
+      "phrases": [
+        "backpack backpacking trip",
+        "carry a backpack",
+        "rolling backpack",
+        "leather backpack"
+      ]
     },
     {
       "id": "B1-385-009",
@@ -238,13 +571,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "ballroom",
-          "definition": "n. 舞厅, 跳舞場"
+          "definition": "n. 舞廳、大型宴會廳；交誼舞"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The awards gala will be held in the hotel's largest ballroom on the third floor.",
+          "highlight": [
+            "ballroom"
+          ],
+          "translations": {
+            "zh-TW": "頒獎晚會將在飯店三樓最大的宴會廳舉行。"
+          }
+        },
+        {
+          "en": "Two adjoining ballrooms of the convention center were booked for the product launch.",
+          "highlight": [
+            "ballrooms"
+          ],
+          "translations": {
+            "zh-TW": "會議中心兩間相連的宴會廳被預訂用於產品發表會。"
+          }
+        },
+        {
+          "en": "Couples twirled across the ballroom floor as the band played a slow waltz.",
+          "highlight": [
+            "ballroom"
+          ],
+          "translations": {
+            "zh-TW": "樂隊奏起緩慢的華爾滋，情侶們在舞廳地板上翩翩起舞。"
+          }
+        }
+      ],
+      "synonyms": [
+        "dance hall",
+        "function room",
+        "banquet hall"
+      ],
+      "antonyms": [
+        " broom closet"
+      ],
+      "phrases": [
+        "ballroom dancing",
+        "ballroom floor",
+        "grand ballroom",
+        "book a ballroom"
+      ]
     },
     {
       "id": "B1-385-010",
@@ -255,24 +627,65 @@
       "word": "beneficial",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "beneficials"
+        "comparative": "more beneficial",
+        "superlative": "most beneficial"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "beneficial",
-          "definition": "a. 有益的, 受益的, [經] 有使用权的, 可享利益的"
+          "definition": "adj. 有益的、有幫助的；有利的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Regular feedback sessions can be beneficial to both employees and their managers.",
+          "highlight": [
+            "beneficial"
+          ],
+          "translations": {
+            "zh-TW": "定期的回饋會議對員工與主管雙方都有益。"
+          }
+        },
+        {
+          "en": "Investing in a diverse portfolio is more beneficial than relying on a single stock.",
+          "highlight": [
+            "more beneficial"
+          ],
+          "translations": {
+            "zh-TW": "投資多元化的投資組合比依賴單一檔股票更有利。"
+          }
+        },
+        {
+          "en": "Aided mindfulness training was the most beneficial program the company offered last year.",
+          "highlight": [
+            "most beneficial"
+          ],
+          "translations": {
+            "zh-TW": "公司去年提供的正念訓練是最有益的福利方案。"
+          }
+        }
+      ],
+      "synonyms": [
+        "helpful",
+        "advantageous",
+        "favorable"
+      ],
+      "antonyms": [
+        "harmful",
+        "detrimental",
+        "unfavorable"
+      ],
+      "phrases": [
+        "beneficial to",
+        "beneficial effect",
+        "mutually beneficial",
+        "beneficial owner"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
