@@ -1,7 +1,7 @@
 {
+  "cefr": "B1",
   "level": 390,
   "tier": "intermediate",
-  "cefr": "B1",
   "words": [
     {
       "id": "B1-390-001",
@@ -10,25 +10,67 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "overcrowd",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "overcrowds"
+        "present_3rd": "overcrowds",
+        "past": "overcrowded",
+        "past_participle": "overcrowded",
+        "ing": "overcrowding"
       },
-      "domain": "general",
+      "domain": "urban-planning",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "overcrowd",
-          "definition": "vt. 容纳過多的人, 使過度拥挤"
+          "definition": "v. 使過度擁擠、擠滿（超出容納量）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The city's public housing program overcrowded several neighborhoods within a decade.",
+          "highlight": [
+            "overcrowded"
+          ],
+          "translations": {
+            "zh-TW": "該市的公共住宅計畫在十年內讓幾個社區變得過度擁擠。"
+          }
+        },
+        {
+          "en": "Budget cuts have overcrowded the shelter well beyond its legal capacity.",
+          "highlight": [
+            "overcrowded"
+          ],
+          "translations": {
+            "zh-TW": "預算刪減使收容所的人數遠遠超過法定容量而過度擁擠。"
+          }
+        },
+        {
+          "en": "Overcrowding classrooms directly undermines teacher effectiveness and student performance.",
+          "highlight": [
+            "Overcrowding"
+          ],
+          "translations": {
+            "zh-TW": "教室過度擁擠會直接削弱教學成效與學生表現。"
+          }
+        }
+      ],
+      "synonyms": [
+        "jam-pack",
+        "cram",
+        "congest"
+      ],
+      "antonyms": [
+        "empty",
+        "thin out"
+      ],
+      "phrases": [
+        "overcrowded prison",
+        "overcrowded classroom",
+        "overcrowded bus",
+        "overcrowd a room"
+      ]
     },
     {
       "id": "B1-390-002",
@@ -37,25 +79,63 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "paralegal",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "paralegals"
       },
-      "domain": "general",
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "paralegal",
-          "definition": "[法] 律師的專职助手"
+          "definition": "n. 律師助理、法律助理（不具律師資格但協助案件處理）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Our firm's senior paralegal handles all real-estate closing documents before the attorney reviews them.",
+          "highlight": [
+            "paralegal"
+          ],
+          "translations": {
+            "zh-TW": "我們事務所的資深律師助理會在律師審核前處理所有不動產過戶文件。"
+          }
+        },
+        {
+          "en": "Experienced paralegals can draft standard contracts, though they cannot appear in court.",
+          "highlight": [
+            "paralegals"
+          ],
+          "translations": {
+            "zh-TW": "有經驗的律師助理能起草標準合約，但無法出庭。"
+          }
+        },
+        {
+          "en": "She worked as a paralegal for three years before applying to law school.",
+          "highlight": [
+            "paralegal"
+          ],
+          "translations": {
+            "zh-TW": "她在申請法學院之前擔任了三年的律師助理。"
+          }
+        }
+      ],
+      "synonyms": [
+        "legal assistant",
+        "legal secretary"
+      ],
+      "antonyms": [
+        "attorney",
+        "lawyer"
+      ],
+      "phrases": [
+        "senior paralegal",
+        "paralegal certificate",
+        "paralegal services",
+        "hire a paralegal"
+      ]
     },
     {
       "id": "B1-390-003",
@@ -64,25 +144,63 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "partially",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
-      "conjugations": {
-        "plural": "partiallies"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "partially",
-          "definition": "adv. 部分地, 一部分地, 不公平地"
+          "definition": "adv. 部分地、一部分地、未完全地"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The new wing of the hospital is only partially funded; we still need two million dollars.",
+          "highlight": [
+            "partially"
+          ],
+          "translations": {
+            "zh-TW": "醫院的新大樓只籌到部分資金，我們還需要兩百萬美元。"
+          }
+        },
+        {
+          "en": "Delivery was partially completed before the storm shut down the highway.",
+          "highlight": [
+            "partially"
+          ],
+          "translations": {
+            "zh-TW": "在暴風雨封閉高速公路之前，配送工作只完成了一部分。"
+          }
+        },
+        {
+          "en": "The report was partially based on outdated figures, which weakened its conclusions.",
+          "highlight": [
+            "partially"
+          ],
+          "translations": {
+            "zh-TW": "這份報告有一部分是根據過時的數據，因而削弱了結論的可信度。"
+          }
+        }
+      ],
+      "synonyms": [
+        "partly",
+        "in part",
+        "half"
+      ],
+      "antonyms": [
+        "fully",
+        "completely",
+        "entirely"
+      ],
+      "phrases": [
+        "partially funded",
+        "partially completed",
+        "partially responsible",
+        "partially refundable"
+      ]
     },
     {
       "id": "B1-390-004",
@@ -91,25 +209,62 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "permanently",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
-      "conjugations": {
-        "plural": "permanentlies"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "permanently",
-          "definition": "adv. 永久, 不变, 持久, [計] 永久性的"
+          "definition": "adv. 永久地、長期不變地"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "After three safety violations, the factory was permanently shut down by the regulator.",
+          "highlight": [
+            "permanently"
+          ],
+          "translations": {
+            "zh-TW": "在三次違規之後，監管機構將這座工廠永久關閉。"
+          }
+        },
+        {
+          "en": "Employees who relocate permanently to the Singapore office receive a housing allowance.",
+          "highlight": [
+            "permanently"
+          ],
+          "translations": {
+            "zh-TW": "永久調任到新加坡辦公室的員工可領取住房補助。"
+          }
+        },
+        {
+          "en": "Damaged inventory was permanently written off the balance sheet this quarter.",
+          "highlight": [
+            "permanently"
+          ],
+          "translations": {
+            "zh-TW": "受損的庫存本季度已從資產負債表上永久沖銷。"
+          }
+        }
+      ],
+      "synonyms": [
+        "forever",
+        "for good",
+        "definitively"
+      ],
+      "antonyms": [
+        "temporarily",
+        "briefly"
+      ],
+      "phrases": [
+        "permanently disabled",
+        "permanently closed",
+        "permanently relocated",
+        "permanently delete"
+      ]
     },
     {
       "id": "B1-390-005",
@@ -118,25 +273,69 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "plow",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "plows"
+        "plural": "plows",
+        "present_3rd": "plows",
+        "past": "plowed",
+        "past_participle": "plowed",
+        "ing": "plowing"
       },
-      "domain": "general",
+      "domain": "agriculture",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "plow",
-          "definition": "n. 犁, v. 犁, 耕"
+          "definition": "n. 犁、剷雪車  v. 犁田、開路、猛衝"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The municipal plow cleared the parking lot before staff arrived at eight.",
+          "highlight": [
+            "plow"
+          ],
+          "translations": {
+            "zh-TW": "市政剷雪車在員工八點上班前清空了停車場。"
+          }
+        },
+        {
+          "en": "The contractor plowed the construction site to prepare for the foundation work.",
+          "highlight": [
+            "plowed"
+          ],
+          "translations": {
+            "zh-TW": "承包商整平了工地，為基礎工程做準備。"
+          }
+        },
+        {
+          "en": "Investors have been plowing millions into renewable-energy startups this year.",
+          "highlight": [
+            "plowing"
+          ],
+          "translations": {
+            "zh-TW": "投資人今年已將數百萬資金投入再生能源新創公司。"
+          }
+        }
+      ],
+      "synonyms": [
+        "till",
+        "cultivate",
+        "break ground"
+      ],
+      "antonyms": [
+        "abandon",
+        "let lie fallow"
+      ],
+      "phrases": [
+        "snow plow",
+        "plow through",
+        "plow the field",
+        "plow money into"
+      ]
     },
     {
       "id": "B1-390-006",
@@ -145,25 +344,69 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "query",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "queries"
+        "plural": "queries",
+        "present_3rd": "queries",
+        "past": "queried",
+        "past_participle": "queried",
+        "ing": "querying"
       },
-      "domain": "general",
+      "domain": "it",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "query",
-          "definition": "n. 疑问, 疑问號, 質问, 查询, v. 询问, 質问, [計] 查询"
+          "definition": "n. 疑問、查詢請求  v. 查詢、提出疑問"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Please submit your billing query in writing so we can track the response.",
+          "highlight": [
+            "query"
+          ],
+          "translations": {
+            "zh-TW": "請以書面提出您的帳單查詢，以便我們追蹤回覆進度。"
+          }
+        },
+        {
+          "en": "Support staff queried the customer database and found the missing invoice.",
+          "highlight": [
+            "queried"
+          ],
+          "translations": {
+            "zh-TW": "客服人員查詢了客戶資料庫，找到了遺失的發票。"
+          }
+        },
+        {
+          "en": "Querying the live server during peak hours may slow down the entire system.",
+          "highlight": [
+            "Querying"
+          ],
+          "translations": {
+            "zh-TW": "在尖峰時段查詢線上伺服器可能會拖慢整個系統。"
+          }
+        }
+      ],
+      "synonyms": [
+        "question",
+        "inquiry",
+        "lookup"
+      ],
+      "antonyms": [
+        "answer",
+        "response"
+      ],
+      "phrases": [
+        "database query",
+        "search query",
+        "query language",
+        "submit a query"
+      ]
     },
     {
       "id": "B1-390-007",
@@ -172,14 +415,13 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "raincoat",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "raincoats"
       },
-      "domain": "general",
+      "domain": "clothing",
       "translations": [
         {
           "lang": "zh-TW",
@@ -187,10 +429,47 @@
           "definition": "n. 雨衣"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The hotel provides a complimentary raincoat at the entrance for guests caught in sudden showers.",
+          "highlight": [
+            "raincoat"
+          ],
+          "translations": {
+            "zh-TW": "飯店入口處為遇上陣雨的住客提供免費雨衣。"
+          }
+        },
+        {
+          "en": "Field inspectors carry folding raincoats in their bags throughout the monsoon season.",
+          "highlight": [
+            "raincoats"
+          ],
+          "translations": {
+            "zh-TW": "實地稽核員在雨季期間隨身攜帶可折疊的雨衣。"
+          }
+        },
+        {
+          "en": "Mother reminded me to grab my raincoat before heading to the bus stop.",
+          "highlight": [
+            "raincoat"
+          ],
+          "translations": {
+            "zh-TW": "媽媽提醒我在出門去公車站前拿雨衣。"
+          }
+        }
+      ],
+      "synonyms": [
+        "slicker",
+        "waterproof coat",
+        "mackintosh"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "foldable raincoat",
+        "wear a raincoat",
+        "pack a raincoat",
+        "raincoat pocket"
+      ]
     },
     {
       "id": "B1-390-008",
@@ -199,25 +478,67 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "reconsider",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "reconsiders"
+        "present_3rd": "reconsiders",
+        "past": "reconsidered",
+        "past_participle": "reconsidered",
+        "ing": "reconsidering"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "reconsider",
-          "definition": "v. 再考虑, 重新考虑"
+          "definition": "v. 重新考慮、再思量"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The committee will reconsider the proposal after reviewing the new environmental data.",
+          "highlight": [
+            "reconsider"
+          ],
+          "translations": {
+            "zh-TW": "委員會在審查新的環境數據後將重新考慮這項提案。"
+          }
+        },
+        {
+          "en": "Management reconsidered its decision once the union outlined the safety concerns.",
+          "highlight": [
+            "reconsidered"
+          ],
+          "translations": {
+            "zh-TW": "在工會說明安全疑慮後，管理層重新考慮了原本的決定。"
+          }
+        },
+        {
+          "en": "Reconsidering the pricing strategy helped the brand regain mid-tier market share.",
+          "highlight": [
+            "Reconsidering"
+          ],
+          "translations": {
+            "zh-TW": "重新考量定價策略幫助品牌重新奪回中階市場的市占率。"
+          }
+        }
+      ],
+      "synonyms": [
+        "rethink",
+        "review",
+        "reassess"
+      ],
+      "antonyms": [
+        "confirm",
+        "ratify"
+      ],
+      "phrases": [
+        "reconsider a decision",
+        "reconsider one's position",
+        "reconsider the offer",
+        "ask to reconsider"
+      ]
     },
     {
       "id": "B1-390-009",
@@ -226,25 +547,69 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "redesign",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "redesigns"
+        "plural": "redesigns",
+        "present_3rd": "redesigns",
+        "past": "redesigned",
+        "past_participle": "redesigned",
+        "ing": "redesigning"
       },
-      "domain": "general",
+      "domain": "design",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "redesign",
-          "definition": "[化] 重新設計"
+          "definition": "n. 重新設計、改版  v. 重新設計、改版"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The upcoming website redesign focuses on mobile responsiveness and faster checkout.",
+          "highlight": [
+            "redesign"
+          ],
+          "translations": {
+            "zh-TW": "即將進行的網站改版著重於行動裝置適配與更快的結帳流程。"
+          }
+        },
+        {
+          "en": "After the merger, the company redesigned its org chart to flatten three layers of management.",
+          "highlight": [
+            "redesigned"
+          ],
+          "translations": {
+            "zh-TW": "合併後，公司重新設計了組織架構，扁平化掉三層管理階層。"
+          }
+        },
+        {
+          "en": "Redesigning the packaging helped the product stand out on crowded supermarket shelves.",
+          "highlight": [
+            "Redesigning"
+          ],
+          "translations": {
+            "zh-TW": "重新設計包裝幫助產品在擁擠的超市貨架上脫穎而出。"
+          }
+        }
+      ],
+      "synonyms": [
+        "revamp",
+        "overhaul",
+        "rework"
+      ],
+      "antonyms": [
+        "retain",
+        "preserve"
+      ],
+      "phrases": [
+        "website redesign",
+        "redesign a product",
+        "redesign process",
+        "complete redesign"
+      ]
     },
     {
       "id": "B1-390-010",
@@ -253,26 +618,64 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "rehearsal",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "rehearsals"
       },
-      "domain": "general",
+      "domain": "arts",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "rehearsal",
-          "definition": "n. 預演, 排演, 练习, 叙述, 复述, [法] 详述, 列举事實, 复述"
+          "definition": "n. 排演、預演、彩排"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The keynote speaker ran through a final rehearsal before the annual sales conference.",
+          "highlight": [
+            "rehearsal"
+          ],
+          "translations": {
+            "zh-TW": "主題演講者在年度業務大會前進行了最後一次彩排。"
+          }
+        },
+        {
+          "en": "Extended rehearsals polished the team's pitch well ahead of the investor roadshow.",
+          "highlight": [
+            "rehearsals"
+          ],
+          "translations": {
+            "zh-TW": "長時間的排練讓團隊的提案在投資人路演前更加熟練。"
+          }
+        },
+        {
+          "en": "Dress rehearsal for the product launch will take place in the main hall Thursday evening.",
+          "highlight": [
+            "rehearsal"
+          ],
+          "translations": {
+            "zh-TW": "產品發表的總彩排將於週四晚間在大廳舉行。"
+          }
+        }
+      ],
+      "synonyms": [
+        "practice",
+        "run-through",
+        "dry run"
+      ],
+      "antonyms": [
+        "premiere",
+        "live show"
+      ],
+      "phrases": [
+        "dress rehearsal",
+        "final rehearsal",
+        "rehearsal room",
+        "cancel a rehearsal"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
