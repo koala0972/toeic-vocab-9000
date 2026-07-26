@@ -1,7 +1,7 @@
 {
+  "cefr": "B1",
   "level": 363,
   "tier": "intermediate",
-  "cefr": "B1",
   "words": [
     {
       "id": "B1-363-001",
@@ -12,23 +12,64 @@
       "word": "timely",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "timelies"
+        "comparative": "timelier",
+        "superlative": "timeliest"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "timely",
-          "definition": "a. 及時的, 适時的, adv. 及時地"
+          "definition": "a. 及時的、合時宜的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A timely response from the support team saved the client relationship.",
+          "highlight": [
+            "timely"
+          ],
+          "translations": {
+            "zh-TW": "客服團隊及時的回覆挽救了與客戶的關係。"
+          }
+        },
+        {
+          "en": "Email is timelier than postal mail for sending invoices.",
+          "highlight": [
+            "timelier"
+          ],
+          "translations": {
+            "zh-TW": "寄送發票時，電子郵件比郵寄更及時。"
+          }
+        },
+        {
+          "en": "Her promotion came at the timeliest moment of her career.",
+          "highlight": [
+            "timeliest"
+          ],
+          "translations": {
+            "zh-TW": "她的升遷來得正是她職涯中最合時宜的時刻。"
+          }
+        }
+      ],
+      "synonyms": [
+        "prompt",
+        "opportune",
+        "well-timed"
+      ],
+      "antonyms": [
+        "untimely",
+        "late"
+      ],
+      "phrases": [
+        "timely manner",
+        "timely delivery",
+        "timely reminder",
+        "timely response"
+      ]
     },
     {
       "id": "B1-363-002",
@@ -44,18 +85,58 @@
       "conjugations": {
         "plural": "amenities"
       },
-      "domain": "general",
+      "domain": "travel",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "amenity",
-          "definition": "n. 便利設施, 适意, 礼仪, [法] 舒适, 方便, 优雅"
+          "definition": "n. 便利設施、舒適設備"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The hotel amenity guests value most is complimentary Wi-Fi.",
+          "highlight": [
+            "amenity"
+          ],
+          "translations": {
+            "zh-TW": "飯店房客最看重的便利設施就是免費 Wi-Fi。"
+          }
+        },
+        {
+          "en": "The resort's amenities include a pool, spa, and fitness center.",
+          "highlight": [
+            "amenities"
+          ],
+          "translations": {
+            "zh-TW": "度假村的設施包括游泳池、水療中心和健身房。"
+          }
+        },
+        {
+          "en": "Property managers often list amenities to justify higher rent.",
+          "highlight": [
+            "amenities"
+          ],
+          "translations": {
+            "zh-TW": "物業管理者常以便利設施來證明較高租金的合理性。"
+          }
+        }
+      ],
+      "synonyms": [
+        "facility",
+        "convenience",
+        "comfort"
+      ],
+      "antonyms": [
+        "inconvenience",
+        "hardship"
+      ],
+      "phrases": [
+        "hotel amenities",
+        "amenity kit",
+        "basic amenities",
+        "amenity fee"
+      ]
     },
     {
       "id": "B1-363-003",
@@ -66,23 +147,66 @@
       "word": "await",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "awaits"
+        "present_3rd": "awaits",
+        "past": "awaited",
+        "past_participle": "awaited",
+        "ing": "awaiting"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "await",
-          "definition": "vt. 等候, vi. 等待着"
+          "definition": "v. 等候、等待"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A signed contract awaits your approval before the project can begin.",
+          "highlight": [
+            "awaits"
+          ],
+          "translations": {
+            "zh-TW": "簽署的合約正等候您批准，專案才能展開。"
+          }
+        },
+        {
+          "en": "The delegation awaited clearance at customs for over three hours.",
+          "highlight": [
+            "awaited"
+          ],
+          "translations": {
+            "zh-TW": "代表團在海關等候放行超過三個小時。"
+          }
+        },
+        {
+          "en": "Several shipments are awaiting inspection at the distribution center.",
+          "highlight": [
+            "awaiting"
+          ],
+          "translations": {
+            "zh-TW": "數批貨物正在配送中心等待查驗。"
+          }
+        }
+      ],
+      "synonyms": [
+        "wait for",
+        "expect",
+        "anticipate"
+      ],
+      "antonyms": [
+        "dispatch",
+        "send"
+      ],
+      "phrases": [
+        "await approval",
+        "await confirmation",
+        "await delivery",
+        "eagerly await"
+      ]
     },
     {
       "id": "B1-363-004",
@@ -93,23 +217,68 @@
       "word": "barbecue",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "barbecues"
+        "plural": "barbecues",
+        "present_3rd": "barbecues",
+        "past": "barbecued",
+        "past_participle": "barbecued",
+        "ing": "barbecuing"
       },
-      "domain": "general",
+      "domain": "leisure",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "barbecue",
-          "definition": "n. 烤肉, vt. 烤肉, 烧烤"
+          "definition": "n. 烤肉、燒烤  v. 烤、燒烤"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The company barbecue drew over two hundred employees and their families.",
+          "highlight": [
+            "barbecue"
+          ],
+          "translations": {
+            "zh-TW": "公司烤肉活動吸引了超過兩百名員工及其家屬參加。"
+          }
+        },
+        {
+          "en": "The caterer specializes in Texas-style barbecues for corporate events.",
+          "highlight": [
+            "barbecues"
+          ],
+          "translations": {
+            "zh-TW": "這位餐飲承包商專門為企業活動提供德州風味的燒烤。"
+          }
+        },
+        {
+          "en": "We barbecued ribs and corn for the quarterly team-building party.",
+          "highlight": [
+            "barbecued"
+          ],
+          "translations": {
+            "zh-TW": "我們為季度團隊建設派對烤了肋排和玉米。"
+          }
+        }
+      ],
+      "synonyms": [
+        "grill",
+        "roast",
+        "cookout"
+      ],
+      "antonyms": [
+        "bake",
+        "boil"
+      ],
+      "phrases": [
+        "barbecue sauce",
+        "barbecue grill",
+        "barbecue party",
+        "barbecue ribs"
+      ]
     },
     {
       "id": "B1-363-005",
@@ -125,18 +294,58 @@
       "conjugations": {
         "plural": "beginners"
       },
-      "domain": "general",
+      "domain": "education",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "beginner",
-          "definition": "n. 初學者"
+          "definition": "n. 初學者、新手"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Every beginner in the coding bootcamp starts with HTML and CSS.",
+          "highlight": [
+            "beginner"
+          ],
+          "translations": {
+            "zh-TW": "程式設計營隊裡每位初學者都從 HTML 和 CSS 入門。"
+          }
+        },
+        {
+          "en": "The training manual is designed for beginners with no prior experience.",
+          "highlight": [
+            "beginners"
+          ],
+          "translations": {
+            "zh-TW": "這本培訓手冊專為毫無經驗的新手設計。"
+          }
+        },
+        {
+          "en": "As a beginner, she asked her mentor for guidance on the first project.",
+          "highlight": [
+            "beginner"
+          ],
+          "translations": {
+            "zh-TW": "身為新手，她為第一個專案向導師請益。"
+          }
+        }
+      ],
+      "synonyms": [
+        "novice",
+        "newcomer",
+        "rookie"
+      ],
+      "antonyms": [
+        "expert",
+        "veteran"
+      ],
+      "phrases": [
+        "beginner level",
+        "absolute beginner",
+        "beginner course",
+        "beginner's luck"
+      ]
     },
     {
       "id": "B1-363-006",
@@ -147,23 +356,69 @@
       "word": "blanket",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "blankets"
+        "plural": "blankets",
+        "present_3rd": "blankets",
+        "past": "blanketed",
+        "past_participle": "blanketed",
+        "ing": "blanketing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "blanket",
-          "definition": "n. 毛毯, 毯子, vt. 掩盖, 覆盖, a. 總共的"
+          "definition": "n. 毛毯、毯子  v. 覆蓋  a. 總括的、全面的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Each first-class seat comes with a wool blanket and pillow.",
+          "highlight": [
+            "blanket"
+          ],
+          "translations": {
+            "zh-TW": "每個頭等艙座位都附有羊毛毯和枕頭。"
+          }
+        },
+        {
+          "en": "The travel advisory blanketed several regions due to the storm.",
+          "highlight": [
+            "blanketed"
+          ],
+          "translations": {
+            "zh-TW": "旅遊警示因暴風雨而涵蓋了好幾個地區。"
+          }
+        },
+        {
+          "en": "The company's blanket policy covers all employee insurance needs.",
+          "highlight": [
+            "blanket"
+          ],
+          "translations": {
+            "zh-TW": "公司的全面性政策涵蓋了員工所有的保險需求。"
+          }
+        }
+      ],
+      "synonyms": [
+        "cover",
+        "layer",
+        "overall"
+      ],
+      "antonyms": [
+        "expose",
+        "uncover"
+      ],
+      "phrases": [
+        "electric blanket",
+        "blanket policy",
+        "blanket coverage",
+        "throw blanket"
+      ]
     },
     {
       "id": "B1-363-007",
@@ -179,18 +434,58 @@
       "conjugations": {
         "plural": "chairpersons"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "chairperson",
-          "definition": "n. 主席"
+          "definition": "n. 主席、會議主持人"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The chairperson opened the annual meeting with a review of last year.",
+          "highlight": [
+            "chairperson"
+          ],
+          "translations": {
+            "zh-TW": "主席以回顧去年的成果作為年會的開場。"
+          }
+        },
+        {
+          "en": "Past chairpersons are invited to advise the incoming board.",
+          "highlight": [
+            "chairpersons"
+          ],
+          "translations": {
+            "zh-TW": "歷任主席受邀為新任董事會提供建議。"
+          }
+        },
+        {
+          "en": "As chairperson, she sets the agenda for every quarterly review.",
+          "highlight": [
+            "chairperson"
+          ],
+          "translations": {
+            "zh-TW": "身為主席，她為每次的季度檢討制定議程。"
+          }
+        }
+      ],
+      "synonyms": [
+        "chair",
+        "president",
+        "moderator"
+      ],
+      "antonyms": [
+        "member",
+        "participant"
+      ],
+      "phrases": [
+        "chairperson of the board",
+        "elect a chairperson",
+        "interim chairperson",
+        "acting chairperson"
+      ]
     },
     {
       "id": "B1-363-008",
@@ -201,23 +496,64 @@
       "word": "charitable",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "charitables"
+        "comparative": "more charitable",
+        "superlative": "most charitable"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "charitable",
-          "definition": "a. 大慈大悲的, 宽厚的, 慈善的, [法] 慈善的, 慷慨的, 宽恕的"
+          "definition": "a. 慈善的、慷慨的、寬厚的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The foundation makes charitable donations to underfunded schools each year.",
+          "highlight": [
+            "charitable"
+          ],
+          "translations": {
+            "zh-TW": "基金會每年向資金不足的學校捐助慈善款項。"
+          }
+        },
+        {
+          "en": "Her boss became more charitable after the company reached its profit goal.",
+          "highlight": [
+            "more charitable"
+          ],
+          "translations": {
+            "zh-TW": "在達成獲利目標後，老闆變得更加慷慨。"
+          }
+        },
+        {
+          "en": "Running a marathon for charity was her most charitable act to date.",
+          "highlight": [
+            "most charitable"
+          ],
+          "translations": {
+            "zh-TW": "為慈善而跑馬拉松是她迄今為止最慷慨的善舉。"
+          }
+        }
+      ],
+      "synonyms": [
+        "philanthropic",
+        "generous",
+        "benevolent"
+      ],
+      "antonyms": [
+        "selfish",
+        "stingy"
+      ],
+      "phrases": [
+        "charitable organization",
+        "charitable donation",
+        "charitable trust",
+        "charitable work"
+      ]
     },
     {
       "id": "B1-363-009",
@@ -233,18 +569,57 @@
       "conjugations": {
         "plural": "checkups"
       },
-      "domain": "general",
+      "domain": "health",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "checkup",
-          "definition": "n. 審查, 鉴定, 健康檢查"
+          "definition": "n. 健康檢查、審查"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Annual health checkups are fully covered by the company's insurance plan.",
+          "highlight": [
+            "checkups"
+          ],
+          "translations": {
+            "zh-TW": "年度健康檢查由公司的保險方案全額給付。"
+          }
+        },
+        {
+          "en": "Regular dental checkups help prevent costly procedures later.",
+          "highlight": [
+            "checkups"
+          ],
+          "translations": {
+            "zh-TW": "定期的牙科檢查能避免日後昂費的治療。"
+          }
+        },
+        {
+          "en": "The technician scheduled a checkup for the server hardware next week.",
+          "highlight": [
+            "checkup"
+          ],
+          "translations": {
+            "zh-TW": "技術員為伺服器硬體安排了下週的例行檢查。"
+          }
+        }
+      ],
+      "synonyms": [
+        "examination",
+        "inspection",
+        "physical"
+      ],
+      "antonyms": [
+        "neglect"
+      ],
+      "phrases": [
+        "annual checkup",
+        "dental checkup",
+        "regular checkup",
+        "medical checkup"
+      ]
     },
     {
       "id": "B1-363-010",
@@ -255,24 +630,65 @@
       "word": "cooler",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "coolers"
+        "plural": "coolers",
+        "comparative": "cooler",
+        "superlative": "coolest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cooler",
-          "definition": "n. 冷却器, [化] 冷却器"
+          "definition": "n. 冷卻器、冷藏箱  a. 更涼爽的（cool 的比較級）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The construction crew filled the cooler with ice and water bottles.",
+          "highlight": [
+            "cooler"
+          ],
+          "translations": {
+            "zh-TW": "施工人員在冷藏箱裡裝滿冰塊和瓶裝水。"
+          }
+        },
+        {
+          "en": "Portable coolers are standard equipment for outdoor catering jobs.",
+          "highlight": [
+            "coolers"
+          ],
+          "translations": {
+            "zh-TW": "可攜式冷藏箱是外燴工作的標準配備。"
+          }
+        },
+        {
+          "en": "The office grew cooler after maintenance fixed the broken air conditioner.",
+          "highlight": [
+            "cooler"
+          ],
+          "translations": {
+            "zh-TW": "在維修人員修好故障的冷氣後，辦公室變得更涼爽了。"
+          }
+        }
+      ],
+      "synonyms": [
+        "chiller",
+        "refrigerator",
+        "ice chest"
+      ],
+      "antonyms": [
+        "heater"
+      ],
+      "phrases": [
+        "ice cooler",
+        "wine cooler",
+        "cooler bag",
+        "water cooler"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
