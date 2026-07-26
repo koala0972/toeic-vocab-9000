@@ -1,7 +1,7 @@
 {
+  "cefr": "B1",
   "level": 388,
   "tier": "intermediate",
-  "cefr": "B1",
   "words": [
     {
       "id": "B1-388-001",
@@ -12,23 +12,65 @@
       "word": "forbid",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "forbids"
+        "present_3rd": "forbids",
+        "past": "forbade",
+        "past_participle": "forbidden",
+        "ing": "forbidding"
       },
-      "domain": "general",
+      "domain": "rules",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "forbid",
-          "definition": "vt. 禁止, 不準, 妨碍, [法] 不许, 禁止, 阻止"
+          "definition": "v. 禁止、不許、阻止"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The company policy forbids employees from sharing confidential data with outsiders.",
+          "highlight": [
+            "forbids"
+          ],
+          "translations": {
+            "zh-TW": "公司政策禁止員工將機密資料與外部人士分享。"
+          }
+        },
+        {
+          "en": "The referee forbade him from playing in the next two matches after the foul.",
+          "highlight": [
+            "forbade"
+          ],
+          "translations": {
+            "zh-TW": "該名球員犯規後，裁判禁止他參加接下來的兩場比賽。"
+          }
+        },
+        {
+          "en": "Smoking is forbidden in all indoor areas of the office building.",
+          "highlight": [
+            "forbidden"
+          ],
+          "translations": {
+            "zh-TW": "辦公大樓的所有室內區域都禁止吸菸。"
+          }
+        }
+      ],
+      "synonyms": [
+        "prohibit",
+        "ban",
+        "forbid"
+      ],
+      "antonyms": [
+        "allow",
+        "permit"
+      ],
+      "phrases": [
+        "forbid someone to do",
+        "forbidden fruit",
+        "strictly forbid"
+      ]
     },
     {
       "id": "B1-388-002",
@@ -39,23 +81,67 @@
       "word": "foster",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "fosters"
+        "present_3rd": "fosters",
+        "past": "fostered",
+        "past_participle": "fostered",
+        "ing": "fostering"
       },
-      "domain": "general",
+      "domain": "social",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "foster",
-          "definition": "a. 收养的, 养育的, vt. 养育, 抚育, 培养, 鼓励, 抱(希望)"
+          "definition": "v. 培養、促進、撫育  adj. 寄養的、收養的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The manager fosters a culture of innovation by encouraging employees to share new ideas.",
+          "highlight": [
+            "fosters"
+          ],
+          "translations": {
+            "zh-TW": "這位經理鼓勵員工分享新點子，藉此培養創新的文化。"
+          }
+        },
+        {
+          "en": "The company fostered strong relationships with its suppliers over the years.",
+          "highlight": [
+            "fostered"
+          ],
+          "translations": {
+            "zh-TW": "多年來，這家公司與供應商建立了穩固的合作關係。"
+          }
+        },
+        {
+          "en": "Fostering teamwork is essential for the success of any project.",
+          "highlight": [
+            "fostering"
+          ],
+          "translations": {
+            "zh-TW": "培養團隊合作精神對任何專案的成功都是不可或缺的。"
+          }
+        }
+      ],
+      "synonyms": [
+        "promote",
+        "encourage",
+        "nurture"
+      ],
+      "antonyms": [
+        "hinder",
+        "discourage"
+      ],
+      "phrases": [
+        "foster care",
+        "foster child",
+        "foster parents",
+        "foster a culture"
+      ]
     },
     {
       "id": "B1-388-003",
@@ -69,20 +155,60 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "getawaies"
+        "plural": "getaways"
       },
-      "domain": "general",
+      "domain": "travel",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "getaway",
-          "definition": "n. 逃走, 起步"
+          "definition": "n. 逃跑、逃離、度假、短途旅行"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The couple planned a romantic weekend getaway to a cabin in the mountains.",
+          "highlight": [
+            "getaway"
+          ],
+          "translations": {
+            "zh-TW": "這對情侶計畫到山中小木屋度過一個浪漫的週末假期。"
+          }
+        },
+        {
+          "en": "Quick getaways are perfect for busy professionals who need a short break.",
+          "highlight": [
+            "getaways"
+          ],
+          "translations": {
+            "zh-TW": "短途旅行對需要短暫休息的忙碌上班族來說非常合適。"
+          }
+        },
+        {
+          "en": "The bank robber made a quick getaway in a stolen car after the robbery.",
+          "highlight": [
+            "getaway"
+          ],
+          "translations": {
+            "zh-TW": "銀行搶匪在搶劫後駕駛偷來的汽車迅速逃離現場。"
+          }
+        }
+      ],
+      "synonyms": [
+        "escape",
+        "flight",
+        "retreat"
+      ],
+      "antonyms": [
+        "arrival",
+        "stay"
+      ],
+      "phrases": [
+        "make a getaway",
+        "weekend getaway",
+        "quick getaway",
+        "getaway car"
+      ]
     },
     {
       "id": "B1-388-004",
@@ -93,23 +219,68 @@
       "word": "gossip",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "gossips"
+        "plural": "gossips",
+        "present_3rd": "gossips",
+        "past": "gossiped",
+        "past_participle": "gossiped",
+        "ing": "gossiping"
       },
-      "domain": "general",
+      "domain": "social",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "gossip",
-          "definition": "n. 闲聊, 隨笔, 流言, 爱讲闲话的人, vi. 說闲话, 闲聊"
+          "definition": "n. 流言蜚語、閒話  v. 八卦、說閒話"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Office gossip spreads quickly and can damage a person's reputation.",
+          "highlight": [
+            "gossip"
+          ],
+          "translations": {
+            "zh-TW": "辦公室的流言蜚語散播迅速，可能會損害一個人的名聲。"
+          }
+        },
+        {
+          "en": "Colleagues gossiped about the new manager during the coffee break.",
+          "highlight": [
+            "gossiped"
+          ],
+          "translations": {
+            "zh-TW": "同事們在咖啡休息時間八卦新來的經理。"
+          }
+        },
+        {
+          "en": "She was gossiping with her friends about the latest celebrity news.",
+          "highlight": [
+            "gossiping"
+          ],
+          "translations": {
+            "zh-TW": "她正和朋友們聊著最新的名人八卦。"
+          }
+        }
+      ],
+      "synonyms": [
+        "rumor",
+        "chatter",
+        "tattle"
+      ],
+      "antonyms": [
+        "truth",
+        "fact"
+      ],
+      "phrases": [
+        "office gossip",
+        "gossip column",
+        "gossip about",
+        "spread gossip"
+      ]
     },
     {
       "id": "B1-388-005",
@@ -125,18 +296,58 @@
       "conjugations": {
         "plural": "hackers"
       },
-      "domain": "general",
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "hacker",
-          "definition": "[計] 計算機窃贼, 計算機新技術挑战者, 黑客"
+          "definition": "n. 駭客、電腦高手、善於破解系統的人"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The hacker stole sensitive customer data from the company's database last night.",
+          "highlight": [
+            "hacker"
+          ],
+          "translations": {
+            "zh-TW": "昨晚駭客從公司的資料庫竊取了敏感的客戶資料。"
+          }
+        },
+        {
+          "en": "Hackers often target small businesses that have weak cybersecurity systems.",
+          "highlight": [
+            "hackers"
+          ],
+          "translations": {
+            "zh-TW": "駭客常以網路安全系統薄弱的小型企業為目標。"
+          }
+        },
+        {
+          "en": "A skilled hacker can find vulnerabilities in even the most secure networks.",
+          "highlight": [
+            "hacker"
+          ],
+          "translations": {
+            "zh-TW": "技術高超的駭客即使是最安全的網路也能找到漏洞。"
+          }
+        }
+      ],
+      "synonyms": [
+        "cybercriminal",
+        "cracker",
+        "programmer"
+      ],
+      "antonyms": [
+        "security expert",
+        "defender"
+      ],
+      "phrases": [
+        "ethical hacker",
+        "hacker attack",
+        "white hat hacker",
+        "computer hacker"
+      ]
     },
     {
       "id": "B1-388-006",
@@ -147,23 +358,64 @@
       "word": "hardworking",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "hardworkings"
+        "comparative": "more hardworking",
+        "superlative": "most hardworking"
       },
-      "domain": "general",
+      "domain": "personality",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "hardworking",
-          "definition": "a. 苦干的, 不辞辛劳的"
+          "definition": "adj. 勤奮的、努力工作的、不辭辛勞的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "She is a hardworking student who always finishes her assignments ahead of time.",
+          "highlight": [
+            "hardworking"
+          ],
+          "translations": {
+            "zh-TW": "她是個勤奮的學生，總是提前完成作業。"
+          }
+        },
+        {
+          "en": "Of all the staff, Tom is the most hardworking and rarely takes a day off.",
+          "highlight": [
+            "most hardworking"
+          ],
+          "translations": {
+            "zh-TW": "在所有員工當中，Tom 最為勤奮，鮮少請假休息。"
+          }
+        },
+        {
+          "en": "Hardworking employees tend to receive more promotions and better pay raises.",
+          "highlight": [
+            "hardworking"
+          ],
+          "translations": {
+            "zh-TW": "勤奮的員工通常能獲得更多晉升機會與更好的加薪。"
+          }
+        }
+      ],
+      "synonyms": [
+        "diligent",
+        "industrious",
+        "assiduous"
+      ],
+      "antonyms": [
+        "lazy",
+        "indolent"
+      ],
+      "phrases": [
+        "hardworking person",
+        "hardworking attitude",
+        "hardworking student",
+        "hardworking employee"
+      ]
     },
     {
       "id": "B1-388-007",
@@ -179,18 +431,54 @@
       "conjugations": {
         "plural": "interpreters"
       },
-      "domain": "general",
+      "domain": "language",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "interpreter",
-          "definition": "n. 直译程序, 解释者, 口译者, 注释器, [計] 注释器"
+          "definition": "n. 口譯員、通譯、直譯程式"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The interpreter translated the Japanese speech into English for the international audience.",
+          "highlight": [
+            "interpreter"
+          ],
+          "translations": {
+            "zh-TW": "口譯員將日文演講翻譯成英文，讓國際聽眾能夠理解。"
+          }
+        },
+        {
+          "en": "The company hired several interpreters for the international business conference.",
+          "highlight": [
+            "interpreters"
+          ],
+          "translations": {
+            "zh-TW": "公司為國際商務會議聘請了幾位口譯員。"
+          }
+        },
+        {
+          "en": "A skilled interpreter must be able to think quickly and accurately under pressure.",
+          "highlight": [
+            "interpreter"
+          ],
+          "translations": {
+            "zh-TW": "優秀的口譯員必須能在壓力下快速而準確地思考。"
+          }
+        }
+      ],
+      "synonyms": [
+        "translator",
+        "transcriber"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "professional interpreter",
+        "court interpreter",
+        "conference interpreter",
+        "work as an interpreter"
+      ]
     },
     {
       "id": "B1-388-008",
@@ -206,18 +494,55 @@
       "conjugations": {
         "plural": "intersections"
       },
-      "domain": "general",
+      "domain": "transportation",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "intersection",
-          "definition": "n. 交集, 十字路口, 交叉點, [計] 逻辑乘; 與"
+          "definition": "n. 十字路口、交叉點、交集"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The new shopping mall is located at the intersection of Main Street and Fifth Avenue.",
+          "highlight": [
+            "intersection"
+          ],
+          "translations": {
+            "zh-TW": "新的購物中心位於主街與第五大道的交叉口。"
+          }
+        },
+        {
+          "en": "Drivers should slow down when approaching intersections with heavy traffic.",
+          "highlight": [
+            "intersections"
+          ],
+          "translations": {
+            "zh-TW": "駕駛人在接近車流量大的十字路口時應該減速慢行。"
+          }
+        },
+        {
+          "en": "There is a clear intersection between social media use and consumer buying behavior.",
+          "highlight": [
+            "intersection"
+          ],
+          "translations": {
+            "zh-TW": "社群媒體使用與消費者購買行為之間存在明顯的交集。"
+          }
+        }
+      ],
+      "synonyms": [
+        "crossroad",
+        "junction",
+        "crossway"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "at the intersection",
+        "intersection of two roads",
+        "intersection point",
+        "dangerous intersection"
+      ]
     },
     {
       "id": "B1-388-009",
@@ -228,23 +553,65 @@
       "word": "irrelevant",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "irrelevants"
+        "comparative": "more irrelevant",
+        "superlative": "most irrelevant"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "irrelevant",
-          "definition": "a. 不恰当的, 无關系的, 不相干的, [法] 无關的, 不相干的, 離题的"
+          "definition": "adj. 不相干的、無關的、離題的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Please focus on the agenda and avoid discussing irrelevant topics during the meeting.",
+          "highlight": [
+            "irrelevant"
+          ],
+          "translations": {
+            "zh-TW": "開會時請專注於議程，避免討論不相干的話題。"
+          }
+        },
+        {
+          "en": "Outdated statistics become irrelevant to current economic policy decisions.",
+          "highlight": [
+            "irrelevant"
+          ],
+          "translations": {
+            "zh-TW": "過時的統計數據對當前的經濟政策決策而言已變得無關緊要。"
+          }
+        },
+        {
+          "en": "His comments about the weather were more irrelevant than helpful in resolving the dispute.",
+          "highlight": [
+            "more irrelevant"
+          ],
+          "translations": {
+            "zh-TW": "他關於天氣的評論對解決爭端毫無幫助，反而更加無關。"
+          }
+        }
+      ],
+      "synonyms": [
+        "unrelated",
+        "unconnected",
+        "immaterial"
+      ],
+      "antonyms": [
+        "relevant",
+        "pertinent",
+        "applicable"
+      ],
+      "phrases": [
+        "irrelevant to",
+        "completely irrelevant",
+        "irrelevant information",
+        "irrelevant detail"
+      ]
     },
     {
       "id": "B1-388-010",
@@ -260,19 +627,55 @@
       "conjugations": {
         "plural": "journalisms"
       },
-      "domain": "general",
+      "domain": "media",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "journalism",
-          "definition": "n. 新聞業, 報章雜志, [法] 報刊, 新聞業, 新聞出版"
+          "definition": "n. 新聞業、新聞學、報刊雜誌"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "She began her career in journalism after graduating from university.",
+          "highlight": [
+            "journalism"
+          ],
+          "translations": {
+            "zh-TW": "她大學畢業後便開始了新聞業的職業生涯。"
+          }
+        },
+        {
+          "en": "Investigative journalism plays a crucial role in exposing corruption in society.",
+          "highlight": [
+            "journalism"
+          ],
+          "translations": {
+            "zh-TW": "調查新聞在揭露社會貪腐方面扮演著關鍵角色。"
+          }
+        },
+        {
+          "en": "Modern journalism differs greatly from the past due to the rise of digital media.",
+          "highlight": [
+            "journalism"
+          ],
+          "translations": {
+            "zh-TW": "由於數位媒體的興起，現代的新聞業與過去大不相同。"
+          }
+        }
+      ],
+      "synonyms": [
+        "news reporting",
+        "the press",
+        "newspaper writing"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "investigative journalism",
+        "career in journalism",
+        "print journalism",
+        "objective journalism"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
