@@ -1,7 +1,7 @@
 {
+  "cefr": "B2",
   "level": 488,
   "tier": "intermediate",
-  "cefr": "B2",
   "words": [
     {
       "id": "B2-488-001",
@@ -12,23 +12,64 @@
       "word": "streak",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "streaks"
+        "plural": "streaks",
+        "present_3rd": "streaks",
+        "past": "streaked",
+        "past_participle": "streaked",
+        "ing": "streaking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "streak",
-          "definition": "n. 条理, 斑纹, 倾向, vt. 加条纹, vi. 变成条纹, 飞跑"
+          "definition": "n. 條紋、斑紋、連勝、一連串  v. 加條紋、飛奔、連續出現"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Several players celebrated a winning streak of seven matches.",
+          "highlight": [
+            "streak"
+          ],
+          "translations": {
+            "zh-TW": "幾位球員慶祝連勝七場。"
+          }
+        },
+        {
+          "en": "The comet streaked across the sky just before dawn.",
+          "highlight": [
+            "streaked"
+          ],
+          "translations": {
+            "zh-TW": "彗星在黎明前劃過天際。"
+          }
+        },
+        {
+          "en": "By streaking through traffic, the courier arrived in record time.",
+          "highlight": [
+            "streaking"
+          ],
+          "translations": {
+            "zh-TW": "透過飛馳穿過車陣，快遞員在創紀錄時間內抵達。"
+          }
+        }
+      ],
+      "synonyms": [
+        "stripe",
+        "run",
+        "strand"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "winning streak",
+        "streak of luck",
+        "streak across"
+      ]
     },
     {
       "id": "B2-488-002",
@@ -39,23 +80,60 @@
       "word": "supposedly",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
-      "conjugations": {
-        "plural": "supposedlies"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "supposedly",
-          "definition": "adv. 想象上, 看上去像, 被認為是, 恐怕, 按照推測"
+          "definition": "adv. 據說、想像上、按照推測、被認為是"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several employees supposedly received bonuses last quarter.",
+          "highlight": [
+            "supposedly"
+          ],
+          "translations": {
+            "zh-TW": "幾位員工據說上一季領到了獎金。"
+          }
+        },
+        {
+          "en": "The new software is supposedly faster than its predecessor.",
+          "highlight": [
+            "supposedly"
+          ],
+          "translations": {
+            "zh-TW": "據稱新軟體比前一代更快。"
+          }
+        },
+        {
+          "en": "By framing the layoffs as supposedly temporary, the firm avoided panic.",
+          "highlight": [
+            "supposedly"
+          ],
+          "translations": {
+            "zh-TW": "將裁員定調為據稱暫時性的，公司避免了恐慌。"
+          }
+        }
+      ],
+      "synonyms": [
+        "allegedly",
+        "reportedly",
+        "purportedly"
+      ],
+      "antonyms": [
+        "certainly",
+        "undeniably"
+      ],
+      "phrases": [
+        "supposedly safe",
+        "supposedly easy",
+        "supposedly true"
+      ]
     },
     {
       "id": "B2-488-003",
@@ -66,23 +144,66 @@
       "word": "added",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "verb"
       ],
       "conjugations": {
-        "plural": "addeds"
+        "present_3rd": "adds",
+        "past": "added",
+        "past_participle": "added",
+        "ing": "adding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "added",
-          "definition": "a. 額外的；更多的"
+          "definition": "a. 額外的、增加的  v. add 的過去式與過去分詞"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several customers appreciated the added flexibility of the new plan.",
+          "highlight": [
+            "added"
+          ],
+          "translations": {
+            "zh-TW": "幾位顧客欣賞新方案附加的彈性。"
+          }
+        },
+        {
+          "en": "By adding new features, the firm differentiated itself from rivals.",
+          "highlight": [
+            "adding"
+          ],
+          "translations": {
+            "zh-TW": "透過增加新功能，公司與競爭者做出區隔。"
+          }
+        },
+        {
+          "en": "The clerk adds a courtesy discount for repeat customers.",
+          "highlight": [
+            "adds"
+          ],
+          "translations": {
+            "zh-TW": "店員為老主顧加上一個優待折扣。"
+          }
+        }
+      ],
+      "synonyms": [
+        "extra",
+        "additional",
+        "further"
+      ],
+      "antonyms": [
+        "subtracted",
+        "removed"
+      ],
+      "phrases": [
+        "added value",
+        "added bonus",
+        "added sugar"
+      ]
     },
     {
       "id": "B2-488-004",
@@ -98,18 +219,56 @@
       "conjugations": {
         "plural": "builders"
       },
-      "domain": "general",
+      "domain": "industry",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "builder",
-          "definition": "n. 建立者, [機] 組份"
+          "definition": "n. 建造者、建築商、建立者"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several local builders bid for the new library contract.",
+          "highlight": [
+            "builders"
+          ],
+          "translations": {
+            "zh-TW": "幾家本地建築商競標新圖書館的合約。"
+          }
+        },
+        {
+          "en": "The builder broke ground on the housing development last spring.",
+          "highlight": [
+            "builder"
+          ],
+          "translations": {
+            "zh-TW": "建築商去年春天在這個住宅開發案動土。"
+          }
+        },
+        {
+          "en": "By hiring dozens of builders, the developer sped up construction.",
+          "highlight": [
+            "builders"
+          ],
+          "translations": {
+            "zh-TW": "透過雇用數十名建造工人，開發商加快了施工速度。"
+          }
+        }
+      ],
+      "synonyms": [
+        "contractor",
+        "constructor",
+        "maker"
+      ],
+      "antonyms": [
+        "demolisher"
+      ],
+      "phrases": [
+        "home builder",
+        "builder's merchant",
+        "empire builder"
+      ]
     },
     {
       "id": "B2-488-005",
@@ -120,23 +279,67 @@
       "word": "glimpse",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "glimpses"
+        "plural": "glimpses",
+        "present_3rd": "glimpses",
+        "past": "glimpsed",
+        "past_participle": "glimpsed",
+        "ing": "glimpsing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "glimpse",
-          "definition": "n. 一瞥, 一闪, vi. 投以一瞥, 闪烁不定, vt. 瞥见"
+          "definition": "n. 一瞥、瞥見  v. 瞥見、看見"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several tourists glimpsed the rare bird during the safari.",
+          "highlight": [
+            "glimpsed"
+          ],
+          "translations": {
+            "zh-TW": "幾位遊客在賞野生動物時瞥見了那隻珍禽。"
+          }
+        },
+        {
+          "en": "By glimpsing the secret document, the journalist uncovered a scandal.",
+          "highlight": [
+            "glimpsing"
+          ],
+          "translations": {
+            "zh-TW": "透過瞥見那份機密文件，記者揭發了一樁醜聞。"
+          }
+        },
+        {
+          "en": "The analyst glimpses patterns in data that others miss.",
+          "highlight": [
+            "glimpses"
+          ],
+          "translations": {
+            "zh-TW": "分析師在資料中看出別人遺漏的模式。"
+          }
+        }
+      ],
+      "synonyms": [
+        "glance",
+        "peek",
+        "sighting"
+      ],
+      "antonyms": [
+        "stare",
+        "gaze"
+      ],
+      "phrases": [
+        "catch a glimpse",
+        "glimpse of",
+        "fleeting glimpse"
+      ]
     },
     {
       "id": "B2-488-006",
@@ -147,23 +350,66 @@
       "word": "premise",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "premises"
+        "plural": "premises",
+        "present_3rd": "premises",
+        "past": "premised",
+        "past_participle": "premised",
+        "ing": "premising"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "premise",
-          "definition": "n. 前提, 房屋連地基, 上述各项, vt. 預先提出, 引出, 作為...的前提, vi. 作出前提"
+          "definition": "n. 前提、房屋連地基  v. 預先提出、作為…的前提"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several small businesses operate from home premises.",
+          "highlight": [
+            "premises"
+          ],
+          "translations": {
+            "zh-TW": "幾家小型企業在家中的場所營運。"
+          }
+        },
+        {
+          "en": "The startup premised its pitch on the promise of AI automation.",
+          "highlight": [
+            "premised"
+          ],
+          "translations": {
+            "zh-TW": "這家新創公司以 AI 自動化的承諾作為提案的前提。"
+          }
+        },
+        {
+          "en": "By premising safety on data rather than gut feeling, the airline cut incidents.",
+          "highlight": [
+            "premising"
+          ],
+          "translations": {
+            "zh-TW": "透過以數據而非直覺作為安全的前提，航空公司降低了事故率。"
+          }
+        }
+      ],
+      "synonyms": [
+        "assumption",
+        "basis",
+        "ground"
+      ],
+      "antonyms": [
+        "conclusion"
+      ],
+      "phrases": [
+        "business premises",
+        "on the premise",
+        "false premise"
+      ]
     },
     {
       "id": "B2-488-007",
@@ -174,23 +420,64 @@
       "word": "deem",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "deems"
+        "present_3rd": "deems",
+        "past": "deemed",
+        "past_participle": "deemed",
+        "ing": "deeming"
       },
-      "domain": "general",
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "deem",
-          "definition": "v. 認為, 相信"
+          "definition": "v. 認為、視為、相信"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several regulators deemed the merger anti-competitive.",
+          "highlight": [
+            "deemed"
+          ],
+          "translations": {
+            "zh-TW": "幾家監管機關認定這起合併案具有反競爭性。"
+          }
+        },
+        {
+          "en": "By deeming the contract void, the court protected the workers.",
+          "highlight": [
+            "deeming"
+          ],
+          "translations": {
+            "zh-TW": "透過判定合約無效，法院保護了勞工。"
+          }
+        },
+        {
+          "en": "The committee deems every proposal according to its alignment with strategy.",
+          "highlight": [
+            "deems"
+          ],
+          "translations": {
+            "zh-TW": "委員會依照與策略的一致性來評估每項提案。"
+          }
+        }
+      ],
+      "synonyms": [
+        "consider",
+        "judge",
+        "regard"
+      ],
+      "antonyms": [
+        "disregard"
+      ],
+      "phrases": [
+        "deem necessary",
+        "deem fit",
+        "deem appropriate"
+      ]
     },
     {
       "id": "B2-488-008",
@@ -211,13 +498,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "artifact",
-          "definition": "n. 人工制品, [醫] 人為現象, 人工產物"
+          "definition": "n. 人工製品、工藝品、人為現象、文物"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Several artifacts from the Ming dynasty are displayed in the museum.",
+          "highlight": [
+            "artifacts"
+          ],
+          "translations": {
+            "zh-TW": "幾件明朝文物在博物館展出。"
+          }
+        },
+        {
+          "en": "The museum acquired a rare artifact last summer from a private collector.",
+          "highlight": [
+            "artifact"
+          ],
+          "translations": {
+            "zh-TW": "這座博物館去年夏天從一位私人藏家手中收購了一件罕見文物。"
+          }
+        },
+        {
+          "en": "By cataloguing every artifact, the curator preserved the collection's history.",
+          "highlight": [
+            "artifact"
+          ],
+          "translations": {
+            "zh-TW": "透過為每件文物編目，館長保存了館藏的歷史。"
+          }
+        }
+      ],
+      "synonyms": [
+        "relic",
+        "antiquity",
+        "object"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "cultural artifact",
+        "ancient artifact",
+        "digital artifact"
+      ]
     },
     {
       "id": "B2-488-009",
@@ -228,23 +551,67 @@
       "word": "sneak",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
       "conjugations": {
-        "plural": "sneaks"
+        "plural": "sneaks",
+        "present_3rd": "sneaks",
+        "past": "sneaked",
+        "past_participle": "sneaked",
+        "ing": "sneaking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sneak",
-          "definition": "vi. 鬼鬼祟祟做事, vt. 偷偷地做, n. 鬼鬼祟祟的人, 偷偷摸摸的行為, 帆布胶底運動鞋, a. 暗中进行的"
+          "definition": "v. 鬼鬼祟祟地移動、偷帶、偷看  n. 鬼鬼祟祟的人、偷偷摸摸的行為"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several fans sneaked into the concert through a side door.",
+          "highlight": [
+            "sneaked"
+          ],
+          "translations": {
+            "zh-TW": "幾位粉絲從側門偷偷溜進演唱會。"
+          }
+        },
+        {
+          "en": "By sneaking a peek at the agenda, the assistant prepared questions.",
+          "highlight": [
+            "sneaking"
+          ],
+          "translations": {
+            "zh-TW": "透過偷看議程，助理預先準備了問題。"
+          }
+        },
+        {
+          "en": "The journalist sneaks photographs when reporting on sensitive topics.",
+          "highlight": [
+            "sneaks"
+          ],
+          "translations": {
+            "zh-TW": "記者報導敏感議題時會偷偷拍照。"
+          }
+        }
+      ],
+      "synonyms": [
+        "creep",
+        "slip",
+        "tiptoe"
+      ],
+      "antonyms": [
+        "announce",
+        "proclaim"
+      ],
+      "phrases": [
+        "sneak peek",
+        "sneak attack",
+        "sneak out"
+      ]
     },
     {
       "id": "B2-488-010",
@@ -257,22 +624,54 @@
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "lightnings"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "nature",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "lightning",
-          "definition": "n. 闪電, vi. 闪電, a. 闪電的"
+          "definition": "n. 閃電（不可數）  a. 閃電般的、迅速的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Lightning struck the communications tower during the storm.",
+          "highlight": [
+            "Lightning"
+          ],
+          "translations": {
+            "zh-TW": "暴風雨期間閃電擊中了通訊塔。"
+          }
+        },
+        {
+          "en": "A flash of lightning illuminated the entire valley.",
+          "highlight": [
+            "lightning"
+          ],
+          "translations": {
+            "zh-TW": "一道閃電照亮了整個山谷。"
+          }
+        },
+        {
+          "en": "By installing lightning rods, the factory protected its equipment.",
+          "highlight": [
+            "lightning"
+          ],
+          "translations": {
+            "zh-TW": "透過安裝避雷針，工廠保護了設備。"
+          }
+        }
+      ],
+      "synonyms": [
+        "thunderbolt",
+        "flash"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "lightning strike",
+        "lightning fast",
+        "lightning storm"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }

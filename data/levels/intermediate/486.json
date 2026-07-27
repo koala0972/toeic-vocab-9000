@@ -1,7 +1,7 @@
 {
+  "cefr": "B2",
   "level": 486,
   "tier": "intermediate",
-  "cefr": "B2",
   "words": [
     {
       "id": "B2-486-001",
@@ -12,23 +12,65 @@
       "word": "invade",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "invades"
+        "present_3rd": "invades",
+        "past": "invaded",
+        "past_participle": "invaded",
+        "ing": "invading"
       },
-      "domain": "general",
+      "domain": "military",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "invade",
-          "definition": "vt. 侵入, 拥入, 侵略, 侵袭, [法] 强入, 侵犯, 侵略"
+          "definition": "v. 侵入、侵略、蜂擁而入、侵犯"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several armies invaded the kingdom during the seventh century.",
+          "highlight": [
+            "invaded"
+          ],
+          "translations": {
+            "zh-TW": "幾支軍隊在七世紀入侵這個王國。"
+          }
+        },
+        {
+          "en": "By invading neighbouring territories, the empire expanded rapidly.",
+          "highlight": [
+            "invading"
+          ],
+          "translations": {
+            "zh-TW": "透過入侵鄰近領土，帝國迅速擴張。"
+          }
+        },
+        {
+          "en": "A new invasive species invades the river ecosystem every decade.",
+          "highlight": [
+            "invades"
+          ],
+          "translations": {
+            "zh-TW": "每十年就有新的外來物種入侵河流生態系。"
+          }
+        }
+      ],
+      "synonyms": [
+        "attack",
+        "occupy",
+        "raid"
+      ],
+      "antonyms": [
+        "withdraw",
+        "retreat"
+      ],
+      "phrases": [
+        "invade privacy",
+        "invade a country",
+        "invading species"
+      ]
     },
     {
       "id": "B2-486-002",
@@ -44,18 +86,56 @@
       "conjugations": {
         "plural": "coups"
       },
-      "domain": "general",
+      "domain": "politics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "coup",
-          "definition": "n. 砰然的一击, 妙計, 出乎意料的行動, 政变, [醫] 發作, 中, 击"
+          "definition": "n. 政變、妙計、出乎意料的成功之舉"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The coup toppled the government within a single night.",
+          "highlight": [
+            "coup"
+          ],
+          "translations": {
+            "zh-TW": "那場政變在一夜之間推翻了政府。"
+          }
+        },
+        {
+          "en": "Several bloodless coups reshaped the region's politics last decade.",
+          "highlight": [
+            "coups"
+          ],
+          "translations": {
+            "zh-TW": "過去十年幾場不流血政變重塑了該區域的政治。"
+          }
+        },
+        {
+          "en": "By staging a marketing coup, the startup outflanked bigger rivals.",
+          "highlight": [
+            "coup"
+          ],
+          "translations": {
+            "zh-TW": "透過發動行銷妙招，該新創公司智取了更大的對手。"
+          }
+        }
+      ],
+      "synonyms": [
+        "overthrow",
+        "takeover",
+        "putsch"
+      ],
+      "antonyms": [
+        "election"
+      ],
+      "phrases": [
+        "military coup",
+        "stage a coup",
+        "a coup d'etat"
+      ]
     },
     {
       "id": "B2-486-003",
@@ -71,18 +151,56 @@
       "conjugations": {
         "plural": "densities"
       },
-      "domain": "general",
+      "domain": "science",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "density",
-          "definition": "n. 密度, [化] 密度"
+          "definition": "n. 密度、濃度、稠密"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The density of the new alloy makes it suitable for aircraft.",
+          "highlight": [
+            "density"
+          ],
+          "translations": {
+            "zh-TW": "新合金的密度使其適合航空用途。"
+          }
+        },
+        {
+          "en": "Several urban densities affect how cities manage traffic flow.",
+          "highlight": [
+            "densities"
+          ],
+          "translations": {
+            "zh-TW": "幾種城市密度影響著城市如何管理車流。"
+          }
+        },
+        {
+          "en": "By lowering the density of the foam, the factory cut material costs.",
+          "highlight": [
+            "density"
+          ],
+          "translations": {
+            "zh-TW": "透過降低泡沫的密度，工廠降低了原料成本。"
+          }
+        }
+      ],
+      "synonyms": [
+        "thickness",
+        "compactness",
+        "concentration"
+      ],
+      "antonyms": [
+        "sparsity"
+      ],
+      "phrases": [
+        "population density",
+        "high density",
+        "traffic density"
+      ]
     },
     {
       "id": "B2-486-004",
@@ -93,23 +211,63 @@
       "word": "supportive",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "supportives"
+        "comparative": "more supportive",
+        "superlative": "most supportive"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "supportive",
-          "definition": "a. 支撑, 支承, 资助, 赞助, 支援, 經受, 忍受, 扶养, 證實, 鼓励, 维持, 伴奏"
+          "definition": "a. 支持的、贊助的、鼓勵的、給予援助的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several colleagues were supportive during her recovery from surgery.",
+          "highlight": [
+            "supportive"
+          ],
+          "translations": {
+            "zh-TW": "幾位同事在她手術康复期間給予支持。"
+          }
+        },
+        {
+          "en": "A more supportive workplace would retain talent longer, surveys show.",
+          "highlight": [
+            "supportive"
+          ],
+          "translations": {
+            "zh-TW": "調查顯示，更友善的工作環境能留住人才更久。"
+          }
+        },
+        {
+          "en": "By building the most supportive community, the brand won loyal fans.",
+          "highlight": [
+            "supportive"
+          ],
+          "translations": {
+            "zh-TW": "透過建立最能給予支持的社群，該品牌贏得了忠實粉絲。"
+          }
+        }
+      ],
+      "synonyms": [
+        "encouraging",
+        "helpful",
+        "sympathetic"
+      ],
+      "antonyms": [
+        "unsupportive",
+        "critical"
+      ],
+      "phrases": [
+        "supportive partner",
+        "supportive environment",
+        "supportive measures"
+      ]
     },
     {
       "id": "B2-486-005",
@@ -130,13 +288,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "curiosity",
-          "definition": "n. 好奇心, 新奇的事物, 珍品"
+          "definition": "n. 好奇心、珍品、新奇的事物"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Her curiosity about foreign cultures led her to study anthropology.",
+          "highlight": [
+            "curiosity"
+          ],
+          "translations": {
+            "zh-TW": "她對外國文化的好奇心引領她研讀人類學。"
+          }
+        },
+        {
+          "en": "Several museum curiosities drew tourists from across the country.",
+          "highlight": [
+            "curiosities"
+          ],
+          "translations": {
+            "zh-TW": "幾件博物館的珍品吸引了來自全國的遊客。"
+          }
+        },
+        {
+          "en": "By feeding the child's curiosity, the parents sparked a lifelong interest in science.",
+          "highlight": [
+            "curiosity"
+          ],
+          "translations": {
+            "zh-TW": "透過滿足孩子的好奇心，父母激發了他對科學的終身興趣。"
+          }
+        }
+      ],
+      "synonyms": [
+        "inquisitiveness",
+        "interest",
+        "novelty"
+      ],
+      "antonyms": [
+        "indifference"
+      ],
+      "phrases": [
+        "out of curiosity",
+        "intellectual curiosity",
+        "satisfy one's curiosity"
+      ]
     },
     {
       "id": "B2-486-006",
@@ -147,23 +343,67 @@
       "word": "skip",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
       "conjugations": {
-        "plural": "skips"
+        "plural": "skips",
+        "present_3rd": "skips",
+        "past": "skipped",
+        "past_participle": "skipped",
+        "ing": "skipping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "skip",
-          "definition": "n. 跳跃, 跳讀, vi. 跳越, 跳讀, 跳绳, 遗漏, 跳級, vt. 跳過, 遗漏, [計] 跳過"
+          "definition": "v. 跳過、略過、跳躍、跳級  n. 跳躍、漏讀"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several students skipped the morning lecture last Wednesday.",
+          "highlight": [
+            "skipped"
+          ],
+          "translations": {
+            "zh-TW": "幾位學生上週三翹了早上的演講。"
+          }
+        },
+        {
+          "en": "By skipping the warm-up, the athlete risked a muscle injury.",
+          "highlight": [
+            "skipping"
+          ],
+          "translations": {
+            "zh-TW": "透過跳過熱身，那名運動員冒了肌肉受傷的風險。"
+          }
+        },
+        {
+          "en": "The checksum routine skips corrupted blocks during transfer.",
+          "highlight": [
+            "skips"
+          ],
+          "translations": {
+            "zh-TW": "校驗碼常式在傳輸時會略過損壞的區塊。"
+          }
+        }
+      ],
+      "synonyms": [
+        "miss",
+        "omit",
+        "leap"
+      ],
+      "antonyms": [
+        "attend",
+        "include"
+      ],
+      "phrases": [
+        "skip a meal",
+        "skip rope",
+        "skip a beat"
+      ]
     },
     {
       "id": "B2-486-007",
@@ -184,13 +424,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "aggression",
-          "definition": "n. 侵犯, 侵略, [醫] 攻击"
+          "definition": "n. 侵略、攻擊、侵犯、敵意行為"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several psychologists study aggression in competitive environments.",
+          "highlight": [
+            "aggression"
+          ],
+          "translations": {
+            "zh-TW": "幾位心理學家研究競爭環境中的攻擊行為。"
+          }
+        },
+        {
+          "en": "Acts of aggression violated the ceasefire agreement last month.",
+          "highlight": [
+            "aggression"
+          ],
+          "translations": {
+            "zh-TW": "上個月的敵意行為違反了停火協議。"
+          }
+        },
+        {
+          "en": "By framing criticism as aggression, the manager silenced dissent.",
+          "highlight": [
+            "aggression"
+          ],
+          "translations": {
+            "zh-TW": "透過將批評定調為攻擊，經理讓異見噤聲。"
+          }
+        }
+      ],
+      "synonyms": [
+        "hostility",
+        "assault",
+        "belligerence"
+      ],
+      "antonyms": [
+        "peace",
+        "cooperation"
+      ],
+      "phrases": [
+        "unprovoked aggression",
+        "verbal aggression",
+        "military aggression"
+      ]
     },
     {
       "id": "B2-486-008",
@@ -201,23 +480,67 @@
       "word": "dip",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
       "conjugations": {
-        "plural": "dips"
+        "plural": "dips",
+        "present_3rd": "dips",
+        "past": "dipped",
+        "past_participle": "dipped",
+        "ing": "dipping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dip",
-          "definition": "v. 浸, 降下, 把(手、勺等)伸入, 舀取, n. 浸, 涉猎, [計] 双列直插式組件, 分布式輸入輸出系统, 双排直插封裝"
+          "definition": "v. 浸、蘸、降下、伸入  n. 浸泡、傾斜、短暫下降"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several anglers dipped their nets into the cool stream.",
+          "highlight": [
+            "dipped"
+          ],
+          "translations": {
+            "zh-TW": "幾位漁夫把漁網浸入清涼的溪流。"
+          }
+        },
+        {
+          "en": "By dipping profits into research, the company pre-empted rivals.",
+          "highlight": [
+            "dipping"
+          ],
+          "translations": {
+            "zh-TW": "透過將利潤投入研發，該公司搶先了對手。"
+          }
+        },
+        {
+          "en": "The temperature dips sharply after sundown in the desert.",
+          "highlight": [
+            "dips"
+          ],
+          "translations": {
+            "zh-TW": "在沙漠中，日落後氣溫急遽下降。"
+          }
+        }
+      ],
+      "synonyms": [
+        "immerse",
+        "plunge",
+        "submerge"
+      ],
+      "antonyms": [
+        "lift",
+        "raise"
+      ],
+      "phrases": [
+        "take a dip",
+        "dip into",
+        "dip in quality"
+      ]
     },
     {
       "id": "B2-486-009",
@@ -225,26 +548,63 @@
       "tier": "intermediate",
       "cefr": "B2",
       "toeic_score_min": 750,
-      "word": "persian",
+      "word": "Persian",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "persians"
+        "plural": "Persians"
       },
-      "domain": "general",
+      "domain": "culture",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "persian",
-          "definition": "n. 波斯人, 波斯語"
+          "lang_word": "Persian",
+          "definition": "n. 波斯人、波斯語  a. 波斯的、波斯人的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Several Persians settled along the Silk Road trading routes.",
+          "highlight": [
+            "Persians"
+          ],
+          "translations": {
+            "zh-TW": "幾位波斯人沿著絲路貿易路線定居下來。"
+          }
+        },
+        {
+          "en": "The Persian carpet became a sought-after luxury in European courts.",
+          "highlight": [
+            "Persian"
+          ],
+          "translations": {
+            "zh-TW": "波斯地毯成為歐洲宮廷競相收藏的奢侈品。"
+          }
+        },
+        {
+          "en": "By studying Persian poetry, scholars gained insight into medieval culture.",
+          "highlight": [
+            "Persian"
+          ],
+          "translations": {
+            "zh-TW": "透過研究波斯詩歌，學者們深入了解了中世紀文化。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Farsi",
+        "Iranian"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Persian Gulf",
+        "Persian cat",
+        "Persian empire"
+      ],
+      "lang_word": "Persian"
     },
     {
       "id": "B2-486-010",
@@ -255,24 +615,64 @@
       "word": "sphere",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "spheres"
+        "plural": "spheres",
+        "present_3rd": "spheres",
+        "past": "sphered",
+        "past_participle": "sphered",
+        "ing": "sphering"
       },
-      "domain": "general",
+      "domain": "science",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sphere",
-          "definition": "n. 球, 球面, 球体, 天体, 地球仪, 范圍, vt. 包圍, 使成球体, 放入球內"
+          "definition": "n. 球體、球面、範圍、領域  v. 形成球體、包圍"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Several planets travel around the sun in a near-perfect sphere.",
+          "highlight": [
+            "sphere"
+          ],
+          "translations": {
+            "zh-TW": "幾顆行星以近乎完美的球體繞著太陽運行。"
+          }
+        },
+        {
+          "en": "Within the spheres of science and art, the Renaissance reshaped Europe.",
+          "highlight": [
+            "spheres"
+          ],
+          "translations": {
+            "zh-TW": "在科學與藝術的領域中，文藝復興重塑了歐洲。"
+          }
+        },
+        {
+          "en": "By extending its sphere of influence, the company dominated local markets.",
+          "highlight": [
+            "sphere"
+          ],
+          "translations": {
+            "zh-TW": "透過擴展勢力範圍，該公司主宰了地方市場。"
+          }
+        }
+      ],
+      "synonyms": [
+        "globe",
+        "orb",
+        "domain"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "sphere of influence",
+        "public sphere",
+        "celestial sphere"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
