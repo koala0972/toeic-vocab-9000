@@ -12,23 +12,64 @@
       "word": "isolated",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "isolateds"
+        "comparative": "more isolated",
+        "superlative": "most isolated"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "isolated",
-          "definition": "a. 孤立的, 孤零零的, [計] 隔離的, 绝缘的"
+          "definition": "孤立的、隔離的、與外界隔絕的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The village remained isolated for several days after the storm.",
+          "highlight": [
+            "isolated"
+          ],
+          "translations": {
+            "zh-TW": "暴風雨過後，這座村莊仍與外界隔絕了好幾天。"
+          }
+        },
+        {
+          "en": "Several isolated communities lack access to clean water.",
+          "highlight": [
+            "isolated"
+          ],
+          "translations": {
+            "zh-TW": "幾個孤立的社區缺乏乾淨飲用水。"
+          }
+        },
+        {
+          "en": "An isolated incident should not define the whole team.",
+          "highlight": [
+            "isolated"
+          ],
+          "translations": {
+            "zh-TW": "一次孤立事件不應定義整個團隊。"
+          }
+        }
+      ],
+      "synonyms": [
+        "secluded",
+        "remote",
+        "lonely"
+      ],
+      "antonyms": [
+        "connected",
+        "crowded"
+      ],
+      "phrases": [
+        "isolated case",
+        "isolated incident",
+        "feel isolated",
+        "isolated area"
+      ]
     },
     {
       "id": "B2-491-002",
@@ -39,23 +80,67 @@
       "word": "blink",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
       "conjugations": {
-        "plural": "blinks"
+        "plural": "blinks",
+        "present_3rd": "blinks",
+        "past": "blinked",
+        "past_participle": "blinked",
+        "ing": "blinking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "blink",
-          "definition": "vi. 眨眼, 闪亮, vt. 眨眼, 使闪亮, n. 眨眼, 瞬間, 闪光, 闪烁, [計] 闪烁"
+          "definition": "眨眼、閃爍、瞬間"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "She blinked rapidly when the bright light hit her eyes.",
+          "highlight": [
+            "blinked"
+          ],
+          "translations": {
+            "zh-TW": "強光照射到時她快速眨了眨眼。"
+          }
+        },
+        {
+          "en": "Many fireflies were blinking in the dark meadow.",
+          "highlight": [
+            "blinking"
+          ],
+          "translations": {
+            "zh-TW": "許多螢火蟲在昏暗草地上閃爍著。"
+          }
+        },
+        {
+          "en": "The cursor will blink three times before the system resets.",
+          "highlight": [
+            "blink"
+          ],
+          "translations": {
+            "zh-TW": "游標會閃爍三次後系統才重置。"
+          }
+        }
+      ],
+      "synonyms": [
+        "wink",
+        "flicker",
+        "twinkle"
+      ],
+      "antonyms": [
+        "stare"
+      ],
+      "phrases": [
+        "in a blink",
+        "blink of an eye",
+        "on the blink",
+        "blink away tears"
+      ]
     },
     {
       "id": "B2-491-003",
@@ -76,13 +161,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "squad",
-          "definition": "n. 班, 小隊, 小集团, vt. 编成班"
+          "definition": "班、小隊、小組"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The detective squad solved the case within a week.",
+          "highlight": [
+            "squad"
+          ],
+          "translations": {
+            "zh-TW": "警探小隊在一週內破案了。"
+          }
+        },
+        {
+          "en": "Several rescue squads arrived at the disaster site.",
+          "highlight": [
+            "squads"
+          ],
+          "translations": {
+            "zh-TW": "幾支救援小隊抵達了災區。"
+          }
+        },
+        {
+          "en": "The coach praised his squad after a difficult match.",
+          "highlight": [
+            "squad"
+          ],
+          "translations": {
+            "zh-TW": "教練在艱難的比賽後讚揚他的隊伍。"
+          }
+        }
+      ],
+      "synonyms": [
+        "team",
+        "unit",
+        "crew"
+      ],
+      "antonyms": [
+        "individual"
+      ],
+      "phrases": [
+        "fitness squad",
+        "death squad",
+        "squad car",
+        "cheerleading squad"
+      ]
     },
     {
       "id": "B2-491-004",
@@ -103,13 +227,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "processor",
-          "definition": "n. 信息處理機, 加工者, 處理者, [計] 處理器"
+          "definition": "處理器、資訊處理機、加工者"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A faster processor improves overall computer performance.",
+          "highlight": [
+            "processor"
+          ],
+          "translations": {
+            "zh-TW": "更快的處理器能提升整體電腦效能。"
+          }
+        },
+        {
+          "en": "Several food processors delivered goods to the supermarket.",
+          "highlight": [
+            "processors"
+          ],
+          "translations": {
+            "zh-TW": "幾家食品加工商將貨品送到了超市。"
+          }
+        },
+        {
+          "en": "The chip maker introduced a dual-core processor last year.",
+          "highlight": [
+            "processor"
+          ],
+          "translations": {
+            "zh-TW": "晶片製造商去年推出了一款雙核心處理器。"
+          }
+        }
+      ],
+      "synonyms": [
+        "chip",
+        "core",
+        "computer unit"
+      ],
+      "antonyms": [
+        "human"
+      ],
+      "phrases": [
+        "food processor",
+        "word processor",
+        "central processor",
+        "data processor"
+      ]
     },
     {
       "id": "B2-491-005",
@@ -120,23 +283,68 @@
       "word": "plunge",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
       "conjugations": {
-        "plural": "plunges"
+        "plural": "plunges",
+        "present_3rd": "plunges",
+        "past": "plunged",
+        "past_participle": "plunged",
+        "ing": "plunging"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "plunge",
-          "definition": "n. 钻进, 跳进, 跳水, 跳水池, 猛跌, 落下, 投入, 开始从事, 盲目投资, vi. 投入, 投身于, 跳进, 陷入, 下降, vt. 使投入, 使插入, 使陷入, 使遭受"
+          "definition": "跳入、猛跌、投入"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Stock prices plunged sharply after the bad earnings report.",
+          "highlight": [
+            "plunged"
+          ],
+          "translations": {
+            "zh-TW": "糟糕的財報公布後，股價急遽暴跌。"
+          }
+        },
+        {
+          "en": "Several investors are plunging their savings into green startups.",
+          "highlight": [
+            "plunging"
+          ],
+          "translations": {
+            "zh-TW": "幾位投資人正把積蓄投入綠色新創公司。"
+          }
+        },
+        {
+          "en": "A sudden plunge in temperature caught many commuters off guard.",
+          "highlight": [
+            "plunge"
+          ],
+          "translations": {
+            "zh-TW": "氣溫突然驟降讓許多通勤族措手不及。"
+          }
+        }
+      ],
+      "synonyms": [
+        "dive",
+        "drop",
+        "tumble"
+      ],
+      "antonyms": [
+        "rise",
+        "ascent"
+      ],
+      "phrases": [
+        "take the plunge",
+        "plunge into",
+        "plunge pool",
+        "downward plunge"
+      ]
     },
     {
       "id": "B2-491-006",
@@ -147,23 +355,68 @@
       "word": "grin",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
       "conjugations": {
-        "plural": "grins"
+        "plural": "grins",
+        "present_3rd": "grins",
+        "past": "grinned",
+        "past_participle": "grinned",
+        "ing": "grinning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "grin",
-          "definition": "n. 露齿笑, v. 露齿而笑"
+          "definition": "露齒而笑、咧嘴笑"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The children grinned at the surprise birthday cake.",
+          "highlight": [
+            "grinned"
+          ],
+          "translations": {
+            "zh-TW": "孩子們看到驚喜生日蛋糕時咧嘴笑了。"
+          }
+        },
+        {
+          "en": "Several fans were grinning when the band took the stage.",
+          "highlight": [
+            "grinning"
+          ],
+          "translations": {
+            "zh-TW": "樂團上台時幾位粉絲都笑得合不攏嘴。"
+          }
+        },
+        {
+          "en": "A wide grin spread across her face after the announcement.",
+          "highlight": [
+            "grin"
+          ],
+          "translations": {
+            "zh-TW": "宣布過後她臉上綻放燦爛的笑容。"
+          }
+        }
+      ],
+      "synonyms": [
+        "smile",
+        "beam",
+        "smirk"
+      ],
+      "antonyms": [
+        "frown",
+        "scowl"
+      ],
+      "phrases": [
+        "grin and bear it",
+        "cheesy grin",
+        "grin from ear to ear",
+        "sheepish grin"
+      ]
     },
     {
       "id": "B2-491-007",
@@ -174,23 +427,68 @@
       "word": "color",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "colors"
+        "plural": "colors",
+        "present_3rd": "colors",
+        "past": "colored",
+        "past_participle": "colored",
+        "ing": "coloring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "color",
-          "definition": "n. 颜色, 面色, 颜料, 外貌, vt. 把...涂上颜色, 粉饰, 使脸红, 歪曲, vi. 变色"
+          "definition": "顏色、色彩、給…上色"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The artist colored the sketch with vibrant markers.",
+          "highlight": [
+            "colored"
+          ],
+          "translations": {
+            "zh-TW": "藝術家用鮮豔的麥克筆為草圖上色。"
+          }
+        },
+        {
+          "en": "Many leaves are coloring beautifully this autumn.",
+          "highlight": [
+            "coloring"
+          ],
+          "translations": {
+            "zh-TW": "今年秋天許多樹葉變色得非常美麗。"
+          }
+        },
+        {
+          "en": "Several colors suit her skin tone better than dark shades.",
+          "highlight": [
+            "colors"
+          ],
+          "translations": {
+            "zh-TW": "幾種顏色比深色調更襯她的膚色。"
+          }
+        }
+      ],
+      "synonyms": [
+        "hue",
+        "shade",
+        "tint"
+      ],
+      "antonyms": [
+        "colorless",
+        "pale"
+      ],
+      "phrases": [
+        "color code",
+        "color blind",
+        "show true colors",
+        "off color"
+      ]
     },
     {
       "id": "B2-491-008",
@@ -201,6 +499,7 @@
       "word": "demographic",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
       "conjugations": {
@@ -211,13 +510,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "demographic",
-          "definition": "a. 人口统計的, [法] 人口统計的, 人口學的"
+          "definition": "人口統計的、人口結構的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The demographic shift reshaped market demand in the region.",
+          "highlight": [
+            "demographic"
+          ],
+          "translations": {
+            "zh-TW": "人口結構的轉變重塑了該區的市場需求。"
+          }
+        },
+        {
+          "en": "Several demographics show strong interest in streaming.",
+          "highlight": [
+            "demographics"
+          ],
+          "translations": {
+            "zh-TW": "幾個人口族群對串流服務表現出高度興趣。"
+          }
+        },
+        {
+          "en": "The campaign targets a younger demographic every election.",
+          "highlight": [
+            "demographic"
+          ],
+          "translations": {
+            "zh-TW": "每次選舉這個活動都瞄準較年輕的族群。"
+          }
+        }
+      ],
+      "synonyms": [
+        "statistical",
+        "populational",
+        "sociological"
+      ],
+      "antonyms": [
+        "uniform",
+        "homogeneous"
+      ],
+      "phrases": [
+        "demographic data",
+        "demographic trend",
+        "demographic shift",
+        "key demographic"
+      ]
     },
     {
       "id": "B2-491-009",
@@ -228,23 +567,69 @@
       "word": "chill",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "chills"
+        "plural": "chills",
+        "present_3rd": "chills",
+        "past": "chilled",
+        "past_participle": "chilled",
+        "ing": "chilling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "chill",
-          "definition": "n. 寒冷, 寒意, 失意, a. 寒冷的, 冷漠的, vt. 使寒心, 冷冻, vi. 变冷"
+          "definition": "寒冷、涼意、放鬆、使變冷"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The horror movie chilled the entire audience last night.",
+          "highlight": [
+            "chilled"
+          ],
+          "translations": {
+            "zh-TW": "昨晚那部恐怖片讓全場觀眾不寒而慄。"
+          }
+        },
+        {
+          "en": "Several kids were chilling at the mall after school.",
+          "highlight": [
+            "chilling"
+          ],
+          "translations": {
+            "zh-TW": "放學後幾個孩子在購物中心悠閒地度過時光。"
+          }
+        },
+        {
+          "en": "A sudden chill ran down her spine in the dim hallway.",
+          "highlight": [
+            "chill"
+          ],
+          "translations": {
+            "zh-TW": "昏暗走廊裡一陣寒意竄過她的脊背。"
+          }
+        }
+      ],
+      "synonyms": [
+        "cold",
+        "cool",
+        "freeze"
+      ],
+      "antonyms": [
+        "warmth",
+        "heat"
+      ],
+      "phrases": [
+        "chill out",
+        "take a chill pill",
+        "chill in the air",
+        "spine-chilling"
+      ]
     },
     {
       "id": "B2-491-010",
@@ -265,14 +650,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "refuge",
-          "definition": "n. 避難所, 安全地帶, 避難, 庇護, vi. 躲避, vt. 给予...庇護"
+          "definition": "避難所、庇護、安全地帶"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The hikers took refuge in a mountain cabin during the storm.",
+          "highlight": [
+            "refuge"
+          ],
+          "translations": {
+            "zh-TW": "暴風雨期間登山客在山區小屋躲難。"
+          }
+        },
+        {
+          "en": "Several coastal refuges shelter migrants in winter.",
+          "highlight": [
+            "refuges"
+          ],
+          "translations": {
+            "zh-TW": "幾處沿海避難所冬季會收容移民。"
+          }
+        },
+        {
+          "en": "Finding refuge in art helped her recover from the trauma.",
+          "highlight": [
+            "refuge"
+          ],
+          "translations": {
+            "zh-TW": "在藝術中尋得庇護幫助她從創傷中復原。"
+          }
+        }
+      ],
+      "synonyms": [
+        "shelter",
+        "sanctuary",
+        "asylum"
+      ],
+      "antonyms": [
+        "danger",
+        "threat"
+      ],
+      "phrases": [
+        "take refuge",
+        "seek refuge",
+        "refuge camp",
+        "place of refuge"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
