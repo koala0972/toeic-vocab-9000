@@ -1,7 +1,7 @@
 {
+  "cefr": "B2",
   "level": 442,
   "tier": "intermediate",
-  "cefr": "B2",
   "words": [
     {
       "id": "B2-442-001",
@@ -12,23 +12,68 @@
       "word": "trunk",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "trunks"
+        "plural": "trunks",
+        "present_3rd": "trunks",
+        "past": "trunked",
+        "past_participle": "trunked",
+        "ing": "trunking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "trunk",
-          "definition": "n. 树干, 干線, 躯干, 主干, 象鼻, 箱子, vt. 把...放入旅行箱內, a. 树干的, 躯干的, 干線的, 箱形的, [計] 中继線; 母線"
+          "definition": "n. 樹幹、軀幹、象鼻、（汽車）行李箱、(電話)中繼線  v. 將（物品）裝入旅行箱、沿幹線路徑傳送"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Movers loaded six leather trunks onto the carriage before dawn.",
+          "highlight": [
+            "trunks"
+          ],
+          "translations": {
+            "zh-TW": "天還沒亮，搬運工就把六只皮製旅行箱抬上了馬車。"
+          }
+        },
+        {
+          "en": "The old oak's scarred trunk bore marks of decades of campfires.",
+          "highlight": [
+            "trunk"
+          ],
+          "translations": {
+            "zh-TW": "老橡樹傷痕累累的樹幹上，留下了數十年來營火的痕跡。"
+          }
+        },
+        {
+          "en": "After being trunked through the central switch, the long-distance call finally connected.",
+          "highlight": [
+            "trunked"
+          ],
+          "translations": {
+            "zh-TW": "這通長途電話經由中央交換機走中繼線傳送後，終於接通了。"
+          }
+        }
+      ],
+      "synonyms": [
+        "stem",
+        "torso",
+        "boots"
+      ],
+      "antonyms": [
+        "branch",
+        "limb"
+      ],
+      "phrases": [
+        "tree trunk",
+        "trunk road",
+        "trunk call",
+        "swimming trunks"
+      ]
     },
     {
       "id": "B2-442-002",
@@ -44,18 +89,57 @@
       "conjugations": {
         "plural": "implementations"
       },
-      "domain": "general",
+      "domain": "project",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "implementation",
-          "definition": "n. 安裝启用, 實行, 履行, [計] 實施; 實現"
+          "definition": "n. 實施、執行、安裝啟用、（程式碼的）實作"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Smooth implementation of the new payroll system saved the company thousands of hours.",
+          "highlight": [
+            "implementation"
+          ],
+          "translations": {
+            "zh-TW": "新薪資系統的順利實施，替公司省下了數千小時。"
+          }
+        },
+        {
+          "en": "Two parallel implementations of the algorithm were benchmarked on identical hardware.",
+          "highlight": [
+            "implementations"
+          ],
+          "translations": {
+            "zh-TW": "該演算法的兩個平行實作，在相同硬體上做了效能評測。"
+          }
+        },
+        {
+          "en": "When implementation lagged behind schedule, the board replaced the project manager.",
+          "highlight": [
+            "implementation"
+          ],
+          "translations": {
+            "zh-TW": "實施進度落後時，董事會撤換了專案經理。"
+          }
+        }
+      ],
+      "synonyms": [
+        "execution",
+        "deployment",
+        "enactment"
+      ],
+      "antonyms": [
+        "abandonment"
+      ],
+      "phrases": [
+        "implementation plan",
+        "implementation phase",
+        "implementation cost",
+        "policy implementation"
+      ]
     },
     {
       "id": "B2-442-003",
@@ -66,23 +150,66 @@
       "word": "motivate",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "motivates"
+        "present_3rd": "motivates",
+        "past": "motivated",
+        "past_participle": "motivated",
+        "ing": "motivating"
       },
-      "domain": "general",
+      "domain": "psychology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "motivate",
-          "definition": "vt. 给與動機, 刺激, 提高...的學习欲望, 促動, [經] 促動, 激發, 激励"
+          "definition": "v. 激發、給予動機、使產生動力、刺激、提升（某人）的學習欲望"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Great managers motivate their staff more by purpose than by fear.",
+          "highlight": [
+            "motivate"
+          ],
+          "translations": {
+            "zh-TW": "優秀的經理更多用使命感激發員工，而非用恐懼。"
+          }
+        },
+        {
+          "en": "Bonuses motivated the sales team to break all previous revenue records.",
+          "highlight": [
+            "motivated"
+          ],
+          "translations": {
+            "zh-TW": "獎金驅使業務團隊打破了過去所有的營收紀錄。"
+          }
+        },
+        {
+          "en": "By motivating volunteers with clear missions, the charity tripled its street presence.",
+          "highlight": [
+            "motivating"
+          ],
+          "translations": {
+            "zh-TW": "這家慈善機構以明確任務激發志工後，街頭動員規模足足擴大三倍。"
+          }
+        }
+      ],
+      "synonyms": [
+        "inspire",
+        "drive",
+        "stimulate"
+      ],
+      "antonyms": [
+        "discourage",
+        "deter"
+      ],
+      "phrases": [
+        "motivate staff",
+        "motivate students",
+        "motivate someone to do",
+        "self-motivated"
+      ]
     },
     {
       "id": "B2-442-004",
@@ -93,9 +220,14 @@
       "word": "render",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
       "conjugations": {
+        "present_3rd": "renders",
+        "past": "rendered",
+        "past_participle": "rendered",
+        "ing": "rendering",
         "plural": "renders"
       },
       "domain": "general",
@@ -103,13 +235,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "render",
-          "definition": "vt. 回報, 给于, 付给, 汇報, 提出, 舍弃, 反映, 表示, 表演, 致使, 執行, 實施, vi. 给予补偿, n. 交纳, 打底"
+          "definition": "v. 提供、給予、致使、提交、（以特定方式）表達、（電腦繪圖）算圖渲染  n.（建築）打底灰泥"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Modern GPUs render complex 3-D scenes in real time at sixty frames per second.",
+          "highlight": [
+            "render"
+          ],
+          "translations": {
+            "zh-TW": "現代顯示卡能以每秒六十幀的速度即時渲染複雜的 3D 場景。"
+          }
+        },
+        {
+          "en": "After the file rendered correctly on the test rig, the engineer deployed the patch.",
+          "highlight": [
+            "rendered"
+          ],
+          "translations": {
+            "zh-TW": "檔案在測試機上正確算圖之後，工程師部署了修正檔。"
+          }
+        },
+        {
+          "en": "By rendering cash from his shares, the founder paid off his debts in a single settlement.",
+          "highlight": [
+            "rendering"
+          ],
+          "translations": {
+            "zh-TW": "創辦人變現持股後，一次結清了所有債務。"
+          }
+        }
+      ],
+      "synonyms": [
+        "provide",
+        "furnish",
+        "generate"
+      ],
+      "antonyms": [
+        "withhold",
+        "conceal"
+      ],
+      "phrases": [
+        "render a service",
+        "render an opinion",
+        "render fat",
+        "render plus"
+      ]
     },
     {
       "id": "B2-442-005",
@@ -120,23 +292,61 @@
       "word": "longtime",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "longtimes"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "time",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "longtime",
-          "definition": "a. (已持续)長時間的,為時甚久的, adv. 長久"
+          "definition": "adj. 長時間的、為時甚久的、（合作或交往）已久的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several longtime customers were invited to the company's fiftieth anniversary gala.",
+          "highlight": [
+            "longtime"
+          ],
+          "translations": {
+            "zh-TW": "幾位老客戶受邀出席公司五十週年晚宴。"
+          }
+        },
+        {
+          "en": "A longtime friendship weathered decades of disagreements without breaking.",
+          "highlight": [
+            "longtime"
+          ],
+          "translations": {
+            "zh-TW": "一段長年友誼挺過了數十年的分歧，依舊牢不可破。"
+          }
+        },
+        {
+          "en": "By leaving longtime allies in the lurch, the governor alienated half the legislature.",
+          "highlight": [
+            "longtime"
+          ],
+          "translations": {
+            "zh-TW": "州長把長期盟友丟下不管，結果疏遠了一半的州議會。"
+          }
+        }
+      ],
+      "synonyms": [
+        "long-standing",
+        "long-established",
+        "veteran"
+      ],
+      "antonyms": [
+        "newfound",
+        "recent"
+      ],
+      "phrases": [
+        "longtime friend",
+        "longtime fan",
+        "longtime supporter",
+        "longtime customer"
+      ]
     },
     {
       "id": "B2-442-006",
@@ -147,23 +357,67 @@
       "word": "restrict",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "restricts"
+        "present_3rd": "restricts",
+        "past": "restricted",
+        "past_participle": "restricted",
+        "ing": "restricting"
       },
-      "domain": "general",
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "restrict",
-          "definition": "vt. 限制, 限定, 約束, [醫] 限制"
+          "definition": "v. 限制、限定、約束（範圍或行動）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "New EU rules restrict how social-media firms target ads at minors.",
+          "highlight": [
+            "restrict"
+          ],
+          "translations": {
+            "zh-TW": "新版歐盟規範限制社群媒體公司向未成年人投放廣告的方式。"
+          }
+        },
+        {
+          "en": "The gallery restricted access to rare manuscripts to scholars with prior booking.",
+          "highlight": [
+            "restricted"
+          ],
+          "translations": {
+            "zh-TW": "畫廊將珍本的閱覽權限限定為事先預約的學者。"
+          }
+        },
+        {
+          "en": "By restricting imports last summer, the country reshuffled its farm-trade balance.",
+          "highlight": [
+            "restricting"
+          ],
+          "translations": {
+            "zh-TW": "去年夏天該國限制進口，重整了農業貿易的平衡。"
+          }
+        }
+      ],
+      "synonyms": [
+        "limit",
+        "confine",
+        "constrain"
+      ],
+      "antonyms": [
+        "permit",
+        "broaden",
+        "liberalize"
+      ],
+      "phrases": [
+        "restrict access",
+        "restrict to",
+        "restrict movement",
+        "legally restrict"
+      ]
     },
     {
       "id": "B2-442-007",
@@ -174,23 +428,61 @@
       "word": "seemingly",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
-      "conjugations": {
-        "plural": "seeminglies"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "seemingly",
-          "definition": "adv. 看來似乎, 表面上看來"
+          "definition": "adv. 看似、表面上、據看起來"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The merger was seemingly straightforward, but behind the scenes lay months of dispute.",
+          "highlight": [
+            "seemingly"
+          ],
+          "translations": {
+            "zh-TW": "這件併購看似簡單，背後卻有數個月的紛爭。"
+          }
+        },
+        {
+          "en": "After a seemingly endless committee debate, the proposal finally passed by a single vote.",
+          "highlight": [
+            "seemingly"
+          ],
+          "translations": {
+            "zh-TW": "經過一場看似無止盡的委員會辯論後，提案僅以一票之差通過。"
+          }
+        },
+        {
+          "en": "Several seemingly minor errors cascaded into a multi-day outage on the platform.",
+          "highlight": [
+            "seemingly"
+          ],
+          "translations": {
+            "zh-TW": "幾個看似微不足道的失誤，連鎖演變成平台長達數天的大當機。"
+          }
+        }
+      ],
+      "synonyms": [
+        "apparently",
+        "outwardly",
+        "ostensibly"
+      ],
+      "antonyms": [
+        "obviously",
+        "clearly"
+      ],
+      "phrases": [
+        "seemingly impossible",
+        "seemingly endless",
+        "seemingly minor",
+        "seemingly random"
+      ]
     },
     {
       "id": "B2-442-008",
@@ -201,23 +493,61 @@
       "word": "legislative",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "legislatives"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "politics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "legislative",
-          "definition": "n. 立法機構, a. 立法的, 有立法权的"
+          "definition": "adj. 立法的、有立法權的、立法機關的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several legislative amendments were tacked onto the budget deal at the last moment.",
+          "highlight": [
+            "legislative"
+          ],
+          "translations": {
+            "zh-TW": "預算協商最後一刻被附加了好幾項立法修正條文。"
+          }
+        },
+        {
+          "en": "Activists called the sudden shift in legislative priorities a breach of public trust.",
+          "highlight": [
+            "legislative"
+          ],
+          "translations": {
+            "zh-TW": "運動人士批評，立法優先順序的突然轉向，違背了公眾信任。"
+          }
+        },
+        {
+          "en": "By comparison, the next legislative session will focus nearly entirely on housing reform.",
+          "highlight": [
+            "legislative"
+          ],
+          "translations": {
+            "zh-TW": "相比之下，下個立法會期幾乎將完全聚焦於住宅改革。"
+          }
+        }
+      ],
+      "synonyms": [
+        "lawmaking",
+        "statutory",
+        "parliamentary"
+      ],
+      "antonyms": [
+        "executive",
+        "judicial"
+      ],
+      "phrases": [
+        "legislative process",
+        "legislative body",
+        "legislative session",
+        "legislative branch"
+      ]
     },
     {
       "id": "B2-442-009",
@@ -228,23 +558,66 @@
       "word": "enforce",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "enforces"
+        "present_3rd": "enforces",
+        "past": "enforced",
+        "past_participle": "enforced",
+        "ing": "enforcing"
       },
-      "domain": "general",
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "enforce",
-          "definition": "vt. 强迫, 執行, 坚持, [經] 予以强制執行"
+          "definition": "v. 強制執行、堅持（規則、法律）、施加壓力使（事物）被遵守"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Judges often enforce community-service orders when fines go unpaid.",
+          "highlight": [
+            "enforce"
+          ],
+          "translations": {
+            "zh-TW": "罰款未繳時，法官常會強制執行社區服務令。"
+          }
+        },
+        {
+          "en": "The new administration enforced a curfew on residents of several coastal zones.",
+          "highlight": [
+            "enforced"
+          ],
+          "translations": {
+            "zh-TW": "新政府對部分沿海地區的居民實施了宵禁。"
+          }
+        },
+        {
+          "en": "By enforcing the dress code consistently, the restaurant all but eliminated complaints.",
+          "highlight": [
+            "enforcing"
+          ],
+          "translations": {
+            "zh-TW": "這家餐廳一致地執行服裝規定，幾乎完全消除了客訴。"
+          }
+        }
+      ],
+      "synonyms": [
+        "impose",
+        "administer",
+        "execute"
+      ],
+      "antonyms": [
+        "ignore",
+        "waive"
+      ],
+      "phrases": [
+        "enforce the law",
+        "enforce a rule",
+        "enforce a contract",
+        "enforce compliance"
+      ]
     },
     {
       "id": "B2-442-010",
@@ -260,19 +633,55 @@
       "conjugations": {
         "plural": "lenses"
       },
-      "domain": "general",
+      "domain": "optics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "lens",
-          "definition": "n. 透镜, 镜頭, 镜片, 晶状体, vt. 给...摄影"
+          "definition": "n. 透鏡、鏡頭、鏡片、（眼睛的）水晶體、（比喻）視角的切入點"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Through a fresh theoretical lens, the old data pointed to a wholly new interpretation.",
+          "highlight": [
+            "lens"
+          ],
+          "translations": {
+            "zh-TW": "從全新的理論視角看，舊資料指向了截然不同的詮釋。"
+          }
+        },
+        {
+          "en": "Several high-resolution lenses are now mass-produced for budget smartphones.",
+          "highlight": [
+            "lenses"
+          ],
+          "translations": {
+            "zh-TW": "現在高解析度鏡頭有數款已大量量產，搭載於平價智慧型手機。"
+          }
+        },
+        {
+          "en": "After replacing the lens, the photographer captured every fine detail of the wedding dress.",
+          "highlight": [
+            "lens"
+          ],
+          "translations": {
+            "zh-TW": "換了鏡頭之後，攝影師捕捉到婚紗上每一處細節。"
+          }
+        }
+      ],
+      "synonyms": [
+        "viewfinder",
+        "optic",
+        "filter"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "contact lens",
+        "camera lens",
+        "zoom lens",
+        "through the lens"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
