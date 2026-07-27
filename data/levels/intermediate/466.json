@@ -12,23 +12,67 @@
       "word": "bow",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "bows"
+        "plural": "bows",
+        "present_3rd": "bows",
+        "past": "bowed",
+        "past_participle": "bowed",
+        "ing": "bowing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bow",
-          "definition": "n. 弓, 眼睛框, v. 用弓拉琴, 弯成弓形, n. 鞠躬, 屈服"
+          "definition": "n. 弓、蝴蝶結、鞠躬  v. 鞠躬、彎腰、屈服"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Many archers customised their bows before the national tournament.",
+          "highlight": [
+            "bows"
+          ],
+          "translations": {
+            "zh-TW": "許多弓箭手在全國錦標賽前客製化了他們的弓。"
+          }
+        },
+        {
+          "en": "By bowing respectfully to the audience, the performer ended the concert gracefully.",
+          "highlight": [
+            "bowing"
+          ],
+          "translations": {
+            "zh-TW": "透過恭敬地向觀眾鞠躬，這位表演者優雅地結束了音樂會。"
+          }
+        },
+        {
+          "en": "Several diplomats bowed slightly when they greeted the visiting head of state.",
+          "highlight": [
+            "bowed"
+          ],
+          "translations": {
+            "zh-TW": "幾位外交官在問候來訪的國家元首時微微欠身。"
+          }
+        }
+      ],
+      "synonyms": [
+        "bend",
+        "stoop",
+        "arc"
+      ],
+      "antonyms": [
+        "straighten"
+      ],
+      "phrases": [
+        "bow and arrow",
+        "take a bow",
+        "bow tie",
+        "bow down"
+      ]
     },
     {
       "id": "B2-466-002",
@@ -44,18 +88,58 @@
       "conjugations": {
         "plural": "dignities"
       },
-      "domain": "general",
+      "domain": "society",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dignity",
-          "definition": "n. 尊严, 高贵, [法] 尊严, 高位, 高贵"
+          "definition": "n. 尊嚴、高貴、體面"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Many nurses insisted on treating every patient with dignity.",
+          "highlight": [
+            "dignity"
+          ],
+          "translations": {
+            "zh-TW": "許多護理人員堅持以尊重尊嚴的方式對待每位病患。"
+          }
+        },
+        {
+          "en": "When dignity is preserved in end-of-life care, families express more gratitude.",
+          "highlight": [
+            "dignity"
+          ],
+          "translations": {
+            "zh-TW": "當末期照護保留了尊嚴時，家屬會表達更多感謝。"
+          }
+        },
+        {
+          "en": "Several minor dignities attended the charity gala alongside the mayor.",
+          "highlight": [
+            "dignities"
+          ],
+          "translations": {
+            "zh-TW": "幾位次要的顯貴與市長一同出席了這場慈善晚會。"
+          }
+        }
+      ],
+      "synonyms": [
+        "self-respect",
+        "honor",
+        "poise"
+      ],
+      "antonyms": [
+        "indignity",
+        "shame"
+      ],
+      "phrases": [
+        "death with dignity",
+        "human dignity",
+        "with dignity",
+        "dignity of work"
+      ]
     },
     {
       "id": "B2-466-003",
@@ -66,23 +150,63 @@
       "word": "parental",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "parentals"
+        "comparative": "more parental",
+        "superlative": "most parental"
       },
-      "domain": "general",
+      "domain": "family",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "parental",
-          "definition": "a. 父母親的, 做双親的, 作為渊源的, [醫] 父母的, 双親的"
+          "definition": "a. 父母的、雙親的、為人父母的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Many schools require parental consent before students join field trips.",
+          "highlight": [
+            "parental"
+          ],
+          "translations": {
+            "zh-TW": "許多學校要求學生參加校外教學前必須取得父母的同意。"
+          }
+        },
+        {
+          "en": "When parental involvement increases, student performance often improves.",
+          "highlight": [
+            "parental"
+          ],
+          "translations": {
+            "zh-TW": "當父母的參與提高時，學生的表現常常會進步。"
+          }
+        },
+        {
+          "en": "Several reviewers considered the new policy the most parental leave framework in the region.",
+          "highlight": [
+            "parental"
+          ],
+          "translations": {
+            "zh-TW": "幾位評論者認為這項新政策是該地區最具有 parental leave 性格的框架。"
+          }
+        }
+      ],
+      "synonyms": [
+        "maternal",
+        "paternal",
+        "guardian"
+      ],
+      "antonyms": [
+        "filial"
+      ],
+      "phrases": [
+        "parental leave",
+        "parental consent",
+        "parental guidance",
+        "parental control"
+      ]
     },
     {
       "id": "B2-466-004",
@@ -103,13 +227,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "buddy",
-          "definition": "n. 好朋友, 伙伴"
+          "definition": "n. 好朋友、夥伴、老兄"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Many campers were paired with a buddy for safety during the hike.",
+          "highlight": [
+            "buddy"
+          ],
+          "translations": {
+            "zh-TW": "許多露營者在健行時被配對了夥伴以策安全。"
+          }
+        },
+        {
+          "en": "When new hires meet their buddies on day one, they settle in more quickly.",
+          "highlight": [
+            "buddies"
+          ],
+          "translations": {
+            "zh-TW": "當新進員工在第一天見到自己的夥伴時，他們會更快適應。"
+          }
+        },
+        {
+          "en": "Several old buddies from university reunite every summer at the lakeside cabin.",
+          "highlight": [
+            "buddies"
+          ],
+          "translations": {
+            "zh-TW": "幾位大學時代的老朋友每年夏天都在湖邊小屋重聚。"
+          }
+        }
+      ],
+      "synonyms": [
+        "friend",
+        "pal",
+        "companion"
+      ],
+      "antonyms": [
+        "enemy",
+        "stranger"
+      ],
+      "phrases": [
+        "buddy system",
+        "drinking buddy",
+        "buddy up",
+        "study buddy"
+      ]
     },
     {
       "id": "B2-466-005",
@@ -125,18 +289,55 @@
       "conjugations": {
         "plural": "barns"
       },
-      "domain": "general",
+      "domain": "agriculture",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "barn",
-          "definition": "n. 谷仓, [化] 靶(恩)(核反應截面單位)"
+          "definition": "n. 穀倉、牲口棚、（飛機的）機庫"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Many farmers store hay in the barn over the winter months.",
+          "highlight": [
+            "barn"
+          ],
+          "translations": {
+            "zh-TW": "許多農夫在冬季月份把牧草存放在穀倉裡。"
+          }
+        },
+        {
+          "en": "When barns are repurposed as event venues, they attract weddings and concerts.",
+          "highlight": [
+            "barns"
+          ],
+          "translations": {
+            "zh-TW": "當穀倉被改造成活動場地時，它們會吸引婚禮和音樂會。"
+          }
+        },
+        {
+          "en": "Several historic barns along the highway were recently added to the heritage register.",
+          "highlight": [
+            "barns"
+          ],
+          "translations": {
+            "zh-TW": "沿著公路的幾座歷史穀倉最近被列入了古蹟名冊。"
+          }
+        }
+      ],
+      "synonyms": [
+        "stable",
+        "shed",
+        "storehouse"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "barn dance",
+        "barn door",
+        "barn raising",
+        "barn owl"
+      ]
     },
     {
       "id": "B2-466-006",
@@ -152,18 +353,57 @@
       "conjugations": {
         "plural": "swords"
       },
-      "domain": "general",
+      "domain": "military",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sword",
-          "definition": "n. 刀, 剑, 战争, 武力, 剑状物"
+          "definition": "n. 劍、刀、武力"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Many knights polished their swords before the ceremony at dawn.",
+          "highlight": [
+            "swords"
+          ],
+          "translations": {
+            "zh-TW": "許多騎士在黎明儀式前磨亮了他們的劍。"
+          }
+        },
+        {
+          "en": "When swords were finally sheathed, the two kingdoms signed a peace treaty.",
+          "highlight": [
+            "swords"
+          ],
+          "translations": {
+            "zh-TW": "當刀劍終歸鞘之後，兩個王國簽署了和平條約。"
+          }
+        },
+        {
+          "en": "Several ceremonial swords remain on display in the royal museum.",
+          "highlight": [
+            "swords"
+          ],
+          "translations": {
+            "zh-TW": "幾把儀式用劍仍陳列在皇家博物館中。"
+          }
+        }
+      ],
+      "synonyms": [
+        "blade",
+        "sabre",
+        "weapon"
+      ],
+      "antonyms": [
+        "shield"
+      ],
+      "phrases": [
+        "sword fight",
+        "double-edged sword",
+        "sword of Damocles",
+        "cross swords"
+      ]
     },
     {
       "id": "B2-466-007",
@@ -174,7 +414,9 @@
       "word": "seventh",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective",
+        "numeral"
       ],
       "conjugations": {
         "plural": "sevenths"
@@ -184,13 +426,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "seventh",
-          "definition": "num. 第七, 七分之一"
+          "definition": "num. 第七、七分之一  n. 第七日、七度音"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Many musicians practise the seventh chord progression before performing.",
+          "highlight": [
+            "seventh"
+          ],
+          "translations": {
+            "zh-TW": "許多音樂家在演出前練習七度音和弦進行。"
+          }
+        },
+        {
+          "en": "When the seventh applicant walked in, the hiring panel had already filled the role.",
+          "highlight": [
+            "seventh"
+          ],
+          "translations": {
+            "zh-TW": "當第七位求職者走進來時，招募小組已經補滿了這個職缺。"
+          }
+        },
+        {
+          "en": "Several sevenths of the budget had already been spent before the project began.",
+          "highlight": [
+            "sevenths"
+          ],
+          "translations": {
+            "zh-TW": "預算的幾個七分之一在計畫開始之前就已經花掉了。"
+          }
+        }
+      ],
+      "synonyms": [
+        "one-seventh"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "seventh inning",
+        "seventh heaven",
+        "seventh chord",
+        "seventh heaven"
+      ]
     },
     {
       "id": "B2-466-008",
@@ -201,23 +478,68 @@
       "word": "glory",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "glories"
+        "plural": "glories",
+        "present_3rd": "glories",
+        "past": "gloried",
+        "past_participle": "gloried",
+        "ing": "glorying"
       },
-      "domain": "general",
+      "domain": "society",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "glory",
-          "definition": "n. 光荣, 荣耀, 荣誉, 壮丽, 繁荣, vi. 自豪"
+          "definition": "n. 光榮、榮耀、壯麗  v. 自豪、得意"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Many soldiers returned home convinced they had won lasting glory for their country.",
+          "highlight": [
+            "glory"
+          ],
+          "translations": {
+            "zh-TW": "許多士兵凱旋返鄉，深信自己為國家贏得了永恆的榮耀。"
+          }
+        },
+        {
+          "en": "By glorying in the success of her apprentices, the master craftswoman showed great pride.",
+          "highlight": [
+            "glorying"
+          ],
+          "translations": {
+            "zh-TW": "藉由為學徒的成就感到自豪，這位大師級工匠展現了極大的驕傲。"
+          }
+        },
+        {
+          "en": "Several past glories of the empire are displayed in the national museum.",
+          "highlight": [
+            "glories"
+          ],
+          "translations": {
+            "zh-TW": "這個帝國過往的幾項榮耀陳列在國家博物館中。"
+          }
+        }
+      ],
+      "synonyms": [
+        "honor",
+        "fame",
+        "splendor"
+      ],
+      "antonyms": [
+        "shame",
+        "disgrace"
+      ],
+      "phrases": [
+        "glory days",
+        "glory hole",
+        "morning glory",
+        "glory in"
+      ]
     },
     {
       "id": "B2-466-009",
@@ -228,23 +550,68 @@
       "word": "tuck",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "tucks"
+        "plural": "tucks",
+        "present_3rd": "tucks",
+        "past": "tucked",
+        "past_participle": "tucked",
+        "ing": "tucking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tuck",
-          "definition": "n. 缝褶, 活力, 鼓声, 船尾突出部, 食品, vt. 打褶, 卷起, 挤进, 塞, 收藏, vi. 缝褶裥, 缩拢"
+          "definition": "n. 縫褶、塞  v. 塞入、打褶、收藏"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Many chefs add a decorative tuck to the pastry for a polished presentation.",
+          "highlight": [
+            "tuck"
+          ],
+          "translations": {
+            "zh-TW": "許多廚師為糕點加上裝飾性的縫褶以呈現精緻擺盤。"
+          }
+        },
+        {
+          "en": "By tucking the blanket around the child, the nanny ensured a cozy nap.",
+          "highlight": [
+            "tucking"
+          ],
+          "translations": {
+            "zh-TW": "透過把毯子塞好包住孩子，這位保母確保了一場舒適的午睡。"
+          }
+        },
+        {
+          "en": "Several runners tucked their shirts in before the race began.",
+          "highlight": [
+            "tucked"
+          ],
+          "translations": {
+            "zh-TW": "幾位跑者在比賽開始前把襯衫紮了進去。"
+          }
+        }
+      ],
+      "synonyms": [
+        "fold",
+        "insert",
+        "stash"
+      ],
+      "antonyms": [
+        "unfold",
+        "pull out"
+      ],
+      "phrases": [
+        "tuck in",
+        "tuck away",
+        "tuck shop",
+        "tuck and roll"
+      ]
     },
     {
       "id": "B2-466-010",
@@ -265,14 +632,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "dilemma",
-          "definition": "n. 困境, (进退两難的)窘境"
+          "definition": "n. 困境、（進退兩難的）窘境"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Many managers face a dilemma when profits fall but staff morale is fragile.",
+          "highlight": [
+            "dilemma"
+          ],
+          "translations": {
+            "zh-TW": "許多管理者在利潤下滑而員工士氣脆弱時面臨困境。"
+          }
+        },
+        {
+          "en": "When dilemmas arise during negotiations, a neutral mediator often helps.",
+          "highlight": [
+            "dilemmas"
+          ],
+          "translations": {
+            "zh-TW": "當談判中出現兩難時，中立調停人常常有所幫助。"
+          }
+        },
+        {
+          "en": "Several new parents described the work-life dilemma as the hardest part of returning from leave.",
+          "highlight": [
+            "dilemma"
+          ],
+          "translations": {
+            "zh-TW": "幾位新手父母形容工作與生活間的兩難是休完假返職後最困難的部分。"
+          }
+        }
+      ],
+      "synonyms": [
+        "predicament",
+        "quandary",
+        "puzzle"
+      ],
+      "antonyms": [
+        "solution",
+        "easy choice"
+      ],
+      "phrases": [
+        "ethical dilemma",
+        "prisoner's dilemma",
+        "face a dilemma",
+        "moral dilemma"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
