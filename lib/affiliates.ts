@@ -79,9 +79,9 @@ export const AFFILIATE_SKUS: readonly AffiliateSku[] = [
   {
     id: 'preply',
     title: 'Preply',
-    image: 'https://vbtrax.com/track/imp/img/215795/c627c2bc9b0527d7fc8aec2bd32e9d44206844cc63bcb0f90362b105671200a8cd3fa3ef566e9d2634ddffd81d',
+    image: 'https://cdn.affiliates.one/production/dotone/network_offer/network/14956/35fae7d1-b794-403c-aa91-69228560e840.png',
     url: 'https://twshop4coupon.com/track/clicks/8282/c627c2bc9b0527d7fc8aec2bd32e9d44206844cc63bcb0f90362b105671200a8cd3fa3ef566e9f663499abdb4aee7abb970d?t=https%3A%2F%2Fpreply.sjv.io%2Fc%2F1231835%2F2037688%2F24422%3FsubId1%3D-aff_id-%26subId2%3D-transaction_id-%26sharedid%3D-aff_id-_-transaction_referer_domain-%26%3D-t-',
-    impressionUrl: 'https://vbtrax.com/track/imp/img/215795/c627c2bc9b0527d7fc8aec2bd32e9d44206844cc63bcb0f90362b105671200a8cd3fa3ef566e9d2634ddffd81d',
+    impressionUrl: null,
     aria: 'Preply 線上英語學習, 首堂優惠',
   },
 ] as const;
