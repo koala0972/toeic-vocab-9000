@@ -1,7 +1,7 @@
 {
+  "cefr": "B2",
   "level": 426,
   "tier": "intermediate",
-  "cefr": "B2",
   "words": [
     {
       "id": "B2-426-001",
@@ -12,23 +12,64 @@
       "word": "rifle",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "rifles"
+        "plural": "rifles",
+        "present_3rd": "rifles",
+        "past": "rifled",
+        "past_participle": "rifled",
+        "ing": "rifling"
       },
-      "domain": "general",
+      "domain": "military",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "rifle",
-          "definition": "n. 來复枪, 步枪, vt. 用步枪射击, 抢夺, vi. (抱有不良意圖)迅速翻查"
+          "definition": "n. 來福槍、步槍  v. 翻搜、搶奪、用步槍射擊"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The soldier cleaned his rifle in the barracks before the inspection.",
+          "highlight": [
+            "rifle"
+          ],
+          "translations": {
+            "zh-TW": "士兵在檢閱前於營房裡擦拭他的步槍。"
+          }
+        },
+        {
+          "en": "Several antique rifles were displayed in the museum's military exhibit.",
+          "highlight": [
+            "rifles"
+          ],
+          "translations": {
+            "zh-TW": "幾枝古董步槍陳列在博物館的軍事展區。"
+          }
+        },
+        {
+          "en": "By rifling through the documents hastily, the thief missed the most valuable folder.",
+          "highlight": [
+            "rifling"
+          ],
+          "translations": {
+            "zh-TW": "小偷匆忙翻搜文件，反而錯過了最有價值的那個資料夾。"
+          }
+        }
+      ],
+      "synonyms": [
+        "gun",
+        "firearm"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "rifle through",
+        "assault rifle",
+        "sniper rifle",
+        "rifle range"
+      ]
     },
     {
       "id": "B2-426-002",
@@ -41,21 +82,57 @@
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "maintenances"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "maintenance",
-          "definition": "n. 维護, 保持, 维修, 生活費用, 坚持, 扶养, [計] 维護; 维修"
+          "definition": "n. 維護、保養、維修、生活費"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The factory scheduled maintenance for every conveyor belt during the holiday.",
+          "highlight": [
+            "maintenance"
+          ],
+          "translations": {
+            "zh-TW": "工廠在假期為每條輸送帶安排了保養。"
+          }
+        },
+        {
+          "en": "Several maintenance windows were reserved on the calendar to keep systems running.",
+          "highlight": [
+            "maintenance"
+          ],
+          "translations": {
+            "zh-TW": "行事曆上預留了幾個維護時段，以保持系統運作。"
+          }
+        },
+        {
+          "en": "By prioritizing preventive maintenance, the airline reduced unexpected breakdowns.",
+          "highlight": [
+            "maintenance"
+          ],
+          "translations": {
+            "zh-TW": "航空公司在優先推動預防性保養後，意外故障的次數減少了。"
+          }
+        }
+      ],
+      "synonyms": [
+        "upkeep",
+        "preservation"
+      ],
+      "antonyms": [
+        "neglect"
+      ],
+      "phrases": [
+        "preventive maintenance",
+        "maintenance worker",
+        "maintenance cost",
+        "routine maintenance"
+      ]
     },
     {
       "id": "B2-426-003",
@@ -71,18 +148,57 @@
       "conjugations": {
         "plural": "convictions"
       },
-      "domain": "general",
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "conviction",
-          "definition": "n. 定罪, 信服, 坚信, [法] 定罪, 證明有罪, 判罪"
+          "definition": "n. 定罪、堅信、確信"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The prosecutor won a conviction after presenting three weeks of evidence.",
+          "highlight": [
+            "conviction"
+          ],
+          "translations": {
+            "zh-TW": "檢察官經過三週的舉證後贏得定罪。"
+          }
+        },
+        {
+          "en": "Several prior convictions were disclosed during the sentencing hearing.",
+          "highlight": [
+            "convictions"
+          ],
+          "translations": {
+            "zh-TW": "量刑聽證時揭露了幾項前科定罪紀錄。"
+          }
+        },
+        {
+          "en": "By stating his conviction on tax reform, the candidate drew clear contrasts with his rival.",
+          "highlight": [
+            "conviction"
+          ],
+          "translations": {
+            "zh-TW": "候選人陳述了自己對稅制改革的堅信，清楚與對手做出區隔。"
+          }
+        }
+      ],
+      "synonyms": [
+        "belief",
+        "verdict"
+      ],
+      "antonyms": [
+        "acquittal",
+        "doubt"
+      ],
+      "phrases": [
+        "criminal conviction",
+        "wrongful conviction",
+        "strong conviction",
+        "overturn a conviction"
+      ]
     },
     {
       "id": "B2-426-004",
@@ -93,23 +209,63 @@
       "word": "organic",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "organics"
+        "comparative": "more organic",
+        "superlative": "most organic"
       },
-      "domain": "general",
+      "domain": "science",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "organic",
-          "definition": "a. 器官的, 有機的, 組织的, 根本的, [醫] 器官的, 有生命的, 有機的, 器質的"
+          "definition": "adj. 有機的、器官的、根本的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The supermarket ran a promotion on organic produce to attract health-conscious shoppers.",
+          "highlight": [
+            "organic"
+          ],
+          "translations": {
+            "zh-TW": "超市推出有機農產品促銷以吸引注重健康的顧客。"
+          }
+        },
+        {
+          "en": "Several organic compounds were detected in the groundwater samples.",
+          "highlight": [
+            "organic"
+          ],
+          "translations": {
+            "zh-TW": "地下水樣本中檢測出數種有機化合物。"
+          }
+        },
+        {
+          "en": "By choosing more organic ingredients, the bakery expanded its loyal customer base.",
+          "highlight": [
+            "organic"
+          ],
+          "translations": {
+            "zh-TW": "烘焙坊選用更多有機食材後，擴大了忠實客源。"
+          }
+        }
+      ],
+      "synonyms": [
+        "natural",
+        "bio"
+      ],
+      "antonyms": [
+        "synthetic",
+        "artificial"
+      ],
+      "phrases": [
+        "organic food",
+        "organic chemistry",
+        "organic farming",
+        "organic search"
+      ]
     },
     {
       "id": "B2-426-005",
@@ -125,18 +281,54 @@
       "conjugations": {
         "plural": "publishers"
       },
-      "domain": "general",
+      "domain": "media",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "publisher",
-          "definition": "n. 出版者, 發行人, [法] 發行人, 出版者, 報刊發行者"
+          "definition": "n. 出版者、發行人、出版社"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The author negotiated a higher royalty rate with her publisher.",
+          "highlight": [
+            "publisher"
+          ],
+          "translations": {
+            "zh-TW": "作者與她的出版社協商出更高的版稅率。"
+          }
+        },
+        {
+          "en": "Several independent publishers joined a coalition to lobby for copyright reform.",
+          "highlight": [
+            "publishers"
+          ],
+          "translations": {
+            "zh-TW": "幾家獨立出版社組成聯盟，遊說推動著作權改革。"
+          }
+        },
+        {
+          "en": "By launching a digital imprint, the publisher reached younger readers overseas.",
+          "highlight": [
+            "publisher"
+          ],
+          "translations": {
+            "zh-TW": "出版社推出數位品牌後，把觸角伸向了海外的年輕讀者。"
+          }
+        }
+      ],
+      "synonyms": [
+        "press",
+        "issuer"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "book publisher",
+        "music publisher",
+        "software publisher",
+        "publisher imprint"
+      ]
     },
     {
       "id": "B2-426-006",
@@ -147,23 +339,64 @@
       "word": "strengthen",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "strengthens"
+        "present_3rd": "strengthens",
+        "past": "strengthened",
+        "past_participle": "strengthened",
+        "ing": "strengthening"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "strengthen",
-          "definition": "vt. 加强, 变坚固, vi. 变强, 股票上涨"
+          "definition": "v. 加強、增強、使堅固"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The central bank moved to strengthen the national currency.",
+          "highlight": [
+            "strengthen"
+          ],
+          "translations": {
+            "zh-TW": "央行採取行動以強化本國貨幣。"
+          }
+        },
+        {
+          "en": "Several allies strengthened their defenses along the contested border.",
+          "highlight": [
+            "strengthened"
+          ],
+          "translations": {
+            "zh-TW": "幾個盟國在爭議邊界沿線增強了防守。"
+          }
+        },
+        {
+          "en": "By strengthening its supply chain, the company avoided shortages during the peak season.",
+          "highlight": [
+            "strengthening"
+          ],
+          "translations": {
+            "zh-TW": "公司強化供應鏈後，旺季時段避開了缺貨危機。"
+          }
+        }
+      ],
+      "synonyms": [
+        "reinforce",
+        "fortify"
+      ],
+      "antonyms": [
+        "weaken"
+      ],
+      "phrases": [
+        "strengthen ties",
+        "strengthen the economy",
+        "strengthen the immune system",
+        "strengthen relations"
+      ]
     },
     {
       "id": "B2-426-007",
@@ -174,23 +407,57 @@
       "word": "french",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "frenchs"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "language",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "french",
-          "definition": "n. 法國人, 法文, 法式, a. 法國的, 法國人的, 法語的"
+          "definition": "n. 法語、法國人  adj. 法國的、法語的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The receptionist greeted every guest in french before checking them in.",
+          "highlight": [
+            "french"
+          ],
+          "translations": {
+            "zh-TW": "接待員在辦理入住前以法語向每位客人問候。"
+          }
+        },
+        {
+          "en": "Several delegates took evening french lessons before posting to the Paris office.",
+          "highlight": [
+            "french"
+          ],
+          "translations": {
+            "zh-TW": "幾位代表在派駐巴黎辦事處前，晚上修習法語課程。"
+          }
+        },
+        {
+          "en": "By memorizing french vocabulary daily, the diplomat reached fluency in two years.",
+          "highlight": [
+            "french"
+          ],
+          "translations": {
+            "zh-TW": "外交官每天背誦法語單字，兩年內達到流利程度。"
+          }
+        }
+      ],
+      "synonyms": [
+        "francais"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "french fries",
+        "french door",
+        "french horn",
+        "french toast"
+      ]
     },
     {
       "id": "B2-426-008",
@@ -201,23 +468,60 @@
       "word": "proposed",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "verb"
       ],
-      "conjugations": {
-        "plural": "proposeds"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "proposed",
-          "definition": "a. 被提議的；所推荐的"
+          "definition": "adj. 被提議的、推薦的（propose 的過去式/分詞）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The committee reviewed the proposed budget line by line before voting.",
+          "highlight": [
+            "proposed"
+          ],
+          "translations": {
+            "zh-TW": "委員會逐條審查了被提議的預算後才投票。"
+          }
+        },
+        {
+          "en": "Several proposed amendments were withdrawn after weeks of tense negotiation.",
+          "highlight": [
+            "proposed"
+          ],
+          "translations": {
+            "zh-TW": "幾項被提議的修正案在數週緊張談判後被撤回。"
+          }
+        },
+        {
+          "en": "By accepting the proposed settlement, both firms avoided a costly trial.",
+          "highlight": [
+            "proposed"
+          ],
+          "translations": {
+            "zh-TW": "兩家公司接受了所提出的和解方案，得以避免昂貴的訴訟。"
+          }
+        }
+      ],
+      "synonyms": [
+        "suggested",
+        "recommended"
+      ],
+      "antonyms": [
+        "rejected"
+      ],
+      "phrases": [
+        "proposed plan",
+        "proposed merger",
+        "proposed solution",
+        "proposed date"
+      ]
     },
     {
       "id": "B2-426-009",
@@ -238,13 +542,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "myth",
-          "definition": "n. 神话, 虚構的事, 虚構的人"
+          "definition": "n. 神話、虛構的事、迷思"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The article debunks a popular myth about cold weather and the common cold.",
+          "highlight": [
+            "myth"
+          ],
+          "translations": {
+            "zh-TW": "這篇文章破解了冷天與感冒有關的流行迷思。"
+          }
+        },
+        {
+          "en": "Several ancient myths were retold in a new anthology for young readers.",
+          "highlight": [
+            "myths"
+          ],
+          "translations": {
+            "zh-TW": "幾則古老的神話被重新編寫進一本獻給年輕讀者的選集中。"
+          }
+        },
+        {
+          "en": "By tracing a myth to its origin, scholars can reconstruct stories that predate writing.",
+          "highlight": [
+            "myth"
+          ],
+          "translations": {
+            "zh-TW": "學者藉由追溯神話的起源，能重建早於文字時期的故事。"
+          }
+        }
+      ],
+      "synonyms": [
+        "legend",
+        "fallacy",
+        "fiction"
+      ],
+      "antonyms": [
+        "fact",
+        "truth"
+      ],
+      "phrases": [
+        "bust a myth",
+        "greek myth",
+        "urban myth",
+        "myth and reality"
+      ]
     },
     {
       "id": "B2-426-010",
@@ -255,24 +599,60 @@
       "word": "sophisticated",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "sophisticateds"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sophisticated",
-          "definition": "a. 复雜的, 久經世故的, [法] 尖端的, 高級的, 非常有經驗的"
+          "definition": "adj. 複雜的、精密的、久經世故的、高雅的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The bank rolled out a sophisticated fraud-detection system across all branches.",
+          "highlight": [
+            "sophisticated"
+          ],
+          "translations": {
+            "zh-TW": "銀行在所有分行推出了一套精密的詐欺偵測系統。"
+          }
+        },
+        {
+          "en": "Several sophisticated investors shunned the bond issue on grounds of weak covenants.",
+          "highlight": [
+            "sophisticated"
+          ],
+          "translations": {
+            "zh-TW": "幾位老練的投資人以條款薄弱為由,避開了那檔債券。"
+          }
+        },
+        {
+          "en": "By adopting sophisticated machinery, the workshop tripled its daily output.",
+          "highlight": [
+            "sophisticated"
+          ],
+          "translations": {
+            "zh-TW": "工坊採用精密機具後，日產量提高到三倍。"
+          }
+        }
+      ],
+      "synonyms": [
+        "advanced",
+        "refined"
+      ],
+      "antonyms": [
+        "simple",
+        "basic"
+      ],
+      "phrases": [
+        "sophisticated technology",
+        "sophisticated taste",
+        "highly sophisticated",
+        "sophisticated palate"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }

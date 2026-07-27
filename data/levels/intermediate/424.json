@@ -1,7 +1,7 @@
 {
+  "cefr": "B2",
   "level": 424,
   "tier": "intermediate",
-  "cefr": "B2",
   "words": [
     {
       "id": "B2-424-001",
@@ -12,23 +12,66 @@
       "word": "palm",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "palms"
+        "plural": "palms",
+        "present_3rd": "palms",
+        "past": "palmed",
+        "past_participle": "palmed",
+        "ing": "palming"
       },
-      "domain": "general",
+      "domain": "body",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "palm",
-          "definition": "n. 手掌, 棕榈, 胜利, vt. 與...握手, 藏...于掌中"
+          "definition": "n. 手掌、棕櫚樹  v. 把...藏於掌中、與...握手"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The magician hid the coin in his palm during the trick.",
+          "highlight": [
+            "palm"
+          ],
+          "translations": {
+            "zh-TW": "魔術師在表演時把硬幣藏在手掌裡。"
+          }
+        },
+        {
+          "en": "Several visitors palmed the business cards smoothly at the expo.",
+          "highlight": [
+            "palmed"
+          ],
+          "translations": {
+            "zh-TW": "幾位訪客在展覽會上順利地把名片藏於掌中。"
+          }
+        },
+        {
+          "en": "By palming the dice, the gambler tried to cheat the casino.",
+          "highlight": [
+            "palming"
+          ],
+          "translations": {
+            "zh-TW": "賭徒藉由把骰子藏於掌中，試圖欺騙賭場。"
+          }
+        }
+      ],
+      "synonyms": [
+        "hand",
+        "fist"
+      ],
+      "antonyms": [
+        "back"
+      ],
+      "phrases": [
+        "palm tree",
+        "read palms",
+        "palm off",
+        "coconut palm"
+      ]
     },
     {
       "id": "B2-424-002",
@@ -39,23 +82,66 @@
       "word": "differ",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "differs"
+        "present_3rd": "differs",
+        "past": "differed",
+        "past_participle": "differed",
+        "ing": "differing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "differ",
-          "definition": "vi. 不一致, 不同, [機] 差异, 不同"
+          "definition": "v. 不同、相異、意見不合"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The two proposals differ significantly in scope and budget.",
+          "highlight": [
+            "differ"
+          ],
+          "translations": {
+            "zh-TW": "兩份提案在範疇與預算上有顯著的不同。"
+          }
+        },
+        {
+          "en": "The amended contract differs from the original draft in three clauses.",
+          "highlight": [
+            "differs"
+          ],
+          "translations": {
+            "zh-TW": "修訂後的合約與原始草稿在三個條款上有所不同。"
+          }
+        },
+        {
+          "en": "By differing on key terms, the negotiators delayed the merger for weeks.",
+          "highlight": [
+            "differing"
+          ],
+          "translations": {
+            "zh-TW": "由於在關鍵條款上意見不同，談判代表們把合併案推遲了數週。"
+          }
+        }
+      ],
+      "synonyms": [
+        "vary",
+        "contrast",
+        "diverge"
+      ],
+      "antonyms": [
+        "match",
+        "agree"
+      ],
+      "phrases": [
+        "differ from",
+        "differ in",
+        "differ on",
+        "agree to differ"
+      ]
     },
     {
       "id": "B2-424-003",
@@ -71,18 +157,57 @@
       "conjugations": {
         "plural": "compositions"
       },
-      "domain": "general",
+      "domain": "academic",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "composition",
-          "definition": "n. 作文, 創作, 組成, [化] 成分; 組成"
+          "definition": "n. 作文、創作、組成、成分"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The student revised her composition before submitting it to the teacher.",
+          "highlight": [
+            "composition"
+          ],
+          "translations": {
+            "zh-TW": "學生在交給老師之前修改了她的作文。"
+          }
+        },
+        {
+          "en": "Several compositions by young writers were published in the literary journal.",
+          "highlight": [
+            "compositions"
+          ],
+          "translations": {
+            "zh-TW": "幾位年輕作家的創作被刊登在文學期刊上。"
+          }
+        },
+        {
+          "en": "By analyzing the composition of the alloy, engineers identified the source of corrosion.",
+          "highlight": [
+            "composition"
+          ],
+          "translations": {
+            "zh-TW": "藉由分析合金的成分，工程師找出了腐蝕的原因。"
+          }
+        }
+      ],
+      "synonyms": [
+        "essay",
+        "makeup",
+        "structure"
+      ],
+      "antonyms": [
+        "decomposition"
+      ],
+      "phrases": [
+        "chemical composition",
+        "body composition",
+        "composition notebook",
+        "musical composition"
+      ]
     },
     {
       "id": "B2-424-004",
@@ -98,18 +223,54 @@
       "conjugations": {
         "plural": "carbons"
       },
-      "domain": "general",
+      "domain": "chemistry",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "carbon",
-          "definition": "n. 碳, 副本, 复寫紙, [化] 碳"
+          "definition": "n. 碳、碳粉、複寫紙"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The factory reduced its carbon emissions to meet the new regulations.",
+          "highlight": [
+            "carbon"
+          ],
+          "translations": {
+            "zh-TW": "工廠減少了碳排放以符合新法規。"
+          }
+        },
+        {
+          "en": "Several carbons were tested before the team selected the strongest alloy.",
+          "highlight": [
+            "carbons"
+          ],
+          "translations": {
+            "zh-TW": "團隊測試了數種碳素材料後才選出最堅固的合金。"
+          }
+        },
+        {
+          "en": "By measuring carbon in the soil, scientists assessed the impact of farming practices.",
+          "highlight": [
+            "carbon"
+          ],
+          "translations": {
+            "zh-TW": "藉由測量土壤中的碳，科學家評估了農耕方式的影響。"
+          }
+        }
+      ],
+      "synonyms": [
+        "charcoal",
+        "element"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "carbon footprint",
+        "carbon dioxide",
+        "carbon copy",
+        "carbon monoxide"
+      ]
     },
     {
       "id": "B2-424-005",
@@ -120,23 +281,60 @@
       "word": "closer",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "closers"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "closer",
-          "definition": "n. 關闭者, 闭合器, 關闭器"
+          "definition": "n. 結束者、促成交易的人  adj. 更接近的（close 的比較級）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The sales team hired a closer to finalize deals with hesitant clients.",
+          "highlight": [
+            "closer"
+          ],
+          "translations": {
+            "zh-TW": "業務團隊聘用了一位結案高手來與猶豫的客戶完成交易。"
+          }
+        },
+        {
+          "en": "Several closers worked late to confirm the quarterly revenue targets.",
+          "highlight": [
+            "closers"
+          ],
+          "translations": {
+            "zh-TW": "幾位結案人員加班到很晚以確認本季的營收目標。"
+          }
+        },
+        {
+          "en": "By placing the warehouse closer to the port, the company cut shipping costs.",
+          "highlight": [
+            "closer"
+          ],
+          "translations": {
+            "zh-TW": "藉由把倉庫設在更靠近港口的位置，公司降低了運輸成本。"
+          }
+        }
+      ],
+      "synonyms": [
+        "finalizer",
+        "nearer"
+      ],
+      "antonyms": [
+        "opener"
+      ],
+      "phrases": [
+        "closer look",
+        "closer to",
+        "closer inspection",
+        "closer ties"
+      ]
     },
     {
       "id": "B2-424-006",
@@ -149,21 +347,55 @@
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "tobaccos"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "health",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tobacco",
-          "definition": "n. 烟草, 香烟, [醫] 烟草"
+          "definition": "n. 菸草、香菸（通常不可數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The government raised taxes on tobacco to discourage smoking.",
+          "highlight": [
+            "tobacco"
+          ],
+          "translations": {
+            "zh-TW": "政府提高菸草稅以勸阻吸菸。"
+          }
+        },
+        {
+          "en": "Several tobaccos from different regions were blended to create the signature flavor.",
+          "highlight": [
+            "tobaccos"
+          ],
+          "translations": {
+            "zh-TW": "幾種來自不同產區的菸草被混合，調出招牌風味。"
+          }
+        },
+        {
+          "en": "By reducing tobacco use, the clinic reported fewer cases of lung disease.",
+          "highlight": [
+            "tobacco"
+          ],
+          "translations": {
+            "zh-TW": "藉由減少菸草使用，診所通報的肺部疾病病例變少了。"
+          }
+        }
+      ],
+      "synonyms": [
+        "smoking",
+        "nicotine"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "tobacco industry",
+        "chewing tobacco",
+        "tobacco smoke",
+        "tobacco leaf"
+      ]
     },
     {
       "id": "B2-424-007",
@@ -184,13 +416,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "survivor",
-          "definition": "n. 生还者, 幸存者, [法] 生还者, 生存者, 辛存者"
+          "definition": "n. 倖存者、生還者、存活者"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The shipwreck survivor gave an interview to the national broadcaster.",
+          "highlight": [
+            "survivor"
+          ],
+          "translations": {
+            "zh-TW": "船難生還者接受了國家廣播公司的採訪。"
+          }
+        },
+        {
+          "en": "Several survivors gathered annually to commemorate the anniversary of the disaster.",
+          "highlight": [
+            "survivors"
+          ],
+          "translations": {
+            "zh-TW": "幾位倖存者每年聚會以紀念災難週年。"
+          }
+        },
+        {
+          "en": "By honoring the last survivor, the museum preserved the history of the era.",
+          "highlight": [
+            "survivor"
+          ],
+          "translations": {
+            "zh-TW": "藉由向最後一位生還者致敬，博物館保存了那個時代的歷史。"
+          }
+        }
+      ],
+      "synonyms": [
+        "surviving",
+        "remaining"
+      ],
+      "antonyms": [
+        "victim"
+      ],
+      "phrases": [
+        "sole survivor",
+        "cancer survivor",
+        "survivor benefit",
+        "survivor of"
+      ]
     },
     {
       "id": "B2-424-008",
@@ -201,23 +471,61 @@
       "word": "besides",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adverb",
+        "preposition"
       ],
-      "conjugations": {
-        "plural": "besideses"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "besides",
-          "definition": "prep. 除...之外, adv. 而且, 此外"
+          "definition": "adv. 此外、而且  prep. 除...之外"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The new policy is unpopular besides being costly to enforce.",
+          "highlight": [
+            "besides"
+          ],
+          "translations": {
+            "zh-TW": "新政策除了執行成本高昂之外，也不受歡迎。"
+          }
+        },
+        {
+          "en": "Several board members, besides the chairman, voiced concerns about the merger.",
+          "highlight": [
+            "besides"
+          ],
+          "translations": {
+            "zh-TW": "除了主席之外，幾位董事也對合併案表達了疑慮。"
+          }
+        },
+        {
+          "en": "By choosing a local supplier, the firm gained speed; besides, it boosted regional goodwill.",
+          "highlight": [
+            "besides"
+          ],
+          "translations": {
+            "zh-TW": "公司選擇本地供應商提升了速度；此外，也增加了在地商譽。"
+          }
+        }
+      ],
+      "synonyms": [
+        "moreover",
+        "furthermore",
+        "in addition"
+      ],
+      "antonyms": [
+        "excluding"
+      ],
+      "phrases": [
+        "besides that",
+        "besides the point",
+        "besides oneself",
+        "anything besides"
+      ]
     },
     {
       "id": "B2-424-009",
@@ -233,18 +541,54 @@
       "conjugations": {
         "plural": "galaxies"
       },
-      "domain": "general",
+      "domain": "astronomy",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "galaxy",
-          "definition": "n. 銀河, 星系, 一群(顯赫的人物), [電] 銀河系"
+          "definition": "n. 星系、銀河系、一群傑出的人物"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The astronomer discovered a new galaxy beyond the Milky Way.",
+          "highlight": [
+            "galaxy"
+          ],
+          "translations": {
+            "zh-TW": "天文學家在銀河系之外發現了一個新星系。"
+          }
+        },
+        {
+          "en": "Several distant galaxies were detected by the upgraded telescope.",
+          "highlight": [
+            "galaxies"
+          ],
+          "translations": {
+            "zh-TW": "升級後的望遠鏡偵測到數個遙遠的星系。"
+          }
+        },
+        {
+          "en": "By mapping a galaxy in detail, scientists confirmed the existence of dark matter.",
+          "highlight": [
+            "galaxy"
+          ],
+          "translations": {
+            "zh-TW": "藉由詳細繪製星系地圖，科學家證實了暗物質的存在。"
+          }
+        }
+      ],
+      "synonyms": [
+        "star system",
+        "cosmos"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Milky Way galaxy",
+        "galaxy of stars",
+        "distant galaxy",
+        "spiral galaxy"
+      ]
     },
     {
       "id": "B2-424-010",
@@ -255,24 +599,60 @@
       "word": "given",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "preposition"
       ],
-      "conjugations": {
-        "plural": "givens"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "given",
-          "definition": "a. 赠予的, 沉溺的, 約定的, give的過去分词"
+          "definition": "adj. 約定的、指定的  prep. 考慮到、鑑於"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The project will succeed, given the dedication of the team.",
+          "highlight": [
+            "given"
+          ],
+          "translations": {
+            "zh-TW": "鑑於團隊的投入，這個專案會成功。"
+          }
+        },
+        {
+          "en": "Several given factors limited the scope of the investigation.",
+          "highlight": [
+            "given"
+          ],
+          "translations": {
+            "zh-TW": "幾個既定的因素限制了調查的範圍。"
+          }
+        },
+        {
+          "en": "By accepting the given deadline, the contractor agreed to a tighter schedule.",
+          "highlight": [
+            "given"
+          ],
+          "translations": {
+            "zh-TW": "承包商接受了指定的期限，等於同意更緊湊的進度。"
+          }
+        }
+      ],
+      "synonyms": [
+        "considering",
+        "granted"
+      ],
+      "antonyms": [
+        "uncertain"
+      ],
+      "phrases": [
+        "given that",
+        "given name",
+        "given the chance",
+        "given time"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
