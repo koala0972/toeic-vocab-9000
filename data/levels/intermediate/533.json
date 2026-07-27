@@ -10,25 +10,68 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "numbers",
-      "phonetic": "",
+      "phonetic": "/ˈnʌmbərz/",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "numberses"
+        "present": "number",
+        "past": "numbered",
+        "past_participle": "numbered",
+        "gerund": "numbering",
+        "plural": "numbers",
+        "singular": "number"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "numbers",
-          "definition": "n. 数字（number的复数）；算術"
+          "definition": "名詞：數字、數量、算術（number 的複數）；動詞第三人多單數"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Sales numbers surpassed last year's record by a wide margin.",
+          "highlight": [
+            "numbers"
+          ],
+          "translations": {
+            "zh-TW": "銷售數字大幅超越去年的紀錄。"
+          }
+        },
+        {
+          "en": "Please number the pages consecutively before binding the report.",
+          "highlight": [
+            "number"
+          ],
+          "translations": {
+            "zh-TW": "裝訂報告前請連續標上頁碼。"
+          }
+        },
+        {
+          "en": "Unemployment numbers have steadily declined for six straight months.",
+          "highlight": [
+            "numbers"
+          ],
+          "translations": {
+            "zh-TW": "失業人數已連續六個月穩定下降。"
+          }
+        }
+      ],
+      "synonyms": [
+        "figures",
+        "statistics",
+        "digits"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "phone numbers",
+        "numbers game",
+        "by the numbers",
+        "in numbers"
+      ]
     },
     {
       "id": "B2-533-002",
@@ -37,25 +80,62 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "browser",
-      "phonetic": "",
+      "phonetic": "/ˈbraʊzər/",
       "pos": [
         "noun"
       ],
       "conjugations": {
+        "singular": "browser",
         "plural": "browsers"
       },
-      "domain": "general",
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "browser",
-          "definition": "n. 吃嫩叶的動物, 浏览書本的人, [計] 浏览程序"
+          "definition": "名詞：瀏覽器；用於檢視與導航網頁的應用程式"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The new browser extension blocks intrusive ads automatically.",
+          "highlight": [
+            "browser"
+          ],
+          "translations": {
+            "zh-TW": "新的瀏覽器擴充功能會自動遮擋干擾性的廣告。"
+          }
+        },
+        {
+          "en": "Most modern browsers support password management out of the box.",
+          "highlight": [
+            "browsers"
+          ],
+          "translations": {
+            "zh-TW": "大多數現代瀏覽器都內建支援密碼管理功能。"
+          }
+        },
+        {
+          "en": "Clearing your browser cache often resolves page-loading errors.",
+          "highlight": [
+            "browser"
+          ],
+          "translations": {
+            "zh-TW": "清除瀏覽器快取通常能解決頁面載入錯誤。"
+          }
+        }
+      ],
+      "synonyms": [
+        "viewer",
+        "navigator"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "web browser",
+        "browser settings",
+        "browser window",
+        "mobile browser"
+      ]
     },
     {
       "id": "B2-533-003",
@@ -64,25 +144,68 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "documents",
-      "phonetic": "",
+      "phonetic": "/ˈdɒkjʊmənts/",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "documentses"
+        "present": "document",
+        "past": "documented",
+        "past_participle": "documented",
+        "gerund": "documenting",
+        "plural": "documents",
+        "singular": "document"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "documents",
-          "definition": "n. 文档（document的复数形式）"
+          "definition": "名詞：文件、文檔（document 的複數形式）；動詞：記錄"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Backup copies of all contracts are stored as documents on the secure server.",
+          "highlight": [
+            "documents"
+          ],
+          "translations": {
+            "zh-TW": "所有合約的備份副本都以文件形式存放在安全伺服器上。"
+          }
+        },
+        {
+          "en": "The auditor documented every expense claim meticulously.",
+          "highlight": [
+            "documented"
+          ],
+          "translations": {
+            "zh-TW": "稽核員仔細記錄了每一筆費用申請。"
+          }
+        },
+        {
+          "en": "Legal documents must be signed in the presence of a notary.",
+          "highlight": [
+            "documents"
+          ],
+          "translations": {
+            "zh-TW": "法律文件必須在公證人面前簽署。"
+          }
+        }
+      ],
+      "synonyms": [
+        "files",
+        "records",
+        "papers"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "travel documents",
+        "identification documents",
+        "legal documents",
+        "official documents"
+      ]
     },
     {
       "id": "B2-533-004",
@@ -91,25 +214,67 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "comes",
-      "phonetic": "",
+      "phonetic": "/kʌmz/",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "comeses"
+        "present": "come",
+        "past": "came",
+        "past_participle": "come",
+        "gerund": "coming"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "comes",
-          "definition": "v. 來自；从…來（come的三單形式）"
+          "definition": "動詞：come 的第三人稱單數；來到、產生、達成"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "She comes to the office twice a week for team meetings.",
+          "highlight": [
+            "comes"
+          ],
+          "translations": {
+            "zh-TW": "她每週兩次來辦公室參加團隊會議。"
+          }
+        },
+        {
+          "en": "The new product came to market ahead of schedule.",
+          "highlight": [
+            "came"
+          ],
+          "translations": {
+            "zh-TW": "新產品提早上市。"
+          }
+        },
+        {
+          "en": "Having come this far, the team refused to abandon the project.",
+          "highlight": [
+            "come"
+          ],
+          "translations": {
+            "zh-TW": "既然已經走到這一步，團隊拒絕放棄這個專案。"
+          }
+        }
+      ],
+      "synonyms": [
+        "arrives",
+        "approaches"
+      ],
+      "antonyms": [
+        "goes",
+        "leaves"
+      ],
+      "phrases": [
+        "comes to",
+        "comes up with",
+        "comes across",
+        "comes from"
+      ]
     },
     {
       "id": "B2-533-005",
@@ -118,25 +283,62 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "cameras",
-      "phonetic": "",
+      "phonetic": "/ˈkæmərəz/",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "camerases"
+        "plural": "cameras",
+        "singular": "camera"
       },
-      "domain": "general",
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cameras",
-          "definition": "照相機, 暗箱, 摄像機, 摄影機"
+          "definition": "名詞：照相機、攝影機（camera 的複數形式）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Security cameras monitor the warehouse round the clock.",
+          "highlight": [
+            "cameras"
+          ],
+          "translations": {
+            "zh-TW": "監視攝影機全天候監控倉庫。"
+          }
+        },
+        {
+          "en": "Digital cameras revolutionized professional photography.",
+          "highlight": [
+            "cameras"
+          ],
+          "translations": {
+            "zh-TW": "數位相機徹底改變了專業攝影。"
+          }
+        },
+        {
+          "en": "Body cameras worn by officers provide crucial evidence in disputes.",
+          "highlight": [
+            "cameras"
+          ],
+          "translations": {
+            "zh-TW": "員警佩戴的執法記錄器在爭議中提供關鍵證據。"
+          }
+        }
+      ],
+      "synonyms": [
+        "recorders",
+        "lenses"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "security cameras",
+        "digital cameras",
+        "body cameras",
+        "surveillance cameras"
+      ]
     },
     {
       "id": "B2-533-006",
@@ -145,25 +347,68 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "maps",
-      "phonetic": "",
+      "phonetic": "/mæps/",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "mapses"
+        "present": "map",
+        "past": "mapped",
+        "past_participle": "mapped",
+        "gerund": "mapping",
+        "plural": "maps",
+        "singular": "map"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "maps",
-          "definition": "abbr. 管理分析與規劃系统（Management Analysis and Planning System）"
+          "definition": "名詞：地圖、管理分析與規劃系統（maps 複數）；動詞 map 第三人稱單數"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Digital maps have largely replaced paper atlases.",
+          "highlight": [
+            "maps"
+          ],
+          "translations": {
+            "zh-TW": "數位地圖已大致取代紙本地圖集。"
+          }
+        },
+        {
+          "en": "The consultant mapped each process step to a measurable outcome.",
+          "highlight": [
+            "mapped"
+          ],
+          "translations": {
+            "zh-TW": "顧問將每個流程步驟對應到可衡量的結果。"
+          }
+        },
+        {
+          "en": "Interactive maps in the app help users locate nearby facilities.",
+          "highlight": [
+            "maps"
+          ],
+          "translations": {
+            "zh-TW": "應用程式中的互動式地圖幫助使用者找到附近的設施。"
+          }
+        }
+      ],
+      "synonyms": [
+        "charts",
+        "plans",
+        "diagrams"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "mind maps",
+        "road maps",
+        "map out",
+        "Google Maps"
+      ]
     },
     {
       "id": "B2-533-007",
@@ -172,25 +417,63 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "ratings",
-      "phonetic": "",
+      "phonetic": "/ˈreɪtɪŋz/",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "ratingses"
+        "plural": "ratings",
+        "singular": "rating"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "ratings",
-          "definition": "n. 评級；等級（rating的复数形式）"
+          "definition": "名詞：評級、等級、收視率（rating 的複數形式）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Credit ratings determine the interest rate on corporate bonds.",
+          "highlight": [
+            "ratings"
+          ],
+          "translations": {
+            "zh-TW": "信用評級決定了公司債券的利率。"
+          }
+        },
+        {
+          "en": "TV ratings for the finale broke all previous records.",
+          "highlight": [
+            "ratings"
+          ],
+          "translations": {
+            "zh-TW": "大結局的收視率打破了所有先前的紀錄。"
+          }
+        },
+        {
+          "en": "Customer ratings on the review site soared after the redesign.",
+          "highlight": [
+            "ratings"
+          ],
+          "translations": {
+            "zh-TW": "重新設計後該評論網站上的顧客評分飆升。"
+          }
+        }
+      ],
+      "synonyms": [
+        "scores",
+        "grades",
+        "rankings"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "credit ratings",
+        "TV ratings",
+        "safety ratings",
+        "performance ratings"
+      ]
     },
     {
       "id": "B2-533-008",
@@ -199,25 +482,57 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "chicago",
-      "phonetic": "",
+      "phonetic": "/ʃɪˈkɔːɡoʊ/",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "chicagos"
+        "singular": "Chicago"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "chicago",
-          "definition": "n. 芝加哥"
+          "definition": "名詞：芝加哥（美國城市名）"
         }
       ],
-      "examples": [],
+      "examples": [
+        {
+          "en": "Our Chicago office employs over four hundred people.",
+          "highlight": [
+            "Chicago"
+          ],
+          "translations": {
+            "zh-TW": "我們的芝加哥辦公室聘用了四百多人。"
+          }
+        },
+        {
+          "en": "She transferred to Chicago to be closer to her family.",
+          "highlight": [
+            "Chicago"
+          ],
+          "translations": {
+            "zh-TW": "她調任芝加哥以便離家人更近。"
+          }
+        },
+        {
+          "en": "Chicago is a major hub for inland freight distribution.",
+          "highlight": [
+            "Chicago"
+          ],
+          "translations": {
+            "zh-TW": "芝加哥是內陸貨運分發的主要樞紐。"
+          }
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Chicago style",
+        "University of Chicago",
+        "Chicago Transit Authority"
+      ]
     },
     {
       "id": "B2-533-009",
@@ -226,25 +541,68 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "forms",
-      "phonetic": "",
+      "phonetic": "/fɔːrmz/",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "formses"
+        "present": "form",
+        "past": "formed",
+        "past_participle": "formed",
+        "gerund": "forming",
+        "plural": "forms",
+        "singular": "form"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "forms",
-          "definition": "n. 窗体；表單；表格（form的复数形式）"
+          "definition": "名詞：表單、表格、形式（form 的複數形式）；動詞第三人多單數"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Application forms must be submitted at least two weeks in advance.",
+          "highlight": [
+            "forms"
+          ],
+          "translations": {
+            "zh-TW": "申請表格須至少提前兩週提交。"
+          }
+        },
+        {
+          "en": "A new partnership formed between the two universities.",
+          "highlight": [
+            "formed"
+          ],
+          "translations": {
+            "zh-TW": "兩所大學之間成立了新的合作夥伴關係。"
+          }
+        },
+        {
+          "en": "Online forms have streamlined the patient intake process.",
+          "highlight": [
+            "forms"
+          ],
+          "translations": {
+            "zh-TW": "線上表單簡化了病人報到手續。"
+          }
+        }
+      ],
+      "synonyms": [
+        "shapes",
+        "documents",
+        "templates"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "tax forms",
+        "application forms",
+        "form of",
+        "in the form of"
+      ]
     },
     {
       "id": "B2-533-010",
@@ -253,26 +611,60 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "tue",
-      "phonetic": "",
+      "phonetic": "/tjuː/",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "tues"
+        "singular": "Tue"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tue",
-          "definition": "abbr. 星期二（Tuesday）"
+          "definition": "名詞：星期二（Tuesday 的縮寫，常用於行程表）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Budget meetings are held every Tue at nine.",
+          "highlight": [
+            "Tue"
+          ],
+          "translations": {
+            "zh-TW": "預算會議每週二九點舉行。"
+          }
+        },
+        {
+          "en": "The exhibit runs from Mon through tue next week.",
+          "highlight": [
+            "tue"
+          ],
+          "translations": {
+            "zh-TW": "展覽下週一至週二舉行。"
+          }
+        },
+        {
+          "en": "Holiday flights depart on Tue mornings during peak season.",
+          "highlight": [
+            "Tue"
+          ],
+          "translations": {
+            "zh-TW": "假期航班在旺季時於週二早上出發。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Tuesday"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "on Tue",
+        "by Tue",
+        "Tue morning",
+        "every Tue"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
