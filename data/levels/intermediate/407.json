@@ -1,7 +1,7 @@
 {
+  "cefr": "B2",
   "level": 407,
   "tier": "intermediate",
-  "cefr": "B2",
   "words": [
     {
       "id": "B2-407-001",
@@ -12,23 +12,68 @@
       "word": "portion",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "portions"
+        "plural": "portions",
+        "present_3rd": "portions",
+        "past": "portioned",
+        "past_participle": "portioned",
+        "ing": "portioning"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "portion",
-          "definition": "n. 部分, 一份, 命運, 嫁妆, vt. 分配, 给...嫁妆"
+          "definition": "n. 部分、一份  v. 分配、按份分發"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A significant portion of the budget goes to research and development.",
+          "highlight": [
+            "portion"
+          ],
+          "translations": {
+            "zh-TW": "預算中有相當大的一部分用於研發。"
+          }
+        },
+        {
+          "en": "The dessert was divided into small portions for all the guests.",
+          "highlight": [
+            "portions"
+          ],
+          "translations": {
+            "zh-TW": "甜點被分成小份給所有賓客。"
+          }
+        },
+        {
+          "en": "When the estate was portioned out, each heir received an equal share.",
+          "highlight": [
+            "portioned"
+          ],
+          "translations": {
+            "zh-TW": "遺產分配時，每位繼承人都拿到等額的一份。"
+          }
+        }
+      ],
+      "synonyms": [
+        "share",
+        "part",
+        "segment"
+      ],
+      "antonyms": [
+        "whole",
+        "entirety"
+      ],
+      "phrases": [
+        "a portion of",
+        "portion control",
+        "portion out",
+        "generous portion"
+      ]
     },
     {
       "id": "B2-407-002",
@@ -44,18 +89,55 @@
       "conjugations": {
         "plural": "territories"
       },
-      "domain": "general",
+      "domain": "geography",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "territory",
-          "definition": "n. 領土, 領地, 版圖, 地區, 活動范圍, [經] (推銷員等的)推銷區域"
+          "definition": "n. 領土、領地、版圖、（推銷員的）責任區"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The treaty redrew the borders of the disputed territory.",
+          "highlight": [
+            "territory"
+          ],
+          "translations": {
+            "zh-TW": "這項條約重新劃定了爭議領土的邊界。"
+          }
+        },
+        {
+          "en": "Sales territories were reassigned after the merger.",
+          "highlight": [
+            "territories"
+          ],
+          "translations": {
+            "zh-TW": "合併後銷售責任區被重新分配。"
+          }
+        },
+        {
+          "en": "Animals mark their territory to keep intruders away.",
+          "highlight": [
+            "territory"
+          ],
+          "translations": {
+            "zh-TW": "動物會標記自己的領地以驅離入侵者。"
+          }
+        }
+      ],
+      "synonyms": [
+        "region",
+        "domain",
+        "jurisdiction"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "disputed territory",
+        "sales territory",
+        "unchartered territory",
+        "territory dispute"
+      ]
     },
     {
       "id": "B2-407-003",
@@ -66,23 +148,65 @@
       "word": "cop",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "cops"
+        "plural": "cops",
+        "present_3rd": "cops",
+        "past": "copped",
+        "past_participle": "copped",
+        "ing": "copping"
       },
-      "domain": "general",
+      "domain": "law_enforcement",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cop",
-          "definition": "n. 警官, vt. 抓住"
+          "definition": "n. 警察（口語）  v. 逮住、抓住、遭受"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The cop on duty called for backup when the suspect fled.",
+          "highlight": [
+            "cop"
+          ],
+          "translations": {
+            "zh-TW": "值班警察在嫌犯逃逸時呼叫支援。"
+          }
+        },
+        {
+          "en": "Plainclothes cops arrested the suspect at the train station.",
+          "highlight": [
+            "cops"
+          ],
+          "translations": {
+            "zh-TW": "便衣警察在火車站逮捕了嫌犯。"
+          }
+        },
+        {
+          "en": "He copped some criticism after presenting the proposal.",
+          "highlight": [
+            "copped"
+          ],
+          "translations": {
+            "zh-TW": "他在提報方案後受到一些批評。"
+          }
+        }
+      ],
+      "synonyms": [
+        "police officer",
+        "patrolman",
+        "constable"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "cop out",
+        "cop a plea",
+        "fair cop",
+        "not a bad cop"
+      ]
     },
     {
       "id": "B2-407-004",
@@ -93,23 +217,57 @@
       "word": "arab",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "arabs"
       },
-      "domain": "general",
+      "domain": "nationality",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "arab",
-          "definition": "n. 阿拉伯人, 阿拉伯馬, a. 阿拉伯人的, 阿拉伯的"
+          "definition": "n. 阿拉伯人  adj. 阿拉伯的、阿拉伯人的"
         }
       ],
-      "examples": [],
+      "examples": [
+        {
+          "en": "Arab nations sent a joint delegation to the climate summit.",
+          "highlight": [
+            "Arab"
+          ],
+          "translations": {
+            "zh-TW": "阿拉伯國家派出聯合代表團參加氣候高峰會。"
+          }
+        },
+        {
+          "en": "Many Arabs work across the Gulf in the oil and gas industry.",
+          "highlight": [
+            "Arabs"
+          ],
+          "translations": {
+            "zh-TW": "許多阿拉伯人在波斯灣地區的油氣產業工作。"
+          }
+        },
+        {
+          "en": "The Arab Spring reshaped the political landscape of the region.",
+          "highlight": [
+            "Arab"
+          ],
+          "translations": {
+            "zh-TW": "阿拉伯之春重塑了該地區的政治版圖。"
+          }
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Arab world",
+        "Arab League",
+        "Arab Spring",
+        "Arab-Israeli"
+      ]
     },
     {
       "id": "B2-407-005",
@@ -120,23 +278,55 @@
       "word": "spanish",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "spanishs"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "language",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "spanish",
-          "definition": "n. 西班牙人, 西班牙語, a. 西班牙的"
+          "definition": "n. 西班牙語、西班牙人  adj. 西班牙的、西班牙人的"
         }
       ],
-      "examples": [],
+      "examples": [
+        {
+          "en": "She speaks Spanish fluently after living in Madrid for five years.",
+          "highlight": [
+            "Spanish"
+          ],
+          "translations": {
+            "zh-TW": "她在馬德里住了五年後能流利地說西班牙語。"
+          }
+        },
+        {
+          "en": "The Spanish economy rebounded strongly in the second half of the year.",
+          "highlight": [
+            "Spanish"
+          ],
+          "translations": {
+            "zh-TW": "西班牙經濟在下半年強勁反彈。"
+          }
+        },
+        {
+          "en": "Spanish cuisine is famous for tapas, paella, and jamón ibérico.",
+          "highlight": [
+            "Spanish"
+          ],
+          "translations": {
+            "zh-TW": "西班牙料理以 tapas、海鮮飯和伊比利火腿聞名。"
+          }
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Spanish-speaking",
+        "Spanish flu",
+        "Spanish Civil War",
+        "Latin Spanish"
+      ]
     },
     {
       "id": "B2-407-006",
@@ -152,18 +342,58 @@
       "conjugations": {
         "plural": "participations"
       },
-      "domain": "general",
+      "domain": "social",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "participation",
-          "definition": "n. 参與, 分享, [經] 参與, 参股"
+          "definition": "n. 參與、加入、分享"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Active participation in meetings is expected from all team members.",
+          "highlight": [
+            "participation"
+          ],
+          "translations": {
+            "zh-TW": "所有團隊成員都應積極參與會議。"
+          }
+        },
+        {
+          "en": "The survey showed that class participations dropped after the first hour.",
+          "highlight": [
+            "participations"
+          ],
+          "translations": {
+            "zh-TW": "問卷顯示第一小時後課堂參與度明顯下降。"
+          }
+        },
+        {
+          "en": "Shareholder participation at the AGM hit a record high this year.",
+          "highlight": [
+            "participation"
+          ],
+          "translations": {
+            "zh-TW": "今年股東會的股東參與率創歷史新高。"
+          }
+        }
+      ],
+      "synonyms": [
+        "involvement",
+        "engagement",
+        "contribution"
+      ],
+      "antonyms": [
+        "nonparticipation",
+        "abstention"
+      ],
+      "phrases": [
+        "active participation",
+        "public participation",
+        "participation rate",
+        "community participation"
+      ]
     },
     {
       "id": "B2-407-007",
@@ -179,18 +409,58 @@
       "conjugations": {
         "plural": "coalitions"
       },
-      "domain": "general",
+      "domain": "politics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "coalition",
-          "definition": "n. 結合体, 結合, 联合, [經] 联合, 联盟"
+          "definition": "n. 聯盟、聯合、聯合政府"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A coalition of NGOs pressured the government to act on plastic waste.",
+          "highlight": [
+            "coalition"
+          ],
+          "translations": {
+            "zh-TW": "非政府組織聯盟向政府施壓要求處理塑膠廢棄物。"
+          }
+        },
+        {
+          "en": "Several coalitions have formed to challenge the ruling party.",
+          "highlight": [
+            "coalitions"
+          ],
+          "translations": {
+            "zh-TW": "已組成數個聯盟要挑戰執政黨。"
+          }
+        },
+        {
+          "en": "The coalition government collapsed after just eight months in power.",
+          "highlight": [
+            "coalition"
+          ],
+          "translations": {
+            "zh-TW": "聯合政府執政僅八個月便垮台。"
+          }
+        }
+      ],
+      "synonyms": [
+        "alliance",
+        "union",
+        "bloc"
+      ],
+      "antonyms": [
+        "division",
+        "faction"
+      ],
+      "phrases": [
+        "coalition government",
+        "form a coalition",
+        "ruling coalition",
+        "coalition partner"
+      ]
     },
     {
       "id": "B2-407-008",
@@ -201,23 +471,57 @@
       "word": "racial",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "racials"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "social",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "racial",
-          "definition": "a. 人種的, 種族的, [醫] 種族的"
+          "definition": "adj. 種族的、人種的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The company updated its policy to prevent racial discrimination.",
+          "highlight": [
+            "racial"
+          ],
+          "translations": {
+            "zh-TW": "公司更新了政策以防範種族歧視。"
+          }
+        },
+        {
+          "en": "Racial tensions escalated following the controversial court ruling.",
+          "highlight": [
+            "Racial"
+          ],
+          "translations": {
+            "zh-TW": "在爭議性判決後，種族緊張局勢升溫。"
+          }
+        },
+        {
+          "en": "The training module covers racial bias in hiring and promotion.",
+          "highlight": [
+            "racial"
+          ],
+          "translations": {
+            "zh-TW": "培訓模組涵蓋招募與升遷中的種族偏見。"
+          }
+        }
+      ],
+      "synonyms": [
+        "ethnic",
+        "interethnic"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "racial discrimination",
+        "racial equality",
+        "racial tension",
+        "racial profiling"
+      ]
     },
     {
       "id": "B2-407-009",
@@ -228,23 +532,57 @@
       "word": "mexican",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "mexicans"
       },
-      "domain": "general",
+      "domain": "nationality",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mexican",
-          "definition": "n. 墨西哥人, 墨西哥語, a. 墨西哥的"
+          "definition": "n. 墨西哥人  adj. 墨西哥的、墨西哥人的"
         }
       ],
-      "examples": [],
+      "examples": [
+        {
+          "en": "The Mexican government signed a new trade agreement with Canada.",
+          "highlight": [
+            "Mexican"
+          ],
+          "translations": {
+            "zh-TW": "墨西哥政府與加拿大簽署了新貿易協定。"
+          }
+        },
+        {
+          "en": "Many Mexicans commute daily across the border to work in Texas.",
+          "highlight": [
+            "Mexicans"
+          ],
+          "translations": {
+            "zh-TW": "許多墨西哥人每天越境到德州上班。"
+          }
+        },
+        {
+          "en": "Authentic Mexican tacos are made with fresh cilantro and lime.",
+          "highlight": [
+            "Mexican"
+          ],
+          "translations": {
+            "zh-TW": "正宗墨西哥夾餅用新鮮香菜和萊姆製作。"
+          }
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Mexican-American",
+        "Mexican border",
+        "Mexican peso",
+        "Mexican cuisine"
+      ]
     },
     {
       "id": "B2-407-010",
@@ -260,19 +598,58 @@
       "conjugations": {
         "plural": "negotiations"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "negotiation",
-          "definition": "n. 谈判, 磋商, 交涉, [經] 谈判, 协商"
+          "definition": "n. 談判、磋商、協商"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The negotiation stalled over disagreements on intellectual property.",
+          "highlight": [
+            "negotiation"
+          ],
+          "translations": {
+            "zh-TW": "因智慧財產權爭議，談判陷入僵局。"
+          }
+        },
+        {
+          "en": "Wage negotiations between the union and management resume on Monday.",
+          "highlight": [
+            "negotiations"
+          ],
+          "translations": {
+            "zh-TW": "工會與資方的薪資談判於週一恢復。"
+          }
+        },
+        {
+          "en": "Skilled negotiation can turn a hostile offer into a mutually beneficial deal.",
+          "highlight": [
+            "negotiation"
+          ],
+          "translations": {
+            "zh-TW": "技巧純熟的協商能把敵意出價轉為雙贏交易。"
+          }
+        }
+      ],
+      "synonyms": [
+        "bargaining",
+        "dialogue",
+        "parley"
+      ],
+      "antonyms": [
+        "confrontation",
+        "deadlock"
+      ],
+      "phrases": [
+        "under negotiation",
+        "negotiation strategy",
+        "contract negotiation",
+        "negotiation table"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
