@@ -12,23 +12,65 @@
       "word": "lap",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "laps"
+        "plural": "laps",
+        "present_3rd": "laps",
+        "past": "lapped",
+        "past_participle": "lapped",
+        "ing": "lapping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "lap",
-          "definition": "n. 膝盖, 舔, 一圈, 下摆, 衣兜, 山坳, vi. 重叠, 圍住, 輕拍, 舔, vt. 包圍, 抱...在膝上, 使重叠, 舔, 拍打, 泼溅, [計] 链接访问程序"
+          "definition": "n. 大腿、膝上、一圈  v. 輕拍、舔"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The puppy curled up on her lap during the long flight.",
+          "highlight": [
+            "lap"
+          ],
+          "translations": {
+            "zh-TW": "在漫長的飛行中，小狗蜷縮在她的膝上。"
+          }
+        },
+        {
+          "en": "The lead driver completed the final laps of the race within a tenth of a second.",
+          "highlight": [
+            "laps"
+          ],
+          "translations": {
+            "zh-TW": "領先車手在不到十分之一秒的差距內完成了最後幾圈。"
+          }
+        },
+        {
+          "en": "Waves lap gently against the wooden pier all through the night.",
+          "highlight": [
+            "lap"
+          ],
+          "translations": {
+            "zh-TW": "海浪整夜輕拍著木造碼頭。"
+          }
+        }
+      ],
+      "synonyms": [
+        "circle",
+        "loop",
+        "lick"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "lap pool",
+        "lap up",
+        "last lap",
+        "on someone's lap"
+      ]
     },
     {
       "id": "B2-436-002",
@@ -44,18 +86,58 @@
       "conjugations": {
         "plural": "virtues"
       },
-      "domain": "general",
+      "domain": "ethics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "virtue",
-          "definition": "n. 德行, 美德, 优點, 功效, 效力, [法] 美德, 贞操, 优點"
+          "definition": "n. 美德、優點、功效"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Patience is a virtue often praised in customer-service training manuals.",
+          "highlight": [
+            "virtue"
+          ],
+          "translations": {
+            "zh-TW": "耐心是客服訓練手冊中常被讚揚的美德。"
+          }
+        },
+        {
+          "en": "The new policy lists honesty and integrity among its core virtues.",
+          "highlight": [
+            "virtues"
+          ],
+          "translations": {
+            "zh-TW": "新政策誠實與正直列為其核心美德。"
+          }
+        },
+        {
+          "en": "By virtue of her seniority, she chairs the weekly planning meeting.",
+          "highlight": [
+            "virtue"
+          ],
+          "translations": {
+            "zh-TW": "憑藉資歷，她主持每週策劃會議。"
+          }
+        }
+      ],
+      "synonyms": [
+        "goodness",
+        "merit",
+        "morality"
+      ],
+      "antonyms": [
+        "vice",
+        "fault"
+      ],
+      "phrases": [
+        "by virtue of",
+        "patience is a virtue",
+        "cardinal virtue",
+        "virtue of necessity"
+      ]
     },
     {
       "id": "B2-436-003",
@@ -66,7 +148,8 @@
       "word": "makeup",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "makeups"
@@ -76,13 +159,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "makeup",
-          "definition": "n. 組成, 性格, 化妆品, 化裝(術), 虚構, 补考"
+          "definition": "n. 化妝品、組成、補考  a. 補考的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Theatrical makeup transforms an actor into a believable stage villain.",
+          "highlight": [
+            "makeup"
+          ],
+          "translations": {
+            "zh-TW": "戲劇化妝能把演員變成令人信服的舞台反派。"
+          }
+        },
+        {
+          "en": "Most makeup quizzes this semester share the same format as the originals, the syllabus notes.",
+          "highlight": [
+            "makeup"
+          ],
+          "translations": {
+            "zh-TW": "教學大綱指出，本學期多數補考與原考格式相同。"
+          }
+        },
+        {
+          "en": "Climate scientists analyze the chemical makeup of polar ice to track atmospheric history.",
+          "highlight": [
+            "makeup"
+          ],
+          "translations": {
+            "zh-TW": "氣候科學家分析極地冰的化學組成以追蹤大氣歷史。"
+          }
+        }
+      ],
+      "synonyms": [
+        "cosmetics",
+        "composition",
+        "makeup test"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "wear makeup",
+        "makeup exam",
+        "makeup artist",
+        "genetic makeup"
+      ]
     },
     {
       "id": "B2-436-004",
@@ -93,23 +213,68 @@
       "word": "rose",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective",
+        "verb"
       ],
       "conjugations": {
-        "plural": "roses"
+        "plural": "roses",
+        "past": "rose",
+        "past_participle": "risen",
+        "ing": "rising"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "rose",
-          "definition": "n. 玫瑰, 蔷薇, 玫瑰色, a. 玫瑰色的, 玫瑰花的, vt. 使成玫瑰色, rise的過去式"
+          "definition": "n. 玫瑰  a. 玫瑰色的  v. rise 的過去式"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Each centerpiece was accented with a single rose bloom, the florist explained.",
+          "highlight": [
+            "rose"
+          ],
+          "translations": {
+            "zh-TW": "每個核心擺設都以一朵玫瑰點綴，花商解釋道。"
+          }
+        },
+        {
+          "en": "After three sluggish quarters, sales rose nearly twelve percent year-over-year.",
+          "highlight": [
+            "rose"
+          ],
+          "translations": {
+            "zh-TW": "經過三個低迷季度後，銷售較去年同期上升了將近百分之十二。"
+          }
+        },
+        {
+          "en": "Red roses remain the most popular Valentine's Day gift across most markets.",
+          "highlight": [
+            "roses"
+          ],
+          "translations": {
+            "zh-TW": "在多數市場，紅玫瑰仍是情人節最受歡迎的禮物。"
+          }
+        }
+      ],
+      "synonyms": [
+        "increased",
+        "climbed",
+        "flower"
+      ],
+      "antonyms": [
+        "fell",
+        "declined"
+      ],
+      "phrases": [
+        "red rose",
+        "rose garden",
+        "rose wine",
+        "rose sharply"
+      ]
     },
     {
       "id": "B2-436-005",
@@ -120,23 +285,61 @@
       "word": "surprisingly",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
-      "conjugations": {
-        "plural": "surprisinglies"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "surprisingly",
-          "definition": "adv. 使人惊奇, 出人意外, 惊人, 令人惊讶"
+          "definition": "adv. 令人驚訝地、出乎意料地"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The new aircraft was surprisingly quiet even at full cruising speed.",
+          "highlight": [
+            "surprisingly"
+          ],
+          "translations": {
+            "zh-TW": "這架新客機即使在滿速巡航時也出奇地安靜。"
+          }
+        },
+        {
+          "en": "Investors found the satellite startup's revenue growth surprisingly resilient.",
+          "highlight": [
+            "surprisingly"
+          ],
+          "translations": {
+            "zh-TW": "投資人發現這家衛星新創的營收成長出乎意料地有韌性。"
+          }
+        },
+        {
+          "en": "Result quality in micro-benchmarks was surprisingly consistent across releases.",
+          "highlight": [
+            "surprisingly"
+          ],
+          "translations": {
+            "zh-TW": "在各版本中，微基準測試的結果品質出奇地一致。"
+          }
+        }
+      ],
+      "synonyms": [
+        "unexpectedly",
+        "amazingly",
+        "astonishingly"
+      ],
+      "antonyms": [
+        "unsurprisingly",
+        "expectedly"
+      ],
+      "phrases": [
+        "surprisingly good",
+        "surprisingly low",
+        "surprisingly easy",
+        "not surprisingly"
+      ]
     },
     {
       "id": "B2-436-006",
@@ -147,23 +350,65 @@
       "word": "couch",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "couchs"
+        "plural": "couches",
+        "present_3rd": "couches",
+        "past": "couched",
+        "past_participle": "couched",
+        "ing": "couching"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "couch",
-          "definition": "n. 長沙發, 睡椅, 卧榻, vt. 横躺, 表達, vi. 躺下, 蹲伏"
+          "definition": "n. 長沙發  vt. 表達、措辭"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Customers increasingly buy a couch online after trying it out in a showroom.",
+          "highlight": [
+            "couch"
+          ],
+          "translations": {
+            "zh-TW": "顧客愈來愈傾向在實體店面試坐後上網購買長沙發。"
+          }
+        },
+        {
+          "en": "Designer couches in the lobby are meant to encourage informal collaboration.",
+          "highlight": [
+            "couches"
+          ],
+          "translations": {
+            "zh-TW": "大廳的設計師款長沙發旨在鼓勵非正式交流。"
+          }
+        },
+        {
+          "en": "The CEO couched her remarks in cautious tones during the volatile earnings call.",
+          "highlight": [
+            "couched"
+          ],
+          "translations": {
+            "zh-TW": "在劇烈波動的財報會議上，執行長以謹慎的語氣發言。"
+          }
+        }
+      ],
+      "synonyms": [
+        "sofa",
+        "settee",
+        "phrase"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "on the couch",
+        "couch in",
+        "couch potatoes",
+        "couch a reply"
+      ]
     },
     {
       "id": "B2-436-007",
@@ -179,18 +424,58 @@
       "conjugations": {
         "plural": "alliances"
       },
-      "domain": "general",
+      "domain": "politics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "alliance",
-          "definition": "n. 联盟, 联合, [法] 同盟, 联盟, 联姻"
+          "definition": "n. 聯盟、同盟、結盟"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A strategic alliance between the two airlines expands routes across the Pacific.",
+          "highlight": [
+            "alliance"
+          ],
+          "translations": {
+            "zh-TW": "兩家航空公司的策略聯盟擴大了跨太平洋的航線。"
+          }
+        },
+        {
+          "en": "Earlier military alliances failed to deter the outbreak of war, the history text notes.",
+          "highlight": [
+            "alliances"
+          ],
+          "translations": {
+            "zh-TW": "歷史課本指出，早期的軍事同盟未能阻止戰爭爆發。"
+          }
+        },
+        {
+          "en": "Industry alliances help small firms negotiate better terms with large suppliers.",
+          "highlight": [
+            "alliances"
+          ],
+          "translations": {
+            "zh-TW": "產業聯盟協助小公司與大型供應商爭取更好的條件。"
+          }
+        }
+      ],
+      "synonyms": [
+        "coalition",
+        "partnership",
+        "pact"
+      ],
+      "antonyms": [
+        "rivalry",
+        "opposition"
+      ],
+      "phrases": [
+        "strategic alliance",
+        "military alliance",
+        "alliance with",
+        "form an alliance"
+      ]
     },
     {
       "id": "B2-436-008",
@@ -204,20 +489,60 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "hypothesises"
+        "plural": "hypotheses"
       },
-      "domain": "general",
+      "domain": "science",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "hypothesis",
-          "definition": "n. 假設, [化] 假設"
+          "definition": "n. 假設、假說"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Researchers test their hypothesis against a control group before drawing conclusions.",
+          "highlight": [
+            "hypothesis"
+          ],
+          "translations": {
+            "zh-TW": "研究人員在得出結論前以對照組驗證假設。"
+          }
+        },
+        {
+          "en": "Two competing hypotheses have shaped the debate over dark energy for decades.",
+          "highlight": [
+            "hypotheses"
+          ],
+          "translations": {
+            "zh-TW": "兩個互相競爭的假說主導了數十年來關於暗能量的辯論。"
+          }
+        },
+        {
+          "en": "Even a confirmed hypothesis should be re-tested under different conditions, reviewers say.",
+          "highlight": [
+            "hypothesis"
+          ],
+          "translations": {
+            "zh-TW": "審查者表示，即便假設已獲驗證，也應在不同條件下重覆測試。"
+          }
+        }
+      ],
+      "synonyms": [
+        "theory",
+        "premise",
+        "assumption"
+      ],
+      "antonyms": [
+        "fact",
+        "proof"
+      ],
+      "phrases": [
+        "test a hypothesis",
+        "competing hypotheses",
+        "hypothesis testing",
+        "null hypothesis"
+      ]
     },
     {
       "id": "B2-436-009",
@@ -228,23 +553,66 @@
       "word": "compose",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "composes"
+        "present_3rd": "composes",
+        "past": "composed",
+        "past_participle": "composed",
+        "ing": "composing"
       },
-      "domain": "general",
+      "domain": "arts",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "compose",
-          "definition": "vt. 組成, 寫作, 作曲, 使平静, vi. 創作, 排字, [計] 编寫"
+          "definition": "vt. 組成、撰寫、作曲  vi. 創作"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The composer composes most of her film scores on a single upright piano.",
+          "highlight": [
+            "composes"
+          ],
+          "translations": {
+            "zh-TW": "這位作曲家大部分的電影配樂都是在一架立式鋼琴上譜寫的。"
+          }
+        },
+        {
+          "en": "After the meeting she composed a memo summarizing key decisions for the board.",
+          "highlight": [
+            "composed"
+          ],
+          "translations": {
+            "zh-TW": "會後她撰寫了一份備忘錄，為董事會摘要關鍵決定。"
+          }
+        },
+        {
+          "en": "Music composers composing for video games earn steady royalties from streaming platforms.",
+          "highlight": [
+            "composing"
+          ],
+          "translations": {
+            "zh-TW": "為電玩創作音樂的作曲家可從串流平台獲得穩定的版稅。"
+          }
+        }
+      ],
+      "synonyms": [
+        "write",
+        "create",
+        "form"
+      ],
+      "antonyms": [
+        "decompose",
+        "disassemble"
+      ],
+      "phrases": [
+        "compose music",
+        "compose oneself",
+        "compose of",
+        "compose an email"
+      ]
     },
     {
       "id": "B2-436-010",
@@ -255,24 +623,67 @@
       "word": "peer",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "peers"
+        "plural": "peers",
+        "present_3rd": "peers",
+        "past": "peered",
+        "past_participle": "peered",
+        "ing": "peering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "peer",
-          "definition": "n. 同等的人, 匹敌, 贵族, vi. 凝視, 窥視, 費力地看, 隐現, vt. 與...同等, 封為贵族"
+          "definition": "n. 同儕、貴族  v. 凝視、費力地看"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Peer review is the gold standard for academic journal publication.",
+          "highlight": [
+            "Peer"
+          ],
+          "translations": {
+            "zh-TW": "同儕審查是學術期刊發表的黃金標準。"
+          }
+        },
+        {
+          "en": "Economists explain that trading firms rarely disclose margins ahead of peers.",
+          "highlight": [
+            "peers"
+          ],
+          "translations": {
+            "zh-TW": "經濟學家指出，交易公司鮮少領先同儕揭露利潤率。"
+          }
+        },
+        {
+          "en": "Feeling nervous, the customer peered at the receipts scattered across the counter.",
+          "highlight": [
+            "peered"
+          ],
+          "translations": {
+            "zh-TW": "顧客感到緊張，費力地看著散落在櫃台上的收據。"
+          }
+        }
+      ],
+      "synonyms": [
+        "equal",
+        "look",
+        "associate"
+      ],
+      "antonyms": [
+        "subordinate"
+      ],
+      "phrases": [
+        "peer review",
+        "peer pressure",
+        "peer at",
+        "peer group"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }

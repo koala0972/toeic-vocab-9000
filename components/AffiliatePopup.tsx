@@ -38,13 +38,14 @@ export default function AffiliatePopup({ open, onClose, trigger }: AffiliatePopu
   }, [open, onClose]);
 
   // 彈窗開啟時觸發 vbtrax 印象追蹤 (5/8 SKU 有)
+  // 5 家有 vbtrax 的已直接放 <img src> 在商品圖, 自動觸發曝光
+  // 3 家只本地 PNG, 不額外埋 pixel (Icon 沒 vbtrax URL)
   useEffect(() => {
     if (!open) return;
     const pixels = AFFILIATE_SKUS
       .map(s => s.impressionUrl)
       .filter((u): u is string => !!u);
     if (pixels.length === 0) return;
-    // 創見 <img> 一次性觸發瀏覽器 request
     const imgs = pixels.map(src => {
       const img = new Image();
       img.src = src;
@@ -118,10 +119,16 @@ export default function AffiliatePopup({ open, onClose, trigger }: AffiliatePopu
                 className="aspect-square w-full flex items-center justify-center bg-slate-50 p-3"
               >
                 <img
-                  src={sku.image}
+                  src={sku.impressionUrl ?? sku.image}
                   alt={sku.title}
                   className="max-w-full max-h-full object-contain"
                   loading="lazy"
+                  referrerPolicy="no-referrer"
+                  onError={(e) => {
+                    // vbtrax URL 載不到時 fallback 到本地圖
+                    const t = e.currentTarget as HTMLImageElement;
+                    if (t.src !== sku.image) t.src = sku.image;
+                  }}
                 />
               </div>
               <div className="p-3">
