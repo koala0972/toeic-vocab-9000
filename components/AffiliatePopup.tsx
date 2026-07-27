@@ -88,12 +88,16 @@ export default function AffiliatePopup({ open, onClose, trigger }: AffiliatePopu
               className="group text-left rounded-xl border border-slate-200 hover:border-violet-300 hover:shadow-md transition-all overflow-hidden bg-white"
               aria-label={sku.aria}
             >
-              {/* Tile with gradient + emoji */}
+              {/* Logo / brand image tile (aspect square, contain) */}
               <div
-                className="aspect-square w-full flex items-center justify-center text-5xl"
-                style={{ background: `linear-gradient(135deg, ${sku.gradient[0]}, ${sku.gradient[1]})` }}
+                className="aspect-square w-full flex items-center justify-center bg-slate-50 p-3"
               >
-                <span aria-hidden="true">{sku.icon}</span>
+                <img
+                  src={sku.image}
+                  alt={sku.title}
+                  className="max-w-full max-h-full object-contain"
+                  loading="lazy"
+                />
               </div>
               <div className="p-3">
                 <div className="text-sm font-semibold text-slate-800 leading-tight line-clamp-2">

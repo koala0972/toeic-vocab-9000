@@ -1,71 +1,78 @@
 /**
- * Affiliate recommendations shown after a level is completed.
- *
- * Four canonical slots — keep stable IDs so future rotation doesn't reset
- * the 30-day throttle for users who have already seen the popup.
- *
- * URLs: leave as env-overridable so production can swap real affiliate
- * targets via process.env.AFF_*_URL without code changes. In dev, all four
- * fall back to `https://example.com/...` placeholder. The first SKU
- * ('official') deliberately points to the public TOEIC landing page (no
- * affiliate program available there).
+ * Affiliate recommendations — 8 real brands auto-scraped on 2026-07-27.
+ * Images stored in /affiliates/*.png (og:image fallback to first_img/favicon).
+ * URLs are the short affiliate links (linkgo.one / afflink.one / onelink.one).
+ * og:title values preserved from original scrape (may need manual polish).
  */
 export type AffiliateSku = {
-  id: 'flashcard' | 'mocktest' | 'app' | 'official';
+  id: string;
   title: string;
-  subtitle: string;
-  /** Visual emoji glyph rendered in the card. ASCII-only fallback handled in the component. */
-  icon: string;
-  /** Background gradient for the icon tile. Two valid CSS colors. */
-  gradient: [string, string];
-  /** External + safe target. Append `?ref=toeichub` or equivalent at click time when set in env. */
+  /** 圖片路徑 (本地 PNG) */
+  image: string;
+  /** 聯盟短連結. 直接原地貼, 不 env-overridable (是真實連結) */
   url: string;
-  /** Optional longer copy shown in tooltip aria. */
+  /** SEO/aria label longer copy */
   aria: string;
 };
 
-const fromEnv = (key: string, fallback: string) =>
-  (typeof process !== 'undefined' && process.env?.[key]) || fallback;
-
 export const AFFILIATE_SKUS: readonly AffiliateSku[] = [
   {
-    id: 'flashcard',
-    title: '多益單字字卡（電子版）',
-    subtitle: '通勤複習 · 隨身帶著走',
-    icon: '📚',
-    gradient: ['#a78bfa', '#7c3aed'],
-    url: fromEnv('AFF_FLASH_URL', 'https://example.com/affiliate/flashcard'),
-    aria: '多益單字字卡電子版，隨時隨地複習高頻單字',
+    id: 'ivy-bar',
+    title: 'iVY BAR 學英文吧',
+    image: '/affiliates/ivy-bar.png',
+    url: 'https://linkgo.one/s/F77Hk',
+    aria: 'iVY BAR 學英文吧 — 帶你走向世界',
   },
   {
-    id: 'mocktest',
-    title: '多益模擬試題套書',
-    subtitle: '5 回完整模擬考',
-    icon: '📝',
-    gradient: ['#60a5fa', '#2563eb'],
-    url: fromEnv('AFF_MOCK_URL', 'https://example.com/affiliate/mocktest'),
-    aria: '多益模擬試題套書，含 5 回完整模擬考題與詳解',
+    id: 'jiantan',
+    title: '巨匠美語',
+    image: '/affiliates/jiantan.png',
+    url: 'https://afflink.one/s/aiCcB',
+    aria: '巨匠美語成人英文課程推薦, 全台37間分校',
   },
   {
-    id: 'app',
-    title: '訂閱制語言學習 App',
-    subtitle: '全年無限複習',
-    icon: '📱',
-    gradient: ['#34d399', '#059669'],
-    url: fromEnv('AFF_APP_URL', 'https://example.com/affiliate/app'),
-    aria: '訂閱制語言學習 App，全年無限複習多益教材',
+    id: '51talk',
+    title: '51Talk',
+    image: '/affiliates/51talk.png',
+    url: 'https://onelink.one/s/vV7rM',
+    aria: '51Talk 兒童線上英文, 讓孩子愛上說英文',
   },
   {
-    id: 'official',
-    title: 'TOEIC 官方報名',
-    subtitle: '真實考試報名頁',
-    icon: '🎯',
-    gradient: ['#fbbf24', '#d97706'],
-    // Official landing has no affiliate program — link directly.
-    url: fromEnv('AFF_OFFICIAL_URL', 'https://www.toeic.com.tw/'),
-    aria: 'TOEIC 多益官方報名頁',
+    id: 'oikid',
+    title: 'OiKID',
+    image: '/affiliates/oikid.png',
+    url: 'https://onelink.one/s/MsAO5',
+    aria: 'OiKID 提升孩童英語能力',
+  },
+  {
+    id: 'voicetube',
+    title: 'VoiceTube Vclass',
+    image: '/affiliates/voicetube.png',
+    url: 'https://afflink.one/s/kr9iK',
+    aria: 'VoiceTube Vclass 名師課, 專業老師規劃的語言學習課程',
+  },
+  {
+    id: 'yingdai',
+    title: '英代外語',
+    image: '/affiliates/yingdai.png',
+    url: 'https://onelink.one/s/tFfFc',
+    aria: '英代外語, 挑戰多益700分, 一週只要888',
+  },
+  {
+    id: 'd-plus',
+    title: 'D+ Language Plus',
+    image: '/affiliates/d-plus.png',
+    url: 'https://linkgo.one/s/q4ucw',
+    aria: 'D+ Language Plus 大新線上語言教育平台',
+  },
+  {
+    id: 'preply',
+    title: 'Preply',
+    image: '/affiliates/preply.png',
+    url: 'https://afflink.one/s/m1pOj',
+    aria: 'Preply 線上英語學習, 首堂優惠',
   },
 ] as const;
 
-/** How long after showing this popup before we show it again. ms. 30 days. */
+/** 30 天節流保留但目前已停用 */
 export const AFFILIATE_THROTTLE_MS = 30 * 24 * 60 * 60 * 1000;
