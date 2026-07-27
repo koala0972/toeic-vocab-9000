@@ -1,7 +1,7 @@
 {
+  "cefr": "B1",
   "level": 398,
   "tier": "intermediate",
-  "cefr": "B1",
   "words": [
     {
       "id": "B1-398-001",
@@ -10,25 +10,65 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "videoconference",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "videoconferences"
+        "plural": "videoconferences",
+        "present_3rd": "videoconferences",
+        "past": "videoconferenced",
+        "past_participle": "videoconferenced",
+        "ing": "videoconferencing"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "videoconference",
-          "definition": "n. 視頻會議"
+          "definition": "n. 視訊會議  v. 透過視訊開會"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The team scheduled a videoconference to discuss the quarterly budget.",
+          "highlight": [
+            "videoconference"
+          ],
+          "translations": {
+            "zh-TW": "團隊排定了一場視訊會議，討論本季預算。"
+          }
+        },
+        {
+          "en": "Several videoconferences were held last week to coordinate the overseas branches.",
+          "highlight": [
+            "videoconferences"
+          ],
+          "translations": {
+            "zh-TW": "上週舉行了幾場視訊會議，以協調海外分公司。"
+          }
+        },
+        {
+          "en": "Managers have been videoconferencing with suppliers instead of flying out for meetings.",
+          "highlight": [
+            "videoconferencing"
+          ],
+          "translations": {
+            "zh-TW": "經理們一直透過視訊會議與供應商開會，而不是飛過去當面開會。"
+          }
+        }
+      ],
+      "synonyms": [
+        "video call",
+        "teleconference",
+        "web meeting"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "hold a videoconference",
+        "join a videoconference",
+        "videoconference software"
+      ]
     },
     {
       "id": "B1-398-002",
@@ -37,25 +77,57 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "n't",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
-      "conjugations": {
-        "plural": "n'ts"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "grammar",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "n't",
-          "definition": "adv. 不"
+          "definition": "adv. not 的縮寫，附於助動詞之後表示否定"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "I don't think the supplier can meet our delivery deadline.",
+          "highlight": [
+            "n't"
+          ],
+          "translations": {
+            "zh-TW": "我不認為供應商能趕上我們的交貨期限。"
+          }
+        },
+        {
+          "en": "The accountant hasn't filed the annual report yet.",
+          "highlight": [
+            "n't"
+          ],
+          "translations": {
+            "zh-TW": "會計師還沒提交年度報告。"
+          }
+        },
+        {
+          "en": "We couldn't locate the missing invoice in the database.",
+          "highlight": [
+            "n't"
+          ],
+          "translations": {
+            "zh-TW": "我們在資料庫裡找不到那張遺失的發票。"
+          }
+        }
+      ],
+      "synonyms": [
+        "not",
+        "never"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "don't",
+        "isn't",
+        "won't"
+      ]
     },
     {
       "id": "B1-398-003",
@@ -64,25 +136,60 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "those",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "pronoun"
       ],
-      "conjugations": {
-        "plural": "thoses"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "those",
-          "definition": "pron. 那些"
+          "definition": "pron. 那些（that 的複數形式）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Those invoices must be filed before the end of the month.",
+          "highlight": [
+            "Those"
+          ],
+          "translations": {
+            "zh-TW": "那些發票必須在月底前歸檔。"
+          }
+        },
+        {
+          "en": "Please hand those documents to the new receptionist.",
+          "highlight": [
+            "those"
+          ],
+          "translations": {
+            "zh-TW": "請把那些文件交給新來的接待員。"
+          }
+        },
+        {
+          "en": "Among those candidates, the panel selected the most experienced one.",
+          "highlight": [
+            "those"
+          ],
+          "translations": {
+            "zh-TW": "在那些候選人當中，評審團選出了最有經驗的一位。"
+          }
+        }
+      ],
+      "synonyms": [
+        "these",
+        "that"
+      ],
+      "antonyms": [
+        "this",
+        "these"
+      ],
+      "phrases": [
+        "those people",
+        "those days",
+        "one of those"
+      ]
     },
     {
       "id": "B1-398-004",
@@ -91,9 +198,9 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "american",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "americans"
@@ -103,13 +210,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "american",
-          "definition": "n. 美國人, a. 美國的, 美洲的"
+          "definition": "n. 美國人  adj. 美國的、美洲的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The American branch handles the North American market exclusively.",
+          "highlight": [
+            "American"
+          ],
+          "translations": {
+            "zh-TW": "美國分公司專門處理北美市場。"
+          }
+        },
+        {
+          "en": "Two Americans were hired to lead the Denver sales office.",
+          "highlight": [
+            "Americans"
+          ],
+          "translations": {
+            "zh-TW": "公司聘僱了兩位美國人來帶領丹佛業務辦公室。"
+          }
+        },
+        {
+          "en": "Import tariffs have hit American manufacturers harder than expected this year.",
+          "highlight": [
+            "American"
+          ],
+          "translations": {
+            "zh-TW": "今年進口關稅對美國製造商的衝擊比預期更大。"
+          }
+        }
+      ],
+      "synonyms": [
+        "us",
+        "stateside"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "american company",
+        "american market",
+        "american citizen"
+      ]
     },
     {
       "id": "B1-398-005",
@@ -118,25 +260,60 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "others",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "pronoun"
       ],
-      "conjugations": {
-        "plural": "otherses"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "others",
-          "definition": "pron. 其他人"
+          "definition": "pron. 其他人、其他事物"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Three staff members volunteered for the night shift, and others covered the weekend.",
+          "highlight": [
+            "others"
+          ],
+          "translations": {
+            "zh-TW": "三名員工自願值夜班，其他人則負責週末。"
+          }
+        },
+        {
+          "en": "Some clients prefer email updates, while others insist on weekly calls.",
+          "highlight": [
+            "others"
+          ],
+          "translations": {
+            "zh-TW": "有些客戶偏好電子郵件更新，其他人則堅持每週通話。"
+          }
+        },
+        {
+          "en": "Focus on the priority tasks first; you can delegate the others to the interns.",
+          "highlight": [
+            "others"
+          ],
+          "translations": {
+            "zh-TW": "先處理優先任務，其他的可以交辦給實習生。"
+          }
+        }
+      ],
+      "synonyms": [
+        "the rest",
+        "remaining"
+      ],
+      "antonyms": [
+        "oneself",
+        "self"
+      ],
+      "phrases": [
+        "among others",
+        "the others",
+        "each other"
+      ]
     },
     {
       "id": "B1-398-006",
@@ -145,25 +322,59 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "toward",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "preposition"
       ],
-      "conjugations": {
-        "plural": "towards"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "toward",
-          "definition": "prep. 向, 對于, 為了, a. 即将來临的, 进行中的"
+          "definition": "prep. 朝向、對於、為了"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The delegation walked toward the conference hall as the discussion began.",
+          "highlight": [
+            "toward"
+          ],
+          "translations": {
+            "zh-TW": "討論開始時，代表團朝會議廳走去。"
+          }
+        },
+        {
+          "en": "All profit this quarter will be reinvested toward new product development.",
+          "highlight": [
+            "toward"
+          ],
+          "translations": {
+            "zh-TW": "本季所有利潤將再投資於新產品開發。"
+          }
+        },
+        {
+          "en": "Customer attitudes toward the brand have softened since the apology campaign.",
+          "highlight": [
+            "toward"
+          ],
+          "translations": {
+            "zh-TW": "自從道歉活動推出後，顧客對這個品牌的態度已經緩和。"
+          }
+        }
+      ],
+      "synonyms": [
+        "towards",
+        "to"
+      ],
+      "antonyms": [
+        "away from"
+      ],
+      "phrases": [
+        "move toward",
+        "attitude toward",
+        "contribute toward"
+      ]
     },
     {
       "id": "B1-398-007",
@@ -172,25 +383,58 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "according",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "adverb",
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "accordings"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "according",
-          "definition": "a. 相符的, 根据...而定的, adv. 相應地"
+          "definition": "adv. 根據、相應地  adj. 相符的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "According to the latest report, sales grew by eight percent.",
+          "highlight": [
+            "According"
+          ],
+          "translations": {
+            "zh-TW": "根據最新報告，銷售成長了百分之八。"
+          }
+        },
+        {
+          "en": "Salaries are adjusted according to seniority and annual performance reviews.",
+          "highlight": [
+            "according"
+          ],
+          "translations": {
+            "zh-TW": "薪資會根據年資和年度績效考核進行調整。"
+          }
+        },
+        {
+          "en": "Please distribute the grants according to the guidelines set by the committee.",
+          "highlight": [
+            "according"
+          ],
+          "translations": {
+            "zh-TW": "請依委員會所訂的準則分配補助款。"
+          }
+        }
+      ],
+      "synonyms": [
+        "as per",
+        "in accordance with"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "according to",
+        "according to plan",
+        "according to schedule"
+      ]
     },
     {
       "id": "B1-398-008",
@@ -199,25 +443,68 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "center",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "centers"
+        "plural": "centers",
+        "present_3rd": "centers",
+        "past": "centered",
+        "past_participle": "centered",
+        "ing": "centering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "center",
-          "definition": "n. 中心, 中心點, 中锋, a. 中央的, 位在正中的, vt. 集中, 定中心, vi. 居中, [計] 居中; 中央"
+          "definition": "n. 中心、中央  v. 集中、置於中心"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The new distribution center will shorten delivery times across the region.",
+          "highlight": [
+            "center"
+          ],
+          "translations": {
+            "zh-TW": "新的物流中心將縮短全區的配送時間。"
+          }
+        },
+        {
+          "en": "Several training centers were consolidated to cut overhead costs.",
+          "highlight": [
+            "centers"
+          ],
+          "translations": {
+            "zh-TW": "好幾個培訓中心被合併，以削減營運成本。"
+          }
+        },
+        {
+          "en": "The meeting was centered on improving customer satisfaction scores.",
+          "highlight": [
+            "centered"
+          ],
+          "translations": {
+            "zh-TW": "會議的重點聚焦於提升顧客滿意度分數。"
+          }
+        }
+      ],
+      "synonyms": [
+        "middle",
+        "core",
+        "hub"
+      ],
+      "antonyms": [
+        "edge",
+        "periphery"
+      ],
+      "phrases": [
+        "call center",
+        "city center",
+        "center on"
+      ]
     },
     {
       "id": "B1-398-009",
@@ -226,9 +513,9 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "american",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "americans"
@@ -238,13 +525,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "american",
-          "definition": "n. 美國人, a. 美國的, 美洲的"
+          "definition": "n. 美國人  adj. 美國的、美洲的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "An American investor bought a stake in the local startup last June.",
+          "highlight": [
+            "American"
+          ],
+          "translations": {
+            "zh-TW": "一名美國投資人去年六月買下了這家本地新創公司的股權。"
+          }
+        },
+        {
+          "en": "Many Americans travel abroad for business during the holiday season.",
+          "highlight": [
+            "Americans"
+          ],
+          "translations": {
+            "zh-TW": "許多美國人會在假期季節出國洽商。"
+          }
+        },
+        {
+          "en": "The American dollar weakened against the euro after the interest rate cut.",
+          "highlight": [
+            "American"
+          ],
+          "translations": {
+            "zh-TW": "降息之後，美元相對歐元走弱。"
+          }
+        }
+      ],
+      "synonyms": [
+        "us",
+        "stateside"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "american dollar",
+        "american express",
+        "american airlines"
+      ]
     },
     {
       "id": "B1-398-010",
@@ -253,26 +575,63 @@
       "cefr": "B1",
       "toeic_score_min": 650,
       "word": "republican",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "republicans"
       },
-      "domain": "general",
+      "domain": "politics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "republican",
-          "definition": "n. 共和主义者, 共和党員, a. 共和政体的, 共和國的, 共和主义的"
+          "definition": "n. 共和主義者、共和黨員  adj. 共和政體的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A republican lawmaker proposed new tax incentives for small businesses.",
+          "highlight": [
+            "republican"
+          ],
+          "translations": {
+            "zh-TW": "一位共和黨議員提出了針對小型企業的新租稅優惠。"
+          }
+        },
+        {
+          "en": "Several republicans opposed the spending bill during the floor vote.",
+          "highlight": [
+            "republicans"
+          ],
+          "translations": {
+            "zh-TW": "好幾位共和黨員在院會表決時反對這項支出法案。"
+          }
+        },
+        {
+          "en": "The city's republican leaders negotiated a compromise on the zoning reform.",
+          "highlight": [
+            "republican"
+          ],
+          "translations": {
+            "zh-TW": "該市的共和黨領袖就分區改革案協商出一項折衷方案。"
+          }
+        }
+      ],
+      "synonyms": [
+        "gop",
+        "conservative"
+      ],
+      "antonyms": [
+        "democrat",
+        "liberal"
+      ],
+      "phrases": [
+        "republican party",
+        "republican senator",
+        "republican administration"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
