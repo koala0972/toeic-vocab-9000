@@ -12,23 +12,60 @@
       "word": "nonetheless",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adverb",
+        "conjunction"
       ],
-      "conjugations": {
-        "plural": "nonethelesses"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "nonetheless",
-          "definition": "conj. 然而, 盡管, 不過, adv. 不過, 仍然, 盡管如此, 然而"
+          "definition": "adv. 然而、儘管如此  conj. 雖然如此"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Sales were nonetheless strong despite a weak holiday season, the report shows.",
+          "highlight": [
+            "nonetheless"
+          ],
+          "translations": {
+            "zh-TW": "報告顯示，儘管假期需求疲弱，銷售依然強勁。"
+          }
+        },
+        {
+          "en": "The candidate lacks formal experience; nonetheless, his portfolio impressed the panel.",
+          "highlight": [
+            "nonetheless"
+          ],
+          "translations": {
+            "zh-TW": "這位候選人缺乏正式經驗；儘管如此，他的作品集仍令評審印象深刻。"
+          }
+        },
+        {
+          "en": "Costs rose sharply this quarter, nonetheless profit margins held steady.",
+          "highlight": [
+            "nonetheless"
+          ],
+          "translations": {
+            "zh-TW": "本季成本大幅上升，然而利潤率仍保持穩定。"
+          }
+        }
+      ],
+      "synonyms": [
+        "nevertheless",
+        "however",
+        "still"
+      ],
+      "antonyms": [
+        "therefore"
+      ],
+      "phrases": [
+        "but nonetheless",
+        "nonetheless true",
+        "nonetheless important"
+      ]
     },
     {
       "id": "B2-434-002",
@@ -49,13 +86,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "intensity",
-          "definition": "n. 强烈, 紧張, 强度, [計] 强度; 亮度"
+          "definition": "n. 強烈、強度、緊張"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The intensity of public debate over tax reform surprised lawmakers.",
+          "highlight": [
+            "intensity"
+          ],
+          "translations": {
+            "zh-TW": "稅改議題引發的激烈公共辯論令國會議員意外。"
+          }
+        },
+        {
+          "en": "Daily training workouts vary in their intensities to prevent athlete burnout.",
+          "highlight": [
+            "intensities"
+          ],
+          "translations": {
+            "zh-TW": "日常訓練的強度交替變化，以防運動員倦怠。"
+          }
+        },
+        {
+          "en": "Analysts measure the intensity of consumer demand during back-to-school season.",
+          "highlight": [
+            "intensity"
+          ],
+          "translations": {
+            "zh-TW": "分析師在開學季衡量消費需求的強度。"
+          }
+        }
+      ],
+      "synonyms": [
+        "strength",
+        "force",
+        "fervor"
+      ],
+      "antonyms": [
+        "mildness"
+      ],
+      "phrases": [
+        "high intensity",
+        "color intensity",
+        "intensity of light",
+        "training intensity"
+      ]
     },
     {
       "id": "B2-434-003",
@@ -66,23 +142,68 @@
       "word": "exhibit",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
       "conjugations": {
-        "plural": "exhibits"
+        "plural": "exhibits",
+        "present_3rd": "exhibits",
+        "past": "exhibited",
+        "past_participle": "exhibited",
+        "ing": "exhibiting"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "exhibit",
-          "definition": "n. 顯示, 顯現, 展览品, 陈列品, 展览, vt. 展現, 陈列, 展览, vi. 开展览會"
+          "definition": "vt. 展示、展現  n. 展覽品、展覽"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The startup exhibits its new robotics platform at the trade show each year.",
+          "highlight": [
+            "exhibits"
+          ],
+          "translations": {
+            "zh-TW": "這家新創公司每年在貿易展上展示其新的機器人平台。"
+          }
+        },
+        {
+          "en": "When the gallery exhibited her photographs, attendance jumped thirty percent.",
+          "highlight": [
+            "exhibited"
+          ],
+          "translations": {
+            "zh-TW": "當藝廊展出她的攝影作品時，參觀人數大幅增加了三成。"
+          }
+        },
+        {
+          "en": "By exhibiting leadership under pressure, she earned a promotion within a year.",
+          "highlight": [
+            "exhibiting"
+          ],
+          "translations": {
+            "zh-TW": "她在壓力下展現出領導力，一年內便獲得晉升。"
+          }
+        }
+      ],
+      "synonyms": [
+        "display",
+        "show",
+        "demonstrate"
+      ],
+      "antonyms": [
+        "conceal",
+        "hide"
+      ],
+      "phrases": [
+        "exhibit hall",
+        "trade exhibit",
+        "exhibit at a fair",
+        "art exhibit"
+      ]
     },
     {
       "id": "B2-434-004",
@@ -98,18 +219,58 @@
       "conjugations": {
         "plural": "margins"
       },
-      "domain": "general",
+      "domain": "finance",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "margin",
-          "definition": "n. 頁边的空白, 边缘, 界限, 余裕, 差数, 差額, 保證金, vt. 加边于, 加旁注于, [計] 頁边距"
+          "definition": "n. 邊緣、餘地、利潤率、差數、保證金"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The new product lifted the company's operating margin by two percentage points.",
+          "highlight": [
+            "margin"
+          ],
+          "translations": {
+            "zh-TW": "這款新產品將公司的營業利潤率提高了兩個百分點。"
+          }
+        },
+        {
+          "en": "Local election races were decided by thin margins of fewer than two hundred votes.",
+          "highlight": [
+            "margins"
+          ],
+          "translations": {
+            "zh-TW": "幾場地方選舉結果差距不到兩百票，勝負極為接近。"
+          }
+        },
+        {
+          "en": "Brokers require clients to maintain adequate margin before buying on leverage.",
+          "highlight": [
+            "margin"
+          ],
+          "translations": {
+            "zh-TW": "券商要求客戶在融資買進前維持足夠的保證金。"
+          }
+        }
+      ],
+      "synonyms": [
+        "edge",
+        "border",
+        "profit"
+      ],
+      "antonyms": [
+        "center",
+        "core"
+      ],
+      "phrases": [
+        "profit margin",
+        "gross margin",
+        "margin of error",
+        "by a narrow margin"
+      ]
     },
     {
       "id": "B2-434-005",
@@ -120,23 +281,65 @@
       "word": "quarterback",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "quarterbacks"
+        "plural": "quarterbacks",
+        "present_3rd": "quarterbacks",
+        "past": "quarterbacked",
+        "past_participle": "quarterbacked",
+        "ing": "quarterbacking"
       },
-      "domain": "general",
+      "domain": "sports",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "quarterback",
-          "definition": "n. 四分卫, vi. 担任四分卫"
+          "definition": "n. 四分衛、指揮者  v. 擔任四分衛、指揮"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The young quarterback threw three touchdown passes in last Sunday's game.",
+          "highlight": [
+            "quarterback"
+          ],
+          "translations": {
+            "zh-TW": "這位年輕四分衛在上週日的比賽中傳出三次達陣。"
+          }
+        },
+        {
+          "en": "Veteran quarterbacks often mentor rookies on reading defensive schemes.",
+          "highlight": [
+            "quarterbacks"
+          ],
+          "translations": {
+            "zh-TW": "資深四分衛常會指導新秀如何解讀防守陣式。"
+          }
+        },
+        {
+          "en": "She quarterbacked the relief effort, coordinating volunteers across three cities.",
+          "highlight": [
+            "quarterbacked"
+          ],
+          "translations": {
+            "zh-TW": "她指揮了救援行動，協調三個城市的志工。"
+          }
+        }
+      ],
+      "synonyms": [
+        "leader",
+        "field general",
+        "direct"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "starting quarterback",
+        "backup quarterback",
+        "quarterback sneak",
+        "quarterback the team"
+      ]
     },
     {
       "id": "B2-434-006",
@@ -147,23 +350,68 @@
       "word": "patch",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "patchs"
+        "plural": "patches",
+        "present_3rd": "patches",
+        "past": "patched",
+        "past_participle": "patched",
+        "ing": "patching"
       },
-      "domain": "general",
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "patch",
-          "definition": "n. 片, 补缀, 碎片, 斑, 傻瓜, vt. 补缀, 掩饰, 拼凑, 平息, [計] 修补; 拼凑"
+          "definition": "n. 補丁、碎片、一小塊土地  vt. 修補、拼接"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The vendor released an emergency security patch for the database product.",
+          "highlight": [
+            "patch"
+          ],
+          "translations": {
+            "zh-TW": "廠商為資料庫產品發布了緊急安全修補程式。"
+          }
+        },
+        {
+          "en": "Engineers patched the servers within hours of the breach being detected.",
+          "highlight": [
+            "patched"
+          ],
+          "translations": {
+            "zh-TW": "工程師在偵測到入侵後數小時內修補了伺服器。"
+          }
+        },
+        {
+          "en": "Dedicated teams keep patching legacy code so it stays usable on newer platforms.",
+          "highlight": [
+            "patching"
+          ],
+          "translations": {
+            "zh-TW": "專門團隊持續修補舊有程式碼，使其在新平台上仍可運作。"
+          }
+        }
+      ],
+      "synonyms": [
+        "fix",
+        "mend",
+        "update"
+      ],
+      "antonyms": [
+        "tear",
+        "rupture"
+      ],
+      "phrases": [
+        "security patch",
+        "patch a hole",
+        "patch through",
+        "patch of land"
+      ]
     },
     {
       "id": "B2-434-007",
@@ -179,18 +427,58 @@
       "conjugations": {
         "plural": "consensuses"
       },
-      "domain": "general",
+      "domain": "politics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "consensus",
-          "definition": "n. 合意, 一致, 同感, [計] 合意"
+          "definition": "n. 共識、一致意見"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "International trade talks reached a fragile consensus on tariff reductions.",
+          "highlight": [
+            "consensus"
+          ],
+          "translations": {
+            "zh-TW": "國際貿易談判就關稅削減達成了脆弱的共識。"
+          }
+        },
+        {
+          "en": "Among economists, there are still few consensuses on how to time interest-rate cuts.",
+          "highlight": [
+            "consensuses"
+          ],
+          "translations": {
+            "zh-TW": "對於何時調整利率，經濟學家之間仍未有太多共識。"
+          }
+        },
+        {
+          "en": "Building consensus within a coalition often takes months of patient negotiation.",
+          "highlight": [
+            "consensus"
+          ],
+          "translations": {
+            "zh-TW": "在聯盟內建立共識往往需要數月耐心的協商。"
+          }
+        }
+      ],
+      "synonyms": [
+        "agreement",
+        "accord",
+        "unanimity"
+      ],
+      "antonyms": [
+        "disagreement",
+        "discord"
+      ],
+      "phrases": [
+        "reach consensus",
+        "build consensus",
+        "general consensus",
+        "consensus building"
+      ]
     },
     {
       "id": "B2-434-008",
@@ -201,23 +489,66 @@
       "word": "changing",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "verb"
       ],
       "conjugations": {
-        "plural": "changings"
+        "past": "changed",
+        "past_participle": "changed",
+        "ing": "changing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "changing",
-          "definition": "v. 交换；兑换；改变（change的ing形式）"
+          "definition": "a. 變動中的、變化中的  v. change 的現在分詞"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Fashion brands adapt quickly to changing consumer tastes.",
+          "highlight": [
+            "changing"
+          ],
+          "translations": {
+            "zh-TW": "時尚品牌迅速適應不斷變動的消費者品味。"
+          }
+        },
+        {
+          "en": "Three years ago she changed careers and started her own consulting firm.",
+          "highlight": [
+            "changed"
+          ],
+          "translations": {
+            "zh-TW": "三年前她轉換職涯，創立了自己的顧問公司。"
+          }
+        },
+        {
+          "en": "Investors track changing interest-rate expectations almost daily.",
+          "highlight": [
+            "changing"
+          ],
+          "translations": {
+            "zh-TW": "投資人幾乎每天追蹤不斷變動的利率預期。"
+          }
+        }
+      ],
+      "synonyms": [
+        "shifting",
+        "evolving",
+        "variable"
+      ],
+      "antonyms": [
+        "stable",
+        "constant"
+      ],
+      "phrases": [
+        "changing times",
+        "changing room",
+        "changing climate",
+        "changing needs"
+      ]
     },
     {
       "id": "B2-434-009",
@@ -228,23 +559,63 @@
       "word": "colonial",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
       "conjugations": {
         "plural": "colonials"
       },
-      "domain": "general",
+      "domain": "history",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "colonial",
-          "definition": "a. 殖民的, 殖民地的, [法] 殖民地居民"
+          "definition": "a. 殖民的、殖民地的  n. 殖民地居民"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Many colonial buildings in the old capital still draw thousands of tourists.",
+          "highlight": [
+            "colonial"
+          ],
+          "translations": {
+            "zh-TW": "古都中的許多殖民時期建築至今仍吸引成千上萬的觀光客。"
+          }
+        },
+        {
+          "en": "Historians write that early colonials traded fur for manufactured goods.",
+          "highlight": [
+            "colonials"
+          ],
+          "translations": {
+            "zh-TW": "歷史學家指出，早期殖民地居民以毛皮交換手工製品。"
+          }
+        },
+        {
+          "en": "Maps from the colonial era reveal how European rivalries shaped modern borders.",
+          "highlight": [
+            "colonial"
+          ],
+          "translations": {
+            "zh-TW": "殖民時期的地圖揭示了歐洲列強的競爭如何塑造現代國界。"
+          }
+        }
+      ],
+      "synonyms": [
+        "imperial",
+        "settler"
+      ],
+      "antonyms": [
+        "indigenous",
+        "native"
+      ],
+      "phrases": [
+        "colonial era",
+        "colonial power",
+        "colonial architecture",
+        "colonial rule"
+      ]
     },
     {
       "id": "B2-434-010",
@@ -265,14 +636,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "sake",
-          "definition": "n. 目的, 缘故, 理由"
+          "definition": "n. 緣故、目的、利益"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "For the sake of clarity, the contract specifies terms in plain language.",
+          "highlight": [
+            "sake"
+          ],
+          "translations": {
+            "zh-TW": "為了清楚起見，合約以淺白語言訂定條款。"
+          }
+        },
+        {
+          "en": "We sometimes act for our loved ones' sakes rather than for our own.",
+          "highlight": [
+            "sakes"
+          ],
+          "translations": {
+            "zh-TW": "我們有時出於對所愛之人的緣故而行動，而非為了自己。"
+          }
+        },
+        {
+          "en": "The director sacrificed short-term profit for the sake of long-term reputation.",
+          "highlight": [
+            "sake"
+          ],
+          "translations": {
+            "zh-TW": "董事長為了長期聲譽而犧牲了短期利潤。"
+          }
+        }
+      ],
+      "synonyms": [
+        "purpose",
+        "benefit",
+        "interest"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "for the sake of",
+        "for old times' sake",
+        "for art's sake",
+        "for safety's sake"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }

@@ -12,23 +12,68 @@
       "word": "gaze",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
       "conjugations": {
-        "plural": "gazes"
+        "plural": "gazes",
+        "present_3rd": "gazes",
+        "past": "gazed",
+        "past_participle": "gazed",
+        "ing": "gazing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "gaze",
-          "definition": "n. 注視, 凝視, vi. 注視, 凝視"
+          "definition": "v. 注視、凝視  n. 注視、目光"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The art critic gazes at the canvas, trying to grasp the painter's intent.",
+          "highlight": [
+            "gazes"
+          ],
+          "translations": {
+            "zh-TW": "藝評家凝視著畫布，試圖領會畫家的意圖。"
+          }
+        },
+        {
+          "en": "The exhausted hiker gazed at the distant summit through the morning mist.",
+          "highlight": [
+            "gazed"
+          ],
+          "translations": {
+            "zh-TW": "疲憊的登山客透過晨霧凝視著遠方的山頂。"
+          }
+        },
+        {
+          "en": "Witnesses gazing at the lunar eclipse stood silently in the park for over an hour.",
+          "highlight": [
+            "gazing"
+          ],
+          "translations": {
+            "zh-TW": "旁觀月食的人們在公園中靜靜注視超過一小時。"
+          }
+        }
+      ],
+      "synonyms": [
+        "stare",
+        "peer",
+        "look"
+      ],
+      "antonyms": [
+        "glance",
+        "ignore"
+      ],
+      "phrases": [
+        "steadily gaze",
+        "meet someone's gaze",
+        "gaze at",
+        "gaze into"
+      ]
     },
     {
       "id": "B2-435-002",
@@ -44,18 +89,54 @@
       "conjugations": {
         "plural": "pregnancies"
       },
-      "domain": "general",
+      "domain": "medicine",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pregnancy",
-          "definition": "n. 怀孕；丰富, 多產；意义深長"
+          "definition": "n. 懷孕、妊娠期"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Healthy nutrition during a first pregnancy can shape a baby's long-term development.",
+          "highlight": [
+            "pregnancy"
+          ],
+          "translations": {
+            "zh-TW": "初次懷孕期間的健康營養會影響寶寶長期的發育。"
+          }
+        },
+        {
+          "en": "Multiple pregnancies still carry slightly higher risks, doctors caution expectant mothers.",
+          "highlight": [
+            "pregnancies"
+          ],
+          "translations": {
+            "zh-TW": "醫生提醒準媽媽，多次懷孕仍帶有略高的風險。"
+          }
+        },
+        {
+          "en": "Companies now offer up to twenty weeks of paid pregnancy leave.",
+          "highlight": [
+            "pregnancy"
+          ],
+          "translations": {
+            "zh-TW": "許多公司如今提供長達二十週的有薪懷孕假。"
+          }
+        }
+      ],
+      "synonyms": [
+        "gestation",
+        "expectancy"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "unplanned pregnancy",
+        "pregnancy test",
+        "ectopic pregnancy",
+        "pregnancy leave"
+      ]
     },
     {
       "id": "B2-435-003",
@@ -66,23 +147,61 @@
       "word": "sacred",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "sacreds"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "religion",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sacred",
-          "definition": "a. 神圣的, 献给上帝的, 庄严的, 祭祀的, [法] 神圣的, 不可侵犯的"
+          "definition": "a. 神聖的、莊嚴的、不可侵犯的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Many cultures treat burial grounds as sacred places not to be disturbed.",
+          "highlight": [
+            "sacred"
+          ],
+          "translations": {
+            "zh-TW": "許多文化將墓地視為不可褻瀆的神聖之地。"
+          }
+        },
+        {
+          "en": "For some believers, the right to worship is a most sacred freedom.",
+          "highlight": [
+            "sacred"
+          ],
+          "translations": {
+            "zh-TW": "對某些信徒而言，敬拜的權利是最神聖的自由。"
+          }
+        },
+        {
+          "en": "Diplomats describe the principle of non-intervention as sacred to international law.",
+          "highlight": [
+            "sacred"
+          ],
+          "translations": {
+            "zh-TW": "外交官形容互不干涉原則在國際法中至關重要。"
+          }
+        }
+      ],
+      "synonyms": [
+        "holy",
+        "divine",
+        "consecrated"
+      ],
+      "antonyms": [
+        "profane",
+        "secular"
+      ],
+      "phrases": [
+        "sacred site",
+        "sacred text",
+        "sacred duty",
+        "sacred ritual"
+      ]
     },
     {
       "id": "B2-435-004",
@@ -103,13 +222,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "formula",
-          "definition": "n. 客套語, 公式, 準則, [計] 公式"
+          "definition": "n. 公式、準則、配方"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Investors often chase a simple formula for picking winning stocks.",
+          "highlight": [
+            "formula"
+          ],
+          "translations": {
+            "zh-TW": "投資人常追逐一個簡單的公式來挑選飆股。"
+          }
+        },
+        {
+          "en": "Different regions use locally adapted formulas for calculating property tax.",
+          "highlight": [
+            "formulas"
+          ],
+          "translations": {
+            "zh-TW": "不同地區採用在地化的公式來計算房屋稅。"
+          }
+        },
+        {
+          "en": "The chemist shared a refined infant formula to fill nutritional gaps.",
+          "highlight": [
+            "formula"
+          ],
+          "translations": {
+            "zh-TW": "化學家分享了一種改良的嬰兒配方，以補足營養缺口。"
+          }
+        }
+      ],
+      "synonyms": [
+        "equation",
+        "recipe",
+        "method"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "mathematical formula",
+        "formula one",
+        "infant formula",
+        "winning formula"
+      ]
     },
     {
       "id": "B2-435-005",
@@ -120,23 +276,59 @@
       "word": "cognitive",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "cognitives"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "medicine",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cognitive",
-          "definition": "a. 認知的, 認识的"
+          "definition": "a. 認知的、認識的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Sleep loss can blunt cognitive performance even after one bad night, studies show.",
+          "highlight": [
+            "cognitive"
+          ],
+          "translations": {
+            "zh-TW": "研究顯示，即使只少睡一晚，睡眠不足也會削弱認知表現。"
+          }
+        },
+        {
+          "en": "More researchers now think cognitive decline may start earlier than once thought.",
+          "highlight": [
+            "cognitive"
+          ],
+          "translations": {
+            "zh-TW": "愈來愈多研究人員認為，認知衰退可能比以往所想更早開始。"
+          }
+        },
+        {
+          "en": "Improved educational programs benefit students with cognitive disabilities.",
+          "highlight": [
+            "cognitive"
+          ],
+          "translations": {
+            "zh-TW": "改善後的教育方案有益於有認知障礙的學生。"
+          }
+        }
+      ],
+      "synonyms": [
+        "mental",
+        "intellectual"
+      ],
+      "antonyms": [
+        "physical"
+      ],
+      "phrases": [
+        "cognitive function",
+        "cognitive ability",
+        "cognitive decline",
+        "cognitive load"
+      ]
     },
     {
       "id": "B2-435-006",
@@ -147,23 +339,63 @@
       "word": "collective",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
       "conjugations": {
         "plural": "collectives"
       },
-      "domain": "general",
+      "domain": "politics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "collective",
-          "definition": "a. 集体的, 聚集的, 共同的, [醫] 集体的, 集合的"
+          "definition": "a. 集體的、共同的  n. 集體、合作社"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "In many cultures, raising children is viewed as a collective responsibility.",
+          "highlight": [
+            "collective"
+          ],
+          "translations": {
+            "zh-TW": "許多文化將養育子女視為集體責任。"
+          }
+        },
+        {
+          "en": "Worker collectives in southern Europe have revived small-village economies this decade.",
+          "highlight": [
+            "collectives"
+          ],
+          "translations": {
+            "zh-TW": "南歐工人合作社在本世紀復甦了小村莊經濟。"
+          }
+        },
+        {
+          "en": "Workers feel a strong collective pride after delivering the project ahead of deadline.",
+          "highlight": [
+            "collective"
+          ],
+          "translations": {
+            "zh-TW": "員工們提前完工後感到強烈的集體榮譽感。"
+          }
+        }
+      ],
+      "synonyms": [
+        "joint",
+        "shared",
+        "cooperative"
+      ],
+      "antonyms": [
+        "individual"
+      ],
+      "phrases": [
+        "collective action",
+        "collective bargaining",
+        "collective effort",
+        "collective memory"
+      ]
     },
     {
       "id": "B2-435-007",
@@ -174,23 +406,67 @@
       "word": "sigh",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
       "conjugations": {
-        "plural": "sighs"
+        "plural": "sighs",
+        "present_3rd": "sighs",
+        "past": "sighed",
+        "past_participle": "sighed",
+        "ing": "sighing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sigh",
-          "definition": "n. 叹息, vi. 叹息, 渴望, vt. 叹息着說"
+          "definition": "v. 嘆息、嘆氣著說  n. 嘆息聲"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "After reading the contract, he sighed and signed anyway to keep the deal moving.",
+          "highlight": [
+            "sighed"
+          ],
+          "translations": {
+            "zh-TW": "讀完合約後，他嘆了口氣還是簽了，以推動交易進行。"
+          }
+        },
+        {
+          "en": "The cashier sighs whenever customers argue about expired rewards.",
+          "highlight": [
+            "sighs"
+          ],
+          "translations": {
+            "zh-TW": "每當顧客為過期的點數爭論，收銀員便會嘆氣。"
+          }
+        },
+        {
+          "en": "Sighing over lost opportunities won't fix past mistakes, the coach tells the team.",
+          "highlight": [
+            "Sighing"
+          ],
+          "translations": {
+            "zh-TW": "教練告訴球隊，為失去的機會嘆息無法挽回過去的錯誤。"
+          }
+        }
+      ],
+      "synonyms": [
+        "breathe out",
+        "exhale",
+        "groan"
+      ],
+      "antonyms": [
+        "cheer"
+      ],
+      "phrases": [
+        "let out a sigh",
+        "deep sigh",
+        "sigh of relief",
+        "sigh over"
+      ]
     },
     {
       "id": "B2-435-008",
@@ -201,23 +477,65 @@
       "word": "attribute",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
       "conjugations": {
-        "plural": "attributes"
+        "plural": "attributes",
+        "present_3rd": "attributes",
+        "past": "attributed",
+        "past_participle": "attributed",
+        "ing": "attributing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "attribute",
-          "definition": "n. 属性, 標志, 定語, vt. 把...归于, 認為...属于, [計] 属性"
+          "definition": "vt. 歸因於  n. 屬性、特質"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Successful founders often attribute their growth to a few key early hires.",
+          "highlight": [
+            "attribute"
+          ],
+          "translations": {
+            "zh-TW": "成功的創辦人常將成長歸功於少數關鍵的早期員工。"
+          }
+        },
+        {
+          "en": "The historian attributed the kingdom's decline to internal power struggles.",
+          "highlight": [
+            "attributed"
+          ],
+          "translations": {
+            "zh-TW": "歷史學家將王國的衰落歸因於內部的權力鬥爭。"
+          }
+        },
+        {
+          "en": "Descriptors often use color attributes when indexing images for search engines.",
+          "highlight": [
+            "attributes"
+          ],
+          "translations": {
+            "zh-TW": "描述元在為搜尋引擎索引圖片時常使用色彩屬性。"
+          }
+        }
+      ],
+      "synonyms": [
+        "ascribe",
+        "credit",
+        "trait"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "attribute keywords",
+        "key attributes",
+        "hair attributes",
+        "attribute to"
+      ]
     },
     {
       "id": "B2-435-009",
@@ -228,23 +546,70 @@
       "word": "okay",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adverb",
+        "adjective",
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "okaies"
+        "plural": "okays",
+        "present_3rd": "okays",
+        "past": "okayed",
+        "past_participle": "okayed",
+        "ing": "okaying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "okay",
-          "definition": "a. 好, 可以, 行, 對, 好吗, 很好, adv. 好, 可以, 行, 對, 好吗, 很好, n. 同意, 签認, 批準, 認可, vt. 同意, 签認, 批準, 認可"
+          "definition": "adv./adj. 沒問題、可以  n. 認可、同意  v. 認可、批准"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The team lead okayed the proposal and asked for the supplier to send a quote.",
+          "highlight": [
+            "okayed"
+          ],
+          "translations": {
+            "zh-TW": "團隊主管批准了提案，並請供應商提供報價。"
+          }
+        },
+        {
+          "en": "Heads of departments formally okays small purchases up to five hundred dollars.",
+          "highlight": [
+            "okays"
+          ],
+          "translations": {
+            "zh-TW": "各部門主管正式批准五百美元以下的小額採購。"
+          }
+        },
+        {
+          "en": "After the pitch review, the steering committee okayed funding for the pilot.",
+          "highlight": [
+            "okayed"
+          ],
+          "translations": {
+            "zh-TW": "簡報審查後，指導委員會批准了試點專案的資金。"
+          }
+        }
+      ],
+      "synonyms": [
+        "approve",
+        "fine",
+        "agree"
+      ],
+      "antonyms": [
+        "reject",
+        "disapprove"
+      ],
+      "phrases": [
+        "get the okay",
+        "okay a request",
+        "an okay signal",
+        "give the okay"
+      ]
     },
     {
       "id": "B2-435-010",
@@ -260,19 +625,57 @@
       "conjugations": {
         "plural": "defendants"
       },
-      "domain": "general",
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "defendant",
-          "definition": "n. 被告, [經] 被告方"
+          "definition": "n. 被告、被告方"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The defendant remained silent throughout the preliminary hearing.",
+          "highlight": [
+            "defendant"
+          ],
+          "translations": {
+            "zh-TW": "被告在初步聽證中全程保持沉默。"
+          }
+        },
+        {
+          "en": "Several defendants filed motions to dismiss before the trial began.",
+          "highlight": [
+            "defendants"
+          ],
+          "translations": {
+            "zh-TW": "幾位被告在審判開始前提出撤銷動議。"
+          }
+        },
+        {
+          "en": "Lawyers advised the defendant to accept the plea bargain offered by prosecutors.",
+          "highlight": [
+            "defendant"
+          ],
+          "translations": {
+            "zh-TW": "律師建議被告接受檢方提出的認罪協商。"
+          }
+        }
+      ],
+      "synonyms": [
+        "accused",
+        "respondent"
+      ],
+      "antonyms": [
+        "plaintiff",
+        "prosecutor"
+      ],
+      "phrases": [
+        "criminal defendant",
+        "defendant in a case",
+        "defendant rights",
+        "civil defendant"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
