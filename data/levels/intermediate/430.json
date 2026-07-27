@@ -1,7 +1,7 @@
 {
+  "cefr": "B2",
   "level": 430,
   "tier": "intermediate",
-  "cefr": "B2",
   "words": [
     {
       "id": "B2-430-001",
@@ -12,7 +12,8 @@
       "word": "terrorist",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "terrorists"
@@ -22,13 +23,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "terrorist",
-          "definition": "n. 恐怖分子, [法] 恐怖份子, 恐怖主义"
+          "definition": "n. 恐怖分子  adj. 恐怖主義的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The government classified the bombing as a terrorist act under the new statute.",
+          "highlight": [
+            "terrorist"
+          ],
+          "translations": {
+            "zh-TW": "依新法,政府把這起爆炸歸為恐怖攻擊。"
+          }
+        },
+        {
+          "en": "Several suspected terrorists were arrested following a coordinated intelligence operation.",
+          "highlight": [
+            "terrorists"
+          ],
+          "translations": {
+            "zh-TW": "協同情報行動後,幾名恐怖嫌疑分子被逮捕。"
+          }
+        },
+        {
+          "en": "By tracing a terrorist network across borders, agents dismantled three cells in a year.",
+          "highlight": [
+            "terrorist"
+          ],
+          "translations": {
+            "zh-TW": "情報人員跨境追蹤恐怖網絡,一年內破獲三個小組。"
+          }
+        }
+      ],
+      "synonyms": [
+        "extremist",
+        "radical"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "terrorist attack",
+        "terrorist group",
+        "suspected terrorist",
+        "terrorist cell"
+      ]
     },
     {
       "id": "B2-430-002",
@@ -39,23 +76,61 @@
       "word": "dominant",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "dominants"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dominant",
-          "definition": "a. 占优势的, 支配的, [醫] 优性的, 顯性的"
+          "definition": "adj. 佔優勢的、支配的、顯性的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The dominant retailer narrowed its rivals' market share for the third straight quarter.",
+          "highlight": [
+            "dominant"
+          ],
+          "translations": {
+            "zh-TW": "這家佔優勢的零售商連續三季壓縮了對手的市占率。"
+          }
+        },
+        {
+          "en": "Several dominant themes emerged from the analysis of shareholder letters.",
+          "highlight": [
+            "dominant"
+          ],
+          "translations": {
+            "zh-TW": "分析股東信時浮現了幾個主要的議題。"
+          }
+        },
+        {
+          "en": "By securing a dominant position, the supplier set the industry's reference price.",
+          "highlight": [
+            "dominant"
+          ],
+          "translations": {
+            "zh-TW": "供應商取得主導地位後,定下了業界的參考價格。"
+          }
+        }
+      ],
+      "synonyms": [
+        "prevailing",
+        "leading",
+        "supreme"
+      ],
+      "antonyms": [
+        "subordinate",
+        "weak"
+      ],
+      "phrases": [
+        "dominant position",
+        "dominant player",
+        "dominant trait",
+        "dominant culture"
+      ]
     },
     {
       "id": "B2-430-003",
@@ -66,23 +141,60 @@
       "word": "shit",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "interjection"
       ],
       "conjugations": {
         "plural": "shits"
       },
-      "domain": "general",
+      "domain": "slang",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "shit",
-          "definition": "vi. 拉屎, vt. 欺骗, 在...拉屎, n. 粪, 屎, interj. 狗屁"
+          "definition": "n. 糞便、廢物、胡說（粗俗口語）  interj. 用來表達厭惡或驚訝"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "In the script, the weary detective mutters \"shit!\" when the suspect escapes.",
+          "highlight": [
+            "shit"
+          ],
+          "translations": {
+            "zh-TW": "劇本裡疲憊的警探看到嫌犯脫逃時低聲罵了一句粗話。"
+          }
+        },
+        {
+          "en": "Several critics panned the movie as mindless shit aimed at distracted teens.",
+          "highlight": [
+            "shit"
+          ],
+          "translations": {
+            "zh-TW": "幾位影評人把這部片罵成是給分心青少年看的無腦廢片。"
+          }
+        },
+        {
+          "en": "By calling the report shit, the editor shocked the junior writer into a rewrite.",
+          "highlight": [
+            "shit"
+          ],
+          "translations": {
+            "zh-TW": "編輯一句「報告寫得真爛」讓資淺撰稿人嚇得重寫整篇。"
+          }
+        }
+      ],
+      "synonyms": [
+        "crap",
+        "rubbish"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "bull shit",
+        "deal with shit",
+        "piece of shit",
+        "scared the shit"
+      ]
     },
     {
       "id": "B2-430-004",
@@ -93,23 +205,65 @@
       "word": "wander",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "wanders"
+        "present_3rd": "wanders",
+        "past": "wandered",
+        "past_participle": "wandered",
+        "ing": "wandering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "wander",
-          "definition": "vi. 游荡, 漫步, 徘徊, 迷路, 離题, 蜿蜒, vt. 在...漫游"
+          "definition": "v. 漫遊、徘徊、離題、迷路"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The guest tends to wander away from the topic whenever meetings run long.",
+          "highlight": [
+            "wander"
+          ],
+          "translations": {
+            "zh-TW": "會議一拖長,這位賓客就容易離題。"
+          }
+        },
+        {
+          "en": "Several hikers wandered off the marked trail despite clear postings at the trailhead.",
+          "highlight": [
+            "wandered"
+          ],
+          "translations": {
+            "zh-TW": "幾位登山客不顧入口清楚告示,偏離了步道。"
+          }
+        },
+        {
+          "en": "By wandering the old district, the architect found inspiration for the renovation plan.",
+          "highlight": [
+            "wandering"
+          ],
+          "translations": {
+            "zh-TW": "建築師在舊城區散步時,找到整修計畫的靈感。"
+          }
+        }
+      ],
+      "synonyms": [
+        "roam",
+        "stroll",
+        "drift"
+      ],
+      "antonyms": [
+        "stay"
+      ],
+      "phrases": [
+        "wander off",
+        "wander around",
+        "wander mind",
+        "wander aimlessly"
+      ]
     },
     {
       "id": "B2-430-005",
@@ -122,21 +276,55 @@
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "economicses"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "academic",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "economics",
-          "definition": "n. 經济學, [經] 經济學"
+          "definition": "n. 經濟學、經濟狀況（通常不可數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The minister earned a doctorate in economics before entering politics.",
+          "highlight": [
+            "economics"
+          ],
+          "translations": {
+            "zh-TW": "部長從政前取得了經濟學博士學位。"
+          }
+        },
+        {
+          "en": "Several applied economics papers were cited during the budget hearing.",
+          "highlight": [
+            "economics"
+          ],
+          "translations": {
+            "zh-TW": "預算聽證時引用了幾篇應用經濟學的論文。"
+          }
+        },
+        {
+          "en": "By studying behavioral economics, the consultant redesigned the firm's pricing strategy.",
+          "highlight": [
+            "economics"
+          ],
+          "translations": {
+            "zh-TW": "顧問研究行為經濟學後,重新設計了公司的定價策略。"
+          }
+        }
+      ],
+      "synonyms": [
+        "economy",
+        "finance"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "behavioral economics",
+        "applied economics",
+        "labor economics",
+        "home economics"
+      ]
     },
     {
       "id": "B2-430-006",
@@ -147,7 +335,8 @@
       "word": "legacy",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "legacies"
@@ -157,13 +346,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "legacy",
-          "definition": "n. 祖先傳下來之物, 遗赠物, [經] 遗產, 遗赠物"
+          "definition": "n. 遺產、傳承、遺贈物  adj. 舊有的、傳統的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The founder considered the scholarship his most enduring legacy.",
+          "highlight": [
+            "legacy"
+          ],
+          "translations": {
+            "zh-TW": "創辦人把這份獎學金視為自己最長久的傳承。"
+          }
+        },
+        {
+          "en": "Several cultural legacies were inscribed on the new heritage register.",
+          "highlight": [
+            "legacies"
+          ],
+          "translations": {
+            "zh-TW": "幾項文化傳承被登錄到新公布的文化遺產名冊上。"
+          }
+        },
+        {
+          "en": "By migrating its legacy systems, the bank cut maintenance costs by half.",
+          "highlight": [
+            "legacy"
+          ],
+          "translations": {
+            "zh-TW": "銀行把舊有系統遷移上雲後,維運成本砍了一半。"
+          }
+        }
+      ],
+      "synonyms": [
+        "heritage",
+        "inheritance"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "legacy system",
+        "political legacy",
+        "leave a legacy",
+        "legacy code"
+      ]
     },
     {
       "id": "B2-430-007",
@@ -174,23 +399,66 @@
       "word": "shrug",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "shrugs"
+        "plural": "shrugs",
+        "present_3rd": "shrugs",
+        "past": "shrugged",
+        "past_participle": "shrugged",
+        "ing": "shrugging"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "shrug",
-          "definition": "n. 耸肩, v. 耸肩"
+          "definition": "n. 聳肩  v. 聳肩（表示無所謂或不知道）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The intern gave a nervous shrug when asked about the missing invoice.",
+          "highlight": [
+            "shrug"
+          ],
+          "translations": {
+            "zh-TW": "實習生被問到遺失發票時,緊張地聳了聳肩。"
+          }
+        },
+        {
+          "en": "Several board members shrugged off the auditor's warning as overly cautious.",
+          "highlight": [
+            "shrugged"
+          ],
+          "translations": {
+            "zh-TW": "幾位董事把查帳員的警告當作過度保守而置之不理。"
+          }
+        },
+        {
+          "en": "By shrugging at the critique, the mayor signaled that she would not budge on the policy.",
+          "highlight": [
+            "shrugging"
+          ],
+          "translations": {
+            "zh-TW": "市長對批評聳肩以對,表明她在政策上不會讓步。"
+          }
+        }
+      ],
+      "synonyms": [
+        "gesture",
+        "dismiss"
+      ],
+      "antonyms": [
+        "nod"
+      ],
+      "phrases": [
+        "shrug off",
+        "shrug shoulders",
+        "with a shrug",
+        "shrug it off"
+      ]
     },
     {
       "id": "B2-430-008",
@@ -201,23 +469,66 @@
       "word": "legitimate",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "verb"
       ],
       "conjugations": {
-        "plural": "legitimates"
+        "present_3rd": "legitimates",
+        "past": "legitimated",
+        "past_participle": "legitimated",
+        "ing": "legitimating"
       },
-      "domain": "general",
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "legitimate",
-          "definition": "a. 合法的, 正当的, 婚生的, vt. 認為正当, 立為嫡嗣, 使合法"
+          "definition": "adj. 合法的、正當的  v. 使合法、認為正當"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The judge ruled that the search was a legitimate exercise of police authority.",
+          "highlight": [
+            "legitimate"
+          ],
+          "translations": {
+            "zh-TW": "法官裁定該搜查是警察權的正當行使。"
+          }
+        },
+        {
+          "en": "Several legitimate businesses complained about being swept up in the crackdown.",
+          "highlight": [
+            "legitimate"
+          ],
+          "translations": {
+            "zh-TW": "幾家合法企業抱怨,他們被這波掃蕩波及了。"
+          }
+        },
+        {
+          "en": "By legitimating absentee voting, the legislature expanded turnout for the elderly.",
+          "highlight": [
+            "legitimating"
+          ],
+          "translations": {
+            "zh-TW": "立法機關將不在籍投票合法化,提升了長者投票率。"
+          }
+        }
+      ],
+      "synonyms": [
+        "legal",
+        "valid",
+        "lawful"
+      ],
+      "antonyms": [
+        "illegitimate"
+      ],
+      "phrases": [
+        "legitimate concern",
+        "legitimate business",
+        "legitimate interest",
+        "legitimate government"
+      ]
     },
     {
       "id": "B2-430-009",
@@ -230,21 +541,57 @@
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "inflations"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "economics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "inflation",
-          "definition": "n. 胀大, 夸張, 通貨膨胀, [化] 充气吹胀; 膨胀"
+          "definition": "n. 通貨膨脹、脹大、誇張"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The central bank raised rates as inflation hit a decade high.",
+          "highlight": [
+            "inflation"
+          ],
+          "translations": {
+            "zh-TW": "通膨創十年新高時,央行升息了。"
+          }
+        },
+        {
+          "en": "Several supply shocks drove inflation upward through the third quarter.",
+          "highlight": [
+            "inflation"
+          ],
+          "translations": {
+            "zh-TW": "幾波供給衝擊讓第三季通膨節節攀升。"
+          }
+        },
+        {
+          "en": "By targeting core inflation, the committee avoided overreacting to energy prices.",
+          "highlight": [
+            "inflation"
+          ],
+          "translations": {
+            "zh-TW": "委員會以核心通膨為目標,避免對能源價格反應過度。"
+          }
+        }
+      ],
+      "synonyms": [
+        "price hike",
+        "rise"
+      ],
+      "antonyms": [
+        "deflation"
+      ],
+      "phrases": [
+        "inflation rate",
+        "core inflation",
+        "high inflation",
+        "inflation target"
+      ]
     },
     {
       "id": "B2-430-010",
@@ -255,24 +602,67 @@
       "word": "cluster",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "clusters"
+        "plural": "clusters",
+        "present_3rd": "clusters",
+        "past": "clustered",
+        "past_participle": "clustered",
+        "ing": "clustering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cluster",
-          "definition": "n. 串, 丛, 群, 簇, vi. 成串, 丛生, vt. 使聚集, [計] 簇"
+          "definition": "n. 串、簇、群  v. 群聚、使聚集"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The design team placed a cluster of sensors at each entry point.",
+          "highlight": [
+            "cluster"
+          ],
+          "translations": {
+            "zh-TW": "設計團隊在每個入口擺放一組感測器。"
+          }
+        },
+        {
+          "en": "Several startup clusters formed around the university's biotech corridor.",
+          "highlight": [
+            "clusters"
+          ],
+          "translations": {
+            "zh-TW": "大學生技走廊附近形成了幾個新創聚落。"
+          }
+        },
+        {
+          "en": "By clustering the servers, the IT department lowered electricity costs significantly.",
+          "highlight": [
+            "clustering"
+          ],
+          "translations": {
+            "zh-TW": "IT 部把伺服器叢集化管理後,電費明顯下降。"
+          }
+        }
+      ],
+      "synonyms": [
+        "bunch",
+        "group",
+        "knot"
+      ],
+      "antonyms": [
+        "scatter"
+      ],
+      "phrases": [
+        "cluster of stars",
+        "cluster analysis",
+        "cluster headache",
+        "business cluster"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }

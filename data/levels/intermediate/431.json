@@ -1,7 +1,7 @@
 {
+  "cefr": "B2",
   "level": 431,
   "tier": "intermediate",
-  "cefr": "B2",
   "words": [
     {
       "id": "B2-431-001",
@@ -12,7 +12,8 @@
       "word": "dependent",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "dependents"
@@ -22,13 +23,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "dependent",
-          "definition": "n. 依赖他人者, a. 依赖的, 从属的"
+          "definition": "n. 受扶養者、依賴他人者  adj. 依賴的、從屬的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The employee lists each dependent on the new health insurance form.",
+          "highlight": [
+            "dependent"
+          ],
+          "translations": {
+            "zh-TW": "員工在新健保表上列出了每位受扶養人。"
+          }
+        },
+        {
+          "en": "Several dependents qualify for expanded dental coverage this year.",
+          "highlight": [
+            "dependents"
+          ],
+          "translations": {
+            "zh-TW": "今年有幾位受撫養人可享有擴大的牙科給付。"
+          }
+        },
+        {
+          "en": "By remaining dependent on a single supplier, the firm took on greater risk.",
+          "highlight": [
+            "dependent"
+          ],
+          "translations": {
+            "zh-TW": "公司持續依賴單一供應商,承擔了更大風險。"
+          }
+        }
+      ],
+      "synonyms": [
+        "reliant",
+        "contingent"
+      ],
+      "antonyms": [
+        "independent"
+      ],
+      "phrases": [
+        "dependent on",
+        "dependent variable",
+        "dependent children",
+        "dependent clause"
+      ]
     },
     {
       "id": "B2-431-002",
@@ -39,23 +78,59 @@
       "word": "institutional",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "institutionals"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "institutional",
-          "definition": "a. 制度的, 公共機構的, 學會的, [法] 組织機構的, 制度的, 公共機構的"
+          "definition": "adj. 制度的、公共機構的、學會的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The reforms addressed several institutional gaps in the central bank.",
+          "highlight": [
+            "institutional"
+          ],
+          "translations": {
+            "zh-TW": "改革處理了央行的幾個制度缺漏。"
+          }
+        },
+        {
+          "en": "Several institutional investors rebalanced their portfolios after the policy change.",
+          "highlight": [
+            "institutional"
+          ],
+          "translations": {
+            "zh-TW": "政策調整後,幾個機構投資人重新平衡了投資組合。"
+          }
+        },
+        {
+          "en": "By building institutional partnerships, the museum expanded its outreach to rural schools.",
+          "highlight": [
+            "institutional"
+          ],
+          "translations": {
+            "zh-TW": "博物館建立機構間的合作後,把服務觸角伸向鄉村學校。"
+          }
+        }
+      ],
+      "synonyms": [
+        "organizational",
+        "structural"
+      ],
+      "antonyms": [
+        "informal"
+      ],
+      "phrases": [
+        "institutional investor",
+        "institutional reform",
+        "institutional care",
+        "institutional framework"
+      ]
     },
     {
       "id": "B2-431-003",
@@ -66,23 +141,65 @@
       "word": "depict",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "depicts"
+        "present_3rd": "depicts",
+        "past": "depicted",
+        "past_participle": "depicted",
+        "ing": "depicting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "depict",
-          "definition": "vt. 描述, 描寫"
+          "definition": "v. 描述、描寫、刻畫"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The mural depicts a heroic scene from the city's founding era.",
+          "highlight": [
+            "depicts"
+          ],
+          "translations": {
+            "zh-TW": "壁畫刻畫了建城時代的英雄場景。"
+          }
+        },
+        {
+          "en": "Several novels depicted the social upheaval of the era with striking candor.",
+          "highlight": [
+            "depicted"
+          ],
+          "translations": {
+            "zh-TW": "幾本小說以驚人的直率描述了那個時代的社會動盪。"
+          }
+        },
+        {
+          "en": "By depicting the conflict from multiple angles, the documentary earned an award.",
+          "highlight": [
+            "depicting"
+          ],
+          "translations": {
+            "zh-TW": "紀錄片從多個視角描繪這場衝突,贏得了一座獎。"
+          }
+        }
+      ],
+      "synonyms": [
+        "portray",
+        "illustrate",
+        "describe"
+      ],
+      "antonyms": [
+        "misrepresent"
+      ],
+      "phrases": [
+        "depict life",
+        "depict historical scene",
+        "vividly depict",
+        "depict reality"
+      ]
     },
     {
       "id": "B2-431-004",
@@ -93,23 +210,59 @@
       "word": "operating",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "operatings"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "operating",
-          "definition": "a. 操作的, 工作的, 營業上的, 業務的, 關于收支的, 關于损益的, 外科手術的, [機] 運轉費用"
+          "definition": "adj. 營運的、操作的、經營的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The division reported its operating margin at the close of the quarter.",
+          "highlight": [
+            "operating"
+          ],
+          "translations": {
+            "zh-TW": "部門在季末通報了營業利潤率。"
+          }
+        },
+        {
+          "en": "Several operating systems were upgraded to support the new security requirements.",
+          "highlight": [
+            "operating"
+          ],
+          "translations": {
+            "zh-TW": "幾個作業系統被升級以支援新的安全要求。"
+          }
+        },
+        {
+          "en": "By trimming operating expenses, the startup extended its runway into the next round of funding.",
+          "highlight": [
+            "operating"
+          ],
+          "translations": {
+            "zh-TW": "新創削減營運開支後,現金跑道延長到下輪募資。"
+          }
+        }
+      ],
+      "synonyms": [
+        "working",
+        "running"
+      ],
+      "antonyms": [
+        "idle"
+      ],
+      "phrases": [
+        "operating system",
+        "operating income",
+        "operating expenses",
+        "operating room"
+      ]
     },
     {
       "id": "B2-431-005",
@@ -130,13 +283,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "operator",
-          "definition": "n. 操作員, 行家, 經纪人, 算子, 運算符, [計] 運算符"
+          "definition": "n. 操作員、經營者、運算子"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The tour operator cancelled all trips after the storm warning was issued.",
+          "highlight": [
+            "operator"
+          ],
+          "translations": {
+            "zh-TW": "暴風警報發布後,旅行社取消了所有行程。"
+          }
+        },
+        {
+          "en": "Several telecom operators bid for the new spectrum at the auction.",
+          "highlight": [
+            "operators"
+          ],
+          "translations": {
+            "zh-TW": "幾家電信業者在拍賣會上競標新頻譜。"
+          }
+        },
+        {
+          "en": "By training a new operator, the assembly line cut defects in half within a month.",
+          "highlight": [
+            "operator"
+          ],
+          "translations": {
+            "zh-TW": "裝配線培訓出新的操作員後,一個月內瑕疵減半。"
+          }
+        }
+      ],
+      "synonyms": [
+        "manager",
+        "driver"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "tour operator",
+        "machine operator",
+        "phone operator",
+        "bus operator"
+      ]
     },
     {
       "id": "B2-431-006",
@@ -147,23 +336,64 @@
       "word": "mortgage",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "mortgages"
+        "plural": "mortgages",
+        "present_3rd": "mortgages",
+        "past": "mortgaged",
+        "past_participle": "mortgaged",
+        "ing": "mortgaging"
       },
-      "domain": "general",
+      "domain": "finance",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mortgage",
-          "definition": "n. 抵押, 約束性义務, 抵押借款, vt. 抵押, 以...作担保, 把...许给"
+          "definition": "n. 抵押貸款、房貸  v. 以...作擔保、抵押"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The couple refinanced their mortgage to take advantage of falling rates.",
+          "highlight": [
+            "mortgage"
+          ],
+          "translations": {
+            "zh-TW": "夫妻倆趁利率走低而重融房貸。"
+          }
+        },
+        {
+          "en": "Several subprime mortgages souring in late 2007 triggered the broader crisis.",
+          "highlight": [
+            "mortgages"
+          ],
+          "translations": {
+            "zh-TW": "2007 年末幾筆次級房貸惡化,引發了更大規模的危機。"
+          }
+        },
+        {
+          "en": "By mortgaging the family estate, the heirs funded the expansion of the vineyard.",
+          "highlight": [
+            "mortgaging"
+          ],
+          "translations": {
+            "zh-TW": "繼承人抵押莊園為葡萄園擴張籌資。"
+          }
+        }
+      ],
+      "synonyms": [
+        "pledge",
+        "deed of trust"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "mortgage rate",
+        "pay off mortgage",
+        "mortgage payment",
+        "take out a mortgage"
+      ]
     },
     {
       "id": "B2-431-007",
@@ -174,23 +404,66 @@
       "word": "sanction",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "sanctions"
+        "plural": "sanctions",
+        "present_3rd": "sanctions",
+        "past": "sanctioned",
+        "past_participle": "sanctioned",
+        "ing": "sanctioning"
       },
-      "domain": "general",
+      "domain": "politics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sanction",
-          "definition": "n. 核準, 制裁, 處罚, 約束力, vt. 制定制裁規則, 認可, 核準, 同意"
+          "definition": "n. 核准、制裁  v. 核准、對...實施制裁"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The council lifted a sanction that had blocked grain exports for months.",
+          "highlight": [
+            "sanction"
+          ],
+          "translations": {
+            "zh-TW": "理事會解除了一項封鎖穀物出口數月的制裁。"
+          }
+        },
+        {
+          "en": "Several economic sanctions were tightened after the latest round of missile tests.",
+          "highlight": [
+            "sanctions"
+          ],
+          "translations": {
+            "zh-TW": "最新一波飛彈試射後,幾項經濟制裁被加嚴。"
+          }
+        },
+        {
+          "en": "By sanctioning the deal, regulators cleared the way for the merger to close.",
+          "highlight": [
+            "sanctioning"
+          ],
+          "translations": {
+            "zh-TW": "監管機關核准這筆交易後,合併案得以完成。"
+          }
+        }
+      ],
+      "synonyms": [
+        "approve",
+        "penalize"
+      ],
+      "antonyms": [
+        "condemn"
+      ],
+      "phrases": [
+        "economic sanction",
+        "lift sanctions",
+        "impose sanctions",
+        "international sanctions"
+      ]
     },
     {
       "id": "B2-431-008",
@@ -201,23 +474,62 @@
       "word": "civilian",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "civilians"
       },
-      "domain": "general",
+      "domain": "military",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "civilian",
-          "definition": "n. 平民, 民法專家, a. 平民的, 百姓的, 民用的"
+          "definition": "n. 平民、百姓  adj. 平民的、民用的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The general called for protecting each civilian trapped in the combat zone.",
+          "highlight": [
+            "civilian"
+          ],
+          "translations": {
+            "zh-TW": "將軍呼籲保護受困戰區的每位平民。"
+          }
+        },
+        {
+          "en": "Several civilians were evacuated before the curfew took effect.",
+          "highlight": [
+            "civilians"
+          ],
+          "translations": {
+            "zh-TW": "幾位平民在宵禁生效前被疏散。"
+          }
+        },
+        {
+          "en": "By returning to civilian life, the soldier joined a youth mentorship program.",
+          "highlight": [
+            "civilian"
+          ],
+          "translations": {
+            "zh-TW": "退伍軍人回到平民生活後,加入青少年輔導計畫。"
+          }
+        }
+      ],
+      "synonyms": [
+        "noncombatant",
+        "citizen"
+      ],
+      "antonyms": [
+        "military"
+      ],
+      "phrases": [
+        "civilian casualties",
+        "civilian population",
+        "civilian life",
+        "civilian clothes"
+      ]
     },
     {
       "id": "B2-431-009",
@@ -228,6 +540,8 @@
       "word": "weekly",
       "phonetic": "",
       "pos": [
+        "adjective",
+        "adverb",
         "noun"
       ],
       "conjugations": {
@@ -238,13 +552,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "weekly",
-          "definition": "n. 周刊, 周報, a. 每周的, 一周一次的, 周刊的, adv. 每周, 一周一次"
+          "definition": "adj. 每週的  adv. 每週地  n. 週刊、週報"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The team schedules a weekly status call with the offshore office.",
+          "highlight": [
+            "weekly"
+          ],
+          "translations": {
+            "zh-TW": "團隊每週與海外辦公室舉行一次狀態電話會議。"
+          }
+        },
+        {
+          "en": "Several weeklies covered the mayor's surprise resignation in their editorial pages.",
+          "highlight": [
+            "weeklies"
+          ],
+          "translations": {
+            "zh-TW": "幾份週刊在社論版報導了市長的突然請辭。"
+          }
+        },
+        {
+          "en": "By meeting weekly, the task force kept the project on schedule.",
+          "highlight": [
+            "weekly"
+          ],
+          "translations": {
+            "zh-TW": "任務小組每週開會,讓專案維持在進度上。"
+          }
+        }
+      ],
+      "synonyms": [
+        "seven-day"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "weekly meeting",
+        "weekly report",
+        "weekly basis",
+        "weekly wage"
+      ]
     },
     {
       "id": "B2-431-010",
@@ -260,19 +609,54 @@
       "conjugations": {
         "plural": "habitats"
       },
-      "domain": "general",
+      "domain": "biology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "habitat",
-          "definition": "n. 栖息地, 居留地, 自生地, 聚集處, [醫] 习生地, 產地, 生境, 栖所"
+          "definition": "n. 棲息地、居留地、生境"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The biologist restored the wetland habitat for migratory birds each spring.",
+          "highlight": [
+            "habitat"
+          ],
+          "translations": {
+            "zh-TW": "生物學家每年春天恢復候鳥的濕地棲地。"
+          }
+        },
+        {
+          "en": "Several coastal habitats were degraded by the massive oil spill last summer.",
+          "highlight": [
+            "habitats"
+          ],
+          "translations": {
+            "zh-TW": "去年夏天的大規模漏油破壞了幾處沿海棲地。"
+          }
+        },
+        {
+          "en": "By mapping each habitat, the agency prioritizes parcels for conservation spend.",
+          "highlight": [
+            "habitat"
+          ],
+          "translations": {
+            "zh-TW": "該局把每一片棲地製成地圖後,排定保育支出的優先順序。"
+          }
+        }
+      ],
+      "synonyms": [
+        "home range",
+        "territory"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "natural habitat",
+        "wildlife habitat",
+        "marine habitat",
+        "destroy habitat"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }

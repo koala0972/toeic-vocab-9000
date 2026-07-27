@@ -37,6 +37,31 @@ export default function AffiliatePopup({ open, onClose, trigger }: AffiliatePopu
     };
   }, [open, onClose]);
 
+  // 彈窗開啟時觸發 vbtrax 印象追蹤 (5/8 SKU 有)
+  useEffect(() => {
+    if (!open) return;
+    const pixels = AFFILIATE_SKUS
+      .map(s => s.impressionUrl)
+      .filter((u): u is string => !!u);
+    if (pixels.length === 0) return;
+    // 創見 <img> 一次性觸發瀏覽器 request
+    const imgs = pixels.map(src => {
+      const img = new Image();
+      img.src = src;
+      img.style.display = 'none';
+      img.setAttribute('aria-hidden', 'true');
+      img.setAttribute('width', '1');
+      img.setAttribute('height', '1');
+      document.body.appendChild(img);
+      return img;
+    });
+    return () => {
+      imgs.forEach(img => {
+        if (img.parentNode) img.parentNode.removeChild(img);
+      });
+    };
+  }, [open]);
+
   if (!open) return null;
 
   const handleClick = (e: React.MouseEvent, id: string, url: string) => {
