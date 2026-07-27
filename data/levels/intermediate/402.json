@@ -1,7 +1,7 @@
 {
+  "cefr": "B2",
   "level": 402,
   "tier": "intermediate",
-  "cefr": "B2",
   "words": [
     {
       "id": "B2-402-001",
@@ -10,25 +10,66 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "poll",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "polls"
+        "plural": "polls",
+        "present_3rd": "polls",
+        "past": "polled",
+        "past_participle": "polled",
+        "ing": "polling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "poll",
-          "definition": "n. 投票, 民意測驗, 選举投票, 投票数, 一組人中的一個, 頭颈和後腦部, 鹦鹉, vt. 對...进行民意測驗, 获得...票, 剪树枝, 轮询, vi. 投票, a. 剪過毛的, 修過枝的, [計] 轮询"
+          "definition": "n. 民調、投票、投票所  v. 進行民調、獲得選票"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "A recent poll shows that consumer confidence has dropped for the third consecutive month.",
+          "highlight": [
+            "poll"
+          ],
+          "translations": {
+            "zh-TW": "最近一項民調顯示，消費者信心已連續第三個月下滑。"
+          }
+        },
+        {
+          "en": "Analysts polled executives across fifty firms before publishing the annual leadership report.",
+          "highlight": [
+            "polled"
+          ],
+          "translations": {
+            "zh-TW": "分析師調查了五十家企業的高階主管，才發布這份年度領導力報告。"
+          }
+        },
+        {
+          "en": "Polling stations opened at seven in the morning and closed without major incidents reported.",
+          "highlight": [
+            "Polling"
+          ],
+          "translations": {
+            "zh-TW": "投票所在早上七點開放，關閉時未傳出重大事故。"
+          }
+        }
+      ],
+      "synonyms": [
+        "survey",
+        "ballot",
+        "vote"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "opinion poll",
+        "exit poll",
+        "poll numbers",
+        "polling station"
+      ]
     },
     {
       "id": "B2-402-002",
@@ -37,25 +78,61 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "works",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "workses"
+        "plural": "works"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "works",
-          "definition": "n. 工程, 工廠, 工事, 活動部件, 機件, 著作, 作品, 善行, 德行, [機] 工廠, 工場"
+          "definition": "n. 工廠、工程、著作、作品（work 的複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "A steel works just outside the city announced plans to add a second production line.",
+          "highlight": [
+            "works"
+          ],
+          "translations": {
+            "zh-TW": "市郊一家鋼鐵廠宣布計畫增設第二條生產線。"
+          }
+        },
+        {
+          "en": "Engineers at the public works department are repairing bridges damaged by last month's storm.",
+          "highlight": [
+            "works"
+          ],
+          "translations": {
+            "zh-TW": "公共工程部的工程師正在維修上個月風暴損壞的橋梁。"
+          }
+        },
+        {
+          "en": "The gallery is exhibiting selected works from contemporary East Asian sculptors.",
+          "highlight": [
+            "works"
+          ],
+          "translations": {
+            "zh-TW": "這家美術館正展出當代東亞雕塑家的精選作品。"
+          }
+        }
+      ],
+      "synonyms": [
+        "factory",
+        "plant",
+        "compositions"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "public works",
+        "steel works",
+        "works of art",
+        "water works"
+      ]
     },
     {
       "id": "B2-402-003",
@@ -64,25 +141,66 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "okay",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "adverb"
       ],
       "conjugations": {
-        "plural": "okaies"
+        "comparative": "more okay",
+        "superlative": "most okay"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "okay",
-          "definition": "a. 好, 可以, 行, 對, 好吗, 很好, adv. 好, 可以, 行, 對, 好吗, 很好, n. 同意, 签認, 批準, 認可, vt. 同意, 签認, 批準, 認可"
+          "definition": "a. 可以的、沒問題的  adv. 還好、可以"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "If the revised timeline is okay with the team, we will submit the contract by Friday.",
+          "highlight": [
+            "okay"
+          ],
+          "translations": {
+            "zh-TW": "如果團隊同意修改後的時間表，我們會在週五前提交合約。"
+          }
+        },
+        {
+          "en": "The supplier said an early delivery would be okay as long as we cover the express shipping fee.",
+          "highlight": [
+            "okay"
+          ],
+          "translations": {
+            "zh-TW": "供應商表示，只要我們負擔快遞運費，提前交貨是沒問題的。"
+          }
+        },
+        {
+          "en": "After the audit, the regulatory body confirmed that our records are okay and require no correction.",
+          "highlight": [
+            "okay"
+          ],
+          "translations": {
+            "zh-TW": "稽核後，監管機構確認我們的帳目資料沒有問題，且無需更正。"
+          }
+        }
+      ],
+      "synonyms": [
+        "fine",
+        "acceptable",
+        "all right"
+      ],
+      "antonyms": [
+        "unacceptable",
+        "no"
+      ],
+      "phrases": [
+        "it's okay",
+        "okay by me",
+        "give the okay",
+        "get the okay"
+      ]
     },
     {
       "id": "B2-402-004",
@@ -91,25 +209,69 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "trail",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "trails"
+        "plural": "trails",
+        "present_3rd": "trails",
+        "past": "trailed",
+        "past_participle": "trailed",
+        "ing": "trailing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "trail",
-          "definition": "n. 踪迹, 痕迹, 一串, 尾部, 小径, 持枪姿势, vt. 拖, 尾隨, 追踪, 落後于, 开出路, vi. 拖曳, 垂下, 落後, 飘出, 蔓生"
+          "definition": "n. 蹤跡、小徑  v. 追蹤、尾隨、落後"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The audit trail lets accountants reconstruct every posted transaction in chronological order.",
+          "highlight": [
+            "trail"
+          ],
+          "translations": {
+            "zh-TW": "稽核軌跡讓會計人員能按時間順序，重建每一筆已過帳的交易。"
+          }
+        },
+        {
+          "en": "Conservative investors prefer mutual funds that trail the broad market by only a small margin.",
+          "highlight": [
+            "trail"
+          ],
+          "translations": {
+            "zh-TW": "保守型投資人偏好僅小幅落後大盤的共同基金。"
+          }
+        },
+        {
+          "en": "Trailing behind the industry leader in market share, the firm is now investing heavily in marketing.",
+          "highlight": [
+            "Trailing"
+          ],
+          "translations": {
+            "zh-TW": "在市佔率上落後產業龍頭之後，這家公司現在正大舉投資行銷。"
+          }
+        }
+      ],
+      "synonyms": [
+        "track",
+        "path",
+        "follow"
+      ],
+      "antonyms": [
+        "lead",
+        "guide"
+      ],
+      "phrases": [
+        "audit trail",
+        "paper trail",
+        "hit the trail",
+        "trail behind"
+      ]
     },
     {
       "id": "B2-402-005",
@@ -118,9 +280,9 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "iraqi",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "iraqis"
@@ -130,13 +292,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "iraqi",
-          "definition": "n. 伊拉克人, 伊拉克阿拉伯語, a. 伊拉克的, 伊拉克人的"
+          "definition": "n. 伊拉克人  a. 伊拉克的、伊拉克人的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Iraqi oil exports to neighboring countries have nearly doubled this quarter.",
+          "highlight": [
+            "Iraqi"
+          ],
+          "translations": {
+            "zh-TW": "本季伊拉克對鄰國的石油出口幾乎翻了一倍。"
+          }
+        },
+        {
+          "en": "Many Iraqi engineers trained abroad are returning home to rebuild the energy sector.",
+          "highlight": [
+            "Iraqi"
+          ],
+          "translations": {
+            "zh-TW": "許多曾在海外受訓的伊拉克工程師，正陸續回國協助重建能源產業。"
+          }
+        },
+        {
+          "en": "A joint venture between an Iraqi firm and a European investor will construct new refineries in Basra.",
+          "highlight": [
+            "Iraqi"
+          ],
+          "translations": {
+            "zh-TW": "一家伊拉克公司與歐洲投資人合資，將在巴士拉興建新的煉油廠。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Mesopotamian"
+      ],
+      "antonyms": [
+        "non-Iraqi"
+      ],
+      "phrases": [
+        "Iraqi government",
+        "Iraqi dinar",
+        "Iraqi oil",
+        "Iraqi people"
+      ]
     },
     {
       "id": "B2-402-006",
@@ -145,7 +344,6 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "analyst",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
@@ -157,13 +355,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "analyst",
-          "definition": "n. 分析者, 精神分析學家, [化] 分析員; 化驗員"
+          "definition": "n. 分析師、化驗員"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "A financial analyst downgraded the stock after the company missed its quarterly forecast.",
+          "highlight": [
+            "analyst"
+          ],
+          "translations": {
+            "zh-TW": "在公司未達季度預期後，一位財務分析師下調了該股票評等。"
+          }
+        },
+        {
+          "en": "Industry analysts expect global EV sales to outpace traditional cars in this decade.",
+          "highlight": [
+            "analysts"
+          ],
+          "translations": {
+            "zh-TW": "業界分析師預期，全球電動車銷量將在這十年內超越傳統汽車。"
+          }
+        },
+        {
+          "en": "The senior analyst briefs interns on how to read balance sheets every Monday morning.",
+          "highlight": [
+            "analyst"
+          ],
+          "translations": {
+            "zh-TW": "每位週一早上，這位資深分析師都會向實習生說明如何閱讀資產負債表。"
+          }
+        }
+      ],
+      "synonyms": [
+        "researcher",
+        "specialist",
+        "evaluator"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "financial analyst",
+        "business analyst",
+        "analyst report",
+        "research analyst"
+      ]
     },
     {
       "id": "B2-402-007",
@@ -172,25 +407,60 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "anymore",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
-      "conjugations": {
-        "plural": "anymores"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "anymore",
-          "definition": "adv. 再也不, 不再"
+          "definition": "adv. 不再、再也（不用於肯定句）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Traditional travel agencies do not thrive anymore, as most customers book flights online.",
+          "highlight": [
+            "anymore"
+          ],
+          "translations": {
+            "zh-TW": "傳統旅行社已不再蓬勃發展，因為多數顧客都在網路上預訂機票。"
+          }
+        },
+        {
+          "en": "The office does not accept cash payments anymore, given the rise of digital invoicing.",
+          "highlight": [
+            "anymore"
+          ],
+          "translations": {
+            "zh-TW": "由於數位發票日益普及，該辦公室已不再接受現金付款。"
+          }
+        },
+        {
+          "en": "Our warehouse manager cannot rely on paper records anymore, after the company-wide digital migration.",
+          "highlight": [
+            "anymore"
+          ],
+          "translations": {
+            "zh-TW": "在全公司數位化之後，倉庫經理再也無法依賴紙本紀錄了。"
+          }
+        }
+      ],
+      "synonyms": [
+        "any longer",
+        "no more"
+      ],
+      "antonyms": [
+        "still",
+        "as before"
+      ],
+      "phrases": [
+        "not anymore",
+        "do not anymore",
+        "cannot anymore"
+      ]
     },
     {
       "id": "B2-402-008",
@@ -199,7 +469,6 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "investor",
-      "phonetic": "",
       "pos": [
         "noun"
       ],
@@ -211,13 +480,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "investor",
-          "definition": "n. 投资者, [經] 投资者"
+          "definition": "n. 投資人、投資者"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A foreign investor has agreed to fund the next stage of the renewable energy project.",
+          "highlight": [
+            "investor"
+          ],
+          "translations": {
+            "zh-TW": "一位外國投資人已同意為這項再生能源計畫的下一階段提供資金。"
+          }
+        },
+        {
+          "en": "Institutional investors are demanding greater transparency in executive compensation disclosures.",
+          "highlight": [
+            "investors"
+          ],
+          "translations": {
+            "zh-TW": "機構投資人正要求在執行長薪酬揭露上提供更高的透明度。"
+          }
+        },
+        {
+          "en": "Each investor receives quarterly statements detailing the performance of their portfolio.",
+          "highlight": [
+            "investor"
+          ],
+          "translations": {
+            "zh-TW": "每位投資人都會收到詳列其投資組合績效的季度報告書。"
+          }
+        }
+      ],
+      "synonyms": [
+        "backer",
+        "shareholder",
+        "financier"
+      ],
+      "antonyms": [
+        "spender",
+        "withdrawer"
+      ],
+      "phrases": [
+        "foreign investor",
+        "retail investor",
+        "investor relations",
+        "angel investor"
+      ]
     },
     {
       "id": "B2-402-009",
@@ -226,25 +535,63 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "japanese",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "japaneses"
+        "plural": "japanese"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "japanese",
-          "definition": "n. 日本人, 日語, a. 日本的, 日語的"
+          "definition": "n. 日本人、日語  a. 日本的、日語的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The Japanese automaker will recall 200,000 vehicles to fix a brake defect.",
+          "highlight": [
+            "Japanese"
+          ],
+          "translations": {
+            "zh-TW": "這家日本汽車製造商將召回二十萬輛車，以修復煞車瑕疵。"
+          }
+        },
+        {
+          "en": "Many Japanese companies still reward long-serving staff with lifetime employment guarantees.",
+          "highlight": [
+            "Japanese"
+          ],
+          "translations": {
+            "zh-TW": "許多日本公司仍以終身雇用制來獎勵資深員工。"
+          }
+        },
+        {
+          "en": "Our HR team hired a Japanese tutor so that engineers can read the supplier's documentation directly.",
+          "highlight": [
+            "Japanese"
+          ],
+          "translations": {
+            "zh-TW": "人資團隊聘用了一位日語家教，讓工程師能直接閱讀供應商的技術文件。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Nippon",
+        "Nihon"
+      ],
+      "antonyms": [
+        "non-Japanese"
+      ],
+      "phrases": [
+        "Japanese yen",
+        "Japanese market",
+        "Japanese company",
+        "Japanese language"
+      ]
     },
     {
       "id": "B2-402-010",
@@ -253,26 +600,62 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "ethnic",
-      "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "ethnics"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "ethnic",
-          "definition": "a. 人種的, 種族的, [醫] 人種的"
+          "definition": "a. 種族的、民族的、人種的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "An ethnic grocery store chain expanded to fifteen locations in just two years.",
+          "highlight": [
+            "ethnic"
+          ],
+          "translations": {
+            "zh-TW": "一家民族特色食品雜貨連鎖店，在短短兩年內擴展到十五個據點。"
+          }
+        },
+        {
+          "en": "Recruiters aim to build a workforce that represents the ethnic diversity of the surrounding community.",
+          "highlight": [
+            "ethnic"
+          ],
+          "translations": {
+            "zh-TW": "招募人員致力於建立一支能反映鄰近社區種族多樣性的員工團隊。"
+          }
+        },
+        {
+          "en": "Marketing campaigns avoid imagery that stereotypes any ethnic group in negative ways.",
+          "highlight": [
+            "ethnic"
+          ],
+          "translations": {
+            "zh-TW": "行銷活動刻意避免任何刻板印象化特定族群、呈現負面形象的影像。"
+          }
+        }
+      ],
+      "synonyms": [
+        "racial",
+        "cultural",
+        "national"
+      ],
+      "antonyms": [
+        "non-ethnic",
+        "generic"
+      ],
+      "phrases": [
+        "ethnic group",
+        "ethnic diversity",
+        "ethnic minority",
+        "ethnic cuisine"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
