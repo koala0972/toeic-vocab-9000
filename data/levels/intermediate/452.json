@@ -1,7 +1,7 @@
 {
+  "cefr": "B2",
   "level": 452,
   "tier": "intermediate",
-  "cefr": "B2",
   "words": [
     {
       "id": "B2-452-001",
@@ -12,23 +12,67 @@
       "word": "rebel",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "rebels"
+        "plural": "rebels",
+        "present_3rd": "rebels",
+        "past": "rebelled",
+        "past_participle": "rebelled",
+        "ing": "rebelling"
       },
-      "domain": "general",
+      "domain": "politics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "rebel",
-          "definition": "n. 叛徒, 反叛者, vi. 造反, 反抗, 抵抗, 反感, a. 造反的, 反抗的"
+          "definition": "n. 反叛者、造反者  v. 反叛、反抗、起義"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several rebel factions signed a ceasefire after weeks of fighting.",
+          "highlight": [
+            "rebel"
+          ],
+          "translations": {
+            "zh-TW": "反叛派的幾個派系在交戰數週後簽署了停火協議。"
+          }
+        },
+        {
+          "en": "Villagers rebelled when the mine polluted the local river again.",
+          "highlight": [
+            "rebelled"
+          ],
+          "translations": {
+            "zh-TW": "礦場再次污染這條河時，村民起來反抗了。"
+          }
+        },
+        {
+          "en": "By rebelling against the new dress code, commuters kept their right to wear casual clothes.",
+          "highlight": [
+            "rebelling"
+          ],
+          "translations": {
+            "zh-TW": "通勤族透過抵制新服儀規定，保住了穿著便服的權利。"
+          }
+        }
+      ],
+      "synonyms": [
+        "insurgent",
+        "mutineer",
+        "dissenter"
+      ],
+      "antonyms": [
+        "loyalist"
+      ],
+      "phrases": [
+        "rebel group",
+        "rebel forces",
+        "rebel leader",
+        "rebel against"
+      ]
     },
     {
       "id": "B2-452-002",
@@ -39,23 +83,65 @@
       "word": "fluid",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "fluids"
+        "plural": "fluids",
+        "comparative": "more fluid",
+        "superlative": "most fluid"
       },
-      "domain": "general",
+      "domain": "science",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "fluid",
-          "definition": "n. 液体, 分泌液, 流体, a. 流動的, 可改变的"
+          "definition": "n. 流體、液體  adj. 流動的、易變的、不固定的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Brake fluid leaks caused several recalls across the model lineup.",
+          "highlight": [
+            "fluid"
+          ],
+          "translations": {
+            "zh-TW": "煞車油外漏導致整個車系好幾次召回檢修。"
+          }
+        },
+        {
+          "en": "A more fluid schedule lets parents pick up their kids without missing work.",
+          "highlight": [
+            "fluid"
+          ],
+          "translations": {
+            "zh-TW": "更彈性的排班讓家長接小孩時不必耽誤工作。"
+          }
+        },
+        {
+          "en": "Several cooling fluids in electric cars have to meet stricter safety standards now.",
+          "highlight": [
+            "fluids"
+          ],
+          "translations": {
+            "zh-TW": "電動車的幾種冷卻液現在必須符合更嚴格的安全標準。"
+          }
+        }
+      ],
+      "synonyms": [
+        "liquid",
+        "juice",
+        "solution"
+      ],
+      "antonyms": [
+        "solid"
+      ],
+      "phrases": [
+        "brake fluid",
+        "body fluid",
+        "fluid intake",
+        "fluid motion"
+      ]
     },
     {
       "id": "B2-452-003",
@@ -66,23 +152,63 @@
       "word": "theoretical",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "theoreticals"
+        "comparative": "more theoretical",
+        "superlative": "most theoretical"
       },
-      "domain": "general",
+      "domain": "science",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "theoretical",
-          "definition": "a. 理论的, 理论上的, 假設的, 推理的, [計] 理论的"
+          "definition": "adj. 理論的、理論上的；假設的、推理的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Far beyond a theoretical exercise, the policy actually cut traffic deaths.",
+          "highlight": [
+            "theoretical"
+          ],
+          "translations": {
+            "zh-TW": "這項政策絕非紙上作業，實際上降低了交通事故死亡率。"
+          }
+        },
+        {
+          "en": "A more theoretical approach to the model explained the anomaly at extreme pressures.",
+          "highlight": [
+            "theoretical"
+          ],
+          "translations": {
+            "zh-TW": "更貼近理論的建模方式解釋了在高壓下的異常現象。"
+          }
+        },
+        {
+          "en": "Several theoretical predictions in physics take decades before bench-top confirmation.",
+          "highlight": [
+            "theoretical"
+          ],
+          "translations": {
+            "zh-TW": "物理學中好幾個理論預測要等上數十年才在實驗台得到驗證。"
+          }
+        }
+      ],
+      "synonyms": [
+        "abstract",
+        "hypothetical",
+        "speculative"
+      ],
+      "antonyms": [
+        "empirical"
+      ],
+      "phrases": [
+        "theoretical framework",
+        "theoretical physics",
+        "maximum theoretical yield",
+        "theoretical model"
+      ]
     },
     {
       "id": "B2-452-004",
@@ -95,21 +221,54 @@
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "sodiums"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "chemistry",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sodium",
-          "definition": "n. 钠, [化] 钠Na"
+          "definition": "n. 鈉（不可數化學元素；亦用於 sodium chloride 食鹽等複合名）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Excess sodium in the new soup line drew a protest from the heart-health charity.",
+          "highlight": [
+            "sodium"
+          ],
+          "translations": {
+            "zh-TW": "新湯品系列的鈉含量超標，引發心血管健康慈善團體抗議。"
+          }
+        },
+        {
+          "en": "Several street lamps still rely on sodium bulbs that cast a weird orange hue.",
+          "highlight": [
+            "sodium"
+          ],
+          "translations": {
+            "zh-TW": "幾盞路燈仍使用鈉燈泡，發出一種奇異的橘色光。"
+          }
+        },
+        {
+          "en": "Because sodium reacts strongly with water, lab assistants keep it stored under oil.",
+          "highlight": [
+            "sodium"
+          ],
+          "translations": {
+            "zh-TW": "因為鈉與水反應劇烈，實驗室助理把它存放在油中。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Na"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "sodium chloride",
+        "sodium bicarbonate",
+        "sodium light",
+        "low-sodium diet"
+      ]
     },
     {
       "id": "B2-452-005",
@@ -125,18 +284,53 @@
       "conjugations": {
         "plural": "foreheads"
       },
-      "domain": "general",
+      "domain": "anatomy",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "forehead",
-          "definition": "n. 額, 前額, 前部, [醫] 額"
+          "definition": "n. 額頭、前額；前部"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "A long sleep left an imprint across her forehead from the pillow seam.",
+          "highlight": [
+            "forehead"
+          ],
+          "translations": {
+            "zh-TW": "睡了很久讓她額頭上留下了枕頭縫線的壓痕。"
+          }
+        },
+        {
+          "en": "Several sweat-drenched foreheads dotted the marathon's final kilometre.",
+          "highlight": [
+            "foreheads"
+          ],
+          "translations": {
+            "zh-TW": "馬拉松最後一公里，幾個滿頭大汗的額頭在終點線出現。"
+          }
+        },
+        {
+          "en": "Because her forehead had been bruised, the paramedic checked for any dizziness.",
+          "highlight": [
+            "forehead"
+          ],
+          "translations": {
+            "zh-TW": "因為她額頭撞出瘀青，救護員順便檢查她會不會頭暈。"
+          }
+        }
+      ],
+      "synonyms": [
+        "brow"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "slap forehead",
+        "forehead kiss",
+        "wrinkled forehead",
+        "high forehead"
+      ]
     },
     {
       "id": "B2-452-006",
@@ -147,23 +341,67 @@
       "word": "rebuild",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "rebuilds"
+        "plural": "rebuilds",
+        "present_3rd": "rebuilt",
+        "past": "rebuilt",
+        "past_participle": "rebuilt",
+        "ing": "rebuilding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "rebuild",
-          "definition": "vt. 改建, 重建, 改造, vi. 重建"
+          "definition": "n. 重建、改建  v. 重建、改建；恢復"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A full rebuild of the engine was cheaper than a replacement.",
+          "highlight": [
+            "rebuild"
+          ],
+          "translations": {
+            "zh-TW": "引擎大修比換新還划算。"
+          }
+        },
+        {
+          "en": "The city rebuilt several older districts after the worst floods in a century.",
+          "highlight": [
+            "rebuilt"
+          ],
+          "translations": {
+            "zh-TW": "世紀最嚴重的洪水過後，市政府重建了幾個老舊區。"
+          }
+        },
+        {
+          "en": "By rebuilding the brand from scratch, the founders escaped the shadow of past scandals.",
+          "highlight": [
+            "rebuilding"
+          ],
+          "translations": {
+            "zh-TW": "創辦人從零開始重塑品牌，走出過往醜聞的陰影。"
+          }
+        }
+      ],
+      "synonyms": [
+        "restore",
+        "renovate",
+        "reconstruct"
+      ],
+      "antonyms": [
+        "demolish"
+      ],
+      "phrases": [
+        "rebuild trust",
+        "rebuild engine",
+        "rebuild a brand",
+        "full rebuild"
+      ]
     },
     {
       "id": "B2-452-007",
@@ -174,23 +412,67 @@
       "word": "bounce",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "bounces"
+        "plural": "bounces",
+        "present_3rd": "bounces",
+        "past": "bounced",
+        "past_participle": "bounced",
+        "ing": "bouncing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bounce",
-          "definition": "n. 跳, 跳跃, 弹力, 撞击, vi. 反跳, 弹跳, vt. 使跳回, 撞击, [計] 打回"
+          "definition": "n. 彈跳、彈力  v. 彈跳、彈回、反跳"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "An early morning bounce in ticket sales showed demand hadn't faded.",
+          "highlight": [
+            "bounce"
+          ],
+          "translations": {
+            "zh-TW": "大清早一陣票 sales 彈升顯示買氣沒有消退。"
+          }
+        },
+        {
+          "en": "Surplus inventory bounced from one warehouse to another until year-end clearance.",
+          "highlight": [
+            "bounced"
+          ],
+          "translations": {
+            "zh-TW": "過剩庫存在各個倉庫間彈來彈去，直到年底清倉才消化掉。"
+          }
+        },
+        {
+          "en": "By bouncing back from a poor quarter, the supplier posted a record December.",
+          "highlight": [
+            "bouncing"
+          ],
+          "translations": {
+            "zh-TW": "供應商從一個慘澹季度反彈回來，在十二月寫下新高紀錄。"
+          }
+        }
+      ],
+      "synonyms": [
+        "rebound",
+        "spring",
+        "ricochet"
+      ],
+      "antonyms": [
+        "stick"
+      ],
+      "phrases": [
+        "bounce back",
+        "bounce check",
+        "bounce ideas around",
+        "bounce rate"
+      ]
     },
     {
       "id": "B2-452-008",
@@ -206,18 +488,57 @@
       "conjugations": {
         "plural": "compensations"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "compensation",
-          "definition": "n. 补偿, 赔偿金, 工资, [醫] 代偿(機能), 补偿"
+          "definition": "n. 補償、賠償；報酬、薪水；代償"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Because compensation has stalled, several department heads are rumoured to leave.",
+          "highlight": [
+            "compensation"
+          ],
+          "translations": {
+            "zh-TW": "因為薪資談判停滯，傳聞幾位主管打算離職。"
+          }
+        },
+        {
+          "en": "Several top executives renegotiated compensation packages after the stock slump.",
+          "highlight": [
+            "compensation"
+          ],
+          "translations": {
+            "zh-TW": "股價下跌後，幾位高階主管重新談判了薪酬方案。"
+          }
+        },
+        {
+          "en": "Two compensations soften the new tax burden: longer maternity leave and family bonuses.",
+          "highlight": [
+            "compensations"
+          ],
+          "translations": {
+            "zh-TW": "新的稅務負擔得到兩個補償緩和：更長的產假和育兒津貼。"
+          }
+        }
+      ],
+      "synonyms": [
+        "reimbursement",
+        "remuneration",
+        "reparation"
+      ],
+      "antonyms": [
+        "forfeiture"
+      ],
+      "phrases": [
+        "workers compensation",
+        "compensation package",
+        "monetary compensation",
+        "fair compensation"
+      ]
     },
     {
       "id": "B2-452-009",
@@ -228,23 +549,65 @@
       "word": "dedicate",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "dedicates"
+        "present_3rd": "dedicates",
+        "past": "dedicated",
+        "past_participle": "dedicated",
+        "ing": "dedicating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dedicate",
-          "definition": "vt. 献出, 贡献"
+          "definition": "v. 獻身、奉獻；題獻（著作）；專供...之用"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several staff members dedicate one afternoon a week to volunteer work.",
+          "highlight": [
+            "dedicate"
+          ],
+          "translations": {
+            "zh-TW": "好幾位員工每週撥出一個下午去做志工。"
+          }
+        },
+        {
+          "en": "The author dedicated her newest novel to her grandmother's recipes.",
+          "highlight": [
+            "dedicated"
+          ],
+          "translations": {
+            "zh-TW": "作者把她最新一本小說題獻給外婆留下的食譜。"
+          }
+        },
+        {
+          "en": "By dedicating the second floor to study rooms, the library reused space without expanding.",
+          "highlight": [
+            "dedicating"
+          ],
+          "translations": {
+            "zh-TW": "圖書館把二樓專門改為閱覽室，在不擴建的前提下重新利用了空間。"
+          }
+        }
+      ],
+      "synonyms": [
+        "devote",
+        "consecrate",
+        "commit"
+      ],
+      "antonyms": [
+        "abandon"
+      ],
+      "phrases": [
+        "dedicate time",
+        "dedicate to",
+        "self-dedicated",
+        "dedicated server"
+      ]
     },
     {
       "id": "B2-452-010",
@@ -255,7 +618,8 @@
       "word": "pickup",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "pickups"
@@ -265,14 +629,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "pickup",
-          "definition": "n. 拾起, 加速, 刺激, 猎物的收集, 好轉, 恢复健康, 搭車者, 興奋劑, 電視摄像, [電] 拾音器"
+          "definition": "n. 拾起、撿起；搭乘客；皮卡貨車；恢復、好轉"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A noticeable pickup in foot traffic followed the new bakery's launch.",
+          "highlight": [
+            "pickup"
+          ],
+          "translations": {
+            "zh-TW": "新麵包店開張後，可以明顯感受到人潮回升。"
+          }
+        },
+        {
+          "en": "Several pickups waited outside the warehouse for early-morning deliveries.",
+          "highlight": [
+            "pickups"
+          ],
+          "translations": {
+            "zh-TW": "好幾輛皮卡在倉庫外頭等著大清早送貨。"
+          }
+        },
+        {
+          "en": "Because pickup fees were folded into the fare, riders stopped seeing surprise add-ons.",
+          "highlight": [
+            "pickup"
+          ],
+          "translations": {
+            "zh-TW": "因為接單費已併入票價，乘客不再看到莫名其妙的加價。"
+          }
+        }
+      ],
+      "synonyms": [
+        "collection",
+        "recovery",
+        "truck"
+      ],
+      "antonyms": [
+        "dropoff"
+      ],
+      "phrases": [
+        "pickup truck",
+        "pickup game",
+        "pickup line",
+        "curbside pickup"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
