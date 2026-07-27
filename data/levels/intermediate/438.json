@@ -12,23 +12,68 @@
       "word": "combat",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "combats"
+        "plural": "combats",
+        "present_3rd": "combats",
+        "past": "combated",
+        "past_participle": "combated",
+        "ing": "combating"
       },
-      "domain": "general",
+      "domain": "military",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "combat",
-          "definition": "n. 争斗, 战斗, vi. 战斗, 争斗, vt. 與...战斗, 與...斗争"
+          "definition": "n. 戰鬥、搏鬥  v. 對抗、打擊"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "New software helps security teams combat increasingly sophisticated ransomware.",
+          "highlight": [
+            "combat"
+          ],
+          "translations": {
+            "zh-TW": "新軟體協助安全團隊打擊日益精密的勒索軟體。"
+          }
+        },
+        {
+          "en": "Veterans of close combat often require years of psychological support.",
+          "highlight": [
+            "combat"
+          ],
+          "translations": {
+            "zh-TW": "近距離戰鬥的退伍軍人往往需要數年的心理支持。"
+          }
+        },
+        {
+          "en": "Public-health officials are combating a stubborn outbreak of whooping cough.",
+          "highlight": [
+            "combating"
+          ],
+          "translations": {
+            "zh-TW": "公共衛生官員正在對抗頑固的百日咳疫情。"
+          }
+        }
+      ],
+      "synonyms": [
+        "battle",
+        "fight",
+        "oppose"
+      ],
+      "antonyms": [
+        "surrender",
+        "yield"
+      ],
+      "phrases": [
+        "hand-to-hand combat",
+        "combat disease",
+        "combat soldier",
+        "combat mission"
+      ]
     },
     {
       "id": "B2-438-002",
@@ -39,23 +84,68 @@
       "word": "stem",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "stems"
+        "plural": "stems",
+        "present_3rd": "stems",
+        "past": "stemmed",
+        "past_participle": "stemmed",
+        "ing": "stemming"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "stem",
-          "definition": "n. 茎, 干, 柄, 船首, 血统, 堵塞物, vt. 摘掉茎, 裝柄于, 阻止, 堵住, 逆行, vi. 堵住, 逆行"
+          "definition": "n. 莖、柄、詞幹  v. 阻止、起源於"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Botanists study how the stem transports nutrients between roots and leaves.",
+          "highlight": [
+            "stem"
+          ],
+          "translations": {
+            "zh-TW": "植物學家研究莖如何在根部與葉片之間運送養分。"
+          }
+        },
+        {
+          "en": "Many English verb stems shift their inner vowels to form the past tense.",
+          "highlight": [
+            "stems"
+          ],
+          "translations": {
+            "zh-TW": "許多英語動詞詞幹透過內部母音變化來形成過去式。"
+          }
+        },
+        {
+          "en": "A new tariff policy helped stem the flood of cheap imports last spring.",
+          "highlight": [
+            "stem"
+          ],
+          "translations": {
+            "zh-TW": "新的關稅政策幫助遏制了去年春天廉價進口品的湧入。"
+          }
+        }
+      ],
+      "synonyms": [
+        "stalk",
+        "stop",
+        "originate"
+      ],
+      "antonyms": [
+        "encourage",
+        "spread"
+      ],
+      "phrases": [
+        "stem from",
+        "stem cell",
+        "stem the flow",
+        "plant stem"
+      ]
     },
     {
       "id": "B2-438-003",
@@ -71,18 +161,55 @@
       "conjugations": {
         "plural": "surgeons"
       },
-      "domain": "general",
+      "domain": "medicine",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "surgeon",
-          "definition": "n. 外科醫生, 军醫, 船醫, [醫] 外科醫師"
+          "definition": "n. 外科醫師、軍醫"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "An orthopedic surgeon repaired the athlete's torn ligament last Thursday.",
+          "highlight": [
+            "surgeon"
+          ],
+          "translations": {
+            "zh-TW": "一位骨科醫師上週四修復了運動員撕裂的韌帶。"
+          }
+        },
+        {
+          "en": "Standby surgeons at major hospitals rotate in twelve-hour shifts during holidays.",
+          "highlight": [
+            "surgeons"
+          ],
+          "translations": {
+            "zh-TW": "大型醫院的待命外科醫師在假期中輪值十二小時班。"
+          }
+        },
+        {
+          "en": "The trauma surgeon briefs families every two hours after a lengthy operation.",
+          "highlight": [
+            "surgeon"
+          ],
+          "translations": {
+            "zh-TW": "創傷外科醫師在漫長手術後每兩小時向家屬說明狀況。"
+          }
+        }
+      ],
+      "synonyms": [
+        "doctor",
+        "physician",
+        "operating doctor"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "surgeon general",
+        "general surgeon",
+        "plastic surgeon",
+        "trainee surgeon"
+      ]
     },
     {
       "id": "B2-438-004",
@@ -93,23 +220,66 @@
       "word": "rape",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "rapes"
+        "plural": "rapes",
+        "present_3rd": "rapes",
+        "past": "raped",
+        "past_participle": "raped",
+        "ing": "raping"
       },
-      "domain": "general",
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "rape",
-          "definition": "n. 抢夺, 掠夺, 强奸, 葡萄渣, 芸苔, vt. 掠夺, 抢夺, 强奸"
+          "definition": "n. 強暴、強姦  v. 強暴"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Strict new legislation defines marital rape as a criminal offense.",
+          "highlight": [
+            "rape"
+          ],
+          "translations": {
+            "zh-TW": "嚴格的新立法將婚內強姦定為刑事犯罪。"
+          }
+        },
+        {
+          "en": "Survivors of campus rapes often wait years before filing formal complaints.",
+          "highlight": [
+            "rapes"
+          ],
+          "translations": {
+            "zh-TW": "校園強暴的倖存者往往等上數年才提出正式申訴。"
+          }
+        },
+        {
+          "en": "Counselors support victims raped during armed conflicts, the aid agency reports.",
+          "highlight": [
+            "raped"
+          ],
+          "translations": {
+            "zh-TW": "援助機構報告，輔導員為武裝衝突期間遭強暴的受害者提供支持。"
+          }
+        }
+      ],
+      "synonyms": [
+        "assault",
+        "violation"
+      ],
+      "antonyms": [
+        "consent"
+      ],
+      "phrases": [
+        "rape victim",
+        "statutory rape",
+        "rape crisis center",
+        "rape allegation"
+      ]
     },
     {
       "id": "B2-438-005",
@@ -120,23 +290,67 @@
       "word": "counsel",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "counsels"
+        "plural": "counsels",
+        "present_3rd": "counsels",
+        "past": "counselled",
+        "past_participle": "counselled",
+        "ing": "counselling"
       },
-      "domain": "general",
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "counsel",
-          "definition": "n. 商議, 忠告, 法律顾问, v. 商議, 劝告"
+          "definition": "n. 忠告、法律顧問  v. 建議、輔導"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Defense counsel asked the judge for a brief recess before cross-examination.",
+          "highlight": [
+            "counsel"
+          ],
+          "translations": {
+            "zh-TW": "辯護律師請求法官在交叉詰問前短暫休庭。"
+          }
+        },
+        {
+          "en": "The committee counselled caution before signing any multi-year contract.",
+          "highlight": [
+            "counselled"
+          ],
+          "translations": {
+            "zh-TW": "委員會建議在簽署任何多年合約前要謹慎。"
+          }
+        },
+        {
+          "en": "Her mentor counselled patience when tight deadlines increased team stress.",
+          "highlight": [
+            "counselled"
+          ],
+          "translations": {
+            "zh-TW": "她的導師在緊迫的期限加劇團隊壓力時，建議保持耐心。"
+          }
+        }
+      ],
+      "synonyms": [
+        "advice",
+        "advise",
+        "lawyer"
+      ],
+      "antonyms": [
+        "ignore"
+      ],
+      "phrases": [
+        "legal counsel",
+        "general counsel",
+        "counsel for the defense",
+        "keep one's own counsel"
+      ]
     },
     {
       "id": "B2-438-006",
@@ -147,23 +361,68 @@
       "word": "echo",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "echos"
+        "plural": "echoes",
+        "present_3rd": "echoes",
+        "past": "echoed",
+        "past_participle": "echoed",
+        "ing": "echoing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "echo",
-          "definition": "n. 回声, 回音, 回波, vi. 發回声, 隨声附和, vt. 摹仿, 重复, 反射, [計] 回顯; DOS批處理命令:控制MS-DOS命令是否在屏幕上顯示"
+          "definition": "n. 回音  v. 迴響、附和"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Snow-capped peaks around the valley echo with the sound of church bells on Sundays.",
+          "highlight": [
+            "echo"
+          ],
+          "translations": {
+            "zh-TW": "週日時，山谷周圍的雪峰迴響著教堂鐘聲。"
+          }
+        },
+        {
+          "en": "Footsteps and distant echoes rang through the empty marble corridor.",
+          "highlight": [
+            "echoes"
+          ],
+          "translations": {
+            "zh-TW": "腳步聲與遠方的回音穿過空蕩的大理石走廊。"
+          }
+        },
+        {
+          "en": "Her opening remarks echoed the concerns raised by the union last month.",
+          "highlight": [
+            "echoed"
+          ],
+          "translations": {
+            "zh-TW": "她的開場致辭呼應了工會上個月提出的疑慮。"
+          }
+        }
+      ],
+      "synonyms": [
+        "resound",
+        "repeat",
+        "reflect"
+      ],
+      "antonyms": [
+        "differ",
+        "diverge"
+      ],
+      "phrases": [
+        "echo chamber",
+        "echo sounder",
+        "echo someone's words",
+        "find an echo"
+      ]
     },
     {
       "id": "B2-438-007",
@@ -174,23 +433,69 @@
       "word": "compound",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "compounds"
+        "plural": "compounds",
+        "present_3rd": "compounds",
+        "past": "compounded",
+        "past_participle": "compounded",
+        "ing": "compounding"
       },
-      "domain": "general",
+      "domain": "science",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "compound",
-          "definition": "n. 混合物, 复合词, 化合物, 院子, a. 复合的, 混合的, 化合的, vi. 化合, 和解, 妥协, vt. 使复合, 使化合"
+          "definition": "n. 化合物、複合詞、院落  v. 混合、加重  a. 複合的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Sulfuric acid is an industrial compound once heavily used in fertilizer production.",
+          "highlight": [
+            "compound"
+          ],
+          "translations": {
+            "zh-TW": "硫酸是一種工業化合物，曾廣泛用於肥料生產。"
+          }
+        },
+        {
+          "en": "Climate shocks compound the pressure on rural farmers every season.",
+          "highlight": [
+            "compound"
+          ],
+          "translations": {
+            "zh-TW": "每個季節，氣候衝擊都加重了農村農夫的壓力。"
+          }
+        },
+        {
+          "en": "High fees compounded daily can erode even a healthy investment portfolio.",
+          "highlight": [
+            "compounded"
+          ],
+          "translations": {
+            "zh-TW": "即使健全的投資組合也會被每天複利累積的高手續費侵蝕。"
+          }
+        }
+      ],
+      "synonyms": [
+        "mix",
+        "combine",
+        "blend"
+      ],
+      "antonyms": [
+        "separate",
+        "divide"
+      ],
+      "phrases": [
+        "compound interest",
+        "chemical compound",
+        "compound fracture",
+        "compound words"
+      ]
     },
     {
       "id": "B2-438-008",
@@ -201,23 +506,66 @@
       "word": "integrate",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "integrates"
+        "present_3rd": "integrates",
+        "past": "integrated",
+        "past_participle": "integrated",
+        "ing": "integrating"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "integrate",
-          "definition": "vt. 综合, 使完整, 使成整体, vi. 成一体, a. 完整的, 完全的"
+          "definition": "vt. 整合、使一體化、納入  vi. 融入"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The new platform integrates inventory, billing, and shipping into a single dashboard.",
+          "highlight": [
+            "integrates"
+          ],
+          "translations": {
+            "zh-TW": "新平台將庫存、帳務和出貨整合到單一儀表板中。"
+          }
+        },
+        {
+          "en": "Two years ago the railways integrated reservation systems across three nations.",
+          "highlight": [
+            "integrated"
+          ],
+          "translations": {
+            "zh-TW": "兩年前，鐵路公司將三個國家的訂位系統整合起來。"
+          }
+        },
+        {
+          "en": "By integrating user feedback, the team cut churn rate almost in half.",
+          "highlight": [
+            "integrating"
+          ],
+          "translations": {
+            "zh-TW": "團隊透過整合使用者回饋，將客戶流失率幾乎砍半。"
+          }
+        }
+      ],
+      "synonyms": [
+        "incorporate",
+        "combine",
+        "unify"
+      ],
+      "antonyms": [
+        "separate",
+        "isolate"
+      ],
+      "phrases": [
+        "integrate with",
+        "integrate into",
+        "fully integrated",
+        "integrate data"
+      ]
     },
     {
       "id": "B2-438-009",
@@ -228,23 +576,70 @@
       "word": "bare",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "verb"
       ],
       "conjugations": {
-        "plural": "bares"
+        "plural": "bares",
+        "present_3rd": "bares",
+        "past": "bared",
+        "past_participle": "bared",
+        "ing": "baring",
+        "comparative": "barer",
+        "superlative": "barest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bare",
-          "definition": "a. 赤裸的, 缺少的, 无遮蔽的, 坦率的, vt. 使赤裸, 露出"
+          "definition": "a. 赤裸的、光禿的、勉強的  vt. 露出、揭開"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The review panel found bare walls and empty shelves in the shuttered warehouse.",
+          "highlight": [
+            "bare"
+          ],
+          "translations": {
+            "zh-TW": "審查小組在歇業的倉庫裡發現了光禿的牆面和空蕩的貨架。"
+          }
+        },
+        {
+          "en": "With barer budgets this year, libraries cut back on new magazine subscriptions.",
+          "highlight": [
+            "barer"
+          ],
+          "translations": {
+            "zh-TW": "今年預算更為拮据，圖書館縮減了新雜誌的訂閱。"
+          }
+        },
+        {
+          "en": "Cats bare their teeth when startled by sudden movements nearby.",
+          "highlight": [
+            "bare"
+          ],
+          "translations": {
+            "zh-TW": "貓被附近突然的動作驚嚇時會露出牙齒。"
+          }
+        }
+      ],
+      "synonyms": [
+        "naked",
+        "exposed",
+        "mere"
+      ],
+      "antonyms": [
+        "covered",
+        "clothed"
+      ],
+      "phrases": [
+        "bare hands",
+        "bare minimum",
+        "bare facts",
+        "lay bare"
+      ]
     },
     {
       "id": "B2-438-010",
@@ -260,19 +655,54 @@
       "conjugations": {
         "plural": "presidencies"
       },
-      "domain": "general",
+      "domain": "politics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "presidency",
-          "definition": "n. 總统职权, 總裁职位"
+          "definition": "n. 總統職位、主席職位、任期"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Commentators describe her presidency as a turning point for women in politics.",
+          "highlight": [
+            "presidency"
+          ],
+          "translations": {
+            "zh-TW": "評論家將她的總統任期視為女性從政的轉捩點。"
+          }
+        },
+        {
+          "en": "Earlier presidencies rarely faced such sustained public scrutiny, historians argue.",
+          "highlight": [
+            "presidencies"
+          ],
+          "translations": {
+            "zh-TW": "歷史學家指出，早期的總統任期鮮少面臨如此持續的公眾檢視。"
+          }
+        },
+        {
+          "en": "During his presidency, the country signed thirteen bilateral trade agreements.",
+          "highlight": [
+            "presidency"
+          ],
+          "translations": {
+            "zh-TW": "在他任期內，該國簽署了十三項雙邊貿易協定。"
+          }
+        }
+      ],
+      "synonyms": [
+        "term of office",
+        "administration"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "run for the presidency",
+        "assume the presidency",
+        "during one's presidency",
+        "council presidency"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
