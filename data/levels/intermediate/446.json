@@ -1,7 +1,7 @@
 {
+  "cefr": "B2",
   "level": 446,
   "tier": "intermediate",
-  "cefr": "B2",
   "words": [
     {
       "id": "B2-446-001",
@@ -12,23 +12,67 @@
       "word": "pond",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "ponds"
+        "plural": "ponds",
+        "present_3rd": "ponds",
+        "past": "ponded",
+        "past_participle": "ponded",
+        "ing": "ponding"
       },
-      "domain": "general",
+      "domain": "nature",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pond",
-          "definition": "n. 池塘, v. 筑成池塘"
+          "definition": "n. 池塘、水塘  v. 築成池塘、蓄水成池"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several ducks were swimming in the pond behind the farmhouse.",
+          "highlight": [
+            "pond"
+          ],
+          "translations": {
+            "zh-TW": "幾隻鴨子在農舍後方的池塘裡游來游去。"
+          }
+        },
+        {
+          "en": "Heavy rain ponded water across the road, slowing traffic to a crawl.",
+          "highlight": [
+            "ponded"
+          ],
+          "translations": {
+            "zh-TW": "大雨讓水積聚在馬路上，車流慢得像爬行。"
+          }
+        },
+        {
+          "en": "The old village grew around two small ponds that never dried up.",
+          "highlight": [
+            "ponds"
+          ],
+          "translations": {
+            "zh-TW": "這座老村落圍繞著兩座從不乾涸的小池塘而發展起來。"
+          }
+        }
+      ],
+      "synonyms": [
+        "pool",
+        "lakelet",
+        "tarn"
+      ],
+      "antonyms": [
+        "desert"
+      ],
+      "phrases": [
+        "fish pond",
+        "reflecting pond",
+        "pond water",
+        "duck pond"
+      ]
     },
     {
       "id": "B2-446-002",
@@ -44,18 +88,57 @@
       "conjugations": {
         "plural": "domains"
       },
-      "domain": "general",
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "domain",
-          "definition": "n. 領域, 領土, 產業, 范圍, [計] 域, 區域, 支配命令"
+          "definition": "n. 領域、範疇；網域名稱；產業版圖"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Customer data security falls within the domain of the IT department.",
+          "highlight": [
+            "domain"
+          ],
+          "translations": {
+            "zh-TW": "客戶資料安全歸屬於資訊部門的職責範疇。"
+          }
+        },
+        {
+          "en": "Several failed domains meant she had to register a new website address.",
+          "highlight": [
+            "domains"
+          ],
+          "translations": {
+            "zh-TW": "幾個失效的網域名稱意味著她必須重新註冊一個新網址。"
+          }
+        },
+        {
+          "en": "The public domain lets anyone freely reuse these classic paintings.",
+          "highlight": [
+            "domain"
+          ],
+          "translations": {
+            "zh-TW": "公共領域讓任何人都可以自由重用這些經典畫作。"
+          }
+        }
+      ],
+      "synonyms": [
+        "realm",
+        "field",
+        "sphere"
+      ],
+      "antonyms": [
+        "void"
+      ],
+      "phrases": [
+        "domain name",
+        "public domain",
+        "eminent domain",
+        "core domain"
+      ]
     },
     {
       "id": "B2-446-003",
@@ -68,21 +151,58 @@
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "guilts"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "guilt",
-          "definition": "n. 罪行, 內疚, [法] 罪, 犯罪, 罪行"
+          "definition": "n. 罪行、有罪；內疚、自責；罪責感"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The defendant admitted guilt before the court could even read the charges.",
+          "highlight": [
+            "guilt"
+          ],
+          "translations": {
+            "zh-TW": "被告在法庭還沒宣讀罪名之前就承認了罪行。"
+          }
+        },
+        {
+          "en": "Survivor guilt haunted the firefighter for years after the rescue.",
+          "highlight": [
+            "guilt"
+          ],
+          "translations": {
+            "zh-TW": "那次救援之後，倖存者內疚苦苦糾纏了這名消防員好多年。"
+          }
+        },
+        {
+          "en": "Her guilt over the broken vase faded once her mother forgave her.",
+          "highlight": [
+            "guilt"
+          ],
+          "translations": {
+            "zh-TW": "母親原諒她之後，她對摔破花瓶的內疚就漸漸淡去了。"
+          }
+        }
+      ],
+      "synonyms": [
+        "blame",
+        "fault",
+        "culpability"
+      ],
+      "antonyms": [
+        "innocence"
+      ],
+      "phrases": [
+        "guilt trip",
+        "guilt by association",
+        "sense of guilt",
+        "admit guilt"
+      ]
     },
     {
       "id": "B2-446-004",
@@ -95,21 +215,56 @@
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "cattles"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "agriculture",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cattle",
-          "definition": "n. 牛, 家畜, [法] 家畜"
+          "definition": "n. 牛群、家畜（總稱，不可數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The rancher moved the cattle to higher ground before the flood.",
+          "highlight": [
+            "cattle"
+          ],
+          "translations": {
+            "zh-TW": "牧場主人在洪水來襲前把牛群趕往地勢較高的地方。"
+          }
+        },
+        {
+          "en": "Dairy cattle outnumber beef cattle on most modern farms in this region.",
+          "highlight": [
+            "cattle"
+          ],
+          "translations": {
+            "zh-TW": "在這個地區的大多數現代農場裡，乳牛的數量多於肉牛。"
+          }
+        },
+        {
+          "en": "New export rules disrupted cattle trade between the two countries last year.",
+          "highlight": [
+            "cattle"
+          ],
+          "translations": {
+            "zh-TW": "新的出口規定去年打亂了兩國之間的牛隻貿易。"
+          }
+        }
+      ],
+      "synonyms": [
+        "livestock",
+        "cows",
+        "bovines"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "cattle ranch",
+        "dairy cattle",
+        "cattle drive",
+        "cattle prod"
+      ]
     },
     {
       "id": "B2-446-005",
@@ -120,23 +275,61 @@
       "word": "walking",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "walkings"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "health",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "walking",
-          "definition": "n. 步行, 步态, a. 步行的, 步行用的"
+          "definition": "n. 步行、走路  adj. 步行的、行走用的、活的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Brisk walking for thirty minutes a day helps reduce stress.",
+          "highlight": [
+            "walking"
+          ],
+          "translations": {
+            "zh-TW": "每天快走三十分鐘有助於減輕壓力。"
+          }
+        },
+        {
+          "en": "A walking tour of old Taipei let us see the alleys up close.",
+          "highlight": [
+            "walking"
+          ],
+          "translations": {
+            "zh-TW": "一趟老台北的徒步導覽讓我們近距離看見這些巷弄。"
+          }
+        },
+        {
+          "en": "He is a walking encyclopedia when it comes to Taiwan railway history.",
+          "highlight": [
+            "walking"
+          ],
+          "translations": {
+            "zh-TW": "提到台灣鐵道歷史，他根本就是一本會走路的百科全書。"
+          }
+        }
+      ],
+      "synonyms": [
+        "strolling",
+        "hiking",
+        "ambulating"
+      ],
+      "antonyms": [
+        "driving"
+      ],
+      "phrases": [
+        "walking distance",
+        "walking tour",
+        "walking stick",
+        "walking shoes"
+      ]
     },
     {
       "id": "B2-446-006",
@@ -152,18 +345,57 @@
       "conjugations": {
         "plural": "playoffs"
       },
-      "domain": "general",
+      "domain": "sports",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "playoff",
-          "definition": "n. 双方得分相等時的最後决赛；复赛；季後赛"
+          "definition": "n. 季後賽、決賽；同分淘汰賽"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The team's first home playoff sold out every seat in minutes.",
+          "highlight": [
+            "playoff"
+          ],
+          "translations": {
+            "zh-TW": "球隊的第一場主場季後賽在幾分鐘內就賣光了所有座位。"
+          }
+        },
+        {
+          "en": "Recent playoffs have drawn larger TV audiences than the regular season.",
+          "highlight": [
+            "playoffs"
+          ],
+          "translations": {
+            "zh-TW": "近年來季後賽的電視收視觀眾比例行賽還多。"
+          }
+        },
+        {
+          "en": "A late-season injury kept their star point guard out of the entire playoff.",
+          "highlight": [
+            "playoff"
+          ],
+          "translations": {
+            "zh-TW": "球季尾聲的傷勢讓他們的明星控球後衛缺席了整個季後賽。"
+          }
+        }
+      ],
+      "synonyms": [
+        "finals",
+        "decider",
+        "tiebreaker"
+      ],
+      "antonyms": [
+        "regular season"
+      ],
+      "phrases": [
+        "playoff series",
+        "playoff spot",
+        "playoff beard",
+        "make the playoffs"
+      ]
     },
     {
       "id": "B2-446-007",
@@ -179,18 +411,55 @@
       "conjugations": {
         "plural": "databases"
       },
-      "domain": "general",
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "database",
-          "definition": "n. 数据库, [計] 数据库"
+          "definition": "n. 資料庫、資料庫系統"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Backup scripts run every night to protect the main customer database.",
+          "highlight": [
+            "database"
+          ],
+          "translations": {
+            "zh-TW": "備份腳本每晚執行，保護主要的客戶資料庫。"
+          }
+        },
+        {
+          "en": "Sales reports from last month showed two duplicate databases wasting storage.",
+          "highlight": [
+            "databases"
+          ],
+          "translations": {
+            "zh-TW": "上個月的銷售報告顯示，兩個重複的資料庫浪費了儲存空間。"
+          }
+        },
+        {
+          "en": "Before migrating a legacy database, the engineers profiled every slow query.",
+          "highlight": [
+            "database"
+          ],
+          "translations": {
+            "zh-TW": "在遷移舊型資料庫之前，工程師逐一分析了每個緩慢的查詢。"
+          }
+        }
+      ],
+      "synonyms": [
+        "data store",
+        "repository",
+        "archive"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "database management",
+        "relational database",
+        "database query",
+        "database schema"
+      ]
     },
     {
       "id": "B2-446-008",
@@ -201,23 +470,65 @@
       "word": "execute",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "executes"
+        "present_3rd": "executes",
+        "past": "executed",
+        "past_participle": "executed",
+        "ing": "executing"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "execute",
-          "definition": "vt. 執行, 實行, 完成, 處死, 制成, [計] 執行"
+          "definition": "v. 執行、實行；完成（計畫）；處決（死刑）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The contractor will execute the renovation plan on schedule.",
+          "highlight": [
+            "execute"
+          ],
+          "translations": {
+            "zh-TW": "承包商會按照進度執行翻修計畫。"
+          }
+        },
+        {
+          "en": "The team executed a flawless product launch without a single outage.",
+          "highlight": [
+            "executed"
+          ],
+          "translations": {
+            "zh-TW": "團隊完成了一次完美無瑕的產品發表，沒有任何一次服務中斷。"
+          }
+        },
+        {
+          "en": "By executing every step of the recipe carefully, she won the local baking contest.",
+          "highlight": [
+            "executing"
+          ],
+          "translations": {
+            "zh-TW": "她仔細執行食譜的每個步驟，因而贏得地方烘焙大賽。"
+          }
+        }
+      ],
+      "synonyms": [
+        "perform",
+        "carry out",
+        "implement"
+      ],
+      "antonyms": [
+        "neglect"
+      ],
+      "phrases": [
+        "execute a plan",
+        "execute a trade",
+        "execute an order",
+        "execute a contract"
+      ]
     },
     {
       "id": "B2-446-009",
@@ -228,23 +539,67 @@
       "word": "limb",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "limbs"
+        "plural": "limbs",
+        "present_3rd": "limbs",
+        "past": "limbed",
+        "past_participle": "limbed",
+        "ing": "limbing"
       },
-      "domain": "general",
+      "domain": "anatomy",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "limb",
-          "definition": "n. 四肢, 枝干, 翼, 边缘, vt. 切断...之手足"
+          "definition": "n. 肢、四肢；樹枝  v. 切斷手腳、截肢"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The accident left her with severe pain in her left limb.",
+          "highlight": [
+            "limb"
+          ],
+          "translations": {
+            "zh-TW": "那場意外讓她左肢留下劇痛。"
+          }
+        },
+        {
+          "en": "Frostbite can damage every limb if mountain climbers are not dressed warm enough.",
+          "highlight": [
+            "limb"
+          ],
+          "translations": {
+            "zh-TW": "如果登山者穿得不夠暖，凍瘡可能會傷到每一個肢體。"
+          }
+        },
+        {
+          "en": "Surgeons removed several lower limbs damaged beyond repair by the blast.",
+          "highlight": [
+            "limbs"
+          ],
+          "translations": {
+            "zh-TW": "外科醫師移除數條在爆炸中被破壞到無法修復的下肢。"
+          }
+        }
+      ],
+      "synonyms": [
+        "arm",
+        "leg",
+        "branch"
+      ],
+      "antonyms": [
+        "torso"
+      ],
+      "phrases": [
+        "out on a limb",
+        "lower limb",
+        "limb length",
+        "limb loss"
+      ]
     },
     {
       "id": "B2-446-010",
@@ -260,19 +615,57 @@
       "conjugations": {
         "plural": "ideologies"
       },
-      "domain": "general",
+      "domain": "politics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "ideology",
-          "definition": "n. 思想体系, 意识形态, 觀念學, 空论, [醫] 觀念學, 觀念形态"
+          "definition": "n. 意識形態、思想體系；觀念學"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The party's core ideology centers on economic fairness and social mobility.",
+          "highlight": [
+            "ideology"
+          ],
+          "translations": {
+            "zh-TW": "這個政黨的核心意識形態圍繞著經濟公平與社會流動。"
+          }
+        },
+        {
+          "en": "Recent elections saw competing ideologies clash over climate policy.",
+          "highlight": [
+            "ideologies"
+          ],
+          "translations": {
+            "zh-TW": "在近幾次選舉中，相互競爭的意識形態在氣候政策上發生衝突。"
+          }
+        },
+        {
+          "en": "Studying Cold War ideology helps students understand post-war global history.",
+          "highlight": [
+            "ideology"
+          ],
+          "translations": {
+            "zh-TW": "研究冷戰時期的意識形態有助於學生理解戰後的全球歷史。"
+          }
+        }
+      ],
+      "synonyms": [
+        "doctrine",
+        "belief system",
+        "creed"
+      ],
+      "antonyms": [
+        "pragmatism"
+      ],
+      "phrases": [
+        "political ideology",
+        "party ideology",
+        "ideological struggle",
+        "core ideology"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }

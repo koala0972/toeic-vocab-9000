@@ -1,7 +1,7 @@
 {
+  "cefr": "B2",
   "level": 448,
   "tier": "intermediate",
-  "cefr": "B2",
   "words": [
     {
       "id": "B2-448-001",
@@ -12,23 +12,65 @@
       "word": "indigenous",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
       "conjugations": {
-        "plural": "indigenouses"
+        "plural": "indigenous",
+        "comparative": "more indigenous",
+        "superlative": "most indigenous"
       },
-      "domain": "general",
+      "domain": "society",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "indigenous",
-          "definition": "a. 本土的, 國產的, 固有的, [醫] 原產的, 本土的"
+          "definition": "adj. 原住的、本土的、固有的  n. 原住民"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several indigenous languages are still spoken in the mountainous east of the island.",
+          "highlight": [
+            "indigenous"
+          ],
+          "translations": {
+            "zh-TW": "島上東部山區仍然有人說好幾種原住民語言。"
+          }
+        },
+        {
+          "en": "A more indigenous approach to farming revived some nearly forgotten rice varieties.",
+          "highlight": [
+            "indigenous"
+          ],
+          "translations": {
+            "zh-TW": "更貼近本土的耕作方式讓幾個瀕臨失傳的稻米品種重新出現。"
+          }
+        },
+        {
+          "en": "Policies protecting indigenous land rights drew praise from international observers.",
+          "highlight": [
+            "indigenous"
+          ],
+          "translations": {
+            "zh-TW": "保護原住民土地權利的政策獲得國際觀察家讚揚。"
+          }
+        }
+      ],
+      "synonyms": [
+        "native",
+        "aboriginal",
+        "endemic"
+      ],
+      "antonyms": [
+        "foreign"
+      ],
+      "phrases": [
+        "indigenous people",
+        "indigenous culture",
+        "indigenous language",
+        "indigenous knowledge"
+      ]
     },
     {
       "id": "B2-448-002",
@@ -39,23 +81,67 @@
       "word": "convict",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "convicts"
+        "plural": "convicts",
+        "present_3rd": "convicts",
+        "past": "convicted",
+        "past_participle": "convicted",
+        "ing": "convicting"
       },
-      "domain": "general",
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "convict",
-          "definition": "n. 囚犯, 罪犯, vt. 宣告有罪, 使知罪"
+          "definition": "n. 囚犯、罪犯  v. 宣告有罪、定罪"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several former convicts re-entered the workforce through a state-sponsored training scheme.",
+          "highlight": [
+            "convicts"
+          ],
+          "translations": {
+            "zh-TW": "幾位更生人透過一個政府資助的培訓計畫重返職場。"
+          }
+        },
+        {
+          "en": "The jury convicted the executive on three counts of fraud after weeks of testimony.",
+          "highlight": [
+            "convicted"
+          ],
+          "translations": {
+            "zh-TW": "陪審團經過數週作證後，依三項詐欺罪名判這位高管有罪。"
+          }
+        },
+        {
+          "en": "By convicting high-profile offenders, the anti-corruption unit tried to set a clear example.",
+          "highlight": [
+            "convicting"
+          ],
+          "translations": {
+            "zh-TW": "藉由判處具知名度的違法者有罪，反貪小組試圖樹立明確的範例。"
+          }
+        }
+      ],
+      "synonyms": [
+        "prisoner",
+        "inmate",
+        "felon"
+      ],
+      "antonyms": [
+        "acquittal"
+      ],
+      "phrases": [
+        "convict labor",
+        "wrongful conviction",
+        "paroled convict",
+        "convict colony"
+      ]
     },
     {
       "id": "B2-448-003",
@@ -66,23 +152,63 @@
       "word": "civilian",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "civilians"
       },
-      "domain": "general",
+      "domain": "military",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "civilian",
-          "definition": "n. 平民, 民法專家, a. 平民的, 百姓的, 民用的"
+          "definition": "n. 平民、百姓  adj. 平民的、民用的、非軍事的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several civilians were injured during the crossfire near the market.",
+          "highlight": [
+            "civilians"
+          ],
+          "translations": {
+            "zh-TW": "市場附近的交火中有幾名平民受傷。"
+          }
+        },
+        {
+          "en": "The new transport plane is marketed for civilian use, not just military operations.",
+          "highlight": [
+            "civilian"
+          ],
+          "translations": {
+            "zh-TW": "這款新式運輸機主打民用市場，不只賣給軍方。"
+          }
+        },
+        {
+          "en": "Every civilian casualty in the conflict drew condemnation from both sides.",
+          "highlight": [
+            "civilian"
+          ],
+          "translations": {
+            "zh-TW": "衝突中每一起平民傷亡都遭到雙方譴責。"
+          }
+        }
+      ],
+      "synonyms": [
+        "noncombatant",
+        "citizen",
+        "layperson"
+      ],
+      "antonyms": [
+        "military"
+      ],
+      "phrases": [
+        "civilian casualties",
+        "civilian population",
+        "civilian clothes",
+        "civilian government"
+      ]
     },
     {
       "id": "B2-448-004",
@@ -98,18 +224,55 @@
       "conjugations": {
         "plural": "particles"
       },
-      "domain": "general",
+      "domain": "science",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "particle",
-          "definition": "n. 颗粒, 粒子, 質點, 極小量, [化] 粒子; 質點"
+          "definition": "n. 粒子、質點；微粒、極小量"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Every subatomic particle in the accelerator today has been tracked by sensors.",
+          "highlight": [
+            "particle"
+          ],
+          "translations": {
+            "zh-TW": "今天加速器裡的每個次原子粒子都被感測器追蹤到了。"
+          }
+        },
+        {
+          "en": "Airborne particles from the volcanic eruption disrupted flights across the continent.",
+          "highlight": [
+            "particles"
+          ],
+          "translations": {
+            "zh-TW": "火山噴發的懸浮微粒擾亂了整個大陸的航班。"
+          }
+        },
+        {
+          "en": "Before cycling past smoke, runners check the reported particle counts in the air.",
+          "highlight": [
+            "particle"
+          ],
+          "translations": {
+            "zh-TW": "在騎過煙塵之前，跑者會先查詢空氣中的懸浮粒子濃度報告。"
+          }
+        }
+      ],
+      "synonyms": [
+        "speck",
+        "molecule",
+        "grain"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "particle physics",
+        "subatomic particle",
+        "particle board",
+        "particle counter"
+      ]
     },
     {
       "id": "B2-448-005",
@@ -120,23 +283,67 @@
       "word": "glance",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "glances"
+        "plural": "glances",
+        "present_3rd": "glances",
+        "past": "glanced",
+        "past_participle": "glanced",
+        "ing": "glancing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "glance",
-          "definition": "n. 一瞥, 闪光, 掠過, 辉矿类, vi. 扫視, 闪光, 掠過, 提到, 略說, vt. 扫視, 反射, 使掠過"
+          "definition": "n. 一瞥、瞥視  v. 瞥視、掠過、略提"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A quick glance at the dashboard tells the driver everything she needs.",
+          "highlight": [
+            "glance"
+          ],
+          "translations": {
+            "zh-TW": "快速瞥一眼儀表板，駕駛就能掌握所有需要的資訊。"
+          }
+        },
+        {
+          "en": "By glancing over her shoulder she caught the spy taking a photo.",
+          "highlight": [
+            "glancing"
+          ],
+          "translations": {
+            "zh-TW": "她回頭一瞥，剛好逮到那名間諜在偷拍。"
+          }
+        },
+        {
+          "en": "The two executives exchanged nervous glances before the meeting started.",
+          "highlight": [
+            "glances"
+          ],
+          "translations": {
+            "zh-TW": "會議開始之前兩位主管交換了幾道緊張的眼神。"
+          }
+        }
+      ],
+      "synonyms": [
+        "peek",
+        "glimpse",
+        "look"
+      ],
+      "antonyms": [
+        "stare"
+      ],
+      "phrases": [
+        "at first glance",
+        "glance at",
+        "cast a glance",
+        "glance over"
+      ]
     },
     {
       "id": "B2-448-006",
@@ -147,23 +354,67 @@
       "word": "landing",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "landings"
+        "plural": "landings",
+        "present_3rd": "lands",
+        "past": "landed",
+        "past_participle": "landed",
+        "ing": "landing"
       },
-      "domain": "general",
+      "domain": "aviation",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "landing",
-          "definition": "n. 登陆, 码頭, 降落, [經] 上岸, 登陆, 降落"
+          "definition": "n. 著陸、登陸；碼頭、樓梯平台  v. land 的現在分詞"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A smooth landing in stormy weather won the passengers' applause.",
+          "highlight": [
+            "landing"
+          ],
+          "translations": {
+            "zh-TW": "在惡劣天氣中平穩著陸，贏得全機乘客鼓掌。"
+          }
+        },
+        {
+          "en": "Several emergency landings last month were traced to a battery defect.",
+          "highlight": [
+            "landings"
+          ],
+          "translations": {
+            "zh-TW": "上個月幾次緊急降落被查明是某個電池缺失引起的。"
+          }
+        },
+        {
+          "en": "The flight landed a full hour ahead of schedule thanks to favourable tailwinds.",
+          "highlight": [
+            "landed"
+          ],
+          "translations": {
+            "zh-TW": "拜順風之賜，這班飛機整整提前一小時降落。"
+          }
+        }
+      ],
+      "synonyms": [
+        "touchdown",
+        "arrival",
+        "disembarkation"
+      ],
+      "antonyms": [
+        "takeoff"
+      ],
+      "phrases": [
+        "landing gear",
+        "soft landing",
+        "emergency landing",
+        "landing page"
+      ]
     },
     {
       "id": "B2-448-007",
@@ -174,23 +425,67 @@
       "word": "boost",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "boosts"
+        "plural": "boosts",
+        "present_3rd": "boosts",
+        "past": "boosted",
+        "past_participle": "boosted",
+        "ing": "boosting"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "boost",
-          "definition": "n. 推进, 吹捧, vt. 推进, 提高, 宣扬, 促进"
+          "definition": "n. 推進、提升、助推  v. 推進、提高、宣揚、促進"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A surprise tax cut gave a boost to small businesses across the region.",
+          "highlight": [
+            "boost"
+          ],
+          "translations": {
+            "zh-TW": "一次意外的減稅為整個地區的小型企業注入強心針。"
+          }
+        },
+        {
+          "en": "Personalized emails boosted open rates by nearly eighteen percent.",
+          "highlight": [
+            "boosted"
+          ],
+          "translations": {
+            "zh-TW": "個人化電子郵件讓開信率足足提高了將近十八個百分點。"
+          }
+        },
+        {
+          "en": "By boosting morale with small perks, the manager kept attrition surprisingly low.",
+          "highlight": [
+            "boosting"
+          ],
+          "translations": {
+            "zh-TW": "這位主管用一些小福利提振士氣，把員工流失率壓得出奇低。"
+          }
+        }
+      ],
+      "synonyms": [
+        "lift",
+        "raise",
+        "elevate"
+      ],
+      "antonyms": [
+        "drop"
+      ],
+      "phrases": [
+        "boost sales",
+        "boost morale",
+        "energy boost",
+        "boost confidence"
+      ]
     },
     {
       "id": "B2-448-008",
@@ -201,23 +496,65 @@
       "word": "bat",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "bats"
+        "plural": "bats",
+        "present_3rd": "bats",
+        "past": "batted",
+        "past_participle": "batted",
+        "ing": "batting"
       },
-      "domain": "general",
+      "domain": "sports",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bat",
-          "definition": "n. 蝙蝠, 球棒, v. 用球棒打, 眨眼, [計] 成批"
+          "definition": "n. 蝙蝠；球棒；打擊  v. 用球棒打、眨（眼）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "A wooden bat cracked on impact and the crowd gasped.",
+          "highlight": [
+            "bat"
+          ],
+          "translations": {
+            "zh-TW": "木製球棒在撞擊下應聲斷裂，觀眾齊聲驚呼。"
+          }
+        },
+        {
+          "en": "The slugger batted in two runs in the bottom of the ninth.",
+          "highlight": [
+            "batted"
+          ],
+          "translations": {
+            "zh-TW": "這位重砲手在九局下半打回兩分打點。"
+          }
+        },
+        {
+          "en": "Several bats nest in the cave during the summer months.",
+          "highlight": [
+            "bats"
+          ],
+          "translations": {
+            "zh-TW": "夏天幾隻蝙蝠會在這個洞穴裡築巢。"
+          }
+        }
+      ],
+      "synonyms": [
+        "club",
+        "stick",
+        "racket"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "baseball bat",
+        "bat an eye",
+        "bat cave",
+        "off the bat"
+      ]
     },
     {
       "id": "B2-448-009",
@@ -228,23 +565,67 @@
       "word": "grip",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "grips"
+        "plural": "grips",
+        "present_3rd": "grips",
+        "past": "gripped",
+        "past_participle": "gripped",
+        "ing": "gripping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "grip",
-          "definition": "n. 紧握, 柄, 握力, 握手方式, 手提包, 掌握, 支配, 控制, vt. 抓紧, 抱住, 吸住, 掌握, vi. 握牢, 有吸引力"
+          "definition": "n. 緊握、握力；掌握、控制  v. 緊握、抓住、吸引住"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A firm grip on the steering wheel matters most on slippery mountain roads.",
+          "highlight": [
+            "grip"
+          ],
+          "translations": {
+            "zh-TW": "在溼滑的山路上，緊握方向盤格外重要。"
+          }
+        },
+        {
+          "en": "By gripping the railing, the elderly passenger steadied himself on the moving bus.",
+          "highlight": [
+            "gripping"
+          ],
+          "translations": {
+            "zh-TW": "這位年長乘客緊抓著扶手，在搖晃的公車上站穩了。"
+          }
+        },
+        {
+          "en": "Different grips on the tennis racket produce radically different spins.",
+          "highlight": [
+            "grips"
+          ],
+          "translations": {
+            "zh-TW": "握網球拍的握法不同，產生的旋轉也天差地別。"
+          }
+        }
+      ],
+      "synonyms": [
+        "grasp",
+        "hold",
+        "clasp"
+      ],
+      "antonyms": [
+        "release"
+      ],
+      "phrases": [
+        "lose grip",
+        "grip strength",
+        "death grip",
+        "grip tape"
+      ]
     },
     {
       "id": "B2-448-010",
@@ -255,9 +636,12 @@
       "word": "weird",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
       "conjugations": {
+        "comparative": "weirder",
+        "superlative": "weirdest",
         "plural": "weirds"
       },
       "domain": "general",
@@ -265,14 +649,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "weird",
-          "definition": "a. 怪异的, 超自然的, 不可思議的, n. 命運, 預言, 符咒"
+          "definition": "adj. 怪異的、不可思議的、超自然的  n. 命運、符咒"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several weird noises kept the night-shift crew on edge.",
+          "highlight": [
+            "weird"
+          ],
+          "translations": {
+            "zh-TW": "幾陣怪異的聲響讓大夜班的同仁整晚提心吊膽。"
+          }
+        },
+        {
+          "en": "The weirdest coincidence of the trip was running into his old math teacher abroad.",
+          "highlight": [
+            "weirdest"
+          ],
+          "translations": {
+            "zh-TW": "這趟旅程最不可思議的巧合，是在國外遇到以前的數學老師。"
+          }
+        },
+        {
+          "en": "Through a weird twist of scheduling, two close friends ended up on the same flight.",
+          "highlight": [
+            "weird"
+          ],
+          "translations": {
+            "zh-TW": "因為排程上的奇異巧合，兩位好朋友最後剛好搭上同一班機。"
+          }
+        }
+      ],
+      "synonyms": [
+        "strange",
+        "bizarre",
+        "odd"
+      ],
+      "antonyms": [
+        "normal"
+      ],
+      "phrases": [
+        "weird out",
+        "get weird",
+        "weird dream",
+        "feel weird"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }

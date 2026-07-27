@@ -1,7 +1,7 @@
 {
+  "cefr": "B2",
   "level": 447,
   "tier": "intermediate",
-  "cefr": "B2",
   "words": [
     {
       "id": "B2-447-001",
@@ -12,23 +12,67 @@
       "word": "continuing",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective",
+        "verb"
       ],
       "conjugations": {
-        "plural": "continuings"
+        "present_3rd": "continues",
+        "past": "continued",
+        "past_participle": "continued",
+        "ing": "continuing"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "continuing",
-          "definition": "a. 继续的, 持续的, 連续的, [法] 继续的, 連续的, 持续的"
+          "definition": "adj. 持續的、不斷的  n. 延續、繼續  v. 繼續、持續"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several continuing disputes slowed the merger talks for weeks.",
+          "highlight": [
+            "continuing"
+          ],
+          "translations": {
+            "zh-TW": "幾個持續不斷的爭議讓併購談判拖慢了好幾週。"
+          }
+        },
+        {
+          "en": "The director continued her speech despite a sudden power outage.",
+          "highlight": [
+            "continued"
+          ],
+          "translations": {
+            "zh-TW": "儘管突然停電，這位主管還是繼續把演講講完。"
+          }
+        },
+        {
+          "en": "By continuing her education at night, the engineer eventually earned a master's degree.",
+          "highlight": [
+            "continuing"
+          ],
+          "translations": {
+            "zh-TW": "這位工程師藉由夜間進修，最終取得了碩士學位。"
+          }
+        }
+      ],
+      "synonyms": [
+        "ongoing",
+        "unremitting",
+        "ceaseless"
+      ],
+      "antonyms": [
+        "concluding"
+      ],
+      "phrases": [
+        "continuing education",
+        "continuing basis",
+        "continuing resolution",
+        "continuing education credits"
+      ]
     },
     {
       "id": "B2-447-002",
@@ -39,23 +83,65 @@
       "word": "endure",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "endures"
+        "present_3rd": "endures",
+        "past": "endured",
+        "past_participle": "endured",
+        "ing": "enduring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "endure",
-          "definition": "vt. 忍受, 忍耐, 容忍, 耐, vi. (正式)持久, 持续, [計] 仍能工作, 继续工作"
+          "definition": "v. 忍受、忍耐；持久、延續"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several athletes endure hours of training every single morning.",
+          "highlight": [
+            "endure"
+          ],
+          "translations": {
+            "zh-TW": "好幾位選手每天早上都忍受數小時的訓練。"
+          }
+        },
+        {
+          "en": "The hotel chain endured two recession years without closing a single branch.",
+          "highlight": [
+            "endured"
+          ],
+          "translations": {
+            "zh-TW": "這家旅館集團熬過了兩年的不景氣，一家分館都沒關。"
+          }
+        },
+        {
+          "en": "An enduring legacy of the project is the open-source codebase it produced.",
+          "highlight": [
+            "enduring"
+          ],
+          "translations": {
+            "zh-TW": "這個專案流傳久遠的遺澤，是它留下的開源程式庫。"
+          }
+        }
+      ],
+      "synonyms": [
+        "withstand",
+        "tolerate",
+        "suffer"
+      ],
+      "antonyms": [
+        "surrender"
+      ],
+      "phrases": [
+        "endure hardship",
+        "endure the pain",
+        "enduring legacy",
+        "endure the test of time"
+      ]
     },
     {
       "id": "B2-447-003",
@@ -71,18 +157,55 @@
       "conjugations": {
         "plural": "radiations"
       },
-      "domain": "general",
+      "domain": "science",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "radiation",
-          "definition": "n. 辐射, [化] 放射"
+          "definition": "n. 輻射、放射線；輻射能；（物)輻射現象"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "X-ray radiation during medical scans is carefully kept to a minimum dose.",
+          "highlight": [
+            "radiation"
+          ],
+          "translations": {
+            "zh-TW": "醫學掃描中的 X 光輻射會被小心地控制在最低劑量。"
+          }
+        },
+        {
+          "en": "Solar radiations from the sun fluctuate with the eleven-year sunspot cycle.",
+          "highlight": [
+            "radiations"
+          ],
+          "translations": {
+            "zh-TW": "來自太陽的輻射會隨著十一年的太陽黑子週期起伏。"
+          }
+        },
+        {
+          "en": "Prolonged radiation exposure raised the cancer risk for early uranium miners.",
+          "highlight": [
+            "radiation"
+          ],
+          "translations": {
+            "zh-TW": "長期的輻射暴露提高了早期鈾礦工的致癌風險。"
+          }
+        }
+      ],
+      "synonyms": [
+        "emission",
+        "radioactivity",
+        "energy"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "radiation therapy",
+        "radiation exposure",
+        "solar radiation",
+        "background radiation"
+      ]
     },
     {
       "id": "B2-447-004",
@@ -98,18 +221,57 @@
       "conjugations": {
         "plural": "innovations"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "innovation",
-          "definition": "n. 改革, 創新, [法] 創新, 改革, 刷新"
+          "definition": "n. 創新、革新；創新事物、新做法"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Robotic process innovation shrank a tedious month-end task to minutes.",
+          "highlight": [
+            "innovation"
+          ],
+          "translations": {
+            "zh-TW": "機器人流程創新把一個乏味的月底任務縮短到幾分鐘。"
+          }
+        },
+        {
+          "en": "The museum exhibit showcases innovations in sustainable agriculture from the past decade.",
+          "highlight": [
+            "innovations"
+          ],
+          "translations": {
+            "zh-TW": "這檔展覽展出過去十年來永續農業的數項創新。"
+          }
+        },
+        {
+          "en": "Lack of clear innovation strategy often leaves start-ups throwing half-baked products at the market.",
+          "highlight": [
+            "innovation"
+          ],
+          "translations": {
+            "zh-TW": "缺乏明確的創新策略，常讓新創公司把半成品甩到市場上。"
+          }
+        }
+      ],
+      "synonyms": [
+        "novelty",
+        "invention",
+        "breakthrough"
+      ],
+      "antonyms": [
+        "stagnation"
+      ],
+      "phrases": [
+        "innovation strategy",
+        "product innovation",
+        "open innovation",
+        "innovation hub"
+      ]
     },
     {
       "id": "B2-447-005",
@@ -120,23 +282,60 @@
       "word": "simultaneously",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
-      "conjugations": {
-        "plural": "simultaneouslies"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "simultaneously",
-          "definition": "adv. 同時發生, 一齐, 同時, 同時存在"
+          "definition": "adv. 同時地、同時發生地；同時存在地"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Translations from four languages were rendered simultaneously on screen during the summit.",
+          "highlight": [
+            "simultaneously"
+          ],
+          "translations": {
+            "zh-TW": "高峰會期間，四種語言的翻譯同步顯示在螢幕上。"
+          }
+        },
+        {
+          "en": "By editing simultaneously with the writer, the designer kept the layout tidy across revisions.",
+          "highlight": [
+            "simultaneously"
+          ],
+          "translations": {
+            "zh-TW": "設計師和作者同步編輯，於是在多次修改之間版面始終保持整齊。"
+          }
+        },
+        {
+          "en": "Mobile and desktop versions launched simultaneously, pleasing users on every platform.",
+          "highlight": [
+            "simultaneously"
+          ],
+          "translations": {
+            "zh-TW": "行動版和桌面版同步上線，討好了各個平台的使用者。"
+          }
+        }
+      ],
+      "synonyms": [
+        "concurrently",
+        "at once",
+        "together"
+      ],
+      "antonyms": [
+        "sequentially"
+      ],
+      "phrases": [
+        "broadcast simultaneously",
+        "simultaneously translated",
+        "occur simultaneously",
+        "launched simultaneously"
+      ]
     },
     {
       "id": "B2-447-006",
@@ -152,18 +351,57 @@
       "conjugations": {
         "plural": "amendments"
       },
-      "domain": "general",
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "amendment",
-          "definition": "n. 修訂, 改善, 改良, 改正, [化] 調理劑; 修正"
+          "definition": "n. 修正案、修訂；改良、改正"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The proposed amendment would shorten working hours to forty per week.",
+          "highlight": [
+            "amendment"
+          ],
+          "translations": {
+            "zh-TW": "這項提案修正案會把每週工時縮短至四十小時。"
+          }
+        },
+        {
+          "en": "Two recent amendments to the labor code led to a wave of negotiations.",
+          "highlight": [
+            "amendments"
+          ],
+          "translations": {
+            "zh-TW": "勞基法的兩個近期修正引發了一波協商熱潮。"
+          }
+        },
+        {
+          "en": "Before signing the lease amendment, the tenant asked the lawyer to review the wording.",
+          "highlight": [
+            "amendment"
+          ],
+          "translations": {
+            "zh-TW": "簽下租約修正之前，房客請律師再看了一次條文措辭。"
+          }
+        }
+      ],
+      "synonyms": [
+        "modification",
+        "revision",
+        "alteration"
+      ],
+      "antonyms": [
+        "original"
+      ],
+      "phrases": [
+        "constitutional amendment",
+        "first amendment",
+        "proposed amendment",
+        "lease amendment"
+      ]
     },
     {
       "id": "B2-447-007",
@@ -174,23 +412,67 @@
       "word": "trigger",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "triggers"
+        "plural": "triggers",
+        "present_3rd": "triggers",
+        "past": "triggered",
+        "past_participle": "triggered",
+        "ing": "triggering"
       },
-      "domain": "general",
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "trigger",
-          "definition": "n. 触發器, 扳機, vt. 触發, 發射, 引起, vi. 松开扳柄, [計] 切换开關"
+          "definition": "n. 觸發器、扳機；起因  v. 觸發、引起、引爆"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Automated backups fire on a daily trigger built into the scheduler.",
+          "highlight": [
+            "trigger"
+          ],
+          "translations": {
+            "zh-TW": "自動備份在排程器內建的每日觸發器上執行。"
+          }
+        },
+        {
+          "en": "A loose power cable triggered a fire alarm that emptied the building for an hour.",
+          "highlight": [
+            "triggered"
+          ],
+          "translations": {
+            "zh-TW": "一條鬆脫的電源線觸發了火災警報，整棟大樓淨空了將近一小時。"
+          }
+        },
+        {
+          "en": "Recent tax changes are triggering a wave of incorporation filings this quarter.",
+          "highlight": [
+            "triggering"
+          ],
+          "translations": {
+            "zh-TW": "近期的稅法變動本季引發了一波公司設立登記潮。"
+          }
+        }
+      ],
+      "synonyms": [
+        "spark",
+        "provoke",
+        "initiate"
+      ],
+      "antonyms": [
+        "suppress"
+      ],
+      "phrases": [
+        "trigger an event",
+        "trigger warning",
+        "trigger finger",
+        "pull the trigger"
+      ]
     },
     {
       "id": "B2-447-008",
@@ -201,23 +483,67 @@
       "word": "grace",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "graces"
+        "plural": "graces",
+        "present_3rd": "graces",
+        "past": "graced",
+        "past_participle": "graced",
+        "ing": "gracing"
       },
-      "domain": "general",
+      "domain": "society",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "grace",
-          "definition": "n. 优雅, 風度, 慈悲, 恩惠, 体面, 赦免, 恩典, 謝恩祷告, vt. 使优美"
+          "definition": "n. 優雅、風度；恩典、慈悲  v. 使優美、為...增光"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Her grace under pressure won the praise of the entire board.",
+          "highlight": [
+            "grace"
+          ],
+          "translations": {
+            "zh-TW": "她在壓力下從容應對的風度博得整個董事會的讚賞。"
+          }
+        },
+        {
+          "en": "Two distinguished scientists graced the opening ceremony with brief remarks.",
+          "highlight": [
+            "graced"
+          ],
+          "translations": {
+            "zh-TW": "兩位傑出科學家以簡短致辭為開幕典禮增光。"
+          }
+        },
+        {
+          "en": "By gracing the cover of a popular magazine, the young conductor became a household name.",
+          "highlight": [
+            "gracing"
+          ],
+          "translations": {
+            "zh-TW": "因為登上了一本暢銷雜誌的封面，這位年輕指揮家成了家喻戶曉的人物。"
+          }
+        }
+      ],
+      "synonyms": [
+        "elegance",
+        "poise",
+        "charm"
+      ],
+      "antonyms": [
+        "awkwardness"
+      ],
+      "phrases": [
+        "grace period",
+        "with grace",
+        "good graces",
+        "fall from grace"
+      ]
     },
     {
       "id": "B2-447-009",
@@ -233,18 +559,57 @@
       "conjugations": {
         "plural": "colonies"
       },
-      "domain": "general",
+      "domain": "history",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "colony",
-          "definition": "n. 殖民地, 移民隊, [醫] 菌(集)落, 菌丛; 移民區"
+          "definition": "n. 殖民地；僑民區；（生物）菌落、群體"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several former colonies gained independence during the 1960s.",
+          "highlight": [
+            "colonies"
+          ],
+          "translations": {
+            "zh-TW": "幾個前殖民地在一九六○年代陸續獨立。"
+          }
+        },
+        {
+          "en": "The colony once thrived on spice exports back to Europe.",
+          "highlight": [
+            "colony"
+          ],
+          "translations": {
+            "zh-TW": "這個殖民地曾經靠著把香料出口回歐洲而繁榮一時。"
+          }
+        },
+        {
+          "en": "A thriving penguin colony on the island draws researchers every breeding season.",
+          "highlight": [
+            "colony"
+          ],
+          "translations": {
+            "zh-TW": "島上一個繁盛的企鵝族群每年繁殖季都會吸引研究人員前來。"
+          }
+        }
+      ],
+      "synonyms": [
+        "settlement",
+        "outpost",
+        "community"
+      ],
+      "antonyms": [
+        "homeland"
+      ],
+      "phrases": [
+        "penal colony",
+        "colonial power",
+        "colony collapse",
+        "leper colony"
+      ]
     },
     {
       "id": "B2-447-010",
@@ -260,19 +625,57 @@
       "conjugations": {
         "plural": "adoptions"
       },
-      "domain": "general",
+      "domain": "society",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "adoption",
-          "definition": "n. 采用, 采纳, 收养, [法] 收养, 采纳, 采用"
+          "definition": "n. 採用、採納；收養、領養；（法）正式通過"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Cloud adoption among retailers accelerated during the pandemic.",
+          "highlight": [
+            "adoption"
+          ],
+          "translations": {
+            "zh-TW": "疫情期間零售業採用雲端服務的腳步加快了。"
+          }
+        },
+        {
+          "en": "Several international adoptions were stalled by new immigration rules.",
+          "highlight": [
+            "adoptions"
+          ],
+          "translations": {
+            "zh-TW": "幾件跨國收養案被新的移民規定制住了。"
+          }
+        },
+        {
+          "en": "Every on-time adoption of a new standard earns the team a bonus point.",
+          "highlight": [
+            "adoption"
+          ],
+          "translations": {
+            "zh-TW": "只要按時採納新標準，團隊就能賺到一個加分點。"
+          }
+        }
+      ],
+      "synonyms": [
+        "acceptance",
+        "embrace",
+        "approval"
+      ],
+      "antonyms": [
+        "rejection"
+      ],
+      "phrases": [
+        "technology adoption",
+        "adoption agency",
+        "pet adoption",
+        "early adoption"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
