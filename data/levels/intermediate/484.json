@@ -1,7 +1,7 @@
 {
+  "cefr": "B2",
   "level": 484,
   "tier": "intermediate",
-  "cefr": "B2",
   "words": [
     {
       "id": "B2-484-001",
@@ -12,23 +12,65 @@
       "word": "nasty",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
       "conjugations": {
-        "plural": "nasties"
+        "plural": "nasties",
+        "comparative": "nastier",
+        "superlative": "nastiest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "nasty",
-          "definition": "a. 污秽的, 下流的, 险恶的"
+          "definition": "a. 骯髒的、下流的、惡意的、令人不快的  n. 令人不快的人或事物"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several critics left a nasty review of the new restaurant chain.",
+          "highlight": [
+            "nasty"
+          ],
+          "translations": {
+            "zh-TW": "幾位評論家對那家新連鎖餐廳留下了惡意的評論。"
+          }
+        },
+        {
+          "en": "The weather turned nastier as the storm approached the coast.",
+          "highlight": [
+            "nastier"
+          ],
+          "translations": {
+            "zh-TW": "隨著風暴逼近海岸，天氣變得更加惡劣。"
+          }
+        },
+        {
+          "en": "By spreading a nastiest rumour, the rival firm damaged its competitor's reputation.",
+          "highlight": [
+            "nastiest"
+          ],
+          "translations": {
+            "zh-TW": "透過散佈最惡毒的謠言，對手公司損害了競爭者的聲譽。"
+          }
+        }
+      ],
+      "synonyms": [
+        "foul",
+        "mean",
+        "vile"
+      ],
+      "antonyms": [
+        "pleasant",
+        "kind"
+      ],
+      "phrases": [
+        "nasty weather",
+        "nasty surprise",
+        "nasty rumour"
+      ]
     },
     {
       "id": "B2-484-002",
@@ -39,23 +81,67 @@
       "word": "shrink",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
       "conjugations": {
-        "plural": "shrinks"
+        "plural": "shrinks",
+        "present_3rd": "shrinks",
+        "past": "shrank",
+        "past_participle": "shrunk",
+        "ing": "shrinking"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "shrink",
-          "definition": "n. 收缩, 萎缩, 回避, vi. 收缩, 退缩, 萎缩, 缩小, 回避, vt. 使收缩, 使缩小"
+          "definition": "v. 縮小、收縮、退縮、減少  n. 心理醫生（口語）、收縮"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The economy shrank by three percent during the last quarter.",
+          "highlight": [
+            "shrank"
+          ],
+          "translations": {
+            "zh-TW": "上一季經濟萎縮了百分之三。"
+          }
+        },
+        {
+          "en": "Several manufacturers have shrunk their workforce since the merger.",
+          "highlight": [
+            "shrunk"
+          ],
+          "translations": {
+            "zh-TW": "自合併以來，幾家製造商已縮減了員工規模。"
+          }
+        },
+        {
+          "en": "By shrinking the packaging, the company reduced shipping costs.",
+          "highlight": [
+            "shrinking"
+          ],
+          "translations": {
+            "zh-TW": "透過縮小包裝，公司降低了運輸成本。"
+          }
+        }
+      ],
+      "synonyms": [
+        "contract",
+        "decrease",
+        "diminish"
+      ],
+      "antonyms": [
+        "expand",
+        "grow"
+      ],
+      "phrases": [
+        "shrink from",
+        "shrink-wrap",
+        "shrinking violet"
+      ]
     },
     {
       "id": "B2-484-003",
@@ -66,23 +152,66 @@
       "word": "emerging",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "verb"
       ],
       "conjugations": {
-        "plural": "emergings"
+        "present_3rd": "emerges",
+        "past": "emerged",
+        "past_participle": "emerged",
+        "ing": "emerging"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "emerging",
-          "definition": "[法] 出現的, 發生的, 形成的"
+          "definition": "a. 新興的、出現的  v. emerge 的現在分詞"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several emerging markets posted strong growth last year.",
+          "highlight": [
+            "emerging"
+          ],
+          "translations": {
+            "zh-TW": "幾個新興市場去年表現出強勁的成長。"
+          }
+        },
+        {
+          "en": "New industries emerged after the country liberalised its economy.",
+          "highlight": [
+            "emerged"
+          ],
+          "translations": {
+            "zh-TW": "在該國開放經濟之後，新產業隨之出現。"
+          }
+        },
+        {
+          "en": "By emerging from bankruptcy within a year, the firm surprised analysts.",
+          "highlight": [
+            "emerging"
+          ],
+          "translations": {
+            "zh-TW": "在一年內擺脫破產，這家公司令分析師們驚訝。"
+          }
+        }
+      ],
+      "synonyms": [
+        "arising",
+        "developing",
+        "growing"
+      ],
+      "antonyms": [
+        "declining",
+        "fading"
+      ],
+      "phrases": [
+        "emerging market",
+        "emerging technology",
+        "emerging artist"
+      ]
     },
     {
       "id": "B2-484-004",
@@ -95,21 +224,53 @@
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "wheats"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "food",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "wheat",
-          "definition": "n. 小麦"
+          "definition": "n. 小麥（不可數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Russia and Ukraine export wheat to dozens of countries.",
+          "highlight": [
+            "wheat"
+          ],
+          "translations": {
+            "zh-TW": "俄羅斯與烏克蘭向數十個國家出口小麥。"
+          }
+        },
+        {
+          "en": "By buying wheat futures, the hedge fund bet on rising prices.",
+          "highlight": [
+            "wheat"
+          ],
+          "translations": {
+            "zh-TW": "透過買進小麥期貨，避險基金押注價格上漲。"
+          }
+        },
+        {
+          "en": "Several farmers switched from wheat to barley after the drought.",
+          "highlight": [
+            "wheat"
+          ],
+          "translations": {
+            "zh-TW": "乾旱之後，幾位農民從小麥改種大麥。"
+          }
+        }
+      ],
+      "synonyms": [
+        "grain"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "wheat flour",
+        "whole wheat",
+        "wheat field"
+      ]
     },
     {
       "id": "B2-484-005",
@@ -120,23 +281,63 @@
       "word": "fierce",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "fierces"
+        "comparative": "fiercer",
+        "superlative": "fiercest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "fierce",
-          "definition": "a. 凶猛的, 猛烈的, 热烈的, 暴躁的"
+          "definition": "a. 兇猛的、激烈的、強烈的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several firms face fierce competition in the smartphone sector.",
+          "highlight": [
+            "fierce"
+          ],
+          "translations": {
+            "zh-TW": "幾家公司在智慧手機領域面臨激烈的競爭。"
+          }
+        },
+        {
+          "en": "The fiercer storm of the season damaged coastal villages.",
+          "highlight": [
+            "fiercer"
+          ],
+          "translations": {
+            "zh-TW": "本季最猛烈的暴風雨摧毀了沿海村莊。"
+          }
+        },
+        {
+          "en": "By launching the fiercest marketing campaign, the brand outspent rivals.",
+          "highlight": [
+            "fiercest"
+          ],
+          "translations": {
+            "zh-TW": "透過發動最猛烈的行銷攻勢，該品牌的支出超過了對手。"
+          }
+        }
+      ],
+      "synonyms": [
+        "intense",
+        "violent",
+        "savage"
+      ],
+      "antonyms": [
+        "gentle",
+        "mild"
+      ],
+      "phrases": [
+        "fierce competition",
+        "fierce debate",
+        "fierce loyalty"
+      ]
     },
     {
       "id": "B2-484-006",
@@ -147,23 +348,65 @@
       "word": "envision",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "envisions"
+        "present_3rd": "envisions",
+        "past": "envisioned",
+        "past_participle": "envisioned",
+        "ing": "envisioning"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "envision",
-          "definition": "vt. 想象, 預想"
+          "definition": "v. 想像、預想、設想"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several founders envisioned a paperless office decades ago.",
+          "highlight": [
+            "envisioned"
+          ],
+          "translations": {
+            "zh-TW": "幾位創辦人數十年前就設想過無紙化辦公室。"
+          }
+        },
+        {
+          "en": "By envisioning new supply routes, the logistics team cut delivery times.",
+          "highlight": [
+            "envisioning"
+          ],
+          "translations": {
+            "zh-TW": "透過構思新的供應路線，物流團隊縮短了配送時間。"
+          }
+        },
+        {
+          "en": "The mayor envisions a city powered entirely by renewable energy.",
+          "highlight": [
+            "envisions"
+          ],
+          "translations": {
+            "zh-TW": "市長設想一座完全由再生能源驅動的城市。"
+          }
+        }
+      ],
+      "synonyms": [
+        "imagine",
+        "foresee",
+        "visualize"
+      ],
+      "antonyms": [
+        "disregard",
+        "overlook"
+      ],
+      "phrases": [
+        "envision a future",
+        "envision the possibilities",
+        "envision change"
+      ]
     },
     {
       "id": "B2-484-007",
@@ -174,23 +417,65 @@
       "word": "rational",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
       "conjugations": {
-        "plural": "rationals"
+        "plural": "rationals",
+        "comparative": "more rational",
+        "superlative": "most rational"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "rational",
-          "definition": "a. 理性的, 合理的, n. 有理数"
+          "definition": "a. 理性的、合理的  n. 有理數"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several investors made rational choices despite market panic.",
+          "highlight": [
+            "rational"
+          ],
+          "translations": {
+            "zh-TW": "幾位投資人在市場恐慌中仍做出了理性的選擇。"
+          }
+        },
+        {
+          "en": "A more rational approach would weigh costs and benefits carefully.",
+          "highlight": [
+            "rational"
+          ],
+          "translations": {
+            "zh-TW": "更理性的做法會仔細衡量成本與效益。"
+          }
+        },
+        {
+          "en": "By adopting the most rational strategy, the committee avoided costly delays.",
+          "highlight": [
+            "rational"
+          ],
+          "translations": {
+            "zh-TW": "透過採用最合理的策略，委員會避免了昂貴的延誤。"
+          }
+        }
+      ],
+      "synonyms": [
+        "logical",
+        "reasonable",
+        "sensible"
+      ],
+      "antonyms": [
+        "irrational",
+        "illogical"
+      ],
+      "phrases": [
+        "rational decision",
+        "rational choice",
+        "rational explanation"
+      ]
     },
     {
       "id": "B2-484-008",
@@ -206,18 +491,56 @@
       "conjugations": {
         "plural": "kingdoms"
       },
-      "domain": "general",
+      "domain": "politics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "kingdom",
-          "definition": "n. 王國, 領域, [醫] 界(動物,植物,矿物)"
+          "definition": "n. 王國、領域、界"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The kingdom expanded its trade routes during the fifteenth century.",
+          "highlight": [
+            "kingdom"
+          ],
+          "translations": {
+            "zh-TW": "這個王國在十五世紀擴張了貿易路線。"
+          }
+        },
+        {
+          "en": "Several ancient kingdoms rose and fell along the river valley.",
+          "highlight": [
+            "kingdoms"
+          ],
+          "translations": {
+            "zh-TW": "沿河谷曾有幾個古老王國興衰更迭。"
+          }
+        },
+        {
+          "en": "By building a new kingdom, the general united rival tribes.",
+          "highlight": [
+            "kingdom"
+          ],
+          "translations": {
+            "zh-TW": "透過建立新王國，將軍統一了對立的部落。"
+          }
+        }
+      ],
+      "synonyms": [
+        "realm",
+        "domain",
+        "empire"
+      ],
+      "antonyms": [
+        "republic"
+      ],
+      "phrases": [
+        "United Kingdom",
+        "animal kingdom",
+        "kingdom come"
+      ]
     },
     {
       "id": "B2-484-009",
@@ -228,23 +551,65 @@
       "word": "weaken",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "weakens"
+        "present_3rd": "weakens",
+        "past": "weakened",
+        "past_participle": "weakened",
+        "ing": "weakening"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "weaken",
-          "definition": "vt. 削弱, 减弱, 使虚弱, vi. 变弱, 变软弱"
+          "definition": "v. 削弱、減弱、變弱"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The currency weakened against the dollar for six straight weeks.",
+          "highlight": [
+            "weakened"
+          ],
+          "translations": {
+            "zh-TW": "該貨幣連續六週對美元走弱。"
+          }
+        },
+        {
+          "en": "Several storms have weakened the bridge's supports over time.",
+          "highlight": [
+            "weakened"
+          ],
+          "translations": {
+            "zh-TW": "幾次風暴隨著時間削弱了橋梁的支撐結構。"
+          }
+        },
+        {
+          "en": "By weakening regulations, the government encouraged faster housing starts.",
+          "highlight": [
+            "weakening"
+          ],
+          "translations": {
+            "zh-TW": "透過放寬法規，政府促進了更快的住宅開工。"
+          }
+        }
+      ],
+      "synonyms": [
+        "undermine",
+        "diminish",
+        "sap"
+      ],
+      "antonyms": [
+        "strengthen",
+        "reinforce"
+      ],
+      "phrases": [
+        "weaken the economy",
+        "weaken resistance",
+        "weaken an argument"
+      ]
     },
     {
       "id": "B2-484-010",
@@ -255,24 +620,64 @@
       "word": "protocol",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "protocols"
+        "plural": "protocols",
+        "present_3rd": "protocols",
+        "past": "protocoled",
+        "past_participle": "protocoled",
+        "ing": "protocoling"
       },
-      "domain": "general",
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "protocol",
-          "definition": "n. 草案, 礼仪, 协議, v. 拟定, [計] 协議, 协議列表實用程序"
+          "definition": "n. 協定、禮儀、草案  v. 擬定協定"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Several departments follow a strict protocol when handling complaints.",
+          "highlight": [
+            "protocol"
+          ],
+          "translations": {
+            "zh-TW": "幾個部門在處理申訴時遵循嚴格的協定。"
+          }
+        },
+        {
+          "en": "The engineers updated the protocols to patch the security flaw.",
+          "highlight": [
+            "protocols"
+          ],
+          "translations": {
+            "zh-TW": "工程師更新了協定以修補安全漏洞。"
+          }
+        },
+        {
+          "en": "By drafting a new protocol, the task force standardised data sharing.",
+          "highlight": [
+            "protocol"
+          ],
+          "translations": {
+            "zh-TW": "透過起草新協定，專案小組統一了資料共享流程。"
+          }
+        }
+      ],
+      "synonyms": [
+        "convention",
+        "procedure",
+        "standard"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "safety protocol",
+        "network protocol",
+        "breach of protocol"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }

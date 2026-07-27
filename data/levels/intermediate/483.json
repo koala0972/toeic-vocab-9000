@@ -1,7 +1,7 @@
 {
+  "cefr": "B2",
   "level": 483,
   "tier": "intermediate",
-  "cefr": "B2",
   "words": [
     {
       "id": "B2-483-001",
@@ -12,23 +12,67 @@
       "word": "debut",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "debuts"
+        "plural": "debuts",
+        "present_3rd": "debuts",
+        "past": "debuted",
+        "past_participle": "debuted",
+        "ing": "debuting"
       },
-      "domain": "general",
+      "domain": "entertainment",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "debut",
-          "definition": "n. 初次登台, 开張, v. 初次登台"
+          "definition": "n. 初次登台、首演  v. 初次登台、首次亮相"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Her debut album topped the charts within a week of release.",
+          "highlight": [
+            "debut"
+          ],
+          "translations": {
+            "zh-TW": "她的首張專輯在發行一週內登上了排行榜冠軍。"
+          }
+        },
+        {
+          "en": "The young director debuted at the Cannes Film Festival last May.",
+          "highlight": [
+            "debuted"
+          ],
+          "translations": {
+            "zh-TW": "那位年輕導演去年五月在坎城影展首次亮相。"
+          }
+        },
+        {
+          "en": "Several products are debuting at the trade show this autumn.",
+          "highlight": [
+            "debuting"
+          ],
+          "translations": {
+            "zh-TW": "幾項產品將在今年秋季的貿易展中首次發表。"
+          }
+        }
+      ],
+      "synonyms": [
+        "premiere",
+        "introduction",
+        "launch"
+      ],
+      "antonyms": [
+        "finale",
+        "conclusion"
+      ],
+      "phrases": [
+        "debut album",
+        "make a debut",
+        "debut single"
+      ]
     },
     {
       "id": "B2-483-002",
@@ -39,23 +83,65 @@
       "word": "proclaim",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "proclaims"
+        "present_3rd": "proclaims",
+        "past": "proclaimed",
+        "past_participle": "proclaimed",
+        "ing": "proclaiming"
       },
-      "domain": "general",
+      "domain": "politics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "proclaim",
-          "definition": "vt. 宣布, 公告, 宣言, 表明, 赞扬, [法] 宣布, 宣告, 公布"
+          "definition": "v. 宣告、公開宣布、聲明"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The minister proclaimed a new wave of economic reforms yesterday.",
+          "highlight": [
+            "proclaimed"
+          ],
+          "translations": {
+            "zh-TW": "部長昨天宣布新一波的經濟改革。"
+          }
+        },
+        {
+          "en": "By proclaiming independence, the colony became a sovereign state.",
+          "highlight": [
+            "proclaiming"
+          ],
+          "translations": {
+            "zh-TW": "透過宣布獨立，那個殖民地成為了主權國家。"
+          }
+        },
+        {
+          "en": "Several activists proclaim that clean air is a basic human right.",
+          "highlight": [
+            "proclaim"
+          ],
+          "translations": {
+            "zh-TW": "幾位運動人士公開聲明乾淨的空氣是基本人權。"
+          }
+        }
+      ],
+      "synonyms": [
+        "declare",
+        "announce",
+        "broadcast"
+      ],
+      "antonyms": [
+        "conceal",
+        "suppress"
+      ],
+      "phrases": [
+        "proclaim independence",
+        "proclaim oneself",
+        "proclaim the truth"
+      ]
     },
     {
       "id": "B2-483-003",
@@ -66,23 +152,66 @@
       "word": "required",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "verb"
       ],
       "conjugations": {
-        "plural": "requireds"
+        "present_3rd": "requires",
+        "past": "required",
+        "past_participle": "required",
+        "ing": "requiring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "required",
-          "definition": "a. 必需的"
+          "definition": "a. 必需的、規定的  v. 要求、需要（require 的過去式與過去分詞）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Two forms of identification are required to open a new account.",
+          "highlight": [
+            "required"
+          ],
+          "translations": {
+            "zh-TW": "開立新帳戶需要兩種身分證明文件。"
+          }
+        },
+        {
+          "en": "The committee required all applicants to submit a portfolio.",
+          "highlight": [
+            "required"
+          ],
+          "translations": {
+            "zh-TW": "委員會要求所有申請者提交作品集。"
+          }
+        },
+        {
+          "en": "By requiring extra documentation, the bank slowed down loan approvals.",
+          "highlight": [
+            "requiring"
+          ],
+          "translations": {
+            "zh-TW": "由於要求額外文件，銀行拖慢了貸款的核准速度。"
+          }
+        }
+      ],
+      "synonyms": [
+        "necessary",
+        "mandatory",
+        "essential"
+      ],
+      "antonyms": [
+        "optional",
+        "voluntary"
+      ],
+      "phrases": [
+        "required reading",
+        "required course",
+        "required documents"
+      ]
     },
     {
       "id": "B2-483-004",
@@ -98,18 +227,57 @@
       "conjugations": {
         "plural": "confrontations"
       },
-      "domain": "general",
+      "domain": "politics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "confrontation",
-          "definition": "n. 對抗；對質；面對"
+          "definition": "n. 對抗、對峙、衝突"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The confrontation between the two unions lasted three days.",
+          "highlight": [
+            "confrontation"
+          ],
+          "translations": {
+            "zh-TW": "兩個工會之間的對峙持續了三天。"
+          }
+        },
+        {
+          "en": "Several confrontations erupted along the border last month.",
+          "highlight": [
+            "confrontations"
+          ],
+          "translations": {
+            "zh-TW": "上個月邊境沿線爆發了數起衝突。"
+          }
+        },
+        {
+          "en": "By framing the negotiation as a confrontation, both sides lost flexibility.",
+          "highlight": [
+            "confrontation"
+          ],
+          "translations": {
+            "zh-TW": "將談判定調為對抗，雙方都失去了彈性。"
+          }
+        }
+      ],
+      "synonyms": [
+        "conflict",
+        "clash",
+        "standoff"
+      ],
+      "antonyms": [
+        "cooperation",
+        "harmony"
+      ],
+      "phrases": [
+        "military confrontation",
+        "avoid confrontation",
+        "direct confrontation"
+      ]
     },
     {
       "id": "B2-483-005",
@@ -125,18 +293,57 @@
       "conjugations": {
         "plural": "constitutions"
       },
-      "domain": "general",
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "constitution",
-          "definition": "n. 構成, 宪法, 体格, [醫] 体質; 結構, 組织"
+          "definition": "n. 憲法、章程、體質、構成"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The constitution guarantees freedom of speech and assembly.",
+          "highlight": [
+            "constitution"
+          ],
+          "translations": {
+            "zh-TW": "憲法保障言論與集會自由。"
+          }
+        },
+        {
+          "en": "Several constitutions across the region were rewritten after 1990.",
+          "highlight": [
+            "constitutions"
+          ],
+          "translations": {
+            "zh-TW": "1990 年後該地區有幾部憲法被重新起草。"
+          }
+        },
+        {
+          "en": "By amending the constitution, the legislature extended presidential terms.",
+          "highlight": [
+            "constitution"
+          ],
+          "translations": {
+            "zh-TW": "透過修憲，立法機關延長了總統任期。"
+          }
+        }
+      ],
+      "synonyms": [
+        "charter",
+        "framework",
+        "structure"
+      ],
+      "antonyms": [
+        "anarchy",
+        "disorder"
+      ],
+      "phrases": [
+        "amend the constitution",
+        "draft a constitution",
+        "constitutional rights"
+      ]
     },
     {
       "id": "B2-483-006",
@@ -152,18 +359,55 @@
       "conjugations": {
         "plural": "thanksgivings"
       },
-      "domain": "general",
+      "domain": "culture",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "thanksgiving",
-          "definition": "n. 感謝"
+          "definition": "n. 感恩、感恩節（Thanksgiving）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Thanksgiving in the United States falls on the fourth Thursday of November.",
+          "highlight": [
+            "Thanksgiving"
+          ],
+          "translations": {
+            "zh-TW": "美國的感恩節落在十一月的第四個星期四。"
+          }
+        },
+        {
+          "en": "Several families gather for thanksgivings after a bountiful harvest.",
+          "highlight": [
+            "thanksgivings"
+          ],
+          "translations": {
+            "zh-TW": "豐收之後，幾個家庭聚在一起舉行感恩聚會。"
+          }
+        },
+        {
+          "en": "By declaring a day of thanksgiving, the governor honoured the volunteers.",
+          "highlight": [
+            "thanksgiving"
+          ],
+          "translations": {
+            "zh-TW": "透過宣布感恩日，州長向志工們致敬。"
+          }
+        }
+      ],
+      "synonyms": [
+        "gratitude",
+        "appreciation"
+      ],
+      "antonyms": [
+        "ingratitude"
+      ],
+      "phrases": [
+        "Thanksgiving Day",
+        "thanksgiving dinner",
+        "give thanksgiving"
+      ]
     },
     {
       "id": "B2-483-007",
@@ -174,23 +418,67 @@
       "word": "scent",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "scents"
+        "plural": "scents",
+        "present_3rd": "scents",
+        "past": "scented",
+        "past_participle": "scented",
+        "ing": "scenting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "scent",
-          "definition": "n. 气味, 香味, 香水, 踪迹, 痕迹, 線索, 嗅觉, vt. 聞出, 嗅, 發觉, 使充滿气味, vi. 嗅猎, 發出气味"
+          "definition": "n. 氣味、香味、蹤跡  v. 嗅出、察覺、使帶有香味"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The scent of fresh bread filled the entire bakery.",
+          "highlight": [
+            "scent"
+          ],
+          "translations": {
+            "zh-TW": "新鮮麵包的香氣充滿了整間麵包店。"
+          }
+        },
+        {
+          "en": "Several hounds scented the fox and rushed into the woods.",
+          "highlight": [
+            "scented"
+          ],
+          "translations": {
+            "zh-TW": "幾隻獵犬嗅出狐狸的氣味，衝進了樹林。"
+          }
+        },
+        {
+          "en": "By scenting the candles with lavender, the supplier attracted more buyers.",
+          "highlight": [
+            "scenting"
+          ],
+          "translations": {
+            "zh-TW": "供應商在蠟燭中加入薰衣草香味，吸引了更多買家。"
+          }
+        }
+      ],
+      "synonyms": [
+        "aroma",
+        "fragrance",
+        "perfume"
+      ],
+      "antonyms": [
+        "stench",
+        "odour"
+      ],
+      "phrases": [
+        "scent of",
+        "false scent",
+        "scent hound"
+      ]
     },
     {
       "id": "B2-483-008",
@@ -211,13 +499,47 @@
         {
           "lang": "zh-TW",
           "lang_word": "eyebrow",
-          "definition": "n. 眉毛, [醫] 眉"
+          "definition": "n. 眉毛"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The candidate raised an eyebrow when the question turned personal.",
+          "highlight": [
+            "eyebrow"
+          ],
+          "translations": {
+            "zh-TW": "當問題轉向私事時，候選人揚起了眉毛。"
+          }
+        },
+        {
+          "en": "Several guests arched their eyebrows at the controversial remark.",
+          "highlight": [
+            "eyebrows"
+          ],
+          "translations": {
+            "zh-TW": "幾位賓客對那句爭議言論挑了一下眉毛。"
+          }
+        },
+        {
+          "en": "By raising an eyebrow, the manager signalled her scepticism.",
+          "highlight": [
+            "eyebrow"
+          ],
+          "translations": {
+            "zh-TW": "經理揚了一下眉毛，示意她的懷疑。"
+          }
+        }
+      ],
+      "synonyms": [
+        "brow"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "raise eyebrows",
+        "raise an eyebrow",
+        "eyebrow pencil"
+      ]
     },
     {
       "id": "B2-483-009",
@@ -228,23 +550,65 @@
       "word": "inherit",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "inherits"
+        "present_3rd": "inherits",
+        "past": "inherited",
+        "past_participle": "inherited",
+        "ing": "inheriting"
       },
-      "domain": "general",
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "inherit",
-          "definition": "vt. 继承, 遗傳, vi. 接受遗產"
+          "definition": "v. 繼承、遺傳、接受遺產"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "She inherited a fortune from her grandmother last summer.",
+          "highlight": [
+            "inherited"
+          ],
+          "translations": {
+            "zh-TW": "去年夏天她從祖母那裡繼承了一筆財產。"
+          }
+        },
+        {
+          "en": "Several cousins inherited shares in the family business.",
+          "highlight": [
+            "inherited"
+          ],
+          "translations": {
+            "zh-TW": "幾位堂表兄弟姊妹繼承了家族企業的股份。"
+          }
+        },
+        {
+          "en": "By inheriting the estate, the eldest son also took on its debts.",
+          "highlight": [
+            "inheriting"
+          ],
+          "translations": {
+            "zh-TW": "繼承莊園的長子同時也承擔了它的債務。"
+          }
+        }
+      ],
+      "synonyms": [
+        "receive",
+        "succeed to",
+        "acquire"
+      ],
+      "antonyms": [
+        "forfeit",
+        "relinquish"
+      ],
+      "phrases": [
+        "inherit property",
+        "inherit a fortune",
+        "inherit from"
+      ]
     },
     {
       "id": "B2-483-010",
@@ -255,24 +619,67 @@
       "word": "pioneer",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "pioneers"
+        "plural": "pioneers",
+        "present_3rd": "pioneers",
+        "past": "pioneered",
+        "past_participle": "pioneered",
+        "ing": "pioneering"
       },
-      "domain": "general",
+      "domain": "science",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "pioneer",
-          "definition": "n. 先锋, 拓荒者, 創始人, vt. 提倡, 开辟, 开創, 倡導, vi. 作先驱, 开路, a. 最早的, 开拓的, 先驱的, 有开拓者特點的"
+          "definition": "n. 先驅、拓荒者、創始者  v. 開創、倡導、作先驅"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The pioneers of modern computing laid foundations we still rely on.",
+          "highlight": [
+            "pioneers"
+          ],
+          "translations": {
+            "zh-TW": "現代計算的先驅奠定了我們至今仍仰賴的基礎。"
+          }
+        },
+        {
+          "en": "Several startups pioneered cloud-based accounting in the 2000s.",
+          "highlight": [
+            "pioneered"
+          ],
+          "translations": {
+            "zh-TW": "幾家新創公司在 2000 年代開創了雲端會計服務。"
+          }
+        },
+        {
+          "en": "By pioneering new surgical techniques, the team reduced recovery times.",
+          "highlight": [
+            "pioneering"
+          ],
+          "translations": {
+            "zh-TW": "透過開創新的手術技術，該團隊縮短了恢復時間。"
+          }
+        }
+      ],
+      "synonyms": [
+        "trailblazer",
+        "innovator",
+        "founder"
+      ],
+      "antonyms": [
+        "follower",
+        "imitator"
+      ],
+      "phrases": [
+        "pioneer in technology",
+        "pioneer spirit",
+        "young pioneer"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
