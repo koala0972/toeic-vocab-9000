@@ -1,7 +1,7 @@
 {
+  "cefr": "B2",
   "level": 445,
   "tier": "intermediate",
-  "cefr": "B2",
   "words": [
     {
       "id": "B2-445-001",
@@ -12,23 +12,68 @@
       "word": "drain",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "drains"
+        "plural": "drains",
+        "present_3rd": "drains",
+        "past": "drained",
+        "past_participle": "drained",
+        "ing": "draining"
       },
-      "domain": "general",
+      "domain": "plumbing",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "drain",
-          "definition": "n. 排水沟, 消耗, 排水, vt. 排出, 喝光, 耗盡, vi. 排水, 流干"
+          "definition": "n. 排水溝、排水管、消耗、排水  v. 排出、流乾、耗盡（精力、資源）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A sluggish drain beneath the kitchen sink kept backing up after every heavy rain.",
+          "highlight": [
+            "drain"
+          ],
+          "translations": {
+            "zh-TW": "廚房水槽底下排水不順的水管，每次大雨後就阻塞。"
+          }
+        },
+        {
+          "en": "Several storm drains choked with autumn leaves yesterday afternoon.",
+          "highlight": [
+            "drains"
+          ],
+          "translations": {
+            "zh-TW": "昨天下午好幾個雨水下水道被秋季落葉堵住。"
+          }
+        },
+        {
+          "en": "After draining the pasta, the chef tossed it gently in a warm garlic-butter sauce.",
+          "highlight": [
+            "draining"
+          ],
+          "translations": {
+            "zh-TW": "把義大利麵瀝乾後，主廚把它拌入熱黃油蒜醬中。"
+          }
+        }
+      ],
+      "synonyms": [
+        "empty",
+        "exhaust",
+        "deplete"
+      ],
+      "antonyms": [
+        "fill",
+        "replenish"
+      ],
+      "phrases": [
+        "brain drain",
+        "drain pipe",
+        "drain the swamp",
+        "down the drain"
+      ]
     },
     {
       "id": "B2-445-002",
@@ -44,18 +89,58 @@
       "conjugations": {
         "plural": "prosecutions"
       },
-      "domain": "general",
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "prosecution",
-          "definition": "n. 執行, 經營, 起诉"
+          "definition": "n. 起訴、檢控、執行、經營；（the prosecution）檢方"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The prosecution presented a stack of phone records to the jury after lunch.",
+          "highlight": [
+            "prosecution"
+          ],
+          "translations": {
+            "zh-TW": "午飯後，檢方把一疊通聯紀錄交給陪審團。"
+          }
+        },
+        {
+          "en": "Several high-profile prosecutions have stalled since the chief prosecutor was reassigned.",
+          "highlight": [
+            "prosecutions"
+          ],
+          "translations": {
+            "zh-TW": "從首席檢察官被調職後，好幾件備受矚目的起訴案陷入停滯。"
+          }
+        },
+        {
+          "en": "When prosecution takes a wrong turn, defense lawyers often file to suppress the evidence.",
+          "highlight": [
+            "prosecution"
+          ],
+          "translations": {
+            "zh-TW": "檢控一旦方向偏差，辯護律師往往會申請排除證據。"
+          }
+        }
+      ],
+      "synonyms": [
+        "trial",
+        "litigation",
+        "indictment"
+      ],
+      "antonyms": [
+        "defense",
+        "acquittal"
+      ],
+      "phrases": [
+        "criminal prosecution",
+        "proceed with prosecution",
+        "avoid prosecution",
+        "drop prosecution"
+      ]
     },
     {
       "id": "B2-445-003",
@@ -71,18 +156,57 @@
       "conjugations": {
         "plural": "warriors"
       },
-      "domain": "general",
+      "domain": "military",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "warrior",
-          "definition": "n. 战士, 勇士, 武士, 鼓吹战争的人, 战斗, 尚武"
+          "definition": "n. 戰士、勇士、武士、（喻）堅毅奮鬥的人"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Each veteran warrior still remembers the night the citadel fell.",
+          "highlight": [
+            "warrior"
+          ],
+          "translations": {
+            "zh-TW": "每個老戰士都還記得城堡陷落的那夜。"
+          }
+        },
+        {
+          "en": "Several samurai warriors perished when the shogunate collapsed in the 1860s.",
+          "highlight": [
+            "warriors"
+          ],
+          "translations": {
+            "zh-TW": "1860 年代幕府瓦解時，幾位武士壯烈殉身。"
+          }
+        },
+        {
+          "en": "By describing their staff as corporate warriors, executives annoy some employees.",
+          "highlight": [
+            "warriors"
+          ],
+          "translations": {
+            "zh-TW": "高階主管稱員工為「企業戰士」，反而讓部分員工反感。"
+          }
+        }
+      ],
+      "synonyms": [
+        "soldier",
+        "fighter",
+        "combatant"
+      ],
+      "antonyms": [
+        "civilian"
+      ],
+      "phrases": [
+        "warrior king",
+        "road warrior",
+        "warrior culture",
+        "keyboard warrior"
+      ]
     },
     {
       "id": "B2-445-004",
@@ -98,18 +222,55 @@
       "conjugations": {
         "plural": "infrastructures"
       },
-      "domain": "general",
+      "domain": "civil-engineering",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "infrastructure",
-          "definition": "n. 基础結構, 基础設施, [經] 基础設施"
+          "definition": "n. 基礎設施、基礎結構（道路、橋梁、電力、通訊等公共建設）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Local infrastructure upgrades often proceed far more quickly than federal ones.",
+          "highlight": [
+            "infrastructure"
+          ],
+          "translations": {
+            "zh-TW": "地方的基礎設施升級，往往比中央快得多。"
+          }
+        },
+        {
+          "en": "Over the past decade, several soft infrastructures have reshaped the city's economy.",
+          "highlight": [
+            "infrastructures"
+          ],
+          "translations": {
+            "zh-TW": "過去十年，幾種軟性基礎結構重塑了這座城市的經濟型態。"
+          }
+        },
+        {
+          "en": "After a tornado ripped through the airport, the country rebuilt its flight infrastructure within months.",
+          "highlight": [
+            "infrastructure"
+          ],
+          "translations": {
+            "zh-TW": "龍捲風掃過機場後，該國幾個月內便重建了航空基礎設施。"
+          }
+        }
+      ],
+      "synonyms": [
+        "foundations",
+        "framework",
+        "facilities"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "public infrastructure",
+        "infrastructure project",
+        "infrastructure spending",
+        "critical infrastructure"
+      ]
     },
     {
       "id": "B2-445-005",
@@ -120,23 +281,68 @@
       "word": "privilege",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "privileges"
+        "plural": "privileges",
+        "present_3rd": "privileges",
+        "past": "privileged",
+        "past_participle": "privileged",
+        "ing": "privileging"
       },
-      "domain": "general",
+      "domain": "ethics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "privilege",
-          "definition": "n. 特权, 特别恩典, 基本权利, 特免, vt. 给與...特权, 特免"
+          "definition": "n. 特權、特別恩典、基本權利、特免  v. 給予…特權、特免"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several corporate privileges were quietly revoked when the audit uncovered the fraud.",
+          "highlight": [
+            "privileges"
+          ],
+          "translations": {
+            "zh-TW": "稽核查到詐欺後，幾項公司特權被悄悄撤銷。"
+          }
+        },
+        {
+          "en": "Calling his seat in the Senate a privilege, the freshman lawmaker declined the usual perks.",
+          "highlight": [
+            "privilege"
+          ],
+          "translations": {
+            "zh-TW": "這位新科參議員把自己的參院席位視為特權，婉拒了一般福利。"
+          }
+        },
+        {
+          "en": "By privileging technical hires over managers, the firm accelerated product launches last year.",
+          "highlight": [
+            "privileging"
+          ],
+          "translations": {
+            "zh-TW": "去年公司把技術人才置於經理人之上，加快了產品上市腳步。"
+          }
+        }
+      ],
+      "synonyms": [
+        "right",
+        "prerogative",
+        "entitlement"
+      ],
+      "antonyms": [
+        "obligation",
+        "disadvantage"
+      ],
+      "phrases": [
+        "white privilege",
+        "abuse of privilege",
+        "executive privilege",
+        "privileged class"
+      ]
     },
     {
       "id": "B2-445-006",
@@ -152,18 +358,55 @@
       "conjugations": {
         "plural": "temples"
       },
-      "domain": "general",
+      "domain": "religion",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "temple",
-          "definition": "n. 圣堂, 庙宇, 教堂, 礼拜堂, 太阳穴, 鬓角, [醫] 颞颥, 颞部"
+          "definition": "n. 聖堂、廟宇、寺院、太陽穴、鬢角"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Each ancient temple on the hill surveyed the city below at sunrise.",
+          "highlight": [
+            "temple"
+          ],
+          "translations": {
+            "zh-TW": "山丘上的每座古剎都在日出時俯瞰山下的城市。"
+          }
+        },
+        {
+          "en": "Several rock-cut temples drew record crowds during the festival weekend.",
+          "highlight": [
+            "temples"
+          ],
+          "translations": {
+            "zh-TW": "幾座鑿壁而成的石窟寺院在節慶連假擠滿了破紀錄的人潮。"
+          }
+        },
+        {
+          "en": "Pain pulsed briefly at her temple as she tried to concentrate on the tiny serial number.",
+          "highlight": [
+            "temple"
+          ],
+          "translations": {
+            "zh-TW": "她想專心看那小小的序號，太陽穴卻突然一陣抽痛。"
+          }
+        }
+      ],
+      "synonyms": [
+        "shrine",
+        "sanctuary",
+        "chapel"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Buddhist temple",
+        "temple of doom",
+        "Greek temple",
+        "temple complex"
+      ]
     },
     {
       "id": "B2-445-007",
@@ -174,23 +417,68 @@
       "word": "suck",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "sucks"
+        "plural": "sucks",
+        "present_3rd": "sucks",
+        "past": "sucked",
+        "past_participle": "sucked",
+        "ing": "sucking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "suck",
-          "definition": "vt. 吸, 吮, 吸入, 吮吸, 吸收, vi. 吸, 吸奶, n. 吸, 吸入, 吮吸"
+          "definition": "v. 吸、吮、吸入、（俚語）糟糕透頂  n. 吸、吸入、吮吸、（冰球等）隊中較弱者"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Each powerful suck from the vacuum cleaner folded the rug backward.",
+          "highlight": [
+            "suck"
+          ],
+          "translations": {
+            "zh-TW": "吸塵器每一下強勁的吸力，都把地毯打得向後折起來。"
+          }
+        },
+        {
+          "en": "Several small fish sucks (the saying goes) at the bottom of any team's training pool.",
+          "highlight": [
+            "sucks"
+          ],
+          "translations": {
+            "zh-TW": "俗話說，每支培訓隊伍的底層都有幾條「小魚」。"
+          }
+        },
+        {
+          "en": "After sucking down an espresso, the lawyer dashed back into the courtroom.",
+          "highlight": [
+            "sucking"
+          ],
+          "translations": {
+            "zh-TW": "猛灌下一杯濃縮咖啡後，律師衝回了法庭。"
+          }
+        }
+      ],
+      "synonyms": [
+        "draw",
+        "inhale",
+        "absorb"
+      ],
+      "antonyms": [
+        "blow",
+        "expel"
+      ],
+      "phrases": [
+        "suck up",
+        "suck it up",
+        "suck in",
+        "suck thumb"
+      ]
     },
     {
       "id": "B2-445-008",
@@ -201,23 +489,68 @@
       "word": "leap",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "leaps"
+        "plural": "leaps",
+        "present_3rd": "leaps",
+        "past": "leapt",
+        "past_participle": "leapt",
+        "ing": "leaping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "leap",
-          "definition": "n. 跳跃, 劇增, 急变, 被越過之物, vi. 跳跃, 突然經過, vt. 跃過, 使跃過"
+          "definition": "n. 跳躍、劇增、急變、被越過之物  v. 跳躍、猛衝、劇增"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Quantum computing has made an astonishing leap in just the last three years.",
+          "highlight": [
+            "leap"
+          ],
+          "translations": {
+            "zh-TW": "量子運算短短三年間有了驚人的躍進。"
+          }
+        },
+        {
+          "en": "Several dramatic leaps in productivity followed the recent office redesign.",
+          "highlight": [
+            "leaps"
+          ],
+          "translations": {
+            "zh-TW": "近期辦公室改造後，生產力出現了幾次戲劇性的躍升。"
+          }
+        },
+        {
+          "en": "After revenue leapt unexpectedly in July, the board approved an ambitious expansion plan.",
+          "highlight": [
+            "leapt"
+          ],
+          "translations": {
+            "zh-TW": "七月份營收出人意料地大躍進後，董事會通過了野心勃勃的擴張計畫。"
+          }
+        }
+      ],
+      "synonyms": [
+        "jump",
+        "bound",
+        "spring"
+      ],
+      "antonyms": [
+        "drop",
+        "fall"
+      ],
+      "phrases": [
+        "leap year",
+        "leap of faith",
+        "look before you leap",
+        "leap forward"
+      ]
     },
     {
       "id": "B2-445-009",
@@ -228,23 +561,64 @@
       "word": "random",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "randoms"
       },
-      "domain": "general",
+      "domain": "statistics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "random",
-          "definition": "n. 隨意, 隨機, a. 任意的, 隨便的, 胡乱的, 隨機的, adv. 胡乱地"
+          "definition": "adj. 隨機的、任意的、胡亂的  n. 隨意、隨機；（俚）陌生人"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A single random sample from the warehouse told inspectors all they needed to know.",
+          "highlight": [
+            "random"
+          ],
+          "translations": {
+            "zh-TW": "倉庫一個隨機樣本，就讓稽查員掌握了全部必要資訊。"
+          }
+        },
+        {
+          "en": "When the survey results clustered suspiciously, statisticians ordered several fresh randoms.",
+          "highlight": [
+            "randoms"
+          ],
+          "translations": {
+            "zh-TW": "問卷結果分布可疑時，統計學家下達幾次全新隨機抽樣。"
+          }
+        },
+        {
+          "en": "Several completely random events skewed the fair's attendance figures last year.",
+          "highlight": [
+            "random"
+          ],
+          "translations": {
+            "zh-TW": "幾件全然隨機的事件，扭曲了去年博覽會的入場人數。"
+          }
+        }
+      ],
+      "synonyms": [
+        "arbitrary",
+        "chance",
+        "haphazard"
+      ],
+      "antonyms": [
+        "systematic",
+        "deliberate"
+      ],
+      "phrases": [
+        "random sample",
+        "random access",
+        "at random",
+        "random number"
+      ]
     },
     {
       "id": "B2-445-010",
@@ -260,19 +634,54 @@
       "conjugations": {
         "plural": "wrists"
       },
-      "domain": "general",
+      "domain": "anatomy",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "wrist",
-          "definition": "n. 手腕, 腕關節, [醫] 腕"
+          "definition": "n. 手腕、腕關節"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Her right wrist ached for several months after the minor gymnastics fall.",
+          "highlight": [
+            "wrist"
+          ],
+          "translations": {
+            "zh-TW": "那回體操小摔之後，她右手腕隱隱作痛了好幾個月。"
+          }
+        },
+        {
+          "en": "Several carpal-tunnel surgeries free up heavy typers' wrists within months.",
+          "highlight": [
+            "wrists"
+          ],
+          "translations": {
+            "zh-TW": "幾例腕隧道手術，幾個月內就能讓重度鍵盤使用者的手腕恢復靈活。"
+          }
+        },
+        {
+          "en": "After spraining her wrist again, the tennis player took a six-week break from competition.",
+          "highlight": [
+            "wrist"
+          ],
+          "translations": {
+            "zh-TW": "手腕再次扭傷後，這位網球選手退出賽事六週。"
+          }
+        }
+      ],
+      "synonyms": [
+        "carpus",
+        "joint"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "wrist watch",
+        "wrist joint",
+        "wrist band",
+        "wrist pain"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }

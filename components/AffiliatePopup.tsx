@@ -119,16 +119,11 @@ export default function AffiliatePopup({ open, onClose, trigger }: AffiliatePopu
                 className="aspect-square w-full flex items-center justify-center bg-slate-50 p-3"
               >
                 <img
-                  src={sku.impressionUrl ?? sku.image}
+                  src={sku.image}
                   alt={sku.title}
                   className="max-w-full max-h-full object-contain"
                   loading="lazy"
                   referrerPolicy="no-referrer"
-                  onError={(e) => {
-                    // vbtrax URL 載不到時 fallback 到本地圖
-                    const t = e.currentTarget as HTMLImageElement;
-                    if (t.src !== sku.image) t.src = sku.image;
-                  }}
                 />
               </div>
               <div className="p-3">

@@ -39,7 +39,7 @@ export const AFFILIATE_SKUS: readonly AffiliateSku[] = [
   {
     id: '51talk',
     title: '51Talk',
-    image: '/affiliates/51talk.png',
+    image: 'https://vbtrax.com/track/imp/img/185421/c627c2bc9b0527d7fd8eec2bd32e9e4d206b4fc863bcb0f90362b105671200a8cd30a2e2566e9d2634ddffd81d',
     url: 'https://affclkr.com/track/clicks/7352/c627c2bc9b0527d7fd8eec2bd32e9e4d206b4fc863bcb0f90362b105671200a8cd30a2e2566e9f663499abdb4aee7abb970d?t=https%3A%2F%2Fwap.51talk.com%2Flanding%2Faffiliate_1vs1_01.html',
     impressionUrl: 'https://vbtrax.com/track/imp/img/185421/c627c2bc9b0527d7fd8eec2bd32e9e4d206b4fc863bcb0f90362b105671200a8cd30a2e2566e9d2634ddffd81d',
     aria: '51Talk 兒童線上英文, 讓孩子愛上說英文',
@@ -47,7 +47,7 @@ export const AFFILIATE_SKUS: readonly AffiliateSku[] = [
   {
     id: 'oikid',
     title: 'OiKID',
-    image: '/affiliates/oikid.png',
+    image: 'https://vbtrax.com/track/imp/img/189639/c627c2bc9b0527d7fd8cec2bd32e9e4d2c694ec063bcb0f90362b105671200a8cd30a2e4556e9d2634ddffd81d',
     url: 'https://affckr.site/track/clicks/7331/c627c2bc9b0527d7fd8cec2bd32e9e4d2c694ec063bcb0f90362b105671200a8cd30a2e4556e9f663499abdb4aee7abb970d?t=https%3A%2F%2Fwww.oikid.com%2Fpromote%2Fcampaign-Aff%2F%3Futm_source%3Daffiliates%26utm_medium%3Dcpc%26utm_campaign%3Doikid_04',
     impressionUrl: 'https://vbtrax.com/track/imp/img/189639/c627c2bc9b0527d7fd8cec2bd32e9e4d2c694ec063bcb0f90362b105671200a8cd30a2e4556e9d2634ddffd81d',
     aria: 'OiKID 提升孩童英語能力',
@@ -63,7 +63,7 @@ export const AFFILIATE_SKUS: readonly AffiliateSku[] = [
   {
     id: 'yingdai',
     title: '英代外語',
-    image: '/affiliates/yingdai.png',
+    image: 'https://vbtrax.com/track/imp/img/146039/c627c2bc9b0527d7fd82ec2bd32e9e41236f4ec063bcb0f90362b105671200a8cd30a1ee5d6e9d2634ddffd81d',
     url: 'https://vbshoptrax.com/track/clicks/7099/c627c2bc9b0527d7fd82ec2bd32e9e41236f4ec063bcb0f90362b105671200a8cd30a1ee5d6e9f663499abdb4aee7abb970d',
     impressionUrl: 'https://vbtrax.com/track/imp/img/146039/c627c2bc9b0527d7fd82ec2bd32e9e41236f4ec063bcb0f90362b105671200a8cd30a1ee5d6e9d2634ddffd81d',
     aria: '英代外語, 挑戰多益700分, 一週只要888',
@@ -71,7 +71,7 @@ export const AFFILIATE_SKUS: readonly AffiliateSku[] = [
   {
     id: 'd-plus',
     title: 'D+ Language Plus',
-    image: '/affiliates/d-plus.png',
+    image: 'https://vbtrax.com/track/imp/img/205638/c627c2bc9b0527d7fd83ec2bd32e9d4520694ec163bcb0f90362b105671200a8cd3ea0ee566e9d2634ddffd81d',
     url: 'https://affclk.site/track/clicks/9192/c627c2bc9b0527d7fd83ec2bd32e9d4520694ec163bcb0f90362b105671200a8cd3ea0ee566e9f663499abdb4aee7abb970d?t=https%3A%2F%2Fwww.dahhsinmedia.com%2Fproduct%2Fcindy-toeic-video%2F',
     impressionUrl: 'https://vbtrax.com/track/imp/img/205638/c627c2bc9b0527d7fd83ec2bd32e9d4520694ec163bcb0f90362b105671200a8cd3ea0ee566e9d2634ddffd81d',
     aria: 'D+ Language Plus 大新線上語言教育平台',
@@ -79,7 +79,7 @@ export const AFFILIATE_SKUS: readonly AffiliateSku[] = [
   {
     id: 'preply',
     title: 'Preply',
-    image: '/affiliates/preply.png',
+    image: 'https://vbtrax.com/track/imp/img/215795/c627c2bc9b0527d7fc8aec2bd32e9d44206844cc63bcb0f90362b105671200a8cd3fa3ef566e9d2634ddffd81d',
     url: 'https://twshop4coupon.com/track/clicks/8282/c627c2bc9b0527d7fc8aec2bd32e9d44206844cc63bcb0f90362b105671200a8cd3fa3ef566e9f663499abdb4aee7abb970d?t=https%3A%2F%2Fpreply.sjv.io%2Fc%2F1231835%2F2037688%2F24422%3FsubId1%3D-aff_id-%26subId2%3D-transaction_id-%26sharedid%3D-aff_id-_-transaction_referer_domain-%26%3D-t-',
     impressionUrl: 'https://vbtrax.com/track/imp/img/215795/c627c2bc9b0527d7fc8aec2bd32e9d44206844cc63bcb0f90362b105671200a8cd3fa3ef566e9d2634ddffd81d',
     aria: 'Preply 線上英語學習, 首堂優惠',
