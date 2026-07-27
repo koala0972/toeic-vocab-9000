@@ -1,7 +1,7 @@
 {
+  "cefr": "B2",
   "level": 440,
   "tier": "intermediate",
-  "cefr": "B2",
   "words": [
     {
       "id": "B2-440-001",
@@ -12,23 +12,64 @@
       "word": "suburban",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "suburbans"
+        "comparative": "more suburban",
+        "superlative": "most suburban"
       },
-      "domain": "general",
+      "domain": "geography",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "suburban",
-          "definition": "a. 郊外的, 郊區的, (贬)偏狭的, 土气的, 见识不廣的, n. 郊區居民"
+          "definition": "adj. 郊區的、郊外的、市郊式的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The company relocated its headquarters to a quieter suburban campus last spring.",
+          "highlight": [
+            "suburban"
+          ],
+          "translations": {
+            "zh-TW": "去年春天公司把總部遷到了更寧靜的郊區園區。"
+          }
+        },
+        {
+          "en": "A more suburban lifestyle often appeals to families with young children.",
+          "highlight": [
+            "more suburban"
+          ],
+          "translations": {
+            "zh-TW": "更偏向郊區的生活方式，往往吸引有年幼子女的家庭。"
+          }
+        },
+        {
+          "en": "The most suburban parts of the metro area still rely heavily on private cars.",
+          "highlight": [
+            "most suburban"
+          ],
+          "translations": {
+            "zh-TW": "整個都會區最具郊區風貌的地段，仍然高度仰賴私家車。"
+          }
+        }
+      ],
+      "synonyms": [
+        "residential",
+        "outlying",
+        "pastoral"
+      ],
+      "antonyms": [
+        "urban",
+        "metropolitan"
+      ],
+      "phrases": [
+        "suburban area",
+        "suburban sprawl",
+        "suburban life",
+        "suburban commute"
+      ]
     },
     {
       "id": "B2-440-002",
@@ -44,18 +85,55 @@
       "conjugations": {
         "plural": "corridors"
       },
-      "domain": "general",
+      "domain": "architecture",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "corridor",
-          "definition": "n. 走廊, 回廊, 人口密集地帶"
+          "definition": "n. 走廊、迴廊、通道（亦指狹長的人口密集帶或運輸帶）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The hotel corridor was dimly lit and lined with identical doors.",
+          "highlight": [
+            "corridor"
+          ],
+          "translations": {
+            "zh-TW": "飯店走廊燈光昏暗，兩側掛著一模一樣的房門。"
+          }
+        },
+        {
+          "en": "Several long corridors connected the wings of the old government palace.",
+          "highlight": [
+            "corridors"
+          ],
+          "translations": {
+            "zh-TW": "幾條長廊連接著舊政府大樓的各個側翼。"
+          }
+        },
+        {
+          "en": "Planners hope to transform the rail corridor into a public greenway for cyclists.",
+          "highlight": [
+            "corridor"
+          ],
+          "translations": {
+            "zh-TW": "規劃人員希望將這條鐵道走廊改造成自行車專用的公共綠帶。"
+          }
+        }
+      ],
+      "synonyms": [
+        "hallway",
+        "passage",
+        "gallery"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "rail corridor",
+        "trade corridor",
+        "hospital corridor",
+        "corridor of power"
+      ]
     },
     {
       "id": "B2-440-003",
@@ -66,23 +144,67 @@
       "word": "retail",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective",
+        "verb"
       ],
       "conjugations": {
-        "plural": "retails"
+        "present_3rd": "retails",
+        "past": "retailed",
+        "past_participle": "retailed",
+        "ing": "retailing"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "retail",
-          "definition": "n. 零售, a. 零售的, vt. 零售, 详述, 傳播, vi. 零售"
+          "definition": "n. 零售  adj. 零售的  v. 以零售價出售、轉述、散播"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The chain now derives most of its revenue from e-commerce rather than traditional retail.",
+          "highlight": [
+            "retail"
+          ],
+          "translations": {
+            "zh-TW": "這家連鎖店如今大部分營收來自電子商務，而非傳統零售。"
+          }
+        },
+        {
+          "en": "Several niche perfumes retailed for astonishing prices online last quarter.",
+          "highlight": [
+            "retailed"
+          ],
+          "translations": {
+            "zh-TW": "上季有幾款小眾香水在網路上的零售價高得驚人。"
+          }
+        },
+        {
+          "en": "By retailing directly to consumers online, small farms have boosted their profit margins.",
+          "highlight": [
+            "retailing"
+          ],
+          "translations": {
+            "zh-TW": "小農場藉由在網路上直接零售給消費者，提高了利潤率。"
+          }
+        }
+      ],
+      "synonyms": [
+        "sell",
+        "vend",
+        "market"
+      ],
+      "antonyms": [
+        "wholesale"
+      ],
+      "phrases": [
+        "retail price",
+        "retail store",
+        "retail sales",
+        "retail chain"
+      ]
     },
     {
       "id": "B2-440-004",
@@ -103,13 +225,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "pitcher",
-          "definition": "n. 有把的大罐, 瓶状体, 投手, 摊贩"
+          "definition": "n.（帶柄的）大水壺、（棒球）投手、（陶藝）製陶工"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The waiter refilled the glass pitcher with iced tea for the table.",
+          "highlight": [
+            "pitcher"
+          ],
+          "translations": {
+            "zh-TW": "侍者替那桌客人倒了滿滿一玻璃壺的冰茶。"
+          }
+        },
+        {
+          "en": "Two star pitchers from rival teams will face off in tomorrow's championship game.",
+          "highlight": [
+            "pitchers"
+          ],
+          "translations": {
+            "zh-TW": "兩支敵對球隊的王牌投手，明天的冠軍戰將正面交鋒。"
+          }
+        },
+        {
+          "en": "After qualifying as a master pitcher, her ceramics sold out within hours of release.",
+          "highlight": [
+            "pitcher"
+          ],
+          "translations": {
+            "zh-TW": "成為製陶大師之後，她作品一上市幾小時就售罄。"
+          }
+        }
+      ],
+      "synonyms": [
+        "jug",
+        "carafe",
+        "thrower"
+      ],
+      "antonyms": [
+        "catcher"
+      ],
+      "phrases": [
+        "water pitcher",
+        "starting pitcher",
+        "relief pitcher",
+        "pitcher plant"
+      ]
     },
     {
       "id": "B2-440-005",
@@ -120,23 +281,62 @@
       "word": "estimated",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "verb"
       ],
-      "conjugations": {
-        "plural": "estimateds"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "estimated",
-          "definition": "a. 估算的；估計的；預計的"
+          "definition": "adj. 預估的、估計的  v. estimate 的過去式與過去分詞"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The project's estimated cost ballooned from two million to twenty million dollars.",
+          "highlight": [
+            "estimated"
+          ],
+          "translations": {
+            "zh-TW": "這項專案預估成本從兩百萬美元暴增至兩千萬美元。"
+          }
+        },
+        {
+          "en": "The committee estimated completion timelines without consulting the front-line engineers.",
+          "highlight": [
+            "estimated"
+          ],
+          "translations": {
+            "zh-TW": "委員會在未諮詢前線工程師的情況下，便估計了完工時程。"
+          }
+        },
+        {
+          "en": "By Laude's reckoning, every estimated figure in the budget needs to be revised upward.",
+          "highlight": [
+            "estimated"
+          ],
+          "translations": {
+            "zh-TW": "按 Laude 的估算法，預算中每一個預估數字都需要往上調整。"
+          }
+        }
+      ],
+      "synonyms": [
+        "approximated",
+        "projected",
+        "calculated"
+      ],
+      "antonyms": [
+        "exact",
+        "verified"
+      ],
+      "phrases": [
+        "estimated time",
+        "estimated cost",
+        "estimated population",
+        "estimated arrival"
+      ]
     },
     {
       "id": "B2-440-006",
@@ -152,18 +352,58 @@
       "conjugations": {
         "plural": "civilizations"
       },
-      "domain": "general",
+      "domain": "history",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "civilization",
-          "definition": "n. 文明, 教化, [法] 文明, 文化, 文明國家的總稱"
+          "definition": "n. 文明（可數，也可指整體文明的總稱）、開化、教化"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Many ancient civilizations collapsed under the combined weight of climate change and war.",
+          "highlight": [
+            "civilization"
+          ],
+          "translations": {
+            "zh-TW": "許多古文明在氣候變遷與戰爭交逼之下崩解。"
+          }
+        },
+        {
+          "en": "Archaeologists have unearthed artifacts from civilizations that predate the pyramids.",
+          "highlight": [
+            "civilizations"
+          ],
+          "translations": {
+            "zh-TW": "考古學家已挖掘出年代比金字塔更早的文明的文物。"
+          }
+        },
+        {
+          "en": "The younger historian argued that civilization could not survive without organized writing.",
+          "highlight": [
+            "civilization"
+          ],
+          "translations": {
+            "zh-TW": "這位年輕歷史學家主張，沒有有組織的書寫系統，文明便無法存續。"
+          }
+        }
+      ],
+      "synonyms": [
+        "culture",
+        "society",
+        "advancement"
+      ],
+      "antonyms": [
+        "barbarism",
+        "savagery"
+      ],
+      "phrases": [
+        "ancient civilization",
+        "modern civilization",
+        "cradle of civilization",
+        "civilization state"
+      ]
     },
     {
       "id": "B2-440-007",
@@ -174,23 +414,69 @@
       "word": "reverse",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective",
+        "verb"
       ],
       "conjugations": {
-        "plural": "reverses"
+        "plural": "reverses",
+        "present_3rd": "reverses",
+        "past": "reversed",
+        "past_participle": "reversed",
+        "ing": "reversing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "reverse",
-          "definition": "n. 相反, 背面, 倒退, 挫折, 失败, a. 反面的, 相反的, 反向的, 颠倒的, vt. 使颠倒, 使逆轉, 使倒退, 使反向, vi. 倒退, 反向, 倒轉, 反轉, [計] 反轉"
+          "definition": "n. 相反、背面、（事物的）倒退  adj. 反面的、相反的  v.（使）颠倒、（使）逆轉、（使）倒退"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The ambitious expansion plan encountered several unexpected reverses this year.",
+          "highlight": [
+            "reverse"
+          ],
+          "translations": {
+            "zh-TW": "這次雄心勃勃的擴張計畫今年碰上好幾次出乎意料的挫折。"
+          }
+        },
+        {
+          "en": "The court reversed the lower court's ruling and ordered a new trial.",
+          "highlight": [
+            "reversed"
+          ],
+          "translations": {
+            "zh-TW": "法院撤銷了下級法院的判決，下令重審。"
+          }
+        },
+        {
+          "en": "By reversing a longstanding policy, the agency made headlines overnight.",
+          "highlight": [
+            "reversing"
+          ],
+          "translations": {
+            "zh-TW": "當局撤銷一項由來已久的政策，一夜之間登上新聞頭條。"
+          }
+        }
+      ],
+      "synonyms": [
+        "invert",
+        "overturn",
+        "undo"
+      ],
+      "antonyms": [
+        "continue",
+        "maintain"
+      ],
+      "phrases": [
+        "reverse engineering",
+        "reverse gear",
+        "in reverse",
+        "reverse psychology"
+      ]
     },
     {
       "id": "B2-440-008",
@@ -206,18 +492,57 @@
       "conjugations": {
         "plural": "correlations"
       },
-      "domain": "general",
+      "domain": "statistics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "correlation",
-          "definition": "n. 相互關系, 相關, 關联, [醫] 相關, 联系"
+          "definition": "n. 相關、相關性、關聯（統計學上指兩個變數之間的關係）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The study found a strong correlation between sleep quality and work productivity.",
+          "highlight": [
+            "correlation"
+          ],
+          "translations": {
+            "zh-TW": "研究發現睡眠品質與工作效率存在強相關。"
+          }
+        },
+        {
+          "en": "Several correlations in the data surprised even experienced statisticians.",
+          "highlight": [
+            "correlations"
+          ],
+          "translations": {
+            "zh-TW": "資料中數處相關性甚至令老練的統計學者都感到意外。"
+          }
+        },
+        {
+          "en": "Researchers stress that a robust correlation alone does not prove a direct causal link.",
+          "highlight": [
+            "correlation"
+          ],
+          "translations": {
+            "zh-TW": "研究者強調，單憑穩健的相關性並不能證明存在直接的因果關係。"
+          }
+        }
+      ],
+      "synonyms": [
+        "link",
+        "association",
+        "connection"
+      ],
+      "antonyms": [
+        "independence"
+      ],
+      "phrases": [
+        "correlation coefficient",
+        "negative correlation",
+        "positive correlation",
+        "spurious correlation"
+      ]
     },
     {
       "id": "B2-440-009",
@@ -233,18 +558,58 @@
       "conjugations": {
         "plural": "humanities"
       },
-      "domain": "general",
+      "domain": "philosophy",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "humanity",
-          "definition": "n. 人性, 人类, 博爱"
+          "definition": "n. 人性、人類、人道、仁愛；the humanities 指人文學科"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The disaster prompted an outpouring of humanity from donors around the world.",
+          "highlight": [
+            "humanity"
+          ],
+          "translations": {
+            "zh-TW": "這場災難引發全球捐助者展現人道的善心。"
+          }
+        },
+        {
+          "en": "Several universities have announced new funding for the humanities next semester.",
+          "highlight": [
+            "humanities"
+          ],
+          "translations": {
+            "zh-TW": "幾所大學已宣布下學期對人文學科的新一輪資金投入。"
+          }
+        },
+        {
+          "en": "Advances in biotechnology raise fundamental questions about the future of humanity itself.",
+          "highlight": [
+            "humanity"
+          ],
+          "translations": {
+            "zh-TW": "生物科技的進展，引發了關於人類未來的根本性問題。"
+          }
+        }
+      ],
+      "synonyms": [
+        "mankind",
+        "humankind",
+        "compassion"
+      ],
+      "antonyms": [
+        "inhumanity",
+        "cruelty"
+      ],
+      "phrases": [
+        "crimes against humanity",
+        "humanity and nature",
+        "the humanities",
+        "human sciences"
+      ]
     },
     {
       "id": "B2-440-010",
@@ -252,27 +617,59 @@
       "tier": "intermediate",
       "cefr": "B2",
       "toeic_score_min": 750,
-      "word": "islam",
+      "word": "Islam",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "islams"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "religion",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "islam",
-          "definition": "n. 伊斯兰教"
+          "lang_word": "Islam",
+          "definition": "n. 伊斯蘭教、回教（由先知穆罕默德於七世紀創立的一神論宗教）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Islam arrived in Southeast Asia primarily through trade in the thirteenth century.",
+          "highlight": [
+            "Islam"
+          ],
+          "translations": {
+            "zh-TW": "伊斯蘭教於十三世紀主要藉由貿易傳入東南亞。"
+          }
+        },
+        {
+          "en": "Scholars of Islam distinguish clearly between Sunni and Shia traditions.",
+          "highlight": [
+            "Islam"
+          ],
+          "translations": {
+            "zh-TW": "伊斯蘭教學者會明確區分遜尼派與什葉派的傳統。"
+          }
+        },
+        {
+          "en": "Those who follow Islam observe fasting from dawn until sunset during Ramadan.",
+          "highlight": [
+            "Islam"
+          ],
+          "translations": {
+            "zh-TW": "信奉伊斯蘭教者在齋戒月期間會從黎明守齋至日落。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Mohammedanism"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Nation of Islam",
+        "spread of Islam",
+        "pillars of islam",
+        "convert to islam"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
