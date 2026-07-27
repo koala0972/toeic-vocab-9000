@@ -1,7 +1,7 @@
 {
+  "cefr": "B2",
   "level": 416,
   "tier": "intermediate",
-  "cefr": "B2",
   "words": [
     {
       "id": "B2-416-001",
@@ -17,18 +17,55 @@
       "conjugations": {
         "plural": "lawsuits"
       },
-      "domain": "general",
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "lawsuit",
-          "definition": "n. 诉讼, [法] 诉讼, 诉讼案件"
+          "definition": "n. 訴訟、訴訟案件、官司"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The company faces a lawsuit over its handling of customer data.",
+          "highlight": [
+            "lawsuit"
+          ],
+          "translations": {
+            "zh-TW": "這家公司因處理客戶資料的方式面臨訴訟。"
+          }
+        },
+        {
+          "en": "Several lawsuits were filed after the product recall.",
+          "highlight": [
+            "lawsuits"
+          ],
+          "translations": {
+            "zh-TW": "產品召回後被提起數件訴訟。"
+          }
+        },
+        {
+          "en": "Threatening a lawsuit rarely speeds up a slow contractor.",
+          "highlight": [
+            "lawsuit"
+          ],
+          "translations": {
+            "zh-TW": "威脅提告很少能讓動作慢的承包商加快速度。"
+          }
+        }
+      ],
+      "synonyms": [
+        "case",
+        "litigation",
+        "claim"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "file a lawsuit",
+        "settle a lawsuit",
+        "civil lawsuit",
+        "pending lawsuit"
+      ]
     },
     {
       "id": "B2-416-002",
@@ -44,18 +81,55 @@
       "conjugations": {
         "plural": "testimonies"
       },
-      "domain": "general",
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "testimony",
-          "definition": "n. 證言, 證据, 声明, [醫] 證据"
+          "definition": "n. 證言、證詞、聲明、證據"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Her testimony convinced the jury of the defendant's guilt.",
+          "highlight": [
+            "testimony"
+          ],
+          "translations": {
+            "zh-TW": "她的證詞讓陪審團相信被告有罪。"
+          }
+        },
+        {
+          "en": "Witness testimonies were recorded for the official court file.",
+          "highlight": [
+            "testimonies"
+          ],
+          "translations": {
+            "zh-TW": "證人證詞被記錄於法院的正式檔案。"
+          }
+        },
+        {
+          "en": "The expert testimony shed new light on the case.",
+          "highlight": [
+            "testimony"
+          ],
+          "translations": {
+            "zh-TW": "專家證詞為這件案子上帶來新線索。"
+          }
+        }
+      ],
+      "synonyms": [
+        "evidence",
+        "statement",
+        "witness"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "give testimony",
+        "expert testimony",
+        "eyewitness testimony",
+        "false testimony"
+      ]
     },
     {
       "id": "B2-416-003",
@@ -66,23 +140,68 @@
       "word": "burden",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "burdens"
+        "plural": "burdens",
+        "present_3rd": "burdens",
+        "past": "burdened",
+        "past_participle": "burdened",
+        "ing": "burdening"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "burden",
-          "definition": "n. 負担, 重載, 担子, 責任, vt. 裝貨于, 烦扰, 使負担"
+          "definition": "n. 負擔、重擔、責任  vt. 使負擔、煩擾"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Student loans have become a heavy burden for many graduates.",
+          "highlight": [
+            "burden"
+          ],
+          "translations": {
+            "zh-TW": "學貸已成為許多大學畢業生的沉重負擔。"
+          }
+        },
+        {
+          "en": "Caring for elderly parents can burden the entire family.",
+          "highlight": [
+            "burden"
+          ],
+          "translations": {
+            "zh-TW": "照顧年邁父母可能會讓整個家庭承受重擔。"
+          }
+        },
+        {
+          "en": "The new tax policy further burdened small business owners.",
+          "highlight": [
+            "burdened"
+          ],
+          "translations": {
+            "zh-TW": "新稅制進一步加重了小企業主負擔。"
+          }
+        }
+      ],
+      "synonyms": [
+        "load",
+        "weight",
+        "responsibility"
+      ],
+      "antonyms": [
+        "relief",
+        "ease"
+      ],
+      "phrases": [
+        "heavy burden",
+        "financial burden",
+        "share the burden",
+        "burden of proof"
+      ]
     },
     {
       "id": "B2-416-004",
@@ -95,21 +214,59 @@
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "cooperations"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cooperation",
-          "definition": "n. 合作, 协力, 配合, [化] 合作"
+          "definition": "n. 合作、協力、配合"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "International cooperation is vital during a global health crisis.",
+          "highlight": [
+            "cooperation"
+          ],
+          "translations": {
+            "zh-TW": "在跨國公衛危機中,國際合作至關重要。"
+          }
+        },
+        {
+          "en": "Thank you for your cooperation during the security check.",
+          "highlight": [
+            "cooperation"
+          ],
+          "translations": {
+            "zh-TW": "感謝您在安檢期間的配合。"
+          }
+        },
+        {
+          "en": " strained cooperation between the two offices caused delays.",
+          "highlight": [
+            "cooperation"
+          ],
+          "translations": {
+            "zh-TW": "兩辦公室間緊繃的合作造成了延誤。"
+          }
+        }
+      ],
+      "synonyms": [
+        "collaboration",
+        "teamwork",
+        "assistance"
+      ],
+      "antonyms": [
+        "conflict",
+        "opposition"
+      ],
+      "phrases": [
+        "in cooperation with",
+        "full cooperation",
+        "close cooperation",
+        "thank you for your cooperation"
+      ]
     },
     {
       "id": "B2-416-005",
@@ -125,18 +282,55 @@
       "conjugations": {
         "plural": "mechanisms"
       },
-      "domain": "general",
+      "domain": "science",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mechanism",
-          "definition": "n. 機械, 機構, 結構, 機理, 技巧, [化] 機理; 歷程; 機構"
+          "definition": "n. 機制、機構、機械結構、原理"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Scientists are still studying the exact mechanism of this virus.",
+          "highlight": [
+            "mechanism"
+          ],
+          "translations": {
+            "zh-TW": "科學家仍在研究這種病毒的確切機制。"
+          }
+        },
+        {
+          "en": "The body has several defense mechanisms against infection.",
+          "highlight": [
+            "mechanisms"
+          ],
+          "translations": {
+            "zh-TW": "人體有幾種對抗感染的防禦機制。"
+          }
+        },
+        {
+          "en": "New pricing mechanisms will be introduced next quarter.",
+          "highlight": [
+            "mechanisms"
+          ],
+          "translations": {
+            "zh-TW": "新定價機制將在下季推出。"
+          }
+        }
+      ],
+      "synonyms": [
+        "process",
+        "system",
+        "device"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "defense mechanism",
+        "control mechanism",
+        "feedback mechanism",
+        "pricing mechanism"
+      ]
     },
     {
       "id": "B2-416-006",
@@ -152,18 +346,58 @@
       "conjugations": {
         "plural": "penalties"
       },
-      "domain": "general",
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "penalty",
-          "definition": "n. 處罚, 刑罚, 罚款, 罚球, 報應, 不利結果, 妨碍, [經] 罚金(款), 违約金"
+          "definition": "n. 處罰、刑罰、罰款、罰球、不利結果"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The maximum penalty for the crime is ten years in prison.",
+          "highlight": [
+            "penalty"
+          ],
+          "translations": {
+            "zh-TW": "這項罪名的最高刑罰是 10 年監禁。"
+          }
+        },
+        {
+          "en": "Late payments may incur additional penalties and interest.",
+          "highlight": [
+            "penalties"
+          ],
+          "translations": {
+            "zh-TW": "逾期付款可能會產生額外的罰金與利息。"
+          }
+        },
+        {
+          "en": "He scored the winning goal from a penalty kick in stoppage time.",
+          "highlight": [
+            "penalty"
+          ],
+          "translations": {
+            "zh-TW": "他在傷停補時罰球進了致勝一球。"
+          }
+        }
+      ],
+      "synonyms": [
+        "punishment",
+        "fine",
+        "sanction"
+      ],
+      "antonyms": [
+        "reward",
+        "bonus"
+      ],
+      "phrases": [
+        "death penalty",
+        "penalty kick",
+        "penalty shoot-out",
+        "pay a penalty"
+      ]
     },
     {
       "id": "B2-416-007",
@@ -179,18 +413,54 @@
       "conjugations": {
         "plural": "tissues"
       },
-      "domain": "general",
+      "domain": "biology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tissue",
-          "definition": "n. 薄的织物, 薄纱, 棉紙, 組织, 一套, [化] 組织"
+          "definition": "n. 組織、薄紗、面紙、棉紙"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The surgeon carefully removed damaged tissue from the wound.",
+          "highlight": [
+            "tissue"
+          ],
+          "translations": {
+            "zh-TW": "外科醫師小心清除傷口的受損組織。"
+          }
+        },
+        {
+          "en": "Soft tissues like muscle and fat showed up bright on the scan.",
+          "highlight": [
+            "tissues"
+          ],
+          "translations": {
+            "zh-TW": "肌肉和脂肪等軟組織在掃描影像上顯得明亮。"
+          }
+        },
+        {
+          "en": "She handed him a facial tissue to wipe his tears.",
+          "highlight": [
+            "tissue"
+          ],
+          "translations": {
+            "zh-TW": "她遞給他一張面紙擦拭眼淚。"
+          }
+        }
+      ],
+      "synonyms": [
+        "paper",
+        "scrap"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "tissue paper",
+        "facial tissue",
+        "soft tissue",
+        "tissue damage"
+      ]
     },
     {
       "id": "B2-416-008",
@@ -201,23 +471,59 @@
       "word": "constitutional",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "constitutionals"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "law",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "constitutional",
-          "definition": "a. 宪法的, 立宪的, 体質的, [醫] 全身的; 体質的"
+          "definition": "a. 憲法的、立憲的、體質的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The court ruled the new law was not constitutional.",
+          "highlight": [
+            "constitutional"
+          ],
+          "translations": {
+            "zh-TW": "法院裁定新法律違憲。"
+          }
+        },
+        {
+          "en": "Citizens enjoy constitutional rights to free speech and assembly.",
+          "highlight": [
+            "constitutional"
+          ],
+          "translations": {
+            "zh-TW": "公民享有憲法保障的言論與集會自由。"
+          }
+        },
+        {
+          "en": "Many activists are pushing for broader constitutional reforms.",
+          "highlight": [
+            "constitutional"
+          ],
+          "translations": {
+            "zh-TW": "許多運動人士正推動更廣泛的憲政改革。"
+          }
+        }
+      ],
+      "synonyms": [
+        "lawful",
+        "legal"
+      ],
+      "antonyms": [
+        "unconstitutional"
+      ],
+      "phrases": [
+        "constitutional right",
+        "constitutional law",
+        "constitutional amendment",
+        "constitutional reform"
+      ]
     },
     {
       "id": "B2-416-009",
@@ -228,23 +534,57 @@
       "word": "literary",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "literaries"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "culture",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "literary",
-          "definition": "a. 文學的, 文艺的, 精通文學的, [法] 文學的, 从事文學的, 从事寫作的"
+          "definition": "a. 文學的、文藝的、精通文學的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "She won a prestigious literary award for her latest novel.",
+          "highlight": [
+            "literary"
+          ],
+          "translations": {
+            "zh-TW": "她以最新小說獲得著名的文學獎。"
+          }
+        },
+        {
+          "en": "The professor's literary criticism focuses on modern American poets.",
+          "highlight": [
+            "literary"
+          ],
+          "translations": {
+            "zh-TW": "這位教授的文學批評以現代美國詩人為主。"
+          }
+        },
+        {
+          "en": "Many literary devices like metaphor enrich the experience of reading.",
+          "highlight": [
+            "literary"
+          ],
+          "translations": {
+            "zh-TW": "隱喻等文學手法豐富了閱讀體驗。"
+          }
+        }
+      ],
+      "synonyms": [
+        "scholarly",
+        "literary"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "literary agent",
+        "literary festival",
+        "literary genre",
+        "literary device"
+      ]
     },
     {
       "id": "B2-416-010",
@@ -255,24 +595,68 @@
       "word": "dispute",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "disputes"
+        "plural": "disputes",
+        "present_3rd": "disputes",
+        "past": "disputed",
+        "past_participle": "disputed",
+        "ing": "disputing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dispute",
-          "definition": "n. 争论, v. 争论"
+          "definition": "n. 爭論、爭端  vt. 爭論、反駁  vi. 爭吵"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The two nations have a long-running border dispute.",
+          "highlight": [
+            "dispute"
+          ],
+          "translations": {
+            "zh-TW": "這兩國長年存在邊界爭端。"
+          }
+        },
+        {
+          "en": "Many scholars still dispute the authorship of the play.",
+          "highlight": [
+            "dispute"
+          ],
+          "translations": {
+            "zh-TW": "許多學者仍爭論這部劇作的作者身分。"
+          }
+        },
+        {
+          "en": "Trade disputes escalated between the two economic powers.",
+          "highlight": [
+            "disputes"
+          ],
+          "translations": {
+            "zh-TW": "兩強權之間的貿易爭端升高。"
+          }
+        }
+      ],
+      "synonyms": [
+        "argument",
+        "conflict",
+        "disagree"
+      ],
+      "antonyms": [
+        "agreement",
+        "consent"
+      ],
+      "phrases": [
+        "in dispute",
+        "trade dispute",
+        "beyond dispute",
+        "labor dispute"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }

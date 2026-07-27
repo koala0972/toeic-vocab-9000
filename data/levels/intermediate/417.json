@@ -1,7 +1,7 @@
 {
+  "cefr": "B2",
   "level": 417,
   "tier": "intermediate",
-  "cefr": "B2",
   "words": [
     {
       "id": "B2-417-001",
@@ -12,23 +12,67 @@
       "word": "wipe",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
       "conjugations": {
-        "plural": "wipes"
+        "plural": "wipes",
+        "present_3rd": "wipes",
+        "past": "wiped",
+        "past_participle": "wiped",
+        "ing": "wiping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "wipe",
-          "definition": "n. 擦拭, 用力打, 凸轮, vt. 擦, 揩, 消灭, 涂上, 拭去, vi. 擦, 打"
+          "definition": "vt. 擦、拭去、消滅  n. 擦拭、抹布"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Please wipe your feet on the mat before entering.",
+          "highlight": [
+            "wipe"
+          ],
+          "translations": {
+            "zh-TW": "進門前請在腳踏墊上擦一下鞋底。"
+          }
+        },
+        {
+          "en": "She wiped away tears as she opened the surprise gift.",
+          "highlight": [
+            "wiped"
+          ],
+          "translations": {
+            "zh-TW": "她打開驚喜禮物時擦去眼淚。"
+          }
+        },
+        {
+          "en": "A quick wipe with a damp cloth usually removes the stain.",
+          "highlight": [
+            "wipe"
+          ],
+          "translations": {
+            "zh-TW": "用濕布快速擦一下通常就能去除污漬。"
+          }
+        }
+      ],
+      "synonyms": [
+        "rub",
+        "clean",
+        "erase"
+      ],
+      "antonyms": [
+        "dirty"
+      ],
+      "phrases": [
+        "wipe out",
+        "wipe off",
+        "wipe away",
+        "wipe down"
+      ]
     },
     {
       "id": "B2-417-002",
@@ -39,23 +83,59 @@
       "word": "genetic",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "genetics"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "science",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "genetic",
-          "definition": "a. 創始的, 遗傳的, 起源的, 遗傳學的, [醫] 生殖的, 遗傳的"
+          "definition": "a. 遺傳的、基因的、起源的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Some diseases have a strong genetic component.",
+          "highlight": [
+            "genetic"
+          ],
+          "translations": {
+            "zh-TW": "某些疾病具有強烈的遺傳成分。"
+          }
+        },
+        {
+          "en": "Genetic testing can reveal a person's risk for many conditions.",
+          "highlight": [
+            "Genetic"
+          ],
+          "translations": {
+            "zh-TW": "基因檢測能揭示一個人罹患許多疾病的風險。"
+          }
+        },
+        {
+          "en": "Scientists have made major progress in genetic research.",
+          "highlight": [
+            "genetic"
+          ],
+          "translations": {
+            "zh-TW": "科學家在基因研究上有重大進展。"
+          }
+        }
+      ],
+      "synonyms": [
+        "hereditary",
+        "inherited"
+      ],
+      "antonyms": [
+        "acquired"
+      ],
+      "phrases": [
+        "genetic disorder",
+        "genetic testing",
+        "genetic engineering",
+        "genetic code"
+      ]
     },
     {
       "id": "B2-417-003",
@@ -76,13 +156,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "adviser",
-          "definition": "n. 顾问, 劝告者, 指導教師, [法] 顾问, 劝告者"
+          "definition": "n. 顧問、勸告者、指導教師"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The president's adviser urged caution before any military action.",
+          "highlight": [
+            "adviser"
+          ],
+          "translations": {
+            "zh-TW": "總統的顧問呼籲採取軍事行動前要謹慎。"
+          }
+        },
+        {
+          "en": "Financial advisers help clients plan for retirement.",
+          "highlight": [
+            "advisers"
+          ],
+          "translations": {
+            "zh-TW": "理財顧問協助客戶規劃退休生活。"
+          }
+        },
+        {
+          "en": "She met her academic adviser to discuss course selection.",
+          "highlight": [
+            "adviser"
+          ],
+          "translations": {
+            "zh-TW": "她與學術導師會面討論選課事宜。"
+          }
+        }
+      ],
+      "synonyms": [
+        "counselor",
+        "consultant",
+        "guide"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "financial adviser",
+        "academic adviser",
+        "special adviser",
+        "legal adviser"
+      ]
     },
     {
       "id": "B2-417-004",
@@ -96,20 +213,56 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "spokesmans"
+        "plural": "spokesmen"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "spokesman",
-          "definition": "n. 發言人, 代言者"
+          "definition": "n. 發言人、代言人（男性）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The company spokesman declined to comment on the merger.",
+          "highlight": [
+            "spokesman"
+          ],
+          "translations": {
+            "zh-TW": "公司發言人拒絕對合併案發表評論。"
+          }
+        },
+        {
+          "en": "Government spokesmen held a press conference after the vote.",
+          "highlight": [
+            "spokesmen"
+          ],
+          "translations": {
+            "zh-TW": "政府發言人們在投票後召開記者會。"
+          }
+        },
+        {
+          "en": "A spokesman for the agency confirmed the report was accurate.",
+          "highlight": [
+            "spokesman"
+          ],
+          "translations": {
+            "zh-TW": "該機構的發言人確認報告屬實。"
+          }
+        }
+      ],
+      "synonyms": [
+        "representative",
+        "speaker"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "company spokesman",
+        "government spokesman",
+        "press spokesman",
+        "official spokesman"
+      ]
     },
     {
       "id": "B2-417-005",
@@ -120,23 +273,61 @@
       "word": "latter",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {
-        "plural": "latters"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "latter",
-          "definition": "a. 後者的, 较後的, 近來的"
+          "definition": "a. 後者的、較後的、近來的  n. 後者"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Of the two options, I prefer the latter.",
+          "highlight": [
+            "latter"
+          ],
+          "translations": {
+            "zh-TW": "兩個選項中,我比較喜歡後者。"
+          }
+        },
+        {
+          "en": "The latter half of the book is far more exciting than the first.",
+          "highlight": [
+            "latter"
+          ],
+          "translations": {
+            "zh-TW": "書的後半段比前半刺激得多。"
+          }
+        },
+        {
+          "en": "In the latter years of his career he focused on mentoring juniors.",
+          "highlight": [
+            "latter"
+          ],
+          "translations": {
+            "zh-TW": "在職業生涯後期他專注於指導後輩。"
+          }
+        }
+      ],
+      "synonyms": [
+        "later",
+        "second"
+      ],
+      "antonyms": [
+        "former",
+        "first"
+      ],
+      "phrases": [
+        "the latter",
+        "latter half",
+        "latter part",
+        "latter years"
+      ]
     },
     {
       "id": "B2-417-006",
@@ -152,18 +343,57 @@
       "conjugations": {
         "plural": "incentives"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "incentive",
-          "definition": "n. 動機, a. 激励的"
+          "definition": "n. 動機、刺激、誘因、獎勵"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Tax breaks serve as an incentive for companies to go green.",
+          "highlight": [
+            "incentive"
+          ],
+          "translations": {
+            "zh-TW": "減稅優惠作為企業走向環保的誘因。"
+          }
+        },
+        {
+          "en": "Cash incentives are common in sales departments to motivate reps.",
+          "highlight": [
+            "incentives"
+          ],
+          "translations": {
+            "zh-TW": "業務部門常用現金獎勵來激勵業務員。"
+          }
+        },
+        {
+          "en": "Lack of incentive is often why employees lose motivation.",
+          "highlight": [
+            "incentive"
+          ],
+          "translations": {
+            "zh-TW": "員工失去動力的原因常是缺乏誘因。"
+          }
+        }
+      ],
+      "synonyms": [
+        "motivation",
+        "stimulus",
+        "inducement"
+      ],
+      "antonyms": [
+        "disincentive"
+      ],
+      "phrases": [
+        "financial incentive",
+        "cash incentive",
+        "provide an incentive",
+        "give incentives"
+      ]
     },
     {
       "id": "B2-417-007",
@@ -184,13 +414,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "terror",
-          "definition": "n. 恐怖, 可怕的人, [醫] 惊吓, 惊悸"
+          "definition": "n. 恐怖、驚嚇、可怕的人或事物"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Deep terror seized her when the lights suddenly went out.",
+          "highlight": [
+            "terror"
+          ],
+          "translations": {
+            "zh-TW": "燈光突然熄滅時,她心中湧起深深的恐懼。"
+          }
+        },
+        {
+          "en": "Night terrors often disrupt the sleep of young children.",
+          "highlight": [
+            "terrors"
+          ],
+          "translations": {
+            "zh-TW": "夜驚常打斷幼童的睡眠。"
+          }
+        },
+        {
+          "en": "The dictator ruled by terror for more than thirty years.",
+          "highlight": [
+            "terror"
+          ],
+          "translations": {
+            "zh-TW": "獨裁者以恐怖統治超過三十年。"
+          }
+        }
+      ],
+      "synonyms": [
+        "fear",
+        "dread",
+        "horror"
+      ],
+      "antonyms": [
+        "calm",
+        "courage"
+      ],
+      "phrases": [
+        "in terror",
+        "night terrors",
+        "strike terror",
+        "rule by terror"
+      ]
     },
     {
       "id": "B2-417-008",
@@ -206,18 +476,58 @@
       "conjugations": {
         "plural": "expansions"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "expansion",
-          "definition": "n. 扩充, 开展, 膨胀, [計] 扩展"
+          "definition": "n. 擴充、擴張、膨脹、開展"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Our company's Asian expansion is scheduled for next year.",
+          "highlight": [
+            "expansion"
+          ],
+          "translations": {
+            "zh-TW": "公司的亞洲擴張計畫安排在明年。"
+          }
+        },
+        {
+          "en": "Rapid expansions often strain a small firm's cash reserves.",
+          "highlight": [
+            "expansions"
+          ],
+          "translations": {
+            "zh-TW": "急速擴張常會耗盡小公司的現金準備。"
+          }
+        },
+        {
+          "en": "Thermal expansion causes metal tracks to buckle in the summer heat.",
+          "highlight": [
+            "expansion"
+          ],
+          "translations": {
+            "zh-TW": "熱膨脹讓金屬鐵軌在夏日高溫下變形。"
+          }
+        }
+      ],
+      "synonyms": [
+        "growth",
+        "extension",
+        "increase"
+      ],
+      "antonyms": [
+        "contraction",
+        "shrinking"
+      ],
+      "phrases": [
+        "overseas expansion",
+        "business expansion",
+        "market expansion",
+        "thermal expansion"
+      ]
     },
     {
       "id": "B2-417-009",
@@ -228,23 +538,64 @@
       "word": "elite",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "elites"
       },
-      "domain": "general",
+      "domain": "society",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "elite",
-          "definition": "n. 精华, 精锐, 中坚分子"
+          "definition": "n. 精英、中堅分子  a. 精英的、優秀的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Only the country's elite were invited to the gala dinner.",
+          "highlight": [
+            "elite"
+          ],
+          "translations": {
+            "zh-TW": "只有該國的精英受邀出席盛會晚餐。"
+          }
+        },
+        {
+          "en": "Political elites often disagree on how to address inequality.",
+          "highlight": [
+            "elites"
+          ],
+          "translations": {
+            "zh-TW": "政治菁英對如何解決不平等常意見分歧。"
+          }
+        },
+        {
+          "en": "She trained with an elite squad before the Olympics.",
+          "highlight": [
+            "elite"
+          ],
+          "translations": {
+            "zh-TW": "她在奧運前與菁英隊伍一起訓練。"
+          }
+        }
+      ],
+      "synonyms": [
+        "aristocracy",
+        "specialist",
+        "best"
+      ],
+      "antonyms": [
+        "commoners",
+        "masses"
+      ],
+      "phrases": [
+        "elite athletes",
+        "political elite",
+        "elite group",
+        "elite squad"
+      ]
     },
     {
       "id": "B2-417-010",
@@ -255,24 +606,59 @@
       "word": "olympic",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
       "conjugations": {
         "plural": "olympics"
       },
-      "domain": "general",
+      "domain": "sports",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "olympic",
-          "definition": "a. 奥林匹亚的, 奥林匹斯山的, 强有力的, 巨大的"
+          "definition": "a. 奧林匹克的、奧運的  n. 奧運會"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "She won a gold medal at the Olympic Games in Tokyo.",
+          "highlight": [
+            "Olympic"
+          ],
+          "translations": {
+            "zh-TW": "她在東京奧運奪得金牌。"
+          }
+        },
+        {
+          "en": "Olympic athletes train rigorously for years before competing.",
+          "highlight": [
+            "Olympic"
+          ],
+          "translations": {
+            "zh-TW": "奧運選手在參賽前要接受多年嚴苛的訓練。"
+          }
+        },
+        {
+          "en": "Many cities compete fiercely to host the Olympics.",
+          "highlight": [
+            "Olympics"
+          ],
+          "translations": {
+            "zh-TW": "許多城市激烈競爭爭取奧運主辦權。"
+          }
+        }
+      ],
+      "synonyms": [
+        "games"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Olympic games",
+        "Olympic athlete",
+        "Olympic gold medal",
+        "host the Olympics"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
