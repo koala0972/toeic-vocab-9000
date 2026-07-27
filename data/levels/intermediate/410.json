@@ -1,7 +1,7 @@
 {
+  "cefr": "B2",
   "level": 410,
   "tier": "intermediate",
-  "cefr": "B2",
   "words": [
     {
       "id": "B2-410-001",
@@ -12,23 +12,67 @@
       "word": "toss",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
       "conjugations": {
-        "plural": "tosses"
+        "plural": "tosses",
+        "present_3rd": "tosses",
+        "past": "tossed",
+        "past_participle": "tossed",
+        "ing": "tossing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "toss",
-          "definition": "n. 投掷, 抛, 摇摆, 震荡, 掷錢币决定, vt. 投掷, 猛抬, 摇荡, 使不安, 掷錢币决定, vi. 被到處扔, 摇摆, 颠簸, 辗轉, 掷錢币决定某事"
+          "definition": "vt. 投擲、拋、猛抬  vi. 搖擺、顛簸  n. 擲、拋"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Please toss the empty bottles into the recycling bin.",
+          "highlight": [
+            "toss"
+          ],
+          "translations": {
+            "zh-TW": "請把空瓶子丟進回收桶裡。"
+          }
+        },
+        {
+          "en": "He tossed and turned all night, unable to fall asleep.",
+          "highlight": [
+            "tossed"
+          ],
+          "translations": {
+            "zh-TW": "他在床上翻來覆去整晚,睡不著。"
+          }
+        },
+        {
+          "en": "The captain won the toss and chose to bat first.",
+          "highlight": [
+            "toss"
+          ],
+          "translations": {
+            "zh-TW": "隊長贏了擲硬幣,選擇先打擊。"
+          }
+        }
+      ],
+      "synonyms": [
+        "throw",
+        "flip",
+        "hurl"
+      ],
+      "antonyms": [
+        "catch"
+      ],
+      "phrases": [
+        "toss and turn",
+        "toss a coin",
+        "toss out",
+        "win the toss"
+      ]
     },
     {
       "id": "B2-410-002",
@@ -44,18 +88,57 @@
       "conjugations": {
         "plural": "deficits"
       },
-      "domain": "general",
+      "domain": "economics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "deficit",
-          "definition": "n. 赤字, 不足額, [醫] 短缺"
+          "definition": "n. 赤字、不足額、短缺、虧損"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The company posted a trade deficit of two million dollars.",
+          "highlight": [
+            "deficit"
+          ],
+          "translations": {
+            "zh-TW": "這家公司公布兩百萬美元的貿易赤字。"
+          }
+        },
+        {
+          "en": "Several European nations face growing budget deficits this year.",
+          "highlight": [
+            "deficits"
+          ],
+          "translations": {
+            "zh-TW": "幾個歐洲國家今年面臨日益擴大的預算赤字。"
+          }
+        },
+        {
+          "en": "A sleep deficit can seriously affect your daily performance.",
+          "highlight": [
+            "deficit"
+          ],
+          "translations": {
+            "zh-TW": "睡眠不足會嚴重影響日常的表現。"
+          }
+        }
+      ],
+      "synonyms": [
+        "shortfall",
+        "loss",
+        "shortage"
+      ],
+      "antonyms": [
+        "surplus"
+      ],
+      "phrases": [
+        "trade deficit",
+        "budget deficit",
+        "deficit spending",
+        "sleep deficit"
+      ]
     },
     {
       "id": "B2-410-003",
@@ -66,23 +149,67 @@
       "word": "glance",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
       "conjugations": {
-        "plural": "glances"
+        "plural": "glances",
+        "present_3rd": "glances",
+        "past": "glanced",
+        "past_participle": "glanced",
+        "ing": "glancing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "glance",
-          "definition": "n. 一瞥, 闪光, 掠過, 辉矿类, vi. 扫視, 闪光, 掠過, 提到, 略說, vt. 扫視, 反射, 使掠過"
+          "definition": "n. 一瞥、瞥視  vi. 掃視、略過  vt. 反射"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "She cast a brief glance at her watch during the meeting.",
+          "highlight": [
+            "glance"
+          ],
+          "translations": {
+            "zh-TW": "開會時她快速地瞥了一眼手錶。"
+          }
+        },
+        {
+          "en": "He glanced over the report before signing it.",
+          "highlight": [
+            "glanced"
+          ],
+          "translations": {
+            "zh-TW": "他在簽核前瀏覽了這份報告。"
+          }
+        },
+        {
+          "en": "Their glances met across the crowded room.",
+          "highlight": [
+            "glances"
+          ],
+          "translations": {
+            "zh-TW": "在擁擠的房間裡,他們的視線相遇了。"
+          }
+        }
+      ],
+      "synonyms": [
+        "peek",
+        "glimpse",
+        "look"
+      ],
+      "antonyms": [
+        "stare"
+      ],
+      "phrases": [
+        "at a glance",
+        "glance at",
+        "cast a glance",
+        "steal a glance"
+      ]
     },
     {
       "id": "B2-410-004",
@@ -103,13 +230,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "dimension",
-          "definition": "n. 尺寸, 次元, 面積, 维数, vt. 標出尺寸"
+          "definition": "n. 尺寸、向度、層面、面積"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The engineer carefully measured each dimension of the new product.",
+          "highlight": [
+            "dimension"
+          ],
+          "translations": {
+            "zh-TW": "工程師仔細測量新產品的各個尺寸。"
+          }
+        },
+        {
+          "en": "Time adds a fourth dimension to our understanding of space.",
+          "highlight": [
+            "dimension"
+          ],
+          "translations": {
+            "zh-TW": "時間為我們對空間的理解增加了第四個向度。"
+          }
+        },
+        {
+          "en": "The political dimensions of the issue cannot be ignored.",
+          "highlight": [
+            "dimensions"
+          ],
+          "translations": {
+            "zh-TW": "這個問題的政治層面不容忽視。"
+          }
+        }
+      ],
+      "synonyms": [
+        "size",
+        "aspect",
+        "measure"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "three dimensions",
+        "extra dimension",
+        "physical dimension",
+        "new dimension"
+      ]
     },
     {
       "id": "B2-410-005",
@@ -120,23 +284,67 @@
       "word": "peer",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "peers"
+        "plural": "peers",
+        "present_3rd": "peers",
+        "past": "peered",
+        "past_participle": "peered",
+        "ing": "peering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "peer",
-          "definition": "n. 同等的人, 匹敌, 贵族, vi. 凝視, 窥視, 費力地看, 隐現, vt. 與...同等, 封為贵族"
+          "definition": "n. 同儕、同等地位的人、貴族  vi. 凝視、費力地看"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Teenagers often feel pressure to fit in with their peers.",
+          "highlight": [
+            "peers"
+          ],
+          "translations": {
+            "zh-TW": "青少年常感到融入同儕的壓力。"
+          }
+        },
+        {
+          "en": "She peered through the thick fog, trying to find the road.",
+          "highlight": [
+            "peered"
+          ],
+          "translations": {
+            "zh-TW": "她穿過濃霧凝視著,想找出道路。"
+          }
+        },
+        {
+          "en": "Peer review is essential to maintaining research quality.",
+          "highlight": [
+            "Peer"
+          ],
+          "translations": {
+            "zh-TW": "同儕審查對維持研究品質是不可或缺的。"
+          }
+        }
+      ],
+      "synonyms": [
+        "equal",
+        "colleague",
+        "gaze"
+      ],
+      "antonyms": [
+        "inferior"
+      ],
+      "phrases": [
+        "peer review",
+        "peer pressure",
+        "peer group",
+        "peer at"
+      ]
     },
     {
       "id": "B2-410-006",
@@ -149,21 +357,56 @@
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "personnels"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "personnel",
-          "definition": "n. 人員, 人事部門, 人事科(處), [經] 人事, 全体人員, 职工"
+          "definition": "n. 全體人員、人事部門、員工"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "All personnel must attend the safety training session.",
+          "highlight": [
+            "personnel"
+          ],
+          "translations": {
+            "zh-TW": "所有員工都必須參加安全培訓課程。"
+          }
+        },
+        {
+          "en": "The personnel department handles recruitment and employee benefits.",
+          "highlight": [
+            "personnel"
+          ],
+          "translations": {
+            "zh-TW": "人事部門負責招聘與員工福利。"
+          }
+        },
+        {
+          "en": "Military personnel were deployed to the disaster zone within hours.",
+          "highlight": [
+            "personnel"
+          ],
+          "translations": {
+            "zh-TW": "軍方人員在數小時內被派往災區。"
+          }
+        }
+      ],
+      "synonyms": [
+        "staff",
+        "employees",
+        "workforce"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "personnel department",
+        "personnel file",
+        "personnel officer",
+        "military personnel"
+      ]
     },
     {
       "id": "B2-410-007",
@@ -179,18 +422,57 @@
       "conjugations": {
         "plural": "educators"
       },
-      "domain": "general",
+      "domain": "education",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "educator",
-          "definition": "n. 教育家"
+          "definition": "n. 教育家、教育工作者、教師"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The renowned educator changed how schools teach mathematics.",
+          "highlight": [
+            "educator"
+          ],
+          "translations": {
+            "zh-TW": "這位著名的教育家改變了學校教授數學的方式。"
+          }
+        },
+        {
+          "en": "Many educators oppose standardized testing in elementary schools.",
+          "highlight": [
+            "educators"
+          ],
+          "translations": {
+            "zh-TW": "許多教育工作者反對小學的標準化測驗。"
+          }
+        },
+        {
+          "en": "As an educator, she believes every child can learn to read.",
+          "highlight": [
+            "educator"
+          ],
+          "translations": {
+            "zh-TW": "身為教育工作者,她相信每個孩子都能學會閱讀。"
+          }
+        }
+      ],
+      "synonyms": [
+        "teacher",
+        "instructor",
+        "tutor"
+      ],
+      "antonyms": [
+        "student"
+      ],
+      "phrases": [
+        "educator conference",
+        "professional educator",
+        "child educator",
+        "educator license"
+      ]
     },
     {
       "id": "B2-410-008",
@@ -203,21 +485,57 @@
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "immigrations"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "society",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "immigration",
-          "definition": "n. 移民, 移居, [醫] 移民"
+          "definition": "n. 移民、移居入境、外來移民"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Immigration has shaped the cultural landscape of the country.",
+          "highlight": [
+            "Immigration"
+          ],
+          "translations": {
+            "zh-TW": "移民塑造了這個國家的文化樣貌。"
+          }
+        },
+        {
+          "en": "New immigration policies were announced by the government yesterday.",
+          "highlight": [
+            "immigration"
+          ],
+          "translations": {
+            "zh-TW": "政府昨天公布了新的移民政策。"
+          }
+        },
+        {
+          "en": "She works at the immigration office processing visa applications.",
+          "highlight": [
+            "immigration"
+          ],
+          "translations": {
+            "zh-TW": "她在移民局工作,處理簽證申請。"
+          }
+        }
+      ],
+      "synonyms": [
+        "migration",
+        "influx"
+      ],
+      "antonyms": [
+        "emigration"
+      ],
+      "phrases": [
+        "immigration policy",
+        "immigration officer",
+        "immigration control",
+        "immigration law"
+      ]
     },
     {
       "id": "B2-410-009",
@@ -233,18 +551,56 @@
       "conjugations": {
         "plural": "teaspoons"
       },
-      "domain": "general",
+      "domain": "food",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "teaspoon",
-          "definition": "n. 茶匙, [醫] 茶匙(4毫升)"
+          "definition": "n. 茶匙、小匙（約 5 毫升）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Add a teaspoon of honey to warm the tea for flavor.",
+          "highlight": [
+            "teaspoon"
+          ],
+          "translations": {
+            "zh-TW": "加一茶匙蜂蜜到溫茶裡增加風味。"
+          }
+        },
+        {
+          "en": "The recipe requires three teaspoons of vanilla extract.",
+          "highlight": [
+            "teaspoons"
+          ],
+          "translations": {
+            "zh-TW": "這個食譜需要三茶匙的香草精。"
+          }
+        },
+        {
+          "en": "She stirred her coffee with a small teaspoon.",
+          "highlight": [
+            "teaspoon"
+          ],
+          "translations": {
+            "zh-TW": "她用小茶匙攪拌咖啡。"
+          }
+        }
+      ],
+      "synonyms": [
+        "small spoon",
+        "measure"
+      ],
+      "antonyms": [
+        "tablespoon"
+      ],
+      "phrases": [
+        "teaspoon of salt",
+        "teaspoon sugar",
+        "measuring teaspoon",
+        "teaspoon baking soda"
+      ]
     },
     {
       "id": "B2-410-010",
@@ -260,19 +616,57 @@
       "conjugations": {
         "plural": "retirements"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "retirement",
-          "definition": "n. 退休, 隐居, 撤退, [經] 退休, 退股, (固定资產)報废"
+          "definition": "n. 退休、退職、隱居、退役"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "After thirty years of service, he decided to take early retirement.",
+          "highlight": [
+            "retirement"
+          ],
+          "translations": {
+            "zh-TW": "服務滿三十年後,他決定提前退休。"
+          }
+        },
+        {
+          "en": "Many people rely on pensions to fund their retirements.",
+          "highlight": [
+            "retirements"
+          ],
+          "translations": {
+            "zh-TW": "許多人仰賴退休金來支應退休生活。"
+          }
+        },
+        {
+          "en": "The retirement party for the CEO was held last Friday.",
+          "highlight": [
+            "retirement"
+          ],
+          "translations": {
+            "zh-TW": "執行長的退休派對於上週五舉行。"
+          }
+        }
+      ],
+      "synonyms": [
+        "pensioning",
+        "departure",
+        "resignation"
+      ],
+      "antonyms": [
+        "hiring"
+      ],
+      "phrases": [
+        "retirement age",
+        "retirement plan",
+        "early retirement",
+        "retirement party"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
