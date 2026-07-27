@@ -12,23 +12,68 @@
       "word": "poke",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
       "conjugations": {
-        "plural": "pokes"
+        "plural": "pokes",
+        "present_3rd": "pokes",
+        "past": "poked",
+        "past_participle": "poked",
+        "ing": "poking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "poke",
-          "definition": "n. 刺, 戳, 袋子, vt. 戳, 捅, 拨弄, 刺, vi. 戳, 刺, 捅, 搜索, 伸出, 行動散慢, [計] 存数"
+          "definition": "戳、刺、撥弄"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The toddler poked the sleeping puppy gently.",
+          "highlight": [
+            "poked"
+          ],
+          "translations": {
+            "zh-TW": "幼童輕輕戳了正在睡覺的小狗。"
+          }
+        },
+        {
+          "en": "Several kids were poking the campfire with sticks.",
+          "highlight": [
+            "poking"
+          ],
+          "translations": {
+            "zh-TW": "幾個孩子用樹枝撥弄著營火。"
+          }
+        },
+        {
+          "en": "A friendly poke on the shoulder startled the librarian.",
+          "highlight": [
+            "poke"
+          ],
+          "translations": {
+            "zh-TW": "友善地在肩膀輕戳一下嚇到了圖書館員。"
+          }
+        }
+      ],
+      "synonyms": [
+        "jab",
+        "prod",
+        "nudge"
+      ],
+      "antonyms": [
+        "pull",
+        "drag"
+      ],
+      "phrases": [
+        "poke fun at",
+        "poke around",
+        "poke one's nose in",
+        "bear poke"
+      ]
     },
     {
       "id": "B2-496-002",
@@ -39,9 +84,11 @@
       "word": "voluntary",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
+        "comparative": "more voluntary",
+        "superlative": "most voluntary",
         "plural": "voluntaries"
       },
       "domain": "general",
@@ -49,13 +96,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "voluntary",
-          "definition": "a. 自動的, 自愿的, 故意的, 志愿的, 自發的, n. 自愿行動, 志愿者, 自由調"
+          "definition": "自願的、志願的、故意的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The charity relies on voluntary donations year-round.",
+          "highlight": [
+            "voluntary"
+          ],
+          "translations": {
+            "zh-TW": "這個慈善機構全年仰賴自願捐款。"
+          }
+        },
+        {
+          "en": "Several voluntary workers joined the relief effort.",
+          "highlight": [
+            "voluntary"
+          ],
+          "translations": {
+            "zh-TW": "幾位志願工作者加入了救援行動。"
+          }
+        },
+        {
+          "en": "School is voluntary in this country for young teens.",
+          "highlight": [
+            "voluntary"
+          ],
+          "translations": {
+            "zh-TW": "在這個國家，青少年上學是自願的。"
+          }
+        }
+      ],
+      "synonyms": [
+        "optional",
+        "unforced",
+        "willing"
+      ],
+      "antonyms": [
+        "mandatory",
+        "forced"
+      ],
+      "phrases": [
+        "voluntary work",
+        "voluntary sector",
+        "voluntary action",
+        "voluntary contribution"
+      ]
     },
     {
       "id": "B2-496-003",
@@ -76,13 +163,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "autonomy",
-          "definition": "n. 自治, 自治权, [醫] 自主性"
+          "definition": "自治、自主權、自主性"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The region won autonomy after decades of unrest.",
+          "highlight": [
+            "autonomy"
+          ],
+          "translations": {
+            "zh-TW": "該地區經歷數十年動盪後獲得自治權。"
+          }
+        },
+        {
+          "en": "Several regional autonomies face new federal oversight.",
+          "highlight": [
+            "autonomies"
+          ],
+          "translations": {
+            "zh-TW": "幾個區域自治政府面臨新的聯邦監管。"
+          }
+        },
+        {
+          "en": "Teachers value classroom autonomy over rigid curricula.",
+          "highlight": [
+            "autonomy"
+          ],
+          "translations": {
+            "zh-TW": "教師比起死板的課程，更看重課堂自主權。"
+          }
+        }
+      ],
+      "synonyms": [
+        "self-rule",
+        "independence",
+        "freedom"
+      ],
+      "antonyms": [
+        "control",
+        "dependence"
+      ],
+      "phrases": [
+        "regional autonomy",
+        "personal autonomy",
+        "autonomy of",
+        "gain autonomy"
+      ]
     },
     {
       "id": "B2-496-004",
@@ -93,23 +220,67 @@
       "word": "enact",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "enacts"
+        "plural": "enacts",
+        "present_3rd": "enacts",
+        "past": "enacted",
+        "past_participle": "enacted",
+        "ing": "enacting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "enact",
-          "definition": "vt. 制定法律, 扮演, 颁布, [法] 法令, 法規, 条例"
+          "definition": "制定（法律）、上演、扮演"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Parliament enacted sweeping education reforms last year.",
+          "highlight": [
+            "enacted"
+          ],
+          "translations": {
+            "zh-TW": "國會去年制定了全面的教育改革。"
+          }
+        },
+        {
+          "en": "Several cities are enacting stricter noise ordinances.",
+          "highlight": [
+            "enacting"
+          ],
+          "translations": {
+            "zh-TW": "幾個城市正在制定更嚴格的噪音法規。"
+          }
+        },
+        {
+          "en": "The legislative body enacts laws every session.",
+          "highlight": [
+            "enacts"
+          ],
+          "translations": {
+            "zh-TW": "立法機關每會期都會制定法律。"
+          }
+        }
+      ],
+      "synonyms": [
+        "pass",
+        "legislate",
+        "establish"
+      ],
+      "antonyms": [
+        "repeal",
+        "cancel"
+      ],
+      "phrases": [
+        "enact a law",
+        "enact legislation",
+        "enact reform",
+        "enact policy"
+      ]
     },
     {
       "id": "B2-496-005",
@@ -120,7 +291,8 @@
       "word": "landmark",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "landmarks"
@@ -130,13 +302,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "landmark",
-          "definition": "n. 陆標, 劃時代的事, 地界標, [醫] 界標"
+          "definition": "地標、里程碑、劃時代的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The tower is the city's most famous landmark.",
+          "highlight": [
+            "landmark"
+          ],
+          "translations": {
+            "zh-TW": "這座塔是該市最知名的地標。"
+          }
+        },
+        {
+          "en": "Several historic landmarks reopened after renovations.",
+          "highlight": [
+            "landmarks"
+          ],
+          "translations": {
+            "zh-TW": "幾個歷史地標在整修後重新開放。"
+          }
+        },
+        {
+          "en": "A landmark ruling reshaped privacy law last week.",
+          "highlight": [
+            "landmark"
+          ],
+          "translations": {
+            "zh-TW": "上週一項劃時代的判決重塑了隱私法。"
+          }
+        }
+      ],
+      "synonyms": [
+        "milestone",
+        "monument",
+        "watershed"
+      ],
+      "antonyms": [
+        "obscurity"
+      ],
+      "phrases": [
+        "landmark decision",
+        "historic landmark",
+        "landmark case",
+        "landmark ruling"
+      ]
     },
     {
       "id": "B2-496-006",
@@ -157,13 +368,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "offender",
-          "definition": "n. 罪犯, 无礼的人, 得罪人的人"
+          "definition": "罪犯、違法者、犯錯的人"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The repeat offender was sentenced to five years.",
+          "highlight": [
+            "offender"
+          ],
+          "translations": {
+            "zh-TW": "這名累犯被判處五年徒刑。"
+          }
+        },
+        {
+          "en": "Several juvenile offenders completed a rehab program.",
+          "highlight": [
+            "offenders"
+          ],
+          "translations": {
+            "zh-TW": "幾名少年犯完成了感化計畫。"
+          }
+        },
+        {
+          "en": "A first-time offender received a lighter sentence today.",
+          "highlight": [
+            "offender"
+          ],
+          "translations": {
+            "zh-TW": "一名初犯今天獲得較輕的判決。"
+          }
+        }
+      ],
+      "synonyms": [
+        "criminal",
+        "lawbreaker",
+        "culprit"
+      ],
+      "antonyms": [
+        "law-abider",
+        "citizen"
+      ],
+      "phrases": [
+        "first offender",
+        "sex offender",
+        "repeat offender",
+        "juvenile offender"
+      ]
     },
     {
       "id": "B2-496-007",
@@ -174,23 +425,62 @@
       "word": "coming",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
-      "conjugations": {
-        "plural": "comings"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "coming",
-          "definition": "n. 來临, a. 就要來的, 接着的"
+          "definition": "即將到來的、到來"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The coming winter may be harsher than expected.",
+          "highlight": [
+            "coming"
+          ],
+          "translations": {
+            "zh-TW": "即將到來的冬天可能比預期更嚴酷。"
+          }
+        },
+        {
+          "en": "Several guests spoke about the coming of spring.",
+          "highlight": [
+            "coming"
+          ],
+          "translations": {
+            "zh-TW": "幾位賓客談論著春天的到來。"
+          }
+        },
+        {
+          "en": "The team is bracing for the coming match next weekend.",
+          "highlight": [
+            "coming"
+          ],
+          "translations": {
+            "zh-TW": "隊伍正為下週末即將到來的比賽做準備。"
+          }
+        }
+      ],
+      "synonyms": [
+        "approaching",
+        "impending",
+        "future"
+      ],
+      "antonyms": [
+        "past",
+        "departing"
+      ],
+      "phrases": [
+        "coming of age",
+        "coming soon",
+        "in the coming years",
+        "next coming"
+      ]
     },
     {
       "id": "B2-496-008",
@@ -201,23 +491,64 @@
       "word": "privately",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adverb"
       ],
       "conjugations": {
-        "plural": "privatelies"
+        "comparative": "more privately",
+        "superlative": "most privately"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "privately",
-          "definition": "adv. 秘密地；私下地"
+          "definition": "私下地、不公開地"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The CEO privately doubted the merger from day one.",
+          "highlight": [
+            "privately"
+          ],
+          "translations": {
+            "zh-TW": "執行長從第一天就私下對併購案存疑。"
+          }
+        },
+        {
+          "en": "Several investors privately complained about the delay.",
+          "highlight": [
+            "privately"
+          ],
+          "translations": {
+            "zh-TW": "幾位投資人私下抱怨這次的延宕。"
+          }
+        },
+        {
+          "en": "The cabinet privately debated the proposal for weeks.",
+          "highlight": [
+            "privately"
+          ],
+          "translations": {
+            "zh-TW": "內閣就這項提案私下辯論了數週。"
+          }
+        }
+      ],
+      "synonyms": [
+        "secretly",
+        "confidentially",
+        "in private"
+      ],
+      "antonyms": [
+        "publicly",
+        "openly"
+      ],
+      "phrases": [
+        "privately held",
+        "privately owned",
+        "privately funded",
+        "privately expressed"
+      ]
     },
     {
       "id": "B2-496-009",
@@ -238,13 +569,53 @@
         {
           "lang": "zh-TW",
           "lang_word": "fraction",
-          "definition": "n. 小部分, 破片, 分数, [醫] 部分, 成分, 分散"
+          "definition": "分數、小部分、片段"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Only a fraction of viewers finished the entire stream.",
+          "highlight": [
+            "fraction"
+          ],
+          "translations": {
+            "zh-TW": "只有一小部分觀眾看完了整場直播。"
+          }
+        },
+        {
+          "en": "Several math fractions confuse elementary students.",
+          "highlight": [
+            "fractions"
+          ],
+          "translations": {
+            "zh-TW": "幾個數學分數讓小學生感到困惑。"
+          }
+        },
+        {
+          "en": "The new model costs a fraction of the original price.",
+          "highlight": [
+            "fraction"
+          ],
+          "translations": {
+            "zh-TW": "新款的價格只有原價的一小部分。"
+          }
+        }
+      ],
+      "synonyms": [
+        "portion",
+        "segment",
+        "part"
+      ],
+      "antonyms": [
+        "whole",
+        "totality"
+      ],
+      "phrases": [
+        "a fraction of",
+        "common fraction",
+        "decimal fraction",
+        "small fraction"
+      ]
     },
     {
       "id": "B2-496-010",
@@ -255,24 +626,64 @@
       "word": "distinctive",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "distinctives"
+        "comparative": "more distinctive",
+        "superlative": "most distinctive"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "distinctive",
-          "definition": "a. 有特色的, 出众的"
+          "definition": "獨特的、有特色的、與眾不同的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The bird's distinctive call echoes through the valley.",
+          "highlight": [
+            "distinctive"
+          ],
+          "translations": {
+            "zh-TW": "這隻鳥獨特的鳴叫聲迴盪在山谷間。"
+          }
+        },
+        {
+          "en": "Several distinctive landmarks dot the city skyline.",
+          "highlight": [
+            "distinctive"
+          ],
+          "translations": {
+            "zh-TW": "幾座特色地標點綴著城市天際線。"
+          }
+        },
+        {
+          "en": "A distinctive aroma signals the bread is fully baked.",
+          "highlight": [
+            "distinctive"
+          ],
+          "translations": {
+            "zh-TW": "一股獨特的香氣表示麵包烤好了。"
+          }
+        }
+      ],
+      "synonyms": [
+        "unique",
+        "characteristic",
+        "special"
+      ],
+      "antonyms": [
+        "generic",
+        "ordinary"
+      ],
+      "phrases": [
+        "distinctive feature",
+        "distinctive style",
+        "distinctive voice",
+        "distinctive mark"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
