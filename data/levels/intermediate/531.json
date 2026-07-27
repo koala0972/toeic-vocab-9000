@@ -10,25 +10,57 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "george",
-      "phonetic": "",
+      "phonetic": "/dʒɔːrdʒ/",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "georges"
+        "singular": "George"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "george",
-          "definition": "n. 乔治（男子名）；自動操纵裝置；英國最高勋爵勋章上的圣乔治诛龍圖"
+          "definition": "名詞：喬治（男子名）；英國最高勳章上的聖喬治誅龍圖"
         }
       ],
-      "examples": [],
+      "examples": [
+        {
+          "en": "George will lead the delegation at next month's trade summit.",
+          "highlight": [
+            "George"
+          ],
+          "translations": {
+            "zh-TW": "喬治將在下月的貿易峰會中率領代表團。"
+          }
+        },
+        {
+          "en": "Please forward the quarterly report to George by end of day.",
+          "highlight": [
+            "George"
+          ],
+          "translations": {
+            "zh-TW": "請在下班前將季度報告轉寄給喬治。"
+          }
+        },
+        {
+          "en": "The award was presented to George for his thirty years of service.",
+          "highlight": [
+            "George"
+          ],
+          "translations": {
+            "zh-TW": "該獎項頒給喬治以表彰他三十年的服務。"
+          }
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "George V",
+        "Curious George",
+        "By George"
+      ]
     },
     {
       "id": "B2-531-002",
@@ -37,25 +69,68 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "went",
-      "phonetic": "",
+      "phonetic": "/wɛnt/",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "wents"
+        "present": "go",
+        "past": "went",
+        "past_participle": "gone",
+        "gerund": "going"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "went",
-          "definition": "go的過去式"
+          "definition": "動詞：go 的過去式；前往、進行、變成"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "She went to the branch office to finalize the contract.",
+          "highlight": [
+            "went"
+          ],
+          "translations": {
+            "zh-TW": "她前往分公司完成合約簽署。"
+          }
+        },
+        {
+          "en": "Negotiations went smoothly after both sides compromised on pricing.",
+          "highlight": [
+            "went"
+          ],
+          "translations": {
+            "zh-TW": "雙方在價格上妥協後，談判進行得很順利。"
+          }
+        },
+        {
+          "en": "Having gone through the manual, the new hire felt ready to start.",
+          "highlight": [
+            "gone"
+          ],
+          "translations": {
+            "zh-TW": "新人讀完手冊後覺得自己已準備好開始工作。"
+          }
+        }
+      ],
+      "synonyms": [
+        "proceeded",
+        "headed",
+        "advanced"
+      ],
+      "antonyms": [
+        "stayed",
+        "returned"
+      ],
+      "phrases": [
+        "went out",
+        "went through",
+        "went on",
+        "have gone"
+      ]
     },
     {
       "id": "B2-531-003",
@@ -64,25 +139,66 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "registration",
-      "phonetic": "",
+      "phonetic": "/ˌrɛdʒɪˈstreɪʃən/",
       "pos": [
         "noun"
       ],
       "conjugations": {
+        "singular": "registration",
         "plural": "registrations"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "registration",
-          "definition": "n. 登記, 挂號, 注册, [計] 登記; 定位; 對齐; 記录"
+          "definition": "名詞：登記、註冊、掛號；活動或系統的報名程序"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Online registration for the workshop closes this Friday.",
+          "highlight": [
+            "registration"
+          ],
+          "translations": {
+            "zh-TW": "工作坊的線上報名於本週五截止。"
+          }
+        },
+        {
+          "en": "Company registrations surged after the government relaxed rules.",
+          "highlight": [
+            "registrations"
+          ],
+          "translations": {
+            "zh-TW": "政府放寬規定後，公司登記數量激增。"
+          }
+        },
+        {
+          "en": "Late registration will incur an additional processing fee.",
+          "highlight": [
+            "registration"
+          ],
+          "translations": {
+            "zh-TW": "逾期報名將收取額外的手續費。"
+          }
+        }
+      ],
+      "synonyms": [
+        "enrollment",
+        "signup",
+        "recording"
+      ],
+      "antonyms": [
+        "cancellation",
+        "deregistration"
+      ],
+      "phrases": [
+        "registration fee",
+        "registration form",
+        "event registration",
+        "vehicle registration"
+      ]
     },
     {
       "id": "B2-531-004",
@@ -91,25 +207,60 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "fri",
-      "phonetic": "",
+      "phonetic": "/fraɪ/",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "fris"
+        "singular": "Fri"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "fri",
-          "definition": "abbr. 最终成品抽驗（Final Random Inspection）"
+          "definition": "名詞：星期五（Friday 的縮寫，常用於行程表與電郵）；最終成品抽驗"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The board meeting has been rescheduled to Fri morning.",
+          "highlight": [
+            "Fri"
+          ],
+          "translations": {
+            "zh-TW": "董事會議已改至週五早上舉行。"
+          }
+        },
+        {
+          "en": "Please submit your expense reports by Fri each week.",
+          "highlight": [
+            "Fri"
+          ],
+          "translations": {
+            "zh-TW": "請每週五前提交您的支出報告。"
+          }
+        },
+        {
+          "en": "Factory inspections are typically conducted on Fri afternoons.",
+          "highlight": [
+            "Fri"
+          ],
+          "translations": {
+            "zh-TW": "工廠檢驗通常安排在週五下午進行。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Friday"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "on Fri",
+        "by Fri",
+        "Fri afternoon",
+        "due Fri"
+      ]
     },
     {
       "id": "B2-531-005",
@@ -118,25 +269,63 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "courses",
-      "phonetic": "",
+      "phonetic": "/ˈkɔːrsɪz/",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "courseses"
+        "plural": "courses",
+        "singular": "course"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "courses",
-          "definition": "[醫] 月經"
+          "definition": "名詞：課程、路線、航向；course 的複數形式"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Professional development courses are subsidized up to eighty percent.",
+          "highlight": [
+            "courses"
+          ],
+          "translations": {
+            "zh-TW": "專業進修課程最高補助八成。"
+          }
+        },
+        {
+          "en": "She enrolled in two language courses this semester.",
+          "highlight": [
+            "courses"
+          ],
+          "translations": {
+            "zh-TW": "她本學期註冊了兩門語言課程。"
+          }
+        },
+        {
+          "en": "Online courses have made continuing education more accessible.",
+          "highlight": [
+            "courses"
+          ],
+          "translations": {
+            "zh-TW": "線上課程讓進修教育變得更普及。"
+          }
+        }
+      ],
+      "synonyms": [
+        "classes",
+        "programs",
+        "lessons"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "training courses",
+        "course of action",
+        "required courses",
+        "golf courses"
+      ]
     },
     {
       "id": "B2-531-006",
@@ -145,25 +334,71 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "levels",
-      "phonetic": "",
+      "phonetic": "/ˈlɛvəlz/",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "levelses"
+        "present": "level",
+        "past": "leveled",
+        "past_participle": "leveled",
+        "gerund": "leveling",
+        "plural": "levels",
+        "singular": "level"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "levels",
-          "definition": "n. 色階調整；控制色階；水平, 標準（level复数形式）"
+          "definition": "名詞：水平、標準、色階；level 的複數形式；動詞 level 的第三人稱單數"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Stress levels among employees dropped after flextime was introduced.",
+          "highlight": [
+            "levels"
+          ],
+          "translations": {
+            "zh-TW": "引入彈性工時後，員工的壓力指數下降了。"
+          }
+        },
+        {
+          "en": "Inventory levels must be checked before placing a new order.",
+          "highlight": [
+            "levels"
+          ],
+          "translations": {
+            "zh-TW": "下新訂單前必須檢查庫存水位。"
+          }
+        },
+        {
+          "en": "The supervisor levels the workload evenly across the team.",
+          "highlight": [
+            "levels"
+          ],
+          "translations": {
+            "zh-TW": "主管將工作量在團隊間平均分配。"
+          }
+        }
+      ],
+      "synonyms": [
+        "standards",
+        "degrees",
+        "tiers"
+      ],
+      "antonyms": [
+        "irregularities",
+        "slopes"
+      ],
+      "phrases": [
+        "level off",
+        "level with",
+        "sea level",
+        "at all levels"
+      ]
     },
     {
       "id": "B2-531-007",
@@ -172,25 +407,68 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "phones",
-      "phonetic": "",
+      "phonetic": "/foʊnz/",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "phoneses"
+        "present": "phone",
+        "past": "phoned",
+        "past_participle": "phoned",
+        "gerund": "phoning",
+        "plural": "phones",
+        "singular": "phone"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "phones",
-          "definition": "n. 聽筒；電话（phone的复数）"
+          "definition": "名詞：電話、聽筒（phone 的複數）；動詞 phone 的第三人稱單數"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Mobile phones must be silenced during the presentation.",
+          "highlight": [
+            "phones"
+          ],
+          "translations": {
+            "zh-TW": "簡報進行期間必須將手機靜音。"
+          }
+        },
+        {
+          "en": "She phoned the client to confirm the appointment time.",
+          "highlight": [
+            "phoned"
+          ],
+          "translations": {
+            "zh-TW": "她打電話給客戶確認預約時間。"
+          }
+        },
+        {
+          "en": "Desk phones are being replaced with VoIP handsets next month.",
+          "highlight": [
+            "phones"
+          ],
+          "translations": {
+            "zh-TW": "辦公桌電話下月起將更換為 VoIP 話機。"
+          }
+        }
+      ],
+      "synonyms": [
+        "calls",
+        "telephones",
+        "contacts"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "cell phones",
+        "mobile phones",
+        "phone call",
+        "phone in"
+      ]
     },
     {
       "id": "B2-531-008",
@@ -199,25 +477,63 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "ideas",
-      "phonetic": "",
+      "phonetic": "/aɪˈdiːəz/",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "ideases"
+        "plural": "ideas",
+        "singular": "idea"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "ideas",
-          "definition": "abbr. 工業設計优秀奖"
+          "definition": "名詞：想法、主意、構想；idea 的複數形式"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Fresh ideas from interns revitalized the marketing strategy.",
+          "highlight": [
+            "ideas"
+          ],
+          "translations": {
+            "zh-TW": "實習生的新穎想法為行銷策略注入了活力。"
+          }
+        },
+        {
+          "en": "Please submit your ideas for the new product launch by Friday.",
+          "highlight": [
+            "ideas"
+          ],
+          "translations": {
+            "zh-TW": "請在週五前提交新產品發想的點子。"
+          }
+        },
+        {
+          "en": "Brainstorming sessions generate far more ideas than solo thinking.",
+          "highlight": [
+            "ideas"
+          ],
+          "translations": {
+            "zh-TW": "腦力激盪會議產出的點子遠多於獨自思考。"
+          }
+        }
+      ],
+      "synonyms": [
+        "concepts",
+        "notions",
+        "suggestions"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "exchange of ideas",
+        "generate ideas",
+        "good ideas",
+        "abstract ideas"
+      ]
     },
     {
       "id": "B2-531-009",
@@ -226,25 +542,71 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "releases",
-      "phonetic": "",
+      "phonetic": "/rɪˈliːsɪz/",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "releaseses"
+        "present": "release",
+        "past": "released",
+        "past_participle": "released",
+        "gerund": "releasing",
+        "plural": "releases",
+        "singular": "release"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "releases",
-          "definition": "n. 释放；豁免；發泄（release的复数形式）"
+          "definition": "名詞：發布、釋放、新聞稿（release 的複數）；動詞第三人稱單數"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Software releases are scheduled quarterly to ensure stability.",
+          "highlight": [
+            "releases"
+          ],
+          "translations": {
+            "zh-TW": "軟體發布按季排程以確保穩定性。"
+          }
+        },
+        {
+          "en": "The PR team releases press statements within an hour of incidents.",
+          "highlight": [
+            "releases"
+          ],
+          "translations": {
+            "zh-TW": "公關團隊在事件發生後一小時內發布新聞稿。"
+          }
+        },
+        {
+          "en": "Press releases about the merger drew widespread media attention.",
+          "highlight": [
+            "releases"
+          ],
+          "translations": {
+            "zh-TW": "關於併購案的新聞稿引起了媒體的廣泛關注。"
+          }
+        }
+      ],
+      "synonyms": [
+        "publishes",
+        "issues",
+        "distributions"
+      ],
+      "antonyms": [
+        "withholds",
+        "retains"
+      ],
+      "phrases": [
+        "press releases",
+        "release date",
+        "software releases",
+        "new releases"
+      ]
     },
     {
       "id": "B2-531-010",
@@ -253,26 +615,68 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "wed",
-      "phonetic": "",
+      "phonetic": "/wɛd/",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "weds"
+        "present": "wed",
+        "past": "wed",
+        "past_participle": "wed",
+        "gerund": "wedding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "wed",
-          "definition": "vt. 與...結婚, 使結合, vi. 結婚"
+          "definition": "動詞：結婚、結合；與...結婚"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "They plan to wed in a small ceremony next spring.",
+          "highlight": [
+            "wed"
+          ],
+          "translations": {
+            "zh-TW": "他們計畫明年春天在小型的儀式中結婚。"
+          }
+        },
+        {
+          "en": "She has wed theory with practice in her new textbook.",
+          "highlight": [
+            "wed"
+          ],
+          "translations": {
+            "zh-TW": "她在新教科書中將理論與實務結合。"
+          }
+        },
+        {
+          "en": "Tradition dictates that couples wed before starting a family.",
+          "highlight": [
+            "wed"
+          ],
+          "translations": {
+            "zh-TW": "傳統上情侶在成家之前要先結婚。"
+          }
+        }
+      ],
+      "synonyms": [
+        "marry",
+        "unite",
+        "join"
+      ],
+      "antonyms": [
+        "divorce",
+        "separate"
+      ],
+      "phrases": [
+        "wedded bliss",
+        "wed to",
+        "newly wed",
+        "wed somebody"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }

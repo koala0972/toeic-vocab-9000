@@ -10,25 +10,66 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "homes",
-      "phonetic": "",
+      "phonetic": "/hoʊmz/",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "homeses"
+        "plural": "homes",
+        "singular": "home"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "homes",
-          "definition": "n. 房屋；家庭（home的复数形式）"
+          "definition": "名詞：房屋、家庭（home 的複數形式）；養護機構、收容所"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Nursing homes face mounting pressure to upgrade safety standards.",
+          "highlight": [
+            "homes"
+          ],
+          "translations": {
+            "zh-TW": "養護機構面臨提升安全標準的壓力日益增加。"
+          }
+        },
+        {
+          "en": "Foreclosed homes in the neighborhood sold below market value.",
+          "highlight": [
+            "homes"
+          ],
+          "translations": {
+            "zh-TW": "社區內的法拍屋以低於市價的價格出售。"
+          }
+        },
+        {
+          "en": "Retirement homes have seen a surge in demand this decade.",
+          "highlight": [
+            "homes"
+          ],
+          "translations": {
+            "zh-TW": "近十年來養老院的需求激增。"
+          }
+        }
+      ],
+      "synonyms": [
+        "residences",
+        "dwellings",
+        "houses"
+      ],
+      "antonyms": [
+        "offices",
+        "workplaces"
+      ],
+      "phrases": [
+        "retirement homes",
+        "nursing homes",
+        "at home",
+        "homes for sale"
+      ]
     },
     {
       "id": "B2-532-002",
@@ -37,25 +78,57 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "virginia",
-      "phonetic": "",
+      "phonetic": "/vərˈdʒɪnjə/",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "virginias"
+        "singular": "Virginia"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "virginia",
-          "definition": "n. 弗吉尼亚"
+          "definition": "名詞：維吉尼亞（美國州名）；女子名"
         }
       ],
-      "examples": [],
+      "examples": [
+        {
+          "en": "Our manufacturing plant in Virginia reopened after the flood.",
+          "highlight": [
+            "Virginia"
+          ],
+          "translations": {
+            "zh-TW": "我們位於維吉尼亞的工廠在洪水過後重新開放。"
+          }
+        },
+        {
+          "en": "She moved to Virginia to take up a research position at the university.",
+          "highlight": [
+            "Virginia"
+          ],
+          "translations": {
+            "zh-TW": "她搬到維吉尼亞到大學擔任研究職務。"
+          }
+        },
+        {
+          "en": "Tobacco remains one of Virginia's chief agricultural exports.",
+          "highlight": [
+            "Virginia"
+          ],
+          "translations": {
+            "zh-TW": "菸草仍是維吉尼亞的主要農產出口之一。"
+          }
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "West Virginia",
+        "Virginia Tech",
+        "University of Virginia"
+      ]
     },
     {
       "id": "B2-532-003",
@@ -64,25 +137,68 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "took",
-      "phonetic": "",
+      "phonetic": "/tʊk/",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "tooks"
+        "present": "take",
+        "past": "took",
+        "past_participle": "taken",
+        "gerund": "taking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "took",
-          "definition": "take的過去式"
+          "definition": "動詞：take 的過去式；拿取、花費、採用"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "He took the last train to avoid the rush-hour traffic.",
+          "highlight": [
+            "took"
+          ],
+          "translations": {
+            "zh-TW": "他搭末班火車以避開尖峰時段的車流。"
+          }
+        },
+        {
+          "en": "The new policy took effect on the first of January.",
+          "highlight": [
+            "took"
+          ],
+          "translations": {
+            "zh-TW": "新政策自一月一日起生效。"
+          }
+        },
+        {
+          "en": "Having taken all the prerequisites, she enrolled in the advanced seminar.",
+          "highlight": [
+            "taken"
+          ],
+          "translations": {
+            "zh-TW": "修完所有先修課程後，她註冊了進階研討課。"
+          }
+        }
+      ],
+      "synonyms": [
+        "seized",
+        "grabbed",
+        "adopted"
+      ],
+      "antonyms": [
+        "gave",
+        "released"
+      ],
+      "phrases": [
+        "took over",
+        "took place",
+        "took off",
+        "took part"
+      ]
     },
     {
       "id": "B2-532-004",
@@ -91,11 +207,12 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "inn",
-      "phonetic": "",
+      "phonetic": "/ɪn/",
       "pos": [
         "noun"
       ],
       "conjugations": {
+        "singular": "inn",
         "plural": "inns"
       },
       "domain": "general",
@@ -103,13 +220,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "inn",
-          "definition": "n. 旅館, 客栈, vi. 住旅館"
+          "definition": "名詞：旅館、客棧；提供住宿與餐飲的小型旅店"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The country inn overlooks a peaceful river valley.",
+          "highlight": [
+            "inn"
+          ],
+          "translations": {
+            "zh-TW": "這家鄉村旅館俯瞰著寧靜的河谷。"
+          }
+        },
+        {
+          "en": "Many historic inns have been converted into boutique hotels.",
+          "highlight": [
+            "inns"
+          ],
+          "translations": {
+            "zh-TW": "許多歷史悠久的客棧已被改造成精品飯店。"
+          }
+        },
+        {
+          "en": "Travelers relied on coaching inns as relay stations along the route.",
+          "highlight": [
+            "inns"
+          ],
+          "translations": {
+            "zh-TW": "旅客依賴沿途的驛站客棧做為中繼休息站。"
+          }
+        }
+      ],
+      "synonyms": [
+        "lodge",
+        "tavern",
+        "hostel"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "holiday inn",
+        "inn keeper",
+        "country inn",
+        "roadside inn"
+      ]
     },
     {
       "id": "B2-532-005",
@@ -118,25 +272,60 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "cnet",
-      "phonetic": "",
+      "phonetic": "/siːˈnɛt/",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "cnets"
+        "singular": "CNET"
       },
-      "domain": "general",
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cnet",
-          "definition": "abbr. 科技资讯網（CNET News）；中央交换網框；法國國家電信研究中心"
+          "definition": "名詞：科技資訊網（CNET News）；法國國家電信研究中心"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "CNET published a detailed comparison of the latest smartphones.",
+          "highlight": [
+            "CNET"
+          ],
+          "translations": {
+            "zh-TW": "科技資訊網發布了最新智慧型手機的詳細比較報告。"
+          }
+        },
+        {
+          "en": "The startup was featured in a CNET article on emerging tech trends.",
+          "highlight": [
+            "CNET"
+          ],
+          "translations": {
+            "zh-TW": "這家新創公司被科技資訊網一篇關於新興科技趨勢的文章所報導。"
+          }
+        },
+        {
+          "en": "Researchers at CNET pioneered early packet-switching protocols.",
+          "highlight": [
+            "CNET"
+          ],
+          "translations": {
+            "zh-TW": "法國國家電信研究中心的研究人員率先開發了早期的分封交換協定。"
+          }
+        }
+      ],
+      "synonyms": [
+        "tech news",
+        "tech site"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "CNET News",
+        "CNET review",
+        "read on CNET"
+      ]
     },
     {
       "id": "B2-532-006",
@@ -145,25 +334,60 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "los",
-      "phonetic": "",
+      "phonetic": "/lɒs/",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "loses"
+        "singular": "LOS"
       },
-      "domain": "general",
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "los",
-          "definition": "abbr. 月球轨道航天器（Lunar Orbiter Spacecraft）；視線（Line of Sight）"
+          "definition": "名詞：月球軌道太空船（Lunar Orbiter Spacecraft）；視線（Line of Sight）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The surveyor confirmed clear line-of-sight between the two towers.",
+          "highlight": [
+            "line-of-sight"
+          ],
+          "translations": {
+            "zh-TW": "測量員確認兩座塔之間有清晰的視線。"
+          }
+        },
+        {
+          "en": "LOS measurements are essential for microwave link planning.",
+          "highlight": [
+            "LOS"
+          ],
+          "translations": {
+            "zh-TW": "視線量測對微波鏈路規劃至關重要。"
+          }
+        },
+        {
+          "en": "The LOS spacecraft sent back the first close-up images of the lunar surface.",
+          "highlight": [
+            "LOS"
+          ],
+          "translations": {
+            "zh-TW": "月球軌道太空船傳回了月球表面的首批特寫影像。"
+          }
+        }
+      ],
+      "synonyms": [
+        "line of sight"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "line of sight",
+        "LOS link",
+        "LOS analysis",
+        "LOS clearance"
+      ]
     },
     {
       "id": "B2-532-007",
@@ -172,25 +396,69 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "featured",
-      "phonetic": "",
+      "phonetic": "/ˈfiːtʃərd/",
       "pos": [
-        "noun"
+        "adjective",
+        "verb"
       ],
       "conjugations": {
-        "plural": "featureds"
+        "present": "feature",
+        "past": "featured",
+        "past_participle": "featured",
+        "gerund": "featuring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "featured",
-          "definition": "a. 面貌秀丽的, 被作為特色的"
+          "definition": "形容詞：作為特色的、面貌秀麗的；動詞 feature 的過去式與過去分詞"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The magazine featured her startup on its cover last month.",
+          "highlight": [
+            "featured"
+          ],
+          "translations": {
+            "zh-TW": "該雜誌上個月將她的新創公司作為封面專題。"
+          }
+        },
+        {
+          "en": "Featured products are displayed prominently at the store entrance.",
+          "highlight": [
+            "Featured"
+          ],
+          "translations": {
+            "zh-TW": "精選商品陳列在店面的顯眼位置。"
+          }
+        },
+        {
+          "en": "The festival has featured artists from over thirty countries.",
+          "highlight": [
+            "featured"
+          ],
+          "translations": {
+            "zh-TW": "該藝術節曾邀請來自三十多個國家的藝術家演出。"
+          }
+        }
+      ],
+      "synonyms": [
+        "showcased",
+        "highlighted",
+        "prominent"
+      ],
+      "antonyms": [
+        "excluded",
+        "omitted"
+      ],
+      "phrases": [
+        "featured article",
+        "featured product",
+        "featured artist",
+        "be featured in"
+      ]
     },
     {
       "id": "B2-532-008",
@@ -199,25 +467,63 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "rooms",
-      "phonetic": "",
+      "phonetic": "/ruːmz/",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "roomses"
+        "plural": "rooms",
+        "singular": "room"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "rooms",
-          "definition": "n. 空間；房間（room的复数）"
+          "definition": "名詞：房間、空間（room 的複數形式）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Conference rooms must be reserved at least twenty-four hours in advance.",
+          "highlight": [
+            "rooms"
+          ],
+          "translations": {
+            "zh-TW": "會議室須至少提前二十四小時預訂。"
+          }
+        },
+        {
+          "en": "Hotel rooms with sea views command a premium during peak season.",
+          "highlight": [
+            "rooms"
+          ],
+          "translations": {
+            "zh-TW": "海景客房在旺季時索價較高。"
+          }
+        },
+        {
+          "en": "Chat rooms were popular before social media took over the internet.",
+          "highlight": [
+            "rooms"
+          ],
+          "translations": {
+            "zh-TW": "在社群媒體主宰網路之前，聊天室曾經非常流行。"
+          }
+        }
+      ],
+      "synonyms": [
+        "chambers",
+        "spaces",
+        "suites"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "chat rooms",
+        "meeting rooms",
+        "dressing rooms",
+        "emergency rooms"
+      ]
     },
     {
       "id": "B2-532-009",
@@ -226,25 +532,65 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "communications",
-      "phonetic": "",
+      "phonetic": "/kəˌmjuːnɪˈkeɪʃənz/",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "communicationses"
+        "plural": "communications",
+        "singular": "communication"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "communications",
-          "definition": "n. 交通設施, 通讯系统"
+          "definition": "名詞：通訊系統、交通設施、傳播（communication 的複數形式）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Internal communications improved noticeably after the company-wide update.",
+          "highlight": [
+            "communications"
+          ],
+          "translations": {
+            "zh-TW": "全公司更新後，內部溝通明顯改善。"
+          }
+        },
+        {
+          "en": "Optical fiber forms the backbone of modern communications networks.",
+          "highlight": [
+            "communications"
+          ],
+          "translations": {
+            "zh-TW": "光纖構成了現代通訊網路的骨幹。"
+          }
+        },
+        {
+          "en": "She oversees external communications for a multinational bank.",
+          "highlight": [
+            "communications"
+          ],
+          "translations": {
+            "zh-TW": "她負責一家跨國銀行的對外溝通事務。"
+          }
+        }
+      ],
+      "synonyms": [
+        "correspondence",
+        "exchanges",
+        "information"
+      ],
+      "antonyms": [
+        "silence"
+      ],
+      "phrases": [
+        "mass communications",
+        "communications department",
+        "communications satellite",
+        "communications strategy"
+      ]
     },
     {
       "id": "B2-532-010",
@@ -253,26 +599,59 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "thomas",
-      "phonetic": "",
+      "phonetic": "/ˈtɒməs/",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "thomases"
+        "singular": "Thomas"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "thomas",
-          "definition": "n. 多馬(耶稣十二門徒之一)"
+          "definition": "名詞：多馬（耶穌十二門徒之一）；湯瑪斯（男子名）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Thomas will chair the audit committee starting next quarter.",
+          "highlight": [
+            "Thomas"
+          ],
+          "translations": {
+            "zh-TW": "湯瑪斯下季起將擔任稽核委員會主席。"
+          }
+        },
+        {
+          "en": "Please send the revised proposal to Thomas before the review meeting.",
+          "highlight": [
+            "Thomas"
+          ],
+          "translations": {
+            "zh-TW": "請在審查會議前將修改後的提案寄給湯瑪斯。"
+          }
+        },
+        {
+          "en": "Saint Thomas is revered for his unwavering faith and missionary work.",
+          "highlight": [
+            "Thomas"
+          ],
+          "translations": {
+            "zh-TW": "聖多馬因其堅定的信仰與傳教工作而備受尊崇。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Tom"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Thomas the Apostle",
+        "Doubting Thomas",
+        "Thomas Edison"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
