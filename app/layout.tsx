@@ -37,11 +37,13 @@ export const metadata: Metadata = {
     siteName: 'ToeicHub',
     locale: 'zh_TW',
     type: 'website',
+    images: [{ url: `${SITE_URL}/og.png`, width: 1200, height: 630, alt: 'ToeicHub 多益單字' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'ToeicHub 多益單字',
     description: '免費多益單字學習工具，9K 關卡由淺入深，中英對照 + 語音 + 收藏。',
+    images: [`${SITE_URL}/og.png`],
   },
   robots: {
     index: true,
@@ -103,6 +105,48 @@ export default function RootLayout({
         />
       </head>
       <body className="bg-slate-50 text-slate-900 min-h-screen">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'WebApplication',
+              name: 'ToeicHub 多益單字',
+              description: '免費多益單字學習工具，9000 個單字分 3 級 900 關，由淺入深。每字附中文翻譯、例句、語音朗讀，中英反白對照學習。',
+              url: SITE_URL,
+              applicationCategory: 'EducationalApplication',
+              operatingSystem: 'Web, Android, iOS',
+              offers: { '@type': 'Offer', price: '0', priceCurrency: 'TWD' },
+              featureList: [
+                '9000 多益單字', '3 級 900 關卡闖關', '中文翻譯 + 例句',
+                '語音朗讀 (Web Speech API)', '中英反白對照', 'IndexedDB 本機儲存進度',
+                'PWA 離線可用', '收藏功能', '重覆播放',
+              ],
+              inLanguage: ['zh-TW', 'en'],
+              audience: {
+                '@type': 'EducationalAudience',
+                educationalRole: 'student',
+              },
+            }),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'WebSite',
+              name: 'ToeicHub 多益單字',
+              url: SITE_URL,
+              inLanguage: 'zh-TW',
+              potentialAction: {
+                '@type': 'SearchAction',
+                target: `${SITE_URL}/search?q={search_term_string}`,
+                'query-input': 'required name=search_term_string',
+              },
+            }),
+          }}
+        />
         {children}
         <UpdatePrompt />
         <Script id="sw-register" src="/sw-register.js" strategy="afterInteractive" />

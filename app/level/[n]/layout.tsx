@@ -1,69 +1,50 @@
 import type { Metadata } from 'next';
-import { levelToCEFR, levelToTier, levelToToeicScore, TIERS } from '@/lib/levels-config';
 
 const SITE_URL = 'https://english-learning-three-gamma.vercel.app';
 
-const tierZh: Record<string, string> = {
-  basic: '初級',
-  intermediate: '中級',
-  advanced: '高級',
-};
+/** 關卡 tier 對應中文名 */
+function tierName(n: number): string {
+  if (n <= 300) return '初級';
+  if (n <= 600) return '中級';
+  return '高級';
+}
 
-export async function generateMetadata({
-  params,
-}: {
-  params: Promise<{ n: string }>;
-}): Promise<Metadata> {
-  const { n } = await params;
-  const level = parseInt(n, 10);
+/** 關卡 tier 對應字數 */
+function tierCount(n: number): string {
+  if (n <= 300) return 'Oxford 3000 + COCA';
+  if (n <= 600) return 'TSL 1.2 + COCA 補充';
+  return 'TSL 1.2 進階 + COCA 高頻';
+}
 
-  if (isNaN(level) || level < 1 || level > 900) {
-    return {
-      title: '關卡不存在',
-      robots: { index: false, follow: false },
-    };
-  }
+type Props = { params: { n: string } };
 
-  const cefr = levelToCEFR(level);
-  const tier = levelToTier(level);
-  const toeic = levelToToeicScore(level);
-  const tierName = tierZh[tier] ?? '';
-
-  const title = `多益單字 關卡 ${level}（${tierName}・CEFR ${cefr}・多益 ${toeic}+）`;
-  const description = `多益單字 9000 第 ${level} 關，${tierName}難度，CEFR ${cefr}，對應多益 ${toeic} 分以上。10 個英文單字搭配中文翻譯、例句、語音朗讀，中英反白對照學習。`;
-
-  // 構建 keyword list
-  const keywords = [
-    '多益單字', 'TOEIC vocabulary', `多益第${level}關`, `CEFR ${cefr}`,
-    `多益 ${toeic}分`, `${tierName}英文`, '英文單字學習', '英語背單字',
-  ];
-
+export function generateMetadata({ params }: Props): Metadata {
+  const n = parseInt(params.n, 10);
+  const tier = tierName(n);
+  const wordRange = `${(n - 1) * 10 + 1}–${n * 10}`;
+  const title = `第 ${n} 關 ${tier} · 多益單字 ${wordRange}`;
+  const description = `ToeicHub 多益單字第 ${n} 關, ${tier} (${tierCount(n)}), 本關學單字編號 ${wordRange}. 中文翻譯 + 例句 + 語音朗讀, 練闖關由淺入深.`;
+  const url = `${SITE_URL}/level/${n}`;
   return {
     title,
     description,
-    keywords,
-    alternates: {
-      canonical: `/level/${level}`,
-    },
+    alternates: { canonical: url },
     openGraph: {
-      title,
+      title: `${title} | ToeicHub`,
       description,
-      url: `${SITE_URL}/level/${level}`,
-      type: 'website',
+      url,
+      siteName: 'ToeicHub',
       locale: 'zh_TW',
+      type: 'website',
     },
     twitter: {
-      card: 'summary',
-      title: `多益單字 關卡 ${level}（${tierName}・CEFR ${cefr}）`,
+      card: 'summary_large_image',
+      title: `${title} | ToeicHub`,
       description,
     },
   };
 }
 
-export default function LevelLayout({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
+export default function LevelLayout({ children }: { children: React.ReactNode }) {
   return children;
 }
