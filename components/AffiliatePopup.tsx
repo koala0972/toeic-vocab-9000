@@ -138,6 +138,9 @@ export default function AffiliatePopup({ open, onClose, trigger }: AffiliatePopu
                 <div className="text-sm font-semibold text-slate-800 leading-tight line-clamp-2">
                   {sku.title}
                 </div>
+                <div className="text-[11px] text-slate-500 mt-1 leading-snug line-clamp-2">
+                  {sku.subtitle}
+                </div>
                 <div className="text-[11px] text-violet-600 group-hover:underline mt-2 inline-flex items-center gap-1">
                   查看詳情 <span aria-hidden="true">→</span>
                 </div>
