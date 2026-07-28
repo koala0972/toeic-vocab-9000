@@ -1,15 +1,15 @@
 /**
- * Affiliate recommendations — 8 real brands, Impact-style tracking links.
- * Updated 2026-07-27: upgraded from short links to Impact platform links.
+ * Affiliate recommendations — 8 real brands, Impact + Affiliate One CDN.
+ * Updated 2026-07-28: 全部 8 家圖片改用 Affiliate One CDN (cdn.affiliates.one).
  *
  * - `url`         : Impact click tracker (twshop4coupon/affclkr/tlcafftrax...)
  * - `impressionUrl`: vbtrax imp pixel (5 of 8 have this; null for the rest)
- * - `image`       : Brand logo hosted locally (og:image / favicon fallback)
+ * - `image`       : Affiliate One CDN brand logo (cdn.affiliates.one, 沒 hotlink 限制)
  */
 export type AffiliateSku = {
   id: string;
   title: string;
-  /** Logo 圖 (本地 PNG, /affiliates/<id>.png) */
+  /** Logo 圖 (Affiliate One CDN) */
   image: string;
   /** Impact 點擊追蹤連結. 含 subId1/2 cookie 歸因. */
   url: string;
@@ -23,7 +23,7 @@ export const AFFILIATE_SKUS: readonly AffiliateSku[] = [
   {
     id: 'ivy-bar',
     title: 'iVY BAR 學英文吧',
-    image: '/affiliates/ivy-bar.png',
+    image: 'https://cdn.affiliates.one/production/dotone/network_offer/network/5139/db65daee541916dfab8ab250fcedbebe.png',
     url: 'https://tlcafftrax.com/track/clicks/8567/c627c2bc9b0527d7fd8bec23d62e9b47266f4ddf2aabebfc0266b513234652eed671a3ea103a9e71',
     impressionUrl: null,
     aria: 'iVY BAR 學英文吧 — 帶你走向世界',
@@ -31,7 +31,7 @@ export const AFFILIATE_SKUS: readonly AffiliateSku[] = [
   {
     id: 'jiantan',
     title: '巨匠美語',
-    image: '/affiliates/jiantan.png',
+    image: 'https://cdn.affiliates.one/production/dotone/network_offer/network/126/64c3c939b830cba93ad52836c5f982fa.png',
     url: 'https://affclkr.online/track/clicks/8172/c627c2bc9b0527d7fd89ec36d32e9d43276c4fdf24bbebf00563b205715b19e3c836a6e5423c9929398ffb9f45a77cbc87?t=https%3A%2F%2Fwww.soeasyedu.com.tw%2Fsoeasy%2Factivity%2F2019%2F201910-English-and-Japanese-learning-subsidy%2Findex.html%3Fpid%3Daffiliates%26id%3D-aff_id-%26id2%3D-transaction_id-%26utm_medium%3Daffiliates-one%26utm_source%3Daffiliate%26utm_campaign%3D201910-English-and-Japanese-learning-subsidy%26fromto%3D99144002',
     impressionUrl: null,
     aria: '巨匠美語成人英文課程推薦, 全台37間分校',
@@ -39,7 +39,7 @@ export const AFFILIATE_SKUS: readonly AffiliateSku[] = [
   {
     id: '51talk',
     title: '51Talk',
-    image: 'https://vbtrax.com/track/imp/img/185421/c627c2bc9b0527d7fd8eec2bd32e9e4d206b4fc863bcb0f90362b105671200a8cd30a2e2566e9d2634ddffd81d',
+    image: 'https://cdn.affiliates.one/production/dotone/network_offer/network/27606/76a378f2bdff4ecfd0a4d0f770fc4d94.png',
     url: 'https://affclkr.com/track/clicks/7352/c627c2bc9b0527d7fd8eec2bd32e9e4d206b4fc863bcb0f90362b105671200a8cd30a2e2566e9f663499abdb4aee7abb970d?t=https%3A%2F%2Fwap.51talk.com%2Flanding%2Faffiliate_1vs1_01.html',
     impressionUrl: 'https://vbtrax.com/track/imp/img/185421/c627c2bc9b0527d7fd8eec2bd32e9e4d206b4fc863bcb0f90362b105671200a8cd30a2e2566e9d2634ddffd81d',
     aria: '51Talk 兒童線上英文, 讓孩子愛上說英文',
@@ -47,7 +47,7 @@ export const AFFILIATE_SKUS: readonly AffiliateSku[] = [
   {
     id: 'oikid',
     title: 'OiKID',
-    image: 'https://vbtrax.com/track/imp/img/189639/c627c2bc9b0527d7fd8cec2bd32e9e4d2c694ec063bcb0f90362b105671200a8cd30a2e4556e9d2634ddffd81d',
+    image: 'https://cdn.affiliates.one/production/dotone/network_offer/network/14919/6fd72a2160c56788907989fcc25e1bfa.png',
     url: 'https://affckr.site/track/clicks/7331/c627c2bc9b0527d7fd8cec2bd32e9e4d2c694ec063bcb0f90362b105671200a8cd30a2e4556e9f663499abdb4aee7abb970d?t=https%3A%2F%2Fwww.oikid.com%2Fpromote%2Fcampaign-Aff%2F%3Futm_source%3Daffiliates%26utm_medium%3Dcpc%26utm_campaign%3Doikid_04',
     impressionUrl: 'https://vbtrax.com/track/imp/img/189639/c627c2bc9b0527d7fd8cec2bd32e9e4d2c694ec063bcb0f90362b105671200a8cd30a2e4556e9d2634ddffd81d',
     aria: 'OiKID 提升孩童英語能力',
@@ -55,7 +55,7 @@ export const AFFILIATE_SKUS: readonly AffiliateSku[] = [
   {
     id: 'voicetube',
     title: 'VoiceTube Vclass 名師課',
-    image: '/affiliates/voicetube.png',
+    image: 'https://cdn.affiliates.one/production/dotone/network_offer/network/13069/4ea7506b875191a024f2dc39c170c1c1.png',
     url: 'https://affckr.site/track/clicks/7063/c627c2bc9b0527d7fd8dec23d62e9b47266f4ddf2aabebf30766b113234652eed671a3ea103a9e71',
     impressionUrl: null,
     aria: 'VoiceTube Vclass 名師課, 專業老師規劃的語言學習課程',
@@ -63,7 +63,7 @@ export const AFFILIATE_SKUS: readonly AffiliateSku[] = [
   {
     id: 'yingdai',
     title: '英代外語',
-    image: 'https://vbtrax.com/track/imp/img/146039/c627c2bc9b0527d7fd82ec2bd32e9e41236f4ec063bcb0f90362b105671200a8cd30a1ee5d6e9d2634ddffd81d',
+    image: 'https://cdn.affiliates.one/production/dotone/network_offer/network/7561/345a2dcb92c06d269b9f1f192ada8b0c.png',
     url: 'https://vbshoptrax.com/track/clicks/7099/c627c2bc9b0527d7fd82ec2bd32e9e41236f4ec063bcb0f90362b105671200a8cd30a1ee5d6e9f663499abdb4aee7abb970d',
     impressionUrl: 'https://vbtrax.com/track/imp/img/146039/c627c2bc9b0527d7fd82ec2bd32e9e41236f4ec063bcb0f90362b105671200a8cd30a1ee5d6e9d2634ddffd81d',
     aria: '英代外語, 挑戰多益700分, 一週只要888',
@@ -71,7 +71,7 @@ export const AFFILIATE_SKUS: readonly AffiliateSku[] = [
   {
     id: 'd-plus',
     title: 'D+ Language Plus',
-    image: 'https://vbtrax.com/track/imp/img/205638/c627c2bc9b0527d7fd83ec2bd32e9d4520694ec163bcb0f90362b105671200a8cd3ea0ee566e9d2634ddffd81d',
+    image: 'https://cdn.affiliates.one/production/dotone/network_offer/network/7620/c2561de8-1225-47ae-ab46-9d9842bf6c38.png',
     url: 'https://affclk.site/track/clicks/9192/c627c2bc9b0527d7fd83ec2bd32e9d4520694ec163bcb0f90362b105671200a8cd3ea0ee566e9f663499abdb4aee7abb970d?t=https%3A%2F%2Fwww.dahhsinmedia.com%2Fproduct%2Fcindy-toeic-video%2F',
     impressionUrl: 'https://vbtrax.com/track/imp/img/205638/c627c2bc9b0527d7fd83ec2bd32e9d4520694ec163bcb0f90362b105671200a8cd3ea0ee566e9d2634ddffd81d',
     aria: 'D+ Language Plus 大新線上語言教育平台',
