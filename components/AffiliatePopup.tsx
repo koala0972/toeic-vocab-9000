@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useRef } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { AFFILIATE_SKUS } from '@/lib/affiliates';
 import { incrAffiliateClickCount } from '@/lib/storage';
 
@@ -19,6 +19,14 @@ interface AffiliatePopupProps {
  */
 export default function AffiliatePopup({ open, onClose, trigger }: AffiliatePopupProps) {
   const closeRef = useRef<HTMLButtonElement | null>(null);
+
+  // 每次開啟隨機挑 4 個品牌
+  const [picked, setPicked] = useState<readonly typeof AFFILIATE_SKUS[number][]>([]);
+  useEffect(() => {
+    if (!open) return;
+    const shuffled = [...AFFILIATE_SKUS].sort(() => Math.random() - 0.5);
+    setPicked(shuffled.slice(0, 4));
+  }, [open]);
 
   // Auto-focus close button when opened, restore on close
   useEffect(() => {
@@ -104,7 +112,7 @@ export default function AffiliatePopup({ open, onClose, trigger }: AffiliatePopu
         </div>
 
         <div className="grid grid-cols-2 md:grid-cols-4 gap-3 p-5">
-          {AFFILIATE_SKUS.map((sku) => (
+          {picked.map((sku) => (
             <a
               key={sku.id}
               href={sku.url}
