@@ -2,6 +2,11 @@
   "level": 628,
   "tier": "advanced",
   "cefr": "C1",
+  "_skeleton": {
+    "toeic_score_min": 880,
+    "generated_at": "2026-07-30",
+    "source": "vocab-level-refine"
+  },
   "words": [
     {
       "id": "C1-628-001",
@@ -15,20 +20,58 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "candidateses"
+        "plural": "candidates"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "candidates",
-          "definition": "n. 報考者( candidate的复数形式 ); 申請求职者; 攻讀學位者; 最後命運或結局如何已顯然可见者"
+          "definition": "n. 候選人；應試者（複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several candidates applied for the position.",
+          "highlight": [
+            "candidates"
+          ],
+          "translations": {
+            "zh-TW": "幾位候選人申請了這個職位。"
+          }
+        },
+        {
+          "en": "The two candidates debated on national television.",
+          "highlight": [
+            "candidates"
+          ],
+          "translations": {
+            "zh-TW": "兩位候選人在國家電視台上辯論。"
+          }
+        },
+        {
+          "en": "Interviewers will evaluate all candidates tomorrow.",
+          "highlight": [
+            "candidates"
+          ],
+          "translations": {
+            "zh-TW": "面試官明天將評估所有應試者。"
+          }
+        }
+      ],
+      "synonyms": [
+        "applicants",
+        "contestants"
+      ],
+      "antonyms": [
+        "incumbents"
+      ],
+      "phrases": [
+        "job candidates",
+        "presidential candidates",
+        "qualified candidates",
+        "shortlisted candidates"
+      ]
     },
     {
       "id": "C1-628-002",
@@ -39,7 +82,8 @@
       "word": "charlotte",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "proper noun"
       ],
       "conjugations": {
         "plural": "charlottes"
@@ -49,13 +93,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "charlotte",
-          "definition": "n. 水果奶油布丁"
+          "definition": "n. 夏洛特（女子名／美國城市）；水果奶油布丁"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Charlotte is the largest city in North Carolina.",
+          "highlight": [
+            "Charlotte"
+          ],
+          "translations": {
+            "zh-TW": "夏洛特是北卡羅萊納州最大的城市。"
+          }
+        },
+        {
+          "en": "Charlotte will represent our team at the meeting.",
+          "highlight": [
+            "Charlotte"
+          ],
+          "translations": {
+            "zh-TW": "夏洛特將代表我們團隊出席會議。"
+          }
+        },
+        {
+          "en": "I have known Charlotte since elementary school.",
+          "highlight": [
+            "Charlotte"
+          ],
+          "translations": {
+            "zh-TW": "我從小學就認識夏洛特了。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Charlie"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Charlotte Hornets",
+        "downtown Charlotte",
+        "Charlotte's web",
+        "apple charlotte"
+      ]
     },
     {
       "id": "C1-628-003",
@@ -66,23 +145,66 @@
       "word": "ordered",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "ordereds"
+        "plural": "ordered",
+        "present_3rd": "orders",
+        "past": "ordered",
+        "past_participle": "ordered",
+        "ing": "ordering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "ordered",
-          "definition": "a. 安排好的, 有規律的, 有条理的, 整齐的, [計] 顺序的"
+          "definition": "v. 訂購；命令（過去式／過去分詞）；adj. 有秩序的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "She ordered the steak medium-rare at the restaurant.",
+          "highlight": [
+            "ordered"
+          ],
+          "translations": {
+            "zh-TW": "她在餐廳點了三分熟的牛排。"
+          }
+        },
+        {
+          "en": "He has ordered new supplies for the office.",
+          "highlight": [
+            "ordered"
+          ],
+          "translations": {
+            "zh-TW": "他已為辦公室訂購了新用品。"
+          }
+        },
+        {
+          "en": "The general is ordering the troops to advance.",
+          "highlight": [
+            "ordering"
+          ],
+          "translations": {
+            "zh-TW": "將軍正命令部隊前進。"
+          }
+        }
+      ],
+      "synonyms": [
+        "requested",
+        "commanded"
+      ],
+      "antonyms": [
+        "disordered"
+      ],
+      "phrases": [
+        "ordered items",
+        "ordered list",
+        "placed an ordered",
+        "well-ordered"
+      ]
     },
     {
       "id": "C1-628-004",
@@ -93,23 +215,63 @@
       "word": "happens",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "happenses"
+        "plural": "happen",
+        "present_3rd": "happens",
+        "past": "happened",
+        "past_participle": "happened",
+        "ing": "happening"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "happens",
-          "definition": "v. 發生( happen的第三人稱單数 ); 碰巧; 產生結果; （向對方表示异議或不悦等）"
+          "definition": "v. 發生（第三人稱單數）；碰巧"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "What happens if you miss the deadline?",
+          "highlight": [
+            "happens"
+          ],
+          "translations": {
+            "zh-TW": "如果你錯過截止日期會發生什麼事？"
+          }
+        },
+        {
+          "en": "A strange thing happened on the way home.",
+          "highlight": [
+            "happened"
+          ],
+          "translations": {
+            "zh-TW": "回家路上發生了一件奇怪的事。"
+          }
+        },
+        {
+          "en": "The festival is happening downtown this weekend.",
+          "highlight": [
+            "happening"
+          ],
+          "translations": {
+            "zh-TW": "本週末市區正在舉辦節慶活動。"
+          }
+        }
+      ],
+      "synonyms": [
+        "occurs",
+        "takes place"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "happens to be",
+        "what happens next",
+        "shit happens",
+        "as it happens"
+      ]
     },
     {
       "id": "C1-628-005",
@@ -123,20 +285,58 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "preferenceses"
+        "plural": "preferences"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "preferences",
-          "definition": "[計] 参数選择"
+          "definition": "n. 偏好；喜愛（複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Users can set their preferences in the settings menu.",
+          "highlight": [
+            "preferences"
+          ],
+          "translations": {
+            "zh-TW": "使用者可以在設定選單中設定偏好。"
+          }
+        },
+        {
+          "en": "Dietary preferences should be shared before the dinner.",
+          "highlight": [
+            "preferences"
+          ],
+          "translations": {
+            "zh-TW": "飲食偏好應該在晚宴前告知。"
+          }
+        },
+        {
+          "en": "The survey asks about personal music preferences.",
+          "highlight": [
+            "preferences"
+          ],
+          "translations": {
+            "zh-TW": "調查詢問個人音樂偏好。"
+          }
+        }
+      ],
+      "synonyms": [
+        "favorites",
+        "inclinations"
+      ],
+      "antonyms": [
+        "aversions"
+      ],
+      "phrases": [
+        "user preferences",
+        "food preferences",
+        "language preferences",
+        "personal preferences"
+      ]
     },
     {
       "id": "C1-628-006",
@@ -147,7 +347,8 @@
       "word": "bruce",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "proper noun"
       ],
       "conjugations": {
         "plural": "bruces"
@@ -157,13 +358,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "bruce",
-          "definition": "n. 布鲁斯"
+          "definition": "n. 布魯斯（男子名）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Bruce is in charge of the marketing project.",
+          "highlight": [
+            "Bruce"
+          ],
+          "translations": {
+            "zh-TW": "布魯斯負責這個行銷專案。"
+          }
+        },
+        {
+          "en": "Please have Bruce call me when he returns.",
+          "highlight": [
+            "Bruce"
+          ],
+          "translations": {
+            "zh-TW": "請布魯斯回來時打電話給我。"
+          }
+        },
+        {
+          "en": "I worked with Bruce at the law firm.",
+          "highlight": [
+            "Bruce"
+          ],
+          "translations": {
+            "zh-TW": "我和布魯斯在那家律師事務所共事過。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Brucie"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Bruce Wayne",
+        "Bruce Lee",
+        "Bruce's office",
+        "hey Bruce"
+      ]
     },
     {
       "id": "C1-628-007",
@@ -177,20 +413,56 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "themeses"
+        "plural": "themes"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "themes",
-          "definition": "n. 主题（theme的复数）；布景主题；桌面主题"
+          "definition": "n. 主題；題材（複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Several themes recur throughout the novel.",
+          "highlight": [
+            "themes"
+          ],
+          "translations": {
+            "zh-TW": "幾個主題貫穿整部小說。"
+          }
+        },
+        {
+          "en": "The conference will explore themes of innovation.",
+          "highlight": [
+            "themes"
+          ],
+          "translations": {
+            "zh-TW": "研討會將探討創新的主題。"
+          }
+        },
+        {
+          "en": "Choose between dark and light themes for the app.",
+          "highlight": [
+            "themes"
+          ],
+          "translations": {
+            "zh-TW": "為應用程式選擇深色或淺色主題。"
+          }
+        }
+      ],
+      "synonyms": [
+        "motifs",
+        "topics"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "main themes",
+        "recurring themes",
+        "color themes",
+        "party themes"
+      ]
     },
     {
       "id": "C1-628-008",
@@ -201,23 +473,66 @@
       "word": "powers",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "powerses"
+        "plural": "powers",
+        "present_3rd": "powers",
+        "past": "powered",
+        "past_participle": "powered",
+        "ing": "powering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "powers",
-          "definition": "n. 权势；力量（power的复数形式）"
+          "definition": "n. 權力；能力（複數）；v. 驅動（第三人稱單數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The new engine powers the train up the mountain.",
+          "highlight": [
+            "powers"
+          ],
+          "translations": {
+            "zh-TW": "新引擎驅動火車上山。"
+          }
+        },
+        {
+          "en": "Big powers should cooperate on global issues.",
+          "highlight": [
+            "powers"
+          ],
+          "translations": {
+            "zh-TW": "大國應在全球議題上合作。"
+          }
+        },
+        {
+          "en": "The factory is powering down for the night.",
+          "highlight": [
+            "powering"
+          ],
+          "translations": {
+            "zh-TW": "工廠正在夜間關閉電源。"
+          }
+        }
+      ],
+      "synonyms": [
+        "authorities",
+        "capabilities"
+      ],
+      "antonyms": [
+        "weaknesses"
+      ],
+      "phrases": [
+        "world powers",
+        "great powers",
+        "powers of attorney",
+        "super powers"
+      ]
     },
     {
       "id": "C1-628-009",
@@ -231,20 +546,58 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "bitses"
+        "plural": "bits"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bits",
-          "definition": "abbr. 後台智能傳輸服務（Background Intelligent Transfer Service）；建設集成時序供應（Building Integrated Timing Supply）；二进制数字（Binary digits）"
+          "definition": "n. 位元；小塊；少量（複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The file size is measured in bits and bytes.",
+          "highlight": [
+            "bits"
+          ],
+          "translations": {
+            "zh-TW": "檔案大小以位元和位元組為單位計量。"
+          }
+        },
+        {
+          "en": "She added bits of chocolate to the cookie dough.",
+          "highlight": [
+            "bits"
+          ],
+          "translations": {
+            "zh-TW": "她在餅乾麵糰裡加了少許巧克力。"
+          }
+        },
+        {
+          "en": "There are bits of information scattered in the report.",
+          "highlight": [
+            "bits"
+          ],
+          "translations": {
+            "zh-TW": "報告中散落著零星的資訊。"
+          }
+        }
+      ],
+      "synonyms": [
+        "pieces",
+        "fragments"
+      ],
+      "antonyms": [
+        "whole"
+      ],
+      "phrases": [
+        "bits and pieces",
+        "bits per second",
+        "binary bits",
+        "small bits"
+      ]
     },
     {
       "id": "C1-628-010",
@@ -265,14 +618,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "classification",
-          "definition": "n. 分类, 分級, [化] 分級; 分粒; 分类"
+          "definition": "n. 分類；分級；歸類"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The library uses a standard classification system.",
+          "highlight": [
+            "classification"
+          ],
+          "translations": {
+            "zh-TW": "圖書館使用標準的分類系統。"
+          }
+        },
+        {
+          "en": "Genetic classification helps scientists track diseases.",
+          "highlight": [
+            "classification"
+          ],
+          "translations": {
+            "zh-TW": "基因分類幫助科學家追蹤疾病。"
+          }
+        },
+        {
+          "en": "The job classification defines salary ranges for employees.",
+          "highlight": [
+            "classification"
+          ],
+          "translations": {
+            "zh-TW": "職務分類界定了員工薪資級距。"
+          }
+        }
+      ],
+      "synonyms": [
+        "categorization",
+        "taxonomy"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "classification system",
+        "job classification",
+        "disease classification",
+        "file classification"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }

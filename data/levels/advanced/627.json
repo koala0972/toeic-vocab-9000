@@ -2,6 +2,11 @@
   "level": 627,
   "tier": "advanced",
   "cefr": "C1",
+  "_skeleton": {
+    "toeic_score_min": 880,
+    "generated_at": "2026-07-30",
+    "source": "vocab-level-refine"
+  },
   "words": [
     {
       "id": "C1-627-001",
@@ -12,7 +17,8 @@
       "word": "const",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "abbreviation"
       ],
       "conjugations": {
         "plural": "consts"
@@ -22,13 +28,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "const",
-          "definition": "n. 常量, 常数"
+          "definition": "n. 常數（constant 的縮寫）；adj. 不變的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Define a const for the maximum retry count.",
+          "highlight": [
+            "const"
+          ],
+          "translations": {
+            "zh-TW": "為最大重試次數定義一個常數。"
+          }
+        },
+        {
+          "en": "The const value cannot be modified after declaration.",
+          "highlight": [
+            "const"
+          ],
+          "translations": {
+            "zh-TW": "const 常數在宣告後不可被修改。"
+          }
+        },
+        {
+          "en": "Use const for values that should remain fixed.",
+          "highlight": [
+            "const"
+          ],
+          "translations": {
+            "zh-TW": "對應保持不變的值使用 const。"
+          }
+        }
+      ],
+      "synonyms": [
+        "constant",
+        "fixed"
+      ],
+      "antonyms": [
+        "variable"
+      ],
+      "phrases": [
+        "const keyword",
+        "const declaration",
+        "const value",
+        "const reference"
+      ]
     },
     {
       "id": "C1-627-002",
@@ -42,20 +86,58 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "doorses"
+        "plural": "doors"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "doors",
-          "definition": "n. 大門；入口；通道（door的复数）"
+          "definition": "n. 門（複數）；門路；機會"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The museum has several wooden doors at the entrance.",
+          "highlight": [
+            "doors"
+          ],
+          "translations": {
+            "zh-TW": "博物館入口有幾扇木門。"
+          }
+        },
+        {
+          "en": "All the doors were locked when we arrived.",
+          "highlight": [
+            "doors"
+          ],
+          "translations": {
+            "zh-TW": "我們抵達時所有門都鎖上了。"
+          }
+        },
+        {
+          "en": "Education opens many doors for young people.",
+          "highlight": [
+            "doors"
+          ],
+          "translations": {
+            "zh-TW": "教育為年輕人開啟許多機會之門。"
+          }
+        }
+      ],
+      "synonyms": [
+        "gates",
+        "portals"
+      ],
+      "antonyms": [
+        "walls"
+      ],
+      "phrases": [
+        "front doors",
+        "sliding doors",
+        "automatic doors",
+        "open doors"
+      ]
     },
     {
       "id": "C1-627-003",
@@ -69,20 +151,56 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "symptomses"
+        "plural": "symptoms"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "symptoms",
-          "definition": "n. 病徵；症状；症候"
+          "definition": "n. 症狀；徵兆（複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Common symptoms include fever and a sore throat.",
+          "highlight": [
+            "symptoms"
+          ],
+          "translations": {
+            "zh-TW": "常見症狀包括發燒和喉嚨痛。"
+          }
+        },
+        {
+          "en": "The doctor asked about the patient's symptoms.",
+          "highlight": [
+            "symptoms"
+          ],
+          "translations": {
+            "zh-TW": "醫生詢問了病人的症狀。"
+          }
+        },
+        {
+          "en": "These symptoms may indicate a serious condition.",
+          "highlight": [
+            "symptoms"
+          ],
+          "translations": {
+            "zh-TW": "這些症狀可能表示嚴重的疾病。"
+          }
+        }
+      ],
+      "synonyms": [
+        "signs",
+        "indications"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "flu symptoms",
+        "withdrawal symptoms",
+        "allergy symptoms",
+        "early symptoms"
+      ]
     },
     {
       "id": "C1-627-004",
@@ -93,23 +211,64 @@
       "word": "resorts",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "resortses"
+        "plural": "resorts",
+        "present_3rd": "resorts",
+        "past": "resorted",
+        "past_participle": "resorted",
+        "ing": "resorting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "resorts",
-          "definition": "n. 度假村；度假胜地（resort复数）"
+          "definition": "n. 度假勝地（複數）；v. 訴諸（第三人稱單數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Several ski resorts opened early this season.",
+          "highlight": [
+            "resorts"
+          ],
+          "translations": {
+            "zh-TW": "幾個滑雪度假村本季提早開放。"
+          }
+        },
+        {
+          "en": "He resorted to borrowing money to pay rent.",
+          "highlight": [
+            "resorted"
+          ],
+          "translations": {
+            "zh-TW": "他訴諸借錢來付房租。"
+          }
+        },
+        {
+          "en": "She is resorting to extreme measures to win.",
+          "highlight": [
+            "resorting"
+          ],
+          "translations": {
+            "zh-TW": "她正訴諸極端手段以求勝。"
+          }
+        }
+      ],
+      "synonyms": [
+        "destinations",
+        "havens"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "beach resorts",
+        "ski resorts",
+        "resort to",
+        "luxury resorts"
+      ]
     },
     {
       "id": "C1-627-005",
@@ -120,23 +279,63 @@
       "word": "biggest",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "biggests"
+        "plural": "biggest",
+        "comparative": "bigger",
+        "superlative": "biggest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "biggest",
-          "definition": "a. 最大的（big的最高級）"
+          "definition": "adj. 最大的；最嚴重的（big 的最高級）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "This is the biggest challenge we have faced yet.",
+          "highlight": [
+            "biggest"
+          ],
+          "translations": {
+            "zh-TW": "這是我們目前面臨的最大挑戰。"
+          }
+        },
+        {
+          "en": "Tokyo is one of the biggest cities in the world.",
+          "highlight": [
+            "biggest"
+          ],
+          "translations": {
+            "zh-TW": "東京是世界上最大的城市之一。"
+          }
+        },
+        {
+          "en": "What was the biggest surprise of your trip abroad?",
+          "highlight": [
+            "biggest"
+          ],
+          "translations": {
+            "zh-TW": "你出國旅行最大的驚喜是什麼？"
+          }
+        }
+      ],
+      "synonyms": [
+        "largest",
+        "greatest"
+      ],
+      "antonyms": [
+        "smallest"
+      ],
+      "phrases": [
+        "biggest problem",
+        "biggest challenge",
+        "biggest winner",
+        "biggest concern"
+      ]
     },
     {
       "id": "C1-627-006",
@@ -147,7 +346,8 @@
       "word": "memorial",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "memorials"
@@ -157,13 +357,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "memorial",
-          "definition": "n. 纪念物, 請愿書, a. 記念的, 記忆的"
+          "definition": "n. 紀念碑；紀念館；adj. 紀念的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "A memorial stands in the center of the square.",
+          "highlight": [
+            "memorial"
+          ],
+          "translations": {
+            "zh-TW": "廣場中央矗立著一座紀念碑。"
+          }
+        },
+        {
+          "en": "They built a memorial to honor the fallen soldiers.",
+          "highlight": [
+            "memorial"
+          ],
+          "translations": {
+            "zh-TW": "他們建立了紀念碑以緬懷陣亡士兵。"
+          }
+        },
+        {
+          "en": "The memorial service will be held on Sunday.",
+          "highlight": [
+            "memorial"
+          ],
+          "translations": {
+            "zh-TW": "追思禮拜將在週日舉行。"
+          }
+        }
+      ],
+      "synonyms": [
+        "monument",
+        "tribute"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "memorial service",
+        "memorial day",
+        "war memorial",
+        "memorial park"
+      ]
     },
     {
       "id": "C1-627-007",
@@ -174,7 +410,8 @@
       "word": "baltimore",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "proper noun"
       ],
       "conjugations": {
         "plural": "baltimores"
@@ -184,13 +421,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "baltimore",
-          "definition": "n. 巴尔的摩"
+          "definition": "n. 巴爾的摩（美國馬里蘭州城市）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Baltimore is famous for its inner harbor.",
+          "highlight": [
+            "Baltimore"
+          ],
+          "translations": {
+            "zh-TW": "巴爾的摩以內港區聞名。"
+          }
+        },
+        {
+          "en": "She moved to Baltimore for a teaching job.",
+          "highlight": [
+            "Baltimore"
+          ],
+          "translations": {
+            "zh-TW": "她為了教職搬到巴爾的摩。"
+          }
+        },
+        {
+          "en": "The Orioles play baseball in Baltimore.",
+          "highlight": [
+            "Baltimore"
+          ],
+          "translations": {
+            "zh-TW": "金鶯隊在巴爾的摩打棒球。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Charm City"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Baltimore Orioles",
+        "Baltimore Raven",
+        "downtown Baltimore",
+        "inner harbor Baltimore"
+      ]
     },
     {
       "id": "C1-627-008",
@@ -204,20 +476,58 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "gatewaies"
+        "plural": "gateways"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "gateway",
-          "definition": "n. 門, 通路, [計] 網關"
+          "definition": "n. 入口；通道；閘道器（網路）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The harbor served as a gateway for trade.",
+          "highlight": [
+            "gateway"
+          ],
+          "translations": {
+            "zh-TW": "該港口是貿易的入口。"
+          }
+        },
+        {
+          "en": "A good education is a gateway to success.",
+          "highlight": [
+            "gateway"
+          ],
+          "translations": {
+            "zh-TW": "良好的教育是通往成功的門路。"
+          }
+        },
+        {
+          "en": "The new gateway connects two office networks.",
+          "highlight": [
+            "gateway"
+          ],
+          "translations": {
+            "zh-TW": "新的閘道器連接了兩個辦公室網路。"
+          }
+        }
+      ],
+      "synonyms": [
+        "entrance",
+        "portal"
+      ],
+      "antonyms": [
+        "barrier"
+      ],
+      "phrases": [
+        "gateway to",
+        "network gateway",
+        "gateway city",
+        "payment gateway"
+      ]
     },
     {
       "id": "C1-627-009",
@@ -228,17 +538,66 @@
       "word": "dont",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb",
+        "abbreviation"
       ],
       "conjugations": {
-        "plural": "donts"
+        "plural": "dont",
+        "present_3rd": "dont",
+        "past": "didnt",
+        "past_participle": "done",
+        "ing": "doing"
       },
       "domain": "general",
-      "translations": [],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "dont",
+          "definition": "v. 不要（do not 的縮寫，非正式）"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Please dont forget to lock the door tonight.",
+          "highlight": [
+            "dont"
+          ],
+          "translations": {
+            "zh-TW": "今晚請別忘了鎖門。"
+          }
+        },
+        {
+          "en": "They dont serve alcohol on Sundays here.",
+          "highlight": [
+            "dont"
+          ],
+          "translations": {
+            "zh-TW": "他們這裡週日不供應酒精飲料。"
+          }
+        },
+        {
+          "en": "We dont know the answer to that question yet.",
+          "highlight": [
+            "dont"
+          ],
+          "translations": {
+            "zh-TW": "我們還不知道那道問題的答案。"
+          }
+        }
+      ],
+      "synonyms": [
+        "do not",
+        "must not"
+      ],
+      "antonyms": [
+        "do"
+      ],
+      "phrases": [
+        "dont know",
+        "dont forget",
+        "dont worry",
+        "dont mind"
+      ]
     },
     {
       "id": "C1-627-010",
@@ -252,21 +611,56 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "alumnis"
+        "plural": "alumni"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "alumni",
-          "definition": "pl. 男毕業生, 男校友"
+          "definition": "n. 校友（複數）；畢業生"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Many alumni returned for the school's anniversary.",
+          "highlight": [
+            "alumni"
+          ],
+          "translations": {
+            "zh-TW": "許多校友回校參加校慶。"
+          }
+        },
+        {
+          "en": "The alumni association organizes annual reunions.",
+          "highlight": [
+            "alumni"
+          ],
+          "translations": {
+            "zh-TW": "校友會每年舉辦校友聚會。"
+          }
+        },
+        {
+          "en": "Famous alumni have donated to the university.",
+          "highlight": [
+            "alumni"
+          ],
+          "translations": {
+            "zh-TW": "知名校友已向該校捐款。"
+          }
+        }
+      ],
+      "synonyms": [
+        "graduates",
+        "former students"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "alumni association",
+        "alumni network",
+        "alumni events",
+        "distinguished alumni"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
