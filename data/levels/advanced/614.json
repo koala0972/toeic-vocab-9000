@@ -4,7 +4,7 @@
   "cefr": "C1",
   "words": [
     {
-      "id": "C1-614-001",
+      "id": "C1-614-alerts",
       "level": 614,
       "tier": "advanced",
       "cefr": "C1",
@@ -12,26 +12,72 @@
       "word": "alerts",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "alertses"
+        "plural": "alerts",
+        "present_3rd": "alerts",
+        "past": "alerted",
+        "past_participle": "alerted",
+        "ing": "alerting",
+        "comparative": "",
+        "superlative": ""
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "alerts",
-          "definition": "n. 警戒( alert的名词复数 ); 警報期間; 警戒状态; 報警信號, v. 使（某人）保持警觉( alert的第三人稱單数 ); 使意识到; 提醒（某人）注意（某事）; 使（部隊）處于待命状态"
+          "definition": "n. 警報；警戒；v. 使警覺（alert 的第三人稱單數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The system sends alerts when suspicious activity is detected.",
+          "highlight": [
+            "alerts"
+          ],
+          "translations": {
+            "zh-TW": "系統在偵測到可疑活動時會發出警報。"
+          }
+        },
+        {
+          "en": "He alerts the team whenever a deadline approaches.",
+          "highlight": [
+            "alerts"
+          ],
+          "translations": {
+            "zh-TW": "每當截止日期逼近時，他就提醒團隊。"
+          }
+        },
+        {
+          "en": "Weather alerts were issued across the entire region.",
+          "highlight": [
+            "alerts"
+          ],
+          "translations": {
+            "zh-TW": "全區域都發布了天氣警報。"
+          }
+        }
+      ],
+      "synonyms": [
+        "warnings",
+        "notices",
+        "alarms"
+      ],
+      "antonyms": [
+        "reassurances"
+      ],
+      "phrases": [
+        "security alerts",
+        "red alerts",
+        "alerts system",
+        "stay on alerts"
+      ]
     },
     {
-      "id": "C1-614-002",
+      "id": "C1-614-treated",
       "level": 614,
       "tier": "advanced",
       "cefr": "C1",
@@ -39,26 +85,72 @@
       "word": "treated",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "treateds"
+        "plural": "",
+        "present_3rd": "treats",
+        "past": "treated",
+        "past_participle": "treated",
+        "ing": "treating",
+        "comparative": "",
+        "superlative": ""
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "treated",
-          "definition": "v. 對待；招待；治疗（treat的過去分词）"
+          "definition": "v. 對待；處理；治療（treat 的過去式和過去分詞）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The patient was treated with a new antibiotic.",
+          "highlight": [
+            "treated"
+          ],
+          "translations": {
+            "zh-TW": "那名病人接受了新抗生素的治療。"
+          }
+        },
+        {
+          "en": "She treated the criticism as constructive feedback.",
+          "highlight": [
+            "treated"
+          ],
+          "translations": {
+            "zh-TW": "她將批評視為建設性的回饋。"
+          }
+        },
+        {
+          "en": "They have treated every customer with great respect.",
+          "highlight": [
+            "treated"
+          ],
+          "translations": {
+            "zh-TW": "他們對每位顧客都極為尊重。"
+          }
+        }
+      ],
+      "synonyms": [
+        "handled",
+        "managed",
+        "dealt with"
+      ],
+      "antonyms": [
+        "neglected",
+        "ignored"
+      ],
+      "phrases": [
+        "treated with respect",
+        "treated unfairly",
+        "treated equally",
+        "be treated for"
+      ]
     },
     {
-      "id": "C1-614-003",
+      "id": "C1-614-mysql",
       "level": 614,
       "tier": "advanced",
       "cefr": "C1",
@@ -69,23 +161,65 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "mysqls"
+        "plural": "",
+        "present_3rd": "",
+        "past": "",
+        "past_participle": "",
+        "ing": "",
+        "comparative": "",
+        "superlative": ""
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mysql",
-          "definition": "n. 数据库系统（一種免費的跨平台的）"
+          "definition": "n. MySQL（一種常見的開源關聯式資料庫管理系統）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "MySQL is one of the most widely used open-source databases.",
+          "highlight": [
+            "MySQL"
+          ],
+          "translations": {
+            "zh-TW": "MySQL 是最廣泛使用的開源資料庫之一。"
+          }
+        },
+        {
+          "en": "We migrated the legacy system to MySQL last quarter.",
+          "highlight": [
+            "MySQL"
+          ],
+          "translations": {
+            "zh-TW": "我們上季將舊系統遷移至 MySQL。"
+          }
+        },
+        {
+          "en": "The developer wrote a MySQL script to clean up duplicates.",
+          "highlight": [
+            "MySQL"
+          ],
+          "translations": {
+            "zh-TW": "開發人員寫了一支 MySQL 腳本來清除重複資料。"
+          }
+        }
+      ],
+      "synonyms": [
+        "database",
+        "DBMS"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "MySQL server",
+        "MySQL database",
+        "MySQL query",
+        "MySQL replication"
+      ]
     },
     {
-      "id": "C1-614-004",
+      "id": "C1-614-classified",
       "level": 614,
       "tier": "advanced",
       "cefr": "C1",
@@ -93,26 +227,73 @@
       "word": "classified",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "verb"
       ],
       "conjugations": {
-        "plural": "classifieds"
+        "plural": "",
+        "present_3rd": "classifies",
+        "past": "classified",
+        "past_participle": "classified",
+        "ing": "classifying",
+        "comparative": "",
+        "superlative": ""
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "classified",
-          "definition": "a. 分类的, 被归入某类的, 被指定為機密的, [建] 分了类的, 分了級的"
+          "definition": "a. 機密的；分類的；v. 將…分類（classify 的過去式）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The documents were marked classified and sealed.",
+          "highlight": [
+            "classified"
+          ],
+          "translations": {
+            "zh-TW": "這些文件被標示為機密並封存。"
+          }
+        },
+        {
+          "en": "She classified the books by subject and author.",
+          "highlight": [
+            "classified"
+          ],
+          "translations": {
+            "zh-TW": "她依主題和作者將書籍分類。"
+          }
+        },
+        {
+          "en": "This information remains classified for national security reasons.",
+          "highlight": [
+            "classified"
+          ],
+          "translations": {
+            "zh-TW": "基於國安理由，此資訊仍屬機密。"
+          }
+        }
+      ],
+      "synonyms": [
+        "confidential",
+        "categorized",
+        "restricted"
+      ],
+      "antonyms": [
+        "public",
+        "unclassified"
+      ],
+      "phrases": [
+        "classified information",
+        "classified ads",
+        "top secret classified",
+        "classified documents"
+      ]
     },
     {
-      "id": "C1-614-005",
+      "id": "C1-614-relating",
       "level": 614,
       "tier": "advanced",
       "cefr": "C1",
@@ -120,26 +301,71 @@
       "word": "relating",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "relatings"
+        "plural": "",
+        "present_3rd": "relates",
+        "past": "related",
+        "past_participle": "related",
+        "ing": "relating",
+        "comparative": "",
+        "superlative": ""
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "relating",
-          "definition": "v. 關联；叙述；涉及（relate的ing形式）"
+          "definition": "v. 關聯；敘述；涉及（relate 的現在分詞）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "She has difficulty relating to her coworkers.",
+          "highlight": [
+            "relating"
+          ],
+          "translations": {
+            "zh-TW": "她難以和同事建立關係。"
+          }
+        },
+        {
+          "en": "He spent the morning relating the events of the trip.",
+          "highlight": [
+            "relating"
+          ],
+          "translations": {
+            "zh-TW": "他花了一上午講述旅途中的種種事件。"
+          }
+        },
+        {
+          "en": "Several issues relating to data privacy were raised.",
+          "highlight": [
+            "relating"
+          ],
+          "translations": {
+            "zh-TW": "幾個涉及資料隱私的問題被提出。"
+          }
+        }
+      ],
+      "synonyms": [
+        "connecting",
+        "linking",
+        "describing"
+      ],
+      "antonyms": [
+        "disconnecting"
+      ],
+      "phrases": [
+        "relating to",
+        "relating back",
+        "issues relating to",
+        "facts relating"
+      ]
     },
     {
-      "id": "C1-614-006",
+      "id": "C1-614-lewis",
       "level": 614,
       "tier": "advanced",
       "cefr": "C1",
@@ -150,23 +376,65 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "lewises"
+        "plural": "lewises",
+        "present_3rd": "",
+        "past": "",
+        "past_participle": "",
+        "ing": "",
+        "comparative": "",
+        "superlative": ""
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "lewis",
-          "definition": "n. 吊楔"
+          "definition": "n. 路易斯（男子名）；吊楔（一種石工用起重裝置）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The board appointed lewis as the new head of department.",
+          "highlight": [
+            "lewis"
+          ],
+          "translations": {
+            "zh-TW": "董事會任命 lewis 為新任部門主管。"
+          }
+        },
+        {
+          "en": "The contractor used a lewis to lift the heavy stone.",
+          "highlight": [
+            "lewis"
+          ],
+          "translations": {
+            "zh-TW": "承包商使用吊楔來搬運沉重的石塊。"
+          }
+        },
+        {
+          "en": "In recent years, lewis has published three books on medieval history.",
+          "highlight": [
+            "lewis"
+          ],
+          "translations": {
+            "zh-TW": "近年來，lewis 已出版了三本中世紀歷史的著作。"
+          }
+        }
+      ],
+      "synonyms": [
+        "name",
+        "lifting device"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Lewis Carroll",
+        "Lewis structure",
+        "lewis bolt",
+        "lewis lift"
+      ]
     },
     {
-      "id": "C1-614-007",
+      "id": "C1-614-howard",
       "level": 614,
       "tier": "advanced",
       "cefr": "C1",
@@ -177,23 +445,64 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "howards"
+        "plural": "howards",
+        "present_3rd": "",
+        "past": "",
+        "past_participle": "",
+        "ing": "",
+        "comparative": "",
+        "superlative": ""
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "howard",
-          "definition": "n. 霍华德（男子名）"
+          "definition": "n. 霍華德（男子名，亦作姓氏）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Our team welcomed howard as a junior analyst last month.",
+          "highlight": [
+            "howard"
+          ],
+          "translations": {
+            "zh-TW": "我們的團隊上個月歡迎 howard 以初級分析師身份加入。"
+          }
+        },
+        {
+          "en": "We owe this breakthrough to Howard and her team.",
+          "highlight": [
+            "Howard"
+          ],
+          "translations": {
+            "zh-TW": "這項突破歸功於霍華德和她的團隊。"
+          }
+        },
+        {
+          "en": "Over the years, howard has mentored dozens of young engineers.",
+          "highlight": [
+            "howard"
+          ],
+          "translations": {
+            "zh-TW": "這些年來，howard 已指導了數十位年輕工程師。"
+          }
+        }
+      ],
+      "synonyms": [
+        "name"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Howard University",
+        "Howard Stern",
+        "Howard Hughes",
+        "Howard Street"
+      ]
     },
     {
-      "id": "C1-614-008",
+      "id": "C1-614-offline",
       "level": 614,
       "tier": "advanced",
       "cefr": "C1",
@@ -201,26 +510,71 @@
       "word": "offline",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "adverb"
       ],
       "conjugations": {
-        "plural": "offlines"
+        "plural": "",
+        "present_3rd": "",
+        "past": "",
+        "past_participle": "",
+        "ing": "",
+        "comparative": "",
+        "superlative": ""
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "offline",
-          "definition": "[計] 挂線, 脱機"
+          "definition": "a./ad. 離線的；脫機的；線下的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The system will be offline for maintenance tonight.",
+          "highlight": [
+            "offline"
+          ],
+          "translations": {
+            "zh-TW": "系統今晚將因維護而離線。"
+          }
+        },
+        {
+          "en": "Save your work before going offline.",
+          "highlight": [
+            "offline"
+          ],
+          "translations": {
+            "zh-TW": "離線前請先儲存你的工作。"
+          }
+        },
+        {
+          "en": "Many retailers now blend online and offline shopping.",
+          "highlight": [
+            "offline"
+          ],
+          "translations": {
+            "zh-TW": "許多零售商現在結合線上與線下購物。"
+          }
+        }
+      ],
+      "synonyms": [
+        "disconnected",
+        "off-grid"
+      ],
+      "antonyms": [
+        "online"
+      ],
+      "phrases": [
+        "go offline",
+        "offline mode",
+        "offline storage",
+        "offline meeting"
+      ]
     },
     {
-      "id": "C1-614-009",
+      "id": "C1-614-leaves",
       "level": 614,
       "tier": "advanced",
       "cefr": "C1",
@@ -228,26 +582,72 @@
       "word": "leaves",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "leaveses"
+        "plural": "leaves",
+        "present_3rd": "leaves",
+        "past": "left",
+        "past_participle": "left",
+        "ing": "leaving",
+        "comparative": "",
+        "superlative": ""
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "leaves",
-          "definition": "pl. 树叶, 花瓣"
+          "definition": "n. 葉子（leaf 的複數）；v. 離開；留下（leave 的第三人稱單數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Autumn leaves covered the park pathway.",
+          "highlight": [
+            "leaves"
+          ],
+          "translations": {
+            "zh-TW": "秋天的落葉鋪滿了公園步道。"
+          }
+        },
+        {
+          "en": "He leaves the office at six every evening.",
+          "highlight": [
+            "leaves"
+          ],
+          "translations": {
+            "zh-TW": "他每天傍晚六點離開辦公室。"
+          }
+        },
+        {
+          "en": "Maple leaves turn brilliant shades of red each October.",
+          "highlight": [
+            "leaves"
+          ],
+          "translations": {
+            "zh-TW": "十月時楓葉轉為鮮豔的紅色。"
+          }
+        }
+      ],
+      "synonyms": [
+        "foliage",
+        "departs",
+        "goes"
+      ],
+      "antonyms": [
+        "arrives"
+      ],
+      "phrases": [
+        "fall leaves",
+        "leaves behind",
+        "take leaves",
+        "tea leaves"
+      ]
     },
     {
-      "id": "C1-614-010",
+      "id": "C1-614-clearance",
       "level": 614,
       "tier": "advanced",
       "cefr": "C1",
@@ -258,21 +658,66 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "clearances"
+        "plural": "clearances",
+        "present_3rd": "",
+        "past": "",
+        "past_participle": "",
+        "ing": "",
+        "comparative": "",
+        "superlative": ""
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "clearance",
-          "definition": "n. 清除, 間隙, [化] 間隙; 空隙"
+          "definition": "n. 清關；許可；批准；清倉（拍賣）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The package requires customs clearance before delivery.",
+          "highlight": [
+            "clearance"
+          ],
+          "translations": {
+            "zh-TW": "包裹在送達前需要通過海關清關。"
+          }
+        },
+        {
+          "en": "She obtained security clearance for the classified project.",
+          "highlight": [
+            "clearance"
+          ],
+          "translations": {
+            "zh-TW": "她獲得了機密專案的安全許可。"
+          }
+        },
+        {
+          "en": "The clearance sale offered discounts of up to seventy percent.",
+          "highlight": [
+            "clearance"
+          ],
+          "translations": {
+            "zh-TW": "清倉大拍賣提供最高七折的折扣。"
+          }
+        }
+      ],
+      "synonyms": [
+        "authorization",
+        "approval",
+        "removal"
+      ],
+      "antonyms": [
+        "blockage",
+        "refusal"
+      ],
+      "phrases": [
+        "security clearance",
+        "clearance sale",
+        "customs clearance",
+        "land clearance"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
