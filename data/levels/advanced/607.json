@@ -2,6 +2,7 @@
   "level": 607,
   "tier": "advanced",
   "cefr": "C1",
+  "toeic_score_min": 880,
   "words": [
     {
       "id": "C1-607-001",
@@ -10,25 +11,68 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "continues",
-      "phonetic": "",
+      "phonetic": "kənˈtɪnjuːz",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "continueses"
+        "present_3rd": "continues",
+        "past": "continued",
+        "past_participle": "continued",
+        "ing": "continuing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "continues",
-          "definition": "v. 继续；扩展；連续（continue的三單形式）"
+          "definition": "v. 繼續；持續；延伸（continue 的第三人稱單數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The company continues to expand its operations in Asia.",
+          "highlight": [
+            "continues"
+          ],
+          "translations": {
+            "zh-TW": "該公司持續在亞洲擴展業務。"
+          }
+        },
+        {
+          "en": "She continued working on the project despite the setback.",
+          "highlight": [
+            "continued"
+          ],
+          "translations": {
+            "zh-TW": "她儘管遭遇挫折，仍繼續進行專案。"
+          }
+        },
+        {
+          "en": "The trail continues for another five miles beyond the ridge.",
+          "highlight": [
+            "continues"
+          ],
+          "translations": {
+            "zh-TW": "這條步道在山脊之外再延伸五英里。"
+          }
+        }
+      ],
+      "synonyms": [
+        "persists",
+        "proceeds",
+        "maintains"
+      ],
+      "antonyms": [
+        "stops",
+        "ceases"
+      ],
+      "phrases": [
+        "continues to grow",
+        "continues working",
+        "continues despite",
+        "continues unchanged"
+      ]
     },
     {
       "id": "C1-607-002",
@@ -37,25 +81,69 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "tracks",
-      "phonetic": "",
+      "phonetic": "træks",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "trackses"
+        "plural": "tracks",
+        "present_3rd": "tracks",
+        "past": "tracked",
+        "past_participle": "tracked",
+        "ing": "tracking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tracks",
-          "definition": "n. 轮胎；磁道；轨道（track的复数）"
+          "definition": "n. 軌道；足跡；痕跡 v. 追蹤；跟蹤（track 的複數與第三人稱單數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Fresh tracks in the snow revealed a deer had passed through.",
+          "highlight": [
+            "tracks"
+          ],
+          "translations": {
+            "zh-TW": "雪地上新鮮的足跡顯示有一頭鹿經過。"
+          }
+        },
+        {
+          "en": "The surveillance team tracked the suspect for three weeks.",
+          "highlight": [
+            "tracked"
+          ],
+          "translations": {
+            "zh-TW": "監控小組追蹤嫌疑人長達三週。"
+          }
+        },
+        {
+          "en": "Trains on these tracks run every fifteen minutes during rush hour.",
+          "highlight": [
+            "tracks"
+          ],
+          "translations": {
+            "zh-TW": "尖峰時段這些軌道上的列車每十五分鐘一班。"
+          }
+        }
+      ],
+      "synonyms": [
+        "trails",
+        "footprints",
+        "paths"
+      ],
+      "antonyms": [
+        "loses"
+      ],
+      "phrases": [
+        "railroad tracks",
+        "animal tracks",
+        "tracks down",
+        "keep tracks of"
+      ]
     },
     {
       "id": "C1-607-003",
@@ -64,25 +152,64 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "cam",
-      "phonetic": "",
+      "phonetic": "kæm",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "cams"
       },
-      "domain": "general",
+      "domain": "mechanics",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cam",
-          "definition": "n. 凸轮, 計算機辅助制造, 中央地址存储器, [計] 計算機辅助制造; 計算機辅助生產"
+          "definition": "n. 凸輪；攝影機；偏心輪（機械元件）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The engine cam rotates to open and close the valves.",
+          "highlight": [
+            "cam"
+          ],
+          "translations": {
+            "zh-TW": "引擎凸輪旋轉以開啟和關閉氣門。"
+          }
+        },
+        {
+          "en": "Multiple cams control the timing of the assembly line.",
+          "highlight": [
+            "cams"
+          ],
+          "translations": {
+            "zh-TW": "多個凸輪控制著裝配線的時序。"
+          }
+        },
+        {
+          "en": "A worn cam can cause irregular valve movement.",
+          "highlight": [
+            "cam"
+          ],
+          "translations": {
+            "zh-TW": "磨損的凸輪會導致氣門運動不規則。"
+          }
+        }
+      ],
+      "synonyms": [
+        "eccentric",
+        "lobe",
+        "projection"
+      ],
+      "antonyms": [
+        "recess"
+      ],
+      "phrases": [
+        "cam shaft",
+        "cam mechanism",
+        "cam profile",
+        "cam follower"
+      ]
     },
     {
       "id": "C1-607-004",
@@ -91,7 +218,7 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "template",
-      "phonetic": "",
+      "phonetic": "ˈtɛmpleɪt",
       "pos": [
         "noun"
       ],
@@ -103,13 +230,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "template",
-          "definition": "n. 樣板, 模板, 垫木, [計] 模板"
+          "definition": "n. 模板；範本；樣板"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The designer used a template to speed up the layout process.",
+          "highlight": [
+            "template"
+          ],
+          "translations": {
+            "zh-TW": "設計師使用模板來加速排版流程。"
+          }
+        },
+        {
+          "en": "These templates allow rapid creation of landing pages.",
+          "highlight": [
+            "templates"
+          ],
+          "translations": {
+            "zh-TW": "這些模板能快速建立著陸頁面。"
+          }
+        },
+        {
+          "en": "We customized the template to match our brand guidelines.",
+          "highlight": [
+            "template"
+          ],
+          "translations": {
+            "zh-TW": "我們客製化了模板以符合品牌規範。"
+          }
+        }
+      ],
+      "synonyms": [
+        "blueprint",
+        "model",
+        "pattern"
+      ],
+      "antonyms": [
+        "original"
+      ],
+      "phrases": [
+        "template file",
+        "custom template",
+        "use a template",
+        "edit template"
+      ]
     },
     {
       "id": "C1-607-005",
@@ -118,25 +284,70 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "grants",
-      "phonetic": "",
+      "phonetic": "ɡrænts",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "grantses"
+        "plural": "grants",
+        "present_3rd": "grants",
+        "past": "granted",
+        "past_participle": "granted",
+        "ing": "granting"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "grants",
-          "definition": "[經] 补助金, 拨款, 津贴"
+          "definition": "n. 補助金；撥款；津貼 v. 授予；准予（grant 的複數與第三人稱單數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Research grants fund most of the laboratory's experiments.",
+          "highlight": [
+            "grants"
+          ],
+          "translations": {
+            "zh-TW": "研究補助金資助了實驗室大部分的實驗。"
+          }
+        },
+        {
+          "en": "The foundation granted funding to twelve startups last year.",
+          "highlight": [
+            "granted"
+          ],
+          "translations": {
+            "zh-TW": "基金會去年授予十二家新創公司資金。"
+          }
+        },
+        {
+          "en": "The committee grants permission only to verified applicants.",
+          "highlight": [
+            "grants"
+          ],
+          "translations": {
+            "zh-TW": "委員會僅授予已驗證申請者許可。"
+          }
+        }
+      ],
+      "synonyms": [
+        "subsidies",
+        "funds",
+        "awards"
+      ],
+      "antonyms": [
+        "denials",
+        "revocations"
+      ],
+      "phrases": [
+        "research grants",
+        "government grants",
+        "grants access",
+        "grants permission"
+      ]
     },
     {
       "id": "C1-607-006",
@@ -145,25 +356,65 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "responses",
-      "phonetic": "",
+      "phonetic": "rɪˈspɒnsɪz",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "responseses"
+        "plural": "responses"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "responses",
-          "definition": "n. 响應回應"
+          "definition": "n. 回應；回答；反應（response 的複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Customer responses to the survey were overwhelmingly positive.",
+          "highlight": [
+            "responses"
+          ],
+          "translations": {
+            "zh-TW": "顧客對問卷的回應壓倒性地正面。"
+          }
+        },
+        {
+          "en": "Her response to the question impressed the panel.",
+          "highlight": [
+            "response"
+          ],
+          "translations": {
+            "zh-TW": "她對問題的回答令評審團印象深刻。"
+          }
+        },
+        {
+          "en": "The immune system mounts responses to various pathogens.",
+          "highlight": [
+            "responses"
+          ],
+          "translations": {
+            "zh-TW": "免疫系統對各種病原體產生反應。"
+          }
+        }
+      ],
+      "synonyms": [
+        "replies",
+        "answers",
+        "reactions"
+      ],
+      "antonyms": [
+        "questions",
+        "silences"
+      ],
+      "phrases": [
+        "survey responses",
+        "automatic responses",
+        "immune responses",
+        "prompt responses"
+      ]
     },
     {
       "id": "C1-607-007",
@@ -172,25 +423,64 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "atlantic",
-      "phonetic": "",
+      "phonetic": "ətˈlæntɪk",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "atlantics"
       },
-      "domain": "general",
+      "domain": "geography",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "atlantic",
-          "definition": "n. 大西洋, a. 大西洋的"
+          "definition": "n. 大西洋 adj. 大西洋的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A fierce storm brewed over the atlantic last night.",
+          "highlight": [
+            "atlantic"
+          ],
+          "translations": {
+            "zh-TW": "昨晚大西洋上空醞釀了一場猛烈的風暴。"
+          }
+        },
+        {
+          "en": "The fleet crossed the atlantic in twelve days.",
+          "highlight": [
+            "atlantic"
+          ],
+          "translations": {
+            "zh-TW": "艦隊用了十二天橫渡大西洋。"
+          }
+        },
+        {
+          "en": "Transatlantic flights link major cities on both sides.",
+          "highlight": [
+            "Transatlantic"
+          ],
+          "translations": {
+            "zh-TW": "跨大西洋航班連接兩岸的主要城市。"
+          }
+        }
+      ],
+      "synonyms": [
+        "oceanic",
+        "transatlantic"
+      ],
+      "antonyms": [
+        "inland"
+      ],
+      "phrases": [
+        "atlantic ocean",
+        "atlantic coast",
+        "atlantic crossing",
+        "north atlantic"
+      ]
     },
     {
       "id": "C1-607-008",
@@ -199,25 +489,64 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "circumstances",
-      "phonetic": "",
+      "phonetic": "ˈsɜːkəmstænsɪz",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "circumstanceses"
+        "plural": "circumstances"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "circumstances",
-          "definition": "[法] 事件, 事项, 详細情節"
+          "definition": "n. 情況；環境；背景條件（circumstance 的複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Under normal circumstances, the package arrives within two days.",
+          "highlight": [
+            "circumstances"
+          ],
+          "translations": {
+            "zh-TW": "在正常情況下，包裹會在兩天內送達。"
+          }
+        },
+        {
+          "en": "Unexpected circumstances forced the cancellation of the event.",
+          "highlight": [
+            "circumstances"
+          ],
+          "translations": {
+            "zh-TW": "意外的情況迫使活動取消。"
+          }
+        },
+        {
+          "en": "Each circumstance requires a tailored approach.",
+          "highlight": [
+            "circumstance"
+          ],
+          "translations": {
+            "zh-TW": "每一種情況都需要量身打造的處理方式。"
+          }
+        }
+      ],
+      "synonyms": [
+        "conditions",
+        "situations",
+        "contexts"
+      ],
+      "antonyms": [
+        "certainties"
+      ],
+      "phrases": [
+        "under normal circumstances",
+        "special circumstances",
+        "mitigating circumstances",
+        "financial circumstances"
+      ]
     },
     {
       "id": "C1-607-009",
@@ -226,7 +555,7 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "edward",
-      "phonetic": "",
+      "phonetic": "ˈɛdwəd",
       "pos": [
         "noun"
       ],
@@ -238,13 +567,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "edward",
-          "definition": "n. 爱德华（男子名）"
+          "definition": "n. 愛德華（男子名）；英國國王名"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Several kings named edward ruled England during the medieval period.",
+          "highlight": [
+            "edward"
+          ],
+          "translations": {
+            "zh-TW": "中世紀時期有幾位名叫愛德華的國王統治英格蘭。"
+          }
+        },
+        {
+          "en": "Prince edward renounced his royal duties in a televised address.",
+          "highlight": [
+            "edward"
+          ],
+          "translations": {
+            "zh-TW": "愛德華親王在電視演說中放棄了王室職責。"
+          }
+        },
+        {
+          "en": "The edward era saw significant social reforms.",
+          "highlight": [
+            "edward"
+          ],
+          "translations": {
+            "zh-TW": "愛德華時代見證了重大的社會改革。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Edward",
+        "Ted"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "edward era",
+        "king edward",
+        "prince edward",
+        "edwardian period"
+      ]
     },
     {
       "id": "C1-607-010",
@@ -253,26 +618,69 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "ram",
-      "phonetic": "",
+      "phonetic": "ræm",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "rams"
+        "plural": "rams",
+        "present_3rd": "rams",
+        "past": "rammed",
+        "past_participle": "rammed",
+        "ing": "ramming"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "ram",
-          "definition": "n. 公羊, 撞锤, vi. 猛击, 撞, vt. 猛击, 填塞, 反复灌輸, n. 只讀內存, 隨機存取內存, 隨機存取存储器, [計] 隨機存取存储器"
+          "definition": "n. 公羊；撞錘；隨機存取記憶體 v. 撞擊；猛推"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The farmer added more rams to the breeding flock this season.",
+          "highlight": [
+            "rams"
+          ],
+          "translations": {
+            "zh-TW": "農夫本季在繁殖羊群中加入了更多公羊。"
+          }
+        },
+        {
+          "en": "The car rammed into the barrier at high speed.",
+          "highlight": [
+            "rammed"
+          ],
+          "translations": {
+            "zh-TW": "汽車高速撞上了護欄。"
+          }
+        },
+        {
+          "en": "Upgrading the ram on this laptop improves multitasking.",
+          "highlight": [
+            "ram"
+          ],
+          "translations": {
+            "zh-TW": "升級這台筆記型電腦的記憶體可改善多工作業。"
+          }
+        }
+      ],
+      "synonyms": [
+        "memory",
+        "batter",
+        "strike"
+      ],
+      "antonyms": [
+        "retrieve"
+      ],
+      "phrases": [
+        "ram memory",
+        "ram upgrade",
+        "ram into",
+        "ram speed"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }

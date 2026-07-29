@@ -2,6 +2,7 @@
   "level": 609,
   "tier": "advanced",
   "cefr": "C1",
+  "toeic_score_min": 880,
   "words": [
     {
       "id": "C1-609-001",
@@ -10,25 +11,68 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "checking",
-      "phonetic": "",
+      "phonetic": "ˈtʃɛkɪŋ",
       "pos": [
+        "verb",
         "noun"
       ],
       "conjugations": {
-        "plural": "checkings"
+        "present_3rd": "checks",
+        "past": "checked",
+        "past_participle": "checked",
+        "ing": "checking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "checking",
-          "definition": "[計] 檢查的, [化] 校核; 檢驗; 浅裂纹"
+          "definition": "v. 檢查；核對（check 的現在分詞） n. 檢驗；查核"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The inspector is checking each component for defects.",
+          "highlight": [
+            "checking"
+          ],
+          "translations": {
+            "zh-TW": "檢查員正在逐一核對每個零件是否有缺陷。"
+          }
+        },
+        {
+          "en": "She checked into the hotel and went straight to her room.",
+          "highlight": [
+            "checked"
+          ],
+          "translations": {
+            "zh-TW": "她辦理入住後直接前往房間。"
+          }
+        },
+        {
+          "en": "Routine checking of equipment prevents costly breakdowns.",
+          "highlight": [
+            "checking"
+          ],
+          "translations": {
+            "zh-TW": "定期檢查設備可防止昂貴的故障。"
+          }
+        }
+      ],
+      "synonyms": [
+        "inspecting",
+        "verifying",
+        "examining"
+      ],
+      "antonyms": [
+        "ignoring"
+      ],
+      "phrases": [
+        "checking account",
+        "checking in",
+        "checking out",
+        "routine checking"
+      ]
     },
     {
       "id": "C1-609-002",
@@ -37,25 +81,62 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "costa",
-      "phonetic": "",
+      "phonetic": "ˈkɒstə",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "costas"
+        "plural": "costae"
       },
-      "domain": "general",
+      "domain": "biology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "costa",
-          "definition": "n. 肋骨, 肋脉, 叶的中脉, [醫] 肋"
+          "definition": "n. 肋骨；中脈；肋脈（解剖學及植物學用語）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Each costa protects the underlying organs in the thorax.",
+          "highlight": [
+            "costa"
+          ],
+          "translations": {
+            "zh-TW": "每根肋骨保護胸腔內的下方器官。"
+          }
+        },
+        {
+          "en": "The botanist examined the costa of the fern leaf carefully.",
+          "highlight": [
+            "costa"
+          ],
+          "translations": {
+            "zh-TW": "植物學家仔細觀察了蕨葉的中脈。"
+          }
+        },
+        {
+          "en": "Injuries to the costae can impair breathing significantly.",
+          "highlight": [
+            "costae"
+          ],
+          "translations": {
+            "zh-TW": "肋骨受傷會嚴重影響呼吸。"
+          }
+        }
+      ],
+      "synonyms": [
+        "rib",
+        "midrib",
+        "vein"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "costa tissue",
+        "costa structure",
+        "anterior costa",
+        "posterior costa"
+      ]
     },
     {
       "id": "C1-609-003",
@@ -64,25 +145,61 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "belgium",
-      "phonetic": "",
+      "phonetic": "ˈbɛldʒəm",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "belgiums"
       },
-      "domain": "general",
+      "domain": "geography",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "belgium",
-          "definition": "n. 比利時"
+          "definition": "n. 比利時（西歐國家）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "belgium is renowned for its chocolate and waffles.",
+          "highlight": [
+            "belgium"
+          ],
+          "translations": {
+            "zh-TW": "比利時以巧克力和鬆餅聞名。"
+          }
+        },
+        {
+          "en": "The headquarters of the EU are located in belgium.",
+          "highlight": [
+            "belgium"
+          ],
+          "translations": {
+            "zh-TW": "歐盟總部設在比利時。"
+          }
+        },
+        {
+          "en": "Tourists flock to belgium to admire its medieval towns.",
+          "highlight": [
+            "belgium"
+          ],
+          "translations": {
+            "zh-TW": "遊客湧入比利時欣賞其中世紀城鎮。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Belgian",
+        "Flanders"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "belgium chocolate",
+        "belgium waffle",
+        "belgium capital",
+        "belgium beer"
+      ]
     },
     {
       "id": "C1-609-004",
@@ -91,25 +208,67 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "printable",
-      "phonetic": "",
+      "phonetic": "ˈprɪntəbəl",
       "pos": [
+        "adjective",
         "noun"
       ],
       "conjugations": {
-        "plural": "printables"
+        "plural": "printables",
+        "comparative": "more printable",
+        "superlative": "most printable"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "printable",
-          "definition": "a. 可印刷的, 适于出版的"
+          "definition": "adj. 可列印的；適合出版的 n. 可列印之物"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The website offers printable coupons for local restaurants.",
+          "highlight": [
+            "printable"
+          ],
+          "translations": {
+            "zh-TW": "該網站提供當地餐廳的可列印優惠券。"
+          }
+        },
+        {
+          "en": "These printables are designed for preschool children.",
+          "highlight": [
+            "printables"
+          ],
+          "translations": {
+            "zh-TW": "這些可列印資源是為學齡前兒童設計的。"
+          }
+        },
+        {
+          "en": "The PDF format is more printable than a web page.",
+          "highlight": [
+            "printable"
+          ],
+          "translations": {
+            "zh-TW": "PDF 格式比網頁更容易列印。"
+          }
+        }
+      ],
+      "synonyms": [
+        "publishable",
+        "readable",
+        "fit to print"
+      ],
+      "antonyms": [
+        "unprintable"
+      ],
+      "phrases": [
+        "printable version",
+        "printable coupons",
+        "printable worksheets",
+        "printable calendar"
+      ]
     },
     {
       "id": "C1-609-005",
@@ -118,25 +277,69 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "acts",
-      "phonetic": "",
+      "phonetic": "ækts",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "actses"
+        "plural": "acts",
+        "present_3rd": "acts",
+        "past": "acted",
+        "past_participle": "acted",
+        "ing": "acting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "acts",
-          "definition": "abbr. 声控遥測系统（Acoustic Control and Telemetry System）；声控制與遥測系统（Acoustic Control and Telemetry System）"
+          "definition": "n. 行為；法案；演出幕 v. 行動；表演（act 的複數與第三人稱單數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Random acts of kindness can brighten someone's day.",
+          "highlight": [
+            "acts"
+          ],
+          "translations": {
+            "zh-TW": "隨機的善行能照亮他人的一天。"
+          }
+        },
+        {
+          "en": "The committee acted swiftly to address the complaint.",
+          "highlight": [
+            "acted"
+          ],
+          "translations": {
+            "zh-TW": "委員會迅速採取行動處理投訴。"
+          }
+        },
+        {
+          "en": "The play consists of three acts with an intermission.",
+          "highlight": [
+            "acts"
+          ],
+          "translations": {
+            "zh-TW": "這齣戲劇分為三幕，中間有中場休息。"
+          }
+        }
+      ],
+      "synonyms": [
+        "deeds",
+        "performs",
+        "behaves"
+      ],
+      "antonyms": [
+        "restraints"
+      ],
+      "phrases": [
+        "acts of kindness",
+        "acts on",
+        "criminal acts",
+        "three acts"
+      ]
     },
     {
       "id": "C1-609-006",
@@ -145,25 +348,69 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "mesh",
-      "phonetic": "",
+      "phonetic": "mɛʃ",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "meshs"
+        "plural": "meshes",
+        "present_3rd": "meshes",
+        "past": "meshed",
+        "past_participle": "meshed",
+        "ing": "meshing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mesh",
-          "definition": "n. 網孔, 網丝, 網眼, 網状物, 圈套, 陷阱, 啮合, vt. 以網捕捉, 啮合, 使缠住, vi. 落網, 相啮合"
+          "definition": "n. 網狀物；網眼；嚙合 v. 嚙合；協調配合"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A fine mesh prevents insects from entering the tent.",
+          "highlight": [
+            "mesh"
+          ],
+          "translations": {
+            "zh-TW": "細密網眼能防止昆蟲進入帳篷。"
+          }
+        },
+        {
+          "en": "The gears meshed smoothly when the machine started.",
+          "highlight": [
+            "meshed"
+          ],
+          "translations": {
+            "zh-TW": "機器啟動時齒輪順暢地嚙合。"
+          }
+        },
+        {
+          "en": "These wireless meshes improve network coverage outdoors.",
+          "highlight": [
+            "meshes"
+          ],
+          "translations": {
+            "zh-TW": "這些無線網狀網路能改善戶外網路覆蓋。"
+          }
+        }
+      ],
+      "synonyms": [
+        "net",
+        "grid",
+        "lattice"
+      ],
+      "antonyms": [
+        "gap"
+      ],
+      "phrases": [
+        "mesh network",
+        "wire mesh",
+        "mesh filter",
+        "mesh screen"
+      ]
     },
     {
       "id": "C1-609-007",
@@ -172,25 +419,67 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "crafts",
-      "phonetic": "",
+      "phonetic": "kræfts",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "craftses"
+        "plural": "crafts",
+        "present_3rd": "crafts",
+        "past": "crafted",
+        "past_participle": "crafted",
+        "ing": "crafting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "crafts",
-          "definition": "n. 工艺品, 手艺（craft的复数形式）"
+          "definition": "n. 工藝品；手工藝；技藝 v. 精製；手工製作（craft 的複數與第三人稱單數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Local artisans sell handmade crafts at the weekend market.",
+          "highlight": [
+            "crafts"
+          ],
+          "translations": {
+            "zh-TW": "當地工匠在週末市集販售手工藝品。"
+          }
+        },
+        {
+          "en": "He crafted a wooden chair using traditional techniques.",
+          "highlight": [
+            "crafted"
+          ],
+          "translations": {
+            "zh-TW": "他用傳統技術製作了一把木椅。"
+          }
+        },
+        {
+          "en": "Various crafts are demonstrated at the cultural festival.",
+          "highlight": [
+            "crafts"
+          ],
+          "translations": {
+            "zh-TW": "文化節上展示了各種手工藝。"
+          }
+        }
+      ],
+      "synonyms": [
+        "arts",
+        "trades",
+        "skills"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "arts and crafts",
+        "craft fair",
+        "handmade crafts",
+        "craftsmanship"
+      ]
     },
     {
       "id": "C1-609-008",
@@ -199,9 +488,10 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "hardcover",
-      "phonetic": "",
+      "phonetic": "ˈhɑːdˌkʌvə",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "hardcovers"
@@ -211,13 +501,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "hardcover",
-          "definition": "a. 硬書皮的, n. 硬封面的書, 精裝書"
+          "definition": "n. 精裝書；硬皮書 adj. 硬封面的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The hardcover edition costs significantly more than paperback.",
+          "highlight": [
+            "hardcover"
+          ],
+          "translations": {
+            "zh-TW": "精裝版比平裝版貴很多。"
+          }
+        },
+        {
+          "en": "Collectors prize first-edition hardcovers for their value.",
+          "highlight": [
+            "hardcovers"
+          ],
+          "translations": {
+            "zh-TW": "收藏家珍視初版精裝書的價值。"
+          }
+        },
+        {
+          "en": "She prefers hardcover books for their durability.",
+          "highlight": [
+            "hardcover"
+          ],
+          "translations": {
+            "zh-TW": "她偏好精裝書，因為更耐用。"
+          }
+        }
+      ],
+      "synonyms": [
+        "hardback",
+        "bound book",
+        "casebound"
+      ],
+      "antonyms": [
+        "paperback"
+      ],
+      "phrases": [
+        "hardcover book",
+        "hardcover edition",
+        "hardcover binding",
+        "hardcover novel"
+      ]
     },
     {
       "id": "C1-609-009",
@@ -226,25 +555,69 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "observed",
-      "phonetic": "",
+      "phonetic": "əbˈzɜːvd",
       "pos": [
-        "noun"
+        "verb",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "observeds"
+        "present_3rd": "observes",
+        "past": "observed",
+        "past_participle": "observed",
+        "ing": "observing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "observed",
-          "definition": "a. 觀測的；觀察的"
+          "definition": "v. 觀察；注意到；遵守（observe 的過去式與過去分詞）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Scientists observed a rare phenomenon during the eclipse.",
+          "highlight": [
+            "observed"
+          ],
+          "translations": {
+            "zh-TW": "科學家在日食期間觀察到罕見現象。"
+          }
+        },
+        {
+          "en": "The researcher observes animal behavior in the wild.",
+          "highlight": [
+            "observes"
+          ],
+          "translations": {
+            "zh-TW": "研究人員在野外觀察動物行為。"
+          }
+        },
+        {
+          "en": "Strict protocols were observed throughout the experiment.",
+          "highlight": [
+            "observed"
+          ],
+          "translations": {
+            "zh-TW": "整個實驗過程都遵守了嚴格的協議。"
+          }
+        }
+      ],
+      "synonyms": [
+        "noticed",
+        "watched",
+        "monitored"
+      ],
+      "antonyms": [
+        "ignored",
+        "overlooked"
+      ],
+      "phrases": [
+        "observed behavior",
+        "observed data",
+        "observed pattern",
+        "closely observed"
+      ]
     },
     {
       "id": "C1-609-010",
@@ -253,26 +626,64 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "dean",
-      "phonetic": "",
+      "phonetic": "diːn",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "deans"
       },
-      "domain": "general",
+      "domain": "education",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "dean",
-          "definition": "n. 院長, 主持牧師, [法] 外交团長, 學院院長, 教務長"
+          "definition": "n. 院長；教務長；主持牧師"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The dean announced new policies at the faculty meeting.",
+          "highlight": [
+            "dean"
+          ],
+          "translations": {
+            "zh-TW": "院長在教職員會議上宣布了新政策。"
+          }
+        },
+        {
+          "en": "Several deans attended the academic accreditation ceremony.",
+          "highlight": [
+            "deans"
+          ],
+          "translations": {
+            "zh-TW": "幾位院長出席了學術認證典禮。"
+          }
+        },
+        {
+          "en": "She was appointed dean of the business school last year.",
+          "highlight": [
+            "dean"
+          ],
+          "translations": {
+            "zh-TW": "她去年被任命為商學院院長。"
+          }
+        }
+      ],
+      "synonyms": [
+        "head",
+        "director",
+        "provost"
+      ],
+      "antonyms": [
+        "student"
+      ],
+      "phrases": [
+        "dean of students",
+        "dean of faculty",
+        "associate dean",
+        "dean list"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }

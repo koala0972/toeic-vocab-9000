@@ -2,6 +2,7 @@
   "level": 608,
   "tier": "advanced",
   "cefr": "C1",
+  "toeic_score_min": 880,
   "words": [
     {
       "id": "C1-608-001",
@@ -10,25 +11,69 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "leaving",
-      "phonetic": "",
+      "phonetic": "ˈliːvɪŋ",
       "pos": [
+        "verb",
         "noun"
       ],
       "conjugations": {
-        "plural": "leavings"
+        "past": "left",
+        "past_participle": "left",
+        "ing": "leaving",
+        "present_3rd": "leaves"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "leaving",
-          "definition": "n. 離开；残余；渣滓"
+          "definition": "v. 離開；留下；剩餘（leave 的現在分詞） n. 離去；殘餘物"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "She is leaving for Tokyo on a business trip tomorrow.",
+          "highlight": [
+            "leaving"
+          ],
+          "translations": {
+            "zh-TW": "她明天將啟程前往東京出差。"
+          }
+        },
+        {
+          "en": "He left the company after ten years of service.",
+          "highlight": [
+            "left"
+          ],
+          "translations": {
+            "zh-TW": "他在公司服務十年後離開了。"
+          }
+        },
+        {
+          "en": "The leaving of the CEO surprised the entire board.",
+          "highlight": [
+            "leaving"
+          ],
+          "translations": {
+            "zh-TW": "執行長的離去令整個董事會感到意外。"
+          }
+        }
+      ],
+      "synonyms": [
+        "departing",
+        "exiting",
+        "abandoning"
+      ],
+      "antonyms": [
+        "arriving",
+        "staying"
+      ],
+      "phrases": [
+        "leaving behind",
+        "leaving early",
+        "leaving for",
+        "leaving group"
+      ]
     },
     {
       "id": "C1-608-002",
@@ -37,25 +82,62 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "appliances",
-      "phonetic": "",
+      "phonetic": "əˈplaɪənsɪz",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "applianceses"
+        "plural": "appliances"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "appliances",
-          "definition": "電气用具"
+          "definition": "n. 電器；家用電器；器具（appliance 的複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Smart appliances can be controlled remotely via smartphone.",
+          "highlight": [
+            "appliances"
+          ],
+          "translations": {
+            "zh-TW": "智慧家電可透過智慧型手機遠端控制。"
+          }
+        },
+        {
+          "en": "The warranty covers this appliance for two years.",
+          "highlight": [
+            "appliance"
+          ],
+          "translations": {
+            "zh-TW": "保固涵蓋這台電器兩年。"
+          }
+        },
+        {
+          "en": "Energy-efficient appliances reduce monthly electricity bills.",
+          "highlight": [
+            "appliances"
+          ],
+          "translations": {
+            "zh-TW": "節能家電能降低每月電費。"
+          }
+        }
+      ],
+      "synonyms": [
+        "devices",
+        "gadgets",
+        "equipment"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "home appliances",
+        "kitchen appliances",
+        "electrical appliances",
+        "household appliances"
+      ]
     },
     {
       "id": "C1-608-003",
@@ -64,25 +146,68 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "matt",
-      "phonetic": "",
+      "phonetic": "mæt",
       "pos": [
+        "adjective",
         "noun"
       ],
       "conjugations": {
-        "plural": "matts"
+        "plural": "matts",
+        "comparative": "matter",
+        "superlative": "mattest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "matt",
-          "definition": "a. 表面暗淡的, 无光泽的, 表面粗糙的, 不光滑的, [醫] 无光泽"
+          "definition": "adj. 無光澤的；霧面的；不反光的 n. 霧面表面"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The photographer chose a matt finish for the prints.",
+          "highlight": [
+            "matt"
+          ],
+          "translations": {
+            "zh-TW": "攝影師為照片選擇了霧面處理。"
+          }
+        },
+        {
+          "en": "These matts reduce glare under bright studio lighting.",
+          "highlight": [
+            "matts"
+          ],
+          "translations": {
+            "zh-TW": "這些霧面能在明亮的攝影棚燈光下減少反光。"
+          }
+        },
+        {
+          "en": "A matter surface hides fingerprints better than a glossy one.",
+          "highlight": [
+            "matter"
+          ],
+          "translations": {
+            "zh-TW": "霧面比亮面更能隱藏指紋。"
+          }
+        }
+      ],
+      "synonyms": [
+        "matte",
+        "dull",
+        "flat"
+      ],
+      "antonyms": [
+        "glossy",
+        "shiny"
+      ],
+      "phrases": [
+        "matt finish",
+        "matt surface",
+        "matt black",
+        "matt coating"
+      ]
     },
     {
       "id": "C1-608-004",
@@ -91,25 +216,70 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "speaking",
-      "phonetic": "",
+      "phonetic": "ˈspiːkɪŋ",
       "pos": [
-        "noun"
+        "verb",
+        "noun",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "speakings"
+        "past": "spoke",
+        "past_participle": "spoken",
+        "ing": "speaking",
+        "present_3rd": "speaks"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "speaking",
-          "definition": "n. 谈话, 演說, a. 讲话的, 适于說的, 讲某種語言的"
+          "definition": "v. 說話；演講；提及（speak 的現在分詞） n. 演講 adj. 講話的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "She is speaking at the international conference next week.",
+          "highlight": [
+            "speaking"
+          ],
+          "translations": {
+            "zh-TW": "她下週將在國際會議上演講。"
+          }
+        },
+        {
+          "en": "He spoke confidently during the job interview.",
+          "highlight": [
+            "spoke"
+          ],
+          "translations": {
+            "zh-TW": "他在面試中自信地說話。"
+          }
+        },
+        {
+          "en": "Public speaking skills are essential for leadership roles.",
+          "highlight": [
+            "speaking"
+          ],
+          "translations": {
+            "zh-TW": "公開演講技巧對領導職位至關重要。"
+          }
+        }
+      ],
+      "synonyms": [
+        "talking",
+        "addressing",
+        "lecturing"
+      ],
+      "antonyms": [
+        "listening",
+        "silence"
+      ],
+      "phrases": [
+        "public speaking",
+        "speaking engagement",
+        "speaking of",
+        "generally speaking"
+      ]
     },
     {
       "id": "C1-608-005",
@@ -118,25 +288,69 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "sponsors",
-      "phonetic": "",
+      "phonetic": "ˈspɒnsəz",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "sponsorses"
+        "plural": "sponsors",
+        "present_3rd": "sponsors",
+        "past": "sponsored",
+        "past_participle": "sponsored",
+        "ing": "sponsoring"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sponsors",
-          "definition": "n. 保人( sponsor的名词复数 ); （廣播電視節目、音乐會或運動會的）赞助者; （培训或教育的）资助者; （法案等的）倡議者, v. 赞助( sponsor的第三人稱單数 ); 资助（某人的培训或教育）; 為慈善活動捐资; 倡議"
+          "definition": "n. 贊助商；保證人；發起者 v. 贊助；資助（sponsor 的複數與第三人稱單數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Corporate sponsors fund most of the sporting events.",
+          "highlight": [
+            "sponsors"
+          ],
+          "translations": {
+            "zh-TW": "企業贊助商資助了大部分體育賽事。"
+          }
+        },
+        {
+          "en": "The bank sponsored the annual charity gala.",
+          "highlight": [
+            "sponsored"
+          ],
+          "translations": {
+            "zh-TW": "該銀行贊助了年度慈善晚宴。"
+          }
+        },
+        {
+          "en": "Several sponsors withdrew their support after the scandal.",
+          "highlight": [
+            "sponsors"
+          ],
+          "translations": {
+            "zh-TW": "幾家贊助商在醜聞後撤回了支持。"
+          }
+        }
+      ],
+      "synonyms": [
+        "backers",
+        "patrons",
+        "supporters"
+      ],
+      "antonyms": [
+        "opponents"
+      ],
+      "phrases": [
+        "corporate sponsors",
+        "sponsored content",
+        "sponsor level",
+        "title sponsors"
+      ]
     },
     {
       "id": "C1-608-006",
@@ -145,25 +359,69 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "fox",
-      "phonetic": "",
+      "phonetic": "fɒks",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "foxs"
+        "plural": "foxes",
+        "present_3rd": "foxes",
+        "past": "foxed",
+        "past_participle": "foxed",
+        "ing": "foxing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "fox",
-          "definition": "n. 狐狸, 狡猾的人, vi. 奸狡地行動, (書頁)生斑, 变酸, vt. 欺骗, 使变酸, 為(鞋等)换面, 使生黄斑"
+          "definition": "n. 狐狸；狡猾的人 v. 欺騙；使困惑"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A red fox darted across the field at dawn.",
+          "highlight": [
+            "fox"
+          ],
+          "translations": {
+            "zh-TW": "一隻紅狐在黎明時衝過田野。"
+          }
+        },
+        {
+          "en": "Foxes often raid chicken coops in rural areas.",
+          "highlight": [
+            "Foxes"
+          ],
+          "translations": {
+            "zh-TW": "狐狸常在鄉村地區襲擊雞舍。"
+          }
+        },
+        {
+          "en": "The puzzle foxed even the most experienced solvers.",
+          "highlight": [
+            "foxed"
+          ],
+          "translations": {
+            "zh-TW": "這道謎題甚至難倒了最有經驗的解題者。"
+          }
+        }
+      ],
+      "synonyms": [
+        "trickster",
+        "deceive",
+        "outwit"
+      ],
+      "antonyms": [
+        "candor"
+      ],
+      "phrases": [
+        "fox trot",
+        "fox hole",
+        "crazy fox",
+        "sly fox"
+      ]
     },
     {
       "id": "C1-608-007",
@@ -172,25 +430,67 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "sizes",
-      "phonetic": "",
+      "phonetic": "ˈsaɪzɪz",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "sizeses"
+        "plural": "sizes",
+        "present_3rd": "sizes",
+        "past": "sized",
+        "past_participle": "sized",
+        "ing": "sizing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sizes",
-          "definition": "n. 象素顯示尺寸, 尺寸（size复数形式）"
+          "definition": "n. 尺寸；大小；尺碼（size 的複數） v. 按大小分類"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "These shoes come in various sizes from five to twelve.",
+          "highlight": [
+            "sizes"
+          ],
+          "translations": {
+            "zh-TW": "這些鞋款提供五號到十二號各種尺碼。"
+          }
+        },
+        {
+          "en": "She sized up the competition before making her move.",
+          "highlight": [
+            "sized"
+          ],
+          "translations": {
+            "zh-TW": "她在採取行動前先評估了競爭對手。"
+          }
+        },
+        {
+          "en": "Different sizes of containers suit various storage needs.",
+          "highlight": [
+            "sizes"
+          ],
+          "translations": {
+            "zh-TW": "不同尺寸的容器適合各種儲存需求。"
+          }
+        }
+      ],
+      "synonyms": [
+        "dimensions",
+        "measurements",
+        "proportions"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "various sizes",
+        "different sizes",
+        "sizes up",
+        "sample sizes"
+      ]
     },
     {
       "id": "C1-608-008",
@@ -199,25 +499,69 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "entered",
-      "phonetic": "",
+      "phonetic": "ˈɛntəd",
       "pos": [
-        "noun"
+        "verb",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "entereds"
+        "present_3rd": "enters",
+        "past": "entered",
+        "past_participle": "entered",
+        "ing": "entering"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "entered",
-          "definition": "a. 进入的"
+          "definition": "v. 進入；參加；輸入（enter 的過去式與過去分詞）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "She entered the conference hall just as the keynote began.",
+          "highlight": [
+            "entered"
+          ],
+          "translations": {
+            "zh-TW": "她正好在主題演講開始時進入會議廳。"
+          }
+        },
+        {
+          "en": "The team has entered the finals for three consecutive years.",
+          "highlight": [
+            "entered"
+          ],
+          "translations": {
+            "zh-TW": "該隊伍已連續三年進入決賽。"
+          }
+        },
+        {
+          "en": "He enters data into the system every morning.",
+          "highlight": [
+            "enters"
+          ],
+          "translations": {
+            "zh-TW": "他每天早上將資料輸入系統。"
+          }
+        }
+      ],
+      "synonyms": [
+        "joined",
+        "accessed",
+        "enrolled"
+      ],
+      "antonyms": [
+        "exited",
+        "left"
+      ],
+      "phrases": [
+        "entered into",
+        "entered the market",
+        "entered the room",
+        "entered data"
+      ]
     },
     {
       "id": "C1-608-009",
@@ -226,25 +570,60 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "iran",
-      "phonetic": "",
+      "phonetic": "ɪˈrɑːn",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "irans"
       },
-      "domain": "general",
+      "domain": "geography",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "iran",
-          "definition": "n. 伊朗"
+          "definition": "n. 伊朗（中東國家）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "iran is one of the largest producers of pistachios worldwide.",
+          "highlight": [
+            "iran"
+          ],
+          "translations": {
+            "zh-TW": "伊朗是全球最大的開心果生產國之一。"
+          }
+        },
+        {
+          "en": "Trade between iran and neighboring countries has increased.",
+          "highlight": [
+            "iran"
+          ],
+          "translations": {
+            "zh-TW": "伊朗與鄰國之間的貿易有所增加。"
+          }
+        },
+        {
+          "en": "The delegation from iran attended the summit last year.",
+          "highlight": [
+            "iran"
+          ],
+          "translations": {
+            "zh-TW": "來自伊朗的代表團去年出席了高峰會。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Persia"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "iran nuclear deal",
+        "iran sanctions",
+        "iran border",
+        "iran economy"
+      ]
     },
     {
       "id": "C1-608-010",
@@ -253,26 +632,67 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "keys",
-      "phonetic": "",
+      "phonetic": "kiːz",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "keyses"
+        "plural": "keys",
+        "present_3rd": "keys",
+        "past": "keyed",
+        "past_participle": "keyed",
+        "ing": "keying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "keys",
-          "definition": "n. 關键帧；（钢琴等的）键；密钥（key的复数）"
+          "definition": "n. 鑰匙；關鍵鍵；密鑰（key 的複數） v. 鍵入"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "She jingled her keys as she walked to the front door.",
+          "highlight": [
+            "keys"
+          ],
+          "translations": {
+            "zh-TW": "她走向前門時鑰匙叮噹作響。"
+          }
+        },
+        {
+          "en": "He keyed the data into the spreadsheet manually.",
+          "highlight": [
+            "keyed"
+          ],
+          "translations": {
+            "zh-TW": "他手動將資料鍵入試算表。"
+          }
+        },
+        {
+          "en": "Press the arrow keys to navigate through the menu.",
+          "highlight": [
+            "keys"
+          ],
+          "translations": {
+            "zh-TW": "按方向鍵瀏覽選單。"
+          }
+        }
+      ],
+      "synonyms": [
+        "answers",
+        "solutions",
+        "switches"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "arrow keys",
+        "car keys",
+        "keys to success",
+        "encryption keys"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
