@@ -2,6 +2,7 @@
   "level": 606,
   "tier": "advanced",
   "cefr": "C1",
+  "toeic_score_min": 880,
   "words": [
     {
       "id": "C1-606-001",
@@ -10,25 +11,69 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "contracts",
-      "phonetic": "",
+      "phonetic": "ˈkɒntrækts",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "contractses"
+        "plural": "contracts",
+        "present_3rd": "contracts",
+        "past": "contracted",
+        "past_participle": "contracted",
+        "ing": "contracting"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "contracts",
-          "definition": "n. 契約( contract的名词复数 ); 婚約; [法律]契約法; 行贿"
+          "definition": "n. 契約；合約 v. 簽訂合約；收縮（contract 的複數與第三人稱單數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Lawyers drafted employment contracts covering confidentiality clauses.",
+          "highlight": [
+            "contracts"
+          ],
+          "translations": {
+            "zh-TW": "律師起草包含保密條款的僱傭契約。"
+          }
+        },
+        {
+          "en": "Cold metals contract slightly as the surrounding temperature drops.",
+          "highlight": [
+            "contract"
+          ],
+          "translations": {
+            "zh-TW": "金屬在環境溫度下降時會略微收縮。"
+          }
+        },
+        {
+          "en": "Several suppliers have expressed interest in long-term contracts.",
+          "highlight": [
+            "contracts"
+          ],
+          "translations": {
+            "zh-TW": "幾家供應商表達了對長期合約的興趣。"
+          }
+        }
+      ],
+      "synonyms": [
+        "agreements",
+        "deals",
+        "pacts"
+      ],
+      "antonyms": [
+        "expansions"
+      ],
+      "phrases": [
+        "employment contracts",
+        "void contracts",
+        "sign contracts",
+        "labor contracts"
+      ]
     },
     {
       "id": "C1-606-002",
@@ -37,25 +82,64 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "guests",
-      "phonetic": "",
+      "phonetic": "ɡɛsts",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "guestses"
+        "plural": "guests"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "guests",
-          "definition": "n. 客人；來宾（guest的复数）"
+          "definition": "n. 客人；賓客；旅客（guest 的複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Distinguished guests arrived early at the charity gala yesterday evening.",
+          "highlight": [
+            "guests"
+          ],
+          "translations": {
+            "zh-TW": "貴賓昨晚提早抵達慈善晚會會場。"
+          }
+        },
+        {
+          "en": "The hotel accommodates up to four guests per suite comfortably.",
+          "highlight": [
+            "guests"
+          ],
+          "translations": {
+            "zh-TW": "這家飯店的套房可舒適入住至多四位旅客。"
+          }
+        },
+        {
+          "en": "Private guests must register at the front desk before entering.",
+          "highlight": [
+            "guests"
+          ],
+          "translations": {
+            "zh-TW": "私人訪客進入前須在櫃台登記。"
+          }
+        }
+      ],
+      "synonyms": [
+        "visitors",
+        "invitees",
+        "patrons"
+      ],
+      "antonyms": [
+        "hosts"
+      ],
+      "phrases": [
+        "honored guests",
+        "hotel guests",
+        "dinner guests",
+        "special guests"
+      ]
     },
     {
       "id": "C1-606-003",
@@ -64,25 +148,65 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "hosted",
-      "phonetic": "",
+      "phonetic": "ˈhoʊstɪd",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "hosteds"
+        "present_3rd": "hosts",
+        "past": "hosted",
+        "past_participle": "hosted",
+        "ing": "hosting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "hosted",
-          "definition": "v. （作為主人）款待, 招待（客人）；主持（host的過去式）"
+          "definition": "v. 主辦；主持；招待（host 的過去式與過去分詞）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The television channel hosted the prestigious awards ceremony last night.",
+          "highlight": [
+            "hosted"
+          ],
+          "translations": {
+            "zh-TW": "該電視頻道昨晚主辦了這場享有盛名的頒獎典禮。"
+          }
+        },
+        {
+          "en": "Neighboring countries hosted thousands of displaced families last winter.",
+          "highlight": [
+            "hosted"
+          ],
+          "translations": {
+            "zh-TW": "鄰國去年冬天接待了數千名流離失所的家庭。"
+          }
+        },
+        {
+          "en": "Their website has hosted discussion forums since the late nineties.",
+          "highlight": [
+            "hosted"
+          ],
+          "translations": {
+            "zh-TW": "他們的網站自九十年代末起就架設討論論壇。"
+          }
+        }
+      ],
+      "synonyms": [
+        "organized",
+        "staged",
+        "presented"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "hosted events",
+        "hosted by",
+        "hosted exchange",
+        "self-hosted"
+      ]
     },
     {
       "id": "C1-606-004",
@@ -91,25 +215,64 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "diseases",
-      "phonetic": "",
+      "phonetic": "dɪˈziːzɪz",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "diseaseses"
+        "plural": "diseases"
       },
-      "domain": "general",
+      "domain": "medical",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "diseases",
-          "definition": "n. 病害；疾病；疾病種类；病（disease的复数）"
+          "definition": "n. 疾病；病害（disease 的複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Public health campaigns raise awareness about preventable diseases.",
+          "highlight": [
+            "diseases"
+          ],
+          "translations": {
+            "zh-TW": "公共衛生宣導活動提升大眾對可預防疾病的認識。"
+          }
+        },
+        {
+          "en": "Experts research how tropical diseases spread across continents.",
+          "highlight": [
+            "diseases"
+          ],
+          "translations": {
+            "zh-TW": "專家研究熱帶疾病如何跨越各大洲傳播。"
+          }
+        },
+        {
+          "en": "Vaccinations have dramatically reduced infectious diseases among children.",
+          "highlight": [
+            "diseases"
+          ],
+          "translations": {
+            "zh-TW": "疫苗接種大幅減少了兒童傳染病。"
+          }
+        }
+      ],
+      "synonyms": [
+        "illnesses",
+        "ailments",
+        "sicknesses"
+      ],
+      "antonyms": [
+        "health"
+      ],
+      "phrases": [
+        "chronic diseases",
+        "infectious diseases",
+        "rare diseases",
+        "preventable diseases"
+      ]
     },
     {
       "id": "C1-606-005",
@@ -118,25 +281,62 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "developers",
-      "phonetic": "",
+      "phonetic": "dɪˈvɛləpərz",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "developerses"
+        "plural": "developers"
       },
-      "domain": "general",
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "developers",
-          "definition": "n. 开發者( developer的复数形式 ); 研制者; 顯影劑; 顯色劑"
+          "definition": "n. 開發者；開發商；攝影顯影劑（developer 的複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Software developers collaborate remotely across multiple time zones daily.",
+          "highlight": [
+            "developers"
+          ],
+          "translations": {
+            "zh-TW": "軟體開發者每天跨越多個時區進行遠端協作。"
+          }
+        },
+        {
+          "en": "Real estate developers plan ambitious housing projects along the waterfront.",
+          "highlight": [
+            "developers"
+          ],
+          "translations": {
+            "zh-TW": "房地產開發商在濱水區規劃了雄心勃勃的住宅專案。"
+          }
+        },
+        {
+          "en": "Hiring skilled developers remains a challenge for every growing startup.",
+          "highlight": [
+            "developers"
+          ],
+          "translations": {
+            "zh-TW": "招募優秀開發者仍是每個成長中新創公司的挑戰。"
+          }
+        }
+      ],
+      "synonyms": [
+        "programmers",
+        "coders",
+        "builders"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "software developers",
+        "game developers",
+        "web developers",
+        "property developers"
+      ]
     },
     {
       "id": "C1-606-006",
@@ -145,25 +345,58 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "tony",
-      "phonetic": "",
+      "phonetic": "ˈtoʊni",
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "tonies"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "name",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tony",
-          "definition": "a. 高贵的, 時髦的"
+          "definition": "n. 東尼（男子名；Anthony 的暱稱）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The board appointed Tony to oversee the global rebranding initiative.",
+          "highlight": [
+            "Tony"
+          ],
+          "translations": {
+            "zh-TW": "董事會任命東尼監督全球品牌重塑計畫。"
+          }
+        },
+        {
+          "en": "Tony spearheaded the acquisition that doubled the company's market value.",
+          "highlight": [
+            "Tony"
+          ],
+          "translations": {
+            "zh-TW": "東尼主導了使公司市值翻倍的併購案。"
+          }
+        },
+        {
+          "en": "Colleagues respect Tony for his decisive leadership in turbulent times.",
+          "highlight": [
+            "Tony"
+          ],
+          "translations": {
+            "zh-TW": "同事們敬重東尼在動盪時期的果斷領導。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Anthony",
+        "Antonio"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Tony Stark",
+        "Tony Robbins",
+        "Tony Awards"
+      ]
     },
     {
       "id": "C1-606-007",
@@ -172,25 +405,58 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "nevada",
-      "phonetic": "",
+      "phonetic": "nɪˈvædə",
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "nevadas"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "geography",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "nevada",
-          "definition": "n. 內华達"
+          "definition": "n. 內華達（美國西部州名）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Tourists flock to Nevada's casinos throughout the holiday weekend.",
+          "highlight": [
+            "Nevada"
+          ],
+          "translations": {
+            "zh-TW": "假期週末遊客湧入內華達的賭場。"
+          }
+        },
+        {
+          "en": "Nevada encompasses vast stretches of arid desert and mountain ranges.",
+          "highlight": [
+            "Nevada"
+          ],
+          "translations": {
+            "zh-TW": "內華達涵蓋廣大的乾燥沙漠與山脈。"
+          }
+        },
+        {
+          "en": "Politicians debate Nevada's evolving stance on renewable energy incentives.",
+          "highlight": [
+            "Nevada"
+          ],
+          "translations": {
+            "zh-TW": "政治人物辯論內華達對再生能源誘因的演變立場。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Silver State",
+        "NV"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Nevada state",
+        "Las Vegas Nevada",
+        "Nevada deserts"
+      ]
     },
     {
       "id": "C1-606-008",
@@ -199,25 +465,62 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "kits",
-      "phonetic": "",
+      "phonetic": "kɪts",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "kitses"
+        "plural": "kits"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "kits",
-          "definition": "n. 裝備；小桶；锦囊（kit的复数）"
+          "definition": "n. 套件；工具箱；成套組件（kit 的複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Emergency responders carry medical kits during every field deployment.",
+          "highlight": [
+            "kits"
+          ],
+          "translations": {
+            "zh-TW": "緊急應變人員每次出任務都攜帶醫療套件。"
+          }
+        },
+        {
+          "en": "Schools distributed science kits to promote hands-on learning.",
+          "highlight": [
+            "kits"
+          ],
+          "translations": {
+            "zh-TW": "學校發放科學套件以推動動手做學習。"
+          }
+        },
+        {
+          "en": "Fashion designers release makeup kits themed for the festive season.",
+          "highlight": [
+            "kits"
+          ],
+          "translations": {
+            "zh-TW": "時尚設計師推出節慶主題的彩妝套組。"
+          }
+        }
+      ],
+      "synonyms": [
+        "sets",
+        "packs",
+        "packages"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "first aid kits",
+        "tool kits",
+        "survival kits",
+        "starter kits"
+      ]
     },
     {
       "id": "C1-606-009",
@@ -226,25 +529,58 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "thailand",
-      "phonetic": "",
+      "phonetic": "ˈtaɪlænd",
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "thailands"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "geography",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "thailand",
-          "definition": "n. 泰國"
+          "definition": "n. 泰國（東南亞國家）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Backpackers flock to Thailand for its affordable cuisine and beaches.",
+          "highlight": [
+            "Thailand"
+          ],
+          "translations": {
+            "zh-TW": "背包客湧入泰國享受實惠美食與海灘。"
+          }
+        },
+        {
+          "en": "Thailand exports electronics and agricultural goods to global markets.",
+          "highlight": [
+            "Thailand"
+          ],
+          "translations": {
+            "zh-TW": "泰國向全球市場出口電子產品與農產品。"
+          }
+        },
+        {
+          "en": "Diplomatic relations between Thailand and neighboring states remain stable.",
+          "highlight": [
+            "Thailand"
+          ],
+          "translations": {
+            "zh-TW": "泰國與鄰國的外交關係保持穩定。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Siam",
+        "Kingdom of Thailand"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Thailand beaches",
+        "Bangkok Thailand",
+        "Northern Thailand"
+      ]
     },
     {
       "id": "C1-606-010",
@@ -253,26 +589,64 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "variables",
-      "phonetic": "",
+      "phonetic": "ˈvɛriəbəlz",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "variableses"
+        "plural": "variables"
       },
-      "domain": "general",
+      "domain": "science",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "variables",
-          "definition": "n. 变量"
+          "definition": "n. 變數；變量；變項（variable 的複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Scientists must control confounding variables in rigorous experiments.",
+          "highlight": [
+            "variables"
+          ],
+          "translations": {
+            "zh-TW": "科學家必須在嚴謹實驗中控制混淆變項。"
+          }
+        },
+        {
+          "en": "Economists model multiple macroeconomic variables simultaneously.",
+          "highlight": [
+            "variables"
+          ],
+          "translations": {
+            "zh-TW": "經濟學家同時建模多個總體經濟變數。"
+          }
+        },
+        {
+          "en": "Programmers declare variables before assigning values in strict-typed languages.",
+          "highlight": [
+            "variables"
+          ],
+          "translations": {
+            "zh-TW": "程式設計師在強型別語言中須先宣告變數再賦值。"
+          }
+        }
+      ],
+      "synonyms": [
+        "factors",
+        "parameters",
+        "elements"
+      ],
+      "antonyms": [
+        "constants"
+      ],
+      "phrases": [
+        "independent variables",
+        "dependent variables",
+        "environmental variables",
+        "control variables"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
