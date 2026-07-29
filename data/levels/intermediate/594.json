@@ -12,23 +12,67 @@
       "word": "printed",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "printeds"
+        "past": "printed",
+        "past_participle": "printed",
+        "ing": "printing",
+        "present_3rd": "prints"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "printed",
-          "definition": "a. 印刷的, 印好的, 印花樣的, [電] 印刷的"
+          "definition": "v. 印刷；列印（print 的過去式與過去分詞） a. 已印刷的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "She printed the report and handed it to her supervisor.",
+          "highlight": [
+            "printed"
+          ],
+          "translations": {
+            "zh-TW": "她列印出報告並交給主管。"
+          }
+        },
+        {
+          "en": "The invitations had been printed before the date was changed.",
+          "highlight": [
+            "printed"
+          ],
+          "translations": {
+            "zh-TW": "邀請函在日期更改前就已印好了。"
+          }
+        },
+        {
+          "en": "The printed booklet contains all the safety guidelines.",
+          "highlight": [
+            "printed"
+          ],
+          "translations": {
+            "zh-TW": "印刷好的手冊包含所有安全指引。"
+          }
+        }
+      ],
+      "synonyms": [
+        "published",
+        "reproduced",
+        "typed out"
+      ],
+      "antonyms": [
+        "handwritten",
+        "scrawled"
+      ],
+      "phrases": [
+        "printed matter",
+        "printed circuit",
+        "printed out",
+        "printed copies"
+      ]
     },
     {
       "id": "B2-594-002",
@@ -39,23 +83,63 @@
       "word": "easier",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "easiers"
+        "comparative": "easier"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "easier",
-          "definition": "a. 更简單；较早的；容易些（easy的比较級形式）"
+          "definition": "a. 比較容易的；更輕鬆的（easy 的比較級）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The new software makes payroll processing much easier.",
+          "highlight": [
+            "easier"
+          ],
+          "translations": {
+            "zh-TW": "新軟體讓薪資處理變得輕鬆許多。"
+          }
+        },
+        {
+          "en": "Commuting became easier after the subway line opened.",
+          "highlight": [
+            "easier"
+          ],
+          "translations": {
+            "zh-TW": "捷運線通車後通勤變得更加容易。"
+          }
+        },
+        {
+          "en": "It is easier to learn a language when you live abroad.",
+          "highlight": [
+            "easier"
+          ],
+          "translations": {
+            "zh-TW": "住在國外時學語言比較容易。"
+          }
+        }
+      ],
+      "synonyms": [
+        "simpler",
+        "more manageable",
+        "more straightforward"
+      ],
+      "antonyms": [
+        "harder",
+        "more difficult"
+      ],
+      "phrases": [
+        "easier said than done",
+        "much easier",
+        "make it easier",
+        "easier to use"
+      ]
     },
     {
       "id": "B2-594-003",
@@ -76,13 +160,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "src",
-          "definition": "[計] 標準要求代码, 同步遥控"
+          "definition": "n. 原始碼；來源（source 的縮寫，常用於 HTML 標籤與程式碼中）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The img tag requires a valid src attribute to display the image.",
+          "highlight": [
+            "src"
+          ],
+          "translations": {
+            "zh-TW": "img 標籤需要有效的 src 屬性才能顯示圖片。"
+          }
+        },
+        {
+          "en": "Developers set the src of the script to load external libraries.",
+          "highlight": [
+            "src"
+          ],
+          "translations": {
+            "zh-TW": "開發者設定腳本的 src 以載入外部函式庫。"
+          }
+        },
+        {
+          "en": "Broken srcs in the HTML caused several images to fail loading.",
+          "highlight": [
+            "srcs"
+          ],
+          "translations": {
+            "zh-TW": "HTML 中損壞的 src 導致數張圖片載入失敗。"
+          }
+        }
+      ],
+      "synonyms": [
+        "source",
+        "origin"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "src attribute",
+        "img src",
+        "script src",
+        "src path"
+      ]
     },
     {
       "id": "B2-594-004",
@@ -96,20 +216,57 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "printerses"
+        "plural": "printers"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "printers",
-          "definition": "n. 打印機；印刷廠；印花平纹坯布（printer的复数）"
+          "definition": "n. 印表機；印刷廠（printer 的複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Office printers were upgraded to support duplex printing.",
+          "highlight": [
+            "printers"
+          ],
+          "translations": {
+            "zh-TW": "辦公室印表機已升級以支援雙面列印。"
+          }
+        },
+        {
+          "en": "The warehouse stocks ink cartridges for several printers.",
+          "highlight": [
+            "printers"
+          ],
+          "translations": {
+            "zh-TW": "倉庫備有數款印表機的墨水匣存貨。"
+          }
+        },
+        {
+          "en": "Local printers complained about rising paper costs this quarter.",
+          "highlight": [
+            "printers"
+          ],
+          "translations": {
+            "zh-TW": "本地印刷廠本季抱怨紙張成本上漲。"
+          }
+        }
+      ],
+      "synonyms": [
+        "printing machines",
+        "output devices",
+        "presses"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "inkjet printers",
+        "laser printers",
+        "3D printers",
+        "printer drivers"
+      ]
     },
     {
       "id": "B2-594-005",
@@ -123,20 +280,56 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "faqses"
+        "plural": "faqs"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "faqs",
-          "definition": "abbr. 常见问题解答（Frequently Asked Questions）"
+          "definition": "n. 常見問題解答（Frequently Asked Questions 的縮寫與複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The support page lists faqs to help users troubleshoot common issues.",
+          "highlight": [
+            "faqs"
+          ],
+          "translations": {
+            "zh-TW": "客服頁面列出常見問題解答，協助使用者排除常見問題。"
+          }
+        },
+        {
+          "en": "We updated the faqs after the product launch to address new questions.",
+          "highlight": [
+            "faqs"
+          ],
+          "translations": {
+            "zh-TW": "產品上市後我們更新了常見問題解答以回應新的疑問。"
+          }
+        },
+        {
+          "en": "Read the faqs before contacting customer service for faster help.",
+          "highlight": [
+            "faqs"
+          ],
+          "translations": {
+            "zh-TW": "聯絡客服前請先閱讀常見問題解答以獲得更快的協助。"
+          }
+        }
+      ],
+      "synonyms": [
+        "frequently asked questions",
+        "Q&A section"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "faqs section",
+        "read the faqs",
+        "update the faqs",
+        "faqs page"
+      ]
     },
     {
       "id": "B2-594-006",
@@ -147,23 +340,66 @@
       "word": "adding",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "addings"
+        "ing": "adding",
+        "present_3rd": "adds",
+        "past": "added",
+        "past_participle": "added"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "adding",
-          "definition": "[計] 加法的"
+          "definition": "v. 增加；添加（add 的現在分詞）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "She is adding new features to the app before the release.",
+          "highlight": [
+            "adding"
+          ],
+          "translations": {
+            "zh-TW": "她正在發布前為應用程式新增功能。"
+          }
+        },
+        {
+          "en": "Try adding salt at the end to enhance the flavor of the dish.",
+          "highlight": [
+            "adding"
+          ],
+          "translations": {
+            "zh-TW": "試著在最後加鹽以提升菜餚的風味。"
+          }
+        },
+        {
+          "en": "By adding up the receipts, the accountant verified the total expense.",
+          "highlight": [
+            "adding"
+          ],
+          "translations": {
+            "zh-TW": "會計把收據加總後核對了總支出。"
+          }
+        }
+      ],
+      "synonyms": [
+        "including",
+        "incorporating",
+        "inserting"
+      ],
+      "antonyms": [
+        "removing",
+        "subtracting"
+      ],
+      "phrases": [
+        "adding value",
+        "adding machine",
+        "adding to",
+        "adding up"
+      ]
     },
     {
       "id": "B2-594-007",
@@ -184,13 +420,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "kentucky",
-          "definition": "n. 肯塔基州"
+          "definition": "n. 肯塔基州（美國東南部州名）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "He grew up in rural kentucky before moving to the city.",
+          "highlight": [
+            "kentucky"
+          ],
+          "translations": {
+            "zh-TW": "他在肯塔基州鄉村長大後才搬到城市。"
+          }
+        },
+        {
+          "en": "The distillery produces kentucky bourbon famous among whiskey enthusiasts worldwide.",
+          "highlight": [
+            "kentucky"
+          ],
+          "translations": {
+            "zh-TW": "這家蒸餾廠生產舉世聞名的肯塔基州波本威士忌，深受威士忌愛好者喜愛。"
+          }
+        },
+        {
+          "en": "The new factory in kentucky created over two hundred jobs.",
+          "highlight": [
+            "kentucky"
+          ],
+          "translations": {
+            "zh-TW": "肯塔基州的新工廠創造了兩百多個工作機會。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Bluegrass State",
+        "KY"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Kentucky Derby",
+        "Kentucky bourbon",
+        "University of Kentucky",
+        "Northern Kentucky"
+      ]
     },
     {
       "id": "B2-594-008",
@@ -211,13 +483,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "eric",
-          "definition": "abbr. 科教资源信息中心（Educational Resources Information Center）；電子遥控與独立控制（Electronic Remote and Independent Control）"
+          "definition": "n. ERIC 縮寫；教育資源資訊中心（Educational Resources Information Center）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Researchers searched the eric database for studies on early childhood education.",
+          "highlight": [
+            "eric"
+          ],
+          "translations": {
+            "zh-TW": "研究人員在 ERIC 資料庫搜尋幼兒教育的相關研究。"
+          }
+        },
+        {
+          "en": "The eric portal indexes thousands of journal articles each year.",
+          "highlight": [
+            "eric"
+          ],
+          "translations": {
+            "zh-TW": "ERIC 入口網站每年索引數千篇期刊文章。"
+          }
+        },
+        {
+          "en": "Librarians recommend eric as a starting point for education literature reviews.",
+          "highlight": [
+            "eric"
+          ],
+          "translations": {
+            "zh-TW": "圖書館員推薦 ERIC 做為教育文獻回顧的起點。"
+          }
+        }
+      ],
+      "synonyms": [
+        "education database",
+        "research index"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "ERIC database",
+        "ERIC Digest",
+        "ERIC Clearinghouse",
+        "search ERIC"
+      ]
     },
     {
       "id": "B2-594-009",
@@ -238,13 +546,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "taylor",
-          "definition": "n. 泰勒"
+          "definition": "n. 泰勒（英美常見姓氏與名字）；泰勒原理（科學管理學派創始人）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Dr. taylor will present the keynote at next week's conference.",
+          "highlight": [
+            "taylor"
+          ],
+          "translations": {
+            "zh-TW": "泰勒博士將在的下週的研討會發表主題演講。"
+          }
+        },
+        {
+          "en": "Many taylors in this town trace their ancestry back to the eighteenth century.",
+          "highlight": [
+            "taylors"
+          ],
+          "translations": {
+            "zh-TW": "鎮上許多姓泰勒的居民可將祖系追溯至十八世紀。"
+          }
+        },
+        {
+          "en": "The manager implemented taylor principles to streamline factory workflow.",
+          "highlight": [
+            "taylor"
+          ],
+          "translations": {
+            "zh-TW": "經理採用泰勒原理來精簡工廠的工作流程。"
+          }
+        }
+      ],
+      "synonyms": [
+        "tailor (homophone)",
+        "Frederick Taylor"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Taylor Swift",
+        "Taylor series",
+        "Taylorism",
+        "the Taylors"
+      ]
     },
     {
       "id": "B2-594-010",
@@ -265,14 +609,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "trackback",
-          "definition": "n. 引用；引用通知"
+          "definition": "n. 引用通知；反向連結追蹤（部落格系統中通知被引用文章的機制）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "A trackback appeared on my post after another blogger linked to it.",
+          "highlight": [
+            "trackback"
+          ],
+          "translations": {
+            "zh-TW": "另一位部落客連結到我的文章後，我的貼文便出現了一則引用通知。"
+          }
+        },
+        {
+          "en": "Spammers abused the trackbacks feature until the plugin was disabled.",
+          "highlight": [
+            "trackbacks"
+          ],
+          "translations": {
+            "zh-TW": "垃圾訊息發送者濫用引用通知功能，直到外掛被停用為止。"
+          }
+        },
+        {
+          "en": "Enable trackback moderation to filter out unrelated ping notifications.",
+          "highlight": [
+            "trackback"
+          ],
+          "translations": {
+            "zh-TW": "開啟引用通知審核以過濾無關的 ping 通知。"
+          }
+        }
+      ],
+      "synonyms": [
+        "pingback",
+        "backlink notification"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "trackback URL",
+        "trackback ping",
+        "send a trackback",
+        "trackback spam"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
