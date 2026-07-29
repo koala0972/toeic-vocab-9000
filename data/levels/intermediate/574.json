@@ -1,7 +1,7 @@
 {
+  "cefr": "B2",
   "level": 574,
   "tier": "intermediate",
-  "cefr": "B2",
   "words": [
     {
       "id": "B2-574-001",
@@ -12,23 +12,63 @@
       "word": "miscellaneous",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "miscellaneouses"
+        "comparative": "more miscellaneous",
+        "superlative": "most miscellaneous"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "miscellaneous",
-          "definition": "a. 各種的, 多方面的, [法] 各種的, 不同性質的"
+          "definition": "a. 各種各樣的、多方面的、雜項的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The expense report includes a miscellaneous category for small unspecified purchases.",
+          "highlight": [
+            "miscellaneous"
+          ],
+          "translations": {
+            "zh-TW": "費用報告中包含一個雜項分類,用於小額未指定用途的採購。"
+          }
+        },
+        {
+          "en": "All miscellaneous revenue is reported separately at the end of each fiscal year.",
+          "highlight": [
+            "miscellaneous"
+          ],
+          "translations": {
+            "zh-TW": "所有雜項收入在每個會計年度終了時分別申報。"
+          }
+        },
+        {
+          "en": "She filed the receipts under miscellaneous expenses because they did not fit elsewhere.",
+          "highlight": [
+            "miscellaneous"
+          ],
+          "translations": {
+            "zh-TW": "她把收據歸到雜項支出,因為它們不適合放到其他分類。"
+          }
+        }
+      ],
+      "synonyms": [
+        "varied",
+        "assorted",
+        "diverse"
+      ],
+      "antonyms": [
+        "uniform",
+        "homogeneous"
+      ],
+      "phrases": [
+        "miscellaneous expenses",
+        "miscellaneous income",
+        "miscellaneous items"
+      ]
     },
     {
       "id": "B2-574-002",
@@ -39,23 +79,67 @@
       "word": "void",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective",
+        "verb"
       ],
       "conjugations": {
-        "plural": "voids"
+        "present_3rd": "voids",
+        "past": "voided",
+        "past_participle": "voided",
+        "ing": "voiding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "void",
-          "definition": "n. 空虚, 空間, 空白, 空隙, 空虚感, a. 空的, 无效的, 无人的, 没有的, 无用的, [計] 脱墨; 空白點"
+          "definition": "n. 空白、空隙、真空  a. 無效的、空的  v. 使無效、撤銷"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The contract was declared void because one party had provided false information.",
+          "highlight": [
+            "void"
+          ],
+          "translations": {
+            "zh-TW": "這份合約因一方提供不實資訊而被宣告無效。"
+          }
+        },
+        {
+          "en": "The manager voided the duplicate transaction before it could be processed.",
+          "highlight": [
+            "voided"
+          ],
+          "translations": {
+            "zh-TW": "經理在重複交易處理之前就已將其撤銷。"
+          }
+        },
+        {
+          "en": "A large void in the research data makes the conclusion hard to trust.",
+          "highlight": [
+            "void"
+          ],
+          "translations": {
+            "zh-TW": "研究資料中有一大段空白,讓結論難以令人信賴。"
+          }
+        }
+      ],
+      "synonyms": [
+        "invalid",
+        "null",
+        "empty"
+      ],
+      "antonyms": [
+        "valid",
+        "binding"
+      ],
+      "phrases": [
+        "null and void",
+        "void a check",
+        "fill the void"
+      ]
     },
     {
       "id": "B2-574-003",
@@ -63,26 +147,56 @@
       "tier": "intermediate",
       "cefr": "B2",
       "toeic_score_min": 750,
-      "word": "atlanta",
+      "word": "Atlanta",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "atlantas"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "atlanta",
-          "definition": "n. 亚特兰大（美國城市）"
+          "lang_word": "Atlanta",
+          "definition": "n. 亞特蘭大（美國喬治亞州首府,重要商業與交通樞紐）"
         }
       ],
-      "examples": [],
+      "examples": [
+        {
+          "en": "Our regional headquarters in Atlanta oversees business across nine states.",
+          "highlight": [
+            "Atlanta"
+          ],
+          "translations": {
+            "zh-TW": "我們位於亞特蘭大的地區總部負責橫跨九個州的業務。"
+          }
+        },
+        {
+          "en": "The annual trade show will be held in Atlanta next February.",
+          "highlight": [
+            "Atlanta"
+          ],
+          "translations": {
+            "zh-TW": "年度貿易展明年二月將在亞特蘭大舉行。"
+          }
+        },
+        {
+          "en": "Atlanta is home to several Fortune 500 companies in the transportation sector.",
+          "highlight": [
+            "Atlanta"
+          ],
+          "translations": {
+            "zh-TW": "亞特蘭大是幾家在運輸領域的財星五百大企業的所在地。"
+          }
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Atlanta Georgia",
+        "Atlanta airport",
+        "metro Atlanta"
+      ]
     },
     {
       "id": "B2-574-004",
@@ -90,26 +204,56 @@
       "tier": "intermediate",
       "cefr": "B2",
       "toeic_score_min": 750,
-      "word": "dakota",
+      "word": "Dakota",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "dakotas"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "dakota",
-          "definition": "n. 達科他（美國過去一地區名, 現分為南、北達科他州）"
+          "lang_word": "Dakota",
+          "definition": "n. 達科他（美國歷史地區名,現分為北達科他州與南達科他州)"
         }
       ],
-      "examples": [],
+      "examples": [
+        {
+          "en": "The Dakota territory was split into two states when it joined the Union in 1889.",
+          "highlight": [
+            "Dakota"
+          ],
+          "translations": {
+            "zh-TW": "達科他地區於 1889 年加入聯邦時被劃分為兩個州。"
+          }
+        },
+        {
+          "en": "A family-run farm in South Dakota has supplied the chain for three generations.",
+          "highlight": [
+            "Dakota"
+          ],
+          "translations": {
+            "zh-TW": "南達科他州一家家族農場已經三代供貨給這個連鎖店。"
+          }
+        },
+        {
+          "en": "Many tourists visit North Dakota each summer for its sweeping prairie landscapes.",
+          "highlight": [
+            "Dakota"
+          ],
+          "translations": {
+            "zh-TW": "每年夏天許多遊客造訪北達科他州,欣賞其遼闊的草原風光。"
+          }
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "North Dakota",
+        "South Dakota",
+        "Dakota Territory"
+      ]
     },
     {
       "id": "B2-574-005",
@@ -120,23 +264,66 @@
       "word": "installed",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "verb"
       ],
       "conjugations": {
-        "plural": "installeds"
+        "present_3rd": "installs",
+        "past": "installed",
+        "past_participle": "installed",
+        "ing": "installing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "installed",
-          "definition": "a. 安裝的；已裝入的"
+          "definition": "a. 已安裝的  v. install 的過去式／過去分詞:安裝、設置、任命"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The technician installed the new printer driver on every workstation.",
+          "highlight": [
+            "installed"
+          ],
+          "translations": {
+            "zh-TW": "技師已把新的印表機驅動程式安裝到每台工作站上。"
+          }
+        },
+        {
+          "en": "The company is installing solar panels across all its distribution centers.",
+          "highlight": [
+            "installing"
+          ],
+          "translations": {
+            "zh-TW": "這家公司正在所有配送中心安裝太陽能板。"
+          }
+        },
+        {
+          "en": "All installed software must be registered before the trial period ends.",
+          "highlight": [
+            "installed"
+          ],
+          "translations": {
+            "zh-TW": "所有已安裝的軟體都必須在試用期結束前註冊。"
+          }
+        }
+      ],
+      "synonyms": [
+        "set up",
+        "fitted",
+        "mounted"
+      ],
+      "antonyms": [
+        "uninstalled",
+        "removed"
+      ],
+      "phrases": [
+        "installed capacity",
+        "newly installed",
+        "installed base"
+      ]
     },
     {
       "id": "B2-574-006",
@@ -144,26 +331,58 @@
       "tier": "intermediate",
       "cefr": "B2",
       "toeic_score_min": 750,
-      "word": "vhs",
+      "word": "VHS",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "vhses"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "vhs",
-          "definition": "abbr. 家用录像系统（Video Home System）"
+          "lang_word": "VHS",
+          "definition": "n. 家用錄影系統（Video Home System 的縮寫,1980-90 年代主流錄影帶格式）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The studio still keeps a small inventory of VHS tapes for archival purposes.",
+          "highlight": [
+            "VHS"
+          ],
+          "translations": {
+            "zh-TW": "這家工作室仍保有一小批 VHS 錄影帶作為存檔用途。"
+          }
+        },
+        {
+          "en": "Demand for VHS players has fallen sharply since the rise of digital streaming.",
+          "highlight": [
+            "VHS"
+          ],
+          "translations": {
+            "zh-TW": "自數位串流興起後,對 VHS 錄影機的需求已大幅下滑。"
+          }
+        },
+        {
+          "en": "Our library transferred its classic VHS recordings to digital files last year.",
+          "highlight": [
+            "VHS"
+          ],
+          "translations": {
+            "zh-TW": "我們的圖書館去年將經典的 VHS 錄影轉錄為數位檔案。"
+          }
+        }
+      ],
+      "synonyms": [
+        "videotape"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "VHS tape",
+        "VHS player",
+        "VHS format"
+      ]
     },
     {
       "id": "B2-574-007",
@@ -174,23 +393,66 @@
       "word": "credits",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "creditses"
+        "present_3rd": "credits",
+        "past": "credited",
+        "past_participle": "credited",
+        "ing": "crediting",
+        "plural": "credits"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "credits",
-          "definition": "n. 演职員名單；工作人員；信用；學分（credit的复数）"
+          "definition": "n. 學分、片尾字幕、信用（credit 的複數)  v. credit 的第三人稱單數:歸功、記入貸方"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Students must complete 120 credits to graduate from the undergraduate program.",
+          "highlight": [
+            "credits"
+          ],
+          "translations": {
+            "zh-TW": "學生必須修畢 120 學分才能從大學部畢業。"
+          }
+        },
+        {
+          "en": "The bank credited the refund to her account within two business days.",
+          "highlight": [
+            "credited"
+          ],
+          "translations": {
+            "zh-TW": "銀行在兩個工作天內將退款記入她的帳戶貸方。"
+          }
+        },
+        {
+          "en": "The credits at the end of the documentary list everyone who worked on it.",
+          "highlight": [
+            "credits"
+          ],
+          "translations": {
+            "zh-TW": "紀錄片結尾的片尾字幕列出了所有參與工作的人員。"
+          }
+        }
+      ],
+      "synonyms": [
+        "acknowledgments",
+        "units",
+        "debit"
+      ],
+      "antonyms": [
+        "debits"
+      ],
+      "phrases": [
+        "film credits",
+        "academic credits",
+        "tax credits"
+      ]
     },
     {
       "id": "B2-574-008",
@@ -198,20 +460,56 @@
       "tier": "intermediate",
       "cefr": "B2",
       "toeic_score_min": 750,
-      "word": "pubmed",
+      "word": "PubMed",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "pubmeds"
-      },
+      "conjugations": {},
       "domain": "general",
-      "translations": [],
-      "examples": [],
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "PubMed",
+          "definition": "n. PubMed（由美國國家醫學圖書館維護的生物醫學文獻資料庫）"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Researchers search PubMed daily for the latest biomedical literature.",
+          "highlight": [
+            "PubMed"
+          ],
+          "translations": {
+            "zh-TW": "研究人員每天在 PubMed 中搜尋最新的生物醫學文獻。"
+          }
+        },
+        {
+          "en": "The university library offers free training on using PubMed effectively.",
+          "highlight": [
+            "PubMed"
+          ],
+          "translations": {
+            "zh-TW": "大學圖書館提供如何有效使用 PubMed 的免費培訓。"
+          }
+        },
+        {
+          "en": "Citations from PubMed are automatically imported into the reference manager.",
+          "highlight": [
+            "PubMed"
+          ],
+          "translations": {
+            "zh-TW": "來自 PubMed 的引用資料會自動匯入參考文獻管理工具。"
+          }
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "PubMed search",
+        "PubMed Central",
+        "PubMed database"
+      ]
     },
     {
       "id": "B2-574-009",
@@ -219,24 +517,52 @@
       "tier": "intermediate",
       "cefr": "B2",
       "toeic_score_min": 750,
-      "word": "dave",
+      "word": "Dave",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "daves"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "dave",
-          "definition": "n. 戴夫（男子名）"
+          "lang_word": "Dave",
+          "definition": "n. 戴夫（David 的常見暱稱,英文男子名）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Dave will lead the budget review meeting tomorrow morning.",
+          "highlight": [
+            "Dave"
+          ],
+          "translations": {
+            "zh-TW": "戴夫明天早上將主持預算審查會議。"
+          }
+        },
+        {
+          "en": "Please send the latest sales figures to Dave before the end of the day.",
+          "highlight": [
+            "Dave"
+          ],
+          "translations": {
+            "zh-TW": "請在今天結束前把最新的銷售數字寄給戴夫。"
+          }
+        },
+        {
+          "en": "Could you ask Dave to follow up with the supplier in Munich?",
+          "highlight": [
+            "Dave"
+          ],
+          "translations": {
+            "zh-TW": "可以請戴夫跟慕尼黑的供應商聯絡追蹤嗎?"
+          }
+        }
+      ],
+      "synonyms": [
+        "David"
+      ],
       "antonyms": [],
       "phrases": []
     },
@@ -246,27 +572,58 @@
       "tier": "intermediate",
       "cefr": "B2",
       "toeic_score_min": 750,
-      "word": "massachusetts",
+      "word": "Massachusetts",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "massachusettses"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "massachusetts",
-          "definition": "n. 麻萨诸塞州"
+          "lang_word": "Massachusetts",
+          "definition": "n. 麻薩諸塞州（美國東北部新英格蘭區的州,首府波士頓）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Our research lab in Massachusetts focuses on renewable energy technology.",
+          "highlight": [
+            "Massachusetts"
+          ],
+          "translations": {
+            "zh-TW": "我們位於麻薩諸塞州的研究實驗室專注於再生能源技術。"
+          }
+        },
+        {
+          "en": "Harvard University in Massachusetts is one of the oldest in the country.",
+          "highlight": [
+            "Massachusetts"
+          ],
+          "translations": {
+            "zh-TW": "位於麻薩諸塞州的哈佛大學是全美最古老的大學之一。"
+          }
+        },
+        {
+          "en": "Tourism along the Massachusetts coast brings billions in revenue each summer.",
+          "highlight": [
+            "Massachusetts"
+          ],
+          "translations": {
+            "zh-TW": "麻薩諸塞州沿海的觀光業每年夏天帶來數十億營收。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Bay State"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Massachusetts Bay",
+        "Boston Massachusetts",
+        "University of Massachusetts"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }

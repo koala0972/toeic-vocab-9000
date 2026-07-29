@@ -1,7 +1,7 @@
 {
+  "cefr": "B2",
   "level": 572,
   "tier": "intermediate",
-  "cefr": "B2",
   "words": [
     {
       "id": "B2-572-001",
@@ -22,13 +22,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "pic",
-          "definition": "n. 照片, 圖片, 影片, [計] 位置独立代码, 优先中断控制, 過程接口控制, 可编程中断控制器"
+          "definition": "n. 照片、圖片（picture 的口語簡稱）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "She snapped a quick pic of the menu before ordering.",
+          "highlight": [
+            "pic"
+          ],
+          "translations": {
+            "zh-TW": "她在點餐前快速拍了一張菜單的照片。"
+          }
+        },
+        {
+          "en": "The reporter shared several pics from the press conference on social media.",
+          "highlight": [
+            "pics"
+          ],
+          "translations": {
+            "zh-TW": "記者在社群媒體上分享了記者會的幾張照片。"
+          }
+        },
+        {
+          "en": "Please send me that pic of the venue layout you took yesterday.",
+          "highlight": [
+            "pic"
+          ],
+          "translations": {
+            "zh-TW": "請把你昨天拍的場地配置照片傳給我。"
+          }
+        }
+      ],
+      "synonyms": [
+        "photo",
+        "snapshot",
+        "image"
+      ],
+      "antonyms": [
+        "video"
+      ],
+      "phrases": [
+        "take a pic",
+        "profile pic",
+        "star pic"
+      ]
     },
     {
       "id": "B2-572-002",
@@ -36,26 +74,65 @@
       "tier": "intermediate",
       "cefr": "B2",
       "toeic_score_min": 750,
-      "word": "opinions",
+      "word": "opinion",
       "phonetic": "",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "opinionses"
+        "plural": "opinions"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "opinions",
-          "definition": "n. 意见；舆论；评價（opinion的复数）"
+          "lang_word": "opinion",
+          "definition": "n. 意見、看法、評價"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "In my opinion, the new policy will hurt small businesses.",
+          "highlight": [
+            "opinion"
+          ],
+          "translations": {
+            "zh-TW": "依我之見，這項新政策會傷害小型企業。"
+          }
+        },
+        {
+          "en": "Customers' opinions about the redesigned app were mostly positive.",
+          "highlight": [
+            "opinions"
+          ],
+          "translations": {
+            "zh-TW": "顧客對重新設計的應用程式的看法大多是正面的。"
+          }
+        },
+        {
+          "en": "The committee values everyone's opinion before making a final decision.",
+          "highlight": [
+            "opinion"
+          ],
+          "translations": {
+            "zh-TW": "委員會在做最終決定前重視每個人的意見。"
+          }
+        }
+      ],
+      "synonyms": [
+        "view",
+        "viewpoint",
+        "perspective"
+      ],
+      "antonyms": [
+        "fact"
+      ],
+      "phrases": [
+        "in my opinion",
+        "public opinion",
+        "second opinion",
+        "express an opinion"
+      ]
     },
     {
       "id": "B2-572-003",
@@ -66,23 +143,65 @@
       "word": "stated",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "verb"
       ],
       "conjugations": {
-        "plural": "stateds"
+        "past": "stated",
+        "past_participle": "stated",
+        "present_3rd": "states",
+        "ing": "stating"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "stated",
-          "definition": "a. 决定了的, 一定的, 阐明的, 規定的, [經] 固定的, 規定的, 定期的"
+          "definition": "a. 宣稱的、載明的  v. state 的過去式／過去分詞：聲明、陳述"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The CEO stated clearly that no layoffs were planned this quarter.",
+          "highlight": [
+            "stated"
+          ],
+          "translations": {
+            "zh-TW": "執行長清楚聲明本季度不打算裁員。"
+          }
+        },
+        {
+          "en": "Delivery will arrive within the stated timeframe of three to five business days.",
+          "highlight": [
+            "stated"
+          ],
+          "translations": {
+            "zh-TW": "出貨將於載明的三至五個工作天期限內送達。"
+          }
+        },
+        {
+          "en": "The spokesperson is stating the company's position on the controversy right now.",
+          "highlight": [
+            "stating"
+          ],
+          "translations": {
+            "zh-TW": "發言人此刻正在陳述公司對這項爭議的立場。"
+          }
+        }
+      ],
+      "synonyms": [
+        "declared",
+        "expressed",
+        "specified"
+      ],
+      "antonyms": [
+        "unstated"
+      ],
+      "phrases": [
+        "as stated",
+        "stated goal",
+        "stated policy"
+      ]
     },
     {
       "id": "B2-572-004",
@@ -96,20 +215,56 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "statses"
+        "plural": "stats"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "stats",
-          "definition": "abbr. [军]静止坦克自動目標系统（Stationary Tank Automatic Target System）"
+          "definition": "n. 統計資料、數據（statistics 的口語簡稱）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The monthly sales stats show a steady upward trend.",
+          "highlight": [
+            "stats"
+          ],
+          "translations": {
+            "zh-TW": "每月的銷售統計資料顯示穩定的上升趨勢。"
+          }
+        },
+        {
+          "en": "Let's pull up last quarter's stats before the board meeting.",
+          "highlight": [
+            "stats"
+          ],
+          "translations": {
+            "zh-TW": "在董事會開會前，我們先把上季的數據調出來。"
+          }
+        },
+        {
+          "en": "The analytics dashboard updates website stats in real time.",
+          "highlight": [
+            "stats"
+          ],
+          "translations": {
+            "zh-TW": "分析儀表板即時更新網站的統計資料。"
+          }
+        }
+      ],
+      "synonyms": [
+        "statistics",
+        "figures",
+        "data"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "check the stats",
+        "stats report",
+        "vital stats"
+      ]
     },
     {
       "id": "B2-572-005",
@@ -117,26 +272,58 @@
       "tier": "intermediate",
       "cefr": "B2",
       "toeic_score_min": 750,
-      "word": "hawaii",
+      "word": "Hawaii",
       "phonetic": "",
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "hawaiis"
-      },
+      "conjugations": {},
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "hawaii",
-          "definition": "n. 夏威夷州, 夏威夷岛"
+          "lang_word": "Hawaii",
+          "definition": "n. 夏威夷（美國第50州，位於太平洋的群島）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Our regional office in Hawaii handles sales for the Pacific market.",
+          "highlight": [
+            "Hawaii"
+          ],
+          "translations": {
+            "zh-TW": "我們位於夏威夷的地區辦公室負責太平洋市場的銷售。"
+          }
+        },
+        {
+          "en": "The team is travelling to Hawaii next month for the annual conference.",
+          "highlight": [
+            "Hawaii"
+          ],
+          "translations": {
+            "zh-TW": "團隊下個月將前往夏威夷參加年度會議。"
+          }
+        },
+        {
+          "en": "Tourism remains the largest sector of Hawaii's state economy.",
+          "highlight": [
+            "Hawaii"
+          ],
+          "translations": {
+            "zh-TW": "旅遊業仍是夏威夷州經濟最大的產業。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Aloha State"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Honolulu Hawaii",
+        "Big Island Hawaii",
+        "Hawaii time"
+      ]
     },
     {
       "id": "B2-572-006",
@@ -144,26 +331,67 @@
       "tier": "intermediate",
       "cefr": "B2",
       "toeic_score_min": 750,
-      "word": "professionals",
+      "word": "professional",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "professionalses"
+        "plural": "professionals",
+        "comparative": "more professional",
+        "superlative": "most professional"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
-          "lang_word": "professionals",
-          "definition": "n. 專業人員（professional的复数）"
+          "lang_word": "professional",
+          "definition": "n. 專業人員、職業選手  a. 專業的、職業的、內行的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A true professional keeps commitments even under pressure.",
+          "highlight": [
+            "professional"
+          ],
+          "translations": {
+            "zh-TW": "真正的專業人員即使在壓力下也會信守承諾。"
+          }
+        },
+        {
+          "en": "The firm hired several young professionals to expand its advisory team.",
+          "highlight": [
+            "professionals"
+          ],
+          "translations": {
+            "zh-TW": "這家公司雇用了幾位年輕的專業人員以擴大顧問團隊。"
+          }
+        },
+        {
+          "en": "Her presentation was the most professional one we saw all week.",
+          "highlight": [
+            "professional"
+          ],
+          "translations": {
+            "zh-TW": "她的簡報是我們這一整週所見最專業的。"
+          }
+        }
+      ],
+      "synonyms": [
+        "expert",
+        "specialist",
+        "pro"
+      ],
+      "antonyms": [
+        "amateur"
+      ],
+      "phrases": [
+        "professional development",
+        "professional services",
+        "professional ethics"
+      ]
     },
     {
       "id": "B2-572-007",
@@ -174,23 +402,65 @@
       "word": "appears",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "appearses"
+        "present_3rd": "appears",
+        "past": "appeared",
+        "past_participle": "appeared",
+        "ing": "appearing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "appears",
-          "definition": "v. 出現；呈現；看上去好像（appear的三單形式）"
+          "definition": "v. appear 的第三人稱單數：出現、似乎、看起來"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The new manager appears every morning at exactly eight o'clock.",
+          "highlight": [
+            "appears"
+          ],
+          "translations": {
+            "zh-TW": "新任經理每天早上八點整出現。"
+          }
+        },
+        {
+          "en": "It appeared that the invoice had been sent to the wrong address.",
+          "highlight": [
+            "appeared"
+          ],
+          "translations": {
+            "zh-TW": "看來發票被寄到了錯誤的地址。"
+          }
+        },
+        {
+          "en": "The candidate is appearing confident despite the tough questions.",
+          "highlight": [
+            "appearing"
+          ],
+          "translations": {
+            "zh-TW": "候選人在艱難的問題下仍顯得自信滿滿。"
+          }
+        }
+      ],
+      "synonyms": [
+        "seems",
+        "looks",
+        "emerges"
+      ],
+      "antonyms": [
+        "disappears",
+        "vanishes"
+      ],
+      "phrases": [
+        "appears to be",
+        "appears in court",
+        "appears on stage"
+      ]
     },
     {
       "id": "B2-572-008",
@@ -201,23 +471,66 @@
       "word": "decided",
       "phonetic": "",
       "pos": [
-        "noun"
+        "adjective",
+        "verb"
       ],
       "conjugations": {
-        "plural": "decideds"
+        "past": "decided",
+        "past_participle": "decided",
+        "present_3rd": "decides",
+        "ing": "deciding"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "decided",
-          "definition": "a. 確定的, 坚决的"
+          "definition": "a. 明確的、果斷的  v. decide 的過去式／過去分詞：決定、判斷"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "After long debate, the committee decided to postpone the launch.",
+          "highlight": [
+            "decided"
+          ],
+          "translations": {
+            "zh-TW": "經過長時間的辯論，委員會決定延後發表。"
+          }
+        },
+        {
+          "en": "She has a decided advantage over other candidates because she speaks four languages.",
+          "highlight": [
+            "decided"
+          ],
+          "translations": {
+            "zh-TW": "她因為會說四種語言，相對其他候選人有明確的優勢。"
+          }
+        },
+        {
+          "en": "Management is deciding between two vendors for the new IT contract.",
+          "highlight": [
+            "deciding"
+          ],
+          "translations": {
+            "zh-TW": "管理層正在兩家供應商之間做決定，以爭取新的 IT 合約。"
+          }
+        }
+      ],
+      "synonyms": [
+        "determined",
+        "resolved",
+        "settled"
+      ],
+      "antonyms": [
+        "undecided",
+        "wavering"
+      ],
+      "phrases": [
+        "decided to",
+        "has decided",
+        "deciding factor"
+      ]
     },
     {
       "id": "B2-572-009",
@@ -228,23 +541,67 @@
       "word": "covers",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
       "conjugations": {
-        "plural": "coverses"
+        "present_3rd": "covers",
+        "past": "covered",
+        "past_participle": "covered",
+        "ing": "covering",
+        "plural": "covers"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "covers",
-          "definition": "n. 覆盖；封面, 盖子；暗礁, 保證金, 暗礁群"
+          "definition": "v. cover 的第三人稱單數：涵蓋、報導、支付  n. 封面、罩子（cover 的複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The insurance policy covers damage from fire and natural disasters.",
+          "highlight": [
+            "covers"
+          ],
+          "translations": {
+            "zh-TW": "這份保險單涵蓋火災與天然災害造成的損害。"
+          }
+        },
+        {
+          "en": "The reporter covered the election for three major newspapers.",
+          "highlight": [
+            "covered"
+          ],
+          "translations": {
+            "zh-TW": "這位記者為三家主要報紙報導了那場選舉。"
+          }
+        },
+        {
+          "en": "Several stylish covers for the new smartphone hit the market this week.",
+          "highlight": [
+            "covers"
+          ],
+          "translations": {
+            "zh-TW": "幾款為這款新智慧型手機推出的時尚保護殼本週已經上市。"
+          }
+        }
+      ],
+      "synonyms": [
+        "includes",
+        "reports on",
+        "insures"
+      ],
+      "antonyms": [
+        "excludes",
+        "uncovers"
+      ],
+      "phrases": [
+        "cover the cost",
+        "under cover",
+        "book cover"
+      ]
     },
     {
       "id": "B2-572-010",
@@ -255,24 +612,64 @@
       "word": "designs",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "designses"
+        "present_3rd": "designs",
+        "past": "designed",
+        "past_participle": "designed",
+        "ing": "designing",
+        "plural": "designs"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "designs",
-          "definition": "n. 阴谋, 诡計"
+          "definition": "n. 設計圖、圖案（design 的複數）  v. design 的第三人稱單數：設計、構思"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The studio released three new designs for the client to choose from.",
+          "highlight": [
+            "designs"
+          ],
+          "translations": {
+            "zh-TW": "工作室發表了三個新設計供客戶挑選。"
+          }
+        },
+        {
+          "en": "She designs all the packaging for the company's premium products.",
+          "highlight": [
+            "designs"
+          ],
+          "translations": {
+            "zh-TW": "她為公司的頂級產品設計所有的包裝。"
+          }
+        },
+        {
+          "en": "They are designing a more efficient workflow for the assembly line.",
+          "highlight": [
+            "designing"
+          ],
+          "translations": {
+            "zh-TW": "他們正在為裝配線設計更有效率的作業流程。"
+          }
+        }
+      ],
+      "synonyms": [
+        "patterns",
+        "plans",
+        "schemes"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "industrial design",
+        "by design",
+        "design intent"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
