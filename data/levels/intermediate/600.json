@@ -2,6 +2,7 @@
   "level": 600,
   "tier": "intermediate",
   "cefr": "B2",
+  "toeic_score_min": 750,
   "words": [
     {
       "id": "B2-600-001",
@@ -10,25 +11,69 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "receiving",
-      "phonetic": "",
+      "phonetic": "rɪˈsiːvɪŋ",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "receivings"
+        "present_3rd": "receives",
+        "past": "received",
+        "past_participle": "received",
+        "ing": "receiving"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "receiving",
-          "definition": "[計] 接收"
+          "definition": "n. 接收；收貨 v. 接收；收到（receive 的動名詞形式）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The receiving department inspects all incoming shipments.",
+          "highlight": [
+            "receiving"
+          ],
+          "translations": {
+            "zh-TW": "收貨部門檢查所有進貨的物品。"
+          }
+        },
+        {
+          "en": "She has been receiving marketing emails from various retailers.",
+          "highlight": [
+            "receiving"
+          ],
+          "translations": {
+            "zh-TW": "她一直收到各種零售商的行銷電子郵件。"
+          }
+        },
+        {
+          "en": "The hospital received multiple trauma patients after the accident.",
+          "highlight": [
+            "received"
+          ],
+          "translations": {
+            "zh-TW": "事故後醫院接收了多名創傷病患。"
+          }
+        }
+      ],
+      "synonyms": [
+        "accepting",
+        "collecting",
+        "obtaining"
+      ],
+      "antonyms": [
+        "sending",
+        "delivering"
+      ],
+      "phrases": [
+        "receiving dock",
+        "receiving line",
+        "receiving clerk",
+        "receiving end"
+      ]
     },
     {
       "id": "B2-600-002",
@@ -37,25 +82,69 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "matches",
-      "phonetic": "",
+      "phonetic": "ˈmætʃɪz",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "matcheses"
+        "plural": "matches",
+        "present_3rd": "matches",
+        "past": "matched",
+        "past_participle": "matched",
+        "ing": "matching"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "matches",
-          "definition": "n. 火柴；比赛（match的复数）"
+          "definition": "n. 火柴；比賽；匹配 v. 配對；符合（match 的複數與第三人稱單數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Spectators cheered loudly during the tennis matches yesterday.",
+          "highlight": [
+            "matches"
+          ],
+          "translations": {
+            "zh-TW": "觀眾昨天在網球比賽中熱烈歡呼。"
+          }
+        },
+        {
+          "en": "The software matches resumes with available job postings automatically.",
+          "highlight": [
+            "matches"
+          ],
+          "translations": {
+            "zh-TW": "該軟體自動將履歷與可用的職缺配對。"
+          }
+        },
+        {
+          "en": "He struck a match to light the candles on the birthday cake.",
+          "highlight": [
+            "match"
+          ],
+          "translations": {
+            "zh-TW": "他劃了一根火柴來點生日蛋糕的蠟燭。"
+          }
+        }
+      ],
+      "synonyms": [
+        "games",
+        "contests",
+        "pairings"
+      ],
+      "antonyms": [
+        "mismatches"
+      ],
+      "phrases": [
+        "title matches",
+        "soccer matches",
+        "perfect matches",
+        "strike a match"
+      ]
     },
     {
       "id": "B2-600-003",
@@ -64,25 +153,62 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "accordance",
-      "phonetic": "",
+      "phonetic": "əˈkɔːrdəns",
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "accordances"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "formal",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "accordance",
-          "definition": "n. 一致, 和谐"
+          "definition": "n. 依照；符合；一致"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The company acted in accordance with industry safety regulations.",
+          "highlight": [
+            "accordance"
+          ],
+          "translations": {
+            "zh-TW": "公司依照行業安全法規行事。"
+          }
+        },
+        {
+          "en": "All procedures must be carried out in accordance with the manual.",
+          "highlight": [
+            "accordance"
+          ],
+          "translations": {
+            "zh-TW": "所有程序必須依照手冊執行。"
+          }
+        },
+        {
+          "en": "The audit confirmed full accordance with government guidelines.",
+          "highlight": [
+            "accordance"
+          ],
+          "translations": {
+            "zh-TW": "審計確認完全符合政府指導方針。"
+          }
+        }
+      ],
+      "synonyms": [
+        "compliance",
+        "conformity",
+        "agreement"
+      ],
+      "antonyms": [
+        "violation"
+      ],
+      "phrases": [
+        "in accordance with",
+        "strict accordance",
+        "full accordance",
+        "accordance standards"
+      ]
     },
     {
       "id": "B2-600-004",
@@ -91,7 +217,7 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "width",
-      "phonetic": "",
+      "phonetic": "wɪdθ",
       "pos": [
         "noun"
       ],
@@ -103,13 +229,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "width",
-          "definition": "n. 宽度, 宽廣, 廣博, [醫] 宽度"
+          "definition": "n. 寬度；廣度；幅度"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The hallway width determines which furniture can pass through.",
+          "highlight": [
+            "width"
+          ],
+          "translations": {
+            "zh-TW": "走廊的寬度決定了哪些家具可以通過。"
+          }
+        },
+        {
+          "en": "Standard door widths vary between thirty and thirty-six inches.",
+          "highlight": [
+            "widths"
+          ],
+          "translations": {
+            "zh-TW": "標準門寬從三十到三十六英寸不等。"
+          }
+        },
+        {
+          "en": "Engineers measured the bridge width to plan lane expansion.",
+          "highlight": [
+            "width"
+          ],
+          "translations": {
+            "zh-TW": "工程師測量了橋面寬度以規劃車道擴建。"
+          }
+        }
+      ],
+      "synonyms": [
+        "breadth",
+        "span",
+        "girth"
+      ],
+      "antonyms": [
+        "narrowness"
+      ],
+      "phrases": [
+        "frame width",
+        "bandwidth",
+        "page width",
+        "column width"
+      ]
     },
     {
       "id": "B2-600-005",
@@ -118,25 +283,62 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "engines",
-      "phonetic": "",
+      "phonetic": "ˈendʒɪnz",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "engineses"
+        "plural": "engines"
       },
-      "domain": "general",
+      "domain": "mechanical",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "engines",
-          "definition": "n. 火車頭；發動機, 引擎（engine的复数形式）"
+          "definition": "n. 引擎；發動機；搜索引擎（engine 的複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Mechanics tested the jet engines before the flight departed.",
+          "highlight": [
+            "engines"
+          ],
+          "translations": {
+            "zh-TW": "機械師在航班起飛前測試了噴射引擎。"
+          }
+        },
+        {
+          "en": "Modern search engines process billions of queries every day.",
+          "highlight": [
+            "engines"
+          ],
+          "translations": {
+            "zh-TW": "現代搜索引擎每天處理數十億次查詢。"
+          }
+        },
+        {
+          "en": "The factory relies on diesel engines for backup power generation.",
+          "highlight": [
+            "engines"
+          ],
+          "translations": {
+            "zh-TW": "工廠依賴柴油引擎作為備用發電。"
+          }
+        }
+      ],
+      "synonyms": [
+        "motors",
+        "machines",
+        "powerplants"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "search engines",
+        "jet engines",
+        "steam engines",
+        "engine block"
+      ]
     },
     {
       "id": "B2-600-006",
@@ -145,25 +347,65 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "discussed",
-      "phonetic": "",
+      "phonetic": "dɪsˈkʌst",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "discusseds"
+        "present_3rd": "discusses",
+        "past": "discussed",
+        "past_participle": "discussed",
+        "ing": "discussing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "discussed",
-          "definition": "v. 商讨；讨论（discuss的過去分词）"
+          "definition": "v. 討論；商議（discuss 的過去式與過去分詞）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The committee discussed the budget proposal for three hours.",
+          "highlight": [
+            "discussed"
+          ],
+          "translations": {
+            "zh-TW": "委員會討論預算提案達三個小時。"
+          }
+        },
+        {
+          "en": "Managers have discussed the new policy with all employees.",
+          "highlight": [
+            "discussed"
+          ],
+          "translations": {
+            "zh-TW": "主管已與所有員工討論了新政策。"
+          }
+        },
+        {
+          "en": "The terms discussed during the meeting remain confidential.",
+          "highlight": [
+            "discussed"
+          ],
+          "translations": {
+            "zh-TW": "會議中討論的條款仍屬保密。"
+          }
+        }
+      ],
+      "synonyms": [
+        "debated",
+        "reviewed",
+        "examined"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "widely discussed",
+        "previously discussed",
+        "issues discussed",
+        "as discussed"
+      ]
     },
     {
       "id": "B2-600-007",
@@ -172,25 +414,58 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "stephen",
-      "phonetic": "",
+      "phonetic": "ˈstiːvən",
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "stephens"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "name",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "stephen",
-          "definition": "n. 斯蒂芬（男子名）"
+          "definition": "n. 史蒂芬（男子名；常見英文名字）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Colleagues praised Stephen for his dedication to the project.",
+          "highlight": [
+            "Stephen"
+          ],
+          "translations": {
+            "zh-TW": "同事們稱讚史蒂芬對專案的投入。"
+          }
+        },
+        {
+          "en": "The professor asked Stephen to present his research findings.",
+          "highlight": [
+            "Stephen"
+          ],
+          "translations": {
+            "zh-TW": "教授請史蒂芬發表他的研究結果。"
+          }
+        },
+        {
+          "en": "Everyone in the office admires Stephen for his leadership skills.",
+          "highlight": [
+            "Stephen"
+          ],
+          "translations": {
+            "zh-TW": "辦公室裡所有人都欽佩史蒂芬的領導才能。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Steve",
+        "Stefan"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Stephen King",
+        "Stephen Hawking",
+        "Saint Stephen"
+      ]
     },
     {
       "id": "B2-600-008",
@@ -199,25 +474,59 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "elizabeth",
-      "phonetic": "",
+      "phonetic": "ɪˈlɪzəbəθ",
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "elizabeths"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "name",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "elizabeth",
-          "definition": "n. 伊丽莎白（女子名）"
+          "definition": "n. 伊麗莎白（女子名；常見英文名字）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The director appointed Elizabeth to lead the marketing team.",
+          "highlight": [
+            "Elizabeth"
+          ],
+          "translations": {
+            "zh-TW": "董事任命伊麗莎白領導行銷團隊。"
+          }
+        },
+        {
+          "en": "Elizabeth submitted her resignation after twenty years of service.",
+          "highlight": [
+            "Elizabeth"
+          ],
+          "translations": {
+            "zh-TW": "伊麗莎白在服務二十年後提交了辭呈。"
+          }
+        },
+        {
+          "en": "Everyone respects Elizabeth for her fairness and integrity.",
+          "highlight": [
+            "Elizabeth"
+          ],
+          "translations": {
+            "zh-TW": "所有人都敬重伊麗莎白的公正與正直。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Eliza",
+        "Beth",
+        "Isabel"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Queen Elizabeth",
+        "Elizabeth II",
+        "Elizabethan era"
+      ]
     },
     {
       "id": "B2-600-009",
@@ -226,25 +535,64 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "reservations",
-      "phonetic": "",
+      "phonetic": "ˌrezərˈveɪʃənz",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "reservationses"
+        "plural": "reservations"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "reservations",
-          "definition": "n. 保留；預定（reservation的复数形式）"
+          "definition": "n. 預約；訂位；保留意見（reservation 的複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The restaurant receives hundreds of reservations on weekends.",
+          "highlight": [
+            "reservations"
+          ],
+          "translations": {
+            "zh-TW": "餐廳週末收到數百個預約。"
+          }
+        },
+        {
+          "en": "Hotel reservations must be confirmed forty-eight hours in advance.",
+          "highlight": [
+            "reservations"
+          ],
+          "translations": {
+            "zh-TW": "飯店預約必須提前四十八小時確認。"
+          }
+        },
+        {
+          "en": "Committee members expressed reservations about the proposed budget cuts.",
+          "highlight": [
+            "reservations"
+          ],
+          "translations": {
+            "zh-TW": "委員會成員對預算削減提案表示保留。"
+          }
+        }
+      ],
+      "synonyms": [
+        "bookings",
+        "appointments",
+        "arrangements"
+      ],
+      "antonyms": [
+        "cancellations"
+      ],
+      "phrases": [
+        "make reservations",
+        "confirm reservations",
+        "dinner reservations",
+        "express reservations"
+      ]
     },
     {
       "id": "B2-600-010",
@@ -253,26 +601,59 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "playstation",
-      "phonetic": "",
+      "phonetic": "ˈpleɪˌsteɪʃən",
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "playstations"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "playstation",
-          "definition": "n. 游戏機"
+          "definition": "n. PlayStation（索尼互動娛樂的電子遊戲主機品牌）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Children spent hours playing on the new PlayStation console.",
+          "highlight": [
+            "PlayStation"
+          ],
+          "translations": {
+            "zh-TW": "孩子們在新的 PlayStation 主機上玩了數小時。"
+          }
+        },
+        {
+          "en": "Sony released the latest PlayStation with enhanced graphics capabilities.",
+          "highlight": [
+            "PlayStation"
+          ],
+          "translations": {
+            "zh-TW": "索尼推出了具備強化圖形能力的最新 PlayStation。"
+          }
+        },
+        {
+          "en": "Sales of PlayStation games surged during the holiday season.",
+          "highlight": [
+            "PlayStation"
+          ],
+          "translations": {
+            "zh-TW": "假期期間 PlayStation 遊戲銷量激增。"
+          }
+        }
+      ],
+      "synonyms": [
+        "console",
+        "gaming system"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "PlayStation 5",
+        "PlayStation games",
+        "PlayStation Network",
+        "PlayStation controller"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }

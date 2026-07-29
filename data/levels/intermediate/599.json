@@ -2,6 +2,7 @@
   "level": 599,
   "tier": "intermediate",
   "cefr": "B2",
+  "toeic_score_min": 750,
   "words": [
     {
       "id": "B2-599-001",
@@ -10,25 +11,62 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "firms",
-      "phonetic": "",
+      "phonetic": "fɜːrmz",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "firmses"
+        "plural": "firms"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "firms",
-          "definition": "n. 公司, 廠商（firm的复数）"
+          "definition": "n. 公司；廠商；商號（firm 的複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Several firms competed for the government contract last year.",
+          "highlight": [
+            "firms"
+          ],
+          "translations": {
+            "zh-TW": "去年有幾家公司競爭這項政府合約。"
+          }
+        },
+        {
+          "en": "Many small firms went bankrupt during the recession.",
+          "highlight": [
+            "firms"
+          ],
+          "translations": {
+            "zh-TW": "經濟衰退期間許多小公司破產了。"
+          }
+        },
+        {
+          "en": "The merger created one of the largest firms in the country.",
+          "highlight": [
+            "firms"
+          ],
+          "translations": {
+            "zh-TW": "這次合併造就了國內最大的公司之一。"
+          }
+        }
+      ],
+      "synonyms": [
+        "companies",
+        "corporations",
+        "businesses"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "law firms",
+        "accounting firms",
+        "rival firms",
+        "leading firms"
+      ]
     },
     {
       "id": "B2-599-002",
@@ -37,25 +75,67 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "structures",
-      "phonetic": "",
+      "phonetic": "ˈstrʌktʃərz",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "structureses"
+        "plural": "structures",
+        "present_3rd": "structures",
+        "past": "structured",
+        "past_participle": "structured",
+        "ing": "structuring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "structures",
-          "definition": "n. 結構；構筑物；業務方式（structure的复数）"
+          "definition": "n. 結構；建築物 v. 建構；組織（structure 的複數與第三人稱單數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Engineers examined the bridge structures after the earthquake.",
+          "highlight": [
+            "structures"
+          ],
+          "translations": {
+            "zh-TW": "工程師在地震後檢查了橋樑結構。"
+          }
+        },
+        {
+          "en": "The manager structures the weekly meetings to maximize efficiency.",
+          "highlight": [
+            "structures"
+          ],
+          "translations": {
+            "zh-TW": "經理把每週會議做結構化安排以最大化效率。"
+          }
+        },
+        {
+          "en": "Ancient structures still stand along the riverbank.",
+          "highlight": [
+            "structures"
+          ],
+          "translations": {
+            "zh-TW": "古老的建築物仍矗立在河岸邊。"
+          }
+        }
+      ],
+      "synonyms": [
+        "buildings",
+        "constructions",
+        "frameworks"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "sentence structures",
+        "social structures",
+        "steel structures",
+        "data structures"
+      ]
     },
     {
       "id": "B2-599-003",
@@ -64,7 +144,7 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "encyclopedia",
-      "phonetic": "",
+      "phonetic": "ɪnˌsaɪkləˈpiːdiə",
       "pos": [
         "noun"
       ],
@@ -79,10 +159,47 @@
           "definition": "n. 百科全書"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Students searched the encyclopedia for information on ancient Egypt.",
+          "highlight": [
+            "encyclopedia"
+          ],
+          "translations": {
+            "zh-TW": "學生們在百科全書中尋找古埃及的資訊。"
+          }
+        },
+        {
+          "en": "She bought a multivolume encyclopedia for the home study.",
+          "highlight": [
+            "encyclopedia"
+          ],
+          "translations": {
+            "zh-TW": "她買了一套多卷的百科全書供家中研讀。"
+          }
+        },
+        {
+          "en": "Online encyclopedias have largely replaced printed editions.",
+          "highlight": [
+            "encyclopedias"
+          ],
+          "translations": {
+            "zh-TW": "線上百科全書已大幅取代印刷版本。"
+          }
+        }
+      ],
+      "synonyms": [
+        "reference work",
+        "compendium",
+        "almanac"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "online encyclopedia",
+        "print encyclopedia",
+        "encyclopedia set",
+        "wiki encyclopedia"
+      ]
     },
     {
       "id": "B2-599-004",
@@ -91,25 +208,67 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "charts",
-      "phonetic": "",
+      "phonetic": "tʃɑːrts",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "chartses"
+        "plural": "charts",
+        "present_3rd": "charts",
+        "past": "charted",
+        "past_participle": "charted",
+        "ing": "charting"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "charts",
-          "definition": "n. 圖表；排行榜（chart的复数）"
+          "definition": "n. 圖表；排行榜 v. 繪製；記錄（chart 的複數與第三人稱單數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Analysts use pie charts to show market share distribution.",
+          "highlight": [
+            "charts"
+          ],
+          "translations": {
+            "zh-TW": "分析師用圓餅圖來顯示市佔率分布。"
+          }
+        },
+        {
+          "en": "The team charted the progress over six months of testing.",
+          "highlight": [
+            "charted"
+          ],
+          "translations": {
+            "zh-TW": "團隊記錄了六個月測試期間的進展。"
+          }
+        },
+        {
+          "en": "Navigation charts help sailors avoid dangerous waters.",
+          "highlight": [
+            "charts"
+          ],
+          "translations": {
+            "zh-TW": "航海圖幫助水手避開危險水域。"
+          }
+        }
+      ],
+      "synonyms": [
+        "graphs",
+        "diagrams",
+        "plots"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "bar charts",
+        "pie charts",
+        "flow charts",
+        "music charts"
+      ]
     },
     {
       "id": "B2-599-005",
@@ -118,7 +277,7 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "census",
-      "phonetic": "",
+      "phonetic": "ˈsensəs",
       "pos": [
         "noun"
       ],
@@ -130,13 +289,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "census",
-          "definition": "n. 戶口普查, vt. 實施统計調查"
+          "definition": "n. 人口普查；統計調查"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The national census takes place every ten years.",
+          "highlight": [
+            "census"
+          ],
+          "translations": {
+            "zh-TW": "全國人口普查每十年進行一次。"
+          }
+        },
+        {
+          "en": "Government planners rely on census data to allocate resources.",
+          "highlight": [
+            "census"
+          ],
+          "translations": {
+            "zh-TW": "政府規劃人員依賴普查資料來分配資源。"
+          }
+        },
+        {
+          "en": "Historians use census records to trace family lineages.",
+          "highlight": [
+            "census"
+          ],
+          "translations": {
+            "zh-TW": "歷史學家利用普查紀錄來追溯家族世系。"
+          }
+        }
+      ],
+      "synonyms": [
+        "survey",
+        "headcount",
+        "tally"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "national census",
+        "census bureau",
+        "census data",
+        "census records"
+      ]
     },
     {
       "id": "B2-599-006",
@@ -145,25 +341,62 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "interracial",
-      "phonetic": "",
+      "phonetic": "ˌɪntərˈreɪʃəl",
       "pos": [
-        "noun"
+        "adjective"
       ],
-      "conjugations": {
-        "plural": "interracials"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "social",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "interracial",
-          "definition": "a. 人種間的, 人種混合的"
+          "definition": "adj. 種族間的；不同種族之間的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Modern societies have made interracial marriages more common.",
+          "highlight": [
+            "interracial"
+          ],
+          "translations": {
+            "zh-TW": "現代社會已使跨種族婚姻更加普遍。"
+          }
+        },
+        {
+          "en": "The school promotes understanding through interracial dialogue programs.",
+          "highlight": [
+            "interracial"
+          ],
+          "translations": {
+            "zh-TW": "該校透過跨種族對談計畫促進彼此理解。"
+          }
+        },
+        {
+          "en": "Activists fought against interracial discrimination laws for decades.",
+          "highlight": [
+            "interracial"
+          ],
+          "translations": {
+            "zh-TW": "運動人士對抗跨種族歧視法數十年。"
+          }
+        }
+      ],
+      "synonyms": [
+        "multicultural",
+        "multiracial",
+        "cross-cultural"
+      ],
+      "antonyms": [
+        "segregated"
+      ],
+      "phrases": [
+        "interracial marriage",
+        "interracial couples",
+        "interracial relations",
+        "interracial harmony"
+      ]
     },
     {
       "id": "B2-599-007",
@@ -172,25 +405,62 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "suppliers",
-      "phonetic": "",
+      "phonetic": "səˈplaɪərz",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "supplierses"
+        "plural": "suppliers"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "suppliers",
-          "definition": "n. 供應商（supplier的复数）"
+          "definition": "n. 供應商；供應者（supplier 的複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The factory negotiated better terms with its suppliers last quarter.",
+          "highlight": [
+            "suppliers"
+          ],
+          "translations": {
+            "zh-TW": "工廠上季與其供應商協商出更好的條件。"
+          }
+        },
+        {
+          "en": "Multiple suppliers bid on the new manufacturing contract.",
+          "highlight": [
+            "suppliers"
+          ],
+          "translations": {
+            "zh-TW": "多家供應商對新的製造合約進行競標。"
+          }
+        },
+        {
+          "en": "Quality issues with overseas suppliers delayed production.",
+          "highlight": [
+            "suppliers"
+          ],
+          "translations": {
+            "zh-TW": "海外供應商的品質問題延誤了生產。"
+          }
+        }
+      ],
+      "synonyms": [
+        "vendors",
+        "providers",
+        "distributors"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "parts suppliers",
+        "approved suppliers",
+        "local suppliers",
+        "tier-1 suppliers"
+      ]
     },
     {
       "id": "B2-599-008",
@@ -199,25 +469,67 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "lights",
-      "phonetic": "",
+      "phonetic": "laɪts",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "lightses"
+        "plural": "lights",
+        "present_3rd": "lights",
+        "past": "lit",
+        "past_participle": "lit",
+        "ing": "lighting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "lights",
-          "definition": "n. （供食用的）家畜的肺脏；灯光（light的复数）"
+          "definition": "n. 燈光；照明 v. 點亮；照亮（light 的複數與第三人稱單數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Street lights flickered as the storm approached the town.",
+          "highlight": [
+            "lights"
+          ],
+          "translations": {
+            "zh-TW": "暴風雨逼近小鎮時，街燈閃爍不定。"
+          }
+        },
+        {
+          "en": "She lights a candle every evening before dinner.",
+          "highlight": [
+            "lights"
+          ],
+          "translations": {
+            "zh-TW": "她每天傍晚晚餐前都會點一根蠟燭。"
+          }
+        },
+        {
+          "en": "Bright neon signs lit up the entire shopping district.",
+          "highlight": [
+            "lit"
+          ],
+          "translations": {
+            "zh-TW": "明亮的霓虹招牌照亮了整個購物區。"
+          }
+        }
+      ],
+      "synonyms": [
+        "lamps",
+        "illuminations",
+        "luminaires"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "traffic lights",
+        "Christmas lights",
+        "stage lights",
+        "warning lights"
+      ]
     },
     {
       "id": "B2-599-009",
@@ -226,25 +538,66 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "tracking",
-      "phonetic": "",
+      "phonetic": "ˈtrækɪŋ",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "trackings"
+        "present_3rd": "tracks",
+        "past": "tracked",
+        "past_participle": "tracked",
+        "ing": "tracking"
       },
-      "domain": "general",
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tracking",
-          "definition": "[計] 跟踪, 追踪"
+          "definition": "n. 追蹤；監測 v. 追蹤；記錄（track 的動名詞形式）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The shipping company offers real-time tracking for all packages.",
+          "highlight": [
+            "tracking"
+          ],
+          "translations": {
+            "zh-TW": "這家貨運公司為所有包裹提供即時追蹤服務。"
+          }
+        },
+        {
+          "en": "Scientists have been tracking the migration patterns of birds.",
+          "highlight": [
+            "tracking"
+          ],
+          "translations": {
+            "zh-TW": "科學家一直在追蹤鳥類的遷徙模式。"
+          }
+        },
+        {
+          "en": "Fitness apps use GPS tracking to measure daily activity levels.",
+          "highlight": [
+            "tracking"
+          ],
+          "translations": {
+            "zh-TW": "健身應用程式使用 GPS 追蹤來測量每日活動量。"
+          }
+        }
+      ],
+      "synonyms": [
+        "monitoring",
+        "tracing",
+        "following"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "package tracking",
+        "eye tracking",
+        "asset tracking",
+        "location tracking"
+      ]
     },
     {
       "id": "B2-599-010",
@@ -253,26 +606,69 @@
       "cefr": "B2",
       "toeic_score_min": 750,
       "word": "keeping",
-      "phonetic": "",
+      "phonetic": "ˈkiːpɪŋ",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "keepings"
+        "present_3rd": "keeps",
+        "past": "kept",
+        "past_participle": "kept",
+        "ing": "keeping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "keeping",
-          "definition": "n. 保管, 供养, 一致, [法] 保管, 保護, 管理"
+          "definition": "n. 保管；飼養；保持 v. 保持；保留（keep 的動名詞形式）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The librarian is responsible for keeping the archives organized.",
+          "highlight": [
+            "keeping"
+          ],
+          "translations": {
+            "zh-TW": "圖書館員負責將檔案保持井然有序。"
+          }
+        },
+        {
+          "en": "Bee keeping has become a popular hobby in rural communities.",
+          "highlight": [
+            "keeping"
+          ],
+          "translations": {
+            "zh-TW": "養蜂已成為鄉村社區的熱門嗜好。"
+          }
+        },
+        {
+          "en": "Record keeping is essential for accurate accounting.",
+          "highlight": [
+            "keeping"
+          ],
+          "translations": {
+            "zh-TW": "保持紀錄對於準確會計至關重要。"
+          }
+        }
+      ],
+      "synonyms": [
+        "maintaining",
+        "preserving",
+        "retaining"
+      ],
+      "antonyms": [
+        "losing",
+        "discarding"
+      ],
+      "phrases": [
+        "record keeping",
+        "book keeping",
+        "house keeping",
+        "in keeping with"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }

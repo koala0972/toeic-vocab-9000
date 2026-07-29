@@ -2,6 +2,7 @@
   "level": 601,
   "tier": "advanced",
   "cefr": "C1",
+  "toeic_score_min": 880,
   "words": [
     {
       "id": "C1-601-001",
@@ -10,25 +11,62 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "annotation",
-      "phonetic": "",
+      "phonetic": "ˌænəˈteɪʃən",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "annotations"
       },
-      "domain": "general",
+      "domain": "academic",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "annotation",
-          "definition": "n. 注解, 评注"
+          "definition": "n. 註解；標註；附註"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Researchers added detailed annotations to the historical manuscript.",
+          "highlight": [
+            "annotations"
+          ],
+          "translations": {
+            "zh-TW": "研究人員為這份歷史手稿添加了詳細的註解。"
+          }
+        },
+        {
+          "en": "Each annotation explains the context behind obscure passages.",
+          "highlight": [
+            "annotation"
+          ],
+          "translations": {
+            "zh-TW": "每個註解都解釋了艱澀段落的背景。"
+          }
+        },
+        {
+          "en": "Code annotation helps new developers understand the architecture quickly.",
+          "highlight": [
+            "annotation"
+          ],
+          "translations": {
+            "zh-TW": "程式碼標註幫助新開發者快速理解架構。"
+          }
+        }
+      ],
+      "synonyms": [
+        "note",
+        "commentary",
+        "gloss"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "image annotation",
+        "text annotation",
+        "genome annotation",
+        "video annotation"
+      ]
     },
     {
       "id": "C1-601-002",
@@ -37,25 +75,64 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "differences",
-      "phonetic": "",
+      "phonetic": "ˈdɪfərənsɪz",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "differenceses"
+        "plural": "differences"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "differences",
-          "definition": "n. 偏差, 差异（difference复数形式）"
+          "definition": "n. 差異；不同之處；分歧（difference 的複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Cultural differences often complicate international business negotiations.",
+          "highlight": [
+            "differences"
+          ],
+          "translations": {
+            "zh-TW": "文化差異常使國際商業談判變得複雜。"
+          }
+        },
+        {
+          "en": "Analysts compared the pricing differences between the two markets.",
+          "highlight": [
+            "differences"
+          ],
+          "translations": {
+            "zh-TW": "分析師比較了兩個市場之間的價格差異。"
+          }
+        },
+        {
+          "en": "Understanding individual differences improves team collaboration.",
+          "highlight": [
+            "differences"
+          ],
+          "translations": {
+            "zh-TW": "瞭解個體差異有助於改善團隊協作。"
+          }
+        }
+      ],
+      "synonyms": [
+        "discrepancies",
+        "variations",
+        "distinctions"
+      ],
+      "antonyms": [
+        "similarities"
+      ],
+      "phrases": [
+        "settle differences",
+        "individual differences",
+        "cultural differences",
+        "spot the differences"
+      ]
     },
     {
       "id": "C1-601-003",
@@ -64,25 +141,66 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "smaller",
-      "phonetic": "",
+      "phonetic": "ˈsmɔːlər",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "smallers"
+        "comparative": "smaller",
+        "superlative": "smallest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "smaller",
-          "definition": "a. 较小, 更小的"
+          "definition": "adj. 較小的（small 的比較級）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Startups generally operate with smaller budgets than established firms.",
+          "highlight": [
+            "smaller"
+          ],
+          "translations": {
+            "zh-TW": "新創公司通常以比老牌公司更小的預算營運。"
+          }
+        },
+        {
+          "en": "The smallest details often determine the success of a project.",
+          "highlight": [
+            "smallest"
+          ],
+          "translations": {
+            "zh-TW": "最小的細節往往決定專案的成敗。"
+          }
+        },
+        {
+          "en": "A smaller fraction of respondents agreed with the revised proposal.",
+          "highlight": [
+            "smaller"
+          ],
+          "translations": {
+            "zh-TW": "較小比例的受訪者同意修訂後的提案。"
+          }
+        }
+      ],
+      "synonyms": [
+        "tinier",
+        "lesser",
+        "reduced"
+      ],
+      "antonyms": [
+        "larger",
+        "bigger"
+      ],
+      "phrases": [
+        "smaller scale",
+        "smaller portion",
+        "smaller companies",
+        "smaller pieces"
+      ]
     },
     {
       "id": "C1-601-004",
@@ -91,25 +209,65 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "newest",
-      "phonetic": "",
+      "phonetic": "ˈnuːɪst",
       "pos": [
-        "noun"
+        "adjective"
       ],
       "conjugations": {
-        "plural": "newests"
+        "comparative": "newer",
+        "superlative": "newest"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "newest",
-          "definition": "最新"
+          "definition": "adj. 最新的；最新的版本（new 的最高級）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The company unveiled its newest smartphone at the annual expo.",
+          "highlight": [
+            "newest"
+          ],
+          "translations": {
+            "zh-TW": "該公司在年度展會上揭曉了最新款的智慧型手機。"
+          }
+        },
+        {
+          "en": "Our newest employees completed orientation last Friday morning.",
+          "highlight": [
+            "newest"
+          ],
+          "translations": {
+            "zh-TW": "我們新進的員工上週五早上完成了入職培訓。"
+          }
+        },
+        {
+          "en": "Consumers always want the newest technology on the market.",
+          "highlight": [
+            "newest"
+          ],
+          "translations": {
+            "zh-TW": "消費者總是想要市面上最新的科技。"
+          }
+        }
+      ],
+      "synonyms": [
+        "latest",
+        "most recent",
+        "freshest"
+      ],
+      "antonyms": [
+        "oldest"
+      ],
+      "phrases": [
+        "newest model",
+        "newest version",
+        "newest addition",
+        "brand newest"
+      ]
     },
     {
       "id": "C1-601-005",
@@ -118,25 +276,61 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "gnu",
-      "phonetic": "",
+      "phonetic": "ɡnuː",
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "gnus"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "technology",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "gnu",
-          "definition": "n. 牛羚, 角馬"
+          "definition": "n. GNU 自由軟體作業系統專案（GNU's Not Unix 的縮寫）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Programmers worldwide contribute to GNU software projects voluntarily.",
+          "highlight": [
+            "GNU"
+          ],
+          "translations": {
+            "zh-TW": "全球程式設計師自願為 GNU 軟體專案做出貢獻。"
+          }
+        },
+        {
+          "en": "The GNU General Public License protects the freedom of users.",
+          "highlight": [
+            "GNU"
+          ],
+          "translations": {
+            "zh-TW": "GNU 通用公共授權條款保護使用者的自由。"
+          }
+        },
+        {
+          "en": "Many operating systems incorporate GNU core utilities.",
+          "highlight": [
+            "GNU"
+          ],
+          "translations": {
+            "zh-TW": "許多作業系統整合了 GNU 核心工具。"
+          }
+        }
+      ],
+      "synonyms": [
+        "free software",
+        "open source"
+      ],
+      "antonyms": [
+        "proprietary"
+      ],
+      "phrases": [
+        "GNU license",
+        "GNU project",
+        "GNU compiler",
+        "GNU Emacs"
+      ]
     },
     {
       "id": "C1-601-006",
@@ -145,25 +339,65 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "happened",
-      "phonetic": "",
+      "phonetic": "ˈhæpənd",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "happeneds"
+        "present_3rd": "happens",
+        "past": "happened",
+        "past_participle": "happened",
+        "ing": "happening"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "happened",
-          "definition": "v. 發生（happen的過去式, 過去分词）"
+          "definition": "v. 發生；出現；碰巧（happen 的過去式與過去分詞）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The accident happened shortly before midnight on the highway.",
+          "highlight": [
+            "happened"
+          ],
+          "translations": {
+            "zh-TW": "事故在高速公路上接近午夜時發生。"
+          }
+        },
+        {
+          "en": "Nobody knew what had happened during the closed-door meeting.",
+          "highlight": [
+            "happened"
+          ],
+          "translations": {
+            "zh-TW": "沒人知道閉門會議期間發生了什麼事。"
+          }
+        },
+        {
+          "en": "Historians often debate why certain revolutions happened when they did.",
+          "highlight": [
+            "happened"
+          ],
+          "translations": {
+            "zh-TW": "歷史學家常爭論為何某些革命在特定時間發生。"
+          }
+        }
+      ],
+      "synonyms": [
+        "occurred",
+        "took place",
+        "transpired"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "what happened",
+        "as it happened",
+        "happen to be",
+        "whatever happened"
+      ]
     },
     {
       "id": "C1-601-007",
@@ -172,25 +406,67 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "expressed",
-      "phonetic": "",
+      "phonetic": "ɪkˈsprest",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "expresseds"
+        "present_3rd": "expresses",
+        "past": "expressed",
+        "past_participle": "expressed",
+        "ing": "expressing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "expressed",
-          "definition": "v. 表達( express的過去式和過去分词 ); （用符號等）表示; 榨; [express oneself]（如在說话、寫作或绘画中）表達（自己）的意见"
+          "definition": "v. 表達；表示；傳達（express 的過去式與過去分詞）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The ambassador expressed concern over the escalating conflict yesterday.",
+          "highlight": [
+            "expressed"
+          ],
+          "translations": {
+            "zh-TW": "大使昨天對不斷升級的衝突表達了關切。"
+          }
+        },
+        {
+          "en": "Citizens have expressed strong opposition to the proposed tax reforms.",
+          "highlight": [
+            "expressed"
+          ],
+          "translations": {
+            "zh-TW": "市民對提案的稅制改革表達了強烈反對。"
+          }
+        },
+        {
+          "en": "The CEO expressed confidence in the company's long-term strategy.",
+          "highlight": [
+            "expressed"
+          ],
+          "translations": {
+            "zh-TW": "執行長對公司的長期策略表達了信心。"
+          }
+        }
+      ],
+      "synonyms": [
+        "stated",
+        "articulated",
+        "conveyed"
+      ],
+      "antonyms": [
+        "suppressed"
+      ],
+      "phrases": [
+        "expressed concern",
+        "expressed interest",
+        "freely expressed",
+        "expressly stated"
+      ]
     },
     {
       "id": "C1-601-008",
@@ -199,25 +475,58 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "jeff",
-      "phonetic": "",
+      "phonetic": "dʒɛf",
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "jeffs"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "name",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "jeff",
-          "definition": "n. 杰夫（男子名, 等于Jeffrey）"
+          "definition": "n. 傑夫（男子名；Jeffrey 的暱稱）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The panel selected Jeff to moderate the upcoming tech conference.",
+          "highlight": [
+            "Jeff"
+          ],
+          "translations": {
+            "zh-TW": "小組推選傑夫主持即將到來的科技會議。"
+          }
+        },
+        {
+          "en": "Jeff proposed a radical restructuring of the department last month.",
+          "highlight": [
+            "Jeff"
+          ],
+          "translations": {
+            "zh-TW": "傑夫上個月提案對部門進行激進重組。"
+          }
+        },
+        {
+          "en": "Colleagues admire Jeff for his innovative thinking and persistence.",
+          "highlight": [
+            "Jeff"
+          ],
+          "translations": {
+            "zh-TW": "同事們欽佩傑夫的創新思維與毅力。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Jeffrey",
+        "Geoff"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Jeff Bezos",
+        "Jeff Goldblum",
+        "Jeff Buckley"
+      ]
     },
     {
       "id": "C1-601-009",
@@ -226,25 +535,56 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "lesbians",
-      "phonetic": "",
+      "phonetic": "ˈlɛzbiənz",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "lesbianses"
+        "plural": "lesbians"
       },
-      "domain": "general",
+      "domain": "social",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "lesbians",
-          "definition": "n. 女同性恋者；女同志（lesbian的复数形式）"
+          "definition": "n. 女同性戀者（lesbian 的複數）"
         }
       ],
-      "examples": [],
+      "examples": [
+        {
+          "en": "Many lesbians have advocated for equal workplace rights nationwide.",
+          "highlight": [
+            "lesbians"
+          ],
+          "translations": {
+            "zh-TW": "許多女同性戀者倡導全國範圍的平等職場權利。"
+          }
+        },
+        {
+          "en": "The support group provides resources for lesbians in rural areas.",
+          "highlight": [
+            "lesbians"
+          ],
+          "translations": {
+            "zh-TW": "此支持團體為鄉村地區的女同性戀者提供資源。"
+          }
+        },
+        {
+          "en": "Activists emphasized that lesbians face unique healthcare challenges.",
+          "highlight": [
+            "lesbians"
+          ],
+          "translations": {
+            "zh-TW": "運動人士強調女同性戀者面臨獨特的醫療挑戰。"
+          }
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "lesbians and gays",
+        " Visibility for lesbians"
+      ]
     },
     {
       "id": "C1-601-010",
@@ -253,26 +593,58 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "ben",
-      "phonetic": "",
+      "phonetic": "bɛn",
       "pos": [
         "noun"
       ],
-      "conjugations": {
-        "plural": "bens"
-      },
-      "domain": "general",
+      "conjugations": {},
+      "domain": "name",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "ben",
-          "definition": "n. 內室, [醫] 贝昂(俗名,一般指辣木Moringa oleifera,有時也指一些不同属的植物)"
+          "definition": "n. 班（男子名；Benjamin 的暱稱）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Investors trusted Ben to manage the pension fund responsibly.",
+          "highlight": [
+            "Ben"
+          ],
+          "translations": {
+            "zh-TW": "投資人信任班能負責任地管理退休基金。"
+          }
+        },
+        {
+          "en": "Ben introduced a motion to reform the union election procedure.",
+          "highlight": [
+            "Ben"
+          ],
+          "translations": {
+            "zh-TW": "班提出一項動議以改革工會選舉程序。"
+          }
+        },
+        {
+          "en": "Everyone recognizes Ben for his volunteer work at the shelter.",
+          "highlight": [
+            "Ben"
+          ],
+          "translations": {
+            "zh-TW": "所有人都認可班在收容所的志願服務。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Benjamin",
+        "Benny"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Big Ben",
+        "Ben Franklin",
+        "Ben Affleck"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
