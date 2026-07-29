@@ -1,7 +1,7 @@
 {
+  "cefr": "B2",
   "level": 579,
   "tier": "intermediate",
-  "cefr": "B2",
   "words": [
     {
       "id": "B2-579-001",
@@ -12,6 +12,7 @@
       "word": "null",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
       "conjugations": {
@@ -22,13 +23,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "null",
-          "definition": "a. 无效力的, 无效的, 无價值的, n. 零, 空, 零位, [計] 空"
+          "definition": "a. 無效的、無價值的；n. 零、空值（電腦科學用語）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Leaving that null usually avoids a confusing error page.",
+          "highlight": [
+            "null"
+          ],
+          "translations": {
+            "zh-TW": "把該欄位留為空值通常能避免出現令人困惑的錯誤頁面。"
+          }
+        },
+        {
+          "en": "If the signature is null, the system blocks the transaction.",
+          "highlight": [
+            "null"
+          ],
+          "translations": {
+            "zh-TW": "若簽章為空值，系統會封鎖這筆交易。"
+          }
+        },
+        {
+          "en": "Researchers try to reject the null when designs allow stronger claims.",
+          "highlight": [
+            "null"
+          ],
+          "translations": {
+            "zh-TW": "當研究設計支援更強的論斷時，研究者會試圖否證虛無假說。"
+          }
+        }
+      ],
+      "synonyms": [
+        "void",
+        "invalid",
+        "zero"
+      ],
+      "antonyms": [
+        "valid"
+      ],
+      "phrases": [
+        "null value",
+        "null and void",
+        "null hypothesis",
+        "set to null"
+      ]
     },
     {
       "id": "B2-579-002",
@@ -39,23 +79,65 @@
       "word": "filed",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "fileds"
+        "past": "filed",
+        "past_participle": "filed",
+        "ing": "filing",
+        "present_3rd": "files"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "filed",
-          "definition": "v. [專利]申請；存档（file的過去分词形式）"
+          "definition": "v. file 的過去式／過去分詞：提出申請、歸檔；a. 已歸檔的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "A new patent claim was filed just before the deadline.",
+          "highlight": [
+            "filed"
+          ],
+          "translations": {
+            "zh-TW": "一項新的專利申請就在截止前提交了。"
+          }
+        },
+        {
+          "en": "The prosecutor filed fresh charges against two executives.",
+          "highlight": [
+            "filed"
+          ],
+          "translations": {
+            "zh-TW": "檢察官對兩名高階主管提起追加起訴。"
+          }
+        },
+        {
+          "en": "If records have already been filed, amendments take longer.",
+          "highlight": [
+            "filed"
+          ],
+          "translations": {
+            "zh-TW": "一旦歸檔完成，文書修改就會耗時更久。"
+          }
+        }
+      ],
+      "synonyms": [
+        "submitted",
+        "registered"
+      ],
+      "antonyms": [
+        "withdrawn"
+      ],
+      "phrases": [
+        "filed a complaint",
+        "filed taxes",
+        "filed under",
+        "filed in court"
+      ]
     },
     {
       "id": "B2-579-003",
@@ -69,20 +151,56 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "netherlandses"
+        "plural": "netherlands"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "netherlands",
-          "definition": "n. 荷兰"
+          "definition": "n. 荷蘭（the Netherlands，西歐低地國家）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Cut flowers exported from the netherlands dominate Europe's vase market.",
+          "highlight": [
+            "netherlands"
+          ],
+          "translations": {
+            "zh-TW": "從荷蘭出口的切花主導著歐洲的花瓶市場。"
+          }
+        },
+        {
+          "en": "Our new data center in the netherlands opened last quarter.",
+          "highlight": [
+            "netherlands"
+          ],
+          "translations": {
+            "zh-TW": "我們位於荷蘭的新資料中心上季正式啟用。"
+          }
+        },
+        {
+          "en": "Many jobs tied to wind tech cluster around the netherlands for port access.",
+          "highlight": [
+            "netherlands"
+          ],
+          "translations": {
+            "zh-TW": "許多與風能技術相關的工作都聚在荷蘭以取得港口資源。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Holland",
+        "Dutch Republic"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Kingdom of the Netherlands",
+        "Netherlands Antilles",
+        "Royal Netherlands Navy",
+        "Netherlands-based firm"
+      ]
     },
     {
       "id": "B2-579-004",
@@ -93,23 +211,65 @@
       "word": "consulting",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb",
+        "noun",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "consultings"
+        "ing": "consulting",
+        "past": "consulted",
+        "past_participle": "consulted",
+        "present_3rd": "consults"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "consulting",
-          "definition": "a. 商議的, 咨询的, 任專职顾问的"
+          "definition": "v. 諮詢、顧問（consult 的進行式）；n. 顧問諮詢服務"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "She has been consulting with legal counsel since she joined the board.",
+          "highlight": [
+            "consulting"
+          ],
+          "translations": {
+            "zh-TW": "自從加入董事會以來，她就一直與法務顧問諮詢。"
+          }
+        },
+        {
+          "en": "Engineers are consulting the spec sheet for any missing tolerance.",
+          "highlight": [
+            "consulting"
+          ],
+          "translations": {
+            "zh-TW": "工程師們正查閱規格表確認是否有遺漏的容差。"
+          }
+        },
+        {
+          "en": "Outside consulting accounts for 30% of annual training spend.",
+          "highlight": [
+            "consulting"
+          ],
+          "translations": {
+            "zh-TW": "外部顧問諮詢佔了年度培訓經費的 30%。"
+          }
+        }
+      ],
+      "synonyms": [
+        "advising",
+        "counseling",
+        "guiding"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "consulting firm",
+        "management consulting",
+        "consulting with",
+        "consulting services"
+      ]
     },
     {
       "id": "B2-579-005",
@@ -123,20 +283,57 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "officeses"
+        "plural": "offices"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "offices",
-          "definition": "n. 办公室；办事處（office的复数）"
+          "definition": "n. 辦公室、辦事處（office 的複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Regional offices coordinate closely with headquarters on product launches.",
+          "highlight": [
+            "offices"
+          ],
+          "translations": {
+            "zh-TW": "區域辦事處與總公司在產品上市時密切協調。"
+          }
+        },
+        {
+          "en": "All new offices were equipped with collaborative workstations.",
+          "highlight": [
+            "offices"
+          ],
+          "translations": {
+            "zh-TW": "所有新辦公室都配備了協作型工作站。"
+          }
+        },
+        {
+          "en": "Satellite offices in distressed markets have stayed open through demand dips.",
+          "highlight": [
+            "offices"
+          ],
+          "translations": {
+            "zh-TW": "需求低迷期間，分布於困頓市場的附屬辦事處仍持續營運。"
+          }
+        }
+      ],
+      "synonyms": [
+        "workplaces",
+        "branches",
+        "suites"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "branch offices",
+        "shared offices",
+        "home offices",
+        "sales offices"
+      ]
     },
     {
       "id": "B2-579-006",
@@ -147,23 +344,66 @@
       "word": "managed",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "manageds"
+        "past": "managed",
+        "past_participle": "managed",
+        "ing": "managing",
+        "present_3rd": "manages"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "managed",
-          "definition": "a. 與中央化計劃及管制有關的；托管的"
+          "definition": "v. 管理、控制（manage 的過去式／過去分詞）；a. 託管式、受管理的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Modern root servers are managed by consortiums across regions.",
+          "highlight": [
+            "managed"
+          ],
+          "translations": {
+            "zh-TW": "現代根伺服器由跨區域的聯盟共同管理。"
+          }
+        },
+        {
+          "en": "A staff of only four managed to launch the beta on schedule.",
+          "highlight": [
+            "managed"
+          ],
+          "translations": {
+            "zh-TW": "僅四人的團隊設法如期推出測試版。"
+          }
+        },
+        {
+          "en": "Any system that was managed poorly will struggle back to steady-state.",
+          "highlight": [
+            "managed"
+          ],
+          "translations": {
+            "zh-TW": "任何管理失當的系統都難以恢復到穩定狀態。"
+          }
+        }
+      ],
+      "synonyms": [
+        "administered",
+        "supervised",
+        "controlled"
+      ],
+      "antonyms": [
+        "abandoned"
+      ],
+      "phrases": [
+        "managed care",
+        "managed services",
+        "managed to",
+        "managed portfolio"
+      ]
     },
     {
       "id": "B2-579-007",
@@ -174,23 +414,66 @@
       "word": "failed",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "faileds"
+        "past": "failed",
+        "past_participle": "failed",
+        "ing": "failing",
+        "present_3rd": "fails"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "failed",
-          "definition": "a. 已失败的, [計] 失败的"
+          "definition": "v. fail 的過去式／過去分詞；a. 失敗的、[電腦] 失效的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The thruster failed twice before engineers traced the solder fault.",
+          "highlight": [
+            "failed"
+          ],
+          "translations": {
+            "zh-TW": "工程師找出焊接缺陷之前，推進器已失效兩次。"
+          }
+        },
+        {
+          "en": "If a key router has failed in the last hour, check the dashboard first.",
+          "highlight": [
+            "failed"
+          ],
+          "translations": {
+            "zh-TW": "如果核心路由器在過去一小時內失效，請先查看儀表板。"
+          }
+        },
+        {
+          "en": "Start-ups that failed early have unusually honest post-mortems.",
+          "highlight": [
+            "failed"
+          ],
+          "translations": {
+            "zh-TW": "及早失敗的新創公司其檢討報告格外坦率。"
+          }
+        }
+      ],
+      "synonyms": [
+        "unsuccessful",
+        "collapsed",
+        "flopped"
+      ],
+      "antonyms": [
+        "succeeded"
+      ],
+      "phrases": [
+        "failed to",
+        "failed startup",
+        "failed deal",
+        "failed grade"
+      ]
     },
     {
       "id": "B2-579-008",
@@ -211,13 +494,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "korea",
-          "definition": "n. 朝鲜, 韩國"
+          "definition": "n. 韓國、朝鮮（East Asia 半島國家）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Home viewers in korea reply to ads via phone-paid text waves.",
+          "highlight": [
+            "korea"
+          ],
+          "translations": {
+            "zh-TW": "韓國的家庭觀眾可透過付費簡訊浪潮回應廣告。"
+          }
+        },
+        {
+          "en": "A wave of pastel TV sets from korea arrived without bundled software.",
+          "highlight": [
+            "korea"
+          ],
+          "translations": {
+            "zh-TW": "一批來自韓國的粉彩色調電視沒有隨機附帶軟體。"
+          }
+        },
+        {
+          "en": "Phones assembled partly in korea ship within weeks of pre-order.",
+          "highlight": [
+            "korea"
+          ],
+          "translations": {
+            "zh-TW": "部分在韓國組裝的手機會在預購幾週內出貨。"
+          }
+        }
+      ],
+      "synonyms": [
+        "South Korea",
+        "Korean Peninsula"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "South Korea",
+        "North Korea",
+        "Republic of Korea",
+        "Made in Korea"
+      ]
     },
     {
       "id": "B2-579-009",
@@ -228,23 +547,65 @@
       "word": "banks",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "bankses"
+        "plural": "banks",
+        "present_3rd": "banks",
+        "past": "banked",
+        "past_participle": "banked",
+        "ing": "banking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "banks",
-          "definition": "n. 銀行；斜床；岸, 堤（bank的复数形式）"
+          "definition": "n. 銀行、河岸、堤（bank 的複數）；v. 存入銀行、傾斜轉彎"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Central banks accelerated rate cuts after fresh CPI prints.",
+          "highlight": [
+            "banks"
+          ],
+          "translations": {
+            "zh-TW": "在最新的 CPI 數據出爐後，各國央行加快了降息步伐。"
+          }
+        },
+        {
+          "en": "Greenriver-location traders say banks in this wave made 30% on arbitrage.",
+          "highlight": [
+            "banks"
+          ],
+          "translations": {
+            "zh-TW": "該波交易中炒作套利者獲利三成，交易商指銀行之間往來頻繁。"
+          }
+        },
+        {
+          "en": "Our runway is banked during storms so water runs safely off.",
+          "highlight": [
+            "banked"
+          ],
+          "translations": {
+            "zh-TW": "暴風雨期間我們的跑道兩側被加高排水，讓積水能安全流走。"
+          }
+        }
+      ],
+      "synonyms": [
+        "financial institutions",
+        "credit unions",
+        "lenders"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "central banks",
+        "investment banks",
+        "river banks",
+        "blood banks"
+      ]
     },
     {
       "id": "B2-579-010",
@@ -258,21 +619,59 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "participantses"
+        "plural": "participants"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "participants",
-          "definition": "n. 参加者, 参與者; 参加者, 参與者( participant的名词复数 ), a. 有份的, 参與的"
+          "definition": "n. 參加者、參與者（participant 的複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "All participants signed on in person before the trial began.",
+          "highlight": [
+            "participants"
+          ],
+          "translations": {
+            "zh-TW": "所有參加者在試驗開始前都親自簽署同意書。"
+          }
+        },
+        {
+          "en": "Sponsoring participants can dim a panel when the speaker goes off-format.",
+          "highlight": [
+            "participants"
+          ],
+          "translations": {
+            "zh-TW": "贊助的與會者可能會讓演講者在偏離主題時收斂一些。"
+          }
+        },
+        {
+          "en": "Total participants dipped slightly in our hard-to-knowledge home events.",
+          "highlight": [
+            "participants"
+          ],
+          "translations": {
+            "zh-TW": "在我們難以觸及的家庭活動場次中，總參與人數略為下滑。"
+          }
+        }
+      ],
+      "synonyms": [
+        "attendees",
+        "competitors",
+        "members"
+      ],
+      "antonyms": [
+        "observers"
+      ],
+      "phrases": [
+        "active participants",
+        "key participants",
+        "participants responded",
+        "study participants"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
