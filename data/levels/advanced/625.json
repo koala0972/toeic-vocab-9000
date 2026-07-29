@@ -2,6 +2,11 @@
   "level": 625,
   "tier": "advanced",
   "cefr": "C1",
+  "_skeleton": {
+    "toeic_score_min": 880,
+    "generated_at": "2026-07-30",
+    "source": "vocab-level-refine"
+  },
   "words": [
     {
       "id": "C1-625-001",
@@ -12,23 +17,66 @@
       "word": "clicking",
       "phonetic": "",
       "pos": [
+        "verb",
         "noun"
       ],
       "conjugations": {
-        "plural": "clickings"
+        "plural": "clickings",
+        "present_3rd": "clicks",
+        "past": "clicked",
+        "past_participle": "clicked",
+        "ing": "clicking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "clicking",
-          "definition": "n. 微小静電干扰声"
+          "definition": "v. 點擊（現在分詞）；n. 喀嚓聲"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "She is clicking on the link to open the document.",
+          "highlight": [
+            "clicking"
+          ],
+          "translations": {
+            "zh-TW": "她正在點擊連結以打開文件。"
+          }
+        },
+        {
+          "en": "He clicked the submit button too quickly.",
+          "highlight": [
+            "clicked"
+          ],
+          "translations": {
+            "zh-TW": "他太快點擊了提交按鈕。"
+          }
+        },
+        {
+          "en": "The mouse clicks twice when you press it.",
+          "highlight": [
+            "clicks"
+          ],
+          "translations": {
+            "zh-TW": "滑鼠按一下會點擊兩次。"
+          }
+        }
+      ],
+      "synonyms": [
+        "tapping",
+        "pressing"
+      ],
+      "antonyms": [
+        "releasing"
+      ],
+      "phrases": [
+        "clicking sound",
+        "clicking noise",
+        "clicking on links",
+        "clicking rate"
+      ]
     },
     {
       "id": "C1-625-002",
@@ -39,23 +87,66 @@
       "word": "scheduled",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "scheduleds"
+        "plural": "scheduled",
+        "present_3rd": "schedules",
+        "past": "scheduled",
+        "past_participle": "scheduled",
+        "ing": "scheduling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "scheduled",
-          "definition": "a. 預定的"
+          "definition": "v. 排定（過去式／過去分詞）；adj. 預定的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The meeting is scheduled for next Tuesday morning.",
+          "highlight": [
+            "scheduled"
+          ],
+          "translations": {
+            "zh-TW": "會議已預定在下週二上午舉行。"
+          }
+        },
+        {
+          "en": "He scheduled the appointment for three o'clock.",
+          "highlight": [
+            "scheduled"
+          ],
+          "translations": {
+            "zh-TW": "他將約會排在三點鐘。"
+          }
+        },
+        {
+          "en": "She is scheduling staff rotations for the holidays.",
+          "highlight": [
+            "scheduling"
+          ],
+          "translations": {
+            "zh-TW": "她正在安排假期的員工輪班。"
+          }
+        }
+      ],
+      "synonyms": [
+        "arranged",
+        "planned"
+      ],
+      "antonyms": [
+        "cancelled"
+      ],
+      "phrases": [
+        "scheduled flight",
+        "scheduled meeting",
+        "scheduled maintenance",
+        "scheduled departure"
+      ]
     },
     {
       "id": "C1-625-003",
@@ -69,20 +160,56 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "pollses"
+        "plural": "polls"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "polls",
-          "definition": "n. 投票；民意調查；投票模块（poll的复数形式）"
+          "definition": "n. 民調；投票所（複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Recent polls show a tight race between the candidates.",
+          "highlight": [
+            "polls"
+          ],
+          "translations": {
+            "zh-TW": "最近的民調顯示候選人之間勢均力敵。"
+          }
+        },
+        {
+          "en": "Voters headed to the polls early this morning.",
+          "highlight": [
+            "polls"
+          ],
+          "translations": {
+            "zh-TW": "選民今早紛紛前往投票所投票。"
+          }
+        },
+        {
+          "en": "The latest polls predict a victory for the challenger.",
+          "highlight": [
+            "polls"
+          ],
+          "translations": {
+            "zh-TW": "最新民調預測挑戰者將獲勝。"
+          }
+        }
+      ],
+      "synonyms": [
+        "surveys",
+        "elections"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "opinion polls",
+        "exit polls",
+        "public polls",
+        "going to the polls"
+      ]
     },
     {
       "id": "C1-625-004",
@@ -93,7 +220,8 @@
       "word": "misc",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "abbreviation"
       ],
       "conjugations": {
         "plural": "miscs"
@@ -103,13 +231,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "misc",
-          "definition": "[計] 雜类新聞組, [經] 多種外汇報價"
+          "definition": "n. 雜項；其他（miscellaneous 縮寫）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "He filed the receipts under the misc category.",
+          "highlight": [
+            "misc"
+          ],
+          "translations": {
+            "zh-TW": "他把收據歸類到雜項類別下。"
+          }
+        },
+        {
+          "en": "The misc folder contains various unrelated documents.",
+          "highlight": [
+            "misc"
+          ],
+          "translations": {
+            "zh-TW": "雜項資料夾包含各種不相關的文件。"
+          }
+        },
+        {
+          "en": "There is a misc charge of five dollars on the bill.",
+          "highlight": [
+            "misc"
+          ],
+          "translations": {
+            "zh-TW": "帳單上有一筆五美元的雜項費用。"
+          }
+        }
+      ],
+      "synonyms": [
+        "assorted",
+        "various"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "misc category",
+        "misc items",
+        "misc expenses",
+        "misc folder"
+      ]
     },
     {
       "id": "C1-625-005",
@@ -120,7 +284,8 @@
       "word": "alan",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "proper noun"
       ],
       "conjugations": {
         "plural": "alans"
@@ -130,13 +295,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "alan",
-          "definition": "n. 艾伦（男子名）"
+          "definition": "n. 艾倫（男子名）；鸚鵡的一種"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Alan will present the quarterly report tomorrow.",
+          "highlight": [
+            "Alan"
+          ],
+          "translations": {
+            "zh-TW": "艾倫明天將發表季度報告。"
+          }
+        },
+        {
+          "en": "Have you met Alan from the marketing department?",
+          "highlight": [
+            "Alan"
+          ],
+          "translations": {
+            "zh-TW": "你見過行銷部門的艾倫嗎？"
+          }
+        },
+        {
+          "en": "Mr. Alan's office is on the third floor.",
+          "highlight": [
+            "Alan"
+          ],
+          "translations": {
+            "zh-TW": "艾倫先生的辦公室在三樓。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Allen"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Alan Turing",
+        "Alan Greenspan",
+        "Alan's house",
+        "dear Alan"
+      ]
     },
     {
       "id": "C1-625-006",
@@ -147,23 +347,65 @@
       "word": "sending",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "sendings"
+        "plural": "sendings",
+        "present_3rd": "sends",
+        "past": "sent",
+        "past_participle": "sent",
+        "ing": "sending"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "sending",
-          "definition": "n. 發送, 派遣, 發射, 信件, 神赐, 天降, [計] 發送"
+          "definition": "v. 寄送（現在分詞）；發送"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "She is sending the package via express mail.",
+          "highlight": [
+            "sending"
+          ],
+          "translations": {
+            "zh-TW": "她正透過快遞寄送包裹。"
+          }
+        },
+        {
+          "en": "He sent the invitation cards last week.",
+          "highlight": [
+            "sent"
+          ],
+          "translations": {
+            "zh-TW": "他上週寄出了邀請函。"
+          }
+        },
+        {
+          "en": "The company sends newsletters every Friday.",
+          "highlight": [
+            "sends"
+          ],
+          "translations": {
+            "zh-TW": "該公司每週五發送電子報。"
+          }
+        }
+      ],
+      "synonyms": [
+        "dispatching",
+        "mailing"
+      ],
+      "antonyms": [
+        "receiving"
+      ],
+      "phrases": [
+        "sending email",
+        "sending a message",
+        "sending greetings",
+        "sending parcels"
+      ]
     },
     {
       "id": "C1-625-007",
@@ -174,7 +416,8 @@
       "word": "jason",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "proper noun"
       ],
       "conjugations": {
         "plural": "jasons"
@@ -184,13 +427,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "jason",
-          "definition": "n. 詹森（男子名）"
+          "definition": "n. 傑森（男子名）；希臘神話中的英雄"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Jason has worked here for over ten years.",
+          "highlight": [
+            "Jason"
+          ],
+          "translations": {
+            "zh-TW": "傑森在這裡工作超過十年了。"
+          }
+        },
+        {
+          "en": "Please ask Jason to review the contract.",
+          "highlight": [
+            "Jason"
+          ],
+          "translations": {
+            "zh-TW": "請請傑森審閱這份合約。"
+          }
+        },
+        {
+          "en": "I ran into Jason at the coffee shop.",
+          "highlight": [
+            "Jason"
+          ],
+          "translations": {
+            "zh-TW": "我在咖啡廳遇見了傑森。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Jasin"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Jason and the Argonauts",
+        "Jason's team",
+        "hi Jason",
+        "thanks Jason"
+      ]
     },
     {
       "id": "C1-625-008",
@@ -207,11 +485,53 @@
         "plural": "holdems"
       },
       "domain": "general",
-      "translations": [],
-      "examples": [],
-      "synonyms": [],
+      "translations": [
+        {
+          "lang": "zh-TW",
+          "lang_word": "holdem",
+          "definition": "n. 拿著；德州撲克（Texas Hold'em）"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Texas holdem is the most popular poker variant.",
+          "highlight": [
+            "holdem"
+          ],
+          "translations": {
+            "zh-TW": "德州撲克是最受歡迎的撲克變體。"
+          }
+        },
+        {
+          "en": "They played holdem until midnight",
+          "highlight": [
+            "holdem"
+          ],
+          "translations": {
+            "zh-TW": "他們玩德州撲克直到午夜。"
+          }
+        },
+        {
+          "en": "A holdem tournament will be held on Saturday.",
+          "highlight": [
+            "holdem"
+          ],
+          "translations": {
+            "zh-TW": "一場德州撲克錦標賽將在週六舉行。"
+          }
+        }
+      ],
+      "synonyms": [
+        "poker",
+        "texas"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "texas holdem",
+        "holdem poker",
+        "no-limit holdem",
+        "holdem tournament"
+      ]
     },
     {
       "id": "C1-625-009",
@@ -232,13 +552,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "vat",
-          "definition": "n. 大桶, vt. 裝入大桶, 在大桶裡處理"
+          "definition": "n. 大桶；增值稅（Value Added Tax 的縮寫）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The cheese ages in a wooden vat for months.",
+          "highlight": [
+            "vat"
+          ],
+          "translations": {
+            "zh-TW": "乳酪在木桶中熟成數個月。"
+          }
+        },
+        {
+          "en": "The factory has several vats of molten steel.",
+          "highlight": [
+            "vats"
+          ],
+          "translations": {
+            "zh-TW": "工廠有幾桶熔融的鋼鐵。"
+          }
+        },
+        {
+          "en": "Most European countries charge a vat on goods.",
+          "highlight": [
+            "vat"
+          ],
+          "translations": {
+            "zh-TW": "多數歐洲國家對商品徵收增值稅。"
+          }
+        }
+      ],
+      "synonyms": [
+        "barrel",
+        "tub"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "vat tax",
+        "vat number",
+        "vat registration",
+        "large vat"
+      ]
     },
     {
       "id": "C1-625-010",
@@ -249,7 +605,8 @@
       "word": "vancouver",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "proper noun"
       ],
       "conjugations": {
         "plural": "vancouvers"
@@ -259,14 +616,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "vancouver",
-          "definition": "n. 温哥华（加拿大主要港市）"
+          "definition": "n. 溫哥華（加拿大城市）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Vancouver is known for its beautiful scenery.",
+          "highlight": [
+            "Vancouver"
+          ],
+          "translations": {
+            "zh-TW": "溫哥華以美麗的風景聞名。"
+          }
+        },
+        {
+          "en": "She moved to Vancouver last summer for work.",
+          "highlight": [
+            "Vancouver"
+          ],
+          "translations": {
+            "zh-TW": "她去年夏天為了工作搬到溫哥華。"
+          }
+        },
+        {
+          "en": "The flight to Vancouver takes about ten hours.",
+          "highlight": [
+            "Vancouver"
+          ],
+          "translations": {
+            "zh-TW": "飛往溫哥華的航班大約需要十小時。"
+          }
+        }
+      ],
+      "synonyms": [
+        "BC"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Vancouver Island",
+        "Vancouver Canucks",
+        "downtown Vancouver",
+        "greater Vancouver"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }

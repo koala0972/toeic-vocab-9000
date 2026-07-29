@@ -2,6 +2,11 @@
   "level": 626,
   "tier": "advanced",
   "cefr": "C1",
+  "_skeleton": {
+    "toeic_score_min": 880,
+    "generated_at": "2026-07-30",
+    "source": "vocab-level-refine"
+  },
   "words": [
     {
       "id": "C1-626-001",
@@ -12,23 +17,65 @@
       "word": "seemed",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "seemeds"
+        "plural": "seemed",
+        "present_3rd": "seems",
+        "past": "seemed",
+        "past_participle": "seemed",
+        "ing": "seeming"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "seemed",
-          "definition": "v. 裝作；似乎（seem的過去式）"
+          "definition": "v. 似乎（過去式／過去分詞）；看起來"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "She seemed tired after the long flight.",
+          "highlight": [
+            "seemed"
+          ],
+          "translations": {
+            "zh-TW": "她在搭乘長途航班後似乎很累了。"
+          }
+        },
+        {
+          "en": "The sky seems cloudy this afternoon.",
+          "highlight": [
+            "seems"
+          ],
+          "translations": {
+            "zh-TW": "今天下午天空看起來陰沉沉的。"
+          }
+        },
+        {
+          "en": "He is seeming more confident in his new role.",
+          "highlight": [
+            "seeming"
+          ],
+          "translations": {
+            "zh-TW": "他在新職位上看起來越來越有自信。"
+          }
+        }
+      ],
+      "synonyms": [
+        "appeared",
+        "looked"
+      ],
+      "antonyms": [
+        "was"
+      ],
+      "phrases": [
+        "seemed to",
+        "seemed happy",
+        "seemed strange",
+        "seemed interested"
+      ]
     },
     {
       "id": "C1-626-002",
@@ -49,13 +96,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "spyware",
-          "definition": "間谍软件；後門程式"
+          "definition": "n. 間諜軟體；監控軟體"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The antivirus removed several spyware infections.",
+          "highlight": [
+            "spyware"
+          ],
+          "translations": {
+            "zh-TW": "防毒軟體移除了幾個間諜軟體感染。"
+          }
+        },
+        {
+          "en": "Spyware can secretly collect user passwords.",
+          "highlight": [
+            "Spyware"
+          ],
+          "translations": {
+            "zh-TW": "間諜軟體可以暗中收集使用者密碼。"
+          }
+        },
+        {
+          "en": "Install anti-spyware to protect your computer.",
+          "highlight": [
+            "spyware"
+          ],
+          "translations": {
+            "zh-TW": "安裝反間諜軟體來保護你的電腦。"
+          }
+        }
+      ],
+      "synonyms": [
+        "malware",
+        "adware"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "anti-spyware",
+        "spyware removal",
+        "spyware protection",
+        "spyware scanner"
+      ]
     },
     {
       "id": "C1-626-003",
@@ -66,23 +149,66 @@
       "word": "packaging",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "packagings"
+        "plural": "packagings",
+        "present_3rd": "packages",
+        "past": "packaged",
+        "past_participle": "packaged",
+        "ing": "packaging"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "packaging",
-          "definition": "n. 包裝, 包裝業, 包裝術, [計] 組裝; 封裝"
+          "definition": "n. 包裝；包裝材料；v. 包裝（現在分詞）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The company is packaging its products in eco-friendly materials.",
+          "highlight": [
+            "packaging"
+          ],
+          "translations": {
+            "zh-TW": "該公司正用環保材料包裝產品。"
+          }
+        },
+        {
+          "en": "She packaged the fragile items carefully for shipping.",
+          "highlight": [
+            "packaged"
+          ],
+          "translations": {
+            "zh-TW": "她小心翼翼地為易碎品包裝以供運送。"
+          }
+        },
+        {
+          "en": "Good packaging keeps food fresh longer.",
+          "highlight": [
+            "packaging"
+          ],
+          "translations": {
+            "zh-TW": "好的包裝能讓食物保鮮更久。"
+          }
+        }
+      ],
+      "synonyms": [
+        "wrapping",
+        "boxing"
+      ],
+      "antonyms": [
+        "unwrapping"
+      ],
+      "phrases": [
+        "packaging materials",
+        "packaging design",
+        "product packaging",
+        "sustainable packaging"
+      ]
     },
     {
       "id": "C1-626-004",
@@ -93,7 +219,8 @@
       "word": "jane",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "proper noun"
       ],
       "conjugations": {
         "plural": "janes"
@@ -103,13 +230,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "jane",
-          "definition": "n. 简（女子名）"
+          "definition": "n. 珍（女子名）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Jane will lead the presentation next week.",
+          "highlight": [
+            "Jane"
+          ],
+          "translations": {
+            "zh-TW": "珍下週將主導簡報。"
+          }
+        },
+        {
+          "en": "Have you told Jane about the schedule change?",
+          "highlight": [
+            "Jane"
+          ],
+          "translations": {
+            "zh-TW": "你告訴珍排程變更了嗎？"
+          }
+        },
+        {
+          "en": "I had lunch with Jane at the cafeteria.",
+          "highlight": [
+            "Jane"
+          ],
+          "translations": {
+            "zh-TW": "我和珍在自助餐廳共進午餐。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Jayne"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Jane Doe",
+        "plain Jane",
+        "Jane's office",
+        "meet Jane"
+      ]
     },
     {
       "id": "C1-626-005",
@@ -120,7 +282,8 @@
       "word": "pakistan",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "proper noun"
       ],
       "conjugations": {
         "plural": "pakistans"
@@ -130,13 +293,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "pakistan",
-          "definition": "n. 巴基斯坦"
+          "definition": "n. 巴基斯坦（南亞國家）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Pakistan borders India and Afghanistan.",
+          "highlight": [
+            "Pakistan"
+          ],
+          "translations": {
+            "zh-TW": "巴基斯坦與印度和阿富汗接壤。"
+          }
+        },
+        {
+          "en": "He traveled to Pakistan for a business trip.",
+          "highlight": [
+            "Pakistan"
+          ],
+          "translations": {
+            "zh-TW": "他前往巴基斯坦出差。"
+          }
+        },
+        {
+          "en": "Cricket is the most popular sport in Pakistan.",
+          "highlight": [
+            "Pakistan"
+          ],
+          "translations": {
+            "zh-TW": "板球是巴基斯坦最受歡迎的運動。"
+          }
+        }
+      ],
+      "synonyms": [
+        "PK",
+        "Islamic Republic"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Pakistan government",
+        "Pakistan cricket",
+        "Pakistan rupee",
+        "northern Pakistan"
+      ]
     },
     {
       "id": "C1-626-006",
@@ -157,13 +356,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "finder",
-          "definition": "a. 發現者, 寻星镜, [醫] 寻觅器, 探示器"
+          "definition": "n. 發現者；尋找工具；取景器"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The finder will receive a reward for the lost dog.",
+          "highlight": [
+            "finder"
+          ],
+          "translations": {
+            "zh-TW": "發現者將獲得尋獲走失狗的獎賞。"
+          }
+        },
+        {
+          "en": "She used a path finder to navigate the forest trail.",
+          "highlight": [
+            "finder"
+          ],
+          "translations": {
+            "zh-TW": "她用尋路工具在森林小徑中導航。"
+          }
+        },
+        {
+          "en": "A word finder helps students with their vocabulary.",
+          "highlight": [
+            "finder"
+          ],
+          "translations": {
+            "zh-TW": "詞彙查找器幫助學生學習詞彙。"
+          }
+        }
+      ],
+      "synonyms": [
+        "locator",
+        "searcher"
+      ],
+      "antonyms": [
+        "loser"
+      ],
+      "phrases": [
+        "finders keepers",
+        "path finder",
+        "word finder",
+        "view finder"
+      ]
     },
     {
       "id": "C1-626-007",
@@ -177,20 +414,58 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "periodses"
+        "plural": "periods"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "periods",
-          "definition": "n. 周期（period的复数）"
+          "definition": "n. 時期；期間；句點（複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "There are several periods in this region's history.",
+          "highlight": [
+            "periods"
+          ],
+          "translations": {
+            "zh-TW": "這個地區的歷史分成幾個時期。"
+          }
+        },
+        {
+          "en": "The stock price fluctuated during two different periods.",
+          "highlight": [
+            "periods"
+          ],
+          "translations": {
+            "zh-TW": "股價在兩個不同期間內波動。"
+          }
+        },
+        {
+          "en": "Academic periods are typically fifty minutes long.",
+          "highlight": [
+            "periods"
+          ],
+          "translations": {
+            "zh-TW": "學術課堂期間通常為五十分鐘。"
+          }
+        }
+      ],
+      "synonyms": [
+        "eras",
+        "phases"
+      ],
+      "antonyms": [
+        "points"
+      ],
+      "phrases": [
+        "time periods",
+        "acidic periods",
+        "rest periods",
+        "historical periods"
+      ]
     },
     {
       "id": "C1-626-008",
@@ -204,20 +479,62 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "taskses"
+        "plural": "tasks",
+        "present_3rd": "tasks",
+        "past": "tasked",
+        "past_participle": "tasked",
+        "ing": "tasking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "tasks",
-          "definition": "n. 任務；工作；苦差事（task的复数）"
+          "definition": "n. 任務；工作（複數）；v. 分派工作"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several tasks need to be completed by Friday.",
+          "highlight": [
+            "tasks"
+          ],
+          "translations": {
+            "zh-TW": "有幾個任務必須在週五前完成。"
+          }
+        },
+        {
+          "en": "She tasked her team with rewriting the manual.",
+          "highlight": [
+            "tasked"
+          ],
+          "translations": {
+            "zh-TW": "她指派團隊重寫手冊的任務。"
+          }
+        },
+        {
+          "en": "He is tasking himself with learning a new language.",
+          "highlight": [
+            "tasking"
+          ],
+          "translations": {
+            "zh-TW": "他正給自己學習新語言的任務。"
+          }
+        }
+      ],
+      "synonyms": [
+        "assignments",
+        "duties"
+      ],
+      "antonyms": [
+        "leisure"
+      ],
+      "phrases": [
+        "daily tasks",
+        "household tasks",
+        "assigned tasks",
+        "complex tasks"
+      ]
     },
     {
       "id": "C1-626-009",
@@ -228,23 +545,66 @@
       "word": "attacks",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "attackses"
+        "plural": "attacks",
+        "present_3rd": "attacks",
+        "past": "attacked",
+        "past_participle": "attacked",
+        "ing": "attacking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "attacks",
-          "definition": "n. 攻击, 评击（attack的复数形式）"
+          "definition": "n. 攻擊；抨擊（複數）；v. 攻擊（第三人稱單數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several cyber attacks targeted the bank's website.",
+          "highlight": [
+            "attacks"
+          ],
+          "translations": {
+            "zh-TW": "幾次網路攻擊針對該銀行的網站。"
+          }
+        },
+        {
+          "en": "The army attacked the fortress at dawn.",
+          "highlight": [
+            "attacked"
+          ],
+          "translations": {
+            "zh-TW": "軍隊在黎明時分攻擊了堡壘。"
+          }
+        },
+        {
+          "en": "The virus is attacking the computer's operating system.",
+          "highlight": [
+            "attacking"
+          ],
+          "translations": {
+            "zh-TW": "病毒正在攻擊電腦的作業系統。"
+          }
+        }
+      ],
+      "synonyms": [
+        "assaults",
+        "strikes"
+      ],
+      "antonyms": [
+        "defends"
+      ],
+      "phrases": [
+        "heart attacks",
+        "cyber attacks",
+        "panic attacks",
+        "verbal attacks"
+      ]
     },
     {
       "id": "C1-626-010",
@@ -265,14 +625,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "wallpaper",
-          "definition": "n. 壁紙, 牆紙, v. 贴牆紙, [計] 壁紙"
+          "definition": "n. 壁紙；桌布（電腦桌面背景圖）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "She chose floral wallpaper for the living room.",
+          "highlight": [
+            "wallpaper"
+          ],
+          "translations": {
+            "zh-TW": "她為客廳選了花卉壁紙。"
+          }
+        },
+        {
+          "en": "The desktop wallpaper shows a mountain landscape.",
+          "highlight": [
+            "wallpaper"
+          ],
+          "translations": {
+            "zh-TW": "桌面桌布顯示了山景。"
+          }
+        },
+        {
+          "en": "They installed new wallpapers throughout the house.",
+          "highlight": [
+            "wallpapers"
+          ],
+          "translations": {
+            "zh-TW": "他們在整棟房子裡安裝了新壁紙。"
+          }
+        }
+      ],
+      "synonyms": [
+        "backdrop",
+        "background"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "wallpaper paste",
+        "remove wallpaper",
+        "desktop wallpaper",
+        "vinyl wallpaper"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
