@@ -12,6 +12,7 @@
       "word": "static",
       "phonetic": "",
       "pos": [
+        "adjective",
         "noun"
       ],
       "conjugations": {
@@ -22,13 +23,54 @@
         {
           "lang": "zh-TW",
           "lang_word": "static",
-          "definition": "n. 静電, 静電干扰, a. 静态的, 静止的, 固有的, 静電的"
+          "definition": "a. 靜態的；靜止的 n. 靜電；雜訊"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The router maintains a static ip address for the printer.",
+          "highlight": [
+            "static ip"
+          ],
+          "translations": {
+            "zh-TW": "路由器為印表機保留了固定的 IP 位址。"
+          }
+        },
+        {
+          "en": "Engineers have been testing the bridge under static loads.",
+          "highlight": [
+            "static"
+          ],
+          "translations": {
+            "zh-TW": "工程師們一直在對橋樑進行靜載重測試。"
+          }
+        },
+        {
+          "en": "The astronomy club will observe static phenomena next weekend.",
+          "highlight": [
+            "static"
+          ],
+          "translations": {
+            "zh-TW": "天文社下週末將觀測靜態的天文現象。"
+          }
+        }
+      ],
+      "synonyms": [
+        "stationary",
+        "fixed",
+        "unchanging"
+      ],
+      "antonyms": [
+        "dynamic",
+        "moving"
+      ],
+      "phrases": [
+        "static ip",
+        "static stretching",
+        "static electricity",
+        "static analysis",
+        "keep static"
+      ]
     },
     {
       "id": "B2-586-002",
@@ -39,23 +81,66 @@
       "word": "addresses",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "addresseses"
+        "plural": "addresses",
+        "past": "addressed",
+        "past_participle": "addressed",
+        "ing": "addressing",
+        "present_3rd": "addresses"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "addresses",
-          "definition": "n. 稱呼( address的名词复数 ); （在信封、包裹等上）書寫（收件人姓名、地址）; （收件人的）姓名和地址; （書面或口頭的）發言"
+          "definition": "n. 地址；演說（address 的複數形式）v. 對付；處理（address 的第三身單數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Several email addresses were leaked in the data breach last month.",
+          "highlight": [
+            "addresses"
+          ],
+          "translations": {
+            "zh-TW": "上月資料外洩事件中有幾個電子郵件地址被洩漏了。"
+          }
+        },
+        {
+          "en": "The principal has been addressing parent concerns for weeks.",
+          "highlight": [
+            "addressing"
+          ],
+          "translations": {
+            "zh-TW": "校長處理家長疑慮已數週。"
+          }
+        },
+        {
+          "en": "Managers will address the scheduling conflict tomorrow morning.",
+          "highlight": [
+            "address"
+          ],
+          "translations": {
+            "zh-TW": "經理們明天早上將處理這項排程衝突。"
+          }
+        }
+      ],
+      "synonyms": [
+        "speeches",
+        "talks",
+        "locations"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "ip addresses",
+        "email addresses",
+        "mailing addresses",
+        "home addresses",
+        "public addresses"
+      ]
     },
     {
       "id": "B2-586-003",
@@ -66,23 +151,68 @@
       "word": "fans",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "fanses"
+        "plural": "fans",
+        "past": "fanned",
+        "past_participle": "fanned",
+        "ing": "fanning",
+        "present_3rd": "fans"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "fans",
-          "definition": "n. 風扇；狂热者, 粉丝（fan的复数形式）"
+          "definition": "n. 風扇；扇子；愛好者；粉絲（fan 的複數形式）v. 扇風；煽動（fan 的第三身單數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Exhaust fans were installed in the kitchen last weekend.",
+          "highlight": [
+            "fans"
+          ],
+          "translations": {
+            "zh-TW": "廚房上週末安裝了排氣扇。"
+          }
+        },
+        {
+          "en": "Supporters have been fanning out across the city for hours.",
+          "highlight": [
+            "fanning"
+          ],
+          "translations": {
+            "zh-TW": "支持者們在城裡散開已數小時。"
+          }
+        },
+        {
+          "en": "Cool breeze will fan the campfire tonight under the stars.",
+          "highlight": [
+            "fan"
+          ],
+          "translations": {
+            "zh-TW": "今晚的微風將在星空下為營火搧風。"
+          }
+        }
+      ],
+      "synonyms": [
+        "enthusiasts",
+        "supporters",
+        "blowers"
+      ],
+      "antonyms": [
+        "detractors"
+      ],
+      "phrases": [
+        "ceiling fans",
+        "exhaust fans",
+        "sports fans",
+        "fan club",
+        "fan out"
+      ]
     },
     {
       "id": "B2-586-004",
@@ -103,13 +233,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "oklahoma",
-          "definition": "n. 俄克拉何馬"
+          "definition": "n. 奧克拉荷馬州（美國南部州名）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "A tornado touched down in oklahoma yesterday afternoon.",
+          "highlight": [
+            "oklahoma"
+          ],
+          "translations": {
+            "zh-TW": "昨天下午龍捲風在奧克拉荷馬州登陸了。"
+          }
+        },
+        {
+          "en": "Farmers in oklahoma have been raising cattle for generations.",
+          "highlight": [
+            "oklahoma"
+          ],
+          "translations": {
+            "zh-TW": "奧克拉荷馬州的農戶世代以養牛為生。"
+          }
+        },
+        {
+          "en": "Relatives will gather in oklahoma for the reunion this July.",
+          "highlight": [
+            "oklahoma"
+          ],
+          "translations": {
+            "zh-TW": "親戚們今年七月將在奧克拉荷馬州聚會。"
+          }
+        }
+      ],
+      "synonyms": [
+        "sooners",
+        "okc"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "oklahoma city",
+        "oklahoma state",
+        "university of oklahoma",
+        "oklahoma panhandle"
+      ]
     },
     {
       "id": "B2-586-005",
@@ -123,20 +289,60 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "speakerses"
+        "plural": "speakers"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "speakers",
-          "definition": "n. 演說家；扬声器；發言者（speaker的复数）"
+          "definition": "n. 演講者；揚聲器；說某種語言的人（speaker 的複數形式）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several guest speakers attended the conference last Thursday.",
+          "highlight": [
+            "speakers"
+          ],
+          "translations": {
+            "zh-TW": "幾位客座講者上週四出席了會議。"
+          }
+        },
+        {
+          "en": "The language school has been hiring native speakers for over ten years.",
+          "highlight": [
+            "speakers"
+          ],
+          "translations": {
+            "zh-TW": "語言學校聘請母語人士已超過十年。"
+          }
+        },
+        {
+          "en": "Technicians will install new speakers in the auditorium tomorrow.",
+          "highlight": [
+            "speakers"
+          ],
+          "translations": {
+            "zh-TW": "技術員明天將在禮堂安裝新的揚聲器。"
+          }
+        }
+      ],
+      "synonyms": [
+        "orators",
+        "lecturers",
+        "presenters"
+      ],
+      "antonyms": [
+        "listeners"
+      ],
+      "phrases": [
+        "guest speakers",
+        "bluetooth speakers",
+        "native speakers",
+        "loudspeakers",
+        "keynote speakers"
+      ]
     },
     {
       "id": "B2-586-006",
@@ -157,13 +363,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "academy",
-          "definition": "n. 學院, 院校, 學會"
+          "definition": "n. 學院；專科學校；學會"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "He graduated from the police academy with honors last spring.",
+          "highlight": [
+            "academy"
+          ],
+          "translations": {
+            "zh-TW": "他去年春天以優異成績從警察學院畢業。"
+          }
+        },
+        {
+          "en": "The academy has been training young musicians for decades.",
+          "highlight": [
+            "academy"
+          ],
+          "translations": {
+            "zh-TW": "這所學院已訓練年輕音樂家數十年。"
+          }
+        },
+        {
+          "en": "The director will accept the academy award at next month's ceremony.",
+          "highlight": [
+            "academy"
+          ],
+          "translations": {
+            "zh-TW": "導演下個月的典禮上將領取學院獎。"
+          }
+        }
+      ],
+      "synonyms": [
+        "institute",
+        "conservatory",
+        "school"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "academy awards",
+        "police academy",
+        "military academy",
+        "naval academy",
+        "academy of sciences"
+      ]
     },
     {
       "id": "B2-586-007",
@@ -184,13 +428,54 @@
         {
           "lang": "zh-TW",
           "lang_word": "dell",
-          "definition": "n. 小谷, 小溪谷, [醫] 小凹, 浅窝"
+          "definition": "n. 戴爾（美國科技公司或姓氏）；小山谷；幽谷"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The startup ordered several dell laptops for its new employees.",
+          "highlight": [
+            "dell"
+          ],
+          "translations": {
+            "zh-TW": "這家新創公司為新進員工訂購了幾台戴爾筆電。"
+          }
+        },
+        {
+          "en": "Their family has been living in a quiet dell for nearly a decade.",
+          "highlight": [
+            "dell"
+          ],
+          "translations": {
+            "zh-TW": "他們一家住在寧靜的小山谷裡已近十年。"
+          }
+        },
+        {
+          "en": "Birdwatchers will visit the dell next Saturday to spot warblers.",
+          "highlight": [
+            "dell"
+          ],
+          "translations": {
+            "zh-TW": "賞鳥者下週六將造訪幽谷尋找鶯鳥。"
+          }
+        }
+      ],
+      "synonyms": [
+        "valley",
+        "glen",
+        "hollow"
+      ],
+      "antonyms": [
+        "mountain",
+        "hill"
+      ],
+      "phrases": [
+        "dell inc",
+        "dell technologies",
+        "dell computer",
+        "dell laptops",
+        "woodland dell"
+      ]
     },
     {
       "id": "B2-586-008",
@@ -201,23 +486,69 @@
       "word": "cleaning",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "cleanings"
+        "plural": "cleanings",
+        "past": "cleaned",
+        "past_participle": "cleaned",
+        "ing": "cleaning",
+        "present_3rd": "cleans"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cleaning",
-          "definition": "n. 清洁, 扫除, 家畜的胞衣, 扫除出來的垃圾, 大败, 輸得精光, 除伐, 巨額利润, [計] 清洗, 清除"
+          "definition": "n. 清潔；打掃 v. 打掃（clean 的現在分詞）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The cleaning crew finished the office before sunrise yesterday.",
+          "highlight": [
+            "cleaning"
+          ],
+          "translations": {
+            "zh-TW": "清潔人員昨天在日出前就完成了辦公室清掃。"
+          }
+        },
+        {
+          "en": "Staff have been cleaning the museum exhibits all afternoon.",
+          "highlight": [
+            "cleaning"
+          ],
+          "translations": {
+            "zh-TW": "員工整個下午一直在清理博物館展品。"
+          }
+        },
+        {
+          "en": "We will clean the garage during the long weekend.",
+          "highlight": [
+            "clean"
+          ],
+          "translations": {
+            "zh-TW": "我們會在長週末期間打掃車庫。"
+          }
+        }
+      ],
+      "synonyms": [
+        "scrubbing",
+        "washing",
+        "tidying"
+      ],
+      "antonyms": [
+        "soiling",
+        "dirtying"
+      ],
+      "phrases": [
+        "cleaning service",
+        "spring cleaning",
+        "cleaning supplies",
+        "dry cleaning",
+        "cleaning solution"
+      ]
     },
     {
       "id": "B2-586-009",
@@ -228,23 +559,65 @@
       "word": "constitutes",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "constituteses"
+        "past": "constituted",
+        "past_participle": "constituted",
+        "ing": "constituting",
+        "present_3rd": "constitutes"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "constitutes",
-          "definition": "v. 組成；構成（constitute的單三形式）"
+          "definition": "v. 構成；組成；成立（constitute 的第三身單數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Loud noise after midnight constitutes a public nuisance here.",
+          "highlight": [
+            "constitutes"
+          ],
+          "translations": {
+            "zh-TW": "午夜後的噪音在此處構成妨害公眾安寧。"
+          }
+        },
+        {
+          "en": "The evidence has been constituting solid grounds for the lawsuit.",
+          "highlight": [
+            "constituting"
+          ],
+          "translations": {
+            "zh-TW": "這份證據一直構成這場訴訟的堅實基礎。"
+          }
+        },
+        {
+          "en": "Committee members will constitute a panel reviewing the regulations.",
+          "highlight": [
+            "constitute"
+          ],
+          "translations": {
+            "zh-TW": "委員們將組成審查這些法規的小組。"
+          }
+        }
+      ],
+      "synonyms": [
+        "comprises",
+        "forms",
+        "makes up"
+      ],
+      "antonyms": [
+        "dissolves"
+      ],
+      "phrases": [
+        "constitutes a crime",
+        "constitutes part of",
+        "constitutes an offence",
+        "constitutes acceptance"
+      ]
     },
     {
       "id": "B2-586-010",
@@ -255,24 +628,68 @@
       "word": "delivered",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "delivereds"
+        "past": "delivered",
+        "past_participle": "delivered",
+        "ing": "delivering",
+        "present_3rd": "delivers"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "delivered",
-          "definition": "a. 業已交貨"
+          "definition": "v. 遞送；交付；發表（deliver 的過去式與過去分詞）a. 已交付的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Courier delivered the package to the wrong address last week.",
+          "highlight": [
+            "delivered"
+          ],
+          "translations": {
+            "zh-TW": "快遞上週把包裹送錯了地址。"
+          }
+        },
+        {
+          "en": "The startup has been delivering groceries for over a year.",
+          "highlight": [
+            "delivering"
+          ],
+          "translations": {
+            "zh-TW": "這家新創公司送餐雜貨已超過一年。"
+          }
+        },
+        {
+          "en": "The president will deliver a speech at the university tomorrow.",
+          "highlight": [
+            "deliver"
+          ],
+          "translations": {
+            "zh-TW": "總統明天將在大學發表演說。"
+          }
+        }
+      ],
+      "synonyms": [
+        "shipped",
+        "dispatched",
+        "transported"
+      ],
+      "antonyms": [
+        "withheld",
+        "kept"
+      ],
+      "phrases": [
+        "delivered to",
+        "freshly delivered",
+        "delivered on time",
+        "delivered pizza",
+        "delivered goods"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
