@@ -12,23 +12,67 @@
       "word": "shares",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "shareses"
+        "plural": "shares",
+        "past": "shared",
+        "past_participle": "shared",
+        "ing": "sharing",
+        "present_3rd": "shares"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "shares",
-          "definition": "n. 股份（share的复数形式）"
+          "definition": "n. 股份；部分（share 的複數形式）v. 分享；共用；分配（share 的第三身單數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Many investors bought common shares in the public offering last week.",
+          "highlight": [
+            "shares"
+          ],
+          "translations": {
+            "zh-TW": "許多投資人上週在公開發行中買進了普通股。"
+          }
+        },
+        {
+          "en": "The executive has been sharing quarterly results with employees.",
+          "highlight": [
+            "sharing"
+          ],
+          "translations": {
+            "zh-TW": "這位高階主管一直向員工分享季度業績。"
+          }
+        },
+        {
+          "en": "Shareholders will share the dividend distribution next month.",
+          "highlight": [
+            "share"
+          ],
+          "translations": {
+            "zh-TW": "股東們下月將分配股息。"
+          }
+        }
+      ],
+      "synonyms": [
+        "portions",
+        "bits",
+        "allocations"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "common shares",
+        "preferred shares",
+        "share capital",
+        "treasury shares",
+        "share prices",
+        "share the load"
+      ]
     },
     {
       "id": "B2-591-002",
@@ -39,23 +83,68 @@
       "word": "colors",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "colorses"
+        "plural": "colors",
+        "past": "colored",
+        "past_participle": "colored",
+        "ing": "coloring",
+        "present_3rd": "colors"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "colors",
-          "definition": "n. 國旗, 旗帜, 船旗, 军旗, 衣帽, 徽章, 绶帶, [建] 色料, 颜料, 染料"
+          "definition": "n. 顏色；色彩；旗幟（color 的複數形式）v. 著色；影響（color 的第三身單數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Painters mixed several colors to create the mural last weekend.",
+          "highlight": [
+            "colors"
+          ],
+          "translations": {
+            "zh-TW": "畫家們上週末混合了幾種顏料繪製壁畫。"
+          }
+        },
+        {
+          "en": "Children have been coloring books during the rainy afternoon.",
+          "highlight": [
+            "coloring"
+          ],
+          "translations": {
+            "zh-TW": "下雨的午後孩子們一直在為著色本著色。"
+          }
+        },
+        {
+          "en": "We will color the room a soft shade of blue this Saturday.",
+          "highlight": [
+            "color"
+          ],
+          "translations": {
+            "zh-TW": "我們這週六將把房間塗成柔和的藍色。"
+          }
+        }
+      ],
+      "synonyms": [
+        "hues",
+        "shades",
+        "tints"
+      ],
+      "antonyms": [
+        "monochrome"
+      ],
+      "phrases": [
+        "vibrant colors",
+        "primary colors",
+        "warm colors",
+        "school colors",
+        "fall colors"
+      ]
     },
     {
       "id": "B2-591-003",
@@ -69,20 +158,60 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "warses"
+        "plural": "wars"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "wars",
-          "definition": "n. 战争（war的复数形式）"
+          "definition": "n. 戰爭；衝突；鬥爭（war 的複數形式）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Historians studied several civil wars in last semester's course.",
+          "highlight": [
+            "wars"
+          ],
+          "translations": {
+            "zh-TW": "歷史學家上學期的課程研究了幾場內戰。"
+          }
+        },
+        {
+          "en": "Analysts have been tracking trade wars between the superpowers.",
+          "highlight": [
+            "wars"
+          ],
+          "translations": {
+            "zh-TW": "分析師們一直在追蹤超級大國間的貿易戰。"
+          }
+        },
+        {
+          "en": "Veterans will attend the commemoration of past world wars next November.",
+          "highlight": [
+            "wars"
+          ],
+          "translations": {
+            "zh-TW": "退伍軍人明年十一月將出席歷屆世界大戰紀念活動。"
+          }
+        }
+      ],
+      "synonyms": [
+        "conflicts",
+        "campaigns",
+        "battles"
+      ],
+      "antonyms": [
+        "peace"
+      ],
+      "phrases": [
+        "star wars",
+        "trade wars",
+        "civil wars",
+        "world wars",
+        "price wars"
+      ]
     },
     {
       "id": "B2-591-004",
@@ -103,13 +232,51 @@
         {
           "lang": "zh-TW",
           "lang_word": "cisco",
-          "definition": "n. 加拿大白鲑"
+          "definition": "n. 思科（美國網路設備公司）；加拿大白鮭（魚）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The hospital upgraded to cisco routers last summer.",
+          "highlight": [
+            "cisco"
+          ],
+          "translations": {
+            "zh-TW": "這家醫院去年夏天升級為思科路由器。"
+          }
+        },
+        {
+          "en": "Fisheries have been restocking lake whitefish and cisco populations.",
+          "highlight": [
+            "cisco"
+          ],
+          "translations": {
+            "zh-TW": "漁業部門一直在恢復湖白魚與加拿大白鮭族群。"
+          }
+        },
+        {
+          "en": "Students will prepare for the cisco certification exam in May.",
+          "highlight": [
+            "cisco"
+          ],
+          "translations": {
+            "zh-TW": "學生們五月將為思科認證考試做準備。"
+          }
+        }
+      ],
+      "synonyms": [
+        "coregonus",
+        "lake herring",
+        "tech firm"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "cisco systems",
+        "cisco routers",
+        "cisco certification",
+        "cisco academy",
+        "cisco ios"
+      ]
     },
     {
       "id": "B2-591-005",
@@ -120,23 +287,68 @@
       "word": "ordering",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "orderings"
+        "plural": "orderings",
+        "past": "ordered",
+        "past_participle": "ordered",
+        "ing": "ordering",
+        "present_3rd": "orders"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "ordering",
-          "definition": "n. 有序化, [計] 定序; 排序"
+          "definition": "n. 排序；定序；訂貨 v. 命令；訂購（order 的現在分詞）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The system maintains alphabetical ordering by default.",
+          "highlight": [
+            "ordering"
+          ],
+          "translations": {
+            "zh-TW": "系統預設按字母順序排列。"
+          }
+        },
+        {
+          "en": "Patients have been ordering prescriptions online for years.",
+          "highlight": [
+            "ordering"
+          ],
+          "translations": {
+            "zh-TW": "病人們線上訂購處方藥已多年。"
+          }
+        },
+        {
+          "en": "Staff will order lunch from the new caterer tomorrow.",
+          "highlight": [
+            "order"
+          ],
+          "translations": {
+            "zh-TW": "員工明天會向新餐廳訂購午餐。"
+          }
+        }
+      ],
+      "synonyms": [
+        "sequencing",
+        "sorting",
+        "arranging"
+      ],
+      "antonyms": [
+        "shuffling"
+      ],
+      "phrases": [
+        "alphabetical ordering",
+        "ordering system",
+        "ordering process",
+        "partial ordering",
+        "online ordering"
+      ]
     },
     {
       "id": "B2-591-006",
@@ -147,23 +359,68 @@
       "word": "kept",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "kepts"
+        "past": "kept",
+        "past_participle": "kept",
+        "ing": "keeping",
+        "present_3rd": "keeps"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "kept",
-          "definition": "keep的過去式和過去分词"
+          "definition": "v. 保持；保留；存放；履行（keep 的過去式與過去分詞）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "She kept the family heirloom in a safe for decades.",
+          "highlight": [
+            "kept"
+          ],
+          "translations": {
+            "zh-TW": "她把家族傳家寶保存在保險箱裡數十年。"
+          }
+        },
+        {
+          "en": "Archivists have been keeping historical records secure.",
+          "highlight": [
+            "keeping"
+          ],
+          "translations": {
+            "zh-TW": "檔案管理員一直妥善保存歷史文獻。"
+          }
+        },
+        {
+          "en": "Librarians will keep rare scrolls in climate-controlled cases.",
+          "highlight": [
+            "keep"
+          ],
+          "translations": {
+            "zh-TW": "圖書館員會把稀有卷軸存放在恆溫恆濕的展示櫃中。"
+          }
+        }
+      ],
+      "synonyms": [
+        "retained",
+        "preserved",
+        "maintained"
+      ],
+      "antonyms": [
+        "discarded",
+        "lost"
+      ],
+      "phrases": [
+        "kept quiet",
+        "kept on",
+        "kept records",
+        "kept promise",
+        "kept secret",
+        "well kept"
+      ]
     },
     {
       "id": "B2-591-007",
@@ -174,7 +431,8 @@
       "word": "alpha",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "adjective"
       ],
       "conjugations": {
         "plural": "alphas"
@@ -184,13 +442,54 @@
         {
           "lang": "zh-TW",
           "lang_word": "alpha",
-          "definition": "n. 希腊字母表的第一個字母, 最初, 开端, [醫] α(希腊文的第一個字母), 甲種"
+          "definition": "n. 希臘字母表的第一個字母 α；最初；開端 a. 最初的；主導的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Testers downloaded the new alpha version last Friday.",
+          "highlight": [
+            "alpha"
+          ],
+          "translations": {
+            "zh-TW": "測試員上週五下載了新的 alpha 測試版本。"
+          }
+        },
+        {
+          "en": "Biologists have been observing the alpha male in the wolf pack.",
+          "highlight": [
+            "alpha"
+          ],
+          "translations": {
+            "zh-TW": "生物學家一直在觀察狼群中的首領雄狼。"
+          }
+        },
+        {
+          "en": "Engineers will run an alpha test on the prototype next month.",
+          "highlight": [
+            "alpha"
+          ],
+          "translations": {
+            "zh-TW": "工程師下個月將對原型機進行 alpha 測試。"
+          }
+        }
+      ],
+      "synonyms": [
+        "beginning",
+        "first",
+        "leader"
+      ],
+      "antonyms": [
+        "omega",
+        "last"
+      ],
+      "phrases": [
+        "alpha version",
+        "alpha male",
+        "alpha dog",
+        "alpha radiation",
+        "alpha test"
+      ]
     },
     {
       "id": "B2-591-008",
@@ -201,23 +500,66 @@
       "word": "bookmark",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "bookmarks"
+        "plural": "bookmarks",
+        "past": "bookmarked",
+        "past_participle": "bookmarked",
+        "ing": "bookmarking",
+        "present_3rd": "bookmarks"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bookmark",
-          "definition": "n. 書签, [計] 書签"
+          "definition": "n. 書籤；我的最愛；儲存的連結 v. 書籤；收藏"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The researcher added a new bookmark to the thesis folder last night.",
+          "highlight": [
+            "bookmark"
+          ],
+          "translations": {
+            "zh-TW": "研究員昨晚為論文集新增了一個書籤。"
+          }
+        },
+        {
+          "en": "The browser has been bookmarking frequently visited sites for me.",
+          "highlight": [
+            "bookmarking"
+          ],
+          "translations": {
+            "zh-TW": "瀏覽器一直自動為我收藏常去的網站。"
+          }
+        },
+        {
+          "en": "Students will bookmark the recommended reading list this week.",
+          "highlight": [
+            "bookmark"
+          ],
+          "translations": {
+            "zh-TW": "學生們本週會把推薦閱讀清單加入書籤。"
+          }
+        }
+      ],
+      "synonyms": [
+        "favorite",
+        "marker",
+        "saved link"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "bookmark folder",
+        "add bookmark",
+        "bookmark bar",
+        "bookmark manager",
+        "delete bookmark"
+      ]
     },
     {
       "id": "B2-591-009",
@@ -231,20 +573,58 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "buildingses"
+        "plural": "buildings"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "buildings",
-          "definition": "n. 建筑物（building的复数）"
+          "definition": "n. 建築物；樓房（building 的複數形式）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Several historic buildings were restored last autumn.",
+          "highlight": [
+            "buildings"
+          ],
+          "translations": {
+            "zh-TW": "幾棟歷史建築去年秋天完成了修復。"
+          }
+        },
+        {
+          "en": "The district has been constructing green buildings for a decade.",
+          "highlight": [
+            "buildings"
+          ],
+          "translations": {
+            "zh-TW": "該區興建綠建築已十年。"
+          }
+        },
+        {
+          "en": "Inspectors will examine downtown office buildings next spring.",
+          "highlight": [
+            "buildings"
+          ],
+          "translations": {
+            "zh-TW": "檢查員明年春天將勘查市中心的辦公大樓。"
+          }
+        }
+      ],
+      "synonyms": [
+        "structures",
+        "premises",
+        "edifices"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "tall buildings",
+        "office buildings",
+        "historic buildings",
+        "residential buildings",
+        "green buildings"
+      ]
     },
     {
       "id": "B2-591-010",
@@ -258,21 +638,60 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "specialses"
+        "plural": "specials"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "specials",
-          "definition": "n. 特殊的人或事；特刊；降價（special的复数形式）"
+          "definition": "n. 特價品；特餐；特刊；特別節目（special 的複數形式）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Several daily specials sold out before noon last Thursday.",
+          "highlight": [
+            "specials"
+          ],
+          "translations": {
+            "zh-TW": "幾道本日特餐上週四中午前就賣完了。"
+          }
+        },
+        {
+          "en": "The chef has been preparing weekly specials for the menu.",
+          "highlight": [
+            "specials"
+          ],
+          "translations": {
+            "zh-TW": "主廚每週都會為菜單準備主廚特餐。"
+          }
+        },
+        {
+          "en": "TV channels will air holiday specials throughout December.",
+          "highlight": [
+            "specials"
+          ],
+          "translations": {
+            "zh-TW": "電視頻道十二月將播出多檔假期特別節目。"
+          }
+        }
+      ],
+      "synonyms": [
+        "promotions",
+        "discounts",
+        "features"
+      ],
+      "antonyms": [
+        "regulars"
+      ],
+      "phrases": [
+        "daily specials",
+        "tv specials",
+        "holiday specials",
+        "restaurant specials",
+        "chef specials"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
