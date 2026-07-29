@@ -2,6 +2,7 @@
   "level": 610,
   "tier": "advanced",
   "cefr": "C1",
+  "toeic_score_min": 880,
   "words": [
     {
       "id": "C1-610-001",
@@ -10,7 +11,7 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "setup",
-      "phonetic": "",
+      "phonetic": "ˈsɛtʌp",
       "pos": [
         "noun"
       ],
@@ -22,13 +23,52 @@
         {
           "lang": "zh-TW",
           "lang_word": "setup",
-          "definition": "n. 裝備, 組织, 計劃, 機構, 調整, 設置, [計] 設置"
+          "definition": "n. 設置；裝備；機構；安排"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The setup of the new printer took only ten minutes.",
+          "highlight": [
+            "setup"
+          ],
+          "translations": {
+            "zh-TW": "新印表機的設置只花了十分鐘。"
+          }
+        },
+        {
+          "en": "These home theater setups deliver stunning surround sound.",
+          "highlight": [
+            "setups"
+          ],
+          "translations": {
+            "zh-TW": "這些家庭劇院配置能呈現令人驚豔的環繞音效。"
+          }
+        },
+        {
+          "en": "A proper setup ensures smooth operation from day one.",
+          "highlight": [
+            "setup"
+          ],
+          "translations": {
+            "zh-TW": "正確的設置確保從第一天起就能順利運作。"
+          }
+        }
+      ],
+      "synonyms": [
+        "arrangement",
+        "configuration",
+        "installation"
+      ],
+      "antonyms": [
+        "dismantle"
+      ],
+      "phrases": [
+        "setup wizard",
+        "setup file",
+        "initial setup",
+        "setup cost"
+      ]
     },
     {
       "id": "C1-610-002",
@@ -37,25 +77,68 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "booking",
-      "phonetic": "",
+      "phonetic": "ˈbʊkɪŋ",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "bookings"
+        "present_3rd": "books",
+        "past": "booked",
+        "past_participle": "booked",
+        "ing": "booking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "booking",
-          "definition": "n. 預約演出合同, [機] 書型模法"
+          "definition": "n. 預約；訂位；預訂 v. 預訂（book 的現在分詞）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Online booking is available for all hotel rooms.",
+          "highlight": [
+            "booking"
+          ],
+          "translations": {
+            "zh-TW": "所有飯店客房均可線上預訂。"
+          }
+        },
+        {
+          "en": "She booked a flight to Singapore for next Tuesday.",
+          "highlight": [
+            "booked"
+          ],
+          "translations": {
+            "zh-TW": "她預訂了下週二飛往新加坡的航班。"
+          }
+        },
+        {
+          "en": "Advance booking is required for groups of ten or more.",
+          "highlight": [
+            "booking"
+          ],
+          "translations": {
+            "zh-TW": "十人以上團體需事先預約。"
+          }
+        }
+      ],
+      "synonyms": [
+        "reservation",
+        "appointment",
+        "engagement"
+      ],
+      "antonyms": [
+        "cancellation"
+      ],
+      "phrases": [
+        "booking system",
+        "booking confirmation",
+        "advance booking",
+        "online booking"
+      ]
     },
     {
       "id": "C1-610-003",
@@ -64,7 +147,7 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "glossary",
-      "phonetic": "",
+      "phonetic": "ˈɡlɒsərɪ",
       "pos": [
         "noun"
       ],
@@ -76,13 +159,50 @@
         {
           "lang": "zh-TW",
           "lang_word": "glossary",
-          "definition": "n. 專業词典, 術語集, 词表, [計] 圖文集"
+          "definition": "n. 詞彙表；術語表；專業詞典"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The textbook includes a glossary of technical terms at the back.",
+          "highlight": [
+            "glossary"
+          ],
+          "translations": {
+            "zh-TW": "教科書後面附有技術名詞詞彙表。"
+          }
+        },
+        {
+          "en": "Specialized glossaries help translators ensure consistency.",
+          "highlight": [
+            "glossaries"
+          ],
+          "translations": {
+            "zh-TW": "專業詞彙表幫助翻譯人員確保一致性。"
+          }
+        },
+        {
+          "en": "A comprehensive glossary defines every acronym used in the manual.",
+          "highlight": [
+            "glossary"
+          ],
+          "translations": {
+            "zh-TW": "詳盡的詞彙表定義了手冊中使用的每個縮寫。"
+          }
+        }
+      ],
+      "synonyms": [
+        "lexicon",
+        "dictionary",
+        "vocabulary"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "glossary of terms",
+        "technical glossary",
+        "comprehensive glossary",
+        "glossary entry"
+      ]
     },
     {
       "id": "C1-610-004",
@@ -91,25 +211,67 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "styles",
-      "phonetic": "",
+      "phonetic": "staɪlz",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "styleses"
+        "plural": "styles",
+        "present_3rd": "styles",
+        "past": "styled",
+        "past_participle": "styled",
+        "ing": "styling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "styles",
-          "definition": "n. 風格；樣式；模式（style的复数形式）"
+          "definition": "n. 風格；樣式；模式 v. 設計；造型（style 的複數與第三人稱單數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Different management styles suit different company cultures.",
+          "highlight": [
+            "styles"
+          ],
+          "translations": {
+            "zh-TW": "不同的管理風格適合不同的企業文化。"
+          }
+        },
+        {
+          "en": "The interior designer styled the room in a minimalist aesthetic.",
+          "highlight": [
+            "styled"
+          ],
+          "translations": {
+            "zh-TW": "室內設計師以極簡美學為房間造型。"
+          }
+        },
+        {
+          "en": "Writing styles vary greatly between academic and journalistic prose.",
+          "highlight": [
+            "styles"
+          ],
+          "translations": {
+            "zh-TW": "學術散文與新聞文的寫作風格差異極大。"
+          }
+        }
+      ],
+      "synonyms": [
+        "fashions",
+        "modes",
+        "designs"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "citing styles",
+        "hair styles",
+        "styles of",
+        "writing styles"
+      ]
     },
     {
       "id": "C1-610-005",
@@ -118,25 +280,60 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "denver",
-      "phonetic": "",
+      "phonetic": "ˈdɛnvə",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "denvers"
       },
-      "domain": "general",
+      "domain": "geography",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "denver",
-          "definition": "n. 丹佛(美國城市)"
+          "definition": "n. 丹佛（美國科羅拉多州首府）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "denver is nicknamed the Mile High City for its elevation.",
+          "highlight": [
+            "denver"
+          ],
+          "translations": {
+            "zh-TW": "丹佛因其海拔而被稱為一英里高城。"
+          }
+        },
+        {
+          "en": "Thousands of skiers pass through denver each winter season.",
+          "highlight": [
+            "denver"
+          ],
+          "translations": {
+            "zh-TW": "每年冬季成千上萬的滑雪者經過丹佛。"
+          }
+        },
+        {
+          "en": "The tech industry in denver has grown rapidly over the past decade.",
+          "highlight": [
+            "denver"
+          ],
+          "translations": {
+            "zh-TW": "丹佛的科技產業在過去十年快速成長。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Mile High City"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "denver international airport",
+        "denver colorado",
+        "denver broncos",
+        "denver downtown"
+      ]
     },
     {
       "id": "C1-610-006",
@@ -145,25 +342,61 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "unix",
-      "phonetic": "",
+      "phonetic": "ˈjuːnɪks",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "unixs"
+        "plural": "unixes"
       },
-      "domain": "general",
+      "domain": "computing",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "unix",
-          "definition": "UNIX操作系统, [計] 多用戶分時操作系统"
+          "definition": "n. Unix 作業系統（多用戶分時作業系統）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Many servers run unix due to its stability and security.",
+          "highlight": [
+            "unix"
+          ],
+          "translations": {
+            "zh-TW": "許多伺服器運行 Unix，因其穩定性與安全性。"
+          }
+        },
+        {
+          "en": "Learning unix commands is essential for system administrators.",
+          "highlight": [
+            "unix"
+          ],
+          "translations": {
+            "zh-TW": "學習 Unix 指令對系統管理員至關重要。"
+          }
+        },
+        {
+          "en": "The unix philosophy emphasizes small, modular tools.",
+          "highlight": [
+            "unix"
+          ],
+          "translations": {
+            "zh-TW": "Unix 哲學強調小型、模組化的工具。"
+          }
+        }
+      ],
+      "synonyms": [
+        "POSIX",
+        "Linux"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "unix system",
+        "unix command",
+        "unix shell",
+        "unix server"
+      ]
     },
     {
       "id": "C1-610-007",
@@ -172,25 +405,69 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "filled",
-      "phonetic": "",
+      "phonetic": "fɪld",
       "pos": [
-        "noun"
+        "verb",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "filleds"
+        "present_3rd": "fills",
+        "past": "filled",
+        "past_participle": "filled",
+        "ing": "filling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "filled",
-          "definition": "a. 加滿的；裝滿的；滿的"
+          "definition": "v. 充滿；填滿；裝滿（fill 的過去式與過去分詞） adj. 滿的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The stadium filled with cheering fans before kickoff.",
+          "highlight": [
+            "filled"
+          ],
+          "translations": {
+            "zh-TW": "體育場在開賽前擠滿了歡呼的球迷。"
+          }
+        },
+        {
+          "en": "She fills the kettle every morning for her coffee.",
+          "highlight": [
+            "fills"
+          ],
+          "translations": {
+            "zh-TW": "她每天早上為咖啡壺注滿水。"
+          }
+        },
+        {
+          "en": "The auditorium was filled to capacity for the graduation ceremony.",
+          "highlight": [
+            "filled"
+          ],
+          "translations": {
+            "zh-TW": "禮堂在畢業典禮時座無虛席。"
+          }
+        }
+      ],
+      "synonyms": [
+        "loaded",
+        "stuffed",
+        "packed"
+      ],
+      "antonyms": [
+        "emptied",
+        "vacant"
+      ],
+      "phrases": [
+        "filled with",
+        "filled position",
+        "filled to capacity",
+        "gas filled"
+      ]
     },
     {
       "id": "C1-610-008",
@@ -199,25 +476,69 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "channels",
-      "phonetic": "",
+      "phonetic": "ˈtʃænəlz",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "channelses"
+        "plural": "channels",
+        "present_3rd": "channels",
+        "past": "channeled",
+        "past_participle": "channeled",
+        "ing": "channeling"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "channels",
-          "definition": "n. 通道；水槽；隧道；頻道；录音声道（channel的复数形式）"
+          "definition": "n. 頻道；通道；管道 v. 引導；傳輸（channel 的複數與第三人稱單數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The company uses multiple channels to reach its customers.",
+          "highlight": [
+            "channels"
+          ],
+          "translations": {
+            "zh-TW": "該公司透過多個管道接觸顧客。"
+          }
+        },
+        {
+          "en": "The engineer channeled water through a narrow pipe.",
+          "highlight": [
+            "channeled"
+          ],
+          "translations": {
+            "zh-TW": "工程師將水引導穿過一條窄管。"
+          }
+        },
+        {
+          "en": "Satellite channels broadcast in dozens of languages worldwide.",
+          "highlight": [
+            "channels"
+          ],
+          "translations": {
+            "zh-TW": "衛星頻道以全球數十種語言播出。"
+          }
+        }
+      ],
+      "synonyms": [
+        "conduits",
+        "routes",
+        "pathways"
+      ],
+      "antonyms": [
+        "blockages"
+      ],
+      "phrases": [
+        "distribution channels",
+        "communication channels",
+        "satellite channels",
+        "marketing channels"
+      ]
     },
     {
       "id": "C1-610-009",
@@ -226,25 +547,61 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "ericsson",
-      "phonetic": "",
+      "phonetic": "ˈɛrɪksən",
       "pos": [
         "noun"
       ],
       "conjugations": {
         "plural": "ericssons"
       },
-      "domain": "general",
+      "domain": "business",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "ericsson",
-          "definition": "n. 爱立信公司"
+          "definition": "n. 愛立信（瑞典電信設備公司）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "ericsson is a leading provider of telecommunications equipment.",
+          "highlight": [
+            "ericsson"
+          ],
+          "translations": {
+            "zh-TW": "愛立信是電信設備的領先供應商。"
+          }
+        },
+        {
+          "en": "The partnership between ericsson and local carriers expanded coverage.",
+          "highlight": [
+            "ericsson"
+          ],
+          "translations": {
+            "zh-TW": "愛立信與當地電信業者的合作擴大了覆蓋範圍。"
+          }
+        },
+        {
+          "en": "ericsson has pioneered 5G network technology globally.",
+          "highlight": [
+            "ericsson"
+          ],
+          "translations": {
+            "zh-TW": "愛立信在全球率先推動 5G 網路技術。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Ericsson AB",
+        "Telefonaktiebolaget LM Ericsson"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "ericsson network",
+        "ericsson 5G",
+        "ericsson equipment",
+        "ericsson headquarters"
+      ]
     },
     {
       "id": "C1-610-010",
@@ -253,26 +610,65 @@
       "cefr": "C1",
       "toeic_score_min": 880,
       "word": "blues",
-      "phonetic": "",
+      "phonetic": "bluːz",
       "pos": [
         "noun"
       ],
       "conjugations": {
-        "plural": "blueses"
+        "plural": "blues"
       },
-      "domain": "general",
+      "domain": "music",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "blues",
-          "definition": "n. 勃鲁斯乐曲, (非正式)伤感的, 伤心的, [醫] 忧闷, 沮丧"
+          "definition": "n. 布魯斯音樂；藍調；憂鬱情緒"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Delta blues originated in the Mississippi region in the early 1900s.",
+          "highlight": [
+            "blues"
+          ],
+          "translations": {
+            "zh-TW": "三角洲藍調起源於 1900 年代初的密西西比地區。"
+          }
+        },
+        {
+          "en": "She sang the blues with a soulful, haunting voice.",
+          "highlight": [
+            "blues"
+          ],
+          "translations": {
+            "zh-TW": "她以深情動人的嗓音演唱藍調。"
+          }
+        },
+        {
+          "en": "Cold winters often give people the blues in northern climates.",
+          "highlight": [
+            "blues"
+          ],
+          "translations": {
+            "zh-TW": "寒冷的冬天常讓北方氣候區的人感到沮喪。"
+          }
+        }
+      ],
+      "synonyms": [
+        "jazz",
+        "sorrow",
+        "melancholy"
+      ],
+      "antonyms": [
+        "joy",
+        "elation"
+      ],
+      "phrases": [
+        "delta blues",
+        "sing the blues",
+        "the blues",
+        "blues music"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
