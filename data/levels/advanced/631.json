@@ -2,6 +2,11 @@
   "level": 631,
   "tier": "advanced",
   "cefr": "C1",
+  "_skeleton": {
+    "toeic_score_min": 880,
+    "generated_at": "2026-07-30",
+    "source": "vocab-level-refine"
+  },
   "words": [
     {
       "id": "C1-631-001",
@@ -12,23 +17,65 @@
       "word": "represents",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb"
       ],
       "conjugations": {
-        "plural": "representses"
+        "plural": "represent",
+        "present_3rd": "represents",
+        "past": "represented",
+        "past_participle": "represented",
+        "ing": "representing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "represents",
-          "definition": "v. 表現( represent的第三人稱單数 ); 代表; 体現; 作為…的代表"
+          "definition": "v. 代表；表示（第三人稱單數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The lawyer represents the client in court.",
+          "highlight": [
+            "represents"
+          ],
+          "translations": {
+            "zh-TW": "律師在法庭上代表委託人。"
+          }
+        },
+        {
+          "en": "She represented her country at the conference.",
+          "highlight": [
+            "represented"
+          ],
+          "translations": {
+            "zh-TW": "她在會議上代表她的國家。"
+          }
+        },
+        {
+          "en": "He is representing the firm during the negotiation.",
+          "highlight": [
+            "representing"
+          ],
+          "translations": {
+            "zh-TW": "他在談判期間代表公司。"
+          }
+        }
+      ],
+      "synonyms": [
+        "embodies",
+        "stands for"
+      ],
+      "antonyms": [
+        "opposes"
+      ],
+      "phrases": [
+        "represents a group",
+        "represents the company",
+        "represents oneself",
+        "represents interests"
+      ]
     },
     {
       "id": "C1-631-002",
@@ -39,23 +86,64 @@
       "word": "char",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "chars"
+        "plural": "chars",
+        "present_3rd": "chars",
+        "past": "charred",
+        "past_participle": "charred",
+        "ing": "charring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "char",
-          "definition": "n. 家庭雜務, 炭, vi. 打雜, 烧焦"
+          "definition": "n. 字元（character 縮寫）；炭；v. 燒焦"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "A char is a single character in programming.",
+          "highlight": [
+            "char"
+          ],
+          "translations": {
+            "zh-TW": "char 是程式設計中的單一字元。"
+          }
+        },
+        {
+          "en": "The fire charred the wood beyond recognition.",
+          "highlight": [
+            "charred"
+          ],
+          "translations": {
+            "zh-TW": "大火將木頭燒焦到無法辨認。"
+          }
+        },
+        {
+          "en": "The grill begins charring the steak nicely.",
+          "highlight": [
+            "charring"
+          ],
+          "translations": {
+            "zh-TW": "烤架開始將牛排烤得焦香。"
+          }
+        }
+      ],
+      "synonyms": [
+        "character",
+        "burn"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "char array",
+        "char pointer",
+        "char grill",
+        "char variable"
+      ]
     },
     {
       "id": "C1-631-003",
@@ -66,23 +154,64 @@
       "word": "indexed",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "indexeds"
+        "plural": "indexed",
+        "present_3rd": "indexes",
+        "past": "indexed",
+        "past_participle": "indexed",
+        "ing": "indexing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "indexed",
-          "definition": "a. 编入索引的；有索引的"
+          "definition": "v. 編索引（過去式／過去分詞）；adj. 已索引的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The database indexed all records for fast lookup.",
+          "highlight": [
+            "indexed"
+          ],
+          "translations": {
+            "zh-TW": "資料庫已為所有記錄編製索引以便快速查找。"
+          }
+        },
+        {
+          "en": "Search engines have indexed billions of web pages.",
+          "highlight": [
+            "indexed"
+          ],
+          "translations": {
+            "zh-TW": "搜尋引擎已索引數十億個網頁。"
+          }
+        },
+        {
+          "en": "Google is indexing new content right now.",
+          "highlight": [
+            "indexing"
+          ],
+          "translations": {
+            "zh-TW": "Google 正在為新內容編製索引。"
+          }
+        }
+      ],
+      "synonyms": [
+        "catalogued",
+        "recorded"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "indexed pages",
+        "indexed search",
+        "indexed database",
+        "indexed color"
+      ]
     },
     {
       "id": "C1-631-004",
@@ -93,7 +222,8 @@
       "word": "pittsburgh",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "proper noun"
       ],
       "conjugations": {
         "plural": "pittsburghs"
@@ -103,13 +233,49 @@
         {
           "lang": "zh-TW",
           "lang_word": "pittsburgh",
-          "definition": "n. 匹兹堡"
+          "definition": "n. 匹茲堡（美國賓州城市）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Pittsburgh is famous for its steel history.",
+          "highlight": [
+            "Pittsburgh"
+          ],
+          "translations": {
+            "zh-TW": "匹茲堡以鋼鐵歷史聞名。"
+          }
+        },
+        {
+          "en": "She moved to Pittsburgh for a new job.",
+          "highlight": [
+            "Pittsburgh"
+          ],
+          "translations": {
+            "zh-TW": "她為了新工作搬到匹茲堡。"
+          }
+        },
+        {
+          "en": "The three rivers meet in downtown Pittsburgh.",
+          "highlight": [
+            "Pittsburgh"
+          ],
+          "translations": {
+            "zh-TW": "三條河流在匹茲堡市中心匯流。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Steel City",
+        "PGH"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Pittsburgh Steelers",
+        "downtown Pittsburgh",
+        "University of Pittsburgh",
+        "Pittsburgh Pirates"
+      ]
     },
     {
       "id": "C1-631-005",
@@ -120,23 +286,66 @@
       "word": "preferred",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "preferreds"
+        "plural": "preferred",
+        "present_3rd": "prefers",
+        "past": "preferred",
+        "past_participle": "preferred",
+        "ing": "preferring"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "preferred",
-          "definition": "a. 首選的, [計] 首選的"
+          "definition": "v. 較喜歡（過去式／過去分詞）；adj. 偏好的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "She preferred tea over coffee in the morning.",
+          "highlight": [
+            "preferred"
+          ],
+          "translations": {
+            "zh-TW": "她早上較喜歡茶而不是咖啡。"
+          }
+        },
+        {
+          "en": "He has preferred the silent study room for years.",
+          "highlight": [
+            "preferred"
+          ],
+          "translations": {
+            "zh-TW": "他多年來都偏好使用安靜的自習室。"
+          }
+        },
+        {
+          "en": "The customer prefers the new design over the old one.",
+          "highlight": [
+            "prefers"
+          ],
+          "translations": {
+            "zh-TW": "顧客較偏好新設計而非舊設計。"
+          }
+        }
+      ],
+      "synonyms": [
+        "favored",
+        "chosen"
+      ],
+      "antonyms": [
+        "disliked"
+      ],
+      "phrases": [
+        "preferred stock",
+        "preferred method",
+        "preferred candidate",
+        "preferred route"
+      ]
     },
     {
       "id": "C1-631-006",
@@ -147,23 +356,66 @@
       "word": "saved",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "saveds"
+        "plural": "saved",
+        "present_3rd": "saves",
+        "past": "saved",
+        "past_participle": "saved",
+        "ing": "saving"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "saved",
-          "definition": "a. 已保存的；获救的"
+          "definition": "v. 儲存；拯救（過去式／過去分詞）；adj. 節省的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "I saved the document before closing the app.",
+          "highlight": [
+            "saved"
+          ],
+          "translations": {
+            "zh-TW": "我在關閉應用程式前儲存了文件。"
+          }
+        },
+        {
+          "en": "The lifeguard has saved many swimmers this summer.",
+          "highlight": [
+            "saved"
+          ],
+          "translations": {
+            "zh-TW": "救生員今年夏天已拯救了許多泳客。"
+          }
+        },
+        {
+          "en": "She is saving money for a new laptop.",
+          "highlight": [
+            "saving"
+          ],
+          "translations": {
+            "zh-TW": "她正在存錢買新筆電。"
+          }
+        }
+      ],
+      "synonyms": [
+        "rescued",
+        "stored"
+      ],
+      "antonyms": [
+        "wasted"
+      ],
+      "phrases": [
+        "saved files",
+        "saved by",
+        "saved data",
+        "time saved"
+      ]
     },
     {
       "id": "C1-631-007",
@@ -174,23 +426,66 @@
       "word": "paying",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "payings"
+        "plural": "payings",
+        "present_3rd": "pays",
+        "past": "paid",
+        "past_participle": "paid",
+        "ing": "paying"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "paying",
-          "definition": "a. 支付的, 付款的, 有利的, 赢利的, 合算的, [經] 支付"
+          "definition": "v. 付款；支付（現在分詞）；adj. 有利可圖的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "She is paying the bill at the restaurant.",
+          "highlight": [
+            "paying"
+          ],
+          "translations": {
+            "zh-TW": "她正在餐廳結帳。"
+          }
+        },
+        {
+          "en": "He paid the invoice within thirty days.",
+          "highlight": [
+            "paid"
+          ],
+          "translations": {
+            "zh-TW": "他在三十天內付清了發票款項。"
+          }
+        },
+        {
+          "en": "The company pays its employees monthly.",
+          "highlight": [
+            "pays"
+          ],
+          "translations": {
+            "zh-TW": "該公司每月付薪水給員工。"
+          }
+        }
+      ],
+      "synonyms": [
+        "compensating",
+        "remunerating"
+      ],
+      "antonyms": [
+        "receiving"
+      ],
+      "phrases": [
+        "paying attention",
+        "paying customers",
+        "paying off",
+        "bill paying"
+      ]
     },
     {
       "id": "C1-631-008",
@@ -204,20 +499,56 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "shotses"
+        "plural": "shots"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "shots",
-          "definition": "n. 炮弹；射击；射手（shot的复数）"
+          "definition": "n. 射擊；照片；疫苗（複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "They took several shots of the mountain landscape.",
+          "highlight": [
+            "shots"
+          ],
+          "translations": {
+            "zh-TW": "他們拍了幾張山景照片。"
+          }
+        },
+        {
+          "en": "The photographer captured rare shots at the wedding.",
+          "highlight": [
+            "shots"
+          ],
+          "translations": {
+            "zh-TW": "攝影師在婚禮上捕捉到罕見的鏡頭。"
+          }
+        },
+        {
+          "en": "All adults should get annual flu shots.",
+          "highlight": [
+            "shots"
+          ],
+          "translations": {
+            "zh-TW": "所有成人都應每年接種流感疫苗。"
+          }
+        }
+      ],
+      "synonyms": [
+        "photos",
+        "injections"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "flu shots",
+        "camera shots",
+        "long shots",
+        "screen shots"
+      ]
     },
     {
       "id": "C1-631-009",
@@ -228,7 +559,8 @@
       "word": "moore",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "proper noun"
       ],
       "conjugations": {
         "plural": "moores"
@@ -238,13 +570,48 @@
         {
           "lang": "zh-TW",
           "lang_word": "moore",
-          "definition": "n. 摩尔（男子名）"
+          "definition": "n. 摩爾（姓氏／男子名）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Mr. Moore will join the board next month.",
+          "highlight": [
+            "Moore"
+          ],
+          "translations": {
+            "zh-TW": "摩爾先生下個月將加入董事會。"
+          }
+        },
+        {
+          "en": "Have you seen the latest Moore film?",
+          "highlight": [
+            "Moore"
+          ],
+          "translations": {
+            "zh-TW": "你看過摩爾最新的電影嗎？"
+          }
+        },
+        {
+          "en": "Dr. Moore's research on semiconductors is well known.",
+          "highlight": [
+            "Moore"
+          ],
+          "translations": {
+            "zh-TW": "摩爾博士對半導體的研究廣為人知。"
+          }
+        }
+      ],
+      "synonyms": [
+        "More"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Moore's Law",
+        "Gordon Moore",
+        "Moore's research",
+        "Mr. Moore"
+      ]
     },
     {
       "id": "C1-631-010",
@@ -255,24 +622,66 @@
       "word": "granted",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "granteds"
+        "plural": "granted",
+        "present_3rd": "grants",
+        "past": "granted",
+        "past_participle": "granted",
+        "ing": "granting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "granted",
-          "definition": "adv. 算是如此, 但是"
+          "definition": "v. 授予；承認（過去式／過去分詞）；conj. 即使"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The committee granted her request for funding.",
+          "highlight": [
+            "granted"
+          ],
+          "translations": {
+            "zh-TW": "委員會批准了她的撥款請求。"
+          }
+        },
+        {
+          "en": "The king has granted him lands for loyalty.",
+          "highlight": [
+            "granted"
+          ],
+          "translations": {
+            "zh-TW": "國王因他的忠誠而授予土地。"
+          }
+        },
+        {
+          "en": "The foundation is granting scholarships this year.",
+          "highlight": [
+            "granting"
+          ],
+          "translations": {
+            "zh-TW": "該基金會今年頒發獎學金。"
+          }
+        }
+      ],
+      "synonyms": [
+        "awarded",
+        "given"
+      ],
+      "antonyms": [
+        "denied"
+      ],
+      "phrases": [
+        "granted permission",
+        "granted rights",
+        "take granted",
+        "granted leave"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }

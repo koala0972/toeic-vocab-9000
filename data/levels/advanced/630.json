@@ -2,6 +2,11 @@
   "level": 630,
   "tier": "advanced",
   "cefr": "C1",
+  "_skeleton": {
+    "toeic_score_min": 880,
+    "generated_at": "2026-07-30",
+    "source": "vocab-level-refine"
+  },
   "words": [
     {
       "id": "C1-630-001",
@@ -15,20 +20,56 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "bodieses"
+        "plural": "bodies"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "bodies",
-          "definition": "n. （文章、文件等的）正文；（人或動物的）身体；主体部分（body的复数）"
+          "definition": "n. 身體；機構；天體（複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Several celestial bodies orbit our sun.",
+          "highlight": [
+            "bodies"
+          ],
+          "translations": {
+            "zh-TW": "幾個天體繞著我們的太陽運行。"
+          }
+        },
+        {
+          "en": "Governing bodies regulate professional standards.",
+          "highlight": [
+            "bodies"
+          ],
+          "translations": {
+            "zh-TW": "管理機構規範專業標準。"
+          }
+        },
+        {
+          "en": "Police found two unidentified bodies in the lake.",
+          "highlight": [
+            "bodies"
+          ],
+          "translations": {
+            "zh-TW": "警方在湖中發現兩具身分不明的遺體。"
+          }
+        }
+      ],
+      "synonyms": [
+        "organizations",
+        "entities"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "governing bodies",
+        "heavenly bodies",
+        "student bodies",
+        "foreign bodies"
+      ]
     },
     {
       "id": "C1-630-002",
@@ -39,23 +80,64 @@
       "word": "photographs",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "photographses"
+        "plural": "photographs",
+        "present_3rd": "photographs",
+        "past": "photographed",
+        "past_participle": "photographed",
+        "ing": "photographing"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "photographs",
-          "definition": "n. 照片；逼真的描绘（photograph的复数）"
+          "definition": "n. 照片（複數）；v. 拍攝（第三人稱單數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "These photographs capture rare wildlife moments.",
+          "highlight": [
+            "photographs"
+          ],
+          "translations": {
+            "zh-TW": "這些照片捕捉到罕見的野生動物時刻。"
+          }
+        },
+        {
+          "en": "She photographed the mountain range at sunrise.",
+          "highlight": [
+            "photographed"
+          ],
+          "translations": {
+            "zh-TW": "她在日出時拍攝了山脈。"
+          }
+        },
+        {
+          "en": "He is photographing nature scenery for his portfolio.",
+          "highlight": [
+            "photographing"
+          ],
+          "translations": {
+            "zh-TW": "他正在拍攝自然風景以累積作品集。"
+          }
+        }
+      ],
+      "synonyms": [
+        "pictures",
+        "images"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "take photographs",
+        "vintage photographs",
+        "wedding photographs",
+        "archival photographs"
+      ]
     },
     {
       "id": "C1-630-003",
@@ -66,23 +148,67 @@
       "word": "cutting",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb",
+        "noun",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "cuttings"
+        "plural": "cuttings",
+        "present_3rd": "cuts",
+        "past": "cut",
+        "past_participle": "cut",
+        "ing": "cutting"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "cutting",
-          "definition": "n. 切断, 切下, 路堑, [化] 切屑"
+          "definition": "v. 切割（現在分詞）；n. 插枝；adj. 鋒利的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The chef is cutting vegetables for the soup.",
+          "highlight": [
+            "cutting"
+          ],
+          "translations": {
+            "zh-TW": "廚師正在切蔬菜煮湯。"
+          }
+        },
+        {
+          "en": "She cut the ribbon at the opening ceremony.",
+          "highlight": [
+            "cut"
+          ],
+          "translations": {
+            "zh-TW": "她在開幕典禮上剪綵。"
+          }
+        },
+        {
+          "en": "Precision tools cut steel with amazing accuracy.",
+          "highlight": [
+            "cut"
+          ],
+          "translations": {
+            "zh-TW": "精密工具以驚人的精度切割鋼鐵。"
+          }
+        }
+      ],
+      "synonyms": [
+        "slicing",
+        "incisive"
+      ],
+      "antonyms": [
+        "joining"
+      ],
+      "phrases": [
+        "cutting edge",
+        "cutting tools",
+        "cutting remarks",
+        "cutting board"
+      ]
     },
     {
       "id": "C1-630-004",
@@ -93,7 +219,8 @@
       "word": "simon",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "proper noun"
       ],
       "conjugations": {
         "plural": "simons"
@@ -106,10 +233,45 @@
           "definition": "n. 西蒙（男子名）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Simon will chair the committee meeting.",
+          "highlight": [
+            "Simon"
+          ],
+          "translations": {
+            "zh-TW": "西蒙將主持委員會會議。"
+          }
+        },
+        {
+          "en": "Have you informed Simon about the policy change?",
+          "highlight": [
+            "Simon"
+          ],
+          "translations": {
+            "zh-TW": "你告訴西蒙政策變更了嗎？"
+          }
+        },
+        {
+          "en": "I sat next to Simon at the conference.",
+          "highlight": [
+            "Simon"
+          ],
+          "translations": {
+            "zh-TW": "在會議上我坐在西蒙旁邊。"
+          }
+        }
+      ],
+      "synonyms": [
+        "Simeon"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "Simon Says",
+        "Simon's office",
+        "Simple Simon",
+        "dear Simon"
+      ]
     },
     {
       "id": "C1-630-005",
@@ -123,20 +285,58 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "writerses"
+        "plural": "writers"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "writers",
-          "definition": "n. 作家；作者（writer的复数）"
+          "definition": "n. 作家；撰稿者（複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "Famous writers gathered at the literary festival.",
+          "highlight": [
+            "writers"
+          ],
+          "translations": {
+            "zh-TW": "著名作家齊聚文學節。"
+          }
+        },
+        {
+          "en": "Several freelance writers contribute to this magazine.",
+          "highlight": [
+            "writers"
+          ],
+          "translations": {
+            "zh-TW": "幾位自由撰稿作家為這本雜誌供稿。"
+          }
+        },
+        {
+          "en": "Talented writers produce articles under tight deadlines.",
+          "highlight": [
+            "writers"
+          ],
+          "translations": {
+            "zh-TW": "才華洋溢的作家在嚴格的截稿期限下撰寫文章。"
+          }
+        }
+      ],
+      "synonyms": [
+        "authors",
+        "scribes"
+      ],
+      "antonyms": [
+        "readers"
+      ],
+      "phrases": [
+        "staff writers",
+        "freelance writers",
+        "screen writers",
+        "guest writers"
+      ]
     },
     {
       "id": "C1-630-006",
@@ -147,23 +347,66 @@
       "word": "marks",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "markses"
+        "plural": "marks",
+        "present_3rd": "marks",
+        "past": "marked",
+        "past_participle": "marked",
+        "ing": "marking"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "marks",
-          "definition": "n. 標記, 記號；唛頭, 分数；台面標志"
+          "definition": "n. 標記；分數（複數）；v. 標記（第三人稱單數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "The teacher marks each test carefully.",
+          "highlight": [
+            "marks"
+          ],
+          "translations": {
+            "zh-TW": "老師仔細評閱每份試卷。"
+          }
+        },
+        {
+          "en": "Quotation marks indicate dialogue in text.",
+          "highlight": [
+            "marks"
+          ],
+          "translations": {
+            "zh-TW": "引號在文字中表示對話。"
+          }
+        },
+        {
+          "en": "The teacher marked the homework papers overnight.",
+          "highlight": [
+            "marked"
+          ],
+          "translations": {
+            "zh-TW": "老師連夜批改了作業。"
+          }
+        }
+      ],
+      "synonyms": [
+        "grades",
+        "indicators"
+      ],
+      "antonyms": [
+        "erases"
+      ],
+      "phrases": [
+        "quotation marks",
+        "trade marks",
+        "question marks",
+        "track marks"
+      ]
     },
     {
       "id": "C1-630-007",
@@ -174,23 +417,66 @@
       "word": "loved",
       "phonetic": "",
       "pos": [
-        "noun"
+        "verb",
+        "adjective"
       ],
       "conjugations": {
-        "plural": "loveds"
+        "plural": "loved",
+        "present_3rd": "loves",
+        "past": "loved",
+        "past_participle": "loved",
+        "ing": "loving"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "loved",
-          "definition": "v. 热爱（love的過去分词）"
+          "definition": "v. 愛（過去式／過去分詞）；adj. 被愛的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "She loved classical music since childhood.",
+          "highlight": [
+            "loved"
+          ],
+          "translations": {
+            "zh-TW": "她從小就喜愛古典音樂。"
+          }
+        },
+        {
+          "en": "He is loved by all who know him.",
+          "highlight": [
+            "loved"
+          ],
+          "translations": {
+            "zh-TW": "所有認識他的人都愛他。"
+          }
+        },
+        {
+          "en": "They are loving their new home in the suburbs.",
+          "highlight": [
+            "loving"
+          ],
+          "translations": {
+            "zh-TW": "他們非常喜愛郊區的新家。"
+          }
+        }
+      ],
+      "synonyms": [
+        "adored",
+        "cherished"
+      ],
+      "antonyms": [
+        "hated"
+      ],
+      "phrases": [
+        "loved ones",
+        "much loved",
+        "beloved",
+        "well-loved"
+      ]
     },
     {
       "id": "C1-630-008",
@@ -204,20 +490,56 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "favouriteses"
+        "plural": "favourites"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "favourites",
-          "definition": "n. 特别喜爱的人（或物）( favourite的复数形式 ); 竞赛中被認為會获胜的馬、竞争者等"
+          "definition": "n. 最喜愛的事物；收藏（複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "You can save favourites on your browser.",
+          "highlight": [
+            "favourites"
+          ],
+          "translations": {
+            "zh-TW": "你可以在瀏覽器中儲存收藏項目。"
+          }
+        },
+        {
+          "en": "These are my favourites among many options.",
+          "highlight": [
+            "favourites"
+          ],
+          "translations": {
+            "zh-TW": "這些是許多選項中我的最愛。"
+          }
+        },
+        {
+          "en": "The list of favourites includes several classic books.",
+          "highlight": [
+            "favourites"
+          ],
+          "translations": {
+            "zh-TW": "收藏清單包含幾本經典書籍。"
+          }
+        }
+      ],
+      "synonyms": [
+        "favorites",
+        "preferences"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "add to favourites",
+        "personal favourites",
+        "favourites list",
+        "family favourites"
+      ]
     },
     {
       "id": "C1-630-009",
@@ -228,23 +550,64 @@
       "word": "mapping",
       "phonetic": "",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
       "conjugations": {
-        "plural": "mappings"
+        "plural": "mappings",
+        "present_3rd": "maps",
+        "past": "mapped",
+        "past_participle": "mapped",
+        "ing": "mapping"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mapping",
-          "definition": "[計] 映射; 变换; 映象, [化] 測绘; 绘圖"
+          "definition": "n. 對映；地圖繪製；v. 對映（現在分詞）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "The software is mapping the network's structure.",
+          "highlight": [
+            "mapping"
+          ],
+          "translations": {
+            "zh-TW": "軟體正在對映網路的結構。"
+          }
+        },
+        {
+          "en": "They mapped the ocean floor over six months.",
+          "highlight": [
+            "mapped"
+          ],
+          "translations": {
+            "zh-TW": "他們花了六個月繪製海底地圖。"
+          }
+        },
+        {
+          "en": "The app maps locations in real time.",
+          "highlight": [
+            "maps"
+          ],
+          "translations": {
+            "zh-TW": "這個應用程式即時對映位置。"
+          }
+        }
+      ],
+      "synonyms": [
+        "charting",
+        "corresponding"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "data mapping",
+        "genetic mapping",
+        "mind mapping",
+        "process mapping"
+      ]
     },
     {
       "id": "C1-630-010",
@@ -258,21 +621,56 @@
         "noun"
       ],
       "conjugations": {
-        "plural": "birdses"
+        "plural": "birds"
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "birds",
-          "definition": "n. 鸟类；禽（bird的复数）"
+          "definition": "n. 鳥類（複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
+      "examples": [
+        {
+          "en": "Migrating birds fly south for the winter.",
+          "highlight": [
+            "birds"
+          ],
+          "translations": {
+            "zh-TW": "候鳥在冬季往南飛。"
+          }
+        },
+        {
+          "en": "Many birds build nests in the spring.",
+          "highlight": [
+            "birds"
+          ],
+          "translations": {
+            "zh-TW": "許多鳥類在春天築巢。"
+          }
+        },
+        {
+          "en": "Colorful birds attracted tourists to the sanctuary.",
+          "highlight": [
+            "birds"
+          ],
+          "translations": {
+            "zh-TW": "色彩繽紛的鳥類吸引遊客到保護區。"
+          }
+        }
+      ],
+      "synonyms": [
+        "fowls",
+        "avian"
+      ],
       "antonyms": [],
-      "phrases": []
+      "phrases": [
+        "migrating birds",
+        "song birds",
+        "game birds",
+        "birds of prey"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
