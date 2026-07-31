@@ -12,23 +12,69 @@
       "word": "mint",
       "phonetic": "",
       "pos": [
-        "noun"
+        "n.",
+        "v."
       ],
       "conjugations": {
-        "plural": "mints"
+        "plural": "mints",
+        "present_3rd": "mints",
+        "past": "minted",
+        "past_participle": "minted",
+        "ing": "minting",
+        "comparative": "",
+        "superlative": ""
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "mint",
-          "definition": "n. 薄荷, 造币廠, 巨額, vt. 铸造, 铸币, 制造"
+          "definition": "n. 薄荷；造幣廠；巨額；v. 鑄造；製造"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "the central bank minted a commemorative coin last summer.",
+          "highlight": [
+            "minted"
+          ],
+          "translations": {
+            "zh-TW": "央行去年夏天鑄造了一枚紀念幣。"
+          }
+        },
+        {
+          "en": "the adviser is minting fresh equity options for recruits this week.",
+          "highlight": [
+            "minting"
+          ],
+          "translations": {
+            "zh-TW": "顧問本週正為新人製作全新的股權選擇權。"
+          }
+        },
+        {
+          "en": "the confectionery flavored the chocolates with fresh mint for the launch.",
+          "highlight": [
+            "mint"
+          ],
+          "translations": {
+            "zh-TW": "糖果廠為這次發表以新鮮薄荷為巧克力調味。"
+          }
+        }
+      ],
+      "synonyms": [
+        "herb",
+        "coin",
+        "fortune"
+      ],
+      "antonyms": [
+        "rubble"
+      ],
+      "phrases": [
+        "mint condition",
+        "mint a coin",
+        "mint tea",
+        "candy mint"
+      ]
     },
     {
       "id": "C2-703-002",
@@ -39,23 +85,58 @@
       "word": "offset",
       "phonetic": "",
       "pos": [
-        "noun"
+        "n.",
+        "v."
       ],
       "conjugations": {
-        "plural": "offsets"
+        "plural": "offsets",
+        "present_3rd": "offsets",
+        "past": "offset",
+        "past_participle": "offset",
+        "ing": "offsetting",
+        "comparative": "",
+        "superlative": ""
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "offset",
-          "definition": "n. 抵消, 把...并列, 旁系, 支管, 用胶印法印, vt. 弥补, 抵消, 胶印, vi. 裝支管, n. 偏移量, [計] 偏移量"
+          "definition": "n. 抵銷；偏移量；旁系；v. 彌補；抵消；[計] 偏移量"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "the publisher offset printing errors by manual corrections last week.",
+          "highlight": [
+            "offset"
+          ],
+          "translations": {
+            "zh-TW": "出版商上週以人工更正抵銷了印刷錯誤。"
+          }
+        },
+        {
+          "en": "the treasury is offsetting import duties with new export rebates now.",
+          "highlight": [
+            "offsetting"
+          ],
+          "translations": {
+            "zh-TW": "國庫現在正以新的出口退稅抵消進口關稅。"
+          }
+        },
+        {
+          "en": "the team has calculated the page offset for the new edition.",
+          "highlight": [
+            "offset"
+          ],
+          "translations": {
+            "zh-TW": "該團隊已為新版本計算頁面偏移量。"
+          }
+        }
+      ],
+      "synonyms": ["compensation", "counterbalance"],
+      "antonyms": ["cause", "addition"],
+      "phrases": ["offset printing", "offset losses", "budget offset", "tax offset"]
     },
     {
       "id": "C2-703-003",
@@ -66,23 +147,67 @@
       "word": "payday",
       "phonetic": "",
       "pos": [
-        "noun"
+        "n."
       ],
       "conjugations": {
-        "plural": "paydaies"
+        "plural": "paydays",
+        "present_3rd": "",
+        "past": "",
+        "past_participle": "",
+        "ing": "",
+        "comparative": "",
+        "superlative": ""
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "payday",
-          "definition": "n. 發薪日, 發工资日, 交割日, 過戶結帐日, [法] 發薪日"
+          "definition": "n. 發薪日；交割日；[法] 發薪日"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "the union negotiated earlier payday schedules last contract.",
+          "highlight": [
+            "payday"
+          ],
+          "translations": {
+            "zh-TW": "工會在上個合約協商了較早的發薪日時程。"
+          }
+        },
+        {
+          "en": "the clerk is processing payday bonuses for top performers this morning.",
+          "highlight": [
+            "payday"
+          ],
+          "translations": {
+            "zh-TW": "書記今天早上正在為績優員工處理發薪日的獎金。"
+          }
+        },
+        {
+          "en": "the lender has offered short-term payday loans since 2009.",
+          "highlight": [
+            "payday"
+          ],
+          "translations": {
+            "zh-TW": "放款人自2009年以來一直提供短期發薪日貸款。"
+          }
+        }
+      ],
+      "synonyms": [
+        "salary day",
+        "pay date"
+      ],
+      "antonyms": [
+        "due date"
+      ],
+      "phrases": [
+        "monthly payday",
+        "payday loan",
+        "next payday",
+        "payday bonus"
+      ]
     },
     {
       "id": "C2-703-004",
@@ -93,23 +218,67 @@
       "word": "philip",
       "phonetic": "",
       "pos": [
-        "noun"
+        "n."
       ],
       "conjugations": {
-        "plural": "philips"
+        "plural": "philips",
+        "present_3rd": "",
+        "past": "",
+        "past_participle": "",
+        "ing": "",
+        "comparative": "",
+        "superlative": ""
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "philip",
-          "definition": "n. 菲利普（男子名）"
+          "definition": "n. 菲利普（男子名；意為愛馬之人）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "the partnership admitted philip as senior counsel last year.",
+          "highlight": [
+            "philip"
+          ],
+          "translations": {
+            "zh-TW": "合夥公司去年接納菲利普為資深顧問。"
+          }
+        },
+        {
+          "en": "the client is awaiting philip's call about the audit findings this afternoon.",
+          "highlight": [
+            "philip"
+          ],
+          "translations": {
+            "zh-TW": "客戶今天下午正在等待菲利普來電說明稽核結果。"
+          }
+        },
+        {
+          "en": "the board has appointed philip to lead the emerging-markets desk.",
+          "highlight": [
+            "philip"
+          ],
+          "translations": {
+            "zh-TW": "董事會已任命菲利普領導新興市場團隊。"
+          }
+        }
+      ],
+      "synonyms": [
+        "phil",
+        "philippe"
+      ],
+      "antonyms": [
+        "noname"
+      ],
+      "phrases": [
+        "prince philip",
+        "philip glass",
+        "philip roth",
+        "philip k dick"
+      ]
     },
     {
       "id": "C2-703-005",
@@ -120,23 +289,68 @@
       "word": "holders",
       "phonetic": "",
       "pos": [
-        "noun"
+        "n."
       ],
       "conjugations": {
-        "plural": "holderses"
+        "plural": "holders",
+        "present_3rd": "",
+        "past": "",
+        "past_participle": "",
+        "ing": "",
+        "comparative": "",
+        "superlative": ""
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "holders",
-          "definition": "n. 持有人（holder的复数）"
+          "definition": "n. 持有人；支持物（holder 的複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "the insurer contacted policy holders about the premium hike last week.",
+          "highlight": [
+            "holders"
+          ],
+          "translations": {
+            "zh-TW": "保險公司上週聯繫保單持有人關於保費調漲事宜。"
+          }
+        },
+        {
+          "en": "the exchange is notifying bond holders of the redemption window this morning.",
+          "highlight": [
+            "holders"
+          ],
+          "translations": {
+            "zh-TW": "交易所今天早上正在通知債券持有人貽回窗口。"
+          }
+        },
+        {
+          "en": "the patent holder has filed suit against three infringers.",
+          "highlight": [
+            "holder"
+          ],
+          "translations": {
+            "zh-TW": "專利持有人已對三名侵權者提起訴訟。"
+          }
+        }
+      ],
+      "synonyms": [
+        "owners",
+        "bearers",
+        "retainers"
+      ],
+      "antonyms": [
+        "issuers"
+      ],
+      "phrases": [
+        "bond holders",
+        "card holders",
+        "share holders",
+        "policy holders"
+      ]
     },
     {
       "id": "C2-703-006",
@@ -147,23 +361,68 @@
       "word": "believes",
       "phonetic": "",
       "pos": [
-        "noun"
+        "v."
       ],
       "conjugations": {
-        "plural": "believeses"
+        "plural": "",
+        "present_3rd": "believes",
+        "past": "believed",
+        "past_participle": "believed",
+        "ing": "believing",
+        "comparative": "",
+        "superlative": ""
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "believes",
-          "definition": "v. 信仰；相信；認為（believe的三單形式）"
+          "definition": "v. 相信；認為；信仰（believe 的第三人稱單數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "the analyst believed the stock was undervalued last quarter.",
+          "highlight": [
+            "believed"
+          ],
+          "translations": {
+            "zh-TW": "分析師上季度認為該股票被低估。"
+          }
+        },
+        {
+          "en": "the manager is believing the audit will clear the discrepancies now.",
+          "highlight": [
+            "believing"
+          ],
+          "translations": {
+            "zh-TW": "經理現在相信稽核會釐清差異。"
+          }
+        },
+        {
+          "en": "the company believes the redesign will lift sales by next year.",
+          "highlight": [
+            "believes"
+          ],
+          "translations": {
+            "zh-TW": "公司相信重新設計能在明年之前提升銷售。"
+          }
+        }
+      ],
+      "synonyms": [
+        "thinks",
+        "reckons"
+      ],
+      "antonyms": [
+        "doubts",
+        "disbelieves"
+      ],
+      "phrases": [
+        "firmly believes",
+        "believes in",
+        "believes that",
+        "seldom believes"
+      ]
     },
     {
       "id": "C2-703-007",
@@ -174,23 +433,68 @@
       "word": "swedish",
       "phonetic": "",
       "pos": [
-        "noun"
+        "n.",
+        "a."
       ],
       "conjugations": {
-        "plural": "swedishs"
+        "plural": "swedish",
+        "present_3rd": "",
+        "past": "",
+        "past_participle": "",
+        "ing": "",
+        "comparative": "",
+        "superlative": ""
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "swedish",
-          "definition": "n. 瑞典人, 瑞典語, a. 瑞典的, 瑞典人的, 瑞典語的"
+          "definition": "n. 瑞典人；瑞典語；a. 瑞典的；瑞典人的；瑞典語的"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "the firm hired a swedish interpreter for the stockholm talks last month.",
+          "highlight": [
+            "swedish"
+          ],
+          "translations": {
+            "zh-TW": "公司上個月為斯德哥爾摩會談聘請了一位瑞典語口譯員。"
+          }
+        },
+        {
+          "en": "the chef is preparing a swedish buffet for the gala this evening.",
+          "highlight": [
+            "swedish"
+          ],
+          "translations": {
+            "zh-TW": "主廚今晚正在為晚宴準備瑞典式自助餐。"
+          }
+        },
+        {
+          "en": "the institute has offered swedish language courses since 2012.",
+          "highlight": [
+            "swedish"
+          ],
+          "translations": {
+            "zh-TW": "該學院自2012年起開設瑞典語課程。"
+          }
+        }
+      ],
+      "synonyms": [
+        "nordic",
+        "scandinavian"
+      ],
+      "antonyms": [
+        "non-nordic"
+      ],
+      "phrases": [
+        "swedish meatballs",
+        "swedish language",
+        "swedish krona",
+        "swedish design"
+      ]
     },
     {
       "id": "C2-703-008",
@@ -201,23 +505,68 @@
       "word": "poems",
       "phonetic": "",
       "pos": [
-        "noun"
+        "n."
       ],
       "conjugations": {
-        "plural": "poemses"
+        "plural": "poems",
+        "present_3rd": "",
+        "past": "",
+        "past_participle": "",
+        "ing": "",
+        "comparative": "",
+        "superlative": ""
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "poems",
-          "definition": "n. 诗歌, 诗集（poem复数形式）"
+          "definition": "n. 詩；詩集（poem 的複數）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "the author published two poems in the literary review last winter.",
+          "highlight": [
+            "poems"
+          ],
+          "translations": {
+            "zh-TW": "作者去年冬天在文學評論上發表了兩首詩。"
+          }
+        },
+        {
+          "en": "the teacher is reading poems aloud to the kindergarten class this morning.",
+          "highlight": [
+            "poems"
+          ],
+          "translations": {
+            "zh-TW": "老師今天早上正為幼兒園班級朗讀詩歌。"
+          }
+        },
+        {
+          "en": "the magazine has commissioned poems from young writers each spring.",
+          "highlight": [
+            "poem"
+          ],
+          "translations": {
+            "zh-TW": "該雜誌每年春天向年輕作家徵詩。"
+          }
+        }
+      ],
+      "synonyms": [
+        "verses",
+        "lyrics",
+        "odes"
+      ],
+      "antonyms": [
+        "prose"
+      ],
+      "phrases": [
+        "read poems",
+        "love poems",
+        "compose poems",
+        "wrote poems"
+      ]
     },
     {
       "id": "C2-703-009",
@@ -228,23 +577,69 @@
       "word": "displaying",
       "phonetic": "",
       "pos": [
-        "noun"
+        "v."
       ],
       "conjugations": {
-        "plural": "displayings"
+        "plural": "",
+        "present_3rd": "displays",
+        "past": "displayed",
+        "past_participle": "displayed",
+        "ing": "displaying",
+        "comparative": "",
+        "superlative": ""
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "displaying",
-          "definition": "v. 展出；使展現；顯示（display的現在分词形式）"
+          "definition": "v. 展示；顯示；使展現（display 的現在分詞）"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "the shop displayed the new collection in the front window last weekend.",
+          "highlight": [
+            "displayed"
+          ],
+          "translations": {
+            "zh-TW": "店家上週末在新櫥窗展示了新系列商品。"
+          }
+        },
+        {
+          "en": "the gallery is displaying contemporary art in the annex this afternoon.",
+          "highlight": [
+            "displaying"
+          ],
+          "translations": {
+            "zh-TW": "畫廊今天下午正在側廳展示當代藝術。"
+          }
+        },
+        {
+          "en": "the scoreboard has displayed the updated standings after every match.",
+          "highlight": [
+            "displayed"
+          ],
+          "translations": {
+            "zh-TW": "計分板在每場比賽後都會顯示更新後的排名。"
+          }
+        }
+      ],
+      "synonyms": [
+        "showing",
+        "exhibiting",
+        "presenting"
+      ],
+      "antonyms": [
+        "hiding",
+        "concealing"
+      ],
+      "phrases": [
+        "displaying data",
+        "displaying information",
+        "displaying art",
+        "displaying symptoms"
+      ]
     },
     {
       "id": "C2-703-010",
@@ -255,24 +650,67 @@
       "word": "collins",
       "phonetic": "",
       "pos": [
-        "noun"
+        "n."
       ],
       "conjugations": {
-        "plural": "collinses"
+        "plural": "collinses",
+        "present_3rd": "",
+        "past": "",
+        "past_participle": "",
+        "ing": "",
+        "comparative": "",
+        "superlative": ""
       },
       "domain": "general",
       "translations": [
         {
           "lang": "zh-TW",
           "lang_word": "collins",
-          "definition": "n. 柯林斯酒"
+          "definition": "n. 柯林斯酒（以琴酒為基底的雞尾酒）；男子姓氏"
         }
       ],
-      "examples": [],
-      "synonyms": [],
-      "antonyms": [],
-      "phrases": []
+      "examples": [
+        {
+          "en": "the bar refreshed the menu with a new collins cocktail last friday.",
+          "highlight": [
+            "collins"
+          ],
+          "translations": {
+            "zh-TW": "酒吧上週五以新的柯林斯雞尾酒更新了菜單。"
+          }
+        },
+        {
+          "en": "the sommelier is pouring a collins to pair with the seafood course now.",
+          "highlight": [
+            "collins"
+          ],
+          "translations": {
+            "zh-TW": "侍酒師現在正在調製一杯柯林斯來搭配海鮮菜餚。"
+          }
+        },
+        {
+          "en": "the firm has recruited collins to lead its new task force.",
+          "highlight": [
+            "collins"
+          ],
+          "translations": {
+            "zh-TW": "該公司已招募柯林斯領導新專案小組。"
+          }
+        }
+      ],
+      "synonyms": [
+        "cocktail",
+        "surname"
+      ],
+      "antonyms": [
+        "noname"
+      ],
+      "phrases": [
+        "tom collins",
+        "collins glass",
+        "michael collins",
+        "joan collins"
+      ]
     }
-  ],
-  "_skeleton": true
+  ]
 }
